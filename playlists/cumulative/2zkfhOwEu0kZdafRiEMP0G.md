@@ -4,7 +4,7 @@
 
 > 
 
-75 songs - 5 hr 12 min
+76 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Santa Fe](https://open.spotify.com/track/6aWJOPC5gpjTpRiyvrFOQm) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk) | 3:12 | 2025-10-11 |  |
 | [Satellite](https://open.spotify.com/track/5kXsUxYZbRJ58plUgjQp3r) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 3:59 | 2025-08-11 |  |
 | [Satisfied](https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0) | [Renée Elise Goldsberry](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 5:29 | 2025-10-17 |  |
+| [Say No to This](https://open.spotify.com/track/3s9itRgJYcKhem01P17865) | [Jasmine Cephas\-Jones](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF), [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Sydney James Harcourt](https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 4:02 | 2026-01-30 |  |
 | [Shivers](https://open.spotify.com/track/5oT96Jkv0FhwcBDtVfFaGL) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [The Acoustic EP Vol\. 5](https://open.spotify.com/album/2Ic6pPjNXycJWiE2gHrSnI) | 3:30 | 2025-10-11 | 2025-12-28 |
 | [Sincerely Me \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/7Fuj7RyGJYSJ7HgO5E2tJv) | [Colton Ryan](https://open.spotify.com/artist/4e9ML6IDGbv8W09mMlStKc), [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Nik Dodani](https://open.spotify.com/artist/6H6kEm6c01DA6idz9cV34a) | [Dear Evan Hansen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yURloAyqmXCjQ1rmX0ltA) | 3:37 | 2026-01-27 |  |
 | [Something To Believe In](https://open.spotify.com/track/4kin4clo4ALSnwb33SYsdE) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Kara Lindsay](https://open.spotify.com/artist/4wwo2P1bzRnLwJwjHrbZnv) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2eeKB2KD7VwbWtcovqLzpS) | 3:31 | 2025-11-05 |  |

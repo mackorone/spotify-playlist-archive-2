@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Tutto è possibile è qua, Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,166 likes - 74 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,162 likes - 74 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

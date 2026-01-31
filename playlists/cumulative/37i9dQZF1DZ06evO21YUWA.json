@@ -2606,7 +2606,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 286066,
       "name": "The Room of Oracles",
       "url": "https://open.spotify.com/track/78kfLtZmw3zOExDDdf060i"
@@ -2632,6 +2632,24 @@
       "duration_ms": 211253,
       "name": "The Silver Ball - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/2FA6ZLzJ2f5ZhX1qzoGfWA"
+    },
+    {
+      "album": {
+        "name": "I Know This Much Is True (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/4ttO0PJTuNrFLklwzRKPO0"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202550,
+      "name": "The Twins",
+      "url": "https://open.spotify.com/track/47RWsoF3FM9NPzyHPjlyth"
     },
     {
       "album": {

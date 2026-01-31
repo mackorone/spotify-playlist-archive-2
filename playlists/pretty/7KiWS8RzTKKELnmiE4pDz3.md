@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 483 songs - 1 day 4 hr 49 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 484 songs - 1 day 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -491,5 +491,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 481 | [She Neva Seen](https://open.spotify.com/track/6B6CyOTrIzhRbT39QQSd60) | [Mac Dre](https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH) | [The Genie Of The Lamp](https://open.spotify.com/album/6ApNrGRDjrm0qzQfQHbTOg) | 4:01 |
 | 482 | [Relax Ya Mind](https://open.spotify.com/track/1dhN2eqowk5LSAKk8GW7S5) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Reel Tight](https://open.spotify.com/artist/3PeB6KzaIJW8NnVlU2OcmW) | [Take A Look Over Your Shoulder \(Reality\)](https://open.spotify.com/album/1dtEMJ2YoZtw6vPkUnqMK1) | 3:29 |
 | 483 | [Spotlight \(feat\. Killa Kyleon\)](https://open.spotify.com/track/6rjq9q1mJQRJinUyt4Z0tx) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Killa Kyleon](https://open.spotify.com/artist/0uzlfGNw35ha8bszBDhKy7) | [Kush & Orange Juice](https://open.spotify.com/album/7aqnaqbRYSb6UU2RZo55fT) | 4:12 |
+| 484 | [Gotta Be Me](https://open.spotify.com/track/3hFn8DVuqyvz6c8PR8M5nY) | [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi) | [Gotta Be Me](https://open.spotify.com/album/3azrffqHWJSnl0xtyZZhRD) | 4:12 |
 
-Snapshot ID: `AAAfrPZpOzkY2+cOFGaBNpxU3gBb0SGM`
+Snapshot ID: `AAAfrRWFDDs7wlHdamhvUqHthSBB27Kt`

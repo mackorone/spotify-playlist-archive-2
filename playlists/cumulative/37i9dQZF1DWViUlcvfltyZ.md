@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 Lovvbömbing! in cover
 
-1,838 songs - 4 day 6 hr 15 min
+1,838 songs - 4 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1506,6 +1506,7 @@
 | [Sogni Pericolosi](https://open.spotify.com/track/3r6f5dKgupWHB4iYGiQ4Br) | [Bye Bye Cachi](https://open.spotify.com/artist/6ilXF2GwzTo8WuWXemn4bL) | [Sogni Pericolosi](https://open.spotify.com/album/2BabWmkvrLl0TK6uFrM4Lu) | 3:13 | 2025-05-15 | 2025-06-20 |
 | [Sole zingaro](https://open.spotify.com/track/3qUB1vQkBzjOjxpsaKhc4e) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Sole zingaro](https://open.spotify.com/album/75SuDeRZKCBNGKLED5VTs3) | 2:59 | 2025-04-24 | 2025-06-27 |
 | [Soleluna](https://open.spotify.com/track/3QKJc63ThuCSjVGNiqSLB0) | [Turbetto](https://open.spotify.com/artist/5RMf5E5n45iyMgwo8uQQyA) | [Conigli](https://open.spotify.com/album/0U1OUp04dC2pOBdTxPFHeb) | 3:02 | 2023-05-11 | 2023-06-15 |
+| [Some Days](https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh), [Fenne Kuppens](https://open.spotify.com/artist/60iEGApcgcq0nTdHVFptU3) | [Dream Life](https://open.spotify.com/album/39X15SMr1uG8aCugIqiHpM) | 4:17 | 2026-01-29 |  |
 | [Something](https://open.spotify.com/track/55yNugNfKkXvF4EaGmdnCX) | [Giungla](https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r) | [Distractions](https://open.spotify.com/album/1SKYFKGSCY6uiVT4hPi55y) | 3:00 | 2024-10-31 | 2025-03-12 |
 | [Something Is Not Right](https://open.spotify.com/track/3hivAsteiv2WRxrKYftutV) | [MILANOSPORT](https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl) | [Something Is Not Right](https://open.spotify.com/album/5btnTuoNpS1zzeEKegid1g) | 3:14 | 2023-05-04 | 2023-07-28 |
 | [Son of the Rambling Dawn](https://open.spotify.com/track/5ff4r3TKIiDmrSu1yrSqRo) | [Mondaze](https://open.spotify.com/artist/1sNQryemRjTyTlxrKYZcSJ) | [Son of the Rambling Dawn](https://open.spotify.com/album/5KXNsOwsHSbaNe8ZJTTeNW) | 3:38 | 2024-10-17 | 2025-02-14 |
@@ -1663,7 +1664,6 @@
 | [Tra chi fugge e chi resta](https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Tra chi fugge e chi resta](https://open.spotify.com/album/6hm4YB2ZEfO02LFQX1rx31) | 2:56 | 2022-05-09 | 2022-06-10 |
 | [TRACCIA](https://open.spotify.com/track/7kYc1qVVzaQU9biiYaMzMY) | [Kalpa](https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9) | [TRACCIA](https://open.spotify.com/album/65vl4mvwYTCSV8QiTpQZrK) | 3:38 | 2023-10-12 | 2023-11-03 |
 | [TRACCIA 0](https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [TRACCIA 0](https://open.spotify.com/album/58p4TduSmi2fRb3YUyaaea) | 2:08 | 2022-11-24 | 2022-12-24 |
-| [Track 9](https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-29 |  |
 | [traffico](https://open.spotify.com/track/0AW1XiRq7CN6KZtwM51v9q) | [Nostalgia/Futuro](https://open.spotify.com/artist/2EZCeDSNYLij8SVtTsji3n) | [traffico](https://open.spotify.com/album/4DhmacndeoSITFKELZ5JG8) | 3:21 | 2026-01-15 |  |
 | [TRAGEDIA MODERNA](https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [TRAGEDIA MODERNA](https://open.spotify.com/album/2syk13vkvcOaq37g60JGGS) | 2:39 | 2023-01-26 | 2023-05-12 |
 | [Tragedy](https://open.spotify.com/track/2VFEjS42V3FvfLaBTDWKKP) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Tragedy](https://open.spotify.com/album/3qUuPrWf5NjWR29GdcpJnt) | 2:40 | 2025-12-04 |  |

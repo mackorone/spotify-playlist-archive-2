@@ -1,14 +1,14 @@
 [pretty](/playlists/pretty/7fJS0hmCN1MYleLBQDJrqy.md) - cumulative - [plain](/playlists/plain/7fJS0hmCN1MYleLBQDJrqy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7fJS0hmCN1MYleLBQDJrqy)
 
-### [Studentenbangers🍺](https://open.spotify.com/playlist/7fJS0hmCN1MYleLBQDJrqy)
+### [Studentenbangers](https://open.spotify.com/playlist/7fJS0hmCN1MYleLBQDJrqy)
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-101 songs - 4 hr 23 min
+103 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0612345678](https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [0612345678](https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g) | 2:23 | 2025-09-19 |  |
+| [0612345678](https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [0612345678](https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g) | 2:23 | 2025-09-19 | 2026-01-31 |
 | [1 Nacht](https://open.spotify.com/track/2dUJ0xW4XC89CC6gD7mjwi) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Koen](https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:13 | 2025-07-18 |  |
 | [10 Cijfers](https://open.spotify.com/track/7JsKljyU2BgTPrYUJEPJyP) | [Mxxdy](https://open.spotify.com/artist/6xP9NJZcCjv4mbWMbyHQ8s) | [10 Cijfers](https://open.spotify.com/album/4DRKKaTvtteptCDxWighTu) | 4:26 | 2025-07-18 | 2025-11-01 |
 | [2002](https://open.spotify.com/track/0I4Fl88OA6fEKvht1AGqXK) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Katja Schuurman](https://open.spotify.com/artist/0w5pt6lTphDQFLfiPeGzlt) | [2002](https://open.spotify.com/album/4aIE8FauGoNqGCigfExEIG) | 2:34 | 2026-01-09 |  |
@@ -65,6 +65,7 @@
 | [If I tell you](https://open.spotify.com/track/547CS3a05csbbZLDIEkWVS) | [René le Blanc](https://open.spotify.com/artist/44pNYV200BTCAtGuaA8bY8) | [If I tell you](https://open.spotify.com/album/4g3f4iBv0Vus7eOFe9zqu3) | 3:11 | 2025-08-15 |  |
 | [iK bEpAaL](https://open.spotify.com/track/6lmi0bh5sDtotBrxnFisI9) | [Lucky](https://open.spotify.com/artist/1FQPIdgxuXaEIYuCbWjTcF), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [iK bEpAaL](https://open.spotify.com/album/36nq9ytLZx0BiFtf9zRp6U) | 2:58 | 2025-08-08 |  |
 | [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 | 2025-07-18 |  |
+| [In De Olie](https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [In De Olie](https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn) | 2:14 | 2026-01-30 |  |
 | [Industry Plant](https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Industry Plant](https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh) | 2:20 | 2025-07-18 |  |
 | [Jouw Idee](https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 3:20 | 2025-07-18 |  |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2025-07-18 | 2025-09-27 |
@@ -96,6 +97,7 @@
 | [Studie Uit](https://open.spotify.com/track/5sHjRyfeGNwu5f2GV0960x) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Studie Uit](https://open.spotify.com/album/4SwDKB3YuJ1qJyqYLsYiBe) | 2:41 | 2025-07-18 |  |
 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 | 2025-07-18 |  |
 | [Superman](https://open.spotify.com/track/2QEPdAKf9AKhp6W5Atg4D5) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN), [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [Superman](https://open.spotify.com/album/7f8QLkGiCPSRL3asvjOQGO) | 2:12 | 2025-10-24 |  |
+| [Swag](https://open.spotify.com/track/2nBHlYOewYmTU5QioWXBVC) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Swag](https://open.spotify.com/album/6DNviqjktPvGirSvIoe6i4) | 2:31 | 2026-01-30 |  |
 | [Tijdmachine](https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:15 | 2025-07-18 |  |
 | [Uitstelgedrag](https://open.spotify.com/track/6c4OQkxuJkE7bOBIK6fRa0) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Uitstelgedrag](https://open.spotify.com/album/0gWvSIPNEYs1cv6R7aFAzT) | 2:32 | 2025-09-05 |  |
 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2025-07-18 |  |

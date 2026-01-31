@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Luan Pereira, Ana Castela
+> O melhor do sertanejo em uma só playlist! Foto: Felipe e Rodrigo
 
-361 songs - 16 hr 57 min
+362 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Amava Nada \- Ao Vivo](https://open.spotify.com/track/60JP0KEMPE9uOw5NGGfPpW) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Rolê Diferenciado, Temp\. \#3 \(Ao Vivo\)](https://open.spotify.com/album/78SmFsr14MytkxzvCRIAHJ) | 3:05 | 2022-02-11 | 2022-07-30 |
 | [AMBIENTE ERRADO \- Ao Vivo](https://open.spotify.com/track/2nfnhFDhwMet9yZodpGfn3) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [AMBIENTE ERRADO \(Ao Vivo\)](https://open.spotify.com/album/5OyqoxpsEn7XEilamuZcXU) | 2:24 | 2023-08-11 | 2024-07-13 |
 | [AMBIENTE ERRADO \- Ao Vivo](https://open.spotify.com/track/7blC5LzebSn2A64Kn4XXMP) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \(Ao Vivo\)](https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD) | 2:24 | 2023-12-08 | 2024-04-19 |
-| [Amigo Da Minha Saudade \- Ao Vivo](https://open.spotify.com/track/07kLShG3HTeLXTqnFCqNAJ) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 2:30 | 2025-01-10 |  |
+| [Amigo Da Minha Saudade \- Ao Vivo](https://open.spotify.com/track/07kLShG3HTeLXTqnFCqNAJ) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 2:30 | 2025-01-10 | 2026-01-31 |
 | [Amor Não Dá Em Copo \- Ao Vivo](https://open.spotify.com/track/0GTUqRzwAacEI5Pll8YlBA) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Amor Não Dá Em Copo \(Ao Vivo\)](https://open.spotify.com/album/4HPTBpBwOsQl8nyagVIgrl) | 2:49 | 2023-11-17 | 2024-10-04 |
 | [Anestesiado \- Ao Vivo](https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Anestesiado \(Ao Vivo\)](https://open.spotify.com/album/1SzYchODhkUqPcSNR2HKh0) | 2:52 | 2023-12-08 | 2024-08-16 |
 | [Apaga Apaga Apaga \- Ao Vivo](https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Toma Essa Verdade \(Ao Vivo\)](https://open.spotify.com/album/6vour1AXVo2RNRspJQjQoV) | 2:58 | 2025-04-04 |  |
@@ -64,6 +64,7 @@
 | [CACO DE GENTE \- Ao Vivo](https://open.spotify.com/track/6saU47oJ8952GeNfpbpl7d) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [ESOTÉRICO \(Ao Vivo\)](https://open.spotify.com/album/1VR7zwpshHJ5CdlTo1TORp) | 3:14 | 2025-02-26 | 2025-04-05 |
 | [Cadeira Amarela \- Ao Vivo](https://open.spotify.com/track/7j5IUWdULEj2lFx0NApMyw) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [NATORA 10 ANOS \(Ao Vivo\)](https://open.spotify.com/album/0fwejSaIPGhFi0grEtdrX0) | 2:22 | 2026-01-09 |  |
 | [Calafrio \(feat\. Henrique & Juliano\) \- Ao Vivo \| Bônus Track](https://open.spotify.com/track/2pRjaIcGc9LOmu7x9XMswA) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Sem Contra\-Indicação \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi) | 3:12 | 2023-11-10 | 2024-08-03 |
+| [Calcinha de Renda \- Ao Vivo](https://open.spotify.com/track/332rqteO5O475UV5zgSKPQ) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Fora do Padrão Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/2ePhRW37XiA1Fog7YsDZB4) | 3:19 | 2026-01-30 |  |
 | [Calculista](https://open.spotify.com/track/3tEaSuDA0eWnIF8ari2Xly) | [Dom Vittor & Gustavo](https://open.spotify.com/artist/36CiwS6BaZffBHzjJL8y6N), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Calculista](https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy) | 2:38 | 2021-12-31 | 2022-05-20 |
 | [Cama e Coração](https://open.spotify.com/track/4jHrB8ZcGoFbSMVq2FXzmk) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Feito À Mão Vol\. 01](https://open.spotify.com/album/40jGnqAXzR8Bta84lEI5mc) | 3:41 | 2026-01-23 |  |
 | [Camisola e Fio \- Ao Vivo](https://open.spotify.com/track/3wBaigHNAAsg2MnXIfNRSu) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Camisola e Fio \(Ao Vivo\)](https://open.spotify.com/album/03j75YwOH5gakK4JE1Aeh1) | 3:00 | 2025-06-27 | 2025-10-01 |

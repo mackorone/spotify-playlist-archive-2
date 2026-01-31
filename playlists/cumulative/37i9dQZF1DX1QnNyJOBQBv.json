@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "1+1",
+        "url": "https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186047,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
+    },
+    {
+      "album": {
         "name": "1000COSAS",
         "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
       },
@@ -2154,6 +2176,28 @@
       "duration_ms": 168159,
       "name": "Bora Bora",
       "url": "https://open.spotify.com/track/0w49NuhCUPdJpzE3ClojSa"
+    },
+    {
+      "album": {
+        "name": "Botecito",
+        "url": "https://open.spotify.com/album/7HHY5Rr3nTYhQrmXBt1uTH"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Botecito",
+      "url": "https://open.spotify.com/track/5nhB1ijVzD2PKCkPAHP8Qy"
     },
     {
       "album": {
@@ -6056,7 +6100,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 184716,
       "name": "GIMME MORE",
       "url": "https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ"
@@ -8548,7 +8592,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 172800,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ"
@@ -10262,6 +10306,24 @@
       "duration_ms": 166483,
       "name": "Ni Feliz Ni Triste",
       "url": "https://open.spotify.com/track/7gVjCWszGK1EsGaqpfGlZX"
+    },
+    {
+      "album": {
+        "name": "Nsqk - Spotify Sessions",
+        "url": "https://open.spotify.com/album/20eVKdTYyAfrnevyqPNrqL"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170670,
+      "name": "No Basta Con Querernos M\u00e1s - Spotify Sessions (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/75k7sXf2eclJPy7pU1XRka"
     },
     {
       "album": {
@@ -11997,6 +12059,28 @@
     },
     {
       "album": {
+        "name": "Poema",
+        "url": "https://open.spotify.com/album/4ZMo7m59UfGiOOn7O7l0ED"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194018,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/0R4jt27SnKZ4Z4zGHJF36E"
+    },
+    {
+      "album": {
         "name": "Ponme En Tu Boca",
         "url": "https://open.spotify.com/album/6L21tGHxPx7Ms95U4BxBda"
       },
@@ -13324,7 +13408,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 200464,
       "name": "Si quisieras",
       "url": "https://open.spotify.com/track/5Xmi97kZbwHR19OQrBjBrc"
@@ -14603,6 +14687,24 @@
     },
     {
       "album": {
+        "name": "al romper la burbuja 2",
+        "url": "https://open.spotify.com/album/0laGuJ1xeprihqPkexp5PB"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205084,
+      "name": "torpe",
+      "url": "https://open.spotify.com/track/2NCV9stP4wBkIi7QsKcyJG"
+    },
+    {
+      "album": {
         "name": "Tortura",
         "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
       },
@@ -15116,7 +15218,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 159062,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7"

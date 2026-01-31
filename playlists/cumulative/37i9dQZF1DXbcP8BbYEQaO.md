@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-827 songs - 1 day 22 hr 28 min
+828 songs - 1 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Arrow](https://open.spotify.com/track/5ZyFBrGopVIe1W0twXTTsN) | [Fauness](https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip) | [Maiden No More](https://open.spotify.com/album/4dM01pC3MJAYktjOW71XZA) | 4:03 | 2022-03-18 | 2022-04-01 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-16 | 2024-03-30 |
 | [Avalanche](https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Singles](https://open.spotify.com/album/5lk7DCC2cGR6l7VGeF255x) | 3:12 | 2025-11-07 |  |
+| [Away With The Fairies](https://open.spotify.com/track/7avTegY5ObMuQM5N32kPxz) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Away With The Fairies](https://open.spotify.com/album/0jAsC2f7Ek6DtMJbPmmRB3) | 2:28 | 2026-01-30 |  |
 | [AWOOO!](https://open.spotify.com/track/33C1sEVNSwk1P5nTzQ2Wky) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [AWOOO!](https://open.spotify.com/album/6dQgJv3DYQAtE9OmOaEqXl) | 3:41 | 2021-08-29 | 2022-03-18 |
 | [BACKSTABBER](https://open.spotify.com/track/6b0eb25qUlz5M5ogTKZqbI) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BACKSTABBER](https://open.spotify.com/album/0fbtesLIKCnxirweAZDhVs) | 3:12 | 2024-10-25 | 2025-06-14 |
 | [BAD PREMONITION](https://open.spotify.com/track/2vLCGWwDttQOzBFozJh6mU) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/4kR1D6YxzWtVCeAbL6vp7r) | 3:03 | 2022-10-07 | 2022-10-22 |
@@ -742,7 +743,7 @@
 | [Think About U Lots](https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Think About U Lots](https://open.spotify.com/album/6iAhu9llD9clQtdAbc4v6m) | 3:34 | 2025-11-28 |  |
 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 | 2023-06-23 | 2024-03-23 |
 | [Thoughts](https://open.spotify.com/track/2jm0S3dMxpAz5H59z4lOJH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Thoughts](https://open.spotify.com/album/3XFWmmwiJR0i7WnHDvgten) | 3:05 | 2020-10-13\* | 2021-12-04 |
-| [Three Hail Marys](https://open.spotify.com/track/1rU8C0FoUSQBVQLX1gwFH9) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Three Hail Marys](https://open.spotify.com/album/3lkgZzXuQ9FUGU72hNcC7y) | 2:23 | 2025-01-24 |  |
+| [Three Hail Marys](https://open.spotify.com/track/1rU8C0FoUSQBVQLX1gwFH9) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Three Hail Marys](https://open.spotify.com/album/3lkgZzXuQ9FUGU72hNcC7y) | 2:23 | 2025-01-24 | 2026-01-31 |
 | [Thrill of the Night](https://open.spotify.com/track/2PpHVDPumqhwDtnz1cx6bL) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Thrill Of The Night](https://open.spotify.com/album/0UpC6w0g5VZIYt2B0diLMU) | 2:52 | 2025-11-21 |  |
 | [Thrills](https://open.spotify.com/track/4ZuPpjDfdJJa8trx9ww35R) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Thrills](https://open.spotify.com/album/5oEVimRkdi7hSeXfKRkwvV) | 3:19 | 2021-07-04 | 2021-12-04 |
 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/3TTWpDAiJfyoJDd5v2F8C3) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Throwaway \(with Clairo\)](https://open.spotify.com/album/3VZK2BUptZDwTdOlogvFlk) | 3:00 | 2020-10-13\* | 2021-12-04 |

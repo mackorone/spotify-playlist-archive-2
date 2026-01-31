@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Whitelands
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,558 likes - 265 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,561 likes - 265 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Golden Daze](https://open.spotify.com/track/2VU9L06tLFb39gip8TuEbV) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [](https://open.spotify.com/album/null) | 3:07 |
+| 1 | [Golden Daze](https://open.spotify.com/track/2VU9L06tLFb39gip8TuEbV) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Sunlight Echoes](https://open.spotify.com/album/6yVCF80M7T1NZtLIjkVVkU) | 3:07 |
 | 2 | [fall in love with the dj](https://open.spotify.com/track/56ZQHgh0SB0fefzS7BbT2E) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [fall in love with the dj](https://open.spotify.com/album/3JOCWksM1JNapygyn8tQPJ) | 3:00 |
 | 3 | [Barbed Wire](https://open.spotify.com/track/11Ct9tSc2I8JOOx1QVtPZx) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Barbed Wire](https://open.spotify.com/album/1wmIAv2aJG81QhwAEnk9bp) | 3:04 |
 | 4 | [NO MORE](https://open.spotify.com/track/3hGpy57T8V9sq08GpuA0cc) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [SALTY](https://open.spotify.com/album/4w04FX3x2th7nOS77tYdlw) | 2:21 |

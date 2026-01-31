@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Neil Sandilands,<br/>Abel Kraamsaal,<br/>Gian Groenen, Shakira Peach, PC Vermaak en meer!
 
-2,361 songs - 5 day 11 hr 21 min
+2,362 songs - 5 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1484,6 +1484,7 @@
 | [Nikotien](https://open.spotify.com/track/2GhbAsaThgnJQkJJ2NLll7) | [Kristi Steyn](https://open.spotify.com/artist/4KoEmYiPvlvX3qExVzlsqU) | [Nikotien](https://open.spotify.com/album/3V0aS1eLxtRTWXgYDnZ1uT) | 3:58 | 2024-07-04 | 2024-07-12 |
 | [Niks is vir altyd nie](https://open.spotify.com/track/2eRV2FtqAENaiRzZw0KN5t) | [Thabo Krouwkam](https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54), [Megan Lange](https://open.spotify.com/artist/7JWJwQSsbCZGFvBBSJYW5e) | [This is The Medicine](https://open.spotify.com/album/7cquim7ZNp2ydiMMnoq5Jg) | 3:14 | 2025-02-27 | 2025-03-07 |
 | [Niks kan vergelyk](https://open.spotify.com/track/1OAP3LTTEycoVDTRC2ZE5i) | [Jacques & Liezel](https://open.spotify.com/artist/2ze4VL41D2QuhyJcOfDHjo) | [Niks kan vergelyk](https://open.spotify.com/album/39LsO64pEJAFwZTcjp8ffD) | 5:25 | 2023-03-09 | 2023-03-25 |
+| [Niks Meer.](https://open.spotify.com/track/0AZQ1Mxts1Zo7HiS3pk2ex) | [Rikus Van De Vlies](https://open.spotify.com/artist/2Ik58q2nVrcW1GZ9o9m16Q) | [Niks Meer.](https://open.spotify.com/album/4XnueoNkcwR98g8OubiNmP) | 4:10 | 2026-01-30 |  |
 | [Niks Nie](https://open.spotify.com/track/1A046NzhEiaILRVAefVXvh) | [Coenie](https://open.spotify.com/artist/57DecfSx9lmFD6SnFL8Xs0), [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Niks Nie](https://open.spotify.com/album/3rFDa4VyIQwzfh9DA7ui4d) | 3:13 | 2023-10-06 | 2023-10-20 |
 | [Niks Nie \- Dean Gouws Remix](https://open.spotify.com/track/3g7dMYmDRN7YlMC6QLvhor) | [Dean Gouws](https://open.spotify.com/artist/4oE3VLrMyD5JdqyCz0DOYn), [Coenie](https://open.spotify.com/artist/57DecfSx9lmFD6SnFL8Xs0) | [Niks Nie \- Dean Gouws Remix](https://open.spotify.com/album/7KDYeCgWdxrvAODGkJqq5A) | 2:14 | 2024-09-05 | 2024-09-20 |
 | [NIKS OM OOR HUIS TOE TE SKRYF NIE](https://open.spotify.com/track/6rUJ1EiVhylKHZTEeqOV05) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [NIKS OM OOR HUIS TOE TE SKRYF NIE](https://open.spotify.com/album/2wmWlHaZ0TgQ6SkymBEgSK) | 2:58 | 2023-06-22 | 2023-08-25 |
@@ -1696,7 +1697,7 @@
 | [Rebelleer](https://open.spotify.com/track/47neBLQMY5XHd7bLFi4JmM) | [Eldon Flare](https://open.spotify.com/artist/36BQyhX27gILUnRMd5m1jW) | [Rebelleer](https://open.spotify.com/album/0hvPwQ1xLwUfBFQsMk9TfS) | 3:17 | 2025-01-02 | 2025-01-31 |
 | [Rede Vir My Wese](https://open.spotify.com/track/2YjIiF9JiF3Ngf71N1dWUh) | [Jay Morgan](https://open.spotify.com/artist/3eooPm9yfBarJnNNDQyTqy) | [Rede Vir My Wese](https://open.spotify.com/album/28Fu7w5wByvV1eBbpC2ZxP) | 3:07 | 2025-06-19 | 2025-07-04 |
 | [Reg](https://open.spotify.com/track/2QtC6GutRB7JPpG6spfTtS) | [Ariana Venus](https://open.spotify.com/artist/2NxHVU4CsjrwS2MIA0dupe) | [Reg](https://open.spotify.com/album/2zKOyA9xXwtmmrOSuobNbU) | 3:39 | 2025-08-14 | 2025-10-10 |
-| [Reg Om Te Toer](https://open.spotify.com/track/4qLogQ1tvKz57Gd6skyYoP) | [Deon Human](https://open.spotify.com/artist/4YqDKz5lbqNI4NR8RYkGx3) | [Reg Om Te Toer](https://open.spotify.com/album/2hUsYUSyYQh1T81lTIq0e7) | 3:16 | 2025-11-27 |  |
+| [Reg Om Te Toer](https://open.spotify.com/track/4qLogQ1tvKz57Gd6skyYoP) | [Deon Human](https://open.spotify.com/artist/4YqDKz5lbqNI4NR8RYkGx3) | [Reg Om Te Toer](https://open.spotify.com/album/2hUsYUSyYQh1T81lTIq0e7) | 3:16 | 2025-11-27 | 2026-01-31 |
 | [Reguit Dans](https://open.spotify.com/track/4HPGHJkOBek7OVcDinYFdn) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Reguit Dans](https://open.spotify.com/album/0hgVdNCgUf0uFyEqWlMEfA) | 3:03 | 2024-08-08 | 2024-12-06 |
 | [Reik Na Die Sterre \- SENSASIE Remix](https://open.spotify.com/track/3TKQeEZ9XMo34b42W30qPN) | [Gerrie Pretorius](https://open.spotify.com/artist/5uLIqMxUxjQWhWR0cizCHT), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [SENSASIE Remixes](https://open.spotify.com/album/2OuDbimuXJ9yiu9OYYEdct) | 3:33 | 2024-10-03 | 2025-02-28 |
 | [Reis van 'n Musikant](https://open.spotify.com/track/1QpSugTEtYXiUuQGSgQ6wm) | [Stefan Jansen](https://open.spotify.com/artist/1wemQwgdM4yTWWkxjlFFyD), [Piter Wilkens](https://open.spotify.com/artist/1ixdspEGjvhJCKnlP2u2lX) | [Reis van 'n Musikant](https://open.spotify.com/album/6FuMT4oyzDMOjX5o1hmcLW) | 3:22 | 2024-06-20 | 2024-06-29 |

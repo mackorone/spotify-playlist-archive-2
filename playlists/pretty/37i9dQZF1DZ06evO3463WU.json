@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 158100,
+  "num_followers": 158105,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXlRgAAAAAALtMiV0k2oSGmC3wxhJxdy",
+  "snapshot_id": "aXqjAAAAAAChOGzWqCiioB/TcC8Hny9R",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis \u00cddolos, Hoy Mis Amigos!!!",
-        "url": "https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc"
+        "name": "Las Consentidas De Pancho Barraza",
+        "url": "https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ"
       },
       "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 195293,
-      "name": "Hay Amores",
-      "url": "https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa"
+      "duration_ms": 229160,
+      "name": "Y Las Mariposas",
+      "url": "https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W"
     },
     {
       "added_at": null,
@@ -343,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Consentidas De Pancho Barraza",
-        "url": "https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ"
+        "name": "Mis \u00cddolos, Hoy Mis Amigos!!!",
+        "url": "https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc"
       },
       "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 229160,
-      "name": "Y Las Mariposas",
-      "url": "https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W"
+      "duration_ms": 195293,
+      "name": "Hay Amores",
+      "url": "https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa"
     },
     {
       "added_at": null,

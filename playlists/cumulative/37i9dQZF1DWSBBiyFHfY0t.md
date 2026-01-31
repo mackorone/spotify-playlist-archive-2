@@ -4,12 +4,12 @@
 
 > For frolicking joyously, freely and theatrically in this world.
 
-136 songs - 8 hr 37 min
+138 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-03-12 |  |
-| [7 Seconds](https://open.spotify.com/track/0voJyHU8wz6VEkos3L2ohu) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [7 Seconds](https://open.spotify.com/album/6HjTvm0YO6WoZoSRTsS3TR) | 4:12 | 2024-04-18 |  |
+| [7 Seconds](https://open.spotify.com/track/0voJyHU8wz6VEkos3L2ohu) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [7 Seconds](https://open.spotify.com/album/6HjTvm0YO6WoZoSRTsS3TR) | 4:12 | 2024-04-18 | 2026-01-31 |
 | [A55](https://open.spotify.com/track/1959e47Ws10YM8EdJXFxgy) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [A55](https://open.spotify.com/album/07jKEPsJBD1vKfD7j0iAJ1) | 4:09 | 2024-04-18 |  |
 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2024-04-18 |  |
 | [Barely on My Mind](https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:17 | 2024-04-18 | 2026-01-17 |
@@ -29,6 +29,7 @@
 | [Criminal](https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 5:41 | 2024-04-18 | 2025-10-18 |
 | [Crying](https://open.spotify.com/track/7JzOlDVEgVJQPYvfadKGue) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa) | 4:50 | 2024-04-18 |  |
 | [Cupid](https://open.spotify.com/track/3dvvQrTIzBbPh5egjpSs1n) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Love In The 4th Dimension](https://open.spotify.com/album/6A3pxUItYNmraeFxuRsCqs) | 3:43 | 2024-04-18 |  |
+| [Dance The Pain Away](https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Dance The Pain Away](https://open.spotify.com/album/35eHXNu05E1wliIgJ1A0AC) | 3:39 | 2026-01-30 |  |
 | [Dance Your Life Away](https://open.spotify.com/track/3UZRTwoPQhmD1KDqWmSdsy) | [audiobooks](https://open.spotify.com/artist/1YvLqwm8xl6ENUT3KK6XMj) | [Now! \(in a minute\)](https://open.spotify.com/album/26AW8137x0napl2tup8bco) | 4:06 | 2024-04-18 |  |
 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 | 2024-04-18 |  |
 | [Dashboard Mary](https://open.spotify.com/track/7pozVrkNzYLcymGuGDtbIQ) | [Modern Woman](https://open.spotify.com/artist/4OW8KZOncmml2hRSXdhfO9) | [Dashboard Mary](https://open.spotify.com/album/3T3exfwPGiO7bb06AsHBqM) | 4:53 | 2026-01-16 |  |
@@ -109,7 +110,7 @@
 | [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 | 2024-04-18 |  |
 | [Runaway](https://open.spotify.com/track/5HoP4xJdaImnZjP1w3JLs1) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 5:13 | 2024-04-18 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2024-04-18 |  |
-| [Scream Drive Faster](https://open.spotify.com/track/4hEpfRem37hLFT8ldr78Mx) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Scream Drive Faster](https://open.spotify.com/album/0VdiKAfV5WbP64Q3khJAzw) | 4:00 | 2024-04-18 |  |
+| [Scream Drive Faster](https://open.spotify.com/track/4hEpfRem37hLFT8ldr78Mx) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Scream Drive Faster](https://open.spotify.com/album/0VdiKAfV5WbP64Q3khJAzw) | 4:00 | 2024-04-18 | 2026-01-31 |
 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 | 2024-04-18 |  |
 | [Shameika](https://open.spotify.com/track/2pDKE8Q40TDGPl1O11DKKn) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 4:08 | 2024-04-18 | 2025-10-18 |
 | [Shut Up Kiss Me](https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm) | 3:22 | 2024-04-18 |  |
@@ -134,6 +135,7 @@
 | [Tiny Darkness](https://open.spotify.com/track/3gzz583AYyhnAhFjUv6LQY) | [Soda Blonde](https://open.spotify.com/artist/665rcluWn9OCTGowMHNdS3) | [Small Talk](https://open.spotify.com/album/5xx6DEJCnxqqng8mWDXvu6) | 3:30 | 2024-04-18 | 2025-08-22 |
 | [Tired as Fuck](https://open.spotify.com/track/5uYgX0HGL00xwM70VLNUwk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Tired as Fuck / Train Tracks](https://open.spotify.com/album/5EPSLhNRmOuMUHpJxnjqao) | 3:36 | 2024-04-18 | 2025-08-22 |
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2024-04-18 |  |
+| [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-30 |  |
 | [Two Birds](https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Far](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) | 3:15 | 2024-04-18 |  |
 | [Under the Shadows](https://open.spotify.com/track/73lmZmCRp5012Kab1KH1vA) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Unguarded](https://open.spotify.com/album/0MGNAatiEm1f9dTvLvNY6R) | 3:50 | 2024-04-18 |  |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2024-04-18 |  |

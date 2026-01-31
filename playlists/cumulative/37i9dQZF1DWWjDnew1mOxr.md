@@ -2,9 +2,9 @@
 
 ### [Proper Belters](https://open.spotify.com/playlist/37i9dQZF1DWWjDnew1mOxr)
 
-> Music that means it\. Cover: Tom A\. Smith
+> Music that means it\. Cover: The Snuts
 
-416 songs - 23 hr 32 min
+420 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [All You'll Ever Be](https://open.spotify.com/track/55EIz1KqJdfTqZ5lZFNKGX) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [All You'll Ever Be](https://open.spotify.com/album/3yNSpndtwZkdsIqeavzrCB) | 3:48 | 2024-03-11 | 2024-06-01 |
 | [Alright](https://open.spotify.com/track/1YtDiUfVAR54jdvCD9UfRe) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Alright](https://open.spotify.com/album/1G87Kj047fGnnuyy9TSgIZ) | 3:28 | 2023-09-19 | 2026-01-23 |
 | [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 | 2023-01-10 | 2023-06-15 |
-| [Alright Alright Alright](https://open.spotify.com/track/6FoYuFpYLbu4kKIKOtARBm) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Alright Alright Alright](https://open.spotify.com/album/2loYX0tWMVfFu6AyWSZTDw) | 2:04 | 2025-06-23 |  |
+| [Alright Alright Alright](https://open.spotify.com/track/6FoYuFpYLbu4kKIKOtARBm) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Alright Alright Alright](https://open.spotify.com/album/2loYX0tWMVfFu6AyWSZTDw) | 2:04 | 2025-06-23 | 2026-01-31 |
 | [Am I Even A Man](https://open.spotify.com/track/203aZkz0i3swvunzfGlUbe) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [punkadonk2](https://open.spotify.com/album/28f5ioD8CPtdT2WIMvrs72) | 3:13 | 2023-12-22 | 2024-08-04 |
 | [American Nights & English Mornings](https://open.spotify.com/track/46xG9c1QESN8uKQiL8f3YA) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [American Nights & English Mornings](https://open.spotify.com/album/4jeyDNsaj16dLsDIVsVp09) | 3:14 | 2025-06-06 | 2025-10-11 |
 | [Another Round](https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Another Round](https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D) | 5:07 | 2023-01-10 |  |
@@ -71,6 +71,7 @@
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 | 2023-02-24 |
 | [Calypso Blue](https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt) | [The Cheap Thrills](https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz) | [Mind Metro](https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2) | 3:52 | 2025-03-12 |  |
 | [Can't Say No](https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Can't Say No](https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN) | 3:12 | 2025-01-17 |  |
+| [Can't See](https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Can’t See](https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI) | 2:26 | 2026-01-30 |  |
 | [Cariad](https://open.spotify.com/track/3yqF4F1Kk10VdUuIKOXzx6) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Songs For The Spine](https://open.spotify.com/album/3Cev9xMaHpqf4QOdwkm4hc) | 4:15 | 2025-10-10 |  |
 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 | 2024-05-31 |  |
 | [Cavalryman](https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Cavalryman](https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt) | 3:13 | 2023-04-18 | 2024-02-29 |
@@ -138,7 +139,7 @@
 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 | 2025-06-06 |  |
 | [Find My Way Around](https://open.spotify.com/track/4R9aYkJz3drmXGdETRnndb) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Find My Way Around](https://open.spotify.com/album/6sE8AmGoJcgIHTTKtKC40n) | 3:15 | 2023-09-19 | 2024-08-22 |
 | [Fly Away](https://open.spotify.com/track/42ryTZsxvCHyo5fYsnt7cD) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Fly Away](https://open.spotify.com/album/3OjsDq7R6vwPvfroafuqfs) | 4:18 | 2024-04-15 |  |
-| [Forever](https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Forever](https://open.spotify.com/album/1TjO1lphyF0J5GXzoszYe6) | 3:41 | 2025-10-10 |  |
+| [Forever](https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Forever](https://open.spotify.com/album/1TjO1lphyF0J5GXzoszYe6) | 3:41 | 2025-10-10 | 2026-01-31 |
 | [Forget About Me](https://open.spotify.com/track/3a0EX3qKaVsTsVxBexZQnc) | [The Slow Readers Club](https://open.spotify.com/artist/1DYrH6sucKrK0dskzU4Gsk) | [Knowledge Freedom Power](https://open.spotify.com/album/5Hjrk5ZrtyQgt0MDzdT6nu) | 3:56 | 2023-02-24 | 2023-04-19 |
 | [Freaks Like Us](https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3) | 4:54 | 2023-07-28 | 2023-09-30 |
 | [Fred Perry Girl](https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog) | [Andy Goodwin](https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB) | [Fred Perry Girl](https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d) | 2:59 | 2024-01-26 | 2024-05-11 |
@@ -262,6 +263,7 @@
 | [Make A Difference](https://open.spotify.com/track/3FW4sQFCb3v12aShwG2bR4) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [KAWALA Collection](https://open.spotify.com/album/2Pv5jT6q20fLACpKLLZpIt) | 3:01 | 2025-02-07 | 2025-04-16 |
 | [Man On The Moon](https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Man On The Moon](https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb) | 2:39 | 2025-02-07 |  |
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-10-10 |  |
+| [Marsh](https://open.spotify.com/track/3reEx8EkW36Ni2h1A1MUfE) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Marsh](https://open.spotify.com/album/4tWtBP9sZ6k3ddp36nlLEo) | 2:54 | 2026-01-30 |  |
 | [Masquerade](https://open.spotify.com/track/3Xk4QYUoZ1TszBMINEHkUa) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Masquerade](https://open.spotify.com/album/4RFi9MnCrBsxIM01Vq9hdy) | 3:47 | 2025-06-23 | 2025-08-06 |
 | [Masquerade](https://open.spotify.com/track/4ZrWs0G2sN9qimhkbQzEr1) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/55PAmXeH8DbLOizqAqzeC8) | 3:08 | 2025-10-10 |  |
 | [Meltdown](https://open.spotify.com/track/1kBWtNscDEzmyqfa0bc3Q8) | [Weston Loney](https://open.spotify.com/artist/2anBrRkmgVsliBqN2S9sRt) | [Meltdown](https://open.spotify.com/album/5hasWVR5EqXDagzKwixcad) | 2:52 | 2025-06-06 | 2025-06-16 |
@@ -277,7 +279,7 @@
 | [No Direction](https://open.spotify.com/track/1T3OWAvkegEBLn9YnzXGQq) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [No Direction](https://open.spotify.com/album/6cMk1iYh9lL6ISxOTKNHis) | 3:11 | 2024-08-21 | 2025-05-17 |
 | [No Guilt](https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [No Guilt](https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9) | 2:04 | 2023-12-22 | 2024-02-28 |
 | [Not Fake](https://open.spotify.com/track/7IT1QaeFe7vtilKLWpM2Lr) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [1 2 3 4](https://open.spotify.com/album/1z1Esz1o2xb8NPccIJP8yp) | 3:54 | 2024-02-23 | 2024-04-14 |
-| [Not Ideal](https://open.spotify.com/track/3h4VpzoEM7UaC9aBfIfYt4) | [Mên An Tol](https://open.spotify.com/artist/4CFcHsL8xqUWQC4vIZWPOs) | [This Land](https://open.spotify.com/album/7lgJJWSRMLj6D4lGkSfFxc) | 3:06 | 2025-10-10 |  |
+| [Not Ideal](https://open.spotify.com/track/3h4VpzoEM7UaC9aBfIfYt4) | [Mên An Tol](https://open.spotify.com/artist/4CFcHsL8xqUWQC4vIZWPOs) | [This Land](https://open.spotify.com/album/7lgJJWSRMLj6D4lGkSfFxc) | 3:06 | 2025-10-10 | 2026-01-31 |
 | [Not Like The Rest](https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Not Like The Rest](https://open.spotify.com/album/311IWRJeyNHUwqV3bk3Grb) | 3:14 | 2024-07-12 | 2025-10-11 |
 | [Nothing Compares To Nineteen](https://open.spotify.com/track/7GQwcstzhZd6GNFp0LJqEt) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Nothing Compares To Nineteen](https://open.spotify.com/album/3aiDUv877OWq4i6t9jI9cD) | 2:48 | 2024-10-06 | 2024-12-31 |
 | [Nothing's As It Seems](https://open.spotify.com/track/5YgWCmoVZDch6bdaTa33EL) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ) | [Nothing's As It Seems](https://open.spotify.com/album/4LF9kAQz5mw8nJQgpR80S7) | 3:42 | 2025-06-06 | 2025-11-17 |
@@ -350,6 +352,7 @@
 | [Stray](https://open.spotify.com/track/2wb55krslcGE17P1BHeqH1) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Stray](https://open.spotify.com/album/3CCIKTCVsvEzgrU8L7sCj8) | 3:33 | 2024-02-23 | 2024-10-20 |
 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 | 2025-02-07 |  |
 | [Sugarcoated](https://open.spotify.com/track/3EdGkRv8PkxVAoqkFcJR9L) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Sugarcoated](https://open.spotify.com/album/4dv356EKWiXo9Z9HZ1BPGa) | 4:11 | 2024-07-12 | 2025-06-07 |
+| [Summer Rain](https://open.spotify.com/track/2r2AhkxSsxbJVFo26TQqaL) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Summer Rain](https://open.spotify.com/album/1jUTsjLZz162xLsUZNZgc5) | 3:21 | 2026-01-30 |  |
 | [Superman](https://open.spotify.com/track/5s66mh6xdw2bQAupb6btYQ) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Superman](https://open.spotify.com/album/5WLrNAbEXd0XUHYNJq4Jbv) | 4:53 | 2025-02-07 | 2025-04-02 |
 | [Sweet Surrender \(feat\. Brooke Combe\)](https://open.spotify.com/track/5UiWUZm7xh9KXes34q1DDz) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [Sweet Surrender \(feat\. Brooke Combe\)](https://open.spotify.com/album/2RkPZQvlWzaQYCGm7ZVSpz) | 3:34 | 2024-10-17 | 2024-12-20 |
 | [Take A Picture](https://open.spotify.com/track/2z9I0ZBcvYrM0XS4aoBR07) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [If Heaven Looks A Little Like This](https://open.spotify.com/album/7DvehTCKcluhPmB6wTmyyc) | 3:53 | 2025-02-07 | 2025-03-09 |
@@ -371,7 +374,8 @@
 | [the story after they're gone](https://open.spotify.com/track/5ostObKG4ipzOoad4BANQT) | [Dylan Flynn and the Dead Poets](https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka) | [the story after they're gone](https://open.spotify.com/album/3sjR9zaEdAsOmOzHWUEjcb) | 3:14 | 2024-04-15 | 2024-06-06 |
 | [The Sulking Poet](https://open.spotify.com/track/1WxuWPQNbgeeGUgXk5Te8P) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Ribbon Around The Bomb](https://open.spotify.com/album/0bOTBOc1p5IbwQqjDXoC2C) | 3:34 | 2024-04-15 | 2024-10-07 |
 | [The Sulking Poet](https://open.spotify.com/track/4RpGkjgHNP8DjB6mp7uvsz) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Ribbon Around The Bomb](https://open.spotify.com/album/3hf9qJwWDOOjfyNI1esiGG) | 3:34 | 2023-01-10 | 2023-06-08 |
-| [the twins \(1969\)](https://open.spotify.com/track/1yYdcfsf7BBfHUMpQiUB4x) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [the twins \(1969\)](https://open.spotify.com/album/2M9IpHl3QGG69zyg4EfHBe) | 2:52 | 2025-10-10 |  |
+| [the twins \(1969\)](https://open.spotify.com/track/1yYdcfsf7BBfHUMpQiUB4x) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [the twins \(1969\)](https://open.spotify.com/album/2M9IpHl3QGG69zyg4EfHBe) | 2:52 | 2025-10-10 | 2026-01-31 |
+| [The Wahs](https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [So Much Country ‘Till We Get There](https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo) | 2:24 | 2026-01-30 |  |
 | [The Wedding](https://open.spotify.com/track/4GUEDu38RFFLqv74a403kb) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [New Last Name](https://open.spotify.com/album/7DnPfehpIKOC7BVsUc0a8H) | 3:49 | 2024-01-26 | 2024-04-09 |
 | [These Days](https://open.spotify.com/track/2SL3kWWD9lt3YaVtF2kATH) | [Tide Lines](https://open.spotify.com/artist/47WvBuryaMeInhqbcoi0uN) | [An Ocean Full of Islands](https://open.spotify.com/album/5qg03RMXqMLis0jVnGeug1) | 3:18 | 2023-03-13 | 2023-10-04 |
 | [These Days](https://open.spotify.com/track/5omsPZVDwJS3Jt2Ivlv7J2) | [Tide Lines](https://open.spotify.com/artist/47WvBuryaMeInhqbcoi0uN) | [An Ocean Full of Islands](https://open.spotify.com/album/01FjLg54vBily703i6K8bT) | 3:18 | 2023-09-19 | 2024-04-19 |

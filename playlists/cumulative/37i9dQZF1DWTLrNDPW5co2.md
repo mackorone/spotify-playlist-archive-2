@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring Honey Dijon.
 
-443 songs - 1 day 3 hr 3 min
+444 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Human Sound](https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:26 | 2022-07-14 | 2024-04-19 |
 | [Human Sound](https://open.spotify.com/track/51wGOeZ7ma3shFJf1Qgs7E) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 5:26 | 2022-06-03 | 2024-06-08 |
 | [HUNNY](https://open.spotify.com/track/0uuK5w5Ym5JZYhaVfKtNPd) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [HUNNY](https://open.spotify.com/album/4VTaRbDTMWZT7hwby9VdYK) | 2:54 | 2025-06-20 | 2025-09-27 |
+| [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 | 2026-01-30 |  |
 | [Hypnosis](https://open.spotify.com/track/03JGl2Yz9dBE2XSUuVgAgk) | [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Hypnosis](https://open.spotify.com/album/6ubqFqjORrgU1hLvhRwecV) | 3:54 | 2025-11-07 |  |
 | [I C](https://open.spotify.com/track/4anzIJUtrHtpB6Hgcz4x6Q) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [I C](https://open.spotify.com/album/5UtgbE2nTAV9jV0gadUr3x) | 2:22 | 2024-10-25 | 2025-04-05 |
 | [I Didn't Come Here For Art](https://open.spotify.com/track/0xui9XlNaWU6ePDkrcnwuQ) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [I Didn't Come Here For Art](https://open.spotify.com/album/5P3jF1Hz28g8cffjvZeeIy) | 4:01 | 2025-11-14 |  |
@@ -266,7 +267,7 @@
 | [Mangomouse](https://open.spotify.com/track/1p5DGRh6RIjRLGOHLTec46) | [Saoirse](https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX) | [Mangomouse](https://open.spotify.com/album/6MZ3ICdaxM4XzqkcCh41Cf) | 6:37 | 2024-06-01 | 2024-06-15 |
 | [Marlene](https://open.spotify.com/track/6baJdLkGaQ0T6Srg7B4ONS) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Marlene](https://open.spotify.com/album/6mBSueYh7UzUMr6XmEJ9OI) | 6:38 | 2021-10-15 | 2024-06-01 |
 | [Marlene](https://open.spotify.com/track/79oTqgo2EgUkLQ5IYwTteW) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Marlene](https://open.spotify.com/album/5PylsVfO7Ykw9izPDqmdtr) | 6:38 | 2023-10-13 | 2024-04-19 |
-| [Marsha’s rocknroll \- Edit](https://open.spotify.com/track/31UzKLiV2YQQBmKsZOPuvM) | [Cherry Lee](https://open.spotify.com/artist/0bV3bttNRkvIYyjKqmGPFn) | [Marsha’s rocknroll \(Edit\)](https://open.spotify.com/album/43DzOnjBZpUUgkeYkCfrk8) | 3:56 | 2025-05-23 |  |
+| [Marsha’s rocknroll \- Edit](https://open.spotify.com/track/31UzKLiV2YQQBmKsZOPuvM) | [Cherry Lee](https://open.spotify.com/artist/0bV3bttNRkvIYyjKqmGPFn) | [Marsha’s rocknroll \(Edit\)](https://open.spotify.com/album/43DzOnjBZpUUgkeYkCfrk8) | 3:56 | 2025-05-23 | 2026-01-31 |
 | [materiaL hor$e](https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 1:34 | 2025-01-24 |  |
 | [Mañana](https://open.spotify.com/track/2un8Lsq9ngtBRa2HlGuPXE) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp) | [Mañana](https://open.spotify.com/album/5jkUwcsa1zE8AsAloYnfqA) | 3:46 | 2022-06-03 | 2023-04-01 |
 | [McDonald's Sprite](https://open.spotify.com/track/0aE4r0rM0I0WAi4Hcil9vW) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Party Girl](https://open.spotify.com/album/52DjQ3FPYahAMok36LkCyd) | 2:20 | 2024-08-16 | 2024-12-07 |

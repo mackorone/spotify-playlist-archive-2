@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: the bercedes menz
 
-2,956 songs - 7 day 17 hr 11 min
+2,957 songs - 7 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Bicycle](https://open.spotify.com/track/4fJPOJLLB1nkpXe1LZfK4Q) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Bicycle](https://open.spotify.com/album/6cSE4mh7DxjjcSyy7iGtgs) | 2:51 | 2023-06-20 | 2023-06-22 |
 | [Big Dream](https://open.spotify.com/track/1g29K9UhQ3xsD0L0Uqs0Vg) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Big Dream](https://open.spotify.com/album/4ePrPnI99poUnIWyTeJMBL) | 5:26 | 2025-04-22 | 2025-08-06 |
 | [BIGLOVE](https://open.spotify.com/track/5q5DpwaeE6qAv1TyF0D5D8) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BIGLOVE](https://open.spotify.com/album/30vJnOO8ywQhgOUyTjX5GJ) | 2:50 | 2023-10-31 | 2023-12-10 |
-| [BILLIE](https://open.spotify.com/track/1xWY4vdMMjXgiEsQSi8krp) | [Kazumi Nikaido](https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I) | [BILLIE](https://open.spotify.com/album/55JLbSgp21qzXwKlulo1Rc) | 3:51 | 2025-12-16 |  |
+| [BILLIE](https://open.spotify.com/track/1xWY4vdMMjXgiEsQSi8krp) | [Kazumi Nikaido](https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I) | [BILLIE](https://open.spotify.com/album/55JLbSgp21qzXwKlulo1Rc) | 3:51 | 2025-12-16 | 2026-01-31 |
 | [bit down](https://open.spotify.com/track/31VoBooxFfYM9m2MHegcsv) | [life crown](https://open.spotify.com/artist/1GucUlQZCS6eETrQwUsg6m) | [bit down](https://open.spotify.com/album/0aZnC1fyY8SJlx41rnzBdE) | 3:29 | 2024-05-28 | 2024-06-05 |
 | [BITTERSWEET](https://open.spotify.com/track/0LHBidxCBlOCzsCe2VICZx) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [BITTERSWEET](https://open.spotify.com/album/5iT4t4tsexjyInZ7G0Tfdq) | 3:17 | 2026-01-20 |  |
 | [Black or White?](https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Black or White?](https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q) | 3:34 | 2024-06-11 | 2024-09-18 |
@@ -850,6 +850,7 @@
 | [Kinesin](https://open.spotify.com/track/41IxGPcDDYTXXZjYQ6uoVB) | [百円音盤](https://open.spotify.com/artist/6K33TVo7tVooGISoGifEEw) | [Kinesin](https://open.spotify.com/album/79x1fi5QrwMRxctUjuXeRe) | 2:31 | 2025-11-04 | 2025-11-12 |
 | [Kingyo\-bachi](https://open.spotify.com/track/0CKkbxXEC1CUyIdUEfIlFU) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Kingyo\-bachi](https://open.spotify.com/album/3IJk849eM4cWd2nKNWFUX2) | 3:46 | 2026-01-20 | 2026-01-30 |
 | [Kippou classic](https://open.spotify.com/track/7DpJhlXrltCrU4IvpSTYmG) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [Kippou classic](https://open.spotify.com/album/5pCRjCY8HktBlCwHRPXKlN) | 3:26 | 2023-10-03 | 2023-10-11 |
+| [KIRA KIRA](https://open.spotify.com/track/37LdsVpdUl2jNPQDSM9xIp) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [Dos Moons 2](https://open.spotify.com/album/5zUHvcKgWj0MeqdviWrkAI) | 2:47 | 2026-01-29 |  |
 | [Kiss](https://open.spotify.com/track/00wP8zw7YmpEmPFwKHtto7) | [ササキコウジ](https://open.spotify.com/artist/11AahWyGlXddJRlMSGLRlC) | [心奥の森で](https://open.spotify.com/album/63GVPAM5TTAbSXxEYPZHZJ) | 2:19 | 2023-08-08 | 2023-08-16 |
 | [Kiss me](https://open.spotify.com/track/4R42jF26ll4ZC8XcUmS1ET) | [DANCING COSMO PLAXMA](https://open.spotify.com/artist/6claF53oHrkkwkfxVvGi01) | [Kiss me](https://open.spotify.com/album/1pYGDSSjCAGma5egHDvkVW) | 4:33 | 2025-05-21 | 2025-06-04 |
 | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/track/3tn8Ib0AHdX2HPQPbO4NHk) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4) | 3:20 | 2024-11-13 | 2025-01-04 |

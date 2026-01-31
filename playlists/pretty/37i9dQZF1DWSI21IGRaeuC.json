@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Cam Stockman",
-  "num_followers": 72117,
+  "num_followers": 72164,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHJgxuIXAaA1eHRGK4oBZyxjzkWv",
+  "snapshot_id": "AAAAAOJI+OkiT3KapfhxIzCgB5nPHgob",
   "tracks": [
     {
       "added_at": "2026-01-23 05:00:22",
@@ -27,6 +27,34 @@
       "duration_ms": 131299,
       "name": "Into My Life (feat. Joyce Sims)",
       "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
+    },
+    {
+      "added_at": "2026-01-30 05:00:42",
+      "album": {
+        "name": "Wanna Party (feat. Dennis G) [Ranger Trucco Remix]",
+        "url": "https://open.spotify.com/album/5DFLgCNKeWNXQdYRX4DDiQ"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Wideboys",
+          "url": "https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi"
+        },
+        {
+          "name": "Dennis G.",
+          "url": "https://open.spotify.com/artist/1DlMYV41CeNcwmNZ3wc9SW"
+        },
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 217099,
+      "name": "Wanna Party (feat. Dennis G) - Ranger Trucco Remix",
+      "url": "https://open.spotify.com/track/7FDSyz5Z0ZVv1rCfMkk9tU"
     },
     {
       "added_at": "2026-01-12 16:33:49",
@@ -73,6 +101,38 @@
       "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
     },
     {
+      "added_at": "2026-01-27 20:44:33",
+      "album": {
+        "name": "Lightless Dream EP",
+        "url": "https://open.spotify.com/album/5KtS1ESWxa0wiThdK9fA4t"
+      },
+      "artists": [
+        {
+          "name": "Di Chiara Brothers",
+          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Lightless Dream",
+      "url": "https://open.spotify.com/track/5OiFqjhqNsTfXsFSifbsDI"
+    },
+    {
+      "added_at": "2026-01-30 17:14:07",
+      "album": {
+        "name": "Concrete Bass EP",
+        "url": "https://open.spotify.com/album/3MEGDwj1mfOIlwfkWZfoI7"
+      },
+      "artists": [
+        {
+          "name": "Levi Swarn",
+          "url": "https://open.spotify.com/artist/74ztTQOVscmiaShs1BF7g0"
+        }
+      ],
+      "duration_ms": 172089,
+      "name": "Concrete Bass",
+      "url": "https://open.spotify.com/track/1veEHr0b99P7eXBcfUMPWp"
+    },
+    {
       "added_at": "2026-01-16 05:00:33",
       "album": {
         "name": "The Fix",
@@ -87,70 +147,6 @@
       "duration_ms": 180057,
       "name": "The Fix",
       "url": "https://open.spotify.com/track/6Gic5rohR6m7h5869PpIgi"
-    },
-    {
-      "added_at": "2026-01-23 15:20:38",
-      "album": {
-        "name": "For The Night",
-        "url": "https://open.spotify.com/album/2QnJK2my2hW7IMmf4MoLpT"
-      },
-      "artists": [
-        {
-          "name": "Mitch Freeman",
-          "url": "https://open.spotify.com/artist/3Z9cpCACRQX3FR4DzoFOiG"
-        }
-      ],
-      "duration_ms": 261363,
-      "name": "For The Night",
-      "url": "https://open.spotify.com/track/2CHZ0FcivKxDfW0TBfw6ng"
-    },
-    {
-      "added_at": "2025-11-28 05:09:48",
-      "album": {
-        "name": "Look Good",
-        "url": "https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf"
-      },
-      "artists": [
-        {
-          "name": "Ethan Walsh",
-          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
-        }
-      ],
-      "duration_ms": 134095,
-      "name": "Look Good",
-      "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
-    },
-    {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/6yDLLrovlQGJzie4ZPpzsc"
-      },
-      "artists": [
-        {
-          "name": "Beave",
-          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
-        }
-      ],
-      "duration_ms": 152840,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/65xDnHGrbUPYDcVZxr8swb"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
-        "name": "Point Zero / Lift Me Up",
-        "url": "https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7"
-      },
-      "artists": [
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        }
-      ],
-      "duration_ms": 191377,
-      "name": "Point Zero",
-      "url": "https://open.spotify.com/track/76e2lc0sV8N1jLFlw2CS5x"
     },
     {
       "added_at": "2026-01-16 05:00:33",
@@ -169,6 +165,126 @@
       "url": "https://open.spotify.com/track/1j2rvXJXrFwzT8JXHTHFFJ"
     },
     {
+      "added_at": "2025-11-28 05:09:48",
+      "album": {
+        "name": "Look Good",
+        "url": "https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf"
+      },
+      "artists": [
+        {
+          "name": "Ethan Walsh",
+          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
+        }
+      ],
+      "duration_ms": 134095,
+      "name": "Look Good",
+      "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
+    },
+    {
+      "added_at": "2026-01-30 05:00:42",
+      "album": {
+        "name": "LOUDY'S TOOLZ",
+        "url": "https://open.spotify.com/album/7yVfcFQwplfxLVPB2vFaMH"
+      },
+      "artists": [
+        {
+          "name": "Louden",
+          "url": "https://open.spotify.com/artist/0dh6ekhgvAz7Kr8ayRuYlr"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "That Phunkey Tune",
+      "url": "https://open.spotify.com/track/6XOuAcGRJ6beiioNCMaeAt"
+    },
+    {
+      "added_at": "2026-01-16 05:00:33",
+      "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/6yDLLrovlQGJzie4ZPpzsc"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "duration_ms": 152840,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/65xDnHGrbUPYDcVZxr8swb"
+    },
+    {
+      "added_at": "2026-01-30 05:00:42",
+      "album": {
+        "name": "Jus Dance",
+        "url": "https://open.spotify.com/album/19acIfXkwSpQlCxUjEgDiy"
+      },
+      "artists": [
+        {
+          "name": "Mr. V",
+          "url": "https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8"
+        },
+        {
+          "name": "Jordan Brando",
+          "url": "https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 208985,
+      "name": "Jus Dance",
+      "url": "https://open.spotify.com/track/5aUvSmVAra1qLcUH50qrYY"
+    },
+    {
+      "added_at": "2025-12-05 05:00:22",
+      "album": {
+        "name": "Point Zero / Lift Me Up",
+        "url": "https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "duration_ms": 191377,
+      "name": "Point Zero",
+      "url": "https://open.spotify.com/track/76e2lc0sV8N1jLFlw2CS5x"
+    },
+    {
+      "added_at": "2026-01-30 17:14:07",
+      "album": {
+        "name": "My Brain EP",
+        "url": "https://open.spotify.com/album/4TJoXqAicnRCsDKkZt3FuC"
+      },
+      "artists": [
+        {
+          "name": "Jentzen",
+          "url": "https://open.spotify.com/artist/4Ae9S2NdmxshDC0tNtKTh8"
+        }
+      ],
+      "duration_ms": 232615,
+      "name": "Know You Better",
+      "url": "https://open.spotify.com/track/58M7AyZ1HI90agLaU5jX1W"
+    },
+    {
+      "added_at": "2026-01-23 15:20:38",
+      "album": {
+        "name": "For The Night",
+        "url": "https://open.spotify.com/album/2QnJK2my2hW7IMmf4MoLpT"
+      },
+      "artists": [
+        {
+          "name": "Mitch Freeman",
+          "url": "https://open.spotify.com/artist/3Z9cpCACRQX3FR4DzoFOiG"
+        }
+      ],
+      "duration_ms": 261363,
+      "name": "For The Night",
+      "url": "https://open.spotify.com/track/2CHZ0FcivKxDfW0TBfw6ng"
+    },
+    {
       "added_at": "2026-01-23 05:00:22",
       "album": {
         "name": "Touched EP",
@@ -183,22 +299,6 @@
       "duration_ms": 242790,
       "name": "Touched",
       "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
-    },
-    {
-      "added_at": "2026-01-23 15:20:38",
-      "album": {
-        "name": "Back n' Forth",
-        "url": "https://open.spotify.com/album/0PjY1JVZYZJeC39YHJgbZV"
-      },
-      "artists": [
-        {
-          "name": "Crewcutz",
-          "url": "https://open.spotify.com/artist/3wRmWPRKhXTatAYGQUsC4E"
-        }
-      ],
-      "duration_ms": 217674,
-      "name": "Back n' Forth",
-      "url": "https://open.spotify.com/track/5SLLAmfYuVM5WlOoxFl4Qa"
     },
     {
       "added_at": "2025-12-30 18:07:37",
@@ -217,6 +317,58 @@
       "url": "https://open.spotify.com/track/3XwNVpJCF4d2yLtXSffnds"
     },
     {
+      "added_at": "2026-01-30 17:14:07",
+      "album": {
+        "name": "The Rider",
+        "url": "https://open.spotify.com/album/5JuQAy7kbRXRIiU2Zb9Hy0"
+      },
+      "artists": [
+        {
+          "name": "Jack Wostear",
+          "url": "https://open.spotify.com/artist/6Mmcw1vtpSolg5QAqYzMEA"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "The Rider",
+      "url": "https://open.spotify.com/track/0sqmtfZ1a327SnTKMmJrO1"
+    },
+    {
+      "added_at": "2026-01-16 05:00:33",
+      "album": {
+        "name": "Certi EP",
+        "url": "https://open.spotify.com/album/0a7m6ALRJD2CLCwQZpqNLf"
+      },
+      "artists": [
+        {
+          "name": "Troxy",
+          "url": "https://open.spotify.com/artist/4FvNii3PAzHhNCbizclTjS"
+        }
+      ],
+      "duration_ms": 402879,
+      "name": "Certi",
+      "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
+    },
+    {
+      "added_at": "2026-01-30 05:00:42",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Jocelyn Enriquez",
+          "url": "https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB"
+        }
+      ],
+      "duration_ms": 182947,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE"
+    },
+    {
       "added_at": "2025-12-29 01:46:49",
       "album": {
         "name": "Keep the Crowd Moving (Radio Edit)",
@@ -233,20 +385,20 @@
       "url": "https://open.spotify.com/track/4Hbvn1hhO0ccCwrSo4BTBN"
     },
     {
-      "added_at": "2026-01-27 20:44:33",
+      "added_at": "2026-01-30 05:00:42",
       "album": {
-        "name": "Lightless Dream EP",
-        "url": "https://open.spotify.com/album/5KtS1ESWxa0wiThdK9fA4t"
+        "name": "all night",
+        "url": "https://open.spotify.com/album/54NjOu0otFTWpKwBJ7rcuA"
       },
       "artists": [
         {
-          "name": "Di Chiara Brothers",
-          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
+          "name": "Jake Antonio",
+          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Lightless Dream",
-      "url": "https://open.spotify.com/track/5OiFqjhqNsTfXsFSifbsDI"
+      "duration_ms": 235454,
+      "name": "all night - radio edit",
+      "url": "https://open.spotify.com/track/3PRQL5S8nzISJ0t5RQuiEG"
     },
     {
       "added_at": "2025-11-14 21:15:40",
@@ -305,22 +457,6 @@
       "url": "https://open.spotify.com/track/5hGQSM16tT7hiyie12IHdA"
     },
     {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
-        "name": "Certi EP",
-        "url": "https://open.spotify.com/album/0a7m6ALRJD2CLCwQZpqNLf"
-      },
-      "artists": [
-        {
-          "name": "Troxy",
-          "url": "https://open.spotify.com/artist/4FvNii3PAzHhNCbizclTjS"
-        }
-      ],
-      "duration_ms": 402879,
-      "name": "Certi",
-      "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
-    },
-    {
       "added_at": "2026-01-23 05:00:22",
       "album": {
         "name": "Keep It Going EP",
@@ -335,6 +471,54 @@
       "duration_ms": 206564,
       "name": "Keep It Going",
       "url": "https://open.spotify.com/track/1SiqYxxFyvHLK9pZWSo3Zz"
+    },
+    {
+      "added_at": "2026-01-30 17:14:07",
+      "album": {
+        "name": "Plastic Jam & Close Your Eyes",
+        "url": "https://open.spotify.com/album/3H27SouFzgHNrgXgCIm0t2"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 238208,
+      "name": "Plastic Jam - Radio-Edit",
+      "url": "https://open.spotify.com/track/0Vi6wyVXQLvydtZ32EHHuk"
+    },
+    {
+      "added_at": "2026-01-23 15:20:38",
+      "album": {
+        "name": "Back n' Forth",
+        "url": "https://open.spotify.com/album/0PjY1JVZYZJeC39YHJgbZV"
+      },
+      "artists": [
+        {
+          "name": "Crewcutz",
+          "url": "https://open.spotify.com/artist/3wRmWPRKhXTatAYGQUsC4E"
+        }
+      ],
+      "duration_ms": 217674,
+      "name": "Back n' Forth",
+      "url": "https://open.spotify.com/track/5SLLAmfYuVM5WlOoxFl4Qa"
+    },
+    {
+      "added_at": "2026-01-30 05:00:42",
+      "album": {
+        "name": "LOUDY'S TOOLZ",
+        "url": "https://open.spotify.com/album/7yVfcFQwplfxLVPB2vFaMH"
+      },
+      "artists": [
+        {
+          "name": "Louden",
+          "url": "https://open.spotify.com/artist/0dh6ekhgvAz7Kr8ayRuYlr"
+        }
+      ],
+      "duration_ms": 197862,
+      "name": "Mind Game",
+      "url": "https://open.spotify.com/track/5zxhUJKdwgXWDKqliUtgRi"
     },
     {
       "added_at": "2026-01-09 05:00:36",
@@ -865,58 +1049,6 @@
       "url": "https://open.spotify.com/track/2YC2IEpk6jKcIgif6HgF2Z"
     },
     {
-      "added_at": "2025-12-12 05:00:36",
-      "album": {
-        "name": "Craving What Ain't Mine (Radio Mix)",
-        "url": "https://open.spotify.com/album/1HfFTauBSg1Vb1y94tQTsk"
-      },
-      "artists": [
-        {
-          "name": "M-High",
-          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Craving What Ain't Mine - Radio Mix",
-      "url": "https://open.spotify.com/track/2PMGzzwnjWbngTp0Xwuvpi"
-    },
-    {
-      "added_at": "2025-12-12 05:00:36",
-      "album": {
-        "name": "King Konglish EP",
-        "url": "https://open.spotify.com/album/66oMw0xrzuS7K5sw9VOiQ7"
-      },
-      "artists": [
-        {
-          "name": "J. Park",
-          "url": "https://open.spotify.com/artist/6tJF1JwgKXKldyr82s6Jjd"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "King-Ka - Radio Mix",
-      "url": "https://open.spotify.com/track/5ytMXX85Be1uP3NF5T2tx8"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
-        "name": "Another Hit",
-        "url": "https://open.spotify.com/album/6U9TTmxdR9b8RxNJGsRdvq"
-      },
-      "artists": [
-        {
-          "name": "NAAR (US)",
-          "url": "https://open.spotify.com/artist/2MNWqxfraxtx61tyxwzyqq"
-        },
-        {
-          "name": "Parker Page",
-          "url": "https://open.spotify.com/artist/1jRRjPpIYv5Wzbu4oyNSwb"
-        }
-      ],
-      "duration_ms": 195589,
-      "name": "Another Hit",
-      "url": "https://open.spotify.com/track/4EczT6jRDLgPgqfo1CWmhK"
-    },
-    {
       "added_at": "2025-12-29 01:46:49",
       "album": {
         "name": "FINKY FILES 002",
@@ -1013,22 +1145,6 @@
       "url": "https://open.spotify.com/track/2wmbYN8YjWvoR6d0kd1aAH"
     },
     {
-      "added_at": "2025-12-05 22:00:17",
-      "album": {
-        "name": "Spin Cycle EP",
-        "url": "https://open.spotify.com/album/13y7ZtEe1jWGFitDo0JK6m"
-      },
-      "artists": [
-        {
-          "name": "Dan Fresco",
-          "url": "https://open.spotify.com/artist/2g2PlDZQoNih53dy2I14zB"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "Spin Cycle",
-      "url": "https://open.spotify.com/track/0vJo3KpCwGcy9yWxGUC0gQ"
-    },
-    {
       "added_at": "2025-11-21 17:11:07",
       "album": {
         "name": "De Groovy EP",
@@ -1075,22 +1191,6 @@
       "duration_ms": 236363,
       "name": "Weather Report",
       "url": "https://open.spotify.com/track/2NSRp14Ugzqp017deyJ53n"
-    },
-    {
-      "added_at": "2025-11-28 05:09:48",
-      "album": {
-        "name": "Basic Instinct",
-        "url": "https://open.spotify.com/album/3CLL8jbee2bkSTfw7CCTBP"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        }
-      ],
-      "duration_ms": 169638,
-      "name": "Basic Instinct",
-      "url": "https://open.spotify.com/track/4coPwPfxxr5jHLR4jRnVSw"
     },
     {
       "added_at": "2025-12-12 05:00:36",
@@ -1201,22 +1301,6 @@
       "url": "https://open.spotify.com/track/05KcMVFzVK2gJsx5k8oeDu"
     },
     {
-      "added_at": "2025-11-28 05:09:48",
-      "album": {
-        "name": "Body Movin'",
-        "url": "https://open.spotify.com/album/0HeGISGAF6CRRFkwkCBwHw"
-      },
-      "artists": [
-        {
-          "name": "Ryan Nicholls",
-          "url": "https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Body Movin' - Radio Edit",
-      "url": "https://open.spotify.com/track/4O9jXmsa2vSnGgQbXLcaoU"
-    },
-    {
       "added_at": "2025-11-21 05:00:30",
       "album": {
         "name": "From L to R",
@@ -1231,22 +1315,6 @@
       "duration_ms": 224538,
       "name": "From L to R",
       "url": "https://open.spotify.com/track/2m1hBmg6FtgY9Ouz4qMTd1"
-    },
-    {
-      "added_at": "2025-11-14 21:15:40",
-      "album": {
-        "name": "Dance For Me EP",
-        "url": "https://open.spotify.com/album/73gkilnNXUKXa0WpvhdyJJ"
-      },
-      "artists": [
-        {
-          "name": "LIGHTLEAK",
-          "url": "https://open.spotify.com/artist/1gU6WyJYdljeam0N3ZpgOC"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "EQ (Dance For Me)",
-      "url": "https://open.spotify.com/track/7cSuXSwwr7xcNh8BpO1o9V"
     },
     {
       "added_at": "2025-11-14 21:15:40",
@@ -1343,22 +1411,6 @@
       "duration_ms": 295384,
       "name": "DECEIVER",
       "url": "https://open.spotify.com/track/6TG0jFBiEnDlJMb4wbkYD5"
-    },
-    {
-      "added_at": "2025-11-03 22:23:34",
-      "album": {
-        "name": "Step EP",
-        "url": "https://open.spotify.com/album/6J7D88MXehSjL1ZyEbp3pJ"
-      },
-      "artists": [
-        {
-          "name": "Scott Steer",
-          "url": "https://open.spotify.com/artist/2nVUMUFQECMKMRaCdMTO4z"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/5Q0hiJwkQixdOwZp8jqnuV"
     },
     {
       "added_at": "2025-10-17 04:00:49",
@@ -1499,26 +1551,6 @@
       "duration_ms": 207692,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/0IDKe97N4d80iZmRSShgee"
-    },
-    {
-      "added_at": "2025-10-17 04:00:49",
-      "album": {
-        "name": "Keep it Real",
-        "url": "https://open.spotify.com/album/72erDWaZTO2Fdzdcjhi62H"
-      },
-      "artists": [
-        {
-          "name": "Braydon Terzo",
-          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 207938,
-      "name": "Work feat. Nevve - Edit",
-      "url": "https://open.spotify.com/track/3eb7WYeXYav8I3q6iKQY5h"
     },
     {
       "added_at": "2025-09-05 04:00:16",
@@ -1963,22 +1995,6 @@
       "duration_ms": 275000,
       "name": "Yosemite - Philip George Remix",
       "url": "https://open.spotify.com/track/7Ix1YfRHAELxNIFqkzQdWl"
-    },
-    {
-      "added_at": "2025-05-16 04:00:35",
-      "album": {
-        "name": "Baile De Fantome EP",
-        "url": "https://open.spotify.com/album/2nRQyfyyHQL2E69yDNBuWx"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Baile De Fantome",
-      "url": "https://open.spotify.com/track/0q3HI1pBWomC3MiAEciBkF"
     },
     {
       "added_at": "2025-03-19 18:08:52",

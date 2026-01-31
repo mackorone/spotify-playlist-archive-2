@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,188 songs - 3 day 2 hr 29 min
+1,194 songs - 3 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Acres Of Love](https://open.spotify.com/track/6B43mtMINuEDxR0bLdgB0B) | [Bastions](https://open.spotify.com/artist/28I7fJRc6dm6a4Cq7kNSS6) | [Acres Of Love](https://open.spotify.com/album/6ucVxV2U0gR91H5z7M80HH) | 3:39 | 2022-05-06 | 2023-07-15 |
 | [Actin' Up](https://open.spotify.com/track/0DkIEyzTbwVbG0IZyekIZb) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Actin' Up](https://open.spotify.com/album/6EKWmlEdfIOYggqHMc56s6) | 2:23 | 2023-06-23 | 2024-02-03 |
 | [Afore A Waking Nightmare](https://open.spotify.com/track/1ZdvA7NFxw9sQ7hl3U0Yvd) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Die in Fear / Afore A Waking Nightmare](https://open.spotify.com/album/5bm5UJ3z4Wy95YYUXK7Wcj) | 1:38 | 2025-04-25 |  |
+| [Afraid Of The Dark](https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Afraid Of The Dark](https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2) | 4:38 | 2026-01-30 |  |
 | [Afterglow of Ragnarok](https://open.spotify.com/track/0sk0mL3I4X7h6iPt9eJrwQ) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Afterglow of Ragnarok](https://open.spotify.com/album/2E57avEBH8Ft3A8W7c7Rlk) | 5:45 | 2023-12-01 | 2024-02-03 |
 | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY) | 4:09 | 2025-03-28 |  |
 | [Aftermath](https://open.spotify.com/track/7xGYng4pNaJwSTjuOlxyhO) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Aftermath](https://open.spotify.com/album/3a5NPxFKXmzqWKurkUSfZS) | 3:01 | 2024-06-18 | 2025-04-11 |
@@ -307,6 +308,7 @@
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 | 2023-07-15 |
 | [Earthen](https://open.spotify.com/track/7sWv4EF2ie6uNrTX46OpyB) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Earthen](https://open.spotify.com/album/4kdpjgLqZy9VPx47WzZKjx) | 5:24 | 2023-01-20 | 2024-02-03 |
 | [Eaten Alive](https://open.spotify.com/track/5XqjUsKIjEuRpeasDGgHGc) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Eaten Alive](https://open.spotify.com/album/06lU90Mv5lF5bmBbBuMOor) | 3:56 | 2022-10-07 | 2023-07-15 |
+| [ego](https://open.spotify.com/track/4Mv3pU235ug7FvhReT1n1L) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [ego](https://open.spotify.com/album/5NsQMntHonlG4cw7wN68uB) | 3:40 | 2026-01-30 |  |
 | [El Camino Car Crash](https://open.spotify.com/track/6D7OXwvAH5dMBIlQo933Ui) | [Deaf Club](https://open.spotify.com/artist/1GHsH4VNAKT2b7lBnppmFx) | [El Camino Car Crash](https://open.spotify.com/album/0XLyF4iYImRVm5klB2rwPC) | 1:40 | 2024-12-13 | 2025-04-11 |
 | [Elements Of Sin](https://open.spotify.com/track/5xfAlFJ33JakfGDeM4UyNe) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Elements Of Sin](https://open.spotify.com/album/5YT581a2QIS1aPmI6ploqW) | 3:47 | 2023-09-29 | 2024-02-03 |
 | [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 | 2025-01-24 | 2026-01-24 |
@@ -394,6 +396,7 @@
 | [from me to u \(feat\. Poppy\)](https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [from me to u \(feat\. Poppy\)](https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn) | 3:24 | 2025-04-04 |  |
 | [From The Inside](https://open.spotify.com/track/6ROHkoMA1RohwSGFgnEQzI) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [From The Inside](https://open.spotify.com/album/5rLz0FCrDlU8zsSjFpKQo2) | 6:08 | 2023-07-07 | 2024-02-03 |
 | [FTS \(KYS\)](https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [FTS \(KYS\)](https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy) | 2:19 | 2023-03-10 | 2024-02-03 |
+| [further eden](https://open.spotify.com/track/2zQ00der37Qh5TcVcshF56) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [further eden](https://open.spotify.com/album/6SP2sLzff9oyOWtNsnnykw) | 3:31 | 2026-01-30 |  |
 | [Fury My Master](https://open.spotify.com/track/1KgCNolwH1by6iGqmNTj4R) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf) | [End Time Lightning](https://open.spotify.com/album/71wuS8oPWthj7E6XEYpjzh) | 4:26 | 2025-06-20 |  |
 | [Fuzzy Planet](https://open.spotify.com/track/692QyVXw6n1AMMWzNoaUL6) | [Arcadea](https://open.spotify.com/artist/1kIAssoUnSTnaNxLSHaUav) | [Fuzzy Planet](https://open.spotify.com/album/18mL8t2XFsbzj553PJpqW3) | 4:34 | 2025-07-04 |  |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 | 2023-07-15 |
@@ -910,6 +913,7 @@
 | [Spitting Images](https://open.spotify.com/track/15TBZoxV8QYfgsOCommmba) | [Street Sects](https://open.spotify.com/artist/61jq0F04ecataLAuDADgnF) | [Spitting Images](https://open.spotify.com/album/51ofuom82NfXqsprSCMF05) | 2:51 | 2025-07-04 |  |
 | [Split](https://open.spotify.com/track/7usAeQVhpgccNHPuEPtwdQ) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Split](https://open.spotify.com/album/6Lcs7aMfN0YPYL4yUCXWZe) | 3:11 | 2024-03-22 | 2025-04-11 |
 | [Sport of Form](https://open.spotify.com/track/60snAG6V1EmDgbHB7x5ROy) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Sport of Form](https://open.spotify.com/album/1T4LPltqYeJoJrr88P0NLq) | 3:26 | 2023-06-30 | 2024-02-03 |
+| [spun](https://open.spotify.com/track/6MXdSu8FoGTTLhJgqwL4n6) | [dream fatigue](https://open.spotify.com/artist/50Z9jYEPCXAMiPw2lcAEbu) | [spun](https://open.spotify.com/album/1p34VMVaafBEDC81yEJMxP) | 1:55 | 2026-01-30 |  |
 | [Standalone](https://open.spotify.com/track/5H63aGGsjcpDvzuqBZTV1o) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Standalone+1](https://open.spotify.com/album/3AavCvQYJLFv7qmSgyLbHt) | 1:08 | 2025-01-03 | 2026-01-24 |
 | [Starve](https://open.spotify.com/track/1tV2sOs3uIJrEdvpfblAqJ) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Starve](https://open.spotify.com/album/1NFAlXfwkDbedNfC2rek74) | 3:41 | 2023-03-31 | 2024-02-03 |
 | [State Of Slow Decay](https://open.spotify.com/track/4CbZ37zpHKk3FQuV7bRVHB) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [State Of Slow Decay](https://open.spotify.com/album/7FZ7l7MmBlr7RKO7UOVJmR) | 3:58 | 2022-06-17 | 2023-07-15 |
@@ -1003,11 +1007,13 @@
 | [The Grey](https://open.spotify.com/track/7KqOpWKmzXLEcqwVy7P0td) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [The Grey](https://open.spotify.com/album/5Rzc2I5iMMQGs0Pqp8vFsZ) | 6:07 | 2023-08-18 | 2024-02-03 |
 | [The Half Rising Man](https://open.spotify.com/track/6tammuqjdqFjxYCg4eY9u8) | [Absent in Body](https://open.spotify.com/artist/5hOxl1B20sRbDI4h27K3Aw) | [Plague God](https://open.spotify.com/album/5z0ali2A2jp4RI70VlvBfr) | 8:10 | 2022-03-25 | 2023-07-15 |
 | [The howling](https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The howling](https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi) | 4:08 | 2022-02-04 | 2023-07-15 |
+| [The Hurt Continues](https://open.spotify.com/track/51sb7CUU1tSAw1iWe3tQwn) | [Blood & Tears](https://open.spotify.com/artist/2TtDxxQQEqbb6gy5o7cOnW) | [Brotherhood Demo](https://open.spotify.com/album/0vL9ARWBlnjyrJ5rag2EVS) | 2:29 | 2026-01-30 |  |
 | [The Impossible End](https://open.spotify.com/track/6CvuCeQJO6g0O7qVgsIBTx) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [Highly Irresponsible \(Deluxe Edition\)](https://open.spotify.com/album/0kaN8nCGNLApQ08I3uCrmB) | 3:09 | 2025-11-14 |  |
 | [The Impressionist](https://open.spotify.com/track/6wQGIwWIOnMAqMY9kQNTJ3) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Impressionist](https://open.spotify.com/album/40n12vUitDKrQVCyw0cEIs) | 4:28 | 2022-04-22 | 2023-07-15 |
 | [The Killing Womb](https://open.spotify.com/track/6qwS9hKwhVJe2yMxkwMgiQ) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [The Killing Womb](https://open.spotify.com/album/5ZeUTOPb4LwQFSV4jOj2cs) | 2:32 | 2022-01-07 | 2023-07-15 |
 | [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 | 2025-10-10 |  |
 | [The Lost Colony](https://open.spotify.com/track/5ktT0KZMuq8tS02YPx039n) | [Becoming The Archetype](https://open.spotify.com/artist/2lt0aSPzPngGw8KsfLYRyF) | [The Lost Colony](https://open.spotify.com/album/7zSWeckOjzmvtcWUVFZC06) | 3:49 | 2022-07-01 | 2023-07-15 |
+| [The Maker](https://open.spotify.com/track/5HuO6uXKZa5EzVPXrdNj4Z) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [The Maker](https://open.spotify.com/album/3INCg86OumH3EymmO3Ytpz) | 3:06 | 2026-01-30 |  |
 | [The Midnight Sun](https://open.spotify.com/track/6racdcyzrxBePae8lqBwVU) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [The Midnight Sun](https://open.spotify.com/album/03UZIhoApBs6PtFWvhyU7N) | 3:33 | 2024-04-12 | 2025-04-11 |
 | [The Migrant](https://open.spotify.com/track/1pzjl4Y0VrDPhLE6MxGYkx) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [The Migrant](https://open.spotify.com/album/5pkKdqw83QB8q5LXxWRoyO) | 4:00 | 2023-03-31 | 2024-02-03 |
 | [The Mountain of Corsicana](https://open.spotify.com/track/0gKGIBpQ1GHVD58jD3KvRA) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [The Mountain of Corsicana](https://open.spotify.com/album/3ewaT934cCw7kZ4BTpNUlC) | 3:50 | 2025-09-12 |  |

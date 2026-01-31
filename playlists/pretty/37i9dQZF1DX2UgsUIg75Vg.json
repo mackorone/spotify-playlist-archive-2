@@ -1,44 +1,44 @@
 {
-  "description": "Chill r&b. Cover: Cleo Sol",
-  "num_followers": 2369762,
+  "description": "Chill r&b. Cover: Tems",
+  "num_followers": 2369812,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZT1uuKdL5EmJQAnj5Oi1WLlFLr",
+  "snapshot_id": "AAAAAIxnQmpp3UydUt59h2x7tNLHs0D6",
   "tracks": [
     {
-      "added_at": "2026-01-23 07:39:49",
+      "added_at": "2025-11-21 09:24:23",
       "album": {
-        "name": "Nothing Is Impossible With You",
-        "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 254066,
-      "name": "Nothing Is Impossible With You",
-      "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
+      "duration_ms": 234080,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
     },
     {
-      "added_at": "2025-06-14 14:32:39",
+      "added_at": "2026-01-30 05:01:14",
       "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+        "name": "tell me what you want",
+        "url": "https://open.spotify.com/album/45dogBUITG47dD11ydydgz"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         }
       ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+      "duration_ms": 236173,
+      "name": "tell me what you want",
+      "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
     },
     {
       "added_at": "2026-01-16 05:00:35",
@@ -71,6 +71,38 @@
       "duration_ms": 284997,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/5x1dCNl5oITrYHTytJdqup"
+    },
+    {
+      "added_at": "2025-06-14 14:32:39",
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "added_at": "2026-01-30 05:01:14",
+      "album": {
+        "name": "BACKWARD",
+        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 191581,
+      "name": "NOISY NEIGHBORS",
+      "url": "https://open.spotify.com/track/6rPdEbKcUxXOI7tY1oRR0Q"
     },
     {
       "added_at": "2026-01-23 07:39:49",
@@ -163,22 +195,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "TAI CHI",
-        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 194895,
-      "name": "TAI CHI",
-      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Come Thru",
         "url": "https://open.spotify.com/album/46LbagB4ZLUwslEQPBs4iH"
       },
@@ -193,20 +209,24 @@
       "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
     },
     {
-      "added_at": "2025-11-21 09:24:23",
+      "added_at": "2026-01-30 05:01:14",
       "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+        "name": "PASSION",
+        "url": "https://open.spotify.com/album/4iV6PGdhtgbZqYeoxl8YBy"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
         }
       ],
-      "duration_ms": 234080,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
+      "duration_ms": 201869,
+      "name": "Once I Say",
+      "url": "https://open.spotify.com/track/4nPXIVzRK8ov667r7O7Rrr"
     },
     {
       "added_at": "2025-11-21 09:24:23",
@@ -269,6 +289,22 @@
       "url": "https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL"
     },
     {
+      "added_at": "2026-01-30 05:01:14",
+      "album": {
+        "name": "Bet",
+        "url": "https://open.spotify.com/album/0OYistQeliN0hrwOmOUd7j"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "duration_ms": 122033,
+      "name": "Bet",
+      "url": "https://open.spotify.com/track/1mbW86eR8OhhH8fokyO961"
+    },
+    {
       "added_at": "2025-08-08 05:05:26",
       "album": {
         "name": "CONCUBANIA",
@@ -283,6 +319,22 @@
       "duration_ms": 224213,
       "name": "I CHOSE YOU",
       "url": "https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1"
+    },
+    {
+      "added_at": "2026-01-23 07:39:49",
+      "album": {
+        "name": "Ratchet & Blues",
+        "url": "https://open.spotify.com/album/7dYcz9wetA8fYJn7CmGVRd"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 174071,
+      "name": "Acts Of Service",
+      "url": "https://open.spotify.com/track/3GsYGT86DaVxXqBx6wFiOB"
     },
     {
       "added_at": "2026-01-16 05:00:35",
@@ -301,20 +353,40 @@
       "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
     },
     {
-      "added_at": "2026-01-23 07:39:49",
+      "added_at": "2026-01-30 05:01:14",
       "album": {
-        "name": "Ratchet & Blues",
-        "url": "https://open.spotify.com/album/7dYcz9wetA8fYJn7CmGVRd"
+        "name": "Typical",
+        "url": "https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN"
       },
       "artists": [
         {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 174071,
-      "name": "Acts Of Service",
-      "url": "https://open.spotify.com/track/3GsYGT86DaVxXqBx6wFiOB"
+      "duration_ms": 176020,
+      "name": "Typical",
+      "url": "https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4"
+    },
+    {
+      "added_at": "2026-01-30 05:01:14",
+      "album": {
+        "name": "Squeeze",
+        "url": "https://open.spotify.com/album/0IsElILJfiHY2Jipq4JEst"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 179439,
+      "name": "Squeeze",
+      "url": "https://open.spotify.com/track/0aHUhMAzRF8nRTqInJ3a5U"
     },
     {
       "added_at": "2026-01-09 06:03:04",
@@ -379,6 +451,22 @@
       "duration_ms": 211384,
       "name": "Dreamland",
       "url": "https://open.spotify.com/track/0hT4SkjlHOO5GjboDHaMkJ"
+    },
+    {
+      "added_at": "2026-01-23 07:39:49",
+      "album": {
+        "name": "Nothing Is Impossible With You",
+        "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 254066,
+      "name": "Nothing Is Impossible With You",
+      "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
     },
     {
       "added_at": "2025-11-21 09:24:23",

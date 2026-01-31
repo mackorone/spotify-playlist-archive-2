@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 230675,
       "name": "All My Yesterdays",
       "url": "https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 287515,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/516dXS5QwzvlvP3zS63dnS"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 281067,
       "name": "Ask Me Now",
       "url": "https://open.spotify.com/track/04ICJKheRrWvKTXcQQN8FM"
@@ -2195,6 +2195,24 @@
     },
     {
       "album": {
+        "name": "Break the lines",
+        "url": "https://open.spotify.com/album/5Yozs3uJhsT54sRtK0BTqV"
+      },
+      "artists": [
+        {
+          "name": "Buddy Kearnan Quartet",
+          "url": "https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185449,
+      "name": "Break the lines",
+      "url": "https://open.spotify.com/track/6bKxkGEyWDa9dYFLW1rCoS"
+    },
+    {
+      "album": {
         "name": "Breakfast in Paris",
         "url": "https://open.spotify.com/album/0dY7zHOAKI0WrAa5UUqnGw"
       },
@@ -2260,7 +2278,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 177520,
       "name": "Brother Rabbit",
       "url": "https://open.spotify.com/track/7GZMIDtN9DLqluOtFy1mUs"
@@ -5232,7 +5250,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 188000,
       "name": "Heartbreak Avenue",
       "url": "https://open.spotify.com/track/6LeUGbjrPif0UyaPYzKxdG"
@@ -5430,7 +5448,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 178250,
       "name": "Home town",
       "url": "https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr"
@@ -7202,7 +7220,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 214635,
       "name": "I\u2019ll pass it on",
       "url": "https://open.spotify.com/track/0AqWzQ2SwrckgIFTqHNbpM"
@@ -7292,7 +7310,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 170784,
       "name": "Jazz Odyssey",
       "url": "https://open.spotify.com/track/3n3gfS8H6kpyqF2x5vUdLT"
@@ -7958,7 +7976,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 166386,
       "name": "Let's Have Lunch at the Counter",
       "url": "https://open.spotify.com/track/7GsguN3kbzxm2n4kCEbXUf"
@@ -9624,6 +9642,24 @@
       "duration_ms": 168741,
       "name": "Moonrays",
       "url": "https://open.spotify.com/track/6akhlCuFUh7zxQ1UnEjZaK"
+    },
+    {
+      "album": {
+        "name": "Moontrace",
+        "url": "https://open.spotify.com/album/2TcTyW1Q1pjse18qKg8J99"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonzalez",
+          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224589,
+      "name": "Moontrace",
+      "url": "https://open.spotify.com/track/177aQsv39LMywphoVqjzbd"
     },
     {
       "album": {
@@ -11900,7 +11936,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 226220,
       "name": "She's Funny That Way",
       "url": "https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4"
@@ -12412,6 +12448,24 @@
       "duration_ms": 298000,
       "name": "Some Other Time - Live",
       "url": "https://open.spotify.com/track/27WWPIrSHvlY1YCKI8WFcf"
+    },
+    {
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/7938RavrEGa7m0a27SfyDF"
+      },
+      "artists": [
+        {
+          "name": "Manor Blue",
+          "url": "https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210975,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/5wAMjUM2Ge6M7mL85ICnzQ"
     },
     {
       "album": {
@@ -13294,7 +13348,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 201954,
       "name": "Swedish sauce",
       "url": "https://open.spotify.com/track/17EQIcoPaLULq6gpDVwRWM"
@@ -14410,7 +14464,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 221092,
       "name": "This tape is good",
       "url": "https://open.spotify.com/track/07TfDT1EBdvlZ0yBwdiLkI"
@@ -14885,6 +14939,24 @@
     },
     {
       "album": {
+        "name": "Upon stars",
+        "url": "https://open.spotify.com/album/3rWLGOJuKwX9riUpAiL06h"
+      },
+      "artists": [
+        {
+          "name": "Novo Stella",
+          "url": "https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174927,
+      "name": "Upon stars",
+      "url": "https://open.spotify.com/track/62tg0mdK6VGKG5JEttYzXW"
+    },
+    {
+      "album": {
         "name": "Upstairs",
         "url": "https://open.spotify.com/album/734XVIU7tldRvB7cuUtmFX"
       },
@@ -15058,7 +15130,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 200214,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1EPcmwgKuXclBG0fiWmiH6"
@@ -15710,7 +15782,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 210375,
       "name": "Whispering Willows",
       "url": "https://open.spotify.com/track/6ZqZYDtZf8s5AZybDlebm7"

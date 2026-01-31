@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Shary\-An
 
-1,208 songs - 2 day 9 hr 45 min
+1,208 songs - 2 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1013,7 +1013,6 @@
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-22 |
 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-09-30 | 2025-12-19 |
 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 | 2025-05-29 | 2025-07-11 |
-| [Track 4](https://open.spotify.com/track/3Zg0fHvU7UOcEyprrLt0Oq) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-29 |  |
 | [Tranen Om Te Lachen](https://open.spotify.com/track/0gdQfQM4aROhIG7YRt2yKr) | [Van Den Hil](https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl) | [Tranen Om Te Lachen](https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp) | 2:44 | 2023-03-16 | 2023-04-21 |
 | [Tranen Op Papier](https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Tranen Op Papier](https://open.spotify.com/album/2Ig57EddQLFhqGTAx656F2) | 2:48 | 2023-09-14 | 2023-10-06 |
 | [Tranquilo](https://open.spotify.com/track/3E46A8yOgmLZMg4wml4II6) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Tranquilo](https://open.spotify.com/album/3l8SohnYNEwrffmjs6lTwx) | 2:36 | 2023-05-11 | 2023-08-25 |
@@ -1076,6 +1075,7 @@
 | [Vlinder](https://open.spotify.com/track/07anqvcBCZVR8AKn4RZEw1) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Vlinder](https://open.spotify.com/album/7oxJp1V8RBoIjXHx9x9dyi) | 3:15 | 2023-03-02 | 2023-06-30 |
 | [Vlinders](https://open.spotify.com/track/21lJmoF9ZKKCYVcu8ilKwp) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Vlinders](https://open.spotify.com/album/4Fw7xpm2uD4FQptlimaU9a) | 3:07 | 2025-12-11 | 2026-01-15 |
 | [Voel Jij Dat Ook](https://open.spotify.com/track/52eFgkFoYcSk0r7nSN3ldb) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Voel Jij Dat Ook](https://open.spotify.com/album/2KHhOp8mQfdJRdvtr3953D) | 2:43 | 2023-05-25 | 2023-09-15 |
+| [Voelen Dat Ik Leef](https://open.spotify.com/track/3Zg0fHvU7UOcEyprrLt0Oq) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Op Mijn Tijd](https://open.spotify.com/album/2ohhVb62V6ziohblWtSiaE) | 2:44 | 2026-01-29 |  |
 | [Voelt Net Als Thuis](https://open.spotify.com/track/6FqgSBX2kjJWWa5j1jrKKN) | [Joël Borelli](https://open.spotify.com/artist/0vy5LMYxfUiYoSLcgomHOD) | [Voelt Net Als Thuis](https://open.spotify.com/album/5jsDE3G9Fapuc4LwKxOwnb) | 2:51 | 2024-04-04 | 2024-06-01 |
 | [Voicemail](https://open.spotify.com/track/5I8IKmeOT9L7yB0D41483W) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Voicemail](https://open.spotify.com/album/37x0oNIyroVzO6YWXbfJto) | 2:57 | 2023-10-05 | 2024-01-05 |
 | [Vol Geluk](https://open.spotify.com/track/39bzVRAtNSKI7xSmoKC4dX) | [Nigel Sean](https://open.spotify.com/artist/4INB4fkjhrcvgOrhkNtaxT) | [Vol Geluk](https://open.spotify.com/album/23seFRUDp7rC0fj2s972oU) | 1:52 | 2024-06-20 | 2024-09-27 |

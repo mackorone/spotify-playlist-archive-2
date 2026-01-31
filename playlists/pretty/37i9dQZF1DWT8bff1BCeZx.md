@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,926 likes - 125 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,940 likes - 125 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Adonai](https://open.spotify.com/track/34R7Mjmhcwjm17nE3gwV8A) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Adonai](https://open.spotify.com/album/7G2K58MbIu38eqVp2sasKz) | 2:49 |
-| 2 | [Track 1](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Hallelujah](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [JOY](https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY) | 2:29 |
 | 3 | [Wonderful Wonder](https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Love Song](https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy) | [God of Love](https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H) | 5:37 |
 | 4 | [Unending Joy](https://open.spotify.com/track/5Ze3zGf8vy3KNI64MAyOXa) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Unending Joy](https://open.spotify.com/album/1JlSlgPAX5ES1G05LZJESr) | 9:45 |
 | 5 | [No Turning Back II](https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [No Turning Back II](https://open.spotify.com/album/4J3JoxIKe3ehKLJ39ABh5C) | 4:59 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 25 | [noises](https://open.spotify.com/track/6vLrw0gHyEFH1YNnHQZI2a) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [noises](https://open.spotify.com/album/2mKDRN3feRcYd4AIAmbHpV) | 1:56 |
 | 26 | [BREAK!](https://open.spotify.com/track/4pOfJXxsFaXoV8KbBzeRDI) | [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Signum Music](https://open.spotify.com/artist/0IXW4mIchkyX10H9rGo2rZ) | [BREAK!](https://open.spotify.com/album/7slavWGVKxSRbRQGKGHxZL) | 2:22 |
 | 27 | [Song Of My Soul](https://open.spotify.com/track/7wRQktGAKukB8vNxhShnx6) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Song Of My Soul](https://open.spotify.com/album/2i2gd91rUyrkHwiaHGV98g) | 3:31 |
-| 28 | [Track 1](https://open.spotify.com/track/3EdMgZwKNqFln0EaVD9yXT) | [David Forlu](https://open.spotify.com/artist/3GZOiQIDEfPmITy20a8Wto) | [](https://open.spotify.com/album/null) | 0:00 |
+| 28 | [Baba \(You Deserve Our Praise\)](https://open.spotify.com/track/3EdMgZwKNqFln0EaVD9yXT) | [David Forlu](https://open.spotify.com/artist/3GZOiQIDEfPmITy20a8Wto) | [My Soul Praise](https://open.spotify.com/album/79jvyD3488GD1N9YUyXkP5) | 6:35 |
 | 29 | [Good God](https://open.spotify.com/track/0RC6HAwLtEMgw9pNZQAX5L) | [Enny Julius](https://open.spotify.com/artist/3fdFe3K5Y7oxhGSQEXRHAW), [Dare David](https://open.spotify.com/artist/3iSjgaz8j7eDfSlsXqhx63), [Anisa Fowler](https://open.spotify.com/artist/2cNLP7g2aSAkVSYdfcQazv) | [Good God](https://open.spotify.com/album/5yCYX1xQW6uflXmkl4ju4L) | 5:11 |
 | 30 | [We will be many](https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [We will be many](https://open.spotify.com/album/4zBbD33yMF8YXqJPZDhAHX) | 3:14 |
 | 31 | [Child of the Lion](https://open.spotify.com/track/4HbTegUOWyZ8jRe6pHwlQ1) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX), [WalahiSteph](https://open.spotify.com/artist/0gI9NFZBoTewszjVE9Rol6) | [Child of the Lion](https://open.spotify.com/album/2xd6RuH4WuSRiZVGpMDxuW) | 3:42 |

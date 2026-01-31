@@ -4,7 +4,7 @@
 
 > 
 
-2,819 songs - 6 day 2 hr 13 min
+2,821 songs - 6 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [2008](https://open.spotify.com/track/4qFXZQJzUfp1hlCyo6ne7q) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Everything Changes \(Deluxe\)](https://open.spotify.com/album/3dcqbyl39nPsTqnqffnAR6) | 3:33 | 2025-10-12 |  |
 | [4AM](https://open.spotify.com/track/5WOZ2Cd1q8cTtxXr1TEx8E) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Soulblast](https://open.spotify.com/artist/3f6KorUYJp7dxTAJpgqKiY) | [4AM](https://open.spotify.com/album/1gz3wHvGsoswJVvpKvv5MD) | 3:03 | 2023-07-29 |  |
 | [4U](https://open.spotify.com/track/6bIKZ9Xl3NgX25JZmB9uWV) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [R3T3P](https://open.spotify.com/artist/6SE1rirTZFq7eZa4VRoDJN), [Mr Ravage](https://open.spotify.com/artist/4iuVB9N1O8MsspGw4UTDsI) | [4U](https://open.spotify.com/album/1WjsFpd03L6R7dNBpclTye) | 2:40 | 2022-10-07 |  |
+| [666](https://open.spotify.com/track/3RCHJgOwnqbnvkrK8LgFO3) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX) | [666](https://open.spotify.com/album/1jiGIv2z3VGxFG8wAOcOOG) | 3:25 | 2026-01-30 |  |
 | [666](https://open.spotify.com/track/30klniKPGoQthRjWQWgmsC) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [666](https://open.spotify.com/album/4C0peDBhRnYlGhlz62YYK5) | 2:44 | 2023-02-20 |  |
 | [99 Luftballons](https://open.spotify.com/track/12yEap9JbOxwY1XI8ojhnH) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [99 Luftballons](https://open.spotify.com/album/6WSWuALX4UBl91Hjb1q4h2) | 2:46 | 2023-06-17 |  |
 | [\[666\]](https://open.spotify.com/track/2ZDbRF73ckGEKHmWtP1qMz) | [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD), [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [\[666\]](https://open.spotify.com/album/4lDMhxJ5ZLDXSpHGXD1XJx) | 2:01 | 2026-01-23 |  |
@@ -2624,6 +2625,7 @@
 | [Ur End](https://open.spotify.com/track/2qiESu0R2AWgGs6SmaUyjM) | [Bright Visions](https://open.spotify.com/artist/0emNN1sdeedFWTl0dY9FHw), [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8) | [collab\_ep\_2.wav](https://open.spotify.com/album/2e6mdjeU18oC0GEJxKJt3m) | 2:54 | 2024-08-25 |  |
 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 | 2023-03-06 |  |
 | [Utopia](https://open.spotify.com/track/6OfBDwczRKT2wMj1s0YqBJ) | [Vexxed](https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY) | [Utopia](https://open.spotify.com/album/14YvDsN7BmpKDqpAXhjGba) | 3:23 | 2025-01-20 |  |
+| [UwU](https://open.spotify.com/track/1VuKkCYSgPnOXQRGUrHTaX) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [UwU](https://open.spotify.com/album/0jHp6fH7kjS1STG0Bw7mse) | 2:27 | 2026-01-30 |  |
 | [Veilinghallen](https://open.spotify.com/track/2n33B7iUh4oRF37trcSq3M) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Defqon.1 2022](https://open.spotify.com/album/0IIZiAU8DR9Jk586zHolw2) | 3:29 | 2022-09-06 |  |
 | [Veo Veo](https://open.spotify.com/track/13FraYFP1CPx0c726P5cF3) | [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [Veo Veo](https://open.spotify.com/album/0dheXvm7uUV6KW3CgmeDFW) | 2:46 | 2024-04-09 |  |
 | [Victim Of Love](https://open.spotify.com/track/1bRr3V8mOWcWGLhDPaUqRR) | [Daniel Seven](https://open.spotify.com/artist/4zRiD4QO1sRhP4BnHGhNkW), [Vau Boy](https://open.spotify.com/artist/2tx3YCpd2RHR1ZSU101zFB) | [Ravekick presents Makina X\-Energy, Vol\. 2](https://open.spotify.com/album/0WbC7mqKt9D2LETH2I9yEZ) | 4:48 | 2025-06-06 |  |

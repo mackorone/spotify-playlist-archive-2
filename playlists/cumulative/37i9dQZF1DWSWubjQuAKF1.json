@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Krystian Embradora",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: NEL, Hania",
   "name": "up next",
   "tracks": [
     {
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 181052,
       "name": "Boisz si\u0119",
       "url": "https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 175094,
       "name": "B\u0118D\u0118 KIM\u015a",
       "url": "https://open.spotify.com/track/52yBm3Q1A8DxOf5EMr4RMp"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 206300,
       "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
       "url": "https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc"
@@ -2988,7 +2988,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 124259,
       "name": "dooko\u0142a mnie",
       "url": "https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA"
@@ -3032,6 +3032,28 @@
       "duration_ms": 153980,
       "name": "dotkn\u0105\u0107 chc\u0119 twego serca",
       "url": "https://open.spotify.com/track/5OASk17FMgi4vwemS7okKO"
+    },
+    {
+      "album": {
+        "name": "Dotyk",
+        "url": "https://open.spotify.com/album/2CatqcH2Ypdow0EmCue0Ua"
+      },
+      "artists": [
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+        },
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "Dotyk",
+      "url": "https://open.spotify.com/track/0boHEoQuU24eU7n0nGLf88"
     },
     {
       "album": {
@@ -3277,6 +3299,32 @@
     },
     {
       "album": {
+        "name": "Eden (Remix)",
+        "url": "https://open.spotify.com/album/2Uqa62c2kjcgksBpeD57O7"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        },
+        {
+          "name": "nezz",
+          "url": "https://open.spotify.com/artist/2jxQKdU1dKP95EzKiQBcg5"
+        },
+        {
+          "name": "Eryk Moczko",
+          "url": "https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203243,
+      "name": "Eden - Remix",
+      "url": "https://open.spotify.com/track/1aXdRJxYplSbCoUUnpmSl7"
+    },
+    {
+      "album": {
         "name": "epicentrum",
         "url": "https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my"
       },
@@ -3368,7 +3416,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 182068,
       "name": "Eyes wide open",
       "url": "https://open.spotify.com/track/1OM5jb3rUGHM1GqTSkX6Jc"
@@ -3900,6 +3948,24 @@
       "duration_ms": 205500,
       "name": "G\u0142upi Lovesong",
       "url": "https://open.spotify.com/track/5cySYs07FKA5ZKWb3uzDRx"
+    },
+    {
+      "album": {
+        "name": "HALO?",
+        "url": "https://open.spotify.com/album/3o1aehL37sKqxz3x99m2rj"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128321,
+      "name": "HALO?",
+      "url": "https://open.spotify.com/track/7jOOHCWvNYb2oDJ4F2CVry"
     },
     {
       "album": {
@@ -6615,6 +6681,24 @@
     },
     {
       "album": {
+        "name": "Mo\u017ce wolniej",
+        "url": "https://open.spotify.com/album/51gwYmWzH81RaKsDL5KXfa"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145134,
+      "name": "Mo\u017ce wolniej",
+      "url": "https://open.spotify.com/track/6PM2WnI82OpoQAN3eWqTMi"
+    },
+    {
+      "album": {
         "name": "my",
         "url": "https://open.spotify.com/album/19GsnIluYB9d42QHswzfej"
       },
@@ -6808,6 +6892,24 @@
       "duration_ms": 234715,
       "name": "Na Si\u0142\u0119",
       "url": "https://open.spotify.com/track/3PTKvhmVrsyPvjqvPMdRvg"
+    },
+    {
+      "album": {
+        "name": "Na start",
+        "url": "https://open.spotify.com/album/68tJRTYvpbzEqp9VNskGkh"
+      },
+      "artists": [
+        {
+          "name": "huskie",
+          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239260,
+      "name": "Na start",
+      "url": "https://open.spotify.com/track/71nAxA4dPuCsiEj7p7wA6Z"
     },
     {
       "album": {
@@ -7098,7 +7200,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 205375,
       "name": "Niby to wiem",
       "url": "https://open.spotify.com/track/1TGP53EWadwAcMCQDzUBL8"
@@ -7943,6 +8045,28 @@
     },
     {
       "album": {
+        "name": "obiecuj\u0119",
+        "url": "https://open.spotify.com/album/74ErgwTtPEZI1spfbR4SxI"
+      },
+      "artists": [
+        {
+          "name": "Kajetan Wolas",
+          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+        },
+        {
+          "name": "ciiicho",
+          "url": "https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158447,
+      "name": "obiecuj\u0119",
+      "url": "https://open.spotify.com/track/5agSZ8Jl4NHLslHfrTCm6F"
+    },
+    {
+      "album": {
         "name": "Obudzi\u0142am si\u0119 dla Ciebie",
         "url": "https://open.spotify.com/album/7CwaXoNf4wTnkTu6WslI3I"
       },
@@ -7972,7 +8096,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 173544,
       "name": "obud\u017a mnie",
       "url": "https://open.spotify.com/track/6FRFJi35UTtGEYvF71Xl0J"
@@ -10769,6 +10893,24 @@
     },
     {
       "album": {
+        "name": "szept (czy czujesz to samo co ja?)",
+        "url": "https://open.spotify.com/album/3RcOv7x1WcBvlrip58kEKF"
+      },
+      "artists": [
+        {
+          "name": "noffkoffska",
+          "url": "https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109459,
+      "name": "szept (czy czujesz to samo co ja?)",
+      "url": "https://open.spotify.com/track/5QhYbChJjXrghDC27SKq5Z"
+    },
+    {
+      "album": {
         "name": "szklane s\u0142owa",
         "url": "https://open.spotify.com/album/4jtsC63Y9ExVEszBljphUD"
       },
@@ -12082,7 +12224,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 203842,
       "name": "warszawska fantazja",
       "url": "https://open.spotify.com/track/3kmiK0nFMkIRBpU9tQdd32"
@@ -12830,6 +12972,24 @@
       "duration_ms": 173949,
       "name": "Za p\u00f3\u017ano",
       "url": "https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB"
+    },
+    {
+      "album": {
+        "name": "Za t\u0119 mi\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/2fI6XtGIkEy0AAqZJwev7o"
+      },
+      "artists": [
+        {
+          "name": "Briela",
+          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179032,
+      "name": "Za t\u0119 mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/0yu7zunzQDh5MPlDM3BZCA"
     },
     {
       "album": {

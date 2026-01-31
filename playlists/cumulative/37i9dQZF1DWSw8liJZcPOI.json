@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 176250,
       "name": "4nine",
       "url": "https://open.spotify.com/track/6Vv6v5zjW5rAiSlpEVQxjy"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 193440,
       "name": "A New Renaissance",
       "url": "https://open.spotify.com/track/1YNJ1dwE0T8PcT2qBPrfXn"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 198901,
       "name": "acceptances",
       "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
@@ -568,6 +568,28 @@
       "duration_ms": 219570,
       "name": "Ae Fond Kiss",
       "url": "https://open.spotify.com/track/38mXFnlp9LSFKx7wZcnsJF"
+    },
+    {
+      "album": {
+        "name": "After the Thaw, We All Breath Again (aus Version)",
+        "url": "https://open.spotify.com/album/0eLhy4Im7QxnJmYqPwyaAV"
+      },
+      "artists": [
+        {
+          "name": "Cicada",
+          "url": "https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC"
+        },
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317533,
+      "name": "After the Thaw, We All Breathe Again - aus Version",
+      "url": "https://open.spotify.com/track/3hgxAPcAiVzMjF3i4DpFcy"
     },
     {
       "album": {
@@ -2069,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "Calm Seas",
+        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287506,
+      "name": "Calm Seas - short version (with nature)",
+      "url": "https://open.spotify.com/track/2sI2vLSlP8nkIbIcGjDslH"
+    },
+    {
+      "album": {
         "name": "Lego Builder's Journey",
         "url": "https://open.spotify.com/album/7ITTIJLVp2HjmjeWnwk274"
       },
@@ -3200,7 +3240,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 224000,
       "name": "dusk",
       "url": "https://open.spotify.com/track/3WZjQWBQjzVlIGERMHMJey"
@@ -4683,6 +4723,24 @@
     },
     {
       "album": {
+        "name": "Get To Live Again",
+        "url": "https://open.spotify.com/album/3UngKA3BhScONUoIXvFvPH"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Get To Live Again",
+      "url": "https://open.spotify.com/track/2y4bB2aSn9iFzNkvPPWi6U"
+    },
+    {
+      "album": {
         "name": "LIFE",
         "url": "https://open.spotify.com/album/1QZB5pIZbQ4FyPSYSujKfE"
       },
@@ -5238,7 +5296,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 264566,
       "name": "Hjl\u00f3\u00f0",
       "url": "https://open.spotify.com/track/3xssh2f0VPRKBnrhnOF1Gc"
@@ -5916,7 +5974,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 186206,
       "name": "j\u00f3l",
       "url": "https://open.spotify.com/track/20EbRpoBHXpiofYllZD3Hz"
@@ -7817,6 +7875,24 @@
     },
     {
       "album": {
+        "name": "Of Quiet Beauty",
+        "url": "https://open.spotify.com/album/6aEXqO4xGhAmz8Llal4iOd"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235986,
+      "name": "Of Quiet Beauty",
+      "url": "https://open.spotify.com/track/3AHHkM3GR6T3lh2cRyn5mn"
+    },
+    {
+      "album": {
         "name": "Piano Day At the Rails (Live)",
         "url": "https://open.spotify.com/album/0ChXtnHr9x5MGZMDQAgOTH"
       },
@@ -8991,6 +9067,24 @@
     },
     {
       "album": {
+        "name": "Sentimental Value",
+        "url": "https://open.spotify.com/album/5OoZ2XvZIxa511ZkAmm3cO"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197672,
+      "name": "Riksarkivet",
+      "url": "https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit"
+    },
+    {
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/6dpwTCRNhHZPU3AWPbuq3K"
       },
@@ -9616,7 +9710,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 290551,
       "name": "Solina",
       "url": "https://open.spotify.com/track/2OoaNGKh2Z3vuINAJfMRzM"
@@ -9874,6 +9968,28 @@
       "duration_ms": 191222,
       "name": "Soul I (Avow)",
       "url": "https://open.spotify.com/track/5Gn7OpMOkQX7S53uujJUMJ"
+    },
+    {
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/0ohQE70zgyo9yJO2ayLJGd"
+      },
+      "artists": [
+        {
+          "name": "Sanaya Ardeshir",
+          "url": "https://open.spotify.com/artist/0WqfcjmB5V8cqxk8Ck1YlK"
+        },
+        {
+          "name": "Sandunes",
+          "url": "https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225064,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/6soDzjMIY2XoShOIEHKFyZ"
     },
     {
       "album": {
@@ -12580,6 +12696,24 @@
       "duration_ms": 346386,
       "name": "Wholeness and the Implicate Order",
       "url": "https://open.spotify.com/track/3JuFH3tVsj4n8tI1vuGwRK"
+    },
+    {
+      "album": {
+        "name": "Wilding (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3ajfHNu36WYXc7JpelYPDg"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362382,
+      "name": "Wilding Theme",
+      "url": "https://open.spotify.com/track/2CyPdKPMt0xgNxFMHM3OOA"
     },
     {
       "album": {

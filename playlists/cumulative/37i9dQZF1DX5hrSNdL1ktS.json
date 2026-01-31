@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 R\u00e9gulo Molina, Oscar Maydon y Neton Vega en cover",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 El Malilla, Lorna y Pablito Mix en cover",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -468,6 +468,36 @@
       "duration_ms": 189473,
       "name": "A la pared",
       "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
+    },
+    {
+      "album": {
+        "name": "A Lo \u00c1rabe (feat. Riko Mix)",
+        "url": "https://open.spotify.com/album/4VGQzbQAPpwEylWX64CEPI"
+      },
+      "artists": [
+        {
+          "name": "Gweri B",
+          "url": "https://open.spotify.com/artist/72t5NVrdGIrMDYeQclMveh"
+        },
+        {
+          "name": "Aaroon Gii",
+          "url": "https://open.spotify.com/artist/15Pt4m1JHNUaOVBC7rl2S0"
+        },
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        },
+        {
+          "name": "Riko Mix",
+          "url": "https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126062,
+      "name": "A Lo \u00c1rabe (feat. Riko Mix)",
+      "url": "https://open.spotify.com/track/3DH1tCbX1BWJrTuFOcdbD6"
     },
     {
       "album": {
@@ -2691,6 +2721,28 @@
     },
     {
       "album": {
+        "name": "CACHORR",
+        "url": "https://open.spotify.com/album/63nHnbvzYR6mmL1lFAkZg1"
+      },
+      "artists": [
+        {
+          "name": "Pollmer",
+          "url": "https://open.spotify.com/artist/2hJLJyOFd92nyPsfwELNWb"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134945,
+      "name": "CACHORR",
+      "url": "https://open.spotify.com/track/57gnGNOrBVAWKIyr8rTmP2"
+    },
+    {
+      "album": {
         "name": "CALDO",
         "url": "https://open.spotify.com/album/1fqSReV3r1vwPKmfTZMti9"
       },
@@ -2836,7 +2888,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 138556,
       "name": "Campe\u00f3n",
       "url": "https://open.spotify.com/track/4kRLHJNMBXL8kQLVMMxYZe"
@@ -7623,6 +7675,24 @@
     },
     {
       "album": {
+        "name": "GUARRINDONGA",
+        "url": "https://open.spotify.com/album/1A0BYEjZQHa7JwZjmROtUa"
+      },
+      "artists": [
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134765,
+      "name": "GUARRINDONGA",
+      "url": "https://open.spotify.com/track/1Ihotqa3xVp8cm7JHu9rqi"
+    },
+    {
+      "album": {
         "name": "Gupi",
         "url": "https://open.spotify.com/album/3yRq74uxKgfgA2AHITbU1T"
       },
@@ -8638,7 +8708,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 161443,
       "name": "Ke Karita!",
       "url": "https://open.spotify.com/track/05B6OlOAM0TfH0YSUtA9qq"
@@ -9422,6 +9492,32 @@
       "duration_ms": 203750,
       "name": "La Motora",
       "url": "https://open.spotify.com/track/7wH57Wibq1vdVr6QmlLL5c"
+    },
+    {
+      "album": {
+        "name": "La Nena Que Suba Al Tubo",
+        "url": "https://open.spotify.com/album/10GcBX5yOVNc4Dv62GChe5"
+      },
+      "artists": [
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "Ledavile",
+          "url": "https://open.spotify.com/artist/4Mm3QHdKwWmHLI6tHYhORk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157265,
+      "name": "La Nena Que Suba Al Tubo",
+      "url": "https://open.spotify.com/track/5joIKKGLlvD33naeceJLC0"
     },
     {
       "album": {
@@ -11302,7 +11398,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 150361,
       "name": "Mami se",
       "url": "https://open.spotify.com/track/3A09VK8dagLM4JidCINksO"
@@ -11952,6 +12048,36 @@
       "duration_ms": 185493,
       "name": "Me Tientas - Remix",
       "url": "https://open.spotify.com/track/6csH5yeXeOcZGDrIq0FRIe"
+    },
+    {
+      "album": {
+        "name": "Medallo",
+        "url": "https://open.spotify.com/album/4VMss2dr85417mYoo45afD"
+      },
+      "artists": [
+        {
+          "name": "Scarcuchi",
+          "url": "https://open.spotify.com/artist/4KRouLb6akxSbAwn6GAX9e"
+        },
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Omarcito Glock",
+          "url": "https://open.spotify.com/artist/5hanOusf1zrEPAXTWJtvMD"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168793,
+      "name": "Medallo",
+      "url": "https://open.spotify.com/track/6Lt2L5aZOPglacvJAbqi14"
     },
     {
       "album": {
@@ -13516,7 +13642,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 165367,
       "name": "No Le Digas A Mam\u00e1",
       "url": "https://open.spotify.com/track/5K0CMXRbUqD7C1AdEYfaZt"
@@ -14745,6 +14871,32 @@
     },
     {
       "album": {
+        "name": "Papi Chulo x Mali",
+        "url": "https://open.spotify.com/album/3f1kIDTAWun9b7mIo1d0R8"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Lorna",
+          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+        },
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179454,
+      "name": "Papi Chulo x Mali",
+      "url": "https://open.spotify.com/track/2VkPDAZMr1QrBxW4M4IYj1"
+    },
+    {
+      "album": {
         "name": "Papi Quiero Perrear",
         "url": "https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY"
       },
@@ -15166,7 +15318,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 206086,
       "name": "Pero No",
       "url": "https://open.spotify.com/track/2tlIQIBlWFVJdX7e6XX3DS"
@@ -16763,6 +16915,32 @@
     },
     {
       "album": {
+        "name": "QUE SE LUZCA",
+        "url": "https://open.spotify.com/album/62YqahpjO1kwM3hjg2bVse"
+      },
+      "artists": [
+        {
+          "name": "Street Boy",
+          "url": "https://open.spotify.com/artist/326u4M8smHv82hMgcjoozU"
+        },
+        {
+          "name": "Dj Esli",
+          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+        },
+        {
+          "name": "Monzon Mx",
+          "url": "https://open.spotify.com/artist/15iOiNG3WUtndM9yBV9cEt"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145257,
+      "name": "QUE SE LUZCA",
+      "url": "https://open.spotify.com/track/4BuhthMwldDp1AheUH4JPt"
+    },
+    {
+      "album": {
         "name": "Que te Enciende",
         "url": "https://open.spotify.com/album/3jOmriqXQU9AORs5XiYW6U"
       },
@@ -17278,7 +17456,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 161632,
       "name": "Relojito Cartier",
       "url": "https://open.spotify.com/track/3GJgf5VJTnuFwh1YUFJGic"
@@ -21412,7 +21590,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 151137,
       "name": "Vaqueritas",
       "url": "https://open.spotify.com/track/1sWNkP967D9Ptq5G6lLLTT"

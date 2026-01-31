@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-10,101 songs - 22 day 23 hr 53 min
+10,101 songs - 22 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5119,7 +5119,7 @@
 | [Nicotine](https://open.spotify.com/track/3LHWy070gXlKZTTuyV78z5) | [Calum X](https://open.spotify.com/artist/6k3weH4JwlD1eeGkLOxK4m), [Mai Melody](https://open.spotify.com/artist/79OYkJhY9VKg3nuxkLeqLI) | [Nicotine](https://open.spotify.com/album/6kdzMcgMMspMNTKEnVCaWw) | 2:04 | 2023-05-22 | 2023-05-30 |
 | [Nigga Dreams](https://open.spotify.com/track/6U2UaYti47pcrdME0SXx97) | [Steelo](https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Nigga Dreams](https://open.spotify.com/album/7ypafu5DDUXBbGP0KqVFDr) | 2:57 | 2024-02-25 | 2024-03-04 |
 | [NIGHT DANCER \- BIG Naughty Remix](https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:30 | 2023-05-15 | 2023-05-23 |
-| [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:26 | 2026-01-26 |  |
+| [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:28 | 2026-01-26 |  |
 | [Night Light \(feat\. CBS\)](https://open.spotify.com/track/3IlxlAu9iDY2C0umXZnJZE) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [CBS](https://open.spotify.com/artist/7AHhB1P3XhzSw4oPT2unag) | [City to City , Coast to Coast](https://open.spotify.com/album/46IrgOSnQDRny9vbauIpb6) | 4:06 | 2024-11-11 | 2024-11-18 |
 | [NIGHT ROUTINE\(feat\. Sigma\-T\)](https://open.spotify.com/track/4kiHnGdf6ym96QDUGvkweC) | [ISAFAT](https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt), [Sigma\-T](https://open.spotify.com/artist/0UduPtVe7CeTtcho0OWMFK) | [NIGHT ROUTINE \(feat\. Sigma\-T\)](https://open.spotify.com/album/3ghnX72dSUGm8Q5QSWYToS) | 2:53 | 2025-08-11 | 2025-08-18 |
 | [Night Time \- 10th Anniversary Remix \#1](https://open.spotify.com/track/2k1hs0pDlF16OBZsQVkYyY) | [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS), [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Night Time \(10th Anniversary Remix \#1\)](https://open.spotify.com/album/0iJ6Q3EPYgrrTl27fN7NfD) | 3:04 | 2024-11-25 | 2024-12-02 |

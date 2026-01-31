@@ -3053,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "Escrito en la M-30",
+        "url": "https://open.spotify.com/album/7q7uLuyeYwAXZkMtoTKwkV"
+      },
+      "artists": [
+        {
+          "name": "GRECAS",
+          "url": "https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131914,
+      "name": "Bad Voy",
+      "url": "https://open.spotify.com/track/0WIVpc0hKNxjHkl9xNxw6P"
+    },
+    {
+      "album": {
         "name": "BADDIE",
         "url": "https://open.spotify.com/album/7hp1Q0RrnHgSU9G5sMFxGp"
       },
@@ -16662,7 +16680,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 263942,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5"
@@ -16853,7 +16871,7 @@
         },
         {
           "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+          "url": "https://open.spotify.com/artist/5QVPyqetsyLThjJGfqpAUV"
         }
       ],
       "date_added": "2026-01-15",

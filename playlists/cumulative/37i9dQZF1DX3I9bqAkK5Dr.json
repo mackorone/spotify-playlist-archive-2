@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : AsurA",
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Ritesh G Rao",
   "name": "Telugu Indie",
   "tracks": [
     {
@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Cheliya Choodave",
+        "url": "https://open.spotify.com/album/4XCnaErpM5mfWqq8W5dGo0"
+      },
+      "artists": [
+        {
+          "name": "Fleep & Arin",
+          "url": "https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Cheliya Choodave",
+      "url": "https://open.spotify.com/track/714hV4u9N5EAmHrssrweuv"
+    },
+    {
+      "album": {
         "name": "Cheppave Cheliya",
         "url": "https://open.spotify.com/album/26vE3bRx6ijKcIudIE8B7L"
       },
@@ -1451,6 +1469,32 @@
     },
     {
       "album": {
+        "name": "DID IT MYSELF",
+        "url": "https://open.spotify.com/album/3tacMS9yYn4ATJqsXa5VLC"
+      },
+      "artists": [
+        {
+          "name": "Ronn",
+          "url": "https://open.spotify.com/artist/6LW1EbzNVeFXwLX3CTAu2U"
+        },
+        {
+          "name": "GRK",
+          "url": "https://open.spotify.com/artist/6BoSxQn5WJeF5pR9miiLkg"
+        },
+        {
+          "name": "ChunkyKid",
+          "url": "https://open.spotify.com/artist/2eGB1flJjXLebuak8qkj1x"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133150,
+      "name": "DID IT MYSELF",
+      "url": "https://open.spotify.com/track/48J1pICcJWFySBfghCgfty"
+    },
+    {
+      "album": {
         "name": "Don't Care",
         "url": "https://open.spotify.com/album/2VsrTgf8EkXamAUJK80dj1"
       },
@@ -1576,7 +1620,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 193246,
       "name": "Ee Dhooram",
       "url": "https://open.spotify.com/track/05xRro06AoS24cKRabrPMH"
@@ -1910,7 +1954,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 195714,
       "name": "Fierce",
       "url": "https://open.spotify.com/track/6QAjVRwHoryRaSfqPUq7m1"
@@ -3462,7 +3506,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 270000,
       "name": "Kashmir Diaries",
       "url": "https://open.spotify.com/track/3eUoCOpwv7gYDBIOA0R8RE"
@@ -5067,6 +5111,24 @@
     },
     {
       "album": {
+        "name": "Nannaku Prematho",
+        "url": "https://open.spotify.com/album/0dks3GZ7eh35WT6Z8ySc3B"
+      },
+      "artists": [
+        {
+          "name": "DEVARO",
+          "url": "https://open.spotify.com/artist/29mbv9F0bBnk9lkyr9oPoc"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213079,
+      "name": "Nannaku Prematho",
+      "url": "https://open.spotify.com/track/5gR88oHWOemgAwBEu7YiA6"
+    },
+    {
+      "album": {
         "name": "Nannu Nenu",
         "url": "https://open.spotify.com/album/1hULEoHM0juEpDFyXJqpf5"
       },
@@ -6452,6 +6514,24 @@
       "duration_ms": 344117,
       "name": "Padipoya Nee Premalo",
       "url": "https://open.spotify.com/track/22bjkfQt5qLAnK4xijhVuB"
+    },
+    {
+      "album": {
+        "name": "Pagale Jaabili",
+        "url": "https://open.spotify.com/album/133QK7uuXdOB8jXw5AG3qS"
+      },
+      "artists": [
+        {
+          "name": "Ritesh G Rao",
+          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "Pagale Jaabili",
+      "url": "https://open.spotify.com/track/476UKv6WOa3LCIZ05FhgmN"
     },
     {
       "album": {
@@ -8252,7 +8332,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 321600,
       "name": "Shyama Shyam",
       "url": "https://open.spotify.com/track/4rrtLmqjnTuyg8KgsZ7d1K"

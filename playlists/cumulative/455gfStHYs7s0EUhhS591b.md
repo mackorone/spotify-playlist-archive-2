@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-254 songs - 14 hr 53 min
+255 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Love, Love, Love \- Here I Come](https://open.spotify.com/track/0k1MFlTGPkqOwz1BPFTImS) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Love, Love, Love \- Here I Come](https://open.spotify.com/album/0ZvCTm4WEuKcXbeozxcTdf) | 3:33 | 2025-07-18 |  |
 | [Love, Love, Love \- Here I Come \- Beatless Mix](https://open.spotify.com/track/2vs3iXxqRtxvTTGne50E5E) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Love, Love, Love \- Here I Come / Day One \(Beatless Mixes\)](https://open.spotify.com/album/3CJhzXPTPepxpXfjO8ljRH) | 3:33 | 2025-06-19 |  |
 | [Magnetic](https://open.spotify.com/track/4HEggPhcyKQGzHLsgfs9my) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [Belle Doron](https://open.spotify.com/artist/0vG28tQeh1adA0xHmdUTVQ) | [Magnetic](https://open.spotify.com/album/2GmPo1t1eRB47964nvvJAl) | 3:02 | 2025-06-19 |  |
+| [Make it Smooth](https://open.spotify.com/track/3B06TeexXHiUanSV8hUMtN) | [AVÖ](https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb), [SHAMI \(official\)](https://open.spotify.com/artist/2t4PwQuzZ6t3jgIO8i5dNn) | [Make it Smooth](https://open.spotify.com/album/3b61q9LVnnbhMUQ0ZQlpcR) | 3:12 | 2026-01-30 |  |
 | [Manifesto](https://open.spotify.com/track/4eRWp0hlP56Ifl5MgbIPY6) | [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7), [Chakra](https://open.spotify.com/artist/7h6r54f4n9PtgfWIDqhsmM), [The Space Brothers](https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5) | [Manifesto](https://open.spotify.com/album/47zGVf3ONArEu8oVjvhlBk) | 3:36 | 2025-07-18 |  |
 | [Mario Hit The Stairs](https://open.spotify.com/track/1xwX3s0GkbKbjYtqG0M0c0) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [Hoogeloon \(Part Two\)](https://open.spotify.com/album/4y1s5lLIq83ghaGAnKxMNe) | 3:52 | 2025-07-18 | 2025-09-26 |
 | [Mediterranean Flower \- Chill Version](https://open.spotify.com/track/5jYPCmTtkAg3dRKN4hKBCY) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg) | [The Downtempo Edition \(By Roger Shah\)](https://open.spotify.com/album/3qCwSOYjpZJaFvVu1YY2jz) | 5:39 | 2025-06-19 |  |

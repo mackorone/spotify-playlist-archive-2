@@ -4,7 +4,7 @@
 
 > roots run deep with Kashus Culpepper
 
-428 songs - 1 day 1 hr 34 min
+430 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Northern Star](https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz) | 2:41 | 2025-03-21 | 2025-05-03 |
 | [Nose On The Grindstone](https://open.spotify.com/track/41qeQaiSa09dPsGzgechek) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Nose On The Grindstone](https://open.spotify.com/album/01KYIU27i4oQVxpdtG0Yt3) | 2:55 | 2025-06-13 | 2025-08-09 |
 | [Nothing's News](https://open.spotify.com/track/2ZwTsj0dsoutw9iLjhOfX8) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD), [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Nothing's News](https://open.spotify.com/album/3mpPeR2CXgyYMF3uFujzt4) | 3:17 | 2023-02-24 | 2023-06-17 |
+| [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 | 2026-01-30 |  |
 | [Ode To Bourbon](https://open.spotify.com/track/4kvCtReby19JPkePLwy8Pq) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:01 | 2025-01-02 |  |
 | [Oh Ohio](https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Oh Ohio](https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5) | 2:58 | 2023-03-17 | 2023-06-03 |
 | [Oklahoma \(feat\. Read Southall Band\)](https://open.spotify.com/track/4YGql2q12wnXTdMvTm5573) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/3Op5gWQhEgVB3x2H4OHDvV) | 7:38 | 2023-02-24 | 2024-08-29 |
@@ -436,5 +437,6 @@
 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j) | 3:44 | 2024-07-02 |  |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2024-08-28 |  |
 | [Young Heart](https://open.spotify.com/track/1lrMhK5zQJYTarnm2UggNZ) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Young Heart](https://open.spotify.com/album/6LfENbSpcG3QX421jC5eYz) | 2:50 | 2023-11-10 | 2023-12-09 |
+| [Your Place At My Place](https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Thinking Too Much](https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1) | 3:36 | 2026-01-30 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

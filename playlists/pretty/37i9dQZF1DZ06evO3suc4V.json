@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10159,
+  "num_followers": 10166,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXlRgAAAAAD4N6F/0mx9tYdOeLQsc7LN",
+  "snapshot_id": "aXqjAAAAAAAsmpZOh8XG1sbDUsnrzy2M",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "noise ( meaning )",
-        "url": "https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ"
-      },
-      "artists": [
-        {
-          "name": "monte booker",
-          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 127297,
-      "name": "awake",
-      "url": "https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Telefone",
         "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 218627,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3MoQWxjYFWm5wh7Q5XwSBp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "noise ( meaning )",
+        "url": "https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ"
+      },
+      "artists": [
+        {
+          "name": "monte booker",
+          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 127297,
+      "name": "awake",
+      "url": "https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
       "duration_ms": 167746,
       "name": "Moon Shoes",
       "url": "https://open.spotify.com/track/7hMUEYcx1aApliI6CAqvBS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Moonlight EP",
+        "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 176810,
+      "name": "Thirst - EP Version",
+      "url": "https://open.spotify.com/track/66YWmARKaVgVYW7ZVPCQUM"
     },
     {
       "added_at": null,

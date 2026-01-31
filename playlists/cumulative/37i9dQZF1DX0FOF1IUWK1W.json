@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Panda, Gusttavo Lima  e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Meno K, DJ Japa NK  e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -5087,6 +5087,36 @@
     },
     {
       "album": {
+        "name": "Esse Cupido N\u00e3o Me Ajuda",
+        "url": "https://open.spotify.com/album/7kMvEhtZxd5CdhVqQBYtG2"
+      },
+      "artists": [
+        {
+          "name": "Dexhenry",
+          "url": "https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u"
+        },
+        {
+          "name": "DJ QUIRINO",
+          "url": "https://open.spotify.com/artist/7lpdjvBflQskU8qfdHuCSF"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Ascending",
+          "url": "https://open.spotify.com/artist/4LkHFz8KqQUcE5TGf0IapL"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Esse Cupido N\u00e3o Me Ajuda",
+      "url": "https://open.spotify.com/track/58lPXPuE7deTicTvsdvVbL"
+    },
+    {
+      "album": {
         "name": "Eu Bem Que Te Avisei - Tu Empurrou Ele Pei",
         "url": "https://open.spotify.com/album/3agQ7dEMi2JOATLApERs3N"
       },
@@ -5314,6 +5344,28 @@
       "duration_ms": 148561,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/4V2rUOmaevK0C1bKAkeFf5"
+    },
+    {
+      "album": {
+        "name": "Eu T\u00f4 Querendo De Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3FUf6QnemeXXl7vITVDqf5"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135250,
+      "name": "Eu T\u00f4 Querendo De Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pkUneJOTi0uHF4Eqf3T6r"
     },
     {
       "album": {
@@ -6664,7 +6716,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 179504,
       "name": "Ilus\u00e3o De \u00d3tica - Ao Vivo",
       "url": "https://open.spotify.com/track/44CTudFZ0kbaIF9n0jk7oU"
@@ -7878,10 +7930,40 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 177230,
       "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
       "url": "https://open.spotify.com/track/4ATO632UaFTJltxCbfBpHI"
+    },
+    {
+      "album": {
+        "name": "MIXTAPE - BIG G",
+        "url": "https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        },
+        {
+          "name": "Dj Andrabeat",
+          "url": "https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
+      "url": "https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI"
     },
     {
       "album": {
@@ -10274,7 +10356,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 165231,
       "name": "OR\u00c7AMENTO - Ao Vivo",
       "url": "https://open.spotify.com/track/79MxbO0fmeREiSUdODnqaq"

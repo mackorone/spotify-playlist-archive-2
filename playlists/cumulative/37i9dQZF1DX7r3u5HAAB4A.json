@@ -986,7 +986,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 138000,
       "name": "Bruise",
       "url": "https://open.spotify.com/track/4f6jVjwdLbhIEQ3GUjgfbB"
@@ -3144,7 +3144,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 137926,
       "name": "Love The Way (feat. Yung Bredda & Lejuh)",
       "url": "https://open.spotify.com/track/53gGQCk5uReMXdupVwi54T"
@@ -3678,6 +3678,24 @@
       "duration_ms": 204800,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/6OJ9YUPa90I1nXjSfdqCL7"
+    },
+    {
+      "album": {
+        "name": "NNT",
+        "url": "https://open.spotify.com/album/4Sza3T8jEFntT83ZSFOzV1"
+      },
+      "artists": [
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "NNT",
+      "url": "https://open.spotify.com/track/6RJ5RBEdQUdzAuLMRbeNqm"
     },
     {
       "album": {
@@ -5902,6 +5920,24 @@
       "duration_ms": 168583,
       "name": "Turn Me On (with Jada Kingdom)",
       "url": "https://open.spotify.com/track/3RN7OlUay6Atp5cFjrbkPe"
+    },
+    {
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/2BFNePqPv0p0nsxbtgD1RE"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/0Oqiavr7my94MXN2K8HLeJ"
     },
     {
       "album": {

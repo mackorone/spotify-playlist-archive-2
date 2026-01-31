@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 攬佬SKAI ISYOURGOD
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,791 likes - 102 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,789 likes - 102 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [都知订](https://open.spotify.com/track/718dSu3kQMgpN6WzUDviEv) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI), [瘦恒SoulHan](https://open.spotify.com/artist/2yEM6FQHRg8FRSbQ2qNV46), [PlayerJ](https://open.spotify.com/artist/3ZROSle4RFBt5LeZbeSWko), [步步高先生](https://open.spotify.com/artist/5LMG6LAfmneyTRKhs7uu1Q), [阿牛](https://open.spotify.com/artist/7imlHyMoxRnxJpYQPqu6JO) | [都知订](https://open.spotify.com/album/5zbCQHWtSFLYDDkKHSRHpG) | 3:44 |
 | 2 | [你怎麼捨得我難過 \- 滾石撞樂隊2 \(原唱:黃品源\)](https://open.spotify.com/track/1fZhClIljIAn0qC2E0JMAo) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [滾石撞樂隊2 \- 你怎麼捨得我難過](https://open.spotify.com/album/30JaE8G16R1929l9KKnGxG) | 4:11 |
-| 3 | [追](https://open.spotify.com/track/51p4wh1TSASZUPEenUgelq) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [](https://open.spotify.com/album/null) | 4:45 |
+| 3 | [追](https://open.spotify.com/track/51p4wh1TSASZUPEenUgelq) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [1994前傳 \- 追](https://open.spotify.com/album/2XwqXjWUNPzaBh3qZ2Twg2) | 4:45 |
 | 4 | [跟悲傷結了帳](https://open.spotify.com/track/2asybJtO3YT7zg22tsIJBD) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [跟悲傷結了帳](https://open.spotify.com/album/20mUgXnBxw1q6UkgikTTuo) | 3:03 |
 | 5 | [太陽與地球](https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:22 |
 | 6 | [K歌之王 AIR \(Night Version\)](https://open.spotify.com/track/7BIviq53hh8sHIrA7kbJmh) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [K歌之王 AIR](https://open.spotify.com/album/7lux4ZGRIenxk1fKqsWXZs) | 3:39 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Steve Ibrahim
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,186 likes - 68 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,179 likes - 68 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Le mur du salon](https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Le mur du salon](https://open.spotify.com/album/2gZL4ccmGDOXe3mKvTGENo) | 3:09 |
-| 2 | [Je Ne T'Aime Plus](https://open.spotify.com/track/0L4EzEIPK3SEcz0PKXURlp) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Je Ne T'Aime Plus](https://open.spotify.com/album/31othSVbJmYGw12cF2fPxg) | 3:31 |
+| 2 | [J'Suis Pas Bo](https://open.spotify.com/track/1wPrfGvINb3lWrGbLWXedI) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Mesdames, Messieurs !](https://open.spotify.com/album/43Kjt22AJCNFvCjnYtsuqn) | 2:31 |
 | 3 | [man down](https://open.spotify.com/track/5wXIjuSQ0wxBnATunXtslu) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [man down](https://open.spotify.com/album/5hboPejEJjKJ1Pr0mSrgrB) | 2:08 |
 | 4 | [particule](https://open.spotify.com/track/6FAoIVpBja2wbmPEP6gKat) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [industry plant](https://open.spotify.com/album/3wx2wcQ53Ilo5NOUU6Mw65) | 3:00 |
 | 5 | [DIMA RAVE](https://open.spotify.com/track/3hkiHz4uwZ73c4QstMuwWy) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [EXTASIA](https://open.spotify.com/album/46Kr05vkVqq1vFI7rh7WtX) | 1:55 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 67 | [Tourne Tourne](https://open.spotify.com/track/0RAYTKZxMhS5nWbPP2Ojuz) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [CARDIO DRAME](https://open.spotify.com/album/0t4I2vTPNL4IKMXCVNSCvY) | 2:29 |
 | 68 | [L’heure bleue](https://open.spotify.com/track/04ic5De5mCJS8iqVlrRrpQ) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Histoire d’un masque](https://open.spotify.com/album/5ejWWUcecAbiW4abPX6DOh) | 2:16 |
 
-Snapshot ID: `AAAAAByK3LUHYOHDmV+WyxixpyH7K62W`
+Snapshot ID: `AAAAAAog5yEkNXMjtCqLYxVcDLu0xr43`

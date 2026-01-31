@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 39145,
       "name": "... an Interlude",
       "url": "https://open.spotify.com/track/0ZisrQEomfaJiUnHnjjVjU"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 192000,
       "name": "3AM",
       "url": "https://open.spotify.com/track/2xgTGCYGTJjHbTYaUI1IMC"
@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "All I Had",
+        "url": "https://open.spotify.com/album/2WcmwRm7nodUGudxvPu4XF"
+      },
+      "artists": [
+        {
+          "name": "Bubba2z",
+          "url": "https://open.spotify.com/artist/3KEYLATwpuGgYwP0R1Yhwt"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155527,
+      "name": "All I Had",
+      "url": "https://open.spotify.com/track/4NJdYPludYsM14SNo3ymmT"
+    },
+    {
+      "album": {
         "name": "All Of Us",
         "url": "https://open.spotify.com/album/4QW0E2lLslWarQ4FHhfPEh"
       },
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 165302,
       "name": "AYN",
       "url": "https://open.spotify.com/track/2tQkTPj8kXXXZ9cAAAh3aP"
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 74181,
       "name": "BESIDE SLIM",
       "url": "https://open.spotify.com/track/1KPSFMGYFza7K7MuSqZSO7"
@@ -3380,7 +3398,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 208258,
       "name": "CRASH",
       "url": "https://open.spotify.com/track/2ZWfCfDjGtkEN6px3aFwKz"
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 152880,
       "name": "D.W.D (Dancing With Devils)",
       "url": "https://open.spotify.com/track/3hQUyTlUVAWkCov6ZfXJMF"
@@ -4476,6 +4494,28 @@
       "duration_ms": 200124,
       "name": "DRAGON SOUL",
       "url": "https://open.spotify.com/track/6K4ra9pzR9pl4aBVjhULIT"
+    },
+    {
+      "album": {
+        "name": "Dramak - Rancunier",
+        "url": "https://open.spotify.com/album/4LYQn8f4Sgwm8H32wcyd7C"
+      },
+      "artists": [
+        {
+          "name": "Dramak O Mic",
+          "url": "https://open.spotify.com/artist/3l6uXBMKuwIpKgKJogg8NG"
+        },
+        {
+          "name": "Prins'S",
+          "url": "https://open.spotify.com/artist/5p6UlAqLmFd5F719a70Kyh"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194413,
+      "name": "Dramak - Rancunier",
+      "url": "https://open.spotify.com/track/45PJR6Z1v1E4Y9gw0CIjVE"
     },
     {
       "album": {
@@ -7080,7 +7120,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 255305,
       "name": "HU!",
       "url": "https://open.spotify.com/track/5Z5pkj8QFYeHQP8neuCMGQ"
@@ -7282,7 +7322,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 103859,
       "name": "ICARDI",
       "url": "https://open.spotify.com/track/68u3ru051BvzrvYYmMM8Qb"
@@ -7660,6 +7700,24 @@
       "duration_ms": 265038,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/6NdC7SjX4rGYfDOpSwFe7i"
+    },
+    {
+      "album": {
+        "name": "INVISIBLE",
+        "url": "https://open.spotify.com/album/0LhSMSyZlzRHwUD4WO804j"
+      },
+      "artists": [
+        {
+          "name": "GR7K",
+          "url": "https://open.spotify.com/artist/0TwMnPGMMK5WDmPP6ILPWp"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "INVISIBLE",
+      "url": "https://open.spotify.com/track/53oi3xv6jHPPri6Q5yHxC8"
     },
     {
       "album": {
@@ -8416,7 +8474,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 157650,
       "name": "kx.effekt",
       "url": "https://open.spotify.com/track/6B16ouP0Ud1fJc2iBJPqcE"
@@ -10346,7 +10404,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 167112,
       "name": "Money I Dey Find",
       "url": "https://open.spotify.com/track/77GHzt5EndSJ6vn8MktsJd"
@@ -11563,6 +11621,24 @@
     },
     {
       "album": {
+        "name": "On the low",
+        "url": "https://open.spotify.com/album/7Dm33OA8SitEFIJZs6pqXf"
+      },
+      "artists": [
+        {
+          "name": "Skylite",
+          "url": "https://open.spotify.com/artist/7ItYu7DjasYyI5l118rEYR"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170031,
+      "name": "On the low",
+      "url": "https://open.spotify.com/track/7eyxMio0cNcMOLVymhaHqy"
+    },
+    {
+      "album": {
         "name": "\"I'll-Advised\"",
         "url": "https://open.spotify.com/album/7ianJrCEbqnXn2k1L9Urm4"
       },
@@ -11632,7 +11708,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 110662,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/23s9tJ4xmOA00PuUwhS56q"
@@ -11889,6 +11965,24 @@
     },
     {
       "album": {
+        "name": "Tirat",
+        "url": "https://open.spotify.com/album/2bGBVXIHWhiMRrxhYrYume"
+      },
+      "artists": [
+        {
+          "name": "Radi 216",
+          "url": "https://open.spotify.com/artist/48nbLKABX0EPaH6pg6UcTB"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228317,
+      "name": "parabellum",
+      "url": "https://open.spotify.com/track/7IIWd636d0ZpEAm5zhwNhE"
+    },
+    {
+      "album": {
         "name": "PARAD!SE EP",
         "url": "https://open.spotify.com/album/5qThpC8vWB21w04L3YgMHL"
       },
@@ -11954,7 +12048,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 161123,
       "name": "PARTY IN THE 2000's - Radio Edit",
       "url": "https://open.spotify.com/track/10FH23mEuLvVsMfarE1ulf"
@@ -13386,6 +13480,24 @@
       "duration_ms": 130166,
       "name": "SAVANA FREESTYLE",
       "url": "https://open.spotify.com/track/1KETmcuPgVgwK9uYkzrgNg"
+    },
+    {
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/4yPTBkhJo0MpNeT3tKOeHA"
+      },
+      "artists": [
+        {
+          "name": "Jake Razy",
+          "url": "https://open.spotify.com/artist/0ZU7lwz1343jEoanIW1Gxf"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204459,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/2j1oZ75SKUKI3dUNURwIba"
     },
     {
       "album": {
@@ -15785,6 +15897,24 @@
     },
     {
       "album": {
+        "name": "D\u00c9COUVERTE",
+        "url": "https://open.spotify.com/album/1WDM27hFqJ96EavOVz1Za0"
+      },
+      "artists": [
+        {
+          "name": "LIL HARD YUNG-DADY",
+          "url": "https://open.spotify.com/artist/67yyMvmxcMV1v2dIsmXfS5"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201522,
+      "name": "Trap ATL I (SINALOA)",
+      "url": "https://open.spotify.com/track/7sjygQUdi6HyG0fIUxS51n"
+    },
+    {
+      "album": {
         "name": "Trapped Emotion (Freestyle)",
         "url": "https://open.spotify.com/album/2NtGdp8gmLt3lSEzdl7CWD"
       },
@@ -15814,7 +15944,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 172704,
       "name": "Trapped in darkness",
       "url": "https://open.spotify.com/track/7KdpMwongCToPVouuef8jW"
@@ -16126,7 +16256,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 216972,
       "name": "Turr\u00f3n De Coco",
       "url": "https://open.spotify.com/track/1p6kJWbTU8QbuH1P5Qjusn"
@@ -17550,6 +17680,32 @@
       "duration_ms": 163433,
       "name": "ZIEMLICH GUT",
       "url": "https://open.spotify.com/track/6a2USX452RGZQwkfgPQqxY"
+    },
+    {
+      "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/0SjN13Z9S6k66vHMLdAXlm"
+      },
+      "artists": [
+        {
+          "name": "BSM_2310",
+          "url": "https://open.spotify.com/artist/6QaQKNMiSXtqda8bqwo6mx"
+        },
+        {
+          "name": "Sontok",
+          "url": "https://open.spotify.com/artist/5iC47f5LhEz6c0oWM7Tk49"
+        },
+        {
+          "name": "mi368",
+          "url": "https://open.spotify.com/artist/5WpPX5v61a9sDy6lXDkQiK"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135400,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/47CuQErs94akEffy1coXzm"
     },
     {
       "album": {

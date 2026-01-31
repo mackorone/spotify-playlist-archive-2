@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Caffeine, Fahimi",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover:  Calvin Jeremy, Rio Febrian ",
   "name": "Musik Akhir Pekan",
   "tracks": [
+    {
+      "album": {
+        "name": "KONTRADILSKI",
+        "url": "https://open.spotify.com/album/0OiPmTKBdlFcrASBfPG4Yr"
+      },
+      "artists": [
+        {
+          "name": "DEABDIL",
+          "url": "https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263242,
+      "name": "( jangan ) terserah",
+      "url": "https://open.spotify.com/track/0pajC5ZhNw4hMNeImsPjBO"
+    },
     {
       "album": {
         "name": "(Jangan) Jatuh Cinta",
@@ -6485,6 +6503,46 @@
     },
     {
       "album": {
+        "name": "Kita Buat Menyenangkan",
+        "url": "https://open.spotify.com/album/57chfzR7TAIGbjPtZVEl9x"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249920,
+      "name": "Kita Buat Menyenangkan",
+      "url": "https://open.spotify.com/track/4J9DouSADdyakPD9h6oD6N"
+    },
+    {
+      "album": {
+        "name": "Kita Sama-Sama",
+        "url": "https://open.spotify.com/album/17itcjab51VSbQuVDMhETN"
+      },
+      "artists": [
+        {
+          "name": "Calvin Jeremy",
+          "url": "https://open.spotify.com/artist/5R0U4DSRlKGCFcyJa4z4yD"
+        },
+        {
+          "name": "Rio Febrian",
+          "url": "https://open.spotify.com/artist/3q3FakGkayPyaj7dV3luv9"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201882,
+      "name": "Kita Sama-Sama",
+      "url": "https://open.spotify.com/track/72xEL5kypQQUIIGEJBm94h"
+    },
+    {
+      "album": {
         "name": "Kita Tak Sama",
         "url": "https://open.spotify.com/album/4UnAcXUNCajrKxQ0atlkc3"
       },
@@ -7332,6 +7390,24 @@
       "duration_ms": 230062,
       "name": "maaf, aku gak romantis",
       "url": "https://open.spotify.com/track/5LiSqq9ulrceYCexBJ68YD"
+    },
+    {
+      "album": {
+        "name": "Maafkan Aku",
+        "url": "https://open.spotify.com/album/7GJxS4MWqQpKn1xwjlsb08"
+      },
+      "artists": [
+        {
+          "name": "Aldi Taher",
+          "url": "https://open.spotify.com/artist/158zHUma3pfyT4VigmH9n9"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268128,
+      "name": "Maafkan Aku",
+      "url": "https://open.spotify.com/track/45GppjlS8gEXCs0JSbVLnR"
     },
     {
       "album": {
@@ -8445,6 +8521,28 @@
     },
     {
       "album": {
+        "name": "Mulanya Disini",
+        "url": "https://open.spotify.com/album/6l9gVoYGE4sKvtcvbKY9aC"
+      },
+      "artists": [
+        {
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+        },
+        {
+          "name": "Rima Melati Adams",
+          "url": "https://open.spotify.com/artist/1xb3vUWhUFFBRCJlaP2Bqc"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267686,
+      "name": "Mulanya Disini",
+      "url": "https://open.spotify.com/track/1vabZWqOxt8kkod2bZeGNU"
+    },
+    {
+      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/7Bnv9riHf254iV9yh2XLCk"
       },
@@ -9347,6 +9445,24 @@
     },
     {
       "album": {
+        "name": "Perahu Kertas",
+        "url": "https://open.spotify.com/album/0f44eQtoSjg3XOukG7RFxj"
+      },
+      "artists": [
+        {
+          "name": "Dee Lestari",
+          "url": "https://open.spotify.com/artist/1mCcTwpEABnSVB4D8rXfRN"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241621,
+      "name": "Perahu Kertas",
+      "url": "https://open.spotify.com/track/16udHyqg2MLJIN32L3YBt2"
+    },
+    {
+      "album": {
         "name": "PERAN",
         "url": "https://open.spotify.com/album/50kZSmJBb9Zupmc36LnrqJ"
       },
@@ -9786,6 +9902,24 @@
       "duration_ms": 246118,
       "name": "Punah",
       "url": "https://open.spotify.com/track/1f4KvIPE9v3sIL5qdvBF2Y"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/38xPvAGdmKkVsrnE8WnE79"
+      },
+      "artists": [
+        {
+          "name": "Padi",
+          "url": "https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272370,
+      "name": "Punah",
+      "url": "https://open.spotify.com/track/1Bg1wyk8n3pnvbRKvgluDe"
     },
     {
       "album": {
@@ -10545,6 +10679,24 @@
     },
     {
       "album": {
+        "name": "Salah Kaprah #Anjay",
+        "url": "https://open.spotify.com/album/4ZkK2v1T2GcDvqyUdThDch"
+      },
+      "artists": [
+        {
+          "name": "Mario G klau",
+          "url": "https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238909,
+      "name": "Salah Kaprah #Anjay",
+      "url": "https://open.spotify.com/track/3AnEaWI0Ax5jmP40RVg6cG"
+    },
+    {
+      "album": {
         "name": "Salah Menaruh Hati",
         "url": "https://open.spotify.com/album/1lgfcB3q446ILwmW1NztJ6"
       },
@@ -10560,6 +10712,24 @@
       "duration_ms": 270902,
       "name": "Salah Menaruh Hati",
       "url": "https://open.spotify.com/track/603dNtE5q3OHmWFtQkcE2Y"
+    },
+    {
+      "album": {
+        "name": "Salah Tapi Baik",
+        "url": "https://open.spotify.com/album/4HNENDyea9xr7kF2HBF4t9"
+      },
+      "artists": [
+        {
+          "name": "Safira Zaza",
+          "url": "https://open.spotify.com/artist/5NxVpojpPiq02sqDD4hWap"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263709,
+      "name": "Salah Tapi Baik",
+      "url": "https://open.spotify.com/track/2WoOsj3iKTbDhIHvndRh0R"
     },
     {
       "album": {
@@ -10658,6 +10828,24 @@
       "duration_ms": 274506,
       "name": "Salam Perpisahan",
       "url": "https://open.spotify.com/track/7JfPwAK5GSnUDoFU3nSSsg"
+    },
+    {
+      "album": {
+        "name": "Salam Terakhir",
+        "url": "https://open.spotify.com/album/2DO2DLkB5XdajIaJA5dCRb"
+      },
+      "artists": [
+        {
+          "name": "Putri Jasmin",
+          "url": "https://open.spotify.com/artist/6Pl3FO3ZfzNMhQtHWnXe1O"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214477,
+      "name": "Salam Terakhir",
+      "url": "https://open.spotify.com/track/61O1NkE2RtwRrwSp2QWtIS"
     },
     {
       "album": {
@@ -11978,6 +12166,28 @@
       "duration_ms": 235000,
       "name": "Sesal",
       "url": "https://open.spotify.com/track/7gqAs7i7ElsHfZpzNhJsdW"
+    },
+    {
+      "album": {
+        "name": "Sesi Potret",
+        "url": "https://open.spotify.com/album/25hlG9lEbc2ARvZXY4ZDhv"
+      },
+      "artists": [
+        {
+          "name": "e\u0144au",
+          "url": "https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u"
+        },
+        {
+          "name": "Ari Lesmana",
+          "url": "https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Sesi Potret",
+      "url": "https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G"
     },
     {
       "album": {
@@ -14344,6 +14554,24 @@
       "duration_ms": 275621,
       "name": "Tulang Punggung",
       "url": "https://open.spotify.com/track/0YwEhTKPAsQkMd9oehSJHz"
+    },
+    {
+      "album": {
+        "name": "Tumbuh",
+        "url": "https://open.spotify.com/album/1slRM2viVpnEHe6mM00OQD"
+      },
+      "artists": [
+        {
+          "name": "Ipang Lazuardi",
+          "url": "https://open.spotify.com/artist/6j7d3OtOyA95ESoCHJIJEh"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361661,
+      "name": "Tumbuh",
+      "url": "https://open.spotify.com/track/5bL8uOAstudRszZ7JUu9FI"
     },
     {
       "album": {

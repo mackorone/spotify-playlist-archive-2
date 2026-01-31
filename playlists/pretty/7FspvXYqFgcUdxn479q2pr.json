@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31721,
+  "num_followers": 31718,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAuZSCHYfGQH39rUaJfQS+4IzLw3nXf",
+  "snapshot_id": "AAAucwO2+kteoJTsKRcimPZ5vCqs8ZyQ",
   "tracks": [
     {
       "added_at": "2026-01-29 23:20:02",
@@ -361,6 +361,38 @@
       "url": "https://open.spotify.com/track/4indTJ70BCXFhS3wGiBYyH"
     },
     {
+      "added_at": "2026-01-30 10:45:31",
+      "album": {
+        "name": "UnderWater",
+        "url": "https://open.spotify.com/album/4O4NuQtN7m7iwnZeu5gGtX"
+      },
+      "artists": [
+        {
+          "name": "TriCade",
+          "url": "https://open.spotify.com/artist/04fl2hlYDGtrZ6Ze2TPGyj"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "UnderWater",
+      "url": "https://open.spotify.com/track/5L4vu9OPmEGC9SFzxrVJA6"
+    },
+    {
+      "added_at": "2026-01-30 11:05:13",
+      "album": {
+        "name": "The Echo",
+        "url": "https://open.spotify.com/album/5UyUbt1pZsHmqxaBWXJy0n"
+      },
+      "artists": [
+        {
+          "name": "Vareso",
+          "url": "https://open.spotify.com/artist/4eDBQ5X2VYYYb1IlAaGT5l"
+        }
+      ],
+      "duration_ms": 269081,
+      "name": "The Echo",
+      "url": "https://open.spotify.com/track/5uuq38sbZBuNNwLNYxlQXD"
+    },
+    {
       "added_at": "2025-12-05 09:30:38",
       "album": {
         "name": "This isn\u2019t what you think it is (EP)",
@@ -381,6 +413,86 @@
       "url": "https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE"
     },
     {
+      "added_at": "2026-01-30 14:24:56",
+      "album": {
+        "name": "Wanna Party (feat. Dennis G) [Ranger Trucco Remix]",
+        "url": "https://open.spotify.com/album/5DFLgCNKeWNXQdYRX4DDiQ"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Wideboys",
+          "url": "https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi"
+        },
+        {
+          "name": "Dennis G.",
+          "url": "https://open.spotify.com/artist/1DlMYV41CeNcwmNZ3wc9SW"
+        },
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 217099,
+      "name": "Wanna Party (feat. Dennis G) - Ranger Trucco Remix",
+      "url": "https://open.spotify.com/track/7FDSyz5Z0ZVv1rCfMkk9tU"
+    },
+    {
+      "added_at": "2026-01-30 14:12:50",
+      "album": {
+        "name": "The Path (Get Up Dance)",
+        "url": "https://open.spotify.com/album/7Kqp5cdAOYXtJGeR09wpZY"
+      },
+      "artists": [
+        {
+          "name": "Wippenberg",
+          "url": "https://open.spotify.com/artist/0Orz1QOZQrwampy0S742oK"
+        }
+      ],
+      "duration_ms": 177415,
+      "name": "The Path (Get Up Dance)",
+      "url": "https://open.spotify.com/track/3H91RQlETR8BjgIqxUpXz1"
+    },
+    {
+      "added_at": "2026-01-30 13:05:25",
+      "album": {
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/1KP5gNtsM6j4tyLi0gYbto"
+      },
+      "artists": [
+        {
+          "name": "Mason Jaxx",
+          "url": "https://open.spotify.com/artist/4vSmrRQ99Fqp5zverMkwWg"
+        }
+      ],
+      "duration_ms": 186215,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/5xnJRahzUo3qnQ3UrOgHcf"
+    },
+    {
+      "added_at": "2026-01-30 12:21:17",
+      "album": {
+        "name": "Something In The Water (feat. Darla Jade)",
+        "url": "https://open.spotify.com/album/5k3gVQqKF67KCO0vJ14jK2"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "duration_ms": 209985,
+      "name": "Something In The Water (feat. Darla Jade)",
+      "url": "https://open.spotify.com/track/29JiAscRnkqWCJB6S678Wz"
+    },
+    {
       "added_at": "2025-12-04 23:20:04",
       "album": {
         "name": "Good Times",
@@ -395,6 +507,22 @@
       "duration_ms": 163902,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/1xQpwS0JePQbRNbt0wshNp"
+    },
+    {
+      "added_at": "2026-01-30 10:55:47",
+      "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/2MX8S6PTLQ2J0mhyRgFFNh"
+      },
+      "artists": [
+        {
+          "name": "Ken Bauer",
+          "url": "https://open.spotify.com/artist/19bSyzqhV2NIVhHtqdFX7t"
+        }
+      ],
+      "duration_ms": 188415,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/08tTt843cOMuw82FqfpXMa"
     },
     {
       "added_at": "2026-01-23 13:37:45",
@@ -453,6 +581,26 @@
       "url": "https://open.spotify.com/track/5eaSK8S3wG4C2mfEoUjMcm"
     },
     {
+      "added_at": "2026-01-30 14:34:28",
+      "album": {
+        "name": "Misbehave",
+        "url": "https://open.spotify.com/album/59dxeR3y0o3WhJwQA1oNKm"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/1FRWjWnOf6NRePXN38tkQS"
+    },
+    {
       "added_at": "2026-01-23 13:23:32",
       "album": {
         "name": "Sunset",
@@ -467,6 +615,66 @@
       "duration_ms": 169391,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/2IUOZVFAvVfhX9gKcAorl4"
+    },
+    {
+      "added_at": "2026-01-30 12:40:52",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/6g3ndVsNxGJyaUuvuiFwoF"
+      },
+      "artists": [
+        {
+          "name": "Comee",
+          "url": "https://open.spotify.com/artist/4nmbR5lc3LOTwf2m9hgzip"
+        }
+      ],
+      "duration_ms": 293333,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/4IWGN3qMK94Je0sGUX6u5x"
+    },
+    {
+      "added_at": "2026-01-30 13:06:25",
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/6MBMrWKvkjWAYx6gIxJN2u"
+      },
+      "artists": [
+        {
+          "name": "Fully Charged",
+          "url": "https://open.spotify.com/artist/2004pnMYotlNjwVKPnBI7d"
+        },
+        {
+          "name": "Katy Alex",
+          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
+        }
+      ],
+      "duration_ms": 195757,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/6f7FCshuhaeo3wn2CpiZpt"
+    },
+    {
+      "added_at": "2026-01-30 11:28:05",
+      "album": {
+        "name": "Addicted To Our Chemistry",
+        "url": "https://open.spotify.com/album/2mwUICka1TnVDUyBwUELYg"
+      },
+      "artists": [
+        {
+          "name": "Kayote",
+          "url": "https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn"
+        },
+        {
+          "name": "WhiteCapMusic",
+          "url": "https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB"
+        },
+        {
+          "name": "mavzy grx",
+          "url": "https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Addicted To Our Chemistry",
+      "url": "https://open.spotify.com/track/2Fekdhq7wnbSp8uk8EtkE8"
     },
     {
       "added_at": "2026-01-23 12:58:02",
@@ -589,6 +797,26 @@
       "url": "https://open.spotify.com/track/5TlWaAb2G6C9glTAC9gNzj"
     },
     {
+      "added_at": "2026-01-30 14:13:50",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/2R9wOhPPqJbJEiSAkq1CHD"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 162951,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/1e0mUiOIgyjbVIG2eiNRWh"
+    },
+    {
       "added_at": "2026-01-19 10:47:36",
       "album": {
         "name": "Chemicals",
@@ -667,6 +895,22 @@
       "duration_ms": 167619,
       "name": "My Culture",
       "url": "https://open.spotify.com/track/7yFMCNhHAH80Uczi5Rp08w"
+    },
+    {
+      "added_at": "2026-01-30 11:17:27",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/2N5ruXGaEz4vjBNNrAFsrm"
+      },
+      "artists": [
+        {
+          "name": "CALEIDESCOPE",
+          "url": "https://open.spotify.com/artist/40Cha4Qon7sdhQIBkZwlQl"
+        }
+      ],
+      "duration_ms": 226902,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/5JISmDHJHygChwk5mOmT4O"
     },
     {
       "added_at": "2026-01-16 10:33:25",

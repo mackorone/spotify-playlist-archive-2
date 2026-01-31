@@ -1309,6 +1309,32 @@
     },
     {
       "album": {
+        "name": "CheckMate",
+        "url": "https://open.spotify.com/album/0D8eNXzrKvDNOyYakFkGiX"
+      },
+      "artists": [
+        {
+          "name": "Yogen",
+          "url": "https://open.spotify.com/artist/4ZsMHZuxPsMR0eS8dmyK7F"
+        },
+        {
+          "name": "Mluhyaflani",
+          "url": "https://open.spotify.com/artist/4B0hzYTjXATjN6D2sOdNnS"
+        },
+        {
+          "name": "Adogo",
+          "url": "https://open.spotify.com/artist/5tlx3L2WROpYDCtAVQOtgq"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218638,
+      "name": "CheckMate",
+      "url": "https://open.spotify.com/track/2OUQRk5XWWFVyYMJC5ish3"
+    },
+    {
+      "album": {
         "name": "Sharubati",
         "url": "https://open.spotify.com/album/5bdZpUa4fmVKJNg9NrPICO"
       },

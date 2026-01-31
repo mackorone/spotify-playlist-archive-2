@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  GRTSCH en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Eliangel en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 176272,
       "name": "#TULTEPEK",
       "url": "https://open.spotify.com/track/74J5MNoWwQ2MqmxQmBYdaI"
@@ -139,6 +139,50 @@
     },
     {
       "album": {
+        "name": "250cc",
+        "url": "https://open.spotify.com/album/6nUtF0ygYhS5iJh8JvnfuB"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        },
+        {
+          "name": "Olisso",
+          "url": "https://open.spotify.com/artist/5j2C0iQHKvCcfPVCOqn20h"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "250cc",
+      "url": "https://open.spotify.com/track/0Ywh0NH8bmPTQFvQZ9G5yU"
+    },
+    {
+      "album": {
+        "name": "31 de febrero",
+        "url": "https://open.spotify.com/album/7llcOweX8NsYXEvRwmSQNK"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "31 de febrero",
+      "url": "https://open.spotify.com/track/4uHH8Gko8qqi9dBOd2z9He"
+    },
+    {
+      "album": {
         "name": "4ME",
         "url": "https://open.spotify.com/album/1fnkE945x2Q1NAiUTvhcHC"
       },
@@ -222,7 +266,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 207360,
       "name": "ABASOLO",
       "url": "https://open.spotify.com/track/6FCzglABZm9wo7r6iEzVXM"
@@ -574,7 +618,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 279101,
       "name": "Antes Que el Tiempo Nos Mate",
       "url": "https://open.spotify.com/track/4K6u6zt4OAlvzUC3vl8ynH"
@@ -726,7 +770,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 189861,
       "name": "Artistas",
       "url": "https://open.spotify.com/track/4OdK0uWyiSyhKP5TX4hGB7"
@@ -1046,7 +1090,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 159398,
       "name": "BANDI",
       "url": "https://open.spotify.com/track/3st87g6KtXeDrs839fIitj"
@@ -2347,6 +2391,52 @@
     },
     {
       "album": {
+        "name": "#2016TrapLatinSongsByLaObsesi\u00f3n",
+        "url": "https://open.spotify.com/album/38U3R9JJKis2VGTsL1iay9"
+      },
+      "artists": [
+        {
+          "name": "La Obsesion",
+          "url": "https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Novato El Flow",
+          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
+        },
+        {
+          "name": "Josa El Menor",
+          "url": "https://open.spotify.com/artist/2G2JiOdyGfRsEWqFs4hKUo"
+        },
+        {
+          "name": "Vic Gunn",
+          "url": "https://open.spotify.com/artist/4tAUrm21TBHEWanUWQVSlb"
+        },
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+        },
+        {
+          "name": "Viglezz",
+          "url": "https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427692,
+      "name": "Dos16 (feat. Josa El Menor, Vic Gunn, Malo & Viglezz)",
+      "url": "https://open.spotify.com/track/2V9iZGxzyUnUBUPdGEW29Y"
+    },
+    {
+      "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/0Dq7F56AUGx8K5krwpLQK8"
       },
@@ -2876,7 +2966,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 184258,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/7vTkeUEwAW5BiOOvwTwu8W"
@@ -4151,6 +4241,24 @@
     },
     {
       "album": {
+        "name": "la gasolina",
+        "url": "https://open.spotify.com/album/52HB63OdaGLLG1nX4Nbb7u"
+      },
+      "artists": [
+        {
+          "name": "siempre no",
+          "url": "https://open.spotify.com/artist/0r69jcuNHyFaBZGZl74LNW"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "la gasolina",
+      "url": "https://open.spotify.com/track/7ADuZsgCDTOiSxlFuRXFHM"
+    },
+    {
+      "album": {
         "name": "volverse densidad",
         "url": "https://open.spotify.com/album/6nI0GmKUsjMkpkbynvuyC1"
       },
@@ -4552,7 +4660,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 102009,
       "name": "Lo Ke Quieras\u2606\u2312(>\u3002<)",
       "url": "https://open.spotify.com/track/3kOn95SB1ZIu82XXsWcyI3"
@@ -5807,6 +5915,24 @@
     },
     {
       "album": {
+        "name": "Nsqk - Spotify Sessions",
+        "url": "https://open.spotify.com/album/20eVKdTYyAfrnevyqPNrqL"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170670,
+      "name": "No Basta Con Querernos M\u00e1s - Spotify Sessions (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/75k7sXf2eclJPy7pU1XRka"
+    },
+    {
+      "album": {
         "name": "No Me Quiero Morir",
         "url": "https://open.spotify.com/album/6jIjHEbtTg8oSOxhU1HdiX"
       },
@@ -5982,6 +6108,32 @@
       "duration_ms": 213913,
       "name": "nos keremos tanto",
       "url": "https://open.spotify.com/track/51OIgUzAwtxOMhNUEifwMn"
+    },
+    {
+      "album": {
+        "name": "NOTYPE (feat. Angely2k) [Remix]",
+        "url": "https://open.spotify.com/album/1PhC7c3yvUy2fV7t7vzBDI"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "angely2k",
+          "url": "https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162003,
+      "name": "NOTYPE (feat. Angely2k) - Remix",
+      "url": "https://open.spotify.com/track/5ER0JA9dl4vq8rj0zYsTNp"
     },
     {
       "album": {
@@ -6250,6 +6402,24 @@
       "duration_ms": 166000,
       "name": "otravezmepusemal",
       "url": "https://open.spotify.com/track/5ZFKptR2zvSWsdULKgkRSU"
+    },
+    {
+      "album": {
+        "name": "OXIDADO",
+        "url": "https://open.spotify.com/album/0rrIb1jCiczaTilAWYuqQC"
+      },
+      "artists": [
+        {
+          "name": "ivvo",
+          "url": "https://open.spotify.com/artist/6v2uN7KAtZs4GBA58RHM0R"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198519,
+      "name": "OXIDADO",
+      "url": "https://open.spotify.com/track/3WeGCchGnv2wD7bnuMGjo7"
     },
     {
       "album": {
@@ -7220,7 +7390,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 154000,
       "name": "Rodeo Gramatical",
       "url": "https://open.spotify.com/track/3Si7gC5ddWwWp6DtCWZ6nk"
@@ -7242,6 +7412,24 @@
       "duration_ms": 86739,
       "name": "Romantic Lover",
       "url": "https://open.spotify.com/track/7s5VQqrjBtrBgZL4pEa46S"
+    },
+    {
+      "album": {
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/6hs8Y0Let3NM1UCtcTv5fy"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103301,
+      "name": "Rompecabezas",
+      "url": "https://open.spotify.com/track/4DtPhk3tIhER14wZYxzZxZ"
     },
     {
       "album": {
@@ -9404,6 +9592,28 @@
       "duration_ms": 147802,
       "name": "\u30ea\u30fc\u30c0\u30fc -L\u00edder-",
       "url": "https://open.spotify.com/track/2IccdyvUXZlaMlt6PK6uZ6"
+    },
+    {
+      "album": {
+        "name": "So Cvnt",
+        "url": "https://open.spotify.com/album/5dhd9Z0UcwFe62r5Gr5Ppq"
+      },
+      "artists": [
+        {
+          "name": "Eliangel",
+          "url": "https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA"
+        },
+        {
+          "name": "Saga",
+          "url": "https://open.spotify.com/artist/7mY2ZD4zAsviFn1bZKClAA"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "\u65e5\u672c Borracha de Poder",
+      "url": "https://open.spotify.com/track/5mRITqjNPe3BLg62nwPY1F"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb6ejV2Sv22Q"

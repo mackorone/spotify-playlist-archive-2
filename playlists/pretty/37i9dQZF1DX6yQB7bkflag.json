@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Ricecooker",
-  "num_followers": 118114,
+  "num_followers": 118125,
   "original_name": "Pop Rising Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ2SrrnKFpWTK32v0jZymCpg69Fe",
+  "snapshot_id": "AAAAAMDS1yT1va3+sWvIOedFSUDnIhFK",
   "tracks": [
     {
       "added_at": "2026-01-29 17:24:07",
@@ -313,6 +313,26 @@
       "url": "https://open.spotify.com/track/3AnEaWI0Ax5jmP40RVg6cG"
     },
     {
+      "added_at": "2026-01-30 03:38:26",
+      "album": {
+        "name": "Kita Sama-Sama",
+        "url": "https://open.spotify.com/album/17itcjab51VSbQuVDMhETN"
+      },
+      "artists": [
+        {
+          "name": "Calvin Jeremy",
+          "url": "https://open.spotify.com/artist/5R0U4DSRlKGCFcyJa4z4yD"
+        },
+        {
+          "name": "Rio Febrian",
+          "url": "https://open.spotify.com/artist/3q3FakGkayPyaj7dV3luv9"
+        }
+      ],
+      "duration_ms": 201882,
+      "name": "Kita Sama-Sama",
+      "url": "https://open.spotify.com/track/72xEL5kypQQUIIGEJBm94h"
+    },
+    {
       "added_at": "2026-01-29 17:24:07",
       "album": {
         "name": "I'll Remember To Forget You",
@@ -431,8 +451,8 @@
     {
       "added_at": "2026-01-29 17:24:07",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "KONTRADILSKI",
+        "url": "https://open.spotify.com/album/0OiPmTKBdlFcrASBfPG4Yr"
       },
       "artists": [
         {
@@ -443,6 +463,22 @@
       "duration_ms": 263242,
       "name": "( jangan ) terserah",
       "url": "https://open.spotify.com/track/0pajC5ZhNw4hMNeImsPjBO"
+    },
+    {
+      "added_at": "2026-01-30 03:38:26",
+      "album": {
+        "name": "Sampe Bawah",
+        "url": "https://open.spotify.com/album/5sW0ZawbZ6pZGSmKGwhN7x"
+      },
+      "artists": [
+        {
+          "name": "Afan",
+          "url": "https://open.spotify.com/artist/0861WHgbfpUBsvIbU1b1ZD"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Sampe Bawah",
+      "url": "https://open.spotify.com/track/3rIDk3sGfjJ6ddJmsE8Lib"
     },
     {
       "added_at": "2026-01-29 17:24:07",
@@ -475,6 +511,22 @@
       "duration_ms": 145756,
       "name": "work",
       "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
+    },
+    {
+      "added_at": "2026-01-30 03:50:38",
+      "album": {
+        "name": "talking on the moon",
+        "url": "https://open.spotify.com/album/1VInKTdG3K2iROSNMTw8Zu"
+      },
+      "artists": [
+        {
+          "name": "gazeng",
+          "url": "https://open.spotify.com/artist/0i6mAAoB8AnMGb3oEuU2Bo"
+        }
+      ],
+      "duration_ms": 201792,
+      "name": "talking on the moon",
+      "url": "https://open.spotify.com/track/2WZ0Pv4HTJoygAQoymedtY"
     },
     {
       "added_at": "2026-01-29 17:24:07",
@@ -792,7 +844,7 @@
           "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
         }
       ],
-      "duration_ms": 206202,
+      "duration_ms": 208251,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
     },
@@ -1233,7 +1285,7 @@
         }
       ],
       "duration_ms": 162763,
-      "name": "Get It ft. gamali\u00e9l",
+      "name": "Get It",
       "url": "https://open.spotify.com/track/0RYMgLs7qVOWQNIFCq3K5e"
     },
     {

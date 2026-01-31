@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 202000,
       "name": "Badli Lakeerein",
       "url": "https://open.spotify.com/track/6qmIad1p9tELUE65sRK3Zz"
@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 69600,
       "name": "Goa Aaja - From \"Happy Patel - Khatarnak Jasoos\"",
       "url": "https://open.spotify.com/track/2XLO4dcQZeaZ5hKkiAz6DH"
@@ -6170,7 +6170,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 228461,
       "name": "Kamaal Hai",
       "url": "https://open.spotify.com/track/5ymJ795K518y3ACGAytG4l"
@@ -6627,6 +6627,24 @@
     },
     {
       "album": {
+        "name": "Kya Bataun Tujhe (From \"Pagalpan\")",
+        "url": "https://open.spotify.com/album/1HNcqGvz5xkqFYzrftdBv0"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270080,
+      "name": "Kya Bataun Tujhe (From \"Pagalpan\")",
+      "url": "https://open.spotify.com/track/3lgVAqlhro4HQ6sSPc0n0t"
+    },
+    {
+      "album": {
         "name": "Kyun Mujhse Door Tha",
         "url": "https://open.spotify.com/album/43danYlLX7SAOpn9ZfIaZ4"
       },
@@ -6668,6 +6686,28 @@
       "duration_ms": 216585,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/2a834KnEujzAKxO6OxPw6n"
+    },
+    {
+      "album": {
+        "name": "Le Jaa",
+        "url": "https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA"
+      },
+      "artists": [
+        {
+          "name": "Adeetiiya",
+          "url": "https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s"
+        },
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154015,
+      "name": "Le Jaa",
+      "url": "https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr"
     },
     {
       "album": {
@@ -10934,6 +10974,10 @@
         {
           "name": "White Noise Collectives",
           "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
         }
       ],
       "date_added": "2026-01-29",
@@ -12310,6 +12354,32 @@
       "duration_ms": 389826,
       "name": "Yaad Aaye Woh Din",
       "url": "https://open.spotify.com/track/2cKS2yRiedWkeEzPgTE4Mh"
+    },
+    {
+      "album": {
+        "name": "Yaad Sajan Ki Aaye",
+        "url": "https://open.spotify.com/album/2cJOrfMgZ4ToM9OhNoLlAn"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        },
+        {
+          "name": "Rohit Raut",
+          "url": "https://open.spotify.com/artist/21rqaLSSSg0Lo17ipUNHiU"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257763,
+      "name": "Yaad Sajan Ki Aaye",
+      "url": "https://open.spotify.com/track/5uf4WIA2QAQJhHUIzJinyH"
     },
     {
       "album": {

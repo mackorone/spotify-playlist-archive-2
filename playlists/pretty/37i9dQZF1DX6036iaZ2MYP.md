@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Maud Elka
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,469 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,798 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 13 | [NOUS 2 \(feat\. SenSey'\)](https://open.spotify.com/track/0QtynC35E7FswfeHCN8xPT) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [NOUS 2 \(feat\. SenSey'\)](https://open.spotify.com/album/7vBfFiwiQiGu8UluLFua26) | 2:07 |
 | 14 | [Paparazzi](https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Paparazzi](https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX) | 2:27 |
 | 15 | [ONE TRACK MIND](https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ONE TRACK MIND](https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ) | 3:20 |
-| 16 | [ABRICOT](https://open.spotify.com/track/7ztrqyPZBXAa6WPzkiSiFH) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [](https://open.spotify.com/album/null) | 2:42 |
+| 16 | [ABRICOT](https://open.spotify.com/track/7ztrqyPZBXAa6WPzkiSiFH) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [YAPI](https://open.spotify.com/album/6iDjU53fVXp9BB80hntvHT) | 2:42 |
 | 17 | [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:56 |
 | 18 | [Baby \(feat\. Minz\)](https://open.spotify.com/track/6YQgFBhoO8y1GZUX8imNgL) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Energy](https://open.spotify.com/album/0szYTRwg7XVBRHnD8ycswr) | 2:13 |
 | 19 | [Backa Butty](https://open.spotify.com/track/4o5m5b4bF4NvacjmwQREoj) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Backa Butty](https://open.spotify.com/album/3Rtm2GrXrc4ddU9W7UwEFy) | 2:53 |

@@ -27793,6 +27793,28 @@
     },
     {
       "album": {
+        "name": "Dream Life",
+        "url": "https://open.spotify.com/album/39X15SMr1uG8aCugIqiHpM"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        },
+        {
+          "name": "Fenne Kuppens",
+          "url": "https://open.spotify.com/artist/60iEGApcgcq0nTdHVFptU3"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257023,
+      "name": "Some Days",
+      "url": "https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W"
+    },
+    {
+      "album": {
         "name": "Distractions",
         "url": "https://open.spotify.com/album/1SKYFKGSCY6uiVT4hPi55y"
       },
@@ -30684,24 +30706,6 @@
       "duration_ms": 128879,
       "name": "TRACCIA 0",
       "url": "https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "date_added": "2026-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W"
     },
     {
       "album": {

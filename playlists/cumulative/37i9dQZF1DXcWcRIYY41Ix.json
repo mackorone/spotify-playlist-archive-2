@@ -1761,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/247rXo0XxqlOYxPBuTE8xf"
+      },
+      "artists": [
+        {
+          "name": "Marina Paredes",
+          "url": "https://open.spotify.com/artist/0I03cTyLdD4WvlWsN6Xzvu"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215479,
+      "name": "A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/5cf39wt7M3YLwZCivMBrTU"
+    },
+    {
+      "album": {
         "name": "Baguala de Salta, Chicoana",
         "url": "https://open.spotify.com/album/3C74MQh8Th2meP4fI6Egxn"
       },
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 181461,
       "name": "busco",
       "url": "https://open.spotify.com/track/7CwXJzNp7VGBxJSTOEvqeK"
@@ -3407,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "Como mam\u00e1 no hay nadie",
+        "url": "https://open.spotify.com/album/1tc9L3fPeQA36Yosp3iUjc"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203848,
+      "name": "Como mam\u00e1 no hay nadie",
+      "url": "https://open.spotify.com/track/0w0JFaVKjYpNPNyH4DsbEV"
+    },
+    {
+      "album": {
         "name": "Como Un Amuleto",
         "url": "https://open.spotify.com/album/2qln21nT8RxwJWyJOhSgGU"
       },
@@ -4436,7 +4472,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 206000,
       "name": "demo linda",
       "url": "https://open.spotify.com/track/3Ug2psiYdvDQLDdLsBzTFa"
@@ -5536,7 +5572,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 307000,
       "name": "El Mundo Delante De Ti",
       "url": "https://open.spotify.com/track/6BXu2OtgRrVN4UHf2PKAUp"
@@ -5896,6 +5932,24 @@
       "duration_ms": 120020,
       "name": "El Uniforme",
       "url": "https://open.spotify.com/track/7cmLEaipTvsKCLhAURQJm3"
+    },
+    {
+      "album": {
+        "name": "El Vac\u00edo",
+        "url": "https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux"
+      },
+      "artists": [
+        {
+          "name": "Adam Guerrero",
+          "url": "https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154187,
+      "name": "El Vac\u00edo",
+      "url": "https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn"
     },
     {
       "album": {
@@ -6886,7 +6940,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 178000,
       "name": "Fumar O Beber",
       "url": "https://open.spotify.com/track/5DgZ5KxKExdoL85fkdky01"
@@ -10641,6 +10695,28 @@
     },
     {
       "album": {
+        "name": "Mi luna",
+        "url": "https://open.spotify.com/album/1BlDVteLs2t3FHw17KyWZf"
+      },
+      "artists": [
+        {
+          "name": "Sara S\u00edstole",
+          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
+        },
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276990,
+      "name": "Mi luna",
+      "url": "https://open.spotify.com/track/0VSGsKcATP90UU22xIJzta"
+    },
+    {
+      "album": {
         "name": "Escorpiano",
         "url": "https://open.spotify.com/album/3KmSLiah0WThmFVfYqEyJt"
       },
@@ -12309,6 +12385,24 @@
     },
     {
       "album": {
+        "name": "Nunca se termina",
+        "url": "https://open.spotify.com/album/3TXQQ2M0qb9haDsS5RIVKh"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260067,
+      "name": "Nunca se termina",
+      "url": "https://open.spotify.com/track/1PtpkGSyHOdM6K6UZNWhh4"
+    },
+    {
+      "album": {
         "name": "Nunha Estrela",
         "url": "https://open.spotify.com/album/4SjlQBmPjaKl2PS5TXxpWG"
       },
@@ -12722,7 +12816,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 100733,
       "name": "Pajarito",
       "url": "https://open.spotify.com/track/7KkE9CPv39UKKphAnRMsEs"
@@ -13086,7 +13180,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 225857,
       "name": "Pardalet",
       "url": "https://open.spotify.com/track/0qtT3q1HMtaHzXuKctF9Wy"
@@ -13812,7 +13906,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 288341,
       "name": "Puedo Imaginar",
       "url": "https://open.spotify.com/track/2unJSS010j51d6dIaTsSrw"
@@ -14146,6 +14240,24 @@
       "duration_ms": 232318,
       "name": "Quedarme Free",
       "url": "https://open.spotify.com/track/680VEGLsu6YR6Kc1EBPKtS"
+    },
+    {
+      "album": {
+        "name": "Queremos Hablar",
+        "url": "https://open.spotify.com/album/3J0Qg7SKlQPuIlo77HCAQQ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Bonaparte",
+          "url": "https://open.spotify.com/artist/1tAyvuLNCuef3tlGXOio1N"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166618,
+      "name": "Queremos Hablar",
+      "url": "https://open.spotify.com/track/1ed9KWuLEl4ilKxBvID4LG"
     },
     {
       "album": {
@@ -14520,7 +14632,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 355850,
       "name": "Rabo de nube",
       "url": "https://open.spotify.com/track/2VU9Rb4lGTdYaDfys3OOBE"
@@ -17633,6 +17745,24 @@
     },
     {
       "album": {
+        "name": "Tu Labio Bobo",
+        "url": "https://open.spotify.com/album/1bQ7ddELLWTSSVpHUVdmdA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316733,
+      "name": "Tu Labio Bobo",
+      "url": "https://open.spotify.com/track/4d7T7t2N8igCenpuEzWBpQ"
+    },
+    {
+      "album": {
         "name": "tu recuerdo (verde oto\u00f1o)",
         "url": "https://open.spotify.com/album/1Xd6GKEZU54VsBjlM6VrSx"
       },
@@ -18076,7 +18206,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 261775,
       "name": "Una mica m\u00e9s",
       "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
@@ -18319,6 +18449,28 @@
     },
     {
       "album": {
+        "name": "Vendr\u00eda Bien",
+        "url": "https://open.spotify.com/album/4fdsVneCGTQvqaDD3bDRDt"
+      },
+      "artists": [
+        {
+          "name": "LAIA",
+          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
+        },
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201073,
+      "name": "Vendr\u00eda Bien",
+      "url": "https://open.spotify.com/track/52D0EPonWx8Ziuj0rJWwNE"
+    },
+    {
+      "album": {
         "name": "Venecia",
         "url": "https://open.spotify.com/album/74sRb1G0vcGebMp5V2wYxb"
       },
@@ -18506,6 +18658,24 @@
       "duration_ms": 194000,
       "name": "Verde Nocturno",
       "url": "https://open.spotify.com/track/5jf5mhtgQ3uaLE8wv3Xg0K"
+    },
+    {
+      "album": {
+        "name": "verte mejor",
+        "url": "https://open.spotify.com/album/5T29CRzNVmjgQWkvDJcJQx"
+      },
+      "artists": [
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146337,
+      "name": "verte mejor",
+      "url": "https://open.spotify.com/track/4NGoMoDYIe5133L7QQrbyu"
     },
     {
       "album": {

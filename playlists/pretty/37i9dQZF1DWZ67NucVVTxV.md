@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > My enemy nah sapa
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,262 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,346 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 79 | [Rules Of Life](https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Never Fold](https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq) | 2:50 |
 | 80 | [Aye Santorini](https://open.spotify.com/track/63m3uGKlNwC5KVN2I7hmkP) | [LYRXX](https://open.spotify.com/artist/6IP3yCr9AOjbbB3CdXq06G) | [Aye Santorini](https://open.spotify.com/album/6Uqd4WabuqfFGkFbMdTcMe) | 2:40 |
 
-Snapshot ID: `AAAAAF5zITJWobh6YovMxf2NodQOIIQV`
+Snapshot ID: `AAAAAAGw2p0zdz2RPSgI1nDEa3QOPNYC`

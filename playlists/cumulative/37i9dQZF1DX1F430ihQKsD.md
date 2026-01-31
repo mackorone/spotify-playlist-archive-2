@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> 100 % chill, 100 % Montréal\. Photo: Maddie Bay
+> 100 % chill, 100 % Montréal\. Photo: Fleur de Peau
 
-777 songs - 1 day 20 hr 3 min
+781 songs - 1 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Back There](https://open.spotify.com/track/0NBFHo21e5tX6nZdIjAIhT) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Aurora](https://open.spotify.com/album/4X7K9bedTvlVHd06eywvHL) | 2:02 | 2022-03-25 | 2022-10-01 |
 | [Bad Behaviour \- Busty and the Bass Remix](https://open.spotify.com/track/7wEhnDrdSm7bUAl5g1jDX8) | [Blue Belly](https://open.spotify.com/artist/03bICu3gRRsxcnjEpG6u3g), [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Bad Behaviour \(Busty and the Bass Remix\)](https://open.spotify.com/album/1jeYjFGaJvNoC3VgrPdxKE) | 3:43 | 2022-03-25 | 2022-04-16 |
 | [Baleine et moi \(take 10\)](https://open.spotify.com/track/1qKGgaZnRL3dQxJqFWrWE9) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Baleine et moi \(take 10\) / Portrait d'une Marianne](https://open.spotify.com/album/5kx9LSIXnSrQCC8GYgxC4R) | 4:25 | 2022-11-21 | 2023-01-28 |
+| [Bam Bam](https://open.spotify.com/track/68vx3w8Byw0BgZsBguvAlg) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Bam Bam](https://open.spotify.com/album/0MUWZXw2xpTPDVUQ1iTRoa) | 3:03 | 2026-01-30 |  |
 | [Beau Bassin](https://open.spotify.com/track/3gMWoY91kSBm4TQwfxONUl) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Beau Bassin](https://open.spotify.com/album/6YQ0k2zg4JThc0snaxgaeb) | 2:37 | 2025-08-28 | 2025-12-04 |
 | [Beau Bassin](https://open.spotify.com/track/47FQWOyDZMM94UtNGDoDOR) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Silver](https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa) | 2:37 | 2025-12-03 | 2026-01-17 |
 | [Beau beam](https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Applaudissez, bande de chameaux](https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl) | 3:05 | 2022-03-25 | 2022-10-22 |
@@ -324,6 +325,7 @@
 | [I'm Still Thinking](https://open.spotify.com/track/4hJl3W0nDJj7cr4dLzDja4) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [I'm Still Thinking](https://open.spotify.com/album/0eKxu5NJRkKWRw04qxxjL3) | 2:17 | 2025-11-21 | 2025-12-04 |
 | [I.W.Y.B.](https://open.spotify.com/track/67C2lngm6JPNsKTprUz3KO) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Dogue](https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL) | 3:14 | 2025-03-21 | 2026-01-17 |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-25 | 2022-04-23 |
+| [Ici](https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7) | [La Steppe](https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf) | [Ici](https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9) | 2:48 | 2026-01-30 |  |
 | [Il faut qu'on se parle](https://open.spotify.com/track/5vnFXiRwOQhz5xBn09GKRK) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Rom\-Com](https://open.spotify.com/album/1UnHAygRkMtOty8V6tma6A) | 3:13 | 2025-03-14 | 2025-10-18 |
 | [In a Time of Truth](https://open.spotify.com/track/27RRFsDsh2kMv6To5VUoTw) | [Rebecca Foon](https://open.spotify.com/artist/2jS6VRcixDh48vo7Uwhrvd) | [In a Time of Truth](https://open.spotify.com/album/1koEm9OpK8ZolrEwWfpUhY) | 4:23 | 2025-08-15 | 2025-11-29 |
 | [Incendie au paradis](https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Incendie au paradis](https://open.spotify.com/album/66ghDXf4kGsAvTYgecMVYa) | 3:39 | 2024-09-20 | 2025-03-01 |
@@ -512,6 +514,7 @@
 | [OCTEMBRE](https://open.spotify.com/track/3xQNPoblgUjc9860KMmUPI) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic) | 3:32 | 2022-03-25 | 2022-07-29 |
 | [OCTEMBRE](https://open.spotify.com/track/6r1K8p3o3pqzGPiJ8tY21G) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:32 | 2022-07-22 | 2022-12-03 |
 | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/track/0ZO6pL1cZgaOSIGQZi1OxW) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/album/34By43vyYsxtfgLyDRoMnI) | 3:54 | 2022-04-22 | 2023-05-13 |
+| [Oiseau migrateur](https://open.spotify.com/track/2QOHrzgwSZg7oDrrLEshB0) | [Nana Quinn](https://open.spotify.com/artist/6oB1eI3s62d0KyLxrKG0x4) | [tout me quitte / tout vient à moi](https://open.spotify.com/album/6NzSqNUhcdFuOYlqgGVZJn) | 4:37 | 2026-01-30 |  |
 | [On s'aime jusqu'à quand ?](https://open.spotify.com/track/4ueRX7t3Sa860JWwrbIJyJ) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [On s'aime jusqu'à quand ?](https://open.spotify.com/album/7bP8Fs0pt3T60PFhjcYLYF) | 3:21 | 2024-05-03 | 2024-08-31 |
 | [on s'en fou](https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [swirly](https://open.spotify.com/album/6xxKNduR65aGZkDTuNZ6Be) | 3:25 | 2023-05-26 | 2024-08-10 |
 | [On Time](https://open.spotify.com/track/58uv9bsR0CpkCzHD8dPztO) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [On Time](https://open.spotify.com/album/4qix7rW4u0UyYSjUamQlRM) | 3:09 | 2025-10-10 | 2026-01-17 |
@@ -527,6 +530,7 @@
 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-04-22 | 2023-05-20 |
 | [Overwhelmed](https://open.spotify.com/track/1PF77rPYFoBNbWseo9utyS) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Overwhelmed](https://open.spotify.com/album/0Ua8pmFJYWdEU0yUcli2qK) | 3:51 | 2025-11-21 | 2025-12-04 |
 | [Overwhelmed and Unprepared](https://open.spotify.com/track/606sltm751n1JmCxI0UN9s) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Overwhelmed and Unprepared](https://open.spotify.com/album/7HDAhvEuglhFQXLeSZJCjh) | 5:34 | 2024-05-31 | 2025-10-01 |
+| [Packing Away](https://open.spotify.com/track/0BHKTPnV73ok6RpVcGZc5m) | [Eman Alali](https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W) | [Packing Away](https://open.spotify.com/album/3fPRotEVFhpXF39u0dtYqj) | 4:26 | 2026-01-30 |  |
 | [Pajaros](https://open.spotify.com/track/7yZ5kBFO6VTjrFHIKXWA4S) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 4:09 | 2022-03-25 | 2023-03-18 |
 | [Panneaux](https://open.spotify.com/track/5Yfk4gARR6ExKOlsknlFFN) | [Benjamin Proulx](https://open.spotify.com/artist/6wxpEggyJPIcvE7XvoxINR) | [Illusoire](https://open.spotify.com/album/2jEyWbI2bvhSBob6feiZjq) | 3:38 | 2023-07-28 | 2024-09-28 |
 | [Papa Wemba](https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Papa Wemba](https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V) | 3:50 | 2022-03-25 | 2022-04-29 |

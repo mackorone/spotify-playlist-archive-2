@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,163 songs - 2 day 14 hr 42 min
+1,164 songs - 2 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Fallin Star](https://open.spotify.com/track/45w4U2lr3UCEShY27BV8VO) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Fallin Star](https://open.spotify.com/album/6b4VNmMlPoEJKyxkokPVvI) | 2:45 | 2022-06-28 | 2023-02-04 |
 | [Falling 4 U](https://open.spotify.com/track/5UlSBJhLu85mlwXnLaJtIy) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Falling 4 U](https://open.spotify.com/album/5zLxii8804NDr2sjfUkpP1) | 4:40 | 2022-08-24 | 2023-02-02 |
 | [Falsafey \(The Philosophies\) \- From "Travel Diaries \- Vol III"](https://open.spotify.com/track/3zVOVbBfYjDGd5fgbR4gY0) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Falsafey \(The Philosophies\) \[From "Travel Diaries \- Vol III"\]](https://open.spotify.com/album/51Je0FIyoakzp3WKDz5mv1) | 8:09 | 2025-07-29 | 2025-08-14 |
-| [Fanaa Karr De](https://open.spotify.com/track/4EwuWdpDvTMdhvXFbCE1AR) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Avvy Ballagan](https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q) | [Fanaa Karr De](https://open.spotify.com/album/2f2uYCQXKC8zadZi8UB907) | 3:28 | 2025-11-07 |  |
+| [Fanaa Karr De](https://open.spotify.com/track/4EwuWdpDvTMdhvXFbCE1AR) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Avvy Ballagan](https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q) | [Fanaa Karr De](https://open.spotify.com/album/2f2uYCQXKC8zadZi8UB907) | 3:28 | 2025-11-07 | 2026-01-31 |
 | [FANTASY](https://open.spotify.com/track/5zL8PG943e1ZJllCr0RyJa) | [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK) | [Hosted by Future, Pt\. 1](https://open.spotify.com/album/6fHkUXyCH0FtmuIPizUmOm) | 2:51 | 2022-08-31 | 2022-09-03 |
 | [Faraan Wali Jacket](https://open.spotify.com/track/3wegjKSitvYzMkMFK7k1uf) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Faraan Wali Jacket](https://open.spotify.com/album/7pYdafq9rcESqXbOO8rhlM) | 4:20 | 2023-01-19 | 2023-02-04 |
 | [Faraar](https://open.spotify.com/track/3QDL9HK2SdbQK600Uoz6St) | [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Faraar](https://open.spotify.com/album/2nz8h9fxrMfl5ZLtWBLFzF) | 3:12 | 2021-12-02 | 2022-04-06 |
@@ -895,6 +895,7 @@
 | [Sajna](https://open.spotify.com/track/6Px3kJxZiQzGe9hU5twvy2) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Sajna](https://open.spotify.com/album/3l2xpQwu7pgc5ic1GyR1PG) | 3:25 | 2022-11-21 | 2022-12-16 |
 | [SAJNA](https://open.spotify.com/track/5UNSEO2M2ARiRZUHkZa1MX) | [Poojan Kohli](https://open.spotify.com/artist/6VQy77NaASzZZ7ZvvsEfOn) | [SAJNA](https://open.spotify.com/album/3m7rx2rYRg1VKshZZkxxfT) | 3:38 | 2022-07-08 | 2022-08-18 |
 | [Sajni](https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Sajni](https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar) | 4:58 | 2022-01-27 | 2022-02-01 |
+| [Sakhiyaan](https://open.spotify.com/track/3sqRODOZ1Z6hR4F2tnFAlg) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM) | [Sakhiyaan](https://open.spotify.com/album/2ja8ShVK2RtHqlxzXTRQ6J) | 2:59 | 2026-01-30 |  |
 | [Sakhiyaan\-Reprise Version](https://open.spotify.com/track/1TZ9lSsoy3eKky3usMJLhm) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI) | [Sakhiyaan\-Reprise Version](https://open.spotify.com/album/3SolvbUSvZ98ZxdABZ2bej) | 3:24 | 2022-04-27 | 2022-05-20 |
 | [Sakhiyo](https://open.spotify.com/track/3z0chZVcvPkZnlltDZ96vJ) | [Zehan](https://open.spotify.com/artist/09l3GeDkzqXrRgagVYse8p), [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Yuvika Chaudhary](https://open.spotify.com/artist/2xWgTpxwqLZegsJEj5ZAUr) | [Sakhiyo](https://open.spotify.com/album/23i2aJ47UPnxFc6xTIuabq) | 2:38 | 2022-01-31 | 2022-02-12 |
 | [Salah](https://open.spotify.com/track/0DnJkKc4jPRxkKEjPScxEV) | [Navjeet](https://open.spotify.com/artist/6ti9mMVGU3e9MtpFh69Knr) | [Salah](https://open.spotify.com/album/6jpBia7CP0JFIUji3fHFDQ) | 3:47 | 2022-05-26 | 2022-07-06 |

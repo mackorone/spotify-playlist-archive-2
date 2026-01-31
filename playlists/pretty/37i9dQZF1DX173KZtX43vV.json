@@ -1,12 +1,12 @@
 {
   "description": "The newest arrivals. Cover: Sasha Keable",
-  "num_followers": 68333,
+  "num_followers": 68345,
   "original_name": "Just Dropped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPTKDV5YVBF+XECsmoUj3x147/4T",
+  "snapshot_id": "AAAAAL+a6SDRrTmznOeoaxAlYS7ZI4Px",
   "tracks": [
     {
       "added_at": "2026-01-30 00:00:07",
@@ -71,8 +71,8 @@
     {
       "added_at": "2026-01-30 00:00:07",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "IT'S NOT YOU IT'S ME",
+        "url": "https://open.spotify.com/album/7yOrgeOtDX3XjPEzemjucQ"
       },
       "artists": [
         {
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
+      "added_at": "2026-01-30 10:25:07",
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 155753,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
+    },
+    {
       "added_at": "2026-01-30 00:00:07",
       "album": {
         "name": "Cold, No Coat",
@@ -202,6 +218,10 @@
         {
           "name": "Lil Yachty",
           "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
         }
       ],
       "duration_ms": 150613,
@@ -347,8 +367,8 @@
     {
       "added_at": "2026-01-30 00:00:07",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/58y4tCeRQdN5r2TVrzOSMr"
       },
       "artists": [
         {
@@ -851,22 +871,6 @@
       "duration_ms": 143444,
       "name": "Flo Jackson",
       "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
-    },
-    {
-      "added_at": "2026-01-30 00:00:07",
-      "album": {
-        "name": "UP TO MY NECK IN U",
-        "url": "https://open.spotify.com/album/0RXNiEjTJiYafYlOMo6KkV"
-      },
-      "artists": [
-        {
-          "name": "Ledbyher",
-          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
-        }
-      ],
-      "duration_ms": 137440,
-      "name": "UP TO MY NECK IN U",
-      "url": "https://open.spotify.com/track/6Gcf36dXcnt1QE9s1hmzfF"
     }
   ],
   "unique_name": "Just Dropped",

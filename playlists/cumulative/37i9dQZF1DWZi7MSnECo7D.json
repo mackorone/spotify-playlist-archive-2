@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Bemti, FBC, Luar",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Infinito Latente",
   "name": "alt BR",
   "tracks": [
     {
@@ -910,7 +910,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 171141,
       "name": "amor de cinema",
       "url": "https://open.spotify.com/track/6DVNpadsa9AjlIDCi2b6Gn"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 291201,
       "name": "Arrasta Asa",
       "url": "https://open.spotify.com/track/1BeUNTxs300I1GV83V4FHF"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 184799,
       "name": "Belo Horizonte",
       "url": "https://open.spotify.com/track/4biV8Kff5Rumi3txnfDpRI"
@@ -2530,6 +2530,24 @@
       "duration_ms": 238250,
       "name": "Canto Pra Voc\u00ea Voltar",
       "url": "https://open.spotify.com/track/4Y6QBWomomnfNGg6m4yPCF"
+    },
+    {
+      "album": {
+        "name": "Noite Azul",
+        "url": "https://open.spotify.com/album/7dE99LvIPjgdODSQaNH0ZI"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Selva",
+          "url": "https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157960,
+      "name": "Can\u00e7\u00e3o de vendaval",
+      "url": "https://open.spotify.com/track/4y4jT2YplghpJmPEO6WoRy"
     },
     {
       "album": {
@@ -3390,7 +3408,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 248000,
       "name": "Cora\u00e7\u00e3o Bobo",
       "url": "https://open.spotify.com/track/4P4iLR99z36awxPhEbOfoY"
@@ -3618,6 +3636,24 @@
       "duration_ms": 155933,
       "name": "c\u00ea disse que me ama",
       "url": "https://open.spotify.com/track/0ES1WHS9pYIAxHtR5EhkV2"
+    },
+    {
+      "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/4Q1FAQU7FMaX5QnjHxQHkX"
+      },
+      "artists": [
+        {
+          "name": "Julieta Social",
+          "url": "https://open.spotify.com/artist/1r5YxPNUJqVbaBXdZLSqe7"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203951,
+      "name": "C\u00ea La Vie",
+      "url": "https://open.spotify.com/track/1C6o5ypsjD6TUPlTPqFbT0"
     },
     {
       "album": {
@@ -3995,6 +4031,24 @@
     },
     {
       "album": {
+        "name": "Depressa",
+        "url": "https://open.spotify.com/album/2o3ooJPzpn2Y6UHGtoRtoN"
+      },
+      "artists": [
+        {
+          "name": "Carvel",
+          "url": "https://open.spotify.com/artist/1EkD4MU0DeLqWp7kBWaxDI"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Depressa",
+      "url": "https://open.spotify.com/track/1fdw0RylmEVesr0sKUeT4x"
+    },
+    {
+      "album": {
         "name": "Desabriga",
         "url": "https://open.spotify.com/album/60jnx3HvluMJu7Q0G3xIw3"
       },
@@ -4072,6 +4126,28 @@
       "duration_ms": 178981,
       "name": "Desapego",
       "url": "https://open.spotify.com/track/2qbNEZGcFnauvoOLHwoURB"
+    },
+    {
+      "album": {
+        "name": "Descansad\u00e3o",
+        "url": "https://open.spotify.com/album/5xwO7zqxJBdv17d0jrj6sJ"
+      },
+      "artists": [
+        {
+          "name": "Deluce",
+          "url": "https://open.spotify.com/artist/1Ud5u4n6HkiJkAQDzUQVfF"
+        },
+        {
+          "name": "Ava Rocha",
+          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230772,
+      "name": "Descansad\u00e3o",
+      "url": "https://open.spotify.com/track/74rzS1YhGpXzqb00TF1BjS"
     },
     {
       "album": {
@@ -4455,6 +4531,24 @@
     },
     {
       "album": {
+        "name": "O Velho",
+        "url": "https://open.spotify.com/album/0N0pg3yRDgJmTftrRpXIkP"
+      },
+      "artists": [
+        {
+          "name": "Jay Horsth",
+          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165834,
+      "name": "Dona Veridiana",
+      "url": "https://open.spotify.com/track/1tIVCufxDH7CkTLd1kLLmY"
+    },
+    {
+      "album": {
         "name": "Door",
         "url": "https://open.spotify.com/album/0ypjYPdOJBi7Ed3njS6dSu"
       },
@@ -4668,7 +4762,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 185500,
       "name": "Elefantes",
       "url": "https://open.spotify.com/track/3pe1rds7yMY2A3RBpDNuEz"
@@ -5306,7 +5400,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 290526,
       "name": "Eu N\u00e3o Ligo, Eu Finjo",
       "url": "https://open.spotify.com/track/3v8q3fc05ZaRGDq9oxcvcJ"
@@ -6228,7 +6322,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 196703,
       "name": "Guarde Isso",
       "url": "https://open.spotify.com/track/56eX0mR15K1PutImuabniD"
@@ -13077,6 +13171,28 @@
     },
     {
       "album": {
+        "name": "slow down / vc me disse",
+        "url": "https://open.spotify.com/album/6P0uNdRotmFioY6RbJbOdc"
+      },
+      "artists": [
+        {
+          "name": "guandu",
+          "url": "https://open.spotify.com/artist/6kF4KHZ94ltqD6JetcWtoJ"
+        },
+        {
+          "name": "Resp",
+          "url": "https://open.spotify.com/artist/7aQV5qISnvnjl2IiAw1Q6o"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272673,
+      "name": "slow down / vc me disse",
+      "url": "https://open.spotify.com/track/2GVOf10WzZfkAUYJL4CYL8"
+    },
+    {
+      "album": {
         "name": "Sobreviver",
         "url": "https://open.spotify.com/album/3PHwQan7uUJC8fTZL7QByM"
       },
@@ -15066,7 +15182,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 210666,
       "name": "Uma Tarde Qualquer",
       "url": "https://open.spotify.com/track/4leKREDuvQHApZlFFWyESR"
@@ -15652,7 +15768,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 185499,
       "name": "Viu!?",
       "url": "https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf"

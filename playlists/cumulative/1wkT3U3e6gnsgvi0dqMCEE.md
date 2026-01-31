@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-366 songs - 1 day 0 hr 15 min
+369 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Dance, Dance](https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:00 | 2023-10-16 | 2024-05-24 |
 | [Dark Matter](https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:31 | 2024-05-23 |  |
 | [Dashboard](https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:06 | 2023-10-16 | 2024-05-24 |
+| [Debra Kadabra \- Live In Austin, TX \- May 21, 1975](https://open.spotify.com/track/1dNTt9gD88G8tM4nSLcPO8) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN), [Captain Beefheart](https://open.spotify.com/artist/2ebK4ueGwhVaXUm060m1BS), [The Mothers](https://open.spotify.com/artist/6O2r6FHJL6hRJxBI5TUn0K) | [Debra Kadabra](https://open.spotify.com/album/7abqyyK2520wquLRbe4rCW) | 3:58 | 2026-01-30 |  |
 | [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-06 |  |
 | [Desert Rose \- Melodic Club Mix Radio Edit](https://open.spotify.com/track/7zZxHbiwBoHNB30MAf1YiU) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Vic Calderone](https://open.spotify.com/artist/7IpHuA8q4cFkywiEfXLCIx) | [Brand New Day \(Expanded Edition\)](https://open.spotify.com/album/2WnFt5YphOAgXMOEyrD0XS) | 4:45 | 2024-09-27 |  |
 | [Dirty Day \- Bitter Kiss / Remastered 2024](https://open.spotify.com/track/3sTp2O4tnaMl2yQEAXLMyH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Please](https://open.spotify.com/album/1jmFAkO4iGbznWncVkF99A) | 4:34 | 2024-05-23 |  |
@@ -197,6 +198,7 @@
 | [Lowdown \(part ii\)](https://open.spotify.com/track/7EflhaDgS2X7jhlaWU1xAO) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Lowdown](https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS) | 2:39 | 2024-09-13 |  |
 | [Luckiest Man In The World](https://open.spotify.com/track/0SyEC4n2uU6OrRZRNxaogH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb \(Re\-Assemble Edition\)](https://open.spotify.com/album/7o3k14ivnyWNPp6LM2NkgV) | 6:12 | 2024-11-22 |  |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-07-05 |  |
+| [Mama Kin \- 2024 Mix](https://open.spotify.com/track/6wFfvDWhdlrFjBchs1iidh) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Mama Kin \(2024 Mix\)](https://open.spotify.com/album/4tBXcje3f1YqjPIxq0yDfy) | 4:35 | 2026-01-30 |  |
 | [Mama Nature Said \- Acoustic Version / 2023 Master](https://open.spotify.com/track/1NzFAjp25uU4K90CfHGc8M) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Mama Nature Said](https://open.spotify.com/album/4a6gOqdfCo5z7eNL8shWxz) | 3:52 | 2025-05-02 |  |
 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 | 2024-05-23 |  |
 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2023-10-16 | 2024-05-24 |
@@ -330,6 +332,7 @@
 | [Tom Sawyer](https://open.spotify.com/track/1MkoCFGbhPQIDI5lRdAheQ) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/3yBAvj1wgPEFbnUdgihqlR) | 4:36 | 2024-05-23 |  |
 | [TOMBSTONE TOWN \(feat\. Slash\)](https://open.spotify.com/track/5tAiaUVkYL86ZOaWwv0zLO) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [THE WAY](https://open.spotify.com/album/358tJVvVgfUhwcjpLDnZPk) | 3:14 | 2025-03-14 |  |
 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 | 2024-05-23 |  |
+| [True Love Will Find You In The End](https://open.spotify.com/track/3t5TmZKdel3L8p8GHkZ226) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Everybody's Gotta Learn Sometime](https://open.spotify.com/album/1C6ZhZjeYzIE7pPoRGABXJ) | 2:08 | 2026-01-30 |  |
 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 | 2025-02-14 |  |
 | [Uncle Remus \- Piano And Vocal Mix 2024](https://open.spotify.com/track/78uoTxA9VoxlhHwpON8xwL) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Uncle Remus \(Piano And Vocal Mix 2024\)](https://open.spotify.com/album/3xKT5KzBnAVUKrPFhQV24S) | 3:19 | 2024-07-12 |  |
 | [Undone \- The Sweater Song](https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 5:05 | 2024-09-06 | 2024-11-02 |

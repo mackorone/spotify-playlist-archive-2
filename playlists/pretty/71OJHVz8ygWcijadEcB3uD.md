@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/71OJHVz8ygWcijadEcB3uD.md) - [plain]
 
 > Listen to the best Rock musics🔥.
 
-[BLX RECORDS](https://open.spotify.com/user/31kk7jt42cb2wl27pkokzrwdsl7q) - 818 likes - 515 songs - 1 day 7 hr 10 min
+[BLX RECORDS](https://open.spotify.com/user/31kk7jt42cb2wl27pkokzrwdsl7q) - 818 likes - 517 songs - 1 day 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -523,5 +523,7 @@ pretty - [cumulative](/playlists/cumulative/71OJHVz8ygWcijadEcB3uD.md) - [plain]
 | 513 | [Little Bit Closer](https://open.spotify.com/track/41ibNw69vc7EOi6jv9EqEU) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 2:54 |
 | 514 | [Moments of Silence](https://open.spotify.com/track/5zEDpWLwXgJ6xiWgxweIbv) | [Luxthereal](https://open.spotify.com/artist/6OLZN0dtD81R3zwdEQCxHm) | [Moments of Silence](https://open.spotify.com/album/5AK8b7vCiGEAENdSoSL7dV) | 5:10 |
 | 515 | [Shine Your Shoes](https://open.spotify.com/track/6Ro4y2BWJt4KlUZfXxfokk) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Donatello Soul](https://open.spotify.com/album/2sdIfhH5l2fGNsX2fHHqe8) | 3:20 |
+| 516 | [Altercations](https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Altercations](https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA) | 5:10 |
+| 517 | [Stoneward Bound](https://open.spotify.com/track/0pqdMbZ1Mp1pcMeSLfq422) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Stoneward Bound](https://open.spotify.com/album/0P78NFFiWeIKkKpAqVzEwl) | 3:04 |
 
-Snapshot ID: `AAAEwy1pBXA028IJ1QlgfgSeKc4ifj8q`
+Snapshot ID: `AAAExem2YzEbAuD8cNjIT70Y68jiJg5M`

@@ -2,7 +2,7 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best new and classic South African Rock\. Cover: JaeXlynne
+> The best new and classic South African Rock\. Cover: Carla Franco and Sophia Frank
 
 876 songs - 2 day 3 hr 26 min
 
@@ -417,7 +417,7 @@
 | [Jou Skoene](https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Jou Skoene](https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG) | 3:36 | 2023-02-09 | 2023-04-22 |
 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 | 2024-07-18 |  |
 | [Joune](https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7) | [Cara Rossouw](https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa) | [Joune](https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db) | 2:54 | 2024-07-11 | 2024-09-09 |
-| [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 | 2024-07-11 | 2025-11-30 |
+| [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 | 2024-07-11 |  |
 | [Just Live It Up](https://open.spotify.com/track/6pPAwuuYZ8bT2ujleLIEIo) | [The Rocc Lobsters](https://open.spotify.com/artist/3ylSwZObELpgKEoXmTcPWJ) | [Just Live It Up](https://open.spotify.com/album/2OGWiLgIxjYfD1pNwTjXst) | 4:19 | 2025-02-14 | 2025-02-28 |
 | [Just One Hit](https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Just One Hit](https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs) | 4:04 | 2023-06-15 | 2023-08-25 |
 | [Jy Dink Jy's Die Een](https://open.spotify.com/track/3GLZ8rb7BBRldebmVgfEX1) | [Saterdag Vanaand](https://open.spotify.com/artist/6O6o1uzcMIdSzyouBGiUjc) | [Jy Dink Jy's Die Een](https://open.spotify.com/album/6h1M4yC8owteIAKFiZnmOP) | 3:06 | 2025-01-02 | 2025-01-10 |
@@ -710,7 +710,7 @@
 | [Song 13](https://open.spotify.com/track/1gitnoPAEnALBhyF4hPU4s) | [GoneChasingDragons](https://open.spotify.com/artist/5EUfPSCcilqZlmJtUdibmX) | [Song 13](https://open.spotify.com/album/2NJtkrZj9sGojsexI5uGIf) | 3:54 | 2025-06-27 | 2025-07-04 |
 | [Sonkring](https://open.spotify.com/track/011GSPHOgz9f9r5Qghzy2j) | [Gian Groen](https://open.spotify.com/artist/1AUYjVNNS9NRuu6wHeXSqg) | [Sonkring](https://open.spotify.com/album/6smVk84yrQG8uHXZ7edWgb) | 4:16 | 2025-05-09 | 2025-05-16 |
 | [Sonskyn](https://open.spotify.com/track/7s0fN4Sljj4SyicBbZ9lwC) | [Likkewaan](https://open.spotify.com/artist/6lo75AjRf26g8qluCyDwO3) | [Sonskyn](https://open.spotify.com/album/1Tt1AGfyV0DKO1OEWxQ94M) | 2:58 | 2025-12-05 | 2026-01-23 |
-| [Sonskyn Vrou](https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Sonskyn Vrou](https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1) | 4:26 | 2025-03-14 |  |
+| [Sonskyn Vrou](https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Sonskyn Vrou](https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1) | 4:26 | 2025-03-14 | 2026-01-31 |
 | [Soothing](https://open.spotify.com/track/4t10kSOLO3ZIpztOXqupHy) | [Cal Motto\-Ros](https://open.spotify.com/artist/3nQ3eVNDnBzGUBIIgUTqqg) | [Soothing](https://open.spotify.com/album/1SmWpe54evwGksth7sACJT) | 2:57 | 2023-09-28 | 2024-01-05 |
 | [Soul Parasite](https://open.spotify.com/track/3iRDYHlQZqw3B4SQJqAREz) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Shelter Of Bones](https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr) | 3:31 | 2022-02-25 | 2022-11-25 |
 | [Soulmate](https://open.spotify.com/track/3qxVPozermWCm6jrc4ejAP) | [Tait](https://open.spotify.com/artist/4euaa2RiB5CKUvkeyTZd3v) | [Soulmate](https://open.spotify.com/album/2ScGmrtvJX09LAAzPnVoSL) | 3:41 | 2025-02-27 | 2025-03-07 |

@@ -3351,6 +3351,24 @@
     },
     {
       "album": {
+        "name": "Worst Enemy",
+        "url": "https://open.spotify.com/album/1Szbrta34NQhMTsBx3mUcb"
+      },
+      "artists": [
+        {
+          "name": "Solace in Me",
+          "url": "https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245733,
+      "name": "Worst Enemy",
+      "url": "https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja"
+    },
+    {
+      "album": {
         "name": "LET IT BURN",
         "url": "https://open.spotify.com/album/7qPN6FUAx44U3Ti7F6Rpxr"
       },

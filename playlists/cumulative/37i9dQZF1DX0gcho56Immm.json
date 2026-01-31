@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Sassy 009",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: PVA",
   "name": "Cph+",
   "tracks": [
     {
@@ -398,6 +398,24 @@
       "duration_ms": 244901,
       "name": "Borrow",
       "url": "https://open.spotify.com/track/6Ro5eA9bg0rPvY2SpfK0Yl"
+    },
+    {
+      "album": {
+        "name": "No More Like This",
+        "url": "https://open.spotify.com/album/12DsfLStHj9iTWgbNQVoRK"
+      },
+      "artists": [
+        {
+          "name": "PVA",
+          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196942,
+      "name": "Boyface",
+      "url": "https://open.spotify.com/track/16WSwwZg4SPNYwy3X4W7Ns"
     },
     {
       "album": {
@@ -1811,6 +1829,28 @@
     },
     {
       "album": {
+        "name": "Hibiscus",
+        "url": "https://open.spotify.com/album/16xUaFfdxnpmb17DzzJPzn"
+      },
+      "artists": [
+        {
+          "name": "Carr\u00e9",
+          "url": "https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202"
+        },
+        {
+          "name": "Bbyafricka",
+          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179808,
+      "name": "Hibiscus",
+      "url": "https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R"
+    },
+    {
+      "album": {
         "name": "Strange Serenity",
         "url": "https://open.spotify.com/album/5R3GB55ibs9mZzBFfUnjLy"
       },
@@ -2044,7 +2084,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 196895,
       "name": "Intangible",
       "url": "https://open.spotify.com/track/5pL2gkDSOm5iEPLqZ7d8p8"
@@ -2116,7 +2156,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 173101,
       "name": "King Jester",
       "url": "https://open.spotify.com/track/2vJm5QcDnbQCUnvoT8472L"
@@ -2848,7 +2888,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 171382,
       "name": "Player",
       "url": "https://open.spotify.com/track/2ijSauaN6TX94b8VRSdn1j"
@@ -3600,6 +3640,24 @@
       "duration_ms": 198500,
       "name": "tears on his rings and chains",
       "url": "https://open.spotify.com/track/7DigNxE6prVBzj4sPJopkT"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1f6iPT6ez7BxIQyiqVEmOn"
+      },
+      "artists": [
+        {
+          "name": "SY3",
+          "url": "https://open.spotify.com/artist/3knZSaPAzRgjzuwcvsGBHw"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252483,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/5xrJQz0agpmgf0Y3ZQYtw5"
     },
     {
       "album": {

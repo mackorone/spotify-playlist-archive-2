@@ -9386,7 +9386,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 150545,
       "name": "CHA CHA",
       "url": "https://open.spotify.com/track/7Lz3Eidz8YjBbK7GHNIn3o"
@@ -14356,7 +14356,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 196204,
       "name": "DYLEMAT",
       "url": "https://open.spotify.com/track/3HCZqNBhvnwjAWyLuDUcG5"
@@ -23178,6 +23178,36 @@
       "duration_ms": 160106,
       "name": "Jeszcze pi\u0119\u0107 minut",
       "url": "https://open.spotify.com/track/3xjPXRGIowUQ0OULFNyeHS"
+    },
+    {
+      "album": {
+        "name": "JET SKI",
+        "url": "https://open.spotify.com/album/4MLbAkVQzRrpm79Na2O8Ln"
+      },
+      "artists": [
+        {
+          "name": "Ekipa",
+          "url": "https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM"
+        },
+        {
+          "name": "Kostek",
+          "url": "https://open.spotify.com/artist/292ZtZEV38d87HRQwnqa1p"
+        },
+        {
+          "name": "Julita R\u00f3\u017calska",
+          "url": "https://open.spotify.com/artist/7GIdcqQ36KQ8I3mkxr1PhM"
+        },
+        {
+          "name": "Wujek \u0141uki",
+          "url": "https://open.spotify.com/artist/7K6fwkcPKle6O18kLF9vQS"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127918,
+      "name": "JET SKI",
+      "url": "https://open.spotify.com/track/08uHb87N86jFJXMgKZndaP"
     },
     {
       "album": {
@@ -36468,7 +36498,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 109859,
       "name": "Odegaard",
       "url": "https://open.spotify.com/track/0GUZWr03s8y0x4BpvXGhDH"
@@ -48762,7 +48792,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 171111,
       "name": "SZLAUFY",
       "url": "https://open.spotify.com/track/1ygXFoGaiGkrdKv6PlgOGc"
@@ -53446,6 +53476,32 @@
       "duration_ms": 164801,
       "name": "Vigilante Shit",
       "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
+    },
+    {
+      "album": {
+        "name": "VINI JR.",
+        "url": "https://open.spotify.com/album/5TVvgwP2fqvkZIVTSMIIjA"
+      },
+      "artists": [
+        {
+          "name": "Ekipa",
+          "url": "https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM"
+        },
+        {
+          "name": "Fausti",
+          "url": "https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx"
+        },
+        {
+          "name": "jakubjezy",
+          "url": "https://open.spotify.com/artist/2DuPDAaEfKvzpkzJeorUdG"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108942,
+      "name": "VINI JR.",
+      "url": "https://open.spotify.com/track/5NAjA2lTkOKA7nxbb4RPoR"
     },
     {
       "album": {

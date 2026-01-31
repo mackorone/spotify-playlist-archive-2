@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover:Zeke and the Popo \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,545 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,609 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 9 | [IDK](https://open.spotify.com/track/6lICgc3vK1QkbcHv3mAJo8) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [IDK](https://open.spotify.com/album/17Zgvhn2Vcxna3qcf8s5Ps) | 3:20 |
 | 10 | [savior](https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [savior](https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa) | 2:43 |
 | 11 | [Wish I Could](https://open.spotify.com/track/2NLiTULANK0gBrVba6HWlf) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH) | [Wish I Could](https://open.spotify.com/album/6ihEtJsBeGpC2uPMlI29Gc) | 2:31 |
-| 12 | [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:26 |
+| 12 | [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:28 |
 | 13 | [Blush](https://open.spotify.com/track/75ZSTrLVy8w4pZ2AJczLvx) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Blush](https://open.spotify.com/album/2DC22KxWVf8Veu5ddwBOSW) | 2:44 |
 | 14 | [Hazard Course](https://open.spotify.com/track/258EBARbxUYFPYumCb8yvW) | [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Hazard Course](https://open.spotify.com/album/4JzQq9LpfmhpDwCgxSpQEe) | 4:12 |
 | 15 | [朱門](https://open.spotify.com/track/1wBMqwDvWnlJpXcQRtPUnI) | [Dizkar](https://open.spotify.com/artist/4D7p9lfzPO5MydS79xCVRx) | [肥瘦音樂：豪華體驗](https://open.spotify.com/album/2sqhKv3wOC9ReKOGZ8VU4P) | 3:59 |

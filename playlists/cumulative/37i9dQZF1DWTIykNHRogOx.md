@@ -4,7 +4,7 @@
 
 > Les  meilleures nouveautés de la chanson française avec Benjamin Biolay
 
-272 songs - 15 hr 0 min
+272 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Les désirs fatigués des navires d’argent](https://open.spotify.com/track/5yWjsQylhePlSIF14zcWvT) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Paris Amour](https://open.spotify.com/album/3dvIlg1tuKOqYaAU8eYFJ5) | 3:37 | 2025-09-11 | 2026-01-16 |
 | [Les garçons](https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:50 | 2024-06-27 | 2024-09-27 |
 | [Les gens](https://open.spotify.com/track/327aZ6FSyHbV6SYyb60ckk) | [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Les gens](https://open.spotify.com/album/6hOJ1lPPsCDkFjQ4MFDmAX) | 3:22 | 2026-01-22 |  |
+| [Les inséparables](https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [L'oiseau bleu](https://open.spotify.com/album/6KukxYYn4YtlJBQmbaHgvM) | 2:47 | 2026-01-29 |  |
 | [les mots que j'aime](https://open.spotify.com/track/2qbFUOIda3e2w4VB6J0nZf) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [les mots que j'aime](https://open.spotify.com/album/593xbuj1Sg2GRkylfyWFEt) | 2:44 | 2025-12-18 |  |
 | [Les ogres](https://open.spotify.com/track/6313xKMuwpKqA2xP1Tl2wU) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Les ogres](https://open.spotify.com/album/3lutBn9xqQgjOUpj88L8mf) | 2:54 | 2024-11-28 | 2025-04-18 |
 | [Les ogres](https://open.spotify.com/track/7maKIQM9dXihvpXAJGSPiV) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 2:54 | 2025-04-24 | 2025-09-20 |
@@ -253,7 +254,6 @@
 | [Tout dit](https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout dit](https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e) | 2:31 | 2024-11-07 | 2025-03-21 |
 | [Tout fait pour](https://open.spotify.com/track/5GibkKOKTC3MHSuGVMrwUj) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout fait pour](https://open.spotify.com/album/55unj2AEwXhyHcesIt55jx) | 3:26 | 2025-10-23 |  |
 | [Tout sera pardonné](https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Tout sera pardonné](https://open.spotify.com/album/6Y10RjV0HW6UfRk29lY6Mg) | 4:12 | 2025-01-16 | 2025-06-13 |
-| [Track 2](https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-29 |  |
 | [Tu danses](https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La Réplique](https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL) | 2:57 | 2024-07-25 | 2025-01-10 |
 | [tu dis que tu m'aimes \- piano version](https://open.spotify.com/track/4DiQIu33YyFtAf6713AsIw) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S), [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [tu dis que tu m'aimes \(piano version\)](https://open.spotify.com/album/5gVjadxwoN3dbwiZiZNsHz) | 3:00 | 2024-11-28 | 2025-04-18 |
 | [tu m'as dit que tu m'aimais](https://open.spotify.com/track/2pwXypfanqsYaTyoGE0yPk) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [tu m'as dit que tu m'aimais](https://open.spotify.com/album/4cPiATyN905GjIHqkusfdc) | 2:40 | 2025-03-06 | 2025-07-11 |

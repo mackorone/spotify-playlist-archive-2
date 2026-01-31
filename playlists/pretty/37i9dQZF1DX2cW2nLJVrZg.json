@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 254810,
+  "num_followers": 254794,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 128280,
+      "name": "Bathroom Dance",
+      "url": "https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
         "name": "Glory (From the Motion Picture Selma)",
         "url": "https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 272727,
       "name": "Glory (From the Motion Picture Selma)",
       "url": "https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 128280,
-      "name": "Bathroom Dance",
-      "url": "https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Greatest Hits: The Road Less Traveled",
-        "url": "https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P"
+        "name": "Toy Story Favorites",
+        "url": "https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936"
       },
       "artists": [
         {
-          "name": "Melissa Etheridge",
-          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
         }
       ],
-      "duration_ms": 213880,
-      "name": "I Need To Wake Up",
-      "url": "https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T"
+      "duration_ms": 243160,
+      "name": "We Belong Together - From \"Toy Story 3\"/Soundtrack",
+      "url": "https://open.spotify.com/track/5MOXaHAnv8Rj4xaghFRnqr"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Toy Story Favorites",
-        "url": "https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936"
+        "name": "Greatest Hits: The Road Less Traveled",
+        "url": "https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P"
       },
       "artists": [
         {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
         }
       ],
-      "duration_ms": 243160,
-      "name": "We Belong Together - From \"Toy Story 3\"/Soundtrack",
-      "url": "https://open.spotify.com/track/5MOXaHAnv8Rj4xaghFRnqr"
+      "duration_ms": 213880,
+      "name": "I Need To Wake Up",
+      "url": "https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T"
     },
     {
       "added_at": "2024-01-23 19:55:12",

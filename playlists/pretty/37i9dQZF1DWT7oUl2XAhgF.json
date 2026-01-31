@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Samm Henshaw",
-  "num_followers": 387538,
+  "num_followers": 387682,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO3ynwn7TYcxpCCLryk7kqkgWtsY",
+  "snapshot_id": "AAAAACZGhpXTqTNLih6lPLHQtmlJyTo8",
   "tracks": [
+    {
+      "added_at": "2026-01-30 05:00:40",
+      "album": {
+        "name": "Don\u2019t Want a Thing to Change (Groundhog Day)",
+        "url": "https://open.spotify.com/album/2qe0lsIDxAvJtBb00iqIaM"
+      },
+      "artists": [
+        {
+          "name": "Eamon",
+          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
+        }
+      ],
+      "duration_ms": 204148,
+      "name": "Don\u2019t Want a Thing to Change (Groundhog Day)",
+      "url": "https://open.spotify.com/track/5cIvqDrh4wSus2jySjlwfx"
+    },
     {
       "added_at": "2026-01-23 05:00:22",
       "album": {
@@ -1479,22 +1495,6 @@
       "duration_ms": 219428,
       "name": "Grow Old Together",
       "url": "https://open.spotify.com/track/1Ue7dDblJkm1YAUb2OUDJp"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Do It All Again",
-        "url": "https://open.spotify.com/album/1uqwOGZogjB2sJ6cHuqD04"
-      },
-      "artists": [
-        {
-          "name": "Eamon",
-          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
-        }
-      ],
-      "duration_ms": 180941,
-      "name": "Do It All Again",
-      "url": "https://open.spotify.com/track/0Wa2qkfYlHDfx1iGKTaCuU"
     },
     {
       "added_at": "2024-09-20 04:00:00",

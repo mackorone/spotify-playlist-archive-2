@@ -2,13 +2,14 @@
 
 ### [Salsa Nation](https://open.spotify.com/playlist/37i9dQZF1DX4qKWGR9z0LI)
 
-> Lo último y lo mejor de la salsa\. Cover: Maria Becerra & Jay Wheeler
+> Lo último y lo mejor de la salsa\. Cover: Luis Fonsi & Feid
 
-319 songs - 23 hr 0 min
+321 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\-Te Voy A Hacer Feliz](https://open.spotify.com/track/1d9LhayPyXx9lkCpJhKT9P) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [DE COSTA A COSTA](https://open.spotify.com/album/12eZeG9t7QD5LG5ED1oPIj) | 5:09 | 2022-01-01 | 2022-07-29 |
+| [1+1](https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [1+1](https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1) | 3:06 | 2026-01-30 |  |
 | [18](https://open.spotify.com/track/3QeUJezWTKjbkM4PegVqsg) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [18](https://open.spotify.com/album/6OJgwW8xB9bvJL5U5EK0Ui) | 3:51 | 2023-12-08 | 2024-06-17 |
 | [A Mal Tiempo Buena Salsa](https://open.spotify.com/track/0sgPyUXELg85REg7HFusDF) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Pedro Brull](https://open.spotify.com/artist/5gNP6xGmxzC25B3Fhqg5eg) | [A Mal Tiempo Buena Salsa](https://open.spotify.com/album/2ebZpoAUABkDTbbLGGKnGg) | 5:37 | 2022-01-01 | 2022-07-27 |
 | [Abre Que Voy](https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw) | [Miguel Enriquez](https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL) | [Grandes Exitos](https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ) | 4:22 | 2022-01-01 |  |
@@ -134,6 +135,7 @@
 | [JACARANDOSA](https://open.spotify.com/track/1cvLp0KMMMU46aPJhZ0bSj) | [José Aguirre](https://open.spotify.com/artist/45GvR0b9kXuYqSH6jpAWDr), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Cali Big Band](https://open.spotify.com/artist/6w2RBFxyl6FRHoC505rUkP) | [JACARANDOSA](https://open.spotify.com/album/7uaseBXSWlKzztmr7fBblR) | 4:12 | 2025-08-22 | 2025-10-04 |
 | [Juguete de Nadie](https://open.spotify.com/track/3pDjbxoNsCVoDwabAl2jSR) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Exitos y Mas](https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD) | 5:04 | 2022-01-01 | 2025-02-16 |
 | [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 | 2024-05-24 |  |
+| [La Carrera](https://open.spotify.com/track/7rZ1zXk0K0gSSUInOd9Tss) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz), [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [La Carrera](https://open.spotify.com/album/6k67isnOdUxFxG45TxPR0H) | 3:40 | 2026-01-30 |  |
 | [La Cita](https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Galy Galiano 30 Años](https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy) | 7:18 | 2022-01-01 | 2025-02-01 |
 | [La Cura \- Salsa Version](https://open.spotify.com/track/2BlWHJwRFd8I4rNyA3TrA1) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Feliz Navidad, Vol\. 3](https://open.spotify.com/album/6tCRBwC4X5HL0kUEaNt7Ii) | 3:12 | 2023-12-08 | 2024-01-08 |
 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 | 2023-02-03 |  |
@@ -147,7 +149,7 @@
 | [La Noche](https://open.spotify.com/track/4719W4pIdmaH0tawsJBeNf) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [La Noche](https://open.spotify.com/album/4BfxN7T83kFNWVzgxDaXJb) | 3:20 | 2025-05-02 | 2025-08-18 |
 | [La Pantera Mambo](https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 6:14 | 2022-01-01 |  |
 | [La Película II](https://open.spotify.com/track/5WZPTq3NoLhIys3RyPF5Ye) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Salsa Premier](https://open.spotify.com/album/0U0shFxqYSSjHADZ6N97FE) | 4:17 | 2022-01-01 | 2022-07-20 |
-| [La Puerta](https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Puerta](https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj) | 3:22 | 2024-02-23 |  |
+| [La Puerta](https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Puerta](https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj) | 3:22 | 2024-02-23 | 2026-01-31 |
 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2022-01-01 | 2022-07-16 |
 | [LA RONDA](https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:29 | 2023-12-01 |  |
 | [La Rumba Que Yo Te Traigo](https://open.spotify.com/track/1o2hixb9ZedXPpNANypMwd) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [La Rumba Que Yo Te Traigo](https://open.spotify.com/album/5xC1o0vtWDY1etRTSnTIia) | 3:14 | 2022-05-20 | 2022-05-29 |
@@ -226,7 +228,7 @@
 | [Por Ella](https://open.spotify.com/track/7C2nNvvtr5zZSvV5ZTBAie) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Sólo para Mujeres](https://open.spotify.com/album/28fSBWZmuscPV59hEgsxSF) | 4:37 | 2022-01-01 | 2022-07-29 |
 | [Por Retenerte](https://open.spotify.com/track/0vGEHf4yeVN0sn8IwY1HW4) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/1aGfPCEPzO2N98CkYDA1f1) | 4:44 | 2022-01-01 | 2022-07-29 |
 | [Por Retenerte](https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:51 | 2022-05-20 | 2024-04-19 |
-| [Porque Te Amo](https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Salsa At It's Best](https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R) | 5:04 | 2022-01-01 |  |
+| [Porque Te Amo](https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Salsa At It's Best](https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R) | 5:04 | 2022-01-01 | 2026-01-31 |
 | [Princesa](https://open.spotify.com/track/3szaCs7VEoFa0aDnsqzgZz) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Princesa](https://open.spotify.com/album/26ml9ZkGw8nvKzMMn5NQBx) | 2:59 | 2025-01-24 | 2025-10-11 |
 | [Probablemente](https://open.spotify.com/track/5lddLjDy5knLAEeYwCcWl7) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Probablemente](https://open.spotify.com/album/2j2JpKRcRfVEBgkz2ZCbUi) | 3:37 | 2022-01-01 | 2022-07-29 |
 | [Probablemente](https://open.spotify.com/track/1RzRFnWWzFMzJiouw2BnOy) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Probablemente](https://open.spotify.com/album/1xFgOy3uLcPd3sy5BL5m9u) | 3:37 | 2022-05-20 | 2024-04-19 |

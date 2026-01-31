@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,422 likes - 56 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,418 likes - 56 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [H.C.](https://open.spotify.com/track/7DH8FCjWuNSUBk0hXAepvo) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [H.C.](https://open.spotify.com/album/1btCfwzvzlMIuqb1D0sr18) | 3:28 |
+| 1 | [H.C\. \(feat\. Lamin & KESI\)](https://open.spotify.com/track/7DH8FCjWuNSUBk0hXAepvo) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [H.C\. \(feat\. Lamin & KESI\)](https://open.spotify.com/album/1btCfwzvzlMIuqb1D0sr18) | 3:28 |
 | 2 | [Distance](https://open.spotify.com/track/6Dr73QM3GLwS9ahaVNduAI) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Distance](https://open.spotify.com/album/59mbpzM0id0SVzW330mtSl) | 2:24 |
 | 3 | [Cobra \(feat\. Jamaika\)](https://open.spotify.com/track/7mUPCop88z8A4mTP1Rxrvq) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Cobra \(feat\. Jamaika\)](https://open.spotify.com/album/6ODopWPSC73RjkK0bN3UjL) | 2:41 |
 | 4 | [Wanna Be My Lady](https://open.spotify.com/track/2bsgTepwbSPYAS0gvlHUw7) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Wanna Be My Lady](https://open.spotify.com/album/5om9PmQ26QpvX2nSxVrcQB) | 1:58 |

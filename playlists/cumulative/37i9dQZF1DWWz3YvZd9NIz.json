@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 150348,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP"
@@ -5170,6 +5170,24 @@
       "duration_ms": 216049,
       "name": "The Wellerman (Sea Shanty)",
       "url": "https://open.spotify.com/track/2TS8X1CY0G0sThZ80PupZ5"
+    },
+    {
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/2tcKKWhpEpA5v6R4toUIB1"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/61FDBTmciFHAX2N7qkezim"
     },
     {
       "album": {

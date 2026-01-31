@@ -2,7 +2,7 @@
 
 ### [K\-Webtoon/Anime OST \(K\-웹툰/애니메이션 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: 작전명 순정\(Operation: True Love\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: 다크문: 달의 제단\(DARK MOON: THE BLOOD ALTAR\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
 280 songs - 16 hr 45 min
 

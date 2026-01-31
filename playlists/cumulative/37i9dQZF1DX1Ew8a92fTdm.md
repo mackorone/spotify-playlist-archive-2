@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-356 songs - 9 hr 29 min
+359 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Baby Dreams](https://open.spotify.com/track/2OCSQoa1w5dp3Qx14pD7VQ) | [Hillary Nic](https://open.spotify.com/artist/63ALojLOh3rjtkUEBUFITk) | [Baby Dreams](https://open.spotify.com/album/71xPRfWxOhGhZoRhErRbjr) | 0:58 | 2022-02-10 | 2022-04-23 |
 | [Baby Emanuel](https://open.spotify.com/track/5ewAfM8qnH8xzGmBCkPbZ8) | [Maurice Marsipano](https://open.spotify.com/artist/3kYoyPRiKgh8gEqKxXOWSr) | [Baby Emanuel](https://open.spotify.com/album/7gpqdB7cKzPjSbv7qEE7mn) | 1:14 | 2024-02-09 |  |
 | [Baby Giraffe](https://open.spotify.com/track/6m95l6JnkVFXOh9Rd42yrQ) | [Lila Novelle](https://open.spotify.com/artist/188g9y5y767vPnvVRVnvQW) | [Baby Giraffe](https://open.spotify.com/album/5hLR3h11NixFUZ8KwDRJa7) | 2:16 | 2025-11-21 |  |
+| [Baby On The Way](https://open.spotify.com/track/5WJonSQtBUxjbE81vW83WI) | [Tom Eastman](https://open.spotify.com/artist/7KBkjudsZi65ojptsNCG13) | [Baby On The Way](https://open.spotify.com/album/7exBWestuXplxgZ3nKaeQp) | 1:47 | 2026-01-30 |  |
 | [Baby Swan Dreams](https://open.spotify.com/track/4iR3wPEbv4hY91LfCaZb8U) | [Luna Ull](https://open.spotify.com/artist/3WCRwq0tALrJmzA0N09HaV) | [Baby Swan Dreams](https://open.spotify.com/album/7E6IbMz51uTaQlnUa59fvc) | 1:45 | 2022-12-09 |  |
 | [Baby Waltz](https://open.spotify.com/track/5iYqthNAUpzgCFZrogSr79) | [Lullaby Hill](https://open.spotify.com/artist/5ffOn1wNgnjN6W1hJWTYzR) | [Baby Waltz](https://open.spotify.com/album/3lHX0ykuoph6qtYCS1nmrW) | 1:44 | 2022-02-10 | 2023-01-20 |
 | [Babysteps](https://open.spotify.com/track/2zqHqxPQhECCWTwuCNzNHK) | [Teodora Mills](https://open.spotify.com/artist/5UhCZHhiDEfKoh45KAskwT) | [Babysteps](https://open.spotify.com/album/0q2LDg44aoY0G8DwjY9nxJ) | 0:56 | 2022-02-10 | 2022-04-23 |
@@ -74,6 +75,7 @@
 | [Bubble Bath](https://open.spotify.com/track/1628ekWldpzuKjr94qB1F0) | [Bubbles & Soap](https://open.spotify.com/artist/6hxN0gH6z5uckTX4FxCOB6) | [Bath Time Lullabies](https://open.spotify.com/album/7aH1XxefhIjFAKWMcdU4ID) | 1:45 | 2022-04-22 | 2023-02-18 |
 | [Bug In A Rug](https://open.spotify.com/track/4gSBGniqtgW3gEDEoJjjTH) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [Bug In A Rug](https://open.spotify.com/album/4gd2sy1xnO8iuip5WeXeCv) | 1:44 | 2022-11-25 | 2025-05-24 |
 | [Bug Juice Summer](https://open.spotify.com/track/29uMnRN95ImeQVvQhky5Pk) | [Samantha Ant](https://open.spotify.com/artist/6PVRdp7qSiUrGPo8Gj9FU1) | [Caterpillar Waltz](https://open.spotify.com/album/2DSkZZVi8VFdDp0YHUan8U) | 1:49 | 2022-02-10 | 2024-04-04 |
+| [Building my Dream Home](https://open.spotify.com/track/0PCiR0YcvMatPTynA1Xizt) | [Maja Bjorn](https://open.spotify.com/artist/0V6p3SK5AzelA8avqjw87q) | [Building my Dream Home](https://open.spotify.com/album/3DWb3ycSw6oIDKmkBJtl0N) | 2:27 | 2026-01-30 |  |
 | [Bundle Of Joy](https://open.spotify.com/track/3e5g2MWiGuU0h2RQxef002) | [Little Night Owl](https://open.spotify.com/artist/0XtzVCRLGk98nYDNNNnnzX) | [Bundle Of Joy](https://open.spotify.com/album/15nuJXpYq54wHHVRYqXCpA) | 1:09 | 2023-11-17 |  |
 | [Calm Story](https://open.spotify.com/track/2JfSBZNtR4RlzoTtuASeO7) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Calm Story](https://open.spotify.com/album/7qg5bHIbYVLCbwPSQ34I6Y) | 1:28 | 2022-02-10 | 2025-05-24 |
 | [Canon in D](https://open.spotify.com/track/6pDwnbhtHjV6QCNryWxkv1) | [Daisy Jesse](https://open.spotify.com/artist/4vBI6SlaXWOvwH8XmWl4El) | [Canon in D](https://open.spotify.com/album/20IB5tIxaO6cBDJe7dEypp) | 1:49 | 2024-05-10 | 2025-05-24 |
@@ -84,7 +86,7 @@
 | [Cielito Lindo](https://open.spotify.com/track/633k2PmrV5MMNXAKcOmPpq) | [Hakima Feré](https://open.spotify.com/artist/265CoPrCR8buOOIW2YLWRf) | [Cielito Lindo](https://open.spotify.com/album/5F7kxYBfQJqQAjmDLMVwmn) | 1:29 | 2022-02-10 | 2024-04-04 |
 | [Close Together](https://open.spotify.com/track/4bXwpLhOCnHZScpOPmOI7X) | [Linnea Nord](https://open.spotify.com/artist/4PquHZJBaOcfBdPliZvCLq) | [Close Together](https://open.spotify.com/album/3XlXwOJ9yHcMYrJ5nXKRhY) | 1:14 | 2022-02-10 | 2025-05-24 |
 | [Cloud Castles](https://open.spotify.com/track/6Fq1ceTEqN9eMDq7QNPMld) | [Irving Simon](https://open.spotify.com/artist/7hZbX41Usjsq13fQDqXSHa) | [Cloud Castles](https://open.spotify.com/album/4sprVQ6qKOBMFMjljbb1Or) | 2:08 | 2022-02-10 | 2024-04-04 |
-| [Confetti Rain](https://open.spotify.com/track/6S2cswU04vuN1X7zae7nIM) | [Florence Sunday](https://open.spotify.com/artist/4KjQulEjM6UKCV5nJMp4Jc) | [Confetti Rain](https://open.spotify.com/album/5UKMODl4GV8g6Rr6E8zAEk) | 2:22 | 2025-09-26 |  |
+| [Confetti Rain](https://open.spotify.com/track/6S2cswU04vuN1X7zae7nIM) | [Florence Sunday](https://open.spotify.com/artist/4KjQulEjM6UKCV5nJMp4Jc) | [Confetti Rain](https://open.spotify.com/album/5UKMODl4GV8g6Rr6E8zAEk) | 2:22 | 2025-09-26 | 2026-01-31 |
 | [Cuddle](https://open.spotify.com/track/5QYMcm9d8vixNQcj2uM88O) | [Linnea Nord](https://open.spotify.com/artist/4PquHZJBaOcfBdPliZvCLq) | [Cuddle](https://open.spotify.com/album/5TBQkKMj35YYutKnkxUdjE) | 1:14 | 2022-02-10 | 2023-05-19 |
 | [daisy](https://open.spotify.com/track/4Wpot9tmOGZ5OQ1HNNeo3x) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [daisy](https://open.spotify.com/album/3t3fGOcbPDLMZHUKord9Gw) | 2:07 | 2023-12-22 | 2025-05-24 |
 | [Danny Boy](https://open.spotify.com/track/6qBPfq25xnMLhUrUp7WJd0) | [Spotty Box](https://open.spotify.com/artist/0W1atZRo3p6T25yU1gMvpq) | [Danny Boy](https://open.spotify.com/album/491QWq1E8D6NYHZVplMmTU) | 1:39 | 2022-02-10 | 2024-04-04 |
@@ -125,6 +127,7 @@
 | [foambeard](https://open.spotify.com/track/5cgaOEkAcZOOGro5BDMojS) | [Lady Lou Lullabies](https://open.spotify.com/artist/5uwcJi6f4dZ5RDoStZKur0) | [Night Night](https://open.spotify.com/album/7aCxEylSl7Tw85xXr0ggTE) | 2:11 | 2023-09-08 |  |
 | [Give me sunshine](https://open.spotify.com/track/63q2eW7u4f8faDdP6brmvK) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Give me sunshine](https://open.spotify.com/album/0G9Nu1lqp0k3et1aNCC5gK) | 1:34 | 2023-12-08 | 2025-05-24 |
 | [Giver of All Dreams](https://open.spotify.com/track/0YMs4x4b2VgKyYVBC1hqy8) | [Robert Lansky](https://open.spotify.com/artist/0KvC4eGmYHgj33vFtAlcaY) | [Giver of All Dreams](https://open.spotify.com/album/2QowJgu3GkclkMVYNsdKeV) | 1:13 | 2022-02-10 | 2024-04-04 |
+| [Glimmering Night](https://open.spotify.com/track/4i1UMPjteHPOKcSuNpq8oC) | [Helike](https://open.spotify.com/artist/3EqRbbQlEglmQGw3p815YD) | [Glimmering Night](https://open.spotify.com/album/0QRTEBFk9CtzcNvFY9Zccs) | 2:38 | 2026-01-30 |  |
 | [Go the Distance](https://open.spotify.com/track/1p5bs2UZG8BLLTagZ2ly6m) | [Ember Roses](https://open.spotify.com/artist/0Al4ii7WbbtEf1Ss29RTL6) | [Go the Distance](https://open.spotify.com/album/3XOBAP00FytQ0GgnXDVh5U) | 1:21 | 2022-02-10 | 2025-05-24 |
 | [Go to bed, you sleepy head](https://open.spotify.com/track/19XE4ZAK06cqCEYZ9Tq87d) | [Joanie West](https://open.spotify.com/artist/0G7dE6ClPsupJLc2D90Wgn) | [Go to bed, you sleepy head](https://open.spotify.com/album/7iD57NcdkIaAFxzlNwj830) | 1:00 | 2022-02-10 | 2024-07-19 |
 | [Going on a trip](https://open.spotify.com/track/145u5e0k2ZlZwXOp8y2K4h) | [Fabiana Elder](https://open.spotify.com/artist/7AOIK81gV4ThccuqX7ITzC) | [In mom's purse](https://open.spotify.com/album/1BqOFw0TujOG2uf63uT57H) | 1:29 | 2022-05-17 | 2025-05-24 |
@@ -293,9 +296,9 @@
 | [Sunset Dreams](https://open.spotify.com/track/1Xz6iQJctwyQqrsW7xUb7o) | [Emma Fredrikson](https://open.spotify.com/artist/593Pvds6UCt7EErZ6I63y9) | [Sunset Dreams](https://open.spotify.com/album/5IUCv34ZLj2JtfRMCRYMcd) | 1:19 | 2022-02-10 | 2025-05-24 |
 | [Sunset Lullaby](https://open.spotify.com/track/60AqMQkQK1fYuW0JwvG0eA) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Sunset Lullaby](https://open.spotify.com/album/0M6MOJWfolDjuMsunCaBQy) | 1:27 | 2025-01-31 | 2025-05-24 |
 | [Sunset Song](https://open.spotify.com/track/202UvEtmaaAsgtyfKeN0sI) | [Kilian Skoog](https://open.spotify.com/artist/2TWJuWpcdDRbLwOBOEe3OK) | [Sunset Song](https://open.spotify.com/album/5PCVX8Fgyd9jqlDsZr71e0) | 1:39 | 2025-12-12 |  |
-| [Sunshine Symphony](https://open.spotify.com/track/1EugQp3Dr9Fl6zuUiHw0v7) | [Elmer Kask](https://open.spotify.com/artist/4mSdgNX5rXaRTWoVCMxIcR) | [Sunshine Symphony](https://open.spotify.com/album/3Hb2bBbFbhnWQavn99YR0c) | 1:24 | 2023-09-08 |  |
+| [Sunshine Symphony](https://open.spotify.com/track/1EugQp3Dr9Fl6zuUiHw0v7) | [Elmer Kask](https://open.spotify.com/artist/4mSdgNX5rXaRTWoVCMxIcR) | [Sunshine Symphony](https://open.spotify.com/album/3Hb2bBbFbhnWQavn99YR0c) | 1:24 | 2023-09-08 | 2026-01-31 |
 | [Suo Gân](https://open.spotify.com/track/5ejZpwnJQipTb8H7IHr6va) | [Royce Prichard](https://open.spotify.com/artist/4iajyddKaNIX6a1LKwpovL) | [Somewhere over the rainbow](https://open.spotify.com/album/6OmptZeMhscTHVBeReXTz1) | 1:08 | 2022-02-10 | 2024-04-19 |
-| [Sweet Dreams](https://open.spotify.com/track/2BwNQUTBCxpDlIvM0QazQi) | [Box the Music](https://open.spotify.com/artist/46P9q5Ebet7HTKGpqyysV8) | [Sweet Dreams](https://open.spotify.com/album/0lD7lhZoXu7OPcH6hozqIw) | 1:45 | 2023-04-20 |  |
+| [Sweet Dreams](https://open.spotify.com/track/2BwNQUTBCxpDlIvM0QazQi) | [Box the Music](https://open.spotify.com/artist/46P9q5Ebet7HTKGpqyysV8) | [Sweet Dreams](https://open.spotify.com/album/0lD7lhZoXu7OPcH6hozqIw) | 1:45 | 2023-04-20 | 2026-01-31 |
 | [Sweet Dreams Now, My Darling](https://open.spotify.com/track/4QiAPJf6uYHwNjkQpFfCfJ) | [Orla Rowe](https://open.spotify.com/artist/7cdmcpXO3r2VJ2uZTzFFBC) | [Sweet Dreams My Darling](https://open.spotify.com/album/5bGojAvVq5shVrL0FokbC2) | 1:33 | 2023-01-20 | 2025-05-24 |
 | [Sweet Dreams, Little One](https://open.spotify.com/track/0u18AOGSFgDWE05VrVj2rC) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [Sweet Dreams, Little One](https://open.spotify.com/album/2cRiQi3CYqxk3Gs5IA8y2j) | 1:36 | 2024-07-19 | 2025-05-24 |
 | [Teddy Toddler](https://open.spotify.com/track/5n2NlCI1zRcvPHTmiKSgds) | [Eli Demir](https://open.spotify.com/artist/51Nt493ykLjC5PvLbGmP9N) | [Teddy Toddler](https://open.spotify.com/album/3KSh6T3Lk7LWhuaecGZAUp) | 1:18 | 2022-02-10 | 2024-12-07 |

@@ -2,9 +2,9 @@
 
 ### [Rap francophone](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Les nouveautés rap franco sans frontières\. Photo: PLK
+> Les nouveautés rap franco sans frontières\. Photo: Zinée
 
-452 songs - 22 hr 21 min
+457 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Demain](https://open.spotify.com/track/66TAAKeoOD0cFpVRug9IXZ) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 3:03 | 2023-04-21 | 2024-01-20 |
 | [Dembele Yamal](https://open.spotify.com/track/532fSaooOuzPyrVsMEDUUu) | [BatBat](https://open.spotify.com/artist/04q4egoK1OOrukoyGCXy0k), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Dembele Yamal](https://open.spotify.com/album/4dmxvGLqPJGSqruYHrhTYi) | 2:57 | 2026-01-23 |  |
 | [DEMBÉLÉ](https://open.spotify.com/track/7znhCvyqxCEUPFutuLM6jR) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:17 | 2024-05-03 | 2024-07-13 |
+| [Derrière moi](https://open.spotify.com/track/1tfBv2wvPyymCVXaZ25N2n) | [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh), [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [Les 11 à suivre 2026](https://open.spotify.com/album/316y2Syts5IHMvJMVTdxsA) | 1:25 | 2026-01-30 |  |
 | [Diablo](https://open.spotify.com/track/4uUHWmCZYw49Ssd7de6Wwq) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Non conventionnel](https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l) | 3:30 | 2023-08-25 | 2023-09-09 |
 | [Diamant](https://open.spotify.com/track/62Ktq84kSEvVvbSXGj1jU1) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Diamant](https://open.spotify.com/album/62T0Y5Pb7tzEWWkBobeY5b) | 2:22 | 2025-12-05 |  |
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2023-03-03 | 2023-12-09 |
@@ -236,6 +237,7 @@
 | [KAT \(feat\. La Rvfleuze\)](https://open.spotify.com/track/4ccQmkote4B1zBjhk9sxFH) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [KAT \(feat\. La Rvfleuze\)](https://open.spotify.com/album/3gol36dUqCHz90vFEUnTe8) | 2:29 | 2025-07-18 | 2025-11-01 |
 | [KENZO NIGO \- Sur moi](https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [LA VIE RAPIDE EARLY ACCESS](https://open.spotify.com/album/3HSqYFBuzJKMW5GkrDzxQq) | 3:25 | 2023-07-07 | 2023-10-14 |
 | [KING VON](https://open.spotify.com/track/6MmIzStC3FpF2u9L7KOMze) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [KING VON](https://open.spotify.com/album/6HJX3L3feufkBfZk7kzpP9) | 3:17 | 2025-12-19 |  |
+| [Kizomba](https://open.spotify.com/track/5Oi1BmpxRvitn1ieSIpnNG) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [CAPITALE DU CRIME RADIO, vol\. 3](https://open.spotify.com/album/0XHAPZhoDyPzMnigsKZeej) | 3:08 | 2026-01-30 |  |
 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 | 2025-05-16 | 2025-11-15 |
 | [L'EAU \(Part\. II\)](https://open.spotify.com/track/4eenyjhMucaRF1yJ2PuGEK) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [L'EAU \(Part\. II\)](https://open.spotify.com/album/0Z0oljDTQSXTgvvLHPUnem) | 2:37 | 2025-10-10 | 2025-11-08 |
 | [La base](https://open.spotify.com/track/3F95idlLeaO0am5wmZJwwp) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [La base](https://open.spotify.com/album/6OhitIsGz5RmDgZYPYCZUn) | 2:14 | 2026-01-16 |  |
@@ -288,6 +290,7 @@
 | [mieux en mieux](https://open.spotify.com/track/296ihu9ccdjOhiE2igeHjZ) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [mieux en mieux](https://open.spotify.com/album/2O4x7UD7LHPIys6mlCJQqp) | 2:46 | 2025-10-31 | 2026-01-17 |
 | [MIKE TANGO LIMA](https://open.spotify.com/track/38bvFbzotkGZLkBNi5LYD0) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 2:24 | 2023-08-11 | 2023-12-16 |
 | [Milanaise](https://open.spotify.com/track/1hdShNmsaMeAfOHsywcNuS) | [Nito STL](https://open.spotify.com/artist/3v7s6CnBJtQLnDft673iGM) | [Homicide](https://open.spotify.com/album/4u2fCC1j8n8D8Qb2RqdJoV) | 2:13 | 2026-01-02 |  |
+| [miraculée](https://open.spotify.com/track/5YnWn5lJmNHQydLV2ZTW0o) | [Zinée](https://open.spotify.com/artist/6LAeGs6PiBDev5KdMdbRY3), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [miraculée](https://open.spotify.com/album/3duyuwjIRVRIbj4kBxHBvB) | 2:20 | 2026-01-30 |  |
 | [Modass](https://open.spotify.com/track/1Sjy5bbZZn3BWEiqmsc9OO) | [MALTY 2BZ](https://open.spotify.com/artist/5A7u47fziMdcEMunHjT8Kf) | [Modass](https://open.spotify.com/album/2xMYFSSgy3vxcCmqii1TAQ) | 2:47 | 2025-10-31 | 2026-01-17 |
 | [MODE CRYPTÉ](https://open.spotify.com/track/0OOFzZxPzKeFIHvlJlmKPW) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY), [Double Zulu](https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6) | [MODE CRYPTÉ](https://open.spotify.com/album/0NMoRqiuQw7ink1OfSsxHa) | 2:24 | 2025-11-21 | 2025-11-29 |
 | [MON BÉBÉ \- Free kitty version](https://open.spotify.com/track/27fHdmaRnIKoU91fw54Xuz) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [MON BÉBÉ \(Free kitty version\)](https://open.spotify.com/album/6ZYG5fxJM4ymFiIuJfVFJf) | 2:23 | 2025-10-31 | 2026-01-03 |
@@ -332,6 +335,7 @@
 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 | 2023-03-03 | 2023-12-09 |
 | [PAS LE CHOIX](https://open.spotify.com/track/4xyT5W6hSwIYzdP8FAS4HH) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [PAS LE CHOIX](https://open.spotify.com/album/3s9fg9EqFaoHaWx64KXZCV) | 1:30 | 2025-11-21 |  |
 | [PAS LES COUILLES](https://open.spotify.com/track/43wWsvU0v8Ijl1cEFtqZnl) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [AVEC TOUT LE RESPECT](https://open.spotify.com/album/5OqktAqR8ecIornz8xFqLA) | 2:06 | 2025-12-05 |  |
+| [Pas solo](https://open.spotify.com/track/5N3lIBZ88nTuerAuBgMK5u) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Pas solo](https://open.spotify.com/album/1Up5VOa7KYBOdMUherbXj4) | 2:41 | 2026-01-30 |  |
 | [Pearl Harbor](https://open.spotify.com/track/3pQ1sYnHaq2T45ewKCYaPx) | [Dr\. Stein](https://open.spotify.com/artist/2VJPQYs4oCE20tmtcXcVuR), [Morti Viventear](https://open.spotify.com/artist/4WpUPbjurKtaHMKhWfPCao), [Morse Attack](https://open.spotify.com/artist/3df04x2HEXQjXoSgefDtpd) | [OPÉRATION: FLIP LE PACK](https://open.spotify.com/album/2OSoYQ4daYMaBJSihJPJmD) | 3:08 | 2025-12-05 |  |
 | [Petite fille \- Live Symphonic \- Paris La Défense Aréna 2025](https://open.spotify.com/track/4XcsNWIs76i2qCpfvQ2yLa) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Comme une étoile \(Live Symphonic \- Paris La Défense Aréna 2025\)](https://open.spotify.com/album/6AV5wxnxADCWWeTnsKKFjz) | 4:15 | 2025-12-19 |  |
 | [Peur \(feat\. Ziak\)](https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Peur \(feat\. Ziak\)](https://open.spotify.com/album/5eL561zvNW6ZwbuOxGMSvR) | 3:10 | 2023-03-03 | 2023-07-29 |
@@ -370,6 +374,7 @@
 | [R.R](https://open.spotify.com/track/0qVnA4X6wrZd9vCOtBnov1) | [Richie Beats](https://open.spotify.com/artist/2wYp4hDPC6rDgn3SCvgqpB), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [R.R \(feat\. Josman\)](https://open.spotify.com/album/7LkMS8ocOzqzpZWt5bP6hu) | 3:26 | 2025-10-24 | 2025-12-13 |
 | [RATATA](https://open.spotify.com/track/4tGZCW0Ik3wASPyZXVjZQo) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [RATATA](https://open.spotify.com/album/22dlDdmFV7p4UaFso2PhHo) | 3:04 | 2025-11-14 | 2026-01-17 |
 | [Real Love](https://open.spotify.com/track/3AEJ9PoZEC6ovIv9rZy7aI) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Une semaine à Paris](https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u) | 3:34 | 2023-11-17 | 2024-09-14 |
+| [Reflet](https://open.spotify.com/track/265uWUvOg2jfluBievRRTF) | [Fragouler](https://open.spotify.com/artist/2MyGKehJE31IpcxdxjCYSO) | [Étoile](https://open.spotify.com/album/2MsBtaSSD6A3KcE7Y69NyJ) | 2:38 | 2026-01-30 |  |
 | [Remontada](https://open.spotify.com/track/1W2SSxoLIk53ulFH80t8Ez) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [Remontada](https://open.spotify.com/album/0QmCrblGmEeExx2iV0YrSv) | 2:21 | 2025-11-14 | 2026-01-17 |
 | [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2023-03-03 | 2023-05-06 |
 | [Rien de moins](https://open.spotify.com/track/2qO3vIBPP5OBsOm67dG9W0) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 2:54 | 2023-03-03 | 2023-03-11 |

@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: 千葉雄喜 \*毎週更新
 
-2,223 songs - 4 day 16 hr 7 min
+2,224 songs - 4 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -919,6 +919,7 @@
 | [Kenzo](https://open.spotify.com/track/4qS2Z6uqdWGYmeZ47PnZ4e) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez), [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq) | [Kenzo](https://open.spotify.com/album/3FBMQbFsIOEPUPZXLXABD0) | 2:51 | 2024-08-13 | 2024-09-13 |
 | [Keshiki](https://open.spotify.com/track/2NAvxhbSpftXny40A23nDf) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [Myghty Tommy](https://open.spotify.com/artist/4jqLZ8fErX4bAamCiKngKk) | [Keshiki](https://open.spotify.com/album/10BDQC29Oon8vX08jdCPD5) | 2:47 | 2025-06-10 | 2025-07-02 |
 | [KEY POINT](https://open.spotify.com/track/5MovouvrcoXbsQOCOgluOr) | [KEYTOTHECITY](https://open.spotify.com/artist/50jQk3uTNzSzv4Ep4xA174) | [KEY POINT](https://open.spotify.com/album/6t5tNG2vsFEvxgZDiFbiWP) | 2:33 | 2025-11-25 | 2025-12-12 |
+| [Key to go](https://open.spotify.com/track/6EJmAslcALkK6orAr1Q9iV) | [FARMHOUSE](https://open.spotify.com/artist/30zptKpJ1amp2A00OOx3DM), [Kee Rooz](https://open.spotify.com/artist/6aelVE9DrlIT69rDWD29lh), [RhymeTube](https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14) | [1/23](https://open.spotify.com/album/0kBFQsVIka1g9B4UsOE2TE) | 2:17 | 2026-01-29 |  |
 | [Keys](https://open.spotify.com/track/2mGwoHVlVXzgkW4HMK0NTs) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7), [Charity SsB](https://open.spotify.com/artist/1eYpcqZcPTAHSi9QSNkLN5) | [Keys](https://open.spotify.com/album/3IRKAGda0MRHkZacDdTZpY) | 3:16 | 2024-11-06 | 2024-11-15 |
 | [Kg2](https://open.spotify.com/track/57Qq6AzCBMq3rp92VXKSOE) | [CHAPAH](https://open.spotify.com/artist/48I0npVZVKzmMzS4ovC5ZG) | [Kg2](https://open.spotify.com/album/6S5bWPFkjaegZFtJANkpOw) | 2:11 | 2024-04-24 | 2024-05-01 |
 | [Kick Back](https://open.spotify.com/track/0R3cKyL7lSmV1AIMf5IvGC) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Kick Back](https://open.spotify.com/album/3YHQqscL7SIyD8N6NiPtTR) | 2:13 | 2024-01-23 | 2024-02-02 |
@@ -1965,7 +1966,7 @@
 | [Working Class King](https://open.spotify.com/track/17Ypcbt0VoqFLCJcX1Pxo5) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [Working Class King](https://open.spotify.com/album/7CyKNS7JJXFlv0YvoSCmiz) | 4:54 | 2024-08-21 | 2025-01-15 |
 | [World is mine](https://open.spotify.com/track/23qdS5pKApBb4VjSaxQAQN) | [NFN TEFER](https://open.spotify.com/artist/1NSFnnA4MXBixX18Bpacqg) | [World is mine](https://open.spotify.com/album/5KOCJkmAOAvZh4r9qhuS6F) | 2:22 | 2025-09-02 | 2025-09-12 |
 | [World is Ours](https://open.spotify.com/track/0OP6Dathz06t8zRCmf5Knv) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [World is Ours](https://open.spotify.com/album/43V9AkPqhqEv3lrOEdja9s) | 3:32 | 2024-08-30 | 2024-09-25 |
-| [Worldwide Lit \(feat\. Worldwide Skippa\)](https://open.spotify.com/track/2Odtm79kpuyPvgCIwrU8js) | [Showy](https://open.spotify.com/artist/0KYuVco2oTLHaEUqZ6fL6g), [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Worldwide Lit \(feat\. Worldwide Skippa\)](https://open.spotify.com/album/01EdSDso0VHM7a5XH6EHMb) | 2:46 | 2026-01-27 |  |
+| [Worldwide Lit \(feat\. Worldwide Skippa\)](https://open.spotify.com/track/2Odtm79kpuyPvgCIwrU8js) | [Showy](https://open.spotify.com/artist/0KYuVco2oTLHaEUqZ6fL6g), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4), [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Worldwide Lit \(feat\. Worldwide Skippa\)](https://open.spotify.com/album/01EdSDso0VHM7a5XH6EHMb) | 2:46 | 2026-01-27 |  |
 | [WTF](https://open.spotify.com/track/2RuDratTmJvZIKCsi4gWWB) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [WATAPACHI](https://open.spotify.com/artist/3jn7wt2ywocl6A8LOS2YyH) | [WTF](https://open.spotify.com/album/0HTNHb1uSnTA8h4c1WQcPm) | 2:23 | 2024-11-19 | 2024-12-25 |
 | [WUNACOOL](https://open.spotify.com/track/3csLkAFsCnj0zqCyNU2xqZ) | [e5](https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4) | [WUNACOOL](https://open.spotify.com/album/0b4PlIXcyEYqBBEei9Owoj) | 2:47 | 2025-07-23 | 2025-08-13 |
 | [WWW \(feat\. Bonbero\)](https://open.spotify.com/track/6Kcou9Rpm75oAkqpgv3go4) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [UNTIL](https://open.spotify.com/album/4fgxqE5qY4QFwtOiA4TaWJ) | 3:32 | 2025-11-18 | 2025-11-26 |

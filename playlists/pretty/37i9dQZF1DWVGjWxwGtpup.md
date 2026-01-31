@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,413 likes - 48 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,431 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 5](https://open.spotify.com/track/7fC9JbQTR20CB6gvWr1NcF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Olvídala](https://open.spotify.com/track/7fC9JbQTR20CB6gvWr1NcF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Bohemio](https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV) | 2:33 |
 | 2 | [CAMBIARÉ](https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CAMBIARÉ](https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU) | 3:01 |
 | 3 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
 | 4 | [Y Que Fue?](https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Y Que Fue?](https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw) | 2:43 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 21 | [HOY SE GUAYA](https://open.spotify.com/track/23bzW63Ly1XUrxjigp7hDV) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [HOY SE GUAYA](https://open.spotify.com/album/4bDcoGYOho0rcPLm7FV8Te) | 2:55 |
 | 22 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
 | 23 | [Soltera y Sin Dueño](https://open.spotify.com/track/4sIe3y1VbODzkg72gDzwMz) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [La Gente del Patrón](https://open.spotify.com/album/0DHqC84LLVWw544okHb6Hx) | 2:51 |
-| 24 | [777](https://open.spotify.com/track/42e9HfXNoupybWl2RcnCTp) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [](https://open.spotify.com/album/null) | 3:05 |
+| 24 | [777](https://open.spotify.com/track/42e9HfXNoupybWl2RcnCTp) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [YAPI](https://open.spotify.com/album/6iDjU53fVXp9BB80hntvHT) | 3:05 |
 | 25 | [Hablamos Mañana](https://open.spotify.com/track/3MbIRGRe13R7kl66aSQ3yI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Hablamos Mañana](https://open.spotify.com/album/0WZ1WllMllTkMjmOV14ew3) | 2:51 |
 | 26 | [MALPORTADA](https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [MALPORTADA](https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0) | 3:39 |
 | 27 | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y) | 3:10 |

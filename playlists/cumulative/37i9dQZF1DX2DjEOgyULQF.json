@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 168931,
       "name": "Destination",
       "url": "https://open.spotify.com/track/7xXpydVsZUv86p3SSi3JJ2"
@@ -2457,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "Hidden Trees",
+        "url": "https://open.spotify.com/album/6QIi1rJNZqhG58JorCQNZG"
+      },
+      "artists": [
+        {
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Hidden Trees",
+      "url": "https://open.spotify.com/track/2GLVEiLymzuOsa1aNrR3bk"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp"
       },
@@ -2810,7 +2828,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 164000,
       "name": "Kitsilano",
       "url": "https://open.spotify.com/track/0fh7CVlKxnKzdKCf125OBR"
@@ -4596,7 +4614,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 137666,
       "name": "Slumber",
       "url": "https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw"

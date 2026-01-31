@@ -2,9 +2,9 @@
 
 ### [Proto\-](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
-> ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: James Blake
+> ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: KNEECAP
 
-1,809 songs - 4 day 2 hr 56 min
+1,811 songs - 4 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Buzz](https://open.spotify.com/track/5mysBYvFfQpZobu9bCRJ6e) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Presque Punk](https://open.spotify.com/album/2tLSulOAVaq89ILmVaFE71) | 3:06 | 2025-12-05 |  |
 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-12-15 | 2024-05-11 |
 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 | 2022-10-28 | 2022-11-12 |
+| [c'que ça m'apporte](https://open.spotify.com/track/5sAOMqwZR9g3h4EDpDOBem) | [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW) | [W/out me](https://open.spotify.com/album/2UW87FWTtKU3cF1voB1UnY) | 2:38 | 2026-01-30 |  |
 | [C.R.U.S.H.](https://open.spotify.com/track/36lrFRfMH2SWBag141DLkB) | [Bambounou](https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [C.R.U.S.H.](https://open.spotify.com/album/2GDuHM5p9ZtlsUFJhzrQoB) | 5:41 | 2024-11-22 | 2025-03-29 |
 | [Cabin Feva](https://open.spotify.com/track/6vxEPL0Z4WD18kcW2uCvQd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Cabin Feva](https://open.spotify.com/album/18ZMOxwR8uBaZc1n0X9uZx) | 2:48 | 2025-08-01 | 2025-12-06 |
 | [CALYPSO VIP](https://open.spotify.com/track/17Yc506DrPVDJwgW1Dogp7) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [CALYPSO VIP](https://open.spotify.com/album/2zVIdJj47fsbsAXe7yiMNf) | 2:44 | 2026-01-09 |  |
@@ -920,6 +921,7 @@
 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 | 2022-04-15 | 2022-07-09 |
 | [Levia](https://open.spotify.com/track/3IGhQg2Kto8vFgj3cTVyNL) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Levia](https://open.spotify.com/album/0FEsV9OkvUAEie5BZEUkU7) | 4:28 | 2023-02-24 | 2023-04-29 |
 | [Levia](https://open.spotify.com/track/7KHzVYe0fVMqvHLacHBZHT) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Levia](https://open.spotify.com/album/7db13r50iuCjvrau6eRcHM) | 4:28 | 2023-04-28 | 2023-05-27 |
+| [Liars Tale](https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Liars Tale](https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe) | 3:17 | 2026-01-30 |  |
 | [life of the party](https://open.spotify.com/track/27ouJ1Nx8GHMeYTqGusY3W) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [perhaps!](https://open.spotify.com/album/36s79gCWJ9Nq1syJQ8gQY5) | 2:26 | 2023-05-05 | 2023-06-03 |
 | [LIFE'S WAAAAAAAY TOO FLEEEEETEEN'](https://open.spotify.com/track/3G4jMkTLfEHQPipzLdYs53) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [LIFE'S WAAAAAAAY TOO FLEEEEETEEN'](https://open.spotify.com/album/7II2YgFx0bEccnK4MNLN0o) | 3:40 | 2026-01-09 |  |
 | [Life's Worth Living](https://open.spotify.com/track/0u3xMeYhArooaaJJUWlnOJ) | [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Evening Star](https://open.spotify.com/album/0Ftxx3TRBVfcrWK4viWbOj) | 2:20 | 2022-12-02 | 2023-01-21 |
@@ -1149,7 +1151,7 @@
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-06-09 | 2023-11-18 |
 | [Off\-White](https://open.spotify.com/track/1ferB8CRX6M9J1Nzk8tN4f) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe) | [Off\-White](https://open.spotify.com/album/6FYWD45zYzVvpNOBYbbX8I) | 3:25 | 2022-11-25 | 2023-03-11 |
 | [Offering](https://open.spotify.com/track/6OOGJxkxelgYrtqxrUBS4i) | [Exmiranda](https://open.spotify.com/artist/0lfVICBd5hDKhuTZJwj6br) | [Offering](https://open.spotify.com/album/7Eg5GdvCe2PMaeF9S82KAx) | 2:12 | 2022-02-25 | 2022-04-29 |
-| [Offscreen \- The Moment \(The Score\)](https://open.spotify.com/track/3sGNs97yV0MOz5KrHtlJ6t) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Offscreen \- The Moment \(The Score\)](https://open.spotify.com/album/42IL2uIgYRpVZzkcjmwyZI) | 5:34 | 2026-01-16 |  |
+| [Offscreen](https://open.spotify.com/track/3sGNs97yV0MOz5KrHtlJ6t) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Offscreen](https://open.spotify.com/album/42IL2uIgYRpVZzkcjmwyZI) | 5:34 | 2026-01-16 |  |
 | [Ogwula](https://open.spotify.com/track/3cfuJGjmekuoJzyIbPSZTE) | [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [Ogwula](https://open.spotify.com/album/29AiXhlu8kioHxwd3NHZNw) | 2:32 | 2022-02-25 | 2022-04-29 |
 | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/track/0ZO6pL1cZgaOSIGQZi1OxW) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/album/34By43vyYsxtfgLyDRoMnI) | 3:54 | 2022-04-22 | 2022-07-09 |
 | [Oj & prosecco](https://open.spotify.com/track/10gQM8CRmJoGpID7nEa0yi) | [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW) | [Oj & prosecco](https://open.spotify.com/album/5rbOEMhXgje1L0VRvVSTgh) | 3:39 | 2023-03-10 | 2023-08-12 |
@@ -1591,7 +1593,7 @@
 | [the life and death of a dog](https://open.spotify.com/track/2NLCeLeI1E4psDqwE7CZEX) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [harry houdini](https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn) | 3:34 | 2024-02-23 | 2024-03-23 |
 | [the life and death of a dog](https://open.spotify.com/track/4s7KXWpEkoXky0RDNjAU6b) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/0qRK99XsBIF30KZauxq1vb) | 3:34 | 2023-10-20 | 2024-02-28 |
 | [The Local](https://open.spotify.com/track/3sWAonad48wm55cmQRjIZj) | [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi) | [The Local](https://open.spotify.com/album/6hSxj7BtaD76EmD5CLPfEW) | 4:11 | 2022-08-26 | 2022-12-17 |
-| [the long night](https://open.spotify.com/track/0CS4asinuJft3n2sE12zog) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [purity ring](https://open.spotify.com/album/3n0N3fSeIXDhMWSFtN2rX9) | 4:17 | 2025-09-26 |  |
+| [the long night](https://open.spotify.com/track/0CS4asinuJft3n2sE12zog) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [purity ring](https://open.spotify.com/album/3n0N3fSeIXDhMWSFtN2rX9) | 4:17 | 2025-09-26 | 2026-01-31 |
 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-25 | 2022-04-02 |
 | [The Make Believe](https://open.spotify.com/track/0JpcQdQnDvAIhShz61N9jm) | [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [The Make Believe](https://open.spotify.com/album/12LEJQjLucN7zD2Uhx3EJq) | 3:17 | 2024-03-15 | 2024-04-13 |
 | [the moves](https://open.spotify.com/track/121Kzji5Fa2d1qUx7c5aDn) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [the moves](https://open.spotify.com/album/3ofgvl8eypgF4s6MTZLQkg) | 2:45 | 2023-06-02 | 2023-11-11 |
@@ -1620,7 +1622,7 @@
 | [Three Foxes Chasing Each Other](https://open.spotify.com/track/29w9L75FEZgCB9C3EZHGCX) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Three Foxes Chasing Each Other](https://open.spotify.com/album/4Oxx3dkxEELjYheEQKGOXZ) | 7:13 | 2025-03-07 | 2025-06-28 |
 | [Thrown Around](https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Thrown Around](https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs) | 4:20 | 2024-05-31 | 2024-06-29 |
 | [Ticket Holder](https://open.spotify.com/track/3EkjU20E7YzOaoGGY0IQ9z) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Ticket Holder](https://open.spotify.com/album/4WYI3FFyC2U3EVdw6cXycw) | 2:35 | 2024-03-01 | 2024-04-27 |
-| [Tikwid \- demo](https://open.spotify.com/track/3hvrIpfLZpQ3mUHMqGLgHX) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Feels \(20th Anniversary\)](https://open.spotify.com/album/60EHyVXM7pTKcNWdY4X47I) | 4:52 | 2025-10-17 |  |
+| [Tikwid \- demo](https://open.spotify.com/track/3hvrIpfLZpQ3mUHMqGLgHX) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Feels \(20th Anniversary\)](https://open.spotify.com/album/60EHyVXM7pTKcNWdY4X47I) | 4:52 | 2025-10-17 | 2026-01-31 |
 | [Til The Morning](https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Til The Morning](https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC) | 2:10 | 2022-03-25 | 2022-05-07 |
 | [Time](https://open.spotify.com/track/0cVA07wVHPQLUzHlr1t3yt) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Chapter 1](https://open.spotify.com/album/7HU5Fgy6VRiGN7Zlbz8B1G) | 2:49 | 2024-02-23 | 2024-06-29 |
 | [Tinted](https://open.spotify.com/track/2UAOiqkLurWgF8rZwUXbsu) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB) | [Tinted](https://open.spotify.com/album/1DxF8rtW3YLMsKniifJ0mG) | 2:38 | 2023-08-25 | 2023-10-07 |

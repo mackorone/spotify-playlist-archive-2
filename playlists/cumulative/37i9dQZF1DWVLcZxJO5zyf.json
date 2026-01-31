@@ -231,6 +231,24 @@
     },
     {
       "album": {
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+    },
+    {
+      "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP"
       },
@@ -2714,6 +2732,28 @@
       "duration_ms": 146243,
       "name": "ELEMENTO X",
       "url": "https://open.spotify.com/track/68byKiGzLvQo7VWbXIYTBx"
+    },
+    {
+      "album": {
+        "name": "Encanto (Nossa Gente, Avisa l\u00e1)",
+        "url": "https://open.spotify.com/album/7Hxypa00U94CCgFJLQKjfd"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        },
+        {
+          "name": "Tonho Mat\u00e9ria",
+          "url": "https://open.spotify.com/artist/3Gvd4jaWihN7nNBoffneNp"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130639,
+      "name": "Encanto (Nossa Gente, Avisa l\u00e1)",
+      "url": "https://open.spotify.com/track/790OWdmOK2eLr9qBWEbuj4"
     },
     {
       "album": {
@@ -5550,7 +5590,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 183032,
       "name": "Noites em Miami",
       "url": "https://open.spotify.com/track/6KQ0cjaECXJy5TohPYqkQl"
@@ -6202,6 +6242,32 @@
       "duration_ms": 193188,
       "name": "pausa da sua tristeza",
       "url": "https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H"
+    },
+    {
+      "album": {
+        "name": "PEIXIN",
+        "url": "https://open.spotify.com/album/0PFjB3HyJy9cHKpdnsKxcf"
+      },
+      "artists": [
+        {
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Dandan",
+          "url": "https://open.spotify.com/artist/4S6UaubswBroSpIooustWt"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126720,
+      "name": "PEIXIN",
+      "url": "https://open.spotify.com/track/2goq9J8vz19zGvINVURBxT"
     },
     {
       "album": {
@@ -7406,7 +7472,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 148692,
       "name": "Reca\u00edda",
       "url": "https://open.spotify.com/track/75XqGeWAYcC0Z69T04zDYM"
@@ -9536,7 +9602,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 134705,
       "name": "\u00c1GUA DE COCO",
       "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"

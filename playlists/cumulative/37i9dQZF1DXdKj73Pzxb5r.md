@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Guernica Club, Merdi Simanjuntak
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Rumahsakit
 
-467 songs - 1 day 5 hr 46 min
+472 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Blooming Day](https://open.spotify.com/track/5NvGxDkpDYbLcIAjWKQ64L) | [Mountain Moves](https://open.spotify.com/artist/34gWE9BvlEeHV1HMEjmfGV) | [Blooming Day](https://open.spotify.com/album/7mqXHShGnQtoTXJ2KLxed8) | 2:36 | 2024-10-07 | 2025-01-24 |
 | [Blues dari Rumah](https://open.spotify.com/track/75SPAZgHvdQ72a0MwFb1ev) | [Christabel Annora](https://open.spotify.com/artist/47FWnVDKhmgk7ZCHKSewHq) | [Sudut Kamar](https://open.spotify.com/album/2WXRlR4QoYDhmD7OZsgcI9) | 2:25 | 2024-08-09 | 2024-10-04 |
 | [Boy](https://open.spotify.com/track/0ZTmXwcJHScpFKYvpn1GxY) | [FARUZ](https://open.spotify.com/artist/46eConcY4MjCgE1vZSZkiO) | [Boy](https://open.spotify.com/album/5C94LDJzlNnEyViDX8GQiQ) | 3:44 | 2024-08-29 | 2024-11-08 |
+| [Break Your Wall](https://open.spotify.com/track/3rndqiKUhfZouJZDTYYQTK) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Break Your Wall](https://open.spotify.com/album/4cGbfTJQjfsvCSe4mkJNmc) | 3:09 | 2026-01-30 |  |
 | [Bunga Mawas](https://open.spotify.com/track/6W80U6x8yW8JoeOQysSuG1) | [Rigaskara](https://open.spotify.com/artist/2cfQKHwOPRF2UyEiKLexPW) | [Bunga Mawas](https://open.spotify.com/album/58OsknBLelN6eMs7DIRcWQ) | 3:03 | 2024-10-07 | 2025-03-07 |
 | [Burn](https://open.spotify.com/track/0yR1fy72LIFLQqfjVVnFhN) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Burn](https://open.spotify.com/album/75YDVoGjHMD7r7OY5vJEIm) | 3:07 | 2024-06-27 | 2024-08-30 |
 | [Burner](https://open.spotify.com/track/2x2CSutqHcnAGNbewINTy0) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Balancing Act](https://open.spotify.com/album/7qxu4XZfchLLdmXKOh84xs) | 2:43 | 2024-10-31 | 2025-02-14 |
@@ -147,6 +148,7 @@
 | [Gelora Bertemu](https://open.spotify.com/track/3nErXdVzREIXdSxxMuPaYL) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Gelora Bertemu](https://open.spotify.com/album/309Xx2lM5PhrOk3pBaNXt9) | 4:02 | 2024-07-11 | 2024-11-29 |
 | [Gemuruh Riuh](https://open.spotify.com/track/1IpJu8YwAlc1ozSxXAyxl8) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Gemuruh Riuh](https://open.spotify.com/album/1kGJDqAiFyNuAMmxtFd0Ao) | 4:41 | 2024-06-27 | 2025-05-17 |
 | [Gerimis Malam Kemarau](https://open.spotify.com/track/7aDuZpdmpIbI8rHtHM8vyR) | [Silampukau](https://open.spotify.com/artist/40ucFk6nwFWYZ4gvL9DNm8) | [Stambul Arkipelagia, Vol\. 2](https://open.spotify.com/album/6xVEe1KZXoTxpuYsH3liod) | 4:30 | 2025-11-06 |  |
+| [Ghost Circuit](https://open.spotify.com/track/2toEEYtgSl6MWQZmGrvtuU) | [Zeke And The Popo](https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j) | [Ghost Circuit](https://open.spotify.com/album/0nSy3qSkjQxQ5Xbv1XEKoR) | 4:36 | 2026-01-30 |  |
 | [Give You All](https://open.spotify.com/track/3HOdjNK4buCsboOYKEWzjy) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Give You All](https://open.spotify.com/album/51t5UHMtDLOVZavCGJnloA) | 3:51 | 2025-05-16 | 2025-07-04 |
 | [Givemeall](https://open.spotify.com/track/2ILd3ZZM7yC8aPyZ2PUTK0) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn) | [Givemeall](https://open.spotify.com/album/38Zs67jtlLmGKtaRqD14mT) | 5:54 | 2025-09-11 | 2025-11-29 |
 | [Glacial](https://open.spotify.com/track/4tidPc7OulW5mIUc17zQ5q) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn), [Tesla Manaf](https://open.spotify.com/artist/6LkomW0B7xs6zolDBJRUFt) | [Behind Closed Doors](https://open.spotify.com/album/7bkkv7vSkSYtgfQOb8nF0X) | 4:29 | 2025-10-16 |  |
@@ -395,6 +397,7 @@
 | [SKRD \(SAD KISSES, RECKLESS DREAMS\)](https://open.spotify.com/track/6lKVc8qLoE1Xm6OtKc8IGI) | [XANDEGA](https://open.spotify.com/artist/344sZKVzlNX1OQmSDFwxzr) | [SKRD \(SAD KISSES, RECKLESS DREAMS\)](https://open.spotify.com/album/2RxGItaz6P4JVx900w0kh8) | 3:18 | 2024-07-19 | 2024-09-06 |
 | [Slippery](https://open.spotify.com/track/3vRjjN0CkUdfREnSja3Q0i) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [Slippery](https://open.spotify.com/album/420j8oB94KH2s8007O1NNU) | 3:24 | 2024-07-19 | 2024-09-06 |
 | [Slowly Letting Go](https://open.spotify.com/track/0wgzw9Tnp8miamlA5gohwY) | [Flor & Fury](https://open.spotify.com/artist/6jOyIaSmzU2mq2WoiRR39i) | [Slowly Letting Go](https://open.spotify.com/album/6WJdqOcRVd8X6yCyH6gCEy) | 4:07 | 2025-10-23 |  |
+| [Smile Like The Sun](https://open.spotify.com/track/5Xxtcc2F184IUgv11QjjhO) | [Meraung](https://open.spotify.com/artist/1hmiEaTeUHEmD7JfTWbXP9) | [Change](https://open.spotify.com/album/4QtKDZTLlMcPPzc6qdeSnt) | 3:24 | 2026-01-30 |  |
 | [so much to say in this road](https://open.spotify.com/track/6LLjhhhjf8wwjYs26ivEgr) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [so much to say](https://open.spotify.com/album/2irR1pTNBD966o7TcgJ2mV) | 3:14 | 2024-10-10 | 2025-03-07 |
 | [Sofa](https://open.spotify.com/track/6T0TCXAjAClGjtRrtXNCCj) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Sofa](https://open.spotify.com/album/3As3ggTCinS2YTULKru48j) | 4:54 | 2025-02-20 |  |
 | [Some Things Change](https://open.spotify.com/track/1Bf4teWLvVPtZpknMHeaOF) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Awkward Pop Music](https://open.spotify.com/album/70Br2gTCCJoO7hYQfH6Mvt) | 2:18 | 2025-05-16 | 2025-07-04 |
@@ -451,6 +454,7 @@
 | [Twenties](https://open.spotify.com/track/0NzTdXtgZLKP6IcyFyGytS) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Twenties](https://open.spotify.com/album/376cAL4mCqmNTi7nRlz2v2) | 3:21 | 2025-06-12 | 2025-10-17 |
 | [Two Shades of Blue \(again\)](https://open.spotify.com/track/4KQW4RNux6n948tQ75tykF) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX) | [Two Shades of Blue \(again\)](https://open.spotify.com/album/1t3ZowILVpZ96x89sKGENN) | 4:31 | 2025-02-13 | 2025-04-18 |
 | [Ujung Andromeda](https://open.spotify.com/track/6dbYpkS5dhnoJcu5mhWko0) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Ujung Andromeda](https://open.spotify.com/album/6267dKL2VuVN8Pc8ODc0I1) | 4:45 | 2024-06-27 | 2025-02-21 |
+| [Under SUBSTANCE](https://open.spotify.com/track/4Jvr4IKUvzGj0ymn5Ja0oN) | [The Canary](https://open.spotify.com/artist/4w1gA1nMo8Oii93mlK7wvK) | [Heaven In Philadelphia](https://open.spotify.com/album/0q5azHZ8A0b41jjG0kKP58) | 3:32 | 2026-01-30 |  |
 | [Untuk Bunga](https://open.spotify.com/track/1HGzVBvwUSlvE3JzVjUPaO) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Untuk Bunga](https://open.spotify.com/album/2VtEtHxewo8Az3Pr8xruI7) | 3:54 | 2024-07-19 | 2024-11-01 |
 | [Vom](https://open.spotify.com/track/6Kq42y6TC92XYhvObBQAO7) | [ATSEA](https://open.spotify.com/artist/29YMwt7N0OV3oG5nw2NmeI) | [Vom](https://open.spotify.com/album/0y2gdrV2oqEF2sE24Zxuny) | 1:59 | 2024-06-27 | 2024-08-30 |
 | [Wahai Kau](https://open.spotify.com/track/1CDC40cmf5EBqJBwC586zi) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Wahai Kau](https://open.spotify.com/album/76BF66VPRzxHj1m8GvxFvq) | 4:08 | 2024-08-29 | 2025-10-24 |
@@ -468,6 +472,7 @@
 | [Wijaya Kusuma](https://open.spotify.com/track/27FpiTg0UQhC2FvsBAXO8A) | [Tropical Flower](https://open.spotify.com/artist/5vMByzSDmyn6WvIRewJ7Qj) | [Merangkai Bunga](https://open.spotify.com/album/3Jsnmz61rNY4JxXHUa6eQb) | 3:16 | 2024-08-16 | 2024-10-04 |
 | [Wildfires](https://open.spotify.com/track/38AAuWfmItCn3dQaYixUUA) | [Karsha](https://open.spotify.com/artist/1AnRPfFu4rRNCrfOWMYHOO) | [Wildfires](https://open.spotify.com/album/28iZ66KRRKQ73pd755X7s0) | 3:41 | 2025-05-08 | 2025-06-20 |
 | [With You](https://open.spotify.com/track/5iqGjegieFX6k8mi8KmPu9) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj), [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [With You](https://open.spotify.com/album/6yNqjn10LSEtt9jtWy1qpG) | 3:02 | 2024-07-11 | 2024-08-17 |
+| [Yang Tak Sama](https://open.spotify.com/track/2Bf5Ioyjz1DOx1bCrHG6As) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Yang Tak Sama](https://open.spotify.com/album/7H3GfaIUQP0N461ab0POFd) | 3:52 | 2026-01-30 |  |
 | [yang tumbuh \- live](https://open.spotify.com/track/3cuBDsoKryqJpzuHGbWMgb) | [Amira Karin](https://open.spotify.com/artist/3rCwi62vIXjO26qeTbDtKp), [Gardika Gigih](https://open.spotify.com/artist/0o6rbDGIxDEw5vzGKyxdcK) | [yang tumbuh \- live](https://open.spotify.com/album/0BjMX0earROGLT3f0kebDe) | 6:05 | 2025-11-06 |  |
 | [Yasudah](https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Yasudah](https://open.spotify.com/album/0NVWNTENg9PZM0J1RfToXX) | 4:56 | 2024-06-27 | 2025-05-17 |
 | [Yes \(not\) Mine](https://open.spotify.com/track/787lCtmEy2ZcmoxbcnV02X) | [Kamar Biru](https://open.spotify.com/artist/52nZj6Lipxai0eFic9yv74), [Dito](https://open.spotify.com/artist/52oeOJ69uImhm6vJEOCIz3) | [Yes \(not\) Mine](https://open.spotify.com/album/1gaHYtcwKXm9CLBelRPvqc) | 4:29 | 2024-06-27 | 2024-07-12 |

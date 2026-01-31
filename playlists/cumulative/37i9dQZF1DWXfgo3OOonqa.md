@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,173 songs - 3 day 20 hr 51 min
+2,173 songs - 3 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1953,7 +1953,6 @@
 | [Toxic Som Mig](https://open.spotify.com/track/10zXU83iXFK6ZfRXqTHFuU) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [2029](https://open.spotify.com/album/0TDK7EuOZbSfnSp9bEaNMw) | 2:31 | 2024-04-18 | 2024-08-02 |
 | [Toxic Trait](https://open.spotify.com/track/7rfeJISPi9ooiYXd3ixF5x) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Toxic Trait](https://open.spotify.com/album/6rJ94HFzo02g1iEviHWNNH) | 2:30 | 2023-08-24 | 2023-09-22 |
 | [TOÙTOÙ](https://open.spotify.com/track/3Xvc8YRyYzBm5KFEWHUQoM) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [TOÙTOÙ](https://open.spotify.com/album/4xEOdo2eFdxKxE5QY0KMKq) | 2:25 | 2022-10-27 | 2023-02-24 |
-| [Track 10](https://open.spotify.com/track/3eNMd72YbZu21cVPsiWFPd) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-29 |  |
 | [TRAFIK](https://open.spotify.com/track/0OnLCD4GQgKpRApYTTBeH0) | [G3B](https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4) | [TRAFIK](https://open.spotify.com/album/1cV9kfX5WMqBDfchc7JDPy) | 1:44 | 2025-04-24 | 2025-07-08 |
 | [TRAFIKERA](https://open.spotify.com/track/5m7EUgH8J2iiDvCM7FE5Fl) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [TRAFIKERA](https://open.spotify.com/album/16xKDjWnDIhvUrUWD3PONZ) | 2:03 | 2025-10-23 |  |
 | [Trafikfara](https://open.spotify.com/track/0wAWvTep02Pzkc2kGJhWpN) | [Bilkow](https://open.spotify.com/artist/0EhQSGkoxasQQAGINGktFz), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Trafikfara](https://open.spotify.com/album/1h4xtwLx9dbwkHm3IvGTCD) | 2:12 | 2023-03-16 | 2023-05-12 |
@@ -2056,6 +2055,7 @@
 | [Verratti](https://open.spotify.com/track/4dFAn9EvYwN2qQQjZaCRB2) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP) | [Verratti](https://open.spotify.com/album/0sWkIwKoRKTvUIXte760he) | 2:34 | 2023-02-23 | 2023-03-18 |
 | [Versailles](https://open.spotify.com/track/2eJLHBo8Jlh0bbrY6b3S4M) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Versailles](https://open.spotify.com/album/4qG8i6BahSsNxDQ2Z8DZof) | 2:23 | 2022-06-17 | 2022-07-01 |
 | [Vespa](https://open.spotify.com/track/1kRfkFEJD6ojL353QVOgYd) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Young & Heartless](https://open.spotify.com/album/0Xwy0b8nbvovrqgDashXXZ) | 2:11 | 2025-11-13 |  |
+| [Veta](https://open.spotify.com/track/3eNMd72YbZu21cVPsiWFPd) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Mellan Graven & Grammis](https://open.spotify.com/album/3qA9Zr5EmAReL1jisHo3u2) | 2:44 | 2026-01-29 |  |
 | [Vgd?](https://open.spotify.com/track/5XM1aHFXvUwnx7LqOiilRo) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Vgd?](https://open.spotify.com/album/2E7vOFNgFI8mZ29pswWfZz) | 2:14 | 2025-04-10 | 2025-06-27 |
 | [Vi 2 \(Gimme More\)](https://open.spotify.com/track/0mZzJa0wOKIDOyqpBU5OBv) | [4yye](https://open.spotify.com/artist/5mJaAw5lTHiVY6mxfCtz2X) | [Vi 2 \(Gimme More\)](https://open.spotify.com/album/5oEkQApeKkngvJP4CVyrR7) | 2:13 | 2023-08-17 | 2023-09-08 |
 | [Vi Kör](https://open.spotify.com/track/1Ph5SGSGtBAtPbLYqY1WMn) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [Vi Kör](https://open.spotify.com/album/07bJvyUTNqSIspZK2gadJX) | 3:23 | 2022-12-08 | 2023-01-27 |

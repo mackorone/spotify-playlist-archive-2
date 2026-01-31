@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXlRgAAAAABjn41L+HAm1vOaxJ9keruf",
+  "snapshot_id": "aXqjAAAAAADHOWGafVQaVBMSIUOOmPxC",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RomantiDog",
-        "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "RomantiDog",
-      "url": "https://open.spotify.com/track/0hrz1chV0H115q91WqDL1j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ca\u00e7a Fantasma, Vol. 1",
         "url": "https://open.spotify.com/album/3gjhcGuAkjlH2QhHAK64Vy"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 114045,
       "name": "Eu Te Amo Meu Amor / Faixa Rosa",
       "url": "https://open.spotify.com/track/52nb1PnO46yKrEfuotz5MV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RomantiDog",
+        "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "RomantiDog",
+      "url": "https://open.spotify.com/track/0hrz1chV0H115q91WqDL1j"
     },
     {
       "added_at": null,
@@ -415,38 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faixa Rosa (Remix)",
-        "url": "https://open.spotify.com/album/3iYNsFrXzptmfX5ONMlENT"
-      },
-      "artists": [
-        {
-          "name": "ZARCK NO BEAT",
-          "url": "https://open.spotify.com/artist/36oZvOpR4vrvUTBmXRkoAc"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Dj Kastro",
-          "url": "https://open.spotify.com/artist/5silpbxvHtxDn7OuOEMRnp"
-        },
-        {
-          "name": "DJ Ws da Igrejinha",
-          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
-        },
-        {
-          "name": "MC Xenon",
-          "url": "https://open.spotify.com/artist/5vcMPVDXTLhJ4UpOZKXZtg"
-        }
-      ],
-      "duration_ms": 147774,
-      "name": "Faixa Rosa - Remix",
-      "url": "https://open.spotify.com/track/7Dzc7VbD1Kxz5NKwWqniYI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Errei Eu Fui Muleque",
         "url": "https://open.spotify.com/album/1DYJPTo95QasswE7okwMQ2"
       },
@@ -475,6 +443,38 @@
       "duration_ms": 180803,
       "name": "Eu Errei Eu Fui Muleque",
       "url": "https://open.spotify.com/track/4V7dIuq4tsh6afEP54yaSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faixa Rosa (Remix)",
+        "url": "https://open.spotify.com/album/3iYNsFrXzptmfX5ONMlENT"
+      },
+      "artists": [
+        {
+          "name": "ZARCK NO BEAT",
+          "url": "https://open.spotify.com/artist/36oZvOpR4vrvUTBmXRkoAc"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Dj Kastro",
+          "url": "https://open.spotify.com/artist/5silpbxvHtxDn7OuOEMRnp"
+        },
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "MC Xenon",
+          "url": "https://open.spotify.com/artist/5vcMPVDXTLhJ4UpOZKXZtg"
+        }
+      ],
+      "duration_ms": 147774,
+      "name": "Faixa Rosa - Remix",
+      "url": "https://open.spotify.com/track/7Dzc7VbD1Kxz5NKwWqniYI"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOUR BEIJA FLOR",
-        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
-      },
-      "artists": [
-        {
-          "name": "Wealstarcks",
-          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 107142,
-      "name": "BOLA LOGO",
-      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vibe da Faixa Rosa",
         "url": "https://open.spotify.com/album/3o2KdzGjZ5bz1We2IvVd4C"
       },
@@ -1075,6 +1055,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMOUR BEIJA FLOR",
+        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
+      },
+      "artists": [
+        {
+          "name": "Wealstarcks",
+          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 107142,
+      "name": "BOLA LOGO",
+      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
       },
@@ -1087,6 +1087,26 @@
       "duration_ms": 166103,
       "name": "Phone",
       "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 155889,
+      "name": "Ranger Preta",
+      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
     },
     {
       "added_at": null,
@@ -1139,26 +1159,6 @@
       "duration_ms": 130212,
       "name": "Macetada Forte",
       "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 155889,
-      "name": "Ranger Preta",
-      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
     },
     {
       "added_at": null,
@@ -1243,34 +1243,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resenha da Dia",
-        "url": "https://open.spotify.com/album/728PEzET5fMkbN0hYehgUP"
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
       "artists": [
-        {
-          "name": "DJ DIA",
-          "url": "https://open.spotify.com/artist/1tPAYPPNWuSw0zcBhE2SxP"
-        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Dj Bel Bertinelli",
-          "url": "https://open.spotify.com/artist/7M4wGNG2NYHUBFHOMKeg2V"
+          "name": "MC Luan da BS",
+          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
         },
         {
-          "name": "DJ L Mark",
-          "url": "https://open.spotify.com/artist/0gauNc5NXwUW9GwcH7QwFe"
-        },
-        {
-          "name": "+44 Studio",
-          "url": "https://open.spotify.com/artist/4B5yovfsKzZgWI9NDRuxbE"
+          "name": "Dj Bk Original",
+          "url": "https://open.spotify.com/artist/7kfSjxZlJ8jaBNnO6KWiPy"
         }
       ],
-      "duration_ms": 131700,
-      "name": "Resenha da Dia",
-      "url": "https://open.spotify.com/track/4dMfMK7pMA8y0f0LWrbJgG"
+      "duration_ms": 135692,
+      "name": "No Baile do Serr\u00e3o",
+      "url": "https://open.spotify.com/track/7AimXL9UmBDdoHOfFGx678"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

@@ -2694,7 +2694,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 89600,
       "name": "Atlantik",
       "url": "https://open.spotify.com/track/4J4BEFKlDVTsYPNkkPzd9T"
@@ -9989,6 +9989,24 @@
     },
     {
       "album": {
+        "name": "Dew",
+        "url": "https://open.spotify.com/album/5KpuEUwL4XynImLdxGg8c4"
+      },
+      "artists": [
+        {
+          "name": "Indigo Songs",
+          "url": "https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Dew",
+      "url": "https://open.spotify.com/track/6gbLL8NhpJ4PVTvII1MWp7"
+    },
+    {
+      "album": {
         "name": "Diaphane",
         "url": "https://open.spotify.com/album/7F92gWMkU59j6wlOLXUCs4"
       },
@@ -15930,7 +15948,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 125825,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/0DpGahj6aqqMZqo82kefOX"
@@ -17936,6 +17954,24 @@
       "duration_ms": 132000,
       "name": "hold on to me, tight",
       "url": "https://open.spotify.com/track/3fm2XyxBJYOoceVbxCCrTf"
+    },
+    {
+      "album": {
+        "name": "Holding the Night",
+        "url": "https://open.spotify.com/album/2ddqw5n3L8YhnmN64hKHsd"
+      },
+      "artists": [
+        {
+          "name": "Mono Polaire",
+          "url": "https://open.spotify.com/artist/1q3gDW9CFJSU02oi9j4ve4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137867,
+      "name": "Holding the Night",
+      "url": "https://open.spotify.com/track/5YYy7KFJYloU3sBx0Akk3c"
     },
     {
       "album": {
@@ -21088,6 +21124,24 @@
       "duration_ms": 97333,
       "name": "Late Night Cruisin'",
       "url": "https://open.spotify.com/track/4CAv2SgblWL9g2bf7Xft0W"
+    },
+    {
+      "album": {
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/4xXy2SrN8a7kUW18jlYO2L"
+      },
+      "artists": [
+        {
+          "name": "Avenue Arts",
+          "url": "https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97000,
+      "name": "late night thoughts",
+      "url": "https://open.spotify.com/track/2MxnUB5s8RPbpbnoTZivFs"
     },
     {
       "album": {
@@ -29446,7 +29500,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 169756,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/08dfHBhsvDwG06jh0nudQE"
@@ -31990,6 +32044,24 @@
       "duration_ms": 140000,
       "name": "Quiescent",
       "url": "https://open.spotify.com/track/4D9hOQKRnYn3NX1v2WiX1s"
+    },
+    {
+      "album": {
+        "name": "Quiet Nights",
+        "url": "https://open.spotify.com/album/5g3n4fw5T7HGgB2gV2e3Yi"
+      },
+      "artists": [
+        {
+          "name": "Calm Like Carl",
+          "url": "https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139824,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/1tohhzzzJ1ADQvHvL4xxxd"
     },
     {
       "album": {
@@ -34980,7 +35052,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 135529,
       "name": "Shelter from the Rain",
       "url": "https://open.spotify.com/track/5mVcNIcuA4AaLSe8ktZadf"
@@ -42092,7 +42164,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 162580,
       "name": "Triangle Luck",
       "url": "https://open.spotify.com/track/2HaVN8CFGEufCHt4CWUQnK"
@@ -44358,7 +44430,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 118060,
       "name": "We Dream",
       "url": "https://open.spotify.com/track/3eQmYGGwZVg0OYexuErwdc"

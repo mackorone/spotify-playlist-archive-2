@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Dominique Fils\-Aimé
 
-906 songs - 2 day 16 hr 46 min
+906 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -702,6 +702,7 @@
 | [Sory](https://open.spotify.com/track/0B2QcsGn4HAVLMo5rmbxKK) | [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX), [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [Sory](https://open.spotify.com/album/6qm9ZqiyyyccZiQJJiZHFe) | 3:29 | 2024-02-01 | 2024-04-19 |
 | [Soufi dance](https://open.spotify.com/track/3ME7teeBRvZ6mmXcLrlMDF) | [André Manoukian](https://open.spotify.com/artist/5BfTfnzUSptoVhFigXMc1v) | [Soufi dance](https://open.spotify.com/album/0gE3wRepREY0CePsnRLwNt) | 4:30 | 2022-10-27 | 2023-02-17 |
 | [Soul Bossa Nova \(feat\. Sean Jones\)](https://open.spotify.com/track/32u3Jjd93Hkv8WBCHZlGUe) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn), [Sean Jones](https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6) | [Soul Bossa Nova \(feat\. Sean Jones\)](https://open.spotify.com/album/7guf1smuSK28a1Qt8507UT) | 4:48 | 2023-12-07 | 2024-01-19 |
+| [Soul Kiss](https://open.spotify.com/track/2N1wJYMg2aQGH9WenUZcMq) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu), [Vincent Segal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [Nuit parisienne à La Havane](https://open.spotify.com/album/2SBHQRGi2rN8FysbZX5ijA) | 4:10 | 2026-01-29 |  |
 | [Soulful](https://open.spotify.com/track/4uuF07XqmSTTrpmHEfkYSc) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Soulful](https://open.spotify.com/album/5ZPmWiHGNH6yU0jdD1LUAU) | 4:58 | 2022-05-05 | 2022-09-23 |
 | [Southern Belle \(feat\. Daniel Rossen\)](https://open.spotify.com/track/300QZVVkyXkZiHptlvO0qM) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Ride into the Sun](https://open.spotify.com/album/2ulLCUuxrYYuHjOqnhBkx9) | 3:52 | 2025-09-04 | 2025-11-28 |
 | [Speed It Up](https://open.spotify.com/track/7LYWuhrY9Wxf80NQiqrwdu) | [LORD$](https://open.spotify.com/artist/1gR7fpk8xW1VGtSww5b4Vs) | [Speed It Up](https://open.spotify.com/album/7fvLATLPXXEcW36G42MeJa) | 3:05 | 2024-04-25 | 2024-08-23 |
@@ -819,7 +820,6 @@
 | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/track/2xoKI8Q32j85vB2CsutaAd) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/album/5BixI41jRQeNxOCG4IqoLQ) | 7:44 | 2022-04-14 | 2022-04-22 |
 | [Tomorrow](https://open.spotify.com/track/2OmKfDdY4wSdvTB9YuCJ4t) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [The Return of Slick](https://open.spotify.com/album/1t2kpu4LHR0O5PsQLxSQnp) | 3:19 | 2025-10-16 |  |
 | [Top Hat, White Tie and Tails \- Live](https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella At The Hollywood Bowl: The Irving Berlin Songbook \(Live\)](https://open.spotify.com/album/7aebz42KPbU8Otic1ze11x) | 2:46 | 2022-06-23 | 2022-08-26 |
-| [Track 2](https://open.spotify.com/track/2N1wJYMg2aQGH9WenUZcMq) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-29 |  |
 | [Transe](https://open.spotify.com/track/6o9JFWqgg1RiVoUqv5d0yk) | [Monsieur MÂLÂ](https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t) | [Transe](https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL) | 6:23 | 2023-07-20 | 2023-10-13 |
 | [Transformation](https://open.spotify.com/track/6G6XGVNCOV2tfwv3r2QlhY) | [Pamina Beroff](https://open.spotify.com/artist/5o2LIkj5gUj33wuzmyiE7M), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Unfolding](https://open.spotify.com/album/3OGyLTv3Ijupp1zRw88e7f) | 3:58 | 2022-12-22 | 2023-03-03 |
 | [Trop beau pour être vrai](https://open.spotify.com/track/3GZQSblqvzUGvA7LmBXXSm) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 2:32 | 2023-11-02 | 2023-11-24 |

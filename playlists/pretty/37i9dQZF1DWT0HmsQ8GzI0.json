@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Szlimmy",
-  "num_followers": 16208,
+  "num_followers": 16225,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "Szeg\u00e9nyk\u00e9m",
-        "url": "https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ"
-      },
-      "artists": [
-        {
-          "name": "Csaknekedkisl\u00e1ny",
-          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Szeg\u00e9nyk\u00e9m",
-      "url": "https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "Portug\u00edzer",
         "url": "https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 196806,
       "name": "Run",
       "url": "https://open.spotify.com/track/5pSkF2CHUhnYo69VZA3Ksm"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "Szeg\u00e9nyk\u00e9m",
+        "url": "https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ"
+      },
+      "artists": [
+        {
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Szeg\u00e9nyk\u00e9m",
+      "url": "https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
+        "name": "Pillang\u00f3hat\u00e1s",
+        "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3th Abig\u00e9l",
+          "url": "https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS"
+        }
+      ],
+      "duration_ms": 138351,
+      "name": "Pillang\u00f3hat\u00e1s",
+      "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
         "name": "Dorodango",
         "url": "https://open.spotify.com/album/3SndELrZ85zlgPOJ0E69b0"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 178500,
       "name": "Dorodango",
       "url": "https://open.spotify.com/track/4QPn4xdd16uPtoKZoH7Tgi"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
-        "name": "Pillang\u00f3hat\u00e1s",
-        "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3th Abig\u00e9l",
-          "url": "https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS"
-        }
-      ],
-      "duration_ms": 138351,
-      "name": "Pillang\u00f3hat\u00e1s",
-      "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
+        "name": "Szob\u00e1k felett",
+        "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
+      },
+      "artists": [
+        {
+          "name": "Fi\u00fak",
+          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "Alb\u00e9rlet",
+      "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
         "name": "HIPERKARMA",
         "url": "https://open.spotify.com/album/35jFL1Uohqn5YN1WS0ao6D"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 208541,
       "name": "HIPERKARMA",
       "url": "https://open.spotify.com/track/0SQRVYt8i9RDWQLZftn6sK"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
-        "name": "Szob\u00e1k felett",
-        "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
-      },
-      "artists": [
-        {
-          "name": "Fi\u00fak",
-          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "Alb\u00e9rlet",
-      "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "Ci\u00e1n",
-        "url": "https://open.spotify.com/album/2ZvKVx7H8EUBgRHZM6hBvL"
-      },
-      "artists": [
-        {
-          "name": "Waiting Room",
-          "url": "https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc"
-        }
-      ],
-      "duration_ms": 220368,
-      "name": "Ci\u00e1n",
-      "url": "https://open.spotify.com/track/2ZO6w6CoOSfW4d7bOB1s1c"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "Aludn\u00e9k (de nem lehet)",
         "url": "https://open.spotify.com/album/2o5xWT30M0b9KHbw1USfDl"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 197052,
       "name": "Boh\u00e9m Himnusz",
       "url": "https://open.spotify.com/track/1efQhXRuD8NvlWjGrBl1X7"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "Ci\u00e1n",
+        "url": "https://open.spotify.com/album/2ZvKVx7H8EUBgRHZM6hBvL"
+      },
+      "artists": [
+        {
+          "name": "Waiting Room",
+          "url": "https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc"
+        }
+      ],
+      "duration_ms": 220368,
+      "name": "Ci\u00e1n",
+      "url": "https://open.spotify.com/track/2ZO6w6CoOSfW4d7bOB1s1c"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "M\u00e9g egy kedd",
-        "url": "https://open.spotify.com/album/4YuesaUvQd43akrqDFbIAT"
-      },
-      "artists": [
-        {
-          "name": "Anna and The Barbies",
-          "url": "https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV"
-        }
-      ],
-      "duration_ms": 137093,
-      "name": "M\u00e9g egy kedd",
-      "url": "https://open.spotify.com/track/1ZtvcSrcAqkOSi85bJf9GS"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "Goly\u00f3\u00e1ll\u00f3",
         "url": "https://open.spotify.com/album/3fnEMhFvAE1jWzJZyGhkm9"
       },
@@ -1307,34 +1291,18 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "Senki m\u00e1s",
-        "url": "https://open.spotify.com/album/65buXPxydHN1dE0bYUlfFC"
+        "name": "M\u00e9g egy kedd",
+        "url": "https://open.spotify.com/album/4YuesaUvQd43akrqDFbIAT"
       },
       "artists": [
         {
-          "name": "Zaporozsec",
-          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+          "name": "Anna and The Barbies",
+          "url": "https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Senki m\u00e1s",
-      "url": "https://open.spotify.com/track/7LlKfMzkf463SkwfDGWNFw"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
-        "name": "Vigy\u00e9l El",
-        "url": "https://open.spotify.com/album/3S3EN7NKtH4Rdr3iujU3ZT"
-      },
-      "artists": [
-        {
-          "name": "Blansch",
-          "url": "https://open.spotify.com/artist/3ayr9hpwhjojhJ4wuqVQED"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Vigy\u00e9l El",
-      "url": "https://open.spotify.com/track/57v3hecB0GJkHY8FZBcjS4"
+      "duration_ms": 137093,
+      "name": "M\u00e9g egy kedd",
+      "url": "https://open.spotify.com/track/1ZtvcSrcAqkOSi85bJf9GS"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -1367,6 +1335,38 @@
       "duration_ms": 278500,
       "name": "Kicsi a vil\u00e1g - Dalfut\u00e1r10",
       "url": "https://open.spotify.com/track/7tvRci4KgjmbzGPLUWBPC9"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "Vigy\u00e9l El",
+        "url": "https://open.spotify.com/album/3S3EN7NKtH4Rdr3iujU3ZT"
+      },
+      "artists": [
+        {
+          "name": "Blansch",
+          "url": "https://open.spotify.com/artist/3ayr9hpwhjojhJ4wuqVQED"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Vigy\u00e9l El",
+      "url": "https://open.spotify.com/track/57v3hecB0GJkHY8FZBcjS4"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "Senki m\u00e1s",
+        "url": "https://open.spotify.com/album/65buXPxydHN1dE0bYUlfFC"
+      },
+      "artists": [
+        {
+          "name": "Zaporozsec",
+          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Senki m\u00e1s",
+      "url": "https://open.spotify.com/track/7LlKfMzkf463SkwfDGWNFw"
     },
     {
       "added_at": "2026-01-29 23:00:46",

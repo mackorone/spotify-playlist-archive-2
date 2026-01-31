@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Ashley McBryde
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,258 likes - 140 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,247 likes - 140 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 139 | [As I Go](https://open.spotify.com/track/1MCwq7D5Rep3JFFp6h9Bux) | [Remy Garrison](https://open.spotify.com/artist/3sgAiri5AHS9UmXrfiUQjV) | [As I Go](https://open.spotify.com/album/6wT8C45rgAma8d0yVoa9Z5) | 3:22 |
 | 140 | [Remember Her Name](https://open.spotify.com/track/6YMnz4CTX2NSg2JtXiSFJU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/2rAvDy2nHanof8iWkFUWKg) | 2:58 |
 
-Snapshot ID: `AAAAADBaqcFujV6mm/UVTA5IcsKyiLW6`
+Snapshot ID: `AAAAAKCW+eA5X8nfFGEdue4VKIK1wEt1`

@@ -20335,6 +20335,32 @@
     },
     {
       "album": {
+        "name": "1/23",
+        "url": "https://open.spotify.com/album/0kBFQsVIka1g9B4UsOE2TE"
+      },
+      "artists": [
+        {
+          "name": "FARMHOUSE",
+          "url": "https://open.spotify.com/artist/30zptKpJ1amp2A00OOx3DM"
+        },
+        {
+          "name": "Kee Rooz",
+          "url": "https://open.spotify.com/artist/6aelVE9DrlIT69rDWD29lh"
+        },
+        {
+          "name": "RhymeTube",
+          "url": "https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Key to go",
+      "url": "https://open.spotify.com/track/6EJmAslcALkK6orAr1Q9iV"
+    },
+    {
+      "album": {
         "name": "Keys",
         "url": "https://open.spotify.com/album/3IRKAGda0MRHkZacDdTZpY"
       },
@@ -43570,6 +43596,14 @@
         {
           "name": "Showy",
           "url": "https://open.spotify.com/artist/0KYuVco2oTLHaEUqZ6fL6g"
+        },
+        {
+          "name": "ShowyRENZO",
+          "url": "https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4"
+        },
+        {
+          "name": "ShowyVICTOR",
+          "url": "https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA"
         },
         {
           "name": "Worldwide Skippa",

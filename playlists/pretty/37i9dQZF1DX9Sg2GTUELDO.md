@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Feanna 黃淑蔓
+> 感受女聲力量。Cover: sica
 
 [Spotify](https://open.spotify.com/user/spotify) - 30,304 likes - 100 songs - 5 hr 51 min
 
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 99 | [The Lost Sunglasses](https://open.spotify.com/track/25xshyerJAz3Yled2jWgMl) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7), [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [The Lost Sunglasses](https://open.spotify.com/album/3zU4SsMrLMecHovTdD5Gfm) | 3:51 |
 | 100 | [一口一](https://open.spotify.com/track/1h6tZ0VO1KvyldahaKgYUD) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [一口一](https://open.spotify.com/album/3iv495ecbGF4eSA8CAjNPU) | 3:13 |
 
-Snapshot ID: `AAAAAPrGO7Pzg9sH7dWuPAp2LAuj3GT9`
+Snapshot ID: `AAAAADnkTBVz53xEgdqK/8PgMlRo8MB7`

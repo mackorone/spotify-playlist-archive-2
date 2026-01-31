@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 295488,
+  "num_followers": 295475,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -235,26 +235,6 @@
     {
       "added_at": "2026-01-29 23:00:24",
       "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 148277,
-      "name": "Baby (with Chris Brown)",
-      "url": "https://open.spotify.com/track/1LxGpGxyFmIwYPP61Tzaho"
-    },
-    {
-      "added_at": "2026-01-29 23:00:24",
-      "album": {
         "name": "worst behaviour (feat. Kehlani)",
         "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
+    },
+    {
+      "added_at": "2026-01-29 23:00:24",
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 148277,
+      "name": "Baby (with Chris Brown)",
+      "url": "https://open.spotify.com/track/1LxGpGxyFmIwYPP61Tzaho"
     },
     {
       "added_at": "2026-01-29 23:00:24",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-01-29 23:00:24",
       "album": {
-        "name": "FROM FLORIDA'S FINEST DELU/XXX [for my delusional ex]",
-        "url": "https://open.spotify.com/album/4cwTNbK4eKfA98HHIdh4m0"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 151506,
-      "name": "DUVET",
-      "url": "https://open.spotify.com/track/6AC9alC8qJ7cXuYifgAfQn"
-    },
-    {
-      "added_at": "2026-01-29 23:00:24",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 183293,
       "name": "Lady",
       "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
+    },
+    {
+      "added_at": "2026-01-29 23:00:24",
+      "album": {
+        "name": "FROM FLORIDA'S FINEST DELU/XXX [for my delusional ex]",
+        "url": "https://open.spotify.com/album/4cwTNbK4eKfA98HHIdh4m0"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 151506,
+      "name": "DUVET",
+      "url": "https://open.spotify.com/track/6AC9alC8qJ7cXuYifgAfQn"
     },
     {
       "added_at": "2026-01-29 23:00:24",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-01-29 23:00:24",
       "album": {
-        "name": "He's Not Me",
-        "url": "https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 207762,
-      "name": "He's Not Me",
-      "url": "https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE"
-    },
-    {
-      "added_at": "2026-01-29 23:00:24",
-      "album": {
         "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
         "url": "https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 196439,
       "name": "YES IT IS - (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
       "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
+    },
+    {
+      "added_at": "2026-01-29 23:00:24",
+      "album": {
+        "name": "He's Not Me",
+        "url": "https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 207762,
+      "name": "He's Not Me",
+      "url": "https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE"
     },
     {
       "added_at": "2026-01-29 23:00:24",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-01-29 23:00:24",
       "album": {
+        "name": "tell me what you want",
+        "url": "https://open.spotify.com/album/45dogBUITG47dD11ydydgz"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "tell me what you want",
+      "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
+    },
+    {
+      "added_at": "2026-01-29 23:00:24",
+      "album": {
         "name": "Peace in my violence",
         "url": "https://open.spotify.com/album/3tZcpeDTc4Hor6hrpvZLri"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2026-01-29 23:00:24",
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "Until the End",
-      "url": "https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer"
-    },
-    {
-      "added_at": "2026-01-29 23:00:24",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 152181,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK"
+    },
+    {
+      "added_at": "2026-01-29 23:00:24",
+      "album": {
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer"
     },
     {
       "added_at": "2026-01-29 23:00:24",
@@ -1371,26 +1387,6 @@
     {
       "added_at": "2026-01-29 23:00:24",
       "album": {
-        "name": "All I Know",
-        "url": "https://open.spotify.com/album/4G3WyqUTLiI7xYL163RvXU"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        },
-        {
-          "name": "RAIN",
-          "url": "https://open.spotify.com/artist/0rroNFYF82HohpQTsJE39j"
-        }
-      ],
-      "duration_ms": 174232,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/5g4UWtNXfBZjnnUqLwDqMp"
-    },
-    {
-      "added_at": "2026-01-29 23:00:24",
-      "album": {
         "name": "From A Distance",
         "url": "https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG"
       },
@@ -1419,6 +1415,26 @@
       "duration_ms": 197323,
       "name": "Empath",
       "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
+    },
+    {
+      "added_at": "2026-01-29 23:00:24",
+      "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/4G3WyqUTLiI7xYL163RvXU"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        },
+        {
+          "name": "RAIN",
+          "url": "https://open.spotify.com/artist/0rroNFYF82HohpQTsJE39j"
+        }
+      ],
+      "duration_ms": 174232,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/5g4UWtNXfBZjnnUqLwDqMp"
     },
     {
       "added_at": "2026-01-29 23:00:24",
@@ -1495,6 +1511,22 @@
     {
       "added_at": "2026-01-29 23:00:24",
       "album": {
+        "name": "Never Return",
+        "url": "https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 172410,
+      "name": "Never Return",
+      "url": "https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1"
+    },
+    {
+      "added_at": "2026-01-29 23:00:24",
+      "album": {
         "name": "LUCKY ME",
         "url": "https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP"
       },
@@ -1531,18 +1563,18 @@
     {
       "added_at": "2026-01-29 23:00:24",
       "album": {
-        "name": "Never Return",
-        "url": "https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3"
+        "name": "Pussy",
+        "url": "https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS"
       },
       "artists": [
         {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
         }
       ],
-      "duration_ms": 172410,
-      "name": "Never Return",
-      "url": "https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1"
+      "duration_ms": 175183,
+      "name": "Pussy",
+      "url": "https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG"
     },
     {
       "added_at": "2026-01-29 23:00:24",
@@ -1563,18 +1595,22 @@
     {
       "added_at": "2026-01-29 23:00:24",
       "album": {
-        "name": "Pussy",
-        "url": "https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS"
+        "name": "Waiting For You (feat. Reggie Dartey)",
+        "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
       },
       "artists": [
         {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
         }
       ],
-      "duration_ms": 175183,
-      "name": "Pussy",
-      "url": "https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG"
+      "duration_ms": 198894,
+      "name": "Waiting For You (feat. Reggie Dartey)",
+      "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
     },
     {
       "added_at": "2026-01-29 23:00:24",
@@ -1635,6 +1671,22 @@
     {
       "added_at": "2026-01-29 23:00:24",
       "album": {
+        "name": "Find My Lover",
+        "url": "https://open.spotify.com/album/2XVNA3BJlk6nDRQRC3amkA"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 129013,
+      "name": "Find My Lover",
+      "url": "https://open.spotify.com/track/6Q4odYdfamczWhVntWnYBH"
+    },
+    {
+      "added_at": "2026-01-29 23:00:24",
+      "album": {
         "name": "addicted (remix)",
         "url": "https://open.spotify.com/album/79Wbxl5wagJQbcG53bOdnT"
       },
@@ -1655,58 +1707,6 @@
     {
       "added_at": "2026-01-29 23:00:24",
       "album": {
-        "name": "Waiting For You (feat. Reggie Dartey)",
-        "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
-      },
-      "artists": [
-        {
-          "name": "Bnnyhunna",
-          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
-        },
-        {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
-        }
-      ],
-      "duration_ms": 198894,
-      "name": "Waiting For You (feat. Reggie Dartey)",
-      "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
-    },
-    {
-      "added_at": "2026-01-29 23:00:24",
-      "album": {
-        "name": "My Absolute (Remake)",
-        "url": "https://open.spotify.com/album/5iuuxI1ovQPOdyiJgR9biJ"
-      },
-      "artists": [
-        {
-          "name": "Mar Omin",
-          "url": "https://open.spotify.com/artist/6zOPs5R5TIlc5VSm8bfC7F"
-        }
-      ],
-      "duration_ms": 265680,
-      "name": "My Absolute - Remake",
-      "url": "https://open.spotify.com/track/56cRGAZAZIwcswRV9v9QcO"
-    },
-    {
-      "added_at": "2026-01-29 23:00:24",
-      "album": {
-        "name": "Find My Lover",
-        "url": "https://open.spotify.com/album/2XVNA3BJlk6nDRQRC3amkA"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 129013,
-      "name": "Find My Lover",
-      "url": "https://open.spotify.com/track/6Q4odYdfamczWhVntWnYBH"
-    },
-    {
-      "added_at": "2026-01-29 23:00:24",
-      "album": {
         "name": "Grisaille Into Aurora",
         "url": "https://open.spotify.com/album/2X1HQP3bL0cygdxZ0qO62n"
       },
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2026-01-29 23:00:24",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/5bb5R9HxNU50b4UEpsVxnJ"
+        "name": "My Absolute (Remake)",
+        "url": "https://open.spotify.com/album/5iuuxI1ovQPOdyiJgR9biJ"
       },
       "artists": [
         {
-          "name": "MAVEE",
-          "url": "https://open.spotify.com/artist/0JEu13E5h72umshgX4tAte"
+          "name": "Mar Omin",
+          "url": "https://open.spotify.com/artist/6zOPs5R5TIlc5VSm8bfC7F"
         }
       ],
-      "duration_ms": 179732,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1WWVZOdu0xkgEo7RRBWuUQ"
+      "duration_ms": 265680,
+      "name": "My Absolute - Remake",
+      "url": "https://open.spotify.com/track/56cRGAZAZIwcswRV9v9QcO"
     }
   ],
   "unique_name": "R&B Magic",

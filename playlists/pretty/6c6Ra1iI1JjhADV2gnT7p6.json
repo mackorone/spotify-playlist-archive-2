@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of indie, dreampop and lofi vibes. Updated every week, save your favorites \ud83d\udc9c",
-  "num_followers": 59647,
+  "num_followers": 59644,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAtQSIroJbQpjsquOimgxAqEsYKNwk9",
+  "snapshot_id": "AAAtTHxU4EQkdRQcSu314th0pFewij8M",
   "tracks": [
     {
       "added_at": "2026-01-25 04:13:07",
@@ -4847,22 +4847,6 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "All The Good Men",
-        "url": "https://open.spotify.com/album/6DbvRvEnPQI4TEaw5opO7t"
-      },
-      "artists": [
-        {
-          "name": "Silver Gore",
-          "url": "https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2"
-        }
-      ],
-      "duration_ms": 117400,
-      "name": "All The Good Men",
-      "url": "https://open.spotify.com/track/1lHsjpIJ9aFOkz4w4yduzt"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
         "name": "Micrographia",
         "url": "https://open.spotify.com/album/4bmmNR4lULAnrGbHMLCpLj"
       },
@@ -4875,70 +4859,6 @@
       "duration_ms": 233200,
       "name": "Thin Circle",
       "url": "https://open.spotify.com/track/3qaYp431qLh8NvKUQlWd5v"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "Sofia",
-        "url": "https://open.spotify.com/album/38ZWo5i7WiRXodK7c3HUSA"
-      },
-      "artists": [
-        {
-          "name": "BEASTIE",
-          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/1hcl7Rbl63ScIgt675pT78"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "highs, lows & stargazing",
-        "url": "https://open.spotify.com/album/6KdB8rhp7GZNSXf19ovSIM"
-      },
-      "artists": [
-        {
-          "name": "woody",
-          "url": "https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4"
-        }
-      ],
-      "duration_ms": 268385,
-      "name": "over n' out",
-      "url": "https://open.spotify.com/track/5Sbh00A5kDS12tI7Zkl7AA"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "_Everything else (reimagined)",
-        "url": "https://open.spotify.com/album/21MY6FWsNTR5CFKfNlHRqo"
-      },
-      "artists": [
-        {
-          "name": "Baileyrp",
-          "url": "https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "Gimme More - reimagined",
-      "url": "https://open.spotify.com/track/5gT1f5pdM7rNQi6E1r7jMK"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
-        "name": "plateau",
-        "url": "https://open.spotify.com/album/6JlOYEQWx0ZgR0WkeTIuge"
-      },
-      "artists": [
-        {
-          "name": "Stephan Kreussel",
-          "url": "https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J"
-        }
-      ],
-      "duration_ms": 232980,
-      "name": "bones",
-      "url": "https://open.spotify.com/track/5obGMp5stzItyTXOmzoiFt"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -4959,18 +4879,34 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "The Rat",
-        "url": "https://open.spotify.com/album/0pbUkuVlHjquw9N0lcUYK4"
+        "name": "highs, lows & stargazing",
+        "url": "https://open.spotify.com/album/6KdB8rhp7GZNSXf19ovSIM"
       },
       "artists": [
         {
-          "name": "Blaize Jenkins",
-          "url": "https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn"
+          "name": "woody",
+          "url": "https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4"
         }
       ],
-      "duration_ms": 166611,
-      "name": "The Rat",
-      "url": "https://open.spotify.com/track/4Wa9VGzvPMDwKG5OT5bXmJ"
+      "duration_ms": 268385,
+      "name": "over n' out",
+      "url": "https://open.spotify.com/track/5Sbh00A5kDS12tI7Zkl7AA"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "plateau",
+        "url": "https://open.spotify.com/album/6JlOYEQWx0ZgR0WkeTIuge"
+      },
+      "artists": [
+        {
+          "name": "Stephan Kreussel",
+          "url": "https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J"
+        }
+      ],
+      "duration_ms": 232980,
+      "name": "bones",
+      "url": "https://open.spotify.com/track/5obGMp5stzItyTXOmzoiFt"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -4991,6 +4927,22 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
+        "name": "The Rat",
+        "url": "https://open.spotify.com/album/0pbUkuVlHjquw9N0lcUYK4"
+      },
+      "artists": [
+        {
+          "name": "Blaize Jenkins",
+          "url": "https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn"
+        }
+      ],
+      "duration_ms": 166611,
+      "name": "The Rat",
+      "url": "https://open.spotify.com/track/4Wa9VGzvPMDwKG5OT5bXmJ"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
         "name": "The Joke",
         "url": "https://open.spotify.com/album/7zxOsxnasYqLkaCloXjyzI"
       },
@@ -5003,6 +4955,54 @@
       "duration_ms": 154000,
       "name": "The Joke",
       "url": "https://open.spotify.com/track/3WEdptrFfx281Jee5NOf7i"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "On the Other End of the Line...",
+        "url": "https://open.spotify.com/album/605yTUmMmmUdKCjaUKRGAT"
+      },
+      "artists": [
+        {
+          "name": "Joyer",
+          "url": "https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/4HIECLcoDOlU0yFloXutMi"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Preacher",
+        "url": "https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew"
+      },
+      "artists": [
+        {
+          "name": "Local the Neighbour",
+          "url": "https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Preacher",
+      "url": "https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/38ZWo5i7WiRXodK7c3HUSA"
+      },
+      "artists": [
+        {
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/1hcl7Rbl63ScIgt675pT78"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -5023,18 +5023,34 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "Inverted Paradise",
-        "url": "https://open.spotify.com/album/3amGhA7Fnb4wapOdtwxFWZ"
+        "name": "All The Good Men",
+        "url": "https://open.spotify.com/album/6DbvRvEnPQI4TEaw5opO7t"
       },
       "artists": [
         {
-          "name": "Jahrund",
-          "url": "https://open.spotify.com/artist/3hwB1EOyN7sZygMw5QXAUj"
+          "name": "Silver Gore",
+          "url": "https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2"
         }
       ],
-      "duration_ms": 236059,
-      "name": "Reborn from the Ashes",
-      "url": "https://open.spotify.com/track/43WOpWsmL9IeIaprc57byT"
+      "duration_ms": 117400,
+      "name": "All The Good Men",
+      "url": "https://open.spotify.com/track/1lHsjpIJ9aFOkz4w4yduzt"
+    },
+    {
+      "added_at": "2026-01-25 04:13:07",
+      "album": {
+        "name": "_Everything else (reimagined)",
+        "url": "https://open.spotify.com/album/21MY6FWsNTR5CFKfNlHRqo"
+      },
+      "artists": [
+        {
+          "name": "Baileyrp",
+          "url": "https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "Gimme More - reimagined",
+      "url": "https://open.spotify.com/track/5gT1f5pdM7rNQi6E1r7jMK"
     },
     {
       "added_at": "2026-01-25 04:13:07",
@@ -5079,22 +5095,6 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "Preacher",
-        "url": "https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew"
-      },
-      "artists": [
-        {
-          "name": "Local the Neighbour",
-          "url": "https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Preacher",
-      "url": "https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK"
-    },
-    {
-      "added_at": "2026-01-25 04:13:07",
-      "album": {
         "name": "Wasteland",
         "url": "https://open.spotify.com/album/0C0vSfbPjSMG3Sv63t7qq5"
       },
@@ -5111,18 +5111,18 @@
     {
       "added_at": "2026-01-25 04:13:07",
       "album": {
-        "name": "On the Other End of the Line...",
-        "url": "https://open.spotify.com/album/605yTUmMmmUdKCjaUKRGAT"
+        "name": "Inverted Paradise",
+        "url": "https://open.spotify.com/album/3amGhA7Fnb4wapOdtwxFWZ"
       },
       "artists": [
         {
-          "name": "Joyer",
-          "url": "https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF"
+          "name": "Jahrund",
+          "url": "https://open.spotify.com/artist/3hwB1EOyN7sZygMw5QXAUj"
         }
       ],
-      "duration_ms": 165146,
-      "name": "Favorite",
-      "url": "https://open.spotify.com/track/4HIECLcoDOlU0yFloXutMi"
+      "duration_ms": 236059,
+      "name": "Reborn from the Ashes",
+      "url": "https://open.spotify.com/track/43WOpWsmL9IeIaprc57byT"
     },
     {
       "added_at": "2026-01-25 04:13:07",

@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Mackeeper
 
-3,695 songs - 8 day 12 hr 40 min
+3,696 songs - 8 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1833,6 +1833,7 @@
 | [Leaving](https://open.spotify.com/track/2JIKhelt4q9czQlRfdrYQK) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [Leaving](https://open.spotify.com/album/6StC4UA89XZ2X8AGvZEd2Y) | 3:36 | 2021-12-01 | 2022-01-13 |
 | [Leaving](https://open.spotify.com/track/3G9SYSMTccGqtC6VKE91aH) | [Plum](https://open.spotify.com/artist/6z2TH0bDd1rp016ZajDkKN) | [With You / Leaving](https://open.spotify.com/album/5wTQtxQjOu5KohQK2HnN8h) | 4:36 | 2024-03-13 | 2024-05-09 |
 | [Left Luggage](https://open.spotify.com/track/2tQC8gNPw9U6baB3SAVZqO) | [seegz](https://open.spotify.com/artist/7sgYueUDoDPfAyobvj9dzY) | [Left Luggage](https://open.spotify.com/album/4dZot5bM8xr5shmJR6hum7) | 3:27 | 2025-03-06 | 2025-04-24 |
+| [LEGACY](https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM) | [PIXY](https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz) | [LEGACY](https://open.spotify.com/album/3fZervxrJI13IbbJDp5Gci) | 2:14 | 2026-01-30 |  |
 | [Lemon Lime](https://open.spotify.com/track/2WXkVx5MEJjZ7fpIbOGnJO) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Lemon Lime](https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM) | 4:38 | 2022-05-25 | 2022-06-30 |
 | [Let go](https://open.spotify.com/track/7cmNF8uySo6WrjtbjS0ngo) | [Mora Michelle](https://open.spotify.com/artist/1wJSAHWxV34NbL4qAwDuvx) | [Let go](https://open.spotify.com/album/3uUwqFB6ZyBmS4h9gTv7Rg) | 4:23 | 2023-08-23 | 2024-01-11 |
 | [Let Her](https://open.spotify.com/track/4NMlQpb5AEkJk5Ll9aggpo) | [Alvy Willa](https://open.spotify.com/artist/2giNU9eAcUycZhhHyrAvuu) | [Let Her](https://open.spotify.com/album/3P8LmhJCdSolbM95Cw2X6R) | 2:55 | 2022-04-06 | 2022-04-27 |

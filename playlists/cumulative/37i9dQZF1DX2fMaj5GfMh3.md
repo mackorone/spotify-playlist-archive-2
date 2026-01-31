@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Son Mieux
 
-1,261 songs - 2 day 16 hr 24 min
+1,262 songs - 2 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [better days](https://open.spotify.com/track/2reYTHJnsXORTR7b5GkeFO) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [better days](https://open.spotify.com/album/1PDWTflg8jHOAFhEq73x78) | 3:11 | 2024-07-08 | 2024-09-20 |
 | [Better Man](https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 2:52 | 2023-04-06 | 2023-07-28 |
 | [Better Man](https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Better Man](https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD) | 2:33 | 2026-01-29 |  |
-| [Better Or Worse](https://open.spotify.com/track/5c09miCbkmZviJyPEmxdxy) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Better Or Worse](https://open.spotify.com/album/5U3pZ4BfzGzs5d4kql49QU) | 2:50 | 2025-10-23 |  |
+| [Better Or Worse](https://open.spotify.com/track/5c09miCbkmZviJyPEmxdxy) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Better Or Worse](https://open.spotify.com/album/5U3pZ4BfzGzs5d4kql49QU) | 2:50 | 2025-10-23 | 2026-01-31 |
 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 | 2023-09-29 | 2024-01-05 |
 | [Better Than That](https://open.spotify.com/track/38LEW9GivIvjz80cFmuYR3) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Better Than That](https://open.spotify.com/album/4YGf3T8dHgwcq3C2IMq6Y8) | 2:35 | 2025-04-17 | 2025-06-27 |
 | [bigger love](https://open.spotify.com/track/2VpieVmdihQUTalzU77VRh) | [Ruxley](https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P) | [bigger love](https://open.spotify.com/album/2LnQON8qXdOaXm4HaqtLKt) | 3:08 | 2024-07-18 | 2024-10-04 |
@@ -670,6 +670,7 @@
 | [lonely bitch](https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [lonely bitch](https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze) | 2:55 | 2023-02-24 | 2023-04-14 |
 | [Lonely Girl](https://open.spotify.com/track/1wheEtNXn04hxOMCiNIwnE) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Lonely Girl](https://open.spotify.com/album/0bGffrDhBjlDuarQjF8itE) | 2:22 | 2025-12-18 |  |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-20 | 2024-09-13 |
+| [Lookalike](https://open.spotify.com/track/1MSSCIOpcASLtHvb2idZIo) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Lookalike](https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr) | 2:34 | 2026-01-30 |  |
 | [Loop](https://open.spotify.com/track/4gGbAcDvbr8iVVOxF78FEO) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [Loop & Dream Go](https://open.spotify.com/album/6mqRQ2RqCs9UdlUPArUcXo) | 2:27 | 2023-06-22 | 2023-10-06 |
 | [Lose My Mind](https://open.spotify.com/track/4f7Snac8ZzHh59KmTOszil) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Lose My Mind](https://open.spotify.com/album/5GlO7wj3p6cmmgT8qnFqEg) | 2:26 | 2023-03-09 | 2023-05-19 |
 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 | 2025-02-07 | 2025-04-25 |

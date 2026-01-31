@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases Hollands & Volks. Cover: Quido van de Graaf",
-  "num_followers": 154864,
+  "num_followers": 154934,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPPZIkRWIOTQ4AdLrlGLrq/NIxt4",
+  "snapshot_id": "AAAAANjmKBVY1SLk4NWOnE8v/mHedVKO",
   "tracks": [
     {
       "added_at": "2026-01-29 23:00:44",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
+        "name": "Femme Fatale",
+        "url": "https://open.spotify.com/album/6YXxW3FMQCcdX4V3MUNunK"
+      },
+      "artists": [
+        {
+          "name": "Spang!",
+          "url": "https://open.spotify.com/artist/5RZqQNSyHP9Iovw5jC8S5r"
+        }
+      ],
+      "duration_ms": 154592,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/1boryOfIhzuquqa8MIOVm6"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
         "name": "Doe nog maar een rondje",
         "url": "https://open.spotify.com/album/7agd9o31Gjkw9tq7mjA3mR"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 154691,
       "name": "Mo\u00ebt Dat Nou",
       "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
-    },
-    {
-      "added_at": "2026-01-29 23:00:44",
-      "album": {
-        "name": "Femme Fatale",
-        "url": "https://open.spotify.com/album/6YXxW3FMQCcdX4V3MUNunK"
-      },
-      "artists": [
-        {
-          "name": "Spang!",
-          "url": "https://open.spotify.com/artist/5RZqQNSyHP9Iovw5jC8S5r"
-        }
-      ],
-      "duration_ms": 154592,
-      "name": "Femme Fatale",
-      "url": "https://open.spotify.com/track/1boryOfIhzuquqa8MIOVm6"
     },
     {
       "added_at": "2026-01-29 23:00:44",

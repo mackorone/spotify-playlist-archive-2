@@ -1369,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "Acrobata",
+        "url": "https://open.spotify.com/album/5cz7ibNB9lPKO0oqHNxcz9"
+      },
+      "artists": [
+        {
+          "name": "Bono / Burattini",
+          "url": "https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296222,
+      "name": "Acrobata",
+      "url": "https://open.spotify.com/track/7B0NSAx83OyUxYAQGLC3zo"
+    },
+    {
+      "album": {
         "name": "Acryl",
         "url": "https://open.spotify.com/album/5QxKzsz8n1CEgX5r8EwlWr"
       },
@@ -13274,7 +13292,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 181590,
       "name": "Fret Mauve",
       "url": "https://open.spotify.com/track/4EUe003EkWn1AAZS4ERL0d"
@@ -28910,7 +28928,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 339026,
       "name": "Sangue coagulato",
       "url": "https://open.spotify.com/track/3as5N2iBqzVwslgYQfb0d4"
@@ -32814,7 +32832,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 184226,
       "name": "Tem",
       "url": "https://open.spotify.com/track/1dCG1tEzjPzCQx0ij0dRh5"

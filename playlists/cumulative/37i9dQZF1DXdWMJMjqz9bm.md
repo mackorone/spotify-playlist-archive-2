@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: bbno$
 
-817 songs - 1 day 13 hr 22 min
+819 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [after\(h\)ours \(with Chri$tian Gate$\)](https://open.spotify.com/track/3ThqvALYw128g6J7PIzsfv) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [after\(h\)ours \(with Chri$tian Gate$\)](https://open.spotify.com/album/3BjT9M1jlDXYyR5y6oK08b) | 2:49 | 2025-02-21 | 2025-06-07 |
 | [Ain't Gon' Stop](https://open.spotify.com/track/0QqMkiJWTcOqm7nxD222Ik) | [Sol](https://open.spotify.com/artist/5mYS4mPFCpxvQwGU8rT43a) | [The Headspace Traveler](https://open.spotify.com/album/3lE8dur2FjdhLDllxKGzqH) | 3:36 | 2021-11-16 | 2022-02-26 |
 | [Ain't Nobody Else Like You](https://open.spotify.com/track/2wfiZ35GsTnxiJDEV15Evl) | [30](https://open.spotify.com/artist/3F0k8llOe3j1qhSEA6yeoe), [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Ain't Nobody Else Like You](https://open.spotify.com/album/0nr4oY0rTiRMVtRM1bQXWR) | 2:36 | 2021-11-16 | 2022-02-26 |
+| [All For You](https://open.spotify.com/track/4RhxOqE2gHSQY6GVeymv9N) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [All For You](https://open.spotify.com/album/1xIyhRzwVThyuJlIbdQWWH) | 2:37 | 2026-01-30 |  |
 | [All I Never Wanted](https://open.spotify.com/track/202yaLntC4WM5V7odMhg9z) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [All I Never Wanted](https://open.spotify.com/album/71BkhJrPstzBgz6So9c2sj) | 2:05 | 2022-11-11 | 2023-01-07 |
 | [All My Friends](https://open.spotify.com/track/2D9QFFd6YGk1XEoCI7v57I) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Trip Carter](https://open.spotify.com/artist/2bNkF5WGgymQPAqsdyxGH1) | [All My Friends](https://open.spotify.com/album/65BKyryV2LnEfrVMlaYJjZ) | 2:00 | 2022-09-23 | 2022-10-15 |
 | [All Night \(feat\. Trippie Redd\)](https://open.spotify.com/track/0RW7ykDvCSTMF5FT4lIFfL) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [All Night \(feat\. Trippie Redd\)](https://open.spotify.com/album/5GUgoPG9hrtOyix0u2tG37) | 3:07 | 2022-02-01 | 2022-03-17 |
@@ -394,7 +395,7 @@
 | [just friends](https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [just friends](https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z) | 2:59 | 2023-04-28 | 2024-06-01 |
 | [just friends](https://open.spotify.com/track/4W3SnqDKLvyRAFKDfCjSWM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 2:59 | 2024-01-12 | 2024-04-19 |
 | [Just Like That](https://open.spotify.com/track/3vRSduRquXh9U5EvRB7mS7) | [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [Just Like That](https://open.spotify.com/album/3xml1yNnc0XUO1oOnOSoDU) | 3:11 | 2022-09-02 | 2022-11-30 |
-| [Keeps Me Sane](https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Keeps Me Sane](https://open.spotify.com/album/2uXjcnHz8XQWs8IHPiPTbA) | 3:12 | 2025-08-18 |  |
+| [Keeps Me Sane](https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Keeps Me Sane](https://open.spotify.com/album/2uXjcnHz8XQWs8IHPiPTbA) | 3:12 | 2025-08-18 | 2026-01-31 |
 | [Keys](https://open.spotify.com/track/1kCI0UC3E0gwtOVdgyukFD) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Keys](https://open.spotify.com/album/38tcHYIBDdOtJB0hh7XiHe) | 2:52 | 2022-02-25 | 2022-06-04 |
 | [Kick Back \(feat\. Matt from Matt and Kim\)](https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:46 | 2022-04-22 | 2022-05-20 |
 | [Know Better](https://open.spotify.com/track/2YCDVu4FofMFvSJt5Vggu2) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [Know Better](https://open.spotify.com/album/64yqSFX8tX8XYrVbtXsfgu) | 3:19 | 2022-01-14 | 2022-05-20 |
@@ -674,6 +675,7 @@
 | [Stay In Bed](https://open.spotify.com/track/55Q0OpbUmbqg6cSwRbOG2O) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Stay In Bed](https://open.spotify.com/album/2GZ26dBt4GANEBgeV5oXFV) | 2:30 | 2022-11-25 | 2023-06-17 |
 | [Sticky Fingers](https://open.spotify.com/track/1wXVyDRq58n4MHrlhYjBdB) | [Pick Patek](https://open.spotify.com/artist/0S9cudS88S3BH35w2sWFaN) | [MODERN ART](https://open.spotify.com/album/1lN0WvKqJyFYVeuC71Leit) | 2:46 | 2021-11-16 | 2022-02-26 |
 | [Still](https://open.spotify.com/track/33M4V1Ns4DWrp2eop2Ubzg) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Dark](https://open.spotify.com/album/5QGv6b6i7tIOksucTpcUau) | 3:16 | 2025-08-22 |  |
+| [Still Got Love 4 U](https://open.spotify.com/track/1Ujhcw9pgAXenzex9P84n2) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Still Got Love 4 U](https://open.spotify.com/album/5c2OERs7PuV8xCwBs82MTZ) | 2:56 | 2026-01-30 |  |
 | [Still Young](https://open.spotify.com/track/5qOg2p4SrnSXDk1LF5bSIc) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Still Young](https://open.spotify.com/album/5cYxzZsx7uto7TFV7X7G2q) | 2:32 | 2021-11-16 | 2022-02-26 |
 | [Stop it](https://open.spotify.com/track/21K4Irg91lZvVifnBxVdVZ) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Stop it](https://open.spotify.com/album/3us1VOBUhYMEdUcHVeoM71) | 3:48 | 2022-04-08 | 2022-05-20 |
 | [STRANGER](https://open.spotify.com/track/36Dl8J2GhDwcTkWYHbcJII) | [JED](https://open.spotify.com/artist/5HP5WDrdxXqa9JyQv0phVQ) | [STRANGER](https://open.spotify.com/album/0QUpa5lYsDBRykPis5WHvc) | 3:21 | 2022-04-15 | 2022-06-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > Music around the world ✈️
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,056 likes - 64 songs - 3 hr 54 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,062 likes - 64 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 2 | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/track/7qFeh9S1Noq5NORl3o4AYI) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [koshi](https://open.spotify.com/artist/2ACc5CrWeHwnK5WYuBt915), [Daymaan](https://open.spotify.com/artist/35yPguBuaPXsOSIUVzJ0Zd), [Sparrow \(CH\)](https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO) | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/album/01bWLamm6GjBmyN1bo5vZI) | 4:04 |
 | 3 | [Moon](https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Moon](https://open.spotify.com/album/1Gs4CfY1YfYLYolnyCd4lX) | 3:22 |
 | 4 | [Liquid Bodies \- Perel Remix](https://open.spotify.com/track/4QDmWrLKTlFDwefEsoej7V) | [2FA](https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Liquid Bodies](https://open.spotify.com/album/6AAf7bFQsWTAwZGHOWSr7F) | 5:57 |
-| 5 | [Falling](https://open.spotify.com/track/6HMrZn76vPSiKl3u6Z6RsC) | [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ), [Orsay](https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4), [Ren Ocean](https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0) | [Falling](https://open.spotify.com/album/5FRpukRgaN2kZxiji63fn0) | 4:39 |
-| 6 | [GET LOST](https://open.spotify.com/track/3lOH1zjcMl32bwnaCi8VHK) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [GET LOST](https://open.spotify.com/album/55xkAVaINyTwteO7nsBnWp) | 3:05 |
+| 5 | [GET LOST](https://open.spotify.com/track/3lOH1zjcMl32bwnaCi8VHK) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [GET LOST](https://open.spotify.com/album/55xkAVaINyTwteO7nsBnWp) | 3:05 |
+| 6 | [Falling](https://open.spotify.com/track/6HMrZn76vPSiKl3u6Z6RsC) | [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ), [Orsay](https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4), [Ren Ocean](https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0) | [Falling](https://open.spotify.com/album/5FRpukRgaN2kZxiji63fn0) | 4:39 |
 | 7 | [What You Say](https://open.spotify.com/track/1V0dAOscqHP7NDqisz5BxL) | [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [What You Say](https://open.spotify.com/album/5s3IVczOcSEXVTsnNIbHvx) | 3:40 |
 | 8 | [My Soul \(Yet More Remix\)](https://open.spotify.com/track/5J1nCiMfZ2ztS1hT6bFN4A) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C) | [My Soul](https://open.spotify.com/album/2X60mBUbVzSGBLn5kVNj7N) | 4:38 |
 | 9 | [REGRESO \- warner case Remix](https://open.spotify.com/track/3U7ZzaQjslHlHybw9jXQI8) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [REGRESO \(warner case Remix\)](https://open.spotify.com/album/1sM6L8knIz2qufXE6wi9TD) | 3:15 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 31 | [Dance on the Rain](https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Dance on the Rain](https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ) | 3:39 |
 | 32 | [MY MIND](https://open.spotify.com/track/7Kgcz89XMfj4WHtm5nd3mJ) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [TALES FOR NIGHTCLUBS III](https://open.spotify.com/album/1rapZi3fPJc3RLRQdxocM7) | 2:55 |
 | 33 | [Nympho](https://open.spotify.com/track/7BShG8FX4glHiyOrh7dbET) | [DJ Assault](https://open.spotify.com/artist/3yoyUFgb11DMp1KrsJoQZU) | [Nympho](https://open.spotify.com/album/1IisYeFNyLYwdJdg0eW1V5) | 4:01 |
-| 34 | [L.Y.E](https://open.spotify.com/track/3A8FmCLtk3FuRhy7Bf56b7) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [L.Y.E](https://open.spotify.com/album/6XaBsdw5PkDbD6BmY53fIJ) | 3:22 |
-| 35 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 |
-| 36 | [Cheney Lane \- Mixed](https://open.spotify.com/track/0nLAdB2GcA4HVa6Nbo54op) | [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN) | [Café Kitsuné Mixed by Pat Lok](https://open.spotify.com/album/5aKEKt5XmLjAYfpjlx9AzH) | 2:22 |
-| 37 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 |
+| 34 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 |
+| 35 | [L.Y.E](https://open.spotify.com/track/3A8FmCLtk3FuRhy7Bf56b7) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [L.Y.E](https://open.spotify.com/album/6XaBsdw5PkDbD6BmY53fIJ) | 3:22 |
+| 36 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 |
+| 37 | [Cheney Lane \- Mixed](https://open.spotify.com/track/0nLAdB2GcA4HVa6Nbo54op) | [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN) | [Café Kitsuné Mixed by Pat Lok](https://open.spotify.com/album/5aKEKt5XmLjAYfpjlx9AzH) | 2:22 |
 | 38 | [Stolen Car](https://open.spotify.com/track/5vVWrefc29nd8RdBu7wdfv) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Stolen Car](https://open.spotify.com/album/3b0iQA7R2HhxAlexKYyfbM) | 3:14 |
 | 39 | [periergo](https://open.spotify.com/track/3h6MzTmKYidaQVvZyshj5j) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [mynameisleonidas](https://open.spotify.com/album/2r9YXXiFLz4VB4oSsVYA2h) | 2:07 |
 | 40 | [Hollow](https://open.spotify.com/track/2c3Jx05rR8thKcsrvd74Gu) | [Saavan](https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U) | [Chapters](https://open.spotify.com/album/3XvjkqCIQ8hBklQl7Bkioc) | 3:39 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 63 | [Jackie B](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Jackie B](https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg) | 3:37 |
 | 64 | [Come Inside](https://open.spotify.com/track/6ut6DhY4PU8WTxDCylYR7p) | [Chopper \(UK\)](https://open.spotify.com/artist/3gjul6vtKTcNHsTwr87dIK) | [Come Inside](https://open.spotify.com/album/7GTVtTT8Myhphmnggl0rMo) | 3:36 |
 
-Snapshot ID: `AAAMsK+ATjR4fHtZ1hDa+f4GNyas+vHP`
+Snapshot ID: `AAAMsq3wb41DRvNLv2PE3iAGmK5MzgW0`

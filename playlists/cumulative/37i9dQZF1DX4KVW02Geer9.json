@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: DJ Harrison",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Thundercat",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -1805,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/58phRhGz3vqfI7TE8ivTq1"
+      },
+      "artists": [
+        {
+          "name": "Nabou",
+          "url": "https://open.spotify.com/artist/1BwV1xO6KyJBmdx87xcJ08"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151386,
+      "name": "Consent (for Stijn)",
+      "url": "https://open.spotify.com/track/2RKvemY8RZdR7BzW8K5H4n"
+    },
+    {
+      "album": {
         "name": "Endlessness",
         "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
       },
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 228385,
       "name": "Da Du Dah",
       "url": "https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB"
@@ -3578,7 +3596,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 399546,
       "name": "Happy Sad",
       "url": "https://open.spotify.com/track/5aL6ovxQvpMobmJ6gFQeZc"
@@ -3875,6 +3893,32 @@
     },
     {
       "album": {
+        "name": "I Did This To Myself",
+        "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150613,
+      "name": "I Did This To Myself",
+      "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
+    },
+    {
+      "album": {
         "name": "I don't give a damn",
         "url": "https://open.spotify.com/album/7LP3Y1z89sjhYdx0bRFf9I"
       },
@@ -4052,7 +4096,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 384243,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/2gzXIH2zuVQ6omwQBvpeas"
@@ -4136,6 +4180,32 @@
       "duration_ms": 303274,
       "name": "Imaginary Magnitude",
       "url": "https://open.spotify.com/track/329J9HAKX1HXzg7qiUtE6f"
+    },
+    {
+      "album": {
+        "name": "Impulsive Procession (opolopo remix)",
+        "url": "https://open.spotify.com/album/69xrM56c9BgKPmGfnIS736"
+      },
+      "artists": [
+        {
+          "name": "Kyoto Jazz Massive",
+          "url": "https://open.spotify.com/artist/10Mz09DRdfsBvUVTUWiqIv"
+        },
+        {
+          "name": "Echoes Of A New Dawn Orchestra",
+          "url": "https://open.spotify.com/artist/0Ybi9gkQMCI91gq8Ykje1r"
+        },
+        {
+          "name": "opolopo",
+          "url": "https://open.spotify.com/artist/2EDRTyYzsLkQI5E17dv19H"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366500,
+      "name": "Impulsive Procession - opolopo remix",
+      "url": "https://open.spotify.com/track/2OZkKHnGRSCKe9GVFQZQTZ"
     },
     {
       "album": {
@@ -5991,6 +6061,28 @@
     },
     {
       "album": {
+        "name": "My Samba (feat. Skaai)",
+        "url": "https://open.spotify.com/album/53Y6SKRMpcTFjHDavqEyV6"
+      },
+      "artists": [
+        {
+          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
+          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "My Samba (feat. Skaai)",
+      "url": "https://open.spotify.com/track/22vlyrI5cI6bnyCg2suFFs"
+    },
+    {
+      "album": {
         "name": "M\u00fasica Faz Parte de Mim",
         "url": "https://open.spotify.com/album/0B4DHob4rw3y7E0HKq2w6u"
       },
@@ -6068,7 +6160,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 411866,
       "name": "Never Gonna Run Away",
       "url": "https://open.spotify.com/track/6RaMCZqzgc9QIZdUJEwdu5"
@@ -6546,6 +6638,28 @@
       "duration_ms": 289881,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/2tchGr5VPrWR8qwQA5VVyw"
+    },
+    {
+      "album": {
+        "name": "PASSION",
+        "url": "https://open.spotify.com/album/4iV6PGdhtgbZqYeoxl8YBy"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201869,
+      "name": "Once I Say",
+      "url": "https://open.spotify.com/track/4nPXIVzRK8ov667r7O7Rrr"
     },
     {
       "album": {
@@ -7871,6 +7985,24 @@
     },
     {
       "album": {
+        "name": "SS",
+        "url": "https://open.spotify.com/album/0l60RYyo5migWBDp8qaVYD"
+      },
+      "artists": [
+        {
+          "name": "\u8cfd",
+          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215675,
+      "name": "SS",
+      "url": "https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw"
+    },
+    {
+      "album": {
         "name": "Diamond Staircase",
         "url": "https://open.spotify.com/album/7ndB2mztr8DG60MZnz93he"
       },
@@ -7904,7 +8036,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 382813,
       "name": "Steam Train",
       "url": "https://open.spotify.com/track/4T1bg27zOYqe3tNhObzdKn"
@@ -8178,7 +8310,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 258946,
       "name": "Taka",
       "url": "https://open.spotify.com/track/5kMHEF0XECJEpgrJaDohqv"
@@ -8809,6 +8941,24 @@
     },
     {
       "album": {
+        "name": "Gospel Music",
+        "url": "https://open.spotify.com/album/52H41dJZIWXp6SjvXF0Gie"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440892,
+      "name": "Trinity (Father, Son, and Holy Spirit)",
+      "url": "https://open.spotify.com/track/0nONfdSjBptV3MtphsdYDc"
+    },
+    {
+      "album": {
         "name": "GJRS 20th",
         "url": "https://open.spotify.com/album/7mVaflonFonc6bo48dtmUt"
       },
@@ -9362,7 +9512,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 141795,
       "name": "WeMaj (feat. Rapsody)",
       "url": "https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t"

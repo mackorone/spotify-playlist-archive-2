@@ -1,12 +1,12 @@
 {
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Kashmir",
-  "num_followers": 16496,
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Abdul Hannan",
+  "num_followers": 16540,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKJe6n1gI0BxoPv4lM/Yh4rfxbeg",
+  "snapshot_id": "AAAAAHc1LUPfs/gAcSaJi08OOQAIUBHY",
   "tracks": [
     {
       "added_at": "2026-01-28 08:23:57",
@@ -27,6 +27,114 @@
       "duration_ms": 233225,
       "name": "Jana Hai Wahin",
       "url": "https://open.spotify.com/track/79LdqruB4lIPquQRSd6QJr"
+    },
+    {
+      "added_at": "2026-01-30 04:00:12",
+      "album": {
+        "name": "Bewajah",
+        "url": "https://open.spotify.com/album/2RWu005s6sUzoLvg9G4pV6"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Alan Sampson",
+          "url": "https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96"
+        }
+      ],
+      "duration_ms": 142493,
+      "name": "Bewajah",
+      "url": "https://open.spotify.com/track/2iUS1RWS0p7sZBwisMcaLs"
+    },
+    {
+      "added_at": "2026-01-30 04:00:12",
+      "album": {
+        "name": "Dont Care",
+        "url": "https://open.spotify.com/album/6afINoT4xdAge6aiRNpiai"
+      },
+      "artists": [
+        {
+          "name": "Shamoon Ismail",
+          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
+        }
+      ],
+      "duration_ms": 186874,
+      "name": "Dont Care",
+      "url": "https://open.spotify.com/track/1uIlrc9uqGwSBL85e4WUa0"
+    },
+    {
+      "added_at": "2026-01-30 04:00:12",
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/1rGiWcWgzUGgyUsuogKISa"
+      },
+      "artists": [
+        {
+          "name": "Neha Karim Ullah",
+          "url": "https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/5HauOf3Whq4F7IZruk9Kbn"
+    },
+    {
+      "added_at": "2026-01-30 04:00:12",
+      "album": {
+        "name": "Shehzada",
+        "url": "https://open.spotify.com/album/1RHrdtpjKw6vNvRNASH2vz"
+      },
+      "artists": [
+        {
+          "name": "Fuzon",
+          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "Shehzada",
+      "url": "https://open.spotify.com/track/2KdAh9vPLw8dX4Y5CbYRDh"
+    },
+    {
+      "added_at": "2026-01-30 04:00:12",
+      "album": {
+        "name": "Poetic Love",
+        "url": "https://open.spotify.com/album/6PU7ZAcpAdui2XXDEOZYO7"
+      },
+      "artists": [
+        {
+          "name": "Mudabbir Azeez Jamall",
+          "url": "https://open.spotify.com/artist/7HX5PwfHdsoLD7dDdY0f7l"
+        },
+        {
+          "name": "The Hashtags",
+          "url": "https://open.spotify.com/artist/2I98zL3Q63jrawDI778pmV"
+        }
+      ],
+      "duration_ms": 165210,
+      "name": "Poetic Love",
+      "url": "https://open.spotify.com/track/5uYBuSoUTvX3FqQ5MpcZxl"
+    },
+    {
+      "added_at": "2026-01-30 04:00:12",
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/4oRYqVWHzqOLvSioB67CZg"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "Nehaal Naseem",
+          "url": "https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re"
+        }
+      ],
+      "duration_ms": 217550,
+      "name": "Thora Muskura De",
+      "url": "https://open.spotify.com/track/7bZheHUQ2KvQXVlVAXXX33"
     },
     {
       "added_at": "2026-01-28 08:23:57",
@@ -107,6 +215,22 @@
       "duration_ms": 146544,
       "name": "Awaara",
       "url": "https://open.spotify.com/track/5Ns4aGNInVLUTGv6FNMGrI"
+    },
+    {
+      "added_at": "2026-01-30 04:00:12",
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/4oRYqVWHzqOLvSioB67CZg"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        }
+      ],
+      "duration_ms": 236385,
+      "name": "Gaata Nahi",
+      "url": "https://open.spotify.com/track/0Wfc9EYr9b0EpU1wh9nVsc"
     },
     {
       "added_at": "2026-01-28 08:23:57",
@@ -943,22 +1067,6 @@
       "duration_ms": 183370,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/2INIPRcKWj9X9T6tRFRDps"
-    },
-    {
-      "added_at": "2026-01-28 08:23:57",
-      "album": {
-        "name": "Real Riders",
-        "url": "https://open.spotify.com/album/3xwefpjYGKVRkFsFqZHsrK"
-      },
-      "artists": [
-        {
-          "name": "Teesh Beats",
-          "url": "https://open.spotify.com/artist/1Ozwo8oxF3WWaypWAUPiyX"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Real Riders",
-      "url": "https://open.spotify.com/track/4xQSrz6iso0WaBFoDVFjkA"
     },
     {
       "added_at": "2026-01-28 08:23:57",

@@ -2832,7 +2832,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 140307,
       "name": "Banana Muffin",
       "url": "https://open.spotify.com/track/0dnRn5FNiU0HiMrrNamNbK"
@@ -4430,7 +4430,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 148455,
       "name": "breathe in",
       "url": "https://open.spotify.com/track/2pe4uQh4EnCeBhY9Uo9t5D"
@@ -5804,6 +5804,24 @@
       "duration_ms": 171413,
       "name": "Cherry Soda",
       "url": "https://open.spotify.com/track/3xWB09K9yLanUeMeJKvXgu"
+    },
+    {
+      "album": {
+        "name": "chez",
+        "url": "https://open.spotify.com/album/5BS3NewDg8F3WXNtCVzgzg"
+      },
+      "artists": [
+        {
+          "name": "new vibe",
+          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136513,
+      "name": "chez",
+      "url": "https://open.spotify.com/track/1BTga4bUzAmES8zgeXAZVX"
     },
     {
       "album": {
@@ -18214,7 +18232,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 130081,
       "name": "kiko",
       "url": "https://open.spotify.com/track/0QooHh98AR81PgML0Uz6g1"
@@ -27773,6 +27791,24 @@
     },
     {
       "album": {
+        "name": "Quiet Nights",
+        "url": "https://open.spotify.com/album/5g3n4fw5T7HGgB2gV2e3Yi"
+      },
+      "artists": [
+        {
+          "name": "Calm Like Carl",
+          "url": "https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139824,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/1tohhzzzJ1ADQvHvL4xxxd"
+    },
+    {
+      "album": {
         "name": "Quiet Pulse",
         "url": "https://open.spotify.com/album/53X8PzRYZrcqmXrMgRuBuT"
       },
@@ -28066,7 +28102,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 164588,
       "name": "Reboot",
       "url": "https://open.spotify.com/track/74ShLjHTOr2HEnFwSBPQZ2"
@@ -39224,6 +39260,24 @@
       "duration_ms": 187657,
       "name": "window seat",
       "url": "https://open.spotify.com/track/4TrxWjFGGjmfqcLxdL8Wbb"
+    },
+    {
+      "album": {
+        "name": "window seats",
+        "url": "https://open.spotify.com/album/1lYpwSgTDLNeVKWmRoZmq1"
+      },
+      "artists": [
+        {
+          "name": "drift\u00f8 blues",
+          "url": "https://open.spotify.com/artist/6IK9tbMR95RzFZhaHvHi5E"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116784,
+      "name": "window seats",
+      "url": "https://open.spotify.com/track/4SUe31MObM2JZoa2l7fioa"
     },
     {
       "album": {

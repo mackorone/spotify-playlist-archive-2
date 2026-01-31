@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Say She She
 
-332 songs - 20 hr 26 min
+333 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Feel Good Too](https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 3:59 | 2023-06-23 |  |
 | [Feel Good Too](https://open.spotify.com/track/5bTWUSy1Xwm8bNwbc419wP) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 3:59 | 2023-06-23 | 2024-04-19 |
 | [Feel So Good](https://open.spotify.com/track/6Zoi8MTQJ5UZ28Xra0FAAn) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Feel So Good](https://open.spotify.com/album/4Y0TmKELuNPjdLFNAEC4An) | 3:27 | 2022-02-11 | 2023-01-06 |
-| [Feel The Groove](https://open.spotify.com/track/0wjJfVH7DCVSeOXxkpFNNE) | [Seb Skalski](https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Feel The Groove](https://open.spotify.com/album/7bOqJYBRGtDpx0NV5yuizR) | 4:43 | 2023-05-19 |  |
+| [Feel The Groove](https://open.spotify.com/track/0wjJfVH7DCVSeOXxkpFNNE) | [Seb Skalski](https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Feel The Groove](https://open.spotify.com/album/7bOqJYBRGtDpx0NV5yuizR) | 4:43 | 2023-05-19 | 2026-01-31 |
 | [Feel This](https://open.spotify.com/track/34gwWYhg66Zw6hcQlfvDPp) | [Martin Eigenberg](https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2), [Ryan Shade](https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl) | [Feel This](https://open.spotify.com/album/3eBDDlG2zu5llGGPBJ0JYG) | 3:26 | 2023-07-21 | 2024-04-19 |
 | [Feel This](https://open.spotify.com/track/6Dca0REtMaazrwoI5YS0ib) | [Martin Eigenberg](https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2), [Ryan Shade](https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl) | [Feel This](https://open.spotify.com/album/16mrraWea47jlXf8nPwNyu) | 3:26 | 2023-07-21 |  |
 | [Fever](https://open.spotify.com/track/5s9TUVHNEN9BT74EeXFdb6) | [Nothing But Funk](https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF), [French Horn Rebellion](https://open.spotify.com/artist/6G5wDM1Vmsscql7qRtcLH0) | [Fever](https://open.spotify.com/album/2y3qxF7fBARVhGixG5XsVC) | 2:56 | 2024-02-23 |  |
@@ -309,6 +309,7 @@
 | [Touch](https://open.spotify.com/track/6p1xdGwSFQkmyWm3hFuHZn) | [Liam Mockridge](https://open.spotify.com/artist/2AVSP0Z9axRhpkMC4EImbG), [Herizen](https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Touch](https://open.spotify.com/album/4QoLb7RcShidfum5Ghi1Xs) | 3:48 | 2023-05-26 | 2024-08-10 |
 | [Tropical Electrical](https://open.spotify.com/track/00OoXNNV5TmSzNYsat0yV3) | [Diogo Strausz](https://open.spotify.com/artist/58HWl0aH0VFAKnxfiZdVzO), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Tropical Electrical](https://open.spotify.com/album/10jXNupRzlWbJKYcqZU0nP) | 3:29 | 2024-08-23 |  |
 | [Try Again \- Single Edit](https://open.spotify.com/track/1V3roFh4ZJRPIJekw9Y78R) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Try Again](https://open.spotify.com/album/73TY0JHIcJrLAvpgppmTQs) | 4:05 | 2022-07-08 | 2023-03-18 |
+| [Tune It Out](https://open.spotify.com/track/2xzJKMMD4dzH9NhHcr2mk0) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe), [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO) | [Tune It Out](https://open.spotify.com/album/3vSu7BXiZ0jpBFZXPQQhIM) | 3:57 | 2026-01-30 |  |
 | [Tunnel Vision](https://open.spotify.com/track/1Vkn7qPTWmEl6yDR46RjAN) | [Willow Stephens](https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3) | [Future Classic](https://open.spotify.com/album/6lgYtcJdANfL1cE4OsQxot) | 3:45 | 2023-05-26 | 2024-04-19 |
 | [Tunnel Vision](https://open.spotify.com/track/33BUDYCkofJ0AuyRxEVk7c) | [Willow Stephens](https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3) | [Tunnel Vision](https://open.spotify.com/album/44Dfv0I0KJuoKnN9wvctkV) | 3:45 | 2023-05-26 |  |
 | [Tunnel Vision](https://open.spotify.com/track/7E8AOsIgNo1KKzmD21d21h) | [Willow Stephens](https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3) | [Art of Loving You](https://open.spotify.com/album/4DWsGZrf8adwrx0FFR5kWx) | 3:45 | 2023-05-26 | 2024-01-12 |

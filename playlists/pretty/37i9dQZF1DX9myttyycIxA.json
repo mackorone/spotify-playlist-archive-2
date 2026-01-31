@@ -1,13 +1,29 @@
 {
   "description": "Underground indie rock gems. Cover: Ruby Waters",
-  "num_followers": 309043,
+  "num_followers": 309047,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA98xXsXVsuFcCQbiDDPDF8Y8Ec2",
+  "snapshot_id": "AAAAAIIBcx/70cPMq1tGjmAxQzIuUNdI",
   "tracks": [
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
+        "name": "5words",
+        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "duration_ms": 317613,
+      "name": "5words",
+      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
+    },
     {
       "added_at": "2026-01-23 05:00:24",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/5yGRA06uJvK0KLgeZAAYb7"
     },
     {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
+        "name": "Beadie",
+        "url": "https://open.spotify.com/album/07OLVwgWErQyUnhavirYQy"
+      },
+      "artists": [
+        {
+          "name": "Sluice",
+          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
+        }
+      ],
+      "duration_ms": 240752,
+      "name": "Beadie",
+      "url": "https://open.spotify.com/track/2epCOFnQDllhDFAaxO3mx2"
+    },
+    {
       "added_at": "2026-01-23 05:00:24",
       "album": {
         "name": "23",
@@ -39,6 +71,86 @@
       "duration_ms": 168456,
       "name": "23",
       "url": "https://open.spotify.com/track/5cAyhQKcqRguYPryCL0rYj"
+    },
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
+        "name": "Heaven Sent",
+        "url": "https://open.spotify.com/album/3F1BhsVsH3KKzNiLMG5M1j"
+      },
+      "artists": [
+        {
+          "name": "Chartreuse",
+          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
+        }
+      ],
+      "duration_ms": 187493,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/0ewbgBIlWOENsK3IlhRTDK"
+    },
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
+        "name": "heckler",
+        "url": "https://open.spotify.com/album/0GZdbVRHbiBEuy48NpIUgn"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 217777,
+      "name": "heckler",
+      "url": "https://open.spotify.com/track/44Z8lgTSaB1uoNoevr7TWt"
+    },
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
+        "name": "nostalgia as a sickness",
+        "url": "https://open.spotify.com/album/4l7nl4dZ7Rv1gnuntEmkgC"
+      },
+      "artists": [
+        {
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 226304,
+      "name": "nostalgia as a sickness",
+      "url": "https://open.spotify.com/track/0vtvayTqbS8grKImP07ja3"
+    },
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
+        "name": "Faded Rose",
+        "url": "https://open.spotify.com/album/7icUm5JO3OqOzNXSRPMRJw"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 241488,
+      "name": "Faded Rose",
+      "url": "https://open.spotify.com/track/6WhmOQNVS9MHcUa6kc1nxO"
+    },
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
+        "name": "Wake up!",
+        "url": "https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "duration_ms": 148988,
+      "name": "Wake up!",
+      "url": "https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -1507,118 +1619,6 @@
       "duration_ms": 249813,
       "name": "Only One Laughing",
       "url": "https://open.spotify.com/track/6DGgiVR1F2vX97iT0hhVkp"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "lol",
-        "url": "https://open.spotify.com/album/46k5Epqbq76HGNZJFRAeMa"
-      },
-      "artists": [
-        {
-          "name": "Edgehill",
-          "url": "https://open.spotify.com/artist/0lzGqksyREdfUObGjLYLcT"
-        }
-      ],
-      "duration_ms": 187753,
-      "name": "lol",
-      "url": "https://open.spotify.com/track/2utxWoF5jto0lrLh5MtTSG"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "Cut Slack",
-        "url": "https://open.spotify.com/album/6Gfxlq97PFLwx3Ji4qRSWY"
-      },
-      "artists": [
-        {
-          "name": "Still Blank",
-          "url": "https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71"
-        }
-      ],
-      "duration_ms": 133788,
-      "name": "Cut Slack",
-      "url": "https://open.spotify.com/track/2UaAx2e0UFIWE38YGdaNbS"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/1TDJFmP5aT0KMmivEvVDCX"
-      },
-      "artists": [
-        {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
-        }
-      ],
-      "duration_ms": 268146,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/4zgE9tLze004ikoT989voo"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "(I Wanna) Be Your Girl",
-        "url": "https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx"
-      },
-      "artists": [
-        {
-          "name": "Sharp Pins",
-          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "(I Wanna) Be Your Girl",
-      "url": "https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "In Motion",
-        "url": "https://open.spotify.com/album/6MiXLNfzYegqSRLGbnrZXt"
-      },
-      "artists": [
-        {
-          "name": "Junaco",
-          "url": "https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e"
-        }
-      ],
-      "duration_ms": 232108,
-      "name": "Time to Run",
-      "url": "https://open.spotify.com/track/6jHXmArwmV8nbUBXSv4tzI"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "Blue Factory Flame / Shadow Answers The Wall",
-        "url": "https://open.spotify.com/album/7Ivhxn3gweiLQovhPYJ6YO"
-      },
-      "artists": [
-        {
-          "name": "Horse Jumper of Love",
-          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
-        }
-      ],
-      "duration_ms": 421280,
-      "name": "Blue Factory Flame",
-      "url": "https://open.spotify.com/track/1oRIvo3jtakivz6IlKoZvQ"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "Arrest Myself / Dollar Store Mansion",
-        "url": "https://open.spotify.com/album/069wTaDGHO8LqYEwRq2LPF"
-      },
-      "artists": [
-        {
-          "name": "Yam Haus",
-          "url": "https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL"
-        }
-      ],
-      "duration_ms": 169138,
-      "name": "Arrest Myself",
-      "url": "https://open.spotify.com/track/1SsVyks5DSQNIeg1bp7G4Z"
     }
   ],
   "unique_name": "undercurrents",

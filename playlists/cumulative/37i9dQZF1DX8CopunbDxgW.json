@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "harry styles with dance music? we're in \ud83d\ude0e your home for all the best indie dance",
+  "description": "Lewis OfMan delivers more funky goodness \u26a1\ud83c\uddeb\ud83c\uddf7 metropolis is your home for all the best indie dance",
   "name": "metropolis",
   "tracks": [
     {
@@ -2108,6 +2108,24 @@
       "duration_ms": 270000,
       "name": "Angel in the Darkness",
       "url": "https://open.spotify.com/track/5jM21mkpoPIhlU4o8yr0VI"
+    },
+    {
+      "album": {
+        "name": "death of an english high street",
+        "url": "https://open.spotify.com/album/78YPArVN2ni7Ni3A6cotEd"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332000,
+      "name": "angels",
+      "url": "https://open.spotify.com/track/5aErTHmtbhPX6CJXh5MPgz"
     },
     {
       "album": {
@@ -7876,7 +7894,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 208224,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/6RGCMc5Xl51QeeLncMZ5Qu"
@@ -11143,6 +11161,24 @@
     },
     {
       "album": {
+        "name": "Electronicity",
+        "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232373,
+      "name": "Electronicity",
+      "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
+    },
+    {
+      "album": {
         "name": "The Lowdown",
         "url": "https://open.spotify.com/album/6Dw27aR49vN78UE9C5pPlf"
       },
@@ -11843,6 +11879,28 @@
     },
     {
       "album": {
+        "name": "eye contact (feat. Council)",
+        "url": "https://open.spotify.com/album/6z9iFDIEPBgrDp1fpwqRHN"
+      },
+      "artists": [
+        {
+          "name": "1-800 GIRLS",
+          "url": "https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ"
+        },
+        {
+          "name": "Council",
+          "url": "https://open.spotify.com/artist/3N7z79Am2V9dxOxd8K2HVo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186132,
+      "name": "eye contact (feat. Council)",
+      "url": "https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq"
+    },
+    {
+      "album": {
         "name": "EVERYTHING YOU'VE EVER SEEN",
         "url": "https://open.spotify.com/album/5X7fdLHTgIOPggJ4N3n67o"
       },
@@ -12032,7 +12090,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 299262,
       "name": "Falle Le Le Le - Joe Goddard Remix",
       "url": "https://open.spotify.com/track/4pHvImk0hsOqKe3jQcagfE"
@@ -12453,6 +12511,28 @@
     },
     {
       "album": {
+        "name": "Feel So Good Around U",
+        "url": "https://open.spotify.com/album/5jQDO3r5tVB7t0H6ipp9vO"
+      },
+      "artists": [
+        {
+          "name": "LB aka LABAT",
+          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
+        },
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272492,
+      "name": "Feel So Good Around U",
+      "url": "https://open.spotify.com/track/2ZG3zaIGpmIFU4CTwhhgyn"
+    },
+    {
+      "album": {
         "name": "FEEL SOMETHING DIFFERENT",
         "url": "https://open.spotify.com/album/3FheSC4Vgn2ASKTyYt9WcA"
       },
@@ -12672,6 +12752,24 @@
       "duration_ms": 193266,
       "name": "Feelwitchu",
       "url": "https://open.spotify.com/track/4bLjPoP25YBKGei1CfBgE2"
+    },
+    {
+      "album": {
+        "name": "Fell So Out",
+        "url": "https://open.spotify.com/album/7kqCL8iWoPfyjx8XheSEur"
+      },
+      "artists": [
+        {
+          "name": "From Dave",
+          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173171,
+      "name": "Fell So Out",
+      "url": "https://open.spotify.com/track/1vsA7hZEn4XKdvRkxDz9ov"
     },
     {
       "album": {
@@ -19307,6 +19405,24 @@
     },
     {
       "album": {
+        "name": "IN YOUR HEAD",
+        "url": "https://open.spotify.com/album/2DkSlpZE6yUP1twhpZjwt0"
+      },
+      "artists": [
+        {
+          "name": "Vanegas",
+          "url": "https://open.spotify.com/artist/5PbGXiwDFSQSMmzQ3pP5Jj"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212630,
+      "name": "in your head",
+      "url": "https://open.spotify.com/track/4bZdpxemMQEUVZMltvDySE"
+    },
+    {
+      "album": {
         "name": "In Your Mind",
         "url": "https://open.spotify.com/album/6WgEklxepIZRBqqageJqRV"
       },
@@ -19580,7 +19696,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 165388,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
@@ -21452,7 +21568,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 228984,
       "name": "let em rock",
       "url": "https://open.spotify.com/track/05qxjCX4kK6jSdkLWpMgaF"
@@ -22488,6 +22604,28 @@
       "duration_ms": 509538,
       "name": "Locked",
       "url": "https://open.spotify.com/track/1vBxzMZGCneeEemHVMw6Q3"
+    },
+    {
+      "album": {
+        "name": "London Massive",
+        "url": "https://open.spotify.com/album/4GdzA8ll8XWMiJsT84YUZz"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125087,
+      "name": "London Massive",
+      "url": "https://open.spotify.com/track/3rr6YbIEazaOv6H9snVRMT"
     },
     {
       "album": {
@@ -26280,7 +26418,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 143225,
       "name": "new york high",
       "url": "https://open.spotify.com/track/0plLAX0QKRTbaEkowrQ44Q"
@@ -28868,7 +29006,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 195652,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/5L6O56OnIgL4QUW7NgYxOX"
@@ -29260,6 +29398,28 @@
       "duration_ms": 130285,
       "name": "Peace In Silence",
       "url": "https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8"
+    },
+    {
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/19I0PT3UxGziXZs3EZIfHw"
+      },
+      "artists": [
+        {
+          "name": "Sonny Grin",
+          "url": "https://open.spotify.com/artist/1Nymwcz4ybOrV0WjkFPsne"
+        },
+        {
+          "name": "DammyDaas",
+          "url": "https://open.spotify.com/artist/3Sc8wNJqYXuwYery2MgBui"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179527,
+      "name": "Peace of Mind - Radio Edit",
+      "url": "https://open.spotify.com/track/3JD0rRSzWRitWVnmHTHB5P"
     },
     {
       "album": {
@@ -32594,7 +32754,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 199680,
       "name": "set you free (truth will find a way)",
       "url": "https://open.spotify.com/track/0mZ9Iqxby5iceDT1Ug2wN6"
@@ -32906,7 +33066,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 177840,
       "name": "She Waits",
       "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
@@ -40457,6 +40617,24 @@
     },
     {
       "album": {
+        "name": "WAITING TO BEGIN",
+        "url": "https://open.spotify.com/album/512SLD6mliH8D0CB14oWeh"
+      },
+      "artists": [
+        {
+          "name": "Coloray",
+          "url": "https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156618,
+      "name": "WAITING TO BEGIN",
+      "url": "https://open.spotify.com/track/43yiqpJJwVvR3vMg8CgzB0"
+    },
+    {
+      "album": {
         "name": "Wake And Return (Little Dragon Remix)",
         "url": "https://open.spotify.com/album/6XvEHBL9v0E9GsS8UFJEpO"
       },
@@ -42982,7 +43160,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 265099,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/5Y7WONRdWnjQhsn8TyOyS8"

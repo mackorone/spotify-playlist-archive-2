@@ -2,9 +2,9 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Luck Ra, Fede Vigevani & Ian Lucas.
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Uri, Matías Valdez & Lira
 
-688 songs - 1 day 9 hr 55 min
+689 songs - 1 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Cuéntale](https://open.spotify.com/track/6T9FCkiIPtowqeSb5ePTeH) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [The Sistars](https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa) | [Cuentale](https://open.spotify.com/album/1kf8oWvNE0SeDWowrkmVtC) | 2:21 | 2021-12-23 | 2022-07-29 |
 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 | 2021-12-23 |  |
 | [Dame un Besito](https://open.spotify.com/track/2Vl1IkovKwtLBAVUdOqZ0a) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Dame un Besito](https://open.spotify.com/album/2KephD8YhQRMfagIcLI7r8) | 3:15 | 2023-02-03 | 2023-11-27 |
+| [Dame Un Beso](https://open.spotify.com/track/2xYYDTx5fHTJPgyokvMEEe) | [Uri](https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Dame Un Beso](https://open.spotify.com/album/4Vafbbh8PqMOZkZnG8nEtb) | 2:13 | 2026-01-30 |  |
 | [De 100 a 0](https://open.spotify.com/track/1RKBRNLdt9nNri2wraNAzn) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [De 100 a 0](https://open.spotify.com/album/6gw3DJu5DZWgAega1XthDP) | 3:12 | 2024-04-05 | 2024-04-19 |
 | [De 100 a 0](https://open.spotify.com/track/0qRGHWWeGfBylFP2VPMBWd) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [De 100 a 0](https://open.spotify.com/album/3wyFppvqCcSXcTMVAo52B0) | 3:12 | 2023-09-15 | 2023-12-11 |
 | [De los Besos Que Te Di](https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [De los Besos Que Te Di](https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws) | 3:06 | 2022-11-11 | 2023-09-30 |
@@ -251,7 +252,7 @@
 | [Inocente](https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Inocente](https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk) | 2:51 | 2023-12-08 |  |
 | [JBL](https://open.spotify.com/track/1wvI6lJLC7mjUzdssQq5MU) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [JBL](https://open.spotify.com/album/1GoNfidWzsJpnuI2wqAOj9) | 3:04 | 2024-10-18 |  |
 | [Jodido Corazón](https://open.spotify.com/track/5gUwVD9u7RryDOP3tk52OP) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Jodido Corazón](https://open.spotify.com/album/3vf7r2oc46hcO1tVhI7XK2) | 2:28 | 2022-03-11 | 2022-05-21 |
-| [Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera](https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 7:55 | 2021-12-23 |  |
+| [Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera](https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 7:55 | 2021-12-23 | 2026-01-31 |
 | [Julieta & Romeo](https://open.spotify.com/track/1wn8oTCxakJxpRi4rJm05T) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik) | [Julieta & Romeo](https://open.spotify.com/album/2TPT7xsHb4BRsiQkKX4r71) | 2:04 | 2024-08-16 | 2024-11-21 |
 | [KARINA \| DJ TAO Turreo Sessions \#18](https://open.spotify.com/track/36f2jJDymsYeNmcP0VLrGV) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [KARINA \| DJ TAO Turreo Sessions \#18](https://open.spotify.com/album/5XoexbXXlmolgFgXszagNE) | 2:45 | 2023-07-07 | 2024-01-28 |
 | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [ROMEA](https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1) | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52) | 2:22 | 2024-03-08 | 2024-03-16 |

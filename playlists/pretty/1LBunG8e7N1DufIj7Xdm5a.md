@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 3,923 songs - 8 day 16 hr 9 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 3,925 songs - 8 day 16 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3931,5 +3931,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3921 | [Dimensiones Paralelas](https://open.spotify.com/track/0cZfAhCMGOWbnD2zzkECVU) | [Nauj Project](https://open.spotify.com/artist/4g6e6FnWWi0oQGhHxkn9Jd) | [Dimensiones Paralelas](https://open.spotify.com/album/5e1cntrq6rg9B5Gmhi0p5w) | 2:49 |
 | 3922 | [Half\-Empty Soul](https://open.spotify.com/track/3itcmtHSqMpcPLcNcsbvqC) | [Bass\_Plus](https://open.spotify.com/artist/0uYsvadSSfd6FUaBB9syyb) | [Half\-Empty Soul](https://open.spotify.com/album/2Bo6gMb6cMRKnP2fh87b9U) | 3:00 |
 | 3923 | [landed in nyc](https://open.spotify.com/track/7bkJhvHFUNWkGiO9wi1dyJ) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [landed in nyc](https://open.spotify.com/album/1bR1HCxHv9onaYxqJKR5b9) | 1:50 |
+| 3924 | [Öylece Bıraktığın Yerden](https://open.spotify.com/track/3nfQOWD7pmZjEcPrwXBanW) | [zibidi gonzales](https://open.spotify.com/artist/4AZqCD8QOtlTnQ4S37Z1VN) | [Gurursuz](https://open.spotify.com/album/2giFMp6p1IUf54NyJ9A35f) | 4:07 |
+| 3925 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 |
 
-Snapshot ID: `AAAG5pJZdZf2ZakeIJmilXUhAF1wc+LZ`
+Snapshot ID: `AAAG6OCHpzKGRQQKhZUzdRfJwIsZl6wP`

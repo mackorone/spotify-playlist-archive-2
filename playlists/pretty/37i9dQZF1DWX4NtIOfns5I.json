@@ -1,28 +1,76 @@
 {
-  "description": "truman sinclair on \ud83d\udd01",
-  "num_followers": 144496,
+  "description": "meet tyler ballgame \ud83c\udf1f",
+  "num_followers": 144498,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQJjRxhDNrS/wuWHeIln+yrt5CD",
+  "snapshot_id": "AAAAAPS2RcJoWpkZtMp1s3pfsszGqItq",
   "tracks": [
     {
-      "added_at": "2026-01-23 05:00:25",
+      "added_at": "2026-01-30 05:01:06",
       "album": {
-        "name": "Rivers of Sugar and Blood",
-        "url": "https://open.spotify.com/album/13erMRMbkhT3hUvDB4VZXy"
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
       },
       "artists": [
         {
-          "name": "Truman Sinclair",
-          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 231885,
-      "name": "dust to dust",
-      "url": "https://open.spotify.com/track/4R8sxtsSWWGm0DZw6CHtCt"
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+    },
+    {
+      "added_at": "2026-01-30 05:01:06",
+      "album": {
+        "name": "Death in the Business of Whaling",
+        "url": "https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 233293,
+      "name": "Belly of the Whale",
+      "url": "https://open.spotify.com/track/4bydArt0Ervz2Yfh5CBVHe"
+    },
+    {
+      "added_at": "2026-01-30 05:01:06",
+      "album": {
+        "name": "Some Things Never Leave",
+        "url": "https://open.spotify.com/album/6SjTebu5erz22LeboDHsML"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "duration_ms": 240178,
+      "name": "Everyone Likes To Be Forgiven",
+      "url": "https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY"
+    },
+    {
+      "added_at": "2026-01-30 05:01:06",
+      "album": {
+        "name": "For The First Time, Again",
+        "url": "https://open.spotify.com/album/7slgA6PxkF9lgKEVVMnFrQ"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+        }
+      ],
+      "duration_ms": 213902,
+      "name": "For The First Time, Again",
+      "url": "https://open.spotify.com/track/6b2XjVTFSlEwonWbH1fIo3"
     },
     {
       "added_at": "2026-01-23 05:00:25",
@@ -43,6 +91,54 @@
     {
       "added_at": "2026-01-23 05:00:25",
       "album": {
+        "name": "Rivers of Sugar and Blood",
+        "url": "https://open.spotify.com/album/13erMRMbkhT3hUvDB4VZXy"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 231885,
+      "name": "dust to dust",
+      "url": "https://open.spotify.com/track/4R8sxtsSWWGm0DZw6CHtCt"
+    },
+    {
+      "added_at": "2026-01-30 05:01:06",
+      "album": {
+        "name": "Beadie",
+        "url": "https://open.spotify.com/album/07OLVwgWErQyUnhavirYQy"
+      },
+      "artists": [
+        {
+          "name": "Sluice",
+          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
+        }
+      ],
+      "duration_ms": 240752,
+      "name": "Beadie",
+      "url": "https://open.spotify.com/track/2epCOFnQDllhDFAaxO3mx2"
+    },
+    {
+      "added_at": "2026-01-23 05:00:25",
+      "album": {
+        "name": "Spinstress",
+        "url": "https://open.spotify.com/album/4lpztYt1njS5iSxRdxKflE"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Cobalt Blue",
+      "url": "https://open.spotify.com/track/1bl4k2cDh1E6MVz1b2uUEB"
+    },
+    {
+      "added_at": "2026-01-23 05:00:25",
+      "album": {
         "name": "limn",
         "url": "https://open.spotify.com/album/26IJ29iCYAozdqslJSkUWw"
       },
@@ -55,6 +151,106 @@
       "duration_ms": 207058,
       "name": "limn",
       "url": "https://open.spotify.com/track/69oIIqwBPHmM8m81cW1H5O"
+    },
+    {
+      "added_at": "2026-01-30 05:01:06",
+      "album": {
+        "name": "House of the Rising Sun",
+        "url": "https://open.spotify.com/album/2JnelnjkFZKzZQUwZFkcD1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 188281,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/3a8mo25v74BMUOJ1IDUEBL"
+    },
+    {
+      "added_at": "2026-01-30 05:01:06",
+      "album": {
+        "name": "Until The Comet Came",
+        "url": "https://open.spotify.com/album/1Ag9sz7rFDlTiHtacxRQ17"
+      },
+      "artists": [
+        {
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+        }
+      ],
+      "duration_ms": 246879,
+      "name": "Team Babe",
+      "url": "https://open.spotify.com/track/6TqVmfK0Um2rK6ozp3E8dG"
+    },
+    {
+      "added_at": "2026-01-30 05:01:06",
+      "album": {
+        "name": "George Jones (ft. Angela Autumn)",
+        "url": "https://open.spotify.com/album/7t5DjAvZEkYKkej5qiDDN1"
+      },
+      "artists": [
+        {
+          "name": "Deloyd Elze",
+          "url": "https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo"
+        },
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "duration_ms": 215691,
+      "name": "George Jones (ft. Angela Autumn)",
+      "url": "https://open.spotify.com/track/5OUGnKAiNCNxX3RXsGTcMI"
+    },
+    {
+      "added_at": "2026-01-23 05:00:25",
+      "album": {
+        "name": "Blizzard",
+        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 268694,
+      "name": "When You Tie Your Hair Up",
+      "url": "https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg"
+    },
+    {
+      "added_at": "2026-01-23 15:50:34",
+      "album": {
+        "name": "1990",
+        "url": "https://open.spotify.com/album/3puh4gwTuQFlPTZaEezmqa"
+      },
+      "artists": [
+        {
+          "name": "Daniel Johnston",
+          "url": "https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w"
+        }
+      ],
+      "duration_ms": 111170,
+      "name": "True Love Will Find You in the End",
+      "url": "https://open.spotify.com/track/6fEjOPaZoxQl3oha9GDJAN"
+    },
+    {
+      "added_at": "2026-01-23 05:00:25",
+      "album": {
+        "name": "If You Know Me / Wild Horses",
+        "url": "https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "If You Know Me",
+      "url": "https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL"
     },
     {
       "added_at": "2026-01-23 05:00:25",
@@ -107,38 +303,6 @@
     {
       "added_at": "2026-01-23 05:00:25",
       "album": {
-        "name": "Spinstress",
-        "url": "https://open.spotify.com/album/4lpztYt1njS5iSxRdxKflE"
-      },
-      "artists": [
-        {
-          "name": "Ruby Plume",
-          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Cobalt Blue",
-      "url": "https://open.spotify.com/track/1bl4k2cDh1E6MVz1b2uUEB"
-    },
-    {
-      "added_at": "2026-01-23 05:00:25",
-      "album": {
-        "name": "Blizzard",
-        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 268694,
-      "name": "When You Tie Your Hair Up",
-      "url": "https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg"
-    },
-    {
-      "added_at": "2026-01-23 05:00:25",
-      "album": {
         "name": "Anna with the Silver Arrow",
         "url": "https://open.spotify.com/album/0OqErnPXI4h32uo7xh59j8"
       },
@@ -151,38 +315,6 @@
       "duration_ms": 224234,
       "name": "Anna with the Silver Arrow",
       "url": "https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei"
-    },
-    {
-      "added_at": "2026-01-23 15:50:34",
-      "album": {
-        "name": "1990",
-        "url": "https://open.spotify.com/album/3puh4gwTuQFlPTZaEezmqa"
-      },
-      "artists": [
-        {
-          "name": "Daniel Johnston",
-          "url": "https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w"
-        }
-      ],
-      "duration_ms": 111170,
-      "name": "True Love Will Find You in the End",
-      "url": "https://open.spotify.com/track/6fEjOPaZoxQl3oha9GDJAN"
-    },
-    {
-      "added_at": "2026-01-23 05:00:25",
-      "album": {
-        "name": "If You Know Me / Wild Horses",
-        "url": "https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8"
-      },
-      "artists": [
-        {
-          "name": "Hudson Freeman",
-          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "If You Know Me",
-      "url": "https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL"
     },
     {
       "added_at": "2026-01-23 05:00:25",
@@ -1931,138 +2063,6 @@
       "duration_ms": 229178,
       "name": "Bad For You",
       "url": "https://open.spotify.com/track/1HKIZmwT7wQxXXkW1SfbiJ"
-    },
-    {
-      "added_at": "2026-01-23 05:00:25",
-      "album": {
-        "name": "Collapse",
-        "url": "https://open.spotify.com/album/2jGAYSrPZor7BOYRGciAmd"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 272221,
-      "name": "Collapse",
-      "url": "https://open.spotify.com/track/7DIfpX5Mf10iQmLquDwIUx"
-    },
-    {
-      "added_at": "2026-01-23 05:00:25",
-      "album": {
-        "name": "You In The Sea",
-        "url": "https://open.spotify.com/album/79smqI7DUTVVenASjbVpdz"
-      },
-      "artists": [
-        {
-          "name": "Winnie Raeder",
-          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "You In The Sea",
-      "url": "https://open.spotify.com/track/5LnvAYgZNPsaFG2bt03Z5j"
-    },
-    {
-      "added_at": "2026-01-23 05:00:25",
-      "album": {
-        "name": "Wet Hair",
-        "url": "https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Wet Hair",
-      "url": "https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn"
-    },
-    {
-      "added_at": "2026-01-23 05:00:25",
-      "album": {
-        "name": "You'd Kill Me If You Could",
-        "url": "https://open.spotify.com/album/3qqLEk8Sx4LdMna3fLx3KI"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        },
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "You'd Kill Me If You Could",
-      "url": "https://open.spotify.com/track/4keF2xxnsK3eK3eFYxGp4A"
-    },
-    {
-      "added_at": "2026-01-23 05:00:25",
-      "album": {
-        "name": "Oranges",
-        "url": "https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 172778,
-      "name": "Oranges",
-      "url": "https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ"
-    },
-    {
-      "added_at": "2026-01-23 05:00:25",
-      "album": {
-        "name": "Sky Record",
-        "url": "https://open.spotify.com/album/5eaUIlyGs7Hnnl6xgwyu8Y"
-      },
-      "artists": [
-        {
-          "name": "Dan English",
-          "url": "https://open.spotify.com/artist/055lipaCR86EoOxi2CsSBh"
-        }
-      ],
-      "duration_ms": 213153,
-      "name": "Across My Jaw",
-      "url": "https://open.spotify.com/track/2dYwmQKGTqHEFEafnNwr60"
-    },
-    {
-      "added_at": "2026-01-23 05:00:25",
-      "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF"
-    },
-    {
-      "added_at": "2026-01-23 05:00:25",
-      "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 246761,
-      "name": "Summer Sweat",
-      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
     }
   ],
   "unique_name": "juniper",

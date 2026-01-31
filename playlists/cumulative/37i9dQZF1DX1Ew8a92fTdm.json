@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Baby On The Way",
+        "url": "https://open.spotify.com/album/7exBWestuXplxgZ3nKaeQp"
+      },
+      "artists": [
+        {
+          "name": "Tom Eastman",
+          "url": "https://open.spotify.com/artist/7KBkjudsZi65ojptsNCG13"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107837,
+      "name": "Baby On The Way",
+      "url": "https://open.spotify.com/track/5WJonSQtBUxjbE81vW83WI"
+    },
+    {
+      "album": {
         "name": "Baby Swan Dreams",
         "url": "https://open.spotify.com/album/7E6IbMz51uTaQlnUa59fvc"
       },
@@ -1193,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Building my Dream Home",
+        "url": "https://open.spotify.com/album/3DWb3ycSw6oIDKmkBJtl0N"
+      },
+      "artists": [
+        {
+          "name": "Maja Bjorn",
+          "url": "https://open.spotify.com/artist/0V6p3SK5AzelA8avqjw87q"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147161,
+      "name": "Building my Dream Home",
+      "url": "https://open.spotify.com/track/0PCiR0YcvMatPTynA1Xizt"
+    },
+    {
+      "album": {
         "name": "Bundle Of Joy",
         "url": "https://open.spotify.com/album/15nuJXpYq54wHHVRYqXCpA"
       },
@@ -1384,7 +1420,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 142857,
       "name": "Confetti Rain",
       "url": "https://open.spotify.com/track/6S2cswU04vuN1X7zae7nIM"
@@ -2108,6 +2144,24 @@
       "duration_ms": 73343,
       "name": "Giver of All Dreams",
       "url": "https://open.spotify.com/track/0YMs4x4b2VgKyYVBC1hqy8"
+    },
+    {
+      "album": {
+        "name": "Glimmering Night",
+        "url": "https://open.spotify.com/album/0QRTEBFk9CtzcNvFY9Zccs"
+      },
+      "artists": [
+        {
+          "name": "Helike",
+          "url": "https://open.spotify.com/artist/3EqRbbQlEglmQGw3p815YD"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "Glimmering Night",
+      "url": "https://open.spotify.com/track/4i1UMPjteHPOKcSuNpq8oC"
     },
     {
       "album": {
@@ -5146,7 +5200,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 84879,
       "name": "Sunshine Symphony",
       "url": "https://open.spotify.com/track/1EugQp3Dr9Fl6zuUiHw0v7"
@@ -5182,7 +5236,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 105943,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/2BwNQUTBCxpDlIvM0QazQi"

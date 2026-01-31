@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30nRN1DuqfzOaiAG4taLua.md) - [plain]
 
 > 
 
-[BLK OUT](https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla) - 19 likes - 60 songs - 3 hr 18 min
+[BLK OUT](https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla) - 19 likes - 61 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/30nRN1DuqfzOaiAG4taLua.md) - [plain]
 | 58 | [Wide Open](https://open.spotify.com/track/6a7aKzKRgY54loG7reqXfI) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Wide Open](https://open.spotify.com/album/1jhMDPST130snbmr1Oe0Np) | 3:36 |
 | 59 | [Mind Awake, Body Asleep](https://open.spotify.com/track/1dEtz42oboLOlGHCBrwmA9) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6) | 2:30 |
 | 60 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |
+| 61 | [Light The Fire](https://open.spotify.com/track/56uH091R7C1GoP6XLjF4St) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P), [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv) | [Light The Fire](https://open.spotify.com/album/1Y0EMZfHy9iiUcrVE0Hzfb) | 3:02 |
 
-Snapshot ID: `AAAAYgkXYPLLHMXhgi2jF9Ygihc/ZnB3`
+Snapshot ID: `AAAAYyte7EBVn37VrPumRAxvRxLEvhNs`

@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 109080,
+  "num_followers": 109098,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHGDfmotD036u9BgobeCic+CozYm",
+  "snapshot_id": "AAAAAJyKZB6G/hP8b9MjpZX9779myDWY",
   "tracks": [
     {
       "added_at": "2026-01-21 14:43:12",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
+        "name": "Histoires vraies",
+        "url": "https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp"
+      },
+      "artists": [
+        {
+          "name": "chien noir",
+          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "Histoire vraie",
+      "url": "https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
         "name": "Fredericks, Goldman, Jones : Du New Morning au Z\u00e9nith (Live)",
         "url": "https://open.spotify.com/album/2VXif8oyxvqZ8EMnhBbp2S"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 323093,
       "name": "Pas toi - au New Morning 1994 (concert acoustique)",
       "url": "https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
-        "name": "Histoires vraies",
-        "url": "https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp"
-      },
-      "artists": [
-        {
-          "name": "chien noir",
-          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "Histoire vraie",
-      "url": "https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g"
     },
     {
       "added_at": "2026-01-21 14:43:12",

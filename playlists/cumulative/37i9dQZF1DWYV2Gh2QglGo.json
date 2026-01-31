@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Kalsey Kulyk",
+  "description": "The home of Canadian country music. Cover: Josh Ross",
   "name": "North Country",
   "tracks": [
     {
@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Bar And Back",
+        "url": "https://open.spotify.com/album/4dIRUzzqfwQtjyqCJJoEbN"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194744,
+      "name": "Bar And Back",
+      "url": "https://open.spotify.com/track/3tIpPero4mBna2KK8xndmm"
+    },
+    {
+      "album": {
         "name": "Best Boat",
         "url": "https://open.spotify.com/album/5eKIaUyL7hofvgJ8YdGQd7"
       },
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 177765,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/3F1EEBu0M2ISq8ArfuRV5X"
@@ -2153,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Dublin Blues",
+        "url": "https://open.spotify.com/album/73ggtn0wTj3mKuHF01eNg7"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388107,
+      "name": "Dublin Blues",
+      "url": "https://open.spotify.com/track/3Qg07fYoeYLBEwUOqk7vSR"
+    },
+    {
+      "album": {
         "name": "Easy Man",
         "url": "https://open.spotify.com/album/5CYzJyJn3mc2qyhUdUdK6g"
       },
@@ -2370,7 +2406,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 180763,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/7vI8yJI3tfFe8HDaus3Icl"
@@ -4343,6 +4379,28 @@
     },
     {
       "album": {
+        "name": "L'escale",
+        "url": "https://open.spotify.com/album/4yQOdyl3b2OChjhiTT4RH7"
+      },
+      "artists": [
+        {
+          "name": "Fred Dionne",
+          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138389,
+      "name": "J'pense qu'on est d\u00fb",
+      "url": "https://open.spotify.com/track/634Cq5adWVq0fLbyurn4E4"
+    },
+    {
+      "album": {
         "name": "Jealous Of Jesus",
         "url": "https://open.spotify.com/album/3Xd8cwHVkyng3TW5XcsQdj"
       },
@@ -4968,7 +5026,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 165681,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/2RWMwlqu6w92RmUVON25EZ"
@@ -7981,6 +8039,24 @@
     },
     {
       "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/28hp5P612w60qm0xso66nO"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180352,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/4Q2qcWDlvVnnxkGevD7n2H"
+    },
+    {
+      "album": {
         "name": "Tequila Gold",
         "url": "https://open.spotify.com/album/0sL5GkqnABYOrb2mUUQlH5"
       },
@@ -8938,7 +9014,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 225167,
       "name": "West End Queen (Abattoir)",
       "url": "https://open.spotify.com/track/43qaKoJUlS5six29E1Rh0w"

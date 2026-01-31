@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Break them in, wear them out. Cover: Max McNown",
+  "description": "Break them in, wear them out. Cover: Tyler Braden",
   "name": "New Boots",
   "tracks": [
     {
@@ -3423,6 +3423,24 @@
     },
     {
       "album": {
+        "name": "Bar And Back",
+        "url": "https://open.spotify.com/album/4dIRUzzqfwQtjyqCJJoEbN"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194744,
+      "name": "Bar And Back",
+      "url": "https://open.spotify.com/track/3tIpPero4mBna2KK8xndmm"
+    },
+    {
+      "album": {
         "name": "Heartache Medication (Deluxe Version)",
         "url": "https://open.spotify.com/album/79374TlgGM42y0R0z5LDxv"
       },
@@ -4824,7 +4842,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 221066,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/5fcwJp3a6rbrPcfmz8gbaJ"
@@ -6936,7 +6954,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 152626,
       "name": "Can't Take It With You",
       "url": "https://open.spotify.com/track/2OOGGUj3WLCzwH3VLDcrF8"
@@ -11993,6 +12011,24 @@
     },
     {
       "album": {
+        "name": "Dry County",
+        "url": "https://open.spotify.com/album/1HotVvOYd7fj7EuCtcMJG3"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205723,
+      "name": "Dry County",
+      "url": "https://open.spotify.com/track/5qUybX88YaxhC3e8zD4BBn"
+    },
+    {
+      "album": {
         "name": "Dumb (Good Ol' Time)",
         "url": "https://open.spotify.com/album/4HP3WVJsQNAHDtZEOPzWBW"
       },
@@ -12224,6 +12260,24 @@
       "duration_ms": 164026,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/3yG18Ue8wjrlcHfCiKYgjs"
+    },
+    {
+      "album": {
+        "name": "Easy To Love, Harder To Hold",
+        "url": "https://open.spotify.com/album/3oGF0auQqoBDvBtKcLDROq"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191573,
+      "name": "Easy To Love, Harder To Hold",
+      "url": "https://open.spotify.com/track/6rEj5jq6o7wO7Ol4AKCwMd"
     },
     {
       "album": {
@@ -14790,6 +14844,24 @@
       "duration_ms": 223381,
       "name": "Georgia Power",
       "url": "https://open.spotify.com/track/5v4hBZzWNBLqjNWasv2Lln"
+    },
+    {
+      "album": {
+        "name": "Geronimo",
+        "url": "https://open.spotify.com/album/47WJ6wNhgRTOizyHz9Xprp"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202043,
+      "name": "Geronimo",
+      "url": "https://open.spotify.com/track/0e38yA1JNRVPHHikE2Kq6y"
     },
     {
       "album": {
@@ -21288,7 +21360,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 274576,
       "name": "How Much Beer",
       "url": "https://open.spotify.com/track/4lCfLElvRrGN4HVGg2oH5E"
@@ -27389,6 +27461,24 @@
     },
     {
       "album": {
+        "name": "Lorelei",
+        "url": "https://open.spotify.com/album/2Gil8XJgdgPnjBth5miQ0C"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155160,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/4OqCBYBpBHkndBO2EeCvOb"
+    },
+    {
+      "album": {
         "name": "Old No. 7",
         "url": "https://open.spotify.com/album/6xbAU0Dd22IURpRcpHy0lj"
       },
@@ -29526,7 +29616,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 217422,
       "name": "Message to You",
       "url": "https://open.spotify.com/track/00asEdGggYrPYfLbDRI6HE"
@@ -37936,7 +38026,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 210184,
       "name": "Scared Of Getting Sober",
       "url": "https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI"
@@ -39233,6 +39323,24 @@
     },
     {
       "album": {
+        "name": "Slow Dancin'",
+        "url": "https://open.spotify.com/album/53sKCJTcX1AnTBqU9XUCD8"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124001,
+      "name": "Slow Dancin'",
+      "url": "https://open.spotify.com/track/647YdG7a4EkucGiyDkfBRY"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/48PlqAfiBWvuxonsv8D8iE"
       },
@@ -40220,7 +40328,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 202187,
       "name": "Someone Else & Jesus (feat. Dasha)",
       "url": "https://open.spotify.com/track/1EYGpqC0yS92tVRPnPIu3F"

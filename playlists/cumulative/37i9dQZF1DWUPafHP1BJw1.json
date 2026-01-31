@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "360 (Arr. String Quartet) [Inspired by Bridgerton]",
+        "url": "https://open.spotify.com/album/13WeT5zGOp1qny5bnOuk8A"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125358,
+      "name": "360 (Arr. String Quartet) - Inspired by Bridgerton",
+      "url": "https://open.spotify.com/track/6htpdvT6PTQr1VPeOqkOsU"
+    },
+    {
+      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/2ybMUQuyia7YtgEjyFHIxi"
       },
@@ -754,10 +772,28 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 193391,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6CbPH6tsuAisPptSsC7GeK"
+    },
+    {
+      "album": {
+        "name": "Portraits (Popular Songs for Cello)",
+        "url": "https://open.spotify.com/album/5bOwnUAh0rvfcsgCeEYsmw"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269616,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/19PMNa4BwoSyZu8EUvxafW"
     },
     {
       "album": {
@@ -772,7 +808,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 196687,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/3suLgqVTFAMGBMxMNvqCIT"
@@ -790,7 +826,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 213815,
       "name": "BIRDS OF A FEATHER - Piano Version",
       "url": "https://open.spotify.com/track/5b8kQmztqqBh5IB0nSvU9M"
@@ -1664,6 +1700,32 @@
       "duration_ms": 243304,
       "name": "Eleanor Rigby - Live",
       "url": "https://open.spotify.com/track/0khHkwiDvthnAUoos65sT5"
+    },
+    {
+      "album": {
+        "name": "End of Beginning (Arr. For String Quartet by Maya Magub)",
+        "url": "https://open.spotify.com/album/1f7MYnp0QgEFGKKn5Hpbvd"
+      },
+      "artists": [
+        {
+          "name": "Joe Keery",
+          "url": "https://open.spotify.com/artist/3dEydEkjc6jpEA1jz0jrP7"
+        },
+        {
+          "name": "RmX Quartet",
+          "url": "https://open.spotify.com/artist/1BmTCGXIPn3IYeqNy1ZbiI"
+        },
+        {
+          "name": "Maya Magub",
+          "url": "https://open.spotify.com/artist/1oGX73DWQVzJ5BcNDd9hG2"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163085,
+      "name": "End of Beginning (Arr. For String Quartet by Maya Magub)",
+      "url": "https://open.spotify.com/track/6dEjFOK0FQzoZoCCXDhSaT"
     },
     {
       "album": {
@@ -3460,6 +3522,28 @@
       "duration_ms": 285533,
       "name": "Nothing Else Matters - Instrumental Version",
       "url": "https://open.spotify.com/track/3RxE3PASwabEJSolUs1hh0"
+    },
+    {
+      "album": {
+        "name": "November Rain",
+        "url": "https://open.spotify.com/album/2UiAxl0Q89HQVcnXgOXyM6"
+      },
+      "artists": [
+        {
+          "name": "Rock Me Classical",
+          "url": "https://open.spotify.com/artist/08tuXNeG1BJ8mn3jixU8Rj"
+        },
+        {
+          "name": "David Davidson",
+          "url": "https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210745,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/4SQdehvKbO37u0Cw6ALEOt"
     },
     {
       "album": {

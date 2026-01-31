@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > All energy\. Cover: Noah Baine
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,084 likes - 90 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,093 likes - 90 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Plush](https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Plush](https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE) | 3:59 |
-| 2 | [Emerald Hill](https://open.spotify.com/track/2WGGuwdoTGIBmUhRtQweCk) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [](https://open.spotify.com/album/null) | 6:27 |
+| 2 | [Emerald Hill](https://open.spotify.com/track/2WGGuwdoTGIBmUhRtQweCk) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Anchor Songs](https://open.spotify.com/album/25V9EwThcJmExQHojvnxvI) | 6:27 |
 | 3 | [Contact](https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Contact](https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS) | 3:07 |
 | 4 | [Fallin'](https://open.spotify.com/track/4RWk0U7Fk6Y6TCLk0THcfN) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Balance](https://open.spotify.com/album/19z1oEwjBsQb9DSCqGRaq5) | 2:52 |
 | 5 | [Coming On Strong](https://open.spotify.com/track/2PRMjvFJmmgMW1yGi3lnaD) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Signum](https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ), [Scott Mac](https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw) | [Coming On Strong](https://open.spotify.com/album/7w2HQUfpvk0yzGkelPCfRc) | 3:33 |

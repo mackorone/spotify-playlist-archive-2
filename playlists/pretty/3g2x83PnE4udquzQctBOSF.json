@@ -1,13 +1,45 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2673,
+  "num_followers": 2675,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARU9PyBgyiS3DKeYtfgCTraMRWLyih",
+  "snapshot_id": "AAARVZVXiianolJOYXGAykDQjPPU0vUa",
   "tracks": [
+    {
+      "added_at": "2026-01-30 20:11:05",
+      "album": {
+        "name": "The Vinci Effect",
+        "url": "https://open.spotify.com/album/5g6Dr3gvIgT1bjzjjLaR6Z"
+      },
+      "artists": [
+        {
+          "name": "LUX VINCI",
+          "url": "https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt"
+        }
+      ],
+      "duration_ms": 91874,
+      "name": "Victory in Slow Motion",
+      "url": "https://open.spotify.com/track/6ybYUXW0U1wi1JWadeEY7y"
+    },
+    {
+      "added_at": "2026-01-30 18:29:16",
+      "album": {
+        "name": "The Vinci Effect",
+        "url": "https://open.spotify.com/album/5g6Dr3gvIgT1bjzjjLaR6Z"
+      },
+      "artists": [
+        {
+          "name": "LUX VINCI",
+          "url": "https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt"
+        }
+      ],
+      "duration_ms": 135937,
+      "name": "Static Soul",
+      "url": "https://open.spotify.com/track/0aiUkj8hqVWsU8CV5uqwMA"
+    },
     {
       "added_at": "2026-01-28 11:39:39",
       "album": {

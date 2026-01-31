@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 59251,
+  "num_followers": 59264,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "4Respect 4Freedom 4Loyalty 4WhatImportant",
-        "url": "https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO"
+        "name": "AI YoungBoy",
+        "url": "https://open.spotify.com/album/278c24ae4JsSRpOEzlaghQ"
       },
       "artists": [
         {
           "name": "YoungBoy Never Broke Again",
           "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
         }
       ],
-      "duration_ms": 172138,
-      "name": "TTG (feat. Kevin Gates)",
-      "url": "https://open.spotify.com/track/28u9JaFwO7GX2YNARkq37P"
+      "duration_ms": 160000,
+      "name": "No Smoke",
+      "url": "https://open.spotify.com/track/57IRaiAB4hBZu3gnNVZC0v"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -799,18 +795,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "AI YoungBoy",
-        "url": "https://open.spotify.com/album/278c24ae4JsSRpOEzlaghQ"
+        "name": "4Respect 4Freedom 4Loyalty 4WhatImportant",
+        "url": "https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO"
       },
       "artists": [
         {
           "name": "YoungBoy Never Broke Again",
           "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
         }
       ],
-      "duration_ms": 160000,
-      "name": "No Smoke",
-      "url": "https://open.spotify.com/track/57IRaiAB4hBZu3gnNVZC0v"
+      "duration_ms": 172138,
+      "name": "TTG (feat. Kevin Gates)",
+      "url": "https://open.spotify.com/track/28u9JaFwO7GX2YNARkq37P"
     },
     {
       "added_at": "2022-10-01 16:00:00",

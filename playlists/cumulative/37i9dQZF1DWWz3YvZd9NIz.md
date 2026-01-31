@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-257 songs - 12 hr 39 min
+258 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Dark Horse \(Hardstyle\)](https://open.spotify.com/track/5aJT7dU40Ry4zz1zI34845) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Dark Horse \(Hardstyle\)](https://open.spotify.com/album/26AwKORtQduylqg17xd0MH) | 1:48 | 2023-05-18 | 2024-04-19 |
 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 | 2023-04-27 | 2023-09-08 |
 | [Destination Calabria](https://open.spotify.com/track/4cLprMptXuUk5zhvFFKIU3) | [Broken Element](https://open.spotify.com/artist/6WMONlXvkrTWxC4TcI8qcD) | [Destination Calabria](https://open.spotify.com/album/4NVPlaZezWbJMlxDgINx71) | 2:02 | 2025-05-06 | 2025-08-29 |
-| [Die Young](https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Die Young](https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy) | 2:30 | 2023-02-09 |  |
+| [Die Young](https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Die Young](https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy) | 2:30 | 2023-02-09 | 2026-01-31 |
 | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko) | 3:58 | 2022-12-05 | 2025-11-15 |
 | [Do Whatcha Say](https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR) | [Mark With a K](https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ) | [Do Whatcha Say](https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq) | 2:44 | 2024-01-18 | 2025-02-18 |
 | [Don't Let Me Down \- Hardwell & Sephyx Remix](https://open.spotify.com/track/1JI70l1lE5IF2tgJm5TnMD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Don't Let Me Down \(Hardwell & Sephyx Remix\)](https://open.spotify.com/album/3oS6pMqcIiHaq3B47mDop5) | 2:42 | 2022-12-05 |  |
@@ -240,6 +240,7 @@
 | [The Scientist](https://open.spotify.com/track/3wxbMFOaduop2XFO9gKihO) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [The Scientist](https://open.spotify.com/album/37wPy2LW3iLCALxjZFIdDb) | 3:27 | 2024-03-28 |  |
 | [The Sinner](https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Raakmo](https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG) | [The Sinner](https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH) | 3:29 | 2023-03-16 |  |
 | [The Wellerman \(Sea Shanty\)](https://open.spotify.com/track/2TS8X1CY0G0sThZ80PupZ5) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Wellerman \(Sea Shanty\)](https://open.spotify.com/album/1c5f9Qa41aKzuko7bNsxJW) | 3:36 | 2022-12-05 | 2023-04-23 |
+| [Thunder](https://open.spotify.com/track/61FDBTmciFHAX2N7qkezim) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Thunder](https://open.spotify.com/album/2tcKKWhpEpA5v6R4toUIB1) | 3:00 | 2026-01-30 |  |
 | [Truly Madly Deeply](https://open.spotify.com/track/61yudMS42OFC6KWgmbqwQ7) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Kelly Matejcic](https://open.spotify.com/artist/0CTUM73g5EM0oTdkW35GLM) | [Truly Madly Deeply](https://open.spotify.com/album/2bhTRpPgIEee2mk1xLDTAX) | 3:28 | 2023-01-19 | 2023-02-25 |
 | [Turn The Tide](https://open.spotify.com/track/13eAJfjMoCMJmwzJPLBy6a) | [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV) | [Turn The Tide](https://open.spotify.com/album/3cPoYx8ChLEYFm59U6XlM2) | 2:59 | 2024-06-04 |  |
 | [Turn The Tide \- Unlocked Remix](https://open.spotify.com/track/09XY1zEvgHE2kKHIliFGLP) | [Dutch Movement](https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO), [FeestDJRuud](https://open.spotify.com/artist/0IId5Ktyl22C7W9PtisEXD), [Unlocked](https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj) | [Turn The Tide \(Unlocked Remix\)](https://open.spotify.com/album/7DyLi6W3MnFprk8nonhBU0) | 2:51 | 2023-09-14 | 2023-09-29 |

@@ -1,6 +1,6 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 30058,
+  "num_followers": 30066,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry - The 3rd Album",
-        "url": "https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
-      "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Trouble Maker",
         "url": "https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 219637,
       "name": "Trouble Maker",
       "url": "https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry - The 3rd Album",
+        "url": "https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
+      "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Lupin",
-        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Lupin",
-      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Nitpicking",
         "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 213577,
       "name": "Nitpicking",
       "url": "https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Lupin",
+        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Lupin",
+      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Time And Fallen Leaves",
-        "url": "https://open.spotify.com/album/3rF55htTUDmzgxJ5CT3XQC"
+        "name": "A (Digital Single)",
+        "url": "https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B"
       },
       "artists": [
         {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          "name": "RAINBOW",
+          "url": "https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y"
         }
       ],
-      "duration_ms": 247435,
-      "name": "Time And Fallen Leaves",
-      "url": "https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu"
+      "duration_ms": 201737,
+      "name": "A",
+      "url": "https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "A (Digital Single)",
-        "url": "https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B"
+        "name": "Time And Fallen Leaves",
+        "url": "https://open.spotify.com/album/3rF55htTUDmzgxJ5CT3XQC"
       },
       "artists": [
         {
-          "name": "RAINBOW",
-          "url": "https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y"
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
         }
       ],
-      "duration_ms": 201737,
-      "name": "A",
-      "url": "https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo"
+      "duration_ms": 247435,
+      "name": "Time And Fallen Leaves",
+      "url": "https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu"
     },
     {
       "added_at": "2024-08-05 16:58:20",

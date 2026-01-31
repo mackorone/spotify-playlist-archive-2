@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: bbno$",
-  "num_followers": 223625,
+  "num_followers": 223636,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJSpwVLdBtxNo+0XS+EO9at3wVns",
+  "snapshot_id": "AAAAAGF3UmQVBQVcvXoxmM5VRcpL3Ifz",
   "tracks": [
     {
       "added_at": "2026-01-05 22:03:13",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
+      "added_at": "2026-01-30 05:00:35",
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/1xIyhRzwVThyuJlIbdQWWH"
+      },
+      "artists": [
+        {
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
+        }
+      ],
+      "duration_ms": 157058,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4RhxOqE2gHSQY6GVeymv9N"
+    },
+    {
       "added_at": "2026-01-05 22:03:13",
       "album": {
         "name": "PUNK ROCKY",
@@ -107,6 +123,22 @@
       "duration_ms": 154105,
       "name": "someone new",
       "url": "https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS"
+    },
+    {
+      "added_at": "2026-01-30 05:00:35",
+      "album": {
+        "name": "Still Got Love 4 U",
+        "url": "https://open.spotify.com/album/5c2OERs7PuV8xCwBs82MTZ"
+      },
+      "artists": [
+        {
+          "name": "Anella",
+          "url": "https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN"
+        }
+      ],
+      "duration_ms": 176236,
+      "name": "Still Got Love 4 U",
+      "url": "https://open.spotify.com/track/1Ujhcw9pgAXenzex9P84n2"
     },
     {
       "added_at": "2026-01-05 22:03:13",
@@ -1167,22 +1199,6 @@
       "duration_ms": 124790,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/1j63nUGlWYJ3AgqmMxV6We"
-    },
-    {
-      "added_at": "2026-01-05 22:03:13",
-      "album": {
-        "name": "Keeps Me Sane",
-        "url": "https://open.spotify.com/album/2uXjcnHz8XQWs8IHPiPTbA"
-      },
-      "artists": [
-        {
-          "name": "Tyler Nance",
-          "url": "https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Keeps Me Sane",
-      "url": "https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew"
     },
     {
       "added_at": "2026-01-05 22:03:13",

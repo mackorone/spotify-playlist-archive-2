@@ -6,7 +6,7 @@
     "name": "Starkoft",
     "url": "https://open.spotify.com/user/xnh6geml57106421pi4l32t6v"
   },
-  "snapshot_id": "AAAGgBo3J7IwaQs1HukbRN3SQN4/xf0d",
+  "snapshot_id": "AAAGiWLmcVklZh47SZyZSFPoI2azftsy",
   "tracks": [
     {
       "added_at": "2025-03-13 12:48:31",
@@ -807,6 +807,38 @@
       "duration_ms": 181558,
       "name": "world's end",
       "url": "https://open.spotify.com/track/5HG3zz4uGne9f9mBaxb39x"
+    },
+    {
+      "added_at": "2026-01-30 05:15:29",
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Cephas-Jones",
+          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Sydney James Harcourt",
+          "url": "https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "duration_ms": 242017,
+      "name": "Say No to This",
+      "url": "https://open.spotify.com/track/3s9itRgJYcKhem01P17865"
     }
   ],
   "unique_name": "idek man",

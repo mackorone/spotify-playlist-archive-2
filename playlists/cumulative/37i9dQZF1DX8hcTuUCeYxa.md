@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Mary Middlefield
 
-2,416 songs - 5 day 18 hr 43 min
+2,416 songs - 5 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,7 +460,7 @@
 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 | 2025-10-16 | 2025-11-07 |
 | [Counting Candles](https://open.spotify.com/track/7otmtaq5GIEvaMUxDIwR9K) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Counting Candles](https://open.spotify.com/album/66S6SJA4svHbAALcaayedK) | 3:22 | 2025-07-11 | 2025-07-25 |
 | [Cowbella](https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Cowbella](https://open.spotify.com/album/34RBWMX9yxMRJ95r1mSEdH) | 4:23 | 2025-06-19 | 2025-07-04 |
-| [Cowboy Without a Clue](https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [](https://open.spotify.com/album/null) | 3:57 | 2026-01-29 |  |
+| [Cowboy Without a Clue](https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [No Love Lost to Kindness](https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6) | 3:57 | 2026-01-29 |  |
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-29 | 2025-06-27 |
 | [Crack My Mind](https://open.spotify.com/track/5a96ur60EMxFODZSqzfs6j) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Crack My Mind](https://open.spotify.com/album/4rIfEkwxvFQKJyWOQtgIW9) | 3:59 | 2025-08-28 | 2025-09-19 |
 | [crash](https://open.spotify.com/track/1jC7XWlgaEOOI0VIi9ap3p) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [crash](https://open.spotify.com/album/2ponzpgZAYw2sIWRT8mOeA) | 2:53 | 2025-08-21 | 2025-09-12 |
@@ -1117,7 +1117,7 @@
 | [It’s Me](https://open.spotify.com/track/2Wtaq7FBLoM46t6U1mOfOS) | [iuri](https://open.spotify.com/artist/4mAXpEaDJld91XD1gfJFLm) | [Soon](https://open.spotify.com/album/37N1sWRqV2cHq4ulGRzJpX) | 3:07 | 2025-05-15 | 2025-05-30 |
 | [I’ve Got A Feeling \(Stay Lucky\)](https://open.spotify.com/track/776iJudZLw4s2F0P7hARgm) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [The Machine Starts To Sing](https://open.spotify.com/album/4bkObIgJvZmP7XwsdMEYy6) | 3:22 | 2025-02-20 | 2025-03-07 |
 | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 | 2025-04-03 | 2025-04-11 |
-| [JA](https://open.spotify.com/track/0PHH9inNCprQ2ygKHHYVrc) | [Panda Lux](https://open.spotify.com/artist/6FMNWd8DNAxWETX8yxKQqu) | [](https://open.spotify.com/album/null) | 2:37 | 2026-01-29 |  |
+| [JA](https://open.spotify.com/track/0PHH9inNCprQ2ygKHHYVrc) | [Panda Lux](https://open.spotify.com/artist/6FMNWd8DNAxWETX8yxKQqu) | [Herz](https://open.spotify.com/album/2KMyicFhtkzRcEA0nocYaY) | 2:37 | 2026-01-29 |  |
 | [January](https://open.spotify.com/track/1q8EiwLjJaMItQqMBjf3Tl) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [January](https://open.spotify.com/album/6T5T4i3QJ3obyHDddhjM3I) | 4:13 | 2024-08-01 | 2024-08-30 |
 | [JAZZ FLUTE](https://open.spotify.com/track/0DXNMyPVEUylRYrFJhSfEE) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [JAZZ FLUTE](https://open.spotify.com/album/3OqpNAnsSVuGyISQZoimtQ) | 2:27 | 2025-05-22 | 2025-06-20 |
 | [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 | 2024-10-24 | 2024-11-08 |
@@ -1833,6 +1833,7 @@
 | [Skeletons Coupling](https://open.spotify.com/track/3AjfZFzMkI6jr4r1JKAOd0) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Skeletons Coupling](https://open.spotify.com/album/5cPMW5JjKembPp2CJBKPHu) | 3:27 | 2025-08-21 | 2025-08-29 |
 | [Skin](https://open.spotify.com/track/6HneEBF85J4Vgi56eIXPNo) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Skin](https://open.spotify.com/album/1ztX1XvW9xPDdgJKObXKRG) | 3:33 | 2025-03-20 | 2025-04-18 |
 | [Skin On My Bones](https://open.spotify.com/track/6NKHuKfUS4tU3kmULrg0mP) | [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG) | [Skin On My Bones](https://open.spotify.com/album/5Ql4WTPbI7Ro80N0sKcnCv) | 2:51 | 2025-09-25 | 2025-10-24 |
+| [Skip the Stones](https://open.spotify.com/track/6xLK6NAd7yCR4Dup5PTc3q) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Amber Skies](https://open.spotify.com/album/0NsOjvWtMD3hnWrhj32bR8) | 3:40 | 2026-01-29 |  |
 | [skittles](https://open.spotify.com/track/3JZMGkOGJZMGkvVl6cDPy4) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [In Order](https://open.spotify.com/album/6OyqqxLZGbqJUOkMvHtEbB) | 3:12 | 2025-11-27 | 2026-01-16 |
 | [Slaughterhouse](https://open.spotify.com/track/5ZTRqD25RsTcKrfX82FSZD) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Devour](https://open.spotify.com/album/0ZnuaHRAI6C7fGxg1VuoXO) | 3:32 | 2025-10-30 | 2025-11-28 |
 | [Sleep well\_for Bonnie](https://open.spotify.com/track/4n45XGeWQ0rAFYdO709fGT) | [Anna Hauss](https://open.spotify.com/artist/3NGUdKdCdLI65sivxlSmOv) | [Sleep well\_for Bonnie](https://open.spotify.com/album/5FZlM9MptPZdlxj5BeXoY0) | 4:35 | 2024-12-05 | 2025-01-17 |
@@ -2182,7 +2183,6 @@
 | [Tough Love Paradigm](https://open.spotify.com/track/2QIt3LukTeJR4DomwpcKVN) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/6ueN0TyrrYaYLqDY7XXH5L) | 2:57 | 2025-02-20 | 2025-03-21 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
-| [Track 2](https://open.spotify.com/track/6xLK6NAd7yCR4Dup5PTc3q) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-29 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-04-25 |
 | [Trampelpfad](https://open.spotify.com/track/7swleFJ2EV0jcaz8Y77ohC) | [ClickClickDecker](https://open.spotify.com/artist/5wNvenQ2uTeqJAxNahM2nX) | [Wir waren schon immer da](https://open.spotify.com/album/6NwYOyxPHNFtBZonR3UK6O) | 4:04 | 2025-09-25 | 2025-10-10 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-06-06 |
@@ -2258,7 +2258,7 @@
 | [Waiting for Sleep \- Single Version](https://open.spotify.com/track/1Ipqo3oi3ZfycIfsh5cQsQ) | [Jungstötter](https://open.spotify.com/artist/5SZDvUjUgJk2EFEPxaL3oP), [Isabelle Pabst](https://open.spotify.com/artist/3TPgGQjlA63oZBMEUdof28) | [Waiting for Sleep \(Single Version\)](https://open.spotify.com/album/2AWKr2jqFJMPeZEgggKoKf) | 4:04 | 2025-02-27 | 2025-03-07 |
 | [Waiting In Vain](https://open.spotify.com/track/1SgIL19lKf3Uq3DDPhmNpC) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary's Covers](https://open.spotify.com/album/6hEY575mKMkPOyxyCqSWiS) | 4:19 | 2024-12-19 | 2025-01-24 |
 | [Wake The Neighbors](https://open.spotify.com/track/6ZhDt4yNjJdcDY8tcuZ4RD) | [Oskar Haag](https://open.spotify.com/artist/49vARgKsuzb4s19CB3hpOj) | [Wake The Neighbors](https://open.spotify.com/album/1hb4kGNJZ5YQ03CKv9RtXf) | 4:13 | 2024-06-28 | 2024-07-12 |
-| [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [](https://open.spotify.com/album/null) | 2:28 | 2026-01-29 |  |
+| [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Wake up!](https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4) | 2:28 | 2026-01-29 |  |
 | [Waldo](https://open.spotify.com/track/4pQJn4wjbmZJkV1kOirSQt) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Waldo](https://open.spotify.com/album/7bZVLwO7D3pBTgRXkhtjtH) | 2:54 | 2025-07-31 | 2025-08-09 |
 | [Walk on Walls](https://open.spotify.com/track/1UXYnWHvmZAjfv9GGahsTx) | [Hundreds](https://open.spotify.com/artist/7mTyxMGqsoIl6ofVdtjfux) | [Walk on Walls](https://open.spotify.com/album/7owAt3Yh8fft9dFK4eaYCZ) | 4:02 | 2025-11-20 | 2026-01-15 |
 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 | 2025-10-02 | 2025-10-31 |
@@ -2319,7 +2319,7 @@
 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 | 2025-03-20 | 2025-04-04 |
 | [Whatever](https://open.spotify.com/track/0LJtogguqMPVg0nkW9PFk9) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Whatever](https://open.spotify.com/album/4mwRHYpnfvMG67A3YT1HUE) | 2:46 | 2025-01-23 | 2025-02-21 |
 | [Whateverrrr](https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 2:58 | 2025-05-08 | 2025-06-06 |
-| [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [](https://open.spotify.com/album/null) | 2:48 | 2026-01-29 |  |
+| [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Everything’s Built To Last](https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk) | 2:48 | 2026-01-29 |  |
 | [What’s This About \(La La La La\)](https://open.spotify.com/track/5JHKt7k6aKdfRs2flAT4je) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [What’s This About \(La La La La\)](https://open.spotify.com/album/6HBrgJUaDMbHlDtCjK7K5d) | 2:10 | 2024-08-01 | 2024-08-16 |
 | [When Disco Died](https://open.spotify.com/track/18sRR0V18W0ksA97hdrRDc) | [Laddermen](https://open.spotify.com/artist/5QDHKEjQcF3vDeUsuMtbM9) | [When Disco Died](https://open.spotify.com/album/5xCAGWu0nR64V0AjetGBG8) | 3:40 | 2024-08-22 | 2024-09-06 |
 | [When england comes](https://open.spotify.com/track/2TcUaZUxjRv2Iwo0BVhKSF) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [When england comes](https://open.spotify.com/album/5GHoySgrasrewtuUWFlDAX) | 2:52 | 2026-01-22 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 153288,
+  "num_followers": 153324,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Ya Casi (EP)",
-        "url": "https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb"
-      },
-      "artists": [
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        },
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Perfecto Amor",
-      "url": "https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/6kErvhmAdGhtkoDJAQzZsA"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 157685,
       "name": "Eco",
       "url": "https://open.spotify.com/track/2BkFIWHhqzl2zA3ImMvJtO"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Ya Casi (EP)",
+        "url": "https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Perfecto Amor",
+      "url": "https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -903,6 +903,38 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/0xugX9c8krsVGemwo5fZCl"
+      },
+      "artists": [
+        {
+          "name": "Eiem",
+          "url": "https://open.spotify.com/artist/3skX5VEODnCsS8rlpSHS5i"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/1su2EllVrJhZ9jOM3r2eHP"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Un Gran Dia",
+        "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
+      },
+      "artists": [
+        {
+          "name": "Dani Senay",
+          "url": "https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "Un Gran Dia",
+      "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Cubana",
         "url": "https://open.spotify.com/album/5605UFRgEq28zlWSa5Q0K5"
       },
@@ -919,22 +951,6 @@
       "duration_ms": 186750,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/0xugX9c8krsVGemwo5fZCl"
-      },
-      "artists": [
-        {
-          "name": "Eiem",
-          "url": "https://open.spotify.com/artist/3skX5VEODnCsS8rlpSHS5i"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/1su2EllVrJhZ9jOM3r2eHP"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -959,22 +975,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Un Gran Dia",
-        "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
-      },
-      "artists": [
-        {
-          "name": "Dani Senay",
-          "url": "https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Un Gran Dia",
-      "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/1adMCOb4aseM7hhxcVC1wQ"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 206959,
       "name": "Locura",
       "url": "https://open.spotify.com/track/5hHDsJhk22leT1ve97m70j"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "No se Compara",
-        "url": "https://open.spotify.com/album/5MioxF7HO3pKJhbdHfu5y4"
-      },
-      "artists": [
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        }
-      ],
-      "duration_ms": 162751,
-      "name": "No se Compara",
-      "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1047,6 +1031,22 @@
       "duration_ms": 223125,
       "name": "De Fiesta Con Jes\u00fas",
       "url": "https://open.spotify.com/track/6eZVEUDPHxb4pEgpmpzt4J"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "No se Compara",
+        "url": "https://open.spotify.com/album/5MioxF7HO3pKJhbdHfu5y4"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "duration_ms": 162751,
+      "name": "No se Compara",
+      "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
-      },
-      "artists": [
-        {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Pasa La Pagina",
-      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Bueno",
         "url": "https://open.spotify.com/album/7mX06PtvfDeBhuORXU96z3"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
+      },
+      "artists": [
+        {
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Pasa La Pagina",
+      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 147672,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Llegaron Los Cristianos",
-        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        }
-      ],
-      "duration_ms": 160169,
-      "name": "Cristo Cambia",
-      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1275,22 +1259,18 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Yeshua Hamashiaj - MelGod (Remix)",
-        "url": "https://open.spotify.com/album/2XTIYiYuAmD7oIQBlp6Eeg"
+        "name": "Llegaron Los Cristianos",
+        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
       },
       "artists": [
         {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        },
-        {
-          "name": "MelGod",
-          "url": "https://open.spotify.com/artist/6WOIGIpz0WT33xUMVvEA7n"
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Yeshua Hamashiaj - MelGod - Remix",
-      "url": "https://open.spotify.com/track/3nqBd4EKWTW822kwFikdVB"
+      "duration_ms": 160169,
+      "name": "Cristo Cambia",
+      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1315,6 +1295,26 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Yeshua Hamashiaj - MelGod (Remix)",
+        "url": "https://open.spotify.com/album/2XTIYiYuAmD7oIQBlp6Eeg"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        },
+        {
+          "name": "MelGod",
+          "url": "https://open.spotify.com/artist/6WOIGIpz0WT33xUMVvEA7n"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Yeshua Hamashiaj - MelGod - Remix",
+      "url": "https://open.spotify.com/track/3nqBd4EKWTW822kwFikdVB"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Momentos felices",
         "url": "https://open.spotify.com/album/06ZU19SJRWpFPv3PBJW4Dc"
       },
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Lo Mejor De La Vida (Cumbia Remix)",
-        "url": "https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Lo Mejor De La Vida - Cumbia Remix",
-      "url": "https://open.spotify.com/track/0CjGHa8FenJHKslMThGEyf"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Mi Mirada",
         "url": "https://open.spotify.com/album/41nYMA0ykfkD7j3khXmZLd"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 156923,
       "name": "Mi Mirada",
       "url": "https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Lo Mejor De La Vida (Cumbia Remix)",
+        "url": "https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Lo Mejor De La Vida - Cumbia Remix",
+      "url": "https://open.spotify.com/track/0CjGHa8FenJHKslMThGEyf"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Celebra",
+        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Celebra",
+      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Pero Tengo a Cristo (Remix)",
         "url": "https://open.spotify.com/album/2KueafqItELNjYDLcojc9I"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 221350,
       "name": "Pero Tengo a Cristo - Remix",
       "url": "https://open.spotify.com/track/5nGxRkdnZIUmXg5Dkvv39C"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Celebra",
-        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Celebra",
-      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "closefriend",
-        "url": "https://open.spotify.com/album/2EBh6PRsSVmVxRmlRCdpDa"
-      },
-      "artists": [
-        {
-          "name": "Calejandro",
-          "url": "https://open.spotify.com/artist/59qZZ7RuILeDLzHNcBt0Ye"
-        }
-      ],
-      "duration_ms": 188108,
-      "name": "closefriend",
-      "url": "https://open.spotify.com/track/26e0AKJGdXBGlznLTYW1SA"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Jesucristo Me Toco (En Vivo)",
         "url": "https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX"
       },
@@ -1683,18 +1667,18 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
+        "name": "closefriend",
+        "url": "https://open.spotify.com/album/2EBh6PRsSVmVxRmlRCdpDa"
       },
       "artists": [
         {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+          "name": "Calejandro",
+          "url": "https://open.spotify.com/artist/59qZZ7RuILeDLzHNcBt0Ye"
         }
       ],
-      "duration_ms": 169146,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
+      "duration_ms": 188108,
+      "name": "closefriend",
+      "url": "https://open.spotify.com/track/26e0AKJGdXBGlznLTYW1SA"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1715,6 +1699,22 @@
       "duration_ms": 163839,
       "name": "Todito",
       "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
+      },
+      "artists": [
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Todo Te Lo Debo a T\u00ed",
+        "url": "https://open.spotify.com/album/7EDpwwypsWlh2bxP64SOq6"
+      },
+      "artists": [
+        {
+          "name": "Benji Rosales",
+          "url": "https://open.spotify.com/artist/7lPKCFrwz7pGGHFturn8b7"
+        }
+      ],
+      "duration_ms": 169624,
+      "name": "Todo Te Lo Debo a T\u00ed",
+      "url": "https://open.spotify.com/track/3efRYKgebXZjbuVGJHuiAa"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Estar\u00e9",
         "url": "https://open.spotify.com/album/0kiw6GLteyZ6UG6Xfv7z6A"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 172800,
       "name": "Estar\u00e9",
       "url": "https://open.spotify.com/track/6kW2XC8ScmC9FRdtfXyEZb"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Todo Te Lo Debo a T\u00ed",
-        "url": "https://open.spotify.com/album/7EDpwwypsWlh2bxP64SOq6"
-      },
-      "artists": [
-        {
-          "name": "Benji Rosales",
-          "url": "https://open.spotify.com/artist/7lPKCFrwz7pGGHFturn8b7"
-        }
-      ],
-      "duration_ms": 169624,
-      "name": "Todo Te Lo Debo a T\u00ed",
-      "url": "https://open.spotify.com/track/3efRYKgebXZjbuVGJHuiAa"
     },
     {
       "added_at": "2025-12-12 22:35:42",

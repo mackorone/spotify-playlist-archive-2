@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 250415,
       "name": "Ligado no C\u00e9u",
       "url": "https://open.spotify.com/track/4Y3SsEUcOVIU6iZS9AouYf"
@@ -1398,6 +1398,24 @@
       "duration_ms": 156343,
       "name": "O Melhor de Deus",
       "url": "https://open.spotify.com/track/1plQG6oEC5ms13F0q7f3Qi"
+    },
+    {
+      "album": {
+        "name": "O Noivo Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295946,
+      "name": "O Noivo Vem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7eLK9s5mQT7QW62lID0fol"
     },
     {
       "album": {

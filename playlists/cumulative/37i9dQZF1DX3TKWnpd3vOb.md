@@ -2,14 +2,15 @@
 
 ### [Rock Chileno](https://open.spotify.com/playlist/37i9dQZF1DX3TKWnpd3vOb)
 
-> Encuentra un mix de clásicos y nuevos talentos\. Foto: Beto Cuevas
+> Encuentra un mix de clásicos y nuevos talentos\. Foto: La Ley
 
-318 songs - 20 hr 10 min
+320 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [93](https://open.spotify.com/track/60t1mGw9bxvVTbu9X1gzVS) | [Sonora de Llegar](https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV), [Skuela de Baile](https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1) | [93](https://open.spotify.com/album/0g9JX4ouzN5T8gYoMBMX1z) | 2:49 | 2022-04-08 | 2023-03-03 |
 | [A Cada Segundo](https://open.spotify.com/track/1V8gq40G3Fxxx4CW6r43nd) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [A Cada Segundo](https://open.spotify.com/album/3J5wDJn7CcCpWg1TcuImG1) | 3:40 | 2025-02-20 |  |
+| [A veces \- Remezclado 2025](https://open.spotify.com/track/3Zyt4DluEHhTCZMflBUvj9) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [1988 \(Remezclado 2025\)](https://open.spotify.com/album/6h2ssxozeNzivGcrvdu5CF) | 3:18 | 2026-01-30 |  |
 | [Abejas En La Miel](https://open.spotify.com/track/0vnvBApffcXbV2QoEzjHCg) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Abejas En La Miel](https://open.spotify.com/album/10MlABdlVHamSJ4O2BT7G0) | 3:45 | 2022-04-08 | 2024-10-19 |
 | [Abrázame](https://open.spotify.com/track/386W9zuYD4lZhb0WfAk79s) | [Frank's White Canvas](https://open.spotify.com/artist/0BUt8giUgbVvPzCIoznf6i) | [Abrázame](https://open.spotify.com/album/5Beu32a70MC8gI1fh43xKW) | 4:15 | 2022-04-08 | 2023-03-03 |
 | [Acab](https://open.spotify.com/track/3EgbMxqBcNEEfHwELjjdm5) | [Efecto Arrebol](https://open.spotify.com/artist/5XlZNXE1isqfRNmf2a4zBF) | [Acab](https://open.spotify.com/album/1UeVb59fQysYRVMQ8lXsly) | 3:35 | 2022-04-08 | 2022-07-20 |
@@ -46,7 +47,7 @@
 | [Carne \- En Vivo](https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En vivo\)](https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p) | 5:59 | 2022-04-08 | 2025-08-01 |
 | [Casi un Mapa](https://open.spotify.com/track/3Yt94WoBxDEgv0i7ff3NZ4) | [Solteronas en Escabeche](https://open.spotify.com/artist/3tOPlz1THJhkPfNJJyDomL), [Portius](https://open.spotify.com/artist/11DIDrM3b6VRzAL3pigGFz) | [Casi un Mapa](https://open.spotify.com/album/6DGtKRp36nEaiBaLh7TUxz) | 3:51 | 2022-04-08 | 2022-07-27 |
 | [Casualidades](https://open.spotify.com/track/6SzCC78V5SvyB1bRJCcIx6) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 3:19 | 2022-04-08 | 2023-03-03 |
-| [Cayeron Lágrimas](https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Cayeron Lágrimas](https://open.spotify.com/album/4OLMOISUPqjvgJFc4SrOak) | 3:35 | 2023-05-26 |  |
+| [Cayeron Lágrimas](https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Cayeron Lágrimas](https://open.spotify.com/album/4OLMOISUPqjvgJFc4SrOak) | 3:35 | 2023-05-26 | 2026-01-31 |
 | [Cerca del Sol](https://open.spotify.com/track/4LoB0vpJvhlROCaOMNJP78) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cerca del Sol](https://open.spotify.com/album/2JyB6oVNlkblXEsdHlBks6) | 4:32 | 2022-04-08 | 2023-03-03 |
 | [Cielo](https://open.spotify.com/track/0edQQyB3klYXb3ptkcdDIo) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cielo](https://open.spotify.com/album/7qsBFKGtx7itrfVd7fOxiE) | 3:40 | 2023-10-27 |  |
 | [Clara](https://open.spotify.com/track/07tq9iJkXzRgvgA4vsM80b) | [Enei](https://open.spotify.com/artist/3ychxeKDZNc3ITaeJfz7GO) | [Clara](https://open.spotify.com/album/7EQNBGyaddHvNToBCFHvNi) | 3:17 | 2022-04-08 | 2022-07-24 |
@@ -90,7 +91,7 @@
 | [El Duelo](https://open.spotify.com/track/7MzNE3Ui7JCKpuSu0oMusD) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [El Duelo](https://open.spotify.com/album/1e9SFF9jr6iW7jEZ08THwg) | 5:55 | 2025-03-14 |  |
 | [El Hijo](https://open.spotify.com/track/1h5eCRXAcho6ixIGdOFjFl) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [El Hijo](https://open.spotify.com/album/1yKNYNg08SNuCotBuKhNhp) | 1:51 | 2023-11-10 | 2024-08-31 |
 | [El Mundo Se Termina](https://open.spotify.com/track/0rl38vmySOskf1DVSw0wMm) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 4:12 | 2023-06-23 | 2024-04-19 |
-| [El Mundo Se Termina](https://open.spotify.com/track/232WwWYvBmxKNOLkxOW2bp) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Mundo Se Termina](https://open.spotify.com/album/29ISIbpi5qe3Hk33gZMMoF) | 4:12 | 2022-07-08 |  |
+| [El Mundo Se Termina](https://open.spotify.com/track/232WwWYvBmxKNOLkxOW2bp) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Mundo Se Termina](https://open.spotify.com/album/29ISIbpi5qe3Hk33gZMMoF) | 4:12 | 2022-07-08 | 2026-01-31 |
 | [El Mundo Se Termina](https://open.spotify.com/track/6Vbs72gwE5sZuVHK4qZ2PW) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Mundo Se Termina](https://open.spotify.com/album/1VmWohc27f4BKsUIZCAfCl) | 4:12 | 2023-03-03 | 2023-06-26 |
 | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 3:56 | 2023-06-23 |  |
 | [El Olvido](https://open.spotify.com/track/40ln7ClXzh5wYpNeSQ4fWK) | [Terranave](https://open.spotify.com/artist/6Iih7qmPaBVuzw3lsWj22H) | [El Hombre Es Humano](https://open.spotify.com/album/2oYnjA8cDyOe1WlfaxmrCU) | 3:31 | 2022-04-08 | 2022-07-18 |
@@ -289,6 +290,7 @@
 | [Tótem](https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Tótem](https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa) | 2:27 | 2024-05-10 |  |
 | [TÚ](https://open.spotify.com/track/6gbu92nXkeh6Fdhgw0iqez) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n) | [TÚ](https://open.spotify.com/album/3utOqxCghBqv4aIryvCCwJ) | 3:55 | 2023-06-16 | 2024-08-31 |
 | [Tú No Propones Na](https://open.spotify.com/track/6nSO2TaVtEUsfz6nSLRTjq) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 1:26 | 2022-04-08 | 2023-03-03 |
+| [Tú y yo](https://open.spotify.com/track/3KfYDbjKcTBBIJHSrPnb8i) | [Flangr](https://open.spotify.com/artist/1tUjulrz0ekNbpxrStQDPG) | [Tú y yo](https://open.spotify.com/album/1Epws7wl70Zw5ChWGxjn5c) | 3:06 | 2026-01-30 |  |
 | [Un Amor Violento \(Revuelta en vivo\)](https://open.spotify.com/track/7Be5ECa3Cs7VfORwZxJs0I) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta En Vivo](https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V) | 4:51 | 2025-04-11 |  |
 | [Un Día por Concepción](https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2) | [Billy Norton](https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb) | [Un Día por Concepción](https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw) | 3:03 | 2022-04-08 |  |
 | [Un Pedazo Más de Tu Corazón](https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [Un Pedazo Más de Tu Corazón](https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo) | 3:38 | 2022-04-08 | 2025-08-01 |

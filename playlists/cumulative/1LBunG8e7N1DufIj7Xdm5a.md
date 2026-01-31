@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,877 songs - 8 day 13 hr 51 min
+3,879 songs - 8 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Burning Neon](https://open.spotify.com/track/5ErDQpeTARevILRFHATXfE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:24 | 2025-09-16 |  |
 | [Burning Streets](https://open.spotify.com/track/2LJkqqKdV5fthoV94X4tNj) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rock'n roll Pop Modern Hits](https://open.spotify.com/album/5TKb0dzplMyuhjmMv2iFim) | 3:10 | 2025-05-29 |  |
 | [Burning Streets \(another\)](https://open.spotify.com/track/6Qkb3VvLXCOo3FhFxHdIsH) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rock'n roll Pop Modern Hits](https://open.spotify.com/album/5TKb0dzplMyuhjmMv2iFim) | 2:48 | 2025-09-18 |  |
+| [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 | 2026-01-30 |  |
 | [Bury Me In An Unmarked Grave](https://open.spotify.com/track/5EEjYhGtRZhNtSVmZVO0VF) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9), [Velvet Stardust](https://open.spotify.com/artist/2J9AoO5nCh1htfy8dv6Svz) | [Bury Me In An Unmarked Grave](https://open.spotify.com/album/3jPEk1ndJlBUBTTd2tpyAC) | 2:39 | 2025-07-05 |  |
 | [Bush Camper](https://open.spotify.com/track/3KJhCUeaH9jS4xfk3gHK87) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:07 | 2026-01-17 |  |
 | [Butter Knife Suicide](https://open.spotify.com/track/4UFIHH6jju7CCmFa7eouek) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 2:35 | 2025-07-01 |  |
@@ -3848,6 +3849,7 @@
 | [À Boutte de Toute](https://open.spotify.com/track/0zWlQ3UlIX2fHQ0iTQ4oSB) | [Chacal](https://open.spotify.com/artist/5HukSi7X2MjzaLJrnCngDH) | [Le Phénomène](https://open.spotify.com/album/7nRbculOSqIzX7UGcJcYOj) | 2:35 | 2025-10-03 |  |
 | [À Quoi Ça Sert](https://open.spotify.com/track/4fV76EXoQhpeB3w9zJBF4h) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Moi Qui a Mal](https://open.spotify.com/album/0iQHWtIwT46b3Rj97T2Zb4) | 3:59 | 2025-10-13 |  |
 | [Élite Mundial](https://open.spotify.com/track/3MtOrsLxv31SNJeMl3pqlv) | [Velx](https://open.spotify.com/artist/4rGwpY6x2VsXxZ1iAevcGw) | [Élite Mundial](https://open.spotify.com/album/6ZKD1o5vXu3f9cDOr8KJ7e) | 3:17 | 2025-10-07 |  |
+| [Öylece Bıraktığın Yerden](https://open.spotify.com/track/3nfQOWD7pmZjEcPrwXBanW) | [zibidi gonzales](https://open.spotify.com/artist/4AZqCD8QOtlTnQ4S37Z1VN) | [Gurursuz](https://open.spotify.com/album/2giFMp6p1IUf54NyJ9A35f) | 4:07 | 2026-01-30 |  |
 | [Буду с тобой](https://open.spotify.com/track/59IGh75jcZX5dytjWQ6zHX) | [ΛNZZ](https://open.spotify.com/artist/3TWeuhaLtXwVABFag0rOLK) | [Буду с тобой](https://open.spotify.com/album/0PuSC7RFOlqwUkw6r0nNhd) | 2:18 | 2025-05-14 |  |
 | [Вдыхая](https://open.spotify.com/track/5wCJdxThWor3Zt8JP7jEOf) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Вдыхая](https://open.spotify.com/album/135EW2AzzOC1uUHc7AXasA) | 3:03 | 2025-05-17 |  |
 | [Вдыхая](https://open.spotify.com/track/7h0NWQtE9GpPGOwPaocdPF) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:03 | 2025-06-30 |  |

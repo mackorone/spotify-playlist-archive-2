@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> " Par coeur" de DAYSY et Joseph Kamel est le Grand Hit de la semaine.
+> "Par coeur" de DAYSY et Joseph Kamel est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,212 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,210 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 39 | [Millions de cœurs](https://open.spotify.com/track/4hQEDPRaNyFXoYfbPgasUx) | [Achile](https://open.spotify.com/artist/21KPPMcnfzFYt3yseua9Nl) | [Millions de cœurs](https://open.spotify.com/album/6uf0F3mJbYYKwBUauYsA9u) | 2:39 |
 | 40 | [Abysses](https://open.spotify.com/track/3Lgri1rcCPb99ezlE0SWTB) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [MAGNIFICAT](https://open.spotify.com/album/50aUxrW8cVj0Phidp3SDR1) | 2:25 |
 
-Snapshot ID: `AAAAADAKaSDpcBHx1mVaHUqwT/y1sn5O`
+Snapshot ID: `AAAAAF8bJwB8oQ7IrAHCMc9pi00/ZCzh`

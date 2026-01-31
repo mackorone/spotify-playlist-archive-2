@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "22 Questions",
+        "url": "https://open.spotify.com/album/4JY8CzpUOtB9628NKHPHEh"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179340,
+      "name": "22 Questions",
+      "url": "https://open.spotify.com/track/41OrzOlx7GIACgOG2ZfKz9"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/6wSipi0TDJMk8YDnFXecGX"
       },
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 138323,
       "name": "Chill Bae",
       "url": "https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4"
@@ -7947,6 +7965,24 @@
     },
     {
       "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99555,
+      "name": "Long Way To Calabasas",
+      "url": "https://open.spotify.com/track/0FMAKUsgIBszj75WEENYDO"
+    },
+    {
+      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni"
       },
@@ -10478,7 +10514,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 184614,
       "name": "peter pan.",
       "url": "https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX"
@@ -11076,7 +11112,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 226271,
       "name": "Rather Have You",
       "url": "https://open.spotify.com/track/7L4QL5xbIlQAWEBCARnNlr"
@@ -11656,6 +11692,24 @@
       "duration_ms": 188280,
       "name": "Room 303",
       "url": "https://open.spotify.com/track/3k1rYlaTNoqaUdXS743hWZ"
+    },
+    {
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "Rosary",
+      "url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm"
     },
     {
       "album": {

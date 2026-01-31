@@ -2857,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/5PRUPd0hgeAzerEzqyANUS"
+      },
+      "artists": [
+        {
+          "name": "Poella",
+          "url": "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60625,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3ooAp2vongxWYoLJDZmUMi"
+    },
+    {
+      "album": {
         "name": "Reunion",
         "url": "https://open.spotify.com/album/6mqrhNRHkLiMLL6bop27xc"
       },

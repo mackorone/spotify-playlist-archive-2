@@ -1,12 +1,12 @@
 {
   "description": "For frolicking joyously, freely and theatrically in this world. ",
-  "num_followers": 28436,
+  "num_followers": 28451,
   "original_name": "Frolic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACNYvtRMVMEuaNyZ1uPm4Qr0thGJ",
+  "snapshot_id": "AAAAANcXV/telH0SlPZmHnKJK2BixgQ4",
   "tracks": [
     {
       "added_at": "2025-10-17 10:23:06",
@@ -41,20 +41,36 @@
       "url": "https://open.spotify.com/track/17MtSCJEauhLFqseQxQl7N"
     },
     {
-      "added_at": "2025-10-17 10:23:06",
+      "added_at": "2026-01-30 11:46:02",
       "album": {
-        "name": "Bloom Baby Bloom",
-        "url": "https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8"
+        "name": "Dance The Pain Away",
+        "url": "https://open.spotify.com/album/35eHXNu05E1wliIgJ1A0AC"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
         }
       ],
-      "duration_ms": 227586,
-      "name": "Bloom Baby Bloom",
-      "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
+      "duration_ms": 219986,
+      "name": "Dance The Pain Away",
+      "url": "https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD"
+    },
+    {
+      "added_at": "2026-01-30 11:46:02",
+      "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 237952,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
     },
     {
       "added_at": "2025-10-17 10:23:06",
@@ -71,6 +87,22 @@
       "duration_ms": 183266,
       "name": "Hounds Of Love",
       "url": "https://open.spotify.com/track/6jWx7mD5oblxybTaWpiPZN"
+    },
+    {
+      "added_at": "2025-10-17 10:23:06",
+      "album": {
+        "name": "Bloom Baby Bloom",
+        "url": "https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Bloom Baby Bloom",
+      "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
     },
     {
       "added_at": "2025-10-17 10:23:06",
@@ -1539,38 +1571,6 @@
       "duration_ms": 294835,
       "name": "Hadsel",
       "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
-    },
-    {
-      "added_at": "2025-10-17 10:23:06",
-      "album": {
-        "name": "Scream Drive Faster",
-        "url": "https://open.spotify.com/album/0VdiKAfV5WbP64Q3khJAzw"
-      },
-      "artists": [
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Scream Drive Faster",
-      "url": "https://open.spotify.com/track/4hEpfRem37hLFT8ldr78Mx"
-    },
-    {
-      "added_at": "2025-10-17 10:23:06",
-      "album": {
-        "name": "7 Seconds",
-        "url": "https://open.spotify.com/album/6HjTvm0YO6WoZoSRTsS3TR"
-      },
-      "artists": [
-        {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
-        }
-      ],
-      "duration_ms": 252855,
-      "name": "7 Seconds",
-      "url": "https://open.spotify.com/track/0voJyHU8wz6VEkos3L2ohu"
     },
     {
       "added_at": "2025-10-17 10:23:06",

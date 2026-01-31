@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "New and approved indie pop. Cover: Delaney Bailey",
+  "description": "New and approved indie pop. Cover: Paris Paloma",
   "name": "Indie Pop",
   "tracks": [
     {
@@ -12628,7 +12628,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 189459,
       "name": "Favorite Fear",
       "url": "https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ"
@@ -14120,7 +14120,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 168560,
       "name": "Ghost in Your Bed",
       "url": "https://open.spotify.com/track/1xLmLJ8aqhqpfy9Y8yrvwy"
@@ -14744,6 +14744,24 @@
       "duration_ms": 192090,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/4lglUMf2A7Y9bFLh0zkjfu"
+    },
+    {
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263228,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
     },
     {
       "album": {
@@ -18764,7 +18782,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 137160,
       "name": "If I'm So Bad",
       "url": "https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M"
@@ -20264,7 +20282,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 225461,
       "name": "Just Another Day",
       "url": "https://open.spotify.com/track/2X1h5j0KNJnRwoq3LOmeCX"
@@ -22900,7 +22918,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 193130,
       "name": "Lucky Day",
       "url": "https://open.spotify.com/track/4XAOqOH1fmm8COSqWqzhYH"
@@ -24894,7 +24912,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 180040,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/7baiuxB2BkWnsAuAWn1NpO"
@@ -27328,7 +27346,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 259000,
       "name": "Once In A Blue Moon",
       "url": "https://open.spotify.com/track/0gzCU2A9sTjBsZGjoeBuqs"
@@ -31572,7 +31590,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 183189,
       "name": "Scumbag",
       "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
@@ -33840,7 +33858,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 230175,
       "name": "SOS 2001",
       "url": "https://open.spotify.com/track/7izGUWUtK1kSKLIPPKO4fS"
@@ -34328,7 +34346,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 168040,
       "name": "Stateside",
       "url": "https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO"
@@ -37078,6 +37096,24 @@
       "duration_ms": 206373,
       "name": "The King",
       "url": "https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6"
+    },
+    {
+      "album": {
+        "name": "The Lady on the Moon",
+        "url": "https://open.spotify.com/album/5pe3vvxYN2JVSy7KQv0hyb"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187720,
+      "name": "The Lady on the Moon",
+      "url": "https://open.spotify.com/track/4N00gwXcw0WQzxngbwztnu"
     },
     {
       "album": {

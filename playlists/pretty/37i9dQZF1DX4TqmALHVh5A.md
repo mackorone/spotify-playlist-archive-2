@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : KALIKA & Tess Kirby
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,268 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,285 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BALLERINES DE BOURGE](https://open.spotify.com/track/2NGMnic5kVnqB12RLiEdOy) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD), [Tess Kirby](https://open.spotify.com/artist/173QAn9N2bN4CJ6LJEoeO3) | [BALLERINES DE BOURGE](https://open.spotify.com/album/1JQxGJxzNukKrEiD6jC2qY) | 2:51 |
-| 2 | [J'Suis Pas Bo](https://open.spotify.com/track/1wPrfGvINb3lWrGbLWXedI) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [](https://open.spotify.com/album/null) | 2:31 |
+| 2 | [J'Suis Pas Bo](https://open.spotify.com/track/1wPrfGvINb3lWrGbLWXedI) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Mesdames, Messieurs !](https://open.spotify.com/album/43Kjt22AJCNFvCjnYtsuqn) | 2:31 |
 | 3 | [Mauvaise tête](https://open.spotify.com/track/4QEg4vfzw0NwePfYMoJtwK) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Mauvaise tête](https://open.spotify.com/album/0Lf2JwBPW1pxnmScm5m2L1) | 2:38 |
 | 4 | [le danger \(feat\. unisature\)](https://open.spotify.com/track/6IgsTzTGhUXl3PwtWZPfEY) | [kissed](https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi), [unisature](https://open.spotify.com/artist/5Q1QmxKNSY4UHazJ0wFQXn) | [Party crashing](https://open.spotify.com/album/2pxAb9FGrlisCT66eLQwqZ) | 3:01 |
 | 5 | [LA PROPHÉTIE](https://open.spotify.com/track/4IFAlgbuEgGbzYoSUCUgQ3) | [Lpee](https://open.spotify.com/artist/79oE8fUBhUxb5rDnlUObQz) | [LA PROPHÉTIE](https://open.spotify.com/album/7DLrEAvsjFjg1JhbqCXuIL) | 3:36 |

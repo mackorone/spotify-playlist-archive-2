@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,306 songs - 5 day 3 hr 37 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,308 songs - 5 day 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2218,7 +2218,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2208 | [U&ME](https://open.spotify.com/track/6NbXVdpQep2wNcmVzWYOSt) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb), [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [U&ME](https://open.spotify.com/album/3dY9oVxZ48j0pMXdZMisf7) | 2:39 |
 | 2209 | [Piu Piu](https://open.spotify.com/track/7xknpPxmijlH18BuVTVXem) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [Enkryptada](https://open.spotify.com/album/7CT5a6r4GHKRK3UKb62G1p) | 1:48 |
 | 2210 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 |
-| 2211 | [My Mind Went Blank \(Screwed\)](https://open.spotify.com/track/7zfLS7MJmy8zmj1OL7s6bk) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [Point Blank](https://open.spotify.com/artist/5Nz0G9zAjZVmIgqtGfHham) | [All Screwed Up, Vol\. II \(Screwed\)](https://open.spotify.com/album/05qVKtCTd3o2NTcD34aZge) | 6:37 |
+| 2211 | [My Mind Went Blank \(Screwed\)](https://open.spotify.com/track/7zfLS7MJmy8zmj1OL7s6bk) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [Point Blank](https://open.spotify.com/artist/5Nz0G9zAjZVmIgqtGfHham) | [All Screwed Up, Vol\. 2 \(Screwed\)](https://open.spotify.com/album/05qVKtCTd3o2NTcD34aZge) | 6:37 |
 | 2212 | [Seduction](https://open.spotify.com/track/5LCPl8UQuCcqWVodr4cR5a) | [DreamKiller](https://open.spotify.com/artist/2ug0wxHp2DC92BcVOimIMH) | [Inner Secrets](https://open.spotify.com/album/1adNYqwSKqbgJwUg50zYoR) | 4:58 |
 | 2213 | [Act Like U Know](https://open.spotify.com/track/3rK1sBzVm9EYUXR8vgrGI4) | [10 Wanted Men](https://open.spotify.com/artist/0hux8SO8Lvt5KxnZjJcs0s) | [Ten Toes Down](https://open.spotify.com/album/0SbuspDg9V35dFziYfFYB8) | 2:21 |
 | 2214 | [UUU](https://open.spotify.com/track/47NRsfMF9inUoBiyKSbIIg) | [Kumo 99](https://open.spotify.com/artist/31UoyJXnXTjUzdwSX1Ylg5) | [Body N\. Will](https://open.spotify.com/album/4yTeZlcwc5fCoNPQFD2ZNX) | 2:13 |
@@ -2313,6 +2313,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2303 | [A Nigga Bleed Kush](https://open.spotify.com/track/6eGOWU1vszBPkR8n6LYFsr) | [Ruben Slikk](https://open.spotify.com/artist/3eA5bk40aoRHxAyywgOaOa) | [King Astro Slikk The Magnificent](https://open.spotify.com/album/61MJzlDp5y4fFbsqmLpis7) | 2:37 |
 | 2304 | [think of you](https://open.spotify.com/track/0phoyYg8cCu9nQfrjuIyxX) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [think of you / 2am](https://open.spotify.com/album/4z6TTItKzcy42zvgdarCX7) | 4:07 |
 | 2305 | [Alpha Wheel](https://open.spotify.com/track/3s3FAfyclFcd4Z5VJFXyyf) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Levitate](https://open.spotify.com/album/099BTOPRjbK5l6bCNfx4bM) | 3:18 |
-| 2306 | [Dirty Harry \(feat\. Bootie Brown\)](https://open.spotify.com/track/2bfGNzdiRa1jXZRdfssSzR) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:50 |
+| 2306 | [Se Voce Nao Quer Passa a Vez](https://open.spotify.com/track/7snnTlaWaN39nfN1PhUaT8) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Se Voce Nao Quer Passa a Vez](https://open.spotify.com/album/7mSEULBduMtsKcy7w7QgWk) | 2:13 |
+| 2307 | [Dirty Harry \(feat\. Bootie Brown\)](https://open.spotify.com/track/2bfGNzdiRa1jXZRdfssSzR) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:50 |
+| 2308 | [Vuk Vuk](https://open.spotify.com/track/4QUb9n7gFsDAmfBahFBFWK) | [VXEL](https://open.spotify.com/artist/4iaNizg8r7g1pi2dexE4Hc) | [Vuk Vuk](https://open.spotify.com/album/2uD8VYHFQN9Lr5jgz9lcLB) | 2:37 |
 
-Snapshot ID: `AAAE/xr3xYDE332yTyxknFv22D446nyU`
+Snapshot ID: `AAAFApe5SDC8vkFK6lRfrygsn1s7sisa`

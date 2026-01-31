@@ -2,7 +2,7 @@
 
 ### [Hype](https://open.spotify.com/playlist/37i9dQZF1DX4eRPd9frC1m)
 
-> Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a> 💪💥
+> Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
 458 songs - 1 day 0 hr 34 min
 

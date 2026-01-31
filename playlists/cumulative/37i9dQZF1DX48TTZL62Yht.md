@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The tracks you just keep pulling up\. Cover: 21 Savage
+> The tracks you just keep pulling up\. Cover: Kendrick Lamar
 
 833 songs - 1 day 19 hr 7 min
 
@@ -185,7 +185,7 @@
 | [DNA.](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:05 | 2022-04-01 | 2022-04-20 |
 | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe) | 3:33 | 2023-03-24 | 2024-07-27 |
 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 | 2022-05-20 | 2022-09-29 |
-| [DOG $HIT](https://open.spotify.com/track/3o6Wg0EOBtWXPdufCes5Lj) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 3:18 | 2026-01-15 |  |
+| [DOG $HIT](https://open.spotify.com/track/3o6Wg0EOBtWXPdufCes5Lj) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 3:18 | 2026-01-15 | 2026-01-31 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-12-16 |  |
 | [DOLLA SIGN SLIME \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:25 | 2022-01-14 | 2022-05-27 |
 | [Don't Feel Alright](https://open.spotify.com/track/5oRbND0r4P6MXlqmx9oxzG) | [Lil Berete](https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx) | [Don't Feel Alright](https://open.spotify.com/album/3Js0nCwhZfN6UhLMGPTVmY) | 1:57 | 2022-01-14 | 2022-02-03 |
@@ -317,7 +317,7 @@
 | [Heard of Me](https://open.spotify.com/track/10gyFPxJRCJzixrUpJutcj) | [Why G](https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB), [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw) | [Heard of Me](https://open.spotify.com/album/6rnenm6lGuzvBpV6uXbkbo) | 2:51 | 2022-03-11 | 2022-04-19 |
 | [Heart Broke Rockstar Sh\*t](https://open.spotify.com/track/5FRtDcsOC9udJZDUQzHPkp) | [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [Heart Broke Rockstar Sh\*t](https://open.spotify.com/album/1wtkBFlvdA9CqseLbBzNC3) | 3:10 | 2022-01-07 | 2022-03-19 |
 | [Hella Neck](https://open.spotify.com/track/2wBB2KKqtuK1fcxAiqbCSZ) | [Carnage](https://open.spotify.com/artist/1LT6lzo7SDEkWVEQ13Xkhz), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Hella Neck](https://open.spotify.com/album/0IkTpTlGEemRN3YpRvcXhJ) | 3:37 | 2022-04-08 | 2022-04-20 |
-| [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2025-02-13 | 2025-07-10 |
+| [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2025-02-13 |  |
 | [Help \(with Tory Lanez\)](https://open.spotify.com/track/4BtVYDiUSuOuOsupYAJJuk) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Funeral \(Deluxe\)](https://open.spotify.com/album/49zB39sak50ghwZMwHQqQ0) | 2:22 | 2022-01-21 | 2022-04-19 |
 | [Here We Go](https://open.spotify.com/track/40dlJFdqfm8CayhmmS9UB7) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 2:47 | 2022-04-08 | 2022-07-29 |
 | [High Fashion \(feat\. Mustard\)](https://open.spotify.com/track/07KXEDMj78x68D884wgVEm) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:40 | 2022-01-07 | 2022-04-15 |

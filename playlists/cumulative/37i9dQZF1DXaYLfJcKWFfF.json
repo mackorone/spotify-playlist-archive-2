@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 181619,
       "name": "get lifted",
       "url": "https://open.spotify.com/track/5m5DkPYIRY7nPMTrM0sDIK"
@@ -7094,6 +7094,24 @@
       "duration_ms": 172000,
       "name": "YAKOYO",
       "url": "https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck"
+    },
+    {
+      "album": {
+        "name": "Yalwa",
+        "url": "https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Yalwa",
+      "url": "https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR"
     },
     {
       "album": {

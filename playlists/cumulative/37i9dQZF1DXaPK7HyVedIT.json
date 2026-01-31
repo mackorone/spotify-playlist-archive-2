@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Felguk, Watzgood",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Roddy Lima",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 236220,
       "name": "Acalma O Peito",
       "url": "https://open.spotify.com/track/0lzbbbYjoshWXMpLwwzmsp"
@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/4FeBJWZ4PfVcpDCcLWgYGL"
+      },
+      "artists": [
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/1UXN6YD98neROqVMLf2cRS"
+    },
+    {
+      "album": {
         "name": "Apache",
         "url": "https://open.spotify.com/album/6G1TJ6d0Dm8RbggfWjrAAi"
       },
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 211874,
       "name": "Baby",
       "url": "https://open.spotify.com/track/7f2HMR4UT56WcHPtfdrnKv"
@@ -2434,7 +2452,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 178886,
       "name": "Busy Busy Busy",
       "url": "https://open.spotify.com/track/4emH7mwKIoymAn8RyxA3EK"
@@ -2982,6 +3000,36 @@
       "duration_ms": 182375,
       "name": "Clareou",
       "url": "https://open.spotify.com/track/1Lg2aS1Hl1sKpfEoClcder"
+    },
+    {
+      "album": {
+        "name": "Club Bizarre",
+        "url": "https://open.spotify.com/album/5GsgYaGtwa2rvmA7knroD4"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        },
+        {
+          "name": "Alex Christensen",
+          "url": "https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167926,
+      "name": "Club Bizarre",
+      "url": "https://open.spotify.com/track/2hhDb4rGCJTigdadpRL30x"
     },
     {
       "album": {
@@ -4900,7 +4948,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 204890,
       "name": "Escape the Reality",
       "url": "https://open.spotify.com/track/0pf7q3G9iDXoLeny4bGmSy"
@@ -5244,7 +5292,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 168461,
       "name": "F.R.E.A.K.Y",
       "url": "https://open.spotify.com/track/0To5G039l2KjdA7F2dBKCI"
@@ -5410,6 +5458,28 @@
       "duration_ms": 252190,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/3BPwks41p3zH0tbvNDlVLZ"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/5XuKcuWfhlgvNSwylIQu0e"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6JY6jXuAuTEH8VMgmkW87Y"
     },
     {
       "album": {
@@ -7492,7 +7562,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 354461,
       "name": "Hypersilent",
       "url": "https://open.spotify.com/track/76SlQsZB2uZxW7ATfr3lpl"
@@ -9409,6 +9479,28 @@
     },
     {
       "album": {
+        "name": "LICK IT",
+        "url": "https://open.spotify.com/album/6rMqR0MHTHBirJggnVeruA"
+      },
+      "artists": [
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211987,
+      "name": "LICK IT",
+      "url": "https://open.spotify.com/track/58ZxB5HafuK7mZS3B3kf8y"
+    },
+    {
+      "album": {
         "name": "Lie Machine",
         "url": "https://open.spotify.com/album/6G53ObRBbG9odPj8xI8Gde"
       },
@@ -10437,6 +10529,36 @@
     },
     {
       "album": {
+        "name": "Meu Ver\u00e3o",
+        "url": "https://open.spotify.com/album/5lLsA0pN0mU93uFl7GU9VY"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        },
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Blotz",
+          "url": "https://open.spotify.com/artist/0BWTr4DfWCSNecOH1GnZEw"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215433,
+      "name": "Meu Ver\u00e3o",
+      "url": "https://open.spotify.com/track/1M3osJunuDlz44RtVyCacx"
+    },
+    {
+      "album": {
         "name": "Mia Pembe (Mojjo Remix)",
         "url": "https://open.spotify.com/album/6Z7gdgNRG6swQcWqBFx3R4"
       },
@@ -10544,7 +10666,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 308470,
       "name": "Midnight Dancers",
       "url": "https://open.spotify.com/track/0N7zOoqZ3ggwplnLtaRvf4"
@@ -11322,7 +11444,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 178564,
       "name": "Need It",
       "url": "https://open.spotify.com/track/6pcJ9f2ebphR7OgBIvPNkt"
@@ -14217,6 +14339,24 @@
     },
     {
       "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/3K7bUlbOGrHEaCnHBnAyLh"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/05TXeKZzynUYm5fSlEAo3F"
+    },
+    {
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/5FqlL2SJpXKsycOUOojUcx"
       },
@@ -15400,7 +15540,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 200875,
       "name": "Te Quiero (Jade)",
       "url": "https://open.spotify.com/track/6l5mFr90VRhjAWkfRZruZK"
@@ -15532,7 +15672,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 169782,
       "name": "The Future",
       "url": "https://open.spotify.com/track/4x5L7DSgqbXGqsH9E6z4oj"
@@ -15672,7 +15812,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 184218,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5PP8xAqWWciMjSEFx4w6yg"
@@ -16310,7 +16450,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 198181,
       "name": "Trov\u00e3o",
       "url": "https://open.spotify.com/track/5OZT5cotLxLMBYONtioAZ4"
@@ -16810,6 +16950,32 @@
       "duration_ms": 148551,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s"
+    },
+    {
+      "album": {
+        "name": "Vai Tomando",
+        "url": "https://open.spotify.com/album/06vZ4bNOeoTxFl1y44Quqs"
+      },
+      "artists": [
+        {
+          "name": "Dj Brenno Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM"
+        },
+        {
+          "name": "Gustavo Mota",
+          "url": "https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1"
+        },
+        {
+          "name": "Evoxx",
+          "url": "https://open.spotify.com/artist/4ARaZW5s4DFmr6kalIPHI6"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Vai Tomando",
+      "url": "https://open.spotify.com/track/4MHoo309LAtMRfbWRsagOy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: JJerome87
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,459 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,406 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 37 | [California Rain](https://open.spotify.com/track/31jXrQbgx8DGcUh7NN4VY4) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [California Rain](https://open.spotify.com/album/2l5QjKl7UWkKr7sGkk4TXe) | 3:03 |
 | 38 | [Break the Girl](https://open.spotify.com/track/1G6tftTrUHgg1g6cP3VkJ5) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Break the Girl](https://open.spotify.com/album/66ZkWrGgZzUsC7G1U7Z2gl) | 3:31 |
 | 39 | [Change My Mind](https://open.spotify.com/track/2bQcgUJSzCV48MJwPTnqFN) | [Phantastic Ferniture](https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC) | [Change My Mind / Dare To Fall In Love](https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS) | 3:01 |
-| 40 | [Team Babe](https://open.spotify.com/track/6TqVmfK0Um2rK6ozp3E8dG) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [](https://open.spotify.com/album/null) | 4:06 |
+| 40 | [Team Babe](https://open.spotify.com/track/6TqVmfK0Um2rK6ozp3E8dG) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Until The Comet Came](https://open.spotify.com/album/1Ag9sz7rFDlTiHtacxRQ17) | 4:06 |
 | 41 | [Centipede](https://open.spotify.com/track/5UR33vh5J4oP6ow6IE0xO9) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Centipede](https://open.spotify.com/album/2ob41IEcAKIvCnv1WC1KKX) | 3:24 |
 | 42 | [to earth will you tell me when we land](https://open.spotify.com/track/1tTycAzC9CoC3ODkT6kE81) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [to earth will you tell me when we land](https://open.spotify.com/album/2LGC8eOQWTkqpSDvyH4GeN) | 4:00 |
 | 43 | [Heaven Sent](https://open.spotify.com/track/0ewbgBIlWOENsK3IlhRTDK) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Heaven Sent](https://open.spotify.com/album/3F1BhsVsH3KKzNiLMG5M1j) | 3:07 |
 | 44 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 |
 | 45 | [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Time Flies](https://open.spotify.com/album/1oyZdZsqs3ag7LriorKTVq) | 2:32 |
 | 46 | [The Old Law](https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [The Old Law](https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na) | 4:41 |
-| 47 | [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [](https://open.spotify.com/album/null) | 2:28 |
+| 47 | [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Wake up!](https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4) | 2:28 |
 | 48 | [Miss June](https://open.spotify.com/track/7v0T7tCD2DMJzF0rpWtCCs) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Loose Tooth And A Short Skirt](https://open.spotify.com/album/0rpFFe4mOIl3veH6coOl2B) | 3:01 |
 | 49 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 |
 | 50 | [Darkness, be my friend](https://open.spotify.com/track/7DJjr6ix7iKXyevtSCfYCD) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Darkness, be my friend](https://open.spotify.com/album/1ZQ8MvbrziIkVTnE4eMkc8) | 4:19 |

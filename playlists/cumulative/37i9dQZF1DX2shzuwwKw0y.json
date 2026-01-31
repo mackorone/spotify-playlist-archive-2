@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: LEGADO 7",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Luis R Conriquez, Neton Vega, Rey Quinto ",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -420,6 +420,32 @@
       "duration_ms": 206901,
       "name": "Agradecido",
       "url": "https://open.spotify.com/track/5RdmVGfJg5OKN8S9nrrNSs"
+    },
+    {
+      "album": {
+        "name": "Aguas",
+        "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172682,
+      "name": "Aguas",
+      "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
     },
     {
       "album": {
@@ -3522,7 +3548,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 194131,
       "name": "El CH de Reynosa",
       "url": "https://open.spotify.com/track/4ob8j6AKz2I79YzBfvFsnv"
@@ -5714,7 +5740,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 215032,
       "name": "EVOLUZION\u00c9",
       "url": "https://open.spotify.com/track/2dollsa47aEK6VYQm51B1X"
@@ -7592,6 +7618,24 @@
       "duration_ms": 158848,
       "name": "La Profec\u00eda",
       "url": "https://open.spotify.com/track/45gSXNnSfMz6kVGVN9X41A"
+    },
+    {
+      "album": {
+        "name": "La Racha",
+        "url": "https://open.spotify.com/album/2TyDe3uxvIEj6cScPrrZeF"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168608,
+      "name": "La Racha",
+      "url": "https://open.spotify.com/track/49fVF0XdONpz5rcn0OCUoW"
     },
     {
       "album": {

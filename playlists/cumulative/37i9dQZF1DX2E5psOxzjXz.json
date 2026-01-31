@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Zoha Zuberi",
+  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Neha Karim Ullah",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 84000,
       "name": "Afsanay",
       "url": "https://open.spotify.com/track/4UUmDCvTg3WO0qpMHPZYdq"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 122696,
       "name": "Aik Paheli",
       "url": "https://open.spotify.com/track/6qbJ4LWY5mConOZHYKCrgp"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 179538,
       "name": "Chaar Dafa",
       "url": "https://open.spotify.com/track/78CUtAaVGDZ9bFjCUyReFR"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 144000,
       "name": "Chalte Rahay",
       "url": "https://open.spotify.com/track/48L1IKAQLqfFDN6PL6iUxT"
@@ -1482,6 +1482,24 @@
       "duration_ms": 157647,
       "name": "Chandniyan Raatan",
       "url": "https://open.spotify.com/track/4C7lNrW2LJveZKJClW0nnJ"
+    },
+    {
+      "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/5seT8hIahEn8opHFWN52H4"
+      },
+      "artists": [
+        {
+          "name": "Yashal Shahid",
+          "url": "https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/48Ky1HlVjX4TpUSMh4U3hY"
     },
     {
       "album": {
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 171834,
       "name": "Dil ruba",
       "url": "https://open.spotify.com/track/4OHTcG30SKhZ86Da7kwSxS"
@@ -2185,6 +2203,24 @@
     },
     {
       "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/1rGiWcWgzUGgyUsuogKISa"
+      },
+      "artists": [
+        {
+          "name": "Neha Karim Ullah",
+          "url": "https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/5HauOf3Whq4F7IZruk9Kbn"
+    },
+    {
+      "album": {
         "name": "Dukh",
         "url": "https://open.spotify.com/album/5Q8NbEwRpK5YXQdza31MfD"
       },
@@ -2324,7 +2360,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 352599,
       "name": "EHSAAS",
       "url": "https://open.spotify.com/track/1EmM1IktKvw9h2WJs11i18"
@@ -5940,7 +5976,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 290500,
       "name": "Out of Context",
       "url": "https://open.spotify.com/track/2RYSXKVfd1JPs9noT5lgTw"

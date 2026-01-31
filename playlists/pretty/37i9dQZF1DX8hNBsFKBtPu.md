@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,513 likes - 120 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,521 likes - 120 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 3 | [jeg tror jeg elsker dig for evigt](https://open.spotify.com/track/2bsahf0KRgkJB8LDE4rmAb) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [jeg tror jeg elsker dig for evigt](https://open.spotify.com/album/16t5Ewp0D7rDDQZBlcNevX) | 3:13 |
 | 4 | [If u kno u kno \(feat\. Karoline Mousing\)](https://open.spotify.com/track/4baTMQfOgmcWJwzYHXM0rf) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [If u kno u kno](https://open.spotify.com/album/4dQO15Lp6hWvl2BhW6gvCx) | 2:25 |
 | 5 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
-| 6 | [Louisiana](https://open.spotify.com/track/0jyGqr3el63Ez1rZEYiW6c) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [](https://open.spotify.com/album/null) | 3:27 |
+| 6 | [Louisiana](https://open.spotify.com/track/0jyGqr3el63Ez1rZEYiW6c) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Månelanding](https://open.spotify.com/album/17v0oMIXSpTJkuHuFIjLG7) | 3:27 |
 | 7 | [Lyse Nætter](https://open.spotify.com/track/14iDVL9nkEM9ViJ26IvM0I) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Sigvardt](https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI) | [Lyse Nætter](https://open.spotify.com/album/5eTKYD1eF9BpmqbizWcfV4) | 2:56 |
 | 8 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 9 | [Begge To](https://open.spotify.com/track/6UKrwmUHGDWtUxQXu0lrjg) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Begge To](https://open.spotify.com/album/2DClmVE5u5kWjrEkQgQDRj) | 3:06 |

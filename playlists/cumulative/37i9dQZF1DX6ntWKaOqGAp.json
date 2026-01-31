@@ -25325,24 +25325,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "date_added": "2026-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/6FyK3JQW1ZYLrsvkNC4n1R"
-    },
-    {
-      "album": {
         "name": "tragedy",
         "url": "https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9"
       },
@@ -50514,6 +50496,24 @@
       "duration_ms": 201133,
       "name": "\u7fa4\u9752\u9003\u907f\u884c",
       "url": "https://open.spotify.com/track/06LFvBt7HHGlJUTSmaEFZM"
+    },
+    {
+      "album": {
+        "name": "Cheers to 10!!",
+        "url": "https://open.spotify.com/album/2sCL0So9nIEXqtFX19p6gq"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274600,
+      "name": "\u7fa4\u9ce5",
+      "url": "https://open.spotify.com/track/6FyK3JQW1ZYLrsvkNC4n1R"
     },
     {
       "album": {

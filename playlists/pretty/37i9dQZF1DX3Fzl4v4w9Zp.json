@@ -1,6 +1,6 @@
 {
   "description": "Where roots meet what\u2019s next. Cover: Cat Clyde",
-  "num_followers": 624912,
+  "num_followers": 624898,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
@@ -43,24 +43,28 @@
     {
       "added_at": "2026-01-30 00:00:10",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Appalachia",
+        "url": "https://open.spotify.com/album/428KzGfU0jpgqpebyZmITs"
       },
       "artists": [
         {
           "name": "Emily Scott Robinson",
           "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        },
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 297141,
+      "name": "Cast Iron Heart",
       "url": "https://open.spotify.com/track/0EALtIhPNmWQgYdT3hxfIX"
     },
     {
       "added_at": "2026-01-30 00:00:10",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Back to Life",
+        "url": "https://open.spotify.com/album/2tf6b0OVMQg6Nh7O5OgHKu"
       },
       "artists": [
         {

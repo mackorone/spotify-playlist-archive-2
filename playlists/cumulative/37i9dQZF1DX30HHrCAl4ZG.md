@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Westside Cowboy
+> Explore all things indie rock right now\. Featuring music from Yumi Zouma
 
-2,095 songs - 4 day 22 hr 29 min
+2,098 songs - 4 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Cover My Eyes](https://open.spotify.com/track/75vKWWZV5PWaHIdMPh06ns) | [Fwango](https://open.spotify.com/artist/0KXYnSvIfAogJZaVoV4tPE) | [Cover My Eyes](https://open.spotify.com/album/6w0ZeHQpQrIXYZE4rpYYb4) | 3:56 | 2023-07-21 | 2023-10-14 |
 | [Cowboy Killer](https://open.spotify.com/track/3WQuo1C5WhP15EBv9aXbQy) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [Cowboy Killer](https://open.spotify.com/album/6GlVNhYfePusaOwiqbENkR) | 6:39 | 2023-03-03 | 2023-03-18 |
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-02-03 | 2023-04-09 |
+| [Cowboy Without a Clue](https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [No Love Lost to Kindness](https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6) | 3:57 | 2026-01-30 |  |
 | [Cowgirl](https://open.spotify.com/track/5v1G9an6LVU0ojR4Ab2iEj) | [Cutouts](https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1), [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Cowgirl](https://open.spotify.com/album/0TTM3gTcaU3wPNK13FQSof) | 4:34 | 2024-09-13 | 2025-01-18 |
 | [Coyote](https://open.spotify.com/track/3H29rW3jmhlJaNNutzANBe) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Coyote](https://open.spotify.com/album/5xNXZjSg3U4cqxBjHZZKQ8) | 4:04 | 2025-03-21 | 2025-06-28 |
 | [coyote \(2015\-2021\)](https://open.spotify.com/track/6D0qeYwdqBBb2x6t2aondQ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [coyote \(2015\-2021\)](https://open.spotify.com/album/5QMTqu4M6I7aiF22lTRKAk) | 6:18 | 2022-04-29 | 2022-07-30 |
@@ -479,6 +480,7 @@
 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-14 | 2023-07-15 |
 | [Dancing Shoes](https://open.spotify.com/track/50EFKtKoGK05ayofX4s3gQ) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [On The Wall In The Morning Light](https://open.spotify.com/album/3c03M42fIDZscw7VrBpzdS) | 3:57 | 2023-02-15 | 2023-03-18 |
 | [Dancing, Alone](https://open.spotify.com/track/0RO0CjcQhTGoQsmHybVRx7) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [Dancing, Alone](https://open.spotify.com/album/2VXleQVQpNyoFjYIDrW9G6) | 4:05 | 2023-04-07 | 2023-05-27 |
+| [Dandelion](https://open.spotify.com/track/1JjL9mpChpaO3fZRFI402Z) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [Corporate Pudding](https://open.spotify.com/album/5nW0M9ugNbNygM09L8oMj6) | 3:14 | 2026-01-30 |  |
 | [DANDELION](https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [DANDELION](https://open.spotify.com/album/4GKSKzLd3STRz3wAL1Fzmc) | 3:21 | 2022-03-25 | 2022-04-18 |
 | [Dandelions](https://open.spotify.com/track/4trAC02hAH0E6u55iHok0u) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Dandelions](https://open.spotify.com/album/7yszWjQIIM4WrHH3MhgicV) | 3:16 | 2025-07-18 |  |
 | [Dang](https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Dang](https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv) | 3:22 | 2025-07-18 | 2025-12-13 |
@@ -1143,7 +1145,7 @@
 | [LOVE + POP](https://open.spotify.com/track/1uirjxfV7VpwcQIoB4Z1QH) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [YOUR ANGEL](https://open.spotify.com/artist/2TM9SCQxFsKKROUtDpC1yA) | [LOVE + POP](https://open.spotify.com/album/3FJAjZNGNDQDQ4skYueaHo) | 1:33 | 2023-06-23 | 2023-08-10 |
 | [Love in the Afternoon](https://open.spotify.com/track/7GdhqmcbfFfTLXVfhysn1Y) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Love in the Afternoon](https://open.spotify.com/album/6N43rFu2J4IktSSQgZyhLL) | 3:30 | 2023-03-10 | 2023-05-06 |
 | [Love On The Outside](https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Love On The Outside](https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7) | 3:58 | 2024-05-17 | 2024-07-13 |
-| [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2025-03-14 |  |
+| [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2025-03-14 | 2026-01-31 |
 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2023-12-08 | 2024-03-02 |
 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 | 2022-10-14 | 2023-03-04 |
 | [LOVEBITES](https://open.spotify.com/track/5Qmabe5M68D39yD3ie9dum) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [LOVEBITES](https://open.spotify.com/album/4gHjIxAYsDLd6gAWcwNod7) | 3:32 | 2024-05-24 | 2024-10-26 |
@@ -1455,6 +1457,7 @@
 | [pretty funny](https://open.spotify.com/track/6f9T8Q6xqWEWTvp3P87Wjm) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs 2](https://open.spotify.com/album/5Hss6ml2F35xoVJzFmnicV) | 3:25 | 2022-07-08 | 2022-08-27 |
 | [Pretty Pictures](https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 2:58 | 2021-08-27 | 2022-06-11 |
 | [Pretty Pink Sky](https://open.spotify.com/track/5kjfjqkIPmBQbffroznTck) | [stereo roux](https://open.spotify.com/artist/7hnRKDRhjSaBaph70JtRbx) | [Pretty Pink Sky](https://open.spotify.com/album/1reaWBcwSZXB0PW5b5pTBK) | 4:57 | 2024-07-05 | 2024-08-31 |
+| [Projecting](https://open.spotify.com/track/2qSKxBPSowYas4iYfmDX77) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Projecting](https://open.spotify.com/album/1W7GL23EoTVuxyemlTlo0D) | 3:28 | 2026-01-30 |  |
 | [Projector](https://open.spotify.com/track/0A4qt2A6Ay5LfI2sPMPYPP) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/77QwEK7kLbyAcILjcAB6Nt) | 4:25 | 2021-10-02 | 2022-04-13 |
 | [Psychedelic Orgasm](https://open.spotify.com/track/5z8H0o98dlKANCnDlKsjkY) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [Psychedelic Orgasm](https://open.spotify.com/album/1152eHgDWVHE88C8ATUmqc) | 3:40 | 2024-03-08 | 2024-04-13 |
 | [Psycho](https://open.spotify.com/track/5YD7FHoqjqRIrKCoZqwxMJ) | [Benjamin Carter](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn) | [Psycho](https://open.spotify.com/album/0yxU5sgwYriCQ1b1NltxS2) | 3:55 | 2021-08-10 | 2022-02-01 |
@@ -1552,7 +1555,7 @@
 | [Say It Like You Mean It](https://open.spotify.com/track/3XcEhWqxe04Qgpnsp4qUbc) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Say It Like You Mean It](https://open.spotify.com/album/60Dn3hJOYD75S9SahrlWp9) | 3:44 | 2023-11-10 | 2023-12-09 |
 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 | 2023-05-19 | 2023-07-29 |
 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-07-25 | 2026-01-17 |
-| [Say You Will](https://open.spotify.com/track/3qTx09RfTk18uwaJ2hKiVx) | [Ivy](https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA) | [Say You Will](https://open.spotify.com/album/53BvCzNQgSZyQyhkai2Zdy) | 3:19 | 2025-06-06 |  |
+| [Say You Will](https://open.spotify.com/track/3qTx09RfTk18uwaJ2hKiVx) | [Ivy](https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA) | [Say You Will](https://open.spotify.com/album/53BvCzNQgSZyQyhkai2Zdy) | 3:19 | 2025-06-06 | 2026-01-31 |
 | [Scream from New York, NY](https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 4:29 | 2024-06-21 | 2024-11-16 |
 | [Screamland](https://open.spotify.com/track/6vmb72xFV5gq2Lg7ZRS2LB) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Screamland](https://open.spotify.com/album/1cWcuem4swWjrTCPnga6Wd) | 6:51 | 2024-09-20 | 2024-11-23 |
 | [Searching For](https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [The//Glow](https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz) | 3:54 | 2025-08-08 | 2026-01-17 |
@@ -2018,7 +2021,7 @@
 | [What's the Rush](https://open.spotify.com/track/3GymBFzWnaTpnxFm7fn7m1) | [Bikini Trill](https://open.spotify.com/artist/3th8l6KA9NpiXgf44Hrdd4) | [What's the Rush](https://open.spotify.com/album/71fQg0YnqJhqMSTnMHrV1u) | 2:54 | 2022-06-10 | 2022-06-25 |
 | [Whateverrrr](https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 2:58 | 2025-05-09 | 2026-01-17 |
 | [What’s Right?](https://open.spotify.com/track/2YXDguAdOrvWYIwbPjvAkA) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [What’s Right?](https://open.spotify.com/album/0LFDTByH4Mbn5PbBGMPkJO) | 5:14 | 2025-12-05 |  |
-| [Wheel of Change](https://open.spotify.com/track/0ce5zTXfsdmerMyCtLUoII) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Wheel of Change](https://open.spotify.com/album/3jkhNReoky0EeoIzNzwbQA) | 4:25 | 2025-06-06 |  |
+| [Wheel of Change](https://open.spotify.com/track/0ce5zTXfsdmerMyCtLUoII) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Wheel of Change](https://open.spotify.com/album/3jkhNReoky0EeoIzNzwbQA) | 4:25 | 2025-06-06 | 2026-01-31 |
 | [When He Comes Around](https://open.spotify.com/track/2ShbjyFjQJ6mRKy4NykDbU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [When He Comes Around](https://open.spotify.com/album/4Pw4LalZWzcnve0sH4ms1H) | 3:14 | 2024-12-20 | 2025-03-08 |
 | [When It Rains](https://open.spotify.com/track/1V20vefZTBfVRWsZHlL2sO) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [When It Rains](https://open.spotify.com/album/4O3VhOjF5bseqMZbUaj8EI) | 4:51 | 2023-10-20 | 2024-01-27 |
 | [Where Are You Later On, Forever?](https://open.spotify.com/track/0i6iYbKAfDa9i7daY9bC2c) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Where Are You Later On, Forever?](https://open.spotify.com/album/3a513I3mLfr7s2rze2CB9f) | 3:25 | 2023-12-01 | 2024-02-17 |

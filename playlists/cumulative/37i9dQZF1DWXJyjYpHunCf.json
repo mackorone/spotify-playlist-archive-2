@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 207625,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/26b2184K8AbuALqmkfznSl"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 189966,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 205483,
       "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 92141,
       "name": "Falling Faster",
       "url": "https://open.spotify.com/track/08mpiFeuRWQeJsswcdSTDl"
@@ -3204,6 +3204,24 @@
       "duration_ms": 147337,
       "name": "Frightening Fishes - Main Title Theme from \"Shrinking\"",
       "url": "https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ"
+    },
+    {
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243667,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z"
     },
     {
       "album": {
@@ -4084,7 +4102,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 212470,
       "name": "Highway Queen",
       "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
@@ -5520,7 +5538,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 198572,
       "name": "Lose You Now",
       "url": "https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe"
@@ -5716,7 +5734,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 171509,
       "name": "MAKE IT OUT ALIVE",
       "url": "https://open.spotify.com/track/6yQWWm99NGK64J57sXUr5B"
@@ -5914,7 +5932,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 164387,
       "name": "Moments Like This",
       "url": "https://open.spotify.com/track/24i3pLDLo8YxJiIbV5ZInp"
@@ -6134,6 +6152,28 @@
       "duration_ms": 185583,
       "name": "My Repair",
       "url": "https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y"
+    },
+    {
+      "album": {
+        "name": "MY REVIVAL",
+        "url": "https://open.spotify.com/album/22Mcx6OeRsqehHjYKUNI2k"
+      },
+      "artists": [
+        {
+          "name": "MORGXN",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        },
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "MY REVIVAL",
+      "url": "https://open.spotify.com/track/5AyTDWhKFdllsYpNKeXPXh"
     },
     {
       "album": {
@@ -6576,7 +6616,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 199267,
       "name": "out of breath",
       "url": "https://open.spotify.com/track/16L5lEXtnJ3ahA3jE8aWKo"
@@ -6810,7 +6850,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 167690,
       "name": "Pretty Little Devil",
       "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
@@ -8522,7 +8562,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 207679,
       "name": "The Only Thing Left",
       "url": "https://open.spotify.com/track/5rOkv636e3XHJmjLHvjLPT"
@@ -9186,7 +9226,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 281410,
       "name": "Unsee",
       "url": "https://open.spotify.com/track/4s4Qxld7g6ydIcQ5Ir6MTf"

@@ -934,7 +934,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 185650,
       "name": "Bailame",
       "url": "https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP"
@@ -1933,6 +1933,28 @@
     },
     {
       "album": {
+        "name": "Calambo",
+        "url": "https://open.spotify.com/album/1o2GkqBY3jPdTAcVhu79qT"
+      },
+      "artists": [
+        {
+          "name": "Alexander Zabbi",
+          "url": "https://open.spotify.com/artist/6vYrqzg2DLvAfsf0VMAeQI"
+        },
+        {
+          "name": "David Sandoval",
+          "url": "https://open.spotify.com/artist/1KaXNEYZCzlI9KVvQjElki"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346884,
+      "name": "Calambo",
+      "url": "https://open.spotify.com/track/7K2CfTPCqsccwat6uqdMJe"
+    },
+    {
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE"
       },
@@ -2492,7 +2514,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 192000,
       "name": "Coketea (feat. Dean Walker)",
       "url": "https://open.spotify.com/track/28L7bvWJkW1aXwAkjg5GaF"
@@ -5676,6 +5698,28 @@
       "duration_ms": 170953,
       "name": "Lo Que Soy",
       "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
+    },
+    {
+      "album": {
+        "name": "LOCA LOCA",
+        "url": "https://open.spotify.com/album/7CFl9Ik36IV8rgW0PMm2zO"
+      },
+      "artists": [
+        {
+          "name": "BOLO THE DJ",
+          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
+        },
+        {
+          "name": "Espii",
+          "url": "https://open.spotify.com/artist/6XzdLgg33plw86GuctSuAh"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "LOCA LOCA",
+      "url": "https://open.spotify.com/track/6RYtjDSQa28nhhOFLHjzT2"
     },
     {
       "album": {

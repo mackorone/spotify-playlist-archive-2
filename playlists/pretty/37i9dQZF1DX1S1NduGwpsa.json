@@ -1,6 +1,6 @@
 {
   "description": "The best jazz new releases. Cover: Dominique Fils-Aim\u00e9",
-  "num_followers": 159384,
+  "num_followers": 159413,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
@@ -71,17 +71,21 @@
     {
       "added_at": "2026-01-29 23:00:31",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Nuit parisienne \u00e0 La Havane",
+        "url": "https://open.spotify.com/album/2SBHQRGi2rN8FysbZX5ijA"
       },
       "artists": [
         {
           "name": "Roberto Fonseca",
           "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        },
+        {
+          "name": "Vincent Segal",
+          "url": "https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 250906,
+      "name": "Soul Kiss",
       "url": "https://open.spotify.com/track/2N1wJYMg2aQGH9WenUZcMq"
     },
     {

@@ -3211,6 +3211,32 @@
     },
     {
       "album": {
+        "name": "Eu Vou Cuspir",
+        "url": "https://open.spotify.com/album/3ALuRC0WpEev3kQlYUH4Dt"
+      },
+      "artists": [
+        {
+          "name": "DJ YAN MARIOTO",
+          "url": "https://open.spotify.com/artist/3lxhCRbMuc8uHPFG714lqM"
+        },
+        {
+          "name": "MC Marlon PH",
+          "url": "https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ"
+        },
+        {
+          "name": "BIG MC",
+          "url": "https://open.spotify.com/artist/75KmA2fnu28O4MunN3AskC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "Eu Vou Cuspir",
+      "url": "https://open.spotify.com/track/27rqWKpmFCD0Mmw3XABBOW"
+    },
+    {
+      "album": {
         "name": "Eu Vou Dan\u00e7ando Sem Voc\u00ea",
         "url": "https://open.spotify.com/album/1132MvmoT9oqARN98UlkNS"
       },
@@ -8050,7 +8076,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 161160,
       "name": "Pra que falar mal da macumba",
       "url": "https://open.spotify.com/track/5esbXuPOy2IRyvH5Vl9fwt"

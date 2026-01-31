@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Giana Mello",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Vit\u00e3o",
   "name": "Palco POP",
   "tracks": [
     {
@@ -324,7 +324,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 194000,
       "name": "409",
       "url": "https://open.spotify.com/track/60lpe6EiExjWpccXNI9urx"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 146789,
       "name": "AFF",
       "url": "https://open.spotify.com/track/26oPEb5dmO2uSEZHj2Pi6x"
@@ -1450,6 +1450,24 @@
       "duration_ms": 129166,
       "name": "Amanh\u00e3",
       "url": "https://open.spotify.com/track/5NymnW8GUo8rbcpjnATBM1"
+    },
+    {
+      "album": {
+        "name": "amanh\u00e3 de manh\u00e3",
+        "url": "https://open.spotify.com/album/7wnb54oeH4W62nXcF66qzU"
+      },
+      "artists": [
+        {
+          "name": "lola ferrera",
+          "url": "https://open.spotify.com/artist/73XYpnz3T3doSWen2bH10K"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152521,
+      "name": "amanh\u00e3 de manh\u00e3",
+      "url": "https://open.spotify.com/track/7re1atoPYsUFVx2Kv6mOqK"
     },
     {
       "album": {
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 154500,
       "name": "Banquete",
       "url": "https://open.spotify.com/track/0ofvSx2IL3cPEqonyjBk85"
@@ -3776,7 +3794,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 142396,
       "name": "Calor e Arrepio",
       "url": "https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4"
@@ -6875,6 +6893,28 @@
     },
     {
       "album": {
+        "name": "Encanto (Nossa Gente, Avisa l\u00e1)",
+        "url": "https://open.spotify.com/album/7Hxypa00U94CCgFJLQKjfd"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        },
+        {
+          "name": "Tonho Mat\u00e9ria",
+          "url": "https://open.spotify.com/artist/3Gvd4jaWihN7nNBoffneNp"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130639,
+      "name": "Encanto (Nossa Gente, Avisa l\u00e1)",
+      "url": "https://open.spotify.com/track/790OWdmOK2eLr9qBWEbuj4"
+    },
+    {
+      "album": {
         "name": "Encontros",
         "url": "https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj"
       },
@@ -7160,7 +7200,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 200735,
       "name": "Eu Fim, Voc\u00ea In\u00edcio",
       "url": "https://open.spotify.com/track/2IsynCtnYE5D7hizFfKwJt"
@@ -12259,6 +12299,32 @@
     },
     {
       "album": {
+        "name": "MEU FI",
+        "url": "https://open.spotify.com/album/0Hlp4I7AHtMabfVEtA8pi7"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        },
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161343,
+      "name": "MEU FI",
+      "url": "https://open.spotify.com/track/2g2jgVqx4Bn7SLCAM2EPsP"
+    },
+    {
+      "album": {
         "name": "Onda",
         "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
       },
@@ -14207,6 +14273,24 @@
     },
     {
       "album": {
+        "name": "O que \u00e9 amar?",
+        "url": "https://open.spotify.com/album/6ix2yOXCFignb31HY3YeUV"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212541,
+      "name": "O que \u00e9 amar?",
+      "url": "https://open.spotify.com/track/1Wkd4yWRVcAGjohl81ngYt"
+    },
+    {
+      "album": {
         "name": "O Tanque",
         "url": "https://open.spotify.com/album/1zDO9BT2Sab57wQ15wh9Ft"
       },
@@ -14386,7 +14470,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 186666,
       "name": "Odeio sua ex",
       "url": "https://open.spotify.com/track/5vuHPajGm0OffWC1nkHH9t"
@@ -22923,6 +23007,28 @@
     },
     {
       "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
+      },
+      "artists": [
+        {
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127600,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
+    },
+    {
+      "album": {
         "name": "Taurus, Vol. 2",
         "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
       },
@@ -23032,7 +23138,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 193920,
       "name": "Voz Do Brasil",
       "url": "https://open.spotify.com/track/1nSF7mrf2Wt4VKsN3cemM2"

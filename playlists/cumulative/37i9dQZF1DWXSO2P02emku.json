@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Tomamos ruta desde el Noreste hasta el Viejo Oeste \ud83c\udf35\ud83e\udd20. Conjunto Brio Norte\u00f1o en portada \ud83d\udcf8",
+  "description": "Tomamos ruta desde el Noreste hasta el Viejo Oeste \ud83c\udf35\ud83e\udd20. Cuitla Vega en portada \ud83d\udcf8",
   "name": "Country Sin Fronteras",
   "tracks": [
     {
@@ -4984,7 +4984,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 375757,
       "name": "Solo T\u00fa Me Haces Feliz",
       "url": "https://open.spotify.com/track/2Fzk246o9MjyxDZ4x5Ocdu"
@@ -5516,6 +5516,24 @@
       "duration_ms": 201882,
       "name": "VIAJA CONMIGO",
       "url": "https://open.spotify.com/track/2zr9cOdj6D8mZR25hdWnCa"
+    },
+    {
+      "album": {
+        "name": "Vida Nueva",
+        "url": "https://open.spotify.com/album/3W0z6iu3rLi8BfOiUnNGFj"
+      },
+      "artists": [
+        {
+          "name": "Cuitla Vega",
+          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181299,
+      "name": "Vida Nueva",
+      "url": "https://open.spotify.com/track/2IKakOmkYd4Z4L5eWzROv3"
     },
     {
       "album": {

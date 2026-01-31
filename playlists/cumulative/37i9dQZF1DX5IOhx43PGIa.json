@@ -15193,7 +15193,7 @@
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 206202,
+      "duration_ms": 208251,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
     },
@@ -16470,6 +16470,24 @@
       "duration_ms": 193000,
       "name": "pity dirty",
       "url": "https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06"
+    },
+    {
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/5gp3W7B8BmcpiZ3MeyqXLl"
+      },
+      "artists": [
+        {
+          "name": "jiho",
+          "url": "https://open.spotify.com/artist/7KQg7feHl7MLAyKduypMkz"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118588,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/1c0EMczKGhyYDrclmuvKwY"
     },
     {
       "album": {
@@ -19860,7 +19878,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 230000,
       "name": "stuck losing",
       "url": "https://open.spotify.com/track/6IHCd3xv2WvbXreSJTI6A9"

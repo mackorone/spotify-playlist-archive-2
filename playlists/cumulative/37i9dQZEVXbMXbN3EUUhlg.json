@@ -9258,7 +9258,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 150442,
       "name": "Desocupa",
       "url": "https://open.spotify.com/track/473DqaeIno75pBbp0bNrkT"
@@ -23355,6 +23355,32 @@
     },
     {
       "album": {
+        "name": "NUNCA ESQUECIDO",
+        "url": "https://open.spotify.com/album/13h5aD46qkT8BOQEnrHXhR"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151434,
+      "name": "NUNCA ESQUECIDO",
+      "url": "https://open.spotify.com/track/4JaUZ7HAQRvyG2Vc7J2GVb"
+    },
+    {
+      "album": {
         "name": "Nunca Sozinho",
         "url": "https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb"
       },
@@ -35286,7 +35312,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 155307,
       "name": "T\u00f4 na Brasilia com o Zig\u00e3o",
       "url": "https://open.spotify.com/track/4l2Fyw7EYB5XjcKwqcwuHQ"
@@ -37456,7 +37482,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 281774,
       "name": "Vou pela Madrugada",
       "url": "https://open.spotify.com/track/3p58wJmZqIc9RjsdeZ5Jfq"

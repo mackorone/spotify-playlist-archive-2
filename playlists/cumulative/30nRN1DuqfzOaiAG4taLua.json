@@ -791,6 +791,28 @@
     },
     {
       "album": {
+        "name": "Light The Fire",
+        "url": "https://open.spotify.com/album/1Y0EMZfHy9iiUcrVE0Hzfb"
+      },
+      "artists": [
+        {
+          "name": "DREYA V",
+          "url": "https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P"
+        },
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Light The Fire",
+      "url": "https://open.spotify.com/track/56uH091R7C1GoP6XLjF4St"
+    },
+    {
+      "album": {
         "name": "Madonna / Like WTF",
         "url": "https://open.spotify.com/album/5ANwvMu3qBU62Wq3OZHjON"
       },

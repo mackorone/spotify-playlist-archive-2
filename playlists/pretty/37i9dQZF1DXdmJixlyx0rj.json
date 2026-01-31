@@ -1,12 +1,12 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: The Deep)",
-  "num_followers": 34826,
+  "num_followers": 34867,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPkhyRcg7IXy9rIYTKDEIfqeFGPW",
+  "snapshot_id": "AAAAAGWxsM/XYviZUhjdMh/RGcjt7+PF",
   "tracks": [
     {
       "added_at": "2026-01-23 02:07:01",
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "iScreaM Vol.26 : Spicy Remix",
-        "url": "https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Spicy - Nitepunk Remix",
-      "url": "https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "TOMBOY (R3HAB Remix)",
         "url": "https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 129677,
       "name": "TOMBOY (R3HAB Remix)",
       "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "iScreaM Vol.26 : Spicy Remix",
+        "url": "https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Spicy - Nitepunk Remix",
+      "url": "https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
+        "name": "eigensinn",
+        "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 261301,
+      "name": "homes",
+      "url": "https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
         "name": "Rich Man (Remixes)",
         "url": "https://open.spotify.com/album/6XoOzE5Ie7Z6CjVANGB4Mk"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 190370,
       "name": "Rich Man - Yellow Claw Remix",
       "url": "https://open.spotify.com/track/3cs4cGO4EgZDATiKgoAqpO"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
-        "name": "eigensinn",
-        "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 261301,
-      "name": "homes",
-      "url": "https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Dirty Work (Remixes)",
-        "url": "https://open.spotify.com/album/1bV9UJSiCQOg5S786s2T9g"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
-        }
-      ],
-      "duration_ms": 201454,
-      "name": "Dirty Work - RayRay Remix",
-      "url": "https://open.spotify.com/track/4WlnsX6Mpgv1tZ3Vwtrdsc"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "iScreaM Vol.12 : Bad Boy Remixes",
         "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
@@ -1191,6 +1171,26 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
+        "name": "Dirty Work (Remixes)",
+        "url": "https://open.spotify.com/album/1bV9UJSiCQOg5S786s2T9g"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 201454,
+      "name": "Dirty Work - RayRay Remix",
+      "url": "https://open.spotify.com/track/4WlnsX6Mpgv1tZ3Vwtrdsc"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
         "name": "Love Crime",
         "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
       },
@@ -1203,26 +1203,6 @@
       "duration_ms": 154712,
       "name": "Felony",
       "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
-        "name": "SPAZ",
-        "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
-      },
-      "artists": [
-        {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 169506,
-      "name": "Bassister (Feat. Kid Milli)",
-      "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1255,6 +1235,26 @@
       "duration_ms": 144262,
       "name": "Ash",
       "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "SPAZ",
+        "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "Bassister (Feat. Kid Milli)",
+      "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "BLUSH",
-        "url": "https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg"
-      },
-      "artists": [
-        {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 152505,
-      "name": "Bad B**ch (Feat. Sik-K)",
-      "url": "https://open.spotify.com/track/5adaDy3RlstXNVvniuBkRX"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "iScreaM Vol.12 : Bad Boy Remixes",
         "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 214400,
       "name": "Bad Boy - Slom Remix",
       "url": "https://open.spotify.com/track/2MgGwRwnTJnQ8qEljY1T0D"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "BLUSH",
+        "url": "https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 152505,
+      "name": "Bad B**ch (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/5adaDy3RlstXNVvniuBkRX"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "We The One",
-        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        }
-      ],
-      "duration_ms": 195964,
-      "name": "We The One",
-      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 146500,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "We The One",
+        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        }
+      ],
+      "duration_ms": 195964,
+      "name": "We The One",
+      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Kind of Love (feat. Ina Bravo)",
-        "url": "https://open.spotify.com/album/4OcyPubs6iPrCqw2LJCAUd"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        },
-        {
-          "name": "Ina Bravo",
-          "url": "https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Kind of Love (feat. Ina Bravo)",
-      "url": "https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "TWO",
         "url": "https://open.spotify.com/album/2O0QmR1oXCc70QLwYDn03z"
       },
@@ -1907,22 +1887,42 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
+        "name": "Kind of Love (feat. Ina Bravo)",
+        "url": "https://open.spotify.com/album/4OcyPubs6iPrCqw2LJCAUd"
       },
       "artists": [
         {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
         },
         {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+          "name": "Ina Bravo",
+          "url": "https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx"
         }
       ],
-      "duration_ms": 134769,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
+      "duration_ms": 200826,
+      "name": "Kind of Love (feat. Ina Bravo)",
+      "url": "https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
+        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        },
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Make A Wish (Birthday Song) - Wuki Remix",
+      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
     },
     {
       "added_at": "2026-01-23 02:07:01",

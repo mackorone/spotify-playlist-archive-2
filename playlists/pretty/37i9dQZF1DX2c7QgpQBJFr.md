@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Angelica Bove
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,660 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,704 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 41 | [SERIE A](https://open.spotify.com/track/0W2av5LsyXo5pd8VnSDz3I) | [Matsby](https://open.spotify.com/artist/2mjOOYqJzFaYPrjrhci9kZ) | [SERIE A](https://open.spotify.com/album/4RctSOvzgqhL8OXrez1cpy) | 3:17 |
 | 42 | [Più Giù Del Solito](https://open.spotify.com/track/5LtsTH1gienRSG8CcyWKCT) | [Dheo](https://open.spotify.com/artist/4cqOx4TqvaYkvSBIjoaeCf), [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb) | [Più Giù Del Solito](https://open.spotify.com/album/1BRJ2cvydLRSwRJa2hSeV0) | 2:15 |
 | 43 | [manifestami](https://open.spotify.com/track/4Ik1KRdSCvJqyOJdw5icxF) | [Nico Arezzo](https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V), [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS) | [Non c'è fretta](https://open.spotify.com/album/1NkZTdXR5mfB3rSCQMF5xQ) | 2:47 |
-| 44 | [I RAGAZZI BALLANO ANCORA I CURE](https://open.spotify.com/track/7kwHYZSzPzG0m3mdnumvye) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [](https://open.spotify.com/album/null) | 3:50 |
+| 44 | [I RAGAZZI BALLANO ANCORA I CURE](https://open.spotify.com/track/7kwHYZSzPzG0m3mdnumvye) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [EX](https://open.spotify.com/album/1gYLYLWky4NM9Gfx3sNWQT) | 3:50 |
 | 45 | [Una Storia Che Non Ha Fortuna](https://open.spotify.com/track/1AhnVn3aexp6tIA3wFxir9) | [Ube](https://open.spotify.com/artist/2SBLpl3UnwEIwNIs8306nt) | [Una Storia Che Non Ha Fortuna](https://open.spotify.com/album/7aokGtvaBTeHI64MHRxSuz) | 3:35 |
 | 46 | [Mi manca](https://open.spotify.com/track/5ZktOiepCeV9elFgnrhU91) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Mi manca](https://open.spotify.com/album/1uU4n5zp6vhYfoGAfTtUAt) | 2:54 |
 | 47 | [Aquiloni](https://open.spotify.com/track/72FAbXL0khNp8bo4tpA7Jy) | [MARGHERITA PRINCIPI](https://open.spotify.com/artist/0VvyCsUWH9s7uqcb24Yv7I) | [Aquiloni](https://open.spotify.com/album/2PhuTxeq5xv4EKweLIrlhm) | 3:07 |

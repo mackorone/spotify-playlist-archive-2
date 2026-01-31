@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alok x Faithless x Sam Harper x Alex Christensen
 
-2,137 songs - 4 day 12 hr 56 min
+2,138 songs - 4 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1930,6 +1930,7 @@
 | [Una Velita](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Una Velita](https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL) | 2:43 | 2024-12-19 | 2025-03-21 |
 | [Under The Sun \(with Alok\)](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Under The Sun \(with Alok\)](https://open.spotify.com/album/4PP92BFZLs8PMzJoKtNn5I) | 2:45 | 2024-05-30 | 2024-07-05 |
 | [Under Your Spine](https://open.spotify.com/track/2qZEyjmUrMdrAfF5gbsHid) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Khainz](https://open.spotify.com/artist/71yD5VENn9Wy1IECnpYWvX), [HEREON](https://open.spotify.com/artist/7mFinREzAQwsneN5JaboIr), [Elodie Gervaise](https://open.spotify.com/artist/6unop8bfA1nenk8F2DpWZB) | [Under Your Spine](https://open.spotify.com/album/6njDdUYRQNZKArxJiVlr6F) | 3:21 | 2023-12-28 | 2024-02-02 |
+| [Underground](https://open.spotify.com/track/3t5k1zm08l9jBblDG5H8fR) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi) | [Underground](https://open.spotify.com/album/7y01i6RbfrA6UdeYQEjZQ3) | 2:33 | 2026-01-30 |  |
 | [Underneath](https://open.spotify.com/track/5ysXuifk655k82MjxXHxzS) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Underneath](https://open.spotify.com/album/0yJwLlRNz1oBjf24GqqteA) | 3:02 | 2024-05-16 | 2024-06-21 |
 | [Underneath My Raincoat](https://open.spotify.com/track/3xAzEO2IhH1OXctIwSYYBK) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Underneath My Raincoat](https://open.spotify.com/album/3KCbQ55wsoOhnlTP5vHntQ) | 2:55 | 2023-03-24 | 2023-04-28 |
 | [Underrated](https://open.spotify.com/track/0xABj8GJud97r7AXJSlpMg) | [Zushi&Vanko](https://open.spotify.com/artist/298Tr9fKPXEbDuEB4Bugmx), [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [Underrated](https://open.spotify.com/album/3t5D4dnXjMZY8PZsbO8xz8) | 3:41 | 2024-06-06 | 2024-07-12 |

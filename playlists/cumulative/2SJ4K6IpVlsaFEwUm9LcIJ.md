@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-889 songs - 2 day 5 hr 30 min
+891 songs - 2 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [2%](https://open.spotify.com/track/4eeZ6F1bZ0lf0r8Tn7oUBP) | [Bomis Prendin](https://open.spotify.com/artist/4BSnddAYCEOkNJfeFNbEm2) | [TEST](https://open.spotify.com/album/2BekZZiaquGSF66wpM4fWq) | 2:22 | 2025-07-09 | 2025-09-11 |
 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 | 2025-06-16 | 2025-07-04 |
 | [21 insecurities](https://open.spotify.com/track/7dVmclFw8bSqjBfwZANhFp) | [500](https://open.spotify.com/artist/1KN20bvE2G6dx9A0bUQayu) | [21 insecurities](https://open.spotify.com/album/5K7mmZFVJciov84zg1Ovsl) | 3:05 | 2025-10-08 | 2025-11-15 |
+| [23](https://open.spotify.com/track/2BP54vmLS8Xdw294EuiH67) | [Torus](https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW) | [Dandelion1](https://open.spotify.com/album/3hXubcAnVll5tpxNMjURn9) | 2:22 | 2026-01-30 |  |
 | [2357 A.D.](https://open.spotify.com/track/6zyZk3KUtCjrQSbNkOaAtl) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Welcome to Mikrosector\-50](https://open.spotify.com/album/5hhiFP1t4UhkI0JL397ogf) | 2:36 | 2025-10-08 | 2025-11-15 |
 | [4 DEGREES](https://open.spotify.com/track/3IDQXyHYuX2rdLnNfVzT3g) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/6zrFK6ltxpZZ0HmMgfOwbw) | 3:51 | 2024-10-22 | 2024-11-14 |
 | [400 & 57](https://open.spotify.com/track/1KlSberDtUJKrXQsEujQr3) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [In Solarium](https://open.spotify.com/album/13ZC7qriL0nNYB04lK4CXB) | 3:56 | 2024-10-25 | 2024-11-14 |
@@ -877,6 +878,7 @@
 | [X.U.Y.](https://open.spotify.com/track/7D1UX739Xu5b9ZbjqodwWT) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [See / X.U.Y.](https://open.spotify.com/album/5LDnunPgPjbR973c1NStVV) | 3:48 | 2025-04-20 | 2025-05-09 |
 | [XXX](https://open.spotify.com/track/0Y5cLWAOfOj2GTI30C2yrx) | [Helium](https://open.spotify.com/artist/7mefbdlQXxJVKgEbfAeKjL) | [Ends With And](https://open.spotify.com/album/4RizHxeSDd1mN27Yepfk2q) | 5:17 | 2025-03-01 | 2025-05-09 |
 | [Yo Chavez](https://open.spotify.com/track/7bufLy1mTp5ckluqJdDptX) | [Yussef Kamaal](https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh) | [Black Focus](https://open.spotify.com/album/6pDAh84nyNU7x3xje9G03I) | 3:59 | 2025-06-12 | 2025-07-04 |
+| [You Ain't Got A Hold On Me](https://open.spotify.com/track/6nzFEEsgaXRzlSZmlR4MwM) | [Mark Kozelek](https://open.spotify.com/artist/0qt6QSruHshcWT9QOzyfZp) | [Rock 'N' Roll Singer](https://open.spotify.com/album/5866J94MCDJmX5d7in000y) | 3:14 | 2026-01-30 |  |
 | [You Don't Have One Hope](https://open.spotify.com/track/50ZJVGTEnnDGwzIctwd5g3) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [You Don't Have One Hope](https://open.spotify.com/album/72DUqvLhI6ZyqvB82bovq9) | 2:17 | 2025-04-12 | 2025-05-09 |
 | [You Don't Know The Shape I'm In](https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:36 | 2024-09-07 | 2024-11-14 |
 | [You Go To My Head](https://open.spotify.com/track/2Y2JjsME65xL6y0T7TzofS) | [Larry Clinton & His Orchestra](https://open.spotify.com/artist/3IVes86uCinTCNTksNrGdX) | [Dipsy Doodle](https://open.spotify.com/album/3v8KHQ4ahFKNHl8tWXth8T) | 3:41 | 2025-10-01 | 2025-11-15 |

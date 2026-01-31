@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 451848,
+  "num_followers": 451896,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Monster Paradise",
-        "url": "https://open.spotify.com/album/0zCqTL9pofyiYRf1t3bKAf"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Bombs Away",
-          "url": "https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "Monster Paradise",
-      "url": "https://open.spotify.com/track/71BQG6SlpeXpdx7PJaFNnB"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "You Don't Know Me",
         "url": "https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 213946,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Monster Paradise",
+        "url": "https://open.spotify.com/album/0zCqTL9pofyiYRf1t3bKAf"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Bombs Away",
+          "url": "https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB"
+        }
+      ],
+      "duration_ms": 165066,
+      "name": "Monster Paradise",
+      "url": "https://open.spotify.com/track/71BQG6SlpeXpdx7PJaFNnB"
     },
     {
       "added_at": "2025-07-31 16:00:18",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Money Sucks, Friends Rule",
-        "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 212777,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "Sex",
         "url": "https://open.spotify.com/album/0H0me9GzGlSENBNZNvSmTM"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 228360,
       "name": "Sex - Radio Edit",
       "url": "https://open.spotify.com/track/1MyWtH2yavuP1AHUi1X7ur"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Money Sucks, Friends Rule",
+        "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 212777,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
     },
     {
       "added_at": "2025-07-31 16:00:18",

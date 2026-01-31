@@ -2,9 +2,9 @@
 
 ### [2026 COUNTRY BANGERS 🤠🔥](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Kalsey Kulyk
+> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross
 
-400 songs - 21 hr 50 min
+401 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Backroad \(That 17 Summer\)](https://open.spotify.com/track/7mjb7qTCkTGB29ZAYpJ43T) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Backroad \(That 17 Summer\)](https://open.spotify.com/album/2lMtL0onhFskoOEFmigoBq) | 3:06 | 2023-11-03 | 2024-02-03 |
 | [Bad Guy](https://open.spotify.com/track/2KYXVfufJyULq19lC4VyzR) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [PB2](https://open.spotify.com/album/7EcpFtgJ2UT0O7FSaKg6R1) | 2:47 | 2024-06-21 | 2024-11-10 |
 | [Band On Her T\-Shirt](https://open.spotify.com/track/3aQH4moGvuz3JTU4I2lsFW) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Band On Her T\-Shirt](https://open.spotify.com/album/2NvZ047DnmgdTVu8HgdonK) | 3:09 | 2024-05-24 | 2025-02-22 |
+| [Bar And Back](https://open.spotify.com/track/3tIpPero4mBna2KK8xndmm) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Bar And Back](https://open.spotify.com/album/4dIRUzzqfwQtjyqCJJoEbN) | 3:14 | 2026-01-30 |  |
 | [Bar None](https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bar None](https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI) | 2:53 | 2025-07-18 |  |
 | [Barely Blue](https://open.spotify.com/track/4BwlG5oIWVyA2FVEaWh05o) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Barely Blue](https://open.spotify.com/album/4e0HW29J9Jc2v5ChnJ3xzJ) | 3:36 | 2024-09-20 | 2024-12-07 |
 | [Beautiful As You](https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Beautiful As You](https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG) | 2:43 | 2024-05-10 | 2025-04-26 |

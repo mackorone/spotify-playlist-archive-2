@@ -4,29 +4,27 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,863 likes - 20 songs - 1 hr 3 min
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,865 likes - 18 songs - 59 min 3 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
-| 2 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
-| 3 | [Won't Let Go](https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 3:09 |
-| 4 | [Do I Wanna Know?](https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Do I Wanna Know?](https://open.spotify.com/album/5Jv3xQMjCqTcuCbKWvfzOR) | 3:52 |
-| 5 | [crybby blue](https://open.spotify.com/track/6VvLMqlEMs3BOzBc2YOnXs) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [crybby blue](https://open.spotify.com/album/7FoWtdR8NB2OlD0kQpTrpu) | 2:36 |
-| 6 | [Dansa med mig själv](https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Dansa med mig själv](https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc) | 3:30 |
-| 7 | [Moon](https://open.spotify.com/track/29zDh7uwDRD35W4wP4AsWl) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [No More Like This](https://open.spotify.com/album/12DsfLStHj9iTWgbNQVoRK) | 3:29 |
-| 8 | [Patient](https://open.spotify.com/track/1Nro4pFr2ZrfjZtYwUBKGC) | [Melis](https://open.spotify.com/artist/6kSTKwK0UxnSFLdpF3DCc3) | [Patient](https://open.spotify.com/album/6K7pJVtpIZgl2GqJyguPMh) | 2:28 |
-| 9 | [iNSOMNiAC](https://open.spotify.com/track/1wl9sRI946fOxewS3k2ExF) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [iNSOMNiAC](https://open.spotify.com/album/6VAudXPDYWxC3kECysc8zw) | 2:45 |
-| 10 | [Love Bombs](https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Love Bombs](https://open.spotify.com/album/3JGRQFGZS9j3GzhpHAzcZs) | 2:35 |
-| 11 | [THE SPELL](https://open.spotify.com/track/7CWUdG7KSYBjkEgV4HcC6t) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx), [Thomas Jenssen](https://open.spotify.com/artist/1CsiZJ13f1oUIxiV1X9NBm) | [THE SPELL](https://open.spotify.com/album/7l95yd85Ob7Gu9yfQNSpqF) | 2:55 |
-| 12 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 |
-| 13 | [Try To Forget You](https://open.spotify.com/track/4owTp0ISJEukMDPpbiYVTF) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Bloom](https://open.spotify.com/album/3bbmQ862f9gNMC3I5eH5Qx) | 3:24 |
-| 14 | [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 |
-| 15 | [Girly Girl](https://open.spotify.com/track/0z23AxOVVgmTCi7zFc5OPG) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Girly Girl](https://open.spotify.com/album/4ez4b73nHE5m9CqMXaGS6U) | 2:57 |
-| 16 | [UP TO MY NECK IN U](https://open.spotify.com/track/6Gcf36dXcnt1QE9s1hmzfF) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [UP TO MY NECK IN U](https://open.spotify.com/album/0RXNiEjTJiYafYlOMo6KkV) | 2:17 |
-| 17 | [Ntn but Pumpum](https://open.spotify.com/track/3vNsa92LjHqbLWVJtneuKm) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Just a Girl in a Money Man's World](https://open.spotify.com/album/2aV7R5ObcMh2s8xHtofqUE) | 2:34 |
-| 18 | [hot but depressive](https://open.spotify.com/track/4kRAn2ZrWPzN0bQiLmtLUq) | [Elliot](https://open.spotify.com/artist/1GUGqjD5UliyQ31rYo7JBd) | [hot but depressive](https://open.spotify.com/album/5Ay0BAktKkO9l7dUQSmTbU) | 2:44 |
-| 19 | [LOVESONGS](https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:33 |
-| 20 | [Serious \(feat\. The Teenagers\)](https://open.spotify.com/track/2CcSPtMgQrDK9Hr4Al0wYT) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [The Teenagers](https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE) | [Serious \(feat\. The Teenagers\)](https://open.spotify.com/album/28p2nPkSV5JUEJGzEpmHWs) | 2:42 |
+| 1 | [I Hope You Don't Remember Me](https://open.spotify.com/track/0H1iIWraMgzBMIQglJQXvJ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [I Hope You Don't Remember Me](https://open.spotify.com/album/4iwwNDtoPunaFnao5lXJAH) | 3:25 |
+| 2 | [Good Girl](https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Girl](https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE) | 4:23 |
+| 3 | [Confused](https://open.spotify.com/track/69NbKYZ45HX3FLQ4mbPrse) | [Laptop](https://open.spotify.com/artist/3gSWfRMa91c5EAOtR72Dco) | [Confused](https://open.spotify.com/album/4SQ74K448L9jriYvMlo4Fd) | 3:28 |
+| 4 | [Body Is On Fire](https://open.spotify.com/track/5dG34aa2xQK9WBbd2U8MAS) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Body Is On Fire](https://open.spotify.com/album/5EzCcZlpoHWp4X3IJDRq7b) | 2:22 |
+| 5 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 |
+| 6 | [Fist Fighting A Sandstorm](https://open.spotify.com/track/2f4a3iqaHrW8ly6qtjvYOL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(10th Anniversary Edition\)](https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk) | 3:47 |
+| 7 | [eye contact \(feat\. Council\)](https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ), [Council](https://open.spotify.com/artist/3N7z79Am2V9dxOxd8K2HVo) | [eye contact \(feat\. Council\)](https://open.spotify.com/album/6z9iFDIEPBgrDp1fpwqRHN) | 3:06 |
+| 8 | [i wanna hate you \(feat\. Alice U\)](https://open.spotify.com/track/0zTjiDx7ANlsHPhvtoTSHD) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N), [Alice U](https://open.spotify.com/artist/3DwCWZ5Zgo2ePZZM5cC8lT) | [i wanna hate you \(feat\. Alice U\)](https://open.spotify.com/album/4OZQOLmpjv7wXSISHcgpL3) | 2:51 |
+| 9 | [What Could Possibly Go Wrong?](https://open.spotify.com/track/4keyW2cRIHic8OvfSVNB5N) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [What Could Possibly Go Wrong?](https://open.spotify.com/album/60JtNoLU1MDm3XrzwzywJO) | 3:27 |
+| 10 | [The Nightmare](https://open.spotify.com/track/0tHopCSHUlzvni2x7NhjgA) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [The Nightmare](https://open.spotify.com/album/3OrloT39YEeutOFc0thors) | 3:35 |
+| 11 | [Away With The Fairies](https://open.spotify.com/track/7avTegY5ObMuQM5N32kPxz) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Away With The Fairies](https://open.spotify.com/album/0jAsC2f7Ek6DtMJbPmmRB3) | 2:28 |
+| 12 | [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:55 |
+| 13 | [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 |
+| 14 | [Liars Tale](https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Liars Tale](https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe) | 3:17 |
+| 15 | [Fluent](https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI) | [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Fluent](https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM) | 2:08 |
+| 16 | [Tell Me Why](https://open.spotify.com/track/4W3XltRy0SU91Dv4wUCuaD) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Glimmers Continued](https://open.spotify.com/album/7zZokVmJqbuBVc0drwjtx1) | 3:42 |
+| 17 | [Water in the Room](https://open.spotify.com/track/6jD8X49YmTeMryIv14P1il) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Closer to Happy](https://open.spotify.com/album/51q86EwerebVjrzJrS6rRS) | 3:09 |
+| 18 | [Ah Ya](https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5) | [Ah Ya](https://open.spotify.com/album/26E3GgqTPaL3Gn0VSwWZyG) | 4:13 |
 
-Snapshot ID: `AAALouXx8rXak6Bll8LHOZ5r4HhgnRp1`
+Snapshot ID: `AAALpZdMEZuUXQ9NACAdJdYYWM2WCOxM`

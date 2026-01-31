@@ -4,7 +4,7 @@
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Steve Ibrahim
 
-277 songs - 14 hr 4 min
+278 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,9 +129,10 @@
 | [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-09-08 | 2024-01-19 |
 | [J'aimerais danser avec toi](https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [J'aimerais danser avec toi](https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO) | 2:39 | 2024-01-18 |  |
 | [j'en ai marre \- bonus](https://open.spotify.com/track/4jmLCAQXdVuQmtODq9mMEA) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [premiers chocs](https://open.spotify.com/album/5jUJHvqGAbvklfgPy9z2gy) | 2:29 | 2024-01-24 | 2024-03-12 |
+| [J'Suis Pas Bo](https://open.spotify.com/track/1wPrfGvINb3lWrGbLWXedI) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Mesdames, Messieurs !](https://open.spotify.com/album/43Kjt22AJCNFvCjnYtsuqn) | 2:31 | 2026-01-30 |  |
 | [Jack Sparrow](https://open.spotify.com/track/2rmsk2OmSVRvZteMIA2Jxc) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Ozoror](https://open.spotify.com/album/6OPqZboiTNSYCKd3fSiSLX) | 3:31 | 2024-04-10 | 2025-06-20 |
 | [JE NE SERAI JAMAIS.](https://open.spotify.com/track/7vdBAYpq0yZlntJ3zcWWHK) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [JE NE SERAI JAMAIS.](https://open.spotify.com/album/7jhFTnyEI0HlSu1cztxbW5) | 4:06 | 2025-11-12 | 2026-01-15 |
-| [Je Ne T'Aime Plus](https://open.spotify.com/track/0L4EzEIPK3SEcz0PKXURlp) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Je Ne T'Aime Plus](https://open.spotify.com/album/31othSVbJmYGw12cF2fPxg) | 3:31 | 2026-01-08 |  |
+| [Je Ne T'Aime Plus](https://open.spotify.com/track/0L4EzEIPK3SEcz0PKXURlp) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Je Ne T'Aime Plus](https://open.spotify.com/album/31othSVbJmYGw12cF2fPxg) | 3:31 | 2026-01-08 | 2026-01-31 |
 | [Je suis fan](https://open.spotify.com/track/0ek3SCgTcQBeRE897H2IDp) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Je suis fan](https://open.spotify.com/album/6CDA4RgsL8Mney02IwKaPH) | 2:48 | 2021-12-02 | 2023-03-11 |
 | [Je t'ai cherché](https://open.spotify.com/track/0oncxtG7oIZK34SWHZNe60) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Je t'ai cherché](https://open.spotify.com/album/6oEvFXLoWYTyBTMJoELPKB) | 3:31 | 2024-01-18 | 2024-04-11 |
 | [Jn'attendrai plus](https://open.spotify.com/track/6UOGItOYXOpnqCORE9VP9t) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Par Fierté](https://open.spotify.com/album/3joknrlbS386Npao4I4p49) | 3:52 | 2024-01-18 | 2025-06-20 |

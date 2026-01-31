@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Sunset Rollercoaster \(落日飛車\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,413 likes - 55 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,418 likes - 55 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 |
 | 2 | [fu'is \- Oberka Remix](https://open.spotify.com/track/3q3dLeKm6thEOKakI9wMVx) | [Oberka](https://open.spotify.com/artist/28LXivKZPm48396rkSUUKt), [Natsuko 夏子](https://open.spotify.com/artist/4bvDxo5eMDv5sztGrTWVhr) | [fu'is \(Oberka Remix\)](https://open.spotify.com/album/66bCluAJ4CLet0j5xvDO7W) | 3:30 |
-| 3 | [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:26 |
+| 3 | [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:28 |
 | 4 | [Nightglow Dreamer](https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky) | 4:29 |
 | 5 | [Fantasy, Maybe](https://open.spotify.com/track/2WX3xcNTqMQmPIsq6iJxwV) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [Olin MattiBlue](https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH) | [Fantasy, Maybe](https://open.spotify.com/album/1pAnGCGa1HgbvUioXdHC0C) | 3:10 |
 | 6 | [No Name](https://open.spotify.com/track/0XCVeswQaQ8u1ztRoPWxyH) | [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Friendly Singing Neighbor](https://open.spotify.com/album/4SyR4ggC0pmKKpcJDdR2Xz) | 2:48 |

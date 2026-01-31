@@ -968,7 +968,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 243626,
       "name": "Cheques",
       "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
@@ -5750,6 +5750,24 @@
       "duration_ms": 164360,
       "name": "Promesas Sobre El Bidet",
       "url": "https://open.spotify.com/track/2MXqrO1RBfek6RoijghYYp"
+    },
+    {
+      "album": {
+        "name": "Pr\u00f3fugos (Studio Session)",
+        "url": "https://open.spotify.com/album/2xdQe8NkHIHugjyeqdxhdC"
+      },
+      "artists": [
+        {
+          "name": "LOBEL",
+          "url": "https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282029,
+      "name": "Pr\u00f3fugos - Studio Session",
+      "url": "https://open.spotify.com/track/3W0iqbaUnucCMTiNYSimrm"
     },
     {
       "album": {

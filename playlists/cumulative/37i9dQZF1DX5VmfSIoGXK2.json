@@ -252,7 +252,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 139838,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/1TAQSiBoxONckukXzCorKI"
@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 253751,
       "name": "Lift Me",
       "url": "https://open.spotify.com/track/4NE0fBZomP6rcyyzFXcMId"
@@ -1873,6 +1873,32 @@
     },
     {
       "album": {
+        "name": "low tide",
+        "url": "https://open.spotify.com/album/4H3bWxwnrHDztqj1FFpxrz"
+      },
+      "artists": [
+        {
+          "name": "Talmont",
+          "url": "https://open.spotify.com/artist/0q9pVcZjE3DbATMxCJRNRU"
+        },
+        {
+          "name": "fyodor",
+          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+        },
+        {
+          "name": "Ap\u00e9ro",
+          "url": "https://open.spotify.com/artist/72zV93lLjsCDg4Zmvgqs68"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "low tide",
+      "url": "https://open.spotify.com/track/3LdvPnAMNILTn0TDorCIvT"
+    },
+    {
+      "album": {
         "name": "Manhattan Jazz Club",
         "url": "https://open.spotify.com/album/2dsbWPcnKWv7HsZcH0Wb8v"
       },
@@ -1910,7 +1936,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 598113,
       "name": "Mari Ye Phepha - Kedi Cruise Remix",
       "url": "https://open.spotify.com/track/3oFujGX5ogNeYA7Efr3AYs"
@@ -2741,6 +2767,32 @@
     },
     {
       "album": {
+        "name": "roma to paris to jozi",
+        "url": "https://open.spotify.com/album/5VacYK4XzEKDG0C0VBP0Ha"
+      },
+      "artists": [
+        {
+          "name": "MiQu",
+          "url": "https://open.spotify.com/artist/29W9ZWOCIj7enyZFe3IUbE"
+        },
+        {
+          "name": "St-Amour",
+          "url": "https://open.spotify.com/artist/3GNaIZwqkfWnV63SE8nr96"
+        },
+        {
+          "name": "KIMBER",
+          "url": "https://open.spotify.com/artist/0iHbzrLG18CgCsKxZVNGRE"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135126,
+      "name": "roma to paris to jozi",
+      "url": "https://open.spotify.com/track/5oXdet7tsBaQjcfKBSSHxR"
+    },
+    {
+      "album": {
         "name": "Salve",
         "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
       },
@@ -2951,6 +3003,24 @@
     },
     {
       "album": {
+        "name": "Standby",
+        "url": "https://open.spotify.com/album/1R5jCHZ2MPIddtH2zM6Mp3"
+      },
+      "artists": [
+        {
+          "name": "Painted Dunes",
+          "url": "https://open.spotify.com/artist/4FZVF3aF1aWqAXJZmsRUkw"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177931,
+      "name": "Standby",
+      "url": "https://open.spotify.com/track/3g022LEZWUTyQm6lqbXaRh"
+    },
+    {
+      "album": {
         "name": "The Panorama Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
       },
@@ -3006,7 +3076,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 386562,
       "name": "Sundials",
       "url": "https://open.spotify.com/track/6fwIywo8F6JE8Y6GRYQlgM"
@@ -3064,6 +3134,24 @@
       "duration_ms": 212170,
       "name": "Tess",
       "url": "https://open.spotify.com/track/4g2IofvpR6XcrX9I1Rui3J"
+    },
+    {
+      "album": {
+        "name": "The Jazz Fro Soul Project EP",
+        "url": "https://open.spotify.com/album/6Y9t09LdDKp59HNIGLSAtO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Oliphant",
+          "url": "https://open.spotify.com/artist/3kynCqDWeQO4roNBcObjrE"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280868,
+      "name": "The 1",
+      "url": "https://open.spotify.com/track/4xxgoorB2txwjJxoGRcHNS"
     },
     {
       "album": {

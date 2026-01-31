@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,812 songs - 6 day 1 hr 49 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,814 songs - 6 day 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2820,5 +2820,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2810 | [Sitting In The Corner](https://open.spotify.com/track/2rjXJ8Rwkn3a9WGtPqQK2z) | [Hardbouncer](https://open.spotify.com/artist/1ODM6xNS8Osji0prNFRK9H), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Sitting In The Corner](https://open.spotify.com/album/0Jplq642kw5uI4359xBk6v) | 2:34 |
 | 2811 | [Wanna Stay](https://open.spotify.com/track/0TWJEvDMIcXCfgo7ynFwYG) | [Aalst](https://open.spotify.com/artist/3Zu76XPlKrtaPOJx9AlwtZ), [Screecher](https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD) | [Dragonized EP](https://open.spotify.com/album/6LvBrhpfzXPRngUuRAnh4p) | 2:51 |
 | 2812 | [Go Psycho](https://open.spotify.com/track/5ETepK6uZZgKy0Ti4nYO5j) | [HYPRDRVE](https://open.spotify.com/artist/0LEDohWJbpNV65CY3acjUS) | [Go Psycho](https://open.spotify.com/album/3XwoKzwfte8b4wodRDELNl) | 2:09 |
+| 2813 | [UwU](https://open.spotify.com/track/1VuKkCYSgPnOXQRGUrHTaX) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [UwU](https://open.spotify.com/album/0jHp6fH7kjS1STG0Bw7mse) | 2:27 |
+| 2814 | [666](https://open.spotify.com/track/3RCHJgOwnqbnvkrK8LgFO3) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX) | [666](https://open.spotify.com/album/1jiGIv2z3VGxFG8wAOcOOG) | 3:25 |
 
-Snapshot ID: `AAALTTza616+Cu6QjIO7LrjIKdVRQ29Z`
+Snapshot ID: `AAALT2hyUD5+Dw37mP57GLWxvPoFK0r0`

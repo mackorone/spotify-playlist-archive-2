@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: LVCAS",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: RANCORE",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 335168,
       "name": "18:30 - Parte I / Os Hemadecons Cantavam Em C\u00f4ro Ch\u00f3\u00f3\u00f3\u00f3\u00f3\u00f3 - Parte II",
       "url": "https://open.spotify.com/track/5vR4lHyt2Vwa3Hf4914Dw8"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 260134,
       "name": "30 Anos Depois",
       "url": "https://open.spotify.com/track/1hNX0Jbj3YxVnOOTbEoDTJ"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 196603,
       "name": "90 Minutos",
       "url": "https://open.spotify.com/track/2WuN6bOt4hkpzpMzWH3Cfz"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 243781,
       "name": "A Cera - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d"
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 178378,
       "name": "Com\u00e9 Que Dorme",
       "url": "https://open.spotify.com/track/7tch9Hbtih4MHDotfKl2yS"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 219200,
       "name": "Controle",
       "url": "https://open.spotify.com/track/6IkBjpjlH97gHYDLBzSnmj"
@@ -3464,10 +3464,28 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 213256,
       "name": "Eu Quero o Teu Sorriso",
       "url": "https://open.spotify.com/track/1n3dKugoX0q68CTGKCXta8"
+    },
+    {
+      "album": {
+        "name": "EU QUERO VIVER",
+        "url": "https://open.spotify.com/album/39qkzFsGJOgOtuwY5ujpLy"
+      },
+      "artists": [
+        {
+          "name": "RANCORE",
+          "url": "https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193429,
+      "name": "EU QUERO VIVER",
+      "url": "https://open.spotify.com/track/18Vb9R5RB7dQuHwcFQ7EBB"
     },
     {
       "album": {
@@ -3558,7 +3576,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 183021,
       "name": "eu vivi",
       "url": "https://open.spotify.com/track/14SKvglqyJhEwqsycpy5eP"
@@ -3720,7 +3738,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 166517,
       "name": "Ficar Morto Vende",
       "url": "https://open.spotify.com/track/1naXKta6Pw2oXhbSFvDMo3"
@@ -4208,7 +4226,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 211541,
       "name": "Gera\u00e7\u00e3o Fofa (Ogros Do S\u00e9culo Passado)",
       "url": "https://open.spotify.com/track/0RFEHwa6kSpURfDNSLyu5h"
@@ -4309,6 +4327,28 @@
     },
     {
       "album": {
+        "name": "Helena",
+        "url": "https://open.spotify.com/album/0lcLoM63dT3VY1elCHRBwE"
+      },
+      "artists": [
+        {
+          "name": "Lua Dultra",
+          "url": "https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU"
+        },
+        {
+          "name": "Katu Hai",
+          "url": "https://open.spotify.com/artist/3W61BezC0rEwXJdmv2UDZ6"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/60uJAwRPVW7rmTY7lBO1CS"
+    },
+    {
+      "album": {
         "name": "Her\u00f3i Made In Brazil",
         "url": "https://open.spotify.com/album/4EZKHk2601rGKn8zeRhWbz"
       },
@@ -4389,6 +4429,24 @@
     },
     {
       "album": {
+        "name": "TUDO ACONTECE AO VIVO",
+        "url": "https://open.spotify.com/album/18mVYr4LBAOBECfmjVVkkt"
+      },
+      "artists": [
+        {
+          "name": "O Grilo",
+          "url": "https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190958,
+      "name": "Hist\u00f3ria de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/0ee4gpvvh89pA1MlYZ7nmt"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Na Fundi\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/63KFXOVwHt1VBr0labzT4s"
       },
@@ -4436,7 +4494,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 140657,
       "name": "I Hope You Know",
       "url": "https://open.spotify.com/track/5FnOK06ng2h8TwNtCk7DOt"
@@ -4606,7 +4664,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 313448,
       "name": "Insetos N\u00e3o Comem Gelo",
       "url": "https://open.spotify.com/track/3suWlvtV7CfDTIEADot6nq"
@@ -5416,7 +5474,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 155444,
       "name": "Maria Bonita",
       "url": "https://open.spotify.com/track/3ladrTlwblEkzdn5CUcU0U"
@@ -5802,7 +5860,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 199616,
       "name": "Mist\u00e9rio",
       "url": "https://open.spotify.com/track/2yhT8YIrxrSbExf3hKOjY3"
@@ -5900,7 +5958,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 260341,
       "name": "M\u00e1goas Passadas",
       "url": "https://open.spotify.com/track/02B1IKMtl384QRV2KydzEu"
@@ -6106,7 +6164,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 161640,
       "name": "Nada Igual",
       "url": "https://open.spotify.com/track/2owCS5OAuswj40Xyh4vOvx"
@@ -6124,7 +6182,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 124674,
       "name": "NADA PRA MIM",
       "url": "https://open.spotify.com/track/4sQNTA4oyhFecZjjTHMNsu"
@@ -6402,7 +6460,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 190109,
       "name": "Nocaute",
       "url": "https://open.spotify.com/track/0MZt5iQS6ah3lKLZEavtoU"
@@ -7208,7 +7266,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 210769,
       "name": "O ver\u00e3o e voc\u00ea",
       "url": "https://open.spotify.com/track/20xbgvEtZu7BNiRPSat5bH"
@@ -7230,6 +7288,24 @@
       "duration_ms": 177978,
       "name": "O Ver\u00e3o Passou, Mas O Sol Continua Aqui",
       "url": "https://open.spotify.com/track/2wIwKAvMEcdA5oKYwX16ta"
+    },
+    {
+      "album": {
+        "name": "Obscurantista",
+        "url": "https://open.spotify.com/album/7xpDdB6TBiGI0bVX9sUpFe"
+      },
+      "artists": [
+        {
+          "name": "Matanza Inc",
+          "url": "https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191464,
+      "name": "Obscurantista",
+      "url": "https://open.spotify.com/track/7MJhOpPufCPkNJh1utzZXU"
     },
     {
       "album": {
@@ -7288,7 +7364,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 124363,
       "name": "Open Mic Brasil #3 - Medley 2025",
       "url": "https://open.spotify.com/track/3En6q5zrmKjkmZY6BIuGR5"
@@ -7310,10 +7386,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 179500,
       "name": "Oq Sou pra Vc?",
       "url": "https://open.spotify.com/track/1bbIDW4Q09GDQKufvIkHRm"
+    },
+    {
+      "album": {
+        "name": "Labirinto da Mem\u00f3ria (Deluxe)",
+        "url": "https://open.spotify.com/album/6WYzBQEt36Hz5ewmK9FTRo"
+      },
+      "artists": [
+        {
+          "name": "Dead Fish",
+          "url": "https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146415,
+      "name": "Orbitando - Faixa B\u00f4nus",
+      "url": "https://open.spotify.com/track/6TVxV0IUc6ua13Dt0rPJ6p"
     },
     {
       "album": {
@@ -7364,7 +7458,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 300992,
       "name": "Os Cigarros Molhados",
       "url": "https://open.spotify.com/track/7jIwUWazVJ0Gs4uRDXNmhN"
@@ -7474,7 +7568,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 225375,
       "name": "PARA DE ME LIGAR !!!",
       "url": "https://open.spotify.com/track/1q0t3ZfOqAMKU0WAZLuNBl"
@@ -7775,6 +7869,28 @@
     },
     {
       "album": {
+        "name": "Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/0wHUkC47kUthXsyYEXD0Rz"
+      },
+      "artists": [
+        {
+          "name": "Luana Camarah",
+          "url": "https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G"
+        },
+        {
+          "name": "Bruno Mokado",
+          "url": "https://open.spotify.com/artist/0x0XjDxU254sx7AxvpRkqO"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204615,
+      "name": "Perif\u00e9rica",
+      "url": "https://open.spotify.com/track/5aKakUGgL6zXeiJUj0Y2Fp"
+    },
+    {
+      "album": {
         "name": "Permita-Se",
         "url": "https://open.spotify.com/album/47SsyEFkXO3mBEYHPkmsl2"
       },
@@ -8034,7 +8150,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 272497,
       "name": "Por T\u00e3o Pouco",
       "url": "https://open.spotify.com/track/4odDiZByQ8fIqWcUWQJiD7"
@@ -8324,7 +8440,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 150000,
       "name": "Q se foda",
       "url": "https://open.spotify.com/track/1zfcWivDFiTAEax2eXjIZE"
@@ -8740,6 +8856,24 @@
       "duration_ms": 168855,
       "name": "Regra da Casa - Ao Vivo",
       "url": "https://open.spotify.com/track/0zTq6CS9roo3NFJ6WtktiH"
+    },
+    {
+      "album": {
+        "name": "Perspectiva",
+        "url": "https://open.spotify.com/album/7MVLwQzkCwiVraGaEHpw1h"
+      },
+      "artists": [
+        {
+          "name": "Botoneck",
+          "url": "https://open.spotify.com/artist/2ZISsBhQQkOcCLAa4OEBYM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234413,
+      "name": "Rel\u00f3gio",
+      "url": "https://open.spotify.com/track/10ehnUrR5Hbuu2LV2TGN4C"
     },
     {
       "album": {
@@ -9198,7 +9332,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 237034,
       "name": "Seja Quem Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1uMkN9lKqPE2HymaAM0IVm"
@@ -9414,7 +9548,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 164923,
       "name": "Sobre Mim",
       "url": "https://open.spotify.com/track/2SfMOWSPbrfaX17QWTH6qp"
@@ -10044,7 +10178,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 168000,
       "name": "Toca Raul",
       "url": "https://open.spotify.com/track/5J0ewKoDHCVbmJxS9ZkHwK"
@@ -10066,7 +10200,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 122666,
       "name": "toda garota como eu =(=)",
       "url": "https://open.spotify.com/track/1xnWchtQC42nuV2l80lIB8"
@@ -10612,7 +10746,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 175709,
       "name": "Unfollow",
       "url": "https://open.spotify.com/track/2MJHO5b4Sr6JcyAt3UhFns"
@@ -10908,7 +11042,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 205396,
       "name": "Vital E Sua Moto 2024",
       "url": "https://open.spotify.com/track/24JnBtwF07WzODgJtTYyKN"
@@ -10944,7 +11078,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 205455,
       "name": "Voc\u00ea Me Ama de Verdade?",
       "url": "https://open.spotify.com/track/0QjmlcG6AoFfh8mC2tgtlp"
@@ -10962,7 +11096,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 168236,
       "name": "Voc\u00ea Tem O Que Merece Ter",
       "url": "https://open.spotify.com/track/60hp4U6TBZoNJGuh3a3qZh"
@@ -11110,6 +11244,24 @@
       "duration_ms": 166893,
       "name": "White Rabbit",
       "url": "https://open.spotify.com/track/54pB8OIuoBTo0zb7PnM562"
+    },
+    {
+      "album": {
+        "name": "\u00c9 uma m\u00e1 ideia neh?",
+        "url": "https://open.spotify.com/album/7lPIvv3tIZIRn7SlpALuJa"
+      },
+      "artists": [
+        {
+          "name": "John Singer",
+          "url": "https://open.spotify.com/artist/6bMZGv0l88Zah4V0JIwkzm"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226960,
+      "name": "\u00c9 uma m\u00e1 ideia neh?",
+      "url": "https://open.spotify.com/track/0XNlHDD8snuOWEZ1rNPuET"
     },
     {
       "album": {

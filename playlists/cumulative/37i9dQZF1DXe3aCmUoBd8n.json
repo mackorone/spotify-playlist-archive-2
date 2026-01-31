@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Top Sharqi hits right now. Cover: Nassif Zeytoun",
+  "description": "Top Sharqi hits right now. Cover: Akhras, Inez",
   "name": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
   "tracks": [
     {
@@ -979,6 +979,28 @@
     },
     {
       "album": {
+        "name": "Dayman Heik",
+        "url": "https://open.spotify.com/album/0M3A5TjPd4Hp556PBoGP0c"
+      },
+      "artists": [
+        {
+          "name": "Akhras",
+          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
+        },
+        {
+          "name": "Inez",
+          "url": "https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dayman Heik",
+      "url": "https://open.spotify.com/track/5TA7eJhh32dROR5sotDL9d"
+    },
+    {
+      "album": {
         "name": "Dwali",
         "url": "https://open.spotify.com/album/4qOcCHQTWnVXYxdaltr0K9"
       },
@@ -1864,7 +1886,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 187425,
       "name": "La Akher Dakka",
       "url": "https://open.spotify.com/track/000tjH40F2n9sejp5LwAhV"
@@ -2510,7 +2532,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 202105,
       "name": "Sabran",
       "url": "https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae"
@@ -2912,6 +2934,24 @@
       "duration_ms": 258880,
       "name": "Waldane",
       "url": "https://open.spotify.com/track/0s6FNOFMwaEL1tQSOwSMUz"
+    },
+    {
+      "album": {
+        "name": "Wayli",
+        "url": "https://open.spotify.com/album/75eviJkl1lIpWERd64sDzn"
+      },
+      "artists": [
+        {
+          "name": "AL SHAMI",
+          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197550,
+      "name": "Wayli",
+      "url": "https://open.spotify.com/track/4KSeLwo0wVyqZn81dQirht"
     },
     {
       "album": {

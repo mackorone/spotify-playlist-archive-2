@@ -2,9 +2,9 @@
 
 ### [ALT\_QC](https://open.spotify.com/playlist/37i9dQZF1DX03FBMYrWi0n)
 
-> L’alternatif québécois à plein volume\. Photo: blesse
+> L’alternatif québécois à plein volume\. Photo: Gab Bouchard
 
-370 songs - 21 hr 8 min
+373 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Comme un refrain](https://open.spotify.com/track/2MkA4ZOZC3xrUVj3jiVQkX) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Soleil mâché](https://open.spotify.com/album/05E8nV4jttlse9c9COMaCR) | 4:00 | 2026-01-16 |  |
 | [Comment se perdre](https://open.spotify.com/track/0SPxnX6Zb5C8v85JgVoxbi) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Journée ordinaire / Comment se perdre](https://open.spotify.com/album/0mt908UFb2yiqgYyC5aG2t) | 4:16 | 2025-10-31 |  |
 | [Cool et branchée](https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Cool et branchée](https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz) | 2:57 | 2023-09-08 | 2023-11-21 |
-| [COUTEAU](https://open.spotify.com/track/1csO66FzWCIZvadh0k7w17) | [Louis\-Charles](https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU) | [COUTEAU](https://open.spotify.com/album/75oXz8akEJyvrxpKWnvyIk) | 2:49 | 2025-11-07 |  |
+| [COUTEAU](https://open.spotify.com/track/1csO66FzWCIZvadh0k7w17) | [Louis\-Charles](https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU) | [COUTEAU](https://open.spotify.com/album/75oXz8akEJyvrxpKWnvyIk) | 2:49 | 2025-11-07 | 2026-01-31 |
 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 | 2023-02-10 | 2024-11-04 |
 | [creusercreuser](https://open.spotify.com/track/6SGNMZl1YURiOVxiYyZZuZ) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [creusercreuser](https://open.spotify.com/album/7KjYrwYCXeAOnHZrl0iOCP) | 4:17 | 2023-02-10 | 2023-04-21 |
 | [CURSED](https://open.spotify.com/track/4BDqShv44FR6XAk7kEmQrj) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [EMBRACE CHAOS](https://open.spotify.com/album/3zLHGel8t7u5cqKWccAvgX) | 2:53 | 2025-10-10 |  |
@@ -117,6 +117,7 @@
 | [Ekuan Ek\(u\)](https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 3:46 | 2023-04-07 | 2024-01-27 |
 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 | 2023-04-28 | 2024-08-30 |
 | [EN FACE](https://open.spotify.com/track/0wcTxSHwmzBBWCo5zkfZ9z) | [La Monarque](https://open.spotify.com/artist/5aetwYQT7Tq7WWuv8SWZU3) | [EN FACE](https://open.spotify.com/album/7i91xBaYY4pPJHP31x6PyJ) | 2:08 | 2025-07-18 | 2025-10-25 |
+| [ENCORE ENCORE](https://open.spotify.com/track/5BoKkmRZBVbpjrdoMe92TO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [ENCORE ENCORE](https://open.spotify.com/album/5PVXBvRLA9BOPnRU0CYLae) | 3:11 | 2026-01-30 |  |
 | [Entre mes jambes](https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 2:29 | 2023-02-10 | 2025-10-11 |
 | [Espacia](https://open.spotify.com/track/5tAH4gpZQGctdBoJl2hdg3) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Espacia](https://open.spotify.com/album/4Y73mMgDuqVCQjuFHu6g9I) | 3:52 | 2024-08-23 | 2024-10-17 |
 | [Et Hop](https://open.spotify.com/track/6BxyLvcmA4us1mKVtZ8P09) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Et Hop](https://open.spotify.com/album/5aVvhOTAFcdh4QxQs4aF0Z) | 3:14 | 2023-02-10 | 2023-04-30 |
@@ -150,6 +151,7 @@
 | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Ada Rook](https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY) | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD) | 4:58 | 2023-02-10 | 2025-10-11 |
 | [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 | 2026-01-23 |  |
 | [I'm a memory](https://open.spotify.com/track/0nTyvtckqQ4hFzpM2Drn2J) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [I'm a memory](https://open.spotify.com/album/421Wt2EFpZCjWua1rId0WM) | 2:42 | 2025-11-21 |  |
+| [i+i \- Audiotree Live Version](https://open.spotify.com/track/6ARvNqFaxXEKvzyEMQ1NZc) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Population II on Audiotree Live](https://open.spotify.com/album/0FQIFMocjC2dSJbkWHkg7M) | 2:53 | 2026-01-30 |  |
 | [i\-95](https://open.spotify.com/track/0rd7F2NC4Zfw07MgD9dIRW) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [notes](https://open.spotify.com/album/0DxK77b8vDwVIpkU3JgLPC) | 4:46 | 2025-10-31 | 2025-12-06 |
 | [Incendie au paradis](https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Incendie au paradis](https://open.spotify.com/album/66ghDXf4kGsAvTYgecMVYa) | 3:39 | 2024-09-20 | 2025-11-15 |
 | [INDIGESTE](https://open.spotify.com/track/3ZDi3WHqcMnKmzkURhullh) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [INDIGESTE](https://open.spotify.com/album/2M6g0osfsD5esMvkZUX5JX) | 4:19 | 2024-03-04 | 2024-09-07 |
@@ -172,6 +174,7 @@
 | [Journal d'un loup\-garou](https://open.spotify.com/track/3gjXyaxoWNomS232vGIrMN) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Cours, Cora, cours / Journal d'un loup\-garou](https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g) | 3:39 | 2024-11-29 | 2025-11-15 |
 | [Juillet](https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Juillet](https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a) | 3:04 | 2023-02-10 | 2023-05-23 |
 | [Just Like](https://open.spotify.com/track/1deniAR9BR8JhNG1679O63) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Just Like](https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z) | 2:52 | 2024-04-05 | 2024-04-19 |
+| [Just like Him](https://open.spotify.com/track/2QUBCzN1FdP07E8rszVO9l) | [Sally Phantom](https://open.spotify.com/artist/3oF7EXqKu7w2J5yMtbX2sY) | [Just like Him](https://open.spotify.com/album/6EFPLJbTHfjopfAM0ZbuDI) | 3:54 | 2026-01-30 |  |
 | [K9](https://open.spotify.com/track/6vKKnSBuPeE7ZQLfwjW4re) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Stay Safe!](https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1) | 5:02 | 2023-06-16 | 2024-09-21 |
 | [Kaléidoscope](https://open.spotify.com/track/0Ftgq4He4Gf6llPi0sJfaY) | [Caravane](https://open.spotify.com/artist/6hCBXCqoy6C3nNddhQsWRT) | [Kaléidoscope](https://open.spotify.com/album/27nWncmd558GGghngqlC4T) | 2:07 | 2023-10-20 | 2023-11-16 |
 | [Ketchup](https://open.spotify.com/track/6aEDFAIw20ghNgkX6kCFXj) | [Faon](https://open.spotify.com/artist/3sg5qAIkJ910yUKXpgEiGN) | [Mon ombre](https://open.spotify.com/album/1BpaCQWPxv6hvQyTsz5H6w) | 3:19 | 2025-10-31 | 2025-11-08 |
@@ -185,7 +188,7 @@
 | [la honte](https://open.spotify.com/track/3j8wfBkVowBTt1bGmtHOf7) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [la honte](https://open.spotify.com/album/5MxKI5pwIa2LuSyhJGA2wO) | 3:29 | 2024-03-04 | 2025-10-11 |
 | [La journée va être chaude](https://open.spotify.com/track/1V0jQDyRSPfdfYwADDkCQt) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [La journée va être chaude](https://open.spotify.com/album/26eTlAVSnbt5QuaIW3dLJq) | 4:03 | 2026-01-09 |  |
 | [La manière](https://open.spotify.com/track/0FUy5rYDhD8QCPCl48tdC2) | [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [La manière](https://open.spotify.com/album/7yMNmVtLzbtx70fq5Cpyq0) | 4:09 | 2026-01-23 |  |
-| [La nuit devant nous](https://open.spotify.com/track/4c5DPhLf5u1eoVRGmh4sf6) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [La nuit devant nous](https://open.spotify.com/album/1moz4WuZwUB9Xz9GCDWS1u) | 3:37 | 2025-12-05 |  |
+| [La nuit devant nous](https://open.spotify.com/track/4c5DPhLf5u1eoVRGmh4sf6) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [La nuit devant nous](https://open.spotify.com/album/1moz4WuZwUB9Xz9GCDWS1u) | 3:37 | 2025-12-05 | 2026-01-31 |
 | [La peur est une fleur](https://open.spotify.com/track/2msKGnoEgQM4MManhl8Dji) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [La peur est une fleur](https://open.spotify.com/album/1ZsInEwwCcSInxmC4EphyC) | 1:52 | 2024-06-28 | 2024-07-19 |
 | [La photo](https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Quand la nuit tombe](https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo) | 4:39 | 2023-02-10 | 2025-10-11 |
 | [La Trippance](https://open.spotify.com/track/6oGYqLbC0iKvWdPPvaOe7L) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [La Trippance](https://open.spotify.com/album/7fMWbdtBBm6NAZ45d6PBUi) | 3:35 | 2025-03-28 | 2025-10-25 |
@@ -216,7 +219,7 @@
 | [LUCKY8](https://open.spotify.com/track/2iV2aeAY52wxUdkZHk3DNC) | [Ribbon Skirt](https://open.spotify.com/artist/4Ymrgi3r6TZQwmBSp3jBca) | [LUCKY8](https://open.spotify.com/album/6f0pLMVbyBpdDpxQmE9DA4) | 2:46 | 2025-09-11 | 2026-01-03 |
 | [Lundi normal](https://open.spotify.com/track/01q5hNY32vR6b1xa1nMZlQ) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [Lundi normal](https://open.spotify.com/album/7jjPYqJd43EwfEnXHxy4kx) | 3:03 | 2023-02-10 | 2023-03-04 |
 | [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2024-08-16 | 2025-09-22 |
-| [Ma maison](https://open.spotify.com/track/2OuvHFcMCxr4Y3allMuic3) | [Pasteur Papillon](https://open.spotify.com/artist/3x1SdsTSvhIkg0NcvDUlTB) | [Urubu, gospel d’un charognard](https://open.spotify.com/album/1xfBlC6rPqHUiB5ezMkOEz) | 3:37 | 2025-11-14 |  |
+| [Ma maison](https://open.spotify.com/track/2OuvHFcMCxr4Y3allMuic3) | [Pasteur Papillon](https://open.spotify.com/artist/3x1SdsTSvhIkg0NcvDUlTB) | [Urubu, gospel d’un charognard](https://open.spotify.com/album/1xfBlC6rPqHUiB5ezMkOEz) | 3:37 | 2025-11-14 | 2026-01-31 |
 | [Ma montre accélère](https://open.spotify.com/track/70Cx2xmupGC2yWAR4T6wOQ) | [Parc Amitié](https://open.spotify.com/artist/0xl9ronyhZJqlvcvQsOsuw) | [Ma montre accélère / Weedon](https://open.spotify.com/album/6uyDKfU6qLATJiLgmeMNcC) | 3:00 | 2026-01-09 |  |
 | [Madone](https://open.spotify.com/track/3FqxuAQ0rNFjMyOehcyvz8) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Madone](https://open.spotify.com/album/4mkI10pJ3T1dj3hsw4T1WO) | 2:55 | 2024-03-04 | 2024-04-19 |
 | [Magie](https://open.spotify.com/track/0YtMcpJmoDLPEuKXzZRSFl) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Bon Enfant](https://open.spotify.com/album/7zyYaL9ctHBUJM4d6kdyMD) | 4:30 | 2023-02-10 | 2023-07-08 |

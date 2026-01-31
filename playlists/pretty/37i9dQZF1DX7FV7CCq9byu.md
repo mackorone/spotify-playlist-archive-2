@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,744 likes - 186 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,745 likes - 186 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 16 | [Still Sincere](https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Still Sincere](https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d) | 3:08 |
 | 17 | [Woman](https://open.spotify.com/track/2TFtcHGIGIvMOmyZgDoKR0) | [Jacqline](https://open.spotify.com/artist/5ZIzGM3sXUiF8EI6K18XQC) | [Woman](https://open.spotify.com/album/2elYWaFUqlA9QmNP1xygoG) | 2:56 |
 | 18 | [Funeral](https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Funeral](https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm) | 4:03 |
-| 19 | [Never Been Yours](https://open.spotify.com/track/4pck6sgR8Ba27hrjbl4Rs3) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Bob John Holt](https://open.spotify.com/artist/1T01tVyZqGezD73D2Typvi) | [](https://open.spotify.com/album/null) | 2:38 |
+| 19 | [Never Been Yours](https://open.spotify.com/track/4pck6sgR8Ba27hrjbl4Rs3) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Bob John Holt](https://open.spotify.com/artist/1T01tVyZqGezD73D2Typvi) | [My Roots](https://open.spotify.com/album/6u0GjfYg4KepFzTXgOuXes) | 2:38 |
 | 20 | [Svartsjuk \- Spotify Singles](https://open.spotify.com/track/7mdmE3IpTHpYPv2gheaadm) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Svartsjuk \(Spotify Singles\)](https://open.spotify.com/album/6QEHew6RMgoE4MHTCYPXrV) | 2:45 |
 | 21 | [Feels Like Heaven](https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Feels Like Heaven](https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz) | 3:13 |
 | 22 | [Iconic](https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Iconic](https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3) | 2:58 |

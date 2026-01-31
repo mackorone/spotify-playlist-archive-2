@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,853 likes - 181 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,846 likes - 181 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WE DEM BOYS](https://open.spotify.com/track/1upwt8H6j9YG5rX3GN5XtJ) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [WE DEM BOYS](https://open.spotify.com/album/7BmmTrU0UjPwEMHRKv35jm) | 2:12 |
-| 2 | [Track 10](https://open.spotify.com/track/3eNMd72YbZu21cVPsiWFPd) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Veta](https://open.spotify.com/track/3eNMd72YbZu21cVPsiWFPd) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Mellan Graven & Grammis](https://open.spotify.com/album/3qA9Zr5EmAReL1jisHo3u2) | 2:44 |
 | 3 | [GiFT](https://open.spotify.com/track/7DnZAX8jPQvphSdoJUJqd9) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [GiFT](https://open.spotify.com/album/6ORHR8FKQUs3Bfi0LzB4C5) | 2:56 |
 | 4 | [GOODFELLAS](https://open.spotify.com/track/11FGk5KemhNamjhtpZ5DK3) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [GOODFELLAS](https://open.spotify.com/album/1PYDc9NA5d7ZSHOsPlCvCk) | 2:31 |
 | 5 | [Min](https://open.spotify.com/track/4hWN8ltynwP6Vt6GpuAa4d) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Min](https://open.spotify.com/album/7BRLovL0UUeRCG5v3vrXSx) | 2:27 |

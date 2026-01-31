@@ -1,31 +1,135 @@
 {
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Gerardo Coronel \ud83d\udcf8",
-  "num_followers": 1289691,
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Arath Arceo \ud83d\udcf8",
+  "num_followers": 1289848,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFMtMsOlkF+h59Ih/POX3JBu3bSo",
+  "snapshot_id": "AAAAAGTN6GAxPhBVzN8X2mjDSiAfYDvZ",
   "tracks": [
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
-        "name": "As\u00ed Empez\u00f3 Mi A\u00f1o",
-        "url": "https://open.spotify.com/album/1IRQ1xyTC7R7naV4lJESHk"
+        "name": "Que Empiece La Borrachera (En Vivo)",
+        "url": "https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm"
       },
       "artists": [
+        {
+          "name": "Arath Arceo",
+          "url": "https://open.spotify.com/artist/179sKnhSlC0IVj10e98XhZ"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Ebrio De Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/2SkeBrSWvvTsFtORCiud4k"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Arriba La Moyombiza 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "Mi Talisman (En Vivo)",
+      "url": "https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Se Va A Querer Morir",
+        "url": "https://open.spotify.com/album/5OPgEqmLQ9LYbPpGDoaOdT"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        },
         {
           "name": "Gerardo Coronel",
           "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 157306,
-      "name": "As\u00ed Empez\u00f3 Mi A\u00f1o",
-      "url": "https://open.spotify.com/track/4oCq6h67eWeUEbJeA12ZQo"
+      "duration_ms": 206521,
+      "name": "Se Va A Querer Morir",
+      "url": "https://open.spotify.com/track/7r3pnWG7rIYnr9ipn7viBa"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Directo al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4UBZzHIHJjeDrqs8aTshMd"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 216157,
+      "name": "Directo al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1DrgCuJsScMhFaTXdMc8pr"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Que Empiece La Borrachera (En Vivo)",
+        "url": "https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm"
+      },
+      "artists": [
+        {
+          "name": "Arath Arceo",
+          "url": "https://open.spotify.com/artist/179sKnhSlC0IVj10e98XhZ"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "El Que Sigue De Mi (En Vivo)",
+      "url": "https://open.spotify.com/track/37jsgAXVIxD48j8c0UqZKC"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Pa' Todas Tengo Yo",
+        "url": "https://open.spotify.com/album/3nBff5T9RfMc59jd69hrIt"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 189565,
+      "name": "Pa' Todas Tengo Yo",
+      "url": "https://open.spotify.com/track/00RkNLC31PbwqqoZUfdSFG"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Me Esta Doliendo",
+        "url": "https://open.spotify.com/album/4LhEN8VedFG9EMBdZKoDXB"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "duration_ms": 182582,
+      "name": "Me Esta Doliendo",
+      "url": "https://open.spotify.com/track/24IEOjuJikT5ccLFuw1jjQ"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Que Te Quieran Bonito",
         "url": "https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx"
@@ -45,23 +149,7 @@
       "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "La Dama",
-        "url": "https://open.spotify.com/album/54SFDpB1hB8SisGhL3Daga"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 183565,
-      "name": "La Dama",
-      "url": "https://open.spotify.com/track/0CXUMOEqnxYW53eOVfFWHa"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Seguro Le Doli\u00f3",
         "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
@@ -81,23 +169,7 @@
       "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "El Amor No Es Suficiente",
-        "url": "https://open.spotify.com/album/61jmwGb6asWDDtAghH1r03"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "El Amor No Es Suficiente",
-      "url": "https://open.spotify.com/track/4qNLPr5NuhX98yqUMHZhgW"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "42 18",
         "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
@@ -113,27 +185,7 @@
       "url": "https://open.spotify.com/track/4VWKUO1My9MfRecR5ftRkr"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Vamos a Platicar",
-        "url": "https://open.spotify.com/album/7IqEd62YMzxVpcAaHradYa"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        },
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 197610,
-      "name": "Vamos a Platicar",
-      "url": "https://open.spotify.com/track/2W6LOI1qPL1o14Y8BJqtfH"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Arriba La Moyombiza (En Vivo)",
         "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
@@ -153,27 +205,23 @@
       "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
-        "name": "Coronar Hasta Que Amanezca (En Vivo)",
-        "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
+        "name": "Ese Loco Soy Yo",
+        "url": "https://open.spotify.com/album/0lheE2ouOlNeOOLhfdRPJI"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
         }
       ],
-      "duration_ms": 192978,
-      "name": "Por Qui\u00e9n Me Dejas (En vivo)",
-      "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
+      "duration_ms": 168147,
+      "name": "Ese Loco Soy Yo",
+      "url": "https://open.spotify.com/track/0hVL1RhFEnCXGlXNAzm3Lm"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Ctrl + Z (En Vivo)",
         "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
@@ -193,143 +241,7 @@
       "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Ya Cruc\u00e9",
-        "url": "https://open.spotify.com/album/0qLJiUExC1jLLLv6eGqtJJ"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        },
-        {
-          "name": "Eley Romero",
-          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
-        }
-      ],
-      "duration_ms": 133825,
-      "name": "Ya Cruc\u00e9",
-      "url": "https://open.spotify.com/track/1WRRU90e974JnRGf3iK2XK"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "100/10",
-        "url": "https://open.spotify.com/album/1nwTWGhfS2GZBzhjuUr9Ww"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 158634,
-      "name": "100/10",
-      "url": "https://open.spotify.com/track/50uT8pGi81UxJQTersXOgF"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "\u00bfPara Qu\u00e9 Tantos Besos?",
-        "url": "https://open.spotify.com/album/1Ru2bJ0Dzv9j9cjgtlc87I"
-      },
-      "artists": [
-        {
-          "name": "Noel Torres",
-          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
-        },
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "\u00bfPara Qu\u00e9 Tantos Besos?",
-      "url": "https://open.spotify.com/track/2QODsK8Tc3Mw8saeaEU4mC"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Ese Loco Soy Yo",
-        "url": "https://open.spotify.com/album/0lheE2ouOlNeOOLhfdRPJI"
-      },
-      "artists": [
-        {
-          "name": "Linea Personal",
-          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
-        }
-      ],
-      "duration_ms": 168147,
-      "name": "Ese Loco Soy Yo",
-      "url": "https://open.spotify.com/track/0hVL1RhFEnCXGlXNAzm3Lm"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "M\u00e1ndame La Ubi",
-        "url": "https://open.spotify.com/album/3Ue9dnfFbPUAB53YhwctGP"
-      },
-      "artists": [
-        {
-          "name": "Memo Garza",
-          "url": "https://open.spotify.com/artist/3yJ7q2MEpB9SLK9Xy1EJ2F"
-        }
-      ],
-      "duration_ms": 138651,
-      "name": "M\u00e1ndame La Ubi",
-      "url": "https://open.spotify.com/track/22vRSKgaMyGHhnozVxDAyj"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Si Me Ten\u00edas",
-        "url": "https://open.spotify.com/album/1q7uT320674nuCp3rl0gIY"
-      },
-      "artists": [
-        {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
-        }
-      ],
-      "duration_ms": 235250,
-      "name": "Si Me Ten\u00edas",
-      "url": "https://open.spotify.com/track/6RMd5GlWb5DW4G0eT0VNZ2"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Este Soy Yo",
-        "url": "https://open.spotify.com/album/3IXBzEwmjXkg6mIUdGNlUn"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 210612,
-      "name": "Cuando Te Ame",
-      "url": "https://open.spotify.com/track/0yO1khcEJBMqEuW9dyVLKS"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Armando Aguirre",
-        "url": "https://open.spotify.com/album/1byarWQ4cUypN9fu5vW9ZC"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 161228,
-      "name": "Armando Aguirre",
-      "url": "https://open.spotify.com/track/62VbQIzls3Tg16odpZ4paF"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Vali\u00f3 La Pena Equivocarme",
         "url": "https://open.spotify.com/album/1zJpRuqckbWc29EXSboCuc"
@@ -349,27 +261,23 @@
       "url": "https://open.spotify.com/track/5fadmmChFKcR3G0mChCwP1"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
-        "name": "Si No Te Tengo",
-        "url": "https://open.spotify.com/album/5RwuiKim92LZqj0cJnOqTp"
+        "name": "100/10",
+        "url": "https://open.spotify.com/album/1nwTWGhfS2GZBzhjuUr9Ww"
       },
       "artists": [
         {
-          "name": "Samuel Rosales y Su Banda Sierra Grande",
-          "url": "https://open.spotify.com/artist/7pyWxycsFxgUIc6d1TAM2k"
-        },
-        {
-          "name": "La Imponente Vientos de Jalisco",
-          "url": "https://open.spotify.com/artist/62VgaFRDPHTE7OQmpQaNqp"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 206193,
-      "name": "Si No Te Tengo",
-      "url": "https://open.spotify.com/track/53VwoZ6zzz0TyGxki6ALjG"
+      "duration_ms": 158634,
+      "name": "100/10",
+      "url": "https://open.spotify.com/track/50uT8pGi81UxJQTersXOgF"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
@@ -385,7 +293,7 @@
       "url": "https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Pens\u00e9 En Ti",
         "url": "https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe"
@@ -401,7 +309,7 @@
       "url": "https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "\"V1V0\"",
         "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
@@ -417,39 +325,39 @@
       "url": "https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
-        "name": "Mi Primer D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5"
+        "name": "Lo Que Dure Esta Botella",
+        "url": "https://open.spotify.com/album/3MfBnEj0n4cG683ZBqRZZg"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 190876,
-      "name": "Mi Primer D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
+      "duration_ms": 174824,
+      "name": "Lo Que Dure Esta Botella",
+      "url": "https://open.spotify.com/track/0PJlAjQTp04PjEf3Rci3JH"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
-        "name": "Aunque Nos Tiren Hate",
-        "url": "https://open.spotify.com/album/4a5bVlsPb2f3AO3PqjT3eN"
+        "name": "Este Soy Yo",
+        "url": "https://open.spotify.com/album/3IXBzEwmjXkg6mIUdGNlUn"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 186454,
-      "name": "Cada D\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0"
+      "duration_ms": 210612,
+      "name": "Cuando Te Ame",
+      "url": "https://open.spotify.com/track/0yO1khcEJBMqEuW9dyVLKS"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
@@ -465,7 +373,7 @@
       "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Acto Seguido",
         "url": "https://open.spotify.com/album/6CzhikGwMPcKThkD1TPvfs"
@@ -485,23 +393,23 @@
       "url": "https://open.spotify.com/track/5mh0B9psmw5MwhZLBHlPTQ"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
-        "name": "Lo Que Dure Esta Botella",
-        "url": "https://open.spotify.com/album/3MfBnEj0n4cG683ZBqRZZg"
+        "name": "Aunque Nos Tiren Hate",
+        "url": "https://open.spotify.com/album/4a5bVlsPb2f3AO3PqjT3eN"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 174824,
-      "name": "Lo Que Dure Esta Botella",
-      "url": "https://open.spotify.com/track/0PJlAjQTp04PjEf3Rci3JH"
+      "duration_ms": 186454,
+      "name": "Cada D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Habla Tu Ex",
         "url": "https://open.spotify.com/album/5oe0Kt1rdkIclajNXC4YBZ"
@@ -517,7 +425,7 @@
       "url": "https://open.spotify.com/track/4m2g3MSQmM3vRDMVeDjddV"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Cu\u00e9ntame (En Vivo)",
         "url": "https://open.spotify.com/album/6bPEtlB3uOr4CYeLnYVeRF"
@@ -541,7 +449,7 @@
       "url": "https://open.spotify.com/track/0SPAv2CSwbGILkpjjFCzzk"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Somos Como El Viento",
         "url": "https://open.spotify.com/album/2LNAK5kPIZiVEWfRiaE3LM"
@@ -557,23 +465,7 @@
       "url": "https://open.spotify.com/track/7gv7KgDnXeRntQuX7vSATf"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "La Derrota",
-        "url": "https://open.spotify.com/album/28epQovRBOBAoGg6ZxZU1D"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 206899,
-      "name": "La Derrota",
-      "url": "https://open.spotify.com/track/2QSyrdeBBNnNdvHLd0qnYm"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "42 18",
         "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
@@ -589,7 +481,23 @@
       "url": "https://open.spotify.com/track/7xSxAOJOA2aRkT3tZJ0QRQ"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "La Derrota",
+        "url": "https://open.spotify.com/album/28epQovRBOBAoGg6ZxZU1D"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 206899,
+      "name": "La Derrota",
+      "url": "https://open.spotify.com/track/2QSyrdeBBNnNdvHLd0qnYm"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
@@ -605,7 +513,7 @@
       "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "N\u00famero Equivocado",
         "url": "https://open.spotify.com/album/2EJH8SGmyMJ1YsbMTX5csC"
@@ -625,7 +533,7 @@
       "url": "https://open.spotify.com/track/5nqw4d2N3h6CqD5TkdZoLX"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Mi Mu\u00f1equita",
         "url": "https://open.spotify.com/album/14Q0D9jC3rpgx8LpLmUmmy"
@@ -641,7 +549,7 @@
       "url": "https://open.spotify.com/track/01IFbhPxXAnrNBTwhhgQA3"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Me Qued\u00e9 Sin Ti",
         "url": "https://open.spotify.com/album/08Be7gEjlfSHACW7exR7ef"
@@ -657,7 +565,7 @@
       "url": "https://open.spotify.com/track/26TXWg2uSzyqVhXywgG10F"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "42 18",
         "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
@@ -673,7 +581,43 @@
       "url": "https://open.spotify.com/track/0l9aROuLvqSQeIpYMNlOjn"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "El Amor No Es Suficiente",
+        "url": "https://open.spotify.com/album/61jmwGb6asWDDtAghH1r03"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "El Amor No Es Suficiente",
+      "url": "https://open.spotify.com/track/4qNLPr5NuhX98yqUMHZhgW"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Coronar Hasta Que Amanezca (En Vivo)",
+        "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "duration_ms": 192978,
+      "name": "Por Qui\u00e9n Me Dejas (En vivo)",
+      "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Recu\u00e9rdame qui\u00e9n eres",
         "url": "https://open.spotify.com/album/7HOasXpX4yKmnR9xhYujpy"
@@ -689,7 +633,39 @@
       "url": "https://open.spotify.com/track/2nXHLhGUVHg5fILUEkPQve"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0iqkcchDWADy8fpC9zDFMr"
+      },
+      "artists": [
+        {
+          "name": "El Gerry Oficial",
+          "url": "https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ"
+        }
+      ],
+      "duration_ms": 220591,
+      "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/4ZAtv3gp4ZsOu8HGRZfDLF"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Grandes \u00c9xitos Remasterizado",
+        "url": "https://open.spotify.com/album/1R3MrnO5mAyt1tpeTADWAU"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 208992,
+      "name": "Mi Raz\u00f3n de Ser - REMASTERIZADO",
+      "url": "https://open.spotify.com/track/4TYRFIc2EIe4C9fN21UVM2"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Una Noche Contigo",
         "url": "https://open.spotify.com/album/67YPrHoO6YMZGY8yJ4Me7F"
@@ -709,39 +685,7 @@
       "url": "https://open.spotify.com/track/3XI2OcX3psYuOdeE5Pe77t"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Grandes \u00c9xitos Remasterizado",
-        "url": "https://open.spotify.com/album/1R3MrnO5mAyt1tpeTADWAU"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 208992,
-      "name": "Mi Raz\u00f3n de Ser - REMASTERIZADO",
-      "url": "https://open.spotify.com/track/4TYRFIc2EIe4C9fN21UVM2"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0iqkcchDWADy8fpC9zDFMr"
-      },
-      "artists": [
-        {
-          "name": "El Gerry Oficial",
-          "url": "https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ"
-        }
-      ],
-      "duration_ms": 220591,
-      "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/4ZAtv3gp4ZsOu8HGRZfDLF"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Lo Veras de Lejos",
         "url": "https://open.spotify.com/album/3PLZxog7HczHnG85g3VIks"
@@ -757,7 +701,27 @@
       "url": "https://open.spotify.com/track/0V4mvvjtI2q72Z9gPKDzj3"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Vamos a Platicar",
+        "url": "https://open.spotify.com/album/7IqEd62YMzxVpcAaHradYa"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        },
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 197610,
+      "name": "Vamos a Platicar",
+      "url": "https://open.spotify.com/track/2W6LOI1qPL1o14Y8BJqtfH"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Se Me Muri\u00f3 El Amor",
         "url": "https://open.spotify.com/album/0GUxYv5549gBn6eZnn8C5F"
@@ -773,7 +737,7 @@
       "url": "https://open.spotify.com/track/0deAHUwu0dSMbOHJbloNkR"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Me Interesas",
         "url": "https://open.spotify.com/album/48bBQZF7o79Mqpavk1aXVX"
@@ -793,7 +757,7 @@
       "url": "https://open.spotify.com/track/6g1bllCb7avb0FS0VbOfHz"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/76b3Lt8o6rnFHTR0KeJs0u"
@@ -809,23 +773,39 @@
       "url": "https://open.spotify.com/track/6seGQnF094QFKkDBTOV7SW"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
-        "name": "Una Historia Mal Contada",
-        "url": "https://open.spotify.com/album/1c5s1qPvOzfr7juhnrpL1x"
+        "name": "La Dama",
+        "url": "https://open.spotify.com/album/54SFDpB1hB8SisGhL3Daga"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 160285,
-      "name": "Una Historia Mal Contada",
-      "url": "https://open.spotify.com/track/4QwUdBfJPWi3Dmxa3axA0G"
+      "duration_ms": 183565,
+      "name": "La Dama",
+      "url": "https://open.spotify.com/track/0CXUMOEqnxYW53eOVfFWHa"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "As\u00ed Empez\u00f3 Mi A\u00f1o",
+        "url": "https://open.spotify.com/album/1IRQ1xyTC7R7naV4lJESHk"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "As\u00ed Empez\u00f3 Mi A\u00f1o",
+      "url": "https://open.spotify.com/track/4oCq6h67eWeUEbJeA12ZQo"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Irregular",
         "url": "https://open.spotify.com/album/1H8JdJvnzEySXBbETQS8Io"
@@ -841,7 +821,7 @@
       "url": "https://open.spotify.com/track/36ojskKGrTTjagcwzFgeTI"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Que Bonita",
         "url": "https://open.spotify.com/album/1LwiUJxH6LJ6F2uy6oc6kS"
@@ -857,7 +837,43 @@
       "url": "https://open.spotify.com/track/5Ew0snFFKUCmTS59odHPHX"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "M\u00e1ndame La Ubi",
+        "url": "https://open.spotify.com/album/3Ue9dnfFbPUAB53YhwctGP"
+      },
+      "artists": [
+        {
+          "name": "Memo Garza",
+          "url": "https://open.spotify.com/artist/3yJ7q2MEpB9SLK9Xy1EJ2F"
+        }
+      ],
+      "duration_ms": 138651,
+      "name": "M\u00e1ndame La Ubi",
+      "url": "https://open.spotify.com/track/22vRSKgaMyGHhnozVxDAyj"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Ya Cruc\u00e9",
+        "url": "https://open.spotify.com/album/0qLJiUExC1jLLLv6eGqtJJ"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Eley Romero",
+          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
+        }
+      ],
+      "duration_ms": 133825,
+      "name": "Ya Cruc\u00e9",
+      "url": "https://open.spotify.com/track/1WRRU90e974JnRGf3iK2XK"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/2Ebonc8h40CqHy3svWp5WA"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/0giKaADapSeNCbNsQH93Ju"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "D\u00f3nde y Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Mi Reina",
         "url": "https://open.spotify.com/album/22c7ETe6824DtwjvzKHqyX"
@@ -909,7 +925,27 @@
       "url": "https://open.spotify.com/track/3ZwuE3d5mqAXVXTQ7Q9vA8"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "\u00bfPara Qu\u00e9 Tantos Besos?",
+        "url": "https://open.spotify.com/album/1Ru2bJ0Dzv9j9cjgtlc87I"
+      },
+      "artists": [
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "\u00bfPara Qu\u00e9 Tantos Besos?",
+      "url": "https://open.spotify.com/track/2QODsK8Tc3Mw8saeaEU4mC"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "La Cuca",
         "url": "https://open.spotify.com/album/7G90dGVQT5axRxHM9zUN3p"
@@ -925,7 +961,7 @@
       "url": "https://open.spotify.com/track/3HxaNhXgyvGeWy23l6kqS8"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Nuestra Historia",
         "url": "https://open.spotify.com/album/656laHh59exvEFd0Ploq8K"
@@ -941,23 +977,7 @@
       "url": "https://open.spotify.com/track/4vdCYL6S8koDV3h3e9UlhY"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
-        "url": "https://open.spotify.com/album/3Vonb9E8aPRllPyWGsoe8j"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 243776,
-      "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
-      "url": "https://open.spotify.com/track/4T4SXrmgimvABFD409RDRa"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Me la Pelan",
         "url": "https://open.spotify.com/album/3gWvHNH1bjOjeENNQRhg93"
@@ -977,23 +997,23 @@
       "url": "https://open.spotify.com/track/3uKB59qvKbrZDF7mcusl0i"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
-        "name": "De Nuestro Amor No Queda Nada",
-        "url": "https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt"
+        "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
+        "url": "https://open.spotify.com/album/3Vonb9E8aPRllPyWGsoe8j"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 215364,
-      "name": "De Nuestro Amor No Queda Nada",
-      "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
+      "duration_ms": 243776,
+      "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
+      "url": "https://open.spotify.com/track/4T4SXrmgimvABFD409RDRa"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Un Ramo de Rosas",
         "url": "https://open.spotify.com/album/3vhWVRgFPG5OeaZ9hPbuGV"
@@ -1009,7 +1029,23 @@
       "url": "https://open.spotify.com/track/0h8fz27ck5IyqAcUQXo9XP"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "De Nuestro Amor No Queda Nada",
+        "url": "https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 215364,
+      "name": "De Nuestro Amor No Queda Nada",
+      "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Te amo y te amar\u00e9",
         "url": "https://open.spotify.com/album/4m7YV1cz8QGOegGkHZVGr3"
@@ -1025,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6jDO7AeD5w2YlRqrH0ONVy"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "60 Aniversario: El Legado Contin\u00faa",
         "url": "https://open.spotify.com/album/0dIogYaSGCLU5fiVJMin26"
@@ -1041,7 +1077,7 @@
       "url": "https://open.spotify.com/track/1hmB7TppstlMpwQLUsdbDB"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "El Flaco y Sus Amigos: Auditorios (En Vivo)",
         "url": "https://open.spotify.com/album/2Pn0XWh0ElBVOAf8GpypOs"
@@ -1061,7 +1097,7 @@
       "url": "https://open.spotify.com/track/4sgnaYVRuB5zB3kb8BlR5o"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Me Odias, Me amas",
         "url": "https://open.spotify.com/album/1Zqn4h4O5WjigMMr4J8laX"
@@ -1081,7 +1117,23 @@
       "url": "https://open.spotify.com/track/0wg7D7tP3RP00y2usvzGzh"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Que Empiece La Borrachera (En Vivo)",
+        "url": "https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm"
+      },
+      "artists": [
+        {
+          "name": "Arath Arceo",
+          "url": "https://open.spotify.com/artist/179sKnhSlC0IVj10e98XhZ"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Besos Y Copas (En Vivo)",
+      "url": "https://open.spotify.com/track/0lGxEUBHCr0zWUo2Ny7tqq"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Llora Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6bXcXZ5khN7Nr696kNobCG"
@@ -1101,7 +1153,7 @@
       "url": "https://open.spotify.com/track/7KizzILawBFV7p22x4NwPe"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Puras Pa Pistear Volumen 1",
         "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
@@ -1117,7 +1169,7 @@
       "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Te Podr\u00e9 Perdonar",
         "url": "https://open.spotify.com/album/4CXmqI1RkZHjkIvR6c4Fcb"
@@ -1133,7 +1185,7 @@
       "url": "https://open.spotify.com/track/59jjHWGXBD4edb9Q2uDjnw"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Me cans\u00e9 de morir por tu amor",
         "url": "https://open.spotify.com/album/5ltQPT6TIBNgNKjp3EBRqr"
@@ -1153,7 +1205,23 @@
       "url": "https://open.spotify.com/track/0Es05RHPqGBJRJlcvG5CAi"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Arriba La Moyombiza 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Te Ves Fatal (En Vivo)",
+      "url": "https://open.spotify.com/track/021ypkRC62uOYmvS91JN2V"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Sones Adictivos (En Vivo)",
         "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
@@ -1169,7 +1237,23 @@
       "url": "https://open.spotify.com/track/04R8sty3NIXKH990aCA5MG"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/3hqXLmjhAIJOojsVXrM1MB"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 218863,
+      "name": "Tu Lo Decidiste",
+      "url": "https://open.spotify.com/track/1u4n7l7pzmrSSS5UgcxBap"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Por El Puro Gusto Vol. 2",
         "url": "https://open.spotify.com/album/3JyCbm1BJYMOgVKO4kUc8A"
@@ -1193,23 +1277,23 @@
       "url": "https://open.spotify.com/track/1eoq0bia6wDUOjWgvjbQOE"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/3hqXLmjhAIJOojsVXrM1MB"
+        "name": "Si Me Ten\u00edas",
+        "url": "https://open.spotify.com/album/1q7uT320674nuCp3rl0gIY"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "Banda Arkangel R-15",
+          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
         }
       ],
-      "duration_ms": 218863,
-      "name": "Tu Lo Decidiste",
-      "url": "https://open.spotify.com/track/1u4n7l7pzmrSSS5UgcxBap"
+      "duration_ms": 235250,
+      "name": "Si Me Ten\u00edas",
+      "url": "https://open.spotify.com/track/6RMd5GlWb5DW4G0eT0VNZ2"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "No Bailes de Caballito",
         "url": "https://open.spotify.com/album/4VVeq0TI5vPDtc0UMkZ28w"
@@ -1229,7 +1313,23 @@
       "url": "https://open.spotify.com/track/5hofPEfFQTgLdoWmixQfYz"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Armando Aguirre",
+        "url": "https://open.spotify.com/album/1byarWQ4cUypN9fu5vW9ZC"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 161228,
+      "name": "Armando Aguirre",
+      "url": "https://open.spotify.com/track/62VbQIzls3Tg16odpZ4paF"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Son Amoltepec",
         "url": "https://open.spotify.com/album/3jG6LQLjAuZQbPVvKTMSl5"
@@ -1245,7 +1345,7 @@
       "url": "https://open.spotify.com/track/0YENZJJ07UhscqJcBLYl6r"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Ausencia Eterna",
         "url": "https://open.spotify.com/album/2QG1f8uOeQvRbRJ46eM7Bp"
@@ -1265,7 +1365,7 @@
       "url": "https://open.spotify.com/track/5vIQ3OpHYWtFfwzjoLovdZ"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "El Tabaco Mascado",
         "url": "https://open.spotify.com/album/1LpTtZQLPxLzM7tdoqVsck"
@@ -1281,7 +1381,7 @@
       "url": "https://open.spotify.com/track/4y0vFpMhPsoqMegFw25hos"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Si Te Quedas Callada",
         "url": "https://open.spotify.com/album/50I0ilnzQr6FF1yojYRzjE"
@@ -1297,7 +1397,7 @@
       "url": "https://open.spotify.com/track/1nO8pWSeTwwP1k1daR0KJZ"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Si No Me Llamas",
         "url": "https://open.spotify.com/album/0Gyfh7aBxC1E4AsYnZoVu5"
@@ -1313,7 +1413,7 @@
       "url": "https://open.spotify.com/track/4caL4LY6sYsyzhbbqlvY0l"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "En eso no quedamos / Lo callar\u00e9 / Una p\u00e1gina m\u00e1s (En vivo)",
         "url": "https://open.spotify.com/album/0u2KYv85qj5dWv42kFfgvm"
@@ -1345,7 +1445,7 @@
       "url": "https://open.spotify.com/track/2lT5IknctipMB6oyZ1eo0x"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Me Toc\u00f3 Perder",
         "url": "https://open.spotify.com/album/6TeZsimOWmBTL2zK6tFYUr"
@@ -1361,23 +1461,7 @@
       "url": "https://open.spotify.com/track/78l0L3supCGgyrVDOz3CsD"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Tus Quince A\u00f1os",
-        "url": "https://open.spotify.com/album/46KQ8UN07p5IsSCxJYCBM5"
-      },
-      "artists": [
-        {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
-        }
-      ],
-      "duration_ms": 262750,
-      "name": "Tus Quince A\u00f1os",
-      "url": "https://open.spotify.com/track/55bLUQfXgVVoWCrN2HMa7F"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Disculpe Usted",
         "url": "https://open.spotify.com/album/6ObgzEGebjGCGagzzFHwDq"
@@ -1393,23 +1477,7 @@
       "url": "https://open.spotify.com/track/0no1lxFdg7ma79KH0hy2tK"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Retiro Lo Dicho",
-        "url": "https://open.spotify.com/album/3Kt7Z7duVEINVri8v3j7sq"
-      },
-      "artists": [
-        {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
-        }
-      ],
-      "duration_ms": 159795,
-      "name": "Retiro Lo Dicho",
-      "url": "https://open.spotify.com/track/1BJEv89FnKnnEZtUaN70n9"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Puros Corridos Y Rancheras (Remasterizado 2008)",
         "url": "https://open.spotify.com/album/1oHwvurB0EcgSe5IRrTZ7e"
@@ -1425,7 +1493,23 @@
       "url": "https://open.spotify.com/track/5ANGlTdnraBLt2NV5sDfI4"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Retiro Lo Dicho",
+        "url": "https://open.spotify.com/album/3Kt7Z7duVEINVri8v3j7sq"
+      },
+      "artists": [
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "duration_ms": 159795,
+      "name": "Retiro Lo Dicho",
+      "url": "https://open.spotify.com/track/1BJEv89FnKnnEZtUaN70n9"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "30 Aniversario Vol. 2",
         "url": "https://open.spotify.com/album/08rpf0i7V6JJ5zRMIGXeZd"
@@ -1445,7 +1529,7 @@
       "url": "https://open.spotify.com/track/5kTmxF8aiQXRMikAhPoO21"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Porque Volvi Contigo",
         "url": "https://open.spotify.com/album/2CNJxQuUEj6vAgR98Rf0ml"
@@ -1461,7 +1545,7 @@
       "url": "https://open.spotify.com/track/7ELbs0WvQ3AJL6Xj6SpShI"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Vivo La Vida A Mi Modo",
         "url": "https://open.spotify.com/album/294t3IHVf5LCF1Fp7zFb2W"
@@ -1481,7 +1565,7 @@
       "url": "https://open.spotify.com/track/5WTdMhl8dAOj8g2rsrR6f5"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Ya Te Olvid\u00e9",
         "url": "https://open.spotify.com/album/0bZ8uRZiV3l5hf8u3A6C9K"
@@ -1517,7 +1601,7 @@
       "url": "https://open.spotify.com/track/2Reqhyb17rN2D3EJGaSm0G"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Que Desperdicio",
         "url": "https://open.spotify.com/album/4Pk2JpLh2Aa4IKbHX7bUdC"
@@ -1533,7 +1617,7 @@
       "url": "https://open.spotify.com/track/0EHQscc7iOY1SlNXG1KKqM"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "El Contagio",
         "url": "https://open.spotify.com/album/6pJjJXvCRC5DngUpEvSs0Q"
@@ -1549,7 +1633,27 @@
       "url": "https://open.spotify.com/track/1RNlQ9Eb06bzOrvwEd0n47"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Si No Te Tengo",
+        "url": "https://open.spotify.com/album/5RwuiKim92LZqj0cJnOqTp"
+      },
+      "artists": [
+        {
+          "name": "Samuel Rosales y Su Banda Sierra Grande",
+          "url": "https://open.spotify.com/artist/7pyWxycsFxgUIc6d1TAM2k"
+        },
+        {
+          "name": "La Imponente Vientos de Jalisco",
+          "url": "https://open.spotify.com/artist/62VgaFRDPHTE7OQmpQaNqp"
+        }
+      ],
+      "duration_ms": 206193,
+      "name": "Si No Te Tengo",
+      "url": "https://open.spotify.com/track/53VwoZ6zzz0TyGxki6ALjG"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "CON UNA CERVEZA",
         "url": "https://open.spotify.com/album/51aNHMfzrFmjPXZjmj5VGS"
@@ -1565,27 +1669,7 @@
       "url": "https://open.spotify.com/track/1EEsuWkRI67WaTPwPJQI3Y"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Que Risa Me Da",
-        "url": "https://open.spotify.com/album/0kzCuy5xqdDISqvWOIrnU5"
-      },
-      "artists": [
-        {
-          "name": "Ricky Valenzuela",
-          "url": "https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ"
-        },
-        {
-          "name": "Alejandro Rivera",
-          "url": "https://open.spotify.com/artist/55nZsyXLcYAzZvxY091UCj"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Que Risa Me Da",
-      "url": "https://open.spotify.com/track/2mEdvpSrOa3Vkflf6aj9yR"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "De Mi Enam\u00f3rate",
         "url": "https://open.spotify.com/album/1Uuwm9dLAENLFkQcXhEGfL"
@@ -1613,7 +1697,27 @@
       "url": "https://open.spotify.com/track/5yV9MNJ54l58QaHqm5lrHP"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
+      "album": {
+        "name": "Que Risa Me Da",
+        "url": "https://open.spotify.com/album/0kzCuy5xqdDISqvWOIrnU5"
+      },
+      "artists": [
+        {
+          "name": "Ricky Valenzuela",
+          "url": "https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ"
+        },
+        {
+          "name": "Alejandro Rivera",
+          "url": "https://open.spotify.com/artist/55nZsyXLcYAzZvxY091UCj"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Que Risa Me Da",
+      "url": "https://open.spotify.com/track/2mEdvpSrOa3Vkflf6aj9yR"
+    },
+    {
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Antes y Ahora (35 Aniversario)",
         "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
@@ -1629,10 +1733,10 @@
       "url": "https://open.spotify.com/track/1Cson7dXFpYWPQiFabo7YH"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF"
+        "name": "Grandes \u00c9xitos Remasterizado",
+        "url": "https://open.spotify.com/album/1R3MrnO5mAyt1tpeTADWAU"
       },
       "artists": [
         {
@@ -1640,12 +1744,12 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 168480,
-      "name": "Est\u00e1s Cancelada",
-      "url": "https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0"
+      "duration_ms": 212042,
+      "name": "Mi Mayor Anhelo - REMASTERIZADO",
+      "url": "https://open.spotify.com/track/2QD6LmH6BlOIZcYJicY6ZF"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Antes y Ahora (35 Aniversario)",
         "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
@@ -1661,7 +1765,7 @@
       "url": "https://open.spotify.com/track/4wVGAlmWqnXxzvAMsCZhM3"
     },
     {
-      "added_at": "2026-01-23 06:00:08",
+      "added_at": "2026-01-30 19:20:17",
       "album": {
         "name": "Antes y Ahora (35 Aniversario)",
         "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
@@ -1675,22 +1779,6 @@
       "duration_ms": 203096,
       "name": "Como La Palma De Mi Mano",
       "url": "https://open.spotify.com/track/5hAdvuDvNXJtPinXBIT4nc"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Grandes \u00c9xitos Remasterizado",
-        "url": "https://open.spotify.com/album/1R3MrnO5mAyt1tpeTADWAU"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 212042,
-      "name": "Mi Mayor Anhelo - REMASTERIZADO",
-      "url": "https://open.spotify.com/track/2QD6LmH6BlOIZcYJicY6ZF"
     }
   ],
   "unique_name": "Banda 2026",

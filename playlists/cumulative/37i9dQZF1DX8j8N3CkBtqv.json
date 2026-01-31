@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Savera, OAFF and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Samad Khan, Shikhar, Janisht Joshi and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -780,6 +780,24 @@
       "duration_ms": 191020,
       "name": "Aankhon Mein Aansu",
       "url": "https://open.spotify.com/track/6S9wFxOlnz42LpCKIhlpJR"
+    },
+    {
+      "album": {
+        "name": "Aasmani",
+        "url": "https://open.spotify.com/album/24HEKKPyHEu5fbcctSMBKN"
+      },
+      "artists": [
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340835,
+      "name": "Aao Na",
+      "url": "https://open.spotify.com/track/3E5paqQcR3TyAhvVxdnWqo"
     },
     {
       "album": {
@@ -8241,6 +8259,32 @@
     },
     {
       "album": {
+        "name": "gulbahar",
+        "url": "https://open.spotify.com/album/0Zc8bKPI9FxnFyNBVjlgeo"
+      },
+      "artists": [
+        {
+          "name": "roshnee",
+          "url": "https://open.spotify.com/artist/5bNlV7RugEn70UvFBW2V9D"
+        },
+        {
+          "name": "Ganesh Murali Iyer",
+          "url": "https://open.spotify.com/artist/7mYld0KbffsCDCtSC6sDlX"
+        },
+        {
+          "name": "Aman Warkhedkar",
+          "url": "https://open.spotify.com/artist/06awX1b51DJZhTkgYnCSCx"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187147,
+      "name": "gulbahar",
+      "url": "https://open.spotify.com/track/2LE6zZj17aW1U1aktMHnw8"
+    },
+    {
+      "album": {
         "name": "Gulchharre",
         "url": "https://open.spotify.com/album/36U4A2L3qW4OYqvV3GXjGx"
       },
@@ -10086,7 +10130,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 183227,
       "name": "Jaagi Jaagi",
       "url": "https://open.spotify.com/track/5gmytYSbnDkfbmPUXvMv1G"
@@ -13728,7 +13772,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 195000,
       "name": "Kiss a Stranger",
       "url": "https://open.spotify.com/track/0riJXCsFHkpgreVFiyGwiv"
@@ -14310,7 +14354,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 168000,
       "name": "Kyun",
       "url": "https://open.spotify.com/track/0N7oQjTaY8TEnHwa7ktljA"
@@ -14878,6 +14922,28 @@
       "duration_ms": 238758,
       "name": "Le Ja Re",
       "url": "https://open.spotify.com/track/4b0zJze6X4NL3s1N0TT729"
+    },
+    {
+      "album": {
+        "name": "Le Jaa",
+        "url": "https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA"
+      },
+      "artists": [
+        {
+          "name": "Adeetiiya",
+          "url": "https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s"
+        },
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154015,
+      "name": "Le Jaa",
+      "url": "https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr"
     },
     {
       "album": {
@@ -17680,7 +17746,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 158277,
       "name": "Naina...",
       "url": "https://open.spotify.com/track/44tsDVQ5tRBwYrWIMXV1IU"
@@ -18234,6 +18300,28 @@
       "duration_ms": 172231,
       "name": "Noor",
       "url": "https://open.spotify.com/track/1Q36B0rYq3m2CEqESn5Q0D"
+    },
+    {
+      "album": {
+        "name": "NOT A ROCKSTAR",
+        "url": "https://open.spotify.com/album/2NrjqOYMj6FQzf7SwRg3IR"
+      },
+      "artists": [
+        {
+          "name": "Shikhar",
+          "url": "https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9"
+        },
+        {
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166840,
+      "name": "NOT A ROCKSTAR",
+      "url": "https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE"
     },
     {
       "album": {
@@ -20877,6 +20965,32 @@
     },
     {
       "album": {
+        "name": "Saanu Tere Naal",
+        "url": "https://open.spotify.com/album/5BmUhx8SXUqQEkcYVJatXW"
+      },
+      "artists": [
+        {
+          "name": "Aasa Singh",
+          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+        },
+        {
+          "name": "Arvinder Singh",
+          "url": "https://open.spotify.com/artist/4ZY81pabNXmCTyutcniAVW"
+        },
+        {
+          "name": "Sid Paul",
+          "url": "https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Saanu Tere Naal",
+      "url": "https://open.spotify.com/track/50LOCpH5OsXbQ9Wq0OKvbl"
+    },
+    {
+      "album": {
         "name": "Saanware Aijaiyo",
         "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
       },
@@ -22894,7 +23008,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 157377,
       "name": "Student of Love",
       "url": "https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx"

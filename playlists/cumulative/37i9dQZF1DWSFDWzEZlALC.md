@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Levin Liam
 
-1,569 songs - 3 day 2 hr 5 min
+1,570 songs - 3 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Almost Hit By A Discokugel](https://open.spotify.com/track/6mqxkxgtNyTLbbd3XsDz40) | [BUBE](https://open.spotify.com/artist/4bNL0SKfELaXHN3zsmUMfN) | [BUBE](https://open.spotify.com/album/5PfHkFlPlselXKuiqPjnfX) | 4:54 | 2024-09-19 | 2024-10-18 |
 | [Altbau](https://open.spotify.com/track/5LmYjkAaboDhhNhDxAfMvM) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [Altbau](https://open.spotify.com/album/6o5C3NyIx43mgF1tC3LfPg) | 2:47 | 2024-11-21 | 2024-12-13 |
 | [Am Herz vorbei](https://open.spotify.com/track/0tuUNU7oJti5kRwTKUlohl) | [Tristan Brusch](https://open.spotify.com/artist/2XbRunIT35jrB8HRsISPgT) | [Am Wahn](https://open.spotify.com/album/4cIC8nIsGhfyeerpuYKDGB) | 4:36 | 2025-02-13 | 2025-02-15 |
+| [amelie](https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [amelie](https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE) | 2:38 | 2026-01-30 |  |
 | [AMNESIE AMNESIE](https://open.spotify.com/track/6FDXWV4OkQeu84JAxt8Vyw) | [LAZLO](https://open.spotify.com/artist/435fmLcbvAJdnVy78faNWY), [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [AMNESIE AMNESIE](https://open.spotify.com/album/1ZEmiBJqnEGp7LtGnXCNgb) | 2:26 | 2024-10-10 | 2024-11-01 |
 | [An meinen Händen klebt Blut](https://open.spotify.com/track/7rYTxiT8J5da9TuepUBsY7) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [An meinen Händen klebt Blut](https://open.spotify.com/album/78HyowIMj3FFxHhQUH7tvh) | 2:59 | 2024-12-05 | 2025-02-14 |
 | [an mir vorbei](https://open.spotify.com/track/4GkCMFKlylyKIMfsQida90) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [an mir vorbei](https://open.spotify.com/album/1yxFByfea9YFybtgP9wuPf) | 3:01 | 2025-06-19 | 2025-08-29 |
@@ -699,7 +700,7 @@
 | [in meinem Zimmer](https://open.spotify.com/track/5oiLUdNckXAg4e9JnrhMOV) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [in meinem Zimmer](https://open.spotify.com/album/3OkJpCPcGiapiN6lHDpjfr) | 1:58 | 2025-02-20 | 2025-03-21 |
 | [in meinem zimmer sieht es aus wie in meinem kopf](https://open.spotify.com/track/5nB9wlMtsl6tbhY7dyvRJV) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [in meinem zimmer sieht es aus wie in meinem kopf](https://open.spotify.com/album/11J9fee0RH8PEcwKiFuzLl) | 2:08 | 2025-10-09 | 2025-12-12 |
 | [In meinem Zimmer spielen sich Dramen ab](https://open.spotify.com/track/1kI132xTBCsVDLoIccMJNp) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [In meinem Zimmer spielen sich Dramen ab](https://open.spotify.com/album/37gbJcYV0JUmjUkowaKlFb) | 2:35 | 2025-04-24 | 2025-06-06 |
-| [In Nächten Wie Diesen](https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [](https://open.spotify.com/album/null) | 3:27 | 2026-01-29 |  |
+| [In Nächten Wie Diesen](https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [WIR](https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd) | 3:27 | 2026-01-29 |  |
 | [Indiepopper](https://open.spotify.com/track/4pCjMnO046CQky9tooaX3M) | [bucci](https://open.spotify.com/artist/1f8lvHw5C5ZNd9ACUi7TNh), [Marveni](https://open.spotify.com/artist/2PZ1ffvoPso2Jhx015GZTI) | [Indiepopper](https://open.spotify.com/album/3WFO7Vd2zaSQgYojyD60oc) | 2:22 | 2024-11-29 | 2024-12-13 |
 | [Indigo](https://open.spotify.com/track/5voBx32zUStgxAfTZ8d4Gv) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Indigo](https://open.spotify.com/album/2cbAgiynVNUCo4vO9PsZao) | 2:49 | 2023-03-30 | 2023-05-19 |
 | [Indigo](https://open.spotify.com/track/2VTxjnSovY93J4J4dNXhcH) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Pazifik](https://open.spotify.com/album/40uGNlnavAbwWtL5zy44Ty) | 3:56 | 2025-02-20 | 2025-05-09 |
@@ -1213,7 +1214,7 @@
 | [sinnlose gedanken](https://open.spotify.com/track/3Qz4uQoG1HoVawst5pwqGQ) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B), [beslik](https://open.spotify.com/artist/0zw17mk0oEnrv4STjNgxsr) | [sinnlose gedanken](https://open.spotify.com/album/6X7S3TIYFZGpPQkauDymXs) | 3:01 | 2024-10-10 | 2024-10-25 |
 | [siriusstern](https://open.spotify.com/track/2nFfjUbdHsmgt7bszzqXOE) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [siriusstern](https://open.spotify.com/album/0LfbdxND1TtRf0EVzeyyR8) | 3:03 | 2025-09-04 | 2025-10-17 |
 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 | 2023-03-09 | 2023-09-01 |
-| [skinny jeans](https://open.spotify.com/track/049a3k8MqT26Ei5I76eD0U) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [skinny jeans](https://open.spotify.com/album/5Xhxo6ilvZsnTWMGBuczGC) | 2:22 | 2026-01-15 |  |
+| [skinny jeans](https://open.spotify.com/track/049a3k8MqT26Ei5I76eD0U) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [skinny jeans](https://open.spotify.com/album/5Xhxo6ilvZsnTWMGBuczGC) | 2:22 | 2026-01-15 | 2026-01-31 |
 | [SMS an Mama](https://open.spotify.com/track/0WGs0QisymepiBXqyGZ2c7) | [Hænsen](https://open.spotify.com/artist/4FrbqIfGp7dA9BQVpeWs66) | [SMS an Mama](https://open.spotify.com/album/3gPgKapGoedvuFOIA6aMHw) | 2:32 | 2025-05-22 | 2025-06-20 |
 | [so allein](https://open.spotify.com/track/16Jm7I1i6ubm5mGhLInqCr) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [so allein](https://open.spotify.com/album/7jK6jSILE3ey68mlC0DnFl) | 2:40 | 2024-08-08 | 2024-08-30 |
 | [so als ob](https://open.spotify.com/track/6Cy2aCQUeJy3aTAI7P9ZwJ) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Ist es schon wieder Abend?](https://open.spotify.com/album/2sasQFlydD1KAFgu9wqxg1) | 2:34 | 2024-10-24 | 2025-02-21 |

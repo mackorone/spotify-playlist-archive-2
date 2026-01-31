@@ -449,6 +449,28 @@
     },
     {
       "album": {
+        "name": "Amar",
+        "url": "https://open.spotify.com/album/59pHqeipvAJ9AWjGLgp2yR"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250080,
+      "name": "Amar",
+      "url": "https://open.spotify.com/track/2dppCe4Bnlg75Wabm3q4zB"
+    },
+    {
+      "album": {
         "name": "Amelie",
         "url": "https://open.spotify.com/album/3MkPfEHkVyRAsZ4NjpzWKc"
       },
@@ -1134,6 +1156,28 @@
       "duration_ms": 241986,
       "name": "Comiendote a Besos",
       "url": "https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg"
+    },
+    {
+      "album": {
+        "name": "Como La Cigarra",
+        "url": "https://open.spotify.com/album/3hJ4t4rqzidNmR6YHPndqR"
+      },
+      "artists": [
+        {
+          "name": "Rosa Leon",
+          "url": "https://open.spotify.com/artist/03ukvtQJzZmG7CEOmnkoMW"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216730,
+      "name": "Como La Cigarra",
+      "url": "https://open.spotify.com/track/6Hv6A2o9SSK5BbkPVE1iud"
     },
     {
       "album": {
@@ -5211,6 +5255,24 @@
     },
     {
       "album": {
+        "name": "Pensando en ti",
+        "url": "https://open.spotify.com/album/0eLoO935VNMY86isjkZfEe"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195537,
+      "name": "Pensando en ti",
+      "url": "https://open.spotify.com/track/2u9PuocHGoekwh0lQE6ez4"
+    },
+    {
+      "album": {
         "name": "Pienso en ti (Sesiones Moraima 2)",
         "url": "https://open.spotify.com/album/6ApaVcN0OP4DWSwgQuq58a"
       },
@@ -5294,7 +5356,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 209893,
       "name": "Precisamente - en vivo",
       "url": "https://open.spotify.com/track/4r8kHj8Fha7228YjvGtJpF"
@@ -5794,7 +5856,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 131213,
       "name": "Saber",
       "url": "https://open.spotify.com/track/28YJFlHZ7uQJMTG3mud12F"
@@ -5856,10 +5918,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 280053,
       "name": "Salitre",
       "url": "https://open.spotify.com/track/1MmGTsPVHDjhM5BJLvkFRL"
+    },
+    {
+      "album": {
+        "name": "San Jos\u00e9, Almer\u00eda",
+        "url": "https://open.spotify.com/album/3K7yTOr0HcWK0ar43zC1tH"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222746,
+      "name": "San Jos\u00e9, Almer\u00eda",
+      "url": "https://open.spotify.com/track/14KTHyfbq3kEATrTKblhg9"
     },
     {
       "album": {
@@ -6616,7 +6696,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 230653,
       "name": "tiene que ser m\u00e1s f\u00e1cil",
       "url": "https://open.spotify.com/track/2QmjmQQeNAl4BFynm5N4Dh"

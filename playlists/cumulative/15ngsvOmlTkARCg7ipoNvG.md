@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,049 songs - 1 day 17 hr 17 min
+2,050 songs - 1 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Bath](https://open.spotify.com/track/0xVDJ29bnFPSroQqq4GgKU) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Beyond](https://open.spotify.com/album/2SNyPk3oJs7OPDHJoCxM8I) | 1:04 | 2022-01-12 |  |
 | [Bathing In Beauty](https://open.spotify.com/track/77CUtehLNUkp7vuL0nh438) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Imagining You](https://open.spotify.com/album/2XuCxvBzWmjATWAN5esQTg) | 1:05 | 2022-01-27 |  |
 | [Bathing In Moonlight](https://open.spotify.com/track/1U406xdHcu8kKP4nBTTuxT) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Inspiring Wonder](https://open.spotify.com/album/5GaqAoc0gAzImOql9eWKVF) | 1:04 | 2022-02-19 |  |
+| [Beautiful](https://open.spotify.com/track/3ooAp2vongxWYoLJDZmUMi) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Beautiful](https://open.spotify.com/album/5PRUPd0hgeAzerEzqyANUS) | 1:00 | 2026-01-30 |  |
 | [Beautiful Discovery](https://open.spotify.com/track/0PRpMOu8TBtWhy8IQNGHRg) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Reunion](https://open.spotify.com/album/6mqrhNRHkLiMLL6bop27xc) | 2:35 | 2022-01-12 | 2024-01-30 |
 | [Beautiful Echoes](https://open.spotify.com/track/6v187trjn240Idmu07FOVF) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Cello](https://open.spotify.com/album/10FYDKljITHunEsUCAHFUe) | 1:20 | 2022-01-20 |  |
 | [Beautiful Endings](https://open.spotify.com/track/2halTnjs4QrUNRjyFNy0Uf) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |

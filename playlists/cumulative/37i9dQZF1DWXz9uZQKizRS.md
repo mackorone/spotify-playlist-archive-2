@@ -4,7 +4,7 @@
 
 > Najlepsza świeża polska alternatywa\. Cover: huskie
 
-1,353 songs - 3 day 4 hr 20 min
+1,353 songs - 3 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -931,6 +931,7 @@
 | [Retrospekcja](https://open.spotify.com/track/77yAxzRvs4JkFC6dTh9dTI) | [Deluzja](https://open.spotify.com/artist/3j8SyhfSEPT01bkDo66vVq) | [Retrospekcja](https://open.spotify.com/album/2McUIikyvjcrTOWTNVRhvK) | 4:24 | 2025-02-06 | 2025-02-28 |
 | [Rezonuję](https://open.spotify.com/track/62hXAYQCsFDiUF9nPXguOZ) | [Akurat](https://open.spotify.com/artist/31klUqSemCAL25sHeFDTFB) | [Rezonuję](https://open.spotify.com/album/767pirIAjd2xX7YCr2O08Q) | 3:24 | 2025-06-19 | 2025-07-18 |
 | [Rifko](https://open.spotify.com/track/4C7jhqxQ3Z3hWfHYCgjURU) | [Łąki Łan](https://open.spotify.com/artist/2fyLjdAfNDXGANys1KoAzo) | [DżDż](https://open.spotify.com/album/7zxj7b3bxJWEJpEWRwbX7F) | 4:17 | 2024-11-14 | 2024-11-29 |
+| [Riksarkivet](https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Sentimental Value](https://open.spotify.com/album/5OoZ2XvZIxa511ZkAmm3cO) | 3:17 | 2026-01-29 |  |
 | [Ritz](https://open.spotify.com/track/3dtqAkNTYcmyInE9DgIkW1) | [Leski](https://open.spotify.com/artist/5mo8dMBdWypyKgz3SQ0EEu), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Ritz](https://open.spotify.com/album/4wcMLeOkrbpeT2W4TN5V92) | 3:05 | 2025-05-01 | 2025-08-01 |
 | [Robisz mi w głowie ogień](https://open.spotify.com/track/5ufNLI5QkvWEkx4AQsOxTk) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Robisz mi w głowie ogień](https://open.spotify.com/album/2X892wSX0E85LtkQnZQBOE) | 3:32 | 2025-03-27 | 2025-07-25 |
 | [Roboty](https://open.spotify.com/track/5dI9OMRn37zPKmspyvY5CR) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Roboty](https://open.spotify.com/album/2jJfK3kEY9xPEv8o8XLi2w) | 2:58 | 2024-08-01 | 2024-10-11 |
@@ -1102,7 +1103,6 @@
 | [Topiel](https://open.spotify.com/track/0DtswFLxYeRvi1JUu4oAXQ) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Topiel](https://open.spotify.com/album/1mtOHVI3C3C3HT9OasFRAt) | 3:42 | 2024-11-21 | 2025-02-15 |
 | [Toruń](https://open.spotify.com/track/3oKvNBUziRbUWpvS7vHJAy) | [Kazik & Kwartet ProForma](https://open.spotify.com/artist/6gv9OBMwrCKkZGFQIPUa73) | [Po moim trupie](https://open.spotify.com/album/2Llhzp3WCWP0JFp7wpXH7W) | 4:53 | 2024-09-26 | 2024-11-01 |
 | [Touching](https://open.spotify.com/track/2oDRWPfp5tJkfYySjRoQV3) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Fragile \(Original Soundtrack\)](https://open.spotify.com/album/0ngt33D8YMRJUN3WbVd8tx) | 2:44 | 2026-01-08 | 2026-01-30 |
-| [Track 5](https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-29 |  |
 | [TRIK](https://open.spotify.com/track/4NPCGtOfEuRIK1CJh6q3Nv) | [FOMOTOK](https://open.spotify.com/artist/0CnSNWcT6hES7FDHk4alpL) | [TRIK](https://open.spotify.com/album/55AvttSNVmQFfowzCqB5MV) | 2:41 | 2024-06-27 | 2024-07-12 |
 | [trochę cukru ładnie proszę](https://open.spotify.com/track/0Tvh5xIkfhR8MKGJdX5IXq) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4) | [trochę cukru ładnie proszę](https://open.spotify.com/album/60NeC21rt4PHWsLJzpOl08) | 3:56 | 2025-05-01 | 2025-05-23 |
 | [Trochę wstydzę się](https://open.spotify.com/track/0jNkdakLBGakLqAVFFPwry) | [Fetysz](https://open.spotify.com/artist/4Q6Ro5v2pYwW4hJgPo2Idz) | [Trochę wstydzę się](https://open.spotify.com/album/39McUWR3zW11H6BJkKWeoQ) | 3:09 | 2025-05-29 | 2025-06-17 |

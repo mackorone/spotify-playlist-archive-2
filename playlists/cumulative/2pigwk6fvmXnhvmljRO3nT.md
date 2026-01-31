@@ -4,7 +4,7 @@
 
 > 
 
-8,319 songs - 21 day 3 hr 28 min
+8,320 songs - 21 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5722,6 +5722,7 @@
 | [Someone That Loves You](https://open.spotify.com/track/2a5Ml671R56tzRB0WMaCfC) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:04 | 2025-04-12 |  |
 | [Someone To Call My Lover](https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 4:32 | 2025-03-17 |  |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2025-01-03 |  |
+| [Something About You](https://open.spotify.com/track/3oNQ6NkihVzQkV5qhk2Pbe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/12oHVYKFFU9n6BguwU64xx) | 2:33 | 2026-01-30 |  |
 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 | 2025-01-03 |  |
 | [Something About You](https://open.spotify.com/track/3h6gaQYkoaBgRUFpwvFIiS) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Something About You](https://open.spotify.com/album/0TYfW3YAkN1meKog3TnkZl) | 3:40 | 2025-01-15 |  |
 | [Something About You \(feat\. FIG\)](https://open.spotify.com/track/0sr5bb8p1PkyD2PbER33yp) | [Echo Huang](https://open.spotify.com/artist/3nCCEiChcmfz65ccX2BzdE), [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Something About You \(feat\. FIG\)](https://open.spotify.com/album/0rz0PV7kFLjmcTVZ5WgGDw) | 2:52 | 2025-04-20 |  |

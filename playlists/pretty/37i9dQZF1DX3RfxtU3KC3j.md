@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Canozan
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,168 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,174 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 5 | [Yavru Ejdera](https://open.spotify.com/track/5BTOgcFGD7T6USBOEgbcQq) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Yavru Ejdera](https://open.spotify.com/album/1UOUetJQZrNlkS6wTRCbn3) | 2:44 |
 | 6 | [YERALTI GÜNEŞ KOKAR](https://open.spotify.com/track/2VCKaKrlSnLhGAlH7mZkY4) | [Görkem Karabudak](https://open.spotify.com/artist/1oAAtiC1OuS6dxE1DIkUUp) | [YERALTI GÜNEŞ KOKAR](https://open.spotify.com/album/3eUpEgQn7EILb7Wd7lKCtC) | 3:45 |
 | 7 | [Fiyakalı Geçmişimiz](https://open.spotify.com/track/6nVbZO36dfpxCOpytwUXmi) | [Zakkum](https://open.spotify.com/artist/70Ya7DKJEo20SAkxjirYnu) | [Fiyakalı Geçmişimiz](https://open.spotify.com/album/4HUGFM6iKoUWLOc1Bqry87) | 3:48 |
-| 8 | [Yalanmış](https://open.spotify.com/track/5mPfZM7cKhLmDhyPjfTIzR) | [Frozen Clouds](https://open.spotify.com/artist/0M3LK8CPC8luVRntRVHwAp), [UZUM3](https://open.spotify.com/artist/0MxwyKmWLNSPtWbaAnfFr1), [tan](https://open.spotify.com/artist/4sObWMDsglbiw2u1A1RZpX) | [](https://open.spotify.com/album/null) | 2:52 |
+| 8 | [Yalanmış](https://open.spotify.com/track/5mPfZM7cKhLmDhyPjfTIzR) | [Frozen Clouds](https://open.spotify.com/artist/0M3LK8CPC8luVRntRVHwAp), [UZUM3](https://open.spotify.com/artist/0MxwyKmWLNSPtWbaAnfFr1), [tan](https://open.spotify.com/artist/4sObWMDsglbiw2u1A1RZpX) | [Kal](https://open.spotify.com/album/37uCLb3ss0CurFjzG3wu2b) | 2:52 |
 | 9 | [Denize Baktım](https://open.spotify.com/track/1LcEQyifLT6WLI4kdsdHwn) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j), [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Denize Baktım](https://open.spotify.com/album/0XUXiJPTtvE3LHjwI0axd5) | 4:24 |
 | 10 | [Sahte Gül Pazarı](https://open.spotify.com/track/4cqbObbQf9sSnDr0apOpea) | [Bahadır Sağlam](https://open.spotify.com/artist/60MyIKYA3yY1lGNroaZIgT) | [Sahte Gül Pazarı](https://open.spotify.com/album/5KQ2yqBqjo8j3KRKpEAqNw) | 3:10 |
 | 11 | [Sar](https://open.spotify.com/track/7aQOJQ2UjcpbVzFbtUpi31) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Sar](https://open.spotify.com/album/51A9DqO0EH2onh4Mvylbtl) | 3:23 |

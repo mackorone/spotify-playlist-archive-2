@@ -5671,6 +5671,28 @@
     },
     {
       "album": {
+        "name": "This Ain't A Game",
+        "url": "https://open.spotify.com/album/4cmmca5HU2WP9yIvErhnf6"
+      },
+      "artists": [
+        {
+          "name": "Ray J",
+          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305933,
+      "name": "Formal Invite (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/7qysG3xmCneKZuVjnDCif2"
+    },
+    {
+      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r"
       },
@@ -10952,7 +10974,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 186666,
       "name": "Lil Bruh",
       "url": "https://open.spotify.com/track/5Pi9JV3PcfvGPXVZmfpsrZ"
@@ -16802,7 +16824,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 218986,
       "name": "Stress Ya",
       "url": "https://open.spotify.com/track/2HFcrcyOV5xv6C2DrIKNGa"

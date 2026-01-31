@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Jamie MacDonald",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: We The Kingdom",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 252501,
       "name": "Already On The Way",
       "url": "https://open.spotify.com/track/5BiB8P7GtRhU5qXhfUVraS"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 265000,
       "name": "Be Still",
       "url": "https://open.spotify.com/track/6XHPsVxJ1XKZI41ip1Iamm"
@@ -4198,7 +4198,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 231915,
       "name": "DEEP",
       "url": "https://open.spotify.com/track/0THcqMeQa1NSviF64C5NG5"
@@ -4888,7 +4888,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 369782,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6wLGR76rJ1HqWUJshvWbtM"
@@ -9271,6 +9271,28 @@
     },
     {
       "album": {
+        "name": "Not My Will (Deluxe)",
+        "url": "https://open.spotify.com/album/3lW9WwXpVEHIsn7GYaMZnb"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        },
+        {
+          "name": "Phylisha Mitchell",
+          "url": "https://open.spotify.com/artist/3kKBNNEfSaHcoFb9LFkbUh"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271086,
+      "name": "Holy Spirit (feat. Phylisha Mitchell)",
+      "url": "https://open.spotify.com/track/24SrfIM7qWv1nuHemYgZSM"
+    },
+    {
+      "album": {
         "name": "Holy Trouble + What I Was Made For",
         "url": "https://open.spotify.com/album/26ESial2wdAJSrBqFLGeoY"
       },
@@ -9578,6 +9600,28 @@
       "duration_ms": 235600,
       "name": "Hope's Gonna Find You",
       "url": "https://open.spotify.com/track/5Jqklo4srneGCMCLVHaFOX"
+    },
+    {
+      "album": {
+        "name": "Hope's Gonna Find You (with Franni Cash)",
+        "url": "https://open.spotify.com/album/1xKo457LHtDbMYpTp0rIA3"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        },
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231400,
+      "name": "Hope's Gonna Find You (with Franni Cash)",
+      "url": "https://open.spotify.com/track/1a6szj3r3ng4BwzOqgMCVi"
     },
     {
       "album": {
@@ -11041,6 +11085,24 @@
     },
     {
       "album": {
+        "name": "ily anyway",
+        "url": "https://open.spotify.com/album/48urOeRPiRS1VLch1aFyGD"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "ily anyway",
+      "url": "https://open.spotify.com/track/2XCUTNsevyCzQEHjH0t6f9"
+    },
+    {
+      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/02agWXzHUBYG9YBeyJV0Cl"
       },
@@ -11770,7 +11832,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 205617,
       "name": "Jesus I Do (feat. The Clark Sisters)",
       "url": "https://open.spotify.com/track/0fLwKttkpqaQDqDy8JH8Ul"
@@ -12386,7 +12448,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 171181,
       "name": "kerosene",
       "url": "https://open.spotify.com/track/7mRthTJf3n6Ee35g2qTl95"
@@ -12987,6 +13049,24 @@
     },
     {
       "album": {
+        "name": "Dear Jesus",
+        "url": "https://open.spotify.com/album/0QiMDbTi1TJ8RGUKU11jZr"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217850,
+      "name": "Let It Be Jesus",
+      "url": "https://open.spotify.com/track/6maw7SjTyCyI567yXNTe3N"
+    },
+    {
+      "album": {
         "name": "Let It Begin",
         "url": "https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj"
       },
@@ -13218,6 +13298,24 @@
       "duration_ms": 279736,
       "name": "Life & Breath",
       "url": "https://open.spotify.com/track/2qQfEaRyb67f1XgvVjg9j5"
+    },
+    {
+      "album": {
+        "name": "Life With You",
+        "url": "https://open.spotify.com/album/07PemxQ0IHwoeZofljquDK"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192562,
+      "name": "Life With You",
+      "url": "https://open.spotify.com/track/1tnR8SHJKG3XBIDKUB5Ys1"
     },
     {
       "album": {
@@ -20496,7 +20594,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 114820,
       "name": "SURVIVAL",
       "url": "https://open.spotify.com/track/7hLPf08ntd50rs7R55H9rz"
@@ -20780,6 +20878,28 @@
       "duration_ms": 207471,
       "name": "Talk of the Town",
       "url": "https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0"
+    },
+    {
+      "album": {
+        "name": "Taste And See (The Love Of Christ)",
+        "url": "https://open.spotify.com/album/51eWUtm4FF7SWkIoHq45nH"
+      },
+      "artists": [
+        {
+          "name": "Bryan Fowler",
+          "url": "https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272149,
+      "name": "Taste And See (The Love Of Christ)",
+      "url": "https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD"
     },
     {
       "album": {
@@ -21917,6 +22037,24 @@
     },
     {
       "album": {
+        "name": "The Love I Have For You",
+        "url": "https://open.spotify.com/album/6IAZRtDcKhLmoK8KFziqrE"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162245,
+      "name": "The Love I Have For You",
+      "url": "https://open.spotify.com/track/75aoONJnZBvJ7va31RjtSv"
+    },
+    {
+      "album": {
         "name": "The Lows",
         "url": "https://open.spotify.com/album/1Ifw6B8pNgYmYgB67wx93t"
       },
@@ -22316,6 +22454,24 @@
       "duration_ms": 251569,
       "name": "Then I Will - From The Motion Picture Bonhoeffer",
       "url": "https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu"
+    },
+    {
+      "album": {
+        "name": "There Goes That Man",
+        "url": "https://open.spotify.com/album/0VfyycjOpJgt56sEz6OD8C"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260459,
+      "name": "There Goes That Man",
+      "url": "https://open.spotify.com/track/7pOo4GVNndyLhhlVRliHYU"
     },
     {
       "album": {
@@ -24378,7 +24534,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 218000,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj"
@@ -24530,7 +24686,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 248820,
       "name": "Why Do You Love Me?",
       "url": "https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe"
@@ -24712,6 +24868,24 @@
       "duration_ms": 267282,
       "name": "Wings",
       "url": "https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC"
+    },
+    {
+      "album": {
+        "name": "Restore: Live in London",
+        "url": "https://open.spotify.com/album/7LzEcOSf8GOcO0lH0qD3Im"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183125,
+      "name": "With God - Live",
+      "url": "https://open.spotify.com/track/5t3Y3f6dXnuznrjA5Q9f2C"
     },
     {
       "album": {

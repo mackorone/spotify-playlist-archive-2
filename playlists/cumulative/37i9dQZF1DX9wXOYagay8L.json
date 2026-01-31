@@ -15675,6 +15675,24 @@
     },
     {
       "album": {
+        "name": "Yalwa",
+        "url": "https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Yalwa",
+      "url": "https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR"
+    },
+    {
+      "album": {
         "name": "Yelele",
         "url": "https://open.spotify.com/album/2R6tuyZ91QkYAJJuvfyEWA"
       },

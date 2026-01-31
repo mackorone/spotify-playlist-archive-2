@@ -2,9 +2,9 @@
 
 ### [Ranchenato](https://open.spotify.com/playlist/37i9dQZF1DX3RLBEieQdqD)
 
-> ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Jessi Uribe
+> ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Jessi Uribe, Eden Muñoz
 
-240 songs - 13 hr 42 min
+242 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Cacho x Cacho](https://open.spotify.com/track/4u4gK0RrCosD5WdraNv4GH) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [Regional Live by Yohan Usuga \(Vol\. 1\)](https://open.spotify.com/album/1dnpBJLW8JpBwlkNvpZ4El) | 2:24 | 2025-03-21 | 2025-08-23 |
 | [Cenizas](https://open.spotify.com/track/0GGNNoGUE4rexeyYVdfTgV) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:37 | 2022-08-18 | 2023-02-25 |
 | [Cenizas](https://open.spotify.com/track/0gxwW503gXlnieaQiusXun) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Cenizas](https://open.spotify.com/album/0gz3EqgAjtMeOxbDWrICS7) | 2:37 | 2023-02-03 | 2024-04-19 |
-| [Cenizas](https://open.spotify.com/track/19QuUM1beP2kJNQ6mLfkAi) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Cenizas](https://open.spotify.com/album/28SO7qNfl0wEXYIqdIfXwT) | 2:37 | 2024-03-29 |  |
+| [Cenizas](https://open.spotify.com/track/19QuUM1beP2kJNQ6mLfkAi) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Cenizas](https://open.spotify.com/album/28SO7qNfl0wEXYIqdIfXwT) | 2:37 | 2024-03-29 | 2026-01-31 |
 | [Cierra los Ojos](https://open.spotify.com/track/3bCiiP29KywpG5ZiOIepLs) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [Cariño Malo](https://open.spotify.com/album/6GxAiqQlYPgrUEkxZKyrPU) | 4:12 | 2025-08-22 |  |
 | [Como Si Nada](https://open.spotify.com/track/5M2rUcoW3Kffm6Iw0NOje4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Como Si Nada](https://open.spotify.com/album/23AVhkrU4uDEnSv0QaSRmI) | 3:09 | 2022-10-14 | 2022-11-14 |
 | [Como Si Nada](https://open.spotify.com/track/6L8o9C3LqHOQoVY7HCzriM) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Como Si Nada](https://open.spotify.com/album/2vDIKPEFeCtqY8HKmAi3bd) | 3:09 | 2024-03-29 |  |
@@ -135,7 +135,7 @@
 | [Matemos Las Ganas](https://open.spotify.com/track/4DFy4AEko2E5Vwtj24nSuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos Las Ganas](https://open.spotify.com/album/3T8h8FCiTVaB81R2mzlYgG) | 3:02 | 2024-03-29 |  |
 | [Mañanita De Invierno \(feat\. Silvestre Dangond\)](https://open.spotify.com/track/661BYmEBVdUPhMY8X6DhKz) | [Poncho Zuleta](https://open.spotify.com/artist/1FrVJr7a4ZTOCSnKz3Fuq1), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Poncho Zuleta 45 Años](https://open.spotify.com/album/5K5ALlnrnBQUwtzzcA4qCy) | 8:37 | 2022-08-18 |  |
 | [Me Enamoré](https://open.spotify.com/track/6yh4phrNduhMduSKHdW626) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Lo Más Importante Es El Amor](https://open.spotify.com/album/3RFzIXaLYrCxF7t8yqOC1R) | 2:57 | 2025-03-21 | 2025-05-31 |
-| [ME ENGAÑARON LOS DOS](https://open.spotify.com/track/6y3hRQeVYOAIjopk0mCm4D) | [Julian Daza](https://open.spotify.com/artist/6v51qeWtu7Jci5u6dQuose), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [ME ENGAÑARON LOS DOS](https://open.spotify.com/album/2rSNFyF3dVnLvjgwlTmae0) | 2:43 | 2025-08-15 |  |
+| [ME ENGAÑARON LOS DOS](https://open.spotify.com/track/6y3hRQeVYOAIjopk0mCm4D) | [Julian Daza](https://open.spotify.com/artist/6v51qeWtu7Jci5u6dQuose), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [ME ENGAÑARON LOS DOS](https://open.spotify.com/album/2rSNFyF3dVnLvjgwlTmae0) | 2:43 | 2025-08-15 | 2026-01-31 |
 | [Me Llevó a la Luna](https://open.spotify.com/track/7Jf4BXs1gNxvNfyvRdrgRr) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [Me Llevó a la Luna](https://open.spotify.com/album/081pGgewGVZcmXyvP5pjLH) | 3:17 | 2022-08-18 | 2025-08-23 |
 | [Me Tiene Pechichón](https://open.spotify.com/track/1nvXQOgTXYwHhDqpKiJA0e) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Las Locuras Mías](https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL) | 4:01 | 2022-08-18 | 2023-02-04 |
 | [Me Tiré Al Alcohol](https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Me Tiré Al Alcohol](https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx) | 2:43 | 2023-02-03 | 2023-08-26 |
@@ -219,10 +219,12 @@
 | [Sueña](https://open.spotify.com/track/0HdH0XoJgkRaSkkEVsp9kS) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Pa' Recordar](https://open.spotify.com/album/24IwkRGe4qWEWKGuciCt3z) | 4:18 | 2023-04-21 | 2023-07-01 |
 | [Tarde Lo Conocí \- Regional Mexicano](https://open.spotify.com/track/3LpyI9jFcToBdJy00IbewV) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Tarde Lo Conocí \(Regional Mexicano\)](https://open.spotify.com/album/5UfGBfslsUaWjUVMlOHm2F) | 4:34 | 2022-08-18 | 2022-12-20 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf) | 3:13 | 2022-08-18 |  |
+| [Te Supero](https://open.spotify.com/track/7yKPXRcVR31OMVjTWJOywD) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Supero](https://open.spotify.com/album/7xhjy2cYttFE5b9M6sAdZL) | 2:57 | 2026-01-30 |  |
 | [Te Superé](https://open.spotify.com/track/3nGC3Mt4aKEPNSG9Ur3xyQ) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv) | [Te Superé](https://open.spotify.com/album/6NecYoYGXMKTEn8kBf17iQ) | 2:53 | 2022-08-18 | 2022-12-20 |
 | [Tengo Ganas](https://open.spotify.com/track/4TiS7REpiQIaj6BJHFc05d) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Tengo Ganas](https://open.spotify.com/album/5TMdQRTAyXs6pyka3ICrtg) | 3:08 | 2024-06-14 |  |
 | [Tequila Con Cerveza](https://open.spotify.com/track/4x7oOM338zTGyLb33RR8jJ) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Tequila Con Cerveza](https://open.spotify.com/album/5SjZ1C7RfzX8qjM3olSWFg) | 2:23 | 2024-11-29 | 2025-03-22 |
 | [TQM](https://open.spotify.com/track/4zzq1AGYtBKQusGF2RJRot) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [TQM](https://open.spotify.com/album/4pwaSmWEjeC59CQnOIW1dv) | 2:46 | 2022-12-19 | 2023-02-04 |
+| [triston](https://open.spotify.com/track/7q8sg6yXIJZG6YdW1QgdOY) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [triston](https://open.spotify.com/album/4IMw4E9GF0k37gvB5uiT0C) | 3:36 | 2026-01-30 |  |
 | [Tu \- En Vivo](https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 4:06 | 2023-08-04 | 2024-04-19 |
 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 | 2022-08-18 | 2023-08-09 |
 | [Tu Boda](https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Tu Boda](https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA) | 3:45 | 2025-08-22 |  |

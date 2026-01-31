@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Ledisi
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,601 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,629 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Inside and Out](https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [à Fleur de Peau](https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW) | 4:18 |
 | 100 | [Sad to Say \- Snapshot \- vocal theme](https://open.spotify.com/track/1A1VctouaYYVxnyz1IYLuB) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG), [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [Sad to Say \(Snapshot \- vocal theme\)](https://open.spotify.com/album/5eJUp28TOHvYKuAsCvDxSF) | 2:16 |
 
-Snapshot ID: `AAAAAAFUdzBz2K25xKuUAxzOkRH/l3Vh`
+Snapshot ID: `AAAAAJtTkbe/0C9qTgRplJ67OGjyZNrL`

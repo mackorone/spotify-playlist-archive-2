@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Mary Middlefield
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,752 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,791 likes - 90 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [](https://open.spotify.com/album/null) | 2:28 |
+| 1 | [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Wake up!](https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4) | 2:28 |
 | 2 | [Brush Me Like A Horse](https://open.spotify.com/track/1Qx7aZ34LHzx9Dl8IEqm6J) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Brush Me Like A Horse](https://open.spotify.com/album/2LE27BnmrOBp4P4GzwBefU) | 3:24 |
-| 3 | [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [](https://open.spotify.com/album/null) | 2:48 |
+| 3 | [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Everything’s Built To Last](https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk) | 2:48 |
 | 4 | [Willows](https://open.spotify.com/track/14VGSBWTcb72wROtbsKgwT) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Willows](https://open.spotify.com/album/38gK8DUmqBx3NHM5262bWM) | 3:37 |
 | 5 | [Die On The Patio](https://open.spotify.com/track/6NYJKszGX0yZmlxIfxXxmb) | [DRAMAS](https://open.spotify.com/artist/7wwQRdYt302AuynW8ioIgS) | [Die On The Patio](https://open.spotify.com/album/5dqdcBzyDaVhuDehgUqczZ) | 2:30 |
 | 6 | [Good Girl](https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Girl](https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE) | 4:23 |
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 9 | [All I Do](https://open.spotify.com/track/07753okQq77o7gtEAC9LNm) | [Baby Smith](https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932) | [All I Do](https://open.spotify.com/album/2VVdUACeHgV0We2bMWObQn) | 3:29 |
 | 10 | [Thru The Radio](https://open.spotify.com/track/0QbwQsMGZtD80SYk5VFNei) | [MILKFACE](https://open.spotify.com/artist/0SCmis6XHfEwSUMU5ORzfQ), [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG), [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [Thru The Radio](https://open.spotify.com/album/51nlHSvvx1nnU18INHz7fa) | 3:22 |
 | 11 | [Squish](https://open.spotify.com/track/5NcbdZX6WExR3xNDftUp5m) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Squish](https://open.spotify.com/album/6qMjvExxrJl2gydwmMbn3R) | 3:00 |
-| 12 | [Cowboy Without a Clue](https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [](https://open.spotify.com/album/null) | 3:57 |
+| 12 | [Cowboy Without a Clue](https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [No Love Lost to Kindness](https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6) | 3:57 |
 | 13 | [Projecting](https://open.spotify.com/track/2qSKxBPSowYas4iYfmDX77) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Projecting](https://open.spotify.com/album/1W7GL23EoTVuxyemlTlo0D) | 3:28 |
 | 14 | [\[fuck it\]](https://open.spotify.com/track/6pYDn2ulHzNFsqW2jXMCwj) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [\[fuck it\]](https://open.spotify.com/album/1VZCMkCZf5N6yLr5jlMasM) | 2:54 |
 | 15 | [Hair on Coffee](https://open.spotify.com/track/5hKBkozQZ6EykWJawhK5N0) | [Cousines like Shit](https://open.spotify.com/artist/31m36kfWrLAbE0uLkMFBLX), [Farce](https://open.spotify.com/artist/1IOefq76hrfQI27fVDDq7y) | [Hair on Coffee](https://open.spotify.com/album/0cPJmtKNsqpmh6ko412adM) | 3:21 |
 | 16 | [Deceptacon](https://open.spotify.com/track/41sJBgvg1PAfZ5NpAMWKXJ) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Deceptacon](https://open.spotify.com/album/73JBzPCTTbDJiiU1Hrt9Hq) | 3:13 |
 | 17 | [Don't Fear The Fear](https://open.spotify.com/track/7vqjxGITJHHkmtPsCNf1Ek) | [Markus Nikolaus](https://open.spotify.com/artist/4ZjrEAWRBDsm5PRwCzKCds) | [Don't Fear The Fear](https://open.spotify.com/album/553k5WUu80uelodZwYVgyS) | 4:41 |
-| 18 | [JA](https://open.spotify.com/track/0PHH9inNCprQ2ygKHHYVrc) | [Panda Lux](https://open.spotify.com/artist/6FMNWd8DNAxWETX8yxKQqu) | [](https://open.spotify.com/album/null) | 2:37 |
+| 18 | [JA](https://open.spotify.com/track/0PHH9inNCprQ2ygKHHYVrc) | [Panda Lux](https://open.spotify.com/artist/6FMNWd8DNAxWETX8yxKQqu) | [Herz](https://open.spotify.com/album/2KMyicFhtkzRcEA0nocYaY) | 2:37 |
 | 19 | [Burning Slow](https://open.spotify.com/track/22EVHc7rV2JzyPMGxgwPEO) | [Flora Falls](https://open.spotify.com/artist/2lgTnaXO0b6ufPyEmbZJO9) | [Burning Slow](https://open.spotify.com/album/3sz7RW3FSHwaOU72QrZnyO) | 3:28 |
 | 20 | [Hard](https://open.spotify.com/track/3yrvn1eU5y8Ki58ar0ZEWG) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Hard](https://open.spotify.com/album/40vEPqnf31ecNy7uJL2zeR) | 2:50 |
 | 21 | [La vie avec toi](https://open.spotify.com/track/0HYURzPK84YwOrQfFUbzSO) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [La vie avec toi](https://open.spotify.com/album/2SpA8mQtFDBmWMsBv4G1Ea) | 2:49 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 23 | [The Party](https://open.spotify.com/track/3MDPDsTbteMtMytdsvMLBB) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [The Party](https://open.spotify.com/album/5zd3NUklLnUdqPgU54YlL2) | 3:04 |
 | 24 | [Simple thing](https://open.spotify.com/track/0UrvEiJuHo9Xb3CGrHd4Ln) | [Mia Berg](https://open.spotify.com/artist/2olyZZaveIJkOzSNS23Ybf) | [Simple thing](https://open.spotify.com/album/5KhKb8LxY76cAQAnQmNYNO) | 3:24 |
 | 25 | [Emily](https://open.spotify.com/track/2R4P4Fqeh3sJwBatELhOtj) | [Umami Joon](https://open.spotify.com/artist/1BAqVHfAegpe0V8e111CqO) | [Emily](https://open.spotify.com/album/0Fbtk3SoZfg0Z0U0kLDxht) | 3:47 |
-| 26 | [Track 2](https://open.spotify.com/track/6xLK6NAd7yCR4Dup5PTc3q) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [](https://open.spotify.com/album/null) | 0:00 |
+| 26 | [Skip the Stones](https://open.spotify.com/track/6xLK6NAd7yCR4Dup5PTc3q) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Amber Skies](https://open.spotify.com/album/0NsOjvWtMD3hnWrhj32bR8) | 3:40 |
 | 27 | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 |
 | 28 | [And Angel](https://open.spotify.com/track/2qPsFrbn4G1ytL3YmBFhxf) | [HEADSEND](https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1) | [And Angel](https://open.spotify.com/album/6lOPTzfrBneSEOjPlabMn7) | 3:52 |
 | 29 | [Ich trag so viele Bilder](https://open.spotify.com/track/3zCKiiZceBP4lbIoSYztIV) | [Fortuna Ehrenfeld](https://open.spotify.com/artist/7xs1dZEBvPCk2zktBhVeKb) | [Ich trag so viele Bilder](https://open.spotify.com/album/5rDBVs9CA7IlO2pCzFwESy) | 2:26 |

@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/6aIFh4E0XizDti1WhMHWub"
+      },
+      "artists": [
+        {
+          "name": "Ja\u00efr Faria",
+          "url": "https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213031,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2sNOwXYWdLzz27p88xa5rp"
+    },
+    {
+      "album": {
         "name": "Cincinnati Heart",
         "url": "https://open.spotify.com/album/7q4GSv2PuFyj0m7viXGEfS"
       },
@@ -734,7 +752,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 178477,
       "name": "Echte Liefde Is Te Koop - Spotify Singles",
       "url": "https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE"
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 143172,
       "name": "Hart Zonder Krassen",
       "url": "https://open.spotify.com/track/3FuVRInBL4Nph4L1oRscbe"
@@ -1722,6 +1740,24 @@
       "duration_ms": 190124,
       "name": "Need You More",
       "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
+    },
+    {
+      "album": {
+        "name": "New to Me",
+        "url": "https://open.spotify.com/album/2Ygy7zn47MLoL5WcXxqaB5"
+      },
+      "artists": [
+        {
+          "name": "Sterre Weldring",
+          "url": "https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195120,
+      "name": "New to Me",
+      "url": "https://open.spotify.com/track/0RJxhzSKCetQ7xMzB0lIDb"
     },
     {
       "album": {

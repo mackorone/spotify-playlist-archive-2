@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Samm Henshaw
 
-582 songs - 1 day 10 hr 54 min
+583 songs - 1 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Desperate For Love](https://open.spotify.com/track/5GArZVXDLrhpGYqvtifNPP) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf) | [Desperate For Love](https://open.spotify.com/album/0p1KhvYBw0k7Cql2vkT0io) | 3:14 | 2024-06-07 |  |
 | [Diamond Violence](https://open.spotify.com/track/5txRJup3ndKlzrapHKQyAp) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if) | [Diamond Violence](https://open.spotify.com/album/4HNPUulBgryvb3GMgfSHrl) | 5:03 | 2022-09-16 | 2022-09-24 |
 | [Digging up Graves](https://open.spotify.com/track/1P2dAOEpNQzC1eXW5er10B) | [Karen Lee Andrews](https://open.spotify.com/artist/3GBnhIpKY4jSuD6uAKxN20) | [EDIN](https://open.spotify.com/album/50py568QonJj2aTffsp4Qm) | 3:43 | 2022-10-07 | 2022-11-12 |
-| [Do It All Again](https://open.spotify.com/track/0Wa2qkfYlHDfx1iGKTaCuU) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Do It All Again](https://open.spotify.com/album/1uqwOGZogjB2sJ6cHuqD04) | 3:00 | 2024-09-06 |  |
+| [Do It All Again](https://open.spotify.com/track/0Wa2qkfYlHDfx1iGKTaCuU) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Do It All Again](https://open.spotify.com/album/1uqwOGZogjB2sJ6cHuqD04) | 3:00 | 2024-09-06 | 2026-01-31 |
 | [Do You Wanna Do Nothing with Me?](https://open.spotify.com/track/2M7UdnD0fEaryh8TnCvqFX) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Breakfast](https://open.spotify.com/album/7zRCJCgUmYNYZvTJDTRItd) | 4:11 | 2021-07-09 | 2023-01-28 |
 | [Doing The Thing](https://open.spotify.com/track/2bWioVam86EwJCz6vdqNpt) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Doing The Thing](https://open.spotify.com/album/4PVSeMBGgX6t48ec7HFvYY) | 3:30 | 2024-05-10 | 2024-06-08 |
 | [Don't Be Afraid](https://open.spotify.com/track/6BT17vBMR1gXKziGubn3Vy) | [Mike Gronsky](https://open.spotify.com/artist/2f5oy3dEmuvQzfZ85FD0TM) | [Don't Be Afraid](https://open.spotify.com/album/7sB0s1sUqsvo2vwMtx7TRW) | 4:13 | 2022-09-23 | 2022-10-08 |
@@ -117,6 +117,7 @@
 | [Don't You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 | 2021-07-09 | 2023-02-18 |
 | [Done and Dusted](https://open.spotify.com/track/1H4dMoo6lKZJHtgDhKb0Yy) | [YOUNGTONES](https://open.spotify.com/artist/34MK0bzFb12zkGF9ILYFQG) | [Done and Dusted](https://open.spotify.com/album/6fJ4PJrUQR5oSkOYEC93OX) | 2:57 | 2025-09-26 |  |
 | [Don’t Give Up On My Love](https://open.spotify.com/track/0KvjBGg3NFIGVj4Kpg4kTh) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Don’t Give Up On My Love](https://open.spotify.com/album/1Ux03ynWiluHyrEQ3Oud2d) | 3:05 | 2023-02-10 | 2024-04-13 |
+| [Don’t Want a Thing to Change \(Groundhog Day\)](https://open.spotify.com/track/5cIvqDrh4wSus2jySjlwfx) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Don’t Want a Thing to Change \(Groundhog Day\)](https://open.spotify.com/album/2qe0lsIDxAvJtBb00iqIaM) | 3:24 | 2026-01-30 |  |
 | [Don’t Want It to Be Over \(ft\. Coco O.\)](https://open.spotify.com/track/3vlu7Y9U9HXxqSmQecmKhZ) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Inside Voice](https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof) | 3:36 | 2021-07-09 | 2022-08-11 |
 | [Don’t Want It to Be Over \(ft\. Coco O.\)](https://open.spotify.com/track/7qZknx1i2TgMxOiPP1psEo) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Inside Voice](https://open.spotify.com/album/1dozAAM6CMyL2FAEUcHJKu) | 3:36 | 2021-07-09 | 2022-06-03 |
 | [Don’t You Know](https://open.spotify.com/track/242UAWExQDujCkiQtLQvcu) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY) | 3:20 | 2021-07-09 | 2022-07-29 |

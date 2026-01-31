@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-433 songs - 1 day 0 hr 33 min
+434 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Quizas](https://open.spotify.com/track/04CHU4rx7T5zznuwAlMeRz) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Camila Mercado](https://open.spotify.com/artist/7IFvVz7KWte5biHbFmIJfl) | [Quizas](https://open.spotify.com/album/4TOG0O4lhvuQmDIDPQmktD) | 4:09 | 2024-05-31 | 2024-06-11 |
 | [Qué Agonía](https://open.spotify.com/track/5opUwRIhCuOG0AA8H3gFQL) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Qué Agonía](https://open.spotify.com/album/74lyeT4vwsCCOiScrFz5xy) | 3:37 | 2023-09-08 | 2024-04-06 |
 | [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 | 2022-12-02 | 2023-12-02 |
+| [Qué Me Vas A Dar \- Cumbia](https://open.spotify.com/track/0OXXOSfjkIwHBA32jiguQ2) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Qué Me Vas A Dar \(Cumbia\)](https://open.spotify.com/album/65PsHT4xP40nlvdVNE1ldU) | 3:27 | 2026-01-30 |  |
 | [Quédate Bebé](https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Quédate Bebé](https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG) | 3:13 | 2024-02-16 | 2024-03-09 |
 | [Quê te pasa corazón?](https://open.spotify.com/track/7a1OLwZPl33gTaRy09dgxX) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Qué te pasa corazón?](https://open.spotify.com/album/5USufj1fRc600atMgXlhaW) | 3:13 | 2023-12-08 | 2024-02-24 |
 | [Regresa](https://open.spotify.com/track/7p8SFNiZjUjbGrA9nK8tGW) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Regresa](https://open.spotify.com/album/43cwThRaGvMa8NIYPL663p) | 3:08 | 2023-08-18 | 2023-09-09 |
@@ -403,7 +404,7 @@
 | [UNA CUMBITA](https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [UNA CUMBITA](https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az) | 2:15 | 2023-02-03 | 2023-04-01 |
 | [Una Mujer Como Tú](https://open.spotify.com/track/5jbT4IeQCi00OjuQGFxQIA) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Mujer Como Tú](https://open.spotify.com/album/4uOv8YCk7LFJf91plzOnz1) | 3:44 | 2022-05-13 |  |
 | [Una Noche Contigo \- Remix](https://open.spotify.com/track/0Xbz33Mggb4NV2A1vabjJx) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Una Noche Contigo \(Remix\)](https://open.spotify.com/album/6pmDtvsP7z9oqgSxgBVR8y) | 2:54 | 2024-01-26 | 2024-05-17 |
-| [Una Noche Contigo \- Versión Cumbia](https://open.spotify.com/track/1penKMZ9j40byaQSaHaSqm) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [Una Noche Contigo \(Versión Cumbia\)](https://open.spotify.com/album/46AgVcg1H1Az1hEASS9qqg) | 2:24 | 2025-11-07 |  |
+| [Una Noche Contigo \- Versión Cumbia](https://open.spotify.com/track/1penKMZ9j40byaQSaHaSqm) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [Una Noche Contigo \(Versión Cumbia\)](https://open.spotify.com/album/46AgVcg1H1Az1hEASS9qqg) | 2:24 | 2025-11-07 | 2026-01-31 |
 | [Uno Nunca Sabe](https://open.spotify.com/track/78qiaamrC7prG6GwS2LrCD) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Uno Nunca Sabe](https://open.spotify.com/album/5R8AxddOv19SFSgeNgJOD4) | 1:55 | 2022-08-12 | 2022-08-27 |
 | [Vamos a La Boti](https://open.spotify.com/track/1L3cNFIt6YEeVFFjQyI573) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Vamos a La Boti](https://open.spotify.com/album/4SGTUuoBZgFeXV3XSt5CVF) | 2:33 | 2021-12-24 | 2022-02-26 |
 | [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 | 2023-04-28 | 2025-07-19 |

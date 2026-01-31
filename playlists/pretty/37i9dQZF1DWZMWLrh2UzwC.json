@@ -1,12 +1,12 @@
 {
   "description": "New music from KiiiKiii, Yuna, FORCEPARKBOIS, Amylea, Daiyan Trisha,  and more!",
-  "num_followers": 72345,
+  "num_followers": 72431,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHYsg+ayzFivVwCB4v69a1BxuXmG",
+  "snapshot_id": "AAAAAFLBO06XclH4YCg85IpTM4F5Ig5C",
   "tracks": [
     {
       "added_at": "2026-01-29 16:00:39",
@@ -201,7 +201,7 @@
         }
       ],
       "duration_ms": 195147,
-      "name": "\u98a8\u4f86\u5230\u6211Kampung",
+      "name": "\u6625\u98a8\u4f86\u5230\u6211Kampung",
       "url": "https://open.spotify.com/track/7ss8SbMsHmaKlY5EYmLcvU"
     },
     {
@@ -419,6 +419,42 @@
       "duration_ms": 188253,
       "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
       "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
+    },
+    {
+      "added_at": "2026-01-29 16:00:39",
+      "album": {
+        "name": "Mahal (From \"Mencari Isteri Sempurna\")",
+        "url": "https://open.spotify.com/album/5uNu35h1RvPiIeyBZ3JBDe"
+      },
+      "artists": [
+        {
+          "name": "Idayu",
+          "url": "https://open.spotify.com/artist/7suXbmosCjq93DMz9QO2rM"
+        },
+        {
+          "name": "Iskandar Ismail",
+          "url": "https://open.spotify.com/artist/0lNGasZmTx9kDjKrt8llt0"
+        }
+      ],
+      "duration_ms": 259230,
+      "name": "Mahal - From \"Mencari Isteri Sempurna\"",
+      "url": "https://open.spotify.com/track/24iTumKzGcpXhZ1UjtpMss"
+    },
+    {
+      "added_at": "2026-01-30 05:01:14",
+      "album": {
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/6UMlTRaAa8skjbkx56atCW"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Cruise Control",
+      "url": "https://open.spotify.com/track/7hFTfseYJjG2Ul9WulhWrr"
     },
     {
       "added_at": "2026-01-29 16:00:39",
@@ -711,26 +747,6 @@
     {
       "added_at": "2026-01-29 16:00:39",
       "album": {
-        "name": "Mulanya Disini",
-        "url": "https://open.spotify.com/album/6l9gVoYGE4sKvtcvbKY9aC"
-      },
-      "artists": [
-        {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
-        },
-        {
-          "name": "Rima Melati Adams",
-          "url": "https://open.spotify.com/artist/1xb3vUWhUFFBRCJlaP2Bqc"
-        }
-      ],
-      "duration_ms": 267686,
-      "name": "Mulanya Disini",
-      "url": "https://open.spotify.com/track/1vabZWqOxt8kkod2bZeGNU"
-    },
-    {
-      "added_at": "2026-01-29 16:00:39",
-      "album": {
         "name": "Kita Sama-Sama",
         "url": "https://open.spotify.com/album/17itcjab51VSbQuVDMhETN"
       },
@@ -747,6 +763,26 @@
       "duration_ms": 201882,
       "name": "Kita Sama-Sama",
       "url": "https://open.spotify.com/track/72xEL5kypQQUIIGEJBm94h"
+    },
+    {
+      "added_at": "2026-01-30 05:01:14",
+      "album": {
+        "name": "Sesi Potret",
+        "url": "https://open.spotify.com/album/25hlG9lEbc2ARvZXY4ZDhv"
+      },
+      "artists": [
+        {
+          "name": "e\u0144au",
+          "url": "https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u"
+        },
+        {
+          "name": "Ari Lesmana",
+          "url": "https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Sesi Potret",
+      "url": "https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G"
     },
     {
       "added_at": "2026-01-29 16:00:39",
@@ -826,6 +862,10 @@
         {
           "name": "Lil Yachty",
           "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
         }
       ],
       "duration_ms": 150613,
@@ -835,8 +875,8 @@
     {
       "added_at": "2026-01-29 16:00:39",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "BE MORE GRATEFUL",
+        "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
       },
       "artists": [
         {
@@ -869,6 +909,22 @@
       "url": "https://open.spotify.com/track/2TekScsqJyCJ6TO9Y32X09"
     },
     {
+      "added_at": "2026-01-30 05:01:14",
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 155753,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
+    },
+    {
       "added_at": "2026-01-29 16:00:39",
       "album": {
         "name": "Birthday",
@@ -895,8 +951,8 @@
     {
       "added_at": "2026-01-29 16:00:39",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "COSMIC OPERA ACT I",
+        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
       },
       "artists": [
         {
@@ -1064,7 +1120,7 @@
           "url": "https://open.spotify.com/artist/58zBBByZhYTABNKE5W2FUm"
         },
         {
-          "name": " \u57f9\u6c38",
+          "name": "Phei Yong",
           "url": "https://open.spotify.com/artist/7DYKmTSkqpZYsSSq8Ws3qj"
         }
       ],
@@ -1495,26 +1551,6 @@
     {
       "added_at": "2026-01-29 16:00:39",
       "album": {
-        "name": "Mahal (From \"Mencari Isteri Sempurna\")",
-        "url": "https://open.spotify.com/album/5uNu35h1RvPiIeyBZ3JBDe"
-      },
-      "artists": [
-        {
-          "name": "Idayu",
-          "url": "https://open.spotify.com/artist/7suXbmosCjq93DMz9QO2rM"
-        },
-        {
-          "name": "Iskandar Ismail",
-          "url": "https://open.spotify.com/artist/0lNGasZmTx9kDjKrt8llt0"
-        }
-      ],
-      "duration_ms": 259230,
-      "name": "Mahal - From \"Mencari Isteri Sempurna\"",
-      "url": "https://open.spotify.com/track/24iTumKzGcpXhZ1UjtpMss"
-    },
-    {
-      "added_at": "2026-01-29 16:00:39",
-      "album": {
         "name": "Sampai Hujung Nyawa",
         "url": "https://open.spotify.com/album/3gACs7UphiIL3qBeElq494"
       },
@@ -1671,8 +1707,8 @@
     {
       "added_at": "2026-01-29 16:00:39",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "BACKWARD",
+        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
       },
       "artists": [
         {

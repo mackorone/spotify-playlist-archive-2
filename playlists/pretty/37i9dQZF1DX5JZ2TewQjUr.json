@@ -1,6 +1,6 @@
 {
   "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Turbulent",
-  "num_followers": 13899,
+  "num_followers": 13903,
   "original_name": "+852 Rising",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAM6wW1y73q5NzC1/piRyZoZLlV0J",
   "tracks": [
+    {
+      "added_at": "2026-01-29 16:00:40",
+      "album": {
+        "name": "Pandora's Box",
+        "url": "https://open.spotify.com/album/18mEhuXOgTnx1VGH7Uk3Rb"
+      },
+      "artists": [
+        {
+          "name": "Oatmilk Fan",
+          "url": "https://open.spotify.com/artist/6sQkF5EAcNhM4aBh1zCRSF"
+        }
+      ],
+      "duration_ms": 274960,
+      "name": "Pandora's Box",
+      "url": "https://open.spotify.com/track/3XsfXT3LPFxbX0y1IOj06N"
+    },
     {
       "added_at": "2026-01-29 16:00:40",
       "album": {

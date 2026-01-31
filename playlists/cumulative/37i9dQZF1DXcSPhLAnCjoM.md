@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> " Par coeur" de DAYSY et Joseph Kamel est le Grand Hit de la semaine.
+> "Par coeur" de DAYSY et Joseph Kamel est le Grand Hit de la semaine.
 
 311 songs - 15 hr 57 min
 

@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka
 
-512 songs - 1 day 2 hr 5 min
+513 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Kalaala](https://open.spotify.com/track/4Wy6yOvjVET9pLFQF8NFTy) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Kalaala](https://open.spotify.com/album/4mFumLiILFrED4nQAYa8o5) | 3:02 | 2025-05-15 | 2025-08-15 |
 | [Kamese](https://open.spotify.com/track/7wP1e00PvG9EJAkTFYGIIT) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Kamese](https://open.spotify.com/album/4DmPcjBDA2fKQZyWH6lg1I) | 3:00 | 2024-03-08 | 2024-12-21 |
 | [Kampala](https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Kampala](https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG) | 3:09 | 2022-09-01 | 2023-04-18 |
+| [Kano Akayimba](https://open.spotify.com/track/5JI6dcYNQOc9GlEOzWk7Xp) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Kano Akayimba](https://open.spotify.com/album/6bmLHCvX1jyCRhLUQdliK4) | 2:59 | 2026-01-29 |  |
 | [Kanyonyi Kange](https://open.spotify.com/track/0LNpMEtSgOGj0M2D0AbJJ1) | [Sylvia Wase](https://open.spotify.com/artist/7I4Q6C7wLEbm81464NoATE), [Tonick \(MCM\)](https://open.spotify.com/artist/5NPHtsbdCk8sDWxwadlqOt) | [Kanyonyi Kange](https://open.spotify.com/album/2neLWncs1gFTimL2Eozb72) | 2:51 | 2022-08-19 | 2022-11-20 |
 | [Kawala Ka Amooti](https://open.spotify.com/track/7EFc8AgzRXU8gp8r7tYzlA) | [Ava Peace](https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE) | [Kawala Ka Amooti](https://open.spotify.com/album/2NuNCQ4oTtJkCIAmQK2Bm8) | 2:53 | 2024-12-20 | 2025-09-26 |
 | [Kibiri Kito](https://open.spotify.com/track/16TRdPav1Yq3HYUzCLaTIG) | [Dokta Brain](https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY), [Shon official UG](https://open.spotify.com/artist/6hxT5o7Ue9yDJRNOeHH9yU), [Ras B Official](https://open.spotify.com/artist/2sGY4OR1mD8FNJAGSaC4gK) | [Kibiri Kito](https://open.spotify.com/album/2Dh1uqa92T3vwZ05rSQ4CM) | 2:34 | 2025-08-01 | 2025-10-18 |

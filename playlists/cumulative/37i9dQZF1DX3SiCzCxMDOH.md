@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-1,005 songs - 2 day 10 hr 53 min
+1,006 songs - 2 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Elegant As They Come](https://open.spotify.com/track/4kPYGarMXHC5eACXc17P25) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:22 | 2023-08-24 | 2024-09-10 |
 | [Elise](https://open.spotify.com/track/7m8rFWJzA6VJQnLVqiWvGL) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Elise](https://open.spotify.com/album/5TdOcjjm9BUdSOVLzGIWV3) | 2:40 | 2022-08-10 | 2025-07-24 |
 | [Elysian](https://open.spotify.com/track/3jmeMqkueoi6NrM8BpVJ3x) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Elysian](https://open.spotify.com/album/33k0AKbjULTjJMRbp5GO5r) | 2:46 | 2024-08-19 |  |
-| [Emerald Dreamscape](https://open.spotify.com/track/6y3A2C5g4NtmSTGPA1dn6c) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Emerald Dreamscape](https://open.spotify.com/album/5QKH9vfQVg0WzHc9vZBd6k) | 2:58 | 2023-11-24 |  |
+| [Emerald Dreamscape](https://open.spotify.com/track/6y3A2C5g4NtmSTGPA1dn6c) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Emerald Dreamscape](https://open.spotify.com/album/5QKH9vfQVg0WzHc9vZBd6k) | 2:58 | 2023-11-24 | 2026-01-31 |
 | [Emily](https://open.spotify.com/track/2shwRU5UQwywwIHpwD3ZOW) | [The Blue Room Band](https://open.spotify.com/artist/6LdbGDV2CfGd4BJYI0j6Eh) | [Have You Met Miss Jones?](https://open.spotify.com/album/5rtnXuxolDdh5HhGJZL5ro) | 4:53 | 2022-04-11 | 2022-10-07 |
 | [Empty Embrace](https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Empty Embrace](https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd) | 3:05 | 2023-04-13 | 2025-07-24 |
 | [End of Spring](https://open.spotify.com/track/5WT0ix5s8hhENzQseg8j0t) | [Ivory Soul Trio](https://open.spotify.com/artist/7vlqwJS24ZLOhYA0SDLoe7) | [End of Spring](https://open.spotify.com/album/2ASeVSvK1auCf1b3wc625S) | 2:36 | 2024-10-01 |  |
@@ -578,6 +578,7 @@
 | [Moonlight Song](https://open.spotify.com/track/1Kx5LRyoMymXynUIhD0tmN) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [Moonlight Song](https://open.spotify.com/album/2xFSO1NcnW1LQR62k6iPBm) | 3:30 | 2024-06-17 | 2025-02-21 |
 | [Moonlit Melodies](https://open.spotify.com/track/5JmSLtYVgrQoP06w7sPy3j) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Moonlit Melodies](https://open.spotify.com/album/4t1FlCwj57Wi1pyTqzNVVi) | 3:29 | 2023-08-17 | 2025-09-24 |
 | [Moonrays](https://open.spotify.com/track/6akhlCuFUh7zxQ1UnEjZaK) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Moonrays](https://open.spotify.com/album/32VVgwbc18tkYZj7XWBinw) | 2:48 | 2022-10-27 | 2024-05-11 |
+| [Moontrace](https://open.spotify.com/track/177aQsv39LMywphoVqjzbd) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Moontrace](https://open.spotify.com/album/2TcTyW1Q1pjse18qKg8J99) | 3:44 | 2026-01-30 |  |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-08-17 | 2025-07-24 |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-08-10 | 2024-04-03 |
 | [Morning Light](https://open.spotify.com/track/5sZWLVuS8DTpRvbWdCNGwy) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Morning Light](https://open.spotify.com/album/3940RmfnSgh2e1DSwrvsWa) | 2:50 | 2022-04-11 | 2024-12-10 |

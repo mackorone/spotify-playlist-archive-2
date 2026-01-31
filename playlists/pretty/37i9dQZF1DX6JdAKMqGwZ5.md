@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: dani dicostas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,943 likes - 120 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,979 likes - 120 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ya no llueve](https://open.spotify.com/track/4IhWfUiuWtCuE6dA9RjPp2) | [dani dicostas](https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl) | [](https://open.spotify.com/album/null) | 3:05 |
+| 1 | [Ya no llueve](https://open.spotify.com/track/4IhWfUiuWtCuE6dA9RjPp2) | [dani dicostas](https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl) | [Amores pasajeros](https://open.spotify.com/album/3KcUvHtgKhjlYw7jsu9PIR) | 3:05 |
 | 2 | [I Feel Good](https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [I Feel Good](https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68) | 3:49 |
 | 3 | [Un Pañuelo](https://open.spotify.com/track/7pq02WBTCDP3n6QrfyAXak) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Un Pañuelo](https://open.spotify.com/album/3lIDfBVEsJT8oqeLxrq4xN) | 3:42 |
 | 4 | [QUE ME QUITEN](https://open.spotify.com/track/42RiQAFZlqX2cl31Jru3mF) | [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [QUE ME QUITEN](https://open.spotify.com/album/6XDcw63W4s1NfTlzJWjpRx) | 2:15 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 46 | [Contigo](https://open.spotify.com/track/7jCKhYFz4NHrbrajity2eA) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Contigo](https://open.spotify.com/album/4Yl8mtPufYDfj9n4FWgN9C) | 2:32 |
 | 47 | [MADRE DE MIS HIJOS](https://open.spotify.com/track/1eMjtYompgiSwhtMHxl5UM) | [Jaguayano](https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG) | [MADRE DE MIS HIJOS](https://open.spotify.com/album/0ekQycE0fxYcdvmSq6wfGW) | 3:07 |
 | 48 | [Mejor\*](https://open.spotify.com/track/7y9PJa6g3OzSTWejceuyCo) | [Merina Gris](https://open.spotify.com/artist/7MoqcWOPD6BEKF85fxvwuD) | [ZULOA](https://open.spotify.com/album/3rBmtIJmfuxfwwsf8mnqkH) | 3:32 |
-| 49 | [No Tocar](https://open.spotify.com/track/1tOcGxiBoKfujlna4Ze57I) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI) | [No Tocar](https://open.spotify.com/album/7LcrScSI6fyuQA0KLSZpkf) | 3:18 |
+| 49 | [No Tocar](https://open.spotify.com/track/1tOcGxiBoKfujlna4Ze57I) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI) | [No Tocar](https://open.spotify.com/album/7LcrScSI6fyuQA0KLSZpkf) | 3:17 |
 | 50 | [El lago de mi pena](https://open.spotify.com/track/7ApcFNAgkqnSflwWU4oqL0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [El lago de mi pena](https://open.spotify.com/album/16Ck8Zv5wTIE8Aealh3oxc) | 3:56 |
 | 51 | [Sale el sol](https://open.spotify.com/track/3lC7zx8UpCwK1Ohoyez3JE) | [Vera Fauna](https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4) | [Sale el Sol](https://open.spotify.com/album/7GYXSqJpHJiRkGJhrc4eqN) | 2:52 |
 | 52 | [Me gusta, me encanta](https://open.spotify.com/track/7wtSmwHVOo47FMMdbdgzg3) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [Me gusta, me encanta](https://open.spotify.com/album/330WIzpvpEa3PXSIjwlzu4) | 2:41 |

@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-330 songs - 11 hr 13 min
+332 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Arrorró mi niño](https://open.spotify.com/track/2evLEM6b40sSXZ5dILCsQb) | [Joaquin Moreno Silva](https://open.spotify.com/artist/5vSCkD7iPcBU0GgEASL4ss) | [Arrorró mi niño](https://open.spotify.com/album/732cnh2czygqCKQtOrBnzI) | 1:48 | 2022-09-22 |  |
 | [Autumn Joy](https://open.spotify.com/track/6N72VsDHQL9QPe2XDY3YaQ) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Autumn Joy](https://open.spotify.com/album/1997Gm8TX9mrOZWi6At4K8) | 1:41 | 2023-10-20 | 2025-02-01 |
 | [Ave Nocturne](https://open.spotify.com/track/28JvPv8QUEE747BM5ujR5B) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Classical Baby Sleep Music](https://open.spotify.com/album/3c9bS2lz06ixypXB49deUz) | 2:49 | 2021-11-11 | 2023-06-16 |
-| [B\-I\-N\-G\-O](https://open.spotify.com/track/08FWkkXnC9Orj3NCVyWtay) | [Dean Dreams](https://open.spotify.com/artist/1TKNjw0zeyr7h15apaCSoN) | [B\-I\-N\-G\-O](https://open.spotify.com/album/2sn7rtgxCRD1PMTcCcSLiN) | 1:50 | 2023-02-17 |  |
+| [B\-I\-N\-G\-O](https://open.spotify.com/track/08FWkkXnC9Orj3NCVyWtay) | [Dean Dreams](https://open.spotify.com/artist/1TKNjw0zeyr7h15apaCSoN) | [B\-I\-N\-G\-O](https://open.spotify.com/album/2sn7rtgxCRD1PMTcCcSLiN) | 1:50 | 2023-02-17 | 2026-01-31 |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/6nj5OQscS6xp5OT0O7sxwn) | [Brown Owl Plays](https://open.spotify.com/artist/44YvYIWPDPNLJaHiHktrJD) | [Lullabies on Solo Acoustic Guitar for Babies and Their Parents](https://open.spotify.com/album/5uXkJiM9uP7nxeiME3AVPe) | 1:21 | 2021-11-11 | 2023-04-26 |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/531IcNc66ybRrMuy9VheOE) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Baa Baa Black Sheep](https://open.spotify.com/album/2BE19jUpfjrO0pzPqfcY3G) | 2:23 | 2023-04-25 | 2023-06-22 |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/6Md0Vr9czGxqkETs0Hlg95) | [Zane Heart](https://open.spotify.com/artist/4thSm74qyd3wxZ2pqh3YPW) | [Baa Baa Black Sheep](https://open.spotify.com/album/4GVUO0usSEDTasFQugg0zl) | 2:37 | 2025-12-12 |  |
@@ -113,6 +113,7 @@
 | [Flying Teddy](https://open.spotify.com/track/4sJiH01QHq3H26Z1N3esFc) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Dreaming with the Stars](https://open.spotify.com/album/2SfA10rr2QVAAxa5j1SVEW) | 2:37 | 2023-04-25 | 2024-08-31 |
 | [Frere Jacques](https://open.spotify.com/track/53JIdR9vG2kx7W76HU3X1Q) | [Pixi Small](https://open.spotify.com/artist/1NOsmA0yG2w3mW5xpdcGRY) | [Frere Jacques](https://open.spotify.com/album/7iVKdikiYhga4F2ykfyKdJ) | 1:22 | 2022-09-22 |  |
 | [Furry Friends](https://open.spotify.com/track/6NLXrHE37TBshJMIihdAXd) | [Hob Nob Guitars](https://open.spotify.com/artist/5Hi0d602CvheKefJyN6GLw) | [Furry Friends](https://open.spotify.com/album/7yHibwuN87k4iv4W0Zglh1) | 1:47 | 2024-01-19 | 2025-07-28 |
+| [Garden of Dreams](https://open.spotify.com/track/15miP43Bn9jWrSpL9uYuFZ) | [Johan Stragne](https://open.spotify.com/artist/423XR6sC6ApgqX3WDLyPLg) | [Garden of Dreams](https://open.spotify.com/album/0M7tQBe6nKzQQGEehhS2N5) | 1:07 | 2026-01-30 |  |
 | [Gently Slow](https://open.spotify.com/track/08RpEhbRnJzzt318TOEEPJ) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Gently Slow](https://open.spotify.com/album/20dortqEfJRZJmobdM7g48) | 2:15 | 2022-07-29 | 2023-08-18 |
 | [Girls And Boys Come Out To Play](https://open.spotify.com/track/3TKouB59YNESVemXS5mUj8) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Rainbow Connection](https://open.spotify.com/album/3uelDCjTwNeEum7HfqKGPc) | 1:56 | 2022-01-21 | 2024-04-05 |
 | [Go to Sleep, Colas My Little Brother](https://open.spotify.com/track/2anUUyX2PqINxY6g3aAQ69) | [Björnes Hörna](https://open.spotify.com/artist/2zqtBq44AqBBXf2Fk9ZLZE) | [Go to Sleep, Colas My Little Brother](https://open.spotify.com/album/0ZXf6JppKOyncy6N6NV3yM) | 1:57 | 2023-04-25 |  |
@@ -194,7 +195,7 @@
 | [Måne och sol](https://open.spotify.com/track/581iZrDptObqVHR5Yo5nFp) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 2](https://open.spotify.com/album/5DOYzeiyApvUj0739e7VWf) | 1:55 | 2021-11-11 | 2023-11-17 |
 | [Me and Teddy](https://open.spotify.com/track/4pLSsRwuJetD2G3H480CqZ) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Me and Teddy](https://open.spotify.com/album/1OwCOuuu7KRLbsA9h1AHtx) | 2:34 | 2022-09-02 | 2023-09-02 |
 | [Mellow Teddy](https://open.spotify.com/track/0qhK6FG7OtkDyXM0WemioK) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Mellow Teddy](https://open.spotify.com/album/7kIUHlnEiTvWjBFgzYb6Qu) | 2:25 | 2025-05-23 |  |
-| [Mi Pequeña Bebe](https://open.spotify.com/track/6PJ8TOLeJxDeybMbyUBQFK) | [Lucas Morel](https://open.spotify.com/artist/5qmQ7yN4yUtz77k2JhY3Mu) | [Mi Pequeña Bebe](https://open.spotify.com/album/3Z5U8zt4ED2iUwDJYLOTIo) | 1:49 | 2021-11-11 |  |
+| [Mi Pequeña Bebe](https://open.spotify.com/track/6PJ8TOLeJxDeybMbyUBQFK) | [Lucas Morel](https://open.spotify.com/artist/5qmQ7yN4yUtz77k2JhY3Mu) | [Mi Pequeña Bebe](https://open.spotify.com/album/3Z5U8zt4ED2iUwDJYLOTIo) | 1:49 | 2021-11-11 | 2026-01-31 |
 | [Midnight Menuette](https://open.spotify.com/track/0C8SeH9vQP6gB4B9DsCnnq) | [Schlaf Hilfe](https://open.spotify.com/artist/0jcfbSKBBWLP199T78UyOt) | [Midnight Menuette](https://open.spotify.com/album/0ldXfVn53sgwykfOq1DeJj) | 1:41 | 2021-11-11 | 2025-05-24 |
 | [Midnight Stars](https://open.spotify.com/track/3AuEiYI7R0iboNJxdHa9Sr) | [Gary the Canary](https://open.spotify.com/artist/0grdiHwZLQCROzeAPQzNFY) | [Fairy Snail Tale](https://open.spotify.com/album/0UbO9GlYl22DqBaMUkpPaw) | 2:53 | 2023-02-17 | 2024-01-19 |
 | [Moonboat](https://open.spotify.com/track/5DdtOjGp1ql2QDhZsIcDHY) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Moonboat](https://open.spotify.com/album/2obqal9NEWv6D7b76hgODf) | 2:46 | 2025-09-26 |  |
@@ -213,6 +214,7 @@
 | [Nocturne For Luna](https://open.spotify.com/track/6WZmh5M14Gb96trVMtNVmj) | [Jelmer Traaug](https://open.spotify.com/artist/2tt5ElREN9IPRHQBofxNhp) | [Nocturne For Luna](https://open.spotify.com/album/3haire3hrJ1h9zT4VT78V4) | 2:12 | 2021-11-11 | 2024-04-20 |
 | [Oh My Darling Clementine \- Guitar Instrumental](https://open.spotify.com/track/52V3HMMWo2ifBu51czJbAU) | [Percy Montrose](https://open.spotify.com/artist/7fL5qAhMs5tY2zBgh6LPzw), [Benjamin Bonum Nocte](https://open.spotify.com/artist/3gc2mMM2cf56LNeGu0nKrY), [Baby Sleep](https://open.spotify.com/artist/1UD3SXwenV5Zmrdl7KKfqW), [Baby Lullaby](https://open.spotify.com/artist/7vgJnbva49FV9p5EkNlKq7) | [Guitar Lullabies](https://open.spotify.com/album/1tX3mdy95JS5Q6VKG0bpD0) | 1:18 | 2021-11-11 | 2023-10-06 |
 | [Old MacDonald Had a Farm](https://open.spotify.com/track/7y1G8w8McPgbMB2YL9tbEr) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Old MacDonald Had a Farm](https://open.spotify.com/album/7mFAIeIpMuNzeBMEwmZSbG) | 2:27 | 2023-01-27 | 2024-08-31 |
+| [Old Macdonald Had a Farm](https://open.spotify.com/track/5JI1BtYMOYRwefhOO4tATW) | [Zane Heart](https://open.spotify.com/artist/4thSm74qyd3wxZ2pqh3YPW) | [Old Macdonald Had a Farm](https://open.spotify.com/album/6ULEiD3TdE4yKjerGzqiZA) | 1:50 | 2026-01-30 |  |
 | [On More Sleep](https://open.spotify.com/track/5LPFIx2yusxKYAvioLn4xp) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleepy Eyes](https://open.spotify.com/album/20f2sObexRNK0NtpZ4jx9W) | 2:59 | 2023-04-25 | 2024-02-29 |
 | [On Top of Old Smokey \(Instrumental Version\)](https://open.spotify.com/track/0iPYaJS6hbMahRGl7VtueR) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Baby Lullabye Music \- Acoustic Songs for Children](https://open.spotify.com/album/0Udhpg3Zp3Y2jZkwb4M0lE) | 1:58 | 2021-11-11 | 2023-04-26 |
 | [Once Upon A Star](https://open.spotify.com/track/1ktQSGRxOK35RS0cjZpyfX) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Once Upon A Star](https://open.spotify.com/album/3nCkl8a4Tu61atkDwC8MnU) | 1:48 | 2023-03-17 | 2025-09-19 |

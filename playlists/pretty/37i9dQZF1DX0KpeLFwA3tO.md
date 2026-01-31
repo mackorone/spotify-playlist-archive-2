@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Meet Me @ The Altar
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,102 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,272 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Live Without](https://open.spotify.com/track/235ION6Jp91L5UBJD2MYXP) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [](https://open.spotify.com/album/null) | 2:55 |
+| 1 | [Live Without](https://open.spotify.com/track/235ION6Jp91L5UBJD2MYXP) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [WORRIED SICK \(Deluxe Edition\)](https://open.spotify.com/album/7jz5xZFFzL1kc5nBw1wpPL) | 2:55 |
 | 2 | [I Used To Go To This Bar](https://open.spotify.com/track/1Uwq1uMR3GEY3KTLzZrRN2) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [I Used To Go To This Bar](https://open.spotify.com/album/5lPJlOBMTQExZmAan61C6A) | 2:12 |
-| 3 | [Dandelion](https://open.spotify.com/track/1JjL9mpChpaO3fZRFI402Z) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [](https://open.spotify.com/album/null) | 3:14 |
+| 3 | [Dandelion](https://open.spotify.com/track/1JjL9mpChpaO3fZRFI402Z) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [Corporate Pudding](https://open.spotify.com/album/5nW0M9ugNbNygM09L8oMj6) | 3:14 |
 | 4 | [Bite to Break](https://open.spotify.com/track/2LjEkeahvzz5wUA6DN1jXN) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Bite to Break](https://open.spotify.com/album/1Y1aXgekAEr0XTjRWc867k) | 3:06 |
 | 5 | [Bedroom Posters \(feat\. Good Charlotte\)](https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Bedroom Posters \(feat\. Good Charlotte\)](https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY) | 3:38 |
 | 6 | [Beer and Blood Stains](https://open.spotify.com/track/26bnW74Wx2gOADqc6c8mV0) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Beer and Blood Stains](https://open.spotify.com/album/6qfKaBSurOwbjy3jm1uMrL) | 3:19 |
 | 7 | [Easing Out Of Control](https://open.spotify.com/track/00K12rtcNjGzNBqrl3Dnmd) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/5hEpZiyINDmaqRD8PPikmB) | 3:34 |
 | 8 | [From Home They Run](https://open.spotify.com/track/2EaOtMA33rC5dR0NsxX0Xm) | [The Saddest Landscape](https://open.spotify.com/artist/6i8MWognuWjNQSP3iwDfqJ) | [From Home They Run](https://open.spotify.com/album/7cNd9ZEHyaq2LVWv2PgUzk) | 4:27 |
-| 9 | [Track 18](https://open.spotify.com/track/5abpkx0M7ug15fPzqea8ge) | [Ratos De Porão](https://open.spotify.com/artist/3d2xlrGC9JGD7ycsf0e8mF) | [](https://open.spotify.com/album/null) | 0:00 |
+| 9 | [Insight \(Dead Kennedys\)](https://open.spotify.com/track/5abpkx0M7ug15fPzqea8ge) | [Ratos De Porão](https://open.spotify.com/artist/3d2xlrGC9JGD7ycsf0e8mF) | [Feijoada Acidente? \- Internacional](https://open.spotify.com/album/32EONognSZccHzUhcLDwUn) | 1:44 |
 | 10 | [BANG](https://open.spotify.com/track/0ODdsXfG6Wgmx0Tcn1oIUe) | [DFL](https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb) | [BANG](https://open.spotify.com/album/5BP0yOOSyOjxov5jVkdHcw) | 1:13 |
 | 11 | [Go Back](https://open.spotify.com/track/4B9SEBNhKco4aQXpyL83yh) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Go Back](https://open.spotify.com/album/5i06E1fcqHBKVc2VzSqQlW) | 1:43 |
 | 12 | [Rivals](https://open.spotify.com/track/62csNyuS9CldyRdA7sOSI8) | [Codefendants](https://open.spotify.com/artist/6HBfXt98QpP7QVDPLHjHTe), [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [Rivals](https://open.spotify.com/album/63EZMEgcbKfQLeNPbYZGue) | 2:41 |
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 15 | [Volcano](https://open.spotify.com/track/3MJA1vEuDATierADDMEJep) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Volcano](https://open.spotify.com/album/4TrWXcgGPCnLlI0MlUharD) | 2:28 |
 | 16 | [2005](https://open.spotify.com/track/7mnMlSkESYY17WgYCVQbSe) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [2005](https://open.spotify.com/album/7u6NukkheeJmPb6d8O0QVz) | 3:52 |
 | 17 | [Collapse](https://open.spotify.com/track/6p3hxzfWg2dcx8xlEYrLwz) | [Reviler](https://open.spotify.com/artist/5vriZzu0rYeHkWoZ9r2Dp5) | [Collapse](https://open.spotify.com/album/7IjHBrjY1JEKFx7h4M4mFc) | 1:58 |
-| 18 | [Track 5](https://open.spotify.com/track/7MJhOpPufCPkNJh1utzZXU) | [Matanza Inc](https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk) | [](https://open.spotify.com/album/null) | 0:00 |
+| 18 | [Obscurantista](https://open.spotify.com/track/7MJhOpPufCPkNJh1utzZXU) | [Matanza Inc](https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk) | [Obscurantista](https://open.spotify.com/album/7xpDdB6TBiGI0bVX9sUpFe) | 3:11 |
 | 19 | [Deprimerad](https://open.spotify.com/track/4qnqQVvWm8jJI8XWecug81) | [Bödel](https://open.spotify.com/artist/5iy1KtaKm2jnxU9V1lWENa) | [Deprimerad](https://open.spotify.com/album/5utB1hghP7MEfzmX64jC4i) | 1:32 |
 | 20 | [Will](https://open.spotify.com/track/2yYos0GmwgrPZAHOnpsSdM) | [Love Rarely](https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM) | [Will](https://open.spotify.com/album/1YAmfQGybwywqGhljGAwhe) | 3:18 |
-| 21 | [Gift of Life](https://open.spotify.com/track/7usTs2xTjmCXa2KpBUo91n) | [Minus Youth](https://open.spotify.com/artist/3vmFQ0HHdaqvG2yujSu9Bp) | [](https://open.spotify.com/album/null) | 2:58 |
+| 21 | [Gift of Life](https://open.spotify.com/track/7usTs2xTjmCXa2KpBUo91n) | [Minus Youth](https://open.spotify.com/artist/3vmFQ0HHdaqvG2yujSu9Bp) | [Lines Crossed](https://open.spotify.com/album/2Wm8QNDrNnLzUsgAuUuUyE) | 2:58 |
 | 22 | [Janggal](https://open.spotify.com/track/3psevDTYnmNgVCn7pw8sj0) | [Gledeg](https://open.spotify.com/artist/5o9clvWVquQyQca6xnmnFR) | [Janggal](https://open.spotify.com/album/7dfEtQoWWHOcWqqMyH7Sk2) | 1:14 |
 | 23 | [Fiducia nel Buio](https://open.spotify.com/track/0Q2R9r59oN7Lmo8AnzdkV4) | [Bruuno](https://open.spotify.com/artist/0oHCCcCDY1GC6EPcxoG9Lv) | [Fiducia nel Buio](https://open.spotify.com/album/0WpUPneKi4QknJcGnKW5OK) | 2:37 |
 | 24 | [Elitest G.O.A.T.](https://open.spotify.com/track/2p9VQReMQ1yHLMEdH3KrWc) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Elitest G.O.A.T.](https://open.spotify.com/album/2wgsMdq9nZr7YhHjrcjSKF) | 3:25 |

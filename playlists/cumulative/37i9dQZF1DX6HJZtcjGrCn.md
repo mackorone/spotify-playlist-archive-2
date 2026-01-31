@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: capital da bulgária
 
-420 songs - 1 day 0 hr 58 min
+420 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-04-10 | 2025-04-25 |
 | [A Cantiga É](https://open.spotify.com/track/11dMkIHbpNiBHp6aZZSvcF) | [Linda Martini](https://open.spotify.com/artist/4Pv6qAkea25i2DlW1quQ8t) | [Tudo E O Seu Contrário](https://open.spotify.com/album/6qi8DPvnici0jD17JXXlb7) | 4:32 | 2024-09-27 | 2024-10-18 |
 | [a love song](https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Go Outside And Hug A Tree](https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x) | 2:43 | 2025-04-10 | 2025-06-06 |
+| [A melhor noite da minha vida](https://open.spotify.com/track/1mCAyajh7DZEsQvtETiWAv) | [Stereossauro](https://open.spotify.com/artist/5HunmMrkNBMTP3L2e5qQE0), [Ana Magalhães](https://open.spotify.com/artist/50rpSRm1YcmK6fH8A3bUyk) | [Tristana II](https://open.spotify.com/album/1RDgbnACke01gMmoJBZf8z) | 3:48 | 2026-01-30 |  |
 | [A sensação jamais será a mesma](https://open.spotify.com/track/3UIWzUFOQOACPXTIhCM7dN) | [João Tiago](https://open.spotify.com/artist/6hbVZwkvCZF0iuOVZuV9Ni) | [A sensação jamais será a mesma](https://open.spotify.com/album/6axjAd3u17lzYmGi24i0yB) | 1:32 | 2025-04-17 | 2025-05-02 |
 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2024-06-20 | 2025-09-12 |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2024-06-20 | 2026-01-29 |
@@ -388,7 +389,6 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-20 |  |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-06-20 | 2024-08-29 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2025-09-12 |
-| [Track 2](https://open.spotify.com/track/1mCAyajh7DZEsQvtETiWAv) | [Stereossauro](https://open.spotify.com/artist/5HunmMrkNBMTP3L2e5qQE0) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-30 |  |
 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 | 2024-06-20 | 2024-10-04 |
 | [Trópico Paranóia](https://open.spotify.com/track/0RBiY7ty9QrIvCAubAebmI) | [Expresso Transatlântico](https://open.spotify.com/artist/28CpaXrJBEFMEupemdtiGB) | [Trópico Paranóia](https://open.spotify.com/album/11HXbdEbnmWDcOdOxWWd61) | 4:05 | 2026-01-30 |  |
 | [Tudo Contigo](https://open.spotify.com/track/5UQYSTu9VZKZvW8tFugqTH) | [CAIO](https://open.spotify.com/artist/7L9u5BLeFDSbRy6w2cz4KE), [Benjamim](https://open.spotify.com/artist/1Il7ZCAkjBtdsg9skLwlOc) | [Tudo Contigo](https://open.spotify.com/album/6pcmfsdw4dBpnUUQGYrI1l) | 3:51 | 2025-12-12 |  |

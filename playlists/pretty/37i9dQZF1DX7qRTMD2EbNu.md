@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Kweku Smoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,907 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,934 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 9 | [LABADI](https://open.spotify.com/track/6LRN0BxZWwTc8kgPK5XbBu) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [LABADI](https://open.spotify.com/album/1ujkng48efaVKFzlfEMIYr) | 2:14 |
 | 10 | [The Boys](https://open.spotify.com/track/5nuqN9F8RsMTvHZhEbMZ6Z) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [The Boys](https://open.spotify.com/album/5HmW1xXJIGX2UHGnZrakAu) | 3:47 |
 | 11 | [Can't Stop](https://open.spotify.com/track/71WcXwFtMAD0hGAas2pEYF) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Can't Stop](https://open.spotify.com/album/6cCTaxR21qeaaWjdPWpo19) | 2:34 |
-| 12 | [Retribution](https://open.spotify.com/track/4yCl1tAjhIR9glGuyM5Bw7) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Kay t](https://open.spotify.com/artist/7u2iiXMEcQ13jXOb1xZmIi), [Mantse](https://open.spotify.com/artist/6nntfefHU1AUQ5RpcMeo7M) | [Retribution](https://open.spotify.com/album/0UgJp0LHjY5MdWbQCYaF8S) | 4:37 |
+| 12 | [Retribution](https://open.spotify.com/track/4yCl1tAjhIR9glGuyM5Bw7) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Kay t](https://open.spotify.com/artist/7u2iiXMEcQ13jXOb1xZmIi), [Mantse](https://open.spotify.com/artist/6nntfefHU1AUQ5RpcMeo7M) | [Retribution](https://open.spotify.com/album/0UgJp0LHjY5MdWbQCYaF8S) | 4:22 |
 | 13 | [Soma Obi](https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:41 |
 | 14 | [Lord I'm Amazed](https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lord I'm Amazed](https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9) | 2:26 |
 | 15 | [Jesus Christ 2](https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Jesus Christ 2](https://open.spotify.com/album/13CeX9JSszCuegkdi883CA) | 3:37 |

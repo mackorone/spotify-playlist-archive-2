@@ -1,6 +1,6 @@
 {
   "description": "Ditonellapiaga in cover + le migliori nuove uscite \ud83c\uddee\ud83c\uddf9 e \ud83c\udf0e!\n",
-  "num_followers": 65006,
+  "num_followers": 65019,
   "original_name": "Novit\u00e0 Pop",
   "owner": {
     "name": "Spotify",
@@ -299,8 +299,8 @@
     {
       "added_at": "2026-01-29 23:01:32",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Bohemio",
+        "url": "https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV"
       },
       "artists": [
         {
@@ -308,8 +308,8 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 153911,
+      "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/7fC9JbQTR20CB6gvWr1NcF"
     },
     {
@@ -335,8 +335,8 @@
     {
       "added_at": "2026-01-29 23:01:32",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "COSMIC OPERA ACT I",
+        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
       },
       "artists": [
         {
@@ -383,17 +383,25 @@
     {
       "added_at": "2026-01-29 23:01:32",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Mixed Feelings (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/5c3R42LrfZhbFc4UfYAORE"
       },
       "artists": [
         {
           "name": "Minelli",
           "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        },
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 15",
+      "duration_ms": 206000,
+      "name": "Azucar",
       "url": "https://open.spotify.com/track/2YGbdJobuSUnfHUGVIHVXb"
     },
     {
@@ -1831,7 +1839,7 @@
     {
       "added_at": "2026-01-29 23:01:32",
       "album": {
-        "name": "Dread - The Moment (The Score)",
+        "name": "Dread",
         "url": "https://open.spotify.com/album/1RCS8GsTDFMZld7vQbALG1"
       },
       "artists": [
@@ -1841,7 +1849,7 @@
         }
       ],
       "duration_ms": 349714,
-      "name": "Dread - The Moment (The Score)",
+      "name": "Dread",
       "url": "https://open.spotify.com/track/0o6QKerRaO7Hq5tOvVXBLH"
     },
     {

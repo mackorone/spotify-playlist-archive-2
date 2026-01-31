@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Los \u00e9xitos del Dembow. Portada: El Alfa",
+  "description": "Los \u00e9xitos del Dembow. Portada: Ezzy R",
   "name": "Dembow Pegao",
   "tracks": [
     {
@@ -3318,7 +3318,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 124285,
       "name": "Hoy Si",
       "url": "https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N"
@@ -5695,6 +5695,28 @@
     },
     {
       "album": {
+        "name": "No Me Acuesto",
+        "url": "https://open.spotify.com/album/0N5HmXAXOx8sC5stZei4p5"
+      },
+      "artists": [
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        },
+        {
+          "name": "Ezzy R",
+          "url": "https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105283,
+      "name": "No Me Acuesto",
+      "url": "https://open.spotify.com/track/0wGSU3MdjH6whI4fDW29XU"
+    },
+    {
+      "album": {
         "name": "No Me Importa",
         "url": "https://open.spotify.com/album/4Tw419YEniAI4evTfFglIm"
       },
@@ -7581,6 +7603,28 @@
     },
     {
       "album": {
+        "name": "Shorty",
+        "url": "https://open.spotify.com/album/2ZDGf43ncsEvvuXlfwYEFG"
+      },
+      "artists": [
+        {
+          "name": "Ezzy R",
+          "url": "https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX"
+        },
+        {
+          "name": "Megadivo Produce",
+          "url": "https://open.spotify.com/artist/0fDsWL50lXtP2fc8ayi4KN"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100269,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/5SfpF8yQCo9C2DINN9jrzl"
+    },
+    {
+      "album": {
         "name": "Si Es Trucho Es Trucho (feat. Farruko & El Alfa) [Remix]",
         "url": "https://open.spotify.com/album/59639HF0Gv2YA57xkJ28NC"
       },
@@ -9352,7 +9396,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 114534,
       "name": "Voltio",
       "url": "https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe"

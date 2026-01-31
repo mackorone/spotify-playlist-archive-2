@@ -4,7 +4,7 @@
 
 > Le meilleur des années 80 en 80 titres.
 
-145 songs - 9 hr 56 min
+146 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bleu comme toi \- Single Edit](https://open.spotify.com/track/0RX7zew3vhJLHJKK9LBcAd) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Bleu Comme Toi](https://open.spotify.com/album/27eI27JBAFlbnBhvRf1h2s) | 3:24 | 2025-06-26 |  |
 | [Boys \(Summertime Love\)](https://open.spotify.com/track/4DhFKDNG7R94j5UVhd2hnG) | [Sabrina](https://open.spotify.com/artist/3RPvO8agSVIgo2gbNwsLfo) | [Vinyles 80's : The Best Of](https://open.spotify.com/album/2eGbGjobP1GT5btM5SlD4L) | 3:54 | 2024-01-17 | 2024-10-25 |
 | [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 | 2024-01-17 | 2024-04-19 |
+| [Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:35 | 2026-01-30 |  |
 | [C'est écrit \- Remastered](https://open.spotify.com/track/1nlG27VjnsZqh5t4PqPcPB) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Sarbacane \(Remastered\)](https://open.spotify.com/album/7e7sLjpyMxBeF6UyHl57Ul) | 5:53 | 2024-10-24 | 2024-12-18 |
 | [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 | 2023-08-18 |  |
 | [Can't Take My Eyes Off Of You \- Original Radio Edit](https://open.spotify.com/track/38f6pFU4HRtrT198ZnyrK5) | [Boys Town Gang](https://open.spotify.com/artist/0yrScqagPyABiZeoNHHe3H) | [Can't Take My Eyes Off You](https://open.spotify.com/album/5UD6SOM4JtmtTTJ3SNt1cU) | 3:33 | 2025-06-26 | 2025-11-07 |
@@ -51,7 +52,7 @@
 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 | 2023-08-18 | 2024-04-19 |
 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/4YR6Dextuoc3I8nJ0XgzKI) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [The Essential Kenny Loggins](https://open.spotify.com/album/68ZonGoyvksZu4sqqNXect) | 3:46 | 2024-01-17 |  |
 | [Fresh](https://open.spotify.com/track/1mMYaXpT65iZDtvfRA9EkE) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Emergency \(Reissue\)](https://open.spotify.com/album/1lLHdYAPp0kZdBiMrLbsJV) | 4:26 | 2023-08-18 | 2024-04-19 |
-| [Fresh](https://open.spotify.com/track/59UwJzRHzH92UeXCZx2Kb6) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Emergency](https://open.spotify.com/album/4mlLyipdL0el8wcsxTm6Co) | 4:26 | 2024-01-17 |  |
+| [Fresh](https://open.spotify.com/track/59UwJzRHzH92UeXCZx2Kb6) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Emergency](https://open.spotify.com/album/4mlLyipdL0el8wcsxTm6Co) | 4:26 | 2024-01-17 | 2026-01-31 |
 | [Get Down On It \- Single Version](https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:31 | 2023-08-18 | 2024-04-19 |
 | [Get Down On It \- Single Version](https://open.spotify.com/track/1OsCKwNZxph96EkNusILRy) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang](https://open.spotify.com/album/52ZOtET6twyVA0ZBlDG2RP) | 3:32 | 2024-01-17 |  |
 | [Get Down Saturday Night](https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Disco Essentials](https://open.spotify.com/album/5aVya3XGTKxxuOA4LT5Ayz) | 4:01 | 2024-01-17 |  |

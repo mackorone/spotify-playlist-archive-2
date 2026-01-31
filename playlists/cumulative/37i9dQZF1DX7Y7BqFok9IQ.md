@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Samantha Fish
 
-387 songs - 1 day 1 hr 4 min
+388 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,8 +112,9 @@
 | [Fits Me Good](https://open.spotify.com/track/7KwwKbVp34XpxjRnnwBy0h) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Fits Me Good](https://open.spotify.com/album/4DTcA2RFWd5N6FAbIoujnw) | 2:51 | 2020-10-16 | 2023-09-30 |
 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 | 2020-10-16 | 2023-05-27 |
 | [Fortune Teller Blues](https://open.spotify.com/track/2J1jFnY0rllxqi749VZzlm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Fortune Teller Blues](https://open.spotify.com/album/1AXxeIrqeolSXvjo3Hf32R) | 6:22 | 2025-01-31 | 2025-06-21 |
-| [Freedom](https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:36 | 2020-10-16 |  |
+| [Freedom](https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:36 | 2020-10-16 | 2026-01-31 |
 | [Freedom](https://open.spotify.com/track/4bwrku78zobaXo2V9vPW6J) | [Jason Lee McKinney Band](https://open.spotify.com/artist/4jKq5mpInUqZWJ8v3R92ap) | [One Last Thing](https://open.spotify.com/album/63XFht5dOCm0P15cxEm2pv) | 3:39 | 2022-03-25 |  |
+| [Freedom \- Single Version](https://open.spotify.com/track/0Kdu2qRBfCRJJdWtEdKFjL) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Freedom](https://open.spotify.com/album/5XOGc9cd6GPupHK5OiC5FD) | 3:14 | 2026-01-30 |  |
 | [Get Out](https://open.spotify.com/track/6WLtfOdxB7FdmY7GePc6us) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Get Out](https://open.spotify.com/album/0cdFr8n7xLEV616xKYN2kT) | 2:41 | 2022-06-10 | 2022-07-23 |
 | [Get Your Head Right](https://open.spotify.com/track/0iPRmHlbc2egmnpS1GEz4I) | [Jim Suhler & Monkey Beat](https://open.spotify.com/artist/60iSiwrXbu8RweNR6ZvAG6) | [Get Your Head Right](https://open.spotify.com/album/4Y6VXXguQxpZz2vY79fg5u) | 3:27 | 2023-02-03 |  |
 | [Gets Me so High](https://open.spotify.com/track/0OZOk21ZTDXptdd1X6ki6p) | [GrandVille](https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK) | [GrandVille](https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY) | 4:43 | 2023-05-26 |  |

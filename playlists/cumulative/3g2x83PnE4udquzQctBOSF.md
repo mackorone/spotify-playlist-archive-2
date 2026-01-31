@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-475 songs - 1 day 4 hr 37 min
+477 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [Spatial](https://open.spotify.com/track/3Fxceybn6mUOFlAHIz3Zsn) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Spatial](https://open.spotify.com/album/6b7WFerr0JRtw8X5H9L9IS) | 2:15 | 2025-12-10 | 2026-01-03 |
 | [Spectacular](https://open.spotify.com/track/0xIEDcRTdiBBPjvcelpp8L) | [Calpaina3](https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu) | [Spectacular](https://open.spotify.com/album/1KOpwNonQK0U80u3gAxb8O) | 3:41 | 2025-12-20 | 2026-01-03 |
 | [State Of Mind](https://open.spotify.com/track/7I6VWFNZoUo0gRDYiAcC4M) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [State Of Mind / Westside Trippin](https://open.spotify.com/album/65icEEAu7TwaePaVUzqcHZ) | 3:36 | 2023-03-05 | 2023-03-20 |
+| [Static Soul](https://open.spotify.com/track/0aiUkj8hqVWsU8CV5uqwMA) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [The Vinci Effect](https://open.spotify.com/album/5g6Dr3gvIgT1bjzjjLaR6Z) | 2:15 | 2026-01-30 |  |
 | [Step Into It](https://open.spotify.com/track/533T9iIMBhmRXcKVH48CxO) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Step Into It](https://open.spotify.com/album/3beTqABOznAfcdIZraOboj) | 3:15 | 2023-01-29 | 2023-03-06 |
 | [Still Pushin' \- Radio Edit](https://open.spotify.com/track/3OBUo6PrzYAxkudyLNryFV) | [YOUniverse \(IT\)](https://open.spotify.com/artist/3q3smKL7PiVd9oFRPvB7Ii), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Still Pushin'](https://open.spotify.com/album/5XkhKswrwGVMQB6izwSj4W) | 3:12 | 2024-04-14 | 2024-07-08 |
 | [Stolen Dub](https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P) | [Stolen Dub](https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM) | 2:16 | 2024-03-10 | 2024-04-15 |
@@ -451,6 +452,7 @@
 | [Venezolana \- Original Mix](https://open.spotify.com/track/0bQlyeYdCvnimXDoL8XB6d) | [Gabriele Toma](https://open.spotify.com/artist/3Eylw4P4DCGqXcQZ4b8Fon) | [Venezolana](https://open.spotify.com/album/3lStdA5SbysTqa6Sqcxofs) | 5:37 | 2023-01-29 | 2023-02-20 |
 | [Venezuela](https://open.spotify.com/track/0YbrchKexq2NTo0wwOi15S) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [Venezuela](https://open.spotify.com/album/56lODgPHSGEw887zjqc4Cy) | 2:32 | 2023-05-14 | 2023-06-12 |
 | [Vibrate \- Radio Edit](https://open.spotify.com/track/3zRw5GB5LI83tWPrPkr5TF) | [Josh Kalker](https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF) | [Vibrate](https://open.spotify.com/album/6OQP11NTR6y4pGHz0Lqcdc) | 3:26 | 2024-05-19 |  |
+| [Victory in Slow Motion](https://open.spotify.com/track/6ybYUXW0U1wi1JWadeEY7y) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [The Vinci Effect](https://open.spotify.com/album/5g6Dr3gvIgT1bjzjjLaR6Z) | 1:31 | 2026-01-30 |  |
 | [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2023-06-11 | 2023-07-03 |
 | [VIP Section](https://open.spotify.com/track/2fRPAxlfizmSKUwfGZZjNk) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [VIP Section](https://open.spotify.com/album/0T0imnIgVVMxIMJnAvJk5f) | 3:26 | 2023-03-05 | 2023-03-27 |
 | [Wait A Minute](https://open.spotify.com/track/0UAK0qiRTIPUnMzjwKk2PF) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Wait A Minute](https://open.spotify.com/album/7bEV9C1I27kJqPO53JqTBP) | 3:22 | 2023-02-12 | 2023-03-20 |

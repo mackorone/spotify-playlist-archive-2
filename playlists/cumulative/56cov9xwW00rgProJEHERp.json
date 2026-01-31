@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 150909,
       "name": "Enigami (with Mei Semones)",
       "url": "https://open.spotify.com/track/1WCDMaCfChlyJo6qD281x4"
@@ -3503,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "La vie avec toi",
+        "url": "https://open.spotify.com/album/2SpA8mQtFDBmWMsBv4G1Ea"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169230,
+      "name": "La vie avec toi",
+      "url": "https://open.spotify.com/track/0HYURzPK84YwOrQfFUbzSO"
+    },
+    {
+      "album": {
         "name": "Laredo",
         "url": "https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR"
       },
@@ -4044,7 +4062,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 199101,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/2HLozrMrP9kSZTjRPWWlyF"
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 201942,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk"
@@ -5315,6 +5333,24 @@
     },
     {
       "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
+    },
+    {
+      "album": {
         "name": "Skeleton",
         "url": "https://open.spotify.com/album/06nY6LXMeaRGEudo7i2IOd"
       },
@@ -5622,7 +5658,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 309655,
       "name": "Spill My Wine",
       "url": "https://open.spotify.com/track/2i1wCVx8fkd4SqraEb97C5"
@@ -5929,6 +5965,24 @@
     },
     {
       "album": {
+        "name": "Until The Comet Came",
+        "url": "https://open.spotify.com/album/1Ag9sz7rFDlTiHtacxRQ17"
+      },
+      "artists": [
+        {
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246879,
+      "name": "Team Babe",
+      "url": "https://open.spotify.com/track/6TqVmfK0Um2rK6ozp3E8dG"
+    },
+    {
+      "album": {
         "name": "Tell Me How",
         "url": "https://open.spotify.com/album/60QZB4L7P6e41u3rNBgB2m"
       },
@@ -6150,6 +6204,24 @@
       "duration_ms": 211190,
       "name": "The Glass",
       "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
+    },
+    {
+      "album": {
+        "name": "The Hunt in Edson",
+        "url": "https://open.spotify.com/album/6rBavKiZbhmL8I7N3fkzNu"
+      },
+      "artists": [
+        {
+          "name": "The Rural Alberta Advantage",
+          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195311,
+      "name": "The Hunt in Edson",
+      "url": "https://open.spotify.com/track/5kpmjSY32TECteTGWKehDM"
     },
     {
       "album": {

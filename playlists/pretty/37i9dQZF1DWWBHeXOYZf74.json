@@ -1,44 +1,68 @@
 {
-  "description": "Genre-less. Quality first always. Cover: James Blake",
-  "num_followers": 1328727,
+  "description": "Genre-less. Quality first always. Cover: Thundercat",
+  "num_followers": 1328697,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABYyK458ZIH6epJhYoYY6ypuuhlN",
+  "snapshot_id": "AAAAAHvRVZ/Hp/NWsauuqtp3FOExuYcj",
   "tracks": [
     {
-      "added_at": "2026-01-23 05:00:28",
+      "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "Death of Love",
-        "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
+        "name": "I Did This To Myself",
+        "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
         }
       ],
-      "duration_ms": 206028,
-      "name": "Death of Love",
-      "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
+      "duration_ms": 150613,
+      "name": "I Did This To Myself",
+      "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
     },
     {
-      "added_at": "2026-01-23 05:00:28",
+      "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "You're My",
-        "url": "https://open.spotify.com/album/4mFzjQ1NzbzLCFbAPAVxL6"
+        "name": "Fara",
+        "url": "https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd"
       },
       "artists": [
         {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
         }
       ],
-      "duration_ms": 221826,
-      "name": "You're My",
-      "url": "https://open.spotify.com/track/0LmvbJfuLuFZxVWl8wGDJy"
+      "duration_ms": 182472,
+      "name": "Fara",
+      "url": "https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "BACKWARD",
+        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 166687,
+      "name": "THEMSELVES",
+      "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
     },
     {
       "added_at": "2026-01-23 05:00:28",
@@ -57,36 +81,20 @@
       "url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
     },
     {
-      "added_at": "2026-01-23 05:00:28",
+      "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "CHAMPION SOUND",
-        "url": "https://open.spotify.com/album/01QSX35q4rHFSR23vy4uRF"
+        "name": "5words",
+        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
         }
       ],
-      "duration_ms": 235818,
-      "name": "CHAMPION SOUND",
-      "url": "https://open.spotify.com/track/3aGsNK0Njz9JMTg93ObtHy"
-    },
-    {
-      "added_at": "2026-01-23 05:00:28",
-      "album": {
-        "name": "Mononoke",
-        "url": "https://open.spotify.com/album/6AVZ4BTxiIOhUdOve4Ops1"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Richardson",
-          "url": "https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu"
-        }
-      ],
-      "duration_ms": 207580,
-      "name": "Mononoke",
-      "url": "https://open.spotify.com/track/5TWmdXXBJkNDZzRA94PwAr"
+      "duration_ms": 317613,
+      "name": "5words",
+      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -107,6 +115,118 @@
       "duration_ms": 233486,
       "name": "Lean",
       "url": "https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum"
+    },
+    {
+      "added_at": "2026-01-23 05:00:28",
+      "album": {
+        "name": "Death of Love",
+        "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 206028,
+      "name": "Death of Love",
+      "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "Walking Dead",
+        "url": "https://open.spotify.com/album/7LLHzHDkDDTjqukNhjaE3d"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/7oIRCIarI1IXl3DXjLeYRy"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "Cola",
+        "url": "https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Cola",
+      "url": "https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb"
+    },
+    {
+      "added_at": "2026-01-23 05:00:28",
+      "album": {
+        "name": "You're My",
+        "url": "https://open.spotify.com/album/4mFzjQ1NzbzLCFbAPAVxL6"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "You're My",
+      "url": "https://open.spotify.com/track/0LmvbJfuLuFZxVWl8wGDJy"
+    },
+    {
+      "added_at": "2026-01-23 05:00:28",
+      "album": {
+        "name": "Mononoke",
+        "url": "https://open.spotify.com/album/6AVZ4BTxiIOhUdOve4Ops1"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Richardson",
+          "url": "https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu"
+        }
+      ],
+      "duration_ms": 207580,
+      "name": "Mononoke",
+      "url": "https://open.spotify.com/track/5TWmdXXBJkNDZzRA94PwAr"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "Electronicity",
+        "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Electronicity",
+      "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
+    },
+    {
+      "added_at": "2026-01-23 05:00:28",
+      "album": {
+        "name": "CHAMPION SOUND",
+        "url": "https://open.spotify.com/album/01QSX35q4rHFSR23vy4uRF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 235818,
+      "name": "CHAMPION SOUND",
+      "url": "https://open.spotify.com/track/3aGsNK0Njz9JMTg93ObtHy"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -1289,26 +1409,6 @@
       "url": "https://open.spotify.com/track/6nCDvoALdUsjb2lTJqJLsu"
     },
     {
-      "added_at": "2025-10-31 00:00:20",
-      "album": {
-        "name": "C0FFEE!",
-        "url": "https://open.spotify.com/album/1F14HUbfaQsbk8bf9txfJb"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 98773,
-      "name": "How Many X? (ft. Ogi)",
-      "url": "https://open.spotify.com/track/5m1s5Ltj6eKO5d17SuJxQY"
-    },
-    {
       "added_at": "2025-10-24 04:00:24",
       "album": {
         "name": "Tell Me",
@@ -1617,82 +1717,6 @@
       "url": "https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb"
     },
     {
-      "added_at": "2025-10-03 00:00:34",
-      "album": {
-        "name": "Vanish",
-        "url": "https://open.spotify.com/album/6g0PYzvTtIMcS9KAvBf6Se"
-      },
-      "artists": [
-        {
-          "name": "Opal",
-          "url": "https://open.spotify.com/artist/5vrXufNZgLC6MyhB0BzWo9"
-        }
-      ],
-      "duration_ms": 136119,
-      "name": "Vanish",
-      "url": "https://open.spotify.com/track/20xzZYnhLR4eAhij1ik8Vp"
-    },
-    {
-      "added_at": "2025-09-26 04:00:09",
-      "album": {
-        "name": "Music and Me",
-        "url": "https://open.spotify.com/album/1TGE1fYvsSXrLabduuvPdJ"
-      },
-      "artists": [
-        {
-          "name": "fakemink",
-          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
-        }
-      ],
-      "duration_ms": 126037,
-      "name": "Music and Me",
-      "url": "https://open.spotify.com/track/23c1TrkpPPYOcJT6DYRRPH"
-    },
-    {
-      "added_at": "2025-10-03 00:00:34",
-      "album": {
-        "name": "Ostentatious",
-        "url": "https://open.spotify.com/album/0Y0OQfgW9cFQHrKpZvicX2"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Ostentatious",
-      "url": "https://open.spotify.com/track/0buN3nIjGOmj2boRh7zNrz"
-    },
-    {
-      "added_at": "2025-09-26 04:00:09",
-      "album": {
-        "name": "brown sugar",
-        "url": "https://open.spotify.com/album/3vpGxlA15YNg7PRbRuTZ67"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 216749,
-      "name": "brown sugar",
-      "url": "https://open.spotify.com/track/2rEH4r3Z88dt0qFpvr8fjn"
-    },
-    {
       "added_at": "2025-09-26 04:00:09",
       "album": {
         "name": "Don't Leave Too Soon (From the Netflix Film 'Steve')",
@@ -1743,38 +1767,6 @@
       "duration_ms": 214026,
       "name": "The Boy",
       "url": "https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw"
-    },
-    {
-      "added_at": "2025-09-26 04:00:09",
-      "album": {
-        "name": "The Passionate Ones",
-        "url": "https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "When The War Is Over",
-      "url": "https://open.spotify.com/track/6CSpmRlGT82RrGNJotD9gJ"
-    },
-    {
-      "added_at": "2025-09-26 04:00:09",
-      "album": {
-        "name": "What if",
-        "url": "https://open.spotify.com/album/3M2j3cGIFkRyaqAN8HVLw2"
-      },
-      "artists": [
-        {
-          "name": "Ceri Wax",
-          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
-        }
-      ],
-      "duration_ms": 185602,
-      "name": "What if",
-      "url": "https://open.spotify.com/track/2izy3kSKKpXqIqWIkYv7q1"
     },
     {
       "added_at": "2025-09-19 04:00:40",

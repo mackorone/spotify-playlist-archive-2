@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Noyz in cover.",
-  "num_followers": 48509,
+  "num_followers": 48515,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,18 @@
     {
       "added_at": "2026-01-29 23:01:22",
       "album": {
-        "name": "Viscerale",
-        "url": "https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT"
+        "name": "Background",
+        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
       },
       "artists": [
         {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Idiocracy (feat. Gemitaiz)",
-      "url": "https://open.spotify.com/track/4FHzzeALkiqKTPtxumuLCr"
+      "duration_ms": 304066,
+      "name": "S.I.C.",
+      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
     },
     {
       "added_at": "2026-01-29 23:01:22",
@@ -903,42 +899,42 @@
     {
       "added_at": "2026-01-29 23:01:22",
       "album": {
-        "name": "Background",
-        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
+        "name": "Viscerale",
+        "url": "https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT"
       },
       "artists": [
         {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         }
       ],
-      "duration_ms": 304066,
-      "name": "S.I.C.",
-      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
+      "duration_ms": 163000,
+      "name": "Idiocracy (feat. Gemitaiz)",
+      "url": "https://open.spotify.com/track/4FHzzeALkiqKTPtxumuLCr"
     },
     {
       "added_at": "2026-01-29 23:01:22",
       "album": {
-        "name": "La volta buona",
-        "url": "https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP"
+        "name": "Favola",
+        "url": "https://open.spotify.com/album/4LtUc77mtEMvblER5Jf45L"
       },
       "artists": [
         {
-          "name": "Stokka & Madbuddy",
-          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
         },
         {
-          "name": "Roc Beats",
-          "url": "https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+          "name": "Dargen D'Amico",
+          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
         }
       ],
-      "duration_ms": 234525,
-      "name": "La volta buona",
-      "url": "https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO"
+      "duration_ms": 189278,
+      "name": "Favola",
+      "url": "https://open.spotify.com/track/1Qp2eMLXVnff8plWwm48i4"
     },
     {
       "added_at": "2026-01-29 23:01:22",
@@ -975,6 +971,30 @@
     {
       "added_at": "2026-01-29 23:01:22",
       "album": {
+        "name": "La volta buona",
+        "url": "https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP"
+      },
+      "artists": [
+        {
+          "name": "Stokka & Madbuddy",
+          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
+        },
+        {
+          "name": "Roc Beats",
+          "url": "https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d"
+        },
+        {
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+        }
+      ],
+      "duration_ms": 234525,
+      "name": "La volta buona",
+      "url": "https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO"
+    },
+    {
+      "added_at": "2026-01-29 23:01:22",
+      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 250786,
       "name": "Lo straniero",
       "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
-    },
-    {
-      "added_at": "2026-01-29 23:01:22",
-      "album": {
-        "name": "Favola",
-        "url": "https://open.spotify.com/album/4LtUc77mtEMvblER5Jf45L"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Dargen D'Amico",
-          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
-        }
-      ],
-      "duration_ms": 189278,
-      "name": "Favola",
-      "url": "https://open.spotify.com/track/1Qp2eMLXVnff8plWwm48i4"
     },
     {
       "added_at": "2026-01-29 23:01:22",
@@ -1199,34 +1199,6 @@
     {
       "added_at": "2026-01-29 23:01:22",
       "album": {
-        "name": "BISTRO!",
-        "url": "https://open.spotify.com/album/5etB9KR1byXqNnRp4UcmxJ"
-      },
-      "artists": [
-        {
-          "name": "Sick Budd",
-          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
-        },
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Rev\u00e9",
-          "url": "https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V"
-        }
-      ],
-      "duration_ms": 192814,
-      "name": "Buste Di Speranza (feat. Ernia, Dani Faiv & Rev\u00e9)",
-      "url": "https://open.spotify.com/track/0n496v17NNQlJwVeLQIuYh"
-    },
-    {
-      "added_at": "2026-01-29 23:01:22",
-      "album": {
         "name": "Lato B (feat. Mecna, Gu\u00e8)",
         "url": "https://open.spotify.com/album/4Fqa6E3erUdjiFj1VgJNR0"
       },
@@ -1267,6 +1239,34 @@
       "duration_ms": 138461,
       "name": "Cielo Grigio (feat. NeS)",
       "url": "https://open.spotify.com/track/4PXaODmjOGleP7q9UkyYQy"
+    },
+    {
+      "added_at": "2026-01-29 23:01:22",
+      "album": {
+        "name": "BISTRO!",
+        "url": "https://open.spotify.com/album/5etB9KR1byXqNnRp4UcmxJ"
+      },
+      "artists": [
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Rev\u00e9",
+          "url": "https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V"
+        }
+      ],
+      "duration_ms": 192814,
+      "name": "Buste Di Speranza (feat. Ernia, Dani Faiv & Rev\u00e9)",
+      "url": "https://open.spotify.com/track/0n496v17NNQlJwVeLQIuYh"
     },
     {
       "added_at": "2026-01-29 23:01:22",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-01-29 23:01:22",
       "album": {
-        "name": "Lealt\u00e0 e rispetto",
-        "url": "https://open.spotify.com/album/1iOIFjcKd1RGjRFwkcKxz2"
-      },
-      "artists": [
-        {
-          "name": "Turi",
-          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Capeesh",
-      "url": "https://open.spotify.com/track/549Uwe3SteMyDEwysQyeEX"
-    },
-    {
-      "added_at": "2026-01-29 23:01:22",
-      "album": {
         "name": "Riproduzione Vietata",
         "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 253683,
       "name": "L'Anima Giusta",
       "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
+    },
+    {
+      "added_at": "2026-01-29 23:01:22",
+      "album": {
+        "name": "Lealt\u00e0 e rispetto",
+        "url": "https://open.spotify.com/album/1iOIFjcKd1RGjRFwkcKxz2"
+      },
+      "artists": [
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Capeesh",
+      "url": "https://open.spotify.com/track/549Uwe3SteMyDEwysQyeEX"
     },
     {
       "added_at": "2026-01-29 23:01:22",
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2026-01-29 23:01:22",
       "album": {
-        "name": "Il Battesimo (feat. Inoki)",
-        "url": "https://open.spotify.com/album/3JblzSFeepGWBtXHyL81fs"
-      },
-      "artists": [
-        {
-          "name": "Kres",
-          "url": "https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 147357,
-      "name": "Il Battesimo (feat. Inoki)",
-      "url": "https://open.spotify.com/track/1uH3J5qTcl28NtgQnJS0EN"
-    },
-    {
-      "added_at": "2026-01-29 23:01:22",
-      "album": {
         "name": "Fuoco Sacro",
         "url": "https://open.spotify.com/album/4gCsyBvpyCGQ0ScO6eHXUD"
       },
@@ -2123,6 +2103,26 @@
       "duration_ms": 193122,
       "name": "Quante Notti (feat. Franco126)",
       "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
+    },
+    {
+      "added_at": "2026-01-29 23:01:22",
+      "album": {
+        "name": "Il Battesimo (feat. Inoki)",
+        "url": "https://open.spotify.com/album/3JblzSFeepGWBtXHyL81fs"
+      },
+      "artists": [
+        {
+          "name": "Kres",
+          "url": "https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 147357,
+      "name": "Il Battesimo (feat. Inoki)",
+      "url": "https://open.spotify.com/track/1uH3J5qTcl28NtgQnJS0EN"
     },
     {
       "added_at": "2026-01-29 23:01:22",
@@ -2203,6 +2203,26 @@
     {
       "added_at": "2026-01-29 23:01:22",
       "album": {
+        "name": "SOLO POLLO 2",
+        "url": "https://open.spotify.com/album/66pHoQZyIq67rkuEZQxi10"
+      },
+      "artists": [
+        {
+          "name": "Giovane Feddini",
+          "url": "https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u"
+        },
+        {
+          "name": "Drimer",
+          "url": "https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "SOLO POLLO 2",
+      "url": "https://open.spotify.com/track/2d3nv5bAE7385kdTtVr2b8"
+    },
+    {
+      "added_at": "2026-01-29 23:01:22",
+      "album": {
         "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
         "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
       },
@@ -2263,26 +2283,6 @@
     {
       "added_at": "2026-01-29 23:01:22",
       "album": {
-        "name": "SOLO POLLO 2",
-        "url": "https://open.spotify.com/album/66pHoQZyIq67rkuEZQxi10"
-      },
-      "artists": [
-        {
-          "name": "Giovane Feddini",
-          "url": "https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u"
-        },
-        {
-          "name": "Drimer",
-          "url": "https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u"
-        }
-      ],
-      "duration_ms": 196080,
-      "name": "SOLO POLLO 2",
-      "url": "https://open.spotify.com/track/2d3nv5bAE7385kdTtVr2b8"
-    },
-    {
-      "added_at": "2026-01-29 23:01:22",
-      "album": {
         "name": "Teoria Del Contrario Mixtape, Vol. 3",
         "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
       },
@@ -2335,6 +2335,34 @@
     {
       "added_at": "2026-01-29 23:01:22",
       "album": {
+        "name": "J.T.V.",
+        "url": "https://open.spotify.com/album/5aLQOr41NWjwzXQ2rmT8mK"
+      },
+      "artists": [
+        {
+          "name": "Antonovvi",
+          "url": "https://open.spotify.com/artist/5SshEJRVNV8Ej47WWTD1DF"
+        },
+        {
+          "name": "Tusco",
+          "url": "https://open.spotify.com/artist/05CwufDEj0CYA4grRjTXLd"
+        },
+        {
+          "name": "Blo/B",
+          "url": "https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH"
+        },
+        {
+          "name": "Erma",
+          "url": "https://open.spotify.com/artist/5Yw5neICxJeJ6Czmz54fCo"
+        }
+      ],
+      "duration_ms": 210009,
+      "name": "J.T.V.",
+      "url": "https://open.spotify.com/track/4WPRYGxGEB55aRpwKCmusB"
+    },
+    {
+      "added_at": "2026-01-29 23:01:22",
+      "album": {
         "name": "Training Day",
         "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
       },
@@ -2351,30 +2379,6 @@
       "duration_ms": 96741,
       "name": "Training Day",
       "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
-    },
-    {
-      "added_at": "2026-01-29 23:01:22",
-      "album": {
-        "name": "IncrEdible Freestyle, Pt. III",
-        "url": "https://open.spotify.com/album/7CsUSjNzWJBwzh6LN7rcrT"
-      },
-      "artists": [
-        {
-          "name": "W.edy Wonders",
-          "url": "https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR"
-        },
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        }
-      ],
-      "duration_ms": 85500,
-      "name": "IncrEdible Freestyle, Pt. III",
-      "url": "https://open.spotify.com/track/7jOOYmUaBGw6ukA3KLaOhl"
     },
     {
       "added_at": "2026-01-29 23:01:22",
@@ -2411,6 +2415,30 @@
     {
       "added_at": "2026-01-29 23:01:22",
       "album": {
+        "name": "IncrEdible Freestyle, Pt. III",
+        "url": "https://open.spotify.com/album/7CsUSjNzWJBwzh6LN7rcrT"
+      },
+      "artists": [
+        {
+          "name": "W.edy Wonders",
+          "url": "https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR"
+        },
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        }
+      ],
+      "duration_ms": 85500,
+      "name": "IncrEdible Freestyle, Pt. III",
+      "url": "https://open.spotify.com/track/7jOOYmUaBGw6ukA3KLaOhl"
+    },
+    {
+      "added_at": "2026-01-29 23:01:22",
+      "album": {
         "name": "L'unica amica leale",
         "url": "https://open.spotify.com/album/6PPtwMJbPw606PzQnPhQU8"
       },
@@ -2443,30 +2471,18 @@
     {
       "added_at": "2026-01-29 23:01:22",
       "album": {
-        "name": "J.T.V.",
-        "url": "https://open.spotify.com/album/5aLQOr41NWjwzXQ2rmT8mK"
+        "name": "Disco Inverno",
+        "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
       },
       "artists": [
         {
-          "name": "Antonovvi",
-          "url": "https://open.spotify.com/artist/5SshEJRVNV8Ej47WWTD1DF"
-        },
-        {
-          "name": "Tusco",
-          "url": "https://open.spotify.com/artist/05CwufDEj0CYA4grRjTXLd"
-        },
-        {
-          "name": "Blo/B",
-          "url": "https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH"
-        },
-        {
-          "name": "Erma",
-          "url": "https://open.spotify.com/artist/5Yw5neICxJeJ6Czmz54fCo"
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
         }
       ],
-      "duration_ms": 210009,
-      "name": "J.T.V.",
-      "url": "https://open.spotify.com/track/4WPRYGxGEB55aRpwKCmusB"
+      "duration_ms": 189346,
+      "name": "Aeroplani",
+      "url": "https://open.spotify.com/track/5NsgyJVNfyKaMhOMGZQmGM"
     },
     {
       "added_at": "2026-01-29 23:01:22",
@@ -2483,22 +2499,6 @@
       "duration_ms": 229560,
       "name": "Parole",
       "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
-    },
-    {
-      "added_at": "2026-01-29 23:01:22",
-      "album": {
-        "name": "Disco Inverno",
-        "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
-      },
-      "artists": [
-        {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Aeroplani",
-      "url": "https://open.spotify.com/track/5NsgyJVNfyKaMhOMGZQmGM"
     },
     {
       "added_at": "2026-01-29 23:01:22",
@@ -3015,22 +3015,30 @@
     {
       "added_at": "2026-01-29 23:01:22",
       "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/3XCnmBLMNHEJZ7YHv9PuUK"
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr"
       },
       "artists": [
         {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+          "name": "Joelz",
+          "url": "https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT"
         },
         {
-          "name": "Big Joe",
-          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
+          "name": "Dave_Zeta",
+          "url": "https://open.spotify.com/artist/0tPpkbhOIaxzijxT4EkJJM"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        },
+        {
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
         }
       ],
-      "duration_ms": 148334,
-      "name": "WILD",
-      "url": "https://open.spotify.com/track/47m0BEZRvD0fAPMqe87Nxa"
+      "duration_ms": 242758,
+      "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
+      "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
     }
   ],
   "unique_name": "Radici Hip-Hop",

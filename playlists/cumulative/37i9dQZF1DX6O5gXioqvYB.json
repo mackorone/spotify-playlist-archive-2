@@ -9977,8 +9977,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "EX",
+        "url": "https://open.spotify.com/album/1gYLYLWky4NM9Gfx3sNWQT"
       },
       "artists": [
         {
@@ -21847,6 +21847,28 @@
     },
     {
       "album": {
+        "name": "Dream Life",
+        "url": "https://open.spotify.com/album/39X15SMr1uG8aCugIqiHpM"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        },
+        {
+          "name": "Fenne Kuppens",
+          "url": "https://open.spotify.com/artist/60iEGApcgcq0nTdHVFptU3"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257023,
+      "name": "Some Days",
+      "url": "https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W"
+    },
+    {
+      "album": {
         "name": "Sospesi",
         "url": "https://open.spotify.com/album/5ACWSsRbclv9HU6GVZX15o"
       },
@@ -23366,24 +23388,6 @@
       "duration_ms": 210001,
       "name": "Tra le tue braccia (feat. Cosmo)",
       "url": "https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "date_added": "2026-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W"
     },
     {
       "album": {

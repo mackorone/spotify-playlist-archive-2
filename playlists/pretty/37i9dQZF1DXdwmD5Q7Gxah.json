@@ -1,13 +1,29 @@
 {
-  "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/25-year-end-reflections-from-turnstile?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Check out our Substack here!!!!!!!</a> Cover: Harry Styles \ud83e\udea9",
-  "num_followers": 1185809,
+  "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/25-year-end-reflections-from-turnstile?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">read our Substack here :) </a>  The Mar\u00edas on the cover \ud83e\udee7",
+  "num_followers": 1185771,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAdRZOHqbcBWUaQNPJ51eiY+mSgx",
+  "snapshot_id": "AAAAAH02PyaWZbuNoBGI9/KtF0Ey+ugD",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
     {
       "added_at": "2026-01-23 05:00:30",
       "album": {
@@ -27,22 +43,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "L.U.C.K.Y",
-        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "L.U.C.K.Y",
-      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "2SIDED",
         "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
       },
@@ -57,20 +57,52 @@
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
     },
     {
-      "added_at": "2026-01-09 05:00:42",
+      "added_at": "2026-01-30 05:01:16",
       "album": {
-        "name": "Spinning Rooms",
-        "url": "https://open.spotify.com/album/3XmsRHiqxdZMTvtTfMKilM"
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
       "artists": [
         {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 236619,
-      "name": "Spinning Rooms",
-      "url": "https://open.spotify.com/track/2XJU0TP8vgVBpOfiO2Mpnu"
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+    },
+    {
+      "added_at": "2026-01-30 05:01:16",
+      "album": {
+        "name": "ROCCO / TENTACION",
+        "url": "https://open.spotify.com/album/3rr98x5OTi71bp9NAfHZaS"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 186616,
+      "name": "ROCCO",
+      "url": "https://open.spotify.com/track/1QAulqNUI1RBfBco1PxqXv"
+    },
+    {
+      "added_at": "2026-01-23 05:00:30",
+      "album": {
+        "name": "moving in",
+        "url": "https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 245342,
+      "name": "moving in",
+      "url": "https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY"
     },
     {
       "added_at": "2026-01-09 05:00:42",
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/3f3mRpt6XsijsdVjzrXi7W"
     },
     {
+      "added_at": "2026-01-30 05:01:16",
+      "album": {
+        "name": "5words",
+        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "duration_ms": 317613,
+      "name": "5words",
+      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
+    },
+    {
       "added_at": "2026-01-19 19:36:20",
       "album": {
         "name": "Don't Be Dumb",
@@ -103,6 +151,22 @@
       "duration_ms": 285634,
       "name": "DON'T BE DUMB / TRIP BABY",
       "url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
+    },
+    {
+      "added_at": "2026-01-30 05:01:16",
+      "album": {
+        "name": "The Boy who cried Terrified .",
+        "url": "https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "duration_ms": 160870,
+      "name": "fml .",
+      "url": "https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue"
     },
     {
       "added_at": "2026-01-23 05:00:30",
@@ -121,20 +185,20 @@
       "url": "https://open.spotify.com/track/2ndh30vZhrfL0Zpq8wRbvl"
     },
     {
-      "added_at": "2026-01-23 05:00:30",
+      "added_at": "2026-01-09 05:00:42",
       "album": {
-        "name": "moving in",
-        "url": "https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk"
+        "name": "Spinning Rooms",
+        "url": "https://open.spotify.com/album/3XmsRHiqxdZMTvtTfMKilM"
       },
       "artists": [
         {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
         }
       ],
-      "duration_ms": 245342,
-      "name": "moving in",
-      "url": "https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY"
+      "duration_ms": 236619,
+      "name": "Spinning Rooms",
+      "url": "https://open.spotify.com/track/2XJU0TP8vgVBpOfiO2Mpnu"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -189,6 +253,22 @@
       "url": "https://open.spotify.com/track/58kHTh4O40lBfpVAZNdaAW"
     },
     {
+      "added_at": "2026-01-30 05:01:16",
+      "album": {
+        "name": "In Order",
+        "url": "https://open.spotify.com/album/6OyqqxLZGbqJUOkMvHtEbB"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "overagain",
+      "url": "https://open.spotify.com/track/4bmCEkb0d0zUmPWpQktGqe"
+    },
+    {
       "added_at": "2026-01-05 17:05:04",
       "album": {
         "name": "The Crux",
@@ -203,6 +283,22 @@
       "duration_ms": 205046,
       "name": "Charlie's Garden",
       "url": "https://open.spotify.com/track/4kPfzkWY23WgM902kNAQLn"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Oxis 8",
+        "url": "https://open.spotify.com/album/13YaZjYWXK9tFlLK9VUcIx"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Dogfish",
+      "url": "https://open.spotify.com/track/38G45tr5jBQA1Y7HP5o4x3"
     },
     {
       "added_at": "2025-10-24 04:00:31",
@@ -271,22 +367,6 @@
       "duration_ms": 155404,
       "name": "I'll Take It - Mura Masa's 'Can't Feel A Thing' Edit",
       "url": "https://open.spotify.com/track/1v3c7CaFHEPLRS2VCsewsC"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
-        "name": "Oxis 8",
-        "url": "https://open.spotify.com/album/13YaZjYWXK9tFlLK9VUcIx"
-      },
-      "artists": [
-        {
-          "name": "Oxis",
-          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Dogfish",
-      "url": "https://open.spotify.com/track/38G45tr5jBQA1Y7HP5o4x3"
     },
     {
       "added_at": "2026-01-20 16:07:21",
@@ -3089,22 +3169,6 @@
       "url": "https://open.spotify.com/track/033qWC3y06qRnxnNdF66uX"
     },
     {
-      "added_at": "2025-05-20 16:42:33",
-      "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 246761,
-      "name": "Summer Sweat",
-      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
-    },
-    {
       "added_at": "2025-06-06 04:00:31",
       "album": {
         "name": "Crying Over Nothing",
@@ -3119,22 +3183,6 @@
       "duration_ms": 195394,
       "name": "Crying Over Nothing",
       "url": "https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx"
-    },
-    {
-      "added_at": "2025-05-09 04:00:06",
-      "album": {
-        "name": "I'll Be Waving As You Drive Away",
-        "url": "https://open.spotify.com/album/3islc6nu9fYSGhJzt9mliD"
-      },
-      "artists": [
-        {
-          "name": "Hayden Pedigo",
-          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "I'll Be Waving As You Drive Away",
-      "url": "https://open.spotify.com/track/1rzowMemRF7dpGPsEWVlRu"
     },
     {
       "added_at": "2025-05-22 19:27:26",
@@ -3187,54 +3235,6 @@
       "duration_ms": 143500,
       "name": "Emo Regulation",
       "url": "https://open.spotify.com/track/4PjdsrYAb9CWjbtT9RUwi3"
-    },
-    {
-      "added_at": "2025-02-14 05:00:17",
-      "album": {
-        "name": "Lovers Only",
-        "url": "https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 219099,
-      "name": "Lovers Only",
-      "url": "https://open.spotify.com/track/5El7hefZel9jzdjnoBUrUJ"
-    },
-    {
-      "added_at": "2025-05-09 04:00:06",
-      "album": {
-        "name": "Equus Caballus",
-        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Carried Away",
-      "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
-    },
-    {
-      "added_at": "2025-05-09 04:00:06",
-      "album": {
-        "name": "MiCHOU's DREAM",
-        "url": "https://open.spotify.com/album/3RZGNX7jhnxeZTw5JHLaWf"
-      },
-      "artists": [
-        {
-          "name": "Anna Justen",
-          "url": "https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7"
-        }
-      ],
-      "duration_ms": 182166,
-      "name": "shadow",
-      "url": "https://open.spotify.com/track/6BWWtayzzwqgdNgvyPuaWi"
     },
     {
       "added_at": "2025-04-25 14:40:29",

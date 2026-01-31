@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: ArumtaLa",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jundy Salut",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 325250,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/3J0xvBAilIc8RbeNRcTIOj"
@@ -5530,6 +5530,24 @@
       "duration_ms": 179239,
       "name": "Time",
       "url": "https://open.spotify.com/track/2uNW6w5uHdgUktt8vFz0Pq"
+    },
+    {
+      "album": {
+        "name": "Trading Path",
+        "url": "https://open.spotify.com/album/0v6cEGxY0Skz5RPtX6OkeX"
+      },
+      "artists": [
+        {
+          "name": "Jundy Salut",
+          "url": "https://open.spotify.com/artist/630LcUjYXp9RxxvnU9fUkP"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432718,
+      "name": "Trading Path",
+      "url": "https://open.spotify.com/track/3bQ1hA2fflw6mXm84QiIY8"
     },
     {
       "album": {

@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 283250,
       "name": "Feel The Groove",
       "url": "https://open.spotify.com/track/0wjJfVH7DCVSeOXxkpFNNE"
@@ -6300,6 +6300,28 @@
       "duration_ms": 245286,
       "name": "Try Again - Single Edit",
       "url": "https://open.spotify.com/track/1V3roFh4ZJRPIJekw9Y78R"
+    },
+    {
+      "album": {
+        "name": "Tune It Out",
+        "url": "https://open.spotify.com/album/3vSu7BXiZ0jpBFZXPQQhIM"
+      },
+      "artists": [
+        {
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+        },
+        {
+          "name": "The Phenomenal Handclap Band",
+          "url": "https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237932,
+      "name": "Tune It Out",
+      "url": "https://open.spotify.com/track/2xzJKMMD4dzH9NhHcr2mk0"
     },
     {
       "album": {

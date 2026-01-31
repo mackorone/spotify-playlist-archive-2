@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 237112,
       "name": "El Due\u00f1o Del Palenque - En Vivo",
       "url": "https://open.spotify.com/track/0IEvJjweMTgzZwmtAmKmNN"
@@ -1522,6 +1522,24 @@
       "duration_ms": 177440,
       "name": "Impala Tumbado",
       "url": "https://open.spotify.com/track/3ufuq63rR9b6vVDoCWuIkd"
+    },
+    {
+      "album": {
+        "name": "Fiesta Privada Desde El 602 (En Vivo)",
+        "url": "https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46418,
+      "name": "Intro - En Vivo",
+      "url": "https://open.spotify.com/track/0oIJMtVil8q5xCVmLfzTXa"
     },
     {
       "album": {

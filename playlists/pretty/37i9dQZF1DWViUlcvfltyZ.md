@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Lovvbömbing! in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,152 likes - 105 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,147 likes - 105 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 4 | [New Life \(Berto\)](https://open.spotify.com/track/6wpb0WWJFei3wDIulhtEJI) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [New Life \(Berto\)](https://open.spotify.com/album/63HCBKGFMUoo8qT2um3Og6) | 2:51 |
 | 5 | [i see big changes](https://open.spotify.com/track/6Q93EHUI6mdVSbYrAXzclZ) | [Evita Polidoro](https://open.spotify.com/artist/6lT4Zkd7Ade51RwbRsONaX), [Lee Ranaldo](https://open.spotify.com/artist/4tXPSo0qk91VMP3wFxL0Fo) | [comelecosechenonvogliofare + i see big changes](https://open.spotify.com/album/5Q9jGY9paif2vzZBIJPTxn) | 2:53 |
 | 6 | [Daydreaming](https://open.spotify.com/track/7o3F7Q0AHlWZdrjpmsUg6P) | [Motel Cecil](https://open.spotify.com/artist/5AaaaiuLFShXMWKTw0KpSL) | [Daydreaming](https://open.spotify.com/album/6pGxD33snYWGuKhNgWeuH5) | 2:25 |
-| 7 | [Track 9](https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [Some Days](https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh), [Fenne Kuppens](https://open.spotify.com/artist/60iEGApcgcq0nTdHVFptU3) | [Dream Life](https://open.spotify.com/album/39X15SMr1uG8aCugIqiHpM) | 4:17 |
 | 8 | [Tornado](https://open.spotify.com/track/2UdcbdDZQrQclwJTblATFa) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Anime Storte](https://open.spotify.com/album/4O8zCrvouHUXmHLoRUNZAo) | 3:29 |
 | 9 | [a minute a moment](https://open.spotify.com/track/5lKxgT7JyS3nqVVrypMonw) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/5E6aswcc0puXAQvvGuzOtp) | 3:23 |
 | 10 | [Favola](https://open.spotify.com/track/4hibXjoxoVQueVeBY3b3NU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Favola](https://open.spotify.com/album/00JtOxPVWh6DtrBYUIZeT8) | 2:37 |

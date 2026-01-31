@@ -4,7 +4,7 @@
 
 > It's giving those vibes\. Cover: Yxng Le
 
-224 songs - 10 hr 16 min
+225 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 | 2025-11-20 |  |
 | [Birthday](https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Birthday](https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d) | 2:35 | 2026-01-29 |  |
 | [Blijf Bij Mij](https://open.spotify.com/track/3eXXBkkrs33qvJXwUHhWxS) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Blijf Bij Mij](https://open.spotify.com/album/3JkJkk6APasjry357DLx7V) | 2:32 | 2025-10-28 | 2026-01-30 |
+| [Body](https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:35 | 2026-01-30 |  |
 | [Body to Body \(feat\. Aliyah\)](https://open.spotify.com/track/03XFK4TL9OcA25mGgRMK22) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Aliyah](https://open.spotify.com/artist/7E7VmEW6CxpkGNipjVQywD), [DjangoBeats](https://open.spotify.com/artist/5S8jlJz9AU8D2LYdfjSNOi) | [Body To Body](https://open.spotify.com/album/6LjmNnW5fdJC5yU88DnAiH) | 2:48 | 2025-07-17 | 2025-08-05 |
 | [BOSS UP](https://open.spotify.com/track/458u353fkPaERY2SoOGPl3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BOSS UP](https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn) | 2:31 | 2025-10-28 |  |
 | [Broken Heart](https://open.spotify.com/track/2MpKxOCS3Axuw1pWGpg6Z1) | [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB) | [Eigenwijs](https://open.spotify.com/album/5UaXfutr3ym7TSyWfozVgd) | 3:15 | 2025-07-17 | 2025-10-31 |
@@ -122,7 +123,7 @@
 | [Love & Beef](https://open.spotify.com/track/05V7EyXgiMRL2CGztYZBFF) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [Red Rose Romance](https://open.spotify.com/album/5HMPz9vHbmthIDKiVXdSsO) | 3:13 | 2025-07-17 | 2025-12-19 |
 | [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 | 2025-07-17 | 2025-11-15 |
 | [Lovin Lovin](https://open.spotify.com/track/6jUijp6Ic3AyRBSV2CaWOt) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Lovin Lovin](https://open.spotify.com/album/4DOZs3ELHMAqof1ho2LG4O) | 2:15 | 2025-10-30 |  |
-| [Low](https://open.spotify.com/track/4M5SBrPQQrSImtg1PCxEe0) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [CiCi \(Deluxe\)](https://open.spotify.com/album/6Ty7FKJeL2TyYDccUl9JyC) | 3:30 | 2025-08-28 |  |
+| [Low](https://open.spotify.com/track/4M5SBrPQQrSImtg1PCxEe0) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [CiCi \(Deluxe\)](https://open.spotify.com/album/6Ty7FKJeL2TyYDccUl9JyC) | 3:30 | 2025-08-28 | 2026-01-31 |
 | [Maakt Niet Uit](https://open.spotify.com/track/6sohUthl8KzZa1eifBUH47) | [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Gini](https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN) | [Maakt Niet Uit](https://open.spotify.com/album/7KV9GlA3vEoWT4SrV9FZgi) | 2:18 | 2026-01-29 |  |
 | [Make U Mine](https://open.spotify.com/track/1s45mIvFaG0Ba3LuwxIll5) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Make U Mine](https://open.spotify.com/album/2ofvnah4cdhDkIQvDgBEgz) | 2:13 | 2025-07-17 | 2026-01-23 |
 | [Manipulatie](https://open.spotify.com/track/6zV4NmnsRaXyhYzsQEwAGA) | [Suzet Lichel](https://open.spotify.com/artist/5RFg8in8qWOJ0MpTxeG1hW), [Ais](https://open.spotify.com/artist/5ITcpkjwtPSftZ1CzGTMFm), [Ds19](https://open.spotify.com/artist/5xxoHs0vedMntAhEaMLt4e) | [Manipulatie](https://open.spotify.com/album/2FkemzTo3lHamOALV14vPk) | 2:10 | 2025-07-17 | 2025-09-05 |

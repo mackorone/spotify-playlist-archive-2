@@ -4,7 +4,7 @@
 
 > 📸 La Joaqui
 
-298 songs - 13 hr 36 min
+299 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Mi Nena Facebook \- Remix](https://open.spotify.com/track/1SoKoPOWHJDUn8uw2AdKzL) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Luam](https://open.spotify.com/artist/0p5lNivYQ06xMqR6wN4GI3) | [Mi Nena Facebook \(Remix\)](https://open.spotify.com/album/1PUqSLjwp0KQsI4e9QtSKS) | 2:46 | 2024-08-02 |  |
 | [Mi santo \- A COLORS SHOW](https://open.spotify.com/track/6rKOEyg05nKSRRErDmBWjy) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Mi santo \- A COLORS SHOW](https://open.spotify.com/album/4HAviQUTdLO4jUFXmYgegX) | 2:13 | 2024-08-30 |  |
 | [Momento Justo](https://open.spotify.com/track/13M9BE3mO75dJ7qo18e2oP) | [Luz Eluney](https://open.spotify.com/artist/4BnDpIPclX4yzei6j1C1Dr) | [Momento Justo](https://open.spotify.com/album/7EnBZu1YNoHOz4bOA8I0M7) | 2:02 | 2025-05-30 | 2025-09-20 |
+| [MONOBLOCK](https://open.spotify.com/track/4P5gQPkLP15FZEZ0gHHM4l) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [MONOBLOCK](https://open.spotify.com/album/3zQ2R9T4fK8wv2AHAqsLW1) | 2:06 | 2026-01-30 |  |
 | [Mueve los Cachetes](https://open.spotify.com/track/4up6VDTUFiHNkwYC7MLVj3) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Mueve los Cachetes](https://open.spotify.com/album/0nvSc0w1MQtzvfoTOApU9M) | 3:23 | 2024-04-19 | 2024-07-27 |
 | [Muevelo Mami \- Remix](https://open.spotify.com/track/73itkW7DQhxIvUTYzddQPY) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [QuixSmell](https://open.spotify.com/artist/0MrBxgZbiw0uUO3NUqWFKp) | [Muevelo Mami \(Remix\)](https://open.spotify.com/album/6hmkDW3u5cUYmZWlGY5K9a) | 3:43 | 2024-01-19 | 2024-05-03 |
 | [Mujeres Solteras](https://open.spotify.com/track/4cBH6zRhKisaqlnGQKs8aD) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mujeres Solteras](https://open.spotify.com/album/2PYydyybGTqdno9Mk1apmS) | 1:35 | 2024-07-12 | 2024-10-26 |

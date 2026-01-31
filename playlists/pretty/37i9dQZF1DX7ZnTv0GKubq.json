@@ -1,6 +1,6 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 373300,
+  "num_followers": 373298,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-04-10 23:00:09",
       "album": {
-        "name": "Get Close",
-        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 171218,
-      "name": "Get Close",
-      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
-    },
-    {
-      "added_at": "2025-04-10 23:00:09",
-      "album": {
         "name": "The Yussef Dayes Experience Live at Joshua Tree (Presented by Soulection)",
         "url": "https://open.spotify.com/album/2LrvbyF11d4ZlI1UAnLbEC"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 227435,
       "name": "Mystics (feat. Venna) - Live at Joshua Tree",
       "url": "https://open.spotify.com/track/1pemIyUJIPDQ2fWciNrh6z"
+    },
+    {
+      "added_at": "2025-04-10 23:00:09",
+      "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 171218,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
     },
     {
       "added_at": "2025-04-10 23:00:09",

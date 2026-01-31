@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Turbulent
 
-1,609 songs - 3 day 19 hr 0 min
+1,610 songs - 3 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [overthinking](https://open.spotify.com/track/1jCbIFQyPDiJ1cW2LBSxUx) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [overthinking](https://open.spotify.com/album/0MrwbhIr37SlyUDMw3ly8m) | 3:22 | 2022-05-26 | 2022-09-09 |
 | [PAB](https://open.spotify.com/track/0bWzyxVwe25UUqNhRZaKE0) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [PAB](https://open.spotify.com/album/2PGUJJVZuuPKxdHL1RzMxF) | 2:48 | 2025-10-02 |  |
 | [Pacific Ocean 太平洋](https://open.spotify.com/track/2Sszm6AzRIs1tDLJFpHk7u) | [Big Spoon](https://open.spotify.com/artist/4O4oSMu51Qqcd2YR2MTMNz) | [Pacific Ocean 太平洋](https://open.spotify.com/album/3Zh1ixYqJvCVbmoKr48Pue) | 2:53 | 2025-06-19 | 2025-11-21 |
+| [Pandora's Box](https://open.spotify.com/track/3XsfXT3LPFxbX0y1IOj06N) | [Oatmilk Fan](https://open.spotify.com/artist/6sQkF5EAcNhM4aBh1zCRSF) | [Pandora's Box](https://open.spotify.com/album/18mEhuXOgTnx1VGH7Uk3Rb) | 4:34 | 2026-01-29 |  |
 | [paper love](https://open.spotify.com/track/0sa48wOE7TieaeNNnc6iMB) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [paper love](https://open.spotify.com/album/5x3RRytmYQQQE8eZ5kpRUD) | 4:21 | 2025-05-01 | 2025-11-21 |
 | [PARADIGM](https://open.spotify.com/track/6oDWFKFA0XZGCc5fm8te31) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [PARADIGM](https://open.spotify.com/album/6qTkzqGS5T1oeoqWcuKQGQ) | 3:15 | 2024-10-03 | 2025-02-14 |
 | [PARADISE](https://open.spotify.com/track/5NBzpWjFUPKR3N4kwLA0BA) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [PARADISE](https://open.spotify.com/album/5jwCdHBaMOcfTgGYBuEwYF) | 4:28 | 2025-11-20 |  |

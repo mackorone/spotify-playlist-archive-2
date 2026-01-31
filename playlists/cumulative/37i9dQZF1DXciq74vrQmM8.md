@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. girli
+> welcome to our universe ft\. COUCOU CHLOE
 
-1,247 songs - 2 day 13 hr 28 min
+1,249 songs - 2 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 | 2024-12-13 | 2025-03-07 |
 | [HURRICANE](https://open.spotify.com/track/49GAjso5aSfuMXltW7rEBI) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HURRICANE](https://open.spotify.com/album/2RQvJEIegkkUFtkCyapMwT) | 2:39 | 2024-06-06 | 2024-12-13 |
 | [HUSH](https://open.spotify.com/track/2ZsCDEyhieI5fBgtHlIRGC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [HUSH](https://open.spotify.com/album/6oDFuAJZf16fsLr6y26qsQ) | 2:22 | 2025-06-05 |  |
+| [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 | 2026-01-30 |  |
 | [hush your mouth!](https://open.spotify.com/track/3SmWq8EWHI9c0QF0zQ6Oi5) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [vivid memories of dreams i've never had](https://open.spotify.com/album/6fe2bdJm6B9yScnNf8lj5F) | 2:28 | 2024-03-29 | 2024-07-12 |
 | [HYPEBEAST](https://open.spotify.com/track/7Gdo9s4GIeJerZgrZFUsBH) | [phonewifey](https://open.spotify.com/artist/3UrSRgbnWzDJsDNVFMaDP8), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [HYPEBEAST](https://open.spotify.com/album/2Ta3wnVjB6RBsyFDGJtN1O) | 3:39 | 2023-11-17 | 2024-01-26 |
 | [Hëłlœ Kįttÿ](https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Hëłlœ Kįttÿ](https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf) | 2:46 | 2023-01-27 | 2023-09-01 |
@@ -1164,6 +1165,7 @@
 | [VAMPIRE ROMANCE](https://open.spotify.com/track/5R05CIOlMNGEdbaaPgtxbr) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [TRASHSTARWRLD](https://open.spotify.com/album/4ORIZxxMFJEDMlML5plLNP) | 3:21 | 2023-07-06 | 2023-11-11 |
 | [Vapid Prophecy](https://open.spotify.com/track/50k61EN7BjkLlWyVqqQw6t) | [NEO 10Y](https://open.spotify.com/artist/3G1V2jfTZO61Hs3dX7ilrA) | [Vapid Prophecy](https://open.spotify.com/album/0XVuk4uX8VNlCFbcnMUQ2P) | 2:20 | 2022-02-04 | 2022-03-04 |
 | [Veneno](https://open.spotify.com/track/24L7z0NN7h2Na2Dn5ckdIV) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Veneno](https://open.spotify.com/album/43aKWfRS65Whr7j0tXhUkc) | 2:27 | 2023-05-25 | 2023-06-30 |
+| [VENOM](https://open.spotify.com/track/7M24m8PIrhFBKaoHiHIGJc) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [VENOM](https://open.spotify.com/album/01p1sC68uf1AFy0XyTjuVI) | 2:43 | 2026-01-30 |  |
 | [venom](https://open.spotify.com/track/2sDX7racfnjrWXJLqBLpCn) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [Spent](https://open.spotify.com/artist/4D5DohcRoNQVTWDKb08Iy6) | [venom](https://open.spotify.com/album/77YsFlEg2yaw0qZTSrsPoH) | 3:02 | 2023-02-24 | 2024-03-09 |
 | [Venom](https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Venom](https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP) | 3:35 | 2023-11-10 | 2024-04-19 |
 | [VIBE COP](https://open.spotify.com/track/10XUaxmDM4GZiCwjOPw47I) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [VIBE COP](https://open.spotify.com/album/3xsEDdXxK10DCUE4z4p1DF) | 2:53 | 2025-10-03 |  |

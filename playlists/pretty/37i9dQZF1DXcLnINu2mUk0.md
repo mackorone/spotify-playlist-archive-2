@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Harold
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,228 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,223 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 66 | [Pa Sempre](https://open.spotify.com/track/2Wa6u5amiftMSpAVKDr3Qp) | [Ne Jah](https://open.spotify.com/artist/4ZVxO3ClFvgb4f7HUD74HL), [Rislene](https://open.spotify.com/artist/2323qzOfGL0pQYXoLdz8PR) | [Pa Sempre](https://open.spotify.com/album/18dGvU6h50URVrpWBrgbkK) | 3:11 |
 | 67 | [Olhar](https://open.spotify.com/track/0FcroTfQvvXDfnEh0KUJfb) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Olhar](https://open.spotify.com/album/2YSlXAnI7ssYmEVpPYm1Cm) | 3:39 |
 | 68 | [Saudade](https://open.spotify.com/track/7oEJbRgRbjx55mojjcNmRs) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D), [kaako](https://open.spotify.com/artist/5Vd82QHqLhP9NG2wDIIWpx) | [Saudade](https://open.spotify.com/album/1mtgjUorJd70MSgv6wbeMr) | 2:35 |
-| 69 | [Chora Por Mim](https://open.spotify.com/track/4tNz8DErS1kwpYUqsW7kMv) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Chora Por Mim](https://open.spotify.com/album/5oxGgr4xYmSNIp1CYZAnJX) | 3:30 |
-| 70 | [Eternamente](https://open.spotify.com/track/6JHNHK8t0dYMhgKuw45pzL) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Ontem, Hoje e Para Sempre](https://open.spotify.com/album/2D88HCLSxFHKChO48qihfv) | 3:44 |
+| 69 | [Eternamente](https://open.spotify.com/track/6JHNHK8t0dYMhgKuw45pzL) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Ontem, Hoje e Para Sempre](https://open.spotify.com/album/2D88HCLSxFHKChO48qihfv) | 3:44 |
+| 70 | [Chora Por Mim](https://open.spotify.com/track/4tNz8DErS1kwpYUqsW7kMv) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Chora Por Mim](https://open.spotify.com/album/5oxGgr4xYmSNIp1CYZAnJX) | 3:30 |
 | 71 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 |
 | 72 | [longe.com](https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [longe.com](https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA) | 3:17 |
 | 73 | [SÓ QUERO VIVER](https://open.spotify.com/track/7nDslFhczcb3OtifwIPNCC) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Criss Calisto](https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX) | [SÓ QUERO VIVER](https://open.spotify.com/album/5MXDOITYtd2842neVb5IS5) | 2:42 |

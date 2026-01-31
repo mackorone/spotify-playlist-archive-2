@@ -4,7 +4,7 @@
 
 > For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
-245 songs - 12 hr 33 min
+247 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Sleep, Little Child](https://open.spotify.com/track/4kwK5Bf7ZCFiovd8IBMMaR) | [Larry Groce](https://open.spotify.com/artist/2z9Y52xPb933l5cs0GNvnc) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 2:18 | 2022-05-23 |  |
 | [So Close](https://open.spotify.com/track/78AXcNfPl3rdNF1jZFW8W4) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Winter Songs](https://open.spotify.com/album/5mfmSSVrt4BOZScMKLROKd) | 2:29 | 2024-12-12 |  |
 | [So Close](https://open.spotify.com/track/6xzI65ujC9oFXr7jtYudZu) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Serenity](https://open.spotify.com/album/5y3dlSPOy0X6TG6iGQDs3e) | 3:27 | 2022-04-15 |  |
+| [So Close](https://open.spotify.com/track/2K0KxRYpWEP746PoHXgd9r) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Strings: Enchanted](https://open.spotify.com/album/4DaP0EiSR4ARb3c808jR3A) | 3:41 | 2026-01-30 |  |
 | [So This Is Love](https://open.spotify.com/track/7nzCeSlzWIsZh1B8pzFOhs) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Love](https://open.spotify.com/album/0cDO2axPuP9qdavq42rMug) | 2:29 | 2022-04-15 |  |
 | [Some Day My Prince Will Come](https://open.spotify.com/track/53Tfvtz3yKpKSevEiC77wu) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Serenity](https://open.spotify.com/album/6yR9o27G8Cnxu8BLrOyKsN) | 2:51 | 2022-04-15 |  |
 | [Someday](https://open.spotify.com/track/2Gp4snGHYn6rx4ivMrsvPy) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Tranquility](https://open.spotify.com/album/1IcgiPVFTOe5B2ICMzNwuT) | 3:20 | 2022-04-15 |  |
@@ -237,6 +238,7 @@
 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 | 2023-01-20 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/6F0zuV20MJqisv13pcGjFZ) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Dream](https://open.spotify.com/album/6KvAEqxeFDVxFkCvE8gw0C) | 2:09 | 2022-04-15 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/3PaDJuJpMegwoZXFyQEt6C) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Dream](https://open.spotify.com/album/4QQfRSjWLXoxxVGtqc8HUR) | 3:20 | 2022-04-15 |  |
+| [When You Wish Upon a Star](https://open.spotify.com/track/5AOZdnA2vATY1v7p5ycwq4) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Strings: Enchanted](https://open.spotify.com/album/4DaP0EiSR4ARb3c808jR3A) | 1:54 | 2026-01-30 |  |
 | [Wherever the Trail May Lead](https://open.spotify.com/track/5uMtYRyqukpjLh24dKWoHP) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Break Time](https://open.spotify.com/album/4DpqYlREaLzHRJ8nuzKh4O) | 3:43 | 2022-04-15 |  |
 | [Winnie the Pooh](https://open.spotify.com/track/2zTgMGTCnBXF4HX9Jktb6x) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Fall Songs](https://open.spotify.com/album/4Qg3W6O6ljPzlibXwTyZ5y) | 2:24 | 2025-09-10 |  |
 | [Winnie the Pooh](https://open.spotify.com/track/7gKHQy915DlMWd1xuF11BO) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Lullaby](https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS) | 2:54 | 2023-01-20 |  |

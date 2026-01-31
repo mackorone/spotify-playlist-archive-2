@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1 Mile From Heaven",
+        "url": "https://open.spotify.com/album/2mOWMR3alIP6kyzxcThPRv"
+      },
+      "artists": [
+        {
+          "name": "Calvin Love",
+          "url": "https://open.spotify.com/artist/4BGm5j3zsc5NU2BM1ihlA4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301787,
+      "name": "1 Mile From Heaven",
+      "url": "https://open.spotify.com/track/1j8hIIPFy1YM3FoBMAxihE"
+    },
+    {
+      "album": {
         "name": "Yellow Peril",
         "url": "https://open.spotify.com/album/1oZfzj1CP6GqTps0pMqBPV"
       },
@@ -226,6 +244,24 @@
       "duration_ms": 163200,
       "name": "Annie",
       "url": "https://open.spotify.com/track/7K2EWRO4uSjf5ASVy2q5em"
+    },
+    {
+      "album": {
+        "name": "MotherDaughterSisterWife (Deluxe)",
+        "url": "https://open.spotify.com/album/6xshIcaU4b79jpfKDn3oZ8"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Another Lover",
+      "url": "https://open.spotify.com/track/5TEtzXMkdHMdjCN1okOwct"
     },
     {
       "album": {
@@ -701,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Breakheart Canyon",
+        "url": "https://open.spotify.com/album/0SZRM7EX4WHAHiMdIg5NNh"
+      },
+      "artists": [
+        {
+          "name": "Rachael Wolff",
+          "url": "https://open.spotify.com/artist/6k6yjI9T64HcQIWzWhMQ8S"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201855,
+      "name": "Breakheart Canyon",
+      "url": "https://open.spotify.com/track/6yuESqz63ojBvB7EVDEqTG"
+    },
+    {
+      "album": {
         "name": "Stuff",
         "url": "https://open.spotify.com/album/2SJPQALhEB9HuiFs5pIlMl"
       },
@@ -964,7 +1018,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 160000,
       "name": "Deland",
       "url": "https://open.spotify.com/track/2ogQbcBM3mlIAWsgAfkxdI"
@@ -1414,7 +1468,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 234526,
       "name": "Frame It",
       "url": "https://open.spotify.com/track/1ans3xmz7CPzZb9e3PJbGK"
@@ -1894,7 +1948,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 189735,
       "name": "Got A Heart Like Rainwater Blues",
       "url": "https://open.spotify.com/track/1SGViBicYWKFWnbChISUeq"
@@ -3424,7 +3478,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 202863,
       "name": "MotherDaughterSisterWife",
       "url": "https://open.spotify.com/track/3DC4W4ci66hEfWq9TJnd3M"
@@ -3572,6 +3626,24 @@
       "duration_ms": 293053,
       "name": "Nobody Has To Know Your Mind",
       "url": "https://open.spotify.com/track/6S9v6Dn7CQJTmYIUAi8aWy"
+    },
+    {
+      "album": {
+        "name": "Normal Man",
+        "url": "https://open.spotify.com/album/1Zev3Kk02xxQDe5opXZKaI"
+      },
+      "artists": [
+        {
+          "name": "Will Slater",
+          "url": "https://open.spotify.com/artist/1yxkDgfBfLB58FnsUUexpD"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253561,
+      "name": "Normal Man",
+      "url": "https://open.spotify.com/track/6G9FbzVLpaO11tdbF695bw"
     },
     {
       "album": {
@@ -5598,6 +5670,28 @@
       "duration_ms": 197341,
       "name": "When Night Falls",
       "url": "https://open.spotify.com/track/48pDdyxmu072Bh7eiQDbNi"
+    },
+    {
+      "album": {
+        "name": "When the Heart Wants",
+        "url": "https://open.spotify.com/album/4iOT5jTobtnAakigkV61Ww"
+      },
+      "artists": [
+        {
+          "name": "Abigail Rose",
+          "url": "https://open.spotify.com/artist/2CraSvnAIaUnmEaNEVBwYd"
+        },
+        {
+          "name": "Weston Hunter",
+          "url": "https://open.spotify.com/artist/2LlrTkoqkuyqzbO9C7DttQ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212507,
+      "name": "When the Heart Wants",
+      "url": "https://open.spotify.com/track/24muAdSH00NkQx1XDkTtQj"
     },
     {
       "album": {

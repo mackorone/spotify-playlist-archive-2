@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 745036,
+  "num_followers": 745043,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 196648,
+      "name": "Oitava Dose - Ao Vivo",
+      "url": "https://open.spotify.com/track/7kbnk6wMnavcDyIIWDZTxl"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
         "name": "A For\u00e7a do Nosso Som Continua (Ao Vivo)",
         "url": "https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 182861,
       "name": "Teu Segredo - Ao Vivo",
       "url": "https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 196648,
-      "name": "Oitava Dose - Ao Vivo",
-      "url": "https://open.spotify.com/track/7kbnk6wMnavcDyIIWDZTxl"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -899,26 +899,18 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Misturadin (Ao Vivo)",
-        "url": "https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4"
+        "name": "Escreve A\u00ed - Single",
+        "url": "https://open.spotify.com/album/5zMgp9wuJrFIFqSM3bgFQ5"
       },
       "artists": [
         {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "Chrigor",
-          "url": "https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 360269,
-      "name": "Desliga e Vem / Gamei / Gandaia (feat. P\u00e9ricles & Chrigor) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2uRwpWT3PmIFQRvqx3LPkN"
+      "duration_ms": 238275,
+      "name": "Escreve A\u00ed",
+      "url": "https://open.spotify.com/track/3ZKmx9uutwt9eJyn3OeV8l"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -939,18 +931,26 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Escreve A\u00ed - Single",
-        "url": "https://open.spotify.com/album/5zMgp9wuJrFIFqSM3bgFQ5"
+        "name": "Misturadin (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Chrigor",
+          "url": "https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk"
         }
       ],
-      "duration_ms": 238275,
-      "name": "Escreve A\u00ed",
-      "url": "https://open.spotify.com/track/3ZKmx9uutwt9eJyn3OeV8l"
+      "duration_ms": 360269,
+      "name": "Desliga e Vem / Gamei / Gandaia (feat. P\u00e9ricles & Chrigor) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2uRwpWT3PmIFQRvqx3LPkN"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "TunTunTun (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
+        "name": "Romance Desapegado",
+        "url": "https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud"
       },
       "artists": [
         {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+          "name": "Japinha Conde",
+          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
         }
       ],
-      "duration_ms": 186501,
-      "name": "TunTunTun - Spotify Singles",
-      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
+      "duration_ms": 184746,
+      "name": "Romance Desapegado",
+      "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -1075,34 +1075,18 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Romance Desapegado",
-        "url": "https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud"
+        "name": "TunTunTun (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
       },
       "artists": [
         {
-          "name": "Japinha Conde",
-          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
         }
       ],
-      "duration_ms": 184746,
-      "name": "Romance Desapegado",
-      "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
-        "name": "Leonardo 30 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6RBBq7ymzDUHdPfokiHcKz"
-      },
-      "artists": [
-        {
-          "name": "Leonardo",
-          "url": "https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "Liga L\u00e1 em Casa - Ao Vivo",
-      "url": "https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V"
+      "duration_ms": 186501,
+      "name": "TunTunTun - Spotify Singles",
+      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -1119,6 +1103,22 @@
       "duration_ms": 214513,
       "name": "Meu Viol\u00e3o E O Nosso Cachorro - Ao Vivo",
       "url": "https://open.spotify.com/track/2RTkdHBUb5UCg36tcX6C7D"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "Leonardo 30 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6RBBq7ymzDUHdPfokiHcKz"
+      },
+      "artists": [
+        {
+          "name": "Leonardo",
+          "url": "https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR"
+        }
+      ],
+      "duration_ms": 230240,
+      "name": "Liga L\u00e1 em Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V"
     },
     {
       "added_at": "2025-11-07 18:47:10",

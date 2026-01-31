@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Max Styler
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 260,993 likes - 349 songs - 18 hr 20 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 260,981 likes - 349 songs - 18 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 6 | [The Message](https://open.spotify.com/track/4y59XELXr6Ttcpf1BzqVCO) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Franksy](https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi) | [The Message](https://open.spotify.com/album/1Eq8OiHMraZriFRLiVzsx2) | 2:55 |
 | 7 | [Somehow](https://open.spotify.com/track/3IR9ZpCGEfaQN7tyK2uTEk) | [Mojave Grey](https://open.spotify.com/artist/4RHpnWpQb7IkQLmp10YKRI) | [Somehow](https://open.spotify.com/album/0g2jaoIrE1S3FicB6X6ZEv) | 3:38 |
 | 8 | [When It Kicks \- Rebūke Remix](https://open.spotify.com/track/0TIqjf7yGTJ4ehJQb9g2zs) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [When It Kicks \(Rebūke Remix\)](https://open.spotify.com/album/0JcHj3ewcpmNbfYYIdDzAa) | 3:32 |
-| 9 | [Make it Smooth](https://open.spotify.com/track/3B06TeexXHiUanSV8hUMtN) | [AVÖ](https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb), [SHAMI](https://open.spotify.com/artist/2rAiKXow13cY95cAgloF7c) | [Make it Smooth](https://open.spotify.com/album/3b61q9LVnnbhMUQ0ZQlpcR) | 3:12 |
+| 9 | [Make it Smooth](https://open.spotify.com/track/3B06TeexXHiUanSV8hUMtN) | [AVÖ](https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb), [SHAMI \(official\)](https://open.spotify.com/artist/2t4PwQuzZ6t3jgIO8i5dNn) | [Make it Smooth](https://open.spotify.com/album/3b61q9LVnnbhMUQ0ZQlpcR) | 3:12 |
 | 10 | [Everytime \- Benwal Remix](https://open.spotify.com/track/1gna5uhRjnv5S8whkuKuri) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT), [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7), [Benwal](https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl) | [Everytime \(Benwal Remix\)](https://open.spotify.com/album/62pTHtmZRFYDeNmuXHz8MF) | 3:19 |
 | 11 | [Saturday \- Full Intention Mix](https://open.spotify.com/track/1SIcwKdciuqDSqNol4AjUT) | [East 57th St.](https://open.spotify.com/artist/2prsVqfzlZkfJPC0g2xwlR), [Donna Allen](https://open.spotify.com/artist/2MGI96UXRCEwaQGuQzAWfZ), [Full Intention](https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB) | [Saturday](https://open.spotify.com/album/6gySdENtRu66Zk0myCM21x) | 3:53 |
 | 12 | [Call You](https://open.spotify.com/track/4PCwbBc9oCcXPX64qLxffL) | [Beobê](https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK), [Chukku](https://open.spotify.com/artist/7tsGLSY4SLPBUJcw1DwhGa) | [Call You](https://open.spotify.com/album/6dOj9MeRnZe1szT08BuYyo) | 3:51 |

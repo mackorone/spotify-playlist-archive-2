@@ -18243,6 +18243,24 @@
     },
     {
       "album": {
+        "name": "Sentimental Value",
+        "url": "https://open.spotify.com/album/5OoZ2XvZIxa511ZkAmm3cO"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197672,
+      "name": "Riksarkivet",
+      "url": "https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit"
+    },
+    {
+      "album": {
         "name": "Ritz",
         "url": "https://open.spotify.com/album/4wcMLeOkrbpeT2W4TN5V92"
       },
@@ -21582,24 +21600,6 @@
       "duration_ms": 164000,
       "name": "Touching",
       "url": "https://open.spotify.com/track/2oDRWPfp5tJkfYySjRoQV3"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "date_added": "2026-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1511215,
+  "num_followers": 1511157,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 169472,
-      "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "penhasco. (ac\u00fastico)",
         "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 213934,
       "name": "penhasco. - (ac\u00fastico)",
       "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Espera a Primavera (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 254878,
-      "name": "Espera a Primavera - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Faz Assim",
         "url": "https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 221717,
       "name": "Faz Assim",
       "url": "https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Espera a Primavera (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 254878,
+      "name": "Espera a Primavera - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Tudo no Sigilo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr"
-      },
-      "artists": [
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
-        }
-      ],
-      "duration_ms": 169745,
-      "name": "Tudo no Sigilo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Outra Vida",
         "url": "https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 184006,
       "name": "Outra Vida",
       "url": "https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Tudo no Sigilo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr"
+      },
+      "artists": [
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
+        }
+      ],
+      "duration_ms": 169745,
+      "name": "Tudo no Sigilo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F"
     },
     {
       "added_at": "2024-08-02 18:37:00",

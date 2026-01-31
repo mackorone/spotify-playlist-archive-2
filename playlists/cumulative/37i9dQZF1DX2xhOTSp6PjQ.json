@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: Feza",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: Sjava",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -1768,6 +1768,36 @@
       "duration_ms": 363206,
       "name": "Impi Yomndeni",
       "url": "https://open.spotify.com/track/7ag6ASRzcuWXamzvNEXQzL"
+    },
+    {
+      "album": {
+        "name": "iNkanyezi NeZinkanyezi",
+        "url": "https://open.spotify.com/album/3AbrYUidErtcqWHTLiXU00"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Zamoh",
+          "url": "https://open.spotify.com/artist/7lt71LLkOIvqtshTx8tGIH"
+        },
+        {
+          "name": "Umafakhiza",
+          "url": "https://open.spotify.com/artist/0MaODS7ni3aBRbLXE6mTcd"
+        },
+        {
+          "name": "Dogzin",
+          "url": "https://open.spotify.com/artist/1YGfLMorlhBWm4L9xRJKIP"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Indoda Enjani",
+      "url": "https://open.spotify.com/track/2tNbE1V4pf0rLMKNOZFLMA"
     },
     {
       "album": {

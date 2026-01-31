@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  IÚNO
 
-3,967 songs - 9 day 15 hr 40 min
+3,969 songs - 9 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2739,6 +2739,7 @@
 | [Parang Dati Lang](https://open.spotify.com/track/7zpUotv3uMuDhF2Q0kXLC0) | [Corrgtd](https://open.spotify.com/artist/1wkoRzaLhMGNfNEp7Lj9pV), [Allan Benavides](https://open.spotify.com/artist/1jvqBSm4pVPxklyp6hxnHg), [Kydd Curti$](https://open.spotify.com/artist/4Fl8PVeFAKADcYUZxuhERl), [NASHE](https://open.spotify.com/artist/2GUJqSGRk1wqqvcbELRMAC), [Bby Jaye](https://open.spotify.com/artist/3zdpDnYSYmgka8gctdGYth) | [Parang Dati Lang](https://open.spotify.com/album/157rFXhdmH9eKt2g7Xv4Uu) | 4:46 | 2022-05-05 | 2022-06-17 |
 | [Parang Kahapon](https://open.spotify.com/track/0cDmuRppkylWo0Xb0odScF) | [Ela Figura](https://open.spotify.com/artist/0q4SQjYmb5aEeu1zVXFilp), [Off The Record](https://open.spotify.com/artist/0h2lW8O3gilzdOjbgLYivM) | [Parang Kahapon](https://open.spotify.com/album/4tm43PJimsCBloYsIcDFiz) | 4:47 | 2024-01-11 | 2024-02-09 |
 | [Parang Magic](https://open.spotify.com/track/4fUQusd8m6lKvbEfqw7mYo) | [4kDAMI](https://open.spotify.com/artist/4wemcvntr6ZZh5DPkxJHds) | [Parang Magic](https://open.spotify.com/album/13X3Tal608UKAdMAmb7wun) | 1:48 | 2024-07-18 | 2024-08-09 |
+| [Paranoia](https://open.spotify.com/track/2Q9W3ssYGi2YsXwcsjhG2N) | [Sid](https://open.spotify.com/artist/6AjTfOb0RPEhWjLuIptzUl) | [Paranoia](https://open.spotify.com/album/3RwUzpLAaqzUCMtqozyxyV) | 4:57 | 2026-01-29 |  |
 | [Parapelikula](https://open.spotify.com/track/1YvAQs031K4nhyINs0HDFO) | [JEL REY](https://open.spotify.com/artist/78BjejowI3HzCblRlIj5Jd) | [Parapelikula](https://open.spotify.com/album/6aAicHFGbqRnJTSekuYvM1) | 4:39 | 2025-01-31 | 2025-03-21 |
 | [Parasitic Habits](https://open.spotify.com/track/6Mmgqsg0vjMc3Nn3MrrjgE) | [RAKI](https://open.spotify.com/artist/0Rx1HTfXRLwSQSa1LEMxFZ), [mayfly](https://open.spotify.com/artist/1ZFx4oJR4RD2BlkGGAtvz6) | [Adolescent Mind](https://open.spotify.com/album/6FFm5kDHa63N3wBUE4JR6s) | 4:04 | 2025-08-07 | 2025-10-17 |
 | [PARASITIKO](https://open.spotify.com/track/60wiposLC1z5ZzIjTJhtR0) | [P V R V $ I T E](https://open.spotify.com/artist/609Y4tvqp01F46SC1tTPJf) | [INTERITIO](https://open.spotify.com/album/0ufCu0ITu9g4mYgoe5PO2W) | 2:14 | 2023-02-02 | 2023-02-10 |
@@ -3591,6 +3592,7 @@
 | [Tocino](https://open.spotify.com/track/2LZp6V8E75z2EMyaMPABnu) | [Aaron Obra](https://open.spotify.com/artist/7upzC0xnnDUFnp0ECyoZRd) | [Tocino](https://open.spotify.com/album/1Secy8DkCEaeCXgVgEuNSW) | 4:11 | 2023-04-27 | 2023-05-19 |
 | [Today](https://open.spotify.com/track/3cufFSC4UL4b8AUwdMQumO) | [GDeeY](https://open.spotify.com/artist/1YU1zlmMRk0oa4c7aVbVaZ) | [Today](https://open.spotify.com/album/1KxxfjOnrQ4p0vjcfDNMS3) | 2:51 | 2022-06-30 | 2022-08-20 |
 | [Today](https://open.spotify.com/track/5GDkQB4tRRkNTgJJ7FkdJu) | [Sunflower Station](https://open.spotify.com/artist/5sqGA9ELDpJqRt5DttkNE3) | [Today](https://open.spotify.com/album/2EAf0AR1kpZ6wUkBGMh11j) | 3:33 | 2022-01-27 | 2022-02-11 |
+| [Todo!](https://open.spotify.com/track/2wUxktp9sI4BhzmAqI2vWh) | [BTDTbeats](https://open.spotify.com/artist/0rCPgUfWXPdKYIvTeZcy7x), [Moyy](https://open.spotify.com/artist/52m6eAeQoYauhcFWUGk23e), [Arvy T](https://open.spotify.com/artist/5E1t9mWRm4znrI8w3cvuyN) | [Todo!](https://open.spotify.com/album/7767SmjBYu9vCVq7CbC7ZU) | 3:36 | 2026-01-29 |  |
 | [Together](https://open.spotify.com/track/4N2PJCstwa2BLlL0CPPGc3) | [yxngtrevon!](https://open.spotify.com/artist/0oMV512h7jxQSQ1BMiutuj) | [Together](https://open.spotify.com/album/4U8xYNKnhHcyMYscg0B5Gi) | 3:01 | 2025-07-31 | 2025-10-17 |
 | [TONIGHT](https://open.spotify.com/track/09w3dryXJXL9DhbHT0A6ed) | [BIGS](https://open.spotify.com/artist/1hHm60KMzZrYQzzTuG3xjC) | [TONIGHT](https://open.spotify.com/album/4gMErV3jwXCDyj31Wy24Or) | 3:05 | 2023-11-02 | 2023-12-09 |
 | [Too](https://open.spotify.com/track/1G0BWOTACWK9fA2EPMrGrR) | [chamomile](https://open.spotify.com/artist/62G9l0YFUduJjC2g9XsJHS) | [Late Springer](https://open.spotify.com/album/4zodZSzp5k57kVpkWhK2fu) | 4:42 | 2023-02-16 | 2023-03-03 |

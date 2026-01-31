@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-905 songs - 1 day 19 hr 46 min
+907 songs - 1 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 | 2023-02-03 | 2024-02-09 |
 | [Big Money](https://open.spotify.com/track/5cKpgv19Uh2kwWM29Q5YNp) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Big Money](https://open.spotify.com/album/1kXCtMduX4ysnZnIfEdBBA) | 2:18 | 2022-09-15 | 2022-12-13 |
 | [Big Steppa](https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:56 | 2023-06-09 | 2023-09-29 |
+| [Birthday](https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Birthday](https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d) | 2:35 | 2026-01-30 |  |
 | [Blind](https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae) | [Jahplaka](https://open.spotify.com/artist/7LHtDuHQxPma5xK94mexGk) | [Blind](https://open.spotify.com/album/5x9iKmrB20VHunQSud1vy6) | 2:27 | 2023-03-17 | 2023-04-15 |
 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 | 2023-03-11 | 2023-05-12 |
 | [Bodija](https://open.spotify.com/track/3GPZo2tH4a5U2z89a0rRr3) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:45 | 2024-03-08 | 2024-07-27 |
@@ -274,7 +275,7 @@
 | [FEELINGS](https://open.spotify.com/track/1ksmsfxb4XCOKD0JdYaznz) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Nobody Badder](https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0) | 2:40 | 2024-10-18 | 2024-10-26 |
 | [FEELS](https://open.spotify.com/track/4Q0nTj4TyprPk5bTpeSrGk) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [FEELS](https://open.spotify.com/album/6RufVlTi8oghtOMhX3MXwL) | 2:50 | 2025-08-29 | 2025-12-05 |
 | [Feels](https://open.spotify.com/track/2WE7yrbVF47nEmMkWCRwHd) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Feels](https://open.spotify.com/album/4eziN2ydqDpZ2zNjr2ZWmD) | 2:17 | 2023-04-20 | 2023-05-05 |
-| [Fefe Ne Fe](https://open.spotify.com/track/25KBFRfDlJjML133uQRpin) | [BoiGizmo](https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of) | [Fefe Ne Fe](https://open.spotify.com/album/79T0qb2Zr5tkoBbyaSkeHU) | 2:43 | 2025-08-25 |  |
+| [Fefe Ne Fe](https://open.spotify.com/track/25KBFRfDlJjML133uQRpin) | [BoiGizmo](https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of) | [Fefe Ne Fe](https://open.spotify.com/album/79T0qb2Zr5tkoBbyaSkeHU) | 2:43 | 2025-08-25 | 2026-01-31 |
 | [Fever](https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Fever](https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL) | 3:06 | 2023-05-26 | 2024-06-28 |
 | [Finally](https://open.spotify.com/track/7K421TaU7VnlOYYNfftd8A) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Finally](https://open.spotify.com/album/3444myYgBDVDQaSpHjS0rB) | 2:22 | 2024-06-28 | 2024-07-27 |
 | [Finally Finally](https://open.spotify.com/track/7bzOg4aR7E0z4aigy7zwwt) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Mr\. Versatile](https://open.spotify.com/album/3QhsruYmERbXYDqjyV4jdA) | 2:09 | 2024-08-02 | 2024-08-26 |
@@ -723,7 +724,7 @@
 | [Saanu mi](https://open.spotify.com/track/0lw5tIKv912sFY38kUGqZf) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [A Street Kid's Diary](https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM) | 2:18 | 2025-12-05 | 2026-01-15 |
 | [Safe](https://open.spotify.com/track/7dXdkGdFsBqHA12BCLrYm2) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc), [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Story of Our Lives](https://open.spotify.com/album/11She1URb5G1orrCZeLFsG) | 2:42 | 2024-09-20 | 2024-11-27 |
 | [Salt](https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Salt](https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG) | 3:05 | 2024-04-19 | 2024-06-28 |
-| [Samory](https://open.spotify.com/track/50IoIPZlen5UAnmsAYRzEM) | [Dahvi](https://open.spotify.com/artist/0NNZ9fgoCQAhNosJJH9CKt) | [Samory](https://open.spotify.com/album/2zGag5WZkERb7PpoVu2SuP) | 2:41 | 2025-05-09 |  |
+| [Samory](https://open.spotify.com/track/50IoIPZlen5UAnmsAYRzEM) | [Dahvi](https://open.spotify.com/artist/0NNZ9fgoCQAhNosJJH9CKt) | [Samory](https://open.spotify.com/album/2zGag5WZkERb7PpoVu2SuP) | 2:41 | 2025-05-09 | 2026-01-31 |
 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 | 2022-09-01 | 2023-04-09 |
 | [san siro \- remix](https://open.spotify.com/track/0uslkdkt54FiKvwEOOeFoH) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [san siro \(remix\)](https://open.spotify.com/album/4sb3gCQUk95ciN325RAQII) | 3:27 | 2023-09-09 | 2023-09-15 |
 | [Sankofa \- Remix](https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sankofa \(5 Star Remix\)](https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K) | 3:14 | 2022-12-02 | 2023-01-20 |
@@ -797,6 +798,7 @@
 | [Sunmomi](https://open.spotify.com/track/1Pjyw4lq49jK6TRprYKnze) | [Naka](https://open.spotify.com/artist/52DXXortL8zEG5MqscRQmn), [Demi Mulla](https://open.spotify.com/artist/3sjh5nINlAnwcXW6ugUzVH) | [Sunmomi](https://open.spotify.com/album/2KtvQiuSit87frcTKKtWpN) | 2:59 | 2024-06-14 | 2024-07-21 |
 | [Sunny Ade](https://open.spotify.com/track/5P8ieVB0mCFuSAEHvvml70) | [STUBBORN](https://open.spotify.com/artist/5AXtD0IaCzg0nR89emFxFM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Sunny Ade](https://open.spotify.com/album/5hROBIPqx6GVuD3VBJXomt) | 2:44 | 2025-09-19 | 2026-01-04 |
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 | 2023-02-24 |
+| [Super](https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15) | [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [Super](https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5) | 2:46 | 2026-01-30 |  |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-10 | 2023-09-15 |
 | [Sweater](https://open.spotify.com/track/1ORKjE2EqzLlGVpYtBRakf) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [CHELLA CHANT](https://open.spotify.com/album/51Ges1TwmyOb5ZTThiIjlA) | 2:15 | 2025-11-28 | 2026-01-23 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 | 2024-08-26 |

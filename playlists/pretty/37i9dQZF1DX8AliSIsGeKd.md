@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Oliver Koletzki
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,618 likes - 90 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,759 likes - 90 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 11 | [Rabimmel](https://open.spotify.com/track/4G6yTINBPOHFjwv1WG0XGO) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN) | [Rabimmel / Rabammel](https://open.spotify.com/album/1GdkE08SjIbf36DjiM9w8a) | 5:33 |
 | 12 | [Friedrichshain](https://open.spotify.com/track/41q1bfo4M8cJIB3NSN9UiZ) | [Tocadisco](https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe) | [Friedrichshain](https://open.spotify.com/album/38N8uayxP5ZpTmh6bZaycK) | 4:09 |
 | 13 | [Black Snake](https://open.spotify.com/track/1Wmy9oykQ7sKYwRitf8WD3) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Black Snake](https://open.spotify.com/album/7avfJc7EYcYxluAx6DCOHC) | 2:15 |
-| 14 | [Track 1](https://open.spotify.com/track/5s6Cybx46w4gMrpM5L0VkY) | [Abuk](https://open.spotify.com/artist/4kYAGDsAQjBYuWNNBJNnNv) | [](https://open.spotify.com/album/null) | 0:00 |
+| 14 | [Blooming Together](https://open.spotify.com/track/5s6Cybx46w4gMrpM5L0VkY) | [Abuk](https://open.spotify.com/artist/4kYAGDsAQjBYuWNNBJNnNv), [Marvio \(AR\)](https://open.spotify.com/artist/3KERfey6OJl74TMvlFn79s) | [Blooming Together](https://open.spotify.com/album/3TewxRj1oowmwvZzVZdXpG) | 5:02 |
 | 15 | [Stralunato](https://open.spotify.com/track/1Wo0SaVdl3TS6bQGe7cKm4) | [Fran&co](https://open.spotify.com/artist/6GLpNI3XjDnspncxnnrSpX) | [Stralunato](https://open.spotify.com/album/0J8Y2c9SFTd3WHYAOfM5yl) | 6:35 |
 | 16 | [Timeless](https://open.spotify.com/track/3sdKayfObt6VePZL7AhiU5) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Chelsea Como](https://open.spotify.com/artist/5LjlABsYnzlQCHIqAgK2Ac) | [Timeless](https://open.spotify.com/album/3LOuosVLxpQ5k5Fs6TDj3z) | 6:16 |
 | 17 | [Hoplahop](https://open.spotify.com/track/6lDhPdTEULG1fAqWsYfrhq) | [Danny Faber](https://open.spotify.com/artist/7qOGCTcYZ11W2e7i9LQ49q) | [Hoplahop](https://open.spotify.com/album/4ftmzGSpiF1r0EDJxY8PO5) | 3:50 |

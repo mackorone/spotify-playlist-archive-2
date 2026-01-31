@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 75013,
+  "num_followers": 75028,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXlRgAAAAACZokwSHxh2TebREPW6P9CU",
+  "snapshot_id": "aXqjAAAAAABlDIIYmWL8zZTE8DBTzdog",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
-        "url": "https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi"
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 275466,
-      "name": "Quiero Llegar - En Vivo",
-      "url": "https://open.spotify.com/track/3C9cFMfZZb2SUWiiZaX0Wd"
+      "duration_ms": 206133,
+      "name": "Bella Mujer",
+      "url": "https://open.spotify.com/track/5Vrc6YjRKhsR2Ee1bqKnNA"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
+        "url": "https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 206133,
-      "name": "Bella Mujer",
-      "url": "https://open.spotify.com/track/5Vrc6YjRKhsR2Ee1bqKnNA"
+      "duration_ms": 275466,
+      "name": "Quiero Llegar - En Vivo",
+      "url": "https://open.spotify.com/track/3C9cFMfZZb2SUWiiZaX0Wd"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Pienso de Vos (En Vivo)",
-        "url": "https://open.spotify.com/album/3PCMQFO6UHrQWyrSbqCx1r"
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 192699,
-      "name": "Lo Que Pienso de Vos - En Vivo",
-      "url": "https://open.spotify.com/track/0fTMTM9GhIls1pt2O6C8mJ"
+      "duration_ms": 267213,
+      "name": "Pasar\u00e1",
+      "url": "https://open.spotify.com/track/3k9YsjdlHyvgx8ddwHXvaa"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Que Pienso de Vos (En Vivo)",
+        "url": "https://open.spotify.com/album/3PCMQFO6UHrQWyrSbqCx1r"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 192699,
+      "name": "Lo Que Pienso de Vos - En Vivo",
+      "url": "https://open.spotify.com/track/0fTMTM9GhIls1pt2O6C8mJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Histeria",
         "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
       },
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
       "artists": [
         {
@@ -756,29 +772,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 267213,
-      "name": "Pasar\u00e1",
-      "url": "https://open.spotify.com/track/3k9YsjdlHyvgx8ddwHXvaa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bailalo",
-        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
-      },
-      "artists": [
-        {
-          "name": "Agus Cassano",
-          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
-        },
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 159590,
-      "name": "Bailalo",
-      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
+      "duration_ms": 202801,
+      "name": "La Caca del Bandido",
+      "url": "https://open.spotify.com/track/7BgrrQesQnHXefzJsM9jKg"
     },
     {
       "added_at": null,
@@ -799,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "Bailalo",
+        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
       },
       "artists": [
+        {
+          "name": "Agus Cassano",
+          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 202801,
-      "name": "La Caca del Bandido",
-      "url": "https://open.spotify.com/track/7BgrrQesQnHXefzJsM9jKg"
+      "duration_ms": 159590,
+      "name": "Bailalo",
+      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
     },
     {
       "added_at": null,

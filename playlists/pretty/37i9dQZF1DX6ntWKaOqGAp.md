@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: PAS TASTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,464 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,466 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 8 | [アネモネ](https://open.spotify.com/track/0m8lSNaBquOLc1JFo0uyHw) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [アネモネ](https://open.spotify.com/album/6Toh0h5qck4gPQRyx0YEBG) | 3:30 |
 | 9 | [ここで暮らしてるよ](https://open.spotify.com/track/21odCi9hKYKfH1E8FxKeSL) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [ここで暮らしてるよ](https://open.spotify.com/album/2raHH1CfeyniaxizTHzh9L) | 3:40 |
 | 10 | [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 |
-| 11 | [Track 10](https://open.spotify.com/track/6FyK3JQW1ZYLrsvkNC4n1R) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [群鳥](https://open.spotify.com/track/6FyK3JQW1ZYLrsvkNC4n1R) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Cheers to 10!!](https://open.spotify.com/album/2sCL0So9nIEXqtFX19p6gq) | 4:34 |
 | 12 | [FAQ](https://open.spotify.com/track/07WjSE7zahPD2TuWpfmOi7) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [コレクションアローン](https://open.spotify.com/album/3XO7V4ThUG4ytIau8qSxaL) | 3:18 |
 | 13 | [シルエット](https://open.spotify.com/track/1GMD0Xzzawqz2GHZC8IhwL) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [シルエット](https://open.spotify.com/album/4xs2LYR6cIXU47QLmXJlFU) | 4:01 |
 | 14 | [\(The rise of\) Offline Souls](https://open.spotify.com/track/705xW70NjUcaxH9qO7BDXp) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Lyrical Tattoo](https://open.spotify.com/album/5kAPZ0pMrADrCSQEZ8LWov) | 3:28 |

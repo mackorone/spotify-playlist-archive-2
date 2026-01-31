@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-313 songs - 18 hr 16 min
+314 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Cafeína](https://open.spotify.com/track/5FWVI1VWVmEuuzP5pVjJ6d) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [De Cabeça Pra Baixo](https://open.spotify.com/album/2mgNZSUNUVTsnjMWQflmd5) | 3:11 | 2022-10-07 | 2024-04-19 |
 | [Cafofo da Surica](https://open.spotify.com/track/15rXpXgdKFurbiTE2lGEzJ) | [Tia Surica](https://open.spotify.com/artist/7aSYRWqbMKGDQXsfjBnYTh), [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Tia Surica](https://open.spotify.com/album/0C0Ol1nrSlnY4hnSYSyPHt) | 3:08 | 2021-10-15 | 2022-07-29 |
 | [Cara valente](https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 4:42 | 2021-10-15 | 2024-10-23 |
+| [Carabao o Máximo](https://open.spotify.com/track/21X99tpR1iJj93Qq1Zfmrb) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ) | [Carabao o Máximo](https://open.spotify.com/album/3D7ahZJOzjxb7NXyvtAQeS) | 2:20 | 2026-01-30 |  |
 | [Catedral](https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9) | [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Zélia Duncan](https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl) | 2:50 | 2021-10-15 | 2024-10-23 |
 | [Chico Preto](https://open.spotify.com/track/4aBj8paD5TRHwTRRPfJW5q) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:24 | 2024-12-09 |  |
 | [Chá de Maracujá](https://open.spotify.com/track/7mgJccGu4ecfRchYjOKWTY) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo em Caruaru](https://open.spotify.com/album/0DvLLkxdRyaf4LeKhZg1sb) | 3:27 | 2026-01-14 |  |
@@ -176,7 +177,7 @@
 | [Meus Dias Felizes](https://open.spotify.com/track/2221klmWmQn2yLtuLGSz6R) | [Banda Halley](https://open.spotify.com/artist/5UgJvzYWsiYKJPnmLixmpt) | [Bregoso 4](https://open.spotify.com/album/2QbLKFf00rabPX0REmUeew) | 2:02 | 2025-02-28 | 2025-07-12 |
 | [Mina](https://open.spotify.com/track/1bpT0SG7ppxMvCcVmCsKql) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Raízes](https://open.spotify.com/album/3OjEAkgujukkD6mD5WT7gg) | 3:23 | 2021-10-15 | 2022-07-29 |
 | [Minha Felicidade](https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Todo Caminho É Sorte \(álbum Comentado\)](https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS) | 3:49 | 2021-10-15 | 2024-10-23 |
-| [Minha Opção](https://open.spotify.com/track/6qMNqAh6EhFksFp44fPxXZ) | [Banda Os Brothers](https://open.spotify.com/artist/2lsOz5tVIFOnXiHk3Bd5UE), [Companhia do Calypso](https://open.spotify.com/artist/0c7uc4pA1hpla0xbbEF5W5) | [Minha Opção](https://open.spotify.com/album/6iwoQBoHZKcvyVOQC1G30E) | 3:00 | 2025-10-03 |  |
+| [Minha Opção](https://open.spotify.com/track/6qMNqAh6EhFksFp44fPxXZ) | [Banda Os Brothers](https://open.spotify.com/artist/2lsOz5tVIFOnXiHk3Bd5UE), [Companhia do Calypso](https://open.spotify.com/artist/0c7uc4pA1hpla0xbbEF5W5) | [Minha Opção](https://open.spotify.com/album/6iwoQBoHZKcvyVOQC1G30E) | 3:00 | 2025-10-03 | 2026-01-31 |
 | [Morena De Angola](https://open.spotify.com/track/2197m72oqAuxBiSIV5cQ72) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Brasil Mestiço](https://open.spotify.com/album/3IByK5jqmLWKhrtjrb8xun) | 3:26 | 2021-10-15 | 2024-10-23 |
 | [Muito Tempo É Pouco](https://open.spotify.com/track/36Jj3HligzIUyAjdYKdojp) | [Indy Naíse](https://open.spotify.com/artist/0iRR5TUiGCZubAIWjgXGxg) | [Muito Tempo É Pouco](https://open.spotify.com/album/04IdYNUqErbJwksywf5sZ1) | 4:11 | 2021-10-15 | 2022-07-25 |
 | [Mulher](https://open.spotify.com/track/7mZNraR0ErZzC3ox3gXkwH) | [Mariene De Castro](https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN) | [Abre Caminho](https://open.spotify.com/album/2KRO3sBLjKAfQaWHGCS83z) | 3:04 | 2021-10-15 | 2022-07-29 |

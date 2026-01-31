@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 144073,
+  "num_followers": 144086,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXlRgAAAAAAclLEnB9RVt8FNF5qODY5n",
+  "snapshot_id": "aXqjAAAAAAApEh3qwbqCX/f8HgIUs2zW",
   "tracks": [
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "El enmascarado de l\u00e1tex",
+      "url": "https://open.spotify.com/track/7HyvbAo2u4mpPCc2qC8UtV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 203573,
       "name": "Triste canci\u00f3n de amor (con El Tri)",
       "url": "https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "El enmascarado de l\u00e1tex",
-      "url": "https://open.spotify.com/track/7HyvbAo2u4mpPCc2qC8UtV"
     },
     {
       "added_at": null,

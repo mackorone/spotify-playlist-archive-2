@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists\. <a href="spotify:artist:2gSV6FsMxBBH01LLNgx6HU">Babau</a> on cover\. Artwork by Thami Nabil, photo by Stefania Zanetti
 
-2,118 songs - 6 day 20 hr 12 min
+2,119 songs - 6 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Abyss Glow](https://open.spotify.com/track/0W6s0iYw82X92CofYQShX5) | [Guenter Råler](https://open.spotify.com/artist/6udMDUWc1J0Kr8bZ45nk4W) | [Abyss Glow](https://open.spotify.com/album/2fODU8uraYB5IUL5ZD5FDC) | 7:09 | 2025-01-29 | 2025-09-03 |
 | [Abyssal](https://open.spotify.com/track/12QrjwNr8RYRGq9KjGEYLT) | [Oddity](https://open.spotify.com/artist/5hravQJP0eUEmr7rDmAdhu) | [Oddisea, Pt\. 3](https://open.spotify.com/album/4bVKhWV6O0wgm2pot5ZTHe) | 3:17 | 2023-03-29 | 2023-05-24 |
 | [Acclaimed Evacuation \(Part 1\)](https://open.spotify.com/track/2T13ytDjf4lfFuAtBENy8l) | [Erica Eso](https://open.spotify.com/artist/1h9gQ8F1dO0sFUXOZ0Jwlq) | [192](https://open.spotify.com/album/2slnJZ7loFebi0XoYovOWf) | 2:05 | 2022-05-18 | 2022-07-28 |
+| [Acrobata](https://open.spotify.com/track/7B0NSAx83OyUxYAQGLC3zo) | [Bono / Burattini](https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw) | [Acrobata](https://open.spotify.com/album/5cz7ibNB9lPKO0oqHNxcz9) | 4:56 | 2026-01-30 |  |
 | [Acryl](https://open.spotify.com/track/0pwv361AU9vBQ85GlFBaXY) | [Damian Dalla Torre](https://open.spotify.com/artist/2ZcNubl5ligYVy7MCs2JJ9) | [Acryl](https://open.spotify.com/album/5QxKzsz8n1CEgX5r8EwlWr) | 2:54 | 2024-06-19 | 2024-08-22 |
 | [Adentro de mis Sábanas](https://open.spotify.com/track/0V0vY4Bqlm24GycZpOvNOd) | [Estrella del Sol](https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Figura de Cristal](https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH) | 2:49 | 2023-09-13 | 2024-01-11 |
 | [Adkrog](https://open.spotify.com/track/7wpp45hkCqB7Atc4ZHCcg8) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Adkrog](https://open.spotify.com/album/5RhEQC5P2yUwkSboIgMYrC) | 4:16 | 2022-04-27 | 2022-07-28 |
@@ -705,7 +706,7 @@
 | [Franklin, King of the Beers](https://open.spotify.com/track/73APPzBAJ1we3C7XZCMVvb) | [Austin Cash](https://open.spotify.com/artist/63JuPlLsaNSlB5bQzUOO7i) | [Franklin, King of the Beers](https://open.spotify.com/album/4FLr6OVtfK1J455n7gSoN4) | 6:24 | 2023-07-18 | 2023-07-28 |
 | [Freak](https://open.spotify.com/track/077NoNfZ9eVPKIDUcA78ha) | [LEECH](https://open.spotify.com/artist/6FXHqmCyukgQ02l8pPK3gr), [Anonymous Club](https://open.spotify.com/artist/1tbiYIR5Xxl9N4ubPEAvTA) | [Freak](https://open.spotify.com/album/3Vz2nBT4xp5dicRUIX12N0) | 1:52 | 2022-01-19 | 2022-03-22 |
 | [Free Soul](https://open.spotify.com/track/7pljs8w88hJuYh0dSAgwXb) | [Hiro Ama](https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ) | [Free Soul](https://open.spotify.com/album/5XUC3IZZsH3qDNXhDoZ0xL) | 7:18 | 2025-01-15 | 2025-03-26 |
-| [Fret Mauve](https://open.spotify.com/track/4EUe003EkWn1AAZS4ERL0d) | [gai seki](https://open.spotify.com/artist/0k0RcuWdEsMo7LoyNn1Dd9) | [Fret Mauve](https://open.spotify.com/album/5qHJGHkYHNI1XrCP08NDBU) | 3:01 | 2025-09-03 |  |
+| [Fret Mauve](https://open.spotify.com/track/4EUe003EkWn1AAZS4ERL0d) | [gai seki](https://open.spotify.com/artist/0k0RcuWdEsMo7LoyNn1Dd9) | [Fret Mauve](https://open.spotify.com/album/5qHJGHkYHNI1XrCP08NDBU) | 3:01 | 2025-09-03 | 2026-01-31 |
 | [From Tbilisi](https://open.spotify.com/track/6AlRNw78ZzZqwQUYBk8cXY) | [Passepartout Duo](https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1) | [From Tbilisi](https://open.spotify.com/album/33Yjkz3VJGZTcRZkzQs4rj) | 3:51 | 2025-07-23 |  |
 | [From the Cessation of What](https://open.spotify.com/track/3MRkGhcd9PvJkCji31lRgE) | [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0) | [From the Cessation of What](https://open.spotify.com/album/5mew4NdtZDn8XzW617T260) | 8:36 | 2020-10-30\* | 2021-01-15 |
 | [From Thin Air](https://open.spotify.com/track/2HO7ztGT12X5iNsN7C0wOR) | [Tristan Kasten\-Krause](https://open.spotify.com/artist/7Le1JDJeNwOC3eQRIM7HVB), [Lisel](https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3) | [From Thin Air](https://open.spotify.com/album/6B42Yc5RoVBkqV4j8IoQDL) | 4:56 | 2021-04-09 | 2021-06-24 |
@@ -1523,7 +1524,7 @@
 | [Sanbashi](https://open.spotify.com/track/2zu2c4BHYCPn6q2NFtVffx) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR), [Cotto Center](https://open.spotify.com/artist/4yC8SooQDAT3WDPEJMDn3o) | [Yasuragi Land](https://open.spotify.com/album/11saLOyIsjX1NsXHIVcpFc) | 2:15 | 2021-07-29 | 2021-08-25 |
 | [sANCTUAry, it mUST happeN AGain!](https://open.spotify.com/track/2zciBB3qF3wisjEsvrcBcW) | [ishi vu](https://open.spotify.com/artist/1YUA9X2dr5rzNXdMCUa5rH) | [La Luz](https://open.spotify.com/album/2utsontyjBT4r8eNc1a7qm) | 3:14 | 2021-05-15 | 2021-05-29 |
 | [Sandalphon, Archangel of Malkuth](https://open.spotify.com/track/1eo97er6QMEqwD7kzGZtDA) | [John Bence](https://open.spotify.com/artist/0glQIvo5leLVYxy8HREkX5) | [Archangels](https://open.spotify.com/album/6lrI17uDr0tzp8JZtHBmZZ) | 6:59 | 2023-03-15 | 2023-05-11 |
-| [Sangue coagulato](https://open.spotify.com/track/3as5N2iBqzVwslgYQfb0d4) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Lacrimae](https://open.spotify.com/album/5F5KGB9XBm9hViPBMZpipd) | 5:39 | 2025-05-07 |  |
+| [Sangue coagulato](https://open.spotify.com/track/3as5N2iBqzVwslgYQfb0d4) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Lacrimae](https://open.spotify.com/album/5F5KGB9XBm9hViPBMZpipd) | 5:39 | 2025-05-07 | 2026-01-31 |
 | [Sansevieria](https://open.spotify.com/track/28V06ats2bx8OCdh9DBBOR) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/5ADF8juLhrC8IerOq4G6e5) | 4:24 | 2020-10-30\* | 2021-01-15 |
 | [SC46kop](https://open.spotify.com/track/2z0xkLDfg1BwlqKREicqpQ) | [4THSEX](https://open.spotify.com/artist/2ULfBdmjqfKsn3cFroeAYS) | [SC46kop](https://open.spotify.com/album/59CiMFG1pKHZREQnKg5n1b) | 4:16 | 2023-08-01 | 2023-11-08 |
 | [scale](https://open.spotify.com/track/1LNjJtvaTfwBtzGm9Gm3Hg) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [I](https://open.spotify.com/album/7vbidq5v7PoumjBZhzHfJ0) | 10:35 | 2022-05-18 | 2022-07-28 |
@@ -1727,7 +1728,7 @@
 | [Teclas Pálidas](https://open.spotify.com/track/6RZTCEiP1BFBsBIRqFsYLm) | [Ismael Pinkler](https://open.spotify.com/artist/3EDLCEnPXba2OItpKW1Drx), [Nicolás Bacal](https://open.spotify.com/artist/4O07zL2JRvvUnaUYA1q4lp) | [Nocturnos](https://open.spotify.com/album/1MRUtV8mhRa3UrNp7HjRA9) | 5:27 | 2024-10-16 | 2024-12-05 |
 | [Telescopic](https://open.spotify.com/track/1flWZ6yw5R4KuFEimGusPx) | [Jace Mek](https://open.spotify.com/artist/67dClEyrx8SQ6gqe7r8PR4) | [Telescopic](https://open.spotify.com/album/0mGyotENzkz4CobvOxpklO) | 4:27 | 2023-05-10 | 2023-08-17 |
 | [Tell/Me/Why](https://open.spotify.com/track/4e9jyiUUxoALhqyN9iFM3M) | [Yung Lain](https://open.spotify.com/artist/6hij65GZ1ENmV4C8YeiYwP) | [Tell/Me/Why](https://open.spotify.com/album/3scIBQLqwRJPJzO9lJxx7Y) | 2:08 | 2023-02-01 | 2023-03-29 |
-| [Tem](https://open.spotify.com/track/1dCG1tEzjPzCQx0ij0dRh5) | [Joe Westerlund](https://open.spotify.com/artist/4GMTDgzWcWkPyF66d6lfVy) | [Tem](https://open.spotify.com/album/6zuy2pmy5JqamvOJNlGe66) | 3:04 | 2025-08-20 | 2026-01-30 |
+| [Tem](https://open.spotify.com/track/1dCG1tEzjPzCQx0ij0dRh5) | [Joe Westerlund](https://open.spotify.com/artist/4GMTDgzWcWkPyF66d6lfVy) | [Tem](https://open.spotify.com/album/6zuy2pmy5JqamvOJNlGe66) | 3:04 | 2025-08-20 |  |
 | [Tema para Pequeños Pilotos Aviadores](https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO) | [Panoptica](https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8) | [Ensayo de un Sueño](https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj) | 3:37 | 2022-09-07 | 2022-10-20 |
 | [Tenderness](https://open.spotify.com/track/4u7eaG7Xwfofb1u5YFyQSe) | [Maxwell Sterling](https://open.spotify.com/artist/0bXOAY3HryVuSfQLmip6VR), [Leslie Winer](https://open.spotify.com/artist/3NCRrtYVA8JoqzDMKzjUmn) | [Tenderness](https://open.spotify.com/album/5cK75Ic9aSxA6XELTXXqen) | 7:49 | 2021-03-06 | 2021-04-15 |
 | [Tenderness](https://open.spotify.com/track/1J2QVFVuytbs7ssuuGPer6) | [Nikita Stashevskiy](https://open.spotify.com/artist/6EIvzsXL3fLBRX9vNIhOLr) | [Tenderness](https://open.spotify.com/album/2OSx5EEdJSRkDjE9ISpnoT) | 4:51 | 2021-05-04 | 2021-06-22 |

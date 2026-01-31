@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 110061,
       "name": "B-I-N-G-O",
       "url": "https://open.spotify.com/track/08FWkkXnC9Orj3NCVyWtay"
@@ -1892,6 +1892,24 @@
       "duration_ms": 107934,
       "name": "Furry Friends",
       "url": "https://open.spotify.com/track/6NLXrHE37TBshJMIihdAXd"
+    },
+    {
+      "album": {
+        "name": "Garden of Dreams",
+        "url": "https://open.spotify.com/album/0M7tQBe6nKzQQGEehhS2N5"
+      },
+      "artists": [
+        {
+          "name": "Johan Stragne",
+          "url": "https://open.spotify.com/artist/423XR6sC6ApgqX3WDLyPLg"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67933,
+      "name": "Garden of Dreams",
+      "url": "https://open.spotify.com/track/15miP43Bn9jWrSpL9uYuFZ"
     },
     {
       "album": {
@@ -3372,7 +3390,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 109857,
       "name": "Mi Peque\u00f1a Bebe",
       "url": "https://open.spotify.com/track/6PJ8TOLeJxDeybMbyUBQFK"
@@ -3712,6 +3730,24 @@
       "duration_ms": 147500,
       "name": "Old MacDonald Had a Farm",
       "url": "https://open.spotify.com/track/7y1G8w8McPgbMB2YL9tbEr"
+    },
+    {
+      "album": {
+        "name": "Old Macdonald Had a Farm",
+        "url": "https://open.spotify.com/album/6ULEiD3TdE4yKjerGzqiZA"
+      },
+      "artists": [
+        {
+          "name": "Zane Heart",
+          "url": "https://open.spotify.com/artist/4thSm74qyd3wxZ2pqh3YPW"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110258,
+      "name": "Old Macdonald Had a Farm",
+      "url": "https://open.spotify.com/track/5JI1BtYMOYRwefhOO4tATW"
     },
     {
       "album": {

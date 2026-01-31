@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Skip Waiters from Brampton, ON.",
+  "description": "Your guide to R&B in Canada, with Dylan Sinclair from Markham, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -480,6 +480,24 @@
       "duration_ms": 145508,
       "name": "6:25",
       "url": "https://open.spotify.com/track/4adHUlpHedj2PKkj9IkF3T"
+    },
+    {
+      "album": {
+        "name": "7 Days",
+        "url": "https://open.spotify.com/album/7ncpXqenfK2ixhnn2ykgNq"
+      },
+      "artists": [
+        {
+          "name": "KAYAM",
+          "url": "https://open.spotify.com/artist/58UJUfMaQRjFlDxawMuOru"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133740,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/5irUJjUQDKNMhVOZIowDu6"
     },
     {
       "album": {
@@ -4640,7 +4658,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 162644,
       "name": "Cocoa",
       "url": "https://open.spotify.com/track/2umjueMhtny00cbEgTuj1U"
@@ -10162,7 +10180,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 207762,
       "name": "He's Not Me",
       "url": "https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE"
@@ -20586,7 +20604,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 160819,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/49b9x49lFyyIvFmaZK8fTa"
@@ -21009,6 +21027,24 @@
     },
     {
       "album": {
+        "name": "Remember us",
+        "url": "https://open.spotify.com/album/4zuTFIgzvayjM2W8EAEC1P"
+      },
+      "artists": [
+        {
+          "name": "Ryael",
+          "url": "https://open.spotify.com/artist/6uTGQekql6OdGUQDk6a8Wt"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195693,
+      "name": "Remember us",
+      "url": "https://open.spotify.com/track/68cWBpjuYI3QGzVbD1PCP5"
+    },
+    {
+      "album": {
         "name": "rendezvous",
         "url": "https://open.spotify.com/album/2zbNk2nQs8YOt5drhwe8hR"
       },
@@ -21270,7 +21306,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 280462,
       "name": "Right Where You Left Me",
       "url": "https://open.spotify.com/track/7B4D7aJcJ7noYNxX0XqhlT"
@@ -24174,6 +24210,24 @@
       "duration_ms": 215350,
       "name": "Spring Cleaning",
       "url": "https://open.spotify.com/track/1MlYhXyjpfNA0WbC7cYBli"
+    },
+    {
+      "album": {
+        "name": "Squeeze",
+        "url": "https://open.spotify.com/album/0IsElILJfiHY2Jipq4JEst"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179439,
+      "name": "Squeeze",
+      "url": "https://open.spotify.com/track/0aHUhMAzRF8nRTqInJ3a5U"
     },
     {
       "album": {

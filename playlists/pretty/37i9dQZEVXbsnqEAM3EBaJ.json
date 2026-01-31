@@ -6,10 +6,122 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXLkMAAAAACoCZZaApZhKO7bV/X5edJA",
+  "snapshot_id": "aXwesAAAAABONzgLb2LNQQBWMbqbhHe6",
   "tracks": [
     {
-      "added_at": "2026-01-23 03:00:00",
+      "added_at": "2026-01-30 03:00:00",
+      "album": {
+        "name": "Satisfaction Skank (High Contrast Remix)",
+        "url": "https://open.spotify.com/album/3mhcL69ilU25UpBH9AaXxb"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "duration_ms": 211066,
+      "name": "Satisfaction Skank - High Contrast Remix",
+      "url": "https://open.spotify.com/track/61Z0yfhBej1doIseuLpo2d"
+    },
+    {
+      "added_at": "2026-01-30 03:00:00",
+      "album": {
+        "name": "Mama Kin (2024 Mix)",
+        "url": "https://open.spotify.com/album/041HhRrNYZc7BE0JPbkIYF"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 275435,
+      "name": "Mama Kin - 2024 Mix",
+      "url": "https://open.spotify.com/track/24W3iqR9pR1lc1V3NfiDpF"
+    },
+    {
+      "added_at": "2026-01-30 03:00:00",
+      "album": {
+        "name": "Streets of Minneapolis",
+        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 275831,
+      "name": "Streets of Minneapolis",
+      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
+    },
+    {
+      "added_at": "2026-01-30 03:00:00",
+      "album": {
+        "name": "Shadows of the End",
+        "url": "https://open.spotify.com/album/3RxStdCrcho5WIiDZU5SNj"
+      },
+      "artists": [
+        {
+          "name": "Harmony My Strength",
+          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 64610,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/1nhKv7hjXzNBmraZNfWhLe"
+    },
+    {
+      "added_at": "2026-01-30 03:00:00",
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/0I32UEEK6d7siI5VGDN82G"
+      },
+      "artists": [
+        {
+          "name": "Cole Rolland",
+          "url": "https://open.spotify.com/artist/2TV1zBJZ3hQaJpTt46DBIc"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "duration_ms": 224291,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4slORGAF6oIF5yom2sERgO"
+    },
+    {
+      "added_at": "2026-01-30 03:00:00",
+      "album": {
+        "name": "Minnesota Nazis",
+        "url": "https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 219616,
+      "name": "Minnesota Nazis",
+      "url": "https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X"
+    },
+    {
+      "added_at": "2026-01-30 03:00:00",
       "album": {
         "name": "Megadeth",
         "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
@@ -25,7 +137,7 @@
       "url": "https://open.spotify.com/track/1ID9SzJR4OFRwinOqYlJf4"
     },
     {
-      "added_at": "2026-01-23 03:00:00",
+      "added_at": "2026-01-30 03:00:00",
       "album": {
         "name": "JANE DOE (from \"Chainsaw Man\") [Spanish Version]",
         "url": "https://open.spotify.com/album/3WfRtbyKdiJ4fiU4UXvxaW"
@@ -45,7 +157,39 @@
       "url": "https://open.spotify.com/track/5LIJ14j7IDOcnSRk8lYdgW"
     },
     {
-      "added_at": "2026-01-23 03:00:00",
+      "added_at": "2026-01-30 03:00:00",
+      "album": {
+        "name": "Set The Dark On Fire",
+        "url": "https://open.spotify.com/album/19rLunxMgSHBPOs2ydLZut"
+      },
+      "artists": [
+        {
+          "name": "Edenbridge",
+          "url": "https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ"
+        }
+      ],
+      "duration_ms": 331053,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/19KU4MnUg3X2DEDTuwgxUV"
+    },
+    {
+      "added_at": "2026-01-30 03:00:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/05GsVj0oUeuUEnYb31uCHR"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 229322,
+      "name": "Play The Old Shit",
+      "url": "https://open.spotify.com/track/5APFyddMz5a4EGXvtEQVAc"
+    },
+    {
+      "added_at": "2026-01-30 03:00:00",
       "album": {
         "name": "Ki Chororo",
         "url": "https://open.spotify.com/album/1gbEmEIUZTR9teDGCuD0JQ"
@@ -65,7 +209,7 @@
       "url": "https://open.spotify.com/track/0C97btEEwC56pQYBU5U8GG"
     },
     {
-      "added_at": "2026-01-23 03:00:00",
+      "added_at": "2026-01-30 03:00:00",
       "album": {
         "name": "Sweet Palm Wine",
         "url": "https://open.spotify.com/album/2h3Qyy2nF36atsBcrPbcYB"
@@ -85,7 +229,7 @@
       "url": "https://open.spotify.com/track/7cKn7oqphz5lz4kGz3kMbq"
     },
     {
-      "added_at": "2026-01-23 03:00:00",
+      "added_at": "2026-01-30 03:00:00",
       "album": {
         "name": "Hagamos Que",
         "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
@@ -101,103 +245,7 @@
       "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
     },
     {
-      "added_at": "2026-01-23 03:00:00",
-      "album": {
-        "name": "The Final Verdict",
-        "url": "https://open.spotify.com/album/1GB6UmBGrtZTlnSazf7qAc"
-      },
-      "artists": [
-        {
-          "name": "Harmony My Strength",
-          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
-        },
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 65230,
-      "name": "Veil of Bone",
-      "url": "https://open.spotify.com/track/09uE01vbRIdeIwdoPzGvo3"
-    },
-    {
-      "added_at": "2026-01-23 03:00:00",
-      "album": {
-        "name": "THE SPELL",
-        "url": "https://open.spotify.com/album/7l95yd85Ob7Gu9yfQNSpqF"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        },
-        {
-          "name": "Thomas Jenssen",
-          "url": "https://open.spotify.com/artist/1CsiZJ13f1oUIxiV1X9NBm"
-        }
-      ],
-      "duration_ms": 175111,
-      "name": "THE SPELL",
-      "url": "https://open.spotify.com/track/7CWUdG7KSYBjkEgV4HcC6t"
-    },
-    {
-      "added_at": "2026-01-23 03:00:00",
-      "album": {
-        "name": "NINE LIVES",
-        "url": "https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        },
-        {
-          "name": "El Hefe",
-          "url": "https://open.spotify.com/artist/0hI2YqWLM3FyAj4Moa1E0X"
-        },
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 151820,
-      "name": "THE PUNISHER (feat. El Hefe of NOFX)",
-      "url": "https://open.spotify.com/track/6eDJGOPWshWzPiWbSiWwdD"
-    },
-    {
-      "added_at": "2026-01-23 03:00:00",
-      "album": {
-        "name": "Set The Dark On Fire",
-        "url": "https://open.spotify.com/album/19rLunxMgSHBPOs2ydLZut"
-      },
-      "artists": [
-        {
-          "name": "Edenbridge",
-          "url": "https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ"
-        }
-      ],
-      "duration_ms": 331053,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/19KU4MnUg3X2DEDTuwgxUV"
-    },
-    {
-      "added_at": "2026-01-23 03:00:00",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/05GsVj0oUeuUEnYb31uCHR"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 229322,
-      "name": "Play The Old Shit",
-      "url": "https://open.spotify.com/track/5APFyddMz5a4EGXvtEQVAc"
-    },
-    {
-      "added_at": "2026-01-23 03:00:00",
+      "added_at": "2026-01-30 03:00:00",
       "album": {
         "name": "Whiplash (Deluxe)",
         "url": "https://open.spotify.com/album/1bSJUui9WhyR6Ix6msUxxo"
@@ -213,7 +261,7 @@
       "url": "https://open.spotify.com/track/10aymxDOFtt1yjMF5TeQj7"
     },
     {
-      "added_at": "2026-01-23 03:00:00",
+      "added_at": "2026-01-30 03:00:00",
       "album": {
         "name": "Armada (Orchestral Version)",
         "url": "https://open.spotify.com/album/0jfoVULtvqdDo0jYgeWOxq"
@@ -229,7 +277,7 @@
       "url": "https://open.spotify.com/track/5jV2N4JN9QRnC1UqQQWAAn"
     },
     {
-      "added_at": "2026-01-23 03:00:00",
+      "added_at": "2026-01-30 03:00:00",
       "album": {
         "name": "Charlie The Wonderdog (Original Songs from the Motion Picture)",
         "url": "https://open.spotify.com/album/377uHBrhHsJU4XsGagTrs3"
@@ -245,7 +293,7 @@
       "url": "https://open.spotify.com/track/1Ur3VwP8QqqDpA5fHQREPd"
     },
     {
-      "added_at": "2026-01-23 03:00:00",
+      "added_at": "2026-01-30 03:00:00",
       "album": {
         "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
         "url": "https://open.spotify.com/album/0mXlX2CMj27TPRz10v556x"
@@ -273,7 +321,7 @@
       "url": "https://open.spotify.com/track/5l4Gq3UC0dHKSExIf5xD9N"
     },
     {
-      "added_at": "2026-01-23 03:00:00",
+      "added_at": "2026-01-30 03:00:00",
       "album": {
         "name": "Into Oblivion",
         "url": "https://open.spotify.com/album/5SVfHoZLhj58lAJzl2iD9g"
@@ -289,7 +337,27 @@
       "url": "https://open.spotify.com/track/0bUxpdWMazVZv1f7TSNSCW"
     },
     {
-      "added_at": "2026-01-23 03:00:00",
+      "added_at": "2026-01-30 03:00:00",
+      "album": {
+        "name": "THE SPELL",
+        "url": "https://open.spotify.com/album/7l95yd85Ob7Gu9yfQNSpqF"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        },
+        {
+          "name": "Thomas Jenssen",
+          "url": "https://open.spotify.com/artist/1CsiZJ13f1oUIxiV1X9NBm"
+        }
+      ],
+      "duration_ms": 175111,
+      "name": "THE SPELL",
+      "url": "https://open.spotify.com/track/7CWUdG7KSYBjkEgV4HcC6t"
+    },
+    {
+      "added_at": "2026-01-30 03:00:00",
       "album": {
         "name": "Bedroom Posters (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
@@ -309,7 +377,7 @@
       "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
     },
     {
-      "added_at": "2026-01-23 03:00:00",
+      "added_at": "2026-01-30 03:00:00",
       "album": {
         "name": "Ready To Live A Lie (The Remixes)",
         "url": "https://open.spotify.com/album/6QwYgrrSVmYnlzpKQLXvM4"

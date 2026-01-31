@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic music. Cover: Oliver Koletzki",
-  "num_followers": 737618,
+  "num_followers": 737759,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
@@ -251,17 +251,21 @@
     {
       "added_at": "2026-01-29 23:00:37",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Blooming Together",
+        "url": "https://open.spotify.com/album/3TewxRj1oowmwvZzVZdXpG"
       },
       "artists": [
         {
           "name": "Abuk",
           "url": "https://open.spotify.com/artist/4kYAGDsAQjBYuWNNBJNnNv"
+        },
+        {
+          "name": "Marvio (AR)",
+          "url": "https://open.spotify.com/artist/3KERfey6OJl74TMvlFn79s"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 302167,
+      "name": "Blooming Together",
       "url": "https://open.spotify.com/track/5s6Cybx46w4gMrpM5L0VkY"
     },
     {

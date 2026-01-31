@@ -2227,6 +2227,28 @@
     },
     {
       "album": {
+        "name": "FATALFATALFATAL",
+        "url": "https://open.spotify.com/album/6mVG3MQDjFsJwSsZDxfXfm"
+      },
+      "artists": [
+        {
+          "name": "FAB GODAMN",
+          "url": "https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g"
+        },
+        {
+          "name": "C4rlinhxs",
+          "url": "https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100769,
+      "name": "COMME DES GAR\u00c7ONS",
+      "url": "https://open.spotify.com/track/4yC4sRDhK1uXLW9B14jyQl"
+    },
+    {
+      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -4018,7 +4040,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 213284,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/3bpNcH1SCEMn6zuynZGY5e"

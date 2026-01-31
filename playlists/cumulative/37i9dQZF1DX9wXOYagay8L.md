@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: Danya Devs
 
-730 songs - 2 day 3 hr 59 min
+731 songs - 2 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -723,6 +723,7 @@
 | [Xolele](https://open.spotify.com/track/7hbpdfF24QSKHlRDaLE1HS) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96), [Zama Khumalo](https://open.spotify.com/artist/3qdj0tbSHsPoZVvftfSgFG) | [Xolele](https://open.spotify.com/album/77ZMPaD41XDBxolBY0aiVB) | 5:08 | 2022-05-26 | 2022-09-02 |
 | [Y.O.U.](https://open.spotify.com/track/5PGCJcOdDR8DlqkhMZMODk) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Y.O.U.](https://open.spotify.com/album/2CZiEK2WAD9LNJKB64zLN5) | 4:21 | 2024-02-08 | 2025-02-14 |
 | [Ya Costa](https://open.spotify.com/track/4JYITrghft32zlpjuYhYDA) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w) | [Ya Costa](https://open.spotify.com/album/3P11k6EZ5pZA8zpRABT5h5) | 4:00 | 2023-04-14 | 2023-06-30 |
+| [Yalwa](https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Yalwa](https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO) | 2:34 | 2026-01-30 |  |
 | [Yelele](https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Yelele](https://open.spotify.com/album/2R6tuyZ91QkYAJJuvfyEWA) | 3:42 | 2021-06-24 | 2022-07-01 |
 | [Yinton Na](https://open.spotify.com/track/2sKKbTec2AgNTua3vElSgG) | [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt) | [ONDITHUMILEYO](https://open.spotify.com/album/7GHhZLJQBQLCIMdDJLA6qk) | 3:09 | 2025-10-16 |  |
 | [Yitshoni](https://open.spotify.com/track/7C1c8Epr55mrNcj4y89y8i) | [Zimbini](https://open.spotify.com/artist/3M4itkRJx8TOJCvyw63tiD) | [Ndiyehlela](https://open.spotify.com/album/74auQhsM98zKG619UaEFav) | 1:32 | 2024-01-11 | 2024-07-12 |

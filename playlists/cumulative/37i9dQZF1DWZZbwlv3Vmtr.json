@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "As far as I can remember",
+        "url": "https://open.spotify.com/album/1cemyHys8WUYWEKW53G7fw"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98931,
+      "name": "As far as I can remember",
+      "url": "https://open.spotify.com/track/6sLTxPY204HkrIavlAkHxE"
+    },
+    {
+      "album": {
         "name": "as the mist clears",
         "url": "https://open.spotify.com/album/3cP2btMkisJHb0FNHAVuBE"
       },
@@ -2797,6 +2815,24 @@
     },
     {
       "album": {
+        "name": "chez",
+        "url": "https://open.spotify.com/album/5BS3NewDg8F3WXNtCVzgzg"
+      },
+      "artists": [
+        {
+          "name": "new vibe",
+          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136513,
+      "name": "chez",
+      "url": "https://open.spotify.com/track/1BTga4bUzAmES8zgeXAZVX"
+    },
+    {
+      "album": {
         "name": "Chili is hot",
         "url": "https://open.spotify.com/album/1UisVUTos5X3wOpcDZUo1F"
       },
@@ -4628,6 +4664,24 @@
       "duration_ms": 141000,
       "name": "Drip",
       "url": "https://open.spotify.com/track/3IjWchZ6NabiqZNzJ1yhCa"
+    },
+    {
+      "album": {
+        "name": "droplets",
+        "url": "https://open.spotify.com/album/2W8Hhi67MaRScKDk4xQix2"
+      },
+      "artists": [
+        {
+          "name": "Photosynthetic",
+          "url": "https://open.spotify.com/artist/07gRq5MLkPSFcl6ECDONS1"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110846,
+      "name": "droplets",
+      "url": "https://open.spotify.com/track/6cnBbiIz52320sB2qKhSXf"
     },
     {
       "album": {
@@ -13372,7 +13426,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 122962,
       "name": "pecker",
       "url": "https://open.spotify.com/track/3YmcrcGXsjNIzt5cRlKeBl"
@@ -15294,7 +15348,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 125714,
       "name": "routines",
       "url": "https://open.spotify.com/track/4Io6svY27Iga4iRsTCUvGH"
@@ -15544,7 +15598,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 165910,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/4MfNWOSRhE58s3kq428Wgf"
@@ -16122,7 +16176,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 136164,
       "name": "Shutters",
       "url": "https://open.spotify.com/track/7vys15VygXqBbOzaiDvL54"
@@ -18877,6 +18931,24 @@
     },
     {
       "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/7nejiHpw5DkBUs1nF8SyTp"
+      },
+      "artists": [
+        {
+          "name": "Notation",
+          "url": "https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/4Kxb0Ailz0ioGdgqdbaSFV"
+    },
+    {
+      "album": {
         "name": "The Last Train",
         "url": "https://open.spotify.com/album/3QILe6q9iQgb04FeIHls5c"
       },
@@ -20879,6 +20951,28 @@
     },
     {
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6DcUs1tRcpZY9LpOEabQgY"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/5jf4jUDfHruFyFj25TTWTD"
+    },
+    {
+      "album": {
         "name": "Welcome To The Jungle",
         "url": "https://open.spotify.com/album/5MFTtLuCtZKCrbG8CZPXrz"
       },
@@ -21110,7 +21204,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 146852,
       "name": "wicked",
       "url": "https://open.spotify.com/track/0Li6Y0Noq9THd4sTR7e5wq"

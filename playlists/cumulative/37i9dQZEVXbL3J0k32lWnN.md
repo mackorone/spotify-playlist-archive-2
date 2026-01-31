@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,290 songs - 4 day 22 hr 20 min
+2,291 songs - 4 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Baddest](https://open.spotify.com/track/4ZUk1PNxNSk3Q2uuHhrtPS) | [Trey & Zay](https://open.spotify.com/artist/1pSnX1wadmFf0PtC1uRhoL), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Baddest](https://open.spotify.com/album/3RJFvXDA7pU15hYtczkjmq) | 2:15 | 2022-06-18 | 2022-06-20 |
 | [Baddie](https://open.spotify.com/track/7yvz251wAPywXWTEQzQouR) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [ÆTEREN](https://open.spotify.com/album/5xV1bJjwvbWPGwWdVzKGB4) | 3:24 | 2025-04-26 | 2025-05-25 |
 | [Baddies & Draris](https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Baddies & Draris](https://open.spotify.com/album/29ExeT8qqQJwiHv7R7Qhvw) | 2:26 | 2023-05-20 | 2023-07-29 |
-| [bag blæk og papir](https://open.spotify.com/track/0L9vq3LfIp9Vs2CgfQ0jIX) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [\(over\)lever](https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN) | 1:44 | 2026-01-24 |  |
+| [bag blæk og papir](https://open.spotify.com/track/0L9vq3LfIp9Vs2CgfQ0jIX) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [\(over\)lever](https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN) | 1:44 | 2026-01-24 | 2026-01-31 |
 | [Bag Gardinerne](https://open.spotify.com/track/3zzg8loGt2AMnAabmWV2Mv) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 2:41 | 2022-09-03 | 2022-09-05 |
 | [Bagateller](https://open.spotify.com/track/4xJgu4DNPpGMZ2Wc9BnDXa) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Bagateller](https://open.spotify.com/album/1YYxj063ukjklfeS6VER9z) | 3:05 | 2021-10-10 | 2021-11-14 |
 | [BAGLÆNS](https://open.spotify.com/track/5pHKhwqzcjNZ6orNRKXZY6) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [BAGLÆNS](https://open.spotify.com/album/4fcJ22gFbtjkfbF9You5ZN) | 3:30 | 2022-10-14 | 2022-11-06 |
@@ -1597,6 +1597,7 @@
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-15 | 2023-09-24 |
 | [Palermo \(feat\. KESI\)](https://open.spotify.com/track/7a2ZJ7zftM3SkQ0sDvI4Aa) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:43 | 2023-05-06 | 2023-06-18 |
 | [Papaoutai \- Afro Soul](https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN), [Chill77](https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s), [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Papaoutai \(Afro Soul\)](https://open.spotify.com/album/7BBGsKeuO9m0shHaMpHCTk) | 4:39 | 2026-01-21 | 2026-01-25 |
+| [Papaoutai \- Afro Soul](https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN), [Chill77](https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s), [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Papaoutai \(Afro Soul\)](https://open.spotify.com/album/4H50NcMmYRT4SovEvVgjqW) | 4:39 | 2026-01-30 |  |
 | [PAPERWORK](https://open.spotify.com/track/3IoAMvGFYzM05B64h7qmdf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 2:25 | 2024-02-12 | 2024-02-16 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-12 |
 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 | 2023-07-07 | 2023-07-09 |

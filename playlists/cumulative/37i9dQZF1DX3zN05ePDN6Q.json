@@ -90,7 +90,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 191488,
       "name": "01",
       "url": "https://open.spotify.com/track/27gnHanG3ba00UfkEdYYhi"
@@ -15234,6 +15234,28 @@
       "duration_ms": 262527,
       "name": "Sobreviventes",
       "url": "https://open.spotify.com/track/28Se7TuxDt7sBtKScl5W2r"
+    },
+    {
+      "album": {
+        "name": "MANIFESTO CONTRA O STREETWEAR",
+        "url": "https://open.spotify.com/album/2o8h2FJyIPrm8L7xwkMy26"
+      },
+      "artists": [
+        {
+          "name": "P.L.K",
+          "url": "https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf"
+        },
+        {
+          "name": "Vignoli",
+          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73333,
+      "name": "SOHO HOUSE",
+      "url": "https://open.spotify.com/track/6EuUU1dqtkDKrwcx7sKwZ9"
     },
     {
       "album": {

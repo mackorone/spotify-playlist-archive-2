@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: CeCe Winans",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Ryan Ofei",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -12682,7 +12682,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 560282,
       "name": "That's Why We Worship - Live",
       "url": "https://open.spotify.com/track/2DawLOye9o0ts6hO3q84Mp"
@@ -13381,6 +13381,24 @@
     },
     {
       "album": {
+        "name": "Trust In God",
+        "url": "https://open.spotify.com/album/6I3WXXfIi7nhfHiEwncOPA"
+      },
+      "artists": [
+        {
+          "name": "Mervin Mayo",
+          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315268,
+      "name": "Trust In God",
+      "url": "https://open.spotify.com/track/3rjohO41DV0FyYjrYyn9jo"
+    },
+    {
+      "album": {
         "name": "Trusting God",
         "url": "https://open.spotify.com/album/6JxQ4CIIRe9IVcnLFIhbzO"
       },
@@ -13882,7 +13900,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 201951,
       "name": "Ways",
       "url": "https://open.spotify.com/track/06PdBblXoDirhxiXXMnZAv"
@@ -14578,6 +14596,24 @@
       "duration_ms": 360486,
       "name": "Winning",
       "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
+    },
+    {
+      "album": {
+        "name": "Restore: Live in London",
+        "url": "https://open.spotify.com/album/7LzEcOSf8GOcO0lH0qD3Im"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183125,
+      "name": "With God - Live",
+      "url": "https://open.spotify.com/track/5t3Y3f6dXnuznrjA5Q9f2C"
     },
     {
       "album": {

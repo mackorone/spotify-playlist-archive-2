@@ -13783,6 +13783,28 @@
     },
     {
       "album": {
+        "name": "Confiesaselo (feat. Kbp)",
+        "url": "https://open.spotify.com/album/61O2wVhv8nBG26JNQ1L6J0"
+      },
+      "artists": [
+        {
+          "name": "Kd La Caracola",
+          "url": "https://open.spotify.com/artist/6IXyjz4eekvytXY7Hm3oGc"
+        },
+        {
+          "name": "KBP",
+          "url": "https://open.spotify.com/artist/6VskZzGMkVIrNHYTQzm5P2"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167664,
+      "name": "Confiesaselo (feat. Kbp)",
+      "url": "https://open.spotify.com/track/3qJwuExs27hIYLkwUX1BF9"
+    },
+    {
+      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -15904,7 +15926,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 243070,
       "name": "Dardos",
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
@@ -34205,7 +34227,7 @@
         },
         {
           "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+          "url": "https://open.spotify.com/artist/5QVPyqetsyLThjJGfqpAUV"
         }
       ],
       "date_added": "2025-12-14",
@@ -45226,7 +45248,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 256199,
       "name": "No Me Debes Nada",
       "url": "https://open.spotify.com/track/3PW8d0bzitfiyeNwsG1MQb"
@@ -60768,7 +60790,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 151986,
       "name": "Soltero",
       "url": "https://open.spotify.com/track/7tVRrUDjiGcyBpdvGPCid8"

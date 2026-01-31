@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-509 songs - 2 day 1 hr 25 min
+510 songs - 2 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Era a Mão de Deus \- Ao Vivo](https://open.spotify.com/track/4lOmvsPliiQYrzOu7E2cFA) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Era a Mão de Deus \(Ao Vivo\)](https://open.spotify.com/album/5MesMCBT0UOFd8F05266dW) | 2:50 | 2025-02-21 |  |
 | [Era a Mão de Deus \- Ao Vivo](https://open.spotify.com/track/5oWAMVC1YYs8Sn3SW6vDM5) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Era a Mão de Deus \(Ao Vivo\)](https://open.spotify.com/album/6JqRTUofnu10dun9IXpa3Z) | 5:47 | 2025-06-06 | 2025-11-01 |
 | [Escape](https://open.spotify.com/track/6z5hadHglLMtp2sf8L8Or9) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh) | [Escape](https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj) | 4:33 | 2025-01-31 |  |
+| [Escape \- Acústico](https://open.spotify.com/track/2muJIyYeYKUv0cAQvoPKWK) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/63SgNZhriYWjvXiCIH9fui) | 3:47 | 2026-01-08 |  |
 | [Escape / Nunca Pare de Lutar](https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9) | [Jadson Moreno](https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23) | [Escape / Nunca Pare de Lutar](https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q) | 9:25 | 2024-11-07 | 2025-12-28 |
 | [Escolho Deus](https://open.spotify.com/track/4DlUWz3HnEoQrwKN0fFfwO) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 2](https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918) | 4:01 | 2022-10-28 |  |
 | [Esperança \- Ao Vivo](https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Esperança \(Ao Vivo\)](https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO) | 5:19 | 2022-09-09 | 2023-07-08 |
@@ -298,7 +299,7 @@
 | [Não Há Outro](https://open.spotify.com/track/3YKzZGZFCZBE60IuPkUY1C) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Não Há Outro](https://open.spotify.com/album/3DhSTaULAqGDEZnFWCmPzK) | 6:26 | 2023-04-15 | 2023-04-22 |
 | [Não Me Esconderei de Ti](https://open.spotify.com/track/3Gp4BFOewWTBGldUTqTYLV) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Não Me Esconderei de Ti](https://open.spotify.com/album/6fOmrb6SXy3UGzfnPRZ1ms) | 8:18 | 2025-10-03 |  |
 | [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 | 2022-09-09 | 2024-08-10 |
-| [Não Pare de Adorar \- Ao Vivo](https://open.spotify.com/track/3v3Foeumfd7WdPAkMppRN8) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Não Pare de Adorar \(Ao Vivo\)](https://open.spotify.com/album/388nEk7RQVxEUkIppWUV6L) | 5:20 | 2025-05-02 |  |
+| [Não Pare de Adorar \- Ao Vivo](https://open.spotify.com/track/3v3Foeumfd7WdPAkMppRN8) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Não Pare de Adorar \(Ao Vivo\)](https://open.spotify.com/album/388nEk7RQVxEUkIppWUV6L) | 5:20 | 2025-05-02 | 2026-01-31 |
 | [Não Quero Ser Mais Eu](https://open.spotify.com/track/10fS9do6r4TJVZUoeYzLzX) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS) | [Não Quero Ser Mais Eu](https://open.spotify.com/album/6dH4AHTuTYLubGRzRnj7d0) | 4:55 | 2025-05-16 | 2025-06-07 |
 | [Não Te Abandono](https://open.spotify.com/track/2QUxsTL6NN2aLISse5WMiD) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Matias Palheiro](https://open.spotify.com/artist/1lLHBfhNJSt67XhQBLJ7Wd), [Guilherme Ludtke](https://open.spotify.com/artist/2dOAyOfeeYGOE3TDXfHLwt) | [Não Te Abandono](https://open.spotify.com/album/5KmuqpltfJxdP1itCpGPZQ) | 4:26 | 2023-10-20 | 2023-11-04 |
 | [Não Tem Como Dar Errado \- Ao Vivo em Salvador](https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Não Tem Como Dar Errado](https://open.spotify.com/album/5NMVWJzQs8ZRk5ablWbYW0) | 3:22 | 2025-03-17 |  |

@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Again and Again",
+        "url": "https://open.spotify.com/album/1Ln8FNF3Sl5vkw4Gnp3I3c"
+      },
+      "artists": [
+        {
+          "name": "Rich Packman",
+          "url": "https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262045,
+      "name": "Again and Again",
+      "url": "https://open.spotify.com/track/1LAM7VfMQ3uXe81PJAC6R6"
+    },
+    {
+      "album": {
         "name": "Age of Aquarius",
         "url": "https://open.spotify.com/album/6ej2r12pNYvAmXOTKcD52k"
       },
@@ -1332,6 +1350,24 @@
       "duration_ms": 172408,
       "name": "Black",
       "url": "https://open.spotify.com/track/0ul44PajiEmkNrTe8iOCMH"
+    },
+    {
+      "album": {
+        "name": "Blaze",
+        "url": "https://open.spotify.com/album/5gFX83LBIgN7JAxsimPbX8"
+      },
+      "artists": [
+        {
+          "name": "Hook & Lace",
+          "url": "https://open.spotify.com/artist/7paQNTCMf2I8SHBvLG4cwN"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189117,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/58AdlO3Hoqc8HLm7JpePNN"
     },
     {
       "album": {
@@ -4951,6 +4987,24 @@
     },
     {
       "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/21vKeyIaOKGHc1G98mjAX7"
+      },
+      "artists": [
+        {
+          "name": "I'd Rather Be",
+          "url": "https://open.spotify.com/artist/4EETQElkLfuxxTydmWxpLS"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134005,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/2EpfWYkOZPkXCqFvJXYlw5"
+    },
+    {
+      "album": {
         "name": "Grown Up",
         "url": "https://open.spotify.com/album/3jDQljn8CzAVOMZVdc7dlh"
       },
@@ -5720,7 +5774,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 258826,
       "name": "I Worship Myself",
       "url": "https://open.spotify.com/track/6UugtnUgPn4K8poZzzjlFK"
@@ -8530,6 +8584,24 @@
     {
       "album": {
         "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2OOHex3XINAsQiaepiNDfo"
+      },
+      "artists": [
+        {
+          "name": "Black Reuss",
+          "url": "https://open.spotify.com/artist/1XOqNj1Cvo0DtJUv7TGa6R"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335853,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/0PM5XynIMuGuKK7quAutGc"
+    },
+    {
+      "album": {
+        "name": "Oblivion",
         "url": "https://open.spotify.com/album/6JxEAIvajQ93CAMEdmnR9E"
       },
       "artists": [
@@ -10999,6 +11071,24 @@
     },
     {
       "album": {
+        "name": "Solitude Chronicles",
+        "url": "https://open.spotify.com/album/7laMbZEKxrcET06kkoJH1S"
+      },
+      "artists": [
+        {
+          "name": "Niamh",
+          "url": "https://open.spotify.com/artist/2Nqqjj4NSnqutYDbTFwaAx"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213280,
+      "name": "Solitude Chronicles",
+      "url": "https://open.spotify.com/track/6F6dFcMcklOmJgGGu7w8Up"
+    },
+    {
+      "album": {
         "name": "SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET",
         "url": "https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq"
       },
@@ -11184,7 +11274,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 187988,
       "name": "Spare Window",
       "url": "https://open.spotify.com/track/3LhGupBPjqbMc9BozMjKRg"

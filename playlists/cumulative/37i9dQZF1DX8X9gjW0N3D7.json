@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: \u00c9douard Tremblay-Grenier",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Philippe B",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 212184,
       "name": "Abri",
       "url": "https://open.spotify.com/track/0JOPcNqsVH2uVsm9oKmFBc"
+    },
+    {
+      "album": {
+        "name": "18 ans et +",
+        "url": "https://open.spotify.com/album/5aIyq2uR5QJIO9JNB9MwIA"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efma Frank",
+          "url": "https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147093,
+      "name": "Ainsi soit-il",
+      "url": "https://open.spotify.com/track/4GYUVIoCES5J2U0CUPNoQ6"
     },
     {
       "album": {
@@ -903,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Chrysalide",
+        "url": "https://open.spotify.com/album/4NDjgidIqH1yTDLl5IyC8Q"
+      },
+      "artists": [
+        {
+          "name": "Maude Loue",
+          "url": "https://open.spotify.com/artist/6i8dGfCYVyg2blyG6kKbEq"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171028,
+      "name": "Chrysalide",
+      "url": "https://open.spotify.com/track/4a0CIOGcBMhfVkQQFyEPv9"
+    },
+    {
+      "album": {
         "name": "Ch\u00e2teau de sable",
         "url": "https://open.spotify.com/album/1mhXgb3EuFPMO58Pv3K4d2"
       },
@@ -1070,7 +1106,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 145500,
       "name": "Comment Avancer",
       "url": "https://open.spotify.com/track/26ScK8AH5PEIQZCg7qLtWE"
@@ -1705,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "ENCORE ENCORE",
+        "url": "https://open.spotify.com/album/5PVXBvRLA9BOPnRU0CYLae"
+      },
+      "artists": [
+        {
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191186,
+      "name": "ENCORE ENCORE",
+      "url": "https://open.spotify.com/track/5BoKkmRZBVbpjrdoMe92TO"
+    },
+    {
+      "album": {
         "name": "Encore une nuit",
         "url": "https://open.spotify.com/album/6DGk9TbDgkGHGZppzfVfIg"
       },
@@ -1882,7 +1936,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 191226,
       "name": "fin pm",
       "url": "https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl"
@@ -2431,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "J'ai tout foutu en l'air",
+        "url": "https://open.spotify.com/album/17Fl4oG6qJVol4wETlNZML"
+      },
+      "artists": [
+        {
+          "name": "Le Husky",
+          "url": "https://open.spotify.com/artist/5UKoCmzADSRKmREG2vUK8L"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207006,
+      "name": "J'ai tout foutu en l'air",
+      "url": "https://open.spotify.com/track/4lpOQ8uuQyIIJiyKvigj0B"
+    },
+    {
+      "album": {
         "name": "Tout ce que l\u2019aube promet",
         "url": "https://open.spotify.com/album/3RJCD7qNl3cN3QLb0DYeA1"
       },
@@ -2536,7 +2608,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 193856,
       "name": "Jamais",
       "url": "https://open.spotify.com/track/4vN5USCwBj2e2gFkUXSBH8"
@@ -2857,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "L'avalanche",
+        "url": "https://open.spotify.com/album/1eQGR0F4cMZTIg5Xj6wjVO"
+      },
+      "artists": [
+        {
+          "name": "Moses Belanger",
+          "url": "https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "L'avalanche",
+      "url": "https://open.spotify.com/track/4epe5Hl4QCVyuPMMuV1qbi"
+    },
+    {
+      "album": {
         "name": "Point",
         "url": "https://open.spotify.com/album/54amvrCm1neA2wWwLRX7Wo"
       },
@@ -2962,6 +3052,24 @@
       "duration_ms": 185120,
       "name": "La f\u00eate - Radio Edit",
       "url": "https://open.spotify.com/track/1Jbmi0xYUQ01AzNCPfrmR2"
+    },
+    {
+      "album": {
+        "name": "La jeunesse est un autre pays",
+        "url": "https://open.spotify.com/album/29Yx5TPwiie9YHPHfhwPcA"
+      },
+      "artists": [
+        {
+          "name": "Philippe B",
+          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240103,
+      "name": "La jeunesse est un autre pays",
+      "url": "https://open.spotify.com/track/7FyOV9kysA1mfRH6RUPjtb"
     },
     {
       "album": {
@@ -3416,7 +3524,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 199498,
       "name": "le monde est une femme",
       "url": "https://open.spotify.com/track/6aXtLxcclrmVQwGW58RfK2"
@@ -3954,7 +4062,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 233885,
       "name": "Ma ville (avec Lisa Riendeau)",
       "url": "https://open.spotify.com/track/3TlfrwwcRwlq1bZDIQuHh8"
@@ -4138,7 +4246,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 231760,
       "name": "Mirador",
       "url": "https://open.spotify.com/track/7cMkIWm71yKBsZBiCXwWhJ"
@@ -4489,6 +4597,24 @@
     },
     {
       "album": {
+        "name": "tout me quitte / tout vient \u00e0 moi",
+        "url": "https://open.spotify.com/album/6NzSqNUhcdFuOYlqgGVZJn"
+      },
+      "artists": [
+        {
+          "name": "Nana Quinn",
+          "url": "https://open.spotify.com/artist/6oB1eI3s62d0KyLxrKG0x4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277461,
+      "name": "Oiseau migrateur",
+      "url": "https://open.spotify.com/track/2QOHrzgwSZg7oDrrLEshB0"
+    },
+    {
+      "album": {
         "name": "Termin\u00e9 le fun / Om mani padme hum",
         "url": "https://open.spotify.com/album/7a1qtGOWMcTifGDI0YxhMR"
       },
@@ -4590,7 +4716,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 288773,
       "name": "Oumuamua",
       "url": "https://open.spotify.com/track/1Hw1bse3CqWfrmhQWEu0mj"
@@ -6245,6 +6371,28 @@
     },
     {
       "album": {
+        "name": "Vendredi",
+        "url": "https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Desjardins",
+          "url": "https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK"
+        },
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186546,
+      "name": "Vendredi",
+      "url": "https://open.spotify.com/track/1hN1IWffJhyz5zWY9SqEev"
+    },
+    {
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/1GGqEpssTMppq3LPZYUSdd"
       },
@@ -6551,7 +6699,7 @@
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 258000,
+      "duration_ms": 264580,
       "name": "\u00c0 toi",
       "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
     },
@@ -6572,7 +6720,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 179549,
       "name": "\u00c7a date pas d'hier",
       "url": "https://open.spotify.com/track/11kjMpoS9rZwcOeodMXVNZ"

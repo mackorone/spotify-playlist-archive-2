@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAKfcNyzt25BWrnfI/Ks3x3gbQBSHod",
+  "snapshot_id": "AAAKfgNk9slBu4snPM0/N3oEtIBNVm94",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -144935,6 +144935,26 @@
       "duration_ms": 276080,
       "name": "Gira Gira",
       "url": "https://open.spotify.com/track/0vHCmjN8pepvdu41r69gcB"
+    },
+    {
+      "added_at": "2026-01-30 09:05:36",
+      "album": {
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/12oHVYKFFU9n6BguwU64xx"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "duration_ms": 153312,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/3oNQ6NkihVzQkV5qhk2Pbe"
     }
   ],
   "unique_name": "Purge",

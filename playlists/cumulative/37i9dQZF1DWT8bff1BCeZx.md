@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-835 songs - 2 day 6 hr 48 min
+835 songs - 2 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Baba](https://open.spotify.com/track/232eeADNA3bz9OmurYANKQ) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh) | [Baba](https://open.spotify.com/album/51wJ2YFD6Ci13LEOQPInqj) | 2:55 | 2025-03-28 | 2025-08-22 |
 | [BABA](https://open.spotify.com/track/2D8XyKuIJEFxlRxboY3Bab) | [Callie4k](https://open.spotify.com/artist/2j9rROYpEIotEUlh8FescC), [ManLikeStunna](https://open.spotify.com/artist/2vHJNXr3Xe6p0wi2YPSXxL) | [BABA](https://open.spotify.com/album/6jXXw60JwgQJczltb0uMmy) | 2:24 | 2024-07-03 | 2025-03-14 |
 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 | 2024-04-05 | 2025-03-14 |
+| [Baba \(You Deserve Our Praise\)](https://open.spotify.com/track/3EdMgZwKNqFln0EaVD9yXT) | [David Forlu](https://open.spotify.com/artist/3GZOiQIDEfPmITy20a8Wto) | [My Soul Praise](https://open.spotify.com/album/79jvyD3488GD1N9YUyXkP5) | 6:35 | 2026-01-30 |  |
 | [Baba \- Live](https://open.spotify.com/track/6B72ZKiTWdETsvdBYiVaxH) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N) | [Baba \(Live\)](https://open.spotify.com/album/16tmL6VNAlCge3aOIWzznF) | 4:25 | 2025-08-02 |  |
 | [Baba Modupe](https://open.spotify.com/track/5eHL0zrUKt5X0t2EBUVVi4) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Baba Modupe](https://open.spotify.com/album/3CN7WpsAVuE4CLmBRr90lj) | 3:05 | 2026-01-16 |  |
 | [BABA SAANU](https://open.spotify.com/track/5solCPoM5lNcPkndd3LZMB) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [BABA SAANU](https://open.spotify.com/album/0Hb3BEdlnKqvzMsNa2t4QP) | 2:54 | 2025-04-25 | 2025-08-15 |
@@ -294,6 +295,7 @@
 | [Halle](https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Halle](https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub) | 2:20 | 2023-08-25 | 2024-04-07 |
 | [Halle](https://open.spotify.com/track/2sXiwh0GsUlj6Cvbs0IpVJ) | [Tevinnmusic](https://open.spotify.com/artist/1Vw2K0RswB87LX58SylIBB), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [Halle](https://open.spotify.com/album/6iMag6WolYLTNHYU2P8Mle) | 2:31 | 2024-11-01 | 2025-02-28 |
 | [Hallelujah](https://open.spotify.com/track/7um12SniMsNPkyEfG9hV2j) | [Ayo King](https://open.spotify.com/artist/4FIzcnSD2oCZT6Hsf54Wky) | [Hallelujah](https://open.spotify.com/album/4yBI8rug9j0UpawJ8GLvXj) | 2:45 | 2024-07-19 | 2025-02-28 |
+| [Hallelujah](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [JOY](https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY) | 2:29 | 2026-01-30 |  |
 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 | 2023-04-06 | 2023-09-21 |
 | [Hallelujah](https://open.spotify.com/track/40UuVTiL79xb2ZO9k7QGFt) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [Hallelujah](https://open.spotify.com/album/0GHGEfnrr1M7PiNLehYyK6) | 4:29 | 2023-12-15 | 2025-03-14 |
 | [Hallelujah](https://open.spotify.com/track/1jQR49T5QNk72eGuVEdieo) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Hallelujah](https://open.spotify.com/album/6sSDyDiBjKlutOu40jQ4e2) | 3:20 | 2025-04-18 | 2025-06-20 |
@@ -737,8 +739,6 @@
 | [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 | 2025-04-04 |
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-11-14 |
 | [Tout nouveau tout beau](https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Tout nouveau tout beau](https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv) | 2:47 | 2024-11-08 | 2025-02-28 |
-| [Track 1](https://open.spotify.com/track/3EdMgZwKNqFln0EaVD9yXT) | [David Forlu](https://open.spotify.com/artist/3GZOiQIDEfPmITy20a8Wto) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-30 |  |
-| [Track 1](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-30 |  |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-17 |
 | [Tula](https://open.spotify.com/track/1ZMhq5I7bHDSPzpPU2BVmk) | [Tenacious Tj](https://open.spotify.com/artist/6DccTdAbcqIxBdN6VqVbS7), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Tula](https://open.spotify.com/album/12DT3SfaTFiUaaoUmcxjI0) | 3:21 | 2025-01-24 | 2025-02-28 |
 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 | 2023-04-06 | 2025-02-28 |

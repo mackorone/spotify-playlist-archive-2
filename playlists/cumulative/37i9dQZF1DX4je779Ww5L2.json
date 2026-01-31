@@ -110,7 +110,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 193038,
       "name": "Bird Song - Acoustic",
       "url": "https://open.spotify.com/track/6mqy5To9aDKB7pNLFwMQms"
@@ -334,6 +334,24 @@
       "duration_ms": 228897,
       "name": "Dragon's Eyes",
       "url": "https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH"
+    },
+    {
+      "album": {
+        "name": "August Parker",
+        "url": "https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX"
+      },
+      "artists": [
+        {
+          "name": "Ozark Henry",
+          "url": "https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Eight",
+      "url": "https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E"
     },
     {
       "album": {
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 281000,
       "name": "Touching God (Feat. Yebba & Blood Orange)",
       "url": "https://open.spotify.com/track/2GjW83G2ZUF7pLpcUKuP9Y"

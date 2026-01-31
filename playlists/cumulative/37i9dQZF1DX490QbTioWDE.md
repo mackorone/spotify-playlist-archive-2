@@ -2,9 +2,9 @@
 
 ### [100% Cuarteto](https://open.spotify.com/playlist/37i9dQZF1DX490QbTioWDE)
 
-> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
+> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno y Valentina Marquez
 
-610 songs - 1 day 12 hr 56 min
+611 songs - 1 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Hasta la Madre](https://open.spotify.com/track/1HBZMNyfxINzHjfkqSPmDx) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Hasta La Madre](https://open.spotify.com/album/0hCZHDeQmBVinTPuWd6vba) | 2:02 | 2024-05-24 | 2024-06-08 |
 | [Hasta Que Me Olvides](https://open.spotify.com/track/4MtuoIRFMZeKOeVGxDUR8O) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Hasta Que Me Olvides](https://open.spotify.com/album/42Krexxg6tMxOepX9Dnoej) | 3:38 | 2025-11-21 |  |
 | [Hasta Que Te Conoci](https://open.spotify.com/track/47Jer41va3Qk9gDQHTCtns) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Hasta Que Te Conoci](https://open.spotify.com/album/5Y9VVWPYWobRe8eDtD7II1) | 2:47 | 2024-12-13 | 2025-03-09 |
-| [Hola](https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Hola](https://open.spotify.com/album/380P3ZSSNeJgQ3AeyOE5dz) | 2:38 | 2024-08-30 |  |
+| [Hola](https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Hola](https://open.spotify.com/album/380P3ZSSNeJgQ3AeyOE5dz) | 2:38 | 2024-08-30 | 2026-01-31 |
 | [Hola Bebe](https://open.spotify.com/track/3ty9mgcIIvgQ0j9qCmtUKy) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [Hola Bebe](https://open.spotify.com/album/2bLKhZCC42Tqm28MqmQAZ4) | 3:24 | 2023-01-13 | 2023-01-21 |
 | [HOLA PERDIDA](https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA](https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl) | 2:46 | 2024-01-05 | 2025-09-13 |
 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 | 2024-05-31 | 2025-10-14 |
@@ -603,6 +603,7 @@
 | [Y Volo Volo](https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:21 | 2021-12-24 | 2022-07-29 |
 | [Ya lo sabía](https://open.spotify.com/track/5hqxuK3VJuESk7V1TPt7UT) | [Carli Jiménez](https://open.spotify.com/artist/5rGUuPEIFYMVmocNdihpUe) | [Ya lo sabía](https://open.spotify.com/album/3bBKKJriXCCiBr0eDDBGR8) | 3:19 | 2021-12-24 | 2022-07-09 |
 | [Ya Me Cansé](https://open.spotify.com/track/6vg8SLZ5q5RFfle2bbtk4c) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Ya Me Cansé](https://open.spotify.com/album/71Kki8oS4g9fZ7ZTX6129X) | 2:36 | 2025-05-23 |  |
+| [Ya no duele \- En Vivo](https://open.spotify.com/track/3KvGVVWnH7U89guq2dUPQe) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Ya no duele \(En Vivo\)](https://open.spotify.com/album/6j2kO7QHkDPeQaeiaw6gOc) | 3:14 | 2026-01-30 |  |
 | [Ya no hay forma de pedir perdón](https://open.spotify.com/track/5qlxGqiNIEbe4lxXcH38tg) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Ya no hay forma de pedir perdón](https://open.spotify.com/album/1WBMn7xmEcRl9l6msQ5VVw) | 3:15 | 2025-02-28 | 2025-04-21 |
 | [Ya No Llora \- En Vivo](https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ya No Llora \(En Vivo\)](https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S) | 2:58 | 2022-12-10 | 2025-05-26 |
 | [Ya No Quiero](https://open.spotify.com/track/5ZRjSlIgKzTtjaLgyVZ1jY) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Ya No Quiero](https://open.spotify.com/album/03xaq8TIlNDwh16ksZUSTV) | 4:06 | 2021-12-24 | 2022-07-28 |

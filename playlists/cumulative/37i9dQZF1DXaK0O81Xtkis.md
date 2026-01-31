@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Louis Tomlinson
 
-1,521 songs - 3 day 3 hr 57 min
+1,523 songs - 3 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [anxiety.](https://open.spotify.com/track/4UN1cxXIlQhmOWXhEkrBqu) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [anxiety.](https://open.spotify.com/album/4jQXsSUMXkFzUBdUs1nRxa) | 2:36 | 2021-11-19 | 2022-02-26 |
 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-18 | 2022-08-27 |
 | [Anything You Want](https://open.spotify.com/track/78LMazmfqncADjyJVae8dN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Anything You Want](https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu) | 2:03 | 2022-03-18 | 2022-07-02 |
-| [APEROL SPRITZ](https://open.spotify.com/track/6qFHz3t1MRt6WsC8o9CoOw) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [APEROL SPRITZ](https://open.spotify.com/album/1MB7klFDOuiVzrnrVztNXh) | 3:12 | 2025-09-19 |  |
+| [APEROL SPRITZ](https://open.spotify.com/track/6qFHz3t1MRt6WsC8o9CoOw) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [APEROL SPRITZ](https://open.spotify.com/album/1MB7klFDOuiVzrnrVztNXh) | 3:12 | 2025-09-19 | 2026-01-31 |
 | [are we in love yet?](https://open.spotify.com/track/59bPrwlWkwqqDSFu8o1cdu) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [are we in love yet?](https://open.spotify.com/album/2xQI0evHXKQ3I38ubLaRy6) | 2:57 | 2025-03-07 | 2025-04-12 |
 | [Are You Happy Now?](https://open.spotify.com/track/6kL5sHN0jZlajLUeimO26b) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Superbloom](https://open.spotify.com/album/5aUmfNqAzNgeZPpjt0xnMJ) | 2:29 | 2025-01-24 | 2025-04-12 |
 | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 | 2021-10-29 | 2022-01-08 |
@@ -640,7 +640,7 @@
 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 | 2022-09-30 | 2023-03-04 |
 | [I Could Do This All Night](https://open.spotify.com/track/4MYVPz0rYU0jhT5HtFQni3) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [I Could Do This All Night](https://open.spotify.com/album/6TV5kVpf7hUVDhJ3lroF2V) | 3:08 | 2022-07-15 | 2022-08-13 |
 | [I Could Love U](https://open.spotify.com/track/7CtzUcqgOnJF722PJ2Yf88) | [Logan Priest](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [I Could Love U](https://open.spotify.com/album/74pxu890q1Fi8cChdbBXSx) | 3:18 | 2025-03-21 | 2025-05-24 |
-| [I Dare Ya](https://open.spotify.com/track/0Dzyi3BEF37P2QnDY390Qy) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [I Dare Ya](https://open.spotify.com/album/3AyLhNmA6U8R7Q0VYC3HO4) | 2:26 | 2025-09-27 |  |
+| [I Dare Ya](https://open.spotify.com/track/0Dzyi3BEF37P2QnDY390Qy) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [I Dare Ya](https://open.spotify.com/album/3AyLhNmA6U8R7Q0VYC3HO4) | 2:26 | 2025-09-27 | 2026-01-31 |
 | [I Didn’t Use To](https://open.spotify.com/track/4r1CCwT9h9PNIitYde2UEd) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [INSIDE :](https://open.spotify.com/album/7fRksONg2LUzGqXbIMd140) | 4:39 | 2025-04-11 | 2025-06-28 |
 | [I Don't Blame You](https://open.spotify.com/track/2q4OrVl17enVQwEP3FqICn) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Say What You Want](https://open.spotify.com/album/666B6FOTPm0UYxwpto6N2x) | 3:58 | 2025-09-27 |  |
 | [I Don't Care](https://open.spotify.com/track/59hOaDEcmGb1ILfHJG5zOw) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [I Don't Care](https://open.spotify.com/album/2XLiR0W0Nj4nnO3yuDYU4d) | 3:26 | 2024-07-19 | 2024-08-17 |
@@ -1117,6 +1117,7 @@
 | [SATURDAY NIGHT](https://open.spotify.com/track/4r2K4hNxpIc21xw2e7PhdF) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [SATURDAY NIGHT](https://open.spotify.com/album/4EDOoHVfkI7JNsQMfol6sc) | 2:32 | 2024-02-23 | 2024-04-19 |
 | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/track/0ykHYUYiltQo6Xcmdq3Tp5) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/album/1aRvubQxQHM7IqKnmiJvxE) | 2:54 | 2024-10-18 | 2025-01-25 |
 | [Save My Soul](https://open.spotify.com/track/4EcGbkv46bCvSzEPmQvQkj) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU) | 3:10 | 2023-12-01 | 2024-02-10 |
+| [savior](https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [savior](https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa) | 2:43 | 2026-01-30 |  |
 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-08-18 | 2026-01-17 |
 | [Saying “No”](https://open.spotify.com/track/5F1QktfxOgkz6ZIU6FUPHD) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Saying “No”](https://open.spotify.com/album/4enPd0cof71ZE5VSIi4zQ3) | 3:54 | 2025-07-11 | 2025-09-21 |
 | [Scarlett](https://open.spotify.com/track/6dIU41Lx5NqUncAnPOJDco) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:16 | 2022-04-01 | 2022-04-09 |
@@ -1474,6 +1475,7 @@
 | [WHERE I WANNA BE FOUND](https://open.spotify.com/track/4AFBCemec0cYa2JLXqvH9M) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [WHERE I WANNA BE FOUND](https://open.spotify.com/album/1E8LLpuaE6VXqq9Ca59ASc) | 2:59 | 2022-07-19 | 2022-08-09 |
 | [WHERE I WANNA BE FOUND](https://open.spotify.com/track/73UaWNjVzf8Q3Q50UMNv5m) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [WHERE I WANNA BE FOUND](https://open.spotify.com/album/3g0IKAkUpz49gyxDV6C6HD) | 2:59 | 2022-07-19 | 2022-08-27 |
 | [where tf have you been?](https://open.spotify.com/track/7LtN3QdIRFlSyZXLOv2LQW) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [where tf have you been?](https://open.spotify.com/album/7h4jQ9Kbr0wx9R71ydGj1X) | 2:50 | 2024-01-26 | 2024-03-16 |
+| [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 | 2026-01-30 |  |
 | [WHO HURT YOU?](https://open.spotify.com/track/4HCsFCmFZBxBuLasSvD9p8) | [Benicio Bryant](https://open.spotify.com/artist/4qs1nF5ED0DZKyxFwNCyMC) | [WHO HURT YOU?](https://open.spotify.com/album/3DFbl7qb3fUiZ91kDNyf3p) | 2:22 | 2022-04-29 | 2022-06-25 |
 | [Who’s In Control](https://open.spotify.com/track/1GosSlFMwNOZ3tpb5LY3pW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Who's In Control](https://open.spotify.com/album/67FaNxCIc8ZSzeZffbm69l) | 3:05 | 2022-02-18 | 2022-02-26 |
 | [why u gotta be like that \(feat\. Nightly\)](https://open.spotify.com/track/7CRThl2cGDh1o9p3ivaLbG) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [why u gotta be like that \(feat\. Nightly\)](https://open.spotify.com/album/18I1ughAhwfDLtaU9eX3uW) | 2:23 | 2022-08-19 | 2022-11-12 |

@@ -215,6 +215,28 @@
     },
     {
       "album": {
+        "name": "Tristana II",
+        "url": "https://open.spotify.com/album/1RDgbnACke01gMmoJBZf8z"
+      },
+      "artists": [
+        {
+          "name": "Stereossauro",
+          "url": "https://open.spotify.com/artist/5HunmMrkNBMTP3L2e5qQE0"
+        },
+        {
+          "name": "Ana Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/50rpSRm1YcmK6fH8A3bUyk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228640,
+      "name": "A melhor noite da minha vida",
+      "url": "https://open.spotify.com/track/1mCAyajh7DZEsQvtETiWAv"
+    },
+    {
+      "album": {
         "name": "A sensa\u00e7\u00e3o jamais ser\u00e1 a mesma",
         "url": "https://open.spotify.com/album/6axjAd3u17lzYmGi24i0yB"
       },
@@ -7142,24 +7164,6 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Stereossauro",
-          "url": "https://open.spotify.com/artist/5HunmMrkNBMTP3L2e5qQE0"
-        }
-      ],
-      "date_added": "2026-01-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/1mCAyajh7DZEsQvtETiWAv"
     },
     {
       "album": {

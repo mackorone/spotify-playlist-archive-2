@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Funky
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,598 likes - 80 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,694 likes - 80 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 55 | [Más Santo](https://open.spotify.com/track/1ajhhCEKHZxoS9SksLH0IY) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Más Santo](https://open.spotify.com/album/5orjxofGwmP5Yg1JcgA16n) | 7:26 |
 | 56 | [Está Bien Con Mi Alma](https://open.spotify.com/track/2xFEe64zmqDe7GdBwUT0jS) | [Gracia Soberana Música](https://open.spotify.com/artist/3yZLchlyOSmGC6B6bUhgVU), [Jonathan & Sarah Jerez](https://open.spotify.com/artist/4ZuSvCPOCMcznMwVBHy9r1) | [Himnos](https://open.spotify.com/album/5wFiCH6EOm6bOegvI1mllI) | 5:07 |
 | 57 | [AMOR INIGUALABLE](https://open.spotify.com/track/6JbdBGyzPNvjHPkHSFbuge) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Spanglish](https://open.spotify.com/album/2LizIuIM9F7sktdcyHLpwI) | 3:18 |
-| 58 | [A Mi Lado](https://open.spotify.com/track/61X4KNHnFLsCDIYCuHRDcg) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Buenas y Malas](https://open.spotify.com/album/7nx04xYu5HzZsSIfNsk4W0) | 2:53 |
-| 59 | [GRACIAS](https://open.spotify.com/track/2sZ3ZWYVtFDqvBZDB4kyd1) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [GRACIAS](https://open.spotify.com/album/2o4wNjj8v1ltM7rwAHnpf5) | 2:46 |
-| 60 | [CON DIO'](https://open.spotify.com/track/5BGBIy5gxjAXWgtOFYKi0G) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [CON DIO'](https://open.spotify.com/album/22LMGZA7CzDWuz4oJvFiwH) | 3:29 |
-| 61 | [SONRÍO](https://open.spotify.com/track/0f9DOgwi2AWErQ8ucD4z4f) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Kenny Rivers](https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9), [Mēlek](https://open.spotify.com/artist/1UVDoQ4UoNnXzht0jI2bSH) | [SONRÍO](https://open.spotify.com/album/2XkdEUvns6iZ6TQfLXbHvv) | 3:02 |
-| 62 | [Despiértame](https://open.spotify.com/track/6F4eOE74oAOsrt1Ws47EOX) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Despiértame](https://open.spotify.com/album/5nQShqiqCqU4lZ7e0hAga3) | 3:07 |
-| 63 | [Sin Ti \(Desde El Valle\)](https://open.spotify.com/track/5fProtUJh6iNKAniBkJAKd) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Sin Ti \(Desde El Valle\)](https://open.spotify.com/album/5JS2yJKsrIcm7n1JalBWAr) | 3:03 |
+| 58 | [GRACIAS](https://open.spotify.com/track/2sZ3ZWYVtFDqvBZDB4kyd1) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [GRACIAS](https://open.spotify.com/album/2o4wNjj8v1ltM7rwAHnpf5) | 2:46 |
+| 59 | [CON DIO'](https://open.spotify.com/track/5BGBIy5gxjAXWgtOFYKi0G) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [CON DIO'](https://open.spotify.com/album/22LMGZA7CzDWuz4oJvFiwH) | 3:29 |
+| 60 | [SONRÍO](https://open.spotify.com/track/0f9DOgwi2AWErQ8ucD4z4f) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Kenny Rivers](https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9), [Mēlek](https://open.spotify.com/artist/1UVDoQ4UoNnXzht0jI2bSH) | [SONRÍO](https://open.spotify.com/album/2XkdEUvns6iZ6TQfLXbHvv) | 3:02 |
+| 61 | [Despiértame](https://open.spotify.com/track/6F4eOE74oAOsrt1Ws47EOX) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Despiértame](https://open.spotify.com/album/5nQShqiqCqU4lZ7e0hAga3) | 3:07 |
+| 62 | [Sin Ti \(Desde El Valle\)](https://open.spotify.com/track/5fProtUJh6iNKAniBkJAKd) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Sin Ti \(Desde El Valle\)](https://open.spotify.com/album/5JS2yJKsrIcm7n1JalBWAr) | 3:03 |
+| 63 | [Fuerzas Pa'](https://open.spotify.com/track/6SsspmS2fecS6kMKEN3uEP) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Fuerzas Pa'](https://open.spotify.com/album/4LIG7szX1bzJitlAlf0PUz) | 2:39 |
 | 64 | [Gracias \(Un Viaje Sinfónico de Fe y Esperanza\)](https://open.spotify.com/track/7na223f2psSLrQ12d6IHju) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Gracias \(Un Viaje Sinfónico de Fe y Esperanza\)](https://open.spotify.com/album/7Jz5g6am9wp7MIVSvbDCau) | 4:21 |
 | 65 | [Amor Especial](https://open.spotify.com/track/2vEqGa4ZbAilkux7z3X7YJ) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz), [Juan Carlos Rodriguez](https://open.spotify.com/artist/1qOS5nTlVontMVE6tJPWZH) | [Amor Especial](https://open.spotify.com/album/0T3YhY84AB8JkMyVBFGsdq) | 3:12 |
 | 66 | [Libre \- Versión Español](https://open.spotify.com/track/3CRtdQVwTgWs0D9Nwfqlm8) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Cales Louima](https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP) | [Libre \(Versión Español\)](https://open.spotify.com/album/6WGjrHQ1DU491pVUPT5anm) | 4:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 79 | [Barro](https://open.spotify.com/track/5ch9ic7jJvh2Y9uDSjXzgM) | [Kairo Worship](https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Barro](https://open.spotify.com/album/7vmYLmjGtBR6iM8SsundgH) | 21:32 |
 | 80 | [Aleluya, Él Viene Ya](https://open.spotify.com/track/20qAKoemFPaqeDsUqwdxTJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:58 |
 
-Snapshot ID: `AAAAAE14ASs7CsKX1BlBdBJZsQURGE7g`
+Snapshot ID: `AAAAAOSJtRinyNEafu6tM8fbSLs3VGC5`

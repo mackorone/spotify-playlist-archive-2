@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-154 songs - 8 hr 30 min
+155 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [BETTERTHAN](https://open.spotify.com/track/4sFYd4TZT4LRy0d569wkch) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [BETTERTHAN](https://open.spotify.com/album/0brOHImSzfnvoVssrwRRHn) | 3:42 | 2025-10-23 |  |
 | [Bounce](https://open.spotify.com/track/0WxcWcoxl59hd7pLZuUxeW) | [OSÁ](https://open.spotify.com/artist/5aAEuygCKLNC6RmKotyGpl), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Bounce](https://open.spotify.com/album/4OmRGgT3q2bdlk3Ikd9R6r) | 2:05 | 2025-08-28 |  |
 | [boy scout](https://open.spotify.com/track/1NIuTnph0Svk9KH8l1w3IT) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [boy scout](https://open.spotify.com/album/5CyQ7GZ2s4uUv357auhfbR) | 3:26 | 2024-07-02 | 2025-05-09 |
+| [Butterfly](https://open.spotify.com/track/2Yz0qjHJgudAbKQCzXTmlQ) | [Tink](https://open.spotify.com/artist/1fQZAx9ujkgjuFbVfskQ31), [Keya Nemesis](https://open.spotify.com/artist/0uvd3XlE4E0XhRpJnimNao), [4ourton](https://open.spotify.com/artist/3i21lmJVuwJI6pgUIDaThk) | [Butterfly](https://open.spotify.com/album/4cMQm2bOcMciDtvhn3wydk) | 2:57 | 2026-01-29 |  |
 | [Buy Me Love](https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Buy Me Love](https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H) | 3:22 | 2024-05-09 | 2025-08-22 |
 | [Buy Me Love \(Aare Remix\)](https://open.spotify.com/track/3D7E7gIcU3zRU9chTfqcWn) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y), [Aare](https://open.spotify.com/artist/5Vi294zoDQnvfoebjhfRXu) | [Buy Me Love \(Aare Remix\)](https://open.spotify.com/album/6eqar199hXi9MWBKqQGJiW) | 2:31 | 2024-08-23 |  |
 | [can't stand it](https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [can't stand it](https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD) | 3:05 | 2024-06-13 | 2025-12-12 |

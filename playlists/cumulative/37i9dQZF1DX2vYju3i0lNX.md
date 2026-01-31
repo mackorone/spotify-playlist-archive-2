@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-1,297 songs - 3 day 4 hr 14 min
+1,299 songs - 3 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [By Next Year](https://open.spotify.com/track/52t7Mx5FLEjx6IJKOzH6qe) | [Two steps in the street](https://open.spotify.com/artist/6BG94mKYRcBXUoB1id2LdN) | [By Next Year](https://open.spotify.com/album/5UwjvOu1TQEYJDoCJ8Pvgz) | 2:45 | 2025-09-10 |  |
 | [Cabin In The Sky](https://open.spotify.com/track/1D1E8UfZDUk0FZ2ZhlW1OF) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Cabin In The Sky](https://open.spotify.com/album/3yNfNCgdYm2A4MBn8u72uG) | 3:24 | 2022-12-22 | 2024-07-09 |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2021-12-07 | 2022-08-31 |
-| [Café Conversations](https://open.spotify.com/track/31QE8TMPJ85lWDq9qnmn14) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Café Conversations](https://open.spotify.com/album/2muK6k9bOIkTLkQXfXJ4TR) | 3:44 | 2023-08-17 |  |
+| [Café Conversations](https://open.spotify.com/track/31QE8TMPJ85lWDq9qnmn14) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Café Conversations](https://open.spotify.com/album/2muK6k9bOIkTLkQXfXJ4TR) | 3:44 | 2023-08-17 | 2026-01-31 |
 | [Calm Seas Ahead](https://open.spotify.com/track/2K9uglBf8vJoTcIP4sapyr) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Calm Seas Ahead](https://open.spotify.com/album/3O9zTrL5NB7xexJ7Mh7SMC) | 2:27 | 2023-04-20 | 2025-11-19 |
 | [Calm Waters](https://open.spotify.com/track/3DaLg8fCHiV2M3lpl7uqCQ) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Calm Waters](https://open.spotify.com/album/2bv9QnBg2NN5XOF1r8jilT) | 3:59 | 2024-08-12 | 2026-01-27 |
 | [Cameron Highlands](https://open.spotify.com/track/3wGFSUEf91QvBd3Gd4ogCa) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Cameron Highlands](https://open.spotify.com/album/2jcFJ62eqokXA8CBKWDWid) | 4:03 | 2024-05-10 | 2025-02-04 |
@@ -844,7 +844,7 @@
 | [On Repeat](https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [On Repeat](https://open.spotify.com/album/4vKULVroJWpWyQ6KnlxZSd) | 3:24 | 2023-09-22 | 2025-11-19 |
 | [On the Day We Met](https://open.spotify.com/track/4Rd1UnQTKspcbOnOU3vOVS) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [On the Day We Met](https://open.spotify.com/album/19BDhJWteAX7J3I2bnTlrJ) | 3:58 | 2025-07-15 |  |
 | [On The Street Where You Live](https://open.spotify.com/track/7xLNfcvvxHB3gjCeBdDD4n) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [On The Street Where You Live](https://open.spotify.com/album/09UH3htyiTiqxM0FnhqDsv) | 3:19 | 2022-08-30 | 2023-02-17 |
-| [On The Sunny Side Of The Street](https://open.spotify.com/track/4X4PGg2TnRyXZS9lsY8Hl7) | [Syncopation Station](https://open.spotify.com/artist/7c5Bd1OW0AbwL2yqDpSecr) | [On The Sunny Side Of The Street](https://open.spotify.com/album/3qSthRLQuCOS3NB1sDPLEE) | 3:23 | 2023-04-13 |  |
+| [On The Sunny Side Of The Street](https://open.spotify.com/track/4X4PGg2TnRyXZS9lsY8Hl7) | [Syncopation Station](https://open.spotify.com/artist/7c5Bd1OW0AbwL2yqDpSecr) | [On The Sunny Side Of The Street](https://open.spotify.com/album/3qSthRLQuCOS3NB1sDPLEE) | 3:23 | 2023-04-13 | 2026-01-31 |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2021-12-07 | 2024-05-11 |
 | [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-01-26 | 2023-03-31 |
 | [Once In A While](https://open.spotify.com/track/12SBeS47Z8b1N6FqbfXhL7) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Once In A While](https://open.spotify.com/album/1cx3QPnfkgDUdr7SLyx4yg) | 3:53 | 2023-01-19 | 2025-11-19 |
@@ -1113,6 +1113,7 @@
 | [The Turning Point](https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [The Turning Point](https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP) | 4:24 | 2022-09-06 | 2024-01-12 |
 | [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 | 2025-11-19 |
 | [The View of Aurora](https://open.spotify.com/track/6opoSywJ0hiCbUMKsA7q8z) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [The View of Aurora](https://open.spotify.com/album/2NCgRncDEvCbDtcFkmO58T) | 2:48 | 2023-05-25 | 2024-08-13 |
+| [The way it folds](https://open.spotify.com/track/0ZnWTjqa3boDMyiTLUbfdB) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [The way it folds](https://open.spotify.com/album/5azgsyHLF8oUsS62ehYS41) | 2:48 | 2026-01-30 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/623jWCHHgkHJ09bAPqvx8Y) | [Deer Groves](https://open.spotify.com/artist/0UAwkBmAPuCYxBPtf6g9K6) | [The Way You Look Tonight](https://open.spotify.com/album/3shpzzZyznWqGeWrIxPD11) | 3:54 | 2024-11-18 | 2025-11-19 |
 | [The Way You Looked at Me](https://open.spotify.com/track/1Du9NsgU5hSKuFf799hz1X) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [The Way You Looked at Me](https://open.spotify.com/album/1TBGkL7pMkkMUJjhHHxDed) | 3:47 | 2024-12-16 | 2025-02-25 |
 | [The Wind](https://open.spotify.com/track/3ssyhOkzW2tfNCiR7qihx4) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [The Wind](https://open.spotify.com/album/0Cy8DQQxtghkO1DrxydU4M) | 3:57 | 2022-04-01 | 2023-04-14 |
@@ -1182,6 +1183,7 @@
 | [Two Blocks Away](https://open.spotify.com/track/7dpeRPzopCJK29V4pueY8K) | [Jules Moreau](https://open.spotify.com/artist/4EgOpuGf3Qe7DYYol4AJCz) | [Two Blocks Away](https://open.spotify.com/album/6TbsvECm8IeduEiVDQ6W2a) | 3:49 | 2024-04-10 | 2025-11-19 |
 | [Under the Neon Light](https://open.spotify.com/track/3OvzabuZTF9zrBwPvBLUy0) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Under the Neon Light](https://open.spotify.com/album/0vnqLewul0EkzyALLcDkoa) | 3:08 | 2025-04-15 |  |
 | [Underbart Är Kort](https://open.spotify.com/track/0oEP3faX4gSyczncGt1CYs) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Underbart Är Kort](https://open.spotify.com/album/5ONqJB3570jk1QqYEb4X3A) | 3:53 | 2022-10-06 | 2023-09-08 |
+| [Undernoise](https://open.spotify.com/track/2ZLmw6YjstLFdGZz0wJ7Fx) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Undernoise](https://open.spotify.com/album/5wBBApABkT1mdL80AvVMpE) | 2:37 | 2026-01-30 |  |
 | [Understory](https://open.spotify.com/track/320SHMlz8FXcZx2eiFXgmB) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Understory](https://open.spotify.com/album/0clDyQmvmWq9ZUoo6aOPv4) | 4:01 | 2025-04-15 | 2025-07-24 |
 | [Undone by Repetition](https://open.spotify.com/track/6DX5V3BhG7lEqx0rDIvvCj) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Undone by Repetition](https://open.spotify.com/album/66nRzeNQ2ASWjjzDTuG1Fb) | 3:39 | 2025-09-17 |  |
 | [Unending](https://open.spotify.com/track/2XpPGcRWevUyye6j0pCNFQ) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 4:17 | 2023-02-23 | 2025-03-04 |

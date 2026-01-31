@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "100 % chill, 100 % Montr\u00e9al. Photo: Maddie Bay",
+  "description": "100 % chill, 100 % Montr\u00e9al. Photo: Fleur de Peau",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -1234,6 +1234,24 @@
       "duration_ms": 265426,
       "name": "Baleine et moi (take 10)",
       "url": "https://open.spotify.com/track/1qKGgaZnRL3dQxJqFWrWE9"
+    },
+    {
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/0MUWZXw2xpTPDVUQ1iTRoa"
+      },
+      "artists": [
+        {
+          "name": "Fleur de Peau",
+          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183928,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/68vx3w8Byw0BgZsBguvAlg"
     },
     {
       "album": {
@@ -6013,6 +6031,24 @@
     },
     {
       "album": {
+        "name": "Ici",
+        "url": "https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9"
+      },
+      "artists": [
+        {
+          "name": "La Steppe",
+          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168358,
+      "name": "Ici",
+      "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
+    },
+    {
+      "album": {
         "name": "Rom-Com",
         "url": "https://open.spotify.com/album/1UnHAygRkMtOty8V6tma6A"
       },
@@ -9553,6 +9589,24 @@
     },
     {
       "album": {
+        "name": "tout me quitte / tout vient \u00e0 moi",
+        "url": "https://open.spotify.com/album/6NzSqNUhcdFuOYlqgGVZJn"
+      },
+      "artists": [
+        {
+          "name": "Nana Quinn",
+          "url": "https://open.spotify.com/artist/6oB1eI3s62d0KyLxrKG0x4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277461,
+      "name": "Oiseau migrateur",
+      "url": "https://open.spotify.com/track/2QOHrzgwSZg7oDrrLEshB0"
+    },
+    {
+      "album": {
         "name": "On s'aime jusqu'\u00e0 quand ?",
         "url": "https://open.spotify.com/album/7bP8Fs0pt3T60PFhjcYLYF"
       },
@@ -9832,6 +9886,24 @@
       "duration_ms": 334333,
       "name": "Overwhelmed and Unprepared",
       "url": "https://open.spotify.com/track/606sltm751n1JmCxI0UN9s"
+    },
+    {
+      "album": {
+        "name": "Packing Away",
+        "url": "https://open.spotify.com/album/3fPRotEVFhpXF39u0dtYqj"
+      },
+      "artists": [
+        {
+          "name": "Eman Alali",
+          "url": "https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266047,
+      "name": "Packing Away",
+      "url": "https://open.spotify.com/track/0BHKTPnV73ok6RpVcGZc5m"
     },
     {
       "album": {

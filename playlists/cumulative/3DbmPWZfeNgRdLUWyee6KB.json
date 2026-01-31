@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "23 de Maio",
+        "url": "https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd"
+      },
+      "artists": [
+        {
+          "name": "Allan Fontes",
+          "url": "https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz"
+        },
+        {
+          "name": "Jess.",
+          "url": "https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103705,
+      "name": "23 de Maio",
+      "url": "https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni"
+    },
+    {
+      "album": {
         "name": "3.32",
         "url": "https://open.spotify.com/album/472ZMnbtlayJCQWlopwf5i"
       },
@@ -454,6 +476,42 @@
       "duration_ms": 221356,
       "name": "A Wedding in Modesto",
       "url": "https://open.spotify.com/track/6PUuWyQVg3NFxpWhi6K0om"
+    },
+    {
+      "album": {
+        "name": "Abdel et Mikael",
+        "url": "https://open.spotify.com/album/4v99ixzKM0caMxHgiRYQhv"
+      },
+      "artists": [
+        {
+          "name": "Anyel ADDA",
+          "url": "https://open.spotify.com/artist/6Hwlx1juJcZzoLlNrTFoCh"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217797,
+      "name": "Abdel et Mikael",
+      "url": "https://open.spotify.com/track/6nQny9qnNR6HCXmVOxsXrL"
+    },
+    {
+      "album": {
+        "name": "Ada Lah Pokoknya",
+        "url": "https://open.spotify.com/album/23lnq8yr8VjuLKAKrqt26u"
+      },
+      "artists": [
+        {
+          "name": "WORSHIPER",
+          "url": "https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111244,
+      "name": "Ada Lah Pokoknya",
+      "url": "https://open.spotify.com/track/79VmacwFHLZ9MFJnd9M0Nt"
     },
     {
       "album": {
@@ -4263,6 +4321,24 @@
     },
     {
       "album": {
+        "name": "Aerial Minds",
+        "url": "https://open.spotify.com/album/2c0rWMixj6Or2q7VdOVujJ"
+      },
+      "artists": [
+        {
+          "name": "Valeska Rautenberg",
+          "url": "https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/63ojE5nDCmEvkLG1tL8Hl8"
+    },
+    {
+      "album": {
         "name": "Just A Good Time 80s Jam",
         "url": "https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq"
       },
@@ -4404,6 +4480,24 @@
       "duration_ms": 241632,
       "name": "L'amore c'\u00e8",
       "url": "https://open.spotify.com/track/4bEWTVyuR1HSq5keoNWL6t"
+    },
+    {
+      "album": {
+        "name": "L'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc"
+      },
+      "artists": [
+        {
+          "name": "ToloV",
+          "url": "https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238159,
+      "name": "L'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS"
     },
     {
       "album": {
@@ -5134,6 +5228,24 @@
       "duration_ms": 174705,
       "name": "Loyalty - Official Instrumental",
       "url": "https://open.spotify.com/track/4uSEpNSqv2GxEChNDydMxD"
+    },
+    {
+      "album": {
+        "name": "Lueg mi a - D\u00e4nk was wotsch",
+        "url": "https://open.spotify.com/album/5dvntdIVcCo5gjG7ocPYfK"
+      },
+      "artists": [
+        {
+          "name": "Manou",
+          "url": "https://open.spotify.com/artist/7l1lEpbeMCACME9YwfFBz6"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Lueg mi a - D\u00e4nk was wotsch",
+      "url": "https://open.spotify.com/track/5k03obY555MhUQAQwxq7OF"
     },
     {
       "album": {
@@ -6618,6 +6730,24 @@
       "duration_ms": 225465,
       "name": "One Big Love",
       "url": "https://open.spotify.com/track/1TacV2Z6hOXpC0Wxm4GeVx"
+    },
+    {
+      "album": {
+        "name": "Oraci\u00f3n",
+        "url": "https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND"
+      },
+      "artists": [
+        {
+          "name": "Ziara",
+          "url": "https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159333,
+      "name": "Oraci\u00f3n",
+      "url": "https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG"
     },
     {
       "album": {
@@ -8338,6 +8468,28 @@
       "duration_ms": 216840,
       "name": "Stars Align",
       "url": "https://open.spotify.com/track/4FhPpakes0g6M04Vi4O8Kc"
+    },
+    {
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/6Ix0eruzkCh5U11C3oma9c"
+      },
+      "artists": [
+        {
+          "name": "Hilla Peer",
+          "url": "https://open.spotify.com/artist/7bPux2PIV6JLOrjuxyfIbx"
+        },
+        {
+          "name": "Roy Aharon",
+          "url": "https://open.spotify.com/artist/6iG05TrjWso3eQiNOcvmvc"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168190,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/6w6G8JwBtOQCiro9hj6rx7"
     },
     {
       "album": {
@@ -10960,6 +11112,24 @@
       "duration_ms": 191599,
       "name": "\u307e\u305f\u6765\u5e74\u3082",
       "url": "https://open.spotify.com/track/024OgPIO0sH8bIrovLEv0f"
+    },
+    {
+      "album": {
+        "name": "\u732e\u7ed9 AI \u7684\u601d\u8003 \u2022 Thoughts for AI",
+        "url": "https://open.spotify.com/album/4K4lChy5piyec9S6EN9gLj"
+      },
+      "artists": [
+        {
+          "name": "\u5f6d\u4fd0\u5ba2",
+          "url": "https://open.spotify.com/artist/3h1LgXnjamZJ2YBk36REGe"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226039,
+      "name": "\u4f60\u773c\u4e2d\u7684\u4f24\u75d5 \u2022 The Scars in Your Eyes",
+      "url": "https://open.spotify.com/track/5kGIPlGN99k3tUXKSjrirF"
     },
     {
       "album": {

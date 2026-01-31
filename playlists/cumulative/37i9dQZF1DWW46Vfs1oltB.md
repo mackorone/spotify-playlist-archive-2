@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Jay Park\)
 
-1,759 songs - 3 day 22 hr 4 min
+1,760 songs - 3 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1717,6 +1717,7 @@
 | [You \(Feat\. DON MALIK\)](https://open.spotify.com/track/5vAq7vqh9HUPR5LHPFTI68) | [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [TRIPONOEL](https://open.spotify.com/album/3SIAR2oWsMZpoEcPgIhP99) | 3:23 | 2023-07-27 | 2024-01-06 |
 | [You Don't Know \(Feat\. JUSTHIS\)](https://open.spotify.com/track/0NmHgFUzQtMEWSV81tbjwr) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Upgrade Ⅳ](https://open.spotify.com/album/2yljIHgtOZCQJMJOXQZjQd) | 3:43 | 2022-03-26 | 2022-04-19 |
 | [YOU KNOW MY NAME](https://open.spotify.com/track/1V049KR2wTQtHp73svn76k) | [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ) | [MOODAE](https://open.spotify.com/album/7FToFhkZ22XqeuUEVjeuOL) | 2:40 | 2025-09-23 | 2025-12-10 |
+| [You Think I Don't Know 2026](https://open.spotify.com/track/16f28nynL2BnxgbOiz0cDn) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF) | [You Think I Don't Know 2026](https://open.spotify.com/album/76VX4EjKmeKOiGXrQIQzZI) | 4:06 | 2026-01-30 |  |
 | [Young Boy \(Feat\. oygli\)](https://open.spotify.com/track/47QBxoKfR7WCXdJbkcGE2G) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [Trapstar Lifestyle](https://open.spotify.com/album/45MJvGUTE2xSbFbeAvkFiY) | 3:12 | 2023-03-13 | 2023-09-15 |
 | [YOUNG POSSE UP \(feat.Verbal Jint, NSW yoon, Token\)](https://open.spotify.com/track/19rwdftkfTj3oqqhRevov7) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [YOUNG POSSE UP \(feat.Verbal Jint, NSW yoon, Token\)](https://open.spotify.com/album/4bROg1lfsWUDyNtzmsMywC) | 3:20 | 2024-02-06 | 2024-06-05 |
 | [Your Instagram \(Feat\. Blueday\)](https://open.spotify.com/track/69eA4nwZmmAZy3dL1OglaJ) | [IOHBOY](https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Your Instagram](https://open.spotify.com/album/7bFHJASGNnV4PilM1ivDfz) | 2:29 | 2022-08-18 | 2022-10-30 |

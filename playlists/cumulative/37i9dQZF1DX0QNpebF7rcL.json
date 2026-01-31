@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 259813,
       "name": "Didn't I Keep Runnin'",
       "url": "https://open.spotify.com/track/1nH7bZ7xWEhsaSP3pax31s"
@@ -3928,7 +3928,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 189820,
       "name": "Hoodoo Woman",
       "url": "https://open.spotify.com/track/29rU2ADe2TBKlDePc7BWV4"
@@ -5343,6 +5343,24 @@
     },
     {
       "album": {
+        "name": "Little By Little",
+        "url": "https://open.spotify.com/album/2hawlSOnUjx36npp6OpUvm"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308581,
+      "name": "Little By Little",
+      "url": "https://open.spotify.com/track/3B9rNHb7e2mGRoFGFbn5Wx"
+    },
+    {
+      "album": {
         "name": "Livin' for the Ones",
         "url": "https://open.spotify.com/album/3Flcwo2dVHmmmLc4NUdxR7"
       },
@@ -6500,6 +6518,24 @@
       "duration_ms": 238906,
       "name": "One Last Boogie",
       "url": "https://open.spotify.com/track/2SY1hcVPAgzugC7F5lzNMZ"
+    },
+    {
+      "album": {
+        "name": "One Mississippi",
+        "url": "https://open.spotify.com/album/3gkxsfKsBhUUsP3uhIEMGH"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "One Mississippi",
+      "url": "https://open.spotify.com/track/5ZPcNZ30ErhH7d2WfLabi4"
     },
     {
       "album": {
@@ -8854,7 +8890,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 231920,
       "name": "Thunderbird",
       "url": "https://open.spotify.com/track/304JLq9u9DrvO0rw7u9Yq1"
@@ -8906,6 +8942,24 @@
       "duration_ms": 330920,
       "name": "To Know You Is To Love You",
       "url": "https://open.spotify.com/track/2dO7ugDcoN6xBoJ1JMK0bR"
+    },
+    {
+      "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/3tM2BhfXRTk19q2aD2fLhf"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179431,
+      "name": "Too Broke",
+      "url": "https://open.spotify.com/track/4OzazzaU3Jv3Sf2czAp2kr"
     },
     {
       "album": {

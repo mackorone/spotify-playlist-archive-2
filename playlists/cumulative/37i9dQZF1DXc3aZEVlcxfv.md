@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-526 songs - 1 day 11 hr 15 min
+526 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Guide Your Way](https://open.spotify.com/track/4jku393QzOX63vjChnYcnP) | [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2), [JT Bulinda](https://open.spotify.com/artist/7hOUX5uA9IBzeVFiBNIsFM) | [Guide Your Way](https://open.spotify.com/album/0iceg2XyY5ydkaxLyQqFYC) | 5:09 | 2024-12-27 | 2025-03-21 |
 | [Halle](https://open.spotify.com/track/2sXiwh0GsUlj6Cvbs0IpVJ) | [Tevinnmusic](https://open.spotify.com/artist/1Vw2K0RswB87LX58SylIBB), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [Halle](https://open.spotify.com/album/6iMag6WolYLTNHYU2P8Mle) | 2:31 | 2024-11-01 | 2025-02-07 |
 | [Hallee Hallee](https://open.spotify.com/track/0RDjQE3FpiG4u0GmoQzJZM) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [T.S.T \(Deluxe Version\)](https://open.spotify.com/album/6Z9sSZdcLxPuMu2NMKICSW) | 2:38 | 2024-09-30 | 2025-02-28 |
+| [Hallelujah](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [JOY](https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY) | 2:29 | 2026-01-30 |  |
 | [Hallelujah is My Song](https://open.spotify.com/track/3NcaY6Gxj7xZVzackhIOnF) | [King GreatLight](https://open.spotify.com/artist/7CNnBtVHuRg05DyAZQjRF5) | [Hallelujah Is My Song](https://open.spotify.com/album/7C1mTzcL6XwiBzdnyNYcyh) | 2:24 | 2025-10-10 | 2026-01-15 |
 | [Halleluyah](https://open.spotify.com/track/2h8yRl1LvFqM1CpbdUJhQN) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Halleluyah](https://open.spotify.com/album/4Bupyny8rQ2FhN9BBVvted) | 2:57 | 2025-09-05 | 2025-11-07 |
 | [Halleluyah](https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Halleluyah](https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB) | 6:56 | 2025-10-10 |  |
@@ -473,7 +474,6 @@
 | [Tomorrow](https://open.spotify.com/track/0yHrFrklGXZZ5FWWyMg3ay) | [Awesome Madu](https://open.spotify.com/artist/3UH99r4rVxNIbqwvwthmb8), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Tomorrow](https://open.spotify.com/album/412BLUs46QfrWANlHvZwfm) | 3:13 | 2025-11-07 |  |
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-07-25 |
 | [Too Much](https://open.spotify.com/track/7mYXS1qzgjV0m6TDFKii97) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Too Much](https://open.spotify.com/album/2aIQBsKZp8yiohC8SSs5Fl) | 2:46 | 2025-03-21 | 2025-06-06 |
-| [Track 1](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-30 |  |
 | [Trust in You](https://open.spotify.com/track/1M9UdMIo63boWoCf4bJwo6) | [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ), [Steady Worship](https://open.spotify.com/artist/17ni7x7OVAYDsxQyKUp1DJ) | [Trust in You](https://open.spotify.com/album/6hTxgKcqFko2RnxpX30Xhi) | 3:32 | 2025-09-05 | 2025-11-14 |
 | [Tuale](https://open.spotify.com/track/6XgoCyZZtwChb0LiJvOXdc) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Lagos Lover Boy](https://open.spotify.com/album/7C3bmmUT99wEnbrtSJjC4e) | 5:05 | 2025-08-02 | 2025-11-07 |
 | [Under The Canopy](https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Under The Canopy](https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb) | 5:13 | 2024-09-27 | 2025-02-28 |

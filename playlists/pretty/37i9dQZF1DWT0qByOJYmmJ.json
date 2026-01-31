@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 630741,
+  "num_followers": 630725,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Uno Que Tropieza Y Cae Al Mar",
+        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Uno Que Tropieza Y Cae Al Mar",
+      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/4h7cWmz3MjF3HzPTc5PezA"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Uno Que Tropieza Y Cae Al Mar",
-        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Uno Que Tropieza Y Cae Al Mar",
-      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "pero qu\u00e9 cosa",
         "url": "https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr"
       },
@@ -1175,18 +1175,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Nunca Sabr\u00e1s",
-        "url": "https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX"
+        "name": "Quiz\u00e1 Alg\u00fan D\u00eda",
+        "url": "https://open.spotify.com/album/71S5pWfykU58c88ZvIhKnw"
       },
       "artists": [
         {
           "name": "Mi Sobrino Memo",
           "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        },
+        {
+          "name": "Fernanda Res\u00e9ndiz",
+          "url": "https://open.spotify.com/artist/7aGG3lQllsEIVIHhxyVAid"
         }
       ],
-      "duration_ms": 216017,
-      "name": "Nunca Sabr\u00e1s",
-      "url": "https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e"
+      "duration_ms": 177637,
+      "name": "Quiz\u00e1 Alg\u00fan D\u00eda",
+      "url": "https://open.spotify.com/track/3SqFG9ovXBMqIaCLONzWpT"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Quiz\u00e1 Alg\u00fan D\u00eda",
-        "url": "https://open.spotify.com/album/71S5pWfykU58c88ZvIhKnw"
+        "name": "Nunca Sabr\u00e1s",
+        "url": "https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX"
       },
       "artists": [
         {
           "name": "Mi Sobrino Memo",
           "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        },
-        {
-          "name": "Fernanda Res\u00e9ndiz",
-          "url": "https://open.spotify.com/artist/7aGG3lQllsEIVIHhxyVAid"
         }
       ],
-      "duration_ms": 177637,
-      "name": "Quiz\u00e1 Alg\u00fan D\u00eda",
-      "url": "https://open.spotify.com/track/3SqFG9ovXBMqIaCLONzWpT"
+      "duration_ms": 216017,
+      "name": "Nunca Sabr\u00e1s",
+      "url": "https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e"
     },
     {
       "added_at": "2024-07-11 01:38:58",

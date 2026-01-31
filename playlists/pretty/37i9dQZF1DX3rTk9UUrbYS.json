@@ -1,13 +1,41 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 66119,
+  "num_followers": 66135,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFG8By+wZdZs7EW7QraRDrgbuji3",
+  "snapshot_id": "AAAAAFZtYCGscnerXYjIRGJsVVXH7abV",
   "tracks": [
+    {
+      "added_at": "2026-01-30 05:00:32",
+      "album": {
+        "name": "Strata, Act (Joy Contemporary)*",
+        "url": "https://open.spotify.com/album/4vpejRxRg5sSDAb2LIDvT2"
+      },
+      "artists": [
+        {
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
+        },
+        {
+          "name": "XT",
+          "url": "https://open.spotify.com/artist/66oK2w14hE1NPQNjmHji0h"
+        },
+        {
+          "name": "Seymour Wright",
+          "url": "https://open.spotify.com/artist/65Cx00IQh13D8u9xhsbOAA"
+        },
+        {
+          "name": "Paul Abbott",
+          "url": "https://open.spotify.com/artist/2CYQ7o1erSJsxHo1V6TkxW"
+        }
+      ],
+      "duration_ms": 2604717,
+      "name": "Strata, Act (Joy Contemporary)* London SECOND SET",
+      "url": "https://open.spotify.com/track/4fe0B85OSHpzXkpdsZSKEc"
+    },
     {
       "added_at": "2025-11-07 05:00:34",
       "album": {
@@ -1423,22 +1451,6 @@
       "duration_ms": 292373,
       "name": "Water Babies",
       "url": "https://open.spotify.com/track/097f4XZHrS0oMDBIm1DQpC"
-    },
-    {
-      "added_at": "2021-06-04 04:01:00",
-      "album": {
-        "name": "The Unidentifiable",
-        "url": "https://open.spotify.com/album/1AM7DvvpZtwnfl7qZ1gwM0"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shipp Trio",
-          "url": "https://open.spotify.com/artist/1TgqnAbUXzmLHEW0YFbROK"
-        }
-      ],
-      "duration_ms": 430053,
-      "name": "The Unidentifiable",
-      "url": "https://open.spotify.com/track/6dO9SCydkLhqwSz2ayKiEH"
     },
     {
       "added_at": "2020-08-25 21:55:35",

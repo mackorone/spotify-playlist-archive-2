@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Namasenda✨
 
-2,254 songs - 5 day 1 hr 59 min
+2,255 songs - 5 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,7 @@
 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 | 2026-01-22 |  |
 | [Death Wish](https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Death Wish](https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA) | 3:25 | 2025-12-04 |  |
 | [deathrow bby](https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Ambrosia](https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8) | 2:15 | 2023-10-05 | 2023-12-22 |
-| [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [](https://open.spotify.com/album/null) | 2:55 | 2026-01-29 |  |
+| [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:55 | 2026-01-29 |  |
 | [Deeper](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Deeper](https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP) | 4:48 | 2025-12-04 |  |
 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 | 2023-04-13 | 2023-05-26 |
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-05-09 | 2024-07-27 |
@@ -939,7 +939,7 @@
 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 | 2025-04-24 | 2025-06-27 |
 | [I Could Be](https://open.spotify.com/track/1ZU7GUU8JcEOVHbzil5peO) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [I Could Be](https://open.spotify.com/album/7k5IlcbMDi2Txa1LvsabET) | 3:18 | 2024-02-22 | 2024-03-01 |
 | [I Cry While You Sleep \- Dream, Ivory Version](https://open.spotify.com/track/1i54OpHUYRrjxxA8Cg6P9a) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [I Cry While You Sleep \(Dream, Ivory Version\)](https://open.spotify.com/album/5nt93ckjegXoK5rJlLZJ22) | 3:10 | 2023-09-28 | 2023-10-06 |
-| [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 | 2026-01-29 |  |
+| [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 | 2026-01-29 |  |
 | [I Do](https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [I Do](https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1) | 4:07 | 2023-03-23 | 2023-05-12 |
 | [I Do \(Joni's Song\)](https://open.spotify.com/track/0VHOjjYADIXIYBj2uRzATe) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [I Do \(Joni's Song\)](https://open.spotify.com/album/5bssbrUysFWfGLBAp0HJ01) | 2:26 | 2025-02-20 | 2025-04-25 |
 | [i dont even own prada shoes lol](https://open.spotify.com/track/318DZCLXPsOAZTblTugO09) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [i dont even own prada shoes lol](https://open.spotify.com/album/1dn2JSwF9ULVnQzDprTaiQ) | 2:10 | 2024-04-18 | 2024-05-03 |
@@ -1522,6 +1522,7 @@
 | [Playthings](https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Playthings](https://open.spotify.com/album/6oGQ1rRG79hWXJefN2CaEJ) | 3:09 | 2025-09-04 | 2026-01-15 |
 | [Please Be Careful](https://open.spotify.com/track/1QCRcAOltXgDMpMIzg6o78) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Please Be Careful](https://open.spotify.com/album/7ryr4h1oUwQiJfvKSFT4Cl) | 2:23 | 2024-01-11 | 2024-05-03 |
 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 | 2023-08-03 | 2023-09-22 |
+| [Pleasure’s Mine](https://open.spotify.com/track/19cgfclwwxsGGwaEbOn0B2) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:57 | 2026-01-30 |  |
 | [Plug](https://open.spotify.com/track/6nOhp5gvFIV42e5BwtyqbJ) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Plug](https://open.spotify.com/album/6SXi96t0w5MuizAjz2H6qN) | 2:49 | 2024-12-19 | 2025-03-07 |
 | [Plush](https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Plush](https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE) | 3:59 | 2026-01-12 |  |
 | [PLZ](https://open.spotify.com/track/07nJ9f5kZiGA2KfOf1dp8m) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [PLZ](https://open.spotify.com/album/7r9O17P4PY5gbiLmFtHhBW) | 3:06 | 2025-10-09 |  |

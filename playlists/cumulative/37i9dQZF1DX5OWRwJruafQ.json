@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Agg",
+        "url": "https://open.spotify.com/album/0Okv1CfnPJKMSlM9tey6IC"
+      },
+      "artists": [
+        {
+          "name": "Pardeep Sran",
+          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Agg",
+      "url": "https://open.spotify.com/track/5q6w7VtiWgn2QM7hqbPKTN"
+    },
+    {
+      "album": {
         "name": "Ahhi Kuj Khatteya",
         "url": "https://open.spotify.com/album/1Stt5cMP16F8sn3bALd4ml"
       },
@@ -6728,7 +6746,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 169642,
       "name": "Hollow Point",
       "url": "https://open.spotify.com/track/4P2Yc0lk4YnOmnppqI1V2i"
@@ -7594,7 +7612,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 185454,
       "name": "Jatt Anthem 2.0",
       "url": "https://open.spotify.com/track/5G813j7wexBQBTOJY4aRWn"
@@ -11656,6 +11674,28 @@
       "duration_ms": 181714,
       "name": "ON TOP 2",
       "url": "https://open.spotify.com/track/2G4GimpAMeWaZ6VkcQ1RT9"
+    },
+    {
+      "album": {
+        "name": "Once in a Lifetime",
+        "url": "https://open.spotify.com/album/1uu2Kslt8472t7nSWyiq5q"
+      },
+      "artists": [
+        {
+          "name": "dox",
+          "url": "https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4"
+        },
+        {
+          "name": "JASKARAN",
+          "url": "https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/4lkP1cosJXQylSwi7U4D8A"
     },
     {
       "album": {

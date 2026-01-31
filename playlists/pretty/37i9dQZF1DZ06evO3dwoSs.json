@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 568224,
+  "num_followers": 568253,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXlRgAAAAAAUs+QxATNqDlcGQY3SkQen",
+  "snapshot_id": "aXqjAAAAAAAQN2yKqhJfXTQitxk0OO0c",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 214542,
-      "name": "Living The Dream",
-      "url": "https://open.spotify.com/track/2gsxeJnGbJQkBddBDr0UTV"
+      "duration_ms": 269578,
+      "name": "Brighter Side of Grey",
+      "url": "https://open.spotify.com/track/4tW57waWtNZF2CnhQEjPBq"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 269578,
-      "name": "Brighter Side of Grey",
-      "url": "https://open.spotify.com/track/4tW57waWtNZF2CnhQEjPBq"
+      "duration_ms": 214542,
+      "name": "Living The Dream",
+      "url": "https://open.spotify.com/track/2gsxeJnGbJQkBddBDr0UTV"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got Your Six",
-        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+        "name": "The Way of the Fist",
+        "url": "https://open.spotify.com/album/4UiURCeJj7RgC3MVel2zOt"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 187670,
-      "name": "Hell To Pay",
-      "url": "https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk"
+      "duration_ms": 209373,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/0TQF4OMoW5fWulylUfoMQU"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way of the Fist",
-        "url": "https://open.spotify.com/album/4UiURCeJj7RgC3MVel2zOt"
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 209373,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/0TQF4OMoW5fWulylUfoMQU"
+      "duration_ms": 187670,
+      "name": "Hell To Pay",
+      "url": "https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 245951,
-      "name": "M.I.N.E (End This Way)",
-      "url": "https://open.spotify.com/track/2pkhDDoWnF31Vn0zrTliWB"
+      "duration_ms": 167509,
+      "name": "Mama Said Knock You Out",
+      "url": "https://open.spotify.com/track/2TdpWCDMpjeNqrrLeZY4V5"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got Your Six",
-        "url": "https://open.spotify.com/album/0naP00nq9MrCSrLDdhqmI0"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 215871,
-      "name": "My Nemesis",
-      "url": "https://open.spotify.com/track/3BiVm4R19pMCkRslcmHE9U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "And Justice for None (Deluxe)",
         "url": "https://open.spotify.com/album/2CcgOtkMZJpm8CnKIbMz8X"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/0naP00nq9MrCSrLDdhqmI0"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 215871,
+      "name": "My Nemesis",
+      "url": "https://open.spotify.com/track/3BiVm4R19pMCkRslcmHE9U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nW4xR4B2Ok6JOv9KyMYhy"
       },
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 167509,
-      "name": "Mama Said Knock You Out",
-      "url": "https://open.spotify.com/track/2TdpWCDMpjeNqrrLeZY4V5"
+      "duration_ms": 245951,
+      "name": "M.I.N.E (End This Way)",
+      "url": "https://open.spotify.com/track/2pkhDDoWnF31Vn0zrTliWB"
     },
     {
       "added_at": null,

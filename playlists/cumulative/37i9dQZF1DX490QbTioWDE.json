@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Banda Mix & Eugenia Quevedo.",
+  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno y Valentina Marquez",
   "name": "100% Cuarteto",
   "tracks": [
     {
@@ -4214,7 +4214,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 158848,
       "name": "Hola",
       "url": "https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj"
@@ -11820,6 +11820,28 @@
       "duration_ms": 156809,
       "name": "Ya Me Cans\u00e9",
       "url": "https://open.spotify.com/track/6vg8SLZ5q5RFfle2bbtk4c"
+    },
+    {
+      "album": {
+        "name": "Ya no duele (En Vivo)",
+        "url": "https://open.spotify.com/album/6j2kO7QHkDPeQaeiaw6gOc"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194303,
+      "name": "Ya no duele - En Vivo",
+      "url": "https://open.spotify.com/track/3KvGVVWnH7U89guq2dUPQe"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house  \ud83c\udfba Tech house operators, featuring Ragie Ban",
+  "description": "50% techno, 50% house \ud83d\udd25 Tech house operators, featuring Chris Lorenzo",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 187906,
       "name": "4 The Girls",
       "url": "https://open.spotify.com/track/7vgml6kG7Vw3R7t94W9kfL"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 175454,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/0G82Tulewo9VilY8l59gQu"
@@ -3230,7 +3230,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 172514,
       "name": "Back to the Sound",
       "url": "https://open.spotify.com/track/3xseTqssuhNbXLMON02bLa"
@@ -3716,7 +3716,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 179090,
       "name": "Bakk2thafuture",
       "url": "https://open.spotify.com/track/5DaYqyXcCFmgtd1OWFmfpn"
@@ -3868,7 +3868,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 194183,
       "name": "Bang It!",
       "url": "https://open.spotify.com/track/7DAaQeDvGKEmTvwSaMfVe7"
@@ -4514,7 +4514,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 155014,
       "name": "Belong to Me",
       "url": "https://open.spotify.com/track/5PSepy5guowlWb1z0BQb0c"
@@ -6608,7 +6608,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 168375,
       "name": "Bugatti - CID Remix",
       "url": "https://open.spotify.com/track/0eqLuUqNqFYy7TzmHVXaVa"
@@ -8027,6 +8027,28 @@
     },
     {
       "album": {
+        "name": "Casa Cantina",
+        "url": "https://open.spotify.com/album/5IAq3L64umPohQjy5qXv4s"
+      },
+      "artists": [
+        {
+          "name": "LO'99",
+          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+        },
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213963,
+      "name": "Casa Cantina",
+      "url": "https://open.spotify.com/track/0JexJ4uv0I8PaDMJx5VPXV"
+    },
+    {
+      "album": {
         "name": "Case Of The Ex (feat. Mya Francis)",
         "url": "https://open.spotify.com/album/0S5Baqi47D7SIXRlheqPVM"
       },
@@ -8206,7 +8228,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 168189,
       "name": "Certified Dirtbag",
       "url": "https://open.spotify.com/track/4WObtalIwpoEgn8OtGP1os"
@@ -8826,7 +8848,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 153333,
       "name": "Clothes Off",
       "url": "https://open.spotify.com/track/6eUPBaazgIHOkyP9nkDSFq"
@@ -11780,7 +11802,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 135572,
       "name": "Disco Inferno",
       "url": "https://open.spotify.com/track/73W1SOBBzwQt4JIr1trEbI"
@@ -17771,6 +17793,24 @@
     },
     {
       "album": {
+        "name": "Funk Rider",
+        "url": "https://open.spotify.com/album/0Smedj3kQlLiwpIsiPSOh3"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200601,
+      "name": "Funk Rider",
+      "url": "https://open.spotify.com/track/6RZakjq46iwjOvcTrVryOz"
+    },
+    {
+      "album": {
         "name": "Funk Soul Brother (GENESI Edit)",
         "url": "https://open.spotify.com/album/55dSkmDjRxOBYIOmItBV2w"
       },
@@ -17848,6 +17888,24 @@
       "duration_ms": 218437,
       "name": "Future",
       "url": "https://open.spotify.com/track/5tHokMQ1Hf1zmr6gQFe5ix"
+    },
+    {
+      "album": {
+        "name": "Fvck The Cops",
+        "url": "https://open.spotify.com/album/2dopOjs7uIIYOORmzv9Xyy"
+      },
+      "artists": [
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173552,
+      "name": "Fvck The Cops",
+      "url": "https://open.spotify.com/track/2Di0yOQR40CDLkL8v5hg6C"
     },
     {
       "album": {
@@ -18358,6 +18416,24 @@
       "duration_ms": 225714,
       "name": "Get Mad",
       "url": "https://open.spotify.com/track/4KUu7UH2abla0DBdQF2lgj"
+    },
+    {
+      "album": {
+        "name": "Get Naughty EP",
+        "url": "https://open.spotify.com/album/2ZQmNuozwtpj43xdiVZPEk"
+      },
+      "artists": [
+        {
+          "name": "Amedeo Picone",
+          "url": "https://open.spotify.com/artist/0ER3TzKAxD9g6i0AkATjg6"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206406,
+      "name": "Get Naughty",
+      "url": "https://open.spotify.com/track/0w19QEhKkYUzKEMdebpZCV"
     },
     {
       "album": {
@@ -20107,6 +20183,24 @@
     },
     {
       "album": {
+        "name": "Heat EP",
+        "url": "https://open.spotify.com/album/6zUNevuIKyluY54KwWc0Bd"
+      },
+      "artists": [
+        {
+          "name": "Roberto Surace",
+          "url": "https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/44Td8ZrWgOVUUGPuNc60ZL"
+    },
+    {
+      "album": {
         "name": "Heat Of The Night",
         "url": "https://open.spotify.com/album/10Ng3F686lmxAvGPd8H9tA"
       },
@@ -20210,6 +20304,32 @@
       "duration_ms": 145474,
       "name": "Helicopter",
       "url": "https://open.spotify.com/track/1WrxHnZVeYqJdKnUzk3onw"
+    },
+    {
+      "album": {
+        "name": "Hell Yeah (Feat. Waxmaster)",
+        "url": "https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Parris Mitchell",
+          "url": "https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p"
+        },
+        {
+          "name": "Waxmaster",
+          "url": "https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Hell Yeah (Feat. Waxmaster)",
+      "url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"
     },
     {
       "album": {
@@ -21378,7 +21498,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 228901,
       "name": "How Deep Are Your Dreams?",
       "url": "https://open.spotify.com/track/31YCj2AQ7DMeMLVvtwfxhM"
@@ -23617,6 +23737,24 @@
     },
     {
       "album": {
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/0jpb8dwJSWcZOgao05mnGt"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140005,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/2BisOilWiyxNr0NMoZRxO6"
+    },
+    {
+      "album": {
         "name": "Intro To The Anthem",
         "url": "https://open.spotify.com/album/35nX4nWahP8YjnuxHfJ2Ow"
       },
@@ -24602,7 +24740,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 121846,
       "name": "Kickback",
       "url": "https://open.spotify.com/track/0TuLNGHdtIpokrteWvJRkI"
@@ -25775,6 +25913,28 @@
     },
     {
       "album": {
+        "name": "Let It Bang",
+        "url": "https://open.spotify.com/album/2MjAMUrFdgEyvxnekcZmqC"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        },
+        {
+          "name": "Equin\u00f8x",
+          "url": "https://open.spotify.com/artist/5Pfc3lrQ5LtFXRcGhNs3cH"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "Let It Bang",
+      "url": "https://open.spotify.com/track/1Nl78W0Ne2EaiFkZVXeccd"
+    },
+    {
+      "album": {
         "name": "Let It Go (with Marc E. Bassy) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/1dNdUSIBedHHqM5i8jKPmB"
       },
@@ -26354,6 +26514,28 @@
       "duration_ms": 168774,
       "name": "Lick",
       "url": "https://open.spotify.com/track/3yyU8dmNxJnBPAFa4oQdCo"
+    },
+    {
+      "album": {
+        "name": "LICK IT",
+        "url": "https://open.spotify.com/album/6rMqR0MHTHBirJggnVeruA"
+      },
+      "artists": [
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211987,
+      "name": "LICK IT",
+      "url": "https://open.spotify.com/track/58ZxB5HafuK7mZS3B3kf8y"
     },
     {
       "album": {
@@ -29049,6 +29231,28 @@
     },
     {
       "album": {
+        "name": "Me Gustas (GUI2IN Remix)",
+        "url": "https://open.spotify.com/album/4pfzN5l5HUgynAAHix3dVd"
+      },
+      "artists": [
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        },
+        {
+          "name": "GUI2IN",
+          "url": "https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177251,
+      "name": "Me Gustas (GUI2IN Remix)",
+      "url": "https://open.spotify.com/track/7a1qgu8eubGXq7MtMo1qei"
+    },
+    {
+      "album": {
         "name": "Me Me Me EP",
         "url": "https://open.spotify.com/album/4AWEbvZ2qwNLBbAYCdwc8Y"
       },
@@ -29884,6 +30088,28 @@
     {
       "album": {
         "name": "Misbehave",
+        "url": "https://open.spotify.com/album/59dxeR3y0o3WhJwQA1oNKm"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/1FRWjWnOf6NRePXN38tkQS"
+    },
+    {
+      "album": {
+        "name": "Misbehave",
         "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
       },
       "artists": [
@@ -30310,7 +30536,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 252923,
       "name": "moonlight cruise",
       "url": "https://open.spotify.com/track/7K2FmODBOy7CYGZuuOdUFJ"
@@ -35782,7 +36008,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 211874,
       "name": "Phreaky MF - Matroda & GREG 99 Remix",
       "url": "https://open.spotify.com/track/7yUcCULqUvVOO33Ob5qOPF"
@@ -39180,6 +39406,24 @@
       "duration_ms": 181054,
       "name": "Rudeboi",
       "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
+    },
+    {
+      "album": {
+        "name": "Rudeboy",
+        "url": "https://open.spotify.com/album/1a2pFsyTnUU0sZQzjkvRAn"
+      },
+      "artists": [
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174045,
+      "name": "Rudeboy",
+      "url": "https://open.spotify.com/track/1mtfcWAyPR0QT7QKd2q0eT"
     },
     {
       "album": {
@@ -43215,6 +43459,24 @@
     },
     {
       "album": {
+        "name": "Spell It Out",
+        "url": "https://open.spotify.com/album/4Cld8Tue3fwWGj0EizJOSe"
+      },
+      "artists": [
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155978,
+      "name": "Spell It Out",
+      "url": "https://open.spotify.com/track/2uYp8Ghpfouz2NqD0Ky0Tt"
+    },
+    {
+      "album": {
         "name": "Spend Money",
         "url": "https://open.spotify.com/album/0Yc4FlwbliYKyTbtQY3Ea9"
       },
@@ -45609,6 +45871,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/2eimcKjRbXqX4PIedOj0Z0"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214838,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6y6EJwzmcfbxK4KQZ3mcne"
+    },
+    {
+      "album": {
         "name": "Tell Me Something Good",
         "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
       },
@@ -46162,7 +46442,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 217322,
       "name": "The Dance",
       "url": "https://open.spotify.com/track/3C0jSejOj3ZPR62LubySdk"
@@ -47878,7 +48158,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 162714,
       "name": "Tipsy",
       "url": "https://open.spotify.com/track/1YoJCciEqDYANpvVmqtpWR"
@@ -48438,6 +48718,24 @@
       "duration_ms": 203496,
       "name": "Tra Tra Tra",
       "url": "https://open.spotify.com/track/6ASgz3OP3Nv79u0V1ffio9"
+    },
+    {
+      "album": {
+        "name": "Track With The Organ",
+        "url": "https://open.spotify.com/album/03NrClkwCuRCHhWmtXqYDy"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132688,
+      "name": "Track With The Organ",
+      "url": "https://open.spotify.com/track/7lysSENrRlBL6kjFfmyTZR"
     },
     {
       "album": {
@@ -49642,7 +49940,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 167812,
       "name": "Uproar",
       "url": "https://open.spotify.com/track/0X8PKkCKYBD2o4jj9OJYiy"
@@ -50134,6 +50432,24 @@
       "duration_ms": 197407,
       "name": "Victory",
       "url": "https://open.spotify.com/track/0bQdZtYoKuUjVdbpsqbncn"
+    },
+    {
+      "album": {
+        "name": "Vidrado",
+        "url": "https://open.spotify.com/album/6uZnnSc2xhxhkiQ8ZinnNl"
+      },
+      "artists": [
+        {
+          "name": "Zans",
+          "url": "https://open.spotify.com/artist/6D7wW45mKNEFhf4vkXv79x"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146976,
+      "name": "Vidrado",
+      "url": "https://open.spotify.com/track/4kr3in5Ue0wiY2F61lpa51"
     },
     {
       "album": {
@@ -52606,6 +52922,28 @@
       "duration_ms": 184620,
       "name": "X-Rated",
       "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
+    },
+    {
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Jocelyn Enriquez",
+          "url": "https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182947,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE"
     },
     {
       "album": {

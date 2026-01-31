@@ -1,6 +1,6 @@
 {
   "description": "a state of mind.",
-  "num_followers": 205940,
+  "num_followers": 206030,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-01-09 05:00:37",
       "album": {
+        "name": "Them Dirty Roses",
+        "url": "https://open.spotify.com/album/0PqJlFAxw4V4sz3rEqUOQj"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "duration_ms": 240744,
+      "name": "Whiskey in My Cup",
+      "url": "https://open.spotify.com/track/5GszBUwWj4j942qzkIwQ2R"
+    },
+    {
+      "added_at": "2026-01-09 05:00:37",
+      "album": {
         "name": "Outlaw Shit (feat. Shooter Jennings)",
         "url": "https://open.spotify.com/album/0wL6TUhFe9DutCDj6oIjDq"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 245046,
       "name": "Outlaw Shit (feat. Shooter Jennings)",
       "url": "https://open.spotify.com/track/1KLNhIijEB83TXz78CIK72"
-    },
-    {
-      "added_at": "2026-01-09 05:00:37",
-      "album": {
-        "name": "Them Dirty Roses",
-        "url": "https://open.spotify.com/album/0PqJlFAxw4V4sz3rEqUOQj"
-      },
-      "artists": [
-        {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
-        }
-      ],
-      "duration_ms": 240744,
-      "name": "Whiskey in My Cup",
-      "url": "https://open.spotify.com/track/5GszBUwWj4j942qzkIwQ2R"
     },
     {
       "added_at": "2026-01-09 05:00:37",

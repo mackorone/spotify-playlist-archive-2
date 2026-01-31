@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: RIA \u2b50\ufe0f",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Christian Ortega \u2b50\ufe0f",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 178467,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/5NPpZqg8f80yKTcXs9d3Xg"
@@ -6294,7 +6294,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 142695,
       "name": "CUANDO PIENSO EN TI",
       "url": "https://open.spotify.com/track/6oWk1racmeCi2tKfg97S61"
@@ -7270,6 +7270,24 @@
       "duration_ms": 224892,
       "name": "Depresi\u00f3n",
       "url": "https://open.spotify.com/track/2Dg7FKGSZa7TKvyFfIt6Y7"
+    },
+    {
+      "album": {
+        "name": "Estilo Bropza (Deluxe)",
+        "url": "https://open.spotify.com/album/3X0MaMl8ue8BC14CAD4mws"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179625,
+      "name": "Desbloqu\u00e9ame Del Wha",
+      "url": "https://open.spotify.com/track/4GeUQzRRSgEqUyTXXcFkd7"
     },
     {
       "album": {
@@ -8458,7 +8476,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 217834,
       "name": "El Barbas",
       "url": "https://open.spotify.com/track/4WjwH2By59jF7ND6XA9YZh"
@@ -13244,7 +13262,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 178114,
       "name": "Heisenberg",
       "url": "https://open.spotify.com/track/6QCupuIoTrOUxO214431rw"
@@ -13440,6 +13458,24 @@
       "duration_ms": 237262,
       "name": "Houston",
       "url": "https://open.spotify.com/track/5FrrV6c7rbfIxGutgFWNzx"
+    },
+    {
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/2SILIzAQp0I8e0KsOh8Gck"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172322,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/46OPS0nqKv4RqXZaBtOosO"
     },
     {
       "album": {
@@ -15030,7 +15066,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 187500,
       "name": "LA PEDA",
       "url": "https://open.spotify.com/track/4toD3IqqcuHWGl6bnNkM4s"
@@ -15052,6 +15088,24 @@
       "duration_ms": 178652,
       "name": "La Primera Vez (Version Ac\u00fastica)",
       "url": "https://open.spotify.com/track/7uNdIFP6ca3zfg5wuLdUDV"
+    },
+    {
+      "album": {
+        "name": "La Racha",
+        "url": "https://open.spotify.com/album/2TyDe3uxvIEj6cScPrrZeF"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168608,
+      "name": "La Racha",
+      "url": "https://open.spotify.com/track/49fVF0XdONpz5rcn0OCUoW"
     },
     {
       "album": {
@@ -15614,7 +15668,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 157514,
       "name": "LAST KISS",
       "url": "https://open.spotify.com/track/1gKTtBOboSbw70sJdplMzP"
@@ -15636,7 +15690,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 171291,
       "name": "LCD",
       "url": "https://open.spotify.com/track/14dCZZBfyLywyx6CaDzgHD"
@@ -16671,6 +16725,24 @@
     },
     {
       "album": {
+        "name": "Los Principios",
+        "url": "https://open.spotify.com/album/1GDGRVdQWI5Lvj079WmJTc"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188202,
+      "name": "Los Principios",
+      "url": "https://open.spotify.com/track/4MSsL6IEk16LG685X6EW2f"
+    },
+    {
+      "album": {
         "name": "Los Ranas",
         "url": "https://open.spotify.com/album/6PweBjcTH5wKkOuJeVWCL5"
       },
@@ -16766,6 +16838,24 @@
       "duration_ms": 158784,
       "name": "Lujo y Detalle",
       "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
+    },
+    {
+      "album": {
+        "name": "Luna de Miel",
+        "url": "https://open.spotify.com/album/6AYXDaMyg9gsrWByz7Vtu6"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212443,
+      "name": "Luna de Miel",
+      "url": "https://open.spotify.com/track/5axajboxCw101fMlC7U8Lp"
     },
     {
       "album": {
@@ -18193,6 +18283,28 @@
     },
     {
       "album": {
+        "name": "Mi canci\u00f3n",
+        "url": "https://open.spotify.com/album/60BbfcnPnKiWTq0oIJG1tz"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        },
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185156,
+      "name": "Mi canci\u00f3n",
+      "url": "https://open.spotify.com/track/2lcFAQqJgYoi1dI0rOES8h"
+    },
+    {
+      "album": {
         "name": "Mi Carnal",
         "url": "https://open.spotify.com/album/3EiqZbHFxfqPxvhhMbhozJ"
       },
@@ -18204,7 +18316,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 155750,
       "name": "Mi Carnal",
       "url": "https://open.spotify.com/track/71NvxG7JkCVAbrmD7pf2m7"
@@ -18316,7 +18428,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 172200,
       "name": "Mi Entorno",
       "url": "https://open.spotify.com/track/30ECWSoejTkHDqo0yMpf6y"
@@ -19056,7 +19168,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 141746,
       "name": "Miren Al Muchacho",
       "url": "https://open.spotify.com/track/3ibol5FXj2rcsj5NqM61pw"
@@ -20504,6 +20616,28 @@
       "duration_ms": 181840,
       "name": "Ni\u00f1a B\u00e9lica",
       "url": "https://open.spotify.com/track/5CqfmrQq1mAUSpZcsGvrkd"
+    },
+    {
+      "album": {
+        "name": "ni\u00f1a de CASA",
+        "url": "https://open.spotify.com/album/1JHFum8A3Frqnu42fs5caP"
+      },
+      "artists": [
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        },
+        {
+          "name": "Uriel AR",
+          "url": "https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213512,
+      "name": "ni\u00f1a de CASA",
+      "url": "https://open.spotify.com/track/5opUKcXwkwqbeMdMmrmnOu"
     },
     {
       "album": {
@@ -23410,7 +23544,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 163295,
       "name": "Pinta Mejor",
       "url": "https://open.spotify.com/track/3I2tOZUHkRoyGWkGgCh3OY"
@@ -23780,7 +23914,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 161456,
       "name": "POR CLAVE CAIMAN",
       "url": "https://open.spotify.com/track/0tRszIHk4va8tLZWkKxjHK"
@@ -24252,7 +24386,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 146337,
       "name": "PURA SUERTE",
       "url": "https://open.spotify.com/track/0hNVocBws5hDYOnsDDj440"
@@ -26005,6 +26139,24 @@
     },
     {
       "album": {
+        "name": "rumination",
+        "url": "https://open.spotify.com/album/5DPVu2yph9XItNHxREo0HV"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125688,
+      "name": "rumination",
+      "url": "https://open.spotify.com/track/7fMn28JM4zpxpONJghAz3h"
+    },
+    {
+      "album": {
         "name": "RZR Rojo",
         "url": "https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I"
       },
@@ -27261,6 +27413,24 @@
     },
     {
       "album": {
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/64AKuMd5pjsKwBtvWeEhx4"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160341,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/2beqL6C5zRet6fXvSXhXPz"
+    },
+    {
+      "album": {
         "name": "Sin ti yo valgo verga",
         "url": "https://open.spotify.com/album/5B2iIn0rSXFW64h6g2wLFz"
       },
@@ -28051,6 +28221,28 @@
     },
     {
       "album": {
+        "name": "Suerte",
+        "url": "https://open.spotify.com/album/2xMOOIfp6T7K1fLJq9Ja6q"
+      },
+      "artists": [
+        {
+          "name": "Juanpa M",
+          "url": "https://open.spotify.com/artist/4CZy33SKSl4qdFNi8hI9Ry"
+        },
+        {
+          "name": "JPL",
+          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182427,
+      "name": "Suerte",
+      "url": "https://open.spotify.com/track/3d7FCevVsla6UotH5bBBZj"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1o Americano",
         "url": "https://open.spotify.com/album/20ZVDYn2j4irBzIPdd4OYP"
       },
@@ -28666,6 +28858,24 @@
       "duration_ms": 175285,
       "name": "Te Voy a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/04vBxuAspmsQYLa1KprV8m"
+    },
+    {
+      "album": {
+        "name": "Te Vuelvo A Elegir",
+        "url": "https://open.spotify.com/album/4KUESEo0CLJ41JTVIPPd85"
+      },
+      "artists": [
+        {
+          "name": "Mariana Ochoa",
+          "url": "https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186315,
+      "name": "Te Vuelvo A Elegir",
+      "url": "https://open.spotify.com/track/0uL4zS6O9s8ef6RPqEkjAR"
     },
     {
       "album": {
@@ -31177,6 +31387,24 @@
     },
     {
       "album": {
+        "name": "VOY",
+        "url": "https://open.spotify.com/album/2uUlGQNROhyc8Yu7FZ6CTi"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185908,
+      "name": "VOY",
+      "url": "https://open.spotify.com/track/6h3OAsV7j5oSFevSNWflFs"
+    },
+    {
+      "album": {
         "name": "Voy a Mi Paso",
         "url": "https://open.spotify.com/album/7xiQtJCTl2wAOzV3cN8HOk"
       },
@@ -32174,6 +32402,32 @@
       "duration_ms": 161123,
       "name": "\u00bfPor qu\u00e9 no lo dejas?",
       "url": "https://open.spotify.com/track/4fSdmET7QJecg1nDS2RRop"
+    },
+    {
+      "album": {
+        "name": "\u00bfQue Te Pasa?",
+        "url": "https://open.spotify.com/album/2FIZ5IQ2By5Zw1sEgyt66g"
+      },
+      "artists": [
+        {
+          "name": "whathedgar",
+          "url": "https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB"
+        },
+        {
+          "name": "Sucesi\u00f3n M",
+          "url": "https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6"
+        },
+        {
+          "name": "Cobian Montana",
+          "url": "https://open.spotify.com/artist/4OVBPUhuX2CwyDSZLgi6Qc"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193328,
+      "name": "\u00bfQue Te Pasa?",
+      "url": "https://open.spotify.com/track/24gZ16hOqykHVXntgwlbHw"
     },
     {
       "album": {

@@ -1798,10 +1798,28 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 194959,
       "name": "Achy Breaky Heart",
       "url": "https://open.spotify.com/track/5G9yaq7e0sS1oW8WBA3D9N"
+    },
+    {
+      "album": {
+        "name": "Achy Breaky Heart",
+        "url": "https://open.spotify.com/album/3orboiB6xLOIkKXvoywhVT"
+      },
+      "artists": [
+        {
+          "name": "Shifty Brent",
+          "url": "https://open.spotify.com/artist/1x0YcF98Fketh6iGtkAfSX"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/4PleDMxu2thEpWhlmCBs3B"
     },
     {
       "album": {
@@ -6156,7 +6174,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 128208,
       "name": "Bilder gel\u00f6scht",
       "url": "https://open.spotify.com/track/04nxqUG1mzukNF4ZknTpn6"
@@ -11792,7 +11810,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 161920,
       "name": "Der Erlk\u00f6nig - Techno Edit",
       "url": "https://open.spotify.com/track/2OKrEc1eGMrrfHUREzyvkn"
@@ -14604,6 +14622,24 @@
       "duration_ms": 231960,
       "name": "Erika (EDM/Techno)",
       "url": "https://open.spotify.com/track/6RjGNLVE0kIVrjD2feGqw4"
+    },
+    {
+      "album": {
+        "name": "Erika - EDM/Techno",
+        "url": "https://open.spotify.com/album/3ZyTdQPWDz1OW0iuYgwUL2"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/10FHBmA3rSKaei8ob0WxAx"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231725,
+      "name": "Erika - EDM/Techno",
+      "url": "https://open.spotify.com/track/06SUEXJnqv1RCb9kqzOvbe"
     },
     {
       "album": {
@@ -23650,7 +23686,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 186759,
       "name": "Ich bin der beste Mensch der Welt",
       "url": "https://open.spotify.com/track/60JzS9Yl1HLISdoYHtUIRW"
@@ -34446,7 +34482,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 200807,
       "name": "Nevada (Agartha Slowd & Reverb)",
       "url": "https://open.spotify.com/track/297dBQdAmcxpREaXkQ7V36"
@@ -44356,7 +44392,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 114000,
       "name": "Stamp On The Ground",
       "url": "https://open.spotify.com/track/4Q5SMNyWydPAHZ51qc6M2E"
@@ -48186,7 +48222,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 173480,
       "name": "Tirol",
       "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
@@ -48204,7 +48240,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 173373,
       "name": "Tirol - Remastered 2019",
       "url": "https://open.spotify.com/track/1ztXLrHOxpIF7mBJ3oTakZ"

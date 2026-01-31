@@ -2401,6 +2401,32 @@
     },
     {
       "album": {
+        "name": "Hadid",
+        "url": "https://open.spotify.com/album/4Z3OdB26AGqwkVRonh55VU"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "GROSSOMODDO",
+          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
+        },
+        {
+          "name": "SPHYNX",
+          "url": "https://open.spotify.com/artist/5IG9HaT8HgSpmYCrdjjVGw"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Hadid",
+      "url": "https://open.spotify.com/track/5Ty7PQEKqolH20NlrK2gbC"
+    },
+    {
+      "album": {
         "name": "Haleq Maa'y",
         "url": "https://open.spotify.com/album/1FS3LAQp4oMKsCqMnI19OW"
       },
@@ -4329,6 +4355,24 @@
     },
     {
       "album": {
+        "name": "On Top",
+        "url": "https://open.spotify.com/album/1ypYut0zQmtAUO1rQmHhqb"
+      },
+      "artists": [
+        {
+          "name": "Imad",
+          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/5iCHePpqAgl6domtw8zvaT"
+    },
+    {
+      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -5600,7 +5644,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 562239,
       "name": "Who Loves The Sun",
       "url": "https://open.spotify.com/track/2u2aognU8U2C3bPJO5pVmz"
@@ -5948,7 +5992,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 142500,
       "name": "YAMA BY NIGHT",
       "url": "https://open.spotify.com/track/4sM6pKE8mhJSGlYVzvNxQz"

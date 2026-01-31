@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Orange Oak
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,416 likes - 151 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,459 likes - 151 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 4 | [I Hear a String Quartet Playing Everywhere I Go](https://open.spotify.com/track/1NWtclKzRaPG1o4IJPHpzn) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [I Hear a String Quartet Playing Everywhere I Go](https://open.spotify.com/album/4q8hI8J9570eJLga2mquGM) | 3:50 |
 | 5 | [Street Soldier](https://open.spotify.com/track/0djQZkgFYbNXOEnMdsCx8h) | [STHLMA](https://open.spotify.com/artist/4ka7VkwmzaGw0gDASqniao) | [Nervous](https://open.spotify.com/album/6HfApgAovS15OKuRWmNaWm) | 3:27 |
 | 6 | [Everything ur not](https://open.spotify.com/track/1rXXTzFxUazLKutOUQZl6P) | [Alvah](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y) | [Everything ur not](https://open.spotify.com/album/209UAYTjJHrsvOlDKTDPwk) | 3:22 |
-| 7 | [Catch Ya On The Beat](https://open.spotify.com/track/692kmpFFjaehI2go4YaIlu) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Catch Ya On The Beat](https://open.spotify.com/album/2BczwDigZJCc1NRKhqQmej) | 1:46 |
+| 7 | [Catch Ya On The Beat](https://open.spotify.com/track/692kmpFFjaehI2go4YaIlu) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej), [LUDO](https://open.spotify.com/artist/1cPXzshpnCQxb3K9xbmDxn) | [Catch Ya On The Beat](https://open.spotify.com/album/2BczwDigZJCc1NRKhqQmej) | 1:46 |
 | 8 | [calvins](https://open.spotify.com/track/43QatUAxd1zeptHRhq5pTV) | [tiri](https://open.spotify.com/artist/2eFsG8AlPcPY6FJ7mGTluZ) | [calvins](https://open.spotify.com/album/48ayuhh7x90zOvbg1pSMMS) | 1:54 |
 | 9 | [NEW DESIGN!!!!!](https://open.spotify.com/track/6nlRoN5yluBaDB2SqKv9wM) | [SUPERGOOD](https://open.spotify.com/artist/0ZAdXUupZVD16ZDHgmeqRa) | [NEW DESIGN!!!!!](https://open.spotify.com/album/167pCgKu33kp269pVbXRjf) | 2:31 |
 | 10 | [High](https://open.spotify.com/track/0Sebk4yOJ52vUlH0k0Cs0f) | [IVY](https://open.spotify.com/artist/1YuwetoupEWqwhYevKPrOP) | [High](https://open.spotify.com/album/0NA2y5bcz4bwOXg4gVkrE1) | 2:45 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with Levity",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with Wooli",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -3074,7 +3074,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 215481,
       "name": "Bodybag",
       "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
@@ -3148,6 +3148,28 @@
       "duration_ms": 180800,
       "name": "Bonebreaker",
       "url": "https://open.spotify.com/track/5FQ5Ijl6HQsJYD6QaZseFo"
+    },
+    {
+      "album": {
+        "name": "Bonefire",
+        "url": "https://open.spotify.com/album/4YrQfC8AtvrRk7ORMRYUiS"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "Calcium",
+          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149318,
+      "name": "Bonefire",
+      "url": "https://open.spotify.com/track/3IV7SN6XAxP9dgvru3wEWb"
     },
     {
       "album": {
@@ -4103,6 +4125,28 @@
     },
     {
       "album": {
+        "name": "Came Up",
+        "url": "https://open.spotify.com/album/0a4WN8pMBB5KtwRXT6Dmwr"
+      },
+      "artists": [
+        {
+          "name": "BERNZIKIAL",
+          "url": "https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS"
+        },
+        {
+          "name": "VICKY B",
+          "url": "https://open.spotify.com/artist/5iMcHhc2LFvld1l6nNoIpJ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Came Up",
+      "url": "https://open.spotify.com/track/6CxZN3PdRw5Thoeaf9z5X7"
+    },
+    {
+      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/62WxvhOOeNoeXrS4GqZp2Y"
       },
@@ -4476,7 +4520,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 188571,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/6kPi7wWjP3OCnLrolHJeHQ"
@@ -4850,7 +4894,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 212571,
       "name": "CHECKMATE",
       "url": "https://open.spotify.com/track/0nSAl0W9em1KhLuHbJjFqt"
@@ -7460,7 +7504,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 278487,
       "name": "Droner",
       "url": "https://open.spotify.com/track/5D8EkWUnhBSYRohQ8bRQNT"
@@ -8455,6 +8499,28 @@
     },
     {
       "album": {
+        "name": "EVIL EMPIRE EP (THE REMIXES)",
+        "url": "https://open.spotify.com/album/5I3MaOBcxWle1v4uOxzgYI"
+      },
+      "artists": [
+        {
+          "name": "THE RESISTANCE",
+          "url": "https://open.spotify.com/artist/4VU3TBTKad327N0Ql1P1ew"
+        },
+        {
+          "name": "FuntCase",
+          "url": "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "EVIL EMPIRE - Funtcase REMIX",
+      "url": "https://open.spotify.com/track/5NL6xCSUEjNf8ylW9gWIy5"
+    },
+    {
+      "album": {
         "name": "Excalibur",
         "url": "https://open.spotify.com/album/0l9LvoGnkAS5xe1KjLT7SU"
       },
@@ -8580,6 +8646,28 @@
       "duration_ms": 274285,
       "name": "Face Myself",
       "url": "https://open.spotify.com/track/78IOX6MF4vbG5DuGusxxvA"
+    },
+    {
+      "album": {
+        "name": "FACEDOWN",
+        "url": "https://open.spotify.com/album/2ynrHhpM9WSDh9Snv0dz1c"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "FACEDOWN",
+      "url": "https://open.spotify.com/track/5bBsJxig0Ls4USQqIukB6I"
     },
     {
       "album": {
@@ -9713,6 +9801,28 @@
     },
     {
       "album": {
+        "name": "Frames of Infinity",
+        "url": "https://open.spotify.com/album/0aX6OPx3gZjfYDDaqALV1p"
+      },
+      "artists": [
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234482,
+      "name": "Frames of Infinity",
+      "url": "https://open.spotify.com/track/6nTBvVuBaYu6s4aYnpA0oV"
+    },
+    {
+      "album": {
         "name": "FREAK NASTY (THE REMIXES)",
         "url": "https://open.spotify.com/album/0Mq7L6tEy9Z2Bm7Ej1t418"
       },
@@ -9764,6 +9874,28 @@
       "duration_ms": 191836,
       "name": "Frequency Knife",
       "url": "https://open.spotify.com/track/1V2gN3aisB9mQRH8hWEbwY"
+    },
+    {
+      "album": {
+        "name": "FRESH BAKED BREAD",
+        "url": "https://open.spotify.com/album/693Z0YvlN316YWdWJs8OXd"
+      },
+      "artists": [
+        {
+          "name": "Daily Bread",
+          "url": "https://open.spotify.com/artist/4IsiG6RpDyRq6Frd2CvddW"
+        },
+        {
+          "name": "EAZYBAKED",
+          "url": "https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "FRESH BAKED BREAD",
+      "url": "https://open.spotify.com/track/4wj0LATYaC2mt9wSOrmbzC"
     },
     {
       "album": {
@@ -11422,7 +11554,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 200708,
       "name": "HIGH KNEES",
       "url": "https://open.spotify.com/track/7KLGBikEkiy0H0GsyGoHrg"
@@ -13478,7 +13610,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 168926,
       "name": "KICKBACK",
       "url": "https://open.spotify.com/track/0xXZrytS3tv0KSLsJkcMgj"
@@ -16412,6 +16544,28 @@
     {
       "album": {
         "name": "No Mercy",
+        "url": "https://open.spotify.com/album/7BlEPlJHJpNXxF9j5Xy8QZ"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        },
+        {
+          "name": "Hostage Situation",
+          "url": "https://open.spotify.com/artist/1UnA09CtdmT16mvmzbXnON"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "No Mercy",
+      "url": "https://open.spotify.com/track/4XiQWeQaWb5KRvp6wM6SVl"
+    },
+    {
+      "album": {
+        "name": "No Mercy",
         "url": "https://open.spotify.com/album/10WwLgHVlQzrMpQJmTV4Ec"
       },
       "artists": [
@@ -16564,6 +16718,28 @@
       "duration_ms": 178285,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/6KBoM5fpkLRFmO8yJY6Cc0"
+    },
+    {
+      "album": {
+        "name": "Nocturnal (VKTM VIP)",
+        "url": "https://open.spotify.com/album/2bNy1BzXlXpcUQnPG2Fcgh"
+      },
+      "artists": [
+        {
+          "name": "VKTM",
+          "url": "https://open.spotify.com/artist/3Hvi9LxTMvcAUxf8GNZKeD"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247924,
+      "name": "Nocturnal - VKTM VIP",
+      "url": "https://open.spotify.com/track/7Iy1n71lBcH5g3yaWSDgct"
     },
     {
       "album": {
@@ -17104,7 +17280,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 212571,
       "name": "On The Go",
       "url": "https://open.spotify.com/track/3JU73s1RBFr7t5nPEx0SvB"
@@ -18580,7 +18756,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 162850,
       "name": "Pump Up The Bassline",
       "url": "https://open.spotify.com/track/5YQjdut4XRDv5qZM0R5cvl"
@@ -23879,6 +24055,24 @@
     },
     {
       "album": {
+        "name": "The Crossroads",
+        "url": "https://open.spotify.com/album/1ApX3Xwzyey8ncDNTxSKSj"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168827,
+      "name": "The Crossroads",
+      "url": "https://open.spotify.com/track/6ZVa4emqPbwYeaeZIZg0bT"
+    },
+    {
+      "album": {
         "name": "The Death of Peace of Mind",
         "url": "https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9"
       },
@@ -24112,6 +24306,24 @@
       "duration_ms": 260526,
       "name": "THE OG",
       "url": "https://open.spotify.com/track/0pUp5f9v9g8X4JpOw1QCzb"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/125bLtA8OKSjzv21q31sGQ"
+      },
+      "artists": [
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181241,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/6VU8WmsSE0Iz49V8BJNR2v"
     },
     {
       "album": {
@@ -24552,7 +24764,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 231272,
       "name": "This Way",
       "url": "https://open.spotify.com/track/5AvpUn8f14RPhZxiI4YkSm"
@@ -24706,7 +24918,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 293031,
       "name": "Timmy",
       "url": "https://open.spotify.com/track/31nVhQ4jYi71WscRO5YxZ5"
@@ -25038,6 +25250,28 @@
       "duration_ms": 192827,
       "name": "Trailblazer",
       "url": "https://open.spotify.com/track/33y633ybdMYht4cccI70vV"
+    },
+    {
+      "album": {
+        "name": "Train Tune",
+        "url": "https://open.spotify.com/album/7sjx1Flznl1Z6GDlUrGJI8"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "MAD DUBZ",
+          "url": "https://open.spotify.com/artist/4TQ72C7aaARXGuHB7qBPk7"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Train Tune",
+      "url": "https://open.spotify.com/track/6K2uj25CgAqyvq1b3YpOMU"
     },
     {
       "album": {
@@ -26720,7 +26954,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 172743,
       "name": "whateverrr",
       "url": "https://open.spotify.com/track/39052vVns3KeH6EzQvswtw"

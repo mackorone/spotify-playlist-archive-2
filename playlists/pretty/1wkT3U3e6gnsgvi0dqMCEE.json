@@ -6,8 +6,64 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAADSq7LkdlySdqfhjdWBsLotXH1VUQX",
+  "snapshot_id": "AAADTu4TI329n56sOgwd3HmrLDXoGOj5",
   "tracks": [
+    {
+      "added_at": "2026-01-30 16:57:06",
+      "album": {
+        "name": "Mama Kin (2024 Mix)",
+        "url": "https://open.spotify.com/album/4tBXcje3f1YqjPIxq0yDfy"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 275435,
+      "name": "Mama Kin - 2024 Mix",
+      "url": "https://open.spotify.com/track/6wFfvDWhdlrFjBchs1iidh"
+    },
+    {
+      "added_at": "2026-01-30 17:01:20",
+      "album": {
+        "name": "Debra Kadabra",
+        "url": "https://open.spotify.com/album/7abqyyK2520wquLRbe4rCW"
+      },
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        },
+        {
+          "name": "Captain Beefheart",
+          "url": "https://open.spotify.com/artist/2ebK4ueGwhVaXUm060m1BS"
+        },
+        {
+          "name": "The Mothers",
+          "url": "https://open.spotify.com/artist/6O2r6FHJL6hRJxBI5TUn0K"
+        }
+      ],
+      "duration_ms": 238952,
+      "name": "Debra Kadabra - Live In Austin, TX - May 21, 1975",
+      "url": "https://open.spotify.com/track/1dNTt9gD88G8tM4nSLcPO8"
+    },
+    {
+      "added_at": "2026-01-30 17:01:38",
+      "album": {
+        "name": "Everybody's Gotta Learn Sometime",
+        "url": "https://open.spotify.com/album/1C6ZhZjeYzIE7pPoRGABXJ"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 128100,
+      "name": "True Love Will Find You In The End",
+      "url": "https://open.spotify.com/track/3t5TmZKdel3L8p8GHkZ226"
+    },
     {
       "added_at": "2026-01-23 16:02:39",
       "album": {

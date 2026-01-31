@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/2UHMIxC4iCCziZ0xJAEQ9e"
+      },
+      "artists": [
+        {
+          "name": "Portland",
+          "url": "https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213343,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/4zkhwKB80K68JoX0QFA3KH"
+    },
+    {
+      "album": {
         "name": "Autumn Love",
         "url": "https://open.spotify.com/album/2aENqkLbaJgieNQX7fqDdl"
       },
@@ -4764,7 +4782,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 203560,
       "name": "Time To Talk",
       "url": "https://open.spotify.com/track/05zgKmDFu6xvnaPcGD6DhA"

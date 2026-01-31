@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with PEEKABOO",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Kai Wachi",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 186827,
       "name": "ATTENTION!",
       "url": "https://open.spotify.com/track/6SU8l6cjaSc3I9Ml9tGoRk"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 192000,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/2iLjC9vJBlvlP6ixf3mVfz"
@@ -3761,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "Blood On My Hands",
+        "url": "https://open.spotify.com/album/555QuQvzYTgaJzcGPlpTzc"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191800,
+      "name": "Blood On My Hands",
+      "url": "https://open.spotify.com/track/6kMqtoG4GUMjCSorLD6Max"
+    },
+    {
+      "album": {
         "name": "Bloodbath",
         "url": "https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt"
       },
@@ -4144,6 +4162,28 @@
       "duration_ms": 180800,
       "name": "Bonebreaker",
       "url": "https://open.spotify.com/track/5FQ5Ijl6HQsJYD6QaZseFo"
+    },
+    {
+      "album": {
+        "name": "Bonefire",
+        "url": "https://open.spotify.com/album/4YrQfC8AtvrRk7ORMRYUiS"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "Calcium",
+          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149318,
+      "name": "Bonefire",
+      "url": "https://open.spotify.com/track/3IV7SN6XAxP9dgvru3wEWb"
     },
     {
       "album": {
@@ -5116,7 +5156,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 222978,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/6oGFDrlsSXovBIAY7gNYIq"
@@ -9138,7 +9178,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 215172,
       "name": "Droid",
       "url": "https://open.spotify.com/track/1mPhGJJd1uH372y2UATIJo"
@@ -10480,6 +10520,28 @@
       "duration_ms": 140999,
       "name": "F______ LOVE YOU",
       "url": "https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC"
+    },
+    {
+      "album": {
+        "name": "FACEDOWN",
+        "url": "https://open.spotify.com/album/2ynrHhpM9WSDh9Snv0dz1c"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "FACEDOWN",
+      "url": "https://open.spotify.com/track/5bBsJxig0Ls4USQqIukB6I"
     },
     {
       "album": {
@@ -12219,6 +12281,28 @@
     },
     {
       "album": {
+        "name": "Frames of Infinity",
+        "url": "https://open.spotify.com/album/0aX6OPx3gZjfYDDaqALV1p"
+      },
+      "artists": [
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234482,
+      "name": "Frames of Infinity",
+      "url": "https://open.spotify.com/track/6nTBvVuBaYu6s4aYnpA0oV"
+    },
+    {
+      "album": {
         "name": "FREAK NASTY (THE REMIXES)",
         "url": "https://open.spotify.com/album/0Mq7L6tEy9Z2Bm7Ej1t418"
       },
@@ -12252,6 +12336,32 @@
       "duration_ms": 192158,
       "name": "Freak Of Nature",
       "url": "https://open.spotify.com/track/6QCC3XVw9tZiHfxmqX15oN"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "ZOHARA",
+          "url": "https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236291,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
     },
     {
       "album": {
@@ -14626,7 +14736,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 136000,
       "name": "HEY BABY",
       "url": "https://open.spotify.com/track/03PJbbMFZJymweSCacPkQm"
@@ -17470,7 +17580,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 132800,
       "name": "KILLAA",
       "url": "https://open.spotify.com/track/3W9fuckq8H5fCHZ0n0GCQx"
@@ -21905,6 +22015,28 @@
     },
     {
       "album": {
+        "name": "Nocturnal (VKTM VIP)",
+        "url": "https://open.spotify.com/album/2bNy1BzXlXpcUQnPG2Fcgh"
+      },
+      "artists": [
+        {
+          "name": "VKTM",
+          "url": "https://open.spotify.com/artist/3Hvi9LxTMvcAUxf8GNZKeD"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247924,
+      "name": "Nocturnal - VKTM VIP",
+      "url": "https://open.spotify.com/track/7Iy1n71lBcH5g3yaWSDgct"
+    },
+    {
+      "album": {
         "name": "EYE SPY",
         "url": "https://open.spotify.com/album/1ZznxQYmedRm467XBt5tu2"
       },
@@ -22450,6 +22582,44 @@
       "duration_ms": 170742,
       "name": "OH MY DAZE",
       "url": "https://open.spotify.com/track/5XyEV01n099n9JgT0va1HE"
+    },
+    {
+      "album": {
+        "name": "OK OK (Hamdi Remix)",
+        "url": "https://open.spotify.com/album/6POSPBtibhdNu2fQG4tUH7"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        },
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196060,
+      "name": "OK OK - Hamdi Remix",
+      "url": "https://open.spotify.com/track/401geNb9B5l7bFzi53Z3oP"
     },
     {
       "album": {
@@ -23922,7 +24092,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 153612,
       "name": "Pink Peonies",
       "url": "https://open.spotify.com/track/6ryyWusoMfUJ2XEYGfkeYr"
@@ -25158,7 +25328,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 150000,
       "name": "Raise the Dead",
       "url": "https://open.spotify.com/track/7wij83rkAGXUP7Dc7MQihR"
@@ -26008,7 +26178,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 188689,
       "name": "REVENGE",
       "url": "https://open.spotify.com/track/2Ua5yp9xBMdnDmlHbEjHxR"
@@ -29253,6 +29423,28 @@
     },
     {
       "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/4TxFxkekKZ0tBtcezdyeHB"
+      },
+      "artists": [
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251076,
+      "name": "STAB UP (feat. Shakewell)",
+      "url": "https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla"
+    },
+    {
+      "album": {
         "name": "HALF BLOOD",
         "url": "https://open.spotify.com/album/0KvaKQ6sOPmlZTOvsGjoQA"
       },
@@ -31235,6 +31427,24 @@
     },
     {
       "album": {
+        "name": "The Crossroads",
+        "url": "https://open.spotify.com/album/1ApX3Xwzyey8ncDNTxSKSj"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168827,
+      "name": "The Crossroads",
+      "url": "https://open.spotify.com/track/6ZVa4emqPbwYeaeZIZg0bT"
+    },
+    {
+      "album": {
         "name": "The Dead March",
         "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
       },
@@ -32447,6 +32657,28 @@
     },
     {
       "album": {
+        "name": "Train Tune",
+        "url": "https://open.spotify.com/album/7sjx1Flznl1Z6GDlUrGJI8"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "MAD DUBZ",
+          "url": "https://open.spotify.com/artist/4TQ72C7aaARXGuHB7qBPk7"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Train Tune",
+      "url": "https://open.spotify.com/track/6K2uj25CgAqyvq1b3YpOMU"
+    },
+    {
+      "album": {
         "name": "Trampoline (Jauz Remix)",
         "url": "https://open.spotify.com/album/0zEgfSceFqevzVPCzcQDb0"
       },
@@ -33596,7 +33828,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 200493,
       "name": "voltage (see you again)",
       "url": "https://open.spotify.com/track/2vfxj67f2qeZz4uofyoPvw"

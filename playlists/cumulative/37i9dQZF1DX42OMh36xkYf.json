@@ -1,8 +1,52 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Motherflowers y L-Gante en portada.",
+  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con nsqk en portada.",
   "name": "IRIS",
   "tracks": [
+    {
+      "album": {
+        "name": "(favorito)",
+        "url": "https://open.spotify.com/album/63REyK0hkC2rCtgYGIqKNh"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "(favorito)",
+      "url": "https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq"
+    },
+    {
+      "album": {
+        "name": "250cc",
+        "url": "https://open.spotify.com/album/6nUtF0ygYhS5iJh8JvnfuB"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        },
+        {
+          "name": "Olisso",
+          "url": "https://open.spotify.com/artist/5j2C0iQHKvCcfPVCOqn20h"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "250cc",
+      "url": "https://open.spotify.com/track/0Ywh0NH8bmPTQFvQZ9G5yU"
+    },
     {
       "album": {
         "name": "777AM",
@@ -212,7 +256,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 183033,
       "name": "Aprend\u00ed",
       "url": "https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0"
@@ -779,6 +823,32 @@
     },
     {
       "album": {
+        "name": "Cometa Halley",
+        "url": "https://open.spotify.com/album/1mXe8JaRT7m28sbTACb5NE"
+      },
+      "artists": [
+        {
+          "name": "Mario y Sus Modales",
+          "url": "https://open.spotify.com/artist/4NG6Rx2jfkLDUOujbeHPkL"
+        },
+        {
+          "name": "Andrea Prieto",
+          "url": "https://open.spotify.com/artist/1Vjed82kxDKAZhUP9cqN0A"
+        },
+        {
+          "name": "Magenta",
+          "url": "https://open.spotify.com/artist/2mMgeodMBg608XQLY3wNkr"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Cometa Halley",
+      "url": "https://open.spotify.com/track/1bYEWpsLbBnvBVuHlc0mhT"
+    },
+    {
+      "album": {
         "name": "Firmamento en blanco y negro",
         "url": "https://open.spotify.com/album/57lnIz6eGPU1Ics67okG4Q"
       },
@@ -1164,7 +1234,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 164693,
       "name": "el Alquimista - versi\u00f3n piano",
       "url": "https://open.spotify.com/track/0PZUscW1i1Ipz1guGIMuhJ"
@@ -1284,6 +1354,24 @@
       "duration_ms": 170038,
       "name": "EL D\u00cdA DEL AMIGO",
       "url": "https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN"
+    },
+    {
+      "album": {
+        "name": "El Fondo Del Mar",
+        "url": "https://open.spotify.com/album/6w3vkKC7lecNEsOZKLrMIv"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215893,
+      "name": "El Fondo Del Mar",
+      "url": "https://open.spotify.com/track/0IZDehr1gLrSW8KnqSA4Xb"
     },
     {
       "album": {
@@ -1504,7 +1592,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 196415,
       "name": "Favorite Place",
       "url": "https://open.spotify.com/track/523GiEoDg0ulav50HZItuF"
@@ -2096,7 +2184,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 215948,
       "name": "la terminal",
       "url": "https://open.spotify.com/track/4HdsSVEogcoSeVkyH9HqTl"
@@ -2627,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Mil Noches",
+        "url": "https://open.spotify.com/album/1UAZW8Tx2rBGn5AZwl0pjF"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164584,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn"
+    },
+    {
+      "album": {
         "name": "mil procedimientos",
         "url": "https://open.spotify.com/album/228lIoPGjFuFxEUAh4vjOO"
       },
@@ -2871,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "Nsqk - Spotify Sessions",
+        "url": "https://open.spotify.com/album/20eVKdTYyAfrnevyqPNrqL"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170670,
+      "name": "No Basta Con Querernos M\u00e1s - Spotify Sessions (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/75k7sXf2eclJPy7pU1XRka"
+    },
+    {
+      "album": {
         "name": "No es culpa tuya",
         "url": "https://open.spotify.com/album/5Gm2ELl1iV8Jk1Il4Zk1QV"
       },
@@ -3064,7 +3188,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 201920,
       "name": "Ojos Tristes (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0"
@@ -3281,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "Pel\u00edculas De Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "Pel\u00edculas De Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh"
+    },
+    {
+      "album": {
         "name": "Lo Que Puede Pasar",
         "url": "https://open.spotify.com/album/7cxK8DbJ1Sk5xvAyf9pbHC"
       },
@@ -3314,7 +3456,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 216677,
       "name": "Pinta Bonito",
       "url": "https://open.spotify.com/track/6j98s4dlTDuUl8tMy8BUZ7"
@@ -3580,6 +3722,24 @@
       "duration_ms": 154500,
       "name": "Qu\u00e9 M\u00e1s Da",
       "url": "https://open.spotify.com/track/2L7EazniDPDv5UZZdcCBcA"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/6ImjLS7pbQSBEJlGfCNNXu"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152582,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/0XVVpxQz9asVWytsDdQCy8"
     },
     {
       "album": {
@@ -3854,7 +4014,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 265241,
       "name": "Sol",
       "url": "https://open.spotify.com/track/4ttboV1page1MW7tEq8tNt"
@@ -4076,7 +4236,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 184560,
       "name": "Todas Las Aguas",
       "url": "https://open.spotify.com/track/08LnCmgee4peeXIiuIZnNr"
@@ -4422,10 +4582,28 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 192786,
       "name": "X ti",
       "url": "https://open.spotify.com/track/1MEZxP4y2wGTP7pvg5dqVI"
+    },
+    {
+      "album": {
+        "name": "Ya no est\u00e1s",
+        "url": "https://open.spotify.com/album/69KictUlgQGyu9OQ7J438h"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Ya no est\u00e1s",
+      "url": "https://open.spotify.com/track/5nPUP7GjkfASfMP6PUu1dC"
     },
     {
       "album": {

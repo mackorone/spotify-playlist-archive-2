@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Ditonellapiaga in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,006 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,019 likes - 125 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 16 | [Altomare](https://open.spotify.com/track/7KECrE85Ki9lcUGNU3Uvd4) | [Salomèe](https://open.spotify.com/artist/1KlD1JXtUV44n7tdzmiXit) | [Altomare](https://open.spotify.com/album/3WNRX5w4wzDdVhr4UTZXly) | 2:46 |
 | 17 | [Simone spaccia](https://open.spotify.com/track/1AXw4y6VSTKp7firxJlEYl) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Simone spaccia](https://open.spotify.com/album/6Hnq8ItsRnP4CxQ0gT4enh) | 3:13 |
 | 18 | [Sto da Dio](https://open.spotify.com/track/1VZkUxGInApLVWEabBuU5t) | [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5) | [Sto da Dio](https://open.spotify.com/album/2J8DiGLS1aYgOpcEms89fQ) | 3:12 |
-| 19 | [Track 5](https://open.spotify.com/track/7fC9JbQTR20CB6gvWr1NcF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [](https://open.spotify.com/album/null) | 0:00 |
+| 19 | [Olvídala](https://open.spotify.com/track/7fC9JbQTR20CB6gvWr1NcF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Bohemio](https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV) | 2:33 |
 | 20 | [FANÁTICO](https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [FANÁTICO](https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z) | 3:55 |
-| 21 | [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [](https://open.spotify.com/album/null) | 2:55 |
+| 21 | [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:55 |
 | 22 | [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 |
 | 23 | [RIDIN](https://open.spotify.com/track/4D8EhdAPBtxxXWTwajdblG) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [RIDIN](https://open.spotify.com/album/0a2y9dUPmPCtTurd4jfEJg) | 2:00 |
-| 24 | [Track 15](https://open.spotify.com/track/2YGbdJobuSUnfHUGVIHVXb) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [](https://open.spotify.com/album/null) | 0:00 |
+| 24 | [Azucar](https://open.spotify.com/track/2YGbdJobuSUnfHUGVIHVXb) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Mixed Feelings \(Bonus Track Edition\)](https://open.spotify.com/album/5c3R42LrfZhbFc4UfYAORE) | 3:26 |
 | 25 | [DROWN](https://open.spotify.com/track/4iyzWWLC4TOn5FqoyatMxp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:53 |
 | 26 | [Zero](https://open.spotify.com/track/1VuQnyUvKCe7ydmdBP8mxW) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Zero](https://open.spotify.com/album/7aImQtFJjjWSO8kh9Vk15C) | 3:11 |
 | 27 | [Parcheggio a ore](https://open.spotify.com/track/5KmTqT6ge16FNylMiKzNXK) | [Trigno](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Parcheggio a ore](https://open.spotify.com/album/0UOu5Bp9LL93TvfDYUEnys) | 3:23 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 107 | [Per fortuna muoiono tutti](https://open.spotify.com/track/0ojvWLYOLG6mUlvGNTi7hB) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Per fortuna muoiono tutti](https://open.spotify.com/album/6SvpvGiYaNkh2LoL99yYfr) | 2:40 |
 | 108 | [Ricominciamoci](https://open.spotify.com/track/7q4XI4Odba1eJYu5ZWbcvc) | [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L), [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Ricominciamoci](https://open.spotify.com/album/7xxBZBplT4gDs8d7DA4K8y) | 3:15 |
 | 109 | [Dove si va](https://open.spotify.com/track/0JvcY0D5PUPBAfjr7Np5SQ) | [Sidy](https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT) | [Dove si va](https://open.spotify.com/album/4LFYZLxFF1N6f1k0lbQIis) | 2:51 |
-| 110 | [Dread \- The Moment \(The Score\)](https://open.spotify.com/track/0o6QKerRaO7Hq5tOvVXBLH) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Dread \- The Moment \(The Score\)](https://open.spotify.com/album/1RCS8GsTDFMZld7vQbALG1) | 5:49 |
+| 110 | [Dread](https://open.spotify.com/track/0o6QKerRaO7Hq5tOvVXBLH) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Dread](https://open.spotify.com/album/1RCS8GsTDFMZld7vQbALG1) | 5:49 |
 | 111 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 |
 | 112 | [SWEET LOVE](https://open.spotify.com/track/1bx6QL4eUThXV2jS3B9atn) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [SWEET LOVE](https://open.spotify.com/album/1LEX8A7hoDloo5pJrVrb2f) | 2:25 |
 | 113 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Churemi
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,689 likes - 140 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,783 likes - 140 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 5 | [ROGIC](https://open.spotify.com/track/75HuzOo5GXHKPic7Gt16Ci) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ROGIC](https://open.spotify.com/album/6PiN5pM2VLtCSp3YF2yidb) | 3:30 |
 | 6 | [HIGH](https://open.spotify.com/track/5GhAOp2A9gtQ2wkezEVE5n) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [HIGH](https://open.spotify.com/album/3ikNIUzsRLbG8jpsZUkilH) | 2:42 |
 | 7 | [Ekele \(Thank You\)](https://open.spotify.com/track/2yHAk6q2S0xol1xxYo2P72) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Dells TMX](https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r), [April Onoh](https://open.spotify.com/artist/5PiRDDnrgH1ekAf6fgYeSb) | [Ekele \(Thank You\)](https://open.spotify.com/album/6Nu8MaPI5Iy01qGFXk8RiK) | 2:25 |
-| 8 | [Track 1](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [Hallelujah](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [JOY](https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY) | 2:29 |
 | 9 | [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 |
 | 10 | [Belong to Christ Jesus](https://open.spotify.com/track/090xsRHDbZGaU0WKrLdbg5) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Belong to Christ Jesus](https://open.spotify.com/album/5w9pf72R1X4mVi6n7jboNk) | 2:40 |
 | 11 | [Holla Christ \(Reminiscing\)](https://open.spotify.com/track/1gvBz6HBrQpvx3Z9YpqCFJ) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Tissann](https://open.spotify.com/artist/0oXiDrLAR9O9986SCXZj8X), [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx) | [Holla Christ \(Reminiscing\)](https://open.spotify.com/album/2hpCWSXmXLsJe55GveED0B) | 2:50 |

@@ -4087,6 +4087,24 @@
     },
     {
       "album": {
+        "name": "Kano Akayimba",
+        "url": "https://open.spotify.com/album/6bmLHCvX1jyCRhLUQdliK4"
+      },
+      "artists": [
+        {
+          "name": "K!MERA",
+          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179277,
+      "name": "Kano Akayimba",
+      "url": "https://open.spotify.com/track/5JI6dcYNQOc9GlEOzWk7Xp"
+    },
+    {
+      "album": {
         "name": "Kanyonyi Kange",
         "url": "https://open.spotify.com/album/2neLWncs1gFTimL2Eozb72"
       },

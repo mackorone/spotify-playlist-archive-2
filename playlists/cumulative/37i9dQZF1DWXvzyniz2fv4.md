@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-256 songs - 13 hr 39 min
+257 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Noites & Noites](https://open.spotify.com/track/6DiJUiJiryuNDoxIj1L6nw) | [CARTE](https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89) | [Noites & Noites](https://open.spotify.com/album/4BKUKunzocQdmgtz1EKW1D) | 3:00 | 2024-02-16 | 2024-06-01 |
 | [Nossa Viagem](https://open.spotify.com/track/2CYjW7iosrYhe80Ydm6PEz) | [MARCELA](https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt), [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Nossa Viagem](https://open.spotify.com/album/1llvdGgxHkX8ivOSwb8u3i) | 2:36 | 2021-11-12 | 2024-11-23 |
 | [Nossas Mídias](https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA) | [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6), [Simøn](https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA) | [Nossas Mídias](https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt) | 3:26 | 2021-11-12 | 2025-10-26 |
-| [Não Quero Mais Nada](https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4) | [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm), [Lívia Neves](https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk) | [Não Quero Mais Nada](https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy) | 3:33 | 2021-11-12 |  |
+| [Não Quero Mais Nada](https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4) | [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm), [Lívia Neves](https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk) | [Não Quero Mais Nada](https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy) | 3:33 | 2021-11-12 | 2026-01-31 |
 | [Não Sou de Ninguém](https://open.spotify.com/track/4RIYZ53YLgBsuSSVlA85fQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [Burbon](https://open.spotify.com/artist/69SLft0U310nwqClQ51Czo), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH), [Pascon](https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Não Sou de Ninguém](https://open.spotify.com/album/6t6gIQ5fxkqYgbrfQVhqdM) | 3:34 | 2022-08-12 | 2023-03-18 |
 | [O Agora é Nosso](https://open.spotify.com/track/6lFNaYEKcS3KtwKOSWpFuS) | [Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm) | [OCANV \(Cap\. II\)](https://open.spotify.com/album/4MXCC1YWrntuViiFWApNAc) | 3:49 | 2025-11-30 |  |
 | [O Cravo e a Flor](https://open.spotify.com/track/7xWbDSH4hl6lQYAq3MKBec) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [O Cravo e a Flor](https://open.spotify.com/album/0ikJdVueCeBJrvoAVZm5Ve) | 3:06 | 2024-05-24 | 2024-10-05 |
@@ -263,6 +263,7 @@
 | [Vários Planos](https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Vários Planos](https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI) | 3:00 | 2023-02-10 | 2025-03-20 |
 | [Yin Yang](https://open.spotify.com/track/4dfYeOXuSPR6ZG9oxtj1yR) | [Moreiranavoz](https://open.spotify.com/artist/2ti4Q3nLT9uQmGdiJIYKDX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Martins.prodz](https://open.spotify.com/artist/1DQaq7dn5kLHc3qFiVplZr) | [Yin Yang](https://open.spotify.com/album/3aYIj4pNgN7Y9jgR9wCKQ1) | 2:42 | 2025-03-05 | 2025-04-02 |
 | [ZAZA](https://open.spotify.com/track/5fzo9MLujhCxZYIPJ29nNH) | [sickobabyxo](https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [ZAZA](https://open.spotify.com/album/57ig0q3dthGuN0jl43WK9l) | 2:15 | 2023-02-03 | 2023-03-25 |
+| [À BEIRA](https://open.spotify.com/track/3aoZR3RlrotPXZngTa4Qp8) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Lamar](https://open.spotify.com/artist/7nhonYMPyCNw05h1NBAuLx) | [COLAPSO GLOBAL](https://open.spotify.com/album/214OaJv3XycWX4oqydN2Ic) | 3:58 | 2026-01-30 |  |
 | [É Você](https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Mc Chagas](https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj), [Mc Rei Delas](https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i) | [É Você](https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa) | 3:17 | 2021-11-12 | 2025-10-17 |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

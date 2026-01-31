@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Oscar Anton",
-  "num_followers": 403068,
+  "num_followers": 403050,
   "original_name": "Indie France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALVlhELS/AK5oGnLpcl5jF7amvkP",
+  "snapshot_id": "AAAAAJpbbuUuwbjGM1Ky6fflexuCy/1u",
   "tracks": [
     {
       "added_at": "2026-01-29 23:00:39",
@@ -119,22 +119,6 @@
     {
       "added_at": "2026-01-29 23:00:39",
       "album": {
-        "name": "Drink For Love EP",
-        "url": "https://open.spotify.com/album/6WRNhjMcwz2hin8HEQKB31"
-      },
-      "artists": [
-        {
-          "name": "Velour",
-          "url": "https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "Drink For Love",
-      "url": "https://open.spotify.com/track/0549rMhlyXIm7OlQiJl4Gu"
-    },
-    {
-      "added_at": "2026-01-29 23:00:39",
-      "album": {
         "name": "Nuits bleues",
         "url": "https://open.spotify.com/album/0kwjlPh5rxVb4EwvbZhy2H"
       },
@@ -219,22 +203,6 @@
       "duration_ms": 156736,
       "name": "Appel de d\u00e9tresse",
       "url": "https://open.spotify.com/track/0SlVqq3nMSf6ItkaOMPXfg"
-    },
-    {
-      "added_at": "2026-01-29 23:00:39",
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Velour",
-          "url": "https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Let It Roll",
-      "url": "https://open.spotify.com/track/1rCkAFwm0pJSyTgUDu1uwZ"
     },
     {
       "added_at": "2026-01-29 23:00:39",
@@ -331,8 +299,8 @@
     {
       "added_at": "2026-01-29 23:00:39",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "L'oiseau bleu",
+        "url": "https://open.spotify.com/album/6KukxYYn4YtlJBQmbaHgvM"
       },
       "artists": [
         {
@@ -340,8 +308,8 @@
           "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 167111,
+      "name": "Les ins\u00e9parables",
       "url": "https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb"
     },
     {
@@ -739,22 +707,6 @@
       "duration_ms": 167807,
       "name": "Arr\u00eate de dire que tu m'aimes",
       "url": "https://open.spotify.com/track/4BpZJSeP9RyoOCja7mqa2q"
-    },
-    {
-      "added_at": "2026-01-29 23:00:39",
-      "album": {
-        "name": "Offset EP",
-        "url": "https://open.spotify.com/album/2otOzSJZolNF87xsnTFdnl"
-      },
-      "artists": [
-        {
-          "name": "Velour",
-          "url": "https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Offset",
-      "url": "https://open.spotify.com/track/6EEGalBJEDyMBjKOhDUlI7"
     },
     {
       "added_at": "2026-01-29 23:00:39",

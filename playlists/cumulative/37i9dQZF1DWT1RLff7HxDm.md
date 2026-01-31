@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Samantha Fish
 
-172 songs - 17 hr 37 min
+173 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Blue On Black \- Live](https://open.spotify.com/track/4eUhCAOrhmKZavEf08lhgL) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Blue On Black \(Live\)](https://open.spotify.com/album/7hi34Iyim7nwlMgZNISz0X) | 4:59 | 2020-11-20 |  |
 | [Blues Music \- Live at the Knitting Factory, NYC, NY \- 7/20/1994 \(Set 1\)](https://open.spotify.com/track/2jEBAgMU9Mhb0tpaEUxE5o) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [G\. Love & Special Sauce \(30th Anniversary Expanded Edition\)](https://open.spotify.com/album/76IqHvS37OvwXviTLbOx4Q) | 4:58 | 2024-01-12 |  |
 | [Born Under A Bad Sign \(Live\)](https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:03 | 2020-10-30 | 2023-07-19 |
+| [Bridge Of Sighs \- Live](https://open.spotify.com/track/1jXLVE3dElUuZtNSzEdS47) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [One Moment In Time \- Live In The USA](https://open.spotify.com/album/4C3vv8GnYzhY0XM6isgH5p) | 9:00 | 2026-01-30 |  |
 | [Broke Down On The Brazos \(Live\)](https://open.spotify.com/track/5OITHr7K2kAAMG9CDO5GHJ) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Broke Down On The Brazos \(Live\)](https://open.spotify.com/album/5R53kCyQtLd4oQIBO4SJGs) | 8:48 | 2020-10-30 |  |
 | [Broke Down On The Brazos \- Live](https://open.spotify.com/track/5xm5zvLGDeLML6nib2eIvr) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Bring On The Music: Live at The Capitol Theatre, Pt\. 2](https://open.spotify.com/album/6OgCMKwSLqy39MCP7juLhu) | 8:48 | 2020-10-30 | 2024-04-19 |
 | [By My Lonesome \- Live](https://open.spotify.com/track/0RtMoXD1q8opjELLbBb45i) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [By My Lonesome \(Live\)](https://open.spotify.com/album/0CFKSo6uPyJ3xoQ2QZTeP7) | 2:32 | 2023-02-17 |  |
@@ -177,7 +178,7 @@
 | [Who Are You](https://open.spotify.com/track/3ELWEa23WwNkAHrosWjy8d) | [Michael Kaeshammer](https://open.spotify.com/artist/1CqTkHB5MbbY4SQjy7Qr07), [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Live In Concert](https://open.spotify.com/album/6TOF0HspY35bCInZMhcPjw) | 4:12 | 2020-10-30 | 2024-04-19 |
 | [Who Are You](https://open.spotify.com/track/7AAT2kq93xihoOP0RsrQQm) | [Michael Kaeshammer](https://open.spotify.com/artist/1CqTkHB5MbbY4SQjy7Qr07), [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Live In Concert](https://open.spotify.com/album/2O6PBRZYz7a9wEUbE7SZkS) | 4:12 | 2020-10-30 |  |
 | [Why Does It Take So Long To Say Goodbye \- Live](https://open.spotify.com/track/21Ck3GOPmXqiUQaOo4pmVs) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Why Does It Take So Long To Say Goodbye \(Live\)](https://open.spotify.com/album/3CDI2rvne7PElFMRn7rLL9) | 9:34 | 2021-05-14 | 2022-07-29 |
-| [Why Me \- Live](https://open.spotify.com/track/1xap6bAZwxNGs1hIYwEzWw) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Feel So Good: Albert Cummings Live](https://open.spotify.com/album/1eiDms6tFvFwd4tNdTRnPm) | 3:07 | 2020-10-30 |  |
+| [Why Me \- Live](https://open.spotify.com/track/1xap6bAZwxNGs1hIYwEzWw) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Feel So Good: Albert Cummings Live](https://open.spotify.com/album/1eiDms6tFvFwd4tNdTRnPm) | 3:07 | 2020-10-30 | 2026-01-31 |
 | [Woman Like You \- Live](https://open.spotify.com/track/0T6JNuBGbmRWizQ6Vdcchz) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Woman Like You \(Live\)](https://open.spotify.com/album/1msthZSXHGScgsBHkPQV1p) | 4:20 | 2020-10-30 |  |
 | [Woman Like You \- Live](https://open.spotify.com/track/7fcve4UR0NqDr84DiNGwA8) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 4:20 | 2020-10-30 | 2024-04-19 |
 

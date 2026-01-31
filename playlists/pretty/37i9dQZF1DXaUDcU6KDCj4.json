@@ -1,13 +1,385 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Searows",
-  "num_followers": 866545,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Noah Kahan",
+  "num_followers": 867269,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHJiwRfu/EyMHQCbsUaZ1Td4ghlz",
+  "snapshot_id": "AAAAAJ+kwZlKmxyScoo5elY1PT6XfE/2",
   "tracks": [
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "Some Things Never Leave",
+        "url": "https://open.spotify.com/album/6SjTebu5erz22LeboDHsML"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "duration_ms": 240178,
+      "name": "Everyone Likes To Be Forgiven",
+      "url": "https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY"
+    },
+    {
+      "added_at": "2026-01-30 16:25:20",
+      "album": {
+        "name": "For The First Time, Again",
+        "url": "https://open.spotify.com/album/4vS7m3LfEKnQgcIAjvHVqy"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+        }
+      ],
+      "duration_ms": 213902,
+      "name": "For The First Time, Again",
+      "url": "https://open.spotify.com/track/3U6hRsB4wRDjsg2pEsJWhA"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "House of the Rising Sun",
+        "url": "https://open.spotify.com/album/2JnelnjkFZKzZQUwZFkcD1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 188281,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/3a8mo25v74BMUOJ1IDUEBL"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/038xYCu3oHsQjVAVBYvGzf"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 128849,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/51YmgkbLzNgiAmqRO4nbrv"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "Ground Scores",
+        "url": "https://open.spotify.com/album/0X2AcwRLcck3mM6dV090dI"
+      },
+      "artists": [
+        {
+          "name": "Dutch Interior",
+          "url": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "Ground Scores",
+      "url": "https://open.spotify.com/track/6DtHDbdUmyJIB8CQ56cgML"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "brand new car",
+        "url": "https://open.spotify.com/album/7msa56oMcRxOh88c8fQvxt"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 233174,
+      "name": "brand new car",
+      "url": "https://open.spotify.com/track/6PTTZnPgbIvAYfOS2girXl"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6wzmgzKFMbHyhnJs7O9nLW"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 221540,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3OflJxzwwNmIcXEVRISLOc"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "Danny",
+        "url": "https://open.spotify.com/album/25ffmsqPglf3Mx2WqBEn1z"
+      },
+      "artists": [
+        {
+          "name": "Ye Vagabonds",
+          "url": "https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO"
+        }
+      ],
+      "duration_ms": 278247,
+      "name": "Danny",
+      "url": "https://open.spotify.com/track/0SodyCDKktmOihlKE7jL9p"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "Bootstraps",
+        "url": "https://open.spotify.com/album/3J6um8Yq96K0KHbIiYVE1N"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "duration_ms": 188910,
+      "name": "Bootstraps",
+      "url": "https://open.spotify.com/track/4X7cpw2ZwK8WdJAoMh6YXn"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "In the Grass",
+        "url": "https://open.spotify.com/album/3a6rdVK8UDnsIKR4ntimMn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 180739,
+      "name": "In the Grass",
+      "url": "https://open.spotify.com/track/0eExwqVCkg3Tn8x1qarODz"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "into the undergrowth",
+        "url": "https://open.spotify.com/album/4njjDnvrGQttRRHjpyupic"
+      },
+      "artists": [
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "runaway",
+      "url": "https://open.spotify.com/track/5tKfwZNz20KuM4UwhItXpN"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "I Couldn't Say It To Your Face",
+        "url": "https://open.spotify.com/album/2hMpDLiaj391jVv6yICei0"
+      },
+      "artists": [
+        {
+          "name": "Daffo",
+          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
+        }
+      ],
+      "duration_ms": 152696,
+      "name": "I Couldn't Say It to Your Face",
+      "url": "https://open.spotify.com/track/0ZIOaTDkQCRNKNhHj6LVwB"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "SO MUCH HAS CHANGED",
+        "url": "https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 190955,
+      "name": "I OWE IT TO YOU",
+      "url": "https://open.spotify.com/track/6vvhhwl8XabfZJBq5d1iIB"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "Never Kissed a Cowboy",
+        "url": "https://open.spotify.com/album/0LQY59aSfb5QmRFK1z6VRK"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 184185,
+      "name": "Never Kissed a Cowboy",
+      "url": "https://open.spotify.com/track/45OZMlld4rUYxi62rXvxv1"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "Until The Comet Came",
+        "url": "https://open.spotify.com/album/1Ag9sz7rFDlTiHtacxRQ17"
+      },
+      "artists": [
+        {
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+        }
+      ],
+      "duration_ms": 246879,
+      "name": "Team Babe",
+      "url": "https://open.spotify.com/track/6TqVmfK0Um2rK6ozp3E8dG"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "nostalgia as a sickness",
+        "url": "https://open.spotify.com/album/4l7nl4dZ7Rv1gnuntEmkgC"
+      },
+      "artists": [
+        {
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 226304,
+      "name": "nostalgia as a sickness",
+      "url": "https://open.spotify.com/track/0vtvayTqbS8grKImP07ja3"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "George Jones (ft. Angela Autumn)",
+        "url": "https://open.spotify.com/album/7t5DjAvZEkYKkej5qiDDN1"
+      },
+      "artists": [
+        {
+          "name": "Deloyd Elze",
+          "url": "https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo"
+        },
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "duration_ms": 215691,
+      "name": "George Jones (ft. Angela Autumn)",
+      "url": "https://open.spotify.com/track/5OUGnKAiNCNxX3RXsGTcMI"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "Kiss Big",
+        "url": "https://open.spotify.com/album/3owxnC4VlWPnDqARedtYex"
+      },
+      "artists": [
+        {
+          "name": "Ailbhe Reddy",
+          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Kiss Big",
+      "url": "https://open.spotify.com/track/1h8nz5yKL0SD077xVIkBct"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "Beadie",
+        "url": "https://open.spotify.com/album/07OLVwgWErQyUnhavirYQy"
+      },
+      "artists": [
+        {
+          "name": "Sluice",
+          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
+        }
+      ],
+      "duration_ms": 240752,
+      "name": "Beadie",
+      "url": "https://open.spotify.com/track/2epCOFnQDllhDFAaxO3mx2"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "other ways of landing",
+        "url": "https://open.spotify.com/album/6hixxzEVFqx8PvdE0mDz3a"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 215513,
+      "name": "(easily) moved",
+      "url": "https://open.spotify.com/track/6wK8WtrJBXGVEk0sXX6XZG"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "grown",
+        "url": "https://open.spotify.com/album/4IwhQvYD4sVDi06aYsYwkF"
+      },
+      "artists": [
+        {
+          "name": "Philip Brooks",
+          "url": "https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w"
+        }
+      ],
+      "duration_ms": 149582,
+      "name": "grown",
+      "url": "https://open.spotify.com/track/2N9TOirEXxxGhdDhpCvu76"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/0C0vSfbPjSMG3Sv63t7qq5"
+      },
+      "artists": [
+        {
+          "name": "Fiona Fiasco",
+          "url": "https://open.spotify.com/artist/77Sy5Zgnd5KHzbsqKW6few"
+        }
+      ],
+      "duration_ms": 226272,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/6fYAXuHXOZIWmmo8hAF7Ox"
+    },
     {
       "added_at": "2026-01-23 05:00:25",
       "album": {
@@ -2443,54 +2815,6 @@
       "duration_ms": 184762,
       "name": "song for the road",
       "url": "https://open.spotify.com/track/5GqL8Wno0EwvIPQJojkHKn"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "Moonbeam",
-        "url": "https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Coleman",
-          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
-        }
-      ],
-      "duration_ms": 238319,
-      "name": "Moonbeam",
-      "url": "https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "Know You",
-        "url": "https://open.spotify.com/album/7Eps2zGJCqK0Apuyk93i4X"
-      },
-      "artists": [
-        {
-          "name": "Kevin Atwater",
-          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
-        }
-      ],
-      "duration_ms": 192865,
-      "name": "Know You",
-      "url": "https://open.spotify.com/track/6UfY6mQh4HbONy2VHUbVyN"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "Triple Shooting Star",
-        "url": "https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        }
-      ],
-      "duration_ms": 238641,
-      "name": "Fuck Up",
-      "url": "https://open.spotify.com/track/2VqTaE9U6JIbOMXuHYyCYT"
     }
   ],
   "unique_name": "Fresh Folk",

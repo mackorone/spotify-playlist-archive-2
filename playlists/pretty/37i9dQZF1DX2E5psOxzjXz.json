@@ -1,13 +1,45 @@
 {
-  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Zoha Zuberi",
-  "num_followers": 36788,
+  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Neha Karim Ullah",
+  "num_followers": 36798,
   "original_name": "Pakistani Indie 101",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABKgjMNxw4T7Naiku0dgJGr7TvvL",
+  "snapshot_id": "AAAAAKd7hrUOfbtuB4lDkZDUYYsnNh6X",
   "tracks": [
+    {
+      "added_at": "2026-01-30 04:00:12",
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/1rGiWcWgzUGgyUsuogKISa"
+      },
+      "artists": [
+        {
+          "name": "Neha Karim Ullah",
+          "url": "https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/5HauOf3Whq4F7IZruk9Kbn"
+    },
+    {
+      "added_at": "2026-01-30 04:00:12",
+      "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/5seT8hIahEn8opHFWN52H4"
+      },
+      "artists": [
+        {
+          "name": "Yashal Shahid",
+          "url": "https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/48Ky1HlVjX4TpUSMh4U3hY"
+    },
     {
       "added_at": "2026-01-23 06:47:42",
       "album": {
@@ -27,46 +59,6 @@
       "duration_ms": 168000,
       "name": "Keh Diya",
       "url": "https://open.spotify.com/track/4lSaV0o7ldXV2NnF54xNhT"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
-        "name": "Dil ruba",
-        "url": "https://open.spotify.com/album/3LiAr1DodmCgkWH0DAhhIf"
-      },
-      "artists": [
-        {
-          "name": "MOHSIN!",
-          "url": "https://open.spotify.com/artist/3IRP2z9Z8lqyvaxlSntMwD"
-        },
-        {
-          "name": "PABLO",
-          "url": "https://open.spotify.com/artist/1xBk3kegjnuS5Ey8c7zK3M"
-        }
-      ],
-      "duration_ms": 171834,
-      "name": "Dil ruba",
-      "url": "https://open.spotify.com/track/4OHTcG30SKhZ86Da7kwSxS"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
-        "name": "Chalte Rahay",
-        "url": "https://open.spotify.com/album/2pYRgLmXloVhFmSwjaPKji"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Zawi",
-          "url": "https://open.spotify.com/artist/5LVXZSPYcJ34owu5O6ZBEw"
-        },
-        {
-          "name": "Zaphixx",
-          "url": "https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Chalte Rahay",
-      "url": "https://open.spotify.com/track/48L1IKAQLqfFDN6PL6iUxT"
     },
     {
       "added_at": "2026-01-23 06:47:42",
@@ -115,38 +107,6 @@
       "duration_ms": 212400,
       "name": "Khuwaab Si",
       "url": "https://open.spotify.com/track/338aAwWf3NKg3UZ5MhOQFz"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
-        "name": "EHSAAS",
-        "url": "https://open.spotify.com/album/4arAdekJkyoZWiyDAJQuSx"
-      },
-      "artists": [
-        {
-          "name": "Expressionz-SIB",
-          "url": "https://open.spotify.com/artist/70HWpgUDpp0HmGmzlhEY8y"
-        }
-      ],
-      "duration_ms": 352599,
-      "name": "EHSAAS",
-      "url": "https://open.spotify.com/track/1EmM1IktKvw9h2WJs11i18"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
-        "name": "Chaar Dafa",
-        "url": "https://open.spotify.com/album/50lu5adr8bU3YXSGBEInYd"
-      },
-      "artists": [
-        {
-          "name": "Hamza Akhund",
-          "url": "https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "Chaar Dafa",
-      "url": "https://open.spotify.com/track/78CUtAaVGDZ9bFjCUyReFR"
     },
     {
       "added_at": "2026-01-23 06:47:42",
@@ -223,22 +183,6 @@
     {
       "added_at": "2026-01-23 06:47:42",
       "album": {
-        "name": "Out of Context",
-        "url": "https://open.spotify.com/album/55rurh0ZuuP7Q66NiCQze1"
-      },
-      "artists": [
-        {
-          "name": "Abdullah Siddiqui",
-          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
-        }
-      ],
-      "duration_ms": 290500,
-      "name": "Out of Context",
-      "url": "https://open.spotify.com/track/2RYSXKVfd1JPs9noT5lgTw"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
         "name": "Dil Kay Parday",
         "url": "https://open.spotify.com/album/2syS3QElH8i353yYdXNBam"
       },
@@ -271,22 +215,6 @@
       "duration_ms": 135791,
       "name": "Fuzool",
       "url": "https://open.spotify.com/track/7Bmrm4DU6AD86HnebNaAPY"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
-        "name": "Aik Paheli",
-        "url": "https://open.spotify.com/album/5sf9BJtQFJtJYDuxUEM5Ar"
-      },
-      "artists": [
-        {
-          "name": "Sunny Khan Durrani",
-          "url": "https://open.spotify.com/artist/3quv60l1R7kydik94rdl7j"
-        }
-      ],
-      "duration_ms": 122696,
-      "name": "Aik Paheli",
-      "url": "https://open.spotify.com/track/6qbJ4LWY5mConOZHYKCrgp"
     },
     {
       "added_at": "2026-01-23 06:47:42",
@@ -347,30 +275,6 @@
       "duration_ms": 133305,
       "name": "Iraaday",
       "url": "https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
-        "name": "Afsanay",
-        "url": "https://open.spotify.com/album/3FHrEBAwQ6ivt8QuyLqQLQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Shahbaz",
-          "url": "https://open.spotify.com/artist/2ozQBz0oMeKqW2xSomWVwp"
-        },
-        {
-          "name": "Alycia Dias",
-          "url": "https://open.spotify.com/artist/69EG46nu7SNft0lDeI46Z1"
-        },
-        {
-          "name": "Zaheer Abbas",
-          "url": "https://open.spotify.com/artist/50RzgKJrxvSyYi2IeCHdmr"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "Afsanay",
-      "url": "https://open.spotify.com/track/4UUmDCvTg3WO0qpMHPZYdq"
     },
     {
       "added_at": "2026-01-23 06:47:42",

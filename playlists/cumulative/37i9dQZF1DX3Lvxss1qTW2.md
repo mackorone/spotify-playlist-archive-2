@@ -4,7 +4,7 @@
 
 > NXT presents..\. Ones to Watch 2026: Shoday
 
-626 songs - 1 day 5 hr 12 min
+627 songs - 1 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Big Engine](https://open.spotify.com/track/1D1SCQIQUtYoISZxynsrbh) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [WA JO PA](https://open.spotify.com/album/6myhUb2Ibr51EGNsOFnQ58) | 2:29 | 2025-05-09 | 2025-07-05 |
 | [Blessed](https://open.spotify.com/track/11FkAWh7OlvM4hFkSipQSw) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m) | [Blessed](https://open.spotify.com/album/3Pmjc2jXyrcN8TfzvkGddQ) | 3:49 | 2025-07-04 | 2025-08-09 |
 | [Blessings](https://open.spotify.com/track/7ArATzlf3OKlgfVl3RMlQQ) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Blessings](https://open.spotify.com/album/5pXjnVsehL8FfS9v452hR2) | 2:52 | 2024-08-09 | 2024-11-16 |
-| [Blessings](https://open.spotify.com/track/2h4Tp7ZD1O08eLEo9CBHSa) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/3YnSI2CR0UfMs5DJsVwXzd) | 2:42 | 2026-01-29 |  |
+| [Blessings](https://open.spotify.com/track/2h4Tp7ZD1O08eLEo9CBHSa) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/3YnSI2CR0UfMs5DJsVwXzd) | 2:42 | 2026-01-29 | 2026-01-31 |
 | [Blessings \(Alubarika\) \(feat\. Soundz\)](https://open.spotify.com/track/5UjiQgEQN9QODf8K3NQ8H5) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [Blessings \(Alubarika\) \(feat\. Soundz\)](https://open.spotify.com/album/2G9y69aorCh1O6jfQATmfK) | 2:50 | 2025-01-31 | 2025-06-14 |
 | [Blessings \(Kura\)](https://open.spotify.com/track/7L9MFfcZGJhANKgZ6s4cjw) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Blessings \(Kura\)](https://open.spotify.com/album/4ynej0qVlWtRvP3db58hVT) | 2:39 | 2025-08-29 | 2025-09-05 |
 | [Blue Sky](https://open.spotify.com/track/7eRK8uyVKLW4oF93HNwvsF) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Blue Sky](https://open.spotify.com/album/2XKgJNH1R8omLDrReEJYPB) | 4:13 | 2026-01-28 |  |
@@ -266,6 +266,7 @@
 | [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 | 2025-03-14 | 2025-07-05 |
 | [I Wish I Had More Time](https://open.spotify.com/track/5BQML4ZWArKHRCiQuQ4cDT) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [I Wish I Had More Time](https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb) | 3:09 | 2025-05-30 | 2025-10-07 |
 | [I'll Be There](https://open.spotify.com/track/1VWqPyX82pCN4PTID10Ssg) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [I'll Be There](https://open.spotify.com/album/3dV6dktBCe7l03Ju0WCaPS) | 3:21 | 2025-01-31 | 2025-06-14 |
+| [I'm Good \- Remix](https://open.spotify.com/track/78rahrrMxgDKkD7yLFfZc8) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Erica Mason](https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [I'm Good \(Remix\)](https://open.spotify.com/album/4G2rkPVloDdiE2HBRehIim) | 4:27 | 2026-01-30 |  |
 | [i2SABI](https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [444PLAY](https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT) | 2:34 | 2025-07-18 | 2025-09-05 |
 | [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 | 2025-11-28 | 2026-01-15 |
 | [iDey](https://open.spotify.com/track/0gqLCoeOQh7ItaLTZtdojy) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [iDey](https://open.spotify.com/album/67Hc4et6UWnbKKAIw5FqbQ) | 2:54 | 2025-04-11 | 2025-05-24 |

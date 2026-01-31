@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from A$AP Rocky, Lil Uzi Vert, 42 Dugg and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Don Toliver, Rod Wave, The Alchemist and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 104062,
       "name": "Bodega Baddie",
       "url": "https://open.spotify.com/track/4JI9FH3KOYOushudtnZt0z"
@@ -1336,6 +1336,24 @@
       "duration_ms": 178708,
       "name": "Bodies (with JID)",
       "url": "https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL"
+    },
+    {
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155753,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
     },
     {
       "album": {
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 283226,
       "name": "Cable Box",
       "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
@@ -2683,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "BE MORE GRATEFUL",
+        "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "DON JULIO LEMONADE",
+      "url": "https://open.spotify.com/track/2PB2qWeMiyDPHXIz8AwzSs"
+    },
+    {
+      "album": {
         "name": "Don't Play With It (feat. Billy B)",
         "url": "https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS"
       },
@@ -3113,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "Fatherless Daughters",
+        "url": "https://open.spotify.com/album/3gku67Qp40ue91CBOpV5Za"
+      },
+      "artists": [
+        {
+          "name": "BEA",
+          "url": "https://open.spotify.com/artist/47T1oS5JM5PgJCsbPxetPO"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208140,
+      "name": "Fatherless Daughters",
+      "url": "https://open.spotify.com/track/7wITUPZXcfo90ws7WP27Ls"
+    },
+    {
+      "album": {
         "name": "FDO",
         "url": "https://open.spotify.com/album/2ME0R7wx6jnHudplZAG2be"
       },
@@ -3128,6 +3182,24 @@
       "duration_ms": 319213,
       "name": "FDO",
       "url": "https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX"
+    },
+    {
+      "album": {
+        "name": "Feed the Streets",
+        "url": "https://open.spotify.com/album/3aw4rnv0BLiiEqFbYZHBdN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178677,
+      "name": "Feed the Streets",
+      "url": "https://open.spotify.com/track/35Gc7ihva3XEo5gw8gazRa"
     },
     {
       "album": {
@@ -5028,7 +5100,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 171667,
       "name": "J.O.W.Y.H (JUMP OUT)",
       "url": "https://open.spotify.com/track/6FOoyzZj7sT0JvD7yOT9tk"
@@ -5704,6 +5776,32 @@
       "duration_ms": 151182,
       "name": "Loop Hole (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz"
+    },
+    {
+      "album": {
+        "name": "Lord Protect Me (feat. Roc Marciano)",
+        "url": "https://open.spotify.com/album/4HV2Ow4JkmOtKu7khMZwmU"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Budgie",
+          "url": "https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144480,
+      "name": "Lord Protect Me (feat. Roc Marciano)",
+      "url": "https://open.spotify.com/track/4adsnTOqKiDg0d0zmGq0G7"
     },
     {
       "album": {
@@ -7844,7 +7942,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 179476,
       "name": "Putting Ya Dine",
       "url": "https://open.spotify.com/track/57TSLzWfZdQroiwtIFX97X"
@@ -8150,7 +8248,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 221986,
       "name": "satisfaction (feat. Asake)",
       "url": "https://open.spotify.com/track/4ZWwAR58cXnPhuLcK3AdxJ"
@@ -8414,6 +8512,24 @@
       "duration_ms": 169578,
       "name": "Shots (feat. Nyashinski)",
       "url": "https://open.spotify.com/track/1oZYyR3EWPOPTyrZXIQuey"
+    },
+    {
+      "album": {
+        "name": "Shotta Flow 8",
+        "url": "https://open.spotify.com/album/2WYcqAyGT3nWOfdjxW5sn7"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201856,
+      "name": "Shotta Flow 8",
+      "url": "https://open.spotify.com/track/0o1OygFF2qOOh5e3s7rNd1"
     },
     {
       "album": {
@@ -9566,7 +9682,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 122080,
       "name": "Tendernism (feat. BossMan Pac)",
       "url": "https://open.spotify.com/track/0ygSTAiQKrtFJcuQG6KiAC"
@@ -10192,7 +10308,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 148694,
       "name": "Triple Double",
       "url": "https://open.spotify.com/track/2IjZIOg7b2t6abMmkWiMWp"

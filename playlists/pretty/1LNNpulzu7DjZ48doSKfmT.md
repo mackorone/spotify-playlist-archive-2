@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 456 likes - 496 songs - 1 day 1 hr 9 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 456 likes - 514 songs - 1 day 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -504,5 +504,23 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 494 | [Fuego](https://open.spotify.com/track/3D9XhFSB0koxGQSPX2M4FL) | [Eclipse](https://open.spotify.com/artist/5WLzptHkat4VSiCIrbzIbB) | [Fuego](https://open.spotify.com/album/1amQQ6XnhYM5E4nLlgDDRr) | 2:24 |
 | 495 | [Demons](https://open.spotify.com/track/5GZjTmYwEFY36pS2wJN7ff) | [Kayze](https://open.spotify.com/artist/6NMa3C1AQx6cCPKohtKYVz), [Donn](https://open.spotify.com/artist/1uvfJIjMaBKj3KXTLcWpFE), [Mu'Dogo](https://open.spotify.com/artist/20crtPiXt9nwgtjGYswQdW) | [Demons](https://open.spotify.com/album/6fKeP3HVE6MWSFuQJCLZOt) | 2:35 |
 | 496 | [Imaginación Ó Realidad](https://open.spotify.com/track/3A6LxZEURYea7o9w1LhqsA) | [Círculo Bohemio](https://open.spotify.com/artist/4CG9sGYFOgr9Y2PNhEBPr8) | [Imaginación Ó Realidad](https://open.spotify.com/album/4FzYME0DswDX356HOfagmq) | 4:56 |
+| 497 | [Sem Nada](https://open.spotify.com/track/3glO6TWZiGfgoWEm3jKL6b) | [RD'RUA](https://open.spotify.com/artist/3OXf6n1Ia1Lrx41WQBr1A4) | [Sem Nada](https://open.spotify.com/album/4711zgfJ2vdH52jgijCSgF) | 3:11 |
+| 498 | [Y era yo](https://open.spotify.com/track/2v8RLcbi8HtWxeXH2Vt3nq) | [Amaury Muro](https://open.spotify.com/artist/6pACEVwpjvXnHpauUrUFnv), [Sandra Bautista](https://open.spotify.com/artist/2jenRVqNHK4NWoAjz19q5w) | [Y era yo](https://open.spotify.com/album/0PoM5rMX7gSzzSvm3fX4hX) | 3:04 |
+| 499 | [Dance With Me](https://open.spotify.com/track/576HHGD5nDGsmYSKy3uUu7) | [Katty G](https://open.spotify.com/artist/5AzDXioaAPrx8SzjCyFnIB), [Mark Holiday](https://open.spotify.com/artist/0c2te8OzhhVjiqXaAku4Hx), [Trendsetter](https://open.spotify.com/artist/2r6KOzzHhbWaMwP2EwmUEM) | [PLAY](https://open.spotify.com/album/77U6zgr4zVD9wwzR3RoqNU) | 2:31 |
+| 500 | [Only](https://open.spotify.com/track/7cYsxbpGZjtkkyjweT730m) | [Yonss Durant](https://open.spotify.com/artist/5jJ8XdoLJTmtfYTHCu6QRb) | [Only](https://open.spotify.com/album/1xam7EfOwSAleFOCFuoNfB) | 3:14 |
+| 501 | [Love All Day](https://open.spotify.com/track/75T24lO3tu3zwCGuf8CzLU) | [Zaya Love](https://open.spotify.com/artist/7MBtJesquNBluPqKJyW6W1), [Mark Holiday](https://open.spotify.com/artist/0c2te8OzhhVjiqXaAku4Hx) | [TRENDSETTER](https://open.spotify.com/album/6JWcKuOYeKNlp9h8MPYJNg) | 3:28 |
+| 502 | [CHABIBA](https://open.spotify.com/track/6ztDcpVuHnYwTyFv0T68d1) | [HKM](https://open.spotify.com/artist/27rLOShLu9DvuuUp4ZGv6O) | [CHABIBA](https://open.spotify.com/album/1fuir8XUDi48cHHvk6Um9r) | 1:55 |
+| 503 | [The Poorest Man](https://open.spotify.com/track/2vD6arZnrJGMuj6C977t0o) | [Brassard](https://open.spotify.com/artist/27AIl8w2zVXZM9z6YpNU27) | [Marathon](https://open.spotify.com/album/03fIWOLe2bwngeOwGnIJW2) | 4:04 |
+| 504 | [Late Night](https://open.spotify.com/track/2Yhwx0zitX3eFpn4Aa9cGi) | [Emilie Thorsby](https://open.spotify.com/artist/2igH2QBKRW8i5O99tivHQE) | [Late Night](https://open.spotify.com/album/6IbEufyjMkLxNSpQp1q8K4) | 1:50 |
+| 505 | [Fumando gas](https://open.spotify.com/track/05PlFXc02KyVPkSow2NoUi) | [WALD\-A](https://open.spotify.com/artist/578l90XL1nSxy4gYAEK3yh), [D TRECE](https://open.spotify.com/artist/3tb7VjcSYmjBtM4K1YOTun) | [SurfeAndalus](https://open.spotify.com/album/2jPvpCq3PoVzRYZQkhIUwO) | 2:16 |
+| 506 | [salutations](https://open.spotify.com/track/1sRpiThw3VAcQFkv7xBbV7) | [Lofiave](https://open.spotify.com/artist/5LhoAvqNw59LCNDuTA2KZr) | [mnemonics/phonics](https://open.spotify.com/album/2zoHRcU6OYdrPLNaZanSAh) | 1:46 |
+| 507 | [CIELO & INFIERNO](https://open.spotify.com/track/0GinKGqSgpZwyh9ZvNF5qS) | [NAHLA](https://open.spotify.com/artist/0twlBluG5yCUQn37ybOBiO) | [CIELO & INFIERNO](https://open.spotify.com/album/0RLMmGmvliIlkjZiT8aACa) | 3:15 |
+| 508 | [Tu Amor Es Todo](https://open.spotify.com/track/1FzCqTvZQXkmtr5vK0osXQ) | [Victor Marin](https://open.spotify.com/artist/2e57FUjc6qBkVxzaan9wwM) | [Nosotros](https://open.spotify.com/album/51UpP0KJIU0xiYOqTQVicN) | 3:26 |
+| 509 | [Free4EB65](https://open.spotify.com/track/64GMwD4IDICYUD1NQfJybU) | [4EB PB](https://open.spotify.com/artist/3HbPetWDaxc46dNBrBTBN2) | [Free4EB65](https://open.spotify.com/album/3iTWxsVESbaycZhynf1idp) | 2:34 |
+| 510 | [V2 "Vivid Vision"](https://open.spotify.com/track/5yrrOA4g24srn9yiURHa5w) | [Mvingo](https://open.spotify.com/artist/7uJH5I3vDXcinEKi633si2) | [V2 "Vivid Vision"](https://open.spotify.com/album/7CEaZJK1ceEQEMRdbvthU7) | 2:49 |
+| 511 | [Light Up The Night](https://open.spotify.com/track/3QQjnY0O4GE6SIeaoqPwR1) | [Gero](https://open.spotify.com/artist/71pHZcEsTaN6HXF00J5TL5), [Tina Tara](https://open.spotify.com/artist/5Ao3qZkpSgrv0SLVt1ke7B) | [Light Up The Night](https://open.spotify.com/album/6n7pUtulLJVxPEw6f8PldQ) | 2:44 |
+| 512 | [LA SENSACIÓN](https://open.spotify.com/track/70yvNrscRZUf9YHZHZ3Kxd) | [Cuppi](https://open.spotify.com/artist/7qJ7rS141xQGiTS3n1VnNz) | [LA SENSACIÓN](https://open.spotify.com/album/79DRbDr8D56WTiM1USCSjl) | 2:34 |
+| 513 | [Inmigrante Y Que?](https://open.spotify.com/track/6nURLhNteM0qkL8opkefEk) | [Yeisy Rojas](https://open.spotify.com/artist/4MDcQtQHOSPYwUDhCQ6npw) | [Inmigrante Y Que?](https://open.spotify.com/album/0yTfYCxrPP71kcktjRSNOh) | 3:06 |
+| 514 | [Honey](https://open.spotify.com/track/0NDDAkXAe3nd2OA4FQvlaF) | [A Vibrational Boost](https://open.spotify.com/artist/562rbYfcYKIgltrldsEajA) | [Frequency, Vol\. 4](https://open.spotify.com/album/6iSIsq5Yj6IfEgY66K9tm3) | 2:29 |
 
-Snapshot ID: `AAAZX3DGHHWM56UaNkH1+x2BaixPFfLe`
+Snapshot ID: `AAAZcXPqzTSoL8rraUQx/qbRBA4AqjiK`

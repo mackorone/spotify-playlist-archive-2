@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Młody West
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,077 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,073 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 10](https://open.spotify.com/track/7LNCrb1DHozaapgpOsRwgj) | [Młody West](https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Warszawski sen](https://open.spotify.com/track/7LNCrb1DHozaapgpOsRwgj) | [Młody West](https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK) | [FF](https://open.spotify.com/album/2ydy628JCAOpPeT90o4f6z) | 2:08 |
 | 2 | [After](https://open.spotify.com/track/2C9ZtYMh1FNpMBB9ARaZhs) | [Tax Free](https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei) | [After](https://open.spotify.com/album/2TBc8024032mYG0HGtjpsx) | 2:19 |
 | 3 | [ZA KOGO MNIE MASZ?](https://open.spotify.com/track/2uWl1FzqmmA3hGdjlHp8mR) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt) | [ZA KOGO MNIE MASZ?](https://open.spotify.com/album/3kz1EtZRcplOc8iCrQw4bY) | 2:20 |
 | 4 | [NAWET NIE WIESZ JAK CHCIAŁBYM MÓC TO POCZUĆ JESZCZE RAZ](https://open.spotify.com/track/6mzhtZbzJrjbnKwUp3XQee) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [NAWET NIE WIESZ JAK CHCIAŁBYM MÓC TO POCZUĆ JESZCZE RAZ](https://open.spotify.com/album/6b4fZRaYKXmHZxhIaDAtIH) | 2:27 |

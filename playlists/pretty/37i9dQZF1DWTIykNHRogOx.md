@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Benjamin Biolay
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,285 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,310 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 2 | [Je ne l'ai jamais dit à personne](https://open.spotify.com/track/10YFRCEbeCjWBJCr8DpfEz) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Je ne l'ai jamais dit à personne](https://open.spotify.com/album/2zvY1mdV7980cw5d9HCGDF) | 4:19 |
 | 3 | [Une minute encore](https://open.spotify.com/track/1LpfdLXt8RjQKbjigw4mcx) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Une minute encore](https://open.spotify.com/album/5nvDbyAcX6x095hsA1fnOO) | 2:54 |
 | 4 | [Les gens](https://open.spotify.com/track/327aZ6FSyHbV6SYyb60ckk) | [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Les gens](https://open.spotify.com/album/6hOJ1lPPsCDkFjQ4MFDmAX) | 3:22 |
-| 5 | [Track 2](https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [Les inséparables](https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [L'oiseau bleu](https://open.spotify.com/album/6KukxYYn4YtlJBQmbaHgvM) | 2:47 |
 | 6 | [Gabrielle](https://open.spotify.com/track/5R9dBL7sZSMhALmcHuEs5f) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Étincelle 2](https://open.spotify.com/album/6iS99xyBxLHHYhm8Y3sezu) | 3:20 |
 | 7 | [Les beaux jours](https://open.spotify.com/track/5Px41y2EdKE7Hv8cDWVCop) | [Luns](https://open.spotify.com/artist/79WvCJUXoRYgn8UaNMBGOD) | [Les bouts de papier](https://open.spotify.com/album/6bhmkHiRTt9F7uxez7SkvH) | 3:48 |
 | 8 | [Normaux](https://open.spotify.com/track/3ZZF7woF6PRrOomKbH6Ssz) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Normaux](https://open.spotify.com/album/6dBDgQ9vU9GRSpojDlHKw8) | 4:21 |

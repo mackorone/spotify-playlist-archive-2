@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Luan Pereira, Ana Castela",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Felipe e Rodrigo",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -508,7 +508,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 150992,
       "name": "Amigo Da Minha Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/07kLShG3HTeLXTqnFCqNAJ"
@@ -1142,6 +1142,32 @@
       "duration_ms": 192156,
       "name": "Calafrio (feat. Henrique & Juliano) - Ao Vivo | B\u00f4nus Track",
       "url": "https://open.spotify.com/track/2pRjaIcGc9LOmu7x9XMswA"
+    },
+    {
+      "album": {
+        "name": "Fora do Padr\u00e3o Vol. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ePhRW37XiA1Fog7YsDZB4"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199379,
+      "name": "Calcinha de Renda - Ao Vivo",
+      "url": "https://open.spotify.com/track/332rqteO5O475UV5zgSKPQ"
     },
     {
       "album": {

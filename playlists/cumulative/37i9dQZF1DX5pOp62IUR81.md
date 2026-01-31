@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love\. Marvel Studios' The Fantastic Four: First Steps is now streaming on Disney+.
 
-234 songs - 10 hr 5 min
+235 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [She\-Hulk: Attorney at Law \- From "She\-Hulk: Attorney at Law"](https://open.spotify.com/track/2k2qC3o7QLhVzJXi8DxJ2t) | [Amie Doherty](https://open.spotify.com/artist/093nXwEUtY8TBTtZb9IVrf) | [She\-Hulk: Attorney at Law](https://open.spotify.com/album/5JEi65NMKgJYr0To6e2Qq9) | 2:25 | 2024-01-05 |  |
 | [Shining Star](https://open.spotify.com/track/0wvnR8hvLOtMSs7tXkIUIo) | [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [MARVEL Rivals: Galactic Tunes Vol\. 2 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5NbExStJilMIhbL3gfiE7M) | 3:29 | 2025-12-17 |  |
 | [Showtime, A\-holes](https://open.spotify.com/track/35RaFNWvYLgutIP2sO8axR) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy Vol\. 2 \(Original Score\)](https://open.spotify.com/album/7zlX0VjDNoIXhZA1IzVN96) | 1:27 | 2024-01-05 |  |
+| [Simon Williams to Set](https://open.spotify.com/track/5qzw4NFMzx63iixVbdYw6M) | [Joel P West](https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ) | [Wonder Man \(Original Soundtrack\)](https://open.spotify.com/album/353M27S0TmU1a253iLz1GC) | 1:51 | 2026-01-30 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/1gnSosKDAUGYPTkTLiG5DW) | [Malia J](https://open.spotify.com/artist/6iY5faxtqPs0eA1OeSvsAQ) | [Smells Like Teen Spirit](https://open.spotify.com/album/6TIj4zX0PCftJPdTKsk6As) | 3:59 | 2024-01-05 | 2025-01-31 |
 | [Snow Days](https://open.spotify.com/track/4UDoIGh022D5aCQ13O2zY0) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If..\. Happy Hogan Saved Christmas? \(Season 2/Episode 3\) \[Original Soundtrack\]](https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293) | 0:45 | 2024-05-22 | 2025-01-31 |
 | [Sorry](https://open.spotify.com/track/18ajyp6KyamwIylTkc0VnE) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [Marvel Zombies \(Original Soundtrack\)](https://open.spotify.com/album/5koxAbqBHGxdUsIreRoaj7) | 2:59 | 2025-11-04 |  |

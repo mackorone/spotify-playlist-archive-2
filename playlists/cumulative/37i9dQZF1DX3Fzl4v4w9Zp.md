@@ -4,7 +4,7 @@
 
 > Where roots meet what’s next\. Cover: Cat Clyde
 
-941 songs - 2 day 9 hr 47 min
+941 songs - 2 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Can’t Let Go](https://open.spotify.com/track/5JktApbmtMr5cCbOoENhrK) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Can’t Let Go](https://open.spotify.com/album/5cCTUwnFwgHlb0ZmMqxmbd) | 3:41 | 2021-12-17 | 2022-04-02 |
 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 | 2024-05-17 | 2025-09-21 |
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-06-24 | 2023-05-20 |
+| [Cast Iron Heart](https://open.spotify.com/track/0EALtIhPNmWQgYdT3hxfIX) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Appalachia](https://open.spotify.com/album/428KzGfU0jpgqpebyZmITs) | 4:57 | 2026-01-30 |  |
 | [Cast Iron Skillet](https://open.spotify.com/track/30xTTsQlMrkhisyvxzEIpX) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:24 | 2023-12-01 | 2024-04-13 |
 | [Caught Me at a Good Time](https://open.spotify.com/track/1d8vNPCq2S9pIpVuqliraI) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 2:49 | 2022-04-01 | 2022-11-12 |
 | [Celebrants](https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:23 | 2023-12-01 | 2024-04-06 |
@@ -493,7 +494,7 @@
 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 | 2021-12-17 | 2022-06-18 |
 | [Long, Long Year](https://open.spotify.com/track/0pLsmdx3085wYk87iU2A8T) | [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [Long, Long Year](https://open.spotify.com/album/3vkg2n1PUlk9V4Q6jBRze8) | 4:19 | 2022-08-05 | 2023-05-13 |
 | [Look Up](https://open.spotify.com/track/5Snxe2isWXVShJuXCg5rCO) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Look Up](https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt) | 3:10 | 2025-01-10 | 2025-10-25 |
-| [Lost at Sea](https://open.spotify.com/track/4SPFLGbWVbdSnnVa985mvA) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [](https://open.spotify.com/album/null) | 3:04 | 2026-01-30 |  |
+| [Lost at Sea](https://open.spotify.com/track/4SPFLGbWVbdSnnVa985mvA) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [Back to Life](https://open.spotify.com/album/2tf6b0OVMQg6Nh7O5OgHKu) | 3:04 | 2026-01-30 |  |
 | [Lost Lover's Eyes](https://open.spotify.com/track/4mrFszdYwKUgN5hlxEAfKK) | [Vince Herman](https://open.spotify.com/artist/68y27sv6lj2UUtFw4ckGiG) | [Lost Lover's Eyes](https://open.spotify.com/album/1eEqgnT0al5DaAaDHdShsG) | 3:23 | 2022-11-11 | 2024-02-03 |
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-01-21 | 2022-11-19 |
 | [Love Last](https://open.spotify.com/track/7kaHskn4s3SM1aY7GNVqbc) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Curioso](https://open.spotify.com/album/3GQfiWf3Hmkn7wW7FsQTKr) | 3:23 | 2025-02-07 | 2025-11-08 |
@@ -851,7 +852,6 @@
 | [Too Little, Too Late, Too Bad](https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:44 | 2023-08-25 | 2024-04-19 |
 | [Too Little, Too Late, Too Bad](https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Too Little, Too Late, Too Bad](https://open.spotify.com/album/6eWffbV2dUIfGI1pk0G8mo) | 3:44 | 2023-08-18 | 2025-01-18 |
 | [Too Stoned To Cry \[Feat\. Billy Strings\]](https://open.spotify.com/track/1PcMQHHrQCNgGwEXB4QIQj) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Too Stoned To Cry \[Feat\. Billy Strings\]](https://open.spotify.com/album/0ZRuxP2CWBV3FPAcejLg3b) | 3:40 | 2024-09-13 | 2025-11-22 |
-| [Track 4](https://open.spotify.com/track/0EALtIhPNmWQgYdT3hxfIX) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-30 |  |
 | [Traveling After Dark](https://open.spotify.com/track/7aPgZfsBEFutmKygEEZWTk) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Traveling After Dark](https://open.spotify.com/album/1xDzNoxT7dn9bG3uyjHRUn) | 3:49 | 2021-12-17 | 2022-01-29 |
 | [Traveling Alone \(feat\. Jason Isbell\)](https://open.spotify.com/track/6ESuXCVIksTM4ojIbAWcud) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Covers](https://open.spotify.com/album/38Ur6GR1sCE8tKzqLQ2l39) | 4:51 | 2025-03-28 |  |
 | [Trickaroo](https://open.spotify.com/track/4yjzbksh5X1nmKQ18hnVXA) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Trickaroo](https://open.spotify.com/album/2WEgA4UNSA25Gw3O9w3rc0) | 3:19 | 2022-08-19 | 2023-09-30 |

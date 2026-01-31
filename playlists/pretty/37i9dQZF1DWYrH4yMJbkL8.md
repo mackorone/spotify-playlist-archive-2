@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by NXSTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,772 likes - 34 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,777 likes - 34 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 33 | [LET YA HAIR DOWN \(feat\. Drezus\)](https://open.spotify.com/track/1FnuxeLNZ886FhaF42Qm0q) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Drezus](https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ) | [RED FUTURE](https://open.spotify.com/album/7445IRz5iyAR4DLwkZJD5a) | 4:01 |
 | 34 | [Grapefruit](https://open.spotify.com/track/3T3TwY9lxb3tUJ1pdEpSXi) | [Quinn Pickering](https://open.spotify.com/artist/0e4KtToNW4MIMSow75Ifhs) | [Supernova](https://open.spotify.com/album/6xhuENzbMsIxtm9jAdTw3o) | 3:36 |
 
-Snapshot ID: `AAAAADrbDfaFcOHfrlNgyzcCr3cHYpC8`
+Snapshot ID: `AAAAAPe0ohJdLCOn5l3uyhgcCTtAL9vo`

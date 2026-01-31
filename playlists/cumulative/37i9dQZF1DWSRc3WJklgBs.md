@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,544 songs - 3 day 16 hr 59 min
+1,545 songs - 3 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1522,6 +1522,7 @@
 | [You](https://open.spotify.com/track/0J2CLBNjk7lSiVBatKtj02) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82) | [You](https://open.spotify.com/album/67Wd5tUThFW2jG5y4CpB1D) | 2:43 | 2024-08-23 |  |
 | [You & I \(All I Need\)](https://open.spotify.com/track/57S8SBkdEnsd2ovIFDHSEj) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [You & I \(All I Need\)](https://open.spotify.com/album/1VqGx78PKrKIGHFf28sbEC) | 2:39 | 2021-09-25 | 2022-05-14 |
 | [You & Me](https://open.spotify.com/track/6M3EGEavhttWiN2IsYB282) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Col3man](https://open.spotify.com/artist/2kT0QKVXW2YOnhpqvhy4qv) | [You & Me](https://open.spotify.com/album/4YQrkowZ6ZQ2koHfEYKSwA) | 3:25 | 2025-06-27 |  |
+| [You & Me \(Always Forever\)](https://open.spotify.com/track/448c5dsSpQjL7bkRLNjocK) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [You & Me \(Always Forever\)](https://open.spotify.com/album/4C1eeJfuCEclF1gqK0jdij) | 2:52 | 2026-01-30 |  |
 | [You & Me \(feat\. W\. Darling\)](https://open.spotify.com/track/3x94KfC5QAsqFKjUGQBH4k) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i), [W\. Darling](https://open.spotify.com/artist/1kJHmqou1WF0wMrCwH9ppR) | [Noise vs Beauty](https://open.spotify.com/album/7gYsqd3NQTi6d7wdm1sY0E) | 4:04 | 2020-06-04 | 2021-08-02 |
 | [You \(feat\. Sam Tompkins\)](https://open.spotify.com/track/6Q0Dzn2dGVvq0KPKjl2BPC) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [You \(feat\. Sam Tompkins\)](https://open.spotify.com/album/7FjEeMfveCJGI0IAyqNFGm) | 3:25 | 2021-10-23 | 2022-05-14 |
 | [You \(feat\. Seeb\)](https://open.spotify.com/track/3dVGTB7npFPXJp4839bXNb) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [You \(feat\. Seeb\)](https://open.spotify.com/album/6WEopWtR9ytzA1bCsdPjMP) | 3:17 | 2023-11-03 | 2025-02-08 |

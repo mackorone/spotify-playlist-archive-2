@@ -1,13 +1,161 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Donovan Woods",
-  "num_followers": 167219,
+  "description": "A laid-back trip in the folk scene. Cover: Luca Fogale",
+  "num_followers": 167223,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIOsOtvwb7Um70XPkY4myjNWKtO0",
+  "snapshot_id": "AAAAADokR2crwukYxKUSnNPYZNuIj55Z",
   "tracks": [
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+    },
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6uK1BjcfTLBHePE1oSU3ro"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "duration_ms": 214825,
+      "name": "Define You",
+      "url": "https://open.spotify.com/track/3AeQrVZPOszHLdES1OJ1Md"
+    },
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "Everything I Wanted (& more)",
+        "url": "https://open.spotify.com/album/3yO2HkxXjajH9MmK3GdOnj"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        },
+        {
+          "name": "Sierra Carson",
+          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
+        }
+      ],
+      "duration_ms": 185967,
+      "name": "Lying To Your Face",
+      "url": "https://open.spotify.com/track/03JPEmxXx07NNusDRpwn0l"
+    },
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "The Hunt in Edson",
+        "url": "https://open.spotify.com/album/3lhCRHe62kJsXiUw0YQOu9"
+      },
+      "artists": [
+        {
+          "name": "The Rural Alberta Advantage",
+          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
+        }
+      ],
+      "duration_ms": 195311,
+      "name": "The Hunt in Edson",
+      "url": "https://open.spotify.com/track/23lVXWQIiQh87hWExCoDCX"
+    },
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "tout me quitte / tout vient \u00e0 moi",
+        "url": "https://open.spotify.com/album/6NzSqNUhcdFuOYlqgGVZJn"
+      },
+      "artists": [
+        {
+          "name": "Nana Quinn",
+          "url": "https://open.spotify.com/artist/6oB1eI3s62d0KyLxrKG0x4"
+        }
+      ],
+      "duration_ms": 277461,
+      "name": "Oiseau migrateur",
+      "url": "https://open.spotify.com/track/2QOHrzgwSZg7oDrrLEshB0"
+    },
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "Hidden Away",
+        "url": "https://open.spotify.com/album/2yTuFjAlIOr33mEiVBEPQE"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "duration_ms": 211451,
+      "name": "Hidden Away",
+      "url": "https://open.spotify.com/track/0INnW3DzfPaDpDAbL8Rin9"
+    },
+    {
+      "added_at": "2026-01-23 05:00:27",
+      "album": {
+        "name": "In Violet",
+        "url": "https://open.spotify.com/album/3nc7N6TF1Wkosw1KqXITrU"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 249253,
+      "name": "In Violet",
+      "url": "https://open.spotify.com/track/7h5NWdC81hmCd4XHFV8HYO"
+    },
+    {
+      "added_at": "2026-01-23 05:00:27",
+      "album": {
+        "name": "Dream Song",
+        "url": "https://open.spotify.com/album/7hB4iSq2vdaVMJ5esXxe6t"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 275974,
+      "name": "Dream Song",
+      "url": "https://open.spotify.com/track/4rtDHsmEdYnQ90V0LLAOtD"
+    },
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "This Must Be the Place",
+        "url": "https://open.spotify.com/album/3q1pYse4n5x42waxqHal3k"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 254864,
+      "name": "This Must Be the Place",
+      "url": "https://open.spotify.com/track/2lGqlseOozXgL8ZL5vwJcc"
+    },
     {
       "added_at": "2026-01-23 05:00:27",
       "album": {
@@ -23,6 +171,22 @@
       "duration_ms": 210430,
       "name": "I Talk About You",
       "url": "https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c"
+    },
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "Hold On Brother",
+        "url": "https://open.spotify.com/album/64Q6PBJrVnk68J6Tc7dnZ2"
+      },
+      "artists": [
+        {
+          "name": "Dom Louis",
+          "url": "https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph"
+        }
+      ],
+      "duration_ms": 158523,
+      "name": "Hold On Brother",
+      "url": "https://open.spotify.com/track/1F5LBKOjM8OF5j5rD7FgY7"
     },
     {
       "added_at": "2026-01-23 05:00:27",
@@ -43,6 +207,22 @@
     {
       "added_at": "2026-01-23 05:00:27",
       "album": {
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 219725,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
+    },
+    {
+      "added_at": "2026-01-23 05:00:27",
+      "album": {
         "name": "Covers, Pt.4",
         "url": "https://open.spotify.com/album/41Ub2CLU6urzFOqRY4o36a"
       },
@@ -55,22 +235,6 @@
       "duration_ms": 285786,
       "name": "Rain When I Die",
       "url": "https://open.spotify.com/track/1XjlGjGGQYCR1FgV9ZWGyv"
-    },
-    {
-      "added_at": "2026-01-23 05:00:27",
-      "album": {
-        "name": "Dream Song",
-        "url": "https://open.spotify.com/album/7hB4iSq2vdaVMJ5esXxe6t"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 275974,
-      "name": "Dream Song",
-      "url": "https://open.spotify.com/track/4rtDHsmEdYnQ90V0LLAOtD"
     },
     {
       "added_at": "2026-01-23 05:00:27",
@@ -151,38 +315,6 @@
       "duration_ms": 223303,
       "name": "Morning Gum",
       "url": "https://open.spotify.com/track/3qwfR7rsNDkrTFoJcSjFu5"
-    },
-    {
-      "added_at": "2026-01-23 05:00:27",
-      "album": {
-        "name": "Another Time",
-        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 219725,
-      "name": "Another Time",
-      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
-    },
-    {
-      "added_at": "2026-01-23 05:00:27",
-      "album": {
-        "name": "In Violet",
-        "url": "https://open.spotify.com/album/3nc7N6TF1Wkosw1KqXITrU"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 249253,
-      "name": "In Violet",
-      "url": "https://open.spotify.com/track/7h5NWdC81hmCd4XHFV8HYO"
     },
     {
       "added_at": "2026-01-23 05:00:27",

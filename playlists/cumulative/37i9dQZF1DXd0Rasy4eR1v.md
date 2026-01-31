@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Rachel Johnson
 
-1,221 songs - 2 day 17 hr 9 min
+1,222 songs - 2 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Dil Lagana](https://open.spotify.com/track/2mEj2v0aAuSirH0OeAnnYZ) | [Syed Shahroz Abbas](https://open.spotify.com/artist/3B5sYacvtfwKOJxzO6njYK) | [Dil Lagana](https://open.spotify.com/album/7iTzLcqHfzux8Zkc8Hzys5) | 4:19 | 2025-11-14 |  |
 | [Dil Meray](https://open.spotify.com/track/4CUoUbyhYYuITBTVr7vxfA) | [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Dil Meray](https://open.spotify.com/album/5SNyeHiR83UfwWS9hCRLLM) | 3:54 | 2023-09-01 | 2023-09-16 |
 | [Dil Na Lanvee](https://open.spotify.com/track/40Uqtakcro5MbrLBQVwv22) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Dil Na Lanvee](https://open.spotify.com/album/0MqPkxDgVbpfgbgDkMgCgh) | 2:32 | 2023-01-10 | 2023-05-06 |
-| [Dil ruba](https://open.spotify.com/track/4OHTcG30SKhZ86Da7kwSxS) | [MOHSIN!](https://open.spotify.com/artist/3IRP2z9Z8lqyvaxlSntMwD), [PABLO](https://open.spotify.com/artist/1xBk3kegjnuS5Ey8c7zK3M) | [Dil ruba](https://open.spotify.com/album/3LiAr1DodmCgkWH0DAhhIf) | 2:51 | 2026-01-23 |  |
+| [Dil ruba](https://open.spotify.com/track/4OHTcG30SKhZ86Da7kwSxS) | [MOHSIN!](https://open.spotify.com/artist/3IRP2z9Z8lqyvaxlSntMwD), [PABLO](https://open.spotify.com/artist/1xBk3kegjnuS5Ey8c7zK3M) | [Dil ruba](https://open.spotify.com/album/3LiAr1DodmCgkWH0DAhhIf) | 2:51 | 2026-01-23 | 2026-01-31 |
 | [Dil Say](https://open.spotify.com/track/3hgQPXe6gjZ5zsBRefjGNT) | [Thiccie](https://open.spotify.com/artist/7I5qIF313F9cj6ZCCHbXKN), [SRMD](https://open.spotify.com/artist/4RigGF98zw6prPkYsy68JC) | [Dil Say](https://open.spotify.com/album/1eY4lgPEGQSd6wIRW0MgeG) | 2:26 | 2025-11-20 | 2026-01-15 |
 | [Dil Sazgir](https://open.spotify.com/track/0UBDx9JoXsTU7YnZd69fGp) | [SAZGIR](https://open.spotify.com/artist/2oAG6MjavkOWhvC97uf212), [shareh akhter](https://open.spotify.com/artist/6ACzq12KdmE8a6vcdI2JLW) | [Dil Sazgir](https://open.spotify.com/album/7GUUHiRvdf9KARLrVNM4aO) | 3:00 | 2022-10-26 | 2022-11-18 |
 | [Dil Tor Ke](https://open.spotify.com/track/5HciElNzS89UqXNaQZ5fJO) | [Ahmed Zawi](https://open.spotify.com/artist/5LVXZSPYcJ34owu5O6ZBEw) | [Dil Tor Ke](https://open.spotify.com/album/4uyVovtKINaMVd5C0Vbkuf) | 5:01 | 2022-11-17 | 2022-12-01 |
@@ -609,7 +609,7 @@
 | [Kya sach ho tum?](https://open.spotify.com/track/7iQxWIYGzTkkLWlUscD4HP) | [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Kya sach ho tum?](https://open.spotify.com/album/0jQ4tYapUB62uhzoIEPE1n) | 3:30 | 2025-06-19 | 2025-11-01 |
 | [Kya Samjho](https://open.spotify.com/track/3Gcd1QdanD9Gt7S4Z5tMXL) | [Adeel Ahmed](https://open.spotify.com/artist/4EggOBj94wNxaWXlKP2LaL) | [Kya Samjho](https://open.spotify.com/album/4TNU5wNNVoQseLVSSYzZw5) | 2:31 | 2024-06-04 | 2024-07-02 |
 | [Kyun](https://open.spotify.com/track/7vumrbuv4KD60oslANU2EC) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Sadaat Shafqat Amanat](https://open.spotify.com/artist/3oOno2g4btrjp7CsJKKcuv) | [Kyun](https://open.spotify.com/album/4bBelTNf0jNu1EW2UWGl18) | 3:42 | 2024-01-19 | 2024-05-10 |
-| [kyun](https://open.spotify.com/track/6cVEQBkD1ZB1dlVMrOTuVm) | [Khanm](https://open.spotify.com/artist/5vxQdFbSWYF1Zj99jajZU7), [Halaar Shoro](https://open.spotify.com/artist/0KisGGLFPHP6i0Lw08OgUX) | [kyun](https://open.spotify.com/album/4YxIhmd7Udo8KlKgJkvNOk) | 4:08 | 2025-12-26 |  |
+| [kyun](https://open.spotify.com/track/6cVEQBkD1ZB1dlVMrOTuVm) | [Khanm](https://open.spotify.com/artist/5vxQdFbSWYF1Zj99jajZU7), [Halaar Shoro](https://open.spotify.com/artist/0KisGGLFPHP6i0Lw08OgUX) | [kyun](https://open.spotify.com/album/4YxIhmd7Udo8KlKgJkvNOk) | 4:08 | 2025-12-26 | 2026-01-31 |
 | [Kyun Chor Gaya](https://open.spotify.com/track/4aGa7xV7YZxD1cyhVRnvQG) | [Taha Hassan](https://open.spotify.com/artist/05ekYRAvmmCSTPnkEbsC0U) | [Kyun Chor Gaya](https://open.spotify.com/album/0Pia4bgglWhJhFFArQUnjQ) | 3:09 | 2024-09-05 | 2024-10-02 |
 | [Kyun Na](https://open.spotify.com/track/4nkdoG1jpQuWurvjtSBwPF) | [Ali Mohyuddin](https://open.spotify.com/artist/3jFJzWEoVUfl936fAYjLyh) | [Kyun Na](https://open.spotify.com/album/3yAuE6i6whERZihpiTbsg8) | 2:42 | 2024-06-04 | 2024-09-06 |
 | [Kyun Na](https://open.spotify.com/track/3QUjNn89SJWLugfHjBGMLs) | [Salem Sandhu](https://open.spotify.com/artist/0Eh7Sz5p4UQ6AfOcFu5f45), [Punya](https://open.spotify.com/artist/5qarfCmPkGo0zusJjg7q1m), [Nimit](https://open.spotify.com/artist/3TdHRd70lcxwkOZwCiiCw3) | [Kyun Na](https://open.spotify.com/album/4bPpgQ2prSBk6avTSMNS8w) | 2:45 | 2025-01-28 | 2025-06-30 |
@@ -704,6 +704,7 @@
 | [Mera Din](https://open.spotify.com/track/0gDsFT1IKGHrjs00DwOLAr) | [Saad Mazher](https://open.spotify.com/artist/090ZjnRapPoPKa9gA2etv3), [Umer Ahmed](https://open.spotify.com/artist/6rssOv0SkFXtxsVnor4DbR) | [Mera Din](https://open.spotify.com/album/23hN8celmFgZlxJxJDgCaI) | 2:40 | 2023-10-12 | 2023-10-24 |
 | [Mera Ishq Bhi Tu](https://open.spotify.com/track/0weOQlB6EcdPhFNrCJa7ZW) | [MASUMA ANWAR](https://open.spotify.com/artist/55DHZ4eEuBZM0xfX7bCX1H) | [Mera Ishq Bhi Tu](https://open.spotify.com/album/569f0iBHH8hdmB8TDtDXX2) | 5:34 | 2023-02-13 | 2023-02-22 |
 | [mera khoya pyaar](https://open.spotify.com/track/57ZPlPis6i5vDmE4crbP1X) | [Bilal Khalid](https://open.spotify.com/artist/2KsaM9MOzw8IxyaxiN9YXf) | [mera khoya pyaar](https://open.spotify.com/album/3rqdvaU7NWiMJsSmDFAYsn) | 1:44 | 2025-12-26 | 2026-01-15 |
+| [Mera Naam](https://open.spotify.com/track/1c7xkPr95KHcQlWjKMaOmM) | [Asfand](https://open.spotify.com/artist/5Dmma2b9AAtPyCfZ2tlTcX) | [Mera Naam](https://open.spotify.com/album/29E9Q6Q06Aiv6Mgy0ZawOn) | 3:41 | 2026-01-30 |  |
 | [Mere Pardesi Yaara](https://open.spotify.com/track/7hloEeP0Ymgs3P0Qd4pHn5) | [Maher Anjum](https://open.spotify.com/artist/5FxkNNihpaKyHXSydbpYaw) | [Mere Pardesi Yaara](https://open.spotify.com/album/6LhPbyMPbb2v4lp5QmRunQ) | 4:41 | 2023-05-05 | 2023-05-20 |
 | [Mere Sath Gum](https://open.spotify.com/track/1Hx060vml4mw74sqRU5Gad) | [Salah](https://open.spotify.com/artist/6gsSqRlSCysGjavfEOwUew) | [Mere Sath Gum](https://open.spotify.com/album/6u14Jf9QrK8rBUSVE0HiBQ) | 4:07 | 2022-11-17 | 2022-12-01 |
 | [Mere Sohneya](https://open.spotify.com/track/08Xr7XurLYgMzpOZMwrO46) | [Jazib Khan](https://open.spotify.com/artist/5UmmpZ98iAkTWFG179zNfN) | [Mere Sohneya](https://open.spotify.com/album/2COQCbit769Sn409oDKsUs) | 3:23 | 2023-07-01 | 2023-08-01 |

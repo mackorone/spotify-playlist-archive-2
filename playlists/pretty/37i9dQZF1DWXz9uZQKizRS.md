@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: huskie
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,465 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,507 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 21 | [ofiarne kozły](https://open.spotify.com/track/29cqBX8sRpCaRFpvOXWgOd) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [ofiarne kozły](https://open.spotify.com/album/7w5jjgy1n68RFAqcy4Nzm5) | 2:49 |
 | 22 | [Spadam stąd](https://open.spotify.com/track/3DNNSrS1gANfSyk19S4TLI) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Spadam stąd](https://open.spotify.com/album/62PR30PbPMvxmaN1YohG6v) | 4:00 |
 | 23 | [TakTakTak](https://open.spotify.com/track/3H8itVosE3ZaV3hAHSAqfv) | [metro](https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0) | [TakTakTak](https://open.spotify.com/album/3UxKP3bcEWOZxKAtnuGqf6) | 3:34 |
-| 24 | [Track 5](https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [](https://open.spotify.com/album/null) | 0:00 |
+| 24 | [Riksarkivet](https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Sentimental Value](https://open.spotify.com/album/5OoZ2XvZIxa511ZkAmm3cO) | 3:17 |
 | 25 | [Niech żyje bal](https://open.spotify.com/track/5lc8SL1jIDUOrP0hmKtNAL) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M) | [Niech żyje bal](https://open.spotify.com/album/7mDBzQX4EWUyIX56jWILZW) | 3:58 |
 | 26 | [Ostatnia chwila z Tobą](https://open.spotify.com/track/5vjE95iGdSJjiRJahf4TFx) | [Melancholy Hill](https://open.spotify.com/artist/6GHlJaayb651hzenq1MND8) | [Ostatnia chwila z Tobą](https://open.spotify.com/album/4tuZM5gwDWoVsDQ9EpiH78) | 2:58 |
 | 27 | [Bohater](https://open.spotify.com/track/6W6IyqDcbKdT6OYy2ejJ8b) | [Winogradzki Lew](https://open.spotify.com/artist/3x0dWLbZj9iSuIdXFDY3dy) | [Bohater](https://open.spotify.com/album/3xSa8lZxjeTmXzzZiFDN2B) | 3:14 |

@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104889,
+  "num_followers": 104698,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGDHolLl+Faq3YWG5ME/t5YMFDFN",
+  "snapshot_id": "AAAAAMmDhqUCLaW/8jNfTw7ylyre2N4+",
   "tracks": [
     {
       "added_at": "2026-01-29 22:00:45",
@@ -31,8 +31,8 @@
     {
       "added_at": "2026-01-29 22:00:45",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "KATULAPSI",
+        "url": "https://open.spotify.com/album/6wuSr7ftRuj9Q9fDTuJTWB"
       },
       "artists": [
         {
@@ -275,26 +275,6 @@
     {
       "added_at": "2026-01-29 22:00:45",
       "album": {
-        "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
-        "url": "https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC"
-      },
-      "artists": [
-        {
-          "name": "Lage",
-          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
-        },
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
-      "url": "https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS"
-    },
-    {
-      "added_at": "2026-01-29 22:00:45",
-      "album": {
         "name": "20:30 (feat. Karim B)",
         "url": "https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG"
       },
@@ -315,6 +295,26 @@
     {
       "added_at": "2026-01-29 22:00:45",
       "album": {
+        "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
+        "url": "https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC"
+      },
+      "artists": [
+        {
+          "name": "Lage",
+          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
+        },
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
+      "url": "https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS"
+    },
+    {
+      "added_at": "2026-01-29 22:00:45",
+      "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
@@ -322,15 +322,11 @@
         {
           "name": "Ares",
           "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        },
-        {
-          "name": "MELO",
-          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
         }
       ],
-      "duration_ms": 233984,
-      "name": "Veitsi",
-      "url": "https://open.spotify.com/track/5WrfaQBtLiP0wMuZkDfbmH"
+      "duration_ms": 163777,
+      "name": "Toivottavasti",
+      "url": "https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX"
     },
     {
       "added_at": "2026-01-29 22:00:45",
@@ -410,11 +406,15 @@
         {
           "name": "Ares",
           "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
         }
       ],
-      "duration_ms": 163777,
-      "name": "Toivottavasti",
-      "url": "https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX"
+      "duration_ms": 233984,
+      "name": "Veitsi",
+      "url": "https://open.spotify.com/track/5WrfaQBtLiP0wMuZkDfbmH"
     },
     {
       "added_at": "2026-01-29 22:00:45",

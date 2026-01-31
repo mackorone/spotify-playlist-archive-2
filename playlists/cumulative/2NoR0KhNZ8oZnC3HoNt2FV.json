@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-01-30",
   "description": "",
-  "name": "Hip-Hop and Play: A$AP Rocky Album Takeover",
+  "name": "Hip-Hop and Play",
   "tracks": [
     {
       "album": {
@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "4 Raws",
+      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+    },
+    {
+      "album": {
         "name": "44 More",
         "url": "https://open.spotify.com/album/6xEahv0rPP5PHJh4kpQ6jT"
       },
@@ -824,7 +842,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 224279,
       "name": "AIR FORCE (BLACK DEMARCO)",
       "url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
@@ -1294,6 +1312,24 @@
       "duration_ms": 292780,
       "name": "Another Again (feat. Big Sean & A$AP Ferg)",
       "url": "https://open.spotify.com/track/33AGSvPRKfiMyTUeR3PklG"
+    },
+    {
+      "album": {
+        "name": "Slime Cry",
+        "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165969,
+      "name": "Another Episode",
+      "url": "https://open.spotify.com/track/5gSIZs6z9f7mJwBbtYMQXs"
     },
     {
       "album": {
@@ -2962,6 +2998,24 @@
       "duration_ms": 175099,
       "name": "Bongos (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
+    },
+    {
+      "album": {
+        "name": "BOO",
+        "url": "https://open.spotify.com/album/03nGdB6ACTi1GJG0vZJO3n"
+      },
+      "artists": [
+        {
+          "name": "H3adband",
+          "url": "https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138668,
+      "name": "BOO",
+      "url": "https://open.spotify.com/track/0092fZcbCidhWrmBQX4guf"
     },
     {
       "album": {
@@ -5606,7 +5660,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 285634,
       "name": "DON'T BE DUMB / TRIP BABY",
       "url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
@@ -6789,6 +6843,24 @@
     },
     {
       "album": {
+        "name": "FDO",
+        "url": "https://open.spotify.com/album/2ME0R7wx6jnHudplZAG2be"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319213,
+      "name": "FDO",
+      "url": "https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX"
+    },
+    {
+      "album": {
         "name": "Still Brazy (Deluxe)",
         "url": "https://open.spotify.com/album/4nwd6ernojhNIIRifDJoRz"
       },
@@ -7173,6 +7245,28 @@
     },
     {
       "album": {
+        "name": "MASA",
+        "url": "https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Fire Your Manager (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo"
+    },
+    {
+      "album": {
         "name": "First Day Out",
         "url": "https://open.spotify.com/album/36GrIe8TlIyy66QPVvd4mg"
       },
@@ -7290,7 +7384,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 229102,
       "name": "FISH N STEAK (WHAT IT IS) (feat. Tyler, The Creator & Jozzy)",
       "url": "https://open.spotify.com/track/6qJjgYxhZ3gBTm4TI8t41e"
@@ -11582,7 +11676,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 49047,
       "name": "INTERROGATION (SKIT)",
       "url": "https://open.spotify.com/track/6uqoRmGkz2p9GDgisc9TcN"
@@ -15878,7 +15972,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 195130,
       "name": "NO TRESPASSING",
       "url": "https://open.spotify.com/track/7eEnuNVAHQXEwg18zZnmdL"
@@ -16772,7 +16866,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 171845,
       "name": "ORDER OF PROTECTION",
       "url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
@@ -17614,7 +17708,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 227423,
       "name": "PLAYA",
       "url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
@@ -18238,7 +18332,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 234151,
       "name": "PUNK ROCKY",
       "url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
@@ -19068,7 +19162,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 235206,
       "name": "ROBBERY (feat. Doechii)",
       "url": "https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0"
@@ -20998,7 +21092,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
@@ -21068,7 +21162,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 178673,
       "name": "STFU (feat. Slay Squad)",
       "url": "https://open.spotify.com/track/2pwOJNlr5TJaR30dJIqK9M"
@@ -21314,7 +21408,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 199015,
       "name": "STOLE YA FLOW",
       "url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
@@ -21416,7 +21510,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 200170,
       "name": "STOP SNITCHING (feat. BossMan Dlow & Sauce Walka)",
       "url": "https://open.spotify.com/track/2lSDVBIWbWQ7z5Lw15GRNw"
@@ -21832,7 +21926,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 192333,
       "name": "SWAT TEAM",
       "url": "https://open.spotify.com/track/4vYazVB0YNgKBjG3EQmT02"
@@ -22510,7 +22604,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 214777,
       "name": "THE END (feat. will.i.am & Jessica Pratt)",
       "url": "https://open.spotify.com/track/22FKiBdLUCRHlZJthzTlAy"
@@ -23022,6 +23116,24 @@
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
+    },
+    {
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Tiramisu",
+      "url": "https://open.spotify.com/track/2GHKo6nrSjruvBEQbzD7Fw"
     },
     {
       "album": {
@@ -24775,6 +24887,28 @@
     },
     {
       "album": {
+        "name": "What You Is",
+        "url": "https://open.spotify.com/album/6hGxO3RlfPxP0OuXukj5Ju"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Mellow Rackz",
+          "url": "https://open.spotify.com/artist/3celDTSIsfH8ks4YQ68B5w"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226115,
+      "name": "What You Is",
+      "url": "https://open.spotify.com/track/2ZCDXVmOLnKUHYVpycIq5F"
+    },
+    {
+      "album": {
         "name": "Trilogy",
         "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
       },
@@ -25020,7 +25154,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 245988,
       "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
       "url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"

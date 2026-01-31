@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-170 songs - 9 hr 13 min
+172 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Castle](https://open.spotify.com/track/2eMMH266cKho4MCyl4GV6A) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Castle](https://open.spotify.com/album/0gh6Lpziw1KnjvGMjLtqaw) | 2:50 | 2025-11-14 |  |
 | [Catch 22](https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Catch 22](https://open.spotify.com/album/1BpLEq3RV91FPE7TQd9WDv) | 3:17 | 2025-07-18 | 2025-10-18 |
 | [Chance Encounter](https://open.spotify.com/track/2uuQPxTltYpigcGJb1xKUc) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Chance Encounter](https://open.spotify.com/album/3ySvgHcZ8wqWDy6QbYskim) | 3:27 | 2025-10-31 |  |
+| [Chemicals](https://open.spotify.com/track/2sNOwXYWdLzz27p88xa5rp) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Chemicals](https://open.spotify.com/album/6aIFh4E0XizDti1WhMHWub) | 3:33 | 2026-01-30 |  |
 | [Cincinnati Heart](https://open.spotify.com/track/4yqzPEy3QxniyBzWPm35WO) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Cincinnati Heart](https://open.spotify.com/album/7q4GSv2PuFyj0m7viXGEfS) | 2:51 | 2025-07-18 |  |
 | [Colorbars \(feat\. Chris Thile\)](https://open.spotify.com/track/3OY2R7N6anYFW5IND5Ekrj) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Colorbars \(feat\. Chris Thile\)](https://open.spotify.com/album/4tkOBq5HLmSXT18ufEUBM6) | 5:23 | 2025-08-15 |  |
 | [Coming of Age](https://open.spotify.com/track/4elg3DXTnAzPLmIMGj9ULf) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Coming of Age](https://open.spotify.com/album/5zqWfzZ722bHdKH4aBmaZP) | 3:16 | 2025-07-18 | 2025-11-22 |
@@ -47,7 +48,7 @@
 | [Dulce Perro](https://open.spotify.com/track/1Neey2oqU4yz7yRsfQoLn7) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Dulce Perro](https://open.spotify.com/album/66wJOEVqN5bxB2h5I5xyTj) | 2:49 | 2025-10-17 |  |
 | [Dying](https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Dying](https://open.spotify.com/album/62JSSTLIDCNBRv3R2VUrSD) | 3:03 | 2025-09-05 | 2025-12-07 |
 | [Echo](https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Echo](https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh) | 3:04 | 2025-07-18 |  |
-| [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9) | 2:58 | 2025-12-12 |  |
+| [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9) | 2:58 | 2025-12-12 | 2026-01-31 |
 | [Everlastingly \- Wedding Version](https://open.spotify.com/track/2PUV7cOFpV1wrGBKed91N8) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Everlastingly \(Wedding Version\)](https://open.spotify.com/album/6un0lF2zOowIKOS3fI7YeH) | 3:12 | 2025-10-17 |  |
 | [Everyday](https://open.spotify.com/track/6PW7IX53uKCB1woGe0Uak5) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Don't Look Down](https://open.spotify.com/album/1RAGs6JnmurAIytKWIbAxX) | 2:31 | 2025-09-19 |  |
 | [Everything I Need Is Here](https://open.spotify.com/track/1r427MrTKh6BIswuVVLGri) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Everything I Need Is Here](https://open.spotify.com/album/7rgi5Z6SNZ5rCcwTIkFEdj) | 3:26 | 2025-11-21 |  |
@@ -68,7 +69,7 @@
 | [Grow as We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2025-07-18 |  |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-07-18 |  |
 | [Harder To Love](https://open.spotify.com/track/0oI4tNKqTOURxMAvka5d4r) | [Neil Foreman](https://open.spotify.com/artist/0GRlXaSc9udpxeUuLmP7jo) | [Harder To Love](https://open.spotify.com/album/4s400ZZn2WSPM6CaUfAsHC) | 3:39 | 2025-07-18 | 2025-09-06 |
-| [Hart Zonder Krassen](https://open.spotify.com/track/3FuVRInBL4Nph4L1oRscbe) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Hart Zonder Krassen](https://open.spotify.com/album/4eSC7ylSZLb4nkWIehlLJi) | 2:23 | 2025-10-24 |  |
+| [Hart Zonder Krassen](https://open.spotify.com/track/3FuVRInBL4Nph4L1oRscbe) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Hart Zonder Krassen](https://open.spotify.com/album/4eSC7ylSZLb4nkWIehlLJi) | 2:23 | 2025-10-24 | 2026-01-31 |
 | [Hello Darlin](https://open.spotify.com/track/4RzLqL2zvMPj1BkRHWtH0G) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Hello Darlin](https://open.spotify.com/album/1RIyJXwicQDu3Nn2zJmENv) | 2:51 | 2025-07-18 | 2025-12-13 |
 | [holes](https://open.spotify.com/track/6NQtkU253uebIELwPu2KjQ) | [Colin Vincent](https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ) | [holes](https://open.spotify.com/album/0JO4jUHwMOmA2io1tUw4be) | 2:47 | 2025-07-18 | 2025-09-20 |
 | [Home Tonight](https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Home Tonight](https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA) | 3:27 | 2025-07-18 |  |
@@ -102,6 +103,7 @@
 | [Miracle](https://open.spotify.com/track/1BxvWP9iODgryOG53TojYS) | [Mufaro](https://open.spotify.com/artist/6rCjN8curntY3lqk8cLnlU) | [Wayfindr](https://open.spotify.com/album/1NE21Tiitf0unIlXMnSJXf) | 2:49 | 2025-09-05 | 2025-11-22 |
 | [Moonlight](https://open.spotify.com/track/7KhtBkiYMt0ewSHsXZJHlq) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Moonlight](https://open.spotify.com/album/6Ka0UHLW3BzOAQxAZFmlAY) | 2:29 | 2026-01-09 |  |
 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 | 2025-07-18 |  |
+| [New to Me](https://open.spotify.com/track/0RJxhzSKCetQ7xMzB0lIDb) | [Sterre Weldring](https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL) | [New to Me](https://open.spotify.com/album/2Ygy7zn47MLoL5WcXxqaB5) | 3:15 | 2026-01-30 |  |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-07-18 |  |
 | [Nobody Knows](https://open.spotify.com/track/0373dQ4sHzNCDlpLOn3wWK) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Nobody Knows](https://open.spotify.com/album/4Nt6FDNm0CcYKpgskKU2mu) | 3:14 | 2025-07-18 | 2025-08-16 |
 | [Oh, Appalachia](https://open.spotify.com/track/6Kb7peAoXd3IQKdjT4uDNG) | [Jonas Conner](https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv) | [Oh, Appalachia](https://open.spotify.com/album/14uzkANP7JREy91akB99YV) | 3:06 | 2025-07-18 | 2025-10-18 |

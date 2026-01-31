@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Deutschrap f\u00fcr die emotions. Cover: benno!",
+  "description": "Deutschrap f\u00fcr die emotions. Cover: Souly",
   "name": "Rap in deep",
   "tracks": [
     {
@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "2 Zimmer",
+        "url": "https://open.spotify.com/album/0TM0kOkdyN5agmpLOX7a3t"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113533,
+      "name": "2 Zimmer",
+      "url": "https://open.spotify.com/track/7iocNlh0ozGWEYMcB13EYr"
+    },
+    {
+      "album": {
         "name": "212 km/h",
         "url": "https://open.spotify.com/album/31ECHyDrYntbBAfW4uNLoa"
       },
@@ -158,6 +176,24 @@
       "duration_ms": 158661,
       "name": "212 km/h",
       "url": "https://open.spotify.com/track/0snt282zjuoVMG6nBRPJBp"
+    },
+    {
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2mwxpip46E0BT2DPXW9LVo"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211446,
+      "name": "24",
+      "url": "https://open.spotify.com/track/2KQI8OvWiO3Dc4qI11ph0h"
     },
     {
       "album": {
@@ -216,7 +252,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 170868,
       "name": "4:30",
       "url": "https://open.spotify.com/track/2jzNTyPpenfoZ6qeQzhn9d"
@@ -318,7 +354,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 172800,
       "name": "Akhirah",
       "url": "https://open.spotify.com/track/12Vl8CoS1ijQF1eJjqnSvS"
@@ -1306,7 +1342,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 144120,
       "name": "Eh zu kurz",
       "url": "https://open.spotify.com/track/29ubUu1EekkAvy3H2hxNNC"
@@ -2201,6 +2237,28 @@
     },
     {
       "album": {
+        "name": "Moth Music",
+        "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Bazzazian",
+          "url": "https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218866,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/7fidUHHPzuVuN6ECBsp2vJ"
+    },
+    {
+      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580"
       },
@@ -2417,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "H\u00c4SSLICH",
+        "url": "https://open.spotify.com/album/1xvE8ZQ6pUO0E76X2CpX21"
+      },
+      "artists": [
+        {
+          "name": "Ramazan",
+          "url": "https://open.spotify.com/artist/5nZ1QrOYHyb1x8DrLjwFJE"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142417,
+      "name": "H\u00c4SSLICH",
+      "url": "https://open.spotify.com/track/0JsthgmpLbNvAnFkDSA9AM"
+    },
+    {
+      "album": {
         "name": "Universum regelt",
         "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
       },
@@ -2540,7 +2616,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 192964,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
@@ -2942,6 +3018,24 @@
       "duration_ms": 141082,
       "name": "Keiner wei\u00df",
       "url": "https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7"
+    },
+    {
+      "album": {
+        "name": "Keiner Wei\u00df",
+        "url": "https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk"
+      },
+      "artists": [
+        {
+          "name": "tosha",
+          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Keiner Wei\u00df",
+      "url": "https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O"
     },
     {
       "album": {
@@ -3354,7 +3448,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 170373,
       "name": "Lila",
       "url": "https://open.spotify.com/track/4D6P7YK4vvETiWPyCST7JT"
@@ -3492,7 +3586,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 148000,
       "name": "lovebomb",
       "url": "https://open.spotify.com/track/4zTWaLNytgmiIAC5fJhXjp"
@@ -4168,6 +4262,28 @@
       "duration_ms": 179000,
       "name": "Nie wieder",
       "url": "https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu"
+    },
+    {
+      "album": {
+        "name": "Nie wieder",
+        "url": "https://open.spotify.com/album/4n17pN1bg08cqAMnogswkY"
+      },
+      "artists": [
+        {
+          "name": "Zuna",
+          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
+        },
+        {
+          "name": "Alies",
+          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156760,
+      "name": "Nie wieder",
+      "url": "https://open.spotify.com/track/6HENsmG5BVQpVaewDUTlqq"
     },
     {
       "album": {
@@ -5412,7 +5528,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 189877,
       "name": "SPIEGLEIN SPIEGLEIN",
       "url": "https://open.spotify.com/track/1qHhr8GD9YOMpuMz37nal8"
@@ -6046,6 +6162,24 @@
       "duration_ms": 142640,
       "name": "WEEKEND",
       "url": "https://open.spotify.com/track/6tMXNpBTj1U0FkxUuXaIqv"
+    },
+    {
+      "album": {
+        "name": "Weg hier raus",
+        "url": "https://open.spotify.com/album/5V4Ohz7rQcxC6e7CbnQ6rM"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179032,
+      "name": "Weg hier raus",
+      "url": "https://open.spotify.com/track/0cSyRUIjVZh1sUIGBhWdWp"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [The Jazz Cafe: Coming Up ](https://open.spotify.com/playlist/37i9dQZF1DWW2Nx8OcoYCy)
 
-> The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">More info here.</a>
+> The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
 359 songs - 23 hr 46 min
 

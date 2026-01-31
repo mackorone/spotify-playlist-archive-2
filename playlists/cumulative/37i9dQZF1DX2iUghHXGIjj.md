@@ -2,9 +2,9 @@
 
 ### [Acoustic Blues](https://open.spotify.com/playlist/37i9dQZF1DX2iUghHXGIjj)
 
-> Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
+> Raw, emotional, and acoustic\. Cover: Tinsley Ellis
 
-182 songs - 11 hr 22 min
+183 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Thumb a Ride](https://open.spotify.com/track/16AOTn3W58LmpNA6QG19CE) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb a Ride](https://open.spotify.com/album/1GqL0hJ1WP4C3b52wqOUiF) | 2:53 | 2020-08-11 | 2024-04-13 |
 | [Thumb a Ride](https://open.spotify.com/track/6FFQ4nIyeXaDYQLb1zFitB) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb a Ride](https://open.spotify.com/album/5RFZCJtz9yiadjhRB5kaof) | 2:53 | 2020-08-11 |  |
 | [Time Brings About a Change](https://open.spotify.com/track/4CBTXGS8L2hvBeBU2cjy0Z) | [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [West Georgia Blues](https://open.spotify.com/album/6AtGzcv5yfg0aqqbmpo4HE) | 2:29 | 2024-08-16 |  |
+| [Too Broke](https://open.spotify.com/track/4OzazzaU3Jv3Sf2czAp2kr) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Labor Of Love](https://open.spotify.com/album/3tM2BhfXRTk19q2aD2fLhf) | 2:59 | 2026-01-30 |  |
 | [Turtle Beach](https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT) | [Eric Von Schmidt](https://open.spotify.com/artist/739hmk6VVud7fbPNmYL7pa) | [2nd Right, 3rd Row](https://open.spotify.com/album/54NcsyWIW9MeKUSqzHCrHW) | 3:53 | 2020-08-11 | 2023-02-18 |
 | [Under His Command](https://open.spotify.com/track/5rO1zJCRkUdypNagJ99Zj0) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/4gcXwCByBlccQEpSRMPPUH) | 3:15 | 2020-08-11 | 2022-05-07 |
 | [Walking Blues](https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Stefan Grossman](https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5) | [Country Blues Guitar](https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO) | 3:45 | 2020-08-11 |  |
@@ -187,7 +188,7 @@
 | [When the Levee Breaks](https://open.spotify.com/track/6uJKEvWD4zKL8PGwadftFv) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh), [Jean\-Jacques Milteau](https://open.spotify.com/artist/4ConspsaeqXp9c2pOc3M0n) | [Tiny Town](https://open.spotify.com/album/2oRSRMtrLn135wYYzdksnA) | 3:18 | 2020-08-11 |  |
 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 | 2021-07-02 |  |
 | [With My Maker I Am One](https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker's Guitar](https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG) | 3:41 | 2020-08-11 | 2024-04-19 |
-| [With My Maker I Am One](https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker’s Guitar](https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr) | 3:41 | 2020-08-11 |  |
+| [With My Maker I Am One](https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker’s Guitar](https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr) | 3:41 | 2020-08-11 | 2026-01-31 |
 | [You Don't Care for Me Enough to Cry](https://open.spotify.com/track/1tQGRq2WOBXjL3JWdWMONg) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [High on Tulsa Heat](https://open.spotify.com/album/1NvW80mVflSphrro6oWLuP) | 4:14 | 2020-08-11 |  |
 | [You'll All Get What's Coming To You](https://open.spotify.com/track/12u5zwcsb50LIhzpPxDI7q) | [Dan Arborise](https://open.spotify.com/artist/3tLrjXofiogOGcDpAUgM5z) | [Of Tide And Trail](https://open.spotify.com/album/5wUbHsRZkKTSq7a2QFoz6m) | 4:14 | 2020-08-11 |  |
 

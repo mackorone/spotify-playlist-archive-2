@@ -2,9 +2,9 @@
 
 ### [Country Sin Fronteras](https://open.spotify.com/playlist/37i9dQZF1DWXSO2P02emku)
 
-> Tomamos ruta desde el Noreste hasta el Viejo Oeste 🌵🤠\. Conjunto Brio Norteño en portada 📸
+> Tomamos ruta desde el Noreste hasta el Viejo Oeste 🌵🤠\. Cuitla Vega en portada 📸
 
-299 songs - 15 hr 58 min
+300 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Solita \(En Vivo\)](https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 3:35 | 2023-11-29 | 2024-12-05 |
 | [Solita \(En Vivo\)](https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Solita \(En Vivo\)](https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP) | 3:35 | 2022-11-30 | 2023-11-30 |
 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 | 2022-11-30 | 2023-11-30 |
-| [Solo Tú Me Haces Feliz](https://open.spotify.com/track/2Fzk246o9MjyxDZ4x5Ocdu) | [El Kombo Kolombia](https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu) | [Para Siempre](https://open.spotify.com/album/69zWxNgmb4OKvcwyO8dbwO) | 6:15 | 2025-11-21 |  |
+| [Solo Tú Me Haces Feliz](https://open.spotify.com/track/2Fzk246o9MjyxDZ4x5Ocdu) | [El Kombo Kolombia](https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu) | [Para Siempre](https://open.spotify.com/album/69zWxNgmb4OKvcwyO8dbwO) | 6:15 | 2025-11-21 | 2026-01-31 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2025-08-31 |  |
 | [SONRÍE <3](https://open.spotify.com/track/47sOMp1xXLBzGXOuUZPR4x) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 23'](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:21 | 2025-06-20 | 2025-09-01 |
 | [Soy El Ratón](https://open.spotify.com/track/69OrR4S2auEXzQ7oFh3A5H) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Corridos En Código](https://open.spotify.com/album/1FIGxgFVretC2yAZ1pHKWO) | 3:42 | 2022-11-30 | 2023-11-30 |
@@ -285,6 +285,7 @@
 | [Ven Porque Te Necesito](https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Internacionales Y Románticos](https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3) | 2:55 | 2025-06-20 | 2025-09-01 |
 | [Vete de Una Vez](https://open.spotify.com/track/16bfA9balGcxcqKaPgnyjL) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Vete de Una Vez](https://open.spotify.com/album/2DjS0IvBE7rXCjGzVL1dvO) | 3:08 | 2025-08-31 |  |
 | [VIAJA CONMIGO](https://open.spotify.com/track/2zr9cOdj6D8mZR25hdWnCa) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [NOS FUIMOS DE CASA](https://open.spotify.com/album/6lF8ObAEQlS32QC3A28uz4) | 3:21 | 2025-06-20 | 2025-09-01 |
+| [Vida Nueva](https://open.spotify.com/track/2IKakOmkYd4Z4L5eWzROv3) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Vida Nueva](https://open.spotify.com/album/3W0z6iu3rLi8BfOiUnNGFj) | 3:01 | 2026-01-30 |  |
 | [Vivir Sin Aire](https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:51 | 2025-06-20 | 2025-09-01 |
 | [Volver Al Futuro](https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Volver Al Futuro](https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6) | 3:24 | 2024-12-04 | 2025-06-20 |
 | [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 | 2025-08-31 |  |

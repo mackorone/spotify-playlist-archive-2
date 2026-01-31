@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "as days go by",
+        "url": "https://open.spotify.com/album/3atfeqQOGmFXZFo4KAcpSd"
+      },
+      "artists": [
+        {
+          "name": "sevenlies",
+          "url": "https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109090,
+      "name": "as days go by",
+      "url": "https://open.spotify.com/track/7Fn94YXx4ozLB8sDQnoKso"
+    },
+    {
+      "album": {
         "name": "As we draw dreams",
         "url": "https://open.spotify.com/album/49AcZ248GuZmHIqQS3Gaoz"
       },
@@ -3252,6 +3270,24 @@
       "duration_ms": 134794,
       "name": "don't leave me alone",
       "url": "https://open.spotify.com/track/4Nrh5ol6pUuRyma4oEam9Z"
+    },
+    {
+      "album": {
+        "name": "don't let it go",
+        "url": "https://open.spotify.com/album/4dNfStWifetJTMCIspzmqG"
+      },
+      "artists": [
+        {
+          "name": "oversly",
+          "url": "https://open.spotify.com/artist/0yW83Q0140sPnXTdk9gcyK"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "don't let it go",
+      "url": "https://open.spotify.com/track/4xsPLzqdMp7KBNQKwq1lsf"
     },
     {
       "album": {
@@ -6926,6 +6962,24 @@
       "duration_ms": 125571,
       "name": "infinite reverie",
       "url": "https://open.spotify.com/track/1vf3tNqI9t6kQJ62NwFVZF"
+    },
+    {
+      "album": {
+        "name": "inner peace",
+        "url": "https://open.spotify.com/album/23sY8ueloQpnF7wEqCT3EO"
+      },
+      "artists": [
+        {
+          "name": "furosha",
+          "url": "https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107755,
+      "name": "inner peace",
+      "url": "https://open.spotify.com/track/0NwJK3b9Trq3TLudqok3Ao"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Funky
 
-875 songs - 2 day 21 hr 1 min
+876 songs - 2 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Ciegas](https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 3:56 | 2022-02-25 | 2022-05-20 |
 | [A Dios Sea la Gloria](https://open.spotify.com/track/1UNIH3HEljFd6PsP8lViVD) | [Franco Figueroa](https://open.spotify.com/artist/3hFMWAFgMRV3IHZHvcKQ4V) | [Tu Casa Se Llena de Paz](https://open.spotify.com/album/5zedYQbSbBuAdGX4yj2uLQ) | 5:00 | 2022-06-17 | 2023-06-10 |
 | [A Donde Vaya](https://open.spotify.com/track/27cjwySKuJc7JNTGGsuRpS) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E) | [FIDEM](https://open.spotify.com/album/2OwBPAS14cnGr9LekDSgO8) | 3:04 | 2023-05-12 | 2023-05-18 |
-| [A Mi Lado](https://open.spotify.com/track/61X4KNHnFLsCDIYCuHRDcg) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Buenas y Malas](https://open.spotify.com/album/7nx04xYu5HzZsSIfNsk4W0) | 2:53 | 2025-05-30 |  |
+| [A Mi Lado](https://open.spotify.com/track/61X4KNHnFLsCDIYCuHRDcg) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Buenas y Malas](https://open.spotify.com/album/7nx04xYu5HzZsSIfNsk4W0) | 2:53 | 2025-05-30 | 2026-01-31 |
 | [A Pesar de Mí feat\. Un Corazón, Abby Valdez, Indiomar](https://open.spotify.com/track/7a5QwCpZFgOQpE6JW4F6aP) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Abby Valdez](https://open.spotify.com/artist/5Ilm5zQlb5LKsFpcJwR9es), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [UNO](https://open.spotify.com/album/1T9FB5R3oGSTVY4tK610IE) | 5:19 | 2022-02-25 | 2022-03-12 |
 | [A Puerta Cerrada](https://open.spotify.com/track/0HzcNtVVpTB3IdrzHhfrTO) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [A Puerta Cerrada](https://open.spotify.com/album/42XTtNruyb9nf3KAihCEG9) | 3:05 | 2022-07-22 | 2023-02-11 |
 | [A Quién Iremos](https://open.spotify.com/track/4CcH3kekkWh9KI2QfZqG3J) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [A Quién Iremos](https://open.spotify.com/album/06Pgluz92FVBeCOZg6mX74) | 4:58 | 2023-05-26 | 2024-06-22 |
@@ -345,6 +345,7 @@
 | [Fuego & Poder](https://open.spotify.com/track/4egnZWPE4EX5qo9TI7ywfi) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Fuego & Poder](https://open.spotify.com/album/1UQdxnXGIDgXsod0eNyIyG) | 10:40 | 2022-03-25 | 2022-07-09 |
 | [Fuente](https://open.spotify.com/track/77HM9474iN1caGgAFSLsWX) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Fuente](https://open.spotify.com/album/2KI68yyvIzkthZi19LeFlX) | 3:36 | 2022-08-05 | 2023-08-05 |
 | [Fuera de Línea](https://open.spotify.com/track/2u5LscGdSD1Tc17CZgF2tn) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Fuera de Línea](https://open.spotify.com/album/24Ttor45TBGdqlSjUa7Jhq) | 3:01 | 2024-07-05 | 2024-07-27 |
+| [Fuerzas Pa'](https://open.spotify.com/track/6SsspmS2fecS6kMKEN3uEP) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Fuerzas Pa'](https://open.spotify.com/album/4LIG7szX1bzJitlAlf0PUz) | 2:39 | 2026-01-30 |  |
 | [Full Color](https://open.spotify.com/track/0exfmFzo0b90QsYiu4Db6h) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Full Color](https://open.spotify.com/album/6rPs4EXBOmSGienNcx8rwa) | 2:23 | 2024-06-07 | 2025-02-15 |
 | [Futuro Contigo](https://open.spotify.com/track/6AfHQ4B8pUmIVCBrGAyJTO) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Futuro Contigo](https://open.spotify.com/album/4F1jlzvEXok5uEPkjorsCe) | 3:33 | 2022-05-06 | 2022-06-11 |
 | [FÓRMULA](https://open.spotify.com/track/3wSfjUAeL0wZDQRrRHMlKH) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [UPGRADE \(Level 2\)](https://open.spotify.com/album/1uyN8qnF6kkoAVS7YvZgY9) | 3:50 | 2025-08-01 | 2025-10-25 |

@@ -162,7 +162,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 143437,
       "name": "ANACONDA",
       "url": "https://open.spotify.com/track/0MjKtQwSbs7Wc5oUJl91Bx"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 217674,
       "name": "Greece 2000 - Max Styler Rework",
       "url": "https://open.spotify.com/track/1rO61T3jVwbokKW9F1CWBv"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 290625,
       "name": "Illithid's March",
       "url": "https://open.spotify.com/track/7vsrgJA2nB9x0jM0SlHX9D"
@@ -2247,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/1ylCng8k8SHjJ4sXRvchYq"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/28yki2yPVLHmaIHP0Mcan2"
+    },
+    {
+      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
       },
@@ -2589,6 +2607,28 @@
     },
     {
       "album": {
+        "name": "Midnight Dream",
+        "url": "https://open.spotify.com/album/4g80lVNeHvAx6bpQl5gP9w"
+      },
+      "artists": [
+        {
+          "name": "Candidate",
+          "url": "https://open.spotify.com/artist/2PS53GOqxGxAbQK8pvHziq"
+        },
+        {
+          "name": "Saigon (UK)",
+          "url": "https://open.spotify.com/artist/6DBv1veS1eKwA6o7nV65JU"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228492,
+      "name": "Midnight Dream",
+      "url": "https://open.spotify.com/track/4FONq8O3YTY983vTlnVMcU"
+    },
+    {
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/3JOzuf0BB48Qr0h6XXI0Fw"
       },
@@ -2604,7 +2644,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 173000,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4ljIiaRgzD42JdFZxZrPNv"
@@ -2880,6 +2920,28 @@
       "duration_ms": 206197,
       "name": "OK OK",
       "url": "https://open.spotify.com/track/3nPwkr8RE4VfhF80fyDVXJ"
+    },
+    {
+      "album": {
+        "name": "Omnivium Dictus",
+        "url": "https://open.spotify.com/album/2tgJB0lOKM7IoDb7IWnr2B"
+      },
+      "artists": [
+        {
+          "name": "Alexander Popov",
+          "url": "https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2"
+        },
+        {
+          "name": "Huvagen",
+          "url": "https://open.spotify.com/artist/3ezX0M9Qa3nPqVj6jjttHr"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230491,
+      "name": "Omnivium Dictus",
+      "url": "https://open.spotify.com/track/3mbnCGI9AZJ9Bamb18Sgte"
     },
     {
       "album": {
@@ -3902,6 +3964,24 @@
       "duration_ms": 231555,
       "name": "Tell Me You Don't",
       "url": "https://open.spotify.com/track/2dFpOpz7KP12uxhMskcFZL"
+    },
+    {
+      "album": {
+        "name": "The Echo",
+        "url": "https://open.spotify.com/album/5UyUbt1pZsHmqxaBWXJy0n"
+      },
+      "artists": [
+        {
+          "name": "Vareso",
+          "url": "https://open.spotify.com/artist/4eDBQ5X2VYYYb1IlAaGT5l"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269081,
+      "name": "The Echo",
+      "url": "https://open.spotify.com/track/5uuq38sbZBuNNwLNYxlQXD"
     },
     {
       "album": {

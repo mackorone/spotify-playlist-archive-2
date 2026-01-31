@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,127 likes - 95 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,375 likes - 95 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 94 | [Healing Mantra](https://open.spotify.com/track/4qNzM8Q6hYbm2bN0Q7lBOc) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Healing Mantra](https://open.spotify.com/album/2r0rAXvotCBnCcvAlI3LCG) | 3:44 |
 | 95 | [Ad Astra](https://open.spotify.com/track/0Xj3UaGsskZSPvzYowxMmd) | [Kayce Laine](https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb) | [Ad Astra](https://open.spotify.com/album/3sHmvrCn5ZTEMeCGnkQytk) | 4:20 |
 
-Snapshot ID: `AAAAAOQWGN9N5vQoGddeLN3EvEWcC1CL`
+Snapshot ID: `AAAAAGAiiF0Ng9IJFz4tZ8z+rCQ7H9Bp`

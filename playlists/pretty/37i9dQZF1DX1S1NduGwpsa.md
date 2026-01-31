@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Dominique Fils\-Aimé
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,384 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,413 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The River](https://open.spotify.com/track/6Wr8n9KkQgJtlY26IypHvX) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [The River](https://open.spotify.com/album/0R8av0tTQptVgkuB69M7Gu) | 4:53 |
 | 2 | [What You Waiting For](https://open.spotify.com/track/7M2DbRhTl0wHZzeHGVZvn6) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [What You Waiting For](https://open.spotify.com/album/2iKLXxZIGM4af8GBn2RC7K) | 3:53 |
 | 3 | [Lady Day & John Coltrane \- 12" Version](https://open.spotify.com/track/4iSi6VQl5LfU4m1PgW2cF4) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Lady Day & John Coltrane \(12" Version\)](https://open.spotify.com/album/2ucZvZAF7EA60Gq35WPN9A) | 6:29 |
-| 4 | [Track 2](https://open.spotify.com/track/2N1wJYMg2aQGH9WenUZcMq) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [Soul Kiss](https://open.spotify.com/track/2N1wJYMg2aQGH9WenUZcMq) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu), [Vincent Segal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [Nuit parisienne à La Havane](https://open.spotify.com/album/2SBHQRGi2rN8FysbZX5ijA) | 4:10 |
 | 5 | [One Wonders Why \- deluxe bonus track](https://open.spotify.com/track/1dhHKhItoJoBPe4ewDdTjj) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [West of Broadway \(Deluxe Edition\)](https://open.spotify.com/album/3Pu7oGvOi4CoTnSUQqLlrZ) | 3:23 |
 | 6 | [Moonshadow](https://open.spotify.com/track/42XjekxUZwW4zksq1af7YF) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Swedish Radio Symphony Orchestra](https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS) | [Moonshadow](https://open.spotify.com/album/03krhuEDwV1JmVUTI7SYHV) | 4:59 |
 | 7 | [My Very Own Ride](https://open.spotify.com/track/59ZAfJo35Lunuv56upvhCZ) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [My Very Own Ride](https://open.spotify.com/album/70qZS6hqpcc8kOFWkd22g0) | 8:51 |

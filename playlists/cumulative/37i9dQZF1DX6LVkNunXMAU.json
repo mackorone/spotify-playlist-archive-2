@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "indie folk latino de estaci\u00f3n. Foto: Diosque y Juliana Gattas",
-  "name": "folk & primavera",
+  "description": "indie folk latino de estaci\u00f3n. Foto: LAIA",
+  "name": "folk & verano",
   "tracks": [
     {
       "album": {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 180177,
       "name": "agridulce",
       "url": "https://open.spotify.com/track/35U9ETMmcj32t9fymTtB8E"
@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 192989,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
@@ -4370,7 +4370,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 151653,
       "name": "Nuestras Formas",
       "url": "https://open.spotify.com/track/3FsYdqpzwud7ZRjLRHi21S"
@@ -5685,6 +5685,28 @@
     },
     {
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/5t7iy0R6a1WbOKYn1OWBno"
+      },
+      "artists": [
+        {
+          "name": "Facundo Grand\u00edo",
+          "url": "https://open.spotify.com/artist/4Wkm55LBgLyt4MQh78QqJK"
+        },
+        {
+          "name": "Abraham G\u00dc",
+          "url": "https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152485,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/5VwuCUQvJszJiMCkRLuQ75"
+    },
+    {
+      "album": {
         "name": "Te Vi Llegar",
         "url": "https://open.spotify.com/album/2zfz1eDKYqFNonW0krxxPa"
       },
@@ -6456,6 +6478,46 @@
       "duration_ms": 202538,
       "name": "Vencimiento",
       "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
+    },
+    {
+      "album": {
+        "name": "Vendr\u00eda Bien",
+        "url": "https://open.spotify.com/album/4fdsVneCGTQvqaDD3bDRDt"
+      },
+      "artists": [
+        {
+          "name": "LAIA",
+          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
+        },
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201073,
+      "name": "Vendr\u00eda Bien",
+      "url": "https://open.spotify.com/track/52D0EPonWx8Ziuj0rJWwNE"
+    },
+    {
+      "album": {
+        "name": "verte mejor",
+        "url": "https://open.spotify.com/album/5T29CRzNVmjgQWkvDJcJQx"
+      },
+      "artists": [
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146337,
+      "name": "verte mejor",
+      "url": "https://open.spotify.com/track/4NGoMoDYIe5133L7QQrbyu"
     },
     {
       "album": {

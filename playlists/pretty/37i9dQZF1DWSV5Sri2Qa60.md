@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Whitelands
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,022 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,026 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Golden Daze](https://open.spotify.com/track/2VU9L06tLFb39gip8TuEbV) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [](https://open.spotify.com/album/null) | 3:07 |
+| 1 | [Golden Daze](https://open.spotify.com/track/2VU9L06tLFb39gip8TuEbV) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Sunlight Echoes](https://open.spotify.com/album/6yVCF80M7T1NZtLIjkVVkU) | 3:07 |
 | 2 | [I Was Just A Boy](https://open.spotify.com/track/11cuYyuMk4kkDyv00WepRo) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [It's a Hell of an Age](https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S) | 7:24 |
 | 3 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 |
 | 4 | [Break the Girl](https://open.spotify.com/track/1G6tftTrUHgg1g6cP3VkJ5) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Break the Girl](https://open.spotify.com/album/66ZkWrGgZzUsC7G1U7Z2gl) | 3:31 |

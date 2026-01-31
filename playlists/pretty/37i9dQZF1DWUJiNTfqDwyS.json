@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Frayle",
-  "num_followers": 388831,
+  "num_followers": 388872,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-01-05 19:53:01",
       "album": {
+        "name": "The Sickness",
+        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 258053,
+      "name": "Shout 2000",
+      "url": "https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA"
+    },
+    {
+      "added_at": "2026-01-05 19:53:01",
+      "album": {
         "name": "How It's Done",
         "url": "https://open.spotify.com/album/64ubOftES7s24r5sMpraAb"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 174374,
       "name": "How It's Done",
       "url": "https://open.spotify.com/track/5IXGxvewBsrfHtfym01YfL"
-    },
-    {
-      "added_at": "2026-01-05 19:53:01",
-      "album": {
-        "name": "The Sickness",
-        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 258053,
-      "name": "Shout 2000",
-      "url": "https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA"
     },
     {
       "added_at": "2026-01-05 19:53:01",

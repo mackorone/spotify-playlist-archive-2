@@ -966,7 +966,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 157097,
       "name": "Before You Broke My Heart",
       "url": "https://open.spotify.com/track/5t3HqfdKcA7igOrOx0JKJX"
@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "BETTER WITHOUT U",
+        "url": "https://open.spotify.com/album/1Ya82nKYd0gl7hPmWVO4Ya"
+      },
+      "artists": [
+        {
+          "name": "glittr",
+          "url": "https://open.spotify.com/artist/2a5e4bQS4bNov080O3zTFJ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "BETTER WITHOUT U",
+      "url": "https://open.spotify.com/track/41XOOuLdA2edZ94ujlxLvS"
+    },
+    {
+      "album": {
         "name": "Bicameral",
         "url": "https://open.spotify.com/album/1jBjVvxPhEnT8xG6Mjx79y"
       },
@@ -1210,6 +1228,28 @@
       "duration_ms": 293333,
       "name": "Blame You",
       "url": "https://open.spotify.com/track/1R9vl5It54QJAA07zC2o5j"
+    },
+    {
+      "album": {
+        "name": "bleed for your love",
+        "url": "https://open.spotify.com/album/6FQcywsqIcCsUSLWmNMdTT"
+      },
+      "artists": [
+        {
+          "name": "puulse",
+          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
+        },
+        {
+          "name": "Francis Skyes",
+          "url": "https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144651,
+      "name": "bleed for your love",
+      "url": "https://open.spotify.com/track/1E77lqCDhIyZqYfzyzgpDO"
     },
     {
       "album": {
@@ -1384,7 +1424,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 225000,
       "name": "bring your love (to the light)",
       "url": "https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq"
@@ -1424,7 +1464,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 198312,
       "name": "Broken",
       "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
@@ -3051,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "Echoes Of You",
+        "url": "https://open.spotify.com/album/7CbfLD1JjsM8F1alovNirc"
+      },
+      "artists": [
+        {
+          "name": "Diielex",
+          "url": "https://open.spotify.com/artist/18LRCYOF09zhrI77Us1y9P"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221692,
+      "name": "Echoes Of You",
+      "url": "https://open.spotify.com/track/4XZkyLMgMYtnIxObLlfAuZ"
+    },
+    {
+      "album": {
         "name": "Electric High",
         "url": "https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO"
       },
@@ -3998,7 +4056,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 177147,
       "name": "gone for life",
       "url": "https://open.spotify.com/track/5eYt43KKoozTGthKRNQ6JW"
@@ -5004,7 +5062,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 140664,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/0L49W8AfLAUACpQyLh0Vtf"
@@ -5226,6 +5284,28 @@
       "duration_ms": 172444,
       "name": "i have zero care",
       "url": "https://open.spotify.com/track/7BZP33GGS34GmUZQrPlivk"
+    },
+    {
+      "album": {
+        "name": "I Hear No More",
+        "url": "https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo"
+      },
+      "artists": [
+        {
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
+        },
+        {
+          "name": "Gino Ingrosso",
+          "url": "https://open.spotify.com/artist/4hXieI14EhBCUy3h4y4hNu"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167792,
+      "name": "I Hear No More",
+      "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
     },
     {
       "album": {
@@ -5540,6 +5620,24 @@
       "duration_ms": 226621,
       "name": "In And Out Of Love",
       "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/6Z1OHC8fQPRnXlsw3VNaaY"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3qHPMaazhsySnfGlWIB45Y"
     },
     {
       "album": {
@@ -7402,6 +7500,24 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "album": {
+        "name": "EP2: Electronik",
+        "url": "https://open.spotify.com/album/21FU9CXjkIGUpLGFbiwWeM"
+      },
+      "artists": [
+        {
+          "name": "Will Sass",
+          "url": "https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176005,
+      "name": "Miss Me When I'm Gone",
+      "url": "https://open.spotify.com/track/4p3w6iZ2GtxGl0m4sUMihv"
     },
     {
       "album": {
@@ -13028,7 +13144,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 343384,
       "name": "\u0f6c\u0277\u053e\u314d \ua27a\u10da\u0f3d\u0f3c\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2\u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u0627\u2981\u207e\u207d\u0619\u06dc\u0616\u0621\u061e\u0ae3\u0fc6\u02dc\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2",
       "url": "https://open.spotify.com/track/3FzWdB7uUfmPsgmCdQhNEU"

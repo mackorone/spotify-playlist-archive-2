@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 茉ひる Mahiru
 
-3,585 songs - 9 day 12 hr 32 min
+3,586 songs - 9 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2704,7 +2704,7 @@
 | [ユリイカ](https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ユリイカ](https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0) | 3:45 | 2024-04-23 | 2025-02-05 |
 | [ユートピア](https://open.spotify.com/track/3ftvzizngsBG6wkmkLbcZr) | [Nao Kodama](https://open.spotify.com/artist/1W2RWaK40Bo6xTSgkPAPNL), [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [ユートピア](https://open.spotify.com/album/0G3c1t1jWSNVJ6y1eZEIoz) | 2:56 | 2025-11-04 | 2025-11-12 |
 | [ユーフォーを見にいこう](https://open.spotify.com/track/3M4zaCSxhUx6Ru3fvdOY1n) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [ユーフォーを見にいこう](https://open.spotify.com/album/06F3cSHA1gV6zjeA9PUaxB) | 3:35 | 2025-11-25 | 2026-01-21 |
-| [ヨロヨロ](https://open.spotify.com/track/5hymZMLQWDxDFQM4p1zOEW) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ヨロヨロ](https://open.spotify.com/album/7KGimry3yj96A6Jd4z4eNk) | 2:35 | 2025-05-21 |  |
+| [ヨロヨロ](https://open.spotify.com/track/5hymZMLQWDxDFQM4p1zOEW) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ヨロヨロ](https://open.spotify.com/album/7KGimry3yj96A6Jd4z4eNk) | 2:35 | 2025-05-21 | 2026-01-31 |
 | [ライバー](https://open.spotify.com/track/0S5OgAipfqjXvfSHuESs8L) | [日向文](https://open.spotify.com/artist/6aWI8ZZ9CCyUFpayXQPoR2) | [ライバー](https://open.spotify.com/album/41522PDs5TFrKinuJ4BRNV) | 4:23 | 2022-06-07 | 2022-06-15 |
 | [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/0f1tDeWjRuTAMqxNQu6ofn) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ライフ・イズ・ビューティフォー](https://open.spotify.com/album/4kKFEYFPzJ4xPCNEsFn33d) | 4:26 | 2022-05-29 | 2022-08-04 |
 | [ライブ終わりに](https://open.spotify.com/track/25CT9v6urtrTRZjr1WOV0G) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [ライブ終わりに](https://open.spotify.com/album/2pywOWndfGqeFy7zYBdhO6) | 4:31 | 2023-08-08 | 2023-08-10 |
@@ -2927,6 +2927,7 @@
 | [埋葬](https://open.spotify.com/track/0OOb0m0zdCZRl0suTEmMgV) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [ガイダンス](https://open.spotify.com/album/6r7w1z2VJ8iVjFFqdMPPLE) | 3:31 | 2022-08-09 | 2022-08-17 |
 | [声](https://open.spotify.com/track/2aO4zJhoAjAxUu2tV441x3) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [声](https://open.spotify.com/album/4zVxHvMo5qSFnJbMBasGlR) | 5:17 | 2023-11-28 | 2023-12-13 |
 | [声のカケラ](https://open.spotify.com/track/2EECO3bJL0t5ebyKPD6ydV) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [声のカケラ](https://open.spotify.com/album/6tsAkt96h0jDxzvczCriw1) | 4:27 | 2024-01-09 | 2024-01-24 |
+| [声の軌跡](https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj) | [Soala](https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer) | [声の軌跡](https://open.spotify.com/album/4n2Fbv9J5fqFbLnjBt5PTi) | 3:19 | 2026-01-27 |  |
 | [声よ](https://open.spotify.com/track/5AFWDMRc4mviyw9aqNm8fu) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [声よ](https://open.spotify.com/album/4t7FG8EKAxprkrn8q5zcXX) | 4:22 | 2022-05-31 | 2022-07-29 |
 | [声命 \- Seimei](https://open.spotify.com/track/2dcQ1Z2RkZOcZ5XrHr1kF8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [声命 \- Seimei](https://open.spotify.com/album/6292rqCtVoA1zudIcunMEA) | 2:57 | 2025-05-27 | 2025-12-03 |
 | [変わらないもの \- 「時をかける少女」より](https://open.spotify.com/track/6iPkaq0b2Tr7zJDbtL7iaH) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [変わらないもの \(「時をかける少女」より\)](https://open.spotify.com/album/4iTNKoTCtyEctBDruQ2bgF) | 4:55 | 2023-07-13 | 2023-07-19 |

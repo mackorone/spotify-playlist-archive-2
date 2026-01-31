@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-363 songs - 1 day 2 hr 17 min
+364 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [HUM GHAR SAJAN](https://open.spotify.com/track/2uXA3xK2NKjp6Jn5cUTUwC) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [COCHIN MOON](https://open.spotify.com/album/4Mh0ihWBshB3fIGgUmTf3E) | 8:50 | 2025-03-21 | 2025-05-01 |
 | [Ice Copy](https://open.spotify.com/track/4YleYbTBE8XmKs5fhuu06c) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 2:55 | 2022-12-30 | 2025-03-20 |
 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 | 2022-01-07 |  |
-| [In The Forest of Syrinx](https://open.spotify.com/track/7MsE9rH9EZH8AlocDpHQ0N) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Onnen Bock](https://open.spotify.com/artist/5asDcrPfBpJDJNe1ocbjdf), [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [MOON GARDEN](https://open.spotify.com/album/0j6HWiO4nQi5vR866jGjk5) | 9:30 | 2025-02-09 |  |
+| [In The Forest of Syrinx](https://open.spotify.com/track/7MsE9rH9EZH8AlocDpHQ0N) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Onnen Bock](https://open.spotify.com/artist/5asDcrPfBpJDJNe1ocbjdf), [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [MOON GARDEN](https://open.spotify.com/album/0j6HWiO4nQi5vR866jGjk5) | 9:30 | 2025-02-09 | 2026-01-31 |
 | [In the Wind \- Moshimoss Rework](https://open.spotify.com/track/1UVQ4KZFm95FEjzgwZaQ6K) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [In the Wind \(Moshimoss Rework\)](https://open.spotify.com/album/1bf1hHXUcWG0jYe6Xzli1u) | 6:58 | 2022-12-20 |  |
 | [Inertia](https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Inertia](https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm) | 2:48 | 2025-03-21 |  |
 | [Infinitesimal](https://open.spotify.com/track/7eky2y76qSmzSBvCmguJ7h) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Infinitesimal](https://open.spotify.com/album/5HRjh0Oh2GDYaPaDbk5yFJ) | 3:12 | 2022-12-30 | 2023-08-19 |
@@ -152,7 +152,7 @@
 | [Kaiketu](https://open.spotify.com/track/40QroEBlHB5yyQQZdOECdh) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Konomama](https://open.spotify.com/album/0Xp5gDINnEjsj92TPIcaMH) | 3:15 | 2022-02-22 | 2023-07-07 |
 | [Kansai](https://open.spotify.com/track/1lRmIEvPzmp1z2MB1Y2jzB) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 3:38 | 2022-01-07 |  |
 | [Kehai](https://open.spotify.com/track/559o6kHi6IaClk0wp7rUSP) | [Norio](https://open.spotify.com/artist/3I9p8Q35lqt1NmCx2r0L9S), [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [The Monster Which Makes Dawn](https://open.spotify.com/album/3uL0XVMCKaC7g5szl8M83A) | 5:07 | 2025-12-02 |  |
-| [Kernel](https://open.spotify.com/track/58F27RlxevRB7p4e1Bm5TK) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Kernel](https://open.spotify.com/album/6eAyylPBXwxNOYr7ZbtKCq) | 1:56 | 2024-12-14 |  |
+| [Kernel](https://open.spotify.com/track/58F27RlxevRB7p4e1Bm5TK) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Kernel](https://open.spotify.com/album/6eAyylPBXwxNOYr7ZbtKCq) | 1:56 | 2024-12-14 | 2026-01-31 |
 | [Kibou](https://open.spotify.com/track/2XJeHGe5YMCJgfKbsfCONV) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Kibou](https://open.spotify.com/album/0ohwM6AWnYHFfVeltMAiCq) | 3:32 | 2023-01-13 | 2025-03-21 |
 | [Kiteki](https://open.spotify.com/track/01Vg2gmX03mM3ku0MD9FKC) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ) | 3:58 | 2023-07-06 | 2025-01-25 |
 | [Kiteki](https://open.spotify.com/track/5ElIBhljMv506V5OZChLbW) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/5PxpE5M4KNm4pl1EKbsCjc) | 3:58 | 2023-10-13 | 2024-04-19 |
@@ -165,7 +165,7 @@
 | [La brise oubliée](https://open.spotify.com/track/0HJ6XZxSibaTLpqJFo8Pj0) | [attic](https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku) | [La brise oubliée](https://open.spotify.com/album/5Iik8YsocayeSiVJRuJLdA) | 2:26 | 2025-07-03 | 2025-08-07 |
 | [La Cathédrale Engloutie](https://open.spotify.com/track/0GiSKGYCdQtGXDSCmSxuVb) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 4:04 | 2022-01-07 | 2022-12-21 |
 | [Lachrymation](https://open.spotify.com/track/5SCIlWl5oI8QmSgF9j5mjr) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Lachrymation](https://open.spotify.com/album/4av2tDxEG9t4rlssx6XJUT) | 3:59 | 2022-01-07 | 2025-03-20 |
-| [Layer](https://open.spotify.com/track/7CxY2kPVqFLmwePf8YfGZW) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Layer](https://open.spotify.com/album/60lpyOQBN0qHUDHuP2IB9F) | 3:12 | 2025-05-16 | 2026-01-30 |
+| [Layer](https://open.spotify.com/track/7CxY2kPVqFLmwePf8YfGZW) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Layer](https://open.spotify.com/album/60lpyOQBN0qHUDHuP2IB9F) | 3:12 | 2025-05-16 |  |
 | [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 | 2023-10-13 | 2024-03-08 |
 | [les cinquième alternées](https://open.spotify.com/track/0QPPyF3YNaFcsAgr3TXm68) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [northern wind](https://open.spotify.com/album/4VtWQBNxhE2xkgiaznyrgD) | 2:59 | 2025-03-21 |  |
 | [Liberty](https://open.spotify.com/track/2pv4n0WhR3f0IayyG0lc4z) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Envision](https://open.spotify.com/album/2lnwd16ApEAAJ0GNqH7SNq) | 2:39 | 2022-01-07 | 2025-03-30 |
@@ -194,6 +194,7 @@
 | [Mirrors of Still Light](https://open.spotify.com/track/3SWw83rPPkoTA2Vkg7GSiH) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Mirrors of Still Light](https://open.spotify.com/album/5yFNswrkN1lATKr3USIrW2) | 3:36 | 2025-08-20 | 2025-09-03 |
 | [Moon](https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Moon](https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt) | 2:43 | 2023-01-20 | 2025-04-17 |
 | [Moon Dance in Tokyo](https://open.spotify.com/track/75gDBaEbluCQhtnEM8diCY) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Moon Dance in Tokyo](https://open.spotify.com/album/07BA8mB6Q7tC9uJ5ySSTPr) | 2:34 | 2026-01-23 |  |
+| [morning dew](https://open.spotify.com/track/7ESmIsEJMeZryYQEG4JUky) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [morning dew](https://open.spotify.com/album/2pCZEibDB6sYdHPbAmvHzl) | 2:08 | 2026-01-23 |  |
 | [Motionless Wings](https://open.spotify.com/track/6l7YuElJh8Ru2yWNnr5iHd) | [Stephen Vitiello](https://open.spotify.com/artist/6UmTNwMWHnVgSA49K7aY8Y) | [Tribute to Ryuichi Sakamoto "Micro Ambient Music" Vol\. 4](https://open.spotify.com/album/1P84OiiCx9pqvAN0RSNX0o) | 6:33 | 2024-11-30 | 2024-12-15 |
 | [Mousugu](https://open.spotify.com/track/7h0ifEkfBvKTEA4WgapMQ1) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Mousugu](https://open.spotify.com/album/0QWp7B1kzqGqDAsDJOJaTe) | 3:12 | 2022-12-30 | 2023-08-19 |
 | [Moving layer](https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Nostalghia](https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj) | 7:01 | 2022-12-30 | 2026-01-06 |

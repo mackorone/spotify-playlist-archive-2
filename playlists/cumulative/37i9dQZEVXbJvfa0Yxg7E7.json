@@ -32020,7 +32020,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 177306,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/2qLYadTIWJTXJuS8sTt7m8"
@@ -41778,6 +41778,24 @@
       "duration_ms": 191940,
       "name": "Strawberry Dream",
       "url": "https://open.spotify.com/track/4IvZvCRIZ38fFL5kAPjeOB"
+    },
+    {
+      "album": {
+        "name": "Streets of Minneapolis",
+        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275831,
+      "name": "Streets of Minneapolis",
+      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
     },
     {
       "album": {

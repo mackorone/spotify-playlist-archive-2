@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-457 songs - 1 day 3 hr 16 min
+458 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,13 +216,14 @@
 | [Kiss & Ride \- Le Hutin Remix](https://open.spotify.com/track/40Hkli6oicZBWrtTqWGcmN) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew), [Le Hutin](https://open.spotify.com/artist/3mO2VqpK4XlqvRGfTbg2k8) | [Channel Island \(Fluid Funk Remixes\)](https://open.spotify.com/album/5bQJS9IPCWD0hajzfb8jCA) | 4:01 | 2025-05-19 |  |
 | [Know It All](https://open.spotify.com/track/05maKFIe6w8GMjfxK2VsU1) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Know It All](https://open.spotify.com/album/4Aqu1U1n9e61woAX77t1O9) | 2:48 | 2022-09-09 | 2022-10-15 |
 | [Laredo](https://open.spotify.com/track/6uZtDv3kmFYbB6iiOS1GiR) | [Meeka Kates](https://open.spotify.com/artist/24XZ9joYiC4hzMYXihqgc1) | [Laredo](https://open.spotify.com/album/2GZ2wiEkYIc4uUtkFk0jHE) | 4:12 | 2022-09-09 | 2024-06-21 |
-| [Lena](https://open.spotify.com/track/2ma6FYKV0rIDhOhiquNdB6) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Lena](https://open.spotify.com/album/3aGQNTgUSPn8bu4XqHMBAM) | 3:25 | 2024-07-04 |  |
+| [Lena](https://open.spotify.com/track/2ma6FYKV0rIDhOhiquNdB6) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Lena](https://open.spotify.com/album/3aGQNTgUSPn8bu4XqHMBAM) | 3:25 | 2024-07-04 | 2026-01-31 |
 | [Let No Man Put Asunder \- Dam Swindle Remix](https://open.spotify.com/track/5nyWYE1Ld3Gr3xbFUMIbVP) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Dam Swindle x Salsoul Reworks Vol\. 1](https://open.spotify.com/album/1axQNdwJ7JJ4yjmQ4ryPzf) | 7:34 | 2022-09-09 | 2022-10-15 |
 | [Lifeforce \- Original Mix](https://open.spotify.com/track/04s9mTn4Abygp7XjRqgsVZ) | [Luis Radio](https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS) | [Lifeforce](https://open.spotify.com/album/5Nve6iPu3tK1Qvgg80z1qo) | 5:45 | 2025-05-19 |  |
 | [Lighthouse](https://open.spotify.com/track/46788befoNH7QS8zLZbfJT) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Lighthouse](https://open.spotify.com/album/2Xl05sxgAvqCXhQo4A1SQ4) | 3:40 | 2024-02-08 | 2025-11-14 |
 | [Lights On](https://open.spotify.com/track/54YpYbMmFgKqGJ2Zhibeph) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [evi](https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC) | [Stirring The Soul](https://open.spotify.com/album/4nwq1JkCyN6NgIALwd9Jni) | 2:13 | 2025-03-27 |  |
 | [Like That](https://open.spotify.com/track/63McwMFvGQQR6VjeB1P3n6) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5) | [Like That](https://open.spotify.com/album/4FFmc9mfb3rIxpeYLMQyLf) | 2:22 | 2022-09-09 | 2023-07-08 |
 | [Livin' It Up \- Moods Remix](https://open.spotify.com/track/74gHxVSEVIhYm5eboNBTiz) | [EASTLAND PARK](https://open.spotify.com/artist/2naji4kbOcOdFil7HLc1HP), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Livin' It Up \(Moods Remix\)](https://open.spotify.com/album/4bCXM8Ns1tylwHm5MYwqnq) | 3:20 | 2024-11-21 |  |
+| [Lookalike](https://open.spotify.com/track/1MSSCIOpcASLtHvb2idZIo) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Lookalike](https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr) | 2:34 | 2026-01-30 |  |
 | [Lose My Luck](https://open.spotify.com/track/1RtS7PJNB3iSlZDy4LBpzW) | [Dragonfruit](https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy), [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8) | [Super\-Sonic Family Vol\. 2 \- Part 2](https://open.spotify.com/album/1IBVTjdpwq7zVp427hgTAK) | 3:35 | 2023-09-14 | 2025-05-20 |
 | [Losing My Perfection](https://open.spotify.com/track/2Vfs8GaDfVbdQNapLdgPsQ) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Losing my Perfection](https://open.spotify.com/album/69FcvFKgFpuerRpV4VEoUT) | 3:02 | 2023-11-30 | 2024-04-19 |
 | [Losing My Perfection](https://open.spotify.com/track/5Fmi8gEdTDTARDnxdwiY7v) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [FLIPSIDE](https://open.spotify.com/album/3lcndc4IH5pbNB1X8OyhV9) | 3:02 | 2023-08-30 | 2023-12-05 |

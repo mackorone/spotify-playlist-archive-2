@@ -1,6 +1,6 @@
 {
   "description": "Your weekly dose of new dance. Cover: John Summit",
-  "num_followers": 148409,
+  "num_followers": 148408,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,34 @@
       "duration_ms": 169308,
       "name": "Loose Pt. 3",
       "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
+    },
+    {
+      "added_at": "2026-01-29 13:00:03",
+      "album": {
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/2PCSMP8JYKfYvBv2AZ4SaN"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Halle Abadi",
+          "url": "https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW"
+        }
+      ],
+      "duration_ms": 162750,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3"
     },
     {
       "added_at": "2026-01-29 13:00:03",
@@ -363,8 +391,8 @@
     {
       "added_at": "2026-01-29 13:00:03",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/5FH0PvCQCH7I2NOOZniiuW"
       },
       "artists": [
         {
@@ -372,8 +400,8 @@
           "url": "https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 156000,
+      "name": "More Than Friends",
       "url": "https://open.spotify.com/track/58s4I1Gm80UBlbtaYky8Ai"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 
 > Gentle, soft Ambient music for focus and concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,400 likes - 160 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,435 likes - 160 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 | 159 | [Shades of Violet](https://open.spotify.com/track/60Mh1v6rQ12JI5j6S0Vw02) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Shades of Violet](https://open.spotify.com/album/3FdxgPaufLXfQKMlwsiC6X) | 3:07 |
 | 160 | [Celestial Silence](https://open.spotify.com/track/2OWiBK2O9955a9eVM2SeZJ) | [Adirenne Lushara](https://open.spotify.com/artist/4Bq0flYhY0O3Tl8qMZsaO4) | [Celestial Silence](https://open.spotify.com/album/2nFYyCovKTvAkft9F9Gbwm) | 3:14 |
 
-Snapshot ID: `AAAAAM25+zGbOUbPF2FE7jrPlR2Dfn52`
+Snapshot ID: `AAAAAPq5xHHqrlGdcdOV1aSEng119UGk`

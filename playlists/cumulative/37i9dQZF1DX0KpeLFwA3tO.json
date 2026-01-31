@@ -11527,8 +11527,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Corporate Pudding",
+        "url": "https://open.spotify.com/album/5nW0M9ugNbNygM09L8oMj6"
       },
       "artists": [
         {
@@ -18917,8 +18917,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Lines Crossed",
+        "url": "https://open.spotify.com/album/2Wm8QNDrNnLzUsgAuUuUyE"
       },
       "artists": [
         {
@@ -24831,6 +24831,24 @@
     },
     {
       "album": {
+        "name": "Feijoada Acidente? - Internacional",
+        "url": "https://open.spotify.com/album/32EONognSZccHzUhcLDwUn"
+      },
+      "artists": [
+        {
+          "name": "Ratos De Por\u00e3o",
+          "url": "https://open.spotify.com/artist/3d2xlrGC9JGD7ycsf0e8mF"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104026,
+      "name": "Insight (Dead Kennedys)",
+      "url": "https://open.spotify.com/track/5abpkx0M7ug15fPzqea8ge"
+    },
+    {
+      "album": {
         "name": "INSTINCT",
         "url": "https://open.spotify.com/album/6r42u0EENAqaWFOtVe8m5a"
       },
@@ -28539,8 +28557,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "WORRIED SICK (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7jz5xZFFzL1kc5nBw1wpPL"
       },
       "artists": [
         {
@@ -34398,6 +34416,24 @@
       "duration_ms": 192603,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/02bj1hZGIwwTYG6z1bJG1M"
+    },
+    {
+      "album": {
+        "name": "Obscurantista",
+        "url": "https://open.spotify.com/album/7xpDdB6TBiGI0bVX9sUpFe"
+      },
+      "artists": [
+        {
+          "name": "Matanza Inc",
+          "url": "https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191464,
+      "name": "Obscurantista",
+      "url": "https://open.spotify.com/track/7MJhOpPufCPkNJh1utzZXU"
     },
     {
       "album": {
@@ -49768,42 +49804,6 @@
       "duration_ms": 202285,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/3kMn8LV1QPBfZXZ0TTS0Pn"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Ratos De Por\u00e3o",
-          "url": "https://open.spotify.com/artist/3d2xlrGC9JGD7ycsf0e8mF"
-        }
-      ],
-      "date_added": "2026-01-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 18",
-      "url": "https://open.spotify.com/track/5abpkx0M7ug15fPzqea8ge"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Matanza Inc",
-          "url": "https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk"
-        }
-      ],
-      "date_added": "2026-01-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/7MJhOpPufCPkNJh1utzZXU"
     },
     {
       "album": {

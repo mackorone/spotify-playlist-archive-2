@@ -1383,6 +1383,28 @@
     },
     {
       "album": {
+        "name": "Fancy Store (From \"Atti Culture\")",
+        "url": "https://open.spotify.com/album/61FdiV3mqRtVRAMyEQa94o"
+      },
+      "artists": [
+        {
+          "name": "ofRO",
+          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
+        },
+        {
+          "name": "Kelithee",
+          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197367,
+      "name": "Fancy Store - From \"Atti Culture\"",
+      "url": "https://open.spotify.com/track/4DDZ9oM1mv7hiCuxToTGwj"
+    },
+    {
+      "album": {
         "name": "FORREAL",
         "url": "https://open.spotify.com/album/2P5TpRumi3AvoIAMten2NO"
       },
@@ -4946,20 +4968,20 @@
       },
       "artists": [
         {
+          "name": "Rapkid 02",
+          "url": "https://open.spotify.com/artist/3ofhK23vIRn61FSQvP4TJA"
+        },
+        {
           "name": "Md Sheik",
           "url": "https://open.spotify.com/artist/4VfIJZ04vNbMGRVKPmipuA"
         },
         {
-          "name": "D Thala",
-          "url": "https://open.spotify.com/artist/6Jffwk4n6A5EPkZZoD5rdD"
+          "name": "Bala D Thala",
+          "url": "https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV"
         },
         {
           "name": "Mc Azy",
           "url": "https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G"
-        },
-        {
-          "name": "Rapkid 02",
-          "url": "https://open.spotify.com/artist/3ofhK23vIRn61FSQvP4TJA"
         }
       ],
       "date_added": "2026-01-30",

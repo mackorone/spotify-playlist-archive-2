@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Ozuna & Be\u00e9le",
+  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Juan Duque & Hamilton",
   "name": "Afro Ritmo",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 155246,
       "name": "24",
       "url": "https://open.spotify.com/track/2ZJtRsJjRgzTAat3bStWx5"
@@ -877,6 +877,28 @@
     },
     {
       "album": {
+        "name": "Botecito",
+        "url": "https://open.spotify.com/album/7HHY5Rr3nTYhQrmXBt1uTH"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Botecito",
+      "url": "https://open.spotify.com/track/5nhB1ijVzD2PKCkPAHP8Qy"
+    },
+    {
+      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/0yIBWDZAjdoFcCjiY62dI2"
       },
@@ -1229,6 +1251,32 @@
     },
     {
       "album": {
+        "name": "COMO VOS | THIS IS CURREN",
+        "url": "https://open.spotify.com/album/2xxdAmFKjL7lJhk9HazSAX"
+      },
+      "artists": [
+        {
+          "name": "Curren",
+          "url": "https://open.spotify.com/artist/4C4qBYVnF5J61XmJWjZkjG"
+        },
+        {
+          "name": "Slay Fox",
+          "url": "https://open.spotify.com/artist/32SEdfMH0e32Gr4Ztnn27j"
+        },
+        {
+          "name": "Davie Reel",
+          "url": "https://open.spotify.com/artist/5G9AJMoxKbw9et8XwmixiT"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172421,
+      "name": "COMO VOS | THIS IS CURREN",
+      "url": "https://open.spotify.com/track/2XBatvKfsrJsNrW8DnIlJr"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
       },
@@ -1402,7 +1450,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 262219,
       "name": "Dame Un Break - Remix",
       "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
@@ -3784,6 +3832,28 @@
       "duration_ms": 206000,
       "name": "MOSLADO",
       "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
+    },
+    {
+      "album": {
+        "name": "Moviendo El Piso",
+        "url": "https://open.spotify.com/album/0cdthXsqV8uzKH0Z3g3NJP"
+      },
+      "artists": [
+        {
+          "name": "Neomai",
+          "url": "https://open.spotify.com/artist/0EMCLd5tzoPP35uUw23Pxz"
+        },
+        {
+          "name": "Rodezel",
+          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128362,
+      "name": "Moviendo El Piso",
+      "url": "https://open.spotify.com/track/6Hl8NeXRjthQl4BTEkf2a5"
     },
     {
       "album": {
@@ -6364,6 +6434,24 @@
       "duration_ms": 165000,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
+    },
+    {
+      "album": {
+        "name": "S3NSACI\u00f3N",
+        "url": "https://open.spotify.com/album/6dZO2Kz4TrmHCiNfUiSyPV"
+      },
+      "artists": [
+        {
+          "name": "OM.VI",
+          "url": "https://open.spotify.com/artist/0Oildy2gToPHUakKg0YSwh"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134737,
+      "name": "Tu Boquita",
+      "url": "https://open.spotify.com/track/4evJGqErZtJNbL1WBiTVVG"
     },
     {
       "album": {

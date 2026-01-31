@@ -2,7 +2,7 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Feanna 黃淑蔓
+> 感受女聲力量。Cover: sica
 
 627 songs - 1 day 13 hr 19 min
 

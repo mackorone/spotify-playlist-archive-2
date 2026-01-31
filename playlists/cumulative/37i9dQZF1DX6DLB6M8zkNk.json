@@ -709,6 +709,32 @@
     },
     {
       "album": {
+        "name": "End of Beginning (Arr. For String Quartet by Maya Magub)",
+        "url": "https://open.spotify.com/album/1f7MYnp0QgEFGKKn5Hpbvd"
+      },
+      "artists": [
+        {
+          "name": "Joe Keery",
+          "url": "https://open.spotify.com/artist/3dEydEkjc6jpEA1jz0jrP7"
+        },
+        {
+          "name": "RmX Quartet",
+          "url": "https://open.spotify.com/artist/1BmTCGXIPn3IYeqNy1ZbiI"
+        },
+        {
+          "name": "Maya Magub",
+          "url": "https://open.spotify.com/artist/1oGX73DWQVzJ5BcNDd9hG2"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163085,
+      "name": "End of Beginning (Arr. For String Quartet by Maya Magub)",
+      "url": "https://open.spotify.com/track/6dEjFOK0FQzoZoCCXDhSaT"
+    },
+    {
+      "album": {
         "name": "Ever After: A Cinderella Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/53kbJAY9G04FCMqjlZorqc"
       },

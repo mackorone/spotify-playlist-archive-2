@@ -456,7 +456,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 449715,
       "name": "Asolee - Atjazz Remix",
       "url": "https://open.spotify.com/track/1IPcQd0e2oRuPMiwPd6Ft6"
@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/7aXyqdNlaSsdpxzmzIAkcj"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382380,
+      "name": "Better - Deeper Mix",
+      "url": "https://open.spotify.com/track/2QxzrvlkCCtuPLYOpYKbyD"
+    },
+    {
+      "album": {
         "name": "Better Do It Right",
         "url": "https://open.spotify.com/album/7rjC1bfZ0JfymIa4arsV6Q"
       },
@@ -870,7 +888,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 385923,
       "name": "Blue Skies - Fouk Remix",
       "url": "https://open.spotify.com/track/40mSrQgcwESMd3GruUKAHg"
@@ -1030,7 +1048,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 284867,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/0GJanAa6TzCAijI46HZZFR"
@@ -2480,6 +2498,24 @@
       "duration_ms": 430590,
       "name": "Dust in the system : Tokyo dub plate",
       "url": "https://open.spotify.com/track/6O29wLsFp4qunUX2k5MdIT"
+    },
+    {
+      "album": {
+        "name": "Drowning In Your Love EP",
+        "url": "https://open.spotify.com/album/05GG0WTYXUI1oyindW7ZsD"
+      },
+      "artists": [
+        {
+          "name": "Soul Clap",
+          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282187,
+      "name": "EFUNK Anthem - The Funk Mix (Radio Edit)",
+      "url": "https://open.spotify.com/track/0Y6k5sSmga1qIyQDBl3eTW"
     },
     {
       "album": {
@@ -6190,7 +6226,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 339525,
       "name": "Men's Club",
       "url": "https://open.spotify.com/track/5nm2Wie4orilRzzjlicwfC"
@@ -6408,7 +6444,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 264500,
       "name": "Monie",
       "url": "https://open.spotify.com/track/5iAtcHwZ9y3WJIR0AKR1RI"
@@ -9764,7 +9800,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 394042,
       "name": "That Fool Ain't Me - Ray Mang Remix",
       "url": "https://open.spotify.com/track/5JwwJGmvs5iJvGSpWY9YbP"
@@ -9994,6 +10030,24 @@
       "duration_ms": 416000,
       "name": "The Grinder",
       "url": "https://open.spotify.com/track/4qaMfI2sVxlxKgRXF9oQsK"
+    },
+    {
+      "album": {
+        "name": "The Hertz",
+        "url": "https://open.spotify.com/album/0c0ewLJ1baWKDHJ3SoAjlK"
+      },
+      "artists": [
+        {
+          "name": "6th Borough Project",
+          "url": "https://open.spotify.com/artist/77EHTiQeGUXODuYDBMfnU4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266434,
+      "name": "The Hertz",
+      "url": "https://open.spotify.com/track/20sYMumws3RAkMPRu1YvQw"
     },
     {
       "album": {
@@ -11248,7 +11302,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 450735,
       "name": "Undisco (Dub Mix)",
       "url": "https://open.spotify.com/track/6otJ5CqC0QP8l6Z6XmBRmO"

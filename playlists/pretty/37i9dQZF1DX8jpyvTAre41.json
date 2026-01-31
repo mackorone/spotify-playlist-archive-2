@@ -1,13 +1,109 @@
 {
-  "description": "The best rock songs of the moment. Cover: Cam Kahin",
-  "num_followers": 194084,
+  "description": "The best rock songs of the moment. Cover: Softcult",
+  "num_followers": 194082,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE6ZIEhmUXeSuiWH/X+2a9MFOds7",
+  "snapshot_id": "AAAAAGG8IRdIs0wkUGkkFF9mHPT2diPO",
   "tracks": [
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "When A Flower Doesn't Grow",
+        "url": "https://open.spotify.com/album/4jk5z7n2d9XJGSeVoo0rpm"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 170238,
+      "name": "Not Sorry",
+      "url": "https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb"
+    },
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "Die To Fall",
+        "url": "https://open.spotify.com/album/0qfxMFrlNpqg6vTkYITpv4"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 200605,
+      "name": "Die To Fall",
+      "url": "https://open.spotify.com/track/79gHcOX0YegMXSZ9apmepr"
+    },
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "NO LIES.",
+        "url": "https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh"
+      },
+      "artists": [
+        {
+          "name": "paradise fell.",
+          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
+        }
+      ],
+      "duration_ms": 206811,
+      "name": "NO LIES.",
+      "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
+    },
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "Wake Up Calling",
+        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 229977,
+      "name": "Wake Up Calling",
+      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
+    },
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "It's Like That",
+        "url": "https://open.spotify.com/album/04PT1Kvp4lFr38Jkycs8o7"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 200325,
+      "name": "It's Like That",
+      "url": "https://open.spotify.com/track/4csbKzdtmtojrzQfB7OPZ9"
+    },
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "Coal Dust",
+        "url": "https://open.spotify.com/album/4VaI6BZB9ayjqCRp3KRb6z"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "duration_ms": 207468,
+      "name": "Coal Dust",
+      "url": "https://open.spotify.com/track/5E5LeotIuFrQGJHlrJxQtq"
+    },
     {
       "added_at": "2026-01-23 05:01:12",
       "album": {
@@ -39,6 +135,22 @@
       "duration_ms": 212215,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr"
+    },
+    {
+      "added_at": "2026-01-30 05:01:54",
+      "album": {
+        "name": "Streets of Minneapolis",
+        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 275831,
+      "name": "Streets of Minneapolis",
+      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
     },
     {
       "added_at": "2026-01-23 05:01:12",
@@ -1539,118 +1651,6 @@
       "duration_ms": 179252,
       "name": "What Good?",
       "url": "https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "What a Life!",
-        "url": "https://open.spotify.com/album/5DFMjy4osskmBfXGwI9m1R"
-      },
-      "artists": [
-        {
-          "name": "Kyle Wildfern",
-          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
-        }
-      ],
-      "duration_ms": 114285,
-      "name": "FEEL2",
-      "url": "https://open.spotify.com/track/7rXKU8tLrFjA9JtLksIkgN"
-    },
-    {
-      "added_at": "2025-10-31 00:01:27",
-      "album": {
-        "name": "The Boojums",
-        "url": "https://open.spotify.com/album/3HrgNlrQR721YwHOfaRFBB"
-      },
-      "artists": [
-        {
-          "name": "The Boojums",
-          "url": "https://open.spotify.com/artist/3cZi4em8rnssExt3yLA75E"
-        }
-      ],
-      "duration_ms": 99546,
-      "name": "Meet Me In The Middle",
-      "url": "https://open.spotify.com/track/44VBgxQ5khk3QgfJFKVi3X"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "limbo",
-        "url": "https://open.spotify.com/album/19n6SzmWCHrTAnFxFaSXla"
-      },
-      "artists": [
-        {
-          "name": "Cam Kahin",
-          "url": "https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw"
-        }
-      ],
-      "duration_ms": 188653,
-      "name": "limbo",
-      "url": "https://open.spotify.com/track/1jjZSKkkm71iFGjTFVtHxs"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "Deluxe Nightmare",
-        "url": "https://open.spotify.com/album/2n2YEo8CXPrrrumfixTF2z"
-      },
-      "artists": [
-        {
-          "name": "ARK IDENTITY",
-          "url": "https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8"
-        }
-      ],
-      "duration_ms": 280683,
-      "name": "Deluxe Nightmare",
-      "url": "https://open.spotify.com/track/435CzsSw2COieUxvvyUzNR"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "Eggshell Tap Dancer",
-        "url": "https://open.spotify.com/album/6KhlAeMS2m3pCXpKcOH4f9"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 227171,
-      "name": "Eggshell Tap Dancer",
-      "url": "https://open.spotify.com/track/2zzjpwG8wu3skr08m7rM6e"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "Kicked in the Head",
-        "url": "https://open.spotify.com/album/3wCUT6DuRTZ9OeodhQ5NO5"
-      },
-      "artists": [
-        {
-          "name": "Bleeker",
-          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
-        }
-      ],
-      "duration_ms": 145588,
-      "name": "Kicked in the Head",
-      "url": "https://open.spotify.com/track/2552ES00oEEABAPy26dCt8"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "ROCK N ROLL IS ASLEEP",
-        "url": "https://open.spotify.com/album/1qMCBkrJzhmW6c1a45vRKV"
-      },
-      "artists": [
-        {
-          "name": "ROMES",
-          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "ROCK N ROLL IS ASLEEP",
-      "url": "https://open.spotify.com/track/2hicCxBgUWE20o16gUCcD1"
     }
   ],
   "unique_name": "Rock Now",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > The ultimate songbook ⏳ feat\. Nina Nesbitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,278 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,287 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 16 | [Phone Sex](https://open.spotify.com/track/3TKGJXVhxqyDYFkTGvWdpw) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Phone Sex](https://open.spotify.com/album/2Efrfi4RLliavLPQsOCkbJ) | 2:58 |
 | 17 | [Crying At A Wedding](https://open.spotify.com/track/3KmkHQYrmOegSUBfC6EHNW) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Crying At A Wedding](https://open.spotify.com/album/6gfVyt1Bq5pCZ7iH6cwvec) | 4:01 |
 | 18 | [Blue June](https://open.spotify.com/track/7inVoyUI3idMntP3aw0Rkt) | [Dalia](https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p) | [Blue June](https://open.spotify.com/album/2xypNP0MiLcsrAVPOMh7eT) | 2:53 |
-| 19 | [Everyone Likes To Be Forgiven](https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [](https://open.spotify.com/album/null) | 4:00 |
+| 19 | [Everyone Likes To Be Forgiven](https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Some Things Never Leave](https://open.spotify.com/album/6SjTebu5erz22LeboDHsML) | 4:00 |
 | 20 | [SOMEWHERE IN BETWEEN](https://open.spotify.com/track/5OHXhjlFn1j4MUFYaSg6Zc) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [SOMEWHERE IN BETWEEN](https://open.spotify.com/album/5u0yJJQw4gu8pmkDKVAPiT) | 3:27 |
 | 21 | [I Don't Know Me](https://open.spotify.com/track/6T0LlxJeSMgFHzKPWf4NfM) | [Pedro Santos](https://open.spotify.com/artist/19YzhgBR0lApAqTpaHLzMZ) | [I Don't Know Me](https://open.spotify.com/album/0VZYPuxvzFxaJEViCCcoIm) | 2:51 |
 | 22 | [Losing You](https://open.spotify.com/track/2Ek187XUG8kuUfBhYcPOGC) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Losing You](https://open.spotify.com/album/5ZAKTIKBizpKigUcJHSr2J) | 2:22 |

@@ -4,7 +4,7 @@
 
 > Tous les hits latino du moment sont ici\. Photo : Nicky Jam
 
-390 songs - 19 hr 59 min
+390 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [30 Mil Pies](https://open.spotify.com/track/6A8ZNt71PS4PuBtxbdXV0L) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [30 Mil Pies](https://open.spotify.com/album/6ShLV3WRgmC5RtXA99g2sU) | 3:07 | 2025-10-09 | 2025-10-17 |
 | [36 Vidas](https://open.spotify.com/track/7zfvPN6Rth5yp1u0QbOglc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [36 Vidas](https://open.spotify.com/album/2ptkMLdvJ813famENmU1Iz) | 2:53 | 2025-12-11 | 2026-01-30 |
 | [6 DE FEBRERO](https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [6 DE FEBRERO](https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu) | 2:55 | 2025-05-08 | 2025-06-20 |
-| [777](https://open.spotify.com/track/42e9HfXNoupybWl2RcnCTp) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [](https://open.spotify.com/album/null) | 3:05 | 2026-01-29 |  |
+| [777](https://open.spotify.com/track/42e9HfXNoupybWl2RcnCTp) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [YAPI](https://open.spotify.com/album/6iDjU53fVXp9BB80hntvHT) | 3:05 | 2026-01-29 |  |
 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 | 2024-04-25 | 2024-08-30 |
 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-04-25 | 2024-08-30 |
 | [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 | 2025-07-18 | 2025-08-08 |
@@ -268,6 +268,7 @@
 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-16 |  |
 | [OE OE](https://open.spotify.com/track/6e92Lu8Wh05ZwAJEnE9qRa) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Louis BPM](https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0) | [OE OE](https://open.spotify.com/album/43bR439dpdSQXAIfUu3e3o) | 3:02 | 2025-08-07 | 2025-11-28 |
 | [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 | 2024-04-18 | 2024-09-13 |
+| [Olvídala](https://open.spotify.com/track/7fC9JbQTR20CB6gvWr1NcF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Bohemio](https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV) | 2:33 | 2026-01-29 |  |
 | [Olé Olé](https://open.spotify.com/track/0VgxupJzZCCCCJU0gPb9NJ) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Olé Olé](https://open.spotify.com/album/3evFSKuVUPwT9X3GtnD9hd) | 3:04 | 2023-09-28 | 2023-10-21 |
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-09-26 | 2024-11-15 |
 | [Otra Vibra](https://open.spotify.com/track/7aprD0hcQ0dr3efnJCrJI5) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Otra Vibra](https://open.spotify.com/album/0Dcd0VT52oXwUldW3jEaoS) | 3:27 | 2023-09-28 | 2023-11-24 |
@@ -359,7 +360,6 @@
 | [TOQUE DE QUEDA \(feat\. Peipper\)](https://open.spotify.com/track/1qTAHepXsJBb1c0MoBVP0J) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [TOQUE DE QUEDA \(feat\. Peipper\)](https://open.spotify.com/album/438SWtqpPDUbIad03OAHUT) | 2:42 | 2025-05-08 | 2025-05-23 |
 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 | 2024-05-23 | 2024-06-21 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-09-28 | 2024-07-05 |
-| [Track 5](https://open.spotify.com/track/7fC9JbQTR20CB6gvWr1NcF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-29 |  |
 | [TRAGO \#1 LOLOLO](https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Altafulla](https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [TRAGO \#1 LOLOLO](https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8) | 3:05 | 2025-08-14 |  |
 | [TRAJECITO](https://open.spotify.com/track/2NGbCghWkDGTZtknazgEuf) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [TRAJECITO](https://open.spotify.com/album/22pfyMyN1fDcgnlSLNPGGo) | 3:14 | 2023-11-23 | 2024-08-16 |
 | [Triple S](https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Triple S](https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4) | 3:12 | 2024-02-29 | 2025-04-04 |

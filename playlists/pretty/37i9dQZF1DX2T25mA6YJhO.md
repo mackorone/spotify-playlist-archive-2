@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Cora Yako.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,905 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,928 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 84 | [El sueño dura una semana](https://open.spotify.com/track/58EkA2ErzMaMEGdc6ofJZ8) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [El sueño dura una semana](https://open.spotify.com/album/7bKHcGcrUqX7NGE6pYH3Ol) | 2:34 |
 | 85 | [Diésel](https://open.spotify.com/track/0XJn6OIAYi0NRLl4U8wSqP) | [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Diésel](https://open.spotify.com/album/0B7OU9zyt4Abh6V7eIGdDG) | 2:57 |
 
-Snapshot ID: `AAAAAEwnDoif1TnXZqoR7mB4E3kCNTs1`
+Snapshot ID: `AAAAAAwMan8kap+IWIx8WbRQ5N/RNa3I`

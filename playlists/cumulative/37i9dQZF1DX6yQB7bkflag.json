@@ -23,8 +23,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "KONTRADILSKI",
+        "url": "https://open.spotify.com/album/0OiPmTKBdlFcrASBfPG4Yr"
       },
       "artists": [
         {
@@ -15024,7 +15024,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 162763,
-      "name": "Get It ft. gamali\u00e9l",
+      "name": "Get It",
       "url": "https://open.spotify.com/track/0RYMgLs7qVOWQNIFCq3K5e"
     },
     {
@@ -23099,6 +23099,28 @@
     },
     {
       "album": {
+        "name": "Kita Sama-Sama",
+        "url": "https://open.spotify.com/album/17itcjab51VSbQuVDMhETN"
+      },
+      "artists": [
+        {
+          "name": "Calvin Jeremy",
+          "url": "https://open.spotify.com/artist/5R0U4DSRlKGCFcyJa4z4yD"
+        },
+        {
+          "name": "Rio Febrian",
+          "url": "https://open.spotify.com/artist/3q3FakGkayPyaj7dV3luv9"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201882,
+      "name": "Kita Sama-Sama",
+      "url": "https://open.spotify.com/track/72xEL5kypQQUIIGEJBm94h"
+    },
+    {
+      "album": {
         "name": "Kita Sama-Sama, Ya?",
         "url": "https://open.spotify.com/album/7l6tMQvRE37pRLX1c7JETJ"
       },
@@ -30185,7 +30207,7 @@
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 206202,
+      "duration_ms": 208251,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
     },
@@ -36684,6 +36706,24 @@
       "duration_ms": 273272,
       "name": "Sampaikan Kepadanya",
       "url": "https://open.spotify.com/track/6xPmaa0xUwO4yFTnQqtvPU"
+    },
+    {
+      "album": {
+        "name": "Sampe Bawah",
+        "url": "https://open.spotify.com/album/5sW0ZawbZ6pZGSmKGwhN7x"
+      },
+      "artists": [
+        {
+          "name": "Afan",
+          "url": "https://open.spotify.com/artist/0861WHgbfpUBsvIbU1b1ZD"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Sampe Bawah",
+      "url": "https://open.spotify.com/track/3rIDk3sGfjJ6ddJmsE8Lib"
     },
     {
       "album": {
@@ -43282,6 +43322,24 @@
       "duration_ms": 317040,
       "name": "Talk To You (ft. Elton John)",
       "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
+    },
+    {
+      "album": {
+        "name": "talking on the moon",
+        "url": "https://open.spotify.com/album/1VInKTdG3K2iROSNMTw8Zu"
+      },
+      "artists": [
+        {
+          "name": "gazeng",
+          "url": "https://open.spotify.com/artist/0i6mAAoB8AnMGb3oEuU2Bo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201792,
+      "name": "talking on the moon",
+      "url": "https://open.spotify.com/track/2WZ0Pv4HTJoygAQoymedtY"
     },
     {
       "album": {

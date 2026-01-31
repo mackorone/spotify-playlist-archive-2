@@ -1,13 +1,33 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 45436,
+  "num_followers": 45442,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXlRgAAAAADTgQVosWiPToyKGJ8eSW4B",
+  "snapshot_id": "aXqjAAAAAAD5i0QeBKaLDcJKs0yZiuhV",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW DE KBRONA",
+        "url": "https://open.spotify.com/album/2455udYuceypufLWw5LnWn"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Lady Yeska",
+          "url": "https://open.spotify.com/artist/5wbGMxTkF76IVFgDjchC0J"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "FLOW DE KBRONA",
+      "url": "https://open.spotify.com/track/50dxDw7ixs6OHRWWUycDSD"
+    },
     {
       "added_at": null,
       "album": {
@@ -203,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Borracha De Amor",
+        "url": "https://open.spotify.com/album/1YMVH8pp65AHdVpxnahXIr"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 219941,
+      "name": "Borracha De Amor",
+      "url": "https://open.spotify.com/track/0rHQ2ijSFoBusXBYQA8HQR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -235,22 +271,6 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Borracha De Amor",
-        "url": "https://open.spotify.com/album/1YMVH8pp65AHdVpxnahXIr"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 219941,
-      "name": "Borracha De Amor",
-      "url": "https://open.spotify.com/track/0rHQ2ijSFoBusXBYQA8HQR"
     },
     {
       "added_at": null,
@@ -443,22 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo Tuya",
-        "url": "https://open.spotify.com/album/1DZHhHW4gI7Kt8fJYrhBCV"
+        "name": "FlowDa Calle",
+        "url": "https://open.spotify.com/album/2fLeKGXpzBZaSWKY2dDNnp"
       },
       "artists": [
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Brain Hunters",
+          "url": "https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1"
         },
         {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 226500,
-      "name": "Solo Tuya",
-      "url": "https://open.spotify.com/track/2QR0qwPUXtOt5sG8pwhmAv"
+      "duration_ms": 131382,
+      "name": "FlowDa Calle",
+      "url": "https://open.spotify.com/track/5OTHUIGshLgv6o76pcioBx"
     },
     {
       "added_at": null,
@@ -483,38 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FlowDa Calle",
-        "url": "https://open.spotify.com/album/2fLeKGXpzBZaSWKY2dDNnp"
+        "name": "Solo Tuya",
+        "url": "https://open.spotify.com/album/1DZHhHW4gI7Kt8fJYrhBCV"
       },
       "artists": [
         {
-          "name": "Brain Hunters",
-          "url": "https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1"
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         },
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
         }
       ],
-      "duration_ms": 131382,
-      "name": "FlowDa Calle",
-      "url": "https://open.spotify.com/track/5OTHUIGshLgv6o76pcioBx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piensa En Mis Labios",
-        "url": "https://open.spotify.com/album/35PrfaDVET02L2KppeIenT"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Piensa En Mis Labios",
-      "url": "https://open.spotify.com/track/3eda2SUJdRxyy6KBaVHB17"
+      "duration_ms": 226500,
+      "name": "Solo Tuya",
+      "url": "https://open.spotify.com/track/2QR0qwPUXtOt5sG8pwhmAv"
     },
     {
       "added_at": null,
@@ -535,6 +539,22 @@
       "duration_ms": 207000,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/2RiEHEoEOKk4v3pKb522RR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piensa En Mis Labios",
+        "url": "https://open.spotify.com/album/35PrfaDVET02L2KppeIenT"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Piensa En Mis Labios",
+      "url": "https://open.spotify.com/track/3eda2SUJdRxyy6KBaVHB17"
     },
     {
       "added_at": null,
@@ -755,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chip S (Metal Version)",
-        "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Ladrones",
-          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Chip S (Metal Version)",
-      "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alzypher Vol. 9",
         "url": "https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H"
       },
@@ -803,6 +803,26 @@
       "duration_ms": 207483,
       "name": "Alzypher Vol. 9",
       "url": "https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chip S (Metal Version)",
+        "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Chip S (Metal Version)",
+      "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
     },
     {
       "added_at": null,
@@ -1211,26 +1231,6 @@
       "duration_ms": 180740,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/1BKfnWOViooRpW2pAs3YLT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Mis Manos",
-        "url": "https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Adehese",
-          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Entre Mis Manos",
-      "url": "https://open.spotify.com/track/41WuR767LDesQv7lwU8biR"
     }
   ],
   "unique_name": "This Is Yoss Bones",

@@ -1,13 +1,29 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: ArumtaLa",
-  "num_followers": 113924,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jundy Salut",
+  "num_followers": 113926,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHLp0ihaSIDBMT8eZdwd29G/9Ril",
+  "snapshot_id": "AAAAAOwUOvBeWz81emcx1HE80qnIfUQk",
   "tracks": [
+    {
+      "added_at": "2026-01-30 07:00:25",
+      "album": {
+        "name": "Trading Path",
+        "url": "https://open.spotify.com/album/0v6cEGxY0Skz5RPtX6OkeX"
+      },
+      "artists": [
+        {
+          "name": "Jundy Salut",
+          "url": "https://open.spotify.com/artist/630LcUjYXp9RxxvnU9fUkP"
+        }
+      ],
+      "duration_ms": 432718,
+      "name": "Trading Path",
+      "url": "https://open.spotify.com/track/3bQ1hA2fflw6mXm84QiIY8"
+    },
     {
       "added_at": "2026-01-15 19:00:17",
       "album": {
@@ -731,22 +747,6 @@
       "duration_ms": 225071,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/3Ylx3R1CYXZfbjod3V6byM"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Embraceable You",
-        "url": "https://open.spotify.com/album/1GrxQBJFYVkFuvlmFW8cBX"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Shavonne",
-          "url": "https://open.spotify.com/artist/4ITvgKI1DUW1wDPkWEycP9"
-        }
-      ],
-      "duration_ms": 325250,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/3J0xvBAilIc8RbeNRcTIOj"
     },
     {
       "added_at": "2025-06-26 17:47:30",

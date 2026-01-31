@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "all night",
+        "url": "https://open.spotify.com/album/54NjOu0otFTWpKwBJ7rcuA"
+      },
+      "artists": [
+        {
+          "name": "Jake Antonio",
+          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235454,
+      "name": "all night - radio edit",
+      "url": "https://open.spotify.com/track/3PRQL5S8nzISJ0t5RQuiEG"
+    },
+    {
+      "album": {
         "name": "All This Funk (Funk You Want)",
         "url": "https://open.spotify.com/album/6mNjtyRXMsLNj1zohZI54z"
       },
@@ -576,7 +594,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 195589,
       "name": "Another Hit",
       "url": "https://open.spotify.com/track/4EczT6jRDLgPgqfo1CWmhK"
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 240000,
       "name": "Baile De Fantome",
       "url": "https://open.spotify.com/track/0q3HI1pBWomC3MiAEciBkF"
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 169638,
       "name": "Basic Instinct",
       "url": "https://open.spotify.com/track/4coPwPfxxr5jHLR4jRnVSw"
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 168000,
       "name": "Body Movin' - Radio Edit",
       "url": "https://open.spotify.com/track/4O9jXmsa2vSnGgQbXLcaoU"
@@ -2693,6 +2711,24 @@
     },
     {
       "album": {
+        "name": "Concrete Bass EP",
+        "url": "https://open.spotify.com/album/3MEGDwj1mfOIlwfkWZfoI7"
+      },
+      "artists": [
+        {
+          "name": "Levi Swarn",
+          "url": "https://open.spotify.com/artist/74ztTQOVscmiaShs1BF7g0"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172089,
+      "name": "Concrete Bass",
+      "url": "https://open.spotify.com/track/1veEHr0b99P7eXBcfUMPWp"
+    },
+    {
+      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/6MuwtAEHHrX23i8j8xYFN3"
       },
@@ -2890,7 +2926,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 171000,
       "name": "Craving What Ain't Mine - Radio Mix",
       "url": "https://open.spotify.com/track/2PMGzzwnjWbngTp0Xwuvpi"
@@ -4486,7 +4522,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 177711,
       "name": "EQ (Dance For Me)",
       "url": "https://open.spotify.com/track/7cSuXSwwr7xcNh8BpO1o9V"
@@ -8153,6 +8189,32 @@
     },
     {
       "album": {
+        "name": "Jus Dance",
+        "url": "https://open.spotify.com/album/19acIfXkwSpQlCxUjEgDiy"
+      },
+      "artists": [
+        {
+          "name": "Mr. V",
+          "url": "https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8"
+        },
+        {
+          "name": "Jordan Brando",
+          "url": "https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208985,
+      "name": "Jus Dance",
+      "url": "https://open.spotify.com/track/5aUvSmVAra1qLcUH50qrYY"
+    },
+    {
+      "album": {
         "name": "House FC",
         "url": "https://open.spotify.com/album/26hpMQzEN8ozoQEMythwP0"
       },
@@ -8464,7 +8526,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 225000,
       "name": "King-Ka - Radio Mix",
       "url": "https://open.spotify.com/track/5ytMXX85Be1uP3NF5T2tx8"
@@ -8486,6 +8548,24 @@
       "duration_ms": 432000,
       "name": "Knocking Birds",
       "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
+    },
+    {
+      "album": {
+        "name": "My Brain EP",
+        "url": "https://open.spotify.com/album/4TJoXqAicnRCsDKkZt3FuC"
+      },
+      "artists": [
+        {
+          "name": "Jentzen",
+          "url": "https://open.spotify.com/artist/4Ae9S2NdmxshDC0tNtKTh8"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Know You Better",
+      "url": "https://open.spotify.com/track/58M7AyZ1HI90agLaU5jX1W"
     },
     {
       "album": {
@@ -9906,6 +9986,24 @@
       "duration_ms": 222475,
       "name": "Midtown Playground",
       "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
+    },
+    {
+      "album": {
+        "name": "LOUDY'S TOOLZ",
+        "url": "https://open.spotify.com/album/7yVfcFQwplfxLVPB2vFaMH"
+      },
+      "artists": [
+        {
+          "name": "Louden",
+          "url": "https://open.spotify.com/artist/0dh6ekhgvAz7Kr8ayRuYlr"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197862,
+      "name": "Mind Game",
+      "url": "https://open.spotify.com/track/5zxhUJKdwgXWDKqliUtgRi"
     },
     {
       "album": {
@@ -11872,6 +11970,24 @@
       "duration_ms": 160221,
       "name": "Places & Faces",
       "url": "https://open.spotify.com/track/1Vj9rPok6oDaTXSZ0JM0AI"
+    },
+    {
+      "album": {
+        "name": "Plastic Jam & Close Your Eyes",
+        "url": "https://open.spotify.com/album/3H27SouFzgHNrgXgCIm0t2"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238208,
+      "name": "Plastic Jam - Radio-Edit",
+      "url": "https://open.spotify.com/track/0Vi6wyVXQLvydtZ32EHHuk"
     },
     {
       "album": {
@@ -14496,7 +14612,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 238167,
       "name": "Spin Cycle",
       "url": "https://open.spotify.com/track/0vJo3KpCwGcy9yWxGUC0gQ"
@@ -14608,7 +14724,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 223384,
       "name": "Step",
       "url": "https://open.spotify.com/track/5Q0hiJwkQixdOwZp8jqnuV"
@@ -15553,6 +15669,24 @@
     },
     {
       "album": {
+        "name": "LOUDY'S TOOLZ",
+        "url": "https://open.spotify.com/album/7yVfcFQwplfxLVPB2vFaMH"
+      },
+      "artists": [
+        {
+          "name": "Louden",
+          "url": "https://open.spotify.com/artist/0dh6ekhgvAz7Kr8ayRuYlr"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "That Phunkey Tune",
+      "url": "https://open.spotify.com/track/6XOuAcGRJ6beiioNCMaeAt"
+    },
+    {
+      "album": {
         "name": "That's Right / The Maze",
         "url": "https://open.spotify.com/album/4Ea6xrbMghxpsECU18mqBS"
       },
@@ -15954,6 +16088,24 @@
       "duration_ms": 185038,
       "name": "The Real Sucka",
       "url": "https://open.spotify.com/track/24mmhkshFtL77aVukzwdhW"
+    },
+    {
+      "album": {
+        "name": "The Rider",
+        "url": "https://open.spotify.com/album/5JuQAy7kbRXRIiU2Zb9Hy0"
+      },
+      "artists": [
+        {
+          "name": "Jack Wostear",
+          "url": "https://open.spotify.com/artist/6Mmcw1vtpSolg5QAqYzMEA"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "The Rider",
+      "url": "https://open.spotify.com/track/0sqmtfZ1a327SnTKMmJrO1"
     },
     {
       "album": {
@@ -17377,6 +17529,36 @@
     },
     {
       "album": {
+        "name": "Wanna Party (feat. Dennis G) [Ranger Trucco Remix]",
+        "url": "https://open.spotify.com/album/5DFLgCNKeWNXQdYRX4DDiQ"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Wideboys",
+          "url": "https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi"
+        },
+        {
+          "name": "Dennis G.",
+          "url": "https://open.spotify.com/artist/1DlMYV41CeNcwmNZ3wc9SW"
+        },
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217099,
+      "name": "Wanna Party (feat. Dennis G) - Ranger Trucco Remix",
+      "url": "https://open.spotify.com/track/7FDSyz5Z0ZVv1rCfMkk9tU"
+    },
+    {
+      "album": {
         "name": "Want You EP",
         "url": "https://open.spotify.com/album/4T0AtHkpum0TmZBD5nqaNh"
       },
@@ -17986,7 +18168,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 207938,
       "name": "Work feat. Nevve - Edit",
       "url": "https://open.spotify.com/track/3eb7WYeXYav8I3q6iKQY5h"
@@ -18146,6 +18328,28 @@
       "duration_ms": 273750,
       "name": "Xplain",
       "url": "https://open.spotify.com/track/17kxWsI8f7T1UEcboHmm9a"
+    },
+    {
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Jocelyn Enriquez",
+          "url": "https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182947,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: PHABO",
-  "num_followers": 58205,
+  "description": "R&B of the moment by the artists of the future. Cover: Dylan Sinclair",
+  "num_followers": 58212,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK5z5Az6/sllhQaTOIjBPjy8eHU/",
+  "snapshot_id": "AAAAANQfmTCr4WhMNCPExW7Eo/sB0L7B",
   "tracks": [
+    {
+      "added_at": "2026-01-30 18:36:37",
+      "album": {
+        "name": "Squeeze",
+        "url": "https://open.spotify.com/album/0IsElILJfiHY2Jipq4JEst"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 179439,
+      "name": "Squeeze",
+      "url": "https://open.spotify.com/track/0aHUhMAzRF8nRTqInJ3a5U"
+    },
     {
       "added_at": "2026-01-23 06:55:04",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/2fF0gafyalVC79QziHA3f2"
     },
     {
+      "added_at": "2026-01-30 18:36:37",
+      "album": {
+        "name": "BACKWARD",
+        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 166687,
+      "name": "THEMSELVES",
+      "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
+    },
+    {
       "added_at": "2026-01-23 06:55:04",
       "album": {
         "name": "Break Me In",
@@ -39,6 +71,22 @@
       "duration_ms": 172506,
       "name": "Break Me In",
       "url": "https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr"
+    },
+    {
+      "added_at": "2026-01-30 18:36:37",
+      "album": {
+        "name": "tell me what you want",
+        "url": "https://open.spotify.com/album/45dogBUITG47dD11ydydgz"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "tell me what you want",
+      "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
     },
     {
       "added_at": "2026-01-16 05:00:39",
@@ -77,6 +125,26 @@
       "url": "https://open.spotify.com/track/4RKcZqAw4IwAReaDGoOne6"
     },
     {
+      "added_at": "2026-01-30 18:36:37",
+      "album": {
+        "name": "Typical",
+        "url": "https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 176020,
+      "name": "Typical",
+      "url": "https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4"
+    },
+    {
       "added_at": "2026-01-09 07:30:30",
       "album": {
         "name": "Wamu",
@@ -109,6 +177,22 @@
       "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
     },
     {
+      "added_at": "2026-01-30 18:36:37",
+      "album": {
+        "name": "Bet",
+        "url": "https://open.spotify.com/album/0OYistQeliN0hrwOmOUd7j"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "duration_ms": 122033,
+      "name": "Bet",
+      "url": "https://open.spotify.com/track/1mbW86eR8OhhH8fokyO961"
+    },
+    {
       "added_at": "2026-01-23 06:55:04",
       "album": {
         "name": "What I Didn't Say",
@@ -123,6 +207,26 @@
       "duration_ms": 179146,
       "name": "Things We Do",
       "url": "https://open.spotify.com/track/2sRG4WyPyGNLC20djAMXAL"
+    },
+    {
+      "added_at": "2026-01-30 18:36:37",
+      "album": {
+        "name": "Gas Station Love (remix)",
+        "url": "https://open.spotify.com/album/7raN9uFr6FwxhFB1R6R0D3"
+      },
+      "artists": [
+        {
+          "name": "EJ Jones",
+          "url": "https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 245100,
+      "name": "Gas Station Love - remix",
+      "url": "https://open.spotify.com/track/43uvpEvaYB3jxp6TqIwzON"
     },
     {
       "added_at": "2026-01-23 06:55:04",
@@ -159,6 +263,38 @@
       "duration_ms": 174551,
       "name": "OG",
       "url": "https://open.spotify.com/track/5msH0hur2XpjhbLkbGvW8p"
+    },
+    {
+      "added_at": "2026-01-30 18:36:37",
+      "album": {
+        "name": "sweet tooth",
+        "url": "https://open.spotify.com/album/4Zm4DG6bNYmNdEOglOYp3d"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Kaleo",
+          "url": "https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5"
+        }
+      ],
+      "duration_ms": 156023,
+      "name": "sweet tooth",
+      "url": "https://open.spotify.com/track/1rpSNugc4dv83BF1WyjhH5"
+    },
+    {
+      "added_at": "2026-01-30 18:36:37",
+      "album": {
+        "name": "Uneven",
+        "url": "https://open.spotify.com/album/5j9fVidOkBoppdzeUVQxkB"
+      },
+      "artists": [
+        {
+          "name": "Choker",
+          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Uneven",
+      "url": "https://open.spotify.com/track/11qmyAOH8ZcVjzgCu0UqGx"
     },
     {
       "added_at": "2026-01-16 05:00:39",
@@ -275,6 +411,22 @@
       "duration_ms": 178650,
       "name": "A Minute",
       "url": "https://open.spotify.com/track/6U64qozXo66Eg24nOlgM6S"
+    },
+    {
+      "added_at": "2026-01-30 18:36:37",
+      "album": {
+        "name": "Walking Dead",
+        "url": "https://open.spotify.com/album/7LLHzHDkDDTjqukNhjaE3d"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/7oIRCIarI1IXl3DXjLeYRy"
     },
     {
       "added_at": "2026-01-23 06:55:04",
@@ -1417,22 +1569,6 @@
       "url": "https://open.spotify.com/track/2Knmf00ysVzsITSdghjxQx"
     },
     {
-      "added_at": "2025-11-14 09:43:17",
-      "album": {
-        "name": "He's Not Me (Acoustic)",
-        "url": "https://open.spotify.com/album/20HaMwPU3CtG5OFHEslB0U"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "He's Not Me (Acoustic)",
-      "url": "https://open.spotify.com/track/74LjNAxOeocnpRDiOUqOVy"
-    },
-    {
       "added_at": "2025-10-31 04:00:42",
       "album": {
         "name": "Won't Force You",
@@ -1901,22 +2037,6 @@
       "url": "https://open.spotify.com/track/3JBsUYs0eJBdrWL3ku8m0E"
     },
     {
-      "added_at": "2025-09-26 04:04:39",
-      "album": {
-        "name": "Gas Station Love",
-        "url": "https://open.spotify.com/album/6B1jPIaWfQ2UuHXy814c3W"
-      },
-      "artists": [
-        {
-          "name": "EJ Jones",
-          "url": "https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC"
-        }
-      ],
-      "duration_ms": 245100,
-      "name": "Gas Station Love",
-      "url": "https://open.spotify.com/track/05u9J0N4u9dduKObvvYzFI"
-    },
-    {
       "added_at": "2025-10-31 04:00:42",
       "album": {
         "name": "Here nor there",
@@ -2367,22 +2487,6 @@
     {
       "added_at": "2025-10-25 01:29:33",
       "album": {
-        "name": "What's Your Name? (Tumhaara Naam Kya Hai?)",
-        "url": "https://open.spotify.com/album/2YneBGHDqDl9hw9pBvE7tl"
-      },
-      "artists": [
-        {
-          "name": "Allyn",
-          "url": "https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3"
-        }
-      ],
-      "duration_ms": 137700,
-      "name": "What's Your Name? (Tumhaara Naam Kya Hai?)",
-      "url": "https://open.spotify.com/track/490Eq6WOJCPM29TD7phhDj"
-    },
-    {
-      "added_at": "2025-10-25 01:29:33",
-      "album": {
         "name": "There's Always Tomorrow",
         "url": "https://open.spotify.com/album/4w6U7tLVYjtpBjb1orSq56"
       },
@@ -2635,22 +2739,6 @@
       "duration_ms": 165436,
       "name": "Exception",
       "url": "https://open.spotify.com/track/4NUrMQXSappl4qB74yZygA"
-    },
-    {
-      "added_at": "2025-09-26 04:04:39",
-      "album": {
-        "name": "HAPPY 2 BE HERE WITH YOU",
-        "url": "https://open.spotify.com/album/1svkemBzhCn2ZITcNMc3Fe"
-      },
-      "artists": [
-        {
-          "name": "Ant Clemons",
-          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "YOU AND YOUR BODY",
-      "url": "https://open.spotify.com/track/1pjC0mkLIO5ee8PUw6gfou"
     },
     {
       "added_at": "2025-10-03 04:26:01",
@@ -2907,22 +2995,6 @@
       "duration_ms": 211384,
       "name": "Dreamland",
       "url": "https://open.spotify.com/track/0hT4SkjlHOO5GjboDHaMkJ"
-    },
-    {
-      "added_at": "2025-09-19 05:07:46",
-      "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/32mhSctEoshvXv1xoenks0"
-      },
-      "artists": [
-        {
-          "name": "Abby Jasmine",
-          "url": "https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf"
-        }
-      ],
-      "duration_ms": 172101,
-      "name": "Faces",
-      "url": "https://open.spotify.com/track/4Q1pCz12OHeDwBuYgmqRki"
     },
     {
       "added_at": "2025-09-05 04:00:30",
@@ -3237,26 +3309,6 @@
       "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI"
     },
     {
-      "added_at": "2025-08-29 19:55:22",
-      "album": {
-        "name": "BitterSweet",
-        "url": "https://open.spotify.com/album/7nXq64NXpD0jKJKdPjGXcy"
-      },
-      "artists": [
-        {
-          "name": "Flwr Chyld",
-          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
-        },
-        {
-          "name": "Malaya",
-          "url": "https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "BitterSweet",
-      "url": "https://open.spotify.com/track/5lyAdBKS78EVzZnr2FM0tk"
-    },
-    {
       "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "patience",
@@ -3303,26 +3355,6 @@
       "duration_ms": 166451,
       "name": "Pull Up (Drop)",
       "url": "https://open.spotify.com/track/59cGnThfcTHmqHRBJKCrjA"
-    },
-    {
-      "added_at": "2025-08-15 07:28:53",
-      "album": {
-        "name": "Invited",
-        "url": "https://open.spotify.com/album/2zVEDZAY9kjHkfaToti8Lh"
-      },
-      "artists": [
-        {
-          "name": "Joe Leone",
-          "url": "https://open.spotify.com/artist/641Je4lEYQI0NWz8VclwMF"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 178468,
-      "name": "Over Under (Remix)",
-      "url": "https://open.spotify.com/track/2fTbMj4SQWZHd1M3jW5EMB"
     },
     {
       "added_at": "2025-08-08 06:26:33",
@@ -3375,22 +3407,6 @@
       "duration_ms": 248000,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/1bREWnpLbZCQcZ6oELXT9f"
-    },
-    {
-      "added_at": "2025-08-08 06:26:33",
-      "album": {
-        "name": "act right",
-        "url": "https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 188899,
-      "name": "can't stop",
-      "url": "https://open.spotify.com/track/266NPG21d1RGm5GHxchVF3"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -3459,26 +3475,6 @@
       "duration_ms": 282444,
       "name": "Same Ol\u2019 Love",
       "url": "https://open.spotify.com/track/2UJV3mMuthhYHRa4KgeMBo"
-    },
-    {
-      "added_at": "2025-07-25 08:31:43",
-      "album": {
-        "name": "Lotus Ave",
-        "url": "https://open.spotify.com/album/7ieH9abbSBHx9CceUjPn9D"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Touch - feat. GoldLink",
-      "url": "https://open.spotify.com/track/2fQFJOWin78fvUkSktiiz5"
     },
     {
       "added_at": "2025-08-08 06:26:33",
@@ -3727,22 +3723,6 @@
       "duration_ms": 223738,
       "name": "PROMISE",
       "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
-    },
-    {
-      "added_at": "2025-07-11 07:07:07",
-      "album": {
-        "name": "HONEYCOATED",
-        "url": "https://open.spotify.com/album/6eBLl4owVt3F2oK3vnnLAv"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 115680,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/5xxh3JM4y3zboVTFK5Exzf"
     },
     {
       "added_at": "2025-06-14 14:38:19",

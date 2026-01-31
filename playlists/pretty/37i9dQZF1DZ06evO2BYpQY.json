@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 80534,
+  "num_followers": 80530,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXlRgAAAAACZsNE+mU8tR09wUzK//HqF",
+  "snapshot_id": "aXqjAAAAAAAPq0/h1VwRCk39sZXFJ/EX",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Scorn Not His Simplicity",
-      "url": "https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith and Courage",
         "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 201826,
       "name": "Emma's Song",
       "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Scorn Not His Simplicity",
+      "url": "https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 332226,
-      "name": "John I Love You",
-      "url": "https://open.spotify.com/track/3eMc70GKuvKw1asbNv0paq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Very Special Christmas 2",
         "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 338733,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 332226,
+      "name": "John I Love You",
+      "url": "https://open.spotify.com/track/3eMc70GKuvKw1asbNv0paq"
     },
     {
       "added_at": null,

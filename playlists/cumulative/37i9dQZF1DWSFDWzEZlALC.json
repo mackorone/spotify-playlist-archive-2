@@ -1887,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "amelie",
+        "url": "https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE"
+      },
+      "artists": [
+        {
+          "name": "Ella Stern",
+          "url": "https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158902,
+      "name": "amelie",
+      "url": "https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub"
+    },
+    {
+      "album": {
         "name": "AMNESIE AMNESIE",
         "url": "https://open.spotify.com/album/1ZEmiBJqnEGp7LtGnXCNgb"
       },
@@ -13039,8 +13057,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "WIR",
+        "url": "https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd"
       },
       "artists": [
         {
@@ -22750,7 +22768,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 142200,
       "name": "skinny jeans",
       "url": "https://open.spotify.com/track/049a3k8MqT26Ei5I76eD0U"

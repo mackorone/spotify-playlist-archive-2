@@ -1,13 +1,29 @@
 {
   "description": "Check out our latest Cargo Distribution approved tracks! Updated weekly",
-  "num_followers": 631,
+  "num_followers": 632,
   "original_name": "Cargo Independent Distribution New Release Playlist",
   "owner": {
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABKTKLpclXmbg73XaJRlgXvqFG3/gD9",
+  "snapshot_id": "AABKYlDhKzR44D3InpUlbbGCDQBWigMM",
   "tracks": [
+    {
+      "added_at": "2026-01-30 10:51:38",
+      "album": {
+        "name": "Sunlight Echoes",
+        "url": "https://open.spotify.com/album/4jHGgkjeyoEF5My7OLhXhB"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Golden Daze",
+      "url": "https://open.spotify.com/track/7BKCUzBV1mK1BT4mxlxjbr"
+    },
     {
       "added_at": "2026-01-29 14:08:01",
       "album": {
@@ -23,6 +39,30 @@
       "duration_ms": 240032,
       "name": "Absolute Cinema",
       "url": "https://open.spotify.com/track/6SqXC79ndcr17Lrq8LNcKu"
+    },
+    {
+      "added_at": "2026-01-30 10:48:58",
+      "album": {
+        "name": "SLoPE VIP",
+        "url": "https://open.spotify.com/album/0e6aJFVhBWKWGzPXnyJu5t"
+      },
+      "artists": [
+        {
+          "name": "Facta",
+          "url": "https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn"
+        },
+        {
+          "name": "Warrior Queen",
+          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "duration_ms": 232490,
+      "name": "SLoPE VIP",
+      "url": "https://open.spotify.com/track/20ljzvUp8huIzKVWABVj72"
     },
     {
       "added_at": "2026-01-29 14:06:06",
@@ -89,6 +129,126 @@
       "url": "https://open.spotify.com/track/1Y9KD16Ht7CtP8vuif5AnJ"
     },
     {
+      "added_at": "2026-01-30 10:52:05",
+      "album": {
+        "name": "Patterns in Condensate",
+        "url": "https://open.spotify.com/album/5zNGdpLo0iderk9K1bBgj8"
+      },
+      "artists": [
+        {
+          "name": "Phexioenesystems",
+          "url": "https://open.spotify.com/artist/2xpJLD9pweH6uabGGnk6ty"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Patterns in Condensate",
+      "url": "https://open.spotify.com/track/6O1PeG3kmf4Bmw9zayE5Rq"
+    },
+    {
+      "added_at": "2026-01-30 10:47:20",
+      "album": {
+        "name": "Forever Neon Lights",
+        "url": "https://open.spotify.com/album/2JcHZNf1p1NxGrvUhtbZVT"
+      },
+      "artists": [
+        {
+          "name": "James Adrian Brown",
+          "url": "https://open.spotify.com/artist/42tz1PWwrLG2F3nZzVSVQq"
+        }
+      ],
+      "duration_ms": 191846,
+      "name": "Poster Child",
+      "url": "https://open.spotify.com/track/5P2Owgdcl4t65wKsOtPHtX"
+    },
+    {
+      "added_at": "2026-01-30 10:52:32",
+      "album": {
+        "name": "Sleep Tecnique",
+        "url": "https://open.spotify.com/album/09Q5mNobAD9HxgObLBscBH"
+      },
+      "artists": [
+        {
+          "name": "Demetrio Castellucci",
+          "url": "https://open.spotify.com/artist/6hoSIfg6ZXFhxqEH1406vp"
+        },
+        {
+          "name": "Massimo Pupillo",
+          "url": "https://open.spotify.com/artist/0ts4LKLXcAwnSJXUaq7jJl"
+        },
+        {
+          "name": "Attila Csihar",
+          "url": "https://open.spotify.com/artist/0rn6pvu9Htc88w3KFULI9m"
+        }
+      ],
+      "duration_ms": 213500,
+      "name": "Panel of the Lions",
+      "url": "https://open.spotify.com/track/1DY0Bod4oy53uxzaw31wal"
+    },
+    {
+      "added_at": "2026-01-30 10:47:34",
+      "album": {
+        "name": "The Medieval Drone Society",
+        "url": "https://open.spotify.com/album/6IgbjNqm7ZAHEjLfKbGeeM"
+      },
+      "artists": [
+        {
+          "name": "Laura Cannell",
+          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
+        }
+      ],
+      "duration_ms": 235748,
+      "name": "A Soar of Eagles Surround Us",
+      "url": "https://open.spotify.com/track/6OXECxcmrVKC4rsgdevAKL"
+    },
+    {
+      "added_at": "2026-01-30 10:46:05",
+      "album": {
+        "name": "Make It To Forever",
+        "url": "https://open.spotify.com/album/7pAqJb6zoO7paVzFiNkrbM"
+      },
+      "artists": [
+        {
+          "name": "Scott McCloud",
+          "url": "https://open.spotify.com/artist/38zfbPNhZ0C38J0Y90hSsv"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "Make it To Forever",
+      "url": "https://open.spotify.com/track/0P07j5AsMuQANk3pkv8r6O"
+    },
+    {
+      "added_at": "2026-01-30 10:46:20",
+      "album": {
+        "name": "Ugly Thing",
+        "url": "https://open.spotify.com/album/6SP5VTxVS0NbcJiT1n2PN8"
+      },
+      "artists": [
+        {
+          "name": "EDWIN R STEVENS",
+          "url": "https://open.spotify.com/artist/0UB1eMNH15Vw2h5AvAtaqU"
+        }
+      ],
+      "duration_ms": 329840,
+      "name": "Ugly Thing",
+      "url": "https://open.spotify.com/track/0NBiTLSw2WKqXwqPTOGNqn"
+    },
+    {
+      "added_at": "2026-01-30 10:48:42",
+      "album": {
+        "name": "Armonia Creatice",
+        "url": "https://open.spotify.com/album/0yBNpLjQeHxUeabgyNfGpE"
+      },
+      "artists": [
+        {
+          "name": "Tobia Paltrinieri",
+          "url": "https://open.spotify.com/artist/34uLHuuNe8ZzScuqla4sp8"
+        }
+      ],
+      "duration_ms": 334510,
+      "name": "Frammenti Con Traiettorie Proprie",
+      "url": "https://open.spotify.com/track/3Mh5uDuvAX3b2K5yFn5EuP"
+    },
+    {
       "added_at": "2026-01-29 14:05:54",
       "album": {
         "name": "Day Dream",
@@ -135,6 +295,38 @@
       "duration_ms": 229516,
       "name": "Altar of Devoted Slaughter",
       "url": "https://open.spotify.com/track/0Q8sBj5fwuMETxeGMuy4wT"
+    },
+    {
+      "added_at": "2026-01-30 10:46:37",
+      "album": {
+        "name": "You're a Loser Mate",
+        "url": "https://open.spotify.com/album/7idb705QHkrUqg46TP14Mi"
+      },
+      "artists": [
+        {
+          "name": "The Ovines",
+          "url": "https://open.spotify.com/artist/71cqottJokqNoKw11DHr2n"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "You're a Loser Mate",
+      "url": "https://open.spotify.com/track/1CEz2ShCZcb3SLNaE3BkTI"
+    },
+    {
+      "added_at": "2026-01-30 10:47:00",
+      "album": {
+        "name": "Music for Meditation",
+        "url": "https://open.spotify.com/album/00rMnk0X3xN9EVX3avwpUV"
+      },
+      "artists": [
+        {
+          "name": "Paul Fishman",
+          "url": "https://open.spotify.com/artist/639EC1492yFwKsE4q7BAwE"
+        }
+      ],
+      "duration_ms": 379920,
+      "name": "You Are Light You Are Sound",
+      "url": "https://open.spotify.com/track/79pSNAJh6Bgy0hd17bZTOT"
     },
     {
       "added_at": "2026-01-23 11:01:47",

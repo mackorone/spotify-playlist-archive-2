@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop, soda featuring Louis Tomlinson",
-  "num_followers": 228938,
+  "num_followers": 228945,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH5JsYRiV2D2dwBeWo/sDec7hkqT",
+  "snapshot_id": "AAAAAMr49h+wkHBmbwi19+eBZzmLlh+e",
   "tracks": [
     {
       "added_at": "2026-01-23 05:03:59",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7"
     },
     {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "duration_ms": 163559,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0"
+    },
+    {
       "added_at": "2026-01-16 16:23:10",
       "album": {
         "name": "Sweet Boy",
@@ -39,6 +55,22 @@
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "added_at": "2026-01-16 16:23:10",
@@ -863,38 +895,6 @@
       "duration_ms": 181737,
       "name": "lost",
       "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
-    },
-    {
-      "added_at": "2025-09-19 04:00:31",
-      "album": {
-        "name": "APEROL SPRITZ",
-        "url": "https://open.spotify.com/album/1MB7klFDOuiVzrnrVztNXh"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 192413,
-      "name": "APEROL SPRITZ",
-      "url": "https://open.spotify.com/track/6qFHz3t1MRt6WsC8o9CoOw"
-    },
-    {
-      "added_at": "2025-09-27 19:59:59",
-      "album": {
-        "name": "I Dare Ya",
-        "url": "https://open.spotify.com/album/3AyLhNmA6U8R7Q0VYC3HO4"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
-        }
-      ],
-      "duration_ms": 146854,
-      "name": "I Dare Ya",
-      "url": "https://open.spotify.com/track/0Dzyi3BEF37P2QnDY390Qy"
     },
     {
       "added_at": "2025-09-27 20:32:56",

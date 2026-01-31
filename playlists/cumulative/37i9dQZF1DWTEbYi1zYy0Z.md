@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-526 songs - 1 day 13 hr 13 min
+527 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Dance With Me](https://open.spotify.com/track/3J18F04gGcur3hK3MJlGyc) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Dance With Me](https://open.spotify.com/album/7D6Egi9qWYcpJy2OTfSJHa) | 3:30 | 2021-04-23 | 2022-03-18 |
 | [Dancin' Shoes](https://open.spotify.com/track/15i4GMjiFCHKWMYSUTp2CS) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Dancin' Shoes](https://open.spotify.com/album/2bH1chYifngpHOjrlyppS5) | 4:14 | 2023-10-13 | 2024-04-19 |
 | [Dare To Dream](https://open.spotify.com/track/7yTEsgjkPcFXOw6K9jgPf9) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [In Real Life](https://open.spotify.com/album/6NAnNSObthOkTd3GH0Ib7q) | 4:52 | 2024-05-10 |  |
-| [Dare to Fly \- Brazilian Version](https://open.spotify.com/track/0ybsazJTUH0PyjA8RAYTP2) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Dare to Fly \(Brazilian Version\)](https://open.spotify.com/album/4sv6sHhnthTwBY8KuQqWYL) | 5:37 | 2025-11-07 |  |
+| [Dare to Fly \- Brazilian Version](https://open.spotify.com/track/0ybsazJTUH0PyjA8RAYTP2) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Dare to Fly \(Brazilian Version\)](https://open.spotify.com/album/4sv6sHhnthTwBY8KuQqWYL) | 5:37 | 2025-11-07 | 2026-01-31 |
 | [De Nada](https://open.spotify.com/track/6RUMVhyaDTPf2SdiUIu4r1) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [De Nada](https://open.spotify.com/album/68cTBOeTm9HU9JPz1pVwid) | 4:07 | 2025-05-30 |  |
 | [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 | 2023-06-09 | 2024-06-22 |
 | [Deep Into You](https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Deep Into You](https://open.spotify.com/album/0N4DaL3j9Awcu941nalsE4) | 4:10 | 2022-06-17 | 2023-04-29 |
@@ -474,6 +474,7 @@
 | [The Sailor](https://open.spotify.com/track/6bGtyIx8T1Ju65CTrcawwl) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Ed Roth](https://open.spotify.com/artist/7EBeeH2oJR0OXd0mPSv6PD) | [The Sailor](https://open.spotify.com/album/1N3Y4lr7CBNDDfjLLLmHA0) | 4:33 | 2021-06-18 | 2022-09-17 |
 | [The Thing Is...](https://open.spotify.com/track/74TMwWbbqCMNtie5jGo7rL) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [The Thing Is...](https://open.spotify.com/album/7sQfXibE5MKsDrEgZLMC9K) | 3:58 | 2023-08-18 | 2025-03-29 |
 | [The Thrill of Rain](https://open.spotify.com/track/24dR9CKoNg8zZ5SMhedZB3) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Twice As Nice](https://open.spotify.com/album/5qhN4XroM8EXopUNSmq4Vi) | 3:59 | 2021-04-23 | 2022-03-18 |
+| [The Upside](https://open.spotify.com/track/2CHGnTJU7LIoFg3bBiIXKq) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [The Upside](https://open.spotify.com/album/5ueGrl44bCJmBDPiwHms0N) | 4:23 | 2026-01-30 |  |
 | [The Way That You Love Me](https://open.spotify.com/track/1bht7qxKmEkxfCbCfGvrCO) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Delisha Thomas](https://open.spotify.com/artist/4AHHoqfQUiQVJhzECOtzHr) | [Based On A True Story](https://open.spotify.com/album/37O5Fu09HB8zQcrYnV2bsF) | 3:50 | 2025-06-13 |  |
 | [The Way You Sway \- radio single](https://open.spotify.com/track/2mUhN5Vj8cstLX50BAnDpq) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [The Way You Sway](https://open.spotify.com/album/0UFcEb8TeFUf08KlyxNyWX) | 4:18 | 2024-06-28 | 2025-01-04 |
 | [The Weekend](https://open.spotify.com/track/4ZRJKcvq2NKpw1wHP5MwqS) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco) | [The Weekend](https://open.spotify.com/album/1AuE8kvj5qqMFcV53Um7tw) | 3:59 | 2020-10-30 | 2022-03-18 |

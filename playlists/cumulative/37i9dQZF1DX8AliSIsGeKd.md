@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Oliver Koletzki
 
-6,424 songs - 22 day 3 hr 46 min
+6,424 songs - 22 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -689,6 +689,7 @@
 | [Bloom At Night](https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Bloom At Night](https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj) | 3:19 | 2024-03-21 | 2024-04-12 |
 | [Bloom In The Cold](https://open.spotify.com/track/3VH1pgtGlayAWg2s19IDed) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Bloom In The Cold](https://open.spotify.com/album/02OyJh302Y5RUnrI1GqeKX) | 4:23 | 2023-01-27 | 2023-02-17 |
 | [Blooming Future](https://open.spotify.com/track/2HRJlHlOADe65EkQe6oZo7) | [Jason Johnson \(DE\)](https://open.spotify.com/artist/5sCukU3sm3DGmPwAgEZVDc) | [Hardest Hue](https://open.spotify.com/album/71nnap1oO1D32BQBxJsZKn) | 6:22 | 2023-04-13 | 2023-04-28 |
+| [Blooming Together](https://open.spotify.com/track/5s6Cybx46w4gMrpM5L0VkY) | [Abuk](https://open.spotify.com/artist/4kYAGDsAQjBYuWNNBJNnNv), [Marvio \(AR\)](https://open.spotify.com/artist/3KERfey6OJl74TMvlFn79s) | [Blooming Together](https://open.spotify.com/album/3TewxRj1oowmwvZzVZdXpG) | 5:02 | 2026-01-29 |  |
 | [Blossom](https://open.spotify.com/track/6VztmbKdEMOv2AtFGqHtXe) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Blossom](https://open.spotify.com/album/5nOEZixldUUDw7v75j4PiE) | 5:58 | 2022-05-26 | 2022-06-17 |
 | [Blow My Mind](https://open.spotify.com/track/0kkGxjmC5NybDRqhEdwp7M) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Blow My Mind](https://open.spotify.com/album/5RFmfmnOgEYxMjOA1KbX61) | 3:41 | 2025-03-13 | 2025-03-21 |
 | [Blow Out](https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Blow Out](https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1) | 3:36 | 2023-09-07 | 2023-09-22 |
@@ -5782,7 +5783,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 1](https://open.spotify.com/track/5s6Cybx46w4gMrpM5L0VkY) | [Abuk](https://open.spotify.com/artist/4kYAGDsAQjBYuWNNBJNnNv) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-29 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Traffik](https://open.spotify.com/track/4GqYKYWyOdr89O5loSz7wQ) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [Twiins](https://open.spotify.com/artist/1TcSU2JWmiIxrJbii3m3E7), [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Traffik](https://open.spotify.com/album/1aez6AJVJ4sV6mNjGd961k) | 5:41 | 2026-01-29 |  |

@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 214240,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/6SxzvEf1ilzLdxBJJKaXpr"
@@ -11870,6 +11870,28 @@
       "duration_ms": 192937,
       "name": "Just Stay The Night",
       "url": "https://open.spotify.com/track/13oxbWMd3hJsV0VyOnyR5u"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
       "album": {
@@ -24382,6 +24404,36 @@
       "duration_ms": 228250,
       "name": "Walk On Air",
       "url": "https://open.spotify.com/track/3D0c1zeclp4KAoeM7HZZ0r"
+    },
+    {
+      "album": {
+        "name": "Wanna Party (feat. Dennis G) [Ranger Trucco Remix]",
+        "url": "https://open.spotify.com/album/0ZuGvGCwmf6ftQLcyEpBjX"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Wideboys",
+          "url": "https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi"
+        },
+        {
+          "name": "Dennis G.",
+          "url": "https://open.spotify.com/artist/1DlMYV41CeNcwmNZ3wc9SW"
+        },
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217099,
+      "name": "Wanna Party (feat. Dennis G) - Ranger Trucco Remix",
+      "url": "https://open.spotify.com/track/4bRCE67LetfGQ6SrSY12EH"
     },
     {
       "album": {

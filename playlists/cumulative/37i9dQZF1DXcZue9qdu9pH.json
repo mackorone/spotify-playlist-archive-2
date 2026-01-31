@@ -367,6 +367,32 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/4cMQm2bOcMciDtvhn3wydk"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/1fQZAx9ujkgjuFbVfskQ31"
+        },
+        {
+          "name": "Keya Nemesis",
+          "url": "https://open.spotify.com/artist/0uvd3XlE4E0XhRpJnimNao"
+        },
+        {
+          "name": "4ourton",
+          "url": "https://open.spotify.com/artist/3i21lmJVuwJI6pgUIDaThk"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177464,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2Yz0qjHJgudAbKQCzXTmlQ"
+    },
+    {
+      "album": {
         "name": "Buy Me Love",
         "url": "https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H"
       },

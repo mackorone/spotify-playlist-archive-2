@@ -3173,6 +3173,24 @@
     },
     {
       "album": {
+        "name": "Wonder Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/353M27S0TmU1a253iLz1GC"
+      },
+      "artists": [
+        {
+          "name": "Joel P West",
+          "url": "https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111312,
+      "name": "Simon Williams to Set",
+      "url": "https://open.spotify.com/track/5qzw4NFMzx63iixVbdYw6M"
+    },
+    {
+      "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/6TIj4zX0PCftJPdTKsk6As"
       },

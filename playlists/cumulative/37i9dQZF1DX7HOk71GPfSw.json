@@ -9379,6 +9379,24 @@
     },
     {
       "album": {
+        "name": "Cola",
+        "url": "https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Cola",
+      "url": "https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb"
+    },
+    {
+      "album": {
         "name": "cold & hot",
         "url": "https://open.spotify.com/album/75yUFxNvifTkYc6PWp05Nt"
       },
@@ -12811,7 +12829,7 @@
     },
     {
       "album": {
-        "name": "Dread - The Moment (The Score)",
+        "name": "Dread",
         "url": "https://open.spotify.com/album/1RCS8GsTDFMZld7vQbALG1"
       },
       "artists": [
@@ -12824,7 +12842,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 349714,
-      "name": "Dread - The Moment (The Score)",
+      "name": "Dread",
       "url": "https://open.spotify.com/track/0o6QKerRaO7Hq5tOvVXBLH"
     },
     {
@@ -13182,6 +13200,24 @@
       "duration_ms": 148837,
       "name": "dumb",
       "url": "https://open.spotify.com/track/69L2USXursbCtYhmQUqRIk"
+    },
+    {
+      "album": {
+        "name": "Dumb 4 All",
+        "url": "https://open.spotify.com/album/23EhezrM0GbLhh5uioneHO"
+      },
+      "artists": [
+        {
+          "name": "Ms* Gloom",
+          "url": "https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143250,
+      "name": "Dumb 4 All",
+      "url": "https://open.spotify.com/track/1Xl85gEdEgn98GQGZGquIF"
     },
     {
       "album": {
@@ -13860,7 +13896,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 77961,
       "name": "Esa Hoe",
       "url": "https://open.spotify.com/track/2FbGP1s4pfFdrfZK4qHTPm"
@@ -25524,7 +25560,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 144761,
       "name": "keep it light",
       "url": "https://open.spotify.com/track/30Dq2nyH4xwRhTZPXb7U2v"
@@ -26984,6 +27020,24 @@
       "duration_ms": 117677,
       "name": "lie low",
       "url": "https://open.spotify.com/track/6jLmBcr54hxubbW9TBDh8n"
+    },
+    {
+      "album": {
+        "name": "lifeless",
+        "url": "https://open.spotify.com/album/3p80XxrdQHW8zSDNZAcJWj"
+      },
+      "artists": [
+        {
+          "name": "Casual Affairs",
+          "url": "https://open.spotify.com/artist/5EESQeFhNh3C79v3mLKe2W"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140124,
+      "name": "lifeless",
+      "url": "https://open.spotify.com/track/0IRoKBPOj5zxWfaDKC5xbL"
     },
     {
       "album": {
@@ -28802,7 +28856,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 142445,
       "name": "MAKE OUT",
       "url": "https://open.spotify.com/track/0iZ6wWIaB7GJizVRUmbRS8"
@@ -30131,6 +30185,24 @@
     },
     {
       "album": {
+        "name": "missu",
+        "url": "https://open.spotify.com/album/494cVBpW85CXrG4fG67gaT"
+      },
+      "artists": [
+        {
+          "name": "RIZHA",
+          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "missu",
+      "url": "https://open.spotify.com/track/32JeM2zYJWRsaX5SgdxRKQ"
+    },
+    {
+      "album": {
         "name": "mix it up",
         "url": "https://open.spotify.com/album/27xhuiS9ZAgFxIih4Aze6v"
       },
@@ -30200,7 +30272,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 142222,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/4E3cUfbOAj2ZvF1Dfq4z7M"
@@ -31588,7 +31660,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 154404,
       "name": "Never Wanna Have Fun",
       "url": "https://open.spotify.com/track/1fGfLNBJ5o7AtjOSQDNGmR"
@@ -32881,7 +32953,7 @@
     },
     {
       "album": {
-        "name": "Offscreen - The Moment (The Score)",
+        "name": "Offscreen",
         "url": "https://open.spotify.com/album/42IL2uIgYRpVZzkcjmwyZI"
       },
       "artists": [
@@ -32894,7 +32966,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 334384,
-      "name": "Offscreen - The Moment (The Score)",
+      "name": "Offscreen",
       "url": "https://open.spotify.com/track/3sGNs97yV0MOz5KrHtlJ6t"
     },
     {
@@ -33476,7 +33548,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 140800,
       "name": "one more",
       "url": "https://open.spotify.com/track/1S499avHKKW1ycbMIFd0HL"
@@ -41770,7 +41842,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 123870,
       "name": "SOFT SCOOP TALKING DOG",
       "url": "https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI"
@@ -43491,6 +43563,24 @@
     },
     {
       "album": {
+        "name": "Suck My MP3",
+        "url": "https://open.spotify.com/album/4eDNlIs0Zm8VhWgLISsZf9"
+      },
+      "artists": [
+        {
+          "name": "MARiMARi",
+          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138329,
+      "name": "Suck My MP3",
+      "url": "https://open.spotify.com/track/5HQpbbX3ge8TYtpAHYBjSw"
+    },
+    {
+      "album": {
         "name": "SUCKER",
         "url": "https://open.spotify.com/album/1k9cy91JH63TwNoNbSJVS4"
       },
@@ -45100,6 +45190,24 @@
       "duration_ms": 163532,
       "name": "tell me",
       "url": "https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J"
+    },
+    {
+      "album": {
+        "name": "TELL ME WHAT I DID",
+        "url": "https://open.spotify.com/album/4Iflxh5BNDCD1v4ZrofpnQ"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153800,
+      "name": "TELL ME WHAT I DID",
+      "url": "https://open.spotify.com/track/1ZUnkBd8RgXxaWkpci5jmh"
     },
     {
       "album": {
@@ -48298,6 +48406,24 @@
       "duration_ms": 226285,
       "name": "veins",
       "url": "https://open.spotify.com/track/4VpfWYX22H2B27glBf4t19"
+    },
+    {
+      "album": {
+        "name": "VENOM",
+        "url": "https://open.spotify.com/album/01p1sC68uf1AFy0XyTjuVI"
+      },
+      "artists": [
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163862,
+      "name": "VENOM",
+      "url": "https://open.spotify.com/track/7M24m8PIrhFBKaoHiHIGJc"
     },
     {
       "album": {

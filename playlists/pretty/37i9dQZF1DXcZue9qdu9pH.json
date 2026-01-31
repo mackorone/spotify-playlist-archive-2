@@ -1,6 +1,6 @@
 {
   "description": "Come, lets take a soulful journey through rhythmic grooves",
-  "num_followers": 15876,
+  "num_followers": 15881,
   "original_name": "Alternative Avenue",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,30 @@
       "duration_ms": 144474,
       "name": "gin and wine - Remix",
       "url": "https://open.spotify.com/track/1iiHhZQ6TVLG5ETjoUnZhs"
+    },
+    {
+      "added_at": "2026-01-29 23:59:17",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/4cMQm2bOcMciDtvhn3wydk"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/1fQZAx9ujkgjuFbVfskQ31"
+        },
+        {
+          "name": "Keya Nemesis",
+          "url": "https://open.spotify.com/artist/0uvd3XlE4E0XhRpJnimNao"
+        },
+        {
+          "name": "4ourton",
+          "url": "https://open.spotify.com/artist/3i21lmJVuwJI6pgUIDaThk"
+        }
+      ],
+      "duration_ms": 177464,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2Yz0qjHJgudAbKQCzXTmlQ"
     },
     {
       "added_at": "2026-01-29 23:59:17",

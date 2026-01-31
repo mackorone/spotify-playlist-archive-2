@@ -1,12 +1,12 @@
 {
   "description": "Music around the world \u2708\ufe0f",
-  "num_followers": 50056,
+  "num_followers": 50062,
   "original_name": "Kitsun\u00e9 Musique Essentials (2026)",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "AAAMsK+ATjR4fHtZ1hDa+f4GNyas+vHP",
+  "snapshot_id": "AAAMsq3wb41DRvNLv2PE3iAGmK5MzgW0",
   "tracks": [
     {
       "added_at": "2025-11-03 10:48:27",
@@ -119,6 +119,22 @@
     {
       "added_at": "2025-11-03 10:48:27",
       "album": {
+        "name": "GET LOST",
+        "url": "https://open.spotify.com/album/55xkAVaINyTwteO7nsBnWp"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "GET LOST",
+      "url": "https://open.spotify.com/track/3lOH1zjcMl32bwnaCi8VHK"
+    },
+    {
+      "added_at": "2025-11-03 10:48:27",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/5FRpukRgaN2kZxiji63fn0"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 279733,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6HMrZn76vPSiKl3u6Z6RsC"
-    },
-    {
-      "added_at": "2025-11-03 10:48:27",
-      "album": {
-        "name": "GET LOST",
-        "url": "https://open.spotify.com/album/55xkAVaINyTwteO7nsBnWp"
-      },
-      "artists": [
-        {
-          "name": "MATVE\u00cf",
-          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "GET LOST",
-      "url": "https://open.spotify.com/track/3lOH1zjcMl32bwnaCi8VHK"
     },
     {
       "added_at": "2025-11-03 10:48:27",
@@ -643,6 +643,26 @@
     {
       "added_at": "2025-11-03 10:48:27",
       "album": {
+        "name": "Kitsun\u00e9: Lisztomania (Remixes)",
+        "url": "https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Classixx",
+          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
+        }
+      ],
+      "duration_ms": 304413,
+      "name": "Lisztomania - Classixx Version",
+      "url": "https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr"
+    },
+    {
+      "added_at": "2025-11-03 10:48:27",
+      "album": {
         "name": "L.Y.E",
         "url": "https://open.spotify.com/album/6XaBsdw5PkDbD6BmY53fIJ"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 142844,
       "name": "Cheney Lane - Mixed",
       "url": "https://open.spotify.com/track/0nLAdB2GcA4HVa6Nbo54op"
-    },
-    {
-      "added_at": "2025-11-03 10:48:27",
-      "album": {
-        "name": "Kitsun\u00e9: Lisztomania (Remixes)",
-        "url": "https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Classixx",
-          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
-        }
-      ],
-      "duration_ms": 304413,
-      "name": "Lisztomania - Classixx Version",
-      "url": "https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr"
     },
     {
       "added_at": "2025-11-03 10:48:27",

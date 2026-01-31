@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 ### [K\-Webtoon/Anime OST \(K\-웹툰/애니메이션 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: 작전명 순정\(Operation: True Love\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: 다크문: 달의 제단\(DARK MOON: THE BLOOD ALTAR\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,706 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,707 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 50 | [MAY LILY](https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj) | [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8) | [I'm the Queen in This Life \(Original Soundtrack\) Part.1](https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl) | 3:01 |
 | 51 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 |
 | 52 | [minimal warm \(She is My Type♡ X CHANYEOL\)](https://open.spotify.com/track/1Lp1fMo9DyDVIv83q94cdy) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [minimal warm \(She is My Type♡ X CHANYEOL\)](https://open.spotify.com/album/5HkjTGtUKjCDLLGEnb1nl8) | 3:13 |
-| 53 | [Make You Shine \- English Version](https://open.spotify.com/track/3fJ5fp0kHq2FU4LX1cm9xT) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Make You Shine \(English Version\)](https://open.spotify.com/album/2g3UC5FQKRrkNYaQw2zYm8) | 3:19 |
-| 54 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
+| 53 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
+| 54 | [Make You Shine \- English Version](https://open.spotify.com/track/3fJ5fp0kHq2FU4LX1cm9xT) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Make You Shine \(English Version\)](https://open.spotify.com/album/2g3UC5FQKRrkNYaQw2zYm8) | 3:19 |
 | 55 | [Stigmatized](https://open.spotify.com/track/3xGOxUqd1sRIl0gJjUhFwC) | [Hebi](https://open.spotify.com/artist/0hJZEIh0mcRY6wl5LAlpDv) | [Webtoon <Myst, Might, Mayhem> OST Part\. 3](https://open.spotify.com/album/307mpujRU3klkpkZVZklSd) | 4:00 |
-| 56 | [True Love](https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [True Love \(Secret Relationships X LEECHANGSUB\)](https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ) | 3:49 |
-| 57 | [Red Moon](https://open.spotify.com/track/4JIqOCjC3U6VXIc8Ckr7wo) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Webtoon <Myst, Might, Mayhem> OST Part\. 1 Red Moon](https://open.spotify.com/album/1sTTIJ1vHRhyphKkixoaEB) | 3:20 |
+| 56 | [Red Moon](https://open.spotify.com/track/4JIqOCjC3U6VXIc8Ckr7wo) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Webtoon <Myst, Might, Mayhem> OST Part\. 1 Red Moon](https://open.spotify.com/album/1sTTIJ1vHRhyphKkixoaEB) | 3:20 |
+| 57 | [True Love](https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [True Love \(Secret Relationships X LEECHANGSUB\)](https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ) | 3:49 |
 | 58 | [1 Min 1 Sec](https://open.spotify.com/track/5hGceyyHIvXEeOGGtdYejj) | [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [1 Min 1 Sec \(Odd Girl Out X HYUN SEO\) \[Original Soundtrack\]](https://open.spotify.com/album/1SKq5EMdhbqcpop9lSyLPH) | 2:41 |
 | 59 | [The invention of romance \(WEBTOON 'Discovery of Love' X BIG Naughty\)](https://open.spotify.com/track/3VwwxnQlYfAIIIWwgvdAWR) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The invention of romance \(WEBTOON 'Discovery of Love' X BIG Naughty\)](https://open.spotify.com/album/3aoVOedTKPTcLJBa7F5ofg) | 2:59 |
 | 60 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 68 | [Flower, Wind, and You](https://open.spotify.com/track/6paRgkIe7XCAkDkEawYtqc) | [Mitsukiyo](https://open.spotify.com/artist/0cdpFI2dZC34peIkjI1rLs), [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [Flower, Wind, You \(Blue Archive\)](https://open.spotify.com/album/0pg40CiQu2H6HP06GTyUYb) | 3:30 |
 | 69 | [Confession \(Romance 101 X Huh Gak\)](https://open.spotify.com/track/7iW3Ygc2Boioeykec6Jcdh) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Confession \(Romance 101 X Huh Gak\)](https://open.spotify.com/album/3S8BS4rLJ63faZgACxiID8) | 3:55 |
 | 70 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
-| 71 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 |
-| 72 | [Love Revolution](https://open.spotify.com/track/6ABW0qGEjyIAnCzFIUe4Bh) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [MION](https://open.spotify.com/artist/3W6iVC49XXZ0yovMbYerho) | [Love Revolution \(Original Television Soundtrack\)](https://open.spotify.com/album/35mxSJHzpfoEBpiH1sFPpt) | 3:41 |
-| 73 | [With You](https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [With You \(No Office Romance! X Young K \(DAY6\)\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv) | 3:57 |
+| 71 | [With You](https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [With You \(No Office Romance! X Young K \(DAY6\)\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv) | 3:57 |
+| 72 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 |
+| 73 | [Love Revolution](https://open.spotify.com/track/6ABW0qGEjyIAnCzFIUe4Bh) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [MION](https://open.spotify.com/artist/3W6iVC49XXZ0yovMbYerho) | [Love Revolution \(Original Television Soundtrack\)](https://open.spotify.com/album/35mxSJHzpfoEBpiH1sFPpt) | 3:41 |
 | 74 | [The Extra \(One of a Kind Romance\)](https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [The Extra \(One of a Kind Romance\)](https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG) | 2:55 |
 | 75 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 |
 | 76 | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 99 | [99 \(Guide to Proper Romance X Standing Egg\)](https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [99 \(Guide to Proper Romance X Standing Egg\)](https://open.spotify.com/album/1pXlGxPTb12oa0nnqKPO1g) | 3:32 |
 | 100 | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/track/5rMVefs5zO1jcXt10WUodn) | [Loco](https://open.spotify.com/artist/6fSCmJlp1Oli2qgnSkyA7A) | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC) | 3:19 |
 
-Snapshot ID: `AAAAAHbbHp6RRYhiIZAWqEjsCZywlNI0`
+Snapshot ID: `AAAAABNVpr+QqAKzLiHlEQzX6crQMHjz`

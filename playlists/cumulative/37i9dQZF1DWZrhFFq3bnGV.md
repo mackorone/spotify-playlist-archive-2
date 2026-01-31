@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: ArumtaLa
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Jundy Salut
 
-284 songs - 19 hr 43 min
+285 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Dream Lulubye](https://open.spotify.com/track/14BlgC34sdKKTEvcuhMPOv) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX), [Agam Hamzah](https://open.spotify.com/artist/0Q93JEJbQhqMkTZOvC764M) | [Dream Lulubye](https://open.spotify.com/album/1i43dJTiD4TFpcQ5p35J6g) | 6:30 | 2023-03-24 | 2024-08-02 |
 | [Dunia](https://open.spotify.com/track/7te1TuQxKFWrftuBuDjRu7) | [Jo Soegono](https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p) | [Prof Jo](https://open.spotify.com/album/7z095HYTK1SgEbsg5RyqSE) | 3:43 | 2025-11-20 |  |
 | [Elevator Music](https://open.spotify.com/track/3JPlpg1N3G4wv5QrTOSjvR) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Elevator Music](https://open.spotify.com/album/5AjKa0nb3p4CSPOpICdWNu) | 2:52 | 2025-09-11 |  |
-| [Embraceable You](https://open.spotify.com/track/3J0xvBAilIc8RbeNRcTIOj) | [Vanessa Shavonne](https://open.spotify.com/artist/4ITvgKI1DUW1wDPkWEycP9) | [Embraceable You](https://open.spotify.com/album/1GrxQBJFYVkFuvlmFW8cBX) | 5:25 | 2025-06-26 |  |
+| [Embraceable You](https://open.spotify.com/track/3J0xvBAilIc8RbeNRcTIOj) | [Vanessa Shavonne](https://open.spotify.com/artist/4ITvgKI1DUW1wDPkWEycP9) | [Embraceable You](https://open.spotify.com/album/1GrxQBJFYVkFuvlmFW8cBX) | 5:25 | 2025-06-26 | 2026-01-31 |
 | [Entah](https://open.spotify.com/track/5c8tb3bS3KtR0H56OnDKwj) | [Sisasa](https://open.spotify.com/artist/3xC683HyOA5mFKwuCyJDc1) | [Sisi Lain](https://open.spotify.com/album/49VL4XUeqZHjzOiWOxzi8R) | 4:36 | 2023-03-09 | 2025-09-12 |
 | [Enter The Forest](https://open.spotify.com/track/1igx6zG9HrUur1v0Xm8Bn2) | [Achi Hardjakusumah](https://open.spotify.com/artist/4DHHEVXeggPQInQQCa7OJW), [Ammir Gita](https://open.spotify.com/artist/1Tibn3fgyF89en7LbMX7No), [Vito Jr.](https://open.spotify.com/artist/0RXxMFheFjksSYzqJlSoqe), [Viandebas](https://open.spotify.com/artist/61G4WS8ioqfVTCktOQNvJF), [Kabul Oktavianus](https://open.spotify.com/artist/3JB0ctZ30YXBaFp475FxMr), [Housman Pranoto](https://open.spotify.com/artist/2cWhXmXb82NiU5ZJgeyMBf) | [Enter The Forest](https://open.spotify.com/album/37E5B9MPot8YmWWw8JyQ6c) | 4:42 | 2024-07-08 | 2025-05-30 |
 | [Essence](https://open.spotify.com/track/43P2BUpH7mWjOx9nLZpC8C) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Emma Volard](https://open.spotify.com/artist/2dNnJIEECfh07bv1jwmfTL) | [Snakes & Ladders](https://open.spotify.com/album/3YZtiYIwDMveS0c7M4zWSO) | 4:18 | 2025-06-12 |  |
@@ -278,6 +278,7 @@
 | [The Way You Make Me Feel](https://open.spotify.com/track/7sncCClNIeE5i54JrkirGI) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7), [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG) | [The Way You Make Me Feel](https://open.spotify.com/album/3RjLQCopcBOikdCe19NVtH) | 3:40 | 2022-09-16 | 2023-11-04 |
 | [Til The End of Time](https://open.spotify.com/track/0Xb2tDzOibuMtXFeutMflf) | [Aul Persneling](https://open.spotify.com/artist/5xIs5rD7iC31J8ZcpCj0kb) | [Til The End of Time](https://open.spotify.com/album/3A0HkDBiUQZlNYspOmleIh) | 3:54 | 2025-06-26 |  |
 | [Time](https://open.spotify.com/track/2uNW6w5uHdgUktt8vFz0Pq) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Jessie Tanoko](https://open.spotify.com/artist/2QHCr14mVb7OaFLCu6bDnI) | [Time](https://open.spotify.com/album/43UmfySArofutUhY1bKzkb) | 2:59 | 2022-09-02 | 2023-06-30 |
+| [Trading Path](https://open.spotify.com/track/3bQ1hA2fflw6mXm84QiIY8) | [Jundy Salut](https://open.spotify.com/artist/630LcUjYXp9RxxvnU9fUkP) | [Trading Path](https://open.spotify.com/album/0v6cEGxY0Skz5RPtX6OkeX) | 7:12 | 2026-01-30 |  |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-10-09 |  |
 | [True Love](https://open.spotify.com/track/4UyUg4GESbNUhjKlZerwRN) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN) | [True Love](https://open.spotify.com/album/0jQmL0BclbfbxCXJLvRsBg) | 3:46 | 2022-12-22 | 2023-03-04 |
 | [Tune for Lovely Souls](https://open.spotify.com/track/26UE9dPxITf8w5MeXNajx4) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt), [Musiversal](https://open.spotify.com/artist/0CKghiJKtmUuuPZHFOiwlW) | [Tune for Lovely Souls](https://open.spotify.com/album/3VsWmqZ6JHs4Enq0vdtePx) | 2:37 | 2022-09-02 | 2024-09-07 |

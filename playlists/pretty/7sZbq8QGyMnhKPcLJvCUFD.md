@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 718,544 likes - 265 songs - 12 hr 37 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 718,520 likes - 265 songs - 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 |
 | 2 | [Signs \- Sped Up](https://open.spotify.com/track/01GqGjLGRvDjbclq4bgHiv) | [NAYM](https://open.spotify.com/artist/1FVe6ZI0XiRnwRzylggPtc) | [Signs](https://open.spotify.com/album/1QVAxYd4fdoeNnJc7ECecj) | 3:09 |
 | 3 | [Archangel](https://open.spotify.com/track/1tGq4FApfRobvJuOIBtUlu) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Archangel](https://open.spotify.com/album/0ZGteDT5o5g5U6kXh8WKzE) | 2:59 |
-| 4 | [Passport](https://open.spotify.com/track/1EmzxMOpIjCbEqd0hhTAba) | [Sean Pitaro](https://open.spotify.com/artist/70Jj7g4luHdokdNJXizH0W) | [Passport](https://open.spotify.com/album/1LkDpUI9rPfVsiDxbiGKMC) | 3:23 |
+| 4 | [passport](https://open.spotify.com/track/1EmzxMOpIjCbEqd0hhTAba) | [Sean Pitaro](https://open.spotify.com/artist/70Jj7g4luHdokdNJXizH0W) | [passport](https://open.spotify.com/album/1LkDpUI9rPfVsiDxbiGKMC) | 3:23 |
 | 5 | [ISORIA](https://open.spotify.com/track/20FC2sm506KUAmJaDOLLQw) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53), [kellapsage](https://open.spotify.com/artist/4TGsEz9x7p8SkARvMyklH4), [glossier](https://open.spotify.com/artist/0NS84XuaSPJTVRebjWQi7v) | [ISORIA](https://open.spotify.com/album/2ZcLKXUyxEJugsJFhiLoR0) | 2:25 |
 | 6 | [Too Late](https://open.spotify.com/track/2VTv6D9uy9kslRn5suqsy5) | [BENJAMINRICH](https://open.spotify.com/artist/4TD3d7oNp9cr8Ub6QUI0XJ), [Daniel Javan](https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1) | [Too Late](https://open.spotify.com/album/5YwQkop3jsezkgoF3Zshi2) | 2:39 |
 | 7 | [Just The Way It Goes](https://open.spotify.com/track/17BTpUvdCQBZd5wBJPa3rI) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I) | [Just The Way It Goes](https://open.spotify.com/album/6wXde8nnDrHZArLo5uAzLI) | 3:12 |

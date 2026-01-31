@@ -2579,6 +2579,28 @@
     },
     {
       "album": {
+        "name": "Appalachia",
+        "url": "https://open.spotify.com/album/428KzGfU0jpgqpebyZmITs"
+      },
+      "artists": [
+        {
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        },
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297141,
+      "name": "Cast Iron Heart",
+      "url": "https://open.spotify.com/track/0EALtIhPNmWQgYdT3hxfIX"
+    },
+    {
+      "album": {
         "name": "Weathervanes",
         "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
       },
@@ -9155,8 +9177,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Back to Life",
+        "url": "https://open.spotify.com/album/2tf6b0OVMQg6Nh7O5OgHKu"
       },
       "artists": [
         {
@@ -15932,24 +15954,6 @@
       "duration_ms": 220608,
       "name": "Too Stoned To Cry [Feat. Billy Strings]",
       "url": "https://open.spotify.com/track/1PcMQHHrQCNgGwEXB4QIQj"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Emily Scott Robinson",
-          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
-        }
-      ],
-      "date_added": "2026-01-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/0EALtIhPNmWQgYdT3hxfIX"
     },
     {
       "album": {

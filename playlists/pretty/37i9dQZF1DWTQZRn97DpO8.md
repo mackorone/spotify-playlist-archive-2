@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : Myra
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,743 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,740 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [777](https://open.spotify.com/track/42e9HfXNoupybWl2RcnCTp) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [](https://open.spotify.com/album/null) | 3:05 |
+| 1 | [777](https://open.spotify.com/track/42e9HfXNoupybWl2RcnCTp) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [YAPI](https://open.spotify.com/album/6iDjU53fVXp9BB80hntvHT) | 3:05 |
 | 2 | [Toxique](https://open.spotify.com/track/6enp8sO7sF6vtFIWKnp1w7) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [RE](https://open.spotify.com/album/046Gl25POXsyC1oVLFZofO) | 2:44 |
 | 3 | [lâche le contrôle](https://open.spotify.com/track/26TKvMvqJihea2JL9BtRz4) | [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [lâche le contrôle](https://open.spotify.com/album/1LeceXsoPcFUVHLIZmaGYc) | 3:03 |
 | 4 | [soir d'hiver](https://open.spotify.com/track/3WKm0IoZr5mm4ISVgbG0Yz) | [HASNA](https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq) | [soir d'hiver](https://open.spotify.com/album/7rpyGMaRq1dLYpWPtGc0pB) | 3:06 |

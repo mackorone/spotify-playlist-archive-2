@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : NV Vigneshwer Karthik",
-  "num_followers": 18266,
+  "num_followers": 18274,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEku+ARarUNKF/67MasEVwjFUZUK",
+  "snapshot_id": "AAAAANInAOMrzp4dky6Ib1vW3Hbv78OI",
   "tracks": [
     {
       "added_at": "2026-01-09 19:30:11",
@@ -47,6 +47,26 @@
       "duration_ms": 218181,
       "name": "Raajabhodai",
       "url": "https://open.spotify.com/track/047XxfeutL8jtYzmMrsXoO"
+    },
+    {
+      "added_at": "2026-01-30 04:48:10",
+      "album": {
+        "name": "Paatha Edathila",
+        "url": "https://open.spotify.com/album/03VPIqFCLf2B3mCafybAya"
+      },
+      "artists": [
+        {
+          "name": "808Krshna",
+          "url": "https://open.spotify.com/artist/4BmMGRjcKQTnEaM2nCIaBE"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        }
+      ],
+      "duration_ms": 192984,
+      "name": "Paatha Edathila",
+      "url": "https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ"
     },
     {
       "added_at": "2025-11-05 07:36:13",
@@ -173,6 +193,54 @@
       "url": "https://open.spotify.com/track/4NR1O8WvE23KUB0tCFhp4r"
     },
     {
+      "added_at": "2026-01-30 08:35:32",
+      "album": {
+        "name": "Kirukku",
+        "url": "https://open.spotify.com/album/5KeXTfXpFDGfCAeDOmPxko"
+      },
+      "artists": [
+        {
+          "name": "Tha Mystro",
+          "url": "https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ"
+        },
+        {
+          "name": "nisionthetrack",
+          "url": "https://open.spotify.com/artist/0jo50HrDuEQwS1dzH24M1q"
+        },
+        {
+          "name": "Dayan Shan",
+          "url": "https://open.spotify.com/artist/5DRRvEBaUbGxPSmHAP0gCc"
+        },
+        {
+          "name": "Kowtham Mohan",
+          "url": "https://open.spotify.com/artist/7aC22ZH1LXLBOJHhdBnB24"
+        }
+      ],
+      "duration_ms": 205338,
+      "name": "Kirukku",
+      "url": "https://open.spotify.com/track/0iZUiq8mtUOhwASlfdnCxL"
+    },
+    {
+      "added_at": "2026-01-30 05:06:13",
+      "album": {
+        "name": "Venaam",
+        "url": "https://open.spotify.com/album/1S90ICcRRRPJ386kBzyGqd"
+      },
+      "artists": [
+        {
+          "name": "Aathi",
+          "url": "https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp"
+        },
+        {
+          "name": "Music Kitchen",
+          "url": "https://open.spotify.com/artist/4zzem8yWl7g0OAnLCb4OIP"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Venaam",
+      "url": "https://open.spotify.com/track/1e2NvcmWmgoGlIpZxf7bRk"
+    },
+    {
       "added_at": "2026-01-27 06:17:07",
       "album": {
         "name": "NEERODA",
@@ -187,6 +255,22 @@
       "duration_ms": 179095,
       "name": "NEERODA",
       "url": "https://open.spotify.com/track/5g1bOJVsi8SbCy7aNMTlip"
+    },
+    {
+      "added_at": "2026-01-30 08:33:05",
+      "album": {
+        "name": "Knock Knock Kadhal",
+        "url": "https://open.spotify.com/album/18CQKctTvOISTNAQOt84mi"
+      },
+      "artists": [
+        {
+          "name": "Lavloop",
+          "url": "https://open.spotify.com/artist/6CnYMMTCuoTkCGF5B71rHs"
+        }
+      ],
+      "duration_ms": 258658,
+      "name": "Knock Knock Kadhal",
+      "url": "https://open.spotify.com/track/5oeyn2YL6TK7wyWEMqJLaT"
     },
     {
       "added_at": "2026-01-09 19:30:11",
@@ -207,6 +291,22 @@
       "duration_ms": 176333,
       "name": "yeno",
       "url": "https://open.spotify.com/track/62Ga2w2umiuR97MUKVQKWm"
+    },
+    {
+      "added_at": "2026-01-30 05:02:33",
+      "album": {
+        "name": "Theeradha",
+        "url": "https://open.spotify.com/album/7L9ESTRBYoJ8zcTSSE6UI8"
+      },
+      "artists": [
+        {
+          "name": "Luksimi Sivaneswaralingam",
+          "url": "https://open.spotify.com/artist/1yu8UL7E8i1XSFjHLjbYUb"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Theeradha",
+      "url": "https://open.spotify.com/track/0pcehazrEcS8txh2APAjKj"
     },
     {
       "added_at": "2026-01-29 14:48:41",
@@ -1063,26 +1163,6 @@
     {
       "added_at": "2026-01-09 19:30:11",
       "album": {
-        "name": "Aarohanam",
-        "url": "https://open.spotify.com/album/5Da0j8ZDRVATizTR7c2gTU"
-      },
-      "artists": [
-        {
-          "name": "PRI",
-          "url": "https://open.spotify.com/artist/3SdB1D3HlBKxhy5kOOQvit"
-        },
-        {
-          "name": "Bak n 4th",
-          "url": "https://open.spotify.com/artist/0XZDSZnm55oXsRvKSsnPyv"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Thedal",
-      "url": "https://open.spotify.com/track/6DF5ghhV4ColVi92w2qFsD"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
         "name": "Kaadhal Vibe (Bachata)",
         "url": "https://open.spotify.com/album/30SMTGvSew2EjPSabpbCuN"
       },
@@ -1427,26 +1507,6 @@
     {
       "added_at": "2026-01-09 19:30:11",
       "album": {
-        "name": "Peththavale",
-        "url": "https://open.spotify.com/album/4ysz4p0MSR8mzgPxDcCQb8"
-      },
-      "artists": [
-        {
-          "name": "Sajay ARS",
-          "url": "https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2"
-        },
-        {
-          "name": "Muji Fit",
-          "url": "https://open.spotify.com/artist/3AKk2SrkSQUqW3F2WfSsbq"
-        }
-      ],
-      "duration_ms": 232584,
-      "name": "Peththavale",
-      "url": "https://open.spotify.com/track/4AgGxKhxwYk4k8sE2FcTuH"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
         "name": "ZARA",
         "url": "https://open.spotify.com/album/205Jpx2wRSumnJRr4uqaJb"
       },
@@ -1487,22 +1547,6 @@
     {
       "added_at": "2026-01-09 19:30:11",
       "album": {
-        "name": "Kadhalikkiren (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/7KSmaRHan0muLPyx3zaVpr"
-      },
-      "artists": [
-        {
-          "name": "Dhinesh Nagarajan",
-          "url": "https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt"
-        }
-      ],
-      "duration_ms": 241682,
-      "name": "Ulla - Demo",
-      "url": "https://open.spotify.com/track/7FPsRfgaeLALUfANuFybLe"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
         "name": "Vaalillaa Kaathadi",
         "url": "https://open.spotify.com/album/5sknjzg4E5p7ipCmH7b9gd"
       },
@@ -1515,22 +1559,6 @@
       "duration_ms": 186000,
       "name": "Vaalillaa Kaathadi",
       "url": "https://open.spotify.com/track/3x3OznaZYBUvediyQPcgkK"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Malayala Manjaa Kuruvi",
-        "url": "https://open.spotify.com/album/3AEzzpVt2bQJcCpKg1yErR"
-      },
-      "artists": [
-        {
-          "name": "Mukesh Munusamy",
-          "url": "https://open.spotify.com/artist/22IF5ivcomQilA88UfImoi"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Malayala Manjaa Kuruvi",
-      "url": "https://open.spotify.com/track/1bFDHSDEZ6gYEhq5KlaiBB"
     },
     {
       "added_at": "2026-01-09 19:30:11",
@@ -1551,78 +1579,6 @@
       "duration_ms": 292504,
       "name": "Kanden Kanden",
       "url": "https://open.spotify.com/track/3bwxIiFzYcNMlPJLj8OEPO"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Perazhage",
-        "url": "https://open.spotify.com/album/7Ax7yT3M2y6toBFJp4cSFY"
-      },
-      "artists": [
-        {
-          "name": "Paal Payasam",
-          "url": "https://open.spotify.com/artist/3KjtDuNzR7qDPXc0mtGBPn"
-        },
-        {
-          "name": "Sanjay Manickam",
-          "url": "https://open.spotify.com/artist/3iDk43mQVlnnKhM97WofQk"
-        },
-        {
-          "name": "Swetha Prabakaran",
-          "url": "https://open.spotify.com/artist/5PETiSfBpzFxjaBPfTfJo2"
-        },
-        {
-          "name": "Siva Sankar",
-          "url": "https://open.spotify.com/artist/0ChTCGblakr73SxDGIp6Y7"
-        }
-      ],
-      "duration_ms": 273952,
-      "name": "Perazhage",
-      "url": "https://open.spotify.com/track/7GpSSm9qVk47I8cizkWd9m"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Kadhal (From \"Loopd\")",
-        "url": "https://open.spotify.com/album/4IqOXmlbKp2fW9vIJzTT1E"
-      },
-      "artists": [
-        {
-          "name": "Peddapalli Rohith (PR)",
-          "url": "https://open.spotify.com/artist/45m3peSZBkrwRhyxXGKUv0"
-        },
-        {
-          "name": "Abhilash Britto",
-          "url": "https://open.spotify.com/artist/2s5XAsIm0UsRwM670fsHFb"
-        },
-        {
-          "name": "Junaid Kumar",
-          "url": "https://open.spotify.com/artist/2JDJv3xcqwBsCjeEL0oSTN"
-        },
-        {
-          "name": "Aishwarya Daruri",
-          "url": "https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf"
-        }
-      ],
-      "duration_ms": 313600,
-      "name": "Kadhal (From \"Loopd\")",
-      "url": "https://open.spotify.com/track/7kaWsRcGAk4uuoCpJ4HHkw"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Kadhalikkiren (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/7KSmaRHan0muLPyx3zaVpr"
-      },
-      "artists": [
-        {
-          "name": "Dhinesh Nagarajan",
-          "url": "https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt"
-        }
-      ],
-      "duration_ms": 126384,
-      "name": "Vazhiyadi Penne",
-      "url": "https://open.spotify.com/track/4drwg1x5CQm4UY0JwsbETX"
     }
   ],
   "unique_name": "RADAR Tamil",

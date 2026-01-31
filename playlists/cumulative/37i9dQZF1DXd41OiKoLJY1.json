@@ -52243,6 +52243,24 @@
     },
     {
       "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/3RwUzpLAaqzUCMtqozyxyV"
+      },
+      "artists": [
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/6AjTfOb0RPEhWjLuIptzUl"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297222,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/2Q9W3ssYGi2YsXwcsjhG2N"
+    },
+    {
+      "album": {
         "name": "Parapelikula",
         "url": "https://open.spotify.com/album/6aAicHFGbqRnJTSekuYvM1"
       },
@@ -68620,6 +68638,32 @@
       "duration_ms": 213933,
       "name": "Today",
       "url": "https://open.spotify.com/track/5GDkQB4tRRkNTgJJ7FkdJu"
+    },
+    {
+      "album": {
+        "name": "Todo!",
+        "url": "https://open.spotify.com/album/7767SmjBYu9vCVq7CbC7ZU"
+      },
+      "artists": [
+        {
+          "name": "BTDTbeats",
+          "url": "https://open.spotify.com/artist/0rCPgUfWXPdKYIvTeZcy7x"
+        },
+        {
+          "name": "Moyy",
+          "url": "https://open.spotify.com/artist/52m6eAeQoYauhcFWUGk23e"
+        },
+        {
+          "name": "Arvy T",
+          "url": "https://open.spotify.com/artist/5E1t9mWRm4znrI8w3cvuyN"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216860,
+      "name": "Todo!",
+      "url": "https://open.spotify.com/track/2wUxktp9sI4BhzmAqI2vWh"
     },
     {
       "album": {

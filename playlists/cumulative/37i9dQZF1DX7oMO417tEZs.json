@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: James Blake",
+  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: KNEECAP",
   "name": "Proto-",
   "tracks": [
     {
@@ -4926,6 +4926,24 @@
       "duration_ms": 156233,
       "name": "C'est ma lady",
       "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
+    },
+    {
+      "album": {
+        "name": "W/out me",
+        "url": "https://open.spotify.com/album/2UW87FWTtKU3cF1voB1UnY"
+      },
+      "artists": [
+        {
+          "name": "ACHEL",
+          "url": "https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "c'que \u00e7a m'apporte",
+      "url": "https://open.spotify.com/track/5sAOMqwZR9g3h4EDpDOBem"
     },
     {
       "album": {
@@ -17837,6 +17855,24 @@
     },
     {
       "album": {
+        "name": "Liars Tale",
+        "url": "https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197906,
+      "name": "Liars Tale",
+      "url": "https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0"
+    },
+    {
+      "album": {
         "name": "perhaps!",
         "url": "https://open.spotify.com/album/36s79gCWJ9Nq1syJQ8gQY5"
       },
@@ -22391,7 +22427,7 @@
     },
     {
       "album": {
-        "name": "Offscreen - The Moment (The Score)",
+        "name": "Offscreen",
         "url": "https://open.spotify.com/album/42IL2uIgYRpVZzkcjmwyZI"
       },
       "artists": [
@@ -22404,7 +22440,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 334384,
-      "name": "Offscreen - The Moment (The Score)",
+      "name": "Offscreen",
       "url": "https://open.spotify.com/track/3sGNs97yV0MOz5KrHtlJ6t"
     },
     {
@@ -31150,7 +31186,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 257595,
       "name": "the long night",
       "url": "https://open.spotify.com/track/0CS4asinuJft3n2sE12zog"
@@ -31728,7 +31764,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 292106,
       "name": "Tikwid - demo",
       "url": "https://open.spotify.com/track/3hvrIpfLZpQ3mUHMqGLgHX"

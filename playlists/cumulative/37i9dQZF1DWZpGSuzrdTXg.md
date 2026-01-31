@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-288 songs - 16 hr 34 min
+289 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Apricity](https://open.spotify.com/track/0FoYbh9V3vpHDk5CSBvXWv) | [Ruud Houweling](https://open.spotify.com/artist/2IONeTGcpMPwB3v6CCyLQ8) | [Accidental Pictures](https://open.spotify.com/album/3fz3kqKLpDiVvJT3dzuTRK) | 2:45 | 2024-02-09 | 2025-03-13 |
 | [april](https://open.spotify.com/track/7xba9o02EQR0YMrBOZ4d10) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [april](https://open.spotify.com/album/6qJIriPhREpx7cSdgGAtFL) | 2:21 | 2025-09-17 |  |
 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 | 2024-04-25 | 2026-01-24 |
+| [Aurora](https://open.spotify.com/track/4zkhwKB80K68JoX0QFA3KH) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn) | [Aurora](https://open.spotify.com/album/2UHMIxC4iCCziZ0xJAEQ9e) | 3:33 | 2026-01-30 |  |
 | [Autumn Love](https://open.spotify.com/track/236HZ8DhG7k0cXgem99oPP) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Autumn Love](https://open.spotify.com/album/2aENqkLbaJgieNQX7fqDdl) | 3:18 | 2023-12-14 | 2026-01-24 |
 | [Autumn Love](https://open.spotify.com/track/6iBI0LmXBzcexTweRPjkPP) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Autumn Love](https://open.spotify.com/album/2NTUSfIlrjzhVvEoYb9BLK) | 3:18 | 2024-02-15 | 2024-04-19 |
 | [Baby Blue \- Acoustic](https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [Baby Blue \(Acoustic\)](https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c) | 3:05 | 2025-01-25 |  |
@@ -264,7 +265,7 @@
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2022-12-22 | 2024-05-17 |
 | [Till the Morning \- Symphonic Version](https://open.spotify.com/track/0p2myH6LY0j7vIMq0WW9Eu) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Till the Morning \(Symphonic Version\)](https://open.spotify.com/album/5E3kipqq7kqOhN6uMTNYlk) | 4:28 | 2026-01-23 |  |
 | [Till The Sun Comes Up](https://open.spotify.com/track/7IxJ4XaMCSJ0JKBffm54z3) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [The Lucky Ones](https://open.spotify.com/album/75r6CVr4CkOrsGTUGbns42) | 3:21 | 2022-12-22 | 2023-07-14 |
-| [Time To Talk](https://open.spotify.com/track/05zgKmDFu6xvnaPcGD6DhA) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn) | [Time To Talk](https://open.spotify.com/album/4uJTZ5NqiavcZcWTi3JvUK) | 3:23 | 2024-11-22 |  |
+| [Time To Talk](https://open.spotify.com/track/05zgKmDFu6xvnaPcGD6DhA) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn) | [Time To Talk](https://open.spotify.com/album/4uJTZ5NqiavcZcWTi3JvUK) | 3:23 | 2024-11-22 | 2026-01-31 |
 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 | 2022-12-22 | 2025-01-26 |
 | [Too Good To Be True \(feat\. Merrick Winter\)](https://open.spotify.com/track/5VD2s6ASgUPXunzA7vVra3) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [Merrick Winter](https://open.spotify.com/artist/5saJxCU9CGqagElzzIXgfI) | [Too Good To Be True \(feat\. Merrick Winter\)](https://open.spotify.com/album/3MifL1uttV2mS2snSADT6X) | 3:17 | 2026-01-23 |  |
 | [Trade it for the Night \- Acoustic Version](https://open.spotify.com/track/6rRRpQjOiXvR70uYxmPcJz) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Neco Novellas](https://open.spotify.com/artist/2pHjS1OXh3WzeKKYRs68Fe) | [Trade it for the Night \(Unfold Bundle\)](https://open.spotify.com/album/0Fk2Qyu8r17ylGxOciMV1e) | 3:22 | 2025-02-20 |  |

@@ -267,6 +267,40 @@
     },
     {
       "album": {
+        "name": "6X1",
+        "url": "https://open.spotify.com/album/26IKwluVcFrmDUnL9fEM5r"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Ayo Th",
+          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
+        },
+        {
+          "name": "Mozin",
+          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "6X1",
+      "url": "https://open.spotify.com/track/671UIqEjemgUXQY62PrsLi"
+    },
+    {
+      "album": {
         "name": "7 Galo",
         "url": "https://open.spotify.com/album/3IUE2l0rbXzT7x0QCILLxo"
       },
@@ -9652,7 +9686,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 183285,
       "name": "O Tempo \u00e9 Ouro",
       "url": "https://open.spotify.com/track/42zLfiSnZ1rCdSywazHqv9"
@@ -10188,6 +10222,40 @@
       "duration_ms": 150737,
       "name": "Pared\u00e3o",
       "url": "https://open.spotify.com/track/1CQ3yFkEikwNHwApaV0Nr0"
+    },
+    {
+      "album": {
+        "name": "DOISMILEVINTEHOJE",
+        "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "Pasta Registrada",
+      "url": "https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl"
     },
     {
       "album": {
@@ -14522,7 +14590,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 150937,
       "name": "Vida Loka",
       "url": "https://open.spotify.com/track/3ub5Qgf10UWRkwSEXQHj96"

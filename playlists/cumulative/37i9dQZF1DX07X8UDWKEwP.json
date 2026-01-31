@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Moa Rivera & Jerry Rivera",
+  "description": "Lo nuevo del mundo tropical. Cover: Daniela Darcourt",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 198950,
       "name": "1 Millon",
       "url": "https://open.spotify.com/track/4uAzAGxZSIQ9yASLH4zo3R"
+    },
+    {
+      "album": {
+        "name": "1+1",
+        "url": "https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186047,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
     },
     {
       "album": {
@@ -276,7 +298,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 229352,
       "name": "A Mi Tierra Volver\u00e9",
       "url": "https://open.spotify.com/track/3prazFPFvOwKPPVIikJW7V"
@@ -3504,6 +3526,24 @@
       "duration_ms": 228986,
       "name": "Cuento Breve",
       "url": "https://open.spotify.com/track/28BXqWI9e4hPMyJizqOQLT"
+    },
+    {
+      "album": {
+        "name": "Cuidado Conmigo (Versi\u00f3n Salsa)",
+        "url": "https://open.spotify.com/album/2jYEAaXVw27hciL5bwgLZd"
+      },
+      "artists": [
+        {
+          "name": "Amy Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205715,
+      "name": "Cuidado Conmigo - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/0t422ehD7Tq6ScQEbFMw9t"
     },
     {
       "album": {
@@ -7636,7 +7676,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 219562,
       "name": "La Mujer Del Proceso - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/3LRDKDnIeI8TNOGdbiyepq"
@@ -10348,7 +10388,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 181480,
       "name": "No Es Amor",
       "url": "https://open.spotify.com/track/1Wa1vilRuR9mu1cuYRSyAZ"
@@ -11032,6 +11072,24 @@
       "duration_ms": 172100,
       "name": "Olor a Kush - Merengue",
       "url": "https://open.spotify.com/track/4ic68ItCjS1yyO6IgLs9s0"
+    },
+    {
+      "album": {
+        "name": "Bohemio",
+        "url": "https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153911,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/7fC9JbQTR20CB6gvWr1NcF"
     },
     {
       "album": {
@@ -12543,6 +12601,24 @@
     },
     {
       "album": {
+        "name": "Quien",
+        "url": "https://open.spotify.com/album/0hNgwLeRtUaLir1rHEwdLp"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259090,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv"
+    },
+    {
+      "album": {
         "name": "Quien Dijo",
         "url": "https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U"
       },
@@ -12602,6 +12678,24 @@
       "duration_ms": 229000,
       "name": "Quiero Decirte - DJ C Remix",
       "url": "https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz"
+    },
+    {
+      "album": {
+        "name": "Quiero estar en su lugar",
+        "url": "https://open.spotify.com/album/4krkywO60g0M8JTYEZ59LA"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180660,
+      "name": "Quiero estar en su lugar",
+      "url": "https://open.spotify.com/track/6fhjbOaN6MakGDxX7eBA15"
     },
     {
       "album": {
@@ -13024,7 +13118,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 216046,
       "name": "Roberto L\u00e1ngara",
       "url": "https://open.spotify.com/track/3j8fj0VSFuwX7l1lsNQU4u"
@@ -13728,7 +13822,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 169173,
       "name": "Si Sabes Contar",
       "url": "https://open.spotify.com/track/3XnoN6xzYezuEzUFgDGuyG"

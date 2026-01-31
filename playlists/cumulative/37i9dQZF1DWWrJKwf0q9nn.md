@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: La Fuente
 
-744 songs - 1 day 13 hr 45 min
+745 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Hold On](https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Hold On](https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv) | 3:24 | 2025-10-23 | 2025-11-28 |
 | [Hold On \(feat\. EVIE\)](https://open.spotify.com/track/2RvQ3rzIbzN3OOwefRothl) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [EVIE](https://open.spotify.com/artist/2NLyAz11eTmhTyaj39KLGo) | [Hold On \(feat\. EVIE\)](https://open.spotify.com/album/4cf08XQ3LKfQcjBq6YSUj4) | 3:22 | 2025-10-31 | 2025-11-28 |
 | [Hold You Close](https://open.spotify.com/track/3oAkenLgVAQNhZMYPr2xQx) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Hold You Close](https://open.spotify.com/album/5kUj5N8dkfn9PMX35xX4oC) | 4:01 | 2025-11-27 | 2025-12-05 |
+| [HONEY](https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [HONEY](https://open.spotify.com/album/2PCSMP8JYKfYvBv2AZ4SaN) | 2:42 | 2026-01-29 |  |
 | [Hot Girls](https://open.spotify.com/track/4u3Veq00x3OwGg8CYtjBvT) | [Albert Harvey](https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Hot Girls](https://open.spotify.com/album/6pfpwgpCyQUzvbbrwZbZVB) | 2:22 | 2025-12-11 | 2026-01-30 |
 | [Hotter](https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Hotter](https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ) | 3:10 | 2025-07-17 | 2025-08-15 |
 | [House Is Gettin' Raw](https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq) | [PAULY!](https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk) | [House Is Gettin' Raw](https://open.spotify.com/album/4szlsAbwcDD7DT11PzysWR) | 2:58 | 2025-11-20 | 2025-12-18 |

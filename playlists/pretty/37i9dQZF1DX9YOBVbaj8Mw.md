@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,298 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,302 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 49 | [Królowa łez](https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9) | [Agnieszka Chylińska](https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO) | [30 lat Agnieszki Chylińskiej \- Kiedyś do Ciebie wrócę](https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky) | 5:10 |
 | 50 | [Nie pamiętam siebie](https://open.spotify.com/track/6SO9q12ayT1nobYScq4zb6) | [Dom Zły](https://open.spotify.com/artist/4Yy4iPTGC2iFfqxPGiv5Lt) | [Ku pogrzebaniu serc](https://open.spotify.com/album/4dDWNi52Fl8CUyStWGz6e9) | 6:54 |
 | 51 | [Edi](https://open.spotify.com/track/44KoYpJ0kv0CpZzU5NWuuL) | [Grzegorz Kupczyk](https://open.spotify.com/artist/3lkaXtLLG1tXxxN50g3Rgu) | [Edi](https://open.spotify.com/album/2eVNqBKwSgxSpMnuFFGXKv) | 3:23 |
-| 52 | [Tobie](https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485) | [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Dziewczyna Słońca](https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL) | 5:36 |
-| 53 | [Song for Sarah](https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [September Night](https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i) | 6:20 |
+| 52 | [Song for Sarah](https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [September Night](https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i) | 6:20 |
+| 53 | [Tobie](https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485) | [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Dziewczyna Słońca](https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL) | 5:36 |
 | 54 | [Better Off](https://open.spotify.com/track/0ZzE5aySLbUQpb71oRjCCs) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [United Kingdom Of Anxiety](https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID) | 3:50 |
 | 55 | [Kołomyja](https://open.spotify.com/track/7m4kQ93BXEsFe8MJb8pJTB) | [Zazula](https://open.spotify.com/artist/25Pf32DS91Er2yv9bWL96U) | [Pieśni Ludu](https://open.spotify.com/album/2Dtr4raDfR1MDTeIfz8C83) | 2:58 |
 | 56 | [Ciągle](https://open.spotify.com/track/3ePTGOjZp25Z1OHBT0L8zQ) | [Cool Kids Of Death](https://open.spotify.com/artist/4illxVu43vK6CgfzDhfunc) | [Origami EP](https://open.spotify.com/album/0EFCMCxvJeAn39A19ZxIhC) | 2:31 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 67 | [Tear](https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF) | [Tymek Papior](https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt) | [Rugs / Carpets](https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk) | 5:12 |
 | 68 | [F Jak Samolot](https://open.spotify.com/track/3Nd5ppPsA2Tl1fMNG1jy7q) | [Tomasz Dąbrowski](https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC), [The Individual Beings](https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz) | [Better](https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao) | 6:01 |
 | 69 | [Letila zozula czerez moju chatu](https://open.spotify.com/track/5kVJA3uPz9HJn2ZaQBosoT) | [Łukasz Ojdana](https://open.spotify.com/artist/24FTXRoseBamWaThnQ6H1F), [DREVO](https://open.spotify.com/artist/68ia1N3xOWMVUlGe7u4hFT), [Mariia Ojdana](https://open.spotify.com/artist/5SlqX2gNJBLGHpZn8dmJAT) | [Wędrujący Ptak](https://open.spotify.com/album/6rIbLAAY1oh8fniB0cStlA) | 2:37 |
-| 70 | [Lusterka](https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [\#INDAWOODS](https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S) | 2:37 |
-| 71 | [Welcome To The Forrest](https://open.spotify.com/track/2wlBxJQQAYfgHyJo4coG61) | [Lukasz Targosz](https://open.spotify.com/artist/1jVCUSiiEjd8RNkjLcLkQa) | [Diabeł \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2EqKEaj0aII5cEOT90J4V8) | 2:17 |
+| 70 | [Welcome To The Forrest](https://open.spotify.com/track/2wlBxJQQAYfgHyJo4coG61) | [Lukasz Targosz](https://open.spotify.com/artist/1jVCUSiiEjd8RNkjLcLkQa) | [Diabeł \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2EqKEaj0aII5cEOT90J4V8) | 2:17 |
+| 71 | [Lusterka](https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [\#INDAWOODS](https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S) | 2:37 |
 | 72 | [Blue Hour](https://open.spotify.com/track/3cXAWUKMUREsKv9Gno7s06) | [Piotr Wyleżoł](https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx), [Andy Middleton](https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N), [Ferenc Nemeth](https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB), [Michał Barański](https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A) | [I Love Music](https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj) | 9:37 |
 | 73 | [Bonzer](https://open.spotify.com/track/1914NxEjaK9z3xQgw228Rc) | [Tomasz Dąbrowski](https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC), [The Individual Beings](https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz) | [Better](https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao) | 5:38 |
 | 74 | [the right place to be \(dzieksa\)](https://open.spotify.com/track/2Ya7ynzASMMMKNdKoCDfKM) | [Adam Jędrysik](https://open.spotify.com/artist/4UB7oFDHh91VBCGpwOB9lV) | [No Soloing, Please](https://open.spotify.com/album/54eQWeBDLsC5mkI6mpu4oe) | 2:05 |

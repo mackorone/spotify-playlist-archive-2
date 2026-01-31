@@ -4,7 +4,7 @@
 
 > The best new dance tracks from independent artists & labels\. Curated by human Spotify editors\. Featuring KE\-YEN.
 
-3,385 songs - 9 day 4 hr 37 min
+3,390 songs - 9 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [CANT GET ENOUGH](https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [CAN'T GET ENOUGH](https://open.spotify.com/album/3iICcwqP3stzRSJ4cQjpYe) | 2:49 | 2024-08-30 | 2024-09-19 |
 | [Canto](https://open.spotify.com/track/3y4hdcjqmX46V5bA29wsgx) | [Sahar](https://open.spotify.com/artist/3b7TXhgeS7YpSumMEwbFJO) | [Canto](https://open.spotify.com/album/0ouYduP6xhLiKclNqmQknn) | 6:23 | 2023-07-19 | 2023-08-24 |
 | [cantthinkofaname](https://open.spotify.com/track/5QxrUAzSRLlVmgWUvhwbLD) | [Dana Vicci](https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4) | [cantthinkofaname](https://open.spotify.com/album/4F7uTTKK65dLfximrw5FhN) | 3:46 | 2023-02-15 | 2023-03-09 |
+| [CARBONE](https://open.spotify.com/track/7MSzSzgKJYOT5YP0QkugAB) | [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6), [Liot](https://open.spotify.com/artist/3QBktyHhrcGj6LonOd1tcP), [Nöel](https://open.spotify.com/artist/4j1NjllSYkvssBWTO7FXqJ) | [CARBONE](https://open.spotify.com/album/6masld7IbVDO1ZQvIZiM0k) | 3:51 | 2026-01-30 |  |
 | [Cardio](https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Cardio](https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC) | 3:08 | 2024-06-14 | 2024-08-15 |
 | [Care 4 U](https://open.spotify.com/track/2KYp9IpK1HURPiKflNwz2i) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [Care 4 U](https://open.spotify.com/album/0j4vyMYQA11sZ3Yr1ZxEu8) | 2:37 | 2023-06-28 | 2023-08-03 |
 | [Care About Us](https://open.spotify.com/track/77ogYT00fpfHIdnge99wc4) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Care About Us](https://open.spotify.com/album/45hlbDtsscYZaQsmC5YipS) | 3:32 | 2024-07-24 | 2024-08-10 |
@@ -1323,6 +1324,7 @@
 | [Head2Toe](https://open.spotify.com/track/4v6pQ662HfpVI3XjbTHh8H) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [In The Mood](https://open.spotify.com/album/3ZYzZUCtlSHTMaRO5RjRXu) | 4:38 | 2022-09-14 | 2022-10-13 |
 | [Heal](https://open.spotify.com/track/7BvdzrPBdw3cA5ac6smFVj) | [Adibanti](https://open.spotify.com/artist/3bXDOLmSQHIP7zAyY633kT) | [Heal](https://open.spotify.com/album/2gXB5QJbD5SfJeQkot7c5P) | 4:19 | 2022-03-31 | 2022-06-16 |
 | [Hear My Call](https://open.spotify.com/track/24SKzzJjBoV9cXqNh8trj0) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Love Unbound](https://open.spotify.com/album/52TMIYpU2uhNcCB0awcvTM) | 4:05 | 2022-10-12 | 2022-10-27 |
+| [Heart](https://open.spotify.com/track/2woJDJD5c1smpFdkWa4kpu) | [Kenta204](https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Heart](https://open.spotify.com/album/3btgZUct7DeyXYAXeFYipy) | 3:59 | 2026-01-30 |  |
 | [Heart Over Mind](https://open.spotify.com/track/2HkwbSvuLtCd83RsO2hev1) | [ece era](https://open.spotify.com/artist/6UMFKxAYDGjZtbUBvMn3xu) | [Bedside Tunes \(Lights On\)](https://open.spotify.com/album/22g0QbOHTwdjHJCx9NwNER) | 3:27 | 2025-08-22 | 2025-09-13 |
 | [Heart Sign](https://open.spotify.com/track/1Qd0XxITbWBYj5rOxdRBR7) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Heart Sign](https://open.spotify.com/album/0hdD2IrVbfDzOh57yj37Vd) | 2:12 | 2025-07-02 | 2025-11-15 |
 | [hearts <3](https://open.spotify.com/track/2o0JbmIEBEJ20f7SXpr7XH) | [Dariush](https://open.spotify.com/artist/3C4HKKPCdlK3Sn9ik1WDkP), [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [bb break fast](https://open.spotify.com/album/5xQytuElt7kUQ3Pus9fdmr) | 4:57 | 2023-04-12 | 2024-01-11 |
@@ -1386,6 +1388,7 @@
 | [Hold Me](https://open.spotify.com/track/3y54PvUPngWdp0zuM7SpOj) | [ZUSO](https://open.spotify.com/artist/6ZsS4MH8OG5vLGrXAoC5Ee) | [Hold Me](https://open.spotify.com/album/1UEU3bVxrTMka0QEnSwoJd) | 3:53 | 2023-10-18 | 2023-11-30 |
 | [Hold On](https://open.spotify.com/track/12pK2W23mKJkT3FHnwGpIx) | [Headrow](https://open.spotify.com/artist/5DWBBgWu9YrbMoQGUcwSzx) | [Hold On](https://open.spotify.com/album/2MnNjWYjz7gqNSEzzKNlXv) | 2:19 | 2026-01-15 |  |
 | [Hold On](https://open.spotify.com/track/3sJf3XoQG1TuSi3URcow8B) | [REMY QUINN](https://open.spotify.com/artist/6OQoRzjz71ofDCQa5OTlfq) | [Hold On](https://open.spotify.com/album/0RtASWxCBdXCoUKjE3x8WF) | 4:06 | 2024-10-23 | 2024-11-21 |
+| [Hold On](https://open.spotify.com/track/700RWaQjL1fKlIIXBzORp7) | [ROKAR](https://open.spotify.com/artist/1LLLQlvDT5CZamubBAYMkC) | [Hold On / Tip Off](https://open.spotify.com/album/5o7WUSg1bVi0kigPP73QHy) | 3:02 | 2026-01-30 |  |
 | [Hold On](https://open.spotify.com/track/4FaZ87ysFGzan5sRi8wMpR) | [Space Milk](https://open.spotify.com/artist/0Xl8EOlBr1fhhwo07BLPMA) | [Feed Your Soul](https://open.spotify.com/album/1CjzL8QsHfhNTEtWIapmKX) | 2:22 | 2024-01-17 | 2024-03-16 |
 | [hold on](https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [hold on](https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ) | 3:28 | 2021-12-01 | 2022-01-27 |
 | [hold on](https://open.spotify.com/track/3grJx7N0S8SyZnTcewEsUY) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [dreamsuite](https://open.spotify.com/artist/0AZ8anUDvI59Kxz8JdEVdD) | [hold on](https://open.spotify.com/album/3n2cpyymzwbK4ABpSbIecV) | 3:05 | 2024-08-23 | 2024-11-07 |
@@ -1559,6 +1562,7 @@
 | [Infrared](https://open.spotify.com/track/3yHiLDeERi7k1q3InysVYI) | [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Infrared](https://open.spotify.com/album/0eRYQNzFjAayeFzgcw3Tvx) | 5:18 | 2022-01-26 | 2022-03-17 |
 | [Injury Detail](https://open.spotify.com/track/4fnPCy2jMLL7IUHl4SXu5e) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Injury Detail](https://open.spotify.com/album/2Ws2QCvSQQh704EaLk5p6B) | 4:16 | 2023-01-25 | 2023-02-16 |
 | [Injury Detail](https://open.spotify.com/track/5yVieAuVqsun1xDUcqipvb) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [i've seen a way](https://open.spotify.com/album/4oMlaPrzjAHEHh26MkR6DB) | 4:16 | 2023-11-29 | 2024-01-11 |
+| [INMYH](https://open.spotify.com/track/2so0hkOdT7OknXeIc5TaMW) | [Aures](https://open.spotify.com/artist/39xkt555pu4TqjWuwdDl3E) | [INMYH](https://open.spotify.com/album/6UwXSDlzYUAkICxjJPbOL8) | 4:00 | 2026-01-30 |  |
 | [Inner Elation](https://open.spotify.com/track/3bpdVGbZtTQRjTsQC0JtJK) | [Aldonna](https://open.spotify.com/artist/3EPcykAa9mr5CBXcDBQCxS) | [Inner Elation](https://open.spotify.com/album/5N6xyGUcrScIqUyv5qtKgq) | 5:23 | 2023-03-08 | 2023-04-06 |
 | [Insane](https://open.spotify.com/track/63MoZqC4ah8JuTyktm0HNr) | [Borj.](https://open.spotify.com/artist/3O7bD1NOJOWs4cokNjNcEr), [LizAnn](https://open.spotify.com/artist/0RS6dKFdDUMWSIjmF1akXw) | [Insane](https://open.spotify.com/album/1dpoaEzQuEf8SqDGrjNgYX) | 2:29 | 2023-03-08 | 2023-04-06 |
 | [Insidious](https://open.spotify.com/track/20EVJ4BgjgUfvI9qbZstQd) | [MANTi](https://open.spotify.com/artist/2o8lhgWt1O53AhZxjnGBei) | [Insidious](https://open.spotify.com/album/5llXmvKL6w9UMAtCSAB8it) | 6:12 | 2023-10-04 | 2023-11-30 |
@@ -2129,6 +2133,7 @@
 | [Number 1](https://open.spotify.com/track/2SabPkxLuy5OrlCC61iKm4) | [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Number 1](https://open.spotify.com/album/5zW2jJ9RvONWd19xVy50ed) | 2:56 | 2025-04-04 | 2025-05-10 |
 | [Number 1 Sound](https://open.spotify.com/track/7MAzQxiaDHTCSnN6soemCW) | [Somepoe](https://open.spotify.com/artist/6EJIqIHyYCtNqLMXT7NmfW) | [Number 1 Sound](https://open.spotify.com/album/2a44CK6k5rmgXAPK8zK1Xk) | 3:38 | 2025-02-12 | 2025-03-27 |
 | [Number One](https://open.spotify.com/track/4NZDL3ZD1dqX6Rk5PbKSip) | [J\. Louix](https://open.spotify.com/artist/2WYMIlGoKw0QcSrbinrsQP) | [Number One](https://open.spotify.com/album/4RApWgt5mERYsEHFe64X0S) | 4:31 | 2024-01-26 | 2024-02-22 |
+| [NutDo](https://open.spotify.com/track/7DRhxqacpYaWDLKnq3mOAc) | [Ogasawara](https://open.spotify.com/artist/6mTSdS8yN21WFsI7oDbeP6), [Save Me The Trouble](https://open.spotify.com/artist/3qRE812oXiyzvUZyo7csj7) | [NutDo](https://open.spotify.com/album/4vSGiHQ3cF3klH0QKlVZNX) | 4:45 | 2026-01-30 |  |
 | [NYC](https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [NYC](https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ) | 3:02 | 2025-05-14 | 2025-08-14 |
 | [NYWTF feat\. Mikhail Beltran \- Edit](https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [NYWTF](https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj) | 3:04 | 2022-10-19 | 2023-02-16 |
 | [Obsessed](https://open.spotify.com/track/0Ph4ss9NfJqrxxfEqc6pMf) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Obsessed](https://open.spotify.com/album/3S42VlV9D9wyElQs5kkOHA) | 3:02 | 2024-11-20 | 2024-12-05 |

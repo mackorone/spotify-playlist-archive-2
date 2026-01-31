@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > X\-Tense entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,544 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,578 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 21 | [F\*CK FAMA](https://open.spotify.com/track/6g2MZHsdwHjdpWlPkBoP1q) | [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb) | [F\*CK FAMA](https://open.spotify.com/album/6pADadkyrvwR4fScz3vbKi) | 2:39 |
 | 22 | [Mazeus](https://open.spotify.com/track/6VS99XmFYmtR979YIQ2lXo) | [TILHON](https://open.spotify.com/artist/6s6mY5Dhbh9Qrg118P3qcO) | [Mazeus](https://open.spotify.com/album/4hg2FgorJHVcampWKDJHDD) | 3:03 |
 | 23 | [A Salvação](https://open.spotify.com/track/6UEv8n4yNipFSnLBp2d8wA) | [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Valete](https://open.spotify.com/artist/32rAgIN6jhUQYhyoKa8agj) | [A Salvação](https://open.spotify.com/album/4Xvv4e47lj9JiCsFCKTZni) | 4:03 |
-| 24 | [ELA DISSE](https://open.spotify.com/track/5tPoPiPZomQsz2kW9Fg04B) | [vanish shawty](https://open.spotify.com/artist/7ebNvpVbONk1HiqJa9dBWZ) | [](https://open.spotify.com/album/null) | 2:21 |
+| 24 | [ELA DISSE](https://open.spotify.com/track/5tPoPiPZomQsz2kW9Fg04B) | [vanish shawty](https://open.spotify.com/artist/7ebNvpVbONk1HiqJa9dBWZ) | [RABBIT HOLE](https://open.spotify.com/album/39aHS5p8pWZw96nZeLZgPm) | 2:21 |
 | 25 | [Meia Noite](https://open.spotify.com/track/1D8118p3KEFv14bqgh2VYv) | [Deedz B](https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo), [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Amar em Silêncio](https://open.spotify.com/album/54Gdf6csl6rltTXmOYpJCY) | 2:55 |
 | 26 | [Tóxico \(feat\. Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
 | 27 | [O Amanhã](https://open.spotify.com/track/3EyBjDXxhTbmfenp19AZxd) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [O Amanhã](https://open.spotify.com/album/5vTycWeC0mRX4bTKaaEhWz) | 4:05 |

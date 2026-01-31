@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABjMxeE1Sv/bDmy64Z+7xXsoaFMT",
+  "snapshot_id": "AAAAAKNE3WrjaUtjDo8CZ5/OQ9QnSmGu",
   "tracks": [
+    {
+      "added_at": "2026-01-30 05:00:37",
+      "album": {
+        "name": "Muddy Boots",
+        "url": "https://open.spotify.com/album/0faCtHmPzytvFAH9aZzcJi"
+      },
+      "artists": [
+        {
+          "name": "Climax Blues Band",
+          "url": "https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Muddy Boots",
+      "url": "https://open.spotify.com/track/2zqhZUmyv1XS7nQu6j8Fic"
+    },
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
@@ -507,22 +523,6 @@
       "duration_ms": 212093,
       "name": "Move Along",
       "url": "https://open.spotify.com/track/3FKioq3mvprZBi0bePWuuR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Makin Love is Good For You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Makin' Love Is Good For You",
-      "url": "https://open.spotify.com/track/3V4cXvtMvp38DRAa666XRp"
     },
     {
       "added_at": "2020-12-01 05:01:00",

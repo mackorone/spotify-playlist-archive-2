@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: OKAME
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,540 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,544 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 33 | [リコンティニュー](https://open.spotify.com/track/33o1EmM0XxpktRAAwfo92C) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [リコンティニュー](https://open.spotify.com/album/6obrDJyEIvyYk1tzBzHMCu) | 5:04 |
 | 34 | [Fool](https://open.spotify.com/track/4TaRE6Xabudhwc3nHMthNC) | [zoo zoo sea](https://open.spotify.com/artist/5XV7mJcjilwORxTsNr4AXC) | [Fool](https://open.spotify.com/album/3VyZWHTQfa9ljmZjYYNnwF) | 4:53 |
 | 35 | [黙示録](https://open.spotify.com/track/4wJVu33lrboS7mrn9ENFH2) | [No.MEN](https://open.spotify.com/artist/2mJxKhnktBHrIqHk7XUeBO) | [黙示録](https://open.spotify.com/album/05gpwZQzr0r4JqPuSdeDZg) | 3:02 |
-| 36 | [Haze](https://open.spotify.com/track/2NxoDBeKymeXAssEqRVIuq) | [lilsae](https://open.spotify.com/artist/1iiBydrJPd4ORXgdgk0x6N) | [Haze](https://open.spotify.com/album/0LQOBujA3vbez4fE2eb88P) | 3:06 |
+| 36 | [Haze](https://open.spotify.com/track/2NxoDBeKymeXAssEqRVIuq) | [lilsae](https://open.spotify.com/artist/3MRqHCUD9yZGsP8QnuqE0q) | [Haze](https://open.spotify.com/album/0LQOBujA3vbez4fE2eb88P) | 3:06 |
 | 37 | [Riding Unicorn](https://open.spotify.com/track/3GEjkXJAMKBtzA1oILWsOE) | [.jvkn](https://open.spotify.com/artist/6JJImm6GM9Kj4VV17hUxiw) | [Riding Unicorn](https://open.spotify.com/album/1g4F4Ck0z4jTTo0yLfgjQd) | 3:14 |
 | 38 | [iAmAcitykidiliveintheplAzAhotel](https://open.spotify.com/track/3VMRbEESulyIiyfYjfp8jK) | [orlik](https://open.spotify.com/artist/5ypY2kcdpE3ce1OuAKzPUe) | [iAmAcitykidiliveintheplAzAhotel](https://open.spotify.com/album/4jPSTQKGWjj40ZwWh8xyhl) | 2:31 |
 | 39 | [knuckle duster](https://open.spotify.com/track/6XMusqUoRUqH3roWmiCIuj) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [knuckle duster](https://open.spotify.com/album/2P37p95rPADZFU7VmIpQfu) | 3:03 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 57 | [Count on me](https://open.spotify.com/track/6uhPcEeYZbv9PD53E0sosv) | [SANDEI](https://open.spotify.com/artist/0xVHj8CFik0SddlbIyCS4X), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Count on me](https://open.spotify.com/album/3537MJyPBMIMsFn7i9m7Ou) | 2:42 |
 | 58 | [Kingyo\-bachi](https://open.spotify.com/track/7sJlPafVngGa7DkWOpM0s8) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Kingyo\-bachi](https://open.spotify.com/album/2laAZUN14D6aeIfBwPs659) | 3:46 |
 | 59 | [World Keeps Turning](https://open.spotify.com/track/6l4iYY5HpVlMXvdbFdIbx8) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v), [WADIVE RECORD](https://open.spotify.com/artist/3ZUFQQ8h6tziXC4guOu3xm), [藍川涼](https://open.spotify.com/artist/0snjBcbJYxUYWPResi2USP) | [World Keeps Turning](https://open.spotify.com/album/5R6xSVGXfUg7asOc4OnLVx) | 2:10 |
-| 60 | [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:26 |
+| 60 | [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:28 |
 | 61 | [朝日を待っている \(feat\. さかな\)](https://open.spotify.com/track/1NxdCU0RnviMaDTke7JGVl) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx), [さかな](https://open.spotify.com/artist/2qZxj23rfIjWxd4PCqlW3q) | [朝日を待っている \(feat\. さかな\)](https://open.spotify.com/album/65PU9Cs6zOgQvfBuVn9idJ) | 4:23 |
 | 62 | [LAMBDA](https://open.spotify.com/track/3cNYg8BuCvjdC8d6bCYkcV) | [Nape](https://open.spotify.com/artist/4i2HtvaNWxR0sYVRzQTT1N) | [LAMBDA](https://open.spotify.com/album/4rlRv8UkZ9Jkii9ikg3tSm) | 4:08 |
 | 63 | [DEAD CENTER](https://open.spotify.com/track/26mR5pRpqRqgSBZ6ZTR1ix) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [美辞学](https://open.spotify.com/album/4V0DjuDLtElbKX6WTUxvgV) | 2:56 |

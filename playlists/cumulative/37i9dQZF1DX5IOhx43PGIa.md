@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: STUTS, Julia Wu & Phum Viphurit
 
-1,286 songs - 2 day 18 hr 52 min
+1,287 songs - 2 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,7 +790,7 @@
 | [Newly](https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Newly](https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK) | 2:57 | 2025-07-18 |  |
 | [nice & slow](https://open.spotify.com/track/4Vn9IH1SmjYM7wi93ixw0x) | [Rin](https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA) | [fawn](https://open.spotify.com/album/2H9new7XInTTfBS4hlZOtS) | 2:54 | 2025-08-29 |  |
 | [Night Charade](https://open.spotify.com/track/7hd8t7SjAaDdcoMjUVAeEN) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Night Charade](https://open.spotify.com/album/72bKtxfFJlazTMYbOe1y6Z) | 3:08 | 2024-11-01 | 2025-01-25 |
-| [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:26 | 2026-01-23 |  |
+| [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:28 | 2026-01-23 |  |
 | [nightingale](https://open.spotify.com/track/6ihhpKNXWZunLWGrctUMbq) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [all that heaven allows](https://open.spotify.com/album/3mbHTRafIT6ndcL37omlgI) | 3:35 | 2025-04-04 | 2025-11-08 |
 | [No Explanations](https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [ZHANG YANQI](https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F) | [No Explanations](https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9) | 3:07 | 2023-03-31 | 2023-09-02 |
 | [No Problems](https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [No Problems](https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u) | 3:44 | 2024-05-24 | 2024-09-21 |
@@ -860,6 +860,7 @@
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-09-20 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-16 | 2023-05-20 |
 | [pity dirty](https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [pity dirty](https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ) | 3:13 | 2025-03-07 | 2025-08-30 |
+| [Places](https://open.spotify.com/track/1c0EMczKGhyYDrclmuvKwY) | [jiho](https://open.spotify.com/artist/7KQg7feHl7MLAyKduypMkz) | [Places](https://open.spotify.com/album/5gp3W7B8BmcpiZ3MeyqXLl) | 1:58 | 2026-01-30 |  |
 | [Plant A Forest](https://open.spotify.com/track/3PY4QVfv2hTd5hvikGd8vB) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [Plant A Forest](https://open.spotify.com/album/0oKKTJTn0TniaTXT3Dj79z) | 2:44 | 2025-05-01 | 2025-05-17 |
 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 | 2022-08-19 | 2023-11-04 |
 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 | 2022-09-02 | 2023-02-18 |
@@ -1036,7 +1037,7 @@
 | [Storm \- English Version](https://open.spotify.com/track/4YiLuz7hZ6ysG5iJxNlDmX) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Storm \(English Version\)](https://open.spotify.com/album/7EAjWBnTZCl6QgQDNnPWLf) | 3:49 | 2023-05-05 | 2023-09-02 |
 | [strange](https://open.spotify.com/track/3rMBazPw9A7Of5cyqj0glf) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [small love](https://open.spotify.com/album/4ypZD4hcOuZVEmCBFG3jdB) | 3:24 | 2024-07-12 | 2024-11-09 |
 | [Strangers](https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Strangers](https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj) | 2:48 | 2022-05-27 | 2023-02-18 |
-| [stuck losing](https://open.spotify.com/track/6IHCd3xv2WvbXreSJTI6A9) | [cykim](https://open.spotify.com/artist/2X35vslJoAwfxLhu3wAdjq), [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [stuck losing](https://open.spotify.com/album/1jKCdQAaBL9iTEsLYcQcnq) | 3:50 | 2025-04-25 |  |
+| [stuck losing](https://open.spotify.com/track/6IHCd3xv2WvbXreSJTI6A9) | [cykim](https://open.spotify.com/artist/2X35vslJoAwfxLhu3wAdjq), [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [stuck losing](https://open.spotify.com/album/1jKCdQAaBL9iTEsLYcQcnq) | 3:50 | 2025-04-25 | 2026-01-31 |
 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\) \- Dabin Remix](https://open.spotify.com/track/0BsPNqJHgzMgJfcSE7rjNe) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\) \[Dabin Remix\]](https://open.spotify.com/album/01dB7W8wlec9wswyT2jRsw) | 2:28 | 2024-04-12 | 2024-08-31 |
 | [Subliminal](https://open.spotify.com/track/1IPeE85kJknYfd3tHNdb95) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Subliminal](https://open.spotify.com/album/4UXMYpJ0LmcG6ng47zxfNh) | 3:00 | 2022-05-27 | 2022-07-29 |
 | [Suckin Up](https://open.spotify.com/track/5qJNNgDuLrIY2HcOvQwZRY) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Suckin Up](https://open.spotify.com/album/35HM7jBdmCS3i21AtpNgzR) | 2:17 | 2024-08-16 | 2024-09-21 |

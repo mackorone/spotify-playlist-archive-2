@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,250 likes - 155 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,286 likes - 155 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 154 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 |
 | 155 | [Södermalm](https://open.spotify.com/track/2NqMMcqgTtYpAd53apD7aE) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Södermalm](https://open.spotify.com/album/2zti4qLPB9IwBtbG8s2p0C) | 2:02 |
 
-Snapshot ID: `AAAAAL5KSXXGh6cYNFSlXh1+iQXaiQ2Y`
+Snapshot ID: `AAAAAF5EDiujhvYvhhaanvt/UGkp2Lbu`

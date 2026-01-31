@@ -4947,6 +4947,24 @@
     },
     {
       "album": {
+        "name": "Dew",
+        "url": "https://open.spotify.com/album/5KpuEUwL4XynImLdxGg8c4"
+      },
+      "artists": [
+        {
+          "name": "Indigo Songs",
+          "url": "https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Dew",
+      "url": "https://open.spotify.com/track/6gbLL8NhpJ4PVTvII1MWp7"
+    },
+    {
+      "album": {
         "name": "Dewdrop Lemonade",
         "url": "https://open.spotify.com/album/1sn5fGZMA3XAEp7rSv9GMY"
       },
@@ -6676,7 +6694,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 150857,
       "name": "Evenings",
       "url": "https://open.spotify.com/track/3L6REEaOHHguItfa4RgYfx"
@@ -9170,7 +9188,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 183720,
       "name": "Hidden Cataract",
       "url": "https://open.spotify.com/track/7kvIF3LgW4rUbwUhk1auws"
@@ -13600,7 +13618,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 131142,
       "name": "Mindfeed",
       "url": "https://open.spotify.com/track/3DCTfQKjqFkLOH6h3RsviA"
@@ -23503,6 +23521,24 @@
     },
     {
       "album": {
+        "name": "Wandering",
+        "url": "https://open.spotify.com/album/2AoRLgSghvLjnjYPisTUwd"
+      },
+      "artists": [
+        {
+          "name": "herman.",
+          "url": "https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Wandering",
+      "url": "https://open.spotify.com/track/7IfApPCLBkyxxdb8pq5FrW"
+    },
+    {
+      "album": {
         "name": "Warm Breeze",
         "url": "https://open.spotify.com/album/2tCTpJojdYxzwjcN5IDnnO"
       },
@@ -23848,6 +23884,28 @@
       "duration_ms": 138000,
       "name": "Wednesday",
       "url": "https://open.spotify.com/track/7EGx2Gnqx0LG0KsG6dXydp"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6DcUs1tRcpZY9LpOEabQgY"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/5jf4jUDfHruFyFj25TTWTD"
     },
     {
       "album": {

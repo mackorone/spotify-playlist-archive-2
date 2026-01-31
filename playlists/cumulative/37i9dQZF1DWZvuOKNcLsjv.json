@@ -17965,8 +17965,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "BE MORE GRATEFUL",
+        "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
       },
       "artists": [
         {
@@ -49377,7 +49377,7 @@
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 206202,
+      "duration_ms": 208251,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
     },
@@ -73278,24 +73278,6 @@
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "date_added": "2026-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/6FyK3JQW1ZYLrsvkNC4n1R"
     },
     {
       "album": {
@@ -99006,6 +98988,24 @@
       "duration_ms": 163506,
       "name": "\u7fa4\u9752\u8272\u306e\u7a7a",
       "url": "https://open.spotify.com/track/0XM7DcZxqlQ0Sv68FDpJTk"
+    },
+    {
+      "album": {
+        "name": "Cheers to 10!!",
+        "url": "https://open.spotify.com/album/2sCL0So9nIEXqtFX19p6gq"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274600,
+      "name": "\u7fa4\u9ce5",
+      "url": "https://open.spotify.com/track/6FyK3JQW1ZYLrsvkNC4n1R"
     },
     {
       "album": {

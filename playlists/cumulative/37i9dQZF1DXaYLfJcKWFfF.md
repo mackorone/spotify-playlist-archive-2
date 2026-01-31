@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Babble Hume
 
-369 songs - 21 hr 25 min
+370 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Fucking Games](https://open.spotify.com/track/2AeEdDUGn1iUilYGcsuLtk) | [Akeeda](https://open.spotify.com/artist/2yuVKgx8du6G6BGl5LrHcK) | [I Forget Myself](https://open.spotify.com/album/3qvh4z5Tbe4th26RZpqHFe) | 3:36 | 2025-08-28 | 2025-09-20 |
 | [Garden](https://open.spotify.com/track/08Xb8OzpczP9gpuxyzGsm3) | [Justin Prins](https://open.spotify.com/artist/7BxTlyY52WY7TaBkNOWP0C) | [Garden](https://open.spotify.com/album/0NSN6eSSvqdHsCpZOAQL5y) | 4:05 | 2025-10-16 | 2025-11-22 |
 | [Gatekeepers \(feat\. Pa Salieu\)](https://open.spotify.com/track/0ZXbCEygGWkT2UGDqGgiV2) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Gatekeepers \(feat\. Pa Salieu\)](https://open.spotify.com/album/4y3fj7IPS9d5lWuKxDcI2f) | 2:50 | 2025-10-23 |  |
-| [get lifted](https://open.spotify.com/track/5m5DkPYIRY7nPMTrM0sDIK) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:01 | 2024-04-26 |  |
+| [get lifted](https://open.spotify.com/track/5m5DkPYIRY7nPMTrM0sDIK) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:01 | 2024-04-26 | 2026-01-31 |
 | [Give Thanks & Praises](https://open.spotify.com/track/6ufkeDENtPwmyGQlZoboTM) | [Philippe Cohen Solal](https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV), [Keziah Jones](https://open.spotify.com/artist/7fkVKWnSaQNFwqrR62vsSo) | [Give Thanks & Praises](https://open.spotify.com/album/61vhDxm4zijV1ESUdSd9hK) | 3:23 | 2023-02-03 | 2023-04-21 |
 | [Glimpse Inside My Mind](https://open.spotify.com/track/0oBY4jpLPEA4oVfClH0LXw) | [Kristi Lowe](https://open.spotify.com/artist/6XWv7bdLT5EQkyVMn4RaNh) | [a glimpse inside my mind](https://open.spotify.com/album/6Ri9kpNvZK9NlQGLLwMRfD) | 3:43 | 2025-08-28 | 2025-09-20 |
 | [GO WITH GUT](https://open.spotify.com/track/7mRFGJZ5TUuNbOALh3tDwV) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [GO WITH GUT](https://open.spotify.com/album/01Xj382BlVU0Jlcd46b4ra) | 3:20 | 2023-09-21 | 2025-08-29 |
@@ -372,6 +372,7 @@
 | [Working on You](https://open.spotify.com/track/20elM8EhWy52VmxbjEWCkn) | [Alien Em](https://open.spotify.com/artist/5ol84ORfazc9kNCz4V2ixt) | [Working on You](https://open.spotify.com/album/7tpq3j1GIJ2Ii1zvqiTU4u) | 2:56 | 2023-03-24 | 2023-05-05 |
 | [Wrong for It](https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:22 | 2022-05-12 | 2024-02-23 |
 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 | 2023-08-03 | 2025-08-29 |
+| [Yalwa](https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Yalwa](https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO) | 2:34 | 2026-01-30 |  |
 | [Yeni Abre](https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Yeni Abre](https://open.spotify.com/album/1C9Xf13fBpa09nVuwlxaWW) | 4:18 | 2023-04-27 | 2023-09-29 |
 | [You're Gone](https://open.spotify.com/track/7AU8HVGvd3Jua9oLVSUgE1) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Echoes of Farewell](https://open.spotify.com/album/744YhwL1S9OvtUY6QkAPPc) | 2:49 | 2024-04-26 | 2024-05-17 |
 | [YOU, ME & HER](https://open.spotify.com/track/5NmID3iqf6S77eXrPH1ZQs) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [YOU, ME & HER](https://open.spotify.com/album/3XUGELunEteuDsurX667dH) | 3:04 | 2023-11-03 | 2025-08-15 |

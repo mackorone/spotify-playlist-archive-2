@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Dirty Harry, Yolte
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,738 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,756 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 9 | [EMMONES](https://open.spotify.com/track/1XuAW8Y6p01efYAUxv76Mf) | [Smuggler](https://open.spotify.com/artist/7fyyicH0HcrSE4GC6UmzEr), [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [EMMONES](https://open.spotify.com/album/3SApP4cpnKOUVweSQIcCz4) | 2:18 |
 | 10 | [Psiksi \- Sto Skotadi Live](https://open.spotify.com/track/4wmvnRkz9N5wzhjGQUNukh) | [TAF LATHOS](https://open.spotify.com/artist/5sMTmnLClGnDFZm4c1yjCP) | [Sto Skotadi \(Live\)](https://open.spotify.com/album/0oCN0uVidP2pxNlVbkfsq8) | 5:12 |
 | 11 | [BABA](https://open.spotify.com/track/1UXaMpCNb3fCNVShUeILSC) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [BABA](https://open.spotify.com/album/5xf1dRIxVDVBeFIJfSj2fu) | 2:24 |
-| 12 | [Anadysi](https://open.spotify.com/track/2QJD84ljvniH3NjJBcArXq) | [Anser](https://open.spotify.com/artist/3peCLl6eMLh8lJyRUt4jc8), [Eversor](https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX) | [](https://open.spotify.com/album/null) | 3:17 |
+| 12 | [Anadysi](https://open.spotify.com/track/2QJD84ljvniH3NjJBcArXq) | [Anser](https://open.spotify.com/artist/3peCLl6eMLh8lJyRUt4jc8), [Eversor](https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX) | [Anadysi](https://open.spotify.com/album/4WMjUCjgNJx3JuumWbkiLI) | 3:17 |
 | 13 | [Min Rotas](https://open.spotify.com/track/4q3ZJbvVEIFnZLW4x6wldZ) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Min Rotas](https://open.spotify.com/album/0bLTgeLE1MAWstuWkecADW) | 1:51 |
-| 14 | [Track 14](https://open.spotify.com/track/5YAPp4jJvvzlX14VxdffdA) | [Active Member](https://open.spotify.com/artist/1AzK88tl7G5fAVWZHUSyjP) | [](https://open.spotify.com/album/null) | 0:00 |
+| 14 | [Κalws Hrthes Xene Sto Topo Mou](https://open.spotify.com/track/5YAPp4jJvvzlX14VxdffdA) | [Active Member](https://open.spotify.com/artist/1AzK88tl7G5fAVWZHUSyjP), [B.D\. Foxmoor](https://open.spotify.com/artist/3jCN1d1Hlsg49572NBl1sA), [lesakaramon](https://open.spotify.com/artist/6JIW1fwdhdVSRgkKgkoiIo) | [Ta Sigirismena](https://open.spotify.com/album/083k5vjX2uAKu1PNhVcyYg) | 5:05 |
 | 15 | [Hey Shawty](https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe) | [Moose](https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Hey Shawty](https://open.spotify.com/album/183mB58gA6j6qUdoFBOHcC) | 2:45 |
 | 16 | [WOOO](https://open.spotify.com/track/1GWM7OGnw8821PkyaAJU20) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm) | [WOOO](https://open.spotify.com/album/5qBmUiYiyP8FfL8ELZfBNN) | 3:00 |
 | 17 | [PEP TALK](https://open.spotify.com/track/7d0gRGbTVISrcNNazqcpxZ) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [PEP TALK](https://open.spotify.com/album/2O45RCak2BNFtEi402p0RC) | 4:04 |

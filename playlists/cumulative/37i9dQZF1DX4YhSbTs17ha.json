@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Kenia OS en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Matisse en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 173666,
       "name": "0%",
       "url": "https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu"
+    },
+    {
+      "album": {
+        "name": "1+1",
+        "url": "https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186047,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
     },
     {
       "album": {
@@ -1410,6 +1432,24 @@
       "duration_ms": 194210,
       "name": "ANTES",
       "url": "https://open.spotify.com/track/18z0oXWIOBLT3qruaegt5o"
+    },
+    {
+      "album": {
+        "name": "Antes De Que El Mundo Se Acabe",
+        "url": "https://open.spotify.com/album/6G8DhREv4cprMtZxUtebPU"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192020,
+      "name": "Antes De Que El Mundo Se Acabe",
+      "url": "https://open.spotify.com/track/5rEiFEMZsfptjF6svSHc27"
     },
     {
       "album": {
@@ -4061,6 +4101,24 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Duele",
+        "url": "https://open.spotify.com/album/0b3XM014BihxGuJLZt3w3E"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233529,
+      "name": "C\u00f3mo Duele",
+      "url": "https://open.spotify.com/track/2f4tlLAsMCshbNLpIkwP6j"
+    },
+    {
+      "album": {
         "name": "Nada Es Igual",
         "url": "https://open.spotify.com/album/0WN5rXI75cVpVMiZ646oyn"
       },
@@ -6007,6 +6065,28 @@
     },
     {
       "album": {
+        "name": "Esquiv\u00e9 La Bala",
+        "url": "https://open.spotify.com/album/1nSSCtAtONIVKh1DsXV2RZ"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144188,
+      "name": "Esquiv\u00e9 La Bala",
+      "url": "https://open.spotify.com/track/5VvzJim4jFHADbBDyaGJx7"
+    },
+    {
+      "album": {
         "name": "ESTA ES TU CASA NENA",
         "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
       },
@@ -6196,7 +6276,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 185854,
       "name": "Fairy Michelle",
       "url": "https://open.spotify.com/track/4nXbAtULRNMKJTt3PWeA1S"
@@ -11199,6 +11279,24 @@
     },
     {
       "album": {
+        "name": "Nsqk - Spotify Sessions",
+        "url": "https://open.spotify.com/album/20eVKdTYyAfrnevyqPNrqL"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170670,
+      "name": "No Basta Con Querernos M\u00e1s - Spotify Sessions (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/75k7sXf2eclJPy7pU1XRka"
+    },
+    {
+      "album": {
         "name": "No Disponible",
         "url": "https://open.spotify.com/album/5u5UYikRR1tFtxIgTuL8E0"
       },
@@ -12982,6 +13080,28 @@
       "duration_ms": 135475,
       "name": "Pobre Secretaria",
       "url": "https://open.spotify.com/track/0lTAedtZ55pf7wFrcDEPM0"
+    },
+    {
+      "album": {
+        "name": "Poema",
+        "url": "https://open.spotify.com/album/4ZMo7m59UfGiOOn7O7l0ED"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194018,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/0R4jt27SnKZ4Z4zGHJF36E"
     },
     {
       "album": {

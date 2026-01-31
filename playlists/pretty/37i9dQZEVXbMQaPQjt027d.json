@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Netherlands.",
-  "num_followers": 67167,
+  "num_followers": 67169,
   "original_name": "Viral 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MQ7DwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MRAVQAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Papaoutai (Afro Soul)",
         "url": "https://open.spotify.com/album/4H50NcMmYRT4SovEvVgjqW"
@@ -33,10 +33,30 @@
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "Carnaval, Wie Viert Het Niet?!",
+        "url": "https://open.spotify.com/album/05ZXrIVYiaf0Zbkx2kLIWK"
+      },
+      "artists": [
+        {
+          "name": "Lanterfantje",
+          "url": "https://open.spotify.com/artist/3q6u7Aifk5DkiIMR7KtIT8"
+        },
+        {
+          "name": "Henk Westbroek",
+          "url": "https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2"
+        }
+      ],
+      "duration_ms": 162656,
+      "name": "Carnaval, Wie Viert Het Niet?!",
+      "url": "https://open.spotify.com/track/6t8GQXMBsYrHYHsyIH4zCR"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Star 2008",
-        "url": "https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX"
+        "url": "https://open.spotify.com/album/03THQjn4rbpKRo94XkhQ3Z"
       },
       "artists": [
         {
@@ -46,26 +66,26 @@
       ],
       "duration_ms": 210070,
       "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro"
+      "url": "https://open.spotify.com/track/22BiNbFtHyktTOKzXBaTp3"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
-        "name": "Thong Song x Poker Face",
-        "url": "https://open.spotify.com/album/5LoqqNBTxOpaTveOF5mv6X"
+        "name": "Vastelaovend is lit!",
+        "url": "https://open.spotify.com/album/7MituHVtfeo6yaA0h3ZEcq"
       },
       "artists": [
         {
-          "name": "Momba$",
-          "url": "https://open.spotify.com/artist/0TNArpRa3fnGeMkBKceLnR"
+          "name": "Happy Hotdogs",
+          "url": "https://open.spotify.com/artist/1tZ1YZo5ue8dxLJg4GLjxt"
         }
       ],
-      "duration_ms": 197625,
-      "name": "Thong Song x Poker Face",
-      "url": "https://open.spotify.com/track/07K8skqONaGHHXb8roY4u3"
+      "duration_ms": 166451,
+      "name": "Vastelaovend is lit!",
+      "url": "https://open.spotify.com/track/44YYCUDL65fpK2Uizbu3H5"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "FIGURED YOU OUT",
         "url": "https://open.spotify.com/album/1vVgp9NEKp3kM3tR4h5DYX"
@@ -81,7 +101,39 @@
       "url": "https://open.spotify.com/track/7bLm3Wjv9zQF7Sc2PpDCvR"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "Thong Song x Poker Face",
+        "url": "https://open.spotify.com/album/5LoqqNBTxOpaTveOF5mv6X"
+      },
+      "artists": [
+        {
+          "name": "Momba$",
+          "url": "https://open.spotify.com/artist/0TNArpRa3fnGeMkBKceLnR"
+        }
+      ],
+      "duration_ms": 197625,
+      "name": "Thong Song x Poker Face",
+      "url": "https://open.spotify.com/track/07K8skqONaGHHXb8roY4u3"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "Gein Z\u00een Um Ut Aaf Te Lie\u00ebre!",
+        "url": "https://open.spotify.com/album/2JkeYKOtnsclqryuxazNeA"
+      },
+      "artists": [
+        {
+          "name": "Miserabel",
+          "url": "https://open.spotify.com/artist/6XaQxcwBg5ZsLujzbycnTq"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Gein Z\u00een Um Ut Aaf Te Lie\u00ebre!",
+      "url": "https://open.spotify.com/track/3sYOn9DPSbIQIRyuZAj07F"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Mo\u00ebt Dat Nou",
         "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
@@ -101,7 +153,7 @@
       "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "I Just Might",
         "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
@@ -117,23 +169,7 @@
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "Gein Z\u00een Um Ut Aaf Te Lie\u00ebre!",
-        "url": "https://open.spotify.com/album/2JkeYKOtnsclqryuxazNeA"
-      },
-      "artists": [
-        {
-          "name": "Miserabel",
-          "url": "https://open.spotify.com/artist/6XaQxcwBg5ZsLujzbycnTq"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Gein Z\u00een Um Ut Aaf Te Lie\u00ebre!",
-      "url": "https://open.spotify.com/track/3sYOn9DPSbIQIRyuZAj07F"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Verkeerde Gat",
         "url": "https://open.spotify.com/album/3F5dX3ga1PmuPx0kdiLUMN"
@@ -149,7 +185,23 @@
       "url": "https://open.spotify.com/track/3CupXzjBMhy9vXtH6WgJHb"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "Het Sjtopleech Van De Vasteloavend",
+        "url": "https://open.spotify.com/album/45hUUemn4pQrmqRMnyxRjs"
+      },
+      "artists": [
+        {
+          "name": "Joy Blijdenstein",
+          "url": "https://open.spotify.com/artist/05IpirdwhbaiKqekSubhE0"
+        }
+      ],
+      "duration_ms": 176300,
+      "name": "Het Sjtopleech Van De Vasteloavend",
+      "url": "https://open.spotify.com/track/2K8xv8XoNrYN49ulfMguD9"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Als Blikken Konden Doden",
         "url": "https://open.spotify.com/album/229FKtAV6ltXMbD9Q7ye2U"
@@ -165,23 +217,7 @@
       "url": "https://open.spotify.com/track/1tlJ07kgmeSDJc4HurwVDM"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Yogameister",
         "url": "https://open.spotify.com/album/7IgyZx96FSFWo4aTXDNGCL"
@@ -205,7 +241,23 @@
       "url": "https://open.spotify.com/track/5hhZwYyYgHlfElYxCSRxNE"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
@@ -225,23 +277,23 @@
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
-        "name": "Schepen Op Zee",
-        "url": "https://open.spotify.com/album/6ba75Jarw7Fqeww0PJC1Yt"
+        "name": "\u00d2p Kar\u00e1kter",
+        "url": "https://open.spotify.com/album/5SwJuol9MvJGcvxI3tCWMJ"
       },
       "artists": [
         {
-          "name": "Else Lena",
-          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
+          "name": "Pruuf mar",
+          "url": "https://open.spotify.com/artist/2J0GG3jtVCyTh9NtDpDvui"
         }
       ],
-      "duration_ms": 115312,
-      "name": "Schepen Op Zee",
-      "url": "https://open.spotify.com/track/4RJSPx4VzuC8jnsBI8ezhK"
+      "duration_ms": 165150,
+      "name": "\u00d2p Kar\u00e1kter",
+      "url": "https://open.spotify.com/track/6GwXydt81E3rMjcaNtY3xE"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Classified vs Overdrive Tool",
         "url": "https://open.spotify.com/album/6JPDjeSoDCUn2Lay63UAqP"
@@ -257,7 +309,7 @@
       "url": "https://open.spotify.com/track/0TOr0L0t6H67WJvLQ6AtxE"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Drankorgel",
         "url": "https://open.spotify.com/album/4IQobLkInvWkfuYHsYvyKd"
@@ -273,7 +325,7 @@
       "url": "https://open.spotify.com/track/3IGaFZt7Ctu3d7QMkyhS5z"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Versatile",
         "url": "https://open.spotify.com/album/05Qd4YDfvthwoQxOMhCJOK"
@@ -293,23 +345,23 @@
       "url": "https://open.spotify.com/track/7FoURDwuTDBsyUOUal2UYL"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
-        "name": "\u00d2p Kar\u00e1kter",
-        "url": "https://open.spotify.com/album/5SwJuol9MvJGcvxI3tCWMJ"
+        "name": "Ravaasj!",
+        "url": "https://open.spotify.com/album/1g19UDUujT1qQxrMnMk2y6"
       },
       "artists": [
         {
-          "name": "Pruuf mar",
-          "url": "https://open.spotify.com/artist/2J0GG3jtVCyTh9NtDpDvui"
+          "name": "Wild Vleisj",
+          "url": "https://open.spotify.com/artist/7gS3juDpoDKBO2N4ac4BZs"
         }
       ],
-      "duration_ms": 165150,
-      "name": "\u00d2p Kar\u00e1kter",
-      "url": "https://open.spotify.com/track/6GwXydt81E3rMjcaNtY3xE"
+      "duration_ms": 233022,
+      "name": "Ravaasj!",
+      "url": "https://open.spotify.com/track/443teq0mQjA2lTNqlgcBnv"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Site 15",
         "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
@@ -325,7 +377,7 @@
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -345,7 +397,55 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "Ode \u00c1n D'n Natte Rug",
+        "url": "https://open.spotify.com/album/1Of5EhYMOwKKJT50ZL9Cpg"
+      },
+      "artists": [
+        {
+          "name": "Van Lieshout en Arts",
+          "url": "https://open.spotify.com/artist/54YBcnUDJ7VtG9kbhxoRQb"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Ode \u00c1n D'n Natte Rug",
+      "url": "https://open.spotify.com/track/0X95LBtLEb3Whw8K0H6Hat"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "Nel in h\u00e4\u00f6r tijgervel",
+        "url": "https://open.spotify.com/album/40hNwD3GzeoBol1uNreAKR"
+      },
+      "artists": [
+        {
+          "name": "spik en span",
+          "url": "https://open.spotify.com/artist/27M1TNYH9qlmYigwyacIMp"
+        }
+      ],
+      "duration_ms": 223077,
+      "name": "Nel in h\u00e4\u00f6r tijgervel",
+      "url": "https://open.spotify.com/track/4DXJxOfST8yICrMlHMIu3f"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "Dit Is Je Verjaardag (Troetelnamen)",
+        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
+      },
+      "artists": [
+        {
+          "name": "Cadeautje voor jou",
+          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
+        }
+      ],
+      "duration_ms": 191687,
+      "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
+      "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "NO DAYS OFF",
         "url": "https://open.spotify.com/album/3zyNhavZPcgB1HzMxxvCUW"
@@ -365,23 +465,7 @@
       "url": "https://open.spotify.com/track/7D4U91guqMZJ8QIvR1Wl2m"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "theclubrock",
-        "url": "https://open.spotify.com/album/5vkwMyUecMKS1qOSLt9pIc"
-      },
-      "artists": [
-        {
-          "name": "Benny Bellson",
-          "url": "https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6"
-        }
-      ],
-      "duration_ms": 122193,
-      "name": "theclubrock",
-      "url": "https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Harder Dan Ik Spenden Kan",
         "url": "https://open.spotify.com/album/4XBRKKStjsSQpRzdtm2Oe6"
@@ -397,107 +481,23 @@
       "url": "https://open.spotify.com/track/4M5df297Jy9j5eMb5smzNz"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
-        "name": "Dit Is Je Verjaardag (Troetelnamen)",
-        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
+        "name": "theclubrock",
+        "url": "https://open.spotify.com/album/5vkwMyUecMKS1qOSLt9pIc"
       },
       "artists": [
         {
-          "name": "Cadeautje voor jou",
-          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
+          "name": "Benny Bellson",
+          "url": "https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6"
         }
       ],
-      "duration_ms": 191687,
-      "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
-      "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
+      "duration_ms": 122193,
+      "name": "theclubrock",
+      "url": "https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "Nel in h\u00e4\u00f6r tijgervel",
-        "url": "https://open.spotify.com/album/40hNwD3GzeoBol1uNreAKR"
-      },
-      "artists": [
-        {
-          "name": "spik en span",
-          "url": "https://open.spotify.com/artist/27M1TNYH9qlmYigwyacIMp"
-        }
-      ],
-      "duration_ms": 223077,
-      "name": "Nel in h\u00e4\u00f6r tijgervel",
-      "url": "https://open.spotify.com/track/4DXJxOfST8yICrMlHMIu3f"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "This is my house",
-        "url": "https://open.spotify.com/album/0zGJRSvG0TdKTDqqC7KzI3"
-      },
-      "artists": [
-        {
-          "name": "Ninochello",
-          "url": "https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF"
-        }
-      ],
-      "duration_ms": 134138,
-      "name": "This is my house",
-      "url": "https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "Ode \u00c1n D'n Natte Rug",
-        "url": "https://open.spotify.com/album/1Of5EhYMOwKKJT50ZL9Cpg"
-      },
-      "artists": [
-        {
-          "name": "Van Lieshout en Arts",
-          "url": "https://open.spotify.com/artist/54YBcnUDJ7VtG9kbhxoRQb"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Ode \u00c1n D'n Natte Rug",
-      "url": "https://open.spotify.com/track/0X95LBtLEb3Whw8K0H6Hat"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "Somebody Like You",
-        "url": "https://open.spotify.com/album/52V9qRqE73KZRWJaObBi9m"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 183809,
-      "name": "Somebody Like You",
-      "url": "https://open.spotify.com/track/4k95xD9yCyyABh7CDG4U1X"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "Rumors",
-        "url": "https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP"
-      },
-      "artists": [
-        {
-          "name": "Tomas Grey",
-          "url": "https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS"
-        }
-      ],
-      "duration_ms": 162755,
-      "name": "Rumors",
-      "url": "https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "AWGAZI",
         "url": "https://open.spotify.com/album/17KKeHngp4vbAYAMRRgVSW"
@@ -521,7 +521,43 @@
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/52V9qRqE73KZRWJaObBi9m"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 183809,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/4k95xD9yCyyABh7CDG4U1X"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "This is my house",
+        "url": "https://open.spotify.com/album/0zGJRSvG0TdKTDqqC7KzI3"
+      },
+      "artists": [
+        {
+          "name": "Ninochello",
+          "url": "https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF"
+        }
+      ],
+      "duration_ms": 134138,
+      "name": "This is my house",
+      "url": "https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -537,7 +573,39 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "news update 3",
         "url": "https://open.spotify.com/album/4lndQFpRJ27m46PRQdsHBy"
@@ -561,23 +629,7 @@
       "url": "https://open.spotify.com/track/3zV09MTNSrSlxo6oRdoBBb"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Mirror To Magic",
         "url": "https://open.spotify.com/album/4bB5pZJNjKikJwrbyx7qvi"
@@ -593,55 +645,59 @@
       "url": "https://open.spotify.com/track/3wsSqW2b0YqqyNJEUZ4rzc"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
-        "name": "Work To Tha Beat",
-        "url": "https://open.spotify.com/album/7FYCOuwYCFY49zF9luWYCk"
+        "name": "Gans D'r Aaf",
+        "url": "https://open.spotify.com/album/21w0fTKjXXJcwTwFDglCUt"
       },
       "artists": [
         {
-          "name": "Secret Floor",
-          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+          "name": "Pruuf mar",
+          "url": "https://open.spotify.com/artist/2J0GG3jtVCyTh9NtDpDvui"
+        },
+        {
+          "name": "De Roerdassen",
+          "url": "https://open.spotify.com/artist/3Sc4C8WRC5txsNDtsF4ahK"
         }
       ],
-      "duration_ms": 123750,
-      "name": "Work To Tha Beat",
-      "url": "https://open.spotify.com/track/2U1a9MYxmdZP1EHVx9CVyU"
+      "duration_ms": 219404,
+      "name": "Gans D'r Aaf",
+      "url": "https://open.spotify.com/track/6WwzYBxXAgBHF44tmZxPRk"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+        "name": "All The Things She Said",
+        "url": "https://open.spotify.com/album/15aHBKSJyVpTepgUOLCoVZ"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
         }
       ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+      "duration_ms": 170891,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
-        "name": "Velvet Embrace",
-        "url": "https://open.spotify.com/album/3089DTFGUlcMRefJTAsM70"
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP"
       },
       "artists": [
         {
-          "name": "Sienna Rose",
-          "url": "https://open.spotify.com/artist/6wq8iklwcF2dj0jtMpPvOJ"
+          "name": "Tomas Grey",
+          "url": "https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS"
         }
       ],
-      "duration_ms": 224480,
-      "name": "Into the Blue",
-      "url": "https://open.spotify.com/track/3qIQAophwgi9UKMJHZcSpQ"
+      "duration_ms": 162755,
+      "name": "Rumors",
+      "url": "https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "What I Like (with Moliy, Ayetian, & Tyga)",
         "url": "https://open.spotify.com/album/2SFaRmuiD59d9evBFmET8W"
@@ -669,23 +725,7 @@
       "url": "https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "All The Things She Said",
-        "url": "https://open.spotify.com/album/15aHBKSJyVpTepgUOLCoVZ"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        }
-      ],
-      "duration_ms": 170891,
-      "name": "All The Things She Said",
-      "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Straf",
         "url": "https://open.spotify.com/album/4tg3Z1C9Tvkj3TOk8FOiN0"
@@ -701,27 +741,59 @@
       "url": "https://open.spotify.com/track/78WPtoNB7gvWk8UUxzsEg0"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
-        "name": "Gans D'r Aaf",
-        "url": "https://open.spotify.com/album/21w0fTKjXXJcwTwFDglCUt"
+        "name": "Kusje Hier Kusje Daar",
+        "url": "https://open.spotify.com/album/3CpjyyKe1IX8aBLEi3Nefz"
       },
       "artists": [
         {
-          "name": "Pruuf mar",
-          "url": "https://open.spotify.com/artist/2J0GG3jtVCyTh9NtDpDvui"
+          "name": "Xilsevisser",
+          "url": "https://open.spotify.com/artist/5wOlUjQYoAGqkkAd4xK352"
         },
         {
-          "name": "De Roerdassen",
-          "url": "https://open.spotify.com/artist/3Sc4C8WRC5txsNDtsF4ahK"
+          "name": "Marco Kraats",
+          "url": "https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp"
         }
       ],
-      "duration_ms": 219404,
-      "name": "Gans D'r Aaf",
-      "url": "https://open.spotify.com/track/6WwzYBxXAgBHF44tmZxPRk"
+      "duration_ms": 166942,
+      "name": "Kusje Hier Kusje Daar",
+      "url": "https://open.spotify.com/track/3DToXXH3aYS9ddqQ9SzBFl"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "AI",
+        "url": "https://open.spotify.com/album/2GZzc3FSssQaxJYvbJmeFJ"
+      },
+      "artists": [
+        {
+          "name": "Huub Hangop",
+          "url": "https://open.spotify.com/artist/2M717qAgBno0FPwaqATJ33"
+        }
+      ],
+      "duration_ms": 191142,
+      "name": "AI",
+      "url": "https://open.spotify.com/track/6KJndywGirkvLOBm2QCBDR"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "Es ist Zeit",
+        "url": "https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "Tirol",
+      "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -741,55 +813,23 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+        "name": "I'm Not What Happened To Me",
+        "url": "https://open.spotify.com/album/1AcrorE2xHDPHu7Jx1kS0L"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Good Vibes Tribe 11:11",
+          "url": "https://open.spotify.com/artist/7xkYlVMlHwFL6oVCs3xrCK"
         }
       ],
-      "duration_ms": 160966,
-      "name": "HELICOPTER",
-      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
+      "duration_ms": 169960,
+      "name": "I'm Not What Happened To Me",
+      "url": "https://open.spotify.com/track/5uP6vSMmfpqx2hYdeRGprt"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "Es ist Zeit",
-        "url": "https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Tirol",
-      "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "AI",
-        "url": "https://open.spotify.com/album/2GZzc3FSssQaxJYvbJmeFJ"
-      },
-      "artists": [
-        {
-          "name": "Huub Hangop",
-          "url": "https://open.spotify.com/artist/2M717qAgBno0FPwaqATJ33"
-        }
-      ],
-      "duration_ms": 191142,
-      "name": "AI",
-      "url": "https://open.spotify.com/track/6KJndywGirkvLOBm2QCBDR"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Fight 2.0 (Noxiouz Remix)",
         "url": "https://open.spotify.com/album/4GUaxREBtgbpkQbkUPj30V"
@@ -809,71 +849,7 @@
       "url": "https://open.spotify.com/track/2brTeEB31Tsv3v1HHoQOKn"
     },
     {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 234151,
-      "name": "PUNK ROCKY",
-      "url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "We Slaon Deur!",
-        "url": "https://open.spotify.com/album/3Wn5qOzoOpYSN9pp46VQa6"
-      },
-      "artists": [
-        {
-          "name": "De Gospelpompers",
-          "url": "https://open.spotify.com/artist/3alQEtCiNlywWqAvAjx0yw"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "We Slaon Deur!",
-      "url": "https://open.spotify.com/track/7pJejvEBgG7aPamIxGIWtN"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "I'm Not What Happened To Me",
-        "url": "https://open.spotify.com/album/1AcrorE2xHDPHu7Jx1kS0L"
-      },
-      "artists": [
-        {
-          "name": "Good Vibes Tribe 11:11",
-          "url": "https://open.spotify.com/artist/7xkYlVMlHwFL6oVCs3xrCK"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "I'm Not What Happened To Me",
-      "url": "https://open.spotify.com/track/5uP6vSMmfpqx2hYdeRGprt"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
-      "album": {
-        "name": "Droom Jij Over Mij Vannacht",
-        "url": "https://open.spotify.com/album/7F3QzxZYm1dXmhjHctzsDy"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 190499,
-      "name": "Droom Jij Over Mij Vannacht",
-      "url": "https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL"
-    },
-    {
-      "added_at": "2026-01-29 15:09:24",
+      "added_at": "2026-01-30 13:38:41",
       "album": {
         "name": "Die On This Hill",
         "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
@@ -887,6 +863,38 @@
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "Velvet Embrace",
+        "url": "https://open.spotify.com/album/3089DTFGUlcMRefJTAsM70"
+      },
+      "artists": [
+        {
+          "name": "Sienna Rose",
+          "url": "https://open.spotify.com/artist/6wq8iklwcF2dj0jtMpPvOJ"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "Into the Blue",
+      "url": "https://open.spotify.com/track/3qIQAophwgi9UKMJHZcSpQ"
+    },
+    {
+      "added_at": "2026-01-30 13:38:41",
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 160966,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
     }
   ],
   "unique_name": "Viral 50 - Netherlands",

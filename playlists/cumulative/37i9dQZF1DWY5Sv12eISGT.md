@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-73 songs - 3 hr 49 min
+74 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Slow Down \(feat\. The Compozers\) \- Acoustic Session](https://open.spotify.com/track/5J1eDLfzfOClxI3nLQD3fh) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [The Compozers](https://open.spotify.com/artist/3JZIYIz1tu8IgQA6Fu4CaM) | [Slow Down \(feat\. The Compozers\) \[Acoustic Session\]](https://open.spotify.com/album/7Go1gsAPWqWA5Yw7ChhFZb) | 4:06 | 2024-02-16 |  |
 | [Smile For Me \- Acoustic Version](https://open.spotify.com/track/3kLRL0oEwf04wmvZtnQrsU) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Bitter Sweet \(Acoustic Version\)](https://open.spotify.com/album/1MOVCeOpDDjssBPl0uiRBz) | 3:28 | 2024-02-16 |  |
 | [Sona \(feat\. Adekunle Gold\) \- Acoustic](https://open.spotify.com/track/5HsnGdAhYKo3r6Lyja1tq6) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [First Of All \(Acoustic\)](https://open.spotify.com/album/7C3XJPyTLi1edptS5bNE1x) | 2:33 | 2024-02-16 |  |
+| [TaTaTa \- Spotify Sessions](https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [KayBlack & Burna Boy \- Spotify Sessions](https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z) | 2:45 | 2026-01-30 |  |
 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-21 |  |
 | [Than All](https://open.spotify.com/track/3dVbXpZv240KvfDINOz5Mt) | [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7) | [MODERN WIHEGOU](https://open.spotify.com/album/5a0wQoPLNdl15l0MlWtBPx) | 1:47 | 2025-07-18 |  |
 | [THIS YEAR \(Blessings\) \- Acoustic Version](https://open.spotify.com/track/4dI7ki0nTidETF4FMik1r4) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:18 | 2024-02-16 |  |

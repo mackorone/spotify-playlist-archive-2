@@ -4,7 +4,7 @@
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-97 songs - 7 hr 3 min
+98 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,9 +61,10 @@
 | [Love Don't Love Nobody](https://open.spotify.com/track/2fg8StWDjZ6HXAWi3lz0Ix) | [Billy Price](https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI), [Otis Clay](https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL) | [This Time For Real](https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ) | 6:46 | 2020-12-01 |  |
 | [Love Don't Love Nobody](https://open.spotify.com/track/5FOZiwDxRmhphoLto1VSOI) | [Billy Price](https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI), [Otis Clay](https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL) | [This Time For Real](https://open.spotify.com/album/1meZevHXaZSjtaDrDpQrLq) | 6:46 | 2020-12-01 | 2024-04-19 |
 | [Love of Mine](https://open.spotify.com/track/4ulL5jGR1a48LNQRUAQpnY) | [Buddy Ace](https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK) | [Don't Hurt No More](https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F) | 4:07 | 2020-12-01 |  |
-| [Makin' Love Is Good For You](https://open.spotify.com/track/3V4cXvtMvp38DRAa666XRp) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Makin Love is Good For You \(Expanded Edition\)](https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY) | 3:47 | 2020-12-01 |  |
+| [Makin' Love Is Good For You](https://open.spotify.com/track/3V4cXvtMvp38DRAa666XRp) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Makin Love is Good For You \(Expanded Edition\)](https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY) | 3:47 | 2020-12-01 | 2026-01-31 |
 | [Money Is The Name Of The Game](https://open.spotify.com/track/2eXE8IO1M5lyu2H7Qyi7hL) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Old School](https://open.spotify.com/album/36avF49BDsiQjdjMxo3nqF) | 6:48 | 2020-12-01 |  |
 | [Move Along](https://open.spotify.com/track/3FKioq3mvprZBi0bePWuuR) | [Ernie Johnson](https://open.spotify.com/artist/7rVOargGPV6QSrBZJ3JQLr) | [In The Mood](https://open.spotify.com/album/3GC2tIQGFII8o9Awi5SpUB) | 3:32 | 2020-12-01 |  |
+| [Muddy Boots](https://open.spotify.com/track/2zqhZUmyv1XS7nQu6j8Fic) | [Climax Blues Band](https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2) | [Muddy Boots](https://open.spotify.com/album/0faCtHmPzytvFAH9aZzcJi) | 3:26 | 2026-01-30 |  |
 | [My Texas Home](https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba) | 4:53 | 2020-12-01 |  |
 | [No Regrets](https://open.spotify.com/track/0d6zDOS0Zk0Kkar2Lrp20P) | [Mighty Mo Rodgers](https://open.spotify.com/artist/03iIha4mNgohGeWoOqLrXm) | [Blues Is My Wailin' Wall](https://open.spotify.com/album/0XaRMLkHX5jGdnF6YATIRQ) | 4:57 | 2020-12-01 |  |
 | [None Of Us Are Free](https://open.spotify.com/track/1MBgaJoraHR7RHgAV58QU4) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Don't Give Up On Me](https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK) | 5:29 | 2020-12-01 |  |

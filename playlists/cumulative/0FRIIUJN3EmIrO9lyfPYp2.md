@@ -4,7 +4,7 @@
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-743 songs - 1 day 1 hr 53 min
+746 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Aria Math](https://open.spotify.com/track/4MmdJ1isaszXCtHID3mICI) | [liminal space](https://open.spotify.com/artist/4oCv6MisY80JJFXCk0WEwq) | [Aria Math](https://open.spotify.com/album/13PhDPVkCu6sY2Bl0JRpR7) | 1:44 | 2025-04-18 |  |
 | [arrival](https://open.spotify.com/track/23nvP5QSospKfiGyvckowK) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH), [Numback](https://open.spotify.com/artist/3CJxx5gT2DISsOhyIQyUXc) | [arrival](https://open.spotify.com/album/6dpTrzDzW3gHMdUXcqPCf1) | 2:04 | 2025-12-19 |  |
 | [Arrogance](https://open.spotify.com/track/4TZMBxALVx1YoXS0qwgjNd) | [Nox Quarta](https://open.spotify.com/artist/34zMVLLW7mJclM2z8u8Lm6), [Kspirit](https://open.spotify.com/artist/6ohZcebv3oFdpVBSmXV3PJ) | [Seven](https://open.spotify.com/album/7lUSJsq96jbu48eEATSiHB) | 1:30 | 2025-04-25 |  |
+| [as days go by](https://open.spotify.com/track/7Fn94YXx4ozLB8sDQnoKso) | [sevenlies](https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7) | [as days go by](https://open.spotify.com/album/3atfeqQOGmFXZFo4KAcpSd) | 1:49 | 2026-01-31 |  |
 | [As we draw dreams](https://open.spotify.com/track/4pey3de2P2MdPvQ8FGKdyx) | [SÆTA](https://open.spotify.com/artist/2YGX24ACQ6l88HmiuTG39p), [Fade to Black](https://open.spotify.com/artist/5ZKPOfpY9qPbL1etFwrkde) | [As we draw dreams](https://open.spotify.com/album/49AcZ248GuZmHIqQS3Gaoz) | 2:48 | 2025-12-19 | 2026-01-03 |
 | [ashes](https://open.spotify.com/track/71TM6M4zn2fyNoQN5aSOm5) | [fauxe.](https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo) | [ashes](https://open.spotify.com/album/467FWdEIxn6nvgUiCD6Ff3) | 2:00 | 2025-12-12 | 2026-01-03 |
 | [ashes of memories](https://open.spotify.com/track/7whbmo82z7xQ8ZB3KCOZQV) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [ashes of memories](https://open.spotify.com/album/6BBR0XQFLEtwSeD9K0OoYY) | 4:58 | 2025-12-12 |  |
@@ -171,6 +172,7 @@
 | [do you remember me](https://open.spotify.com/track/2sNAhFad4E1UC1GyFKKgJy) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn), [Nitewalk](https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI) | [do you remember me](https://open.spotify.com/album/0YvJSqSyv7iWnR8kR5fzGY) | 2:24 | 2025-08-29 |  |
 | [don't blame yourself](https://open.spotify.com/track/4mnHIEECfcmbcJ6MZM3XeA) | [Dropper Vampire](https://open.spotify.com/artist/4jzkI8AUHmGmxTkgvq2fIq), [Ardhat](https://open.spotify.com/artist/1nsuxGxaBfSz3ztzcyV58P) | [don't blame yourself](https://open.spotify.com/album/4zJ4gc28PuBQUBC3J8EGki) | 2:06 | 2025-11-21 | 2026-01-03 |
 | [don't leave me alone](https://open.spotify.com/track/4Nrh5ol6pUuRyma4oEam9Z) | [rexlity](https://open.spotify.com/artist/6NGwHXK7pxQF4J2mxG4o86) | [don't leave me alone](https://open.spotify.com/album/2oOM7USnOyHmOoKb0eQLwk) | 2:14 | 2025-11-14 |  |
+| [don't let it go](https://open.spotify.com/track/4xsPLzqdMp7KBNQKwq1lsf) | [oversly](https://open.spotify.com/artist/0yW83Q0140sPnXTdk9gcyK) | [don't let it go](https://open.spotify.com/album/4dNfStWifetJTMCIspzmqG) | 2:00 | 2026-01-31 |  |
 | [don’t miss the past](https://open.spotify.com/track/3Q9x07VJ0YdCbp6FB2RW5i) | [forworn](https://open.spotify.com/artist/7JfmD7ppQAdkpWbqbGunko), [les](https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi) | [don’t miss the past](https://open.spotify.com/album/0vu7hFBCcNL6c1igwyphNI) | 1:16 | 2025-08-15 |  |
 | [dread](https://open.spotify.com/track/4ZFHuWkeUUPckeer8cPznE) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [dread](https://open.spotify.com/album/4h1MstXkjoA8yZLcz2xJuV) | 2:52 | 2025-10-10 |  |
 | [dream dealer](https://open.spotify.com/track/14jHbx8QjBgqjcn2B9TN7X) | [Sorry for the Delay](https://open.spotify.com/artist/0D2lWsYQ8aCg0zAPGydfBl) | [dream dealer](https://open.spotify.com/album/6Y2rMS8ptdZa7dAAEtjQDP) | 2:15 | 2025-07-04 |  |
@@ -362,6 +364,7 @@
 | [in the stillness](https://open.spotify.com/track/4H1OHL2NgCsnhJMCem2hUy) | [arancina](https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO), [Peter Mowry](https://open.spotify.com/artist/4mafztcbCRLBcgsVyf19nU) | [in the stillness](https://open.spotify.com/album/7JzOykIzZKZ7evPO3Lgyst) | 2:13 | 2025-11-07 | 2026-01-03 |
 | [Indulgence](https://open.spotify.com/track/00eVoFNyrca5cHsnViaTyH) | [Nox Quarta](https://open.spotify.com/artist/34zMVLLW7mJclM2z8u8Lm6) | [Seven](https://open.spotify.com/album/7lUSJsq96jbu48eEATSiHB) | 2:26 | 2025-04-25 |  |
 | [infinite reverie](https://open.spotify.com/track/1vf3tNqI9t6kQJ62NwFVZF) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM), [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [infinite reverie](https://open.spotify.com/album/4F0pCfCVDnXrS7LcBQXENy) | 2:05 | 2025-04-25 |  |
+| [inner peace](https://open.spotify.com/track/0NwJK3b9Trq3TLudqok3Ao) | [furosha](https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l) | [inner peace](https://open.spotify.com/album/23sY8ueloQpnF7wEqCT3EO) | 1:47 | 2026-01-31 |  |
 | [insomnia](https://open.spotify.com/track/26QBghiWdmG7oaNqmoxf1X) | [anoare](https://open.spotify.com/artist/2qL3xnITjqG3pZUfJkJzmT) | [insomnia](https://open.spotify.com/album/6ohBTGKImBTzW2L9MxRYmk) | 2:17 | 2025-07-12 |  |
 | [Insomnia](https://open.spotify.com/track/6vS2swI94LwiXtCFX8AAir) | [Imxone](https://open.spotify.com/artist/5dQkXg88bY6gNMyNo3gtDP) | [Insomnia](https://open.spotify.com/album/6Jpvi3EEy7lQlJp9eL98Bd) | 2:00 | 2025-04-11 |  |
 | [Internal Feeling](https://open.spotify.com/track/5hX863TiEMQPLnblNX1auV) | [Layt0ne](https://open.spotify.com/artist/66KmHGoTRbYD3Oxy50IRiy) | [External Feeling](https://open.spotify.com/album/3CAcGYat7ZH5CbHapSmQQ8) | 2:42 | 2025-10-17 |  |

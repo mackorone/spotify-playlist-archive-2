@@ -1,13 +1,29 @@
 {
-  "description": "Raw, emotional, and acoustic. Cover: Charlie Musselwhite",
-  "num_followers": 881454,
+  "description": "Raw, emotional, and acoustic. Cover: Tinsley Ellis",
+  "num_followers": 881433,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGw0gsY1Oxomd/3AMHE3I9I+cn3e",
+  "snapshot_id": "AAAAAAEi6mWvA2OlTAuTOOTsFspck6og",
   "tracks": [
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/3tM2BhfXRTk19q2aD2fLhf"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "duration_ms": 179431,
+      "name": "Too Broke",
+      "url": "https://open.spotify.com/track/4OzazzaU3Jv3Sf2czAp2kr"
+    },
     {
       "added_at": "2025-09-05 04:00:01",
       "album": {
@@ -879,22 +895,6 @@
       "duration_ms": 296081,
       "name": "Backstreets",
       "url": "https://open.spotify.com/track/5zxLOp4pDCfnJuMhZakq4f"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "Booker\u2019s Guitar",
-        "url": "https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "With My Maker I Am One",
-      "url": "https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY"
     },
     {
       "added_at": "2020-08-11 16:18:31",

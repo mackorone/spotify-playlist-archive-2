@@ -4,7 +4,7 @@
 
 > 
 
-2,332 songs - 5 day 5 hr 16 min
+2,334 songs - 5 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1380,7 +1380,7 @@
 | [My Heart Went Oops](https://open.spotify.com/track/2KsqycGYiANywGDOPkVmvK) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [They Call Me Tiago](https://open.spotify.com/album/3V2S3w4ktPnjci3oAxrKRS) | 2:08 | 2021-08-05 |  |
 | [My Little White Pony](https://open.spotify.com/track/46PRAC9BDGinxWR2Jw6chN) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/7kDMF5sKIkfT8MxEwahCel) | 4:59 | 2025-01-29 |  |
 | [My Meds Aren't Working](https://open.spotify.com/track/3iubkenxO8JUJNp7phyVlb) | [Dystopia](https://open.spotify.com/artist/32lwvl98Ck0aCggYSMUlaR) | [Dystopia](https://open.spotify.com/album/6JDxhxRjAntUSWJN9HfRKc) | 4:01 | 2024-07-12 |  |
-| [My Mind Went Blank \(Screwed\)](https://open.spotify.com/track/7zfLS7MJmy8zmj1OL7s6bk) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [Point Blank](https://open.spotify.com/artist/5Nz0G9zAjZVmIgqtGfHham) | [All Screwed Up, Vol\. II \(Screwed\)](https://open.spotify.com/album/05qVKtCTd3o2NTcD34aZge) | 6:37 | 2025-08-15 |  |
+| [My Mind Went Blank \(Screwed\)](https://open.spotify.com/track/7zfLS7MJmy8zmj1OL7s6bk) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [Point Blank](https://open.spotify.com/artist/5Nz0G9zAjZVmIgqtGfHham) | [All Screwed Up, Vol\. 2 \(Screwed\)](https://open.spotify.com/album/05qVKtCTd3o2NTcD34aZge) | 6:37 | 2025-08-15 |  |
 | [My Nightmare](https://open.spotify.com/track/0bCi4ZzIbVJsHxD9CSzIzB) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Everyone's Out To Get Me](https://open.spotify.com/album/5CPpHqMwhnMHHhTlf6bfiN) | 3:54 | 2022-04-26 |  |
 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 | 2021-08-05 |  |
 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 | 2022-02-04 |  |
@@ -1765,6 +1765,7 @@
 | [Scripture](https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Scripture](https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX) | 4:11 | 2022-09-08 |  |
 | [Scroll of Sorrow](https://open.spotify.com/track/6ztOsvtb6MjOYgOOnBmVfd) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0), [guayaba](https://open.spotify.com/artist/5kYSoXTfErwSZC3E7uw54d) | [U\-Void Synthesizer](https://open.spotify.com/album/2Hao6BBoElsB9A3JFeSo9n) | 3:05 | 2023-02-13 |  |
 | [Se Encendio el Beeper](https://open.spotify.com/track/3F0npTC1lHEQpEz35tvQTT) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [5to Aniversario](https://open.spotify.com/album/7vF23xibM5eNthq9HnkIcc) | 3:22 | 2025-07-18 |  |
+| [Se Voce Nao Quer Passa a Vez](https://open.spotify.com/track/7snnTlaWaN39nfN1PhUaT8) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Se Voce Nao Quer Passa a Vez](https://open.spotify.com/album/7mSEULBduMtsKcy7w7QgWk) | 2:13 | 2026-01-30 |  |
 | [Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy) | [SALEM](https://open.spotify.com/artist/09CJcG6ndtL82D8x9VxaeT) | [Fires In Heaven](https://open.spotify.com/album/1G9NXS6bwV9JHeaCNETAFI) | 3:07 | 2022-09-18 |  |
 | [Seasons](https://open.spotify.com/track/0GzqA980TSsNnqKQbIQyHn) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/6HQJWzhmmKLP9fKjM4jsyY) | 2:37 | 2024-12-25 |  |
 | [Second hand embarrassment](https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:17 | 2022-02-04 |  |
@@ -2200,6 +2201,7 @@
 | [Von dutch remix with skream & benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream & Benga](https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38) | [Von dutch remix with skream & benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 | 2024-04-22 |  |
 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 | 2025-01-10 |  |
 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 | 2021-08-05 |  |
+| [Vuk Vuk](https://open.spotify.com/track/4QUb9n7gFsDAmfBahFBFWK) | [VXEL](https://open.spotify.com/artist/4iaNizg8r7g1pi2dexE4Hc) | [Vuk Vuk](https://open.spotify.com/album/2uD8VYHFQN9Lr5jgz9lcLB) | 2:37 | 2026-01-30 |  |
 | [VULGAR](https://open.spotify.com/track/6vdWx0TNY8CkALyrAa15vn) | [CHRIST DILLINGER](https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3) | [VULGAR](https://open.spotify.com/album/1qHehjps6smDCjJfLVgrIe) | 3:29 | 2021-08-05 |  |
 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 | 2022-06-08 |  |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2021-08-05 |  |

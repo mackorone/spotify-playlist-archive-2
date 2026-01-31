@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,647 likes - 338 songs - 19 hr 19 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,644 likes - 338 songs - 19 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -300,23 +300,23 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 290 | [Pomegranate](https://open.spotify.com/track/0tfVlZFWRxbCriUfIDMo4R) | [Olan Monk](https://open.spotify.com/artist/3BBWf8gJdcOI5EwrptKGSM) | [Songs for Nothing](https://open.spotify.com/album/1J93HjeJ8X4bydH0o6uaVE) | 4:35 |
 | 291 | [Cold Euphoria](https://open.spotify.com/track/4anmDguHwHT37j57P3fVWh) | [Tropics](https://open.spotify.com/artist/0d00ssafltw8HYv2zxe4fD) | [Reality Fever](https://open.spotify.com/album/0eOsbyp8IcbPpcFEdjAFl9) | 3:12 |
 | 292 | [Big Feeling](https://open.spotify.com/track/7saLoGpmhFdXyLAE3xdVO5) | [PYNKIE](https://open.spotify.com/artist/45GkpefZW8F5td5gkU8f29) | [Big Feeling](https://open.spotify.com/album/5EjheudeKQA6ayULAZRsxX) | 2:50 |
-| 293 | [All The Good Men](https://open.spotify.com/track/1lHsjpIJ9aFOkz4w4yduzt) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [All The Good Men](https://open.spotify.com/album/6DbvRvEnPQI4TEaw5opO7t) | 1:57 |
-| 294 | [Thin Circle](https://open.spotify.com/track/3qaYp431qLh8NvKUQlWd5v) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Micrographia](https://open.spotify.com/album/4bmmNR4lULAnrGbHMLCpLj) | 3:53 |
-| 295 | [Sofia](https://open.spotify.com/track/1hcl7Rbl63ScIgt675pT78) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [Sofia](https://open.spotify.com/album/38ZWo5i7WiRXodK7c3HUSA) | 2:24 |
-| 296 | [over n' out](https://open.spotify.com/track/5Sbh00A5kDS12tI7Zkl7AA) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [highs, lows & stargazing](https://open.spotify.com/album/6KdB8rhp7GZNSXf19ovSIM) | 4:28 |
-| 297 | [Gimme More \- reimagined](https://open.spotify.com/track/5gT1f5pdM7rNQi6E1r7jMK) | [Baileyrp](https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz) | [\_Everything else \(reimagined\)](https://open.spotify.com/album/21MY6FWsNTR5CFKfNlHRqo) | 2:14 |
-| 298 | [bones](https://open.spotify.com/track/5obGMp5stzItyTXOmzoiFt) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [plateau](https://open.spotify.com/album/6JlOYEQWx0ZgR0WkeTIuge) | 3:52 |
-| 299 | [sweet dreams](https://open.spotify.com/track/2sngvtPflZ2BnW9AWSEMrv) | [Lucas Player](https://open.spotify.com/artist/6vHyFesGSAxoCiupP5812L) | [sweet dreams](https://open.spotify.com/album/26r5BG4jGtupwbOykl6wQk) | 2:42 |
-| 300 | [The Rat](https://open.spotify.com/track/4Wa9VGzvPMDwKG5OT5bXmJ) | [Blaize Jenkins](https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn) | [The Rat](https://open.spotify.com/album/0pbUkuVlHjquw9N0lcUYK4) | 2:46 |
-| 301 | [Drugs](https://open.spotify.com/track/0dkHxjl9PccJaBkUMwlLil) | [Evil Adeline](https://open.spotify.com/artist/1ECkxQh8rsOcuOChE5Flzi) | [evil, baby, evil](https://open.spotify.com/album/5CQ5BQPrw2EdvuTG4xdmE1) | 2:31 |
-| 302 | [The Joke](https://open.spotify.com/track/3WEdptrFfx281Jee5NOf7i) | [Dari Bay](https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC) | [The Joke](https://open.spotify.com/album/7zxOsxnasYqLkaCloXjyzI) | 2:34 |
+| 293 | [Thin Circle](https://open.spotify.com/track/3qaYp431qLh8NvKUQlWd5v) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Micrographia](https://open.spotify.com/album/4bmmNR4lULAnrGbHMLCpLj) | 3:53 |
+| 294 | [sweet dreams](https://open.spotify.com/track/2sngvtPflZ2BnW9AWSEMrv) | [Lucas Player](https://open.spotify.com/artist/6vHyFesGSAxoCiupP5812L) | [sweet dreams](https://open.spotify.com/album/26r5BG4jGtupwbOykl6wQk) | 2:42 |
+| 295 | [over n' out](https://open.spotify.com/track/5Sbh00A5kDS12tI7Zkl7AA) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [highs, lows & stargazing](https://open.spotify.com/album/6KdB8rhp7GZNSXf19ovSIM) | 4:28 |
+| 296 | [bones](https://open.spotify.com/track/5obGMp5stzItyTXOmzoiFt) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [plateau](https://open.spotify.com/album/6JlOYEQWx0ZgR0WkeTIuge) | 3:52 |
+| 297 | [Drugs](https://open.spotify.com/track/0dkHxjl9PccJaBkUMwlLil) | [Evil Adeline](https://open.spotify.com/artist/1ECkxQh8rsOcuOChE5Flzi) | [evil, baby, evil](https://open.spotify.com/album/5CQ5BQPrw2EdvuTG4xdmE1) | 2:31 |
+| 298 | [The Rat](https://open.spotify.com/track/4Wa9VGzvPMDwKG5OT5bXmJ) | [Blaize Jenkins](https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn) | [The Rat](https://open.spotify.com/album/0pbUkuVlHjquw9N0lcUYK4) | 2:46 |
+| 299 | [The Joke](https://open.spotify.com/track/3WEdptrFfx281Jee5NOf7i) | [Dari Bay](https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC) | [The Joke](https://open.spotify.com/album/7zxOsxnasYqLkaCloXjyzI) | 2:34 |
+| 300 | [Favorite](https://open.spotify.com/track/4HIECLcoDOlU0yFloXutMi) | [Joyer](https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF) | [On the Other End of the Line...](https://open.spotify.com/album/605yTUmMmmUdKCjaUKRGAT) | 2:45 |
+| 301 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
+| 302 | [Sofia](https://open.spotify.com/track/1hcl7Rbl63ScIgt675pT78) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [Sofia](https://open.spotify.com/album/38ZWo5i7WiRXodK7c3HUSA) | 2:24 |
 | 303 | [Honey, do you see me?](https://open.spotify.com/track/1srmZNz3hSfa82fuVpGQFX) | [EERA](https://open.spotify.com/artist/1kr9ySHpN45SVd5nJVbIbc) | [I'll stop when I'm done.](https://open.spotify.com/album/27d2dBjKdysIgsiCv1ztQh) | 3:29 |
-| 304 | [Reborn from the Ashes](https://open.spotify.com/track/43WOpWsmL9IeIaprc57byT) | [Jahrund](https://open.spotify.com/artist/3hwB1EOyN7sZygMw5QXAUj) | [Inverted Paradise](https://open.spotify.com/album/3amGhA7Fnb4wapOdtwxFWZ) | 3:56 |
-| 305 | [No Te Metas \- Sassy 009 Remix](https://open.spotify.com/track/6Bx2Y8yqdpePbXeQ3EPv6M) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu), [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [All Rights Remixed](https://open.spotify.com/album/12mMdFqHlUTh5bh94818uv) | 2:57 |
-| 306 | [gg \- NEW YORK Remix](https://open.spotify.com/track/1IAjc3fZWXZwKGn5MNmnYi) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8), [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [gg](https://open.spotify.com/album/2jYram94sGUcag2QDrNvNx) | 4:00 |
-| 307 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
+| 304 | [All The Good Men](https://open.spotify.com/track/1lHsjpIJ9aFOkz4w4yduzt) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [All The Good Men](https://open.spotify.com/album/6DbvRvEnPQI4TEaw5opO7t) | 1:57 |
+| 305 | [Gimme More \- reimagined](https://open.spotify.com/track/5gT1f5pdM7rNQi6E1r7jMK) | [Baileyrp](https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz) | [\_Everything else \(reimagined\)](https://open.spotify.com/album/21MY6FWsNTR5CFKfNlHRqo) | 2:14 |
+| 306 | [No Te Metas \- Sassy 009 Remix](https://open.spotify.com/track/6Bx2Y8yqdpePbXeQ3EPv6M) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu), [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [All Rights Remixed](https://open.spotify.com/album/12mMdFqHlUTh5bh94818uv) | 2:57 |
+| 307 | [gg \- NEW YORK Remix](https://open.spotify.com/track/1IAjc3fZWXZwKGn5MNmnYi) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8), [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [gg](https://open.spotify.com/album/2jYram94sGUcag2QDrNvNx) | 4:00 |
 | 308 | [Wasteland](https://open.spotify.com/track/6fYAXuHXOZIWmmo8hAF7Ox) | [Fiona Fiasco](https://open.spotify.com/artist/77Sy5Zgnd5KHzbsqKW6few) | [Wasteland](https://open.spotify.com/album/0C0vSfbPjSMG3Sv63t7qq5) | 3:46 |
-| 309 | [Favorite](https://open.spotify.com/track/4HIECLcoDOlU0yFloXutMi) | [Joyer](https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF) | [On the Other End of the Line...](https://open.spotify.com/album/605yTUmMmmUdKCjaUKRGAT) | 2:45 |
+| 309 | [Reborn from the Ashes](https://open.spotify.com/track/43WOpWsmL9IeIaprc57byT) | [Jahrund](https://open.spotify.com/artist/3hwB1EOyN7sZygMw5QXAUj) | [Inverted Paradise](https://open.spotify.com/album/3amGhA7Fnb4wapOdtwxFWZ) | 3:56 |
 | 310 | [Tourist Mind](https://open.spotify.com/track/2RZ3tN0E2186fFbTIvMrdX) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Tourist Mind](https://open.spotify.com/album/1lHW23rMLAkz0ffH0fGm0f) | 4:46 |
 | 311 | [Stardust in my Blood](https://open.spotify.com/track/6krAqd5MbY5oQguzbE1TRi) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Stardust in my Blood](https://open.spotify.com/album/2CDAzfAS5CxddLFYfbbZ6J) | 2:37 |
 | 312 | [back seat](https://open.spotify.com/track/0nXDJ9Oq1UX9WY8YO2TkxB) | [rosetan](https://open.spotify.com/artist/5ir75gY9dcvezxTb7vi2hC), [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [back seat](https://open.spotify.com/album/41EwQPiOypUNncEyKGJeUQ) | 2:00 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 337 | [Where's My Phone?](https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Where's My Phone?](https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G) | 3:09 |
 | 338 | [The Old Law](https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [The Old Law](https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na) | 4:41 |
 
-Snapshot ID: `AAAtQSIroJbQpjsquOimgxAqEsYKNwk9`
+Snapshot ID: `AAAtTHxU4EQkdRQcSu314th0pFewij8M`

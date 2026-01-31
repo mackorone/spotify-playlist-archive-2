@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-472 songs - 1 day 8 hr 19 min
+472 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Reverie for Fragile Houseplants](https://open.spotify.com/track/2wA6lj5uEjfVVDflH5t3Ud) | [Tomaga](https://open.spotify.com/artist/22UtZr56I5MgK9Ru1QfUCj) | [Intimate Immensity](https://open.spotify.com/album/5uU3uLAmcSsZUpTjNLu59H) | 4:29 | 2021-10-20 | 2025-06-12 |
 | [Rhapsody in Green](https://open.spotify.com/track/6YWl0uGhdL50JtN63OvO52) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv) | 3:27 | 2025-02-28 |  |
 | [Rhythm\-O\-Green](https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Frutaria Electr​ó​nica](https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23) | 4:30 | 2024-08-14 | 2025-01-30 |
+| [Riksarkivet](https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Sentimental Value](https://open.spotify.com/album/5OoZ2XvZIxa511ZkAmm3cO) | 3:17 | 2026-01-30 |  |
 | [RITUAL \(nothing is lost\)](https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(nothing is lost\)](https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei) | 3:15 | 2025-02-28 |  |
 | [roots](https://open.spotify.com/track/1kWPFMJFJiaL0CqUIV3LPs) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [plantboy](https://open.spotify.com/album/00wqWw2stnu3GT99Hzujzy) | 1:29 | 2021-10-20 | 2024-04-19 |
 | [roots](https://open.spotify.com/track/4Hle0xwDPXNnwSrqQYiPkm) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [plantboy](https://open.spotify.com/album/1ij4vTHOkvxI4j4lN0WaCb) | 1:29 | 2021-10-20 | 2022-11-20 |
@@ -426,7 +427,6 @@
 | [Time Dilation](https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf) | [Fredrik Jonasson](https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd) | [Aether](https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0) | 4:20 | 2022-02-18 | 2024-07-04 |
 | [to all the plants i loved](https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:45 | 2022-09-15 | 2025-07-05 |
 | [Tomato Day](https://open.spotify.com/track/7zXTb9cnYZruPZzLM7MrA8) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [Boiling, Steaming and Poaching](https://open.spotify.com/album/4Xs0BuqcVypp3XJDcdSK3K) | 4:19 | 2021-10-20 | 2026-01-19 |
-| [Track 5](https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-30 |  |
 | [Translucent](https://open.spotify.com/track/7nXlwdROvJxmmtdkPNggfR) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7), [Jeremy Blake](https://open.spotify.com/artist/1FnFDLE1iq1L5Md8tm1cXO) | [Home Stories](https://open.spotify.com/album/3TuDpNfwEGpVr666kvj4uW) | 4:40 | 2021-10-20 | 2022-07-26 |
 | [Trapped in an Oil Painting](https://open.spotify.com/track/2CXI4cnhzLHf4zR3uncwPe) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Canone Infinito Xtended](https://open.spotify.com/album/0e4LkbjCZ3pEEjFSpXQGn1) | 4:10 | 2025-05-09 | 2025-06-20 |
 | [Tree](https://open.spotify.com/track/5M4o1gPeRQAMOSHzJT50n7) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Islands, Pt\. 2](https://open.spotify.com/album/295zTFUzqlhF1uU0B9eLnd) | 5:12 | 2022-04-04 | 2024-08-10 |

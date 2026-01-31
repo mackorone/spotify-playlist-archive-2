@@ -2,7 +2,7 @@
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Nieuwe tracks elke week! Nieuw: Marou, Massin & Kempi, Parsa, SKO en meer en meer...
+> Nieuwe tracks elke week! Nieuw: Marou, Massin & Kempi, CALSEY en meer...
 
 371 songs - 15 hr 58 min
 
@@ -202,7 +202,7 @@
 | [Lau](https://open.spotify.com/track/0gvmWQf6n7IRPlv4Ydu4NA) | [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q) | [Lau](https://open.spotify.com/album/4SflyqRW6yeiZBeHnq87Gu) | 2:58 | 2026-01-29 |  |
 | [LAUTER KNALL](https://open.spotify.com/track/0g6yGl109hgQWHTgVJm1Sc) | [Silva](https://open.spotify.com/artist/7ja62ZARrm20k4Sowt0ab8), [Zarfani](https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [LAUTER KNALL](https://open.spotify.com/album/2QjnIerIhfEMBO3DwVPic2) | 2:08 | 2025-07-17 | 2025-08-15 |
 | [Lean](https://open.spotify.com/track/7qZcrK6ZE9bJAzpbCCThMo) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lean](https://open.spotify.com/album/2WUeSE3wgkgrBqjhmMzcV0) | 1:49 | 2025-12-11 | 2026-01-15 |
-| [Lekke Boot](https://open.spotify.com/track/4pWJ39S6Y3q36EQ76ozDj5) | [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [](https://open.spotify.com/album/null) | 2:30 | 2026-01-29 |  |
+| [Lekke Boot](https://open.spotify.com/track/4pWJ39S6Y3q36EQ76ozDj5) | [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Terugval](https://open.spotify.com/album/2WLZIWEaY7w1bFWHG7njug) | 2:30 | 2026-01-29 |  |
 | [LENG ONES](https://open.spotify.com/track/6nwaziI4azySYanq0yzDJO) | [Dv](https://open.spotify.com/artist/4MgUht9kRLFmS5uNiycgeC) | [LENG ONES](https://open.spotify.com/album/4b6yDAHMojB832KuTnxSoV) | 1:45 | 2025-07-17 | 2025-08-29 |
 | [Les Lezen](https://open.spotify.com/track/65jh319aG0gx8VpSNKUEPd) | [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy) | [Les Lezen](https://open.spotify.com/album/0xevRAoUR4X1Y5BKKMPw4b) | 2:27 | 2025-08-28 | 2025-09-05 |
 | [Liever Alleen](https://open.spotify.com/track/0DwZRtAdpj1LXx7U3m3oko) | [Gior](https://open.spotify.com/artist/5cT3NUrkdYpSsAWLLlUaFA) | [Liever Alleen](https://open.spotify.com/album/4Yamfa5h6uuFgs6xJtClDf) | 2:40 | 2026-01-22 |  |

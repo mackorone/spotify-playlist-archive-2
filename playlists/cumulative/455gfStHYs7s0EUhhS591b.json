@@ -2813,6 +2813,28 @@
     },
     {
       "album": {
+        "name": "Make it Smooth",
+        "url": "https://open.spotify.com/album/3b61q9LVnnbhMUQ0ZQlpcR"
+      },
+      "artists": [
+        {
+          "name": "AV\u00d6",
+          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
+        },
+        {
+          "name": "SHAMI (official)",
+          "url": "https://open.spotify.com/artist/2t4PwQuzZ6t3jgIO8i5dNn"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192195,
+      "name": "Make it Smooth",
+      "url": "https://open.spotify.com/track/3B06TeexXHiUanSV8hUMtN"
+    },
+    {
+      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/47zGVf3ONArEu8oVjvhlBk"
       },

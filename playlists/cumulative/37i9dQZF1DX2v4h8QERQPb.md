@@ -2,9 +2,9 @@
 
 ### [Hip Hop Argento](https://open.spotify.com/playlist/37i9dQZF1DX2v4h8QERQPb)
 
-> Bien Argento 📸 ACRU
+> Bien Argento 📸 Oney1
 
-426 songs - 21 hr 10 min
+427 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [MORNING](https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [MORNING](https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q) | 2:03 | 2023-03-03 | 2025-05-07 |
 | [Muchas Partes](https://open.spotify.com/track/5Swav7qjzo15oMtEE3b4SI) | [Maxi Prieto](https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW), [Lokilo](https://open.spotify.com/artist/3GJTJk6BeaHDh9XBTNACgp), [El Soud](https://open.spotify.com/artist/6J1N1bMY2DAwVE8lob500f) | [Pikaku](https://open.spotify.com/album/2ovV853Nmbbbb7NN4oYopN) | 4:03 | 2025-10-31 | 2025-11-21 |
 | [MUGRE](https://open.spotify.com/track/0hoo74Q82lOWekiPWYOOuz) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MUGRE](https://open.spotify.com/album/76U5G9L3YaFDkKGYXfl1Zb) | 4:19 | 2021-11-26 | 2022-04-12 |
-| [Mujer](https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Mujer](https://open.spotify.com/album/5r0bfpYeKKhKKDXfGfhuwV) | 3:05 | 2023-06-16 |  |
+| [Mujer](https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Mujer](https://open.spotify.com/album/5r0bfpYeKKhKKDXfGfhuwV) | 3:05 | 2023-06-16 | 2026-01-31 |
 | [muy distinto](https://open.spotify.com/track/6fULUXHMkfQOvbx5y6COkn) | [Foking](https://open.spotify.com/artist/60n2WytJgR3JHkeqJxZQrm), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [DommoBeats](https://open.spotify.com/artist/2kMVBdVpeeZOVpeirhykCc) | [muy distinto](https://open.spotify.com/album/3mmHwroW6r1PIxlOrNB8Ta) | 1:42 | 2024-05-24 | 2025-11-01 |
 | [Mírame](https://open.spotify.com/track/3Zf4ys9i4Nx5acc0tEVGwr) | [Louly](https://open.spotify.com/artist/4iXaV8MoL2JmP9yhsPYv0Q), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [23](https://open.spotify.com/album/5UZ4idzeoePrLTZf5P2jlj) | 2:22 | 2021-11-26 | 2022-04-12 |
 | [Nacimos pa' Ganar](https://open.spotify.com/track/4DdatyVHq3SaBf7R3PPuey) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Nacimos pa' Ganar](https://open.spotify.com/album/6EIHEX7mSbyfvemYyLBJEQ) | 3:09 | 2023-11-24 | 2024-08-31 |
@@ -364,6 +364,7 @@
 | [SANA SANA](https://open.spotify.com/track/6ZzjeYAIHkIbh6VhYsMSIg) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SANA SANA](https://open.spotify.com/album/6I94uMnDMEFe8EHX2QiQES) | 2:58 | 2021-11-26 | 2022-04-12 |
 | [Sangría \- con WOS](https://open.spotify.com/track/1fJjC8C0BdgUHlKIP2ODQf) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 2:34 | 2025-05-06 |  |
 | [Sangría \- con WOS](https://open.spotify.com/track/51aMyZzlIOitdIA4vyF0JO) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [Atrevido](https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB) | 2:34 | 2021-11-26 | 2022-02-26 |
+| [SE FELIZ :\(](https://open.spotify.com/track/4vsG8CillpNPNP1BsyzsKa) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [SE FELIZ :\(](https://open.spotify.com/album/0yn2VqUkpNTgRdzIRUgmrL) | 2:38 | 2026-01-30 |  |
 | [Seduciendome](https://open.spotify.com/track/5LRj7Ae2xlHWNgxbLK5pIs) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Seduciendome](https://open.spotify.com/album/0tDbIFl2TsGsS7hjUaCRUw) | 3:11 | 2022-04-11 | 2023-06-10 |
 | [Seru Giran](https://open.spotify.com/track/2AYN4YWIQwwIITZ1Y16oCX) | [Sabor Americano](https://open.spotify.com/artist/14OUQXeNEchUmECBMYvVoE), [SAGA HFK](https://open.spotify.com/artist/2leQy5Pkz9ZUKCbKuocLR3) | [L'Ultimo Sabor](https://open.spotify.com/album/0DgQpJ53qzch9xGh1ucxpl) | 2:57 | 2025-09-19 |  |
 | [Shorty](https://open.spotify.com/track/3Fekr3gkWmX25J2m4aVNaC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:25 | 2021-11-26 | 2023-08-19 |

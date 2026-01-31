@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224312,
+      "name": "Badlands (Night)",
+      "url": "https://open.spotify.com/track/3EsUhOrtrAxkuaY7tHYXcg"
+    },
+    {
+      "album": {
         "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 210625,
       "name": "Better the Mask",
       "url": "https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4"

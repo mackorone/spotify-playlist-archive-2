@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 140571,
+  "num_followers": 140587,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXlRgAAAAACEYKYCLKurbBcUdqB4qSBH",
+  "snapshot_id": "aXqjAAAAAADJaqVRtpdyXWT6N63r3joc",
   "tracks": [
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Letters",
-        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 168360,
-      "name": "Bermuda Triangle Blues - Remastered",
-      "url": "https://open.spotify.com/track/4xF8RWpIgK8Axjeo28iXnu"
+      "duration_ms": 178400,
+      "name": "Here's Looking At You - Remastered 2001",
+      "url": "https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+        "name": "Plastic Letters",
+        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 178400,
-      "name": "Here's Looking At You - Remastered 2001",
-      "url": "https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc"
+      "duration_ms": 168360,
+      "name": "Bermuda Triangle Blues - Remastered",
+      "url": "https://open.spotify.com/track/4xF8RWpIgK8Axjeo28iXnu"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Letters",
-        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 122666,
-      "name": "Contact In Red Square - Remastered",
-      "url": "https://open.spotify.com/track/3CsLJ6hYYgtoUKSSgvvga4"
+      "duration_ms": 231800,
+      "name": "Do The Dark - Remastered 2001",
+      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
     },
     {
       "added_at": null,
@@ -623,38 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Do The Dark - Remastered 2001",
-      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits: Blondie",
-        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "End To End",
-      "url": "https://open.spotify.com/track/3Tl6l1nAmOcmpbx3ODqLkL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plastic Letters",
         "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
       },
@@ -664,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 158800,
-      "name": "Fan Mail - Remastered",
-      "url": "https://open.spotify.com/track/4BMbD4jHKpmukraBqxUWKJ"
+      "duration_ms": 122666,
+      "name": "Contact In Red Square - Remastered",
+      "url": "https://open.spotify.com/track/3CsLJ6hYYgtoUKSSgvvga4"
     },
     {
       "added_at": null,
@@ -703,6 +671,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits: Blondie",
+        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "End To End",
+      "url": "https://open.spotify.com/track/3Tl6l1nAmOcmpbx3ODqLkL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plastic Letters",
+        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Fan Mail - Remastered",
+      "url": "https://open.spotify.com/track/4BMbD4jHKpmukraBqxUWKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sunday Girl",
         "url": "https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 194386,
       "name": "Sunday Girl - French Version",
       "url": "https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Live It Up - Remastered 2001",
+      "url": "https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Live It Up - Remastered 2001",
-      "url": "https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Exit",
         "url": "https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 193173,
       "name": "Nothing Is Real but the Girl",
       "url": "https://open.spotify.com/track/5ZCIPSKOAyOAYfDVNM9LrQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pollinator",
-        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Already Naked",
-      "url": "https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 179613,
       "name": "Soul Train",
       "url": "https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pollinator",
+        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Already Naked",
+      "url": "https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE"
     }
   ],
   "unique_name": "This Is Blondie",

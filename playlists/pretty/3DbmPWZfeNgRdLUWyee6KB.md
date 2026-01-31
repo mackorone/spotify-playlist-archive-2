@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,209 likes - 157 songs - 8 hr 56 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,216 likes - 166 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,5 +165,14 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 155 | [Toxic Trait](https://open.spotify.com/track/34KZgwr2aDJQSeclVpdKB6) | [ItsRosieQuartz](https://open.spotify.com/artist/6PtNGny2c7sJblEprhD8PF) | [Toxic Trait](https://open.spotify.com/album/0c4tXSpPZgmfezbQiri3q4) | 2:45 |
 | 156 | [Bright As The Stars](https://open.spotify.com/track/5vZMfAHNm6MeaomaddB4Fq) | [Kathi Fran](https://open.spotify.com/artist/10QZVs0DFiNYbYrkKEE385) | [Bright As The Stars](https://open.spotify.com/album/6Mx8feGql3vMv1cPzdWPHH) | 3:18 |
 | 157 | [Mi voluntad](https://open.spotify.com/track/5tXPiB9wwihAlWuwS5hYr0) | [Eterea](https://open.spotify.com/artist/4H08iozMUTfC4kj5mPnDPD) | [Que la luna me desarme](https://open.spotify.com/album/4npBuLFIMtPnj5EFaa2zBN) | 3:14 |
+| 158 | [你眼中的伤痕 • The Scars in Your Eyes](https://open.spotify.com/track/5kGIPlGN99k3tUXKSjrirF) | [彭俐客](https://open.spotify.com/artist/3h1LgXnjamZJ2YBk36REGe) | [献给 AI 的思考 • Thoughts for AI](https://open.spotify.com/album/4K4lChy5piyec9S6EN9gLj) | 3:46 |
+| 159 | [Lueg mi a \- Dänk was wotsch](https://open.spotify.com/track/5k03obY555MhUQAQwxq7OF) | [Manou](https://open.spotify.com/artist/7l1lEpbeMCACME9YwfFBz6) | [Lueg mi a \- Dänk was wotsch](https://open.spotify.com/album/5dvntdIVcCo5gjG7ocPYfK) | 3:24 |
+| 160 | [Ada Lah Pokoknya](https://open.spotify.com/track/79VmacwFHLZ9MFJnd9M0Nt) | [WORSHIPER](https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk) | [Ada Lah Pokoknya](https://open.spotify.com/album/23lnq8yr8VjuLKAKrqt26u) | 1:51 |
+| 161 | [Abdel et Mikael](https://open.spotify.com/track/6nQny9qnNR6HCXmVOxsXrL) | [Anyel ADDA](https://open.spotify.com/artist/6Hwlx1juJcZzoLlNrTFoCh) | [Abdel et Mikael](https://open.spotify.com/album/4v99ixzKM0caMxHgiRYQhv) | 3:37 |
+| 162 | [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 |
+| 163 | [23 de Maio](https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz), [Jess.](https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI) | [23 de Maio](https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd) | 1:43 |
+| 164 | [Start Over](https://open.spotify.com/track/6w6G8JwBtOQCiro9hj6rx7) | [Hilla Peer](https://open.spotify.com/artist/7bPux2PIV6JLOrjuxyfIbx), [Roy Aharon](https://open.spotify.com/artist/6iG05TrjWso3eQiNOcvmvc) | [Start Over](https://open.spotify.com/album/6Ix0eruzkCh5U11C3oma9c) | 2:48 |
+| 165 | [L'été](https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [L'été](https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc) | 3:58 |
+| 166 | [Judas](https://open.spotify.com/track/63ojE5nDCmEvkLG1tL8Hl8) | [Valeska Rautenberg](https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG) | [Aerial Minds](https://open.spotify.com/album/2c0rWMixj6Or2q7VdOVujJ) | 4:18 |
 
-Snapshot ID: `AAAP3B68DBrIUHe1An2tCb1iqc7sPv/Q`
+Snapshot ID: `AAAP5aZ/HRbv+J1jtT4aKrLoIgNChrPe`

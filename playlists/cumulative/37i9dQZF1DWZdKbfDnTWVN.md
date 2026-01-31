@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD?si=rOsD9n\_bRimpuY4QfXxhyw"> Toxic Lyrikali</a>
 
-463 songs - 1 day 0 hr 57 min
+464 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Chanua Ma Namble](https://open.spotify.com/track/0E4EivoDa0Yc1VIBNOjips) | [MASTAR VK](https://open.spotify.com/artist/6MfFpPlImcpGNkoIIA1rDj), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Chanua Ma Namble](https://open.spotify.com/album/4osdLyRo3PUmij2NFMN1fN) | 3:09 | 2025-07-03 |  |
 | [Chase](https://open.spotify.com/track/0mZBoHCXAX8ff0W1N1fN0R) | [8th Street Gang](https://open.spotify.com/artist/2dBpYnIr6v0mfiMIFMkHIO) | [Chase](https://open.spotify.com/album/6CBCDbvWG5yQpVYQpNJGBj) | 3:29 | 2025-06-05 | 2025-10-24 |
 | [CHECKLIST](https://open.spotify.com/track/4vSPH1x7oYohAUEoYehl2b) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E) | [CHECKLIST](https://open.spotify.com/album/1AtdGKcZ4hjcWTBDGDRpD2) | 3:25 | 2022-08-04 | 2023-08-05 |
+| [CheckMate](https://open.spotify.com/track/2OUQRk5XWWFVyYMJC5ish3) | [Yogen](https://open.spotify.com/artist/4ZsMHZuxPsMR0eS8dmyK7F), [Mluhyaflani](https://open.spotify.com/artist/4B0hzYTjXATjN6D2sOdNnS), [Adogo](https://open.spotify.com/artist/5tlx3L2WROpYDCtAVQOtgq) | [CheckMate](https://open.spotify.com/album/0D8eNXzrKvDNOyYakFkGiX) | 3:38 | 2026-01-29 |  |
 | [Chico](https://open.spotify.com/track/6C2ZM0jujHUSZ1OlEoH0Gg) | [Clue Ashaivisha Track](https://open.spotify.com/artist/7uSiyol0SgxNKHJFzXFI2P), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [Sharubati](https://open.spotify.com/album/5bdZpUa4fmVKJNg9NrPICO) | 2:52 | 2024-07-25 | 2024-08-09 |
 | [Chief Gwetheist \(Sewersydaa\)](https://open.spotify.com/track/2GucYaVrScyiDXQpie0pIY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Chief Gwetheist \(Sewersydaa\)](https://open.spotify.com/album/5GD594cT72b9UnuBl0vEIC) | 2:50 | 2023-04-13 | 2023-10-13 |
 | [Chinje](https://open.spotify.com/track/5JO1evNqPbkzI4WfUb3VYL) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Chinje](https://open.spotify.com/album/10bofBAyhS6uXTHM1SyYzj) | 3:31 | 2025-03-14 |  |

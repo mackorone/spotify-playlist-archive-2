@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Cat Clyde
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,912 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,898 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Another Time](https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Another Time](https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele) | 3:39 |
 | 2 | [A Friend Like You](https://open.spotify.com/track/2t0s7VqkEetNbUbyPyErHq) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [A Friend Like You](https://open.spotify.com/album/4ajQeQmThn806ORN8hEg60) | 6:07 |
-| 3 | [Track 4](https://open.spotify.com/track/0EALtIhPNmWQgYdT3hxfIX) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [](https://open.spotify.com/album/null) | 0:00 |
-| 4 | [Lost at Sea](https://open.spotify.com/track/4SPFLGbWVbdSnnVa985mvA) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [](https://open.spotify.com/album/null) | 3:04 |
+| 3 | [Cast Iron Heart](https://open.spotify.com/track/0EALtIhPNmWQgYdT3hxfIX) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Appalachia](https://open.spotify.com/album/428KzGfU0jpgqpebyZmITs) | 4:57 |
+| 4 | [Lost at Sea](https://open.spotify.com/track/4SPFLGbWVbdSnnVa985mvA) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [Back to Life](https://open.spotify.com/album/2tf6b0OVMQg6Nh7O5OgHKu) | 3:04 |
 | 5 | [Leanne](https://open.spotify.com/track/31s5RqkUKFNUxA8J2QtpBg) | [Natalie Del Carmen](https://open.spotify.com/artist/0TMQOD1S7h7Dr86QQWHdiG) | [Pastures](https://open.spotify.com/album/5l0PyWVsApCKBHKEo0r0hz) | 3:47 |
 | 6 | [Like a Child](https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Like a Child](https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2) | 3:36 |
 | 7 | [Nothing Comes Easy](https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nothing Comes Easy](https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy) | 2:54 |

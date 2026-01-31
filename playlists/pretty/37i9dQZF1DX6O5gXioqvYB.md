@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Santamarea in cover + tutto il meglio delle novità indie 🌊
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,519 likes - 126 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,522 likes - 126 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 2 | [Canzoni per la notte](https://open.spotify.com/track/2Y0QL2mwrQnTdhdSCvEuW4) | [MOBRICI](https://open.spotify.com/artist/3BV0pd7wPcsLQzO2rNiupd) | [Supernova](https://open.spotify.com/album/70ltpOxhlMHnAM6DSIerd5) | 3:23 |
 | 3 | [Quasi Blu](https://open.spotify.com/track/4p814E87xWIycc6AxT0t1V) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW) | [Quasi Blu](https://open.spotify.com/album/4qSGnqPDAzw4I27U6YL9ZT) | 3:47 |
 | 4 | [Mi ritroverai](https://open.spotify.com/track/3nSsqK9EEhtgRrL1dMAzBY) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 2:57 |
-| 5 | [Track 9](https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [Some Days](https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh), [Fenne Kuppens](https://open.spotify.com/artist/60iEGApcgcq0nTdHVFptU3) | [Dream Life](https://open.spotify.com/album/39X15SMr1uG8aCugIqiHpM) | 4:17 |
 | 6 | [Col tuo nome](https://open.spotify.com/track/04vbMHJkXt0kjPQoxdqvRf) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Lunedì](https://open.spotify.com/album/0n9Mdq5RwqIXEqmiarJvFo) | 2:58 |
 | 7 | [Ciao](https://open.spotify.com/track/2UCAwfF9k5cHmvTKuZq7Rn) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Ciao](https://open.spotify.com/album/19vyV3PnVDS44cM5CYyHyw) | 2:58 |
 | 8 | [La Notte](https://open.spotify.com/track/1jOLP4Fbe14WEonlgdyYiC) | [Zara Colombo](https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx) | [La Notte](https://open.spotify.com/album/6ZqjPbnosJrH5uH87jmgmJ) | 3:10 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 16 | [Isole di plastica](https://open.spotify.com/track/0UMUXeQpMgbg3qPpuJQsRE) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Isole di plastica](https://open.spotify.com/album/3UEINhwpoH16p2N4iUCxLY) | 3:29 |
 | 17 | [Mao](https://open.spotify.com/track/3R9z5gVkW83FPI3b1yVlph) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Lunedì](https://open.spotify.com/album/0n9Mdq5RwqIXEqmiarJvFo) | 3:18 |
 | 18 | [La Luna e Saturno](https://open.spotify.com/track/3VG7q4z6Ou7AR1hK1FTzta) | [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Stella \| La Luna e Saturno](https://open.spotify.com/album/1Opi9oTsKLVZi4Svo4S4yE) | 3:16 |
-| 19 | [I RAGAZZI BALLANO ANCORA I CURE](https://open.spotify.com/track/7kwHYZSzPzG0m3mdnumvye) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [](https://open.spotify.com/album/null) | 3:50 |
+| 19 | [I RAGAZZI BALLANO ANCORA I CURE](https://open.spotify.com/track/7kwHYZSzPzG0m3mdnumvye) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [EX](https://open.spotify.com/album/1gYLYLWky4NM9Gfx3sNWQT) | 3:50 |
 | 20 | [addio settembre](https://open.spotify.com/track/1VxuabJ6Tb4hxAMdtIO2Sb) | [SANTACHIARA](https://open.spotify.com/artist/5lQwH3yb4bvUNnFG5DXMRW) | [addio settembre](https://open.spotify.com/album/0lLztCxr3ijRaWsRqWRMcw) | 3:49 |
 | 21 | [Me l'hai detto tu \(feat\. chiamamifaro\)](https://open.spotify.com/track/0I3XSj50a53Jm4bgCLKsan) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Me l'hai detto tu \(feat\. chiamamifaro\)](https://open.spotify.com/album/20zDgmPugLaGTgXCMgU9oM) | 3:15 |
 | 22 | [Chi sei](https://open.spotify.com/track/2VL6TvmSJ4J5miShhO9G1v) | [Alosi](https://open.spotify.com/artist/3M0xQSDicFWo1DPjkkW8gt) | [Cose molto cattive](https://open.spotify.com/album/0pl6gbWISn2qxnnwFlQOP6) | 3:18 |

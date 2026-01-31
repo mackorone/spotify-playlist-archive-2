@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195834,
+  "num_followers": 195846,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
-        "name": "Sweet Emotion",
-        "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 157441,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
-    },
-    {
-      "added_at": "2026-01-29 23:00:44",
-      "album": {
         "name": "Hos dig \u00e4r jag stark",
         "url": "https://open.spotify.com/album/71CzIZ2fzyriXJf5kVI9Tj"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 187183,
       "name": "Hos dig \u00e4r jag stark",
       "url": "https://open.spotify.com/track/0L7nPD6GbbEGI5KdN2scId"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
+        "name": "Sweet Emotion",
+        "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 157441,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
     },
     {
       "added_at": "2026-01-29 23:00:44",
@@ -731,18 +731,22 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
-        "name": "RANSOMS",
-        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
+        "name": "Himlen i handen (feat. Thomas Stenstr\u00f6m)",
+        "url": "https://open.spotify.com/album/5snT9oFQy7RVPfsYxrsdRN"
       },
       "artists": [
         {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+          "name": "Division 7",
+          "url": "https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP"
+        },
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 183278,
-      "name": "RANSOMS",
-      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
+      "duration_ms": 243493,
+      "name": "Himlen i handen (feat. Thomas Stenstr\u00f6m)",
+      "url": "https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ"
     },
     {
       "added_at": "2026-01-29 23:00:44",
@@ -763,6 +767,22 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
+        "name": "RANSOMS",
+        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 183278,
+      "name": "RANSOMS",
+      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
         "name": "Svartsjuk (Spotify Singles)",
         "url": "https://open.spotify.com/album/6QEHew6RMgoE4MHTCYPXrV"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 165676,
       "name": "Svartsjuk - Spotify Singles",
       "url": "https://open.spotify.com/track/7mdmE3IpTHpYPv2gheaadm"
-    },
-    {
-      "added_at": "2026-01-29 23:00:44",
-      "album": {
-        "name": "Himlen i handen (feat. Thomas Stenstr\u00f6m)",
-        "url": "https://open.spotify.com/album/5snT9oFQy7RVPfsYxrsdRN"
-      },
-      "artists": [
-        {
-          "name": "Division 7",
-          "url": "https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP"
-        },
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Himlen i handen (feat. Thomas Stenstr\u00f6m)",
-      "url": "https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ"
     },
     {
       "added_at": "2026-01-29 23:00:44",
@@ -923,6 +923,26 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
+        "name": "Vintersaga (feat. Erik Lundin)",
+        "url": "https://open.spotify.com/album/2AUyGofzojnDNVclq5IaM8"
+      },
+      "artists": [
+        {
+          "name": "Deportees",
+          "url": "https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4"
+        },
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Vintersaga (feat. Erik Lundin)",
+      "url": "https://open.spotify.com/track/10UCosnyAKb33FIpMLCK20"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
         "name": "Vi som \u00e4r natten",
         "url": "https://open.spotify.com/album/5SDri3EpV6HYCoyPLdtyeL"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 190066,
       "name": "Hazy Eyes",
       "url": "https://open.spotify.com/track/6LC1blcEVm5CcChPJlMuhA"
-    },
-    {
-      "added_at": "2026-01-29 23:00:44",
-      "album": {
-        "name": "Vintersaga (feat. Erik Lundin)",
-        "url": "https://open.spotify.com/album/2AUyGofzojnDNVclq5IaM8"
-      },
-      "artists": [
-        {
-          "name": "Deportees",
-          "url": "https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4"
-        },
-        {
-          "name": "Erik Lundin",
-          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Vintersaga (feat. Erik Lundin)",
-      "url": "https://open.spotify.com/track/10UCosnyAKb33FIpMLCK20"
     },
     {
       "added_at": "2026-01-29 23:00:44",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
+        "name": "Du & jag & mera tid",
+        "url": "https://open.spotify.com/album/5DoYxoIibcFRIraBQ8TGQ6"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 174101,
+      "name": "Bara kom",
+      "url": "https://open.spotify.com/track/7CcrqmPUhnFAOWG1Y9ogp8"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
         "name": "Haunted Disco",
         "url": "https://open.spotify.com/album/1n9r7bEikcyEqGbMenMySZ"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 187576,
       "name": "Haunted Disco",
       "url": "https://open.spotify.com/track/3rb03cQotAdhTuM4wHMojD"
-    },
-    {
-      "added_at": "2026-01-29 23:00:44",
-      "album": {
-        "name": "Du & jag & mera tid",
-        "url": "https://open.spotify.com/album/5DoYxoIibcFRIraBQ8TGQ6"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 174101,
-      "name": "Bara kom",
-      "url": "https://open.spotify.com/track/7CcrqmPUhnFAOWG1Y9ogp8"
     },
     {
       "added_at": "2026-01-29 23:00:44",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/2iFS8uewUG1gkseKzBzsbQ"
+      },
+      "artists": [
+        {
+          "name": "Adam Woods",
+          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
+        }
+      ],
+      "duration_ms": 161450,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/4T4TEH8gefIzE81kDop98h"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
         "name": "Superhj\u00e4ltar",
         "url": "https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 144285,
       "name": "Superhj\u00e4ltar",
       "url": "https://open.spotify.com/track/6mXkroSXhGFLTX1mkOxEiO"
-    },
-    {
-      "added_at": "2026-01-29 23:00:44",
-      "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/2iFS8uewUG1gkseKzBzsbQ"
-      },
-      "artists": [
-        {
-          "name": "Adam Woods",
-          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
-        }
-      ],
-      "duration_ms": 161450,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/4T4TEH8gefIzE81kDop98h"
     },
     {
       "added_at": "2026-01-29 23:00:44",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
-        "name": "Greczula (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf"
-      },
-      "artists": [
-        {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
-        }
-      ],
-      "duration_ms": 161194,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw"
-    },
-    {
-      "added_at": "2026-01-29 23:00:44",
-      "album": {
         "name": "Svensk Rost",
         "url": "https://open.spotify.com/album/4WajYbYTC43tWcQx6E0OOu"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 169066,
       "name": "S\u00e5 s\u00f6tt livet kan smaka",
       "url": "https://open.spotify.com/track/6UWivnKJZ7fojidyVzcNMp"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
+        "name": "Greczula (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw"
     },
     {
       "added_at": "2026-01-29 23:00:44",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
-        "name": "I Rymden Finns Inga T\u00e5rar",
-        "url": "https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 226346,
-      "name": "Ingen Vet...",
-      "url": "https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH"
-    },
-    {
-      "added_at": "2026-01-29 23:00:44",
-      "album": {
         "name": "N\u00e5n annan",
         "url": "https://open.spotify.com/album/06VDT8daesC9owi5dfb7bF"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
+        "name": "I Rymden Finns Inga T\u00e5rar",
+        "url": "https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 226346,
+      "name": "Ingen Vet...",
+      "url": "https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
         "name": "Margaretas s\u00e5ng",
         "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
       },
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
-        "name": "mexico / is this how you said you'd be gone",
-        "url": "https://open.spotify.com/album/0iLHHCTA7n8iZyJHjiNKLA"
+        "name": "VA INTE DUM",
+        "url": "https://open.spotify.com/album/5ZtelQnle9AlgEz22V53bo"
       },
       "artists": [
         {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
         }
       ],
-      "duration_ms": 247920,
-      "name": "is this how you said you\u2019d be gone",
-      "url": "https://open.spotify.com/track/1zM1XKfkjVooLnszVfO6nq"
+      "duration_ms": 190843,
+      "name": "VA INTE DUM",
+      "url": "https://open.spotify.com/track/4yyRBOlD1qXPUYBasj7QK3"
     },
     {
       "added_at": "2026-01-29 23:00:44",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
-        "name": "VA INTE DUM",
-        "url": "https://open.spotify.com/album/5ZtelQnle9AlgEz22V53bo"
+        "name": "mexico / is this how you said you'd be gone",
+        "url": "https://open.spotify.com/album/0iLHHCTA7n8iZyJHjiNKLA"
       },
       "artists": [
         {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
         }
       ],
-      "duration_ms": 190843,
-      "name": "VA INTE DUM",
-      "url": "https://open.spotify.com/track/4yyRBOlD1qXPUYBasj7QK3"
+      "duration_ms": 247920,
+      "name": "is this how you said you\u2019d be gone",
+      "url": "https://open.spotify.com/track/1zM1XKfkjVooLnszVfO6nq"
     },
     {
       "added_at": "2026-01-29 23:00:44",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
+        "name": "Ett varv till",
+        "url": "https://open.spotify.com/album/0VDVseaKn0Lq8D2zKz0V00"
+      },
+      "artists": [
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "duration_ms": 177376,
+      "name": "Ett varv till",
+      "url": "https://open.spotify.com/track/3QIcx4ASUFPNnJLdzMEy0D"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
         "name": "T\u00e5rar",
         "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
       },
@@ -1727,6 +1743,26 @@
       "duration_ms": 214642,
       "name": "Dag 1",
       "url": "https://open.spotify.com/track/1uldIZbqjW1nMER6ktCQLS"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
+        "name": "MIG/DIG (feat. Klaudy)",
+        "url": "https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        },
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "duration_ms": 176672,
+      "name": "MIG/DIG (feat. Klaudy)",
+      "url": "https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc"
     },
     {
       "added_at": "2026-01-29 23:00:44",
@@ -1767,26 +1803,6 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
-        "name": "MIG/DIG (feat. Klaudy)",
-        "url": "https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S"
-      },
-      "artists": [
-        {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
-        },
-        {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        }
-      ],
-      "duration_ms": 176672,
-      "name": "MIG/DIG (feat. Klaudy)",
-      "url": "https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc"
-    },
-    {
-      "added_at": "2026-01-29 23:00:44",
-      "album": {
         "name": "kanske lika bra att vi l\u00e4gger av n\u00e4r vi ligger bra",
         "url": "https://open.spotify.com/album/4VPYO2mrgxJkSs6LC4zOm4"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 182944,
       "name": "lose control",
       "url": "https://open.spotify.com/track/0gPT9v8KyzHZ1MiH2yY9QE"
-    },
-    {
-      "added_at": "2026-01-29 23:00:44",
-      "album": {
-        "name": "Ett varv till",
-        "url": "https://open.spotify.com/album/0VDVseaKn0Lq8D2zKz0V00"
-      },
-      "artists": [
-        {
-          "name": "Kasino",
-          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
-        }
-      ],
-      "duration_ms": 177376,
-      "name": "Ett varv till",
-      "url": "https://open.spotify.com/track/3QIcx4ASUFPNnJLdzMEy0D"
     },
     {
       "added_at": "2026-01-29 23:00:44",

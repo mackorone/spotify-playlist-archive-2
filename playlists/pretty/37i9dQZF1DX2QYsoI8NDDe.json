@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Liz Loyo",
-  "num_followers": 580593,
+  "num_followers": 580590,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,22 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "ENCUENTROS",
-        "url": "https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw"
+        "name": "La Competencia",
+        "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 180786,
-      "name": "OTRO CAP\u00cdTULO",
-      "url": "https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK"
+      "duration_ms": 209160,
+      "name": "La Competencia",
+      "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -355,22 +359,18 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "La Competencia",
-        "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
+        "name": "ENCUENTROS",
+        "url": "https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw"
       },
       "artists": [
         {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 209160,
-      "name": "La Competencia",
-      "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
+      "duration_ms": 180786,
+      "name": "OTRO CAP\u00cdTULO",
+      "url": "https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Tengo Ganas de Llorar",
-        "url": "https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Rojas",
-          "url": "https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1"
-        },
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Tengo Ganas de Llorar",
-      "url": "https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "COMO DIABLOS",
         "url": "https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 164798,
       "name": "Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Tengo Ganas de Llorar",
+        "url": "https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Rojas",
+          "url": "https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Tengo Ganas de Llorar",
+      "url": "https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
+        "name": "Entre La Maleza",
+        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 215956,
+      "name": "Entre La Maleza",
+      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
         "name": "Ahora Te Aguantas",
         "url": "https://open.spotify.com/album/2vzjM97QfvPxG9tm2Ys2Dm"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 165000,
       "name": "Ahora Te Aguantas",
       "url": "https://open.spotify.com/track/6zB7NJW1QfOMN85gJteqfm"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
-        "name": "Entre La Maleza",
-        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 215956,
-      "name": "Entre La Maleza",
-      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "As\u00ed Son Las Cosas",
-        "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 171529,
-      "name": "As\u00ed Son Las Cosas",
-      "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "A Mucha Honra",
         "url": "https://open.spotify.com/album/1IbcDpHFX8oKYnipXxeZmG"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 183199,
       "name": "Te Va a Doler",
       "url": "https://open.spotify.com/track/0ZreRurYnyBnKtBJs28FIa"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "As\u00ed Son Las Cosas",
+        "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 171529,
+      "name": "As\u00ed Son Las Cosas",
+      "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
+        "name": "Ovarios (Banda)",
+        "url": "https://open.spotify.com/album/2rIxXW7RpXHgZwUxkvRicu"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 193076,
+      "name": "Ovarios - Banda",
+      "url": "https://open.spotify.com/track/456cTYG9AxNpqpodK4qozJ"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
         "name": "MEXA",
         "url": "https://open.spotify.com/album/1ANqKYjxTjlBW2muzJCsgE"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 203341,
       "name": "Cumbiancheros",
       "url": "https://open.spotify.com/track/6VLW4p4O4GlSiPYF8WRjNK"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
-        "name": "Ovarios (Banda)",
-        "url": "https://open.spotify.com/album/2rIxXW7RpXHgZwUxkvRicu"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 193076,
-      "name": "Ovarios - Banda",
-      "url": "https://open.spotify.com/track/456cTYG9AxNpqpodK4qozJ"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
+        "name": "El Ojeroso",
+        "url": "https://open.spotify.com/album/31jbzeLIeq8yEob26RkTjP"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "El Ojeroso",
+      "url": "https://open.spotify.com/track/5zn0QKpWGANfRa0K5G8oX6"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
         "name": "Osa Mayor",
         "url": "https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "El Ojeroso",
-        "url": "https://open.spotify.com/album/31jbzeLIeq8yEob26RkTjP"
+        "name": "La Del Proceso",
+        "url": "https://open.spotify.com/album/6AtKgzJ3tvQrUZgq03QVsm"
       },
       "artists": [
         {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
         }
       ],
-      "duration_ms": 157560,
-      "name": "El Ojeroso",
-      "url": "https://open.spotify.com/track/5zn0QKpWGANfRa0K5G8oX6"
+      "duration_ms": 177200,
+      "name": "La Del Proceso",
+      "url": "https://open.spotify.com/track/6Uvpogq0rwi7oan9JokAKe"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1623,22 +1639,6 @@
       "duration_ms": 227160,
       "name": "La Loca",
       "url": "https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
-        "name": "La Del Proceso",
-        "url": "https://open.spotify.com/album/6AtKgzJ3tvQrUZgq03QVsm"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "La Del Proceso",
-      "url": "https://open.spotify.com/track/6Uvpogq0rwi7oan9JokAKe"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Regalame una Noche",
-        "url": "https://open.spotify.com/album/3ZeSujQTtsmXZRYjtucIWz"
-      },
-      "artists": [
-        {
-          "name": "Arhian",
-          "url": "https://open.spotify.com/artist/51RHZMpW7LcEybWvkZHrzT"
-        }
-      ],
-      "duration_ms": 219273,
-      "name": "Regalame una Noche",
-      "url": "https://open.spotify.com/track/3mJ7vdxAelGjfLxRAvk55a"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Fan de Su Relaci\u00f3n",
         "url": "https://open.spotify.com/album/3VOZkGzzVP8EWOww28izCD"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 192540,
       "name": "Fan de Su Relaci\u00f3n",
       "url": "https://open.spotify.com/track/1mAhrhjWDdwWArEYvMHthd"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Regalame una Noche",
+        "url": "https://open.spotify.com/album/3ZeSujQTtsmXZRYjtucIWz"
+      },
+      "artists": [
+        {
+          "name": "Arhian",
+          "url": "https://open.spotify.com/artist/51RHZMpW7LcEybWvkZHrzT"
+        }
+      ],
+      "duration_ms": 219273,
+      "name": "Regalame una Noche",
+      "url": "https://open.spotify.com/track/3mJ7vdxAelGjfLxRAvk55a"
     },
     {
       "added_at": "2026-01-24 00:44:05",

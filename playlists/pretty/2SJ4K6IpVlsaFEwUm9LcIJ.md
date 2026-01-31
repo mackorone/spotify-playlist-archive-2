@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,858 likes - 25 songs - 1 hr 46 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,863 likes - 27 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,5 +33,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 23 | [Dance](https://open.spotify.com/track/3idjeb4oia9I59Dql0aPkD) | [Duncan Troast](https://open.spotify.com/artist/0Qrm0co28DmwqKD2HrWHzR), [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [music for 2 pianos](https://open.spotify.com/album/77A0GbCVkBQZFC4iB5yByx) | 1:05 |
 | 24 | [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 |
 | 25 | [Extraordinary Machine](https://open.spotify.com/track/5h9Iek7Hp9wayRt7fBp7Ab) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 3:43 |
+| 26 | [You Ain't Got A Hold On Me](https://open.spotify.com/track/6nzFEEsgaXRzlSZmlR4MwM) | [Mark Kozelek](https://open.spotify.com/artist/0qt6QSruHshcWT9QOzyfZp) | [Rock 'N' Roll Singer](https://open.spotify.com/album/5866J94MCDJmX5d7in000y) | 3:14 |
+| 27 | [23](https://open.spotify.com/track/2BP54vmLS8Xdw294EuiH67) | [Torus](https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW) | [Dandelion1](https://open.spotify.com/album/3hXubcAnVll5tpxNMjURn9) | 2:22 |
 
-Snapshot ID: `AAANy5nyZJF7h9h6nWlMaZ8p7QF+USTq`
+Snapshot ID: `AAANztWxlV7fQNYXEFrB2gr3wEuGjQzX`

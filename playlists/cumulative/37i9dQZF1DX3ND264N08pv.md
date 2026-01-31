@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-396 songs - 21 hr 21 min
+397 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [In Synergy](https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [In Synergy](https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T) | 2:46 | 2024-11-08 | 2025-11-25 |
 | [In the year 2222](https://open.spotify.com/track/276doaEmdigNFjR6JeLs4b) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [In the year 2222](https://open.spotify.com/album/4BUq0MYMPCVVRVTNYv0lVl) | 3:37 | 2023-12-04 | 2024-08-03 |
 | [Infinity](https://open.spotify.com/track/6ORIjEQQU6jIIGhCscs5y7) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Infinity](https://open.spotify.com/album/3dFlIzoweOmGPWX2Iin5iN) | 3:12 | 2023-10-25 | 2024-12-13 |
-| [Internet Hooligan](https://open.spotify.com/track/6kZaIV2giPqFrf2nZ0obcH) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Boogshe](https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3) | [Internet Hooligan](https://open.spotify.com/album/1u3zmIGG1j0kwtBRSq6OIQ) | 2:17 | 2025-10-02 |  |
+| [Internet Hooligan](https://open.spotify.com/track/6kZaIV2giPqFrf2nZ0obcH) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Boogshe](https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3) | [Internet Hooligan](https://open.spotify.com/album/1u3zmIGG1j0kwtBRSq6OIQ) | 2:17 | 2025-10-02 | 2026-01-31 |
 | [Jammer!](https://open.spotify.com/track/6EGcJr9fS0fXAKxWgxJOUU) | [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [JAMMER!](https://open.spotify.com/album/3ZiBL68zxCdy77InVMSEmt) | 3:28 | 2022-12-08 | 2023-02-01 |
 | [Jongens van de straat](https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Jongens van de straat](https://open.spotify.com/album/1S7iTYpQr6eYFLaCLWVfbt) | 3:22 | 2022-12-08 | 2023-12-22 |
 | [Kamikaze](https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Kamikaze](https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0) | 3:40 | 2024-11-18 | 2025-11-07 |
@@ -289,6 +289,7 @@
 | [READY 4 WAR](https://open.spotify.com/track/2eDDUox0c2zSscKUq3ePFK) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [XELOR](https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf) | [READY 4 WAR](https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi) | 2:52 | 2023-04-27 | 2023-11-03 |
 | [Ready to Explode](https://open.spotify.com/track/2ghOOeK8G7LLwygHsgZzjP) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Ready to Explode](https://open.spotify.com/album/1E4pKYJpNlutAR8xdE5JKN) | 2:47 | 2022-12-08 | 2023-04-07 |
 | [REBELS AT HEART](https://open.spotify.com/track/7sRBCzeVu9wnOtOi7ifXGP) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [REBELS AT HEART](https://open.spotify.com/album/4GSKfWQafbT294cDzRb6y1) | 2:04 | 2025-04-04 | 2025-11-18 |
+| [RECKLESS](https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [RECKLESS](https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE) | 2:40 | 2026-01-30 |  |
 | [Remember The Name](https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Remember The Name](https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv) | 2:09 | 2025-09-26 |  |
 | [Ride With Me](https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4) | [Ride With Me](https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4) | 3:57 | 2022-12-08 | 2024-02-16 |
 | [Ring The Alarm](https://open.spotify.com/track/4gBHKeyq7rKDN6mqJyJMzg) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Ring The Alarm](https://open.spotify.com/album/6ooGzNXXaCcdUoCVix1ciT) | 3:27 | 2022-12-08 | 2023-06-09 |

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Swarathma
 
-614 songs - 1 day 11 hr 2 min
+615 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Badhuke Bangaaravu](https://open.spotify.com/track/7b04RMKJmRqoL1mPrJ111F) | [Nishchith Raj](https://open.spotify.com/artist/7ead5yMnHG5kNYW1d6Vdop), [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH) | [Badhuke Bangaaravu](https://open.spotify.com/album/5akFz3v75BBTzFZOf6kHvH) | 3:57 | 2025-05-09 | 2025-11-05 |
 | [Bae](https://open.spotify.com/track/67DY60lKpxmESNLKyHoNZN) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Bae](https://open.spotify.com/album/5qOKwBFn3F00te00jfyN06) | 2:33 | 2023-06-21 | 2023-09-21 |
 | [BANAVASI DESHADOL](https://open.spotify.com/track/2GiRSXId5mUMxcauOoiRn6) | [MC.Adz](https://open.spotify.com/artist/1TQRoRqV3OeH7SOg4VMD5h) | [BANAVASI DESHADOL](https://open.spotify.com/album/5dOoCl9a2Q9Z5WvXvb52oU) | 3:27 | 2023-02-20 | 2023-07-04 |
-| [Bar Butterfly](https://open.spotify.com/track/7uqRpR4n59TQhwKGZT2lpH) | [Stoney Rhino](https://open.spotify.com/artist/1pduTHsOHofmFHHM2ONTKc) | [Bar Butterfly](https://open.spotify.com/album/3tTMFTa9hDlDFJsKKqvM0G) | 3:33 | 2025-08-28 |  |
+| [Bar Butterfly](https://open.spotify.com/track/7uqRpR4n59TQhwKGZT2lpH) | [Stoney Rhino](https://open.spotify.com/artist/1pduTHsOHofmFHHM2ONTKc) | [Bar Butterfly](https://open.spotify.com/album/3tTMFTa9hDlDFJsKKqvM0G) | 3:33 | 2025-08-28 | 2026-01-31 |
 | [Barede Na](https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Barede Na](https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6) | 3:30 | 2022-10-12 | 2023-08-10 |
 | [Bayaside Ninna](https://open.spotify.com/track/3NmzEX42jupduW7vMPlXVR) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Bayaside Ninna](https://open.spotify.com/album/1oq31tsHpML3zUgHXxMu3j) | 2:02 | 2024-01-08 | 2024-05-22 |
 | [Beautiful Vibe](https://open.spotify.com/track/37F4JHQqAubJYe33EJ1Snf) | [Abhi Multi](https://open.spotify.com/artist/6oHfz3dNr75Sg9DNVyyHV4), [Pacific](https://open.spotify.com/artist/3pALV1fSZ5E1tFNcTy68nG) | [Beautiful Vibe](https://open.spotify.com/album/3gC3KRMrXytFSlmiPX5hgT) | 3:11 | 2025-01-31 | 2025-06-24 |
@@ -333,6 +333,7 @@
 | [Many Me](https://open.spotify.com/track/2zkjOcWVfozoWtgRj9QzvJ) | [NUMB\-URGH](https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [Many Me](https://open.spotify.com/album/6NJRgP6X0G2gOBFLGTtjyp) | 3:10 | 2023-08-31 | 2024-02-17 |
 | [Maresuveya](https://open.spotify.com/track/1tQqfOyXBs0FvVQ8S52ZJW) | [Swathi Mahesh](https://open.spotify.com/artist/50tTVvbIHlikgdtFT57FrL), [Praveen Bhat](https://open.spotify.com/artist/3irSdYU2VdwDt8qwur1BOZ) | [Maresuveya](https://open.spotify.com/album/0BEMRrnbbZzbLlHcqlxpeb) | 3:19 | 2025-03-17 | 2025-08-22 |
 | [Marethiruve](https://open.spotify.com/track/5fIu0KByVpki8ueCk0Nig5) | [Ahamm](https://open.spotify.com/artist/3FIOkx3f9C6UuJJunHucpC), [Bassmnt](https://open.spotify.com/artist/1ve81U9YJgA5fdxKKjo2o1) | [Marethiruve](https://open.spotify.com/album/1IhNHGpsPbzBwd6kYv2XwN) | 4:17 | 2023-12-22 | 2024-02-17 |
+| [Marujanma](https://open.spotify.com/track/3XMwWPK24jpdSQqntn3Vj4) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV) | [Marujanma](https://open.spotify.com/album/7K7rUJZzpUDVivDfZVQEuM) | 2:28 | 2026-01-30 |  |
 | [Maryade Prashne](https://open.spotify.com/track/3OZQYVkVo0CEk3SJscqYOP) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Maryade Prashne](https://open.spotify.com/album/0sTfJL18ftxj2ZzAL2Rptw) | 2:39 | 2024-06-13 | 2025-02-07 |
 | [Masada Itti Mosada Maccha](https://open.spotify.com/track/06UZsfaWjMjcmsd3DI2Dln) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Masada Itti Mosada Maccha](https://open.spotify.com/album/3uPYwCGaIzR559lUCGt9bZ) | 6:33 | 2023-12-13 | 2024-05-25 |
 | [MATHU KATHE](https://open.spotify.com/track/42QHzIkKyTiOkM8DMmeTXM) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [MATHU KATHE](https://open.spotify.com/album/0P5SJYCQ3cvJqBjYv0spUI) | 1:35 | 2024-06-21 | 2024-11-27 |

@@ -4,7 +4,7 @@
 
 > Listen to the best Rock musics🔥.
 
-511 songs - 1 day 6 hr 56 min
+513 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All Night Long](https://open.spotify.com/track/3z1LhOBcKsrqMtgxM1eoqC) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [The Singles 2023](https://open.spotify.com/album/3DQxUJHoYMxJEsfMcmJcLF) | 3:15 | 2025-04-23 |  |
 | [All The Advice](https://open.spotify.com/track/7HXeg9mn7Olppm5hjo4Gro) | [Wheelchair Mosh Pit](https://open.spotify.com/artist/4PyTu9Zqt86RBzFyMVZF7Z) | [Product Of My Culture](https://open.spotify.com/album/2493FrKyMx7xbDIdq599P5) | 3:30 | 2025-08-01 |  |
 | [All Turned Around](https://open.spotify.com/track/6zbkXxGLRVmGKvJxVet93D) | [The Rolling Thunder](https://open.spotify.com/artist/4CJQfBUMPYgC8EFfwf4vul) | [Time Tells the Truth](https://open.spotify.com/album/6QGLCbTsLgpMsOVcuRT8pX) | 3:14 | 2025-04-23 |  |
+| [Altercations](https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Altercations](https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA) | 5:10 | 2026-01-30 |  |
 | [America](https://open.spotify.com/track/4VU6m1C00D23C1aqmilNaM) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [America](https://open.spotify.com/album/4AWPgQX7dxGookMdQ7bGDC) | 5:09 | 2025-08-01 |  |
 | [Ana](https://open.spotify.com/track/3Dxj4fVvXzkXod43Iwovnf) | [Max Estrella](https://open.spotify.com/artist/31If52zNgwPjGzhsXgeVId) | [Gente dispuesta a caer](https://open.spotify.com/album/7MB5ORAklyeRQuDdDrtXJQ) | 3:45 | 2025-07-19 |  |
 | [Another hero's gone](https://open.spotify.com/track/7Joi8eHXlOykrlxiWlocSB) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [Another hero's gone](https://open.spotify.com/album/73pNsgmQW0mEnhzbtziXPM) | 2:52 | 2025-08-01 |  |
@@ -406,6 +407,7 @@
 | [Status: Wütend](https://open.spotify.com/track/18lnWFV3JRQBUQMsj3zReh) | [Zumpe](https://open.spotify.com/artist/1rqgt5D92XSKW7K9UHz3d5) | [Revoluzzer auf Stand\-by](https://open.spotify.com/album/7ESDybGRpOk5h7StK2t0Fv) | 3:14 | 2025-08-01 |  |
 | [Stay At Home](https://open.spotify.com/track/0zMVaRYrNEMaCqcr92Yc3R) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Stay At Home](https://open.spotify.com/album/2v2AqG7Ct5A8qWJEsz7fwo) | 3:32 | 2025-06-17 |  |
 | [Still Rollin](https://open.spotify.com/track/2Z6tpkhkyyzfUORkuvcc0q) | [Lex Grey](https://open.spotify.com/artist/7DSazBEqn2tJdpTHMKzt8C) | [Still Rollin](https://open.spotify.com/album/6SLlAzru1TixjPCiKRRNQb) | 3:29 | 2025-08-01 |  |
+| [Stoneward Bound](https://open.spotify.com/track/0pqdMbZ1Mp1pcMeSLfq422) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Stoneward Bound](https://open.spotify.com/album/0P78NFFiWeIKkKpAqVzEwl) | 3:04 | 2026-01-30 |  |
 | [Strange Affections](https://open.spotify.com/track/3a3DwKWC3xszQi7B5BkptU) | [Opal Tribe](https://open.spotify.com/artist/1bBQKUoCtoYlgz24976Jvd) | [Strange Affections](https://open.spotify.com/album/7rsOFi26A6kvmugexzyJp1) | 4:08 | 2025-06-17 |  |
 | [Streets](https://open.spotify.com/track/1f0WLhzTTPvqoma7iUyVp1) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:56 | 2025-05-30 |  |
 | [Stronger Than Dead](https://open.spotify.com/track/1bfbe3ESkcSh5eJeBLXzJ2) | [Nobody](https://open.spotify.com/artist/6E49itrcYDTGpkvCu3Dz6F) | [Stronger Than Dead](https://open.spotify.com/album/0wvAqAuP7iSYum9cwZEEzb) | 3:36 | 2025-08-01 |  |

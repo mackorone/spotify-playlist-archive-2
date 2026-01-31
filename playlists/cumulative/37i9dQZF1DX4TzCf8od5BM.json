@@ -859,6 +859,28 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: Ariel, The Little Mermaid: Crystal Cavern",
+        "url": "https://open.spotify.com/album/6HyaiQpz3nu8mnlunrgivG"
+      },
+      "artists": [
+        {
+          "name": "Ariel - Cast",
+          "url": "https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106729,
+      "name": "Do the Ariel Dance",
+      "url": "https://open.spotify.com/track/2DHSULFuH3sBeebpHeHMj1"
+    },
+    {
+      "album": {
         "name": "Marvel's Spidey and His Amazing Friends - Music From and Inspired By",
         "url": "https://open.spotify.com/album/28PAtOT7ctTLu3na2oc2E2"
       },

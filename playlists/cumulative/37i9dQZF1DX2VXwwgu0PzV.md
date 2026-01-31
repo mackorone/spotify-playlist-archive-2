@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Churemi
 
-1,515 songs - 3 day 8 hr 42 min
+1,515 songs - 3 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [Halle](https://open.spotify.com/track/4GWt6P16WBQQFK4VXsPbX8) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ) | [Shepherd](https://open.spotify.com/album/2mf6TRndLJ9XqBGAHfd1vp) | 2:44 | 2023-09-21 | 2023-11-17 |
 | [Hallelujah](https://open.spotify.com/track/56EaWv1kzi23HnfSo75UhI) | [JhonforChrist](https://open.spotify.com/artist/3nuMqFQqdHeM5cldILRXDR), [Trap kidD](https://open.spotify.com/artist/4x838LSk1feGWHkksPlrMw), [Odianose](https://open.spotify.com/artist/7lTDouO7ug3ETSmO5QnAnG) | [Hallelujah](https://open.spotify.com/album/7tefRTzQJ1IHqDHWJVjiy9) | 2:51 | 2023-07-07 | 2023-08-04 |
 | [Hallelujah](https://open.spotify.com/track/3tdhECgfhN1EQyd6hkxcp2) | [Jperfect](https://open.spotify.com/artist/67faG5P3PzTdoJBKGo2ke3) | [Hallelujah](https://open.spotify.com/album/5mh7o03qkHai2HtNSMHWpZ) | 2:41 | 2023-07-07 | 2023-07-28 |
+| [Hallelujah](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [JOY](https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY) | 2:29 | 2026-01-30 |  |
 | [HALLELUJAH](https://open.spotify.com/track/2qBYHbmwGdn6aEMDc9xmha) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [HALLELUJAH](https://open.spotify.com/album/3lC2Nhs1VxXn4QubjCQqea) | 2:16 | 2023-10-06 | 2023-11-17 |
 | [Hallelujah](https://open.spotify.com/track/3FqpxUbn5Glawznnl9caTu) | [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Hallelujah](https://open.spotify.com/album/5XGwrJRQsdJDppW2j1anx6) | 3:17 | 2024-04-27 | 2024-07-27 |
 | [Hallelujah](https://open.spotify.com/track/17FcmUcWoE5MIf0KGNMc3X) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Princewill Agbazue](https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Hallelujah](https://open.spotify.com/album/14UQJrP9HJ2k26a1PRtqM5) | 2:36 | 2024-07-12 | 2024-09-13 |
@@ -1362,7 +1363,6 @@
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-06-20 |
 | [Too Much](https://open.spotify.com/track/7mYXS1qzgjV0m6TDFKii97) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Too Much](https://open.spotify.com/album/2aIQBsKZp8yiohC8SSs5Fl) | 2:46 | 2025-03-21 | 2025-06-06 |
 | [Too Special](https://open.spotify.com/track/2Djud9ytT2Vopulu9UmKk7) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [Too Special](https://open.spotify.com/album/737Yr1qi4z6hwtr93ULzl2) | 3:24 | 2023-07-14 | 2023-09-08 |
-| [Track 1](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-30 |  |
 | [Treasure](https://open.spotify.com/track/2tiJXvCCdGY2UbJOdrYe7M) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Treasure](https://open.spotify.com/album/1eTsRbUS7CUVHWMWHWYRBj) | 2:44 | 2023-02-02 | 2023-03-11 |
 | [Trinity](https://open.spotify.com/track/3j9mH5VzRe2mgaHWuvoccj) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Trinity](https://open.spotify.com/album/6RKJqNo6yI0e2vGXciN7oq) | 2:06 | 2025-04-04 | 2025-06-20 |
 | [Triumphant Entry](https://open.spotify.com/track/1Y0QKC3D9d4b7MvPhIlxls) | [GCAi](https://open.spotify.com/artist/7hXNvWwPypGDier2cVAKFw), [Dee Minor](https://open.spotify.com/artist/41wCdeBWGmu789VYulzdsV) | [Triumphant Entry](https://open.spotify.com/album/7rTPcD1q9nO5Vt5cAzueJg) | 3:00 | 2023-07-21 | 2023-07-28 |

@@ -27761,6 +27761,24 @@
     },
     {
       "album": {
+        "name": "Niks Meer.",
+        "url": "https://open.spotify.com/album/4XnueoNkcwR98g8OubiNmP"
+      },
+      "artists": [
+        {
+          "name": "Rikus Van De Vlies",
+          "url": "https://open.spotify.com/artist/2Ik58q2nVrcW1GZ9o9m16Q"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250673,
+      "name": "Niks Meer.",
+      "url": "https://open.spotify.com/track/0AZQ1Mxts1Zo7HiS3pk2ex"
+    },
+    {
+      "album": {
         "name": "Niks Nie",
         "url": "https://open.spotify.com/album/3rFDa4VyIQwzfh9DA7ui4d"
       },
@@ -31744,7 +31762,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 196498,
       "name": "Reg Om Te Toer",
       "url": "https://open.spotify.com/track/4qLogQ1tvKz57Gd6skyYoP"

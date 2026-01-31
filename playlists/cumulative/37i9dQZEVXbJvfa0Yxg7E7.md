@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,506 songs - 5 day 10 hr 56 min
+2,507 songs - 5 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1602,7 +1602,7 @@
 | [Norge I Rødt Hvitt Og Blått](https://open.spotify.com/track/7w75F85oAXsdaTrCoREONt) | [Lars\-Erik Larsson](https://open.spotify.com/artist/7fFoO8E3rLkTJBItdhAwCy), [Arild Feldborg](https://open.spotify.com/artist/751C9BQ0VdWdtVeC0bADSf), [Finn Bø](https://open.spotify.com/artist/4lkMhKErNMyZ9Sarx6n6O5), [Gardemusikken](https://open.spotify.com/artist/7gyEHWG7bLlW2ZCPeIr1fE) | [Norwegian Colours](https://open.spotify.com/album/4kj5swQwMcPO94P5t4seP9) | 2:28 | 2021-05-19 | 2025-05-20 |
 | [Norge i rødt, hvitt og blått \- 2006 Remastered Version](https://open.spotify.com/track/4S1De6Tx74tNuxyRODRLXY) | [Jens Book\-Jenssen](https://open.spotify.com/artist/3GmeMFpBRcVlf9OUwlsuo0) | [Diamanter](https://open.spotify.com/album/5jKmag1TJpFftqgaDy2sia) | 3:21 | 2021-05-19 | 2025-05-20 |
 | [Norge rundt](https://open.spotify.com/track/2npSnsWqiOkinzheEcuWh8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Norge rundt](https://open.spotify.com/album/1SAhnYv7WLA9wrKlBUQD4J) | 3:24 | 2023-02-04 | 2023-02-12 |
-| [Northern Lights](https://open.spotify.com/track/2qLYadTIWJTXJuS8sTt7m8) | [emma](https://open.spotify.com/artist/6pe92iYUnYByNR6uMcfZ4V) | [Northern Lights](https://open.spotify.com/album/27PGrw4C2AhVTAOZsTAsYU) | 2:57 | 2026-01-29 |  |
+| [Northern Lights](https://open.spotify.com/track/2qLYadTIWJTXJuS8sTt7m8) | [emma](https://open.spotify.com/artist/6pe92iYUnYByNR6uMcfZ4V) | [Northern Lights](https://open.spotify.com/album/27PGrw4C2AhVTAOZsTAsYU) | 2:57 | 2026-01-29 | 2026-01-31 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-06 | 2025-03-30 |
 | [NOT SOBER \(feat\. Polo G & Stunna Gambino\)](https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 3:36 | 2021-07-25 | 2021-08-15 |
 | [Not Worth It](https://open.spotify.com/track/1rbdesqJL4phqIITSayNm4) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Not Worth It](https://open.spotify.com/album/0iWanB5Cwd1GEbCRXD4Tth) | 3:56 | 2023-03-11 | 2023-03-13 |
@@ -2090,6 +2090,7 @@
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-26 |
 | [Strawberry Dream](https://open.spotify.com/track/42xfKgPqHliD8NU1RoixWu) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Strawberry Dream](https://open.spotify.com/album/3UOjrlS5jSsp8ioDi29J5v) | 3:11 | 2024-04-13 | 2024-04-19 |
 | [Strawberry Dream](https://open.spotify.com/track/4IvZvCRIZ38fFL5kAPjeOB) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Strawberry Dream](https://open.spotify.com/album/7CQX6aejSNeztkuDRmkRhV) | 3:11 | 2024-04-18 | 2024-04-21 |
+| [Streets of Minneapolis](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:35 | 2026-01-30 |  |
 | [Strongest](https://open.spotify.com/track/7nW7RLKOCwcVVCbmc1LQ54) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Strongest](https://open.spotify.com/album/62DTmx7xvlkFEMvVfVtlzT) | 2:52 | 2025-01-06 | 2025-01-12 |
 | [STUDIO 23](https://open.spotify.com/track/1dBfRwPwKEqyKuC6lBQcRz) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [The Pøssy Project](https://open.spotify.com/artist/6L3XsdwSNcPAPxHq9KuyxT) | [STUDIO 23](https://open.spotify.com/album/6F6f044sDb1z92mzFIKBOI) | 2:30 | 2023-04-22 | 2023-05-21 |
 | [Style \(Taylor's Version\)](https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-11-02 |

@@ -4,7 +4,7 @@
 
 > the pop lab 🧪 cover: cobrah
 
-2,106 songs - 4 day 9 hr 27 min
+2,107 songs - 4 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-03-04 | 2024-05-04 |
 | [Do It](https://open.spotify.com/track/5BDo6TzD8q0oNtqhhXU3nx) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Do It](https://open.spotify.com/album/3q2koL9KwKQxUue4hn8oWg) | 3:33 | 2025-11-07 | 2026-01-22 |
 | [Do It 'Til I'm Dead](https://open.spotify.com/track/5Bb8S0AmCSPDgKWxbQnuJu) | [ETHAN](https://open.spotify.com/artist/5oqtu58F4NZtVlCamsdmdq) | [Do It 'Til I'm Dead](https://open.spotify.com/album/1wdtPmJrklKEIvFB5VnuX3) | 2:35 | 2025-06-26 | 2025-07-12 |
+| [Do It \(Yves Remix\)](https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Do It \(Yves Remix\)](https://open.spotify.com/album/0GuK2xpYuOvNbFqhRuSRa3) | 3:17 | 2026-01-30 |  |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-07 | 2023-11-25 |
 | [DO U RIDE](https://open.spotify.com/track/4GXAvavmKZsmbPWL93BLBV) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [DO U RIDE](https://open.spotify.com/album/4hYZ7lyxWWuaHEaJuvcz3j) | 3:16 | 2025-06-05 | 2025-07-12 |
 | [do u think about me like that](https://open.spotify.com/track/1FAeXCyyOMZJpkHTnRPH9p) | [felix iirc](https://open.spotify.com/artist/5BcnYdOfhGwWG5cLDoLGP1) | [do u think about me like that](https://open.spotify.com/album/3FG2ZFfB6IhW3WgfoFABkK) | 3:36 | 2025-11-28 |  |

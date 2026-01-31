@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/4dFaBC2vV6wtE6SuV61SKP"
+      },
+      "artists": [
+        {
+          "name": "Saul Solomon",
+          "url": "https://open.spotify.com/artist/54o9WuodPJw6QspfgHYcYr"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144891,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/31HjBegvpsiPMqmVrMhN72"
+    },
+    {
+      "album": {
         "name": "afterglow effect",
         "url": "https://open.spotify.com/album/65CDKWtWFYpG7EEgB5Wzzb"
       },
@@ -182,6 +200,24 @@
       "duration_ms": 130571,
       "name": "Afterhours",
       "url": "https://open.spotify.com/track/53FDaPNsBeM3G7U2wsML7V"
+    },
+    {
+      "album": {
+        "name": "Afterlight Walks",
+        "url": "https://open.spotify.com/album/7mXjGP3WS300Se97I74puK"
+      },
+      "artists": [
+        {
+          "name": "Velvet Noire",
+          "url": "https://open.spotify.com/artist/1AfEMeSLI0UVzwjxXGWWpO"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Afterlight Walks",
+      "url": "https://open.spotify.com/track/6lfle3B18wdKCOJZXqVxWv"
     },
     {
       "album": {
@@ -1136,7 +1172,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 156485,
       "name": "Catching Up With My Breath",
       "url": "https://open.spotify.com/track/2rZYvvEgUgYGH6B6fZYj1g"
@@ -1302,6 +1338,24 @@
       "duration_ms": 167005,
       "name": "Clearance",
       "url": "https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx"
+    },
+    {
+      "album": {
+        "name": "Clockwork",
+        "url": "https://open.spotify.com/album/5Z4k0cV2vYceip23IwEicv"
+      },
+      "artists": [
+        {
+          "name": "Lndonfox",
+          "url": "https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145867,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/6w5EkLwIQg21Ii0xJZQZle"
     },
     {
       "album": {
@@ -2389,6 +2443,24 @@
     },
     {
       "album": {
+        "name": "Falling Short",
+        "url": "https://open.spotify.com/album/7wB49vkmtKmjz7YImSySYN"
+      },
+      "artists": [
+        {
+          "name": "Zaytune",
+          "url": "https://open.spotify.com/artist/70JZHPeMCxGcQKKg3qmu2c"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Falling Short",
+      "url": "https://open.spotify.com/track/2NA4a79Co1wCaWcoj4hNVd"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/49IUgUWndwR4zm99VyAi0J"
       },
@@ -2602,6 +2674,24 @@
       "duration_ms": 129494,
       "name": "Fool Me",
       "url": "https://open.spotify.com/track/3NZR3NMGOY5hjJnRasBCxU"
+    },
+    {
+      "album": {
+        "name": "Footy",
+        "url": "https://open.spotify.com/album/6Jc2XriVWYNSnZunkDDk6u"
+      },
+      "artists": [
+        {
+          "name": "Bear Frantz",
+          "url": "https://open.spotify.com/artist/1nEOXCXHk8zFrNecfXhgrr"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146120,
+      "name": "Footy",
+      "url": "https://open.spotify.com/track/4aozT1oSz1xuCVclHqGuN0"
     },
     {
       "album": {
@@ -4384,7 +4474,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 161785,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/6w4ODC8ygnMgV5hSy1VyoE"
@@ -4834,7 +4924,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 126055,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/6Jok0mHBq3efCQv3QhdZtY"
@@ -4964,6 +5054,24 @@
       "duration_ms": 116500,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax"
+    },
+    {
+      "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/4bIhibNPbgQfgw9cohqI2T"
+      },
+      "artists": [
+        {
+          "name": "incovent",
+          "url": "https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144905,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/6g0OIFMXnDDBPpLIkXAwda"
     },
     {
       "album": {
@@ -5842,7 +5950,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 177795,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1qkg7lW4KprxKYNMD1jijN"
@@ -6112,7 +6220,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 174270,
       "name": "Scusi?",
       "url": "https://open.spotify.com/track/3BfBKVyA5mybODVitVRjlZ"
@@ -7844,6 +7952,24 @@
       "duration_ms": 171420,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/4Yi1GkoCzBpOLY0vJWFyI6"
+    },
+    {
+      "album": {
+        "name": "Voicemails",
+        "url": "https://open.spotify.com/album/3pCCGlUH7UYT70ZqBhtSUy"
+      },
+      "artists": [
+        {
+          "name": "Elliot Horizon",
+          "url": "https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162068,
+      "name": "Voicemails",
+      "url": "https://open.spotify.com/track/1NXOdAIFJC4AGoLAMGDXVw"
     },
     {
       "album": {

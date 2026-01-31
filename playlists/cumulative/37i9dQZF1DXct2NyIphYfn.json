@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Some of the most beautiful love songs in French.",
+  "description": "Some of the most beautiful love songs en fran\u00e7ais <3",
   "name": "Je t'aime",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 196066,
       "name": "Aime-moi",
       "url": "https://open.spotify.com/track/3Nx0tpFFwD0xdw424rhhfN"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 222493,
       "name": "Amoureuse",
       "url": "https://open.spotify.com/track/31gv9xltjx4MWyg3Y7g2dA"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 161912,
       "name": "Baby c'est vous",
       "url": "https://open.spotify.com/track/3td4hXoHSKPLeursSTVeTT"
@@ -284,10 +284,28 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 266413,
       "name": "Chewing-Gum",
       "url": "https://open.spotify.com/track/52ye3YnY6o4XITA62IzCwI"
+    },
+    {
+      "album": {
+        "name": "Cimeti\u00e8re",
+        "url": "https://open.spotify.com/album/0Rdbgv3BNJjNV4iE101yhc"
+      },
+      "artists": [
+        {
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213064,
+      "name": "Cimeti\u00e8re",
+      "url": "https://open.spotify.com/track/5GI7dE5w4CfxctSk3ZzA67"
     },
     {
       "album": {
@@ -378,6 +396,24 @@
       "duration_ms": 197266,
       "name": "Comme j'ai toujours envie d'aimer (version 2001)",
       "url": "https://open.spotify.com/track/5E3wkDtNAPeqMNJHwczB55"
+    },
+    {
+      "album": {
+        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
+        "url": "https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "D O D O",
+      "url": "https://open.spotify.com/track/2dJMDzMF5jMvVFKLTci81H"
     },
     {
       "album": {
@@ -500,7 +536,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 237266,
       "name": "Dis lui toi que je t'aime",
       "url": "https://open.spotify.com/track/28Zaz9xgbpho8lIAaYS5ji"
@@ -558,6 +594,24 @@
       "duration_ms": 249906,
       "name": "Dis, Quand Reviendras-Tu?",
       "url": "https://open.spotify.com/track/5t9sl52AWppfr37rz1t5aX"
+    },
+    {
+      "album": {
+        "name": "Journal d'un Loup-Garou",
+        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309760,
+      "name": "Dis-moi dis-moi dis-moi",
+      "url": "https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu"
     },
     {
       "album": {
@@ -634,6 +688,24 @@
       "duration_ms": 139440,
       "name": "Effeuille-moi le coeur",
       "url": "https://open.spotify.com/track/1k68669ntnKMiCCNXL7vas"
+    },
+    {
+      "album": {
+        "name": "Entre deux r\u00eaves",
+        "url": "https://open.spotify.com/album/5jm1jHoCMuMh3SElNY9R81"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212653,
+      "name": "Emmenez-moi",
+      "url": "https://open.spotify.com/track/6kjDLNGtvnbYIXAMsc6iiu"
     },
     {
       "album": {
@@ -742,7 +814,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 195986,
       "name": "Et m\u00eame apr\u00e8s je t'aimerai",
       "url": "https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP"
@@ -821,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Big Boy",
+        "url": "https://open.spotify.com/album/3VEHArYf1TweZAxKlX0P8R"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152452,
+      "name": "Faufile",
+      "url": "https://open.spotify.com/track/3pgnyg25pkcNlcKuaKnh6b"
+    },
+    {
+      "album": {
         "name": "Flamme",
         "url": "https://open.spotify.com/album/2IHawKPF8EooRyVBYz3y1d"
       },
@@ -832,7 +922,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 164986,
       "name": "Flamme",
       "url": "https://open.spotify.com/track/5mNzJwI6K103A3I46l081D"
@@ -1048,7 +1138,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 218556,
       "name": "Incendie",
       "url": "https://open.spotify.com/track/52i8FlTjU8GCmUf5irJwfu"
@@ -1142,7 +1232,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 292480,
       "name": "J'aurai cent ans",
       "url": "https://open.spotify.com/track/1lbTcEocbV3CBy4WL6En3B"
@@ -1182,7 +1272,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 149293,
       "name": "J'esp\u00e8re",
       "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
@@ -1218,7 +1308,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 219226,
       "name": "J'te l'dis quand m\u00eame",
       "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
@@ -1391,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "L'\u00c8re du Verseau",
+        "url": "https://open.spotify.com/album/5iCfp2KefljOSPdRqpAvyW"
+      },
+      "artists": [
+        {
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214636,
+      "name": "Je t'aime encore",
+      "url": "https://open.spotify.com/track/0vQH42DnQe4F0i7uxlcY0t"
+    },
+    {
+      "album": {
         "name": "Bubble Gum",
         "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
       },
@@ -1500,7 +1608,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 275906,
       "name": "Je te promets",
       "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
@@ -1576,6 +1684,42 @@
       "duration_ms": 217253,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/66TPZLJOEAhnIYGGEbpB8G"
+    },
+    {
+      "album": {
+        "name": "M & J",
+        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235226,
+      "name": "Joe le taxi",
+      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
+    },
+    {
+      "album": {
+        "name": "KIA RIO",
+        "url": "https://open.spotify.com/album/79NtucSknC4MTsKrpew1Al"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185293,
+      "name": "KIA RIO",
+      "url": "https://open.spotify.com/track/6BXhCFvAKAp8N7ZhWoBfDv"
     },
     {
       "album": {
@@ -1757,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Virer nos vies",
+        "url": "https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh"
+      },
+      "artists": [
+        {
+          "name": "Rau_Ze",
+          "url": "https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "L'Habitude",
+      "url": "https://open.spotify.com/track/6kKHyYyzCFfDj1zoPU6jZz"
+    },
+    {
+      "album": {
         "name": "La Boh\u00e8me",
         "url": "https://open.spotify.com/album/2AYkNAE68SK0xezVrJNFkC"
       },
@@ -1808,7 +1970,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 203053,
       "name": "La d\u00e9claration d'amour",
       "url": "https://open.spotify.com/track/6cqjxTDrj7Z8UL9dnm9PQO"
@@ -1833,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "Heated Rivalry (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1nINHwH5P6718MK0unzYcN"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191741,
+      "name": "La nuit est longue - from \"Heated Rivalry\"",
+      "url": "https://open.spotify.com/track/126GwiEMMNqjxf8Dzfbdvg"
+    },
+    {
+      "album": {
         "name": "Silicone Villeray",
         "url": "https://open.spotify.com/album/4oSRtnpRl3vQ7N2fEn8dUZ"
       },
@@ -1848,7 +2028,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 253171,
       "name": "La nuit se plaindre",
       "url": "https://open.spotify.com/track/37uqjKpAnKKD4ZKfXth726"
@@ -1906,6 +2086,24 @@
       "duration_ms": 206333,
       "name": "La vie en rose - Single Version",
       "url": "https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD"
+    },
+    {
+      "album": {
+        "name": "Le go\u00fbt des mangues",
+        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132560,
+      "name": "Le go\u00fbt des mangues",
+      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
     },
     {
       "album": {
@@ -1974,7 +2172,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 209360,
       "name": "Le temps est bon",
       "url": "https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn"
@@ -2046,7 +2244,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 194666,
       "name": "Les Deux Printemps",
       "url": "https://open.spotify.com/track/0Nic6UN7Gkmc0KEGZeD5lL"
@@ -2064,7 +2262,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 180452,
       "name": "Les jupes",
       "url": "https://open.spotify.com/track/7HCKrwom1hMdLi6JlkWziV"
@@ -2194,6 +2392,24 @@
       "duration_ms": 260666,
       "name": "Love Me, Please Love Me",
       "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
+    },
+    {
+      "album": {
+        "name": "CRASH C\u0152UR",
+        "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196840,
+      "name": "LOVE'n'TENDRESSE",
+      "url": "https://open.spotify.com/track/3j16DCyqOQMF1Q6XXIRgTr"
     },
     {
       "album": {
@@ -2364,7 +2580,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 256506,
       "name": "Message personnel - Remasteris\u00e9 en 2013",
       "url": "https://open.spotify.com/track/6lanWfRq2R0gxKRPI3CDRb"
@@ -2386,6 +2602,24 @@
       "duration_ms": 165933,
       "name": "Mistral gagnant",
       "url": "https://open.spotify.com/track/1MOSRjdAbUhvLNnHCdUEL5"
+    },
+    {
+      "album": {
+        "name": "Mon amour",
+        "url": "https://open.spotify.com/album/7CIx0b1ScA7XrRLTmbwJLk"
+      },
+      "artists": [
+        {
+          "name": "Clara Roy-Jensen",
+          "url": "https://open.spotify.com/artist/1JZu5DVhnKHHPWa9q4IJbZ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269293,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/11r38rBuSbkj0M51YLDBh8"
     },
     {
       "album": {
@@ -2440,6 +2674,24 @@
       "duration_ms": 192546,
       "name": "Nombreux",
       "url": "https://open.spotify.com/track/59HKbTnmmFONvKLAPuc9rF"
+    },
+    {
+      "album": {
+        "name": "La femme id\u00e9ale",
+        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222413,
+      "name": "Nous deux contre le reste du monde",
+      "url": "https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY"
     },
     {
       "album": {
@@ -2530,7 +2782,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 258519,
       "name": "On va s'aimer encore",
       "url": "https://open.spotify.com/track/6SQxzjbQ6rFkzFC0vbTZBL"
@@ -2728,7 +2980,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 188408,
       "name": "Premier amour",
       "url": "https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P"
@@ -2746,7 +2998,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 173440,
       "name": "PS : Je t'aime",
       "url": "https://open.spotify.com/track/58FtNfnN5RrJ1ybhWntYuJ"
@@ -2916,6 +3168,24 @@
       "duration_ms": 163578,
       "name": "Quelqu'un M'a Dit",
       "url": "https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99"
+    },
+    {
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/7ti90Q0M8tWeYjl2wzY3On"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Quelqu'un m'a dit",
+      "url": "https://open.spotify.com/track/7eFJXmAOFUdWOoVVhURqdj"
     },
     {
       "album": {
@@ -3146,7 +3416,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 245642,
       "name": "Ta main",
       "url": "https://open.spotify.com/track/6VbVuMbEi9LhL5GTHqpkBx"
@@ -3297,6 +3567,24 @@
     },
     {
       "album": {
+        "name": "Un chant d'amour",
+        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221690,
+      "name": "Un chant d'amour",
+      "url": "https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU"
+    },
+    {
+      "album": {
         "name": "Zen",
         "url": "https://open.spotify.com/album/34GPTRygg7wzqFmRWjiKoa"
       },
@@ -3333,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "Dumas",
+        "url": "https://open.spotify.com/album/2izU8I6LuUSbpKnQkMS398"
+      },
+      "artists": [
+        {
+          "name": "Dumas",
+          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Une journ\u00e9e parfaite",
+      "url": "https://open.spotify.com/track/0t1ksCUcCpBXCi099fjSfi"
+    },
+    {
+      "album": {
         "name": "La science du c\u0153ur",
         "url": "https://open.spotify.com/album/0eT3LEaBjGYxLrodHdw5SR"
       },
@@ -3362,7 +3668,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 246404,
       "name": "Une m\u00e9taphore pour l'amour",
       "url": "https://open.spotify.com/track/5cAqHLEWZnfUXfzCsCez9J"
@@ -3431,6 +3737,24 @@
     },
     {
       "album": {
+        "name": "Dogue",
+        "url": "https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186154,
+      "name": "\u00c2mes soeurs",
+      "url": "https://open.spotify.com/track/57zGRyGyuykOXuz6odCwm9"
+    },
+    {
+      "album": {
         "name": "Les 50 plus belles chansons",
         "url": "https://open.spotify.com/album/1NuLYGIeSCcqBvlWIqsROS"
       },
@@ -3446,6 +3770,24 @@
       "duration_ms": 197720,
       "name": "\u00c7a",
       "url": "https://open.spotify.com/track/7D6TmytdEPs7xQo8IStPSh"
+    },
+    {
+      "album": {
+        "name": "Ips\u00e9it\u00e9",
+        "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206840,
+      "name": "\u0398. Macarena",
+      "url": "https://open.spotify.com/track/2ewjMyCbNv2X1dB2qIDCwD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXct2NyIphYfn"

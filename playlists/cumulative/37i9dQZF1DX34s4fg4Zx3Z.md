@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Nhâm Phương Nam
 
-2,251 songs - 5 day 11 hr 49 min
+2,252 songs - 5 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,6 +598,7 @@
 | [dối hay thật.](https://open.spotify.com/track/5lVaHjofNbj64dH7BOnlQM) | [Ben Pham](https://open.spotify.com/artist/2dIB0QxvzPviBFdYKRFW94), [Hao Le](https://open.spotify.com/artist/0yvX7RPSkZFf7Y66UfNsLC) | [dối hay thật.](https://open.spotify.com/album/6Osljr8PDKvW4WD8SLXnJ3) | 3:16 | 2023-10-05 | 2023-11-17 |
 | [Dối Trá](https://open.spotify.com/track/6zMRibsiZ2Q6Qrm5KSb8kz) | [Danny CLLS](https://open.spotify.com/artist/6d3nH8GbnopYSzp2u5qaFG), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Bâng Khuâng](https://open.spotify.com/album/0GOaTJw8tiVgdnt7hio72I) | 3:59 | 2023-03-31 | 2023-06-09 |
 | [DỐI TRÁ](https://open.spotify.com/track/1e76JGnUxyuwKV4EF6DXs3) | [EREN](https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq) | [DỐI TRÁ](https://open.spotify.com/album/0T2xcmaBIVSJIbOkATIqA6) | 2:59 | 2025-07-17 | 2025-07-30 |
+| [DỪNG ĐƯỢC RỒI](https://open.spotify.com/track/71qkBBT77hvtX6Prto1wam) | [Soonerr](https://open.spotify.com/artist/1cTygyyG6dtnj7uNnM10Lh) | [DỪNG ĐƯỢC RỒI](https://open.spotify.com/album/3UNrLmQNEzSVKcgTkjCMJ9) | 3:26 | 2026-01-29 |  |
 | [dửng dưng](https://open.spotify.com/track/2ODE2S0lw6GDheGeyIa5dT) | [Hank](https://open.spotify.com/artist/3qUc9jd1knrpqhoO6wJCCR), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [dửng dưng](https://open.spotify.com/album/1YgYkoIBay5HKNa6Z6Gz6S) | 3:26 | 2024-09-01 | 2024-12-05 |
 | [EASY](https://open.spotify.com/track/1OpUIvfCInZYXf6K4sjCAS) | [DXSE](https://open.spotify.com/artist/0Sh636g3SpwGfv9WwgY040) | [EASY](https://open.spotify.com/album/3ePJT2MfLOW0AjPtm7lkXP) | 3:13 | 2023-07-20 | 2023-08-01 |
 | [easy](https://open.spotify.com/track/6wUxE7kmau1O1dXoAbut1i) | [nghibe](https://open.spotify.com/artist/4uDNmB5UFym8yUC33WdVkt) | [easy](https://open.spotify.com/album/77tM4aKVC7ZmNF0e8pIzMa) | 4:08 | 2023-11-12 | 2023-11-30 |

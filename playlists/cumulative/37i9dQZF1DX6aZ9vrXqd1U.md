@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-375 songs - 1 day 1 hr 22 min
+378 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cage](https://open.spotify.com/track/3olPYn1wLdOBw4rKYIqVXx) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [R∃/MEMBER](https://open.spotify.com/album/77GtJJcdtbg254QMEvQfNr) | 4:46 | 2022-07-27 |  |
 | [CENTURY COLOR](https://open.spotify.com/track/1gzTPfpOuQFs4G9kUdsAX1) | [RAY\-GUNS](https://open.spotify.com/artist/3LGl3rlULamIUsZ5mhB5Qn) | [CENTURY COLOR](https://open.spotify.com/album/2NnLGNv8l4TVDw8lxNMMk8) | 3:10 | 2023-06-19 | 2024-04-19 |
 | [CENTURY COLOR](https://open.spotify.com/track/4fYnEHYFjyDmjXWwPho3E0) | [RAY\-GUNS](https://open.spotify.com/artist/3LGl3rlULamIUsZ5mhB5Qn) | [CENTURY COLOR](https://open.spotify.com/album/1WBqlsCwnWXLSTBYWicFM6) | 3:10 | 2022-07-27 |  |
+| [CIRCE](https://open.spotify.com/track/3VQJu7ZUPT9dBaS7uAbKWI) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D), [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [CIRCE](https://open.spotify.com/album/0kBGVaQkDtHgdzQm2Sp1fN) | 2:49 | 2026-01-30 |  |
 | [Clan Battle（I\_011）](https://open.spotify.com/track/4xSEXtQfKsQhbLBtBofy2i) | [Masayuki Hasuo](https://open.spotify.com/artist/2ccZMBisir5eUwa5sWiVFQ) | ["Mobile Suit Gundam GQuuuuuuX \- Beginning\-" Original Motion Picture Soundtrack](https://open.spotify.com/album/4p67TuedfnQSiYWGyIUZHz) | 3:10 | 2025-01-21 |  |
 | [Coloring By G\-Reco \- "Reconguista in G IV / Love That Cries out in Battle" Ending Theme](https://open.spotify.com/track/5letgaj9Abw061fuVyiDqb) | [Daisuke Hasegawa](https://open.spotify.com/artist/6Dj2vjRrARm88n4AEDgFM4) | [Coloring by G\-Reco \("Reconguista in G IV / Love That Cries out in Battle" Ending Theme\)](https://open.spotify.com/album/2xACiQZsWW9evKOYjCAQwG) | 3:54 | 2022-07-27 | 2024-01-12 |
 | [Confession](https://open.spotify.com/track/6BECTfA1Rl1PqEt0Axu2e4) | [Mayu Wakisaka](https://open.spotify.com/artist/25Mwwt6SDgnDBMaq6xQrrd) | [Confession](https://open.spotify.com/album/6kFEqYbqMR84ZAEcdNHZNl) | 4:12 | 2022-07-27 | 2023-06-16 |
@@ -70,6 +71,7 @@
 | [Eien ni Amuro](https://open.spotify.com/track/3e6JumfGKJAW7NiifbVAdo) | [Kou Ikeda](https://open.spotify.com/artist/1cK45E2ZB2IHyyUfC0eim8), [Feeling Free](https://open.spotify.com/artist/1JbNaQwAJWS3XUO3iV7yKK) | [Eien ni Amuro](https://open.spotify.com/album/4MMC7xYQirRnEXFoCva9uZ) | 3:02 | 2023-04-21 | 2024-04-19 |
 | [EMOTION](https://open.spotify.com/track/0PQ9dS0Pv3GAQmBBQM6wT0) | [Meer Campbell \(CV: Rie Tanaka\)](https://open.spotify.com/artist/3ZfVv8sDjUTT4IAWuPXUDo) | [EMOTION](https://open.spotify.com/album/1SUFlnYsli4YMKa7DivoxU) | 4:04 | 2024-01-11 | 2024-04-19 |
 | [EMOTION](https://open.spotify.com/track/43jPqfUjq61heD6Gi8MvH6) | [ミーア・キャンベル \(CV: 田中 理恵\)](https://open.spotify.com/artist/0iy7bXUCOrouimAfhij8YQ) | [EMOTION](https://open.spotify.com/album/7GGIOsBbm80sTKtbXZzxSw) | 4:04 | 2024-01-27 |  |
+| [ENDROLL](https://open.spotify.com/track/0zqQccMOU98P0gPDhqgnGg) | [Yoohei Kawakami](https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5), [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D), [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [ENDROLL](https://open.spotify.com/album/0VxAQil0vOXx4Iq5u5KAXy) | 3:02 | 2026-01-30 |  |
 | [ETERNAL WIND ～ほほえみは光る風の中～](https://open.spotify.com/track/17aPi5ECRAHKv1514TS5vK) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL SONGS Ⅱ](https://open.spotify.com/album/5OCkvfHPhvPTSwuBjz5fAg) | 4:45 | 2024-01-27 | 2024-04-19 |
 | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/track/3NKoasBeBI1XBlau8zr8bD) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/album/6c5jjGBbSPmrTVIL6nHdbH) | 4:45 | 2023-04-21 | 2024-02-17 |
 | [ETERNAL WIND～ほほえみは光る風の中～](https://open.spotify.com/track/0oujcSEZBOPlydWvuendv5) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND～ほほえみは光る風の中～](https://open.spotify.com/album/7JMmZna6FAjM1jzZtucxOw) | 4:45 | 2022-07-27 |  |
@@ -235,6 +237,7 @@
 | [Survivor](https://open.spotify.com/track/3lkE110ALuqH3ciBGf7d1R) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [THE END](https://open.spotify.com/album/0FNINkrhIgTtEUQyaf9MB7) | 3:40 | 2022-07-27 |  |
 | [Survivor](https://open.spotify.com/track/76X16LOhkwkDXPEMQzkLFV) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [THE END](https://open.spotify.com/album/6woCFdjeO1ayr14tKGL1vI) | 3:40 | 2022-07-27 | 2024-04-19 |
 | [Survivor](https://open.spotify.com/track/6657eyVs4JxsaQlLVW7Fwu) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [POLARIS \(World Edition\)](https://open.spotify.com/album/7J1E36Fw6eyLUtdg58a4QU) | 3:42 | 2022-10-17 | 2022-11-13 |
+| [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2026-01-30 |  |
 | [Syutsugeki! IMPULSE](https://open.spotify.com/track/6uGL7LBdrlZAZwRPOOuX0m) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUITE GUNDAM SEED DESTINY Original Motion Picture Soundtrack 2](https://open.spotify.com/album/3zIYQhqTWF1iEoN220OOEu) | 1:29 | 2024-01-11 | 2024-04-19 |
 | [tears](https://open.spotify.com/track/0MLhX6Najd6lo8wZEnjLTq) | [lisa](https://open.spotify.com/artist/1sReh6VMvZSAXWOE4zX5sf) | [tears](https://open.spotify.com/album/0wsiSUnH2aTP3NiYVdQ8j3) | 4:23 | 2023-04-21 |  |
 | [tears](https://open.spotify.com/track/1eRW9iPUNVl1C0gZFPQYgT) | [lisa](https://open.spotify.com/artist/1sReh6VMvZSAXWOE4zX5sf) | [tears](https://open.spotify.com/album/2GEffYRQulCu1f2NIIIRwO) | 4:23 | 2022-07-27 | 2023-06-18 |

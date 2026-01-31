@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 250 likes - 1,821 songs - 4 day 14 hr 11 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 251 likes - 1,829 songs - 4 day 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1829,5 +1829,13 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1819 | [Vienna](https://open.spotify.com/track/0PCzNRFKGyraIzhkmMKHrJ) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Vienna](https://open.spotify.com/album/37LrPY0zy6GPUWWKwVCGHq) | 2:26 |
 | 1820 | [Dementia](https://open.spotify.com/track/5IHb39NmNczAve6KhtAVrX) | [Sunshine Riot Commune](https://open.spotify.com/artist/1sAEqe2vPCiXX10D3wI6HE), [Mia Grace](https://open.spotify.com/artist/5AECGqaYMI5T8p1DOa4TRS) | [Dementia](https://open.spotify.com/album/3KY2uEhWMJchHmNo5Vae84) | 4:03 |
 | 1821 | [Golden Carnival Parade](https://open.spotify.com/track/7cLZLza8csHbATiLo5AckH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Golden Carnival Parade](https://open.spotify.com/album/7aqSE2dVMLOalAWxKxBgsa) | 3:26 |
+| 1822 | [living like no tomorrow](https://open.spotify.com/track/7bNWjzmKLMdb8eL4OXrkVA) | [Bradley Peck](https://open.spotify.com/artist/6r3vAJOyjT3f61kJiOFgJR) | [living like no tomorrow](https://open.spotify.com/album/71M7FKS42SpsKD9awzRvS2) | 2:19 |
+| 1823 | [Cioccolata Calda](https://open.spotify.com/track/00Y8Za2duFd4PHQl30FQnW) | [Artide](https://open.spotify.com/artist/7JDUHZiaiEls9VVH7hmnNF) | [Cioccolata Calda](https://open.spotify.com/album/7lNxh7Jf8mRDBXqS9Olz8c) | 3:36 |
+| 1824 | [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 |
+| 1825 | [Young Hero](https://open.spotify.com/track/6kz75WbZs2g2tQIQH48iiu) | [Alby](https://open.spotify.com/artist/2g4ifdWzdXBKcGEQIdQkCc) | [Young Hero](https://open.spotify.com/album/7MM8VxDJBdJrVC42SLAnEr) | 4:10 |
+| 1826 | [Kevin's Song, Pt\. 2](https://open.spotify.com/track/5nCScXcLJl3GOV1gCbnC71) | [The Unk Skunk](https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe) | [Kevin's Song, Pt\. 2](https://open.spotify.com/album/7IahdJz91ZSIOrSdX6Bc5u) | 4:14 |
+| 1827 | [Thursday](https://open.spotify.com/track/4zW3D5nkerpLKxqorEwjEV) | [Spencer Brown](https://open.spotify.com/artist/0QJuVjZ426zVDVXqWOgWzw), [Bruce Thomas](https://open.spotify.com/artist/0gHFDNqFooDRqCLWqSN3ic) | [Back to the Start](https://open.spotify.com/album/1GJYEWe6vsjPz5AzaC7Exn) | 3:30 |
+| 1828 | [Hypomania](https://open.spotify.com/track/2VdwLwj3eS9wT3I9GF9AwL) | [half\-past nine](https://open.spotify.com/artist/5AQdnxlAP1whBuRmbCHsdb) | [9:30 PM: Unanswered Calls](https://open.spotify.com/album/0BS8Ln2dmv9P1bjAGugrnZ) | 2:57 |
+| 1829 | [Dissonance](https://open.spotify.com/track/7ojTGZAKHV9QVswnIWaHnt) | [Ambith](https://open.spotify.com/artist/4fAMSGI9YBnkkkNx8dsyF2) | [Dissonance](https://open.spotify.com/album/1qgZndhIljvvCFIupC6Fct) | 3:58 |
 
-Snapshot ID: `AAAH9OAy/QEnUwwd9OGtZ6bjft6v51q/`
+Snapshot ID: `AAAH/JEKRP8hhmFt91hd+uFctSTWvTPD`

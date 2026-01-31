@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,840 likes - 125 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,870 likes - 125 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 68 | [Chilleando por Madrid](https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE) | [Veve Milah](https://open.spotify.com/artist/4U1aujuzk3gLF3v0HNWZET), [Raphael Karell](https://open.spotify.com/artist/0rzj1DUlP3tDKSVQhSkpv8) | [Chilleando por Madrid](https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8) | 3:54 |
 | 69 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
 | 70 | [Luna](https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE) | [Luna](https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea) | 3:17 |
-| 71 | [Pro Mundo Ouvir](https://open.spotify.com/track/72QpSvlwGaU3dtEFzmMREZ) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [Pro Mundo Ouvir](https://open.spotify.com/album/69pm6gZwdFLdy1fE3ZBeCb) | 3:10 |
-| 72 | [ERES GUAPA \(✿´‿\`\) \- Taranta](https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR) | [Ángeles Toledano](https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW) | [SANGRE SUCIA](https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM) | 3:44 |
-| 73 | [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 |
-| 74 | [Dos Lágrimas, Dos Peces](https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Dos Lágrimas, Dos Peces](https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE) | 3:40 |
+| 71 | [ERES GUAPA \(✿´‿\`\) \- Taranta](https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR) | [Ángeles Toledano](https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW) | [SANGRE SUCIA](https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM) | 3:44 |
+| 72 | [Pro Mundo Ouvir](https://open.spotify.com/track/72QpSvlwGaU3dtEFzmMREZ) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [Pro Mundo Ouvir](https://open.spotify.com/album/69pm6gZwdFLdy1fE3ZBeCb) | 3:10 |
+| 73 | [Dos Lágrimas, Dos Peces](https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Dos Lágrimas, Dos Peces](https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE) | 3:40 |
+| 74 | [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 |
 | 75 | [EL CORAZÓN MANDA](https://open.spotify.com/track/4qCmpBzCKRvvvfLtcS9JTm) | [Nico Miseria](https://open.spotify.com/artist/79ff28apoBUFLfPJQoTfro), [alba calva](https://open.spotify.com/artist/4PPFJLJG8yQDVOA8q3Wll9) | [EL CORAZÓN MANDA](https://open.spotify.com/album/2am6bidvxhxkCd2iHwjR3V) | 2:03 |
 | 76 | [Time \(For You\)](https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4) | [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [Bones](https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8) | 2:56 |
 | 77 | [El Sitio de Mi Recreo](https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep) | [Alba Molina](https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1), [Mayte Martin](https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [El Sitio de Mi Recreo](https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME) | 3:31 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 80 | [Árboles](https://open.spotify.com/track/7ifZcrE6kGBTXOT4ypxqqS) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Árboles](https://open.spotify.com/album/6VzEPYcEHxMZssFe1b9vXW) | 3:46 |
 | 81 | [Mandela Place](https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mandela Place](https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb) | 3:33 |
 | 82 | [My Ideal](https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [My Ideal](https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4) | 4:43 |
-| 83 | [TE DOY MI CORAZÓN](https://open.spotify.com/track/0803KfjoYRicPbU5IQWdjS) | [LEIDAN](https://open.spotify.com/artist/064fYl1XrWrWBbHWMcuHFU) | [EL LABERINTO](https://open.spotify.com/album/0ujAwcRGdj1VGw0upziB02) | 3:41 |
-| 84 | [Lento](https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z) | [Anne Lukin](https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL) | [Lento](https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc) | 2:31 |
+| 83 | [Lento](https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z) | [Anne Lukin](https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL) | [Lento](https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc) | 2:31 |
+| 84 | [TE DOY MI CORAZÓN](https://open.spotify.com/track/0803KfjoYRicPbU5IQWdjS) | [LEIDAN](https://open.spotify.com/artist/064fYl1XrWrWBbHWMcuHFU) | [EL LABERINTO](https://open.spotify.com/album/0ujAwcRGdj1VGw0upziB02) | 3:41 |
 | 85 | [Me Vas A Matar](https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Me Vas A Matar](https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj) | 3:08 |
 | 86 | [Sanadoras Voluntades](https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Sanadoras Voluntades](https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa) | 2:44 |
 | 87 | [Fuegos Artificiales](https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [Fuegos Artificiales](https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto) | 2:58 |

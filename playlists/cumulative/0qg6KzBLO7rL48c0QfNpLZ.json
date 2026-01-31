@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 179016,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/2uyxNUSxJq0fHFon3otFGZ"
@@ -1908,6 +1908,28 @@
       "duration_ms": 174025,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/2u55jYKM1ABf1gowucOPEJ"
+    },
+    {
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/7BE7KNkXja4YdvMFxibaBa"
+      },
+      "artists": [
+        {
+          "name": "The kid in blue",
+          "url": "https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127480,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/3ZcVGhvL3aBpi1xOEXQOCf"
     },
     {
       "album": {
@@ -5090,6 +5112,24 @@
       "duration_ms": 151854,
       "name": "Costa Blanca",
       "url": "https://open.spotify.com/track/75BjNXMW5eslSLAudgquCU"
+    },
+    {
+      "album": {
+        "name": "Could It Be",
+        "url": "https://open.spotify.com/album/1hd67U7aiSiE5zgvv9vVil"
+      },
+      "artists": [
+        {
+          "name": "dusk:dawn",
+          "url": "https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Could It Be",
+      "url": "https://open.spotify.com/track/4BMWxn0q6YuoFgEdzQg31t"
     },
     {
       "album": {
@@ -16322,7 +16362,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 143000,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7AmhrMd70FuXsn1uCd1DML"
@@ -16744,7 +16784,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4HMQcmdviIm28WNMDsbyXT"
@@ -17518,7 +17558,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 165818,
       "name": "Muscle Memory",
       "url": "https://open.spotify.com/track/1zK5upN1lDZctrQ6hiTdAv"
@@ -18886,7 +18926,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 162545,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/0VxrjvfDjcVRoqjO0IRFuM"
@@ -20207,6 +20247,32 @@
     },
     {
       "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/4FCU30djdxWMtKDv4pQDHK"
+      },
+      "artists": [
+        {
+          "name": "Blevo",
+          "url": "https://open.spotify.com/artist/5Uu0ppV7jzY7ZR9xVCInHO"
+        },
+        {
+          "name": "Trafoier",
+          "url": "https://open.spotify.com/artist/4jQLY5W6KTIBbgYDuJHwrb"
+        },
+        {
+          "name": "Lena Sue",
+          "url": "https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/12Qy1DNoWqOYUyyokZ0h1G"
+    },
+    {
+      "album": {
         "name": "Place We Know",
         "url": "https://open.spotify.com/album/3zG9wqidbdyxyqHhfhfDxk"
       },
@@ -21058,7 +21124,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 143589,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/6SXbxiJzSIVCKXF9r6zE7g"
@@ -21706,7 +21772,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 161803,
       "name": "Sad Love (feat. JAIKO)",
       "url": "https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt"
@@ -27434,6 +27500,28 @@
       "duration_ms": 166060,
       "name": "We Are Dancing",
       "url": "https://open.spotify.com/track/20jazRPPV8VsupJDR6XpT1"
+    },
+    {
+      "album": {
+        "name": "We Are Infinity",
+        "url": "https://open.spotify.com/album/0XCx64UhRxjFA6qiWoqhtF"
+      },
+      "artists": [
+        {
+          "name": "Keen Champ",
+          "url": "https://open.spotify.com/artist/7t2zhoxHv0k3ddI01x4TS1"
+        },
+        {
+          "name": "Robbie Hutton",
+          "url": "https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "We Are Infinity",
+      "url": "https://open.spotify.com/track/62gpkdnetArWj5d1jaUMl0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-893 songs - 2 day 22 hr 6 min
+894 songs - 2 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,6 +707,7 @@
 | [Sharazan](https://open.spotify.com/track/3QykjIsOz7tAH4G1OrRDT7) | [Al Bano And Romina Power](https://open.spotify.com/artist/1c0wBsDBu0NqpvxBqjYjZS) | [Felicità \(Ariola Express Gold\-Serie\)](https://open.spotify.com/album/6rYKh2EVXdWs5Pe8MugvSM) | 4:24 | 2024-03-22 |  |
 | [She Knows](https://open.spotify.com/track/6Nig7VH7y2iBZcdy1zyaM3) | [Sean Innit](https://open.spotify.com/artist/6s1uCVZ4zwLsqfPANWSlWX) | [African Disco Juice](https://open.spotify.com/album/1T36tgCcRLC7p5U0hlMDti) | 8:05 | 2021-01-26 |  |
 | [Siakwaa / Nana Agyei \- Medley](https://open.spotify.com/track/510hOuZSl4wqLLDARSddjn) | [The Polyversal Souls](https://open.spotify.com/artist/6ucByLJIHHN6HfdMyZylyi), [Sir Frank Karikari](https://open.spotify.com/artist/7ooUPeumSe2dVxkPYD9xmS) | [Siakwaa / Nana Agyei \(Medley\)](https://open.spotify.com/album/7vpecaht2VUeB04vCxL62E) | 4:17 | 2021-07-13 |  |
+| [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2026-01-31 |  |
 | [Sienteme \- 2005 Remaster](https://open.spotify.com/track/6Y7ZPBpYUPjMh6BBeq5DBA) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Sienteme, It's Time To Land \(2005 Remaster\)](https://open.spotify.com/album/3C5LtfW0xLd3rs6xq1Z6TM) | 3:35 | 2024-04-11 |  |
 | [Sina Mory](https://open.spotify.com/track/0JioCPcFc80u0IRHB6bt8p) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 4:28 | 2020-06-12 |  |
 | [Sinaran](https://open.spotify.com/track/6gCHSJ3I9GuX9hJmgIfAQI) | [Sheila Majid](https://open.spotify.com/artist/6ccyDNcfDQR2yDbF3JV0xl) | [The Best Of Sheila Majid](https://open.spotify.com/album/4d8Xb1BrGO6jyBc38svKX3) | 4:58 | 2023-08-20 |  |

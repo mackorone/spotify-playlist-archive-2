@@ -3879,6 +3879,28 @@
     },
     {
       "album": {
+        "name": "Gimme Your Love",
+        "url": "https://open.spotify.com/album/76YtQCHQNCMo5kuwRpSNwC"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180926,
+      "name": "Gimme Your Love",
+      "url": "https://open.spotify.com/track/57bPaPp5Fd6PE4Oo2dNqsD"
+    },
+    {
+      "album": {
         "name": "Girls N Boys",
         "url": "https://open.spotify.com/album/5YxAwFb13Rum21MPS3ErYY"
       },
@@ -8857,6 +8879,32 @@
     },
     {
       "album": {
+        "name": "Save Me (feat. Linney)",
+        "url": "https://open.spotify.com/album/0n1bNDwwmi6YKPBQsV2GdW"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Whisnu Santika",
+          "url": "https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/1oCHb8rzJ36eKpdaYwIiNT"
+    },
+    {
+      "album": {
         "name": "Save Me From Myself",
         "url": "https://open.spotify.com/album/4iYVCLCLA6ThnFkR8AjqkQ"
       },
@@ -10120,6 +10168,32 @@
       "duration_ms": 129600,
       "name": "The Afters",
       "url": "https://open.spotify.com/track/34ssUS2jFkRR25Eg01CmP3"
+    },
+    {
+      "album": {
+        "name": "The Cruel Angel's Thesis (Neon Genesis Evangelion)",
+        "url": "https://open.spotify.com/album/1z7xWxT6m50tUjb1GlnXKb"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "The Cruel Angel's Thesis (Neon Genesis Evangelion)",
+      "url": "https://open.spotify.com/track/56geOMTR9kzfSRd52WfQWp"
     },
     {
       "album": {

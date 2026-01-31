@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "a sua reca\u00edda batendo \u00e0 porta (de novo)",
+  "description": "racks on racks e f1 at\u00e9 \ud83d\ude11",
   "name": "O Trap Mais Caro",
   "tracks": [
     {
@@ -8450,7 +8450,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 120408,
       "name": "GRG",
       "url": "https://open.spotify.com/track/1ic5raNHZd8GAxkQbGD8XU"
@@ -9364,6 +9364,28 @@
       "duration_ms": 171285,
       "name": "J\u00f3ias do Bairro",
       "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
+    },
+    {
+      "album": {
+        "name": "KEN CARSON",
+        "url": "https://open.spotify.com/album/2SPRONTkcJ9hs69FuRvqjB"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Lucchini",
+          "url": "https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174147,
+      "name": "KEN CARSON",
+      "url": "https://open.spotify.com/track/6bwY4Bms3owJsDjkBk4VKq"
     },
     {
       "album": {

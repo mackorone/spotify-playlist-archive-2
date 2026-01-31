@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Ceaese
 
-256 songs - 14 hr 28 min
+257 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [MIS DESEOS \(feat\. Julianno Sosa\)](https://open.spotify.com/track/1vdSR8g0hmQ1V6iWx1XHCb) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [JOSE SPAACE](https://open.spotify.com/artist/2rNJ5aQFR3gAnEIbpqUtF6), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [MIS DESEOS \(feat\. Julianno Sosa\)](https://open.spotify.com/album/28oT8tOLNw1eJZ7TRNXLdB) | 3:21 | 2023-07-07 |  |
 | [Mosh Pit](https://open.spotify.com/track/3NmUTgo35sqdc2GHIceRPa) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Neon](https://open.spotify.com/artist/3nmvZHEF33K73xT16M59mD) | [Mosh Pit](https://open.spotify.com/album/4LQrEbfVSJLji7K8pkQ6OZ) | 1:48 | 2025-09-05 |  |
 | [Muévelo](https://open.spotify.com/track/2c7p5U1ci0a6sFj7C3KPGv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu) | [Muévelo](https://open.spotify.com/album/72FTAp6DD98dDO9kiQDHYP) | 3:09 | 2025-02-28 |  |
-| [My Way](https://open.spotify.com/track/6ef0RzkSELOTpiH6NVcqcV) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc) | [My Way](https://open.spotify.com/album/6ZlyzUXjnma9rlWvAijLVH) | 2:25 | 2024-05-10 |  |
+| [My Way](https://open.spotify.com/track/6ef0RzkSELOTpiH6NVcqcV) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc) | [My Way](https://open.spotify.com/album/6ZlyzUXjnma9rlWvAijLVH) | 2:25 | 2024-05-10 | 2026-01-31 |
 | [Más Que Ayer](https://open.spotify.com/track/7rULmb0DICG3N87OSAoLiU) | [El Menor](https://open.spotify.com/artist/5jAbdQuetN1LntrEphYBTW), [The Salazar Brothers](https://open.spotify.com/artist/5uP009vYJOXMAsUM0j62Q3) | [Más Que Ayer](https://open.spotify.com/album/5QyhaYSFgzRZuSOaVDWthR) | 3:08 | 2024-04-12 |  |
 | [Nefertiti](https://open.spotify.com/track/5iCXq3R8G9ZG9OMa4QrOk5) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Gronex](https://open.spotify.com/artist/055fOIKrbtC2UmnVrPfGPb) | [Goodbye Egypt](https://open.spotify.com/album/4i5AUa3AQLCSlsjIooR8ro) | 4:05 | 2024-09-06 |  |
 | [Nitrato](https://open.spotify.com/track/47YnWI8MwVRVbPIYmoHBtS) | [SNAKE VARELA](https://open.spotify.com/artist/4gIGgbEMjDIqrPY7hpMceO), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Dj Efe](https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U) | [Nitrato](https://open.spotify.com/album/5C3o5ZG354qVDRRMSeSFnN) | 3:23 | 2025-01-17 |  |
@@ -264,5 +264,6 @@
 | [Ying](https://open.spotify.com/track/4FFrdBXCfICCQj5xKhCVps) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Audio Directo](https://open.spotify.com/artist/6ItsKWiNwjY8cTVTU7wxPH) | [Ying](https://open.spotify.com/album/4f15LvLrcgw2Z47Hlfo0Ju) | 2:45 | 2026-01-23 |  |
 | [YKTD](https://open.spotify.com/track/5j2ncbtL4W50KCGCIM7Pmb) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Nuc](https://open.spotify.com/artist/02lJii0aVOUjzXKpjW0kBn) | [YKTD](https://open.spotify.com/album/5GldRiIo4cOjR2ctCwxiFZ) | 3:05 | 2025-09-12 |  |
 | [You Know How We Do](https://open.spotify.com/track/7t5qzk4RrGxZ4m7oQZKnne) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Inéditos Vol I](https://open.spotify.com/album/4XazdMu8Olc9fJPmCmrUJp) | 3:44 | 2022-01-06 | 2022-02-12 |
+| [Ñoñovillano](https://open.spotify.com/track/3BVRdUhxvntgJoDIoOBdaG) | [NerdVillain](https://open.spotify.com/artist/5DfcL8t8K17ApUn2P1zjm3), [Douglass](https://open.spotify.com/artist/5WR2RuBXuzsOzfFW8D8Ji6), [SmallVillain](https://open.spotify.com/artist/63oAL1hdNFP27xffkJMOMM) | [Redvainilla](https://open.spotify.com/album/7E3RgU0cPqgXq8Yaypoc24) | 3:13 | 2026-01-30 |  |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

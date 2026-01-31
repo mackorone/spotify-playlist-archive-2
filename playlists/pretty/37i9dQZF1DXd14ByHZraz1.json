@@ -1,15 +1,15 @@
 {
   "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Alok, Gui Boratto, House of EL",
-  "num_followers": 923026,
+  "num_followers": 923021,
   "original_name": "mint brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANWjiOKfgfnaLCuGGOjOCOWPhcUG",
+  "snapshot_id": "AAAAAPePlvapT7W1J02DMyL+NLcvsczL",
   "tracks": [
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Love Will Find A Way (feat. House Of EL)",
         "url": "https://open.spotify.com/album/0rTkYNKnXBhHyzTNhW9VHw"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/6q7KKrYjnABZILCeWTcAZ7"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Cherry Blossom (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/1O5zlTiK5ZTJDmMnsVJaxd"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/7qTu1G3gDgC5qJ6Eu71OUs"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "WE NEEDED",
         "url": "https://open.spotify.com/album/0N94Lr3uS4N2bw6bqAZ81C"
@@ -69,7 +69,27 @@
       "url": "https://open.spotify.com/track/6UUvSoHQByfOslkOJwl1iY"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7w2dkzNW5zi8gWcgifhR8D"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Gabss",
+          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
+        }
+      ],
+      "duration_ms": 219023,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Izzin",
         "url": "https://open.spotify.com/album/1sDI4g2XELYnyUGcFA25x8"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/1vFtcubbaGr3ih0C5l8Ob9"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "You Want The Fire",
         "url": "https://open.spotify.com/album/5DNvEa1r4unflBRdU0zBWB"
@@ -101,7 +121,7 @@
       "url": "https://open.spotify.com/track/1L3syVgeYCOYc5O7IECxwI"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Stuka Ju87",
         "url": "https://open.spotify.com/album/22lPWJ6vAFKQxKHerUFquF"
@@ -121,7 +141,7 @@
       "url": "https://open.spotify.com/track/5nNWOLemVk2QaeeJQwOKli"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "I Have No Memories About Last Night",
         "url": "https://open.spotify.com/album/1NF0ScrTAuBGbC8toF99Ip"
@@ -145,7 +165,7 @@
       "url": "https://open.spotify.com/track/3PCwzUurtmTNr2PDAiKH8A"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Mahaba",
         "url": "https://open.spotify.com/album/3XlArIGlspDya8mQlmYTAL"
@@ -161,7 +181,7 @@
       "url": "https://open.spotify.com/track/76QYDYnFoaUBkkk4gei84D"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Hollaback Girl",
         "url": "https://open.spotify.com/album/154vD3Lcgt8zHEKlfZRYH5"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/532gUQw045MyBKmh0Wsaiv"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Kickback",
         "url": "https://open.spotify.com/album/6dVZExYegXSg282JmchOUK"
@@ -197,7 +217,7 @@
       "url": "https://open.spotify.com/track/0TuLNGHdtIpokrteWvJRkI"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Se Que Quiere",
         "url": "https://open.spotify.com/album/1rzZR3P22ciSYWLJWz541Z"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/6lG1GtM6FvL18EvOVQELC8"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Eventide",
         "url": "https://open.spotify.com/album/2OkJhrj1cXGzsJI0dFDOzk"
@@ -233,7 +253,7 @@
       "url": "https://open.spotify.com/track/2gjvB3yJw9toGYfsdDXrFg"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "EYES",
         "url": "https://open.spotify.com/album/02vJlON5DhAy9I73azuKcx"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/77UBLe8jlRIxn8AsouUtS1"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Portal 1111",
         "url": "https://open.spotify.com/album/7uJgHC3tb61i6cC3W65ima"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/29nyLx7artdrrOaDyjFjqL"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "O Novo Testamento",
         "url": "https://open.spotify.com/album/6Ry6vnrPB1r5l60AOOT8G2"
@@ -285,47 +305,7 @@
       "url": "https://open.spotify.com/track/0CP12bH6ES84AyycXYp1Si"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
-      "album": {
-        "name": "Human Experience",
-        "url": "https://open.spotify.com/album/4Gv0T3z8IBCxGaohWJvoBf"
-      },
-      "artists": [
-        {
-          "name": "Riro",
-          "url": "https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark"
-        },
-        {
-          "name": "Kalicrono",
-          "url": "https://open.spotify.com/artist/3c3icpqkMCfsEjCufMHQdE"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/4qHCsEA7EtRKUQVf00tybz"
-    },
-    {
-      "added_at": "2026-01-23 03:03:30",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7w2dkzNW5zi8gWcgifhR8D"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Gabss",
-          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
-        }
-      ],
-      "duration_ms": 219023,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj"
-    },
-    {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Evil",
         "url": "https://open.spotify.com/album/6LmICPiQ7WCGs2KnJHXfQ1"
@@ -345,7 +325,7 @@
       "url": "https://open.spotify.com/track/3I82UgyI4rzaXSwAGJvvfw"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/1l3uUVYKdqfpDu4jd65TUs"
@@ -369,7 +349,27 @@
       "url": "https://open.spotify.com/track/3o7B0xq8v84PnuSmi54ixW"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Malabaris",
+        "url": "https://open.spotify.com/album/6W2NbGfbvj5YlYqhaUWvAc"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Mila Journ\u00e9e",
+          "url": "https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB"
+        }
+      ],
+      "duration_ms": 186614,
+      "name": "Malabaris",
+      "url": "https://open.spotify.com/track/0hLNnH60GDK1TZxDNxhVfT"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Me & U",
         "url": "https://open.spotify.com/album/1cXjYRV6fDYEqG5nhmJcq7"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/0BGAlBkICQWwW1VJK2A3vB"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Empurra",
         "url": "https://open.spotify.com/album/11deGutI6A6LfMKcgQ9ftV"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/4WMZgxtddABWMvqpRqXdsN"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Future Hearts",
         "url": "https://open.spotify.com/album/139N7ZPYhh5SGXCoe4ladv"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/4WLzJ35y78zny5vltK7HLs"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Inner Wars",
         "url": "https://open.spotify.com/album/2fKFnbJnUOt3fVcCs1TnnW"
@@ -453,23 +453,39 @@
       "url": "https://open.spotify.com/track/2rHIFv8iIZCpPPTqUkHrgs"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
-        "name": "System Error",
-        "url": "https://open.spotify.com/album/0OiTED4JIxWHqwsK8ViPDA"
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/2UBIjTbaUDWtoFmQpVlBR4"
       },
       "artists": [
         {
-          "name": "Groove Delight",
-          "url": "https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn"
+          "name": "FEZZO",
+          "url": "https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB"
         }
       ],
-      "duration_ms": 130232,
-      "name": "System Error",
-      "url": "https://open.spotify.com/track/2RKGqUw14sYGxChBCymGa7"
+      "duration_ms": 152307,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/5salqxT61vFZ7vuCvJzf1B"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "This House",
+        "url": "https://open.spotify.com/album/2RGyg2dBTrVQDiiFFmFnJt"
+      },
+      "artists": [
+        {
+          "name": "Deeplick",
+          "url": "https://open.spotify.com/artist/7bitILn8c1VCsYwoT2ZQmY"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "This House",
+      "url": "https://open.spotify.com/track/3WEC8jQPjFxwFxNknGGzMm"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "She Wanna Dance",
         "url": "https://open.spotify.com/album/18iV0w4E6uAPfIFPRoDGDg"
@@ -497,7 +513,23 @@
       "url": "https://open.spotify.com/track/4fkVZCK83FhFlF5A5VvB43"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Picture: Volkoder Part 1",
+        "url": "https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "She The Last One",
         "url": "https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ"
@@ -517,7 +549,31 @@
       "url": "https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/1rNEIcD3Ei1pIH7F2zONTK"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        },
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/38PgWbU3HdG8yBbJ01ZgHC"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Deeper Down",
         "url": "https://open.spotify.com/album/5Al7wX3B1JAdx5Vs4abv00"
@@ -533,7 +589,7 @@
       "url": "https://open.spotify.com/track/1dT9TNIjIEZxdFTcDoRrf6"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "DUNE",
         "url": "https://open.spotify.com/album/1stWiST9FKbP1Hs4E35ypq"
@@ -553,7 +609,23 @@
       "url": "https://open.spotify.com/track/1qHUKbFN1nz3BbS5RogriX"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Vibrate",
+        "url": "https://open.spotify.com/album/069GoUw1nkxnUcJG74BKuY"
+      },
+      "artists": [
+        {
+          "name": "Gabss",
+          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
+        }
+      ],
+      "duration_ms": 152709,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/26V7N5MGSUfYILIRGLtW5C"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/4hB27f2YOy4SLCk71mm2r5"
@@ -573,7 +645,7 @@
       "url": "https://open.spotify.com/track/00wJPHKCBlCTUxP6KuVSiT"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Sandbox Dreams",
         "url": "https://open.spotify.com/album/4fxbEpYN7XBIIZfAkCVu67"
@@ -597,7 +669,7 @@
       "url": "https://open.spotify.com/track/3fp3ebsLgDrKDTWyzymWCs"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Hear Yourself",
         "url": "https://open.spotify.com/album/7Kag43UkTniOWUXObqK4Qt"
@@ -617,7 +689,7 @@
       "url": "https://open.spotify.com/track/1Ly28zPxxStDqwxtN9zBwF"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/2fJ1PQyoQEA7QiWkGjjpaA"
@@ -641,7 +713,7 @@
       "url": "https://open.spotify.com/track/5On7CF20MHgFOYUUlacXbf"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
         "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
@@ -665,7 +737,7 @@
       "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "In Love Today",
         "url": "https://open.spotify.com/album/3dKHCgmYp0ZTtS3UAwtFmn"
@@ -689,7 +761,7 @@
       "url": "https://open.spotify.com/track/3JhpsFR2yZhprzqXuzwGqj"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Cry for You",
         "url": "https://open.spotify.com/album/2nK0DzcI9W8DBgES0WrbA2"
@@ -713,43 +785,7 @@
       "url": "https://open.spotify.com/track/1YyFsHtaVX8Ra5gQzIKq6N"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
-      "album": {
-        "name": "You Say",
-        "url": "https://open.spotify.com/album/0ztZhtP4gdenC5ZtWWUp7g"
-      },
-      "artists": [
-        {
-          "name": "Meca",
-          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/0xQCD0NlztHLkMl4PHkaJL"
-    },
-    {
-      "added_at": "2026-01-23 03:03:30",
-      "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/5vrZAOIpf4l4uYdsX9xAx0"
-      },
-      "artists": [
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        },
-        {
-          "name": "2MUCH FUTURE",
-          "url": "https://open.spotify.com/artist/6tnK96h4vIqPwVvyIqwDCw"
-        }
-      ],
-      "duration_ms": 221190,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/4yYc5agQLrzA1uJJat8EYe"
-    },
-    {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Mar\u00e9",
         "url": "https://open.spotify.com/album/07hb053gdOBrCFJi6G75M1"
@@ -773,7 +809,7 @@
       "url": "https://open.spotify.com/track/2IAnBtvkFGrbS37G0VeaBy"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Turn Off The Lights",
         "url": "https://open.spotify.com/album/4E9LtiGWwa9RZ1WEc5CfKZ"
@@ -793,7 +829,7 @@
       "url": "https://open.spotify.com/track/3AL8qaMxMNmH3yH9UO6Mvq"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/4vIUsFZLhoOh3yMdXfOYtl"
@@ -809,7 +845,7 @@
       "url": "https://open.spotify.com/track/2BHpGigZGOeJGLGbBrjWUk"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/2W1jr5bUzAGk47MH4EUArA"
@@ -833,27 +869,7 @@
       "url": "https://open.spotify.com/track/0smB5zD5CJYMtdXvS2qS5A"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
-      "album": {
-        "name": "Connect",
-        "url": "https://open.spotify.com/album/4nLK2scPvvoKozMofiVPxr"
-      },
-      "artists": [
-        {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        }
-      ],
-      "duration_ms": 171585,
-      "name": "Connect",
-      "url": "https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF"
-    },
-    {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Vintage Culture & Friends, Vol. 6 (Pt. II)",
         "url": "https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/7zL9EbGsI8KKLUxUWT0ump"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Kumbaya",
         "url": "https://open.spotify.com/album/7oZ3sI01WJZqdo1ijWxKrO"
@@ -897,7 +913,7 @@
       "url": "https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Infinity (Bhaskar Remix)",
         "url": "https://open.spotify.com/album/1hQ4ooJU4Qof6MDgExzqbI"
@@ -917,27 +933,7 @@
       "url": "https://open.spotify.com/track/4ytfVjVEXfJIe0uZj4WoTF"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
-      "album": {
-        "name": "Paper Boats",
-        "url": "https://open.spotify.com/album/49R4RBVBH4sktSSTO5Fg1u"
-      },
-      "artists": [
-        {
-          "name": "ZAC",
-          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
-        },
-        {
-          "name": "Riascode",
-          "url": "https://open.spotify.com/artist/6sKceWIUPv10lfblPrUQDM"
-        }
-      ],
-      "duration_ms": 255375,
-      "name": "Paper Boats",
-      "url": "https://open.spotify.com/track/66EaDuPoCEvvz8GBn1bXL9"
-    },
-    {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/530W67dkT14ITyrTAy1kcO"
@@ -957,7 +953,7 @@
       "url": "https://open.spotify.com/track/4BpJJMVKSVn0YTmuiivZEQ"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Bacilando",
         "url": "https://open.spotify.com/album/4NAKAQ39iDgxXEF2lDKmzF"
@@ -977,27 +973,7 @@
       "url": "https://open.spotify.com/track/4n09v7GgxwrddyFYpT3xJ8"
     },
     {
-      "added_at": "2026-01-23 03:03:30",
-      "album": {
-        "name": "Disco Shit",
-        "url": "https://open.spotify.com/album/4pTDPdlW4mkmPNneqFrzlo"
-      },
-      "artists": [
-        {
-          "name": "Vittor",
-          "url": "https://open.spotify.com/artist/3epyeoRc1gn7KoFUSi77Ud"
-        },
-        {
-          "name": "ONNE",
-          "url": "https://open.spotify.com/artist/4CYh95bpSaKKF9AvEI6G6X"
-        }
-      ],
-      "duration_ms": 172263,
-      "name": "Disco Shit",
-      "url": "https://open.spotify.com/track/6Od1L6369vboOOofSij7mj"
-    },
-    {
-      "added_at": "2026-01-23 03:03:30",
+      "added_at": "2026-01-30 03:03:21",
       "album": {
         "name": "Addicted (Argy & Omnya Remix)",
         "url": "https://open.spotify.com/album/4ybzfLamUp8HWp3F8YYnoJ"
@@ -1027,6 +1003,22 @@
       "duration_ms": 142080,
       "name": "Addicted - Argy & Omnya Remix",
       "url": "https://open.spotify.com/track/4Y67RGQnwP30Puzh7aKMlD"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "System Error",
+        "url": "https://open.spotify.com/album/0OiTED4JIxWHqwsK8ViPDA"
+      },
+      "artists": [
+        {
+          "name": "Groove Delight",
+          "url": "https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn"
+        }
+      ],
+      "duration_ms": 130232,
+      "name": "System Error",
+      "url": "https://open.spotify.com/track/2RKGqUw14sYGxChBCymGa7"
     }
   ],
   "unique_name": "mint brasil",

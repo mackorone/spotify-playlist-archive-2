@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best new Irish alternative sounds. Cover: Just Mustard",
+  "description": "The best new Irish alternative sounds. Cover: Big Sleep",
   "name": "alt_ie",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 285360,
       "name": "22\u00b0 Halo",
       "url": "https://open.spotify.com/track/4u1ppiNCCPkTEr0HHGBpSA"
+    },
+    {
+      "album": {
+        "name": "3days",
+        "url": "https://open.spotify.com/album/03eVrBkkSvTx6gHEj42R7X"
+      },
+      "artists": [
+        {
+          "name": "Niall Tarmey",
+          "url": "https://open.spotify.com/artist/0mkGsPDIeYwlu3AphfXLmJ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181960,
+      "name": "3days",
+      "url": "https://open.spotify.com/track/3fjlEMZ2enkbZdRZm4neFW"
     },
     {
       "album": {
@@ -167,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Anna with the Silver Arrow",
+        "url": "https://open.spotify.com/album/0OqErnPXI4h32uo7xh59j8"
+      },
+      "artists": [
+        {
+          "name": "Ellie O'Neill",
+          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224234,
+      "name": "Anna with the Silver Arrow",
+      "url": "https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei"
+    },
+    {
+      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
       },
@@ -182,6 +218,24 @@
       "duration_ms": 165393,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
+    },
+    {
+      "album": {
+        "name": "Aon Sc\u00e9al?",
+        "url": "https://open.spotify.com/album/56WppaaD51PokUrgxUe4Ld"
+      },
+      "artists": [
+        {
+          "name": "KING CARA",
+          "url": "https://open.spotify.com/artist/6UgOBifcNnqwNhGts8v1R7"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Aon Sc\u00e9al?",
+      "url": "https://open.spotify.com/track/3HijHWvZOidPGhWqCkkCAV"
     },
     {
       "album": {
@@ -344,6 +398,24 @@
       "duration_ms": 170944,
       "name": "Be A Big Girl",
       "url": "https://open.spotify.com/track/3tdBEe2FBbWJpWzaSyfKto"
+    },
+    {
+      "album": {
+        "name": "Be Positive",
+        "url": "https://open.spotify.com/album/3f6x6LqLHckHWcNsvwEeUH"
+      },
+      "artists": [
+        {
+          "name": "Wynona Bleach",
+          "url": "https://open.spotify.com/artist/3U7XDjbMZWVbis1wAUzjMq"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216760,
+      "name": "Be Positive",
+      "url": "https://open.spotify.com/track/1PlvqsPReqjL4WupfK93Mv"
     },
     {
       "album": {
@@ -578,6 +650,24 @@
       "duration_ms": 146375,
       "name": "Bring Heaven",
       "url": "https://open.spotify.com/track/5eOnr7YL7ZxH0N53cOcVyp"
+    },
+    {
+      "album": {
+        "name": "Brushstrokes",
+        "url": "https://open.spotify.com/album/5CaO931Pe6lLnQWJ4BEeej"
+      },
+      "artists": [
+        {
+          "name": "Muir\u0121en",
+          "url": "https://open.spotify.com/artist/7lrwcxMniye7vGrjesctvV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Brushstrokes",
+      "url": "https://open.spotify.com/track/6L8eC9sQp3kXiW5UGKTzLW"
     },
     {
       "album": {
@@ -830,6 +920,24 @@
       "duration_ms": 199239,
       "name": "CSB",
       "url": "https://open.spotify.com/track/7oflizr4wg5N1DnVt0YZoQ"
+    },
+    {
+      "album": {
+        "name": "Deceptacon",
+        "url": "https://open.spotify.com/album/73JBzPCTTbDJiiU1Hrt9Hq"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193871,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/41sJBgvg1PAfZ5NpAMWKXJ"
     },
     {
       "album": {
@@ -1439,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "I.D.C.",
+        "url": "https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211651,
+      "name": "I.D.C.",
+      "url": "https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1"
+    },
+    {
+      "album": {
         "name": "If I'm Honest",
         "url": "https://open.spotify.com/album/7jfek22365V5tQCUrpntc3"
       },
@@ -1475,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Incandescent",
+        "url": "https://open.spotify.com/album/09ZJJ4mzhrjpIcdWSnTktx"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "Incandescent",
+      "url": "https://open.spotify.com/track/6m7qDYkdwKaSyMe3jwhGas"
+    },
+    {
+      "album": {
         "name": "Ingrid Bergman",
         "url": "https://open.spotify.com/album/4xoqOw1eTKcjVnqu9M4HXd"
       },
@@ -1508,6 +1652,24 @@
       "duration_ms": 229342,
       "name": "is \u00e9 a locht a laghad",
       "url": "https://open.spotify.com/track/4HNS5FBg9GwhYz2J9rVaXG"
+    },
+    {
+      "album": {
+        "name": "ISA",
+        "url": "https://open.spotify.com/album/3AYOE4y7iEVsvUPo4T0KXF"
+      },
+      "artists": [
+        {
+          "name": "Cooks But We're Chefs",
+          "url": "https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228835,
+      "name": "ISA",
+      "url": "https://open.spotify.com/track/5MHpJS8FDkSleGcV6Lk0Dz"
     },
     {
       "album": {
@@ -1562,6 +1724,42 @@
       "duration_ms": 179037,
       "name": "Kilanova Horizon",
       "url": "https://open.spotify.com/track/6KDSxUrvroOumG9XvAzPrd"
+    },
+    {
+      "album": {
+        "name": "Kiss Big",
+        "url": "https://open.spotify.com/album/3owxnC4VlWPnDqARedtYex"
+      },
+      "artists": [
+        {
+          "name": "Ailbhe Reddy",
+          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "Kiss Big",
+      "url": "https://open.spotify.com/track/1h8nz5yKL0SD077xVIkBct"
+    },
+    {
+      "album": {
+        "name": "Kitchen Sink",
+        "url": "https://open.spotify.com/album/1E3YQ7GcV7ZNm026jTSZM0"
+      },
+      "artists": [
+        {
+          "name": "girlfriend.",
+          "url": "https://open.spotify.com/artist/3w2hr2LR5vg8YaqxmNIl4o"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201360,
+      "name": "Kitchen Sink",
+      "url": "https://open.spotify.com/track/2CswjaH1pCgKpogjYnY5HS"
     },
     {
       "album": {
@@ -1973,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/1yK7hngYH2ctzYgkBPooJb"
+      },
+      "artists": [
+        {
+          "name": "Big Sleep",
+          "url": "https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214814,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/4Upa4Devu3DADgTvonkPkL"
+    },
+    {
+      "album": {
         "name": "omen",
         "url": "https://open.spotify.com/album/7ovyM7XXgObQz0QAfFk6nd"
       },
@@ -2056,7 +2272,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 181714,
       "name": "Pain",
       "url": "https://open.spotify.com/track/14M05BE09j5oytK3Wd9KWL"
@@ -2240,6 +2456,28 @@
       "duration_ms": 206528,
       "name": "Prospect",
       "url": "https://open.spotify.com/track/0DcWjXflMeyVYxZtqWIfj5"
+    },
+    {
+      "album": {
+        "name": "Pullin' Teeth (feat. Kevin Rheault)",
+        "url": "https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        },
+        {
+          "name": "Kevin Rheault",
+          "url": "https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254446,
+      "name": "Pullin' Teeth (feat. Kevin Rheault)",
+      "url": "https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8"
     },
     {
       "album": {
@@ -2492,6 +2730,24 @@
       "duration_ms": 224938,
       "name": "Sing It",
       "url": "https://open.spotify.com/track/5OjPL6xiLhzqpZNel80OmT"
+    },
+    {
+      "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/0uOyPUidLoP5Ykkrw1eY2V"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208412,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/2h3R5SN0NRPlLLAt1s0wnw"
     },
     {
       "album": {
@@ -2787,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "It's a Hell of an Age",
+        "url": "https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S"
+      },
+      "artists": [
+        {
+          "name": "Madra Salach",
+          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370659,
+      "name": "The Man Who Seeks Pleasure",
+      "url": "https://open.spotify.com/track/32msSh7ipShC5euqD5Yc9O"
+    },
+    {
+      "album": {
         "name": "The Pressures of the Heart",
         "url": "https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe"
       },
@@ -2874,6 +3148,24 @@
       "duration_ms": 155141,
       "name": "The Stink",
       "url": "https://open.spotify.com/track/3Lt8O13nVCZEKtIkApJEnp"
+    },
+    {
+      "album": {
+        "name": "There Will Be Blood",
+        "url": "https://open.spotify.com/album/0Nmh0H7Y7OhkbwylMPjK64"
+      },
+      "artists": [
+        {
+          "name": "THUMPER",
+          "url": "https://open.spotify.com/artist/1iMsLpQB3kldZ9s7pne7gP"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355000,
+      "name": "There Will Be Blood",
+      "url": "https://open.spotify.com/track/1AGnp5aLMeKf3a90AfJBqL"
     },
     {
       "album": {
@@ -3094,6 +3386,24 @@
       "duration_ms": 193970,
       "name": "WELL ENOUGH!",
       "url": "https://open.spotify.com/track/0v8itswFBG0nfiWvLQzjCW"
+    },
+    {
+      "album": {
+        "name": "i expect the same of u",
+        "url": "https://open.spotify.com/album/5p5BD3jIXdhqWkOAanWwWn"
+      },
+      "artists": [
+        {
+          "name": "Some Images of Paradise",
+          "url": "https://open.spotify.com/artist/6xsJPqefZa4BIcIwAL9PFE"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298714,
+      "name": "when i'm gone",
+      "url": "https://open.spotify.com/track/3BBQMT6s7GR5EBY6BQiwT7"
     },
     {
       "album": {

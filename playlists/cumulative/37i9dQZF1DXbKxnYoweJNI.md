@@ -4,7 +4,7 @@
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: Quanzo
 
-4,065 songs - 9 day 21 hr 38 min
+4,067 songs - 9 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -744,7 +744,7 @@
 | [next time?](https://open.spotify.com/track/0ihjFNCrCzTIkbAlW3ewNC) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq) | [next time?](https://open.spotify.com/album/5imnf6spvHKZJUJxg4NjAv) | 2:44 | 2024-11-07 | 2024-12-06 |
 | [nicotine, caffeine, and you](https://open.spotify.com/track/1CYlTEPv08CSMT7jkFqGI0) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [nicotine, caffeine, and you](https://open.spotify.com/album/025c6pc8x5Dfm61BioRSy3) | 2:53 | 2025-08-14 | 2025-09-05 |
 | [nicotine, caffeine, and you \- Remix](https://open.spotify.com/track/451vSCGllr7lj1mbZm2juS) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [Just A Dream \(Remix\)](https://open.spotify.com/album/4t6oDmclJ6jg5xo8V24S2y) | 2:12 | 2025-11-13 | 2025-12-26 |
-| [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:26 | 2026-01-22 |  |
+| [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:28 | 2026-01-22 |  |
 | [Night Lotion \- Club Remix](https://open.spotify.com/track/0YVeCtzsDKDK7u7uhr6Wjg) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Night Lotion \(Club Remix\)](https://open.spotify.com/album/4QhsJMhsPmcZLPWMm2066z) | 2:37 | 2025-02-06 | 2025-03-14 |
 | [Nightglow Dreamer](https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky) | 4:29 | 2024-12-05 | 2024-12-20 |
 | [nihilistic joy](https://open.spotify.com/track/1gAOKukZ0KZHjKKD1lYhqg) | [Enli恩利](https://open.spotify.com/artist/2L9tkjEEuCRwwEj5m4bvHQ) | [nihilistic joy](https://open.spotify.com/album/0MG3whYTKRwsg9zxzh3OSn) | 3:26 | 2025-08-14 | 2025-09-19 |
@@ -2041,6 +2041,7 @@
 | [好了就好了](https://open.spotify.com/track/6d7W9frT4zDzpB0xr03cKR) | [阿布田](https://open.spotify.com/artist/43EA710S9gbzvIZZsfnLsi), [舞炯恩](https://open.spotify.com/artist/21NwSAAbNe7mbnUsCLlSVR) | [好了就好了](https://open.spotify.com/album/4pNlT6HxZ84RfzX24xEqqd) | 4:01 | 2024-09-19 | 2024-10-11 |
 | [好人](https://open.spotify.com/track/7jsoFhDmYhanmnJdgjzZuj) | [吳翔震](https://open.spotify.com/artist/4R2RBUi3quFGYoRVs16nuS) | [好人](https://open.spotify.com/album/7qhgDDtZgefq9XBZ0v7MiN) | 3:32 | 2025-05-29 | 2025-06-06 |
 | [好人](https://open.spotify.com/track/100tzdvpzq9K3CvtEt9cds) | [蘇研之](https://open.spotify.com/artist/4cbEBwZICHpVIBPo9hgCdD) | [好人](https://open.spotify.com/album/2xNLLYeSZToH45mqQdRaR6) | 4:06 | 2024-08-29 | 2024-09-27 |
+| [好仔](https://open.spotify.com/track/0jrynbauAyImkumxu7pR3c) | [廣土主任](https://open.spotify.com/artist/0gZ6cBqif4mY94tzTOOzsT) | [好仔](https://open.spotify.com/album/212BrBSVz9iHsRuZifswHJ) | 3:08 | 2026-01-29 |  |
 | [好佳哉 \(電視劇《我的意外室友》主題曲\)](https://open.spotify.com/track/63aeX1gAvMtrNhYmTFkPFI) | [青虫 aoi](https://open.spotify.com/artist/7ktAsKYEFwtaMgXZgYCfu5) | [好佳哉 \(電視劇《我的意外室友》主題曲\)](https://open.spotify.com/album/3csti8ruuYZ7dYnbhZhV1L) | 2:32 | 2024-06-27 | 2024-07-19 |
 | [好像被一支箭矢跟蹤](https://open.spotify.com/track/3vrYQUnkL1hdQ2tGv0TVI8) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [好像被一支箭矢跟蹤](https://open.spotify.com/album/0yt04xb03kefA9W3E3HU3P) | 3:56 | 2025-04-17 | 2025-05-16 |
 | [好勢](https://open.spotify.com/track/3RauooYGAaOaZqgG2mT8SN) | [Finesse'Boy](https://open.spotify.com/artist/3qS2lXfLasuWpBEaLn1bbt), [Teezy](https://open.spotify.com/artist/5P4IE6bIqsXDKHf5Z7vmeA), [八口8uck](https://open.spotify.com/artist/7mB3ob7Tx8w7UPykPKbZTP) | [好勢](https://open.spotify.com/album/2DiUzykXOM0Frua27fr8Vm) | 2:22 | 2026-01-22 |  |
@@ -2485,6 +2486,7 @@
 | [我受夠了](https://open.spotify.com/track/3w71TlXbEeZeZcI7BtHy2G) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90), [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [我受夠了](https://open.spotify.com/album/156pIYY9nM5eJm6ppOwsCw) | 3:10 | 2025-12-04 | 2025-12-12 |
 | [我受夠了](https://open.spotify.com/track/7lFYoq9qxU9OhT90vVH4DB) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e) | [我受夠了](https://open.spotify.com/album/46cBSMzcyPoMcK26REi3ip) | 3:51 | 2025-09-04 | 2025-09-26 |
 | [我只想做個情緒穩定的人](https://open.spotify.com/track/6KzljSLC89DvSAEkr7joU8) | [童心Valentina](https://open.spotify.com/artist/5R51KlCL9ThprS5KVAGZB1) | [我只想做個情緒穩定的人](https://open.spotify.com/album/5ivtqMGRC0nW1THAzQInRh) | 3:40 | 2025-09-11 | 2025-09-19 |
+| [我只想躺平](https://open.spotify.com/track/7kda8Xr1MDEaGELA1UVCVm) | [康玉蘭](https://open.spotify.com/artist/1S7X2AuDpHUFVU1RqURNvV) | [請勿打擾模式](https://open.spotify.com/album/31DreE8BdE0z2Ar6tPWWLU) | 3:34 | 2026-01-29 |  |
 | [我只想過著最普通的生活](https://open.spotify.com/track/04p2eSK46Mxy0hi8UxQlX6) | [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [我只想過著最普通的生活](https://open.spotify.com/album/1AXalZcMJnLzE9EJCbBp0O) | 3:31 | 2024-09-26 | 2024-10-18 |
 | [我只是剛好 I Was Only Passing By](https://open.spotify.com/track/7hTNCg94e0RiEKzJakLpHG) | [WiZY](https://open.spotify.com/artist/5VxlZjfWT6az0ANHGfEcwB) | [我只是剛好 I Was Only Passing By](https://open.spotify.com/album/5alsrWoXNNVr7H6SydGW6l) | 3:25 | 2025-05-01 | 2025-05-16 |
 | [我只看到妳](https://open.spotify.com/track/2pug1OeVrlTdxAbBFyzxLP) | [午睡大熊](https://open.spotify.com/artist/2C7v6c9bAXJnPP3ijMGjcC) | [我只看到妳](https://open.spotify.com/album/4jzVvA8sCGDO8Aoviqhnox) | 3:26 | 2025-07-31 | 2025-08-22 |

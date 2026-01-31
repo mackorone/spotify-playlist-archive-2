@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Kashmir",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Abdul Hannan",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -1001,6 +1001,28 @@
     },
     {
       "album": {
+        "name": "Bewajah",
+        "url": "https://open.spotify.com/album/2RWu005s6sUzoLvg9G4pV6"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Alan Sampson",
+          "url": "https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142493,
+      "name": "Bewajah",
+      "url": "https://open.spotify.com/track/2iUS1RWS0p7sZBwisMcaLs"
+    },
+    {
+      "album": {
         "name": "Bhool",
         "url": "https://open.spotify.com/album/4MIPkmbrYvZqLdzLwaQRF9"
       },
@@ -1955,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "Dont Care",
+        "url": "https://open.spotify.com/album/6afINoT4xdAge6aiRNpiai"
+      },
+      "artists": [
+        {
+          "name": "Shamoon Ismail",
+          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186874,
+      "name": "Dont Care",
+      "url": "https://open.spotify.com/track/1uIlrc9uqGwSBL85e4WUa0"
+    },
+    {
+      "album": {
         "name": "door",
         "url": "https://open.spotify.com/album/49TAPCz3vbcc1jO2HO2ayw"
       },
@@ -1996,6 +2036,24 @@
       "duration_ms": 161584,
       "name": "doriyaan",
       "url": "https://open.spotify.com/track/2fPWsvvLodVUKYCeFaQuA4"
+    },
+    {
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/1rGiWcWgzUGgyUsuogKISa"
+      },
+      "artists": [
+        {
+          "name": "Neha Karim Ullah",
+          "url": "https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/5HauOf3Whq4F7IZruk9Kbn"
     },
     {
       "album": {
@@ -2428,6 +2486,24 @@
       "duration_ms": 146666,
       "name": "g.o.n.e",
       "url": "https://open.spotify.com/track/4E5fhWEE30VBB0rG2EW6el"
+    },
+    {
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/4oRYqVWHzqOLvSioB67CZg"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236385,
+      "name": "Gaata Nahi",
+      "url": "https://open.spotify.com/track/0Wfc9EYr9b0EpU1wh9nVsc"
     },
     {
       "album": {
@@ -6103,6 +6179,28 @@
     },
     {
       "album": {
+        "name": "Poetic Love",
+        "url": "https://open.spotify.com/album/6PU7ZAcpAdui2XXDEOZYO7"
+      },
+      "artists": [
+        {
+          "name": "Mudabbir Azeez Jamall",
+          "url": "https://open.spotify.com/artist/7HX5PwfHdsoLD7dDdY0f7l"
+        },
+        {
+          "name": "The Hashtags",
+          "url": "https://open.spotify.com/artist/2I98zL3Q63jrawDI778pmV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165210,
+      "name": "Poetic Love",
+      "url": "https://open.spotify.com/track/5uYBuSoUTvX3FqQ5MpcZxl"
+    },
+    {
+      "album": {
         "name": "Pooray Sau",
         "url": "https://open.spotify.com/album/7F6TJD5W6T6tuE5tnkpR3M"
       },
@@ -6518,7 +6616,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 219720,
       "name": "Real Riders",
       "url": "https://open.spotify.com/track/4xQSrz6iso0WaBFoDVFjkA"
@@ -7200,6 +7298,24 @@
       "duration_ms": 172727,
       "name": "SHEESHA TOOT GAYA",
       "url": "https://open.spotify.com/track/2vYNBoxURqF2wudDHiAfsu"
+    },
+    {
+      "album": {
+        "name": "Shehzada",
+        "url": "https://open.spotify.com/album/1RHrdtpjKw6vNvRNASH2vz"
+      },
+      "artists": [
+        {
+          "name": "Fuzon",
+          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "Shehzada",
+      "url": "https://open.spotify.com/track/2KdAh9vPLw8dX4Y5CbYRDh"
     },
     {
       "album": {
@@ -7896,6 +8012,28 @@
       "duration_ms": 257068,
       "name": "Thaggi",
       "url": "https://open.spotify.com/track/3nbrz0TpEpTlyOZsmiM5Lk"
+    },
+    {
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/4oRYqVWHzqOLvSioB67CZg"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "Nehaal Naseem",
+          "url": "https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217550,
+      "name": "Thora Muskura De",
+      "url": "https://open.spotify.com/track/7bZheHUQ2KvQXVlVAXXX33"
     },
     {
       "album": {

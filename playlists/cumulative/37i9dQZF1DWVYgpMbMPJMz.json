@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Elevation Worship",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Lizzie Morgan",
   "name": "WorshipNow",
   "tracks": [
+    {
+      "album": {
+        "name": "'Til The Whole World Knows",
+        "url": "https://open.spotify.com/album/0U4Cz2a6Qq4q0w06Vhs2ay"
+      },
+      "artists": [
+        {
+          "name": "Philippa Hanna",
+          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364291,
+      "name": "'Til The Whole World Knows",
+      "url": "https://open.spotify.com/track/3F7NPOqfCwheybRRNUasJY"
+    },
     {
       "album": {
         "name": "Chapel Sessions (Vol. 2)",
@@ -654,7 +676,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 360299,
       "name": "All Sufficient Merit",
       "url": "https://open.spotify.com/track/7ymNiYT5jVlWLVZdiAwfm5"
@@ -708,7 +730,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 266822,
       "name": "All This In A Name",
       "url": "https://open.spotify.com/track/60V25Kw5kvRayqtpwDtng5"
@@ -982,7 +1004,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 241571,
       "name": "Anything Can Happen - Live",
       "url": "https://open.spotify.com/track/4C04WkKNOs4UoNTjHG8wm9"
@@ -3780,7 +3802,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 248000,
       "name": "Desperate - Studio",
       "url": "https://open.spotify.com/track/09sSn60F2fLYrfPz0Xs4C9"
@@ -4212,7 +4234,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 419549,
       "name": "Even Though I Walk - Live At Church",
       "url": "https://open.spotify.com/track/4gcWgDaQTIbFt1jvI7z1qR"
@@ -6773,6 +6795,28 @@
     },
     {
       "album": {
+        "name": "Not My Will (Deluxe)",
+        "url": "https://open.spotify.com/album/3lW9WwXpVEHIsn7GYaMZnb"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        },
+        {
+          "name": "Phylisha Mitchell",
+          "url": "https://open.spotify.com/artist/3kKBNNEfSaHcoFb9LFkbUh"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271086,
+      "name": "Holy Spirit (feat. Phylisha Mitchell)",
+      "url": "https://open.spotify.com/track/24SrfIM7qWv1nuHemYgZSM"
+    },
+    {
+      "album": {
         "name": "Holy Spirit",
         "url": "https://open.spotify.com/album/5IBGHoFzGPbzEYhOm2ZtbX"
       },
@@ -7899,6 +7943,28 @@
     },
     {
       "album": {
+        "name": "i've been meaning to say this...(deluxe)",
+        "url": "https://open.spotify.com/album/7IQeUOlUvSCbFhbil5cylC"
+      },
+      "artists": [
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Eniola Abioye",
+          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287078,
+      "name": "I Will Follow Jesus - Acoustic",
+      "url": "https://open.spotify.com/track/4oJ1qWx93WsQgtHM9TYHDS"
+    },
+    {
+      "album": {
         "name": "I Will Remember",
         "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
       },
@@ -7954,6 +8020,24 @@
       "duration_ms": 707149,
       "name": "I'm Gonna Worship (feat. Dante Bowe)",
       "url": "https://open.spotify.com/track/43bf58Zo2FdOvkrKzs00vc"
+    },
+    {
+      "album": {
+        "name": "I've Got A Fire (Break Open)",
+        "url": "https://open.spotify.com/album/3o1E7Qc6kGXk4nqwZAvXsR"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444288,
+      "name": "I've Got A Fire - Break Open",
+      "url": "https://open.spotify.com/track/6DuqM96z7HcSnDM3YnQyKe"
     },
     {
       "album": {
@@ -10395,6 +10479,24 @@
     },
     {
       "album": {
+        "name": "Magnify",
+        "url": "https://open.spotify.com/album/5ZuiWVKn6lWqNJNOInH1e8"
+      },
+      "artists": [
+        {
+          "name": "ZOE Worship",
+          "url": "https://open.spotify.com/artist/1ng5GiN8u9Sml2NmNFWCJo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214857,
+      "name": "Magnify",
+      "url": "https://open.spotify.com/track/6vjCLA1wRmf8P4QJ3lrIAD"
+    },
+    {
+      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/3AZuqbUj6FPdh2P5RZYBHi"
       },
@@ -11812,7 +11914,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 316920,
       "name": "Not My Will",
       "url": "https://open.spotify.com/track/4JWjGhWxk5yMQM68F2PgQ4"
@@ -12342,7 +12444,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 253000,
       "name": "One Name",
       "url": "https://open.spotify.com/track/38S3cC6HmKMwnGypZ15KnU"
@@ -14420,7 +14522,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 428594,
       "name": "Shout To The Lord",
       "url": "https://open.spotify.com/track/6tMrS4MKYSV7koiPr4a4F9"
@@ -15451,6 +15553,28 @@
     },
     {
       "album": {
+        "name": "Taste And See (The Love Of Christ)",
+        "url": "https://open.spotify.com/album/51eWUtm4FF7SWkIoHq45nH"
+      },
+      "artists": [
+        {
+          "name": "Bryan Fowler",
+          "url": "https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272149,
+      "name": "Taste And See (The Love Of Christ)",
+      "url": "https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD"
+    },
+    {
+      "album": {
         "name": "Worship in The Word (Live)",
         "url": "https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ"
       },
@@ -16206,6 +16330,28 @@
       "duration_ms": 394806,
       "name": "The First Hymn - Live",
       "url": "https://open.spotify.com/track/6NqEi3GGzKNsroK1p5JwAh"
+    },
+    {
+      "album": {
+        "name": "The Glory Of God",
+        "url": "https://open.spotify.com/album/71aGaWwIeOZIzW8IKqO6wu"
+      },
+      "artists": [
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311916,
+      "name": "The Glory Of God",
+      "url": "https://open.spotify.com/track/6Kq56cMRnkUkwm80NHLohZ"
     },
     {
       "album": {
@@ -18061,6 +18207,24 @@
     },
     {
       "album": {
+        "name": "Walk On Water (Live)",
+        "url": "https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538235,
+      "name": "Walk On Water - Live",
+      "url": "https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX"
+    },
+    {
+      "album": {
         "name": "Walk With You (Live from LO Conference)",
         "url": "https://open.spotify.com/album/1FDPTLQm3vOPlIXZRljbs8"
       },
@@ -19092,7 +19256,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 516309,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/3HnlDT6ymq3eYX1aRPcUTB"
@@ -19250,6 +19414,32 @@
       "duration_ms": 404554,
       "name": "Wouldn't It Be Like You - Live At TRIBL Night",
       "url": "https://open.spotify.com/track/7c16GOtg7mY3WAhKpALIu0"
+    },
+    {
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/3C0tu5fQONjnsbXG2ba4Wg"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Vilas Boas",
+          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
+        },
+        {
+          "name": "Emanuelle Carvalho",
+          "url": "https://open.spotify.com/artist/0G8YT9P8cDAAB31Oqa9ctA"
+        },
+        {
+          "name": "TGV Music",
+          "url": "https://open.spotify.com/artist/1XAPGYx59c03KbWVadmqvH"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585750,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/07MKT2Vgw2MPq3eUmgorc0"
     },
     {
       "album": {

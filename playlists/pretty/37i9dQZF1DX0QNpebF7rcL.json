@@ -1,13 +1,61 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 146527,
+  "num_followers": 146611,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHlNFkZ/KTMuxP+iAAYhTNW9Nbp0",
+  "snapshot_id": "AAAAABrpU/17xZfT4QguphqJ3TN2NVS4",
   "tracks": [
+    {
+      "added_at": "2026-01-30 05:12:04",
+      "album": {
+        "name": "One Mississippi",
+        "url": "https://open.spotify.com/album/3gkxsfKsBhUUsP3uhIEMGH"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "One Mississippi",
+      "url": "https://open.spotify.com/track/5ZPcNZ30ErhH7d2WfLabi4"
+    },
+    {
+      "added_at": "2026-01-30 05:12:04",
+      "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/3tM2BhfXRTk19q2aD2fLhf"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "duration_ms": 179431,
+      "name": "Too Broke",
+      "url": "https://open.spotify.com/track/4OzazzaU3Jv3Sf2czAp2kr"
+    },
+    {
+      "added_at": "2026-01-30 05:12:04",
+      "album": {
+        "name": "Little By Little",
+        "url": "https://open.spotify.com/album/2hawlSOnUjx36npp6OpUvm"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        }
+      ],
+      "duration_ms": 308581,
+      "name": "Little By Little",
+      "url": "https://open.spotify.com/track/3B9rNHb7e2mGRoFGFbn5Wx"
+    },
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
@@ -39,22 +87,6 @@
       "duration_ms": 221546,
       "name": "Hell Or High Water",
       "url": "https://open.spotify.com/track/5CVi1Y4FCzWAi9cY1gHl8K"
-    },
-    {
-      "added_at": "2026-01-16 05:00:30",
-      "album": {
-        "name": "Didn't I Keep Runnin'",
-        "url": "https://open.spotify.com/album/0G1CMLfaqiXJ39DpUHWHL2"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 259813,
-      "name": "Didn't I Keep Runnin'",
-      "url": "https://open.spotify.com/track/1nH7bZ7xWEhsaSP3pax31s"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -115,22 +147,6 @@
       "duration_ms": 251346,
       "name": "When Love Comes To Town",
       "url": "https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
-        "name": "Hoodoo Woman",
-        "url": "https://open.spotify.com/album/16E63Rm7QHoDvGcrA6848S"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 189820,
-      "name": "Hoodoo Woman",
-      "url": "https://open.spotify.com/track/29rU2ADe2TBKlDePc7BWV4"
     },
     {
       "added_at": "2025-11-14 05:00:25",
@@ -1819,22 +1835,6 @@
       "duration_ms": 171310,
       "name": "Juke Joint",
       "url": "https://open.spotify.com/track/3wdI9KWEqn7uXIaM1pj1L6"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Thunderbird",
-        "url": "https://open.spotify.com/album/6TQPU0JjKFlTL9H5EMJfSa"
-      },
-      "artists": [
-        {
-          "name": "Big Head Todd and The Monsters",
-          "url": "https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Thunderbird",
-      "url": "https://open.spotify.com/track/304JLq9u9DrvO0rw7u9Yq1"
     }
   ],
   "unique_name": "Got Blues",

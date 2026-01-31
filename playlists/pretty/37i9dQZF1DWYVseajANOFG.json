@@ -1,32 +1,28 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Boza",
-  "num_followers": 132170,
+  "num_followers": 132184,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFVkcVtmVQqHeTJYpTXvyNmkgpp2",
+  "snapshot_id": "AAAAANFM4CP1N2dsGPW+2SYABt/GRNGX",
   "tracks": [
     {
-      "added_at": "2025-09-26 14:39:39",
+      "added_at": "2025-12-05 05:00:12",
       "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/6slcxJSXyA96hAUiaABZW2"
+        "name": "San Jose",
+        "url": "https://open.spotify.com/album/01cCEYFBAyC4bWcKZoSoKU"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
         }
       ],
-      "duration_ms": 189176,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/30V3s7JION6nkntl6vsTYw"
+      "duration_ms": 235800,
+      "name": "San Jose",
+      "url": "https://open.spotify.com/track/10faGZlZW8884vtccmxfuG"
     },
     {
       "added_at": "2025-12-19 05:00:28",
@@ -57,6 +53,46 @@
       "url": "https://open.spotify.com/track/0esaR3jt3HS2uoDEoz4rjC"
     },
     {
+      "added_at": "2025-09-26 14:39:39",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/6slcxJSXyA96hAUiaABZW2"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/30V3s7JION6nkntl6vsTYw"
+    },
+    {
+      "added_at": "2025-09-19 04:00:34",
+      "album": {
+        "name": "Woy",
+        "url": "https://open.spotify.com/album/2JkcMT5sw72hYSRV7hNKCn"
+      },
+      "artists": [
+        {
+          "name": "Josuan",
+          "url": "https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU"
+        },
+        {
+          "name": "Eshconinco",
+          "url": "https://open.spotify.com/artist/4GcktEVE1rB4Kyv1woxUrx"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Woy",
+      "url": "https://open.spotify.com/track/3UB1zEUQBh9Ff1emup6gvW"
+    },
+    {
       "added_at": "2025-04-18 04:00:44",
       "album": {
         "name": "Psic\u00f3logo",
@@ -71,26 +107,6 @@
       "duration_ms": 220000,
       "name": "Psic\u00f3logo",
       "url": "https://open.spotify.com/track/63GtSPbCOhcpt3kUqx3DnT"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "La Ni\u00f1a Consentida",
-        "url": "https://open.spotify.com/album/6HSMFCODetruC7z5k8MalQ"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        },
-        {
-          "name": "Kevin Ice",
-          "url": "https://open.spotify.com/artist/6T7bOrkvmlGkEVPer6rDp3"
-        }
-      ],
-      "duration_ms": 299650,
-      "name": "La Ni\u00f1a Consentida",
-      "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
     },
     {
       "added_at": "2025-09-05 04:00:11",
@@ -115,42 +131,6 @@
       "duration_ms": 220408,
       "name": "Novio No",
       "url": "https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG"
-    },
-    {
-      "added_at": "2025-09-19 04:00:34",
-      "album": {
-        "name": "Woy",
-        "url": "https://open.spotify.com/album/2JkcMT5sw72hYSRV7hNKCn"
-      },
-      "artists": [
-        {
-          "name": "Josuan",
-          "url": "https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU"
-        },
-        {
-          "name": "Eshconinco",
-          "url": "https://open.spotify.com/artist/4GcktEVE1rB4Kyv1woxUrx"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Woy",
-      "url": "https://open.spotify.com/track/3UB1zEUQBh9Ff1emup6gvW"
-    },
-    {
-      "added_at": "2025-12-05 05:00:12",
-      "album": {
-        "name": "San Jose",
-        "url": "https://open.spotify.com/album/01cCEYFBAyC4bWcKZoSoKU"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "San Jose",
-      "url": "https://open.spotify.com/track/10faGZlZW8884vtccmxfuG"
     },
     {
       "added_at": "2025-09-19 04:00:34",
@@ -201,20 +181,24 @@
       "url": "https://open.spotify.com/track/4UjQ7lto14ebffTerKFEET"
     },
     {
-      "added_at": "2026-01-23 05:00:24",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Diablita y Bonita",
-        "url": "https://open.spotify.com/album/6eQwBS5kgI42T1duGKJy51"
+        "name": "La Ni\u00f1a Consentida",
+        "url": "https://open.spotify.com/album/6HSMFCODetruC7z5k8MalQ"
       },
       "artists": [
         {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Kevin Ice",
+          "url": "https://open.spotify.com/artist/6T7bOrkvmlGkEVPer6rDp3"
         }
       ],
-      "duration_ms": 131752,
-      "name": "Diablita y Bonita",
-      "url": "https://open.spotify.com/track/2uG0H3KiP6HIUJIdFQq90b"
+      "duration_ms": 299650,
+      "name": "La Ni\u00f1a Consentida",
+      "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -331,6 +315,34 @@
       "duration_ms": 252682,
       "name": "PASAME LA UBI - Remix",
       "url": "https://open.spotify.com/track/0bdvS6PzJiku3hfYu94lZl"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "Sumadora",
+        "url": "https://open.spotify.com/album/0KXizeN1TPCKeXytC2Mm1v"
+      },
+      "artists": [
+        {
+          "name": "EL Pleyer",
+          "url": "https://open.spotify.com/artist/1PBdrqljlifptvlwaWrTVt"
+        },
+        {
+          "name": "Kabliz",
+          "url": "https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "CANALTUBE",
+          "url": "https://open.spotify.com/artist/3PksXZA8sUhWMJah7blOgl"
+        }
+      ],
+      "duration_ms": 131750,
+      "name": "Sumadora",
+      "url": "https://open.spotify.com/track/6OGvlUayPZVWCwoVEDGsuA"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -503,6 +515,30 @@
       "duration_ms": 184492,
       "name": "RAKATAKA",
       "url": "https://open.spotify.com/track/0XRVd8CFpjIg4yCUUuHhbu"
+    },
+    {
+      "added_at": "2026-01-30 05:01:15",
+      "album": {
+        "name": "BELLAKITA",
+        "url": "https://open.spotify.com/album/4g627IzoFzz2T3hsUpTTKi"
+      },
+      "artists": [
+        {
+          "name": "El Yeyo PP",
+          "url": "https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2"
+        },
+        {
+          "name": "Jabdiel",
+          "url": "https://open.spotify.com/artist/5zSy4lhTorzbAyktTLT8Zm"
+        },
+        {
+          "name": "Aldair Productions",
+          "url": "https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN"
+        }
+      ],
+      "duration_ms": 184528,
+      "name": "BELLAKITA",
+      "url": "https://open.spotify.com/track/2oOCu6nh0Uj3EF4Gfk8sGv"
     },
     {
       "added_at": "2025-12-12 05:00:44",
@@ -961,30 +997,6 @@
       "url": "https://open.spotify.com/track/6vIAesoAJNm0g3mPN8EXpB"
     },
     {
-      "added_at": "2026-01-16 05:00:31",
-      "album": {
-        "name": "Puskas",
-        "url": "https://open.spotify.com/album/3yFaj8nrnSZ7nA0Gq71uNN"
-      },
-      "artists": [
-        {
-          "name": "Giorgi F",
-          "url": "https://open.spotify.com/artist/0MMPjQvlmrvjSWMcXQ7Rpt"
-        },
-        {
-          "name": "Pty Audio",
-          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
-        },
-        {
-          "name": "Hitz Records",
-          "url": "https://open.spotify.com/artist/2tzFf5NMseGZzV40aiVQp6"
-        }
-      ],
-      "duration_ms": 147142,
-      "name": "Puskas",
-      "url": "https://open.spotify.com/track/2VImGQWH4o8ST3eB0uOIiI"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Ya Ni Se",
@@ -1077,36 +1089,20 @@
       "url": "https://open.spotify.com/track/1nuf47FxdQrxekJJ8fVndJ"
     },
     {
-      "added_at": "2026-01-16 05:00:31",
+      "added_at": "2026-01-23 05:00:24",
       "album": {
-        "name": "La Cone",
-        "url": "https://open.spotify.com/album/54XN41knSk0HI57Qhe5T7w"
+        "name": "Diablita y Bonita",
+        "url": "https://open.spotify.com/album/6eQwBS5kgI42T1duGKJy51"
       },
       "artists": [
         {
-          "name": "Nerry Money",
-          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
-        },
-        {
-          "name": "MECAS ONE",
-          "url": "https://open.spotify.com/artist/3wkR2UFUXrlqCWKTZJJbec"
-        },
-        {
-          "name": "Bonuchi",
-          "url": "https://open.spotify.com/artist/6VSteFvUqNFlqTmN66YxdI"
-        },
-        {
-          "name": "PDF Toon",
-          "url": "https://open.spotify.com/artist/6lZJlsjetyft9owbeLpXt3"
-        },
-        {
-          "name": "YvngDeyniel",
-          "url": "https://open.spotify.com/artist/4Y4EWkYdDurulYeDNcgWP2"
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
         }
       ],
-      "duration_ms": 274456,
-      "name": "La Cone",
-      "url": "https://open.spotify.com/track/02Y7KvlrIfQDZdqU2OMOb8"
+      "duration_ms": 131752,
+      "name": "Diablita y Bonita",
+      "url": "https://open.spotify.com/track/2uG0H3KiP6HIUJIdFQq90b"
     }
   ],
   "unique_name": "Flow Panam\u00e1",

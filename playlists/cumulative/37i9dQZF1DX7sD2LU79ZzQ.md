@@ -4,11 +4,11 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Mario G\. klau
 
-1,354 songs - 3 day 14 hr 39 min
+1,355 songs - 3 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\( jangan \) terserah](https://open.spotify.com/track/0pajC5ZhNw4hMNeImsPjBO) | [DEABDIL](https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2) | [](https://open.spotify.com/album/null) | 4:23 | 2026-01-29 |  |
+| [\( jangan \) terserah](https://open.spotify.com/track/0pajC5ZhNw4hMNeImsPjBO) | [DEABDIL](https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2) | [KONTRADILSKI](https://open.spotify.com/album/0OiPmTKBdlFcrASBfPG4Yr) | 4:23 | 2026-01-29 |  |
 | [\(Jangan\) Jatuh Cinta](https://open.spotify.com/track/5TO5UPczP0SJhbaoBz7Bme) | [Dee Lestari](https://open.spotify.com/artist/1mCcTwpEABnSVB4D8rXfRN) | [\(Jangan\) Jatuh Cinta](https://open.spotify.com/album/1UU83ULQt8X3ZiUEvxaRKT) | 3:52 | 2025-12-18 |  |
 | [1 Cinta 2 Dunia \- From "Pacarku Jinny"](https://open.spotify.com/track/1iODZW7XUZwFAu0edk2jwg) | [StarBe](https://open.spotify.com/artist/40PicaEW20NiaEe9VZhvzo) | [1 Cinta 2 Dunia \- From "Pacarku Jinny"](https://open.spotify.com/album/4qU6koWCmPtsoKIeIt9iA7) | 3:35 | 2024-12-05 | 2025-02-07 |
 | [1 dari 1000](https://open.spotify.com/track/73sNYWU4Qe1WEiUyMMNz6q) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [1 dari 1000](https://open.spotify.com/album/0xe2k3gc4rs7MAwqhiIdHT) | 3:54 | 2024-07-25 | 2024-11-22 |
@@ -393,7 +393,7 @@
 | [Gelora Asmara](https://open.spotify.com/track/4zPZ7Uy5MLeIfeq4G46UIu) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM) | [Apakah Kita?](https://open.spotify.com/album/1TgyHkafKmeUG3vvJzrSof) | 3:09 | 2025-08-21 | 2025-11-28 |
 | [Gemercik Asmara](https://open.spotify.com/track/3wA8KBsBcCkAAF9ZDZLkKQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Gemercik Asmara](https://open.spotify.com/album/2ORVC4aitj1kM2XqkDXnH8) | 3:51 | 2024-08-29 | 2024-11-15 |
 | [Gemilang](https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Dalam Dinamika](https://open.spotify.com/album/1Mhq1R6xMuXuWUgbl6B6Iv) | 5:00 | 2025-08-21 | 2025-10-17 |
-| [Get It ft\. gamaliél](https://open.spotify.com/track/0RYMgLs7qVOWQNIFCq3K5e) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [gamaliél](https://open.spotify.com/artist/6S8UGUSbJxRdJHtWAlsTD0) | [GOOD NEWS\. I WASN'T AWARE.](https://open.spotify.com/album/2Nt9jcMjf8qtgTljT1Q9Kx) | 2:42 | 2026-01-15 |  |
+| [Get It](https://open.spotify.com/track/0RYMgLs7qVOWQNIFCq3K5e) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [gamaliél](https://open.spotify.com/artist/6S8UGUSbJxRdJHtWAlsTD0) | [GOOD NEWS\. I WASN'T AWARE.](https://open.spotify.com/album/2Nt9jcMjf8qtgTljT1Q9Kx) | 2:42 | 2026-01-15 |  |
 | [Get It Wrong](https://open.spotify.com/track/5uR0cwWtzvrlJrrDfg4ePY) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9) | [Get It Wrong](https://open.spotify.com/album/2K3fBzHN62qn1cIp5umUDy) | 3:32 | 2024-12-12 | 2025-03-07 |
 | [Get Over Him](https://open.spotify.com/track/4lIQwnb1WHfdLf1YJHR31G) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Get Over Him](https://open.spotify.com/album/5cTM5vH4eQP1gauYKJftsA) | 3:06 | 2024-05-30 | 2024-08-09 |
 | [Glow](https://open.spotify.com/track/6xWfKqMv4ebAIVGYbvo7o4) | [Wizzy](https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls) | [Glow](https://open.spotify.com/album/05rZ3AQMXe6OwkU53QoCPy) | 3:00 | 2025-08-07 | 2025-09-26 |
@@ -1355,6 +1355,7 @@
 | [YA LLA](https://open.spotify.com/track/6GdQzELu89ExZe6NBmDvBC) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9) | [YA LLA](https://open.spotify.com/album/544onbNRkDKJhnXZTB89VL) | 4:05 | 2024-05-30 | 2024-06-21 |
 | [Yang Baru](https://open.spotify.com/track/4c1wBkdJEgqfs10hYnghBY) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Yang Baru](https://open.spotify.com/album/35tySmLnfKYopvjYa2OoWM) | 3:14 | 2024-10-24 | 2025-01-10 |
 | [Yang Kutakuti](https://open.spotify.com/track/4vwzUbemA5HWtNj3ID3dC3) | [BAALE](https://open.spotify.com/artist/62CEo98IwJIKhJ9fQ4Emta) | [Yang Kutakuti](https://open.spotify.com/album/3vfr7AhB7K1auBLyqXTUo1) | 3:03 | 2025-08-07 | 2025-09-26 |
+| [Yang Tak Sama](https://open.spotify.com/track/2Bf5Ioyjz1DOx1bCrHG6As) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Yang Tak Sama](https://open.spotify.com/album/7H3GfaIUQP0N461ab0POFd) | 3:52 | 2026-01-30 |  |
 | [Yang Teman Teman Aja](https://open.spotify.com/track/4uB9O3773fk6ghaLOiquZe) | [TRIOUT](https://open.spotify.com/artist/4Kn4T1kHrFKRV1gbv51VGA) | [Yang Teman Teman Aja](https://open.spotify.com/album/0cCGdFW54mm8bzCEoUork3) | 3:07 | 2025-12-11 | 2026-01-23 |
 | [Yasudah](https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Yasudah](https://open.spotify.com/album/0NVWNTENg9PZM0J1RfToXX) | 4:56 | 2024-03-14 | 2024-06-21 |
 | [Yatim](https://open.spotify.com/track/4sqCvHIBWofULOhDr78XCX) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N), [Omnivora](https://open.spotify.com/artist/7ukcn8ST1mQ3ULIMRfoBlQ) | [Yatim](https://open.spotify.com/album/2HyzEOr9rcmeahvVFTfjPv) | 5:06 | 2025-02-27 | 2025-03-28 |

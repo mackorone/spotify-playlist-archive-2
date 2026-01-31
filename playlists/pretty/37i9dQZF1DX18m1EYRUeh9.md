@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Flea
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,489 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,551 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 99 | [\(re\)Turn](https://open.spotify.com/track/1KRQUeWejtAvB4oZIeBMtI) | [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF) | [Evening](https://open.spotify.com/album/3VosNIq1BsvkR9OzDlDoZ3) | 3:22 |
 | 100 | [Save You](https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Save You](https://open.spotify.com/album/60jlGTsXqFf0B90Idslk0a) | 2:12 |
 
-Snapshot ID: `AAAAAH98xWSjem8JlfI884IEkG2ovuWO`
+Snapshot ID: `AAAAAAqNfUydUrhY3Y9HYozQpDrbGg6T`

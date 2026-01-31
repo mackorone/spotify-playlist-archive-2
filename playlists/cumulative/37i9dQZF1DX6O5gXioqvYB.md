@@ -4,7 +4,7 @@
 
 > Santamarea in cover + tutto il meglio delle novità indie 🌊
 
-1,387 songs - 2 day 23 hr 41 min
+1,387 songs - 2 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,7 +538,7 @@
 | [i miei fiumi](https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [i miei fiumi](https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6) | 3:04 | 2024-09-19 | 2025-02-21 |
 | [I mostri sotto al letto](https://open.spotify.com/track/7zql0DcBVZh95ozfvEd1PP) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SCUSA X IL DISORDINE](https://open.spotify.com/album/2N7C1CNutpky17Mc2isnlX) | 2:32 | 2024-06-27 | 2024-10-21 |
 | [I primi della lista](https://open.spotify.com/track/3NfsPSDmtzDi1pwTrI0PMC) | [De.Stradis](https://open.spotify.com/artist/0XbW25VMw8W24kLCkvVKfL) | [I primi della lista](https://open.spotify.com/album/3QHmPNsqj6on4bMpiFEwAH) | 3:06 | 2025-12-11 | 2026-01-16 |
-| [I RAGAZZI BALLANO ANCORA I CURE](https://open.spotify.com/track/7kwHYZSzPzG0m3mdnumvye) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [](https://open.spotify.com/album/null) | 3:50 | 2026-01-29 |  |
+| [I RAGAZZI BALLANO ANCORA I CURE](https://open.spotify.com/track/7kwHYZSzPzG0m3mdnumvye) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [EX](https://open.spotify.com/album/1gYLYLWky4NM9Gfx3sNWQT) | 3:50 | 2026-01-29 |  |
 | [II](https://open.spotify.com/track/1oPAMJVzCcvQUMpaEFcNgb) | [RIVA](https://open.spotify.com/artist/2XDxxRIdkv0BotNB3Pd9uS), [Giungla](https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r) | [II](https://open.spotify.com/album/5zaqbv67zP4htJI7WhsBUf) | 2:01 | 2025-11-06 | 2025-11-28 |
 | [ikea \(500 giorni\)](https://open.spotify.com/track/2rWjN8ZZ0EZ1pD3VpiNnUo) | [Tribo](https://open.spotify.com/artist/0I5wDcdDRRJpggrF6OcuTU) | [non è mai semplice quando](https://open.spotify.com/album/28Mp62QlKUr3eveweuZxEW) | 3:06 | 2025-12-11 | 2026-01-23 |
 | [Il Campo](https://open.spotify.com/track/15YKyf3Ps6c8NeVOGe8KXv) | [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [Il Campo](https://open.spotify.com/album/5qgJ6Q4gCCTno6LRIiJggK) | 2:46 | 2025-09-18 | 2025-10-17 |
@@ -1171,6 +1171,7 @@
 | [Solo per guardarti](https://open.spotify.com/track/7KjSp39rTMRU7FaasDEzpa) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [Solo per guardarti](https://open.spotify.com/album/6ocvw6K862kzRuEd2PDgAK) | 1:56 | 2024-07-25 | 2024-09-30 |
 | [Solo Sconosciuti Soli](https://open.spotify.com/track/3DrO8V3oth1fa4CKk3BwgU) | [taha](https://open.spotify.com/artist/2U67nezNg7TK1oV4YWiMw5) | [Solo Sconosciuti Soli](https://open.spotify.com/album/6QMWEg9EId0ngp3m9Nbm7n) | 3:18 | 2025-03-13 | 2025-05-30 |
 | [SOMBRAS](https://open.spotify.com/track/6DALNGK0SneZHSbp9Wj3r5) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [SOMBRAS](https://open.spotify.com/album/7lXHaDj9dBxaFFSyRZIIth) | 2:07 | 2025-04-17 | 2025-06-06 |
+| [Some Days](https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh), [Fenne Kuppens](https://open.spotify.com/artist/60iEGApcgcq0nTdHVFptU3) | [Dream Life](https://open.spotify.com/album/39X15SMr1uG8aCugIqiHpM) | 4:17 | 2026-01-29 |  |
 | [Sospesi](https://open.spotify.com/track/1nqxDH2CZ6YqUAM5bQlSnI) | [Marquis](https://open.spotify.com/artist/0AmmLcyC2uE7cKWKj8KfEy) | [Sospesi](https://open.spotify.com/album/5ACWSsRbclv9HU6GVZX15o) | 2:53 | 2025-10-30 | 2025-11-21 |
 | [Sott'acqua](https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx) | [FRENÈSYA](https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW), [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [Sott'acqua](https://open.spotify.com/album/6yqqyHFUmgjTcHGf7EvxsF) | 3:11 | 2024-10-03 | 2025-02-21 |
 | [Sotto](https://open.spotify.com/track/3EE6RWL2kGPSqc4LggjfDD) | [RÍA](https://open.spotify.com/artist/0Ykm1JyJN3GYjCidyxtgiE) | [Sotto](https://open.spotify.com/album/3RUMwK1D8bUQyzFOmoq5f7) | 2:32 | 2024-10-10 | 2024-12-12 |
@@ -1252,7 +1253,6 @@
 | [TOXIC \(feat\. Luca Re\)](https://open.spotify.com/track/7gWzVDXpnnKbolQ456cx1p) | [TOMMY](https://open.spotify.com/artist/0aplXOFIjw16oLxCRuAvaW), [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A), [Kabvki](https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw), [Sam Beats Baby](https://open.spotify.com/artist/1fphGmGC35v82kdBFDbmNf), [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [TOXIC \(feat\. Luca Re\)](https://open.spotify.com/album/0RfDy5qsyMm5EA4aejBpT6) | 2:53 | 2025-12-11 | 2026-01-23 |
 | [Tra il cielo e le strade](https://open.spotify.com/track/09K7Ac7StT4knd88GVzQoM) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Tra il cielo e le strade](https://open.spotify.com/album/1bDTbS6anSQaUC6SxCuEUX) | 3:43 | 2025-03-07 | 2025-05-09 |
 | [Tra le tue braccia \(feat\. Cosmo\)](https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Speriamo](https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3) | 3:30 | 2025-11-06 | 2025-12-05 |
-| [Track 9](https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-29 |  |
 | [traffico](https://open.spotify.com/track/0AW1XiRq7CN6KZtwM51v9q) | [Nostalgia/Futuro](https://open.spotify.com/artist/2EZCeDSNYLij8SVtTsji3n) | [traffico](https://open.spotify.com/album/4DhmacndeoSITFKELZ5JG8) | 3:21 | 2026-01-15 |  |
 | [Tralicci :\|: ELETTRICITÀ](https://open.spotify.com/track/0OK7GFhrMmMVzHppXk3DSv) | [Foramacchia](https://open.spotify.com/artist/6ST078zQG2Ddyc8K6YExIr), [Fiabba](https://open.spotify.com/artist/6eHnWGv1hiGzEEgdUvP2WT) | [Tralicci :\|: ELETTRICITÀ](https://open.spotify.com/album/0GxhWR52oyRYwp9SgBcjhk) | 2:44 | 2025-10-30 | 2025-11-14 |
 | [tranquillo](https://open.spotify.com/track/39H2HXOZKUXaEe8HWpnn91) | [Pietro Motta](https://open.spotify.com/artist/4lA1XzmKtms1zw2iSnurDR) | [tranquillo](https://open.spotify.com/album/7KuilzwYnBWVUjkBiIyL5g) | 3:08 | 2025-10-16 | 2025-11-14 |

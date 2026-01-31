@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 207157,
       "name": "Abanikanda",
       "url": "https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J"
@@ -685,6 +685,24 @@
     },
     {
       "album": {
+        "name": "Dis Year",
+        "url": "https://open.spotify.com/album/1mFajKbOGTphsgYXWqI6xk"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155106,
+      "name": "Dis Year",
+      "url": "https://open.spotify.com/track/2GISypJDFw5aGA3t2ydTmG"
+    },
+    {
+      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
       },
@@ -1128,6 +1146,28 @@
       "duration_ms": 145080,
       "name": "Imperfect",
       "url": "https://open.spotify.com/track/7J1qawxA1ewz7syweC0FqK"
+    },
+    {
+      "album": {
+        "name": "SISU",
+        "url": "https://open.spotify.com/album/7m080doGEza8nSfpQVihr2"
+      },
+      "artists": [
+        {
+          "name": "SuperWozzy",
+          "url": "https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS"
+        },
+        {
+          "name": "Bahd Man Niko",
+          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171111,
+      "name": "Info",
+      "url": "https://open.spotify.com/track/716WIhl6r5SBE1BMyAhfVd"
     },
     {
       "album": {
@@ -2106,7 +2146,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 133773,
       "name": "Try",
       "url": "https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4"

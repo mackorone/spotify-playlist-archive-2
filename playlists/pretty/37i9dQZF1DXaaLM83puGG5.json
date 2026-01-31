@@ -6,132 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPqaUWdYd4PYv59YF21MTWEsTNXh",
+  "snapshot_id": "AAAAACDCNkQwV/nDxGw1udG1A2iXOhzB",
   "tracks": [
-    {
-      "added_at": "2026-01-29 23:30:13",
-      "album": {
-        "name": "Elektra Riddim",
-        "url": "https://open.spotify.com/album/7EEds4cBXxf4JtU2Bk4p0b"
-      },
-      "artists": [
-        {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
-        },
-        {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Gimme Waist",
-      "url": "https://open.spotify.com/track/6ZXv1zlxLdhvMZHwlPItTa"
-    },
-    {
-      "added_at": "2026-01-29 23:30:13",
-      "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/7DCEibGII8WZdWHeNAeq96"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
-        },
-        {
-          "name": "DJ Private Ryan",
-          "url": "https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp"
-        },
-        {
-          "name": "BadJohn Republic",
-          "url": "https://open.spotify.com/artist/5HwHsHKWrkTe16brKt7qt2"
-        }
-      ],
-      "duration_ms": 175448,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/4jpq6Ue1eIYgHZvycxzkfv"
-    },
-    {
-      "added_at": "2026-01-29 23:30:13",
-      "album": {
-        "name": "Alien Head Riddim",
-        "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
-      },
-      "artists": [
-        {
-          "name": "V'ghn",
-          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
-        },
-        {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Explore",
-      "url": "https://open.spotify.com/track/177934bysEv1ssIn65AAJy"
-    },
-    {
-      "added_at": "2026-01-29 23:30:13",
-      "album": {
-        "name": "Elektra Riddim",
-        "url": "https://open.spotify.com/album/7EEds4cBXxf4JtU2Bk4p0b"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Dey-O",
-      "url": "https://open.spotify.com/track/5ukhptYIaaG7DmQ92ltLWK"
-    },
-    {
-      "added_at": "2026-01-29 23:30:13",
-      "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/3pEALunB4gXhOUfAuP0Z5g"
-      },
-      "artists": [
-        {
-          "name": "Certified Sampson",
-          "url": "https://open.spotify.com/artist/7Er5Bbp9JMbSzapxQ77Ygm"
-        },
-        {
-          "name": "Sekon Sta",
-          "url": "https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk"
-        }
-      ],
-      "duration_ms": 204223,
-      "name": "EUPHORIA",
-      "url": "https://open.spotify.com/track/6PvhVJuL4TN3NJN0RWa4WA"
-    },
-    {
-      "added_at": "2026-01-29 23:30:13",
-      "album": {
-        "name": "Late Night Riddim",
-        "url": "https://open.spotify.com/album/3fmzBKAaxAj72vE4x6muaY"
-      },
-      "artists": [
-        {
-          "name": "Kris Kennedy",
-          "url": "https://open.spotify.com/artist/7FjdkXOimMYh302vit5Bbv"
-        }
-      ],
-      "duration_ms": 166336,
-      "name": "Sweetest Wine",
-      "url": "https://open.spotify.com/track/2Zs3MrHaziiKQeaMhPJ4qO"
-    },
     {
       "added_at": "2026-01-29 23:30:13",
       "album": {
@@ -967,6 +843,130 @@
       "duration_ms": 164409,
       "name": "Rock It",
       "url": "https://open.spotify.com/track/2VZlQCR2NlWD7NWEUjIQMA"
+    },
+    {
+      "added_at": "2026-01-29 23:30:13",
+      "album": {
+        "name": "Elektra Riddim",
+        "url": "https://open.spotify.com/album/7EEds4cBXxf4JtU2Bk4p0b"
+      },
+      "artists": [
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Gimme Waist",
+      "url": "https://open.spotify.com/track/6ZXv1zlxLdhvMZHwlPItTa"
+    },
+    {
+      "added_at": "2026-01-29 23:30:13",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/7DCEibGII8WZdWHeNAeq96"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        },
+        {
+          "name": "DJ Private Ryan",
+          "url": "https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp"
+        },
+        {
+          "name": "BadJohn Republic",
+          "url": "https://open.spotify.com/artist/5HwHsHKWrkTe16brKt7qt2"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/4jpq6Ue1eIYgHZvycxzkfv"
+    },
+    {
+      "added_at": "2026-01-29 23:30:13",
+      "album": {
+        "name": "Alien Head Riddim",
+        "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
+      },
+      "artists": [
+        {
+          "name": "V'ghn",
+          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Explore",
+      "url": "https://open.spotify.com/track/177934bysEv1ssIn65AAJy"
+    },
+    {
+      "added_at": "2026-01-29 23:30:13",
+      "album": {
+        "name": "Elektra Riddim",
+        "url": "https://open.spotify.com/album/7EEds4cBXxf4JtU2Bk4p0b"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Dey-O",
+      "url": "https://open.spotify.com/track/5ukhptYIaaG7DmQ92ltLWK"
+    },
+    {
+      "added_at": "2026-01-29 23:30:13",
+      "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/3pEALunB4gXhOUfAuP0Z5g"
+      },
+      "artists": [
+        {
+          "name": "Certified Sampson",
+          "url": "https://open.spotify.com/artist/7Er5Bbp9JMbSzapxQ77Ygm"
+        },
+        {
+          "name": "Sekon Sta",
+          "url": "https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk"
+        }
+      ],
+      "duration_ms": 204223,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/6PvhVJuL4TN3NJN0RWa4WA"
+    },
+    {
+      "added_at": "2026-01-29 23:30:13",
+      "album": {
+        "name": "Late Night Riddim",
+        "url": "https://open.spotify.com/album/3fmzBKAaxAj72vE4x6muaY"
+      },
+      "artists": [
+        {
+          "name": "Kris Kennedy",
+          "url": "https://open.spotify.com/artist/7FjdkXOimMYh302vit5Bbv"
+        }
+      ],
+      "duration_ms": 166336,
+      "name": "Sweetest Wine",
+      "url": "https://open.spotify.com/track/2Zs3MrHaziiKQeaMhPJ4qO"
     }
   ],
   "unique_name": "House Party",

@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Altercations",
+        "url": "https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA"
+      },
+      "artists": [
+        {
+          "name": "Dead Gaze NL",
+          "url": "https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310613,
+      "name": "Altercations",
+      "url": "https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR"
+    },
+    {
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/4AWPgQX7dxGookMdQ7bGDC"
       },
@@ -7374,6 +7392,24 @@
       "duration_ms": 209360,
       "name": "Still Rollin",
       "url": "https://open.spotify.com/track/2Z6tpkhkyyzfUORkuvcc0q"
+    },
+    {
+      "album": {
+        "name": "Stoneward Bound",
+        "url": "https://open.spotify.com/album/0P78NFFiWeIKkKpAqVzEwl"
+      },
+      "artists": [
+        {
+          "name": "Dead Gaze NL",
+          "url": "https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184479,
+      "name": "Stoneward Bound",
+      "url": "https://open.spotify.com/track/0pqdMbZ1Mp1pcMeSLfq422"
     },
     {
       "album": {

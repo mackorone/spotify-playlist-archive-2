@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1187,
+  "num_followers": 1193,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAKjHXbjYSt0o8PxoEyLCmYx5ugDXoH",
+  "snapshot_id": "AAAKlHNKpasM7zLYNkLuaRUXYdzQbKFQ",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -39,6 +39,38 @@
       "duration_ms": 333031,
       "name": "Echo Chambers",
       "url": "https://open.spotify.com/track/0QPdGdupsEmBguX9QSOQYA"
+    },
+    {
+      "added_at": "2026-01-31 02:13:42",
+      "album": {
+        "name": "Blaze",
+        "url": "https://open.spotify.com/album/5gFX83LBIgN7JAxsimPbX8"
+      },
+      "artists": [
+        {
+          "name": "Hook & Lace",
+          "url": "https://open.spotify.com/artist/7paQNTCMf2I8SHBvLG4cwN"
+        }
+      ],
+      "duration_ms": 189117,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/58AdlO3Hoqc8HLm7JpePNN"
+    },
+    {
+      "added_at": "2026-01-30 07:04:03",
+      "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/21vKeyIaOKGHc1G98mjAX7"
+      },
+      "artists": [
+        {
+          "name": "I'd Rather Be",
+          "url": "https://open.spotify.com/artist/4EETQElkLfuxxTydmWxpLS"
+        }
+      ],
+      "duration_ms": 134005,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/2EpfWYkOZPkXCqFvJXYlw5"
     },
     {
       "added_at": "2026-01-29 22:21:51",
@@ -1307,38 +1339,6 @@
       "duration_ms": 213658,
       "name": "First Day Of School",
       "url": "https://open.spotify.com/track/6BNC6rSgDvGlyzsIPJmTER"
-    },
-    {
-      "added_at": "2025-12-30 15:49:38",
-      "album": {
-        "name": "All The Hope Is Gone",
-        "url": "https://open.spotify.com/album/6tyHJp6jbYwl5hjjI81y41"
-      },
-      "artists": [
-        {
-          "name": "NTX",
-          "url": "https://open.spotify.com/artist/3OgpNmeaSfIDGGYHovo4ZK"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "I Worship Myself",
-      "url": "https://open.spotify.com/track/6UugtnUgPn4K8poZzzjlFK"
-    },
-    {
-      "added_at": "2025-12-30 08:34:32",
-      "album": {
-        "name": "Spare Window",
-        "url": "https://open.spotify.com/album/7h2BoblH6So1zolwHtYFdN"
-      },
-      "artists": [
-        {
-          "name": "Credible Witness",
-          "url": "https://open.spotify.com/artist/4KE3myC1CYkK7mMX1XmOk7"
-        }
-      ],
-      "duration_ms": 187988,
-      "name": "Spare Window",
-      "url": "https://open.spotify.com/track/3LhGupBPjqbMc9BozMjKRg"
     },
     {
       "added_at": "2025-11-20 11:02:56",
@@ -5079,6 +5079,70 @@
       "duration_ms": 195956,
       "name": "Chemical Bombs",
       "url": "https://open.spotify.com/track/0PRBSms3c5zlSMSLOsdsnH"
+    },
+    {
+      "added_at": "2026-01-30 08:47:33",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2OOHex3XINAsQiaepiNDfo"
+      },
+      "artists": [
+        {
+          "name": "Black Reuss",
+          "url": "https://open.spotify.com/artist/1XOqNj1Cvo0DtJUv7TGa6R"
+        }
+      ],
+      "duration_ms": 335853,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/0PM5XynIMuGuKK7quAutGc"
+    },
+    {
+      "added_at": "2026-01-30 08:47:20",
+      "album": {
+        "name": "Again and Again",
+        "url": "https://open.spotify.com/album/1Ln8FNF3Sl5vkw4Gnp3I3c"
+      },
+      "artists": [
+        {
+          "name": "Rich Packman",
+          "url": "https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7"
+        }
+      ],
+      "duration_ms": 262045,
+      "name": "Again and Again",
+      "url": "https://open.spotify.com/track/1LAM7VfMQ3uXe81PJAC6R6"
+    },
+    {
+      "added_at": "2026-01-30 08:49:32",
+      "album": {
+        "name": "Chemical Bombs",
+        "url": "https://open.spotify.com/album/1mzDbMz0QgeEQOBHletG4q"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8SHFIT",
+          "url": "https://open.spotify.com/artist/59kUvmrTGqXguuuv6s5yRW"
+        }
+      ],
+      "duration_ms": 195956,
+      "name": "Chemical Bombs",
+      "url": "https://open.spotify.com/track/0PRBSms3c5zlSMSLOsdsnH"
+    },
+    {
+      "added_at": "2026-01-30 08:50:17",
+      "album": {
+        "name": "Solitude Chronicles",
+        "url": "https://open.spotify.com/album/7laMbZEKxrcET06kkoJH1S"
+      },
+      "artists": [
+        {
+          "name": "Niamh",
+          "url": "https://open.spotify.com/artist/2Nqqjj4NSnqutYDbTFwaAx"
+        }
+      ],
+      "duration_ms": 213280,
+      "name": "Solitude Chronicles",
+      "url": "https://open.spotify.com/track/6F6dFcMcklOmJgGGu7w8Up"
     }
   ],
   "unique_name": "Shuffle Roulette",

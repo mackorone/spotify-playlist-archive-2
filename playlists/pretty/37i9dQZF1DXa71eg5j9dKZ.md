@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Dusky
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,723 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,726 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 5 | [Better Let It Go](https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Curses Broken](https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY) | 4:37 |
 | 6 | [Slight Werk \- Club Mix](https://open.spotify.com/track/3AenQimpj4gFY3e0CnsbD1) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Slight Werk \(Club Mix\)](https://open.spotify.com/album/3USLXh5K8mET0msxPqYXpP) | 2:58 |
 | 7 | [Contact](https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Contact](https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS) | 3:07 |
-| 8 | [Manticore](https://open.spotify.com/track/3QrcVUaPX6v9eIsz2SyVWV) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [](https://open.spotify.com/album/null) | 3:21 |
+| 8 | [Manticore](https://open.spotify.com/track/3QrcVUaPX6v9eIsz2SyVWV) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Tales from the Power Hour EP](https://open.spotify.com/album/2OdmBZ7ijpR59J7OI7oJa6) | 3:21 |
 | 9 | [Ouuu](https://open.spotify.com/track/1SmNvAcTXvn6ddh6wvDnvY) | [Ghoulish](https://open.spotify.com/artist/4m1NhStbUaIZkgfbnnIQeK), [C3 Boogie](https://open.spotify.com/artist/0UIkrFK5ssF3C6RtFOSVNV) | [Ouuu](https://open.spotify.com/album/1OdV7ZvnAA1NPIAb24z7Pn) | 3:35 |
 | 10 | [Fall In Sync](https://open.spotify.com/track/530gLdS9YQVP7LcRnMFQR8) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [shy tea](https://open.spotify.com/artist/0hxiA4ubuoSCS0jLrwnlVP) | [Fall In Sync](https://open.spotify.com/album/5DJ3OJwGzanGw7fFifWZj9) | 3:54 |
 | 11 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 |

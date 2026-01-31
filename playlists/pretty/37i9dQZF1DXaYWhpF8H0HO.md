@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Kris Dayanti
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,714 likes - 109 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,728 likes - 109 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 8 | [Be Okay](https://open.spotify.com/track/2fpTQ96rmDiG1OF7thuQOn) | [Manerole](https://open.spotify.com/artist/3xlUrDBWcUTE1Su96f9L3s), [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [Be Okay](https://open.spotify.com/album/057yKn8ofGrnK3057HMXNn) | 4:19 |
 | 9 | [Cliché](https://open.spotify.com/track/3Ou8x84gXbsKR6zQs5Y5we) | [vievv](https://open.spotify.com/artist/3W3rTSU10U0mAlzJwFEXkn), [Akira Andana](https://open.spotify.com/artist/3DMXuvIwzYDSgzuGAXcriF) | [Cliché](https://open.spotify.com/album/76ZsaotUcUGLaEUYjdiRas) | 3:15 |
 | 10 | [A Little Less](https://open.spotify.com/track/5wm3593QMwEU7Ga9XPqIc9) | [Christabelle Marbun](https://open.spotify.com/artist/6A4Sbpi0Ow0FqXLqsVD3RB) | [A Little Less](https://open.spotify.com/album/7lfeZvHZKJsmsnJEpiyNxi) | 3:05 |
-| 11 | [Get It ft\. gamaliél](https://open.spotify.com/track/0RYMgLs7qVOWQNIFCq3K5e) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [gamaliél](https://open.spotify.com/artist/6S8UGUSbJxRdJHtWAlsTD0) | [GOOD NEWS\. I WASN'T AWARE.](https://open.spotify.com/album/2Nt9jcMjf8qtgTljT1Q9Kx) | 2:42 |
+| 11 | [Get It](https://open.spotify.com/track/0RYMgLs7qVOWQNIFCq3K5e) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [gamaliél](https://open.spotify.com/artist/6S8UGUSbJxRdJHtWAlsTD0) | [GOOD NEWS\. I WASN'T AWARE.](https://open.spotify.com/album/2Nt9jcMjf8qtgTljT1Q9Kx) | 2:42 |
 | 12 | [I Don't Know Anymore \(Live Session\)](https://open.spotify.com/track/2sxP2jSVMq59dDj5nVpoTn) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [I Don't Know Anymore \(Live Session\)](https://open.spotify.com/album/7LC8lDS175rIUcWD83IAzo) | 4:23 |
 | 13 | [THE WATCHMEN](https://open.spotify.com/track/2EZe2ScR7UHZ0SgAH1JkiX) | [Kay Sebastene](https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP), [PB GLAS](https://open.spotify.com/artist/3jgxJaKJW7CFghZna5DUHG) | [THE WATCHMEN](https://open.spotify.com/album/0n0Y0Cjc261lUEGj01Imki) | 3:22 |
 | 14 | [a little too sad if you think about it.](https://open.spotify.com/track/3N5ocxGt2itRnxLSZlY57Y) | [VEEY](https://open.spotify.com/artist/6w1o0CIuCMBffOLcaY8Wtw) | [a little too sad if you think about it.](https://open.spotify.com/album/60fCizXXL4UiUXPksbwyfk) | 4:48 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 108 | [Give In](https://open.spotify.com/track/5kkxvrdYIrBB8iYZLehfnE) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF) | [arise\*](https://open.spotify.com/album/4SOKYLLdHhxG7BlluQpgkz) | 4:33 |
 | 109 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 |
 
-Snapshot ID: `AAAAAB/UhuwIoVzk+AdEBP1Tf/dtAlrd`
+Snapshot ID: `AAAAAN7eqq3CK8xxztvyuYiDPo8l5WbK`

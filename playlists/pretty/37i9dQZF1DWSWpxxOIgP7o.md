@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 
 > Home is where the Hustle is\. Listen to the music from Mo, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,482 likes - 98 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,483 likes - 98 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 | 60 | [My Person](https://open.spotify.com/track/0e2xssjHY1uBbkDHDFxHZp) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [My Person](https://open.spotify.com/album/0YgTXxeHnrkpszlSMEMnYJ) | 3:09 |
 | 61 | [Sunday Dreaming](https://open.spotify.com/track/3TclLf5lQhBdvtZ0VMENRr) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Shirelles \(Bonus Track Version\)](https://open.spotify.com/album/2Afzpg3NmxEWq1nNtoUWEG) | 3:16 |
 | 62 | [زفة العرسان](https://open.spotify.com/track/68e3yP8jRE4OVSJt5BWNs5) | [Zuhair Francis](https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp), [Wissam Habib](https://open.spotify.com/artist/125cWTvLaDz90ZdWaPmJbb) | [زفة العرسان](https://open.spotify.com/album/6Eb5pZS6cVDkLqAJ2wtMDL) | 2:56 |
-| 63 | [My Mind Went Blank \(Screwed\)](https://open.spotify.com/track/7zfLS7MJmy8zmj1OL7s6bk) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [Point Blank](https://open.spotify.com/artist/5Nz0G9zAjZVmIgqtGfHham) | [All Screwed Up, Vol\. II \(Screwed\)](https://open.spotify.com/album/05qVKtCTd3o2NTcD34aZge) | 6:37 |
+| 63 | [My Mind Went Blank \(Screwed\)](https://open.spotify.com/track/7zfLS7MJmy8zmj1OL7s6bk) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [Point Blank](https://open.spotify.com/artist/5Nz0G9zAjZVmIgqtGfHham) | [All Screwed Up, Vol\. 2 \(Screwed\)](https://open.spotify.com/album/05qVKtCTd3o2NTcD34aZge) | 6:37 |
 | 64 | [Bayara](https://open.spotify.com/track/5bI8P0j9xlMKTIRS0qxpCJ) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH) | [Hassan Sabi](https://open.spotify.com/album/2SI7hmidxWnQkCk2hAbnqp) | 2:04 |
 | 65 | [Masâr](https://open.spotify.com/track/5FU96SFEwMyiKnLsPhoNuh) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 4:56 |
 | 66 | [Fight On](https://open.spotify.com/track/0PDx7nmFGS1x7P3wjc0TTL) | [Slick Naim](https://open.spotify.com/artist/1aGn0mfsx7lmhS2HaI7VDJ) | [Fight On](https://open.spotify.com/album/2NJS4GLXb6Dj4uD7sAN638) | 2:54 |

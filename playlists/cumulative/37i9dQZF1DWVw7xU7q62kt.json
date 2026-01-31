@@ -287,6 +287,28 @@
     },
     {
       "album": {
+        "name": "ADHD Jazz",
+        "url": "https://open.spotify.com/album/6fFw8aIwA1X171KQN8eET1"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "J Fletch",
+          "url": "https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95621,
+      "name": "ADHD Jazz",
+      "url": "https://open.spotify.com/track/5gQrmtrxLVo01wzlS2Ep1J"
+    },
+    {
+      "album": {
         "name": "Afterdawn",
         "url": "https://open.spotify.com/album/3RcVSU8SZMO57YXbAstpFU"
       },
@@ -4068,7 +4090,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 118000,
       "name": "Final Cut",
       "url": "https://open.spotify.com/track/6GR7dWU8WAa4wzrN8gcWma"
@@ -4322,6 +4344,28 @@
       "duration_ms": 117073,
       "name": "Flow",
       "url": "https://open.spotify.com/track/7HYigZ9S5vi4Hgfw17BpIJ"
+    },
+    {
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/4WzXIPVSOlEEw03zwb5TE1"
+      },
+      "artists": [
+        {
+          "name": "Stapes",
+          "url": "https://open.spotify.com/artist/4ON4zcOAOAY55jGZUEb1Wb"
+        },
+        {
+          "name": "Claptu",
+          "url": "https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130143,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1lBOblusfxBEf6Vna1MGAU"
     },
     {
       "album": {
@@ -4948,7 +4992,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 96000,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/6ILPmEtmJuUobfdmDo2nuP"
@@ -6727,6 +6771,28 @@
     },
     {
       "album": {
+        "name": "Last Drink",
+        "url": "https://open.spotify.com/album/04QykI81gCyOqsP3CiO4br"
+      },
+      "artists": [
+        {
+          "name": "Jost Esser",
+          "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
+        },
+        {
+          "name": "Snarez",
+          "url": "https://open.spotify.com/artist/4uanf25oiBwA6f0AK62uh5"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143448,
+      "name": "Last Drink",
+      "url": "https://open.spotify.com/track/3Acjmd10sdnpJgkU27j3Sk"
+    },
+    {
+      "album": {
         "name": "Last Ray",
         "url": "https://open.spotify.com/album/6ltMOMfmOMZDBDUJ4enEdc"
       },
@@ -6848,7 +6914,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 114007,
       "name": "Lean on Love",
       "url": "https://open.spotify.com/track/5Zqj8oGVjDY6WQXGHHEoxi"
@@ -7508,7 +7574,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 119638,
       "name": "loveseasons",
       "url": "https://open.spotify.com/track/47VYljDi6KJM3PPKTo7yQr"
@@ -7742,7 +7808,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 120141,
       "name": "Manhattan Beach",
       "url": "https://open.spotify.com/track/3B0EyvV60dgCaWY8djTQMX"
@@ -7898,7 +7964,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 89302,
       "name": "metropolis",
       "url": "https://open.spotify.com/track/6Xi2KmRSVB9uOh94aSw57x"
@@ -9254,7 +9320,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 184416,
       "name": "Nothing On My Mind",
       "url": "https://open.spotify.com/track/5gvXI79Xj0nWOB4TCYxRGA"
@@ -9538,7 +9604,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 96036,
       "name": "Once Upon A Time",
       "url": "https://open.spotify.com/track/3J4jhaLKpylWAsLHwzNAAs"
@@ -11952,7 +12018,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 99781,
       "name": "Something Always Happens",
       "url": "https://open.spotify.com/track/6C8AmxGeWJ8WZIic957nBW"
@@ -13444,7 +13510,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 103333,
       "name": "Talk to me.",
       "url": "https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9"
@@ -14234,7 +14300,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 105600,
       "name": "Timeless Love",
       "url": "https://open.spotify.com/track/6HiuLGbL1SpX6ntPloBMr2"

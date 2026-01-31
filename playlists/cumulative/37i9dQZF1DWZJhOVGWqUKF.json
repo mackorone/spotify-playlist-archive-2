@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Poppy",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Papa Roach",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -988,7 +988,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 202073,
       "name": "Annihilate Me",
       "url": "https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy"
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 245767,
       "name": "bad luck",
       "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
@@ -3396,7 +3396,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 280776,
       "name": "DARK THINGS",
       "url": "https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5"
@@ -3606,7 +3606,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 171997,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/3AzcGEsBcn5kpPsY0lIEaL"
@@ -4188,7 +4188,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 207692,
       "name": "Dream",
       "url": "https://open.spotify.com/track/1Roy4KbdJZOTcsI1PLCxn5"
@@ -4709,6 +4709,24 @@
     },
     {
       "album": {
+        "name": "Fake Flowers",
+        "url": "https://open.spotify.com/album/5EiJjLPvJMXHJQBElbkKQ9"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242212,
+      "name": "Fake Flowers",
+      "url": "https://open.spotify.com/track/03RKM7pHHjmHbuSgmJzMzT"
+    },
+    {
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/6jNaKHEccIUHK0zYde2gyn"
       },
@@ -5076,6 +5094,24 @@
       "duration_ms": 210960,
       "name": "FRONTROW",
       "url": "https://open.spotify.com/track/4LnuYEIU1fGiDmkWlhmI1q"
+    },
+    {
+      "album": {
+        "name": "Frozen Lake",
+        "url": "https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "Frozen Lake",
+      "url": "https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ"
     },
     {
       "album": {
@@ -5922,6 +5958,24 @@
       "duration_ms": 175693,
       "name": "Hate This Song",
       "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
+    },
+    {
+      "album": {
+        "name": "Have You Nothing Left To Say",
+        "url": "https://open.spotify.com/album/2hJ9v5Kq2sfOWLBqQdi5PR"
+      },
+      "artists": [
+        {
+          "name": "Fai Laci",
+          "url": "https://open.spotify.com/artist/6ilTnouFQzuDsvGY1jamfF"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Have You Nothing Left To Say",
+      "url": "https://open.spotify.com/track/4731ECfaiQdRvPtE7ioKRN"
     },
     {
       "album": {
@@ -7090,6 +7144,24 @@
       "duration_ms": 154424,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/1xjEEvXd54aZK8uT8Jus3I"
+    },
+    {
+      "album": {
+        "name": "Is This The Real You",
+        "url": "https://open.spotify.com/album/2Q1bLXsasqdgn864pu4B1l"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226728,
+      "name": "Is This The Real You",
+      "url": "https://open.spotify.com/track/2F8KQC2xIsA9tdP7UJIH9h"
     },
     {
       "album": {
@@ -8964,7 +9036,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 186843,
       "name": "Nervous Wreck",
       "url": "https://open.spotify.com/track/0es8dQ6I7klbKRnwc7fkEd"
@@ -9144,7 +9216,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 181098,
       "name": "No Control",
       "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
@@ -9166,6 +9238,24 @@
       "duration_ms": 183529,
       "name": "NO HOSTAGES",
       "url": "https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F"
+    },
+    {
+      "album": {
+        "name": "NO LIES.",
+        "url": "https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh"
+      },
+      "artists": [
+        {
+          "name": "paradise fell.",
+          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206811,
+      "name": "NO LIES.",
+      "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
     },
     {
       "album": {
@@ -11106,7 +11196,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 352839,
       "name": "Scales Are Falling",
       "url": "https://open.spotify.com/track/2Wb33vEP4HJiPpI5J7s4Ha"
@@ -11572,6 +11662,24 @@
       "duration_ms": 201594,
       "name": "Skinny Lies",
       "url": "https://open.spotify.com/track/6JYIXOpnLZDgCH60SgAZC4"
+    },
+    {
+      "album": {
+        "name": "Slave To The Madness",
+        "url": "https://open.spotify.com/album/0g34Sd66HBEu5tSUvtUGqT"
+      },
+      "artists": [
+        {
+          "name": "APOC",
+          "url": "https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225046,
+      "name": "Slave To The Madness",
+      "url": "https://open.spotify.com/track/6nVwa3zjpbiaigRHbt6Ve6"
     },
     {
       "album": {
@@ -14107,6 +14215,24 @@
     },
     {
       "album": {
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/4SLQnE0hqXkcnMlbLhcxnE"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233786,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/7mSWvlQpztPoJiswhM6pbd"
+    },
+    {
+      "album": {
         "name": "ARMAHEAVEN",
         "url": "https://open.spotify.com/album/4YMYPIlNkl2ujiwrebKmN2"
       },
@@ -14118,7 +14244,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 211863,
       "name": "Villain",
       "url": "https://open.spotify.com/track/4RZCiJgNU2GY3ii22Y5Pu9"
@@ -14216,6 +14342,24 @@
       "duration_ms": 212750,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/0mNM0k99pox3oMwZQrRYld"
+    },
+    {
+      "album": {
+        "name": "Wake Up Calling",
+        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229977,
+      "name": "Wake Up Calling",
+      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
     },
     {
       "album": {
@@ -14318,6 +14462,24 @@
       "duration_ms": 178497,
       "name": "Waterboy",
       "url": "https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO"
+    },
+    {
+      "album": {
+        "name": "WE ARE EMPIRE",
+        "url": "https://open.spotify.com/album/4GtAnZ58WCp80acUpwM50P"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360216,
+      "name": "WE ARE EMPIRE",
+      "url": "https://open.spotify.com/track/6ose7JySKEZszL4eisoFhM"
     },
     {
       "album": {

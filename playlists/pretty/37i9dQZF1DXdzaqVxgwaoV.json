@@ -1,6 +1,6 @@
 {
   "description": "Los temas que prenden las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia. Foto: Lisandro Meza",
-  "num_followers": 129462,
+  "num_followers": 129452,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
+        "name": "Los Relajos del Arriero",
+        "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
+      },
+      "artists": [
+        {
+          "name": "Octavio Mesa",
+          "url": "https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x"
+        }
+      ],
+      "duration_ms": 128560,
+      "name": "Con Verraquera",
+      "url": "https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
         "name": "Para Mi Fanaticada",
         "url": "https://open.spotify.com/album/43vnYNazgx4KoAaw5m4DFa"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 255893,
       "name": "Mensaje De Navidad",
       "url": "https://open.spotify.com/track/5cNCj7aVKzMFiVQ85fZ7NR"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
-        "name": "Los Relajos del Arriero",
-        "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
-      },
-      "artists": [
-        {
-          "name": "Octavio Mesa",
-          "url": "https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x"
-        }
-      ],
-      "duration_ms": 128560,
-      "name": "Con Verraquera",
-      "url": "https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 156467,
-      "name": "Mar\u00eda Teresa",
-      "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
         "name": "La Carrasca",
         "url": "https://open.spotify.com/album/0Vhp2cry5kU2blv6ZhRSZi"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 165184,
       "name": "La Carrasca",
       "url": "https://open.spotify.com/track/4aTmc4hk31uZx9Y9DBmK02"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
+        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "duration_ms": 156467,
+      "name": "Mar\u00eda Teresa",
+      "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "A Los 30 A\u00f1os de Victor Pi\u00f1ero",
-        "url": "https://open.spotify.com/album/2LaCWLjqjIkbUlk46RGJ0G"
-      },
-      "artists": [
-        {
-          "name": "Victor Pi\u00f1ero",
-          "url": "https://open.spotify.com/artist/6O5nkHt0QsqTMNaHkWNXmx"
-        }
-      ],
-      "duration_ms": 188733,
-      "name": "Ya Voy Hacia Ti",
-      "url": "https://open.spotify.com/track/30Kl5EJVC72aAk01VmEpr1"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
         "name": "Que Bueno Baila Celina",
         "url": "https://open.spotify.com/album/3WkRkz7KIkA3VY0sezqF5m"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 184786,
       "name": "La Casa De Yagua",
       "url": "https://open.spotify.com/track/1tbePUzdnmWfcq1glFVPlc"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
+        "name": "A Los 30 A\u00f1os de Victor Pi\u00f1ero",
+        "url": "https://open.spotify.com/album/2LaCWLjqjIkbUlk46RGJ0G"
+      },
+      "artists": [
+        {
+          "name": "Victor Pi\u00f1ero",
+          "url": "https://open.spotify.com/artist/6O5nkHt0QsqTMNaHkWNXmx"
+        }
+      ],
+      "duration_ms": 188733,
+      "name": "Ya Voy Hacia Ti",
+      "url": "https://open.spotify.com/track/30Kl5EJVC72aAk01VmEpr1"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "Colecci\u00f3n Oro del Vallenato (Vol. 1)",
-        "url": "https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6"
-      },
-      "artists": [
-        {
-          "name": "Lucho Y Rafa",
-          "url": "https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x"
-        }
-      ],
-      "duration_ms": 179915,
-      "name": "No Quiero Envejecer",
-      "url": "https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
         "name": "A Pulir la Hebilla",
         "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 182333,
       "name": "Muchacha de 15",
       "url": "https://open.spotify.com/track/3kHLuCDIx0OV1pawSLgarA"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
+        "name": "Colecci\u00f3n Oro del Vallenato (Vol. 1)",
+        "url": "https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6"
+      },
+      "artists": [
+        {
+          "name": "Lucho Y Rafa",
+          "url": "https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x"
+        }
+      ],
+      "duration_ms": 179915,
+      "name": "No Quiero Envejecer",
+      "url": "https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0"
     },
     {
       "added_at": "2025-12-17 19:57:52",

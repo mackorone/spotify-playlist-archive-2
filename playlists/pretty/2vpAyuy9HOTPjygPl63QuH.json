@@ -1,13 +1,37 @@
 {
   "description": "The freshest house music | Submit via Instagram: @subshiftmusic",
-  "num_followers": 15071,
+  "num_followers": 15076,
   "original_name": "SUBSHIFT SELECTS",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAnvpbCdGeyDias12HBee6VP44dLrpy",
+  "snapshot_id": "AAAn0o3UybG6CPXEOf+4rSFjUKW6Widr",
   "tracks": [
+    {
+      "added_at": "2026-01-30 10:02:34",
+      "album": {
+        "name": "Hell Yeah (Feat. Waxmaster)",
+        "url": "https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Parris Mitchell",
+          "url": "https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p"
+        },
+        {
+          "name": "Waxmaster",
+          "url": "https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Hell Yeah (Feat. Waxmaster)",
+      "url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"
+    },
     {
       "added_at": "2026-01-16 00:15:45",
       "album": {
@@ -53,6 +77,38 @@
       "url": "https://open.spotify.com/track/7yUcCULqUvVOO33Ob5qOPF"
     },
     {
+      "added_at": "2026-01-30 10:00:46",
+      "album": {
+        "name": "Make My Day",
+        "url": "https://open.spotify.com/album/6cQSuvnkSmmgHve6ZiwR4f"
+      },
+      "artists": [
+        {
+          "name": "ESSE",
+          "url": "https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Make My Day",
+      "url": "https://open.spotify.com/track/0CakZhdFnhL3nHpHTeCZ7W"
+    },
+    {
+      "added_at": "2026-01-30 10:01:26",
+      "album": {
+        "name": "Rudeboy",
+        "url": "https://open.spotify.com/album/1a2pFsyTnUU0sZQzjkvRAn"
+      },
+      "artists": [
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "duration_ms": 174045,
+      "name": "Rudeboy",
+      "url": "https://open.spotify.com/track/1mtfcWAyPR0QT7QKd2q0eT"
+    },
+    {
       "added_at": "2025-12-05 09:17:56",
       "album": {
         "name": "Monkey Swag",
@@ -85,10 +141,10 @@
       "url": "https://open.spotify.com/track/1YoJCciEqDYANpvVmqtpWR"
     },
     {
-      "added_at": "2025-12-05 09:18:02",
+      "added_at": "2026-01-30 10:01:28",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/7JRs9V4KAZB1Va4PxYqBma"
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/0jpb8dwJSWcZOgao05mnGt"
       },
       "artists": [
         {
@@ -96,25 +152,9 @@
           "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
         }
       ],
-      "duration_ms": 171162,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/3TCmo9oC5hlzCGzlTFZ0u5"
-    },
-    {
-      "added_at": "2026-01-23 15:00:49",
-      "album": {
-        "name": "Lemme Talk",
-        "url": "https://open.spotify.com/album/4mbqGioeSTNfqJY3iFXm9x"
-      },
-      "artists": [
-        {
-          "name": "Cave Studio",
-          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Lemme Talk - Original Mix",
-      "url": "https://open.spotify.com/track/6klDHpbeHfjCL7CjAkTetE"
+      "duration_ms": 140005,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/2BisOilWiyxNr0NMoZRxO6"
     },
     {
       "added_at": "2025-10-31 16:49:34",
@@ -135,6 +175,22 @@
       "duration_ms": 189097,
       "name": "Rockin' With",
       "url": "https://open.spotify.com/track/0p4fVoWXtS4IINstVnnNr0"
+    },
+    {
+      "added_at": "2026-01-23 15:00:49",
+      "album": {
+        "name": "Lemme Talk",
+        "url": "https://open.spotify.com/album/4mbqGioeSTNfqJY3iFXm9x"
+      },
+      "artists": [
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Lemme Talk - Original Mix",
+      "url": "https://open.spotify.com/track/6klDHpbeHfjCL7CjAkTetE"
     },
     {
       "added_at": "2026-01-23 15:04:46",
@@ -209,6 +265,26 @@
       "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
     },
     {
+      "added_at": "2026-01-30 10:02:42",
+      "album": {
+        "name": "Let It Bang",
+        "url": "https://open.spotify.com/album/2MjAMUrFdgEyvxnekcZmqC"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        },
+        {
+          "name": "Equin\u00f8x",
+          "url": "https://open.spotify.com/artist/5Pfc3lrQ5LtFXRcGhNs3cH"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "Let It Bang",
+      "url": "https://open.spotify.com/track/1Nl78W0Ne2EaiFkZVXeccd"
+    },
+    {
       "added_at": "2026-01-23 15:00:42",
       "album": {
         "name": "Funk It",
@@ -239,6 +315,22 @@
       "duration_ms": 153346,
       "name": "Bad B",
       "url": "https://open.spotify.com/track/6dbca3nF7J8wdRdf6PYMNq"
+    },
+    {
+      "added_at": "2026-01-30 10:01:16",
+      "album": {
+        "name": "Funk Phenomenon",
+        "url": "https://open.spotify.com/album/1UI1NXZLrR4i56jpg7bZ3a"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Funk Phenomenon",
+      "url": "https://open.spotify.com/track/0OlT85K7fAZ2Sx6yE0jXEM"
     },
     {
       "added_at": "2026-01-17 10:03:35",
@@ -275,6 +367,22 @@
       "duration_ms": 192461,
       "name": "Push The Tempo",
       "url": "https://open.spotify.com/track/0g3HkEi8QHitdZJQhylxCh"
+    },
+    {
+      "added_at": "2026-01-30 10:01:06",
+      "album": {
+        "name": "Funk Rider",
+        "url": "https://open.spotify.com/album/0Smedj3kQlLiwpIsiPSOh3"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        }
+      ],
+      "duration_ms": 193694,
+      "name": "Get Bass",
+      "url": "https://open.spotify.com/track/6j0mBusF0AtTOEvg5EZrV5"
     },
     {
       "added_at": "2026-01-23 15:01:34",
@@ -327,6 +435,26 @@
       "duration_ms": 151384,
       "name": "Big Bad Sound",
       "url": "https://open.spotify.com/track/79lJ78VF91JSP4mQz44feU"
+    },
+    {
+      "added_at": "2026-01-30 10:01:33",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/5XuKcuWfhlgvNSwylIQu0e"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6JY6jXuAuTEH8VMgmkW87Y"
     },
     {
       "added_at": "2026-01-23 15:01:30",
@@ -395,6 +523,26 @@
       "duration_ms": 204000,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/3z6iNWPSuT1YeytMUNlqkP"
+    },
+    {
+      "added_at": "2026-01-30 10:00:50",
+      "album": {
+        "name": "LICK IT",
+        "url": "https://open.spotify.com/album/6rMqR0MHTHBirJggnVeruA"
+      },
+      "artists": [
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 211987,
+      "name": "LICK IT",
+      "url": "https://open.spotify.com/track/58ZxB5HafuK7mZS3B3kf8y"
     },
     {
       "added_at": "2025-05-29 23:01:30",

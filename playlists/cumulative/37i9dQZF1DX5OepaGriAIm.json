@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "'Tis Autumn",
+        "url": "https://open.spotify.com/album/6DOCcHOp2pEdbhmwlhqqC4"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308253,
+      "name": "'Tis Autumn",
+      "url": "https://open.spotify.com/track/50dJQJ4VLNsb8yNOJNFDRJ"
+    },
+    {
+      "album": {
         "name": "12 Stars",
         "url": "https://open.spotify.com/album/4XhG0Qxth2pJsb3efESk9S"
       },
@@ -371,6 +389,24 @@
     },
     {
       "album": {
+        "name": "As",
+        "url": "https://open.spotify.com/album/4XxaxELTGozCzIJsasoG8q"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299303,
+      "name": "As",
+      "url": "https://open.spotify.com/track/3H6rGdvid0cBQDvluU8lFj"
+    },
+    {
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -440,6 +476,24 @@
       "duration_ms": 226880,
       "name": "Autumn Nocturne",
       "url": "https://open.spotify.com/track/1o28EvjeYgkrKgBG7gkBx7"
+    },
+    {
+      "album": {
+        "name": "Gadabout Season",
+        "url": "https://open.spotify.com/album/372tUB50Rip4brrZdUELBQ"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295821,
+      "name": "BBL",
+      "url": "https://open.spotify.com/track/5TnePvtynwyVXjQYbKCsyR"
     },
     {
       "album": {
@@ -886,6 +940,24 @@
       "duration_ms": 205528,
       "name": "Devil's Juice",
       "url": "https://open.spotify.com/track/7zQewo4tM6gPi3hUHNHdPM"
+    },
+    {
+      "album": {
+        "name": "Didn\u2019t I Tell You So?",
+        "url": "https://open.spotify.com/album/2qf2P1TV4lOkK4wZ1wxNvu"
+      },
+      "artists": [
+        {
+          "name": "Flore Benguigui & The Sensible Notes",
+          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266413,
+      "name": "Didn\u2019t I Tell You So?",
+      "url": "https://open.spotify.com/track/4ufNRAVcnb2PqUadnWhXDW"
     },
     {
       "album": {
@@ -1622,7 +1694,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 223060,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
@@ -1716,6 +1788,24 @@
       "duration_ms": 445453,
       "name": "I'm Afraid the Masquerade Is Over",
       "url": "https://open.spotify.com/track/6mXID0DbyA7qBZVLPZ1yXg"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Gonna Laugh You out of My Life",
+        "url": "https://open.spotify.com/album/332vi6HQiVFRFHNoBnzXkP"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283145,
+      "name": "I'm Gonna Laugh You out of My Life",
+      "url": "https://open.spotify.com/track/10zAlIpKu8k6Thf742GC5j"
     },
     {
       "album": {
@@ -2037,6 +2127,42 @@
     },
     {
       "album": {
+        "name": "Little Church",
+        "url": "https://open.spotify.com/album/3VoQDPfpqb05D32mBpI40d"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301145,
+      "name": "Little Church",
+      "url": "https://open.spotify.com/track/13Yw0FAYmx9FPfg0FAcBFX"
+    },
+    {
+      "album": {
+        "name": "Chamber Music Society",
+        "url": "https://open.spotify.com/album/6VQWGmqLfbOBXIfI3kFMas"
+      },
+      "artists": [
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213173,
+      "name": "Little Fly",
+      "url": "https://open.spotify.com/track/6qaUMIsszU1uEdfYNjUaAK"
+    },
+    {
+      "album": {
         "name": "Lady Got Soul",
         "url": "https://open.spotify.com/album/5fm4og0UIhIPAVm449ija4"
       },
@@ -2175,6 +2301,28 @@
     },
     {
       "album": {
+        "name": "Asking for Trouble",
+        "url": "https://open.spotify.com/album/0BFH1oeVEEbdcloPUoSGXs"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152453,
+      "name": "Love Me As I Am",
+      "url": "https://open.spotify.com/track/7mQPml8oyhivfvnMigbgeL"
+    },
+    {
+      "album": {
         "name": "Love Me or Leave Me",
         "url": "https://open.spotify.com/album/7E4E2NvwMbJPu4uprns4C8"
       },
@@ -2226,6 +2374,24 @@
       "duration_ms": 182573,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
+    },
+    {
+      "album": {
+        "name": "Markham Sunrise",
+        "url": "https://open.spotify.com/album/0rgY5ot2AlZrAwXJhVyChZ"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193373,
+      "name": "Markham Sunrise",
+      "url": "https://open.spotify.com/track/7u9obPhFU5UqeWBksk56lP"
     },
     {
       "album": {
@@ -2877,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "S.H.A.M.A.N.E.S",
+        "url": "https://open.spotify.com/album/7FOsfHcovB9NrvNqDKZFTS"
+      },
+      "artists": [
+        {
+          "name": "Anne Paceo",
+          "url": "https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195777,
+      "name": "Reste un oiseau",
+      "url": "https://open.spotify.com/track/2EJF3EdnuLtLNVNafgP08h"
+    },
+    {
+      "album": {
         "name": "Soul Sisters",
         "url": "https://open.spotify.com/album/4bjgPXmt8UCRDIstQXll5c"
       },
@@ -3449,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "Three Little Words",
+        "url": "https://open.spotify.com/album/20nAIJBVs6bItCdqyXzxI5"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290666,
+      "name": "Three Little Words",
+      "url": "https://open.spotify.com/track/3smU34X0GvXYM6YcKO2Bwd"
+    },
+    {
+      "album": {
         "name": "Introducing Nicole McCabe",
         "url": "https://open.spotify.com/album/2BRf2XnUYG5TX8ESe8zMtm"
       },
@@ -3464,6 +3666,24 @@
       "duration_ms": 382760,
       "name": "Tidal",
       "url": "https://open.spotify.com/track/0vDG38HtNESs6UBx1kvdlw"
+    },
+    {
+      "album": {
+        "name": "It's Magic",
+        "url": "https://open.spotify.com/album/0yGBHk8u0qGBlqe1hvDz42"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233990,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/5rBuOLHjZO974PoqqVf0dR"
     },
     {
       "album": {

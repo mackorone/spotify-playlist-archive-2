@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,330 likes - 104 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,329 likes - 104 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 62 | [ユーアノッアロン](https://open.spotify.com/track/2ChhFmU1wCP2vTybhespub) | [永野と高城。](https://open.spotify.com/artist/74KFQxfUK4pKaeJvZovg5N) | [れにちゃんWORLD](https://open.spotify.com/album/1FOM4ocBJZgADGPIG55KUm) | 3:39 |
 | 63 | [どどどどどりーまー](https://open.spotify.com/track/4gb4EnBnCV6JJzv7PLjZS6) | [Tokimeki Sendenbu](https://open.spotify.com/artist/2lqUcuIdIv7Qyuw19ukFKP) | [どどどどどりーまー](https://open.spotify.com/album/0GRwTRbjuclectAUk0Jh6o) | 4:11 |
 | 64 | [クラムチャウダーが冷めちゃう月曜日](https://open.spotify.com/track/1DVDsz6DpiuZEZaQv8trpH) | [SUPER☆GiRLS](https://open.spotify.com/artist/4zthDDKQvX4jJtGfo4ouKr) | [SUPER★CASTLE](https://open.spotify.com/album/1Y7NV0fz3PLrTXDw4S0gb6) | 3:39 |
-| 65 | [純情エクスタシィ](https://open.spotify.com/track/4349NJ84hgXnpCECVIFulf) | [危険日チャレンジガールズ!](https://open.spotify.com/artist/0lTgvNB4GOIwow433FyPJG), [Negicco](https://open.spotify.com/artist/4PoAqzGXLjpuYMmTRv24q6) | [YATSUI MATOME　～SELECTION～](https://open.spotify.com/album/5iQP3f2uDFFPGcSsq1GRte) | 3:36 |
+| 65 | [純情エクスタシィ](https://open.spotify.com/track/4349NJ84hgXnpCECVIFulf) | [Kikenbi Challenge Girls!](https://open.spotify.com/artist/0lTgvNB4GOIwow433FyPJG), [Negicco](https://open.spotify.com/artist/4PoAqzGXLjpuYMmTRv24q6) | [YATSUI MATOME　～SELECTION～](https://open.spotify.com/album/5iQP3f2uDFFPGcSsq1GRte) | 3:36 |
 | 66 | [RED BLAZE : BLUE FLAME](https://open.spotify.com/track/42t6DZoLEQ7h1BWsSMT0pB) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Belle révolte](https://open.spotify.com/album/1zcTlzozh6cb5dmkrHwni6) | 4:08 |
 | 67 | [帆を上げろ！](https://open.spotify.com/track/2cj8h4l2Mkc8a19gctQJ7I) | [BOYS AND MEN](https://open.spotify.com/artist/3VZOHWaJbouQwpHvfP47Lo) | [友ありて・・](https://open.spotify.com/album/3scNiDBwNDv6J6xp9ThUfE) | 4:25 |
 | 68 | [Link](https://open.spotify.com/track/4HOZQQ1cDRi6gimI4CSLPM) | [RYUCHELL](https://open.spotify.com/artist/69B2I8O3kvspdJVrBc2toJ) | [Link](https://open.spotify.com/album/7uAnOnRPCXNjvfde9zvfP0) | 4:11 |

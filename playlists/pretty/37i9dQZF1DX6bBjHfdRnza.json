@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring KE-YEN.\n",
-  "num_followers": 209820,
+  "num_followers": 209852,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGoZhRgTLJmUZXROmPCMH/745pVU",
+  "snapshot_id": "AAAAANkVu2kKuo6A89vYrpTPXf7bxPJP",
   "tracks": [
     {
       "added_at": "2026-01-28 16:55:42",
@@ -153,6 +153,26 @@
       "url": "https://open.spotify.com/track/2eltpVluPhTkJUyfjIm9JW"
     },
     {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/3btgZUct7DeyXYAXeFYipy"
+      },
+      "artists": [
+        {
+          "name": "Kenta204",
+          "url": "https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 239119,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/2woJDJD5c1smpFdkWa4kpu"
+    },
+    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "GET WHAT I WANT",
@@ -167,6 +187,30 @@
       "duration_ms": 132026,
       "name": "GET WHAT I WANT",
       "url": "https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "CARBONE",
+        "url": "https://open.spotify.com/album/6masld7IbVDO1ZQvIZiM0k"
+      },
+      "artists": [
+        {
+          "name": "SHAKING",
+          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
+        },
+        {
+          "name": "Liot",
+          "url": "https://open.spotify.com/artist/3QBktyHhrcGj6LonOd1tcP"
+        },
+        {
+          "name": "N\u00f6el",
+          "url": "https://open.spotify.com/artist/4j1NjllSYkvssBWTO7FXqJ"
+        }
+      ],
+      "duration_ms": 231643,
+      "name": "CARBONE",
+      "url": "https://open.spotify.com/track/7MSzSzgKJYOT5YP0QkugAB"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -219,6 +263,22 @@
       "duration_ms": 168169,
       "name": "Driving Me Crazy",
       "url": "https://open.spotify.com/track/5ZNu1VSf5HjQwkCCAgobjG"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "Hold On / Tip Off",
+        "url": "https://open.spotify.com/album/5o7WUSg1bVi0kigPP73QHy"
+      },
+      "artists": [
+        {
+          "name": "ROKAR",
+          "url": "https://open.spotify.com/artist/1LLLQlvDT5CZamubBAYMkC"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/700RWaQjL1fKlIIXBzORp7"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -319,6 +379,22 @@
       "duration_ms": 173171,
       "name": "Fell So Out",
       "url": "https://open.spotify.com/track/1vsA7hZEn4XKdvRkxDz9ov"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "INMYH",
+        "url": "https://open.spotify.com/album/6UwXSDlzYUAkICxjJPbOL8"
+      },
+      "artists": [
+        {
+          "name": "Aures",
+          "url": "https://open.spotify.com/artist/39xkt555pu4TqjWuwdDl3E"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "INMYH",
+      "url": "https://open.spotify.com/track/2so0hkOdT7OknXeIc5TaMW"
     },
     {
       "added_at": "2026-01-28 16:55:42",
@@ -455,6 +531,26 @@
       "duration_ms": 171428,
       "name": "Reset (feat. Killa P)",
       "url": "https://open.spotify.com/track/55CMFV6MyOXW845UQeIDeu"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "NutDo",
+        "url": "https://open.spotify.com/album/4vSGiHQ3cF3klH0QKlVZNX"
+      },
+      "artists": [
+        {
+          "name": "Ogasawara",
+          "url": "https://open.spotify.com/artist/6mTSdS8yN21WFsI7oDbeP6"
+        },
+        {
+          "name": "Save Me The Trouble",
+          "url": "https://open.spotify.com/artist/3qRE812oXiyzvUZyo7csj7"
+        }
+      ],
+      "duration_ms": 285547,
+      "name": "NutDo",
+      "url": "https://open.spotify.com/track/7DRhxqacpYaWDLKnq3mOAc"
     },
     {
       "added_at": "2026-01-21 18:53:17",

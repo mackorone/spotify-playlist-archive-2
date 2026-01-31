@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1209,
+  "num_followers": 1216,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAP3B68DBrIUHe1An2tCb1iqc7sPv/Q",
+  "snapshot_id": "AAAP5aZ/HRbv+J1jtT4aKrLoIgNChrPe",
   "tracks": [
     {
       "added_at": "2026-01-15 08:27:53",
@@ -2607,6 +2607,158 @@
       "duration_ms": 194687,
       "name": "Mi voluntad",
       "url": "https://open.spotify.com/track/5tXPiB9wwihAlWuwS5hYr0"
+    },
+    {
+      "added_at": "2026-01-30 10:53:54",
+      "album": {
+        "name": "\u732e\u7ed9 AI \u7684\u601d\u8003 \u2022 Thoughts for AI",
+        "url": "https://open.spotify.com/album/4K4lChy5piyec9S6EN9gLj"
+      },
+      "artists": [
+        {
+          "name": "\u5f6d\u4fd0\u5ba2",
+          "url": "https://open.spotify.com/artist/3h1LgXnjamZJ2YBk36REGe"
+        }
+      ],
+      "duration_ms": 226039,
+      "name": "\u4f60\u773c\u4e2d\u7684\u4f24\u75d5 \u2022 The Scars in Your Eyes",
+      "url": "https://open.spotify.com/track/5kGIPlGN99k3tUXKSjrirF"
+    },
+    {
+      "added_at": "2026-01-30 10:54:19",
+      "album": {
+        "name": "Lueg mi a - D\u00e4nk was wotsch",
+        "url": "https://open.spotify.com/album/5dvntdIVcCo5gjG7ocPYfK"
+      },
+      "artists": [
+        {
+          "name": "Manou",
+          "url": "https://open.spotify.com/artist/7l1lEpbeMCACME9YwfFBz6"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Lueg mi a - D\u00e4nk was wotsch",
+      "url": "https://open.spotify.com/track/5k03obY555MhUQAQwxq7OF"
+    },
+    {
+      "added_at": "2026-01-30 10:54:35",
+      "album": {
+        "name": "Ada Lah Pokoknya",
+        "url": "https://open.spotify.com/album/23lnq8yr8VjuLKAKrqt26u"
+      },
+      "artists": [
+        {
+          "name": "WORSHIPER",
+          "url": "https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk"
+        }
+      ],
+      "duration_ms": 111244,
+      "name": "Ada Lah Pokoknya",
+      "url": "https://open.spotify.com/track/79VmacwFHLZ9MFJnd9M0Nt"
+    },
+    {
+      "added_at": "2026-01-30 10:54:44",
+      "album": {
+        "name": "Abdel et Mikael",
+        "url": "https://open.spotify.com/album/4v99ixzKM0caMxHgiRYQhv"
+      },
+      "artists": [
+        {
+          "name": "Anyel ADDA",
+          "url": "https://open.spotify.com/artist/6Hwlx1juJcZzoLlNrTFoCh"
+        }
+      ],
+      "duration_ms": 217797,
+      "name": "Abdel et Mikael",
+      "url": "https://open.spotify.com/track/6nQny9qnNR6HCXmVOxsXrL"
+    },
+    {
+      "added_at": "2026-01-30 12:34:30",
+      "album": {
+        "name": "Oraci\u00f3n",
+        "url": "https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND"
+      },
+      "artists": [
+        {
+          "name": "Ziara",
+          "url": "https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p"
+        }
+      ],
+      "duration_ms": 159333,
+      "name": "Oraci\u00f3n",
+      "url": "https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG"
+    },
+    {
+      "added_at": "2026-01-30 21:21:44",
+      "album": {
+        "name": "23 de Maio",
+        "url": "https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd"
+      },
+      "artists": [
+        {
+          "name": "Allan Fontes",
+          "url": "https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz"
+        },
+        {
+          "name": "Jess.",
+          "url": "https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI"
+        }
+      ],
+      "duration_ms": 103705,
+      "name": "23 de Maio",
+      "url": "https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni"
+    },
+    {
+      "added_at": "2026-01-30 21:21:49",
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/6Ix0eruzkCh5U11C3oma9c"
+      },
+      "artists": [
+        {
+          "name": "Hilla Peer",
+          "url": "https://open.spotify.com/artist/7bPux2PIV6JLOrjuxyfIbx"
+        },
+        {
+          "name": "Roy Aharon",
+          "url": "https://open.spotify.com/artist/6iG05TrjWso3eQiNOcvmvc"
+        }
+      ],
+      "duration_ms": 168190,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/6w6G8JwBtOQCiro9hj6rx7"
+    },
+    {
+      "added_at": "2026-01-30 21:21:54",
+      "album": {
+        "name": "L'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc"
+      },
+      "artists": [
+        {
+          "name": "ToloV",
+          "url": "https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q"
+        }
+      ],
+      "duration_ms": 238159,
+      "name": "L'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS"
+    },
+    {
+      "added_at": "2026-01-30 21:22:04",
+      "album": {
+        "name": "Aerial Minds",
+        "url": "https://open.spotify.com/album/2c0rWMixj6Or2q7VdOVujJ"
+      },
+      "artists": [
+        {
+          "name": "Valeska Rautenberg",
+          "url": "https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/63ojE5nDCmEvkLG1tL8Hl8"
     }
   ],
   "unique_name": "New Indie Music",

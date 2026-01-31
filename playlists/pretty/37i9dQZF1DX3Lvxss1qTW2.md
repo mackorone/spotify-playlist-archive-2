@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > NXT presents..\. Ones to Watch 2026: Shoday
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,812 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,927 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 7 | [Daffodils](https://open.spotify.com/track/3mAocGGRQHRBVtUFPIql7Q) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Daffodils](https://open.spotify.com/album/7KzCGQcttmzULuurDD9VlF) | 3:16 |
 | 8 | [Guide Me](https://open.spotify.com/track/3F26K7Ik0tzYaNKR9qFjm8) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Guide Me](https://open.spotify.com/album/3AxsGBN5TfSJF0T6WMBsIK) | 2:24 |
 | 9 | [Tick Tock](https://open.spotify.com/track/3bdlBiNRtxh6VzhLKx3hTb) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 3:42 |
-| 10 | [Blessings](https://open.spotify.com/track/2h4Tp7ZD1O08eLEo9CBHSa) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/3YnSI2CR0UfMs5DJsVwXzd) | 2:42 |
+| 10 | [I'm Good \- Remix](https://open.spotify.com/track/78rahrrMxgDKkD7yLFfZc8) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Erica Mason](https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [I'm Good \(Remix\)](https://open.spotify.com/album/4G2rkPVloDdiE2HBRehIim) | 4:27 |
 | 11 | [HOW FAR](https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2) | [HOW FAR / SHIMA II](https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o) | 2:43 |
 | 12 | [LAPOPIANO](https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [LAPOPIANO](https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim) | 2:19 |
 | 13 | [M.O.T.O](https://open.spotify.com/track/13RrmTzCsknCAV7jb1hPnx) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ), [SUNS3T](https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt) | [M.O.T.O](https://open.spotify.com/album/1z3vDn9mlXrNfJgXeXIdwb) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 49 | [Yule Yule](https://open.spotify.com/track/0TvaZ5T7OAmpSn0NBrJdFa) | [Kipronoh](https://open.spotify.com/artist/0zSgMomfNpmXyCoMmvFZcT), [SUNS3T](https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt) | [Yule Yule](https://open.spotify.com/album/4b5UV68kWlRliWE0uGQ4Ey) | 2:55 |
 | 50 | [YUBUBU](https://open.spotify.com/track/52wQShnTIjxZfs41wtGvhy) | [KidFromKigali](https://open.spotify.com/artist/7tFO8gqP6I9nFJtxQrUty4), [Mike Kayihura](https://open.spotify.com/artist/7H6D1dNdzJt8NHOsTTTTNL) | [Stories From the Kid](https://open.spotify.com/album/50Jp88sHOb1MEbHyQx8CH7) | 3:39 |
 
-Snapshot ID: `AAAAAPXppseNIQfMaTgNo9+xSgYL9pfi`
+Snapshot ID: `AAAAANucvrGGRIkBd/Mg8zMI3464neZt`

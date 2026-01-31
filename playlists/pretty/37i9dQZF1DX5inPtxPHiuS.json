@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87744,
+  "num_followers": 87736,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Te Valgo",
-        "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
-      },
-      "artists": [
-        {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "Te Valgo",
-      "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Ciudad Faro",
         "url": "https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 215909,
       "name": "Las Calles del Mundo",
       "url": "https://open.spotify.com/track/5n51OYaZgE3QS8PPO0p1zH"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Te Valgo",
+        "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "Te Valgo",
+      "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Estallados",
-        "url": "https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr"
-      },
-      "artists": [
-        {
-          "name": "Los Ni\u00f1os Telepaticos",
-          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Estallados",
-      "url": "https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Sed",
         "url": "https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 299116,
       "name": "Sed",
       "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Estallados",
+        "url": "https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr"
+      },
+      "artists": [
+        {
+          "name": "Los Ni\u00f1os Telepaticos",
+          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Estallados",
+      "url": "https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS"
     },
     {
       "added_at": "2024-09-20 08:27:00",

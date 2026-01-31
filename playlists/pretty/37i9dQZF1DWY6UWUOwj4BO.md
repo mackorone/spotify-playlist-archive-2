@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,723 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,774 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 6 | [Vaitimbora \- Acoustic](https://open.spotify.com/track/1uLA9u8N6GgqQ5kZ4pZCsg) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora \(Acoustic\)](https://open.spotify.com/album/6JzDVUugnZpQYIEImbclJL) | 1:54 |
 | 7 | [Tant pis pour elle \- Version Acoustique](https://open.spotify.com/track/67306rh9aCq7snz1aW1tJ0) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle \(Version Acoustique\)](https://open.spotify.com/album/1RKq2hecvg4x2MQBW4fKgP) | 2:32 |
 | 8 | [Elastic Heart \- Piano Version](https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:10 |
-| 9 | [Gone Gone Gone \(feat\. Teddy Swims\) \[Tones And I Acoustic\]](https://open.spotify.com/track/5fnNkscKYiOTbN1fjQGoc5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Gone Gone Gone \(feat\. Teddy Swims\) \[Unplugged\]](https://open.spotify.com/album/3hyvSEl7i7M1CNyPTxDO2e) | 3:33 |
+| 9 | [Gone Gone Gone \(feat\. Teddy Swims\) \[Tones And I Acoustic\]](https://open.spotify.com/track/5fnNkscKYiOTbN1fjQGoc5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Gone Gone Gone \(feat\. Teddy Swims\) \[Unplugged\]](https://open.spotify.com/album/3hyvSEl7i7M1CNyPTxDO2e) | 3:18 |
 | 10 | [Gimme Love \- Sofiane Pamart Remix](https://open.spotify.com/track/6QLU9PDrb6DwJauVvExLSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Gimme Love \(Sofiane Pamart Remix\)](https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI) | 2:42 |
 | 11 | [Emiliana \- Acoustic](https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 3:19 |
 | 12 | [THIS YEAR \(Blessings\) \- Acoustic Version](https://open.spotify.com/track/3TawMDALb9pwBKoBWkZWLE) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Acoustic Version\]](https://open.spotify.com/album/3Zqrx0J4rWBHXpv4HZIlea) | 2:18 |

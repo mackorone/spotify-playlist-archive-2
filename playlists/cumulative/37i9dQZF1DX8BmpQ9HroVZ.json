@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Asim Azhar",
+  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Murtaza Qizilbash",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 175384,
       "name": "bargad",
       "url": "https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl"
@@ -3308,7 +3308,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 105271,
       "name": "FA9LA",
       "url": "https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7"
@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 219642,
       "name": "Fiqr Na Karo",
       "url": "https://open.spotify.com/track/4LAS8j4UMbzX0hnZVUJDZ0"
@@ -4474,6 +4474,24 @@
       "duration_ms": 203305,
       "name": "HUM",
       "url": "https://open.spotify.com/track/5KA3Z4EJI3qM7S3tMee6Mj"
+    },
+    {
+      "album": {
+        "name": "Hum",
+        "url": "https://open.spotify.com/album/7idG3a5Nmotd02hA6ifD0f"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275076,
+      "name": "Hum",
+      "url": "https://open.spotify.com/track/7oNZfE9wnu7SP55LwNSiKG"
     },
     {
       "album": {
@@ -5809,6 +5827,28 @@
     },
     {
       "album": {
+        "name": "Koi Naam",
+        "url": "https://open.spotify.com/album/0yEvTMsYDemfZ75FmcB6hY"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Aditya Sharma",
+          "url": "https://open.spotify.com/artist/2V3QpcHI40ZRGMUhr3bHsl"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228795,
+      "name": "Koi Naam",
+      "url": "https://open.spotify.com/track/0vRgu0FsgI5AP1MJ9GupIR"
+    },
+    {
+      "album": {
         "name": "Koi Si",
         "url": "https://open.spotify.com/album/4HYXhgflBVtGl3cYL2eJIm"
       },
@@ -6528,7 +6568,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 170376,
       "name": "Luv Summer",
       "url": "https://open.spotify.com/track/72fnjwohXwVLqudRXiRmbc"
@@ -7352,6 +7392,24 @@
       "duration_ms": 171063,
       "name": "nadaaniyan",
       "url": "https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3"
+    },
+    {
+      "album": {
+        "name": "I Loved You",
+        "url": "https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214264,
+      "name": "Nafrat",
+      "url": "https://open.spotify.com/track/0NLOLiHF6Ti0QtX5P7gziI"
     },
     {
       "album": {
@@ -8746,7 +8804,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 278474,
       "name": "Ranjheya Ve",
       "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
@@ -9086,7 +9144,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 216922,
       "name": "Safar",
       "url": "https://open.spotify.com/track/51Ggv32i87ei9RYT0mkcVY"
@@ -9704,7 +9762,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 187346,
       "name": "shutup call",
       "url": "https://open.spotify.com/track/2YUgUYAXNCrhF7t9Bk9qQH"
@@ -10234,7 +10292,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 255764,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA"
@@ -10756,7 +10814,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 302706,
       "name": "Tere Pyar Main",
       "url": "https://open.spotify.com/track/6JB0h4leDJ4Akabtu42Epd"
@@ -11183,6 +11241,28 @@
     },
     {
       "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/7JWCWWOkIr1AFB7jxjRgQ9"
+      },
+      "artists": [
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132085,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/2GzjIHQ87BF2zgbmmthZzO"
+    },
+    {
+      "album": {
         "name": "The Carnival",
         "url": "https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM"
       },
@@ -11411,6 +11491,24 @@
     },
     {
       "album": {
+        "name": "Tum",
+        "url": "https://open.spotify.com/album/4INFMJi3SwIEWixQjlMNig"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "Tum",
+      "url": "https://open.spotify.com/track/6mHTwIXqZtuQUF1fEkrhFB"
+    },
+    {
+      "album": {
         "name": "Neelofar - The Film",
         "url": "https://open.spotify.com/album/1uvTjCvn9NUXqSA5s7Ppaf"
       },
@@ -11514,6 +11612,24 @@
       "duration_ms": 143673,
       "name": "Two Tone",
       "url": "https://open.spotify.com/track/38e6iRdQnSBVIgLGxFiqYz"
+    },
+    {
+      "album": {
+        "name": "Seasons of Sartaaj",
+        "url": "https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342585,
+      "name": "Udaarian",
+      "url": "https://open.spotify.com/track/3K3mo4LoxPKk18oqIC3hQC"
     },
     {
       "album": {
@@ -12184,7 +12300,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 227441,
       "name": "Winning Speech",
       "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"
@@ -12456,7 +12572,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 207215,
       "name": "Zalim Nazron Se",
       "url": "https://open.spotify.com/track/7nc3VTV5y2yNhUPH2CTT9L"

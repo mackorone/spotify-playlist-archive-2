@@ -3501,6 +3501,28 @@
     },
     {
       "album": {
+        "name": "Disney Peaceful Strings: Enchanted",
+        "url": "https://open.spotify.com/album/4DaP0EiSR4ARb3c808jR3A"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221888,
+      "name": "So Close",
+      "url": "https://open.spotify.com/track/2K0KxRYpWEP746PoHXgd9r"
+    },
+    {
+      "album": {
         "name": "Disney Guitar: Love",
         "url": "https://open.spotify.com/album/0cDO2axPuP9qdavq42rMug"
       },
@@ -4668,6 +4690,28 @@
       "duration_ms": 200350,
       "name": "When You Wish Upon a Star",
       "url": "https://open.spotify.com/track/3PaDJuJpMegwoZXFyQEt6C"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Strings: Enchanted",
+        "url": "https://open.spotify.com/album/4DaP0EiSR4ARb3c808jR3A"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114026,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/5AOZdnA2vATY1v7p5ycwq4"
     },
     {
       "album": {

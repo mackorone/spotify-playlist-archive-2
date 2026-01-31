@@ -384,7 +384,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 292864,
       "name": "Another Life (Live From Paradiso)",
       "url": "https://open.spotify.com/track/35FZ6LpxlOQUCvrazLeBw1"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 192626,
       "name": "Ballin'",
       "url": "https://open.spotify.com/track/6qWfJkV2jRO5RkOIZMC3hL"
@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Bet",
+        "url": "https://open.spotify.com/album/0OYistQeliN0hrwOmOUd7j"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122033,
+      "name": "Bet",
+      "url": "https://open.spotify.com/track/1mbW86eR8OhhH8fokyO961"
+    },
+    {
+      "album": {
         "name": "A Muse In Her Feelings",
         "url": "https://open.spotify.com/album/153lLZKTVw25BTcLuXB8ME"
       },
@@ -744,7 +762,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 302315,
       "name": "Bittersweet (Live From Paradiso)",
       "url": "https://open.spotify.com/track/77pzqV43zsIXdl4vxUMUc5"
@@ -762,7 +780,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 147386,
       "name": "Bob Curry",
       "url": "https://open.spotify.com/track/2CfsPsyLNlWR9V9Ak2OJMx"
@@ -960,7 +978,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 91923,
       "name": "Budge",
       "url": "https://open.spotify.com/track/2FmWy3Qm7mtLv88yUYWsZY"
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 242789,
       "name": "Calm Waters",
       "url": "https://open.spotify.com/track/2hXUdn16IRBwOLC9OkawZc"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 251377,
       "name": "Calm Waters (Live From Paradiso)",
       "url": "https://open.spotify.com/track/2tEolvJljw3OfGzbzyIXid"
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 187091,
       "name": "Celestial (Live From Paradiso)",
       "url": "https://open.spotify.com/track/1cra7bQ5jVw1DJ1vy6iJSr"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 172096,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4gSHqOa3TRA2QY0xY3hHpx"
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 202040,
       "name": "Definition Of Love (Live From Paradiso)",
       "url": "https://open.spotify.com/track/34EHHxLSc0xwIqZg5c2lrB"
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 190010,
       "name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
       "url": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 155283,
       "name": "Faddah",
       "url": "https://open.spotify.com/track/09O3CNEkveuyXPyJ40UoVp"
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 202202,
       "name": "Feels Like Home (Live From Paradiso)",
       "url": "https://open.spotify.com/track/6Wec7Iso1PAVfQ4UZHVGhQ"
@@ -2953,6 +2971,28 @@
     },
     {
       "album": {
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227880,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
+    },
+    {
+      "album": {
         "name": "Hold Still",
         "url": "https://open.spotify.com/album/0MgpMLfL1RdVqZWztwKu06"
       },
@@ -3120,10 +3160,28 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 192000,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/5yi9vna4VxfT4YzfIkBsyw"
+    },
+    {
+      "album": {
+        "name": "BITTERSWEET",
+        "url": "https://open.spotify.com/album/25uW6S2ieDkddYvvT8HJOL"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68356,
+      "name": "I'm Not Ready",
+      "url": "https://open.spotify.com/track/4CW4Br8GkJZbwptNovp87S"
     },
     {
       "album": {
@@ -3400,7 +3458,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 183990,
       "name": "L o s e M y M i n d",
       "url": "https://open.spotify.com/track/7mrFGO24hccC48c2hQzyEC"
@@ -4376,7 +4434,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 241023,
       "name": "NOKIA",
       "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
@@ -4412,7 +4470,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 150874,
       "name": "Not a Fan",
       "url": "https://open.spotify.com/track/5jZ5DDYIStLNZdpYbjQacL"
@@ -4560,7 +4618,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 168322,
       "name": "Oliver North",
       "url": "https://open.spotify.com/track/12N241hSvi0Pb698lPmBrI"
@@ -4739,6 +4797,24 @@
     },
     {
       "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272269,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/2G7r3ueCCNEBkAgqOR9Jwq"
+    },
+    {
+      "album": {
         "name": "Rolling Stone",
         "url": "https://open.spotify.com/album/2NCjWghja3xm14FIxa5mfv"
       },
@@ -4914,10 +4990,36 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 118153,
       "name": "PIMMIE'S DILEMMA",
       "url": "https://open.spotify.com/track/3CY3zAjrxKVInh2Lq1QiRb"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/2v6x8JNW3DdI0IBkKdrBvt"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "PIMMIE'S DILEMMA",
+      "url": "https://open.spotify.com/track/4cwyp1aL1q3LfGCteqe8tL"
     },
     {
       "album": {
@@ -5154,7 +5256,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 194733,
       "name": "R e a l W o m a n",
       "url": "https://open.spotify.com/track/7FzUJj4UzBlswK4EmF6BDK"
@@ -5172,7 +5274,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 224187,
       "name": "R e s e n t m e n t",
       "url": "https://open.spotify.com/track/2LHJHzuCQV0VQHJOdNufjH"
@@ -5266,10 +5368,32 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 185625,
       "name": "Ratchet Baby (feat. Roy Woods)",
       "url": "https://open.spotify.com/track/2z20rlxnNXHCLnUsYgcZ2f"
+    },
+    {
+      "album": {
+        "name": "Never Box Me In",
+        "url": "https://open.spotify.com/album/2cCsOJ8BdHhWj5VYu5YOdH"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Ratchet Baby (feat. Roy Woods)",
+      "url": "https://open.spotify.com/track/5XPdSG6j3t1M625TwLiM6i"
     },
     {
       "album": {
@@ -5818,7 +5942,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 213051,
       "name": "Soft Like Dawn",
       "url": "https://open.spotify.com/track/7nB4kYTk2TigQl3QnBkU2n"
@@ -5836,7 +5960,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 118813,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL"
@@ -6488,7 +6612,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 299471,
       "name": "The Only Love We Know (Live From Paradiso)",
       "url": "https://open.spotify.com/track/5Xynabvwxab6SQ6spsErZT"
@@ -6542,7 +6666,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 149504,
       "name": "Time And Trust",
       "url": "https://open.spotify.com/track/1eWH4VqJ6O3AZ6NOSYgpaj"
@@ -7288,7 +7412,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 192279,
       "name": "What I Used To Get Into",
       "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
@@ -7346,7 +7470,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 196883,
       "name": "Whatchu Mean",
       "url": "https://open.spotify.com/track/6vgRACWQuPdrXMegR27fwZ"
@@ -7538,7 +7662,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 207272,
       "name": "You're So Right",
       "url": "https://open.spotify.com/track/5zpqx4EOltJxZEoYYlZOQz"

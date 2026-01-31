@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 232561,
       "name": "Archway",
       "url": "https://open.spotify.com/track/7dYWVK67QlZpzozutKTnDI"
@@ -3760,6 +3760,24 @@
       "duration_ms": 152144,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/7ly3lOOTrL6k4FjyAPDydS"
+    },
+    {
+      "album": {
+        "name": "Break the lines",
+        "url": "https://open.spotify.com/album/5Yozs3uJhsT54sRtK0BTqV"
+      },
+      "artists": [
+        {
+          "name": "Buddy Kearnan Quartet",
+          "url": "https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185449,
+      "name": "Break the lines",
+      "url": "https://open.spotify.com/track/6bKxkGEyWDa9dYFLW1rCoS"
     },
     {
       "album": {
@@ -11562,7 +11580,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 199002,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/57SCq7ZXSwvDkeScWWg5MG"
@@ -16551,6 +16569,24 @@
     },
     {
       "album": {
+        "name": "Moontrace",
+        "url": "https://open.spotify.com/album/2TcTyW1Q1pjse18qKg8J99"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonzalez",
+          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224589,
+      "name": "Moontrace",
+      "url": "https://open.spotify.com/track/177aQsv39LMywphoVqjzbd"
+    },
+    {
+      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5"
       },
@@ -18596,7 +18632,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 160729,
       "name": "One Last Drink",
       "url": "https://open.spotify.com/track/5AcCZOaMKpm91wrnzhmPRA"
@@ -21906,6 +21942,24 @@
       "duration_ms": 236151,
       "name": "Someone",
       "url": "https://open.spotify.com/track/2GcsjMayUVpsgl0ohWhDpe"
+    },
+    {
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/7938RavrEGa7m0a27SfyDF"
+      },
+      "artists": [
+        {
+          "name": "Manor Blue",
+          "url": "https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210975,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/5wAMjUM2Ge6M7mL85ICnzQ"
     },
     {
       "album": {
@@ -26629,6 +26683,24 @@
     },
     {
       "album": {
+        "name": "Upon stars",
+        "url": "https://open.spotify.com/album/3rWLGOJuKwX9riUpAiL06h"
+      },
+      "artists": [
+        {
+          "name": "Novo Stella",
+          "url": "https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174927,
+      "name": "Upon stars",
+      "url": "https://open.spotify.com/track/62tg0mdK6VGKG5JEttYzXW"
+    },
+    {
+      "album": {
         "name": "Upstairs",
         "url": "https://open.spotify.com/album/734XVIU7tldRvB7cuUtmFX"
       },
@@ -26658,7 +26730,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 200725,
       "name": "Urban Escape",
       "url": "https://open.spotify.com/track/2aSmieZcZRyKahkTfkkKly"

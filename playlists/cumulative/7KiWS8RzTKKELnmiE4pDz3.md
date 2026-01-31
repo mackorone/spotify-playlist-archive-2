@@ -4,7 +4,7 @@
 
 > 
 
-1,328 songs - 2 day 21 hr 58 min
+1,329 songs - 2 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Good Life](https://open.spotify.com/track/4YBjcmSkH6n7jVaTHsNguq) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/0XBPjgCUeBLeZEnz0J3W6m), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [Joseph](https://open.spotify.com/artist/1o78uxvWqkKcMs2EVUjw1F) | [Below the Heavens](https://open.spotify.com/album/2OnNdRdzqs0Xe6VU2uGdPe) | 5:23 | 2025-03-04 |  |
 | [Goodbye Horses](https://open.spotify.com/track/0J2cgvHznJVOgJPwRCZi9r) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [Eyesis](https://open.spotify.com/artist/1G3WyhZvBWTDaPHVP1g5Ta) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 3:03 | 2024-10-23 | 2025-05-21 |
 | [Got rich](https://open.spotify.com/track/37WtW8yj9PfLuM4YMnMIj1) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:01 | 2023-01-06 | 2023-05-09 |
+| [Gotta Be Me](https://open.spotify.com/track/3hFn8DVuqyvz6c8PR8M5nY) | [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi) | [Gotta Be Me](https://open.spotify.com/album/3azrffqHWJSnl0xtyZZhRD) | 4:12 | 2026-01-31 |  |
 | [Gotta Blast \(feat\. Diego Money & Bandman Fari\)](https://open.spotify.com/track/7de1qGSxUfnKLNqncRksuk) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB), [Diego Money](https://open.spotify.com/artist/0SVbeXuRTG8bc7NJ33JYB6), [Bandmanfari](https://open.spotify.com/artist/6h5EZQ3OJCVadk8yOKSUPx) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 2:11 | 2022-05-16 | 2024-03-05 |
 | [Gotta Find It](https://open.spotify.com/track/6iYiQdYGDFtncKdmF7V9u3) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Now \(Expanded Edition\)](https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS) | 4:28 | 2025-06-03 |  |
 | [Goyard](https://open.spotify.com/track/5nBBdfEP8RYglPxTClmvW7) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Serious](https://open.spotify.com/album/6vAdaRFZy95JxZqmt9q0wk) | 2:18 | 2022-12-25 | 2023-12-14 |

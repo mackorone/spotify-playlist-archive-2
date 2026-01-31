@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Kid Yugi,  Niky Savage e Capo Plaza, Rondodasosa, Fudasca con Side Baby, Ketama126 e Close Listen e molti altri.
 
-6,746 songs - 12 day 10 hr 28 min
+6,747 songs - 12 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -974,6 +974,7 @@
 | [Briciole \(feat\. Lil Kvneki, J Lord\)](https://open.spotify.com/track/68wcLxkh3LCxxT7CSdObV7) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Briciole \(feat\. Lil Kvneki, J Lord\)](https://open.spotify.com/album/3X1xQUflcgDsY09ylSwPrM) | 3:32 | 2024-09-26 | 2024-10-18 |
 | [Bricks](https://open.spotify.com/track/59RVTRsJCrbxjmIOLT2auU) | [Tommy Brillante](https://open.spotify.com/artist/3h4O6TeqWlerxYOmNvXQ4A), [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [Bricks](https://open.spotify.com/album/42gd6fvDXBuOPZNn0HpzeF) | 1:53 | 2022-10-27 | 2022-11-18 |
 | [Britney](https://open.spotify.com/track/5px6wydIxz9Z4ONr4Zk57x) | [Pirrons](https://open.spotify.com/artist/5GNm6r9ruYWX2EMXjt2B1O) | [Britney](https://open.spotify.com/album/41GQ9DVigGfEOXCXdgfsvT) | 1:52 | 2025-11-28 | 2025-12-19 |
+| [BRIXTON TOWN \(ft\. Alborosie\)](https://open.spotify.com/track/3GPy45bEhq7TJU3mMQY06h) | [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [BRIXTON TOWN \(ft\. Alborosie\)](https://open.spotify.com/album/4fy4ttdnUG5HSq8x3ocoJh) | 1:51 | 2026-01-30 |  |
 | [BRO + BRO](https://open.spotify.com/track/3CstN7Phz8XxpTy6kmQCKf) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [BRO + BRO](https://open.spotify.com/album/3GDforQI9qwt38lQLj5ji7) | 2:51 | 2023-05-11 | 2023-06-02 |
 | [Broke](https://open.spotify.com/track/0P2PYTMHCVgmqWPhK5aYhO) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [Broke](https://open.spotify.com/album/1ThygXZBEM1kP6Z0M0ltX5) | 2:07 | 2023-09-21 | 2023-10-20 |
 | [Broke](https://open.spotify.com/track/1zemNOmuQYptCtCc3QQbph) | [Dow](https://open.spotify.com/artist/4NsfATMFuftiYl9rWEEuYE) | [Broke](https://open.spotify.com/album/1dyaNG80ysasdkNS4E2K3q) | 1:53 | 2023-11-09 | 2023-11-17 |

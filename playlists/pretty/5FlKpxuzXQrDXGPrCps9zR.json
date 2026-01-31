@@ -6,7 +6,7 @@
     "name": "dylan",
     "url": "https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i"
   },
-  "snapshot_id": "AAABZVWHo8qMiqtKDPOSL/dFX5cPH8df",
+  "snapshot_id": "AAABZqAGhyREBv/t1RgvlUim/aVMHntH",
   "tracks": [
     {
       "added_at": "2025-08-29 18:35:19",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/1FSfCzJd8aSQ0nqTSbN4PO"
     },
     {
+      "added_at": "2026-01-29 20:09:48",
+      "album": {
+        "name": "Kansas Anymore",
+        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 169974,
+      "name": "Writing's On The Wall",
+      "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
+    },
+    {
       "added_at": "2026-01-21 17:58:57",
       "album": {
         "name": "Timeless",
@@ -303,22 +319,6 @@
       "duration_ms": 245664,
       "name": "Vodka Cranberry",
       "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
-    },
-    {
-      "added_at": "2026-01-29 20:09:48",
-      "album": {
-        "name": "Kansas Anymore",
-        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 169974,
-      "name": "Writing's On The Wall",
-      "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
     }
   ],
   "unique_name": "THE playlist",

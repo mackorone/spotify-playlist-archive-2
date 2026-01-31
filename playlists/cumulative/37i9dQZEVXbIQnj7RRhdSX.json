@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 127499,
       "name": "7ELEVEN",
       "url": "https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq"
@@ -3294,7 +3294,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 161400,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/5TD5NrlLNa3aVDH46DUhMD"
@@ -12294,7 +12294,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 209962,
       "name": "COME SE NON FOSSI NEI GUAI",
       "url": "https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM"
@@ -27908,7 +27908,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp"
@@ -27926,7 +27926,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI"
@@ -41104,7 +41104,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 303032,
       "name": "Ora che non ho pi\u00f9 te",
       "url": "https://open.spotify.com/track/25idOmfSOCGGdgPhw9iCRm"
@@ -47402,6 +47402,28 @@
       "duration_ms": 154021,
       "name": "Rotta maggiore (Partenza)",
       "url": "https://open.spotify.com/track/4KPisMEeA3CYMx1vfUSGYr"
+    },
+    {
+      "album": {
+        "name": "TRAPPER",
+        "url": "https://open.spotify.com/album/1GRFmMBH1Y0P4DFMvseDZS"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200888,
+      "name": "ROVA (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2tn3eqpzvgoeXCsymtsSdN"
     },
     {
       "album": {
@@ -60170,6 +60192,24 @@
       "duration_ms": 185759,
       "name": "Yung 3p 4",
       "url": "https://open.spotify.com/track/3QCIdXmwSgQtHR7v7o3M9A"
+    },
+    {
+      "album": {
+        "name": "ZACK & CODY",
+        "url": "https://open.spotify.com/album/21bF2d3IN6A5l8xO4YTt9j"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128674,
+      "name": "ZACK & CODY",
+      "url": "https://open.spotify.com/track/6JO9XKYlcaSJsag6mWpk4q"
     },
     {
       "album": {

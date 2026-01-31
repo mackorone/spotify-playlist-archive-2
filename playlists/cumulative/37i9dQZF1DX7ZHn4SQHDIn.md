@@ -4,7 +4,7 @@
 
 > All in us! ITZY is back!
 
-213 songs - 11 hr 6 min
+214 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Louder](https://open.spotify.com/track/5QJuILYkvFC2eceU6nLQ9f) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) | 3:21 | 2022-04-20 |  |
 | [LOVE is](https://open.spotify.com/track/3ppdTc5q8S2Mn8FpD97CTQ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:27 | 2022-07-22 | 2024-04-19 |
 | [LOVE is](https://open.spotify.com/track/5ezx4XG58DNj74FtGLUaNU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:27 | 2022-04-20 |  |
+| [Midnight Glow \(No tail to tell : Original Television Soundtrack\)](https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx) | [CHAERYEONG \(ITZY\)](https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs) | [No tail to tell, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN) | 3:13 | 2026-01-30 |  |
 | [Mine \(CHAERYEONG\)](https://open.spotify.com/track/0vVjP9MvzcaGdy2gKgbGcb) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 2:48 | 2024-01-08 | 2024-04-19 |
 | [Mine \(CHAERYEONG\)](https://open.spotify.com/track/7A4upE66kerzL1XCNVDnVY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 2:48 | 2024-01-08 |  |
 | [Mirror](https://open.spotify.com/track/4yYr4DzjAD7JZIrSd1CoZT) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 4:18 | 2022-04-20 |  |

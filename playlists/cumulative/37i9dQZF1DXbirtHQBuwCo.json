@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nYOUNGJOO(\uc601\uc8fc))",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nDIMO REX)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 221693,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
@@ -2108,6 +2108,24 @@
       "duration_ms": 251475,
       "name": "Blessed (Feat. GSoul)",
       "url": "https://open.spotify.com/track/2rt1yVMnPbvuKJU7hKqAi3"
+    },
+    {
+      "album": {
+        "name": "INTOXICATED",
+        "url": "https://open.spotify.com/album/7CRoouenkq1sJfYwVxCvVG"
+      },
+      "artists": [
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "BLESSIN",
+      "url": "https://open.spotify.com/track/0EYceSBCU4W21KSNy6w4op"
     },
     {
       "album": {

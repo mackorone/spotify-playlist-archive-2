@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 177620,
       "name": "AnimEl",
       "url": "https://open.spotify.com/track/1mXWDNhr5fBS38wnXqsh8A"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 161785,
       "name": "Assembly",
       "url": "https://open.spotify.com/track/5mgflX71JVHpVomQoQGhnG"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 249130,
       "name": "B.O.H",
       "url": "https://open.spotify.com/track/59Rk6nuKbwujYHiHQhOkV9"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 178096,
       "name": "Casual",
       "url": "https://open.spotify.com/track/04vbqTabvnBVNS529gCjr7"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 126931,
       "name": "Descent From the Heavens",
       "url": "https://open.spotify.com/track/3IKqDr3H0uSEAqwS8uXJ6z"
@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 164972,
       "name": "Everlasting Energy",
       "url": "https://open.spotify.com/track/5CFgDie02AjtB8Kf0fX8PN"
@@ -2756,6 +2756,24 @@
       "duration_ms": 158823,
       "name": "Forest of Sin",
       "url": "https://open.spotify.com/track/7irQGbq5KxxRpSWQn07YNp"
+    },
+    {
+      "album": {
+        "name": "four walls",
+        "url": "https://open.spotify.com/album/6eoPOVDUPNbOULFfC0hS8B"
+      },
+      "artists": [
+        {
+          "name": "fragmnts",
+          "url": "https://open.spotify.com/artist/0sr2x2un7goOqJBmtiEKZP"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101977,
+      "name": "four walls",
+      "url": "https://open.spotify.com/track/47CuKxF91sAclurDwKkIQM"
     },
     {
       "album": {
@@ -3595,6 +3613,42 @@
     },
     {
       "album": {
+        "name": "2014",
+        "url": "https://open.spotify.com/album/3HesRVazqkvFh4JyKw0vve"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121269,
+      "name": "In Motion",
+      "url": "https://open.spotify.com/track/70nfaAtA0tqohCU52f5s3l"
+    },
+    {
+      "album": {
+        "name": "in the tempest",
+        "url": "https://open.spotify.com/album/0AYzYpzV1oCKDeWwbG9TxG"
+      },
+      "artists": [
+        {
+          "name": "petitula",
+          "url": "https://open.spotify.com/artist/5w7NWdoq7vFqGETaruABww"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119250,
+      "name": "in the tempest",
+      "url": "https://open.spotify.com/track/6TV9vIIPewVs0rCw2ZTCWf"
+    },
+    {
+      "album": {
         "name": "Insonmia",
         "url": "https://open.spotify.com/album/6Ixx5aklSbmzhdn6NLc3VF"
       },
@@ -3678,7 +3732,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 150851,
       "name": "Jetset",
       "url": "https://open.spotify.com/track/7dGTXRCBJ3cICSy9hk7BH5"
@@ -3786,7 +3840,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 184691,
       "name": "Justified",
       "url": "https://open.spotify.com/track/5B3o3dGWUneZVJovkXP6Gd"
@@ -3804,7 +3858,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 257746,
       "name": "Kawakawa",
       "url": "https://open.spotify.com/track/3y20jsjCWlfyTTrvu4apCC"
@@ -3826,6 +3880,24 @@
       "duration_ms": 177692,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/0v5gPiLqq5C2cQrLr1S9VK"
+    },
+    {
+      "album": {
+        "name": "keeping quiet",
+        "url": "https://open.spotify.com/album/0B2f2RQcfWgYxFl2Gp9n7f"
+      },
+      "artists": [
+        {
+          "name": "allbelow",
+          "url": "https://open.spotify.com/artist/7KbyoaBgM7uMBITNzfHFi4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108352,
+      "name": "keeping quiet",
+      "url": "https://open.spotify.com/track/5XrzUKdIIO3IkoFU3rC0or"
     },
     {
       "album": {
@@ -4074,7 +4146,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 210212,
       "name": "Level 16",
       "url": "https://open.spotify.com/track/5Zcn0i0f8d33pCeau5DRTn"
@@ -4175,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "Lights Flickering",
+        "url": "https://open.spotify.com/album/4iTBRdH5gHi59iJGJwMxmN"
+      },
+      "artists": [
+        {
+          "name": "Resting Soil",
+          "url": "https://open.spotify.com/artist/2cmeZEPxMfxw8NG2LGkraO"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155399,
+      "name": "Lights Flickering",
+      "url": "https://open.spotify.com/track/3Z2cu9eLzZf4cpfzIFRqfV"
+    },
+    {
+      "album": {
         "name": "lilja",
         "url": "https://open.spotify.com/album/4IBHQXKDfFzJVwxonoZbYt"
       },
@@ -4258,7 +4348,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 157464,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/4MPS8kSzTiVFhgv9MDJncU"
@@ -5058,7 +5148,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 191959,
       "name": "Nite Flight",
       "url": "https://open.spotify.com/track/3AJvAH7PQB6h2P7W2KKEUN"
@@ -5188,6 +5278,24 @@
       "duration_ms": 148000,
       "name": "One Call Away",
       "url": "https://open.spotify.com/track/2QyqR3aM0QBsgoFBALBVyR"
+    },
+    {
+      "album": {
+        "name": "One Known",
+        "url": "https://open.spotify.com/album/4m9cJBbnfPrgaoPYcOHqS3"
+      },
+      "artists": [
+        {
+          "name": "Solace & Flow",
+          "url": "https://open.spotify.com/artist/70hBB1BBfXzNnzP5NwCN7o"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191708,
+      "name": "One Known",
+      "url": "https://open.spotify.com/track/7wu0xZehFpXgykSYsP5ykW"
     },
     {
       "album": {
@@ -5569,6 +5677,24 @@
     },
     {
       "album": {
+        "name": "Porcelain II",
+        "url": "https://open.spotify.com/album/3AgpszNpUfq4EYKep8YOYy"
+      },
+      "artists": [
+        {
+          "name": "Lentia",
+          "url": "https://open.spotify.com/artist/0AKE83RUGa20NvsAep3UHb"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149055,
+      "name": "Porcelain II",
+      "url": "https://open.spotify.com/track/3D5uaMe1yGiTvdnsss3l3C"
+    },
+    {
+      "album": {
         "name": "Wheel of Life",
         "url": "https://open.spotify.com/album/2SwyzaK73I5ynws5UNyfyg"
       },
@@ -5814,7 +5940,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 121411,
       "name": "Raw Takes",
       "url": "https://open.spotify.com/track/04DVUpEzu58MzRgtDwkMbj"
@@ -6110,7 +6236,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 146482,
       "name": "Rogam por Mim",
       "url": "https://open.spotify.com/track/0jXRaToO4DgRESna2AEFhB"
@@ -6526,7 +6652,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 174069,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/6iKOQlbQaP1ml7Rcnz40mL"
@@ -6562,7 +6688,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 158614,
       "name": "Sinking ships",
       "url": "https://open.spotify.com/track/0Zhn2UKdk85ZjJQWgTsN4L"
@@ -6822,6 +6948,24 @@
       "duration_ms": 147906,
       "name": "Staircases",
       "url": "https://open.spotify.com/track/6ykUnjuJtOCcxTjLOwL0A2"
+    },
+    {
+      "album": {
+        "name": "standstill",
+        "url": "https://open.spotify.com/album/0VKy3GueKsfmBGb2NfpXI7"
+      },
+      "artists": [
+        {
+          "name": "lostcache",
+          "url": "https://open.spotify.com/artist/2LutPSn7ak1gJfBAuNsOJM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111494,
+      "name": "standstill",
+      "url": "https://open.spotify.com/track/1IgfImehyDRM5dGqMizPKR"
     },
     {
       "album": {
@@ -7384,7 +7528,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 145960,
       "name": "The Girl",
       "url": "https://open.spotify.com/track/1iQaEZV0gvXQOTwET11wIL"
@@ -7777,6 +7921,24 @@
     },
     {
       "album": {
+        "name": "Umbrella Ghost",
+        "url": "https://open.spotify.com/album/3395KszSVPJKv47dGtuLMN"
+      },
+      "artists": [
+        {
+          "name": "Slumber Creek",
+          "url": "https://open.spotify.com/artist/2o7CsjdbCrSDeev90xrV6K"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "Umbrella Ghost",
+      "url": "https://open.spotify.com/track/67uEnoj8joroo4CpA4SsPQ"
+    },
+    {
+      "album": {
         "name": "Under Blue",
         "url": "https://open.spotify.com/album/2OEPCvtFSVgaQzVDcqGX61"
       },
@@ -7806,7 +7968,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 190073,
       "name": "Underlying Cause",
       "url": "https://open.spotify.com/track/42eEBz1XT0b0uvZDZPisyL"
@@ -7860,7 +8022,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 192000,
       "name": "Unimerse",
       "url": "https://open.spotify.com/track/4zG5rjF0PLcuVu6u43OgQD"
@@ -7932,7 +8094,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 169185,
       "name": "Vermilion",
       "url": "https://open.spotify.com/track/2jTt400XuvBW6EhMASvVEY"
@@ -7986,7 +8148,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-31",
       "duration_ms": 144761,
       "name": "Visionary",
       "url": "https://open.spotify.com/track/0XkVZEVCIQGT7TxlPeB6tp"

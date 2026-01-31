@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,980 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,014 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dare to Fly \- Brazilian Version](https://open.spotify.com/track/0ybsazJTUH0PyjA8RAYTP2) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Dare to Fly \(Brazilian Version\)](https://open.spotify.com/album/4sv6sHhnthTwBY8KuQqWYL) | 5:37 |
+| 1 | [The Upside](https://open.spotify.com/track/2CHGnTJU7LIoFg3bBiIXKq) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [The Upside](https://open.spotify.com/album/5ueGrl44bCJmBDPiwHms0N) | 4:23 |
 | 2 | [Live n' Learn \- Radio Version](https://open.spotify.com/track/3hUHWDxeEwa80JKIMMVYGZ) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Live n' Learn \(Radio Version\)](https://open.spotify.com/album/7dIZbHJbukXGYrb2Xh3rOn) | 3:45 |
 | 3 | [The Diamond](https://open.spotify.com/track/7fqZbjcr0ZHxckKZNlW76v) | [Steve Bach](https://open.spotify.com/artist/3D5yBvdAeYy4tUd7hHXCzS), [Alisha Pattillo](https://open.spotify.com/artist/3gT1IaoSPIqTItiykIp5uU) | [The Diamond](https://open.spotify.com/album/0C3ntqClW5078JX1je6doc) | 3:42 |
 | 4 | [Sir Charles \- Calypso](https://open.spotify.com/track/2rLvRE09NWrBUefhtf1NKH) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Robert Greenidge](https://open.spotify.com/artist/0qLI2jjlYqBgeJqgOqJaSR) | [Sir Charles \(Calypso\)](https://open.spotify.com/album/08qVwxWNjGvtHJBB1pSOlx) | 6:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Our Night](https://open.spotify.com/track/0MVwhMNLPjnZssyiYPDrg4) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Our Night](https://open.spotify.com/album/11S03JFEOKyrRjabBbhIyt) | 4:04 |
 | 100 | [Undulation](https://open.spotify.com/track/5iIWIbNwJRudKJfAzAD7YH) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Undulation](https://open.spotify.com/album/39FFRTCXimTQgkeQ2pBv6d) | 4:53 |
 
-Snapshot ID: `AAAAAJ4iUkd0PfGsYkbXWqcMzhuNSlFm`
+Snapshot ID: `AAAAALF+KYY0P3VvRHc5dbDM+c9rEjuP`
