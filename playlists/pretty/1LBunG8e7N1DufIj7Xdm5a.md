@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 3,925 songs - 8 day 16 hr 17 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 3,944 songs - 8 day 17 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3933,5 +3933,24 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3923 | [landed in nyc](https://open.spotify.com/track/7bkJhvHFUNWkGiO9wi1dyJ) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [landed in nyc](https://open.spotify.com/album/1bR1HCxHv9onaYxqJKR5b9) | 1:50 |
 | 3924 | [Öylece Bıraktığın Yerden](https://open.spotify.com/track/3nfQOWD7pmZjEcPrwXBanW) | [zibidi gonzales](https://open.spotify.com/artist/4AZqCD8QOtlTnQ4S37Z1VN) | [Gurursuz](https://open.spotify.com/album/2giFMp6p1IUf54NyJ9A35f) | 4:07 |
 | 3925 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 |
+| 3926 | [Who I Am](https://open.spotify.com/track/60Pz3OvkCnkau2CLPqSZnE) | [DEN BAURIN](https://open.spotify.com/artist/7ExDLUrSU5JolcpRRnFmGE) | [Who I Am](https://open.spotify.com/album/18vXi7DzcAEuZ3wJRiLPpQ) | 2:52 |
+| 3927 | [Taste the Night](https://open.spotify.com/track/3phuQN6O9sUV18sV9rD5ue) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 2:26 |
+| 3928 | [She's My Poison](https://open.spotify.com/track/6hOC8kbaSGJr214qQoykzA) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 2:21 |
+| 3929 | [Friday Night](https://open.spotify.com/track/1gdU70maMbM1f4ggK6CO9X) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 2:56 |
+| 3930 | [I like Pizza, Spaghetti, Pomodoro](https://open.spotify.com/track/5IDTBGw2OrqFhD6ugvr6ou) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 1:56 |
+| 3931 | [Jump Again](https://open.spotify.com/track/0nLkSJpGTFWEfbdFBZPpsc) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 2:33 |
+| 3932 | [Mírame Baila](https://open.spotify.com/track/0wNQYqu4Xamg09sbSqyQpZ) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 2:35 |
+| 3933 | [Night Vibes Luxury](https://open.spotify.com/track/3RUsxsTFozJf1KfDGpeV3d) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 3:14 |
+| 3934 | [Body Languange](https://open.spotify.com/track/43Zqohf2SAkgSMhIp7nr7P) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 3:37 |
+| 3935 | [90s NextGen](https://open.spotify.com/track/6bRMEPuJfWsUZu1l7uFsa9) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [90s NextGen](https://open.spotify.com/album/1BTljmZ8il1iSP09Bc12fS) | 2:54 |
+| 3936 | [Gin tonic sulla neve](https://open.spotify.com/track/5iiW1CMlN1jFGE7348D142) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt), [Luca Berga](https://open.spotify.com/artist/2lQTeZR7h9sPvnZexNQSFr) | [Gin tonic sulla neve](https://open.spotify.com/album/4YwMJVkYTmDr9EPjr3v6u3) | 2:33 |
+| 3937 | [Skipp con Fuego \- Radio Edit](https://open.spotify.com/track/5kDOjWqiu8QzJpAHFzAEIA) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Skipp con Fuego \(Radio Edit\)](https://open.spotify.com/album/20VRYB2CTtjZux0D0wORZN) | 2:40 |
+| 3938 | [Rub My Mind](https://open.spotify.com/track/72uPfAkL3vv5stdJSXv0WZ) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Rub My Mind](https://open.spotify.com/album/4friOnr1bMbdA5jKmBhOAl) | 3:24 |
+| 3939 | [Riflesso di me](https://open.spotify.com/track/5jXmMokEYA03s3KYMg9lUB) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Riflesso di me](https://open.spotify.com/album/1ZMzareBq5KUc7C89dbAMH) | 3:22 |
+| 3940 | [Skipp con Fuego \- Extended Mix](https://open.spotify.com/track/4jjMWGlH0b3yjh8USGrcN0) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Skipp con Fuego \(Extended Mix\)](https://open.spotify.com/album/1oWc6QOkdenkK702nw8qzy) | 3:38 |
+| 3941 | [BLOOM \(Butterfly vibes\)](https://open.spotify.com/track/7KeKLiAjEzQkBTOhw9MkCX) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt), [O'Russ](https://open.spotify.com/artist/4Xv7Fbw3FIVS97LvGmYYB9), [Noel Bibì](https://open.spotify.com/artist/73b5NTnBhKQ1PrZaMzScFA) | [BLOOM \(Butterfly vibes\)](https://open.spotify.com/album/0WnFBuKYV8tK12Bf3YeGVv) | 3:29 |
+| 3942 | [Muévelo Ja](https://open.spotify.com/track/4X4b1soLGAaoxyCowLv8Bf) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Muévelo Ja](https://open.spotify.com/album/6QKaEgSRyjQkhP45hTcjb8) | 3:18 |
+| 3943 | [Silent Pain](https://open.spotify.com/track/5x1orPalUNE0ZKmJsiOD1L) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Silent Pain](https://open.spotify.com/album/1wWXINZ89YMW7TmVP4TFxv) | 3:41 |
+| 3944 | [Pop 'n Drop](https://open.spotify.com/track/2ZmOBuuc8AdMnq315CrXgn) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Pop 'n Drop](https://open.spotify.com/album/7CBVQXhEAStiVFIuWRAxou) | 3:05 |
 
-Snapshot ID: `AAAG6OCHpzKGRQQKhZUzdRfJwIsZl6wP`
+Snapshot ID: `AAAG65XgjiF4AGz+FwTh6QTuALOGpIeu`

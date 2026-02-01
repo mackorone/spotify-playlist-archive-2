@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 574661,
+  "num_followers": 574787,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,18 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Sunir",
-        "url": "https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA"
+        "name": "Tales from the North",
+        "url": "https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx"
       },
       "artists": [
         {
-          "name": "IANAI",
-          "url": "https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh"
-        },
-        {
-          "name": "Client N",
-          "url": "https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF"
+          "name": "Tokt",
+          "url": "https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0"
         }
       ],
-      "duration_ms": 398160,
-      "name": "Anaia",
-      "url": "https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC"
+      "duration_ms": 212479,
+      "name": "Saga of the North",
+      "url": "https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -959,18 +955,22 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Tales from the North",
-        "url": "https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx"
+        "name": "Sunir",
+        "url": "https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA"
       },
       "artists": [
         {
-          "name": "Tokt",
-          "url": "https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0"
+          "name": "IANAI",
+          "url": "https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh"
+        },
+        {
+          "name": "Client N",
+          "url": "https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF"
         }
       ],
-      "duration_ms": 212479,
-      "name": "Saga of the North",
-      "url": "https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL"
+      "duration_ms": 398160,
+      "name": "Anaia",
+      "url": "https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Volch'ya Yagoda",
-        "url": "https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS"
-      },
-      "artists": [
-        {
-          "name": "Theodor Bastard",
-          "url": "https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF"
-        }
-      ],
-      "duration_ms": 249370,
-      "name": "Les",
-      "url": "https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Set the Sails",
         "url": "https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 196066,
       "name": "Set the Sails",
       "url": "https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Volch'ya Yagoda",
+        "url": "https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS"
+      },
+      "artists": [
+        {
+          "name": "Theodor Bastard",
+          "url": "https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF"
+        }
+      ],
+      "duration_ms": 249370,
+      "name": "Les",
+      "url": "https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks"
     },
     {
       "added_at": "2025-11-14 04:00:17",

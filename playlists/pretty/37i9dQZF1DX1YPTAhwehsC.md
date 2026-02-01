@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,180 likes - 101 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,194 likes - 101 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 6 | [Lucky \(feat\. Bay Swag\)](https://open.spotify.com/track/3tz0qtH84pBaJNAIhNxLHu) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Lucky \(feat\. Bay Swag\)](https://open.spotify.com/album/0ocwA2O6QfLP9AgADTlYdt) | 2:59 |
 | 7 | [Yes Freestyle \(feat\. Sheff G\)](https://open.spotify.com/track/0qGH4Nwcv39LR70Bi5mYYM) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Yes Freestyle \(feat\. Sheff G\)](https://open.spotify.com/album/0S4LOOa2enVHI6ExvmrHHu) | 1:51 |
 | 8 | [Calm 3](https://open.spotify.com/track/7KtysXZ01Msd5W0k1BtLQl) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Calm 3](https://open.spotify.com/album/09foLjIsNzSc06T2bIWhEr) | 1:50 |
-| 9 | [Can't Change](https://open.spotify.com/track/1XYaYonYoSaeD0yYf14kuj) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Can't Change](https://open.spotify.com/album/6P8dcMZvwR4BgcLMA3RzPX) | 3:01 |
+| 9 | [Can't Change](https://open.spotify.com/track/1XYaYonYoSaeD0yYf14kuj) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Can't Change](https://open.spotify.com/album/6P8dcMZvwR4BgcLMA3RzPX) | 3:04 |
 | 10 | [Last Drink](https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Last Drink](https://open.spotify.com/album/4RAAZcbae57tp6h2joUZuu) | 2:36 |
 | 11 | [One And Only](https://open.spotify.com/track/6oZ9Qpb5BFl1mSQsAwL8jA) | [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9), [Shyst Vader](https://open.spotify.com/artist/4I5adK92x8iI08SorjLrYY) | [One And Only](https://open.spotify.com/album/35rFSAlSO2hjj0rp1MTg0H) | 3:00 |
 | 12 | [Rat Trap](https://open.spotify.com/track/3cTUJ3P0wlS9wv3b4CRa0R) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Rat Trap](https://open.spotify.com/album/6vsaxg3ZBwdP1ynRDtRNbj) | 2:48 |

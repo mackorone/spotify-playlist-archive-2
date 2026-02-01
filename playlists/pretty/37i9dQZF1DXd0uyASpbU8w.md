@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Sjava, DJ Maphorisa, Naledi Aphiwe & Mawelele, Q Twins, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,747 likes - 68 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,847 likes - 68 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

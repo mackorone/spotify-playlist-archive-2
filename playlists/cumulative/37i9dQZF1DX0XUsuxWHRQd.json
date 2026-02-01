@@ -39689,6 +39689,28 @@
     },
     {
       "album": {
+        "name": "ROCKSTAR RAGING (feat. Swae Lee)",
+        "url": "https://open.spotify.com/album/5gFv6vDkIvIAuEyXAqMa7Y"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278260,
+      "name": "ROCKSTAR RAGING (feat. Swae Lee)",
+      "url": "https://open.spotify.com/track/0HtowIRBzj2HqgO1XW6eJC"
+    },
+    {
+      "album": {
         "name": "Rocky Road (with Kodak Black)",
         "url": "https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer"
       },

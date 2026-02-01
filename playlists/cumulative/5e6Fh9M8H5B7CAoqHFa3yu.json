@@ -16383,6 +16383,24 @@
     },
     {
       "album": {
+        "name": "Latido",
+        "url": "https://open.spotify.com/album/0JfNRexOOM77SDxARoTJxl"
+      },
+      "artists": [
+        {
+          "name": "BORDONADO",
+          "url": "https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180501,
+      "name": "Latido",
+      "url": "https://open.spotify.com/track/4EbWNHuIQT77zPekmQXv03"
+    },
+    {
+      "album": {
         "name": "Laugh at the Lunch Table",
         "url": "https://open.spotify.com/album/3THZo1FtLGnetSmLQgv5PV"
       },
@@ -19314,6 +19332,24 @@
       "duration_ms": 153212,
       "name": "MOVING ENERGY",
       "url": "https://open.spotify.com/track/6oAKPTYnCnXM56U07Wmznn"
+    },
+    {
+      "album": {
+        "name": "Mischief and Mayhem",
+        "url": "https://open.spotify.com/album/0IonnFQaTjZvRJAj3d896O"
+      },
+      "artists": [
+        {
+          "name": "The Unk Skunk",
+          "url": "https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182999,
+      "name": "Mud, Sweat, and Tears",
+      "url": "https://open.spotify.com/track/2acNWnoObRre52q1zphDrJ"
     },
     {
       "album": {

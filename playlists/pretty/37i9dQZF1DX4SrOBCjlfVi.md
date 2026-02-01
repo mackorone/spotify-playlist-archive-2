@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring NLE Choppa, Don Toliver, Rod Wave and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,506 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,764 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 7 | [FLOW STATE](https://open.spotify.com/track/4ov53PbySjI7Si0c4S3zCE) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [FLOW STATE](https://open.spotify.com/album/2eG5VWtvHrwuZcZ84CfSM9) | 2:15 |
 | 8 | [Dice Roll](https://open.spotify.com/track/2wlXdyptZvW2kNOIYre49L) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW) | [Dice Roll](https://open.spotify.com/album/3l72epYLHoHxZzjGCGPykd) | 2:24 |
 | 9 | [fml .](https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [The Boy who cried Terrified .](https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o) | 2:40 |
-| 10 | [Can't Change](https://open.spotify.com/track/1XYaYonYoSaeD0yYf14kuj) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Can't Change](https://open.spotify.com/album/6P8dcMZvwR4BgcLMA3RzPX) | 3:01 |
+| 10 | [Can't Change](https://open.spotify.com/track/1XYaYonYoSaeD0yYf14kuj) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Can't Change](https://open.spotify.com/album/6P8dcMZvwR4BgcLMA3RzPX) | 3:04 |
 | 11 | [Trackhawk](https://open.spotify.com/track/1q8rWcQ8xXd6Q9NKdXNgDL) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Trackhawk](https://open.spotify.com/album/7Kj33Q2x72qmFqs6pmsQ67) | 1:59 |
 | 12 | [Squeeze First](https://open.spotify.com/track/0E5qrxehEzhaBVBJOZKsHi) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U) | [Squeeze First](https://open.spotify.com/album/5Dnp4AmChJ8QrRfDzdXYyK) | 3:09 |
 | 13 | [Lord Protect Me \(feat\. Roc Marciano\)](https://open.spotify.com/track/4adsnTOqKiDg0d0zmGq0G7) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Lord Protect Me \(feat\. Roc Marciano\)](https://open.spotify.com/album/4HV2Ow4JkmOtKu7khMZwmU) | 2:24 |

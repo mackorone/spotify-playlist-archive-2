@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: Tyler ICU
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,066 likes - 50 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,714 likes - 50 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Bacardi via sgidongo \(feat\. Kabza De Small & Mac Breezy\)](https://open.spotify.com/track/0XUkBLaeXu5mkyyq0gSpwY) | [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Mac Breezy](https://open.spotify.com/artist/6facK5VJmp5qoLbGPrwRf8) | [Mmino](https://open.spotify.com/album/1hNSCH7YL524bVEXbUJXaM) | 7:45 |
 | 50 | [Hhay wena Maan \(feat\. Scotts Maphuma & Uncool MC\)](https://open.spotify.com/track/5BpPQrkIre8tlDsBSBCPP4) | [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [Mbuxx](https://open.spotify.com/artist/3JQMhRMQlzHTD5RWpFROkk), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1) | [Estradini](https://open.spotify.com/album/6yYz4LATn0wC58jln0H1RL) | 6:17 |
 
-Snapshot ID: `AAAAAK7JPAlO3gvDiOD4BNPkil/c+7EA`
+Snapshot ID: `AAAAACyvsTnHKNBgeU/EbpTI++LM8Jjb`

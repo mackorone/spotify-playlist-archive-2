@@ -1,12 +1,12 @@
 {
   "description": "This is The XCERTS. The essential tracks, all in one playlist.",
-  "num_followers": 664,
+  "num_followers": 665,
   "original_name": "This Is The XCERTS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAAADZlcTYy0ownQJnaoI2pX4",
+  "snapshot_id": "aXv0gAAAAADOF/hUoi3Ku5n3iCm1pqsr",
   "tracks": [
     {
       "added_at": null,
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 199528,
-      "name": "Hold on to Your Heart",
-      "url": "https://open.spotify.com/track/6AZ94VHiLMNmtJGuIaKVyU"
+      "duration_ms": 214880,
+      "name": "We Are Gonna Live",
+      "url": "https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS"
     },
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 214880,
-      "name": "We Are Gonna Live",
-      "url": "https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS"
+      "duration_ms": 199528,
+      "name": "Hold on to Your Heart",
+      "url": "https://open.spotify.com/track/6AZ94VHiLMNmtJGuIaKVyU"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 212026,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G"
+      "duration_ms": 229640,
+      "name": "Drive Me Wild",
+      "url": "https://open.spotify.com/track/0vOuCoedkkXYOpU3QYkCBa"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So No One Told You Life Was Gonna Be This Way",
-        "url": "https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 152341,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/29p7YwJIPrek6T2dwrrVwK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alcopopular, Vol. 4 (A Feast of Pop)",
         "url": "https://open.spotify.com/album/0b0AYxMmxZhKvH6UuoGeOX"
       },
@@ -631,22 +615,6 @@
       "duration_ms": 369053,
       "name": "Home vs Home - Blueskies Remix",
       "url": "https://open.spotify.com/track/5muEIkHoRmhgQEQTjOC1H4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 317573,
-      "name": "Hurt with Me",
-      "url": "https://open.spotify.com/track/1jyz1bZTmvO1bfBK3f8sWk"
     },
     {
       "added_at": null,
@@ -679,6 +647,22 @@
       "duration_ms": 254106,
       "name": "He Sinks. He Sleeps",
       "url": "https://open.spotify.com/track/56z4syxpmOFBfrGAlM0VuR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 317573,
+      "name": "Hurt with Me",
+      "url": "https://open.spotify.com/track/1jyz1bZTmvO1bfBK3f8sWk"
     }
   ],
   "unique_name": "This Is The XCERTS",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > you met me at a very indie twang time in my life..\. Snocaps on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,906 likes - 155 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,918 likes - 155 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

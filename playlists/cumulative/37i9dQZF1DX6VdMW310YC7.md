@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,860 songs - 5 day 6 hr 22 min
+1,861 songs - 5 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [Everything All at Once](https://open.spotify.com/track/2FCu1NM98eXCds1M0ikzWj) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [The Ineffable Truth](https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS) | 4:28 | 2020-03-16 | 2021-01-23 |
 | [Everything All At Once](https://open.spotify.com/track/6GVwBMdjAAgI59pyvxa1XR) | [Jack Willard](https://open.spotify.com/artist/0DIqQmQ7dKsuCPx6LDJWK7), [Coastlines](https://open.spotify.com/artist/561yODCc2ueVijuuVw6kUK), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Everything All At Once](https://open.spotify.com/album/79qIARkVmChtiG0yTcs9Zv) | 4:05 | 2025-08-29 | 2025-12-20 |
 | [Everything At Your Feet \(feat\. The Chamanas\)](https://open.spotify.com/track/5s4VITF7fn0msBtnS2Cw71) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Chamanas](https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk) | [A Moment Apart](https://open.spotify.com/album/1t5AUjmNrLRxVIQ9FcBw10) | 3:28 | 2020-05-18 | 2020-07-18 |
+| [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs) | [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB) | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV) | 5:02 | 2026-01-30 |  |
 | [Exhale](https://open.spotify.com/track/3JVxMoCvTaEgnODlMxX378) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Exhale](https://open.spotify.com/album/0Dkj2r4S95C043ELdTDRjV) | 2:50 | 2021-01-08 | 2022-02-14 |
 | [Exodus Blue](https://open.spotify.com/track/3QmV65k5aAxUdxCBLQAtcW) | [CEAUS](https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4) | [Purified Fragments XI](https://open.spotify.com/album/4SPUU9PnlD5AsrntVOgCjc) | 5:18 | 2022-12-28 | 2023-01-06 |
 | [Explorers \(Instrumental\)](https://open.spotify.com/track/3pCXg1LVxAQVPFKQrMJ66W) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids \(The Instrumentals\)](https://open.spotify.com/album/77StEacT5IhWZLdj0Rj2W2) | 4:16 | 2020-03-20 | 2022-01-08 |
@@ -1580,7 +1581,7 @@
 | [Sweet Release](https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Sweet Release](https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO) | 3:46 | 2024-11-29 |  |
 | [Sweettalk my Heart \- Jeremy Olander Remix](https://open.spotify.com/track/3XPiumgtBwJskmYXIq2mS6) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Sweettalk my Heart \(Jeremy Olander Remix\)](https://open.spotify.com/album/0ePWnEpFXnRM4Fwy0Bjkvr) | 7:38 | 2020-02-29\* | 2020-03-16 |
 | [Swim](https://open.spotify.com/track/7GhZOVHHIMUWzLotMJUprl) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [SWIM](https://open.spotify.com/album/5hSqPbILJB2dTobKBIH7cX) | 4:39 | 2020-03-20 | 2022-04-21 |
-| [Swimming In The Dark](https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Swimming In The Dark](https://open.spotify.com/album/0hHiinOoKYHG3k3Ifn4rxw) | 3:56 | 2025-07-25 |  |
+| [Swimming In The Dark](https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Swimming In The Dark](https://open.spotify.com/album/0hHiinOoKYHG3k3Ifn4rxw) | 3:56 | 2025-07-25 | 2026-02-01 |
 | [Syria \- Original](https://open.spotify.com/track/3rkge8kur9i26zpByFKvBu) | [Unders](https://open.spotify.com/artist/58wDbO29TUyzGTz7gZqOue) | [Syria](https://open.spotify.com/album/63QglWXaVZfTcFOKvgIi54) | 8:03 | 2020-05-23 | 2020-07-03 |
 | [Tack](https://open.spotify.com/track/6tychoyxfxwMzKh997Diq6) | [Metno](https://open.spotify.com/artist/0pBhRrXwzL1aWYXIJYm4NO) | [Tack](https://open.spotify.com/album/2bkVSBlBhklld7YgLrHq0H) | 4:24 | 2020-05-20 | 2020-08-06 |
 | [Take](https://open.spotify.com/track/1w5y06ufX6ji1rkNUI0Gd4) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Take](https://open.spotify.com/album/0TATPYRp07mP5s8qhlYBBn) | 3:16 | 2020-05-18 | 2020-07-03 |

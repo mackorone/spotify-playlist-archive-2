@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299040,
+  "num_followers": 299038,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,6 @@
     {
       "added_at": "2026-01-29 23:00:33",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/6I8YtUNtTpKIU2SJPRVfId"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        },
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 208821,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/1pwyINL3fwBKV95x0l4A1n"
-    },
-    {
-      "added_at": "2026-01-29 23:00:33",
-      "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 221333,
       "name": "The Power",
       "url": "https://open.spotify.com/track/4difawHT7Gzi9q7l9qUcZi"
+    },
+    {
+      "added_at": "2026-01-29 23:00:33",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/6I8YtUNtTpKIU2SJPRVfId"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        },
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 208821,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/1pwyINL3fwBKV95x0l4A1n"
     },
     {
       "added_at": "2026-01-29 23:00:33",
@@ -455,42 +455,6 @@
     {
       "added_at": "2026-01-29 23:00:33",
       "album": {
-        "name": "Makes Me Wanna Dance",
-        "url": "https://open.spotify.com/album/493Cvff5YSUUvYkYqdSj8g"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 161643,
-      "name": "Makes Me Wanna Dance",
-      "url": "https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH"
-    },
-    {
-      "added_at": "2026-01-29 23:00:33",
-      "album": {
-        "name": "Sweet Emotion",
-        "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 157441,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
-    },
-    {
-      "added_at": "2026-01-29 23:00:33",
-      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
       },
@@ -503,6 +467,22 @@
       "duration_ms": 247588,
       "name": "Eden",
       "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
+    },
+    {
+      "added_at": "2026-01-29 23:00:33",
+      "album": {
+        "name": "Makes Me Wanna Dance",
+        "url": "https://open.spotify.com/album/493Cvff5YSUUvYkYqdSj8g"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 161643,
+      "name": "Makes Me Wanna Dance",
+      "url": "https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH"
     },
     {
       "added_at": "2026-01-29 23:00:33",
@@ -523,6 +503,26 @@
       "duration_ms": 205966,
       "name": "Somebody's Son (feat. Lindsey Buckingham)",
       "url": "https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU"
+    },
+    {
+      "added_at": "2026-01-29 23:00:33",
+      "album": {
+        "name": "Sweet Emotion",
+        "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 157441,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
     },
     {
       "added_at": "2026-01-29 23:00:33",
@@ -563,6 +563,22 @@
       "duration_ms": 216213,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh"
+    },
+    {
+      "added_at": "2026-01-29 23:00:33",
+      "album": {
+        "name": "Jupiter and Mars",
+        "url": "https://open.spotify.com/album/3tjShrUyBljsaAdh7Wfhtz"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 193604,
+      "name": "Jupiter and Mars",
+      "url": "https://open.spotify.com/track/16t5EAiyN5QoxAi17KIR88"
     },
     {
       "added_at": "2026-01-29 23:00:33",
@@ -615,22 +631,6 @@
     {
       "added_at": "2026-01-29 23:00:33",
       "album": {
-        "name": "Feel Myself / Wait For You",
-        "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 164002,
-      "name": "Feel Myself",
-      "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
-    },
-    {
-      "added_at": "2026-01-29 23:00:33",
-      "album": {
         "name": "When I Go",
         "url": "https://open.spotify.com/album/5MYFajLWl4uphD3NPW223K"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 257397,
       "name": "When I Go",
       "url": "https://open.spotify.com/track/1DIWTY8YI8cLaQRdPSrkDl"
+    },
+    {
+      "added_at": "2026-01-29 23:00:33",
+      "album": {
+        "name": "Feel Myself / Wait For You",
+        "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "Feel Myself",
+      "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
     },
     {
       "added_at": "2026-01-29 23:00:33",
@@ -663,22 +679,6 @@
     {
       "added_at": "2026-01-29 23:00:33",
       "album": {
-        "name": "Jupiter and Mars",
-        "url": "https://open.spotify.com/album/3tjShrUyBljsaAdh7Wfhtz"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 193604,
-      "name": "Jupiter and Mars",
-      "url": "https://open.spotify.com/track/16t5EAiyN5QoxAi17KIR88"
-    },
-    {
-      "added_at": "2026-01-29 23:00:33",
-      "album": {
         "name": "Mr. Plastic",
         "url": "https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-01-29 23:00:33",
       "album": {
-        "name": "Kicking My Feet",
-        "url": "https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 174751,
-      "name": "Not What\u2019s Going On",
-      "url": "https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S"
-    },
-    {
-      "added_at": "2026-01-29 23:00:33",
-      "album": {
         "name": "The House That Doesn\u2019t Exist",
         "url": "https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 143985,
       "name": "The House That Doesn\u2019t Exist",
       "url": "https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL"
+    },
+    {
+      "added_at": "2026-01-29 23:00:33",
+      "album": {
+        "name": "Kicking My Feet",
+        "url": "https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 174751,
+      "name": "Not What\u2019s Going On",
+      "url": "https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S"
     },
     {
       "added_at": "2026-01-29 23:00:33",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-01-29 23:00:33",
       "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k"
-      },
-      "artists": [
-        {
-          "name": "Soran",
-          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
-        }
-      ],
-      "duration_ms": 198287,
-      "name": "555",
-      "url": "https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3"
-    },
-    {
-      "added_at": "2026-01-29 23:00:33",
-      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2026-01-29 23:00:33",
       "album": {
-        "name": "Kick Out of You",
-        "url": "https://open.spotify.com/album/0jEYKbsEzz4s3xK65hBhq5"
+        "name": "555",
+        "url": "https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k"
       },
       "artists": [
         {
-          "name": "Charlie Winston",
-          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
         }
       ],
-      "duration_ms": 199520,
-      "name": "Kick Out of You",
-      "url": "https://open.spotify.com/track/6xynry0TYIlyClA93a1rJt"
+      "duration_ms": 198287,
+      "name": "555",
+      "url": "https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3"
     },
     {
       "added_at": "2026-01-29 23:00:33",
@@ -859,6 +843,22 @@
       "duration_ms": 159078,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
+    },
+    {
+      "added_at": "2026-01-29 23:00:33",
+      "album": {
+        "name": "Kick Out of You",
+        "url": "https://open.spotify.com/album/0jEYKbsEzz4s3xK65hBhq5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Winston",
+          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Kick Out of You",
+      "url": "https://open.spotify.com/track/6xynry0TYIlyClA93a1rJt"
     }
   ],
   "unique_name": "Feel Good",

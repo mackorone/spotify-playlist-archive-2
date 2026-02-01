@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,252 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,257 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [Me Gusta](https://open.spotify.com/track/3f2t7slDflmpvUPX0KC1CC) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3), [Selim Sivade](https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn), [Konvex \(FR\)](https://open.spotify.com/artist/39vERtaB8quqGRumGCILC3), [AZZUR](https://open.spotify.com/artist/4hCr8iPcZafmAQ8quCnqm2) | [Me Gusta](https://open.spotify.com/album/2KJMFeOH9GEM1EM1p9qHb7) | 3:22 |
 | 50 | [Back To The Basics \- Sinego Remix](https://open.spotify.com/track/1CrxeiD4X8ZhJ6NcsgZqvx) | [Eli Fola](https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0), [Theodor Luv](https://open.spotify.com/artist/4i4fNQWa5GpSjR0NkWxc1C), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Back To The Basics \(Sinego Remix\)](https://open.spotify.com/album/6e2EcCJTFwBx4UQ9cWBfxp) | 4:53 |
 
-Snapshot ID: `AAAAABFJSJPL4KyYLRaLVzhvEJdQ4tqQ`
+Snapshot ID: `AAAAAGKTquF4bikUtMU9114BsaWewbtK`

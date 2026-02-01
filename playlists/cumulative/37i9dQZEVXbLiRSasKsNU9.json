@@ -7388,6 +7388,24 @@
     {
       "album": {
         "name": "B.M.S (by my side)",
+        "url": "https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3"
+      },
+      "artists": [
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125454,
+      "name": "B.M.S (by my side)",
+      "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
+    },
+    {
+      "album": {
+        "name": "B.M.S (by my side)",
         "url": "https://open.spotify.com/album/3VOt0eYA2qCdwHCQDYbWz4"
       },
       "artists": [
@@ -7398,7 +7416,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic"
@@ -15278,6 +15296,28 @@
       "duration_ms": 290110,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
+    },
+    {
+      "album": {
+        "name": "CARNAVAL",
+        "url": "https://open.spotify.com/album/3oPmMDBuZJWO2pJhwH46eQ"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "CARNAVAL",
+      "url": "https://open.spotify.com/track/0AWbhOimtlECEsQP0H5J6Q"
     },
     {
       "album": {
@@ -40691,6 +40731,24 @@
     },
     {
       "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4"
+      },
+      "artists": [
+        {
+          "name": "Ifan Seventeen",
+          "url": "https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245226,
+      "name": "Jangan Paksa Rindu - Beda",
+      "url": "https://open.spotify.com/track/79tbBuciPV221EozY3RKQv"
+    },
+    {
+      "album": {
         "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
         "url": "https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC"
       },
@@ -43675,6 +43733,28 @@
     },
     {
       "album": {
+        "name": "Kithe Reh Gaya",
+        "url": "https://open.spotify.com/album/3oQOPTv98c46WJTZtR1XBK"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Abhijit Vaghani",
+          "url": "https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215225,
+      "name": "Kithe Reh Gaya",
+      "url": "https://open.spotify.com/track/7oONSa0G2CvYQ0I7G02kgi"
+    },
+    {
+      "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
@@ -46204,7 +46284,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 121092,
       "name": "Lembrei de Tu",
       "url": "https://open.spotify.com/track/4XYbOhT1tYC5CexattH53S"
@@ -52554,7 +52634,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 226000,
       "name": "Meri Zindagi Hai Tu",
       "url": "https://open.spotify.com/track/5RYXTC4G3RYYP6pUmaF6s2"
@@ -60164,7 +60244,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 188374,
       "name": "OF\u00c9LIA - A SINA DE OF\u00c9LIA - Radio Edit",
       "url": "https://open.spotify.com/track/6pZY6PvunvjJweOqtnNIcn"
@@ -69964,6 +70044,44 @@
       "duration_ms": 102923,
       "name": "RITMO DE TREINO",
       "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"
+    },
+    {
+      "album": {
+        "name": "Ritmo Lilly Wood",
+        "url": "https://open.spotify.com/album/0TrPeep7y6CzRq5R9LKvkv"
+      },
+      "artists": [
+        {
+          "name": "DJ MTN",
+          "url": "https://open.spotify.com/artist/2pdregtTGt1CuXZkXzEd1r"
+        },
+        {
+          "name": "DJ ML ORIGINAL",
+          "url": "https://open.spotify.com/artist/7z9szdUbVqVpiwqFLYCMuc"
+        },
+        {
+          "name": "DJ LKC ORIGINAL",
+          "url": "https://open.spotify.com/artist/7g2EX5sO7h6p0QiW4UihFw"
+        },
+        {
+          "name": "Mc Oliveira",
+          "url": "https://open.spotify.com/artist/7dOIqQS8UOkDH0kMI9hAOr"
+        },
+        {
+          "name": "MC Star Rj",
+          "url": "https://open.spotify.com/artist/39g2GVM30H0hBsvTkhO1PM"
+        },
+        {
+          "name": "FreesTyle Sounds",
+          "url": "https://open.spotify.com/artist/2220tqsEJ1MrEmNhf7q3MI"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134781,
+      "name": "Ritmo Lilly Wood",
+      "url": "https://open.spotify.com/track/0d2OevhRY98n6MJIAt9zLh"
     },
     {
       "album": {
@@ -85636,7 +85754,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 177386,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"

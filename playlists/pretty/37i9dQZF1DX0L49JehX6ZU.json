@@ -1,6 +1,6 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 193329,
+  "num_followers": 193349,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
@@ -215,26 +215,6 @@
     {
       "added_at": "2026-01-28 11:20:00",
       "album": {
-        "name": "Don't Even Text",
-        "url": "https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb"
-      },
-      "artists": [
-        {
-          "name": "Tsumyoki",
-          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
-        },
-        {
-          "name": "gini",
-          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
-        }
-      ],
-      "duration_ms": 179644,
-      "name": "Don't Even Text",
-      "url": "https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv"
-    },
-    {
-      "added_at": "2026-01-28 11:20:00",
-      "album": {
         "name": "Rangi Saari",
         "url": "https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 214000,
       "name": "Rangi Saari",
       "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
+    },
+    {
+      "added_at": "2026-01-28 11:20:00",
+      "album": {
+        "name": "Don't Even Text",
+        "url": "https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb"
+      },
+      "artists": [
+        {
+          "name": "Tsumyoki",
+          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
+        },
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        }
+      ],
+      "duration_ms": 179644,
+      "name": "Don't Even Text",
+      "url": "https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv"
     },
     {
       "added_at": "2026-01-28 11:20:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-01-28 11:20:00",
       "album": {
-        "name": "Baarish Ka Asar",
-        "url": "https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj"
-      },
-      "artists": [
-        {
-          "name": "Twin Strings",
-          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "Baarish Ka Asar",
-      "url": "https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy"
-    },
-    {
-      "added_at": "2026-01-28 11:20:00",
-      "album": {
         "name": "Songs of Love",
         "url": "https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 243333,
       "name": "Madhubala",
       "url": "https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v"
+    },
+    {
+      "added_at": "2026-01-28 11:20:00",
+      "album": {
+        "name": "Baarish Ka Asar",
+        "url": "https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj"
+      },
+      "artists": [
+        {
+          "name": "Twin Strings",
+          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "Baarish Ka Asar",
+      "url": "https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy"
     },
     {
       "added_at": "2026-01-28 11:20:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-01-28 11:20:00",
       "album": {
+        "name": "Le Chal",
+        "url": "https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn"
+      },
+      "artists": [
+        {
+          "name": "Himonshu Parikh",
+          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
+        }
+      ],
+      "duration_ms": 196602,
+      "name": "Le Chal",
+      "url": "https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M"
+    },
+    {
+      "added_at": "2026-01-28 11:20:00",
+      "album": {
         "name": "ghosts, and goodbyes",
         "url": "https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 228705,
       "name": "smile",
       "url": "https://open.spotify.com/track/7yHoWylfxxYpOYkeWT0IqD"
-    },
-    {
-      "added_at": "2026-01-28 11:20:00",
-      "album": {
-        "name": "Le Chal",
-        "url": "https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn"
-      },
-      "artists": [
-        {
-          "name": "Himonshu Parikh",
-          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
-        }
-      ],
-      "duration_ms": 196602,
-      "name": "Le Chal",
-      "url": "https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M"
     },
     {
       "added_at": "2026-01-28 11:20:00",

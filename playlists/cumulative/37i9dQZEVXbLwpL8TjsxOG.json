@@ -7502,7 +7502,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
@@ -13776,7 +13776,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -22750,7 +22750,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 273437,
       "name": "\u6771\u90aa",
       "url": "https://open.spotify.com/track/4Yr6otFebxk170q2TbpEbS"
@@ -25722,6 +25722,24 @@
       "duration_ms": 323760,
       "name": "\u8ffd",
       "url": "https://open.spotify.com/track/66cBlqEs1viJJCE74CDfGB"
+    },
+    {
+      "album": {
+        "name": "1994\u524d\u50b3 - \u8ffd",
+        "url": "https://open.spotify.com/album/2XwqXjWUNPzaBh3qZ2Twg2"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285573,
+      "name": "\u8ffd",
+      "url": "https://open.spotify.com/track/51p4wh1TSASZUPEenUgelq"
     },
     {
       "album": {

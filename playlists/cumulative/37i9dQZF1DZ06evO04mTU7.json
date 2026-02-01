@@ -1221,6 +1221,56 @@
     },
     {
       "album": {
+        "name": "THE BOX MEDLEY 12",
+        "url": "https://open.spotify.com/album/1UAvKSK9Mc7Euv0HwVej1C"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "ProdbyFp",
+          "url": "https://open.spotify.com/artist/3ZvLD1r68ljiKAmPP399fK"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352951,
+      "name": "THE BOX MEDLEY 12",
+      "url": "https://open.spotify.com/track/6TmtNB90rBnhIiJeJuEyWu"
+    },
+    {
+      "album": {
         "name": "Novo Testamento",
         "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
       },

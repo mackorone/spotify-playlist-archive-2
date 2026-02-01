@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 122 | [Why Why Why](https://open.spotify.com/track/5f93O4SF1ckOKOohzuqAMJ) | [Cooper Riley](https://open.spotify.com/artist/794UG1owjPTy0oFi9aM6XA) | [Why Why Why](https://open.spotify.com/album/3oUQb7vKsXx4BP8ve41J7W) | 3:15 |
 | 123 | [Cold Water](https://open.spotify.com/track/7jz4rqeSIv1LJpac6IQG34) | [Tranquilla](https://open.spotify.com/artist/4KdUd1THBpqIbfVxgqXfLz), [Obeds](https://open.spotify.com/artist/0HFp2bgInRmPn12k5KBYYt) | [Cold Water](https://open.spotify.com/album/5ON0W8Hm2AUSsoMZF6n5ig) | 4:04 |
 | 124 | [Just What I Wanted](https://open.spotify.com/track/5wqbvckLKX6fwlWbfiPFRV) | [Bling Bling](https://open.spotify.com/artist/7LSPQ8cAwOgviHtqG8D1Lg) | [Just What I Wanted](https://open.spotify.com/album/6Ir9ErdBRT1nfLnLD64JLR) | 2:04 |
-| 125 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
-| 126 | [No Good Reason](https://open.spotify.com/track/2tR2GWXvBx0FGQI7n0os7c) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF) | [Heart Like a Songwriter](https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1) | 3:39 |
+| 125 | [No Good Reason](https://open.spotify.com/track/2tR2GWXvBx0FGQI7n0os7c) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF) | [Heart Like a Songwriter](https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1) | 3:39 |
+| 126 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 127 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcIXDAAAAABXQE7hvLmQzsQxJCLugwJ9`
+Snapshot ID: `AcIc6AAAAADPoSsDUD4u3IfujlZka+tP`

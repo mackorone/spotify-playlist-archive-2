@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 967129,
+  "num_followers": 967314,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
+        "name": "WAKE UP!",
+        "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 142940,
+      "name": "WAKE UP!",
+      "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
         "name": "COM MEDO!",
         "url": "https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk"
       },
@@ -743,34 +759,18 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "WAKE UP!",
-        "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
+        "name": "Devil Eyes",
+        "url": "https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl"
       },
       "artists": [
         {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+          "name": "ZODIVK",
+          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
         }
       ],
-      "duration_ms": 142940,
-      "name": "WAKE UP!",
-      "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/4Ddt6Mk8IHycY0h8K2J3iv"
-      },
-      "artists": [
-        {
-          "name": "Lost Sky",
-          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
-        }
-      ],
-      "duration_ms": 194284,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/7xkCeK3qzCyf43cF8yN7Xt"
+      "duration_ms": 136651,
+      "name": "Devil Eyes",
+      "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
     }
   ],
   "unique_name": "gymcore",

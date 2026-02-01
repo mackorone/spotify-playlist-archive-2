@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2015. Cover: Nicky Jam\n",
-  "num_followers": 69005,
+  "num_followers": 69051,
   "original_name": "Latin Hits 2015",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "Como Mirarte",
-      "url": "https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1"
-    },
-    {
-      "added_at": "2024-07-13 01:09:02",
-      "album": {
         "name": "Visionary",
         "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
       },
@@ -419,18 +403,34 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Sobre El Amor Y Sus Efectos Secundarios",
-        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 202120,
-      "name": "En Un S\u00f3lo Dia",
-      "url": "https://open.spotify.com/track/2quYcQ34rPm5AtvpNCWDsg"
+      "duration_ms": 228080,
+      "name": "Como Mirarte",
+      "url": "https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1"
+    },
+    {
+      "added_at": "2024-07-13 01:09:02",
+      "album": {
+        "name": "S\u00edgueme Y Te Sigo",
+        "url": "https://open.spotify.com/album/0hi7qqQbGUV5Vm6OtUlE1J"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "S\u00edgueme Y Te Sigo",
+      "url": "https://open.spotify.com/track/7F7kL3i6SDEIbDcoJZGiig"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "S\u00edgueme Y Te Sigo",
-        "url": "https://open.spotify.com/album/0hi7qqQbGUV5Vm6OtUlE1J"
+        "name": "Sobre El Amor Y Sus Efectos Secundarios",
+        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 209786,
-      "name": "S\u00edgueme Y Te Sigo",
-      "url": "https://open.spotify.com/track/7F7kL3i6SDEIbDcoJZGiig"
+      "duration_ms": 202120,
+      "name": "En Un S\u00f3lo Dia",
+      "url": "https://open.spotify.com/track/2quYcQ34rPm5AtvpNCWDsg"
     },
     {
       "added_at": "2024-07-13 01:09:02",

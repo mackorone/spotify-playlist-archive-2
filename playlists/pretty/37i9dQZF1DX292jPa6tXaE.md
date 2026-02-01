@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Harsh Khanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,636 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,647 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nai Sarda](https://open.spotify.com/track/4AGbPm3WjP8cvqIpp9Q1jm) | [Harsh Khanna](https://open.spotify.com/artist/15eqT8JMpbeZM9jUwWTcwn), [Push Beats](https://open.spotify.com/artist/5oCSnykPlMqd1pAAnczI8H) | [Nai Sarda](https://open.spotify.com/album/5ZbhGpS6qe8xZJ30ASXOHw) | 2:00 |
-| 2 | [Pyar](https://open.spotify.com/track/08SotJcfiFluKM2GhBrYp1) | [Gucci Singh](https://open.spotify.com/artist/01q7Pii6mcAeimoNmPWQIu) | [Pyar](https://open.spotify.com/album/14D9bCv6SCzWFRn2Snei93) | 2:53 |
+| 2 | [Pyar](https://open.spotify.com/track/08SotJcfiFluKM2GhBrYp1) | [Gucci Singh](https://open.spotify.com/artist/01q7Pii6mcAeimoNmPWQIu), [Navi Ferozpurwala](https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp), [Cyrus Josan](https://open.spotify.com/artist/2eP9vdsLK0qHUSAVWVvaL7) | [Pyar](https://open.spotify.com/album/14D9bCv6SCzWFRn2Snei93) | 2:53 |
 | 3 | [Surmayi Nain](https://open.spotify.com/track/776Yc9pC0ofsaeTst3MavM) | [INDER](https://open.spotify.com/artist/0c4IBGG8XCrkOjd8zPeP4g), [Harjas dhaliwal](https://open.spotify.com/artist/7Cj6EAqtYxRj0qRS8FAIbr), [ZELBY](https://open.spotify.com/artist/5DKT9G7XKh0S5X2AJPu25Z) | [Surmayi Nain](https://open.spotify.com/album/34OYMvd8TbBZgqKT9JgoJc) | 2:47 |
 | 4 | [Kon Puch Da](https://open.spotify.com/track/4Y4ECE3fuBCjgYbBrZ6zGu) | [Azaan](https://open.spotify.com/artist/2iSiX3j4ePUGhrMLZKKdX1), [Ranjha Yaar](https://open.spotify.com/artist/1LZuTGtjndRFfGncarpV6Z), [Mani Lotey](https://open.spotify.com/artist/6bt1n6VmQn78bsW6UnRQeQ) | [Kon Puch Da](https://open.spotify.com/album/5se0vHrHrglFjaFFh8KSj9) | 4:06 |
 | 5 | [Void](https://open.spotify.com/track/6pIMf6awBwC17HoyB5ioLp) | [Dakshita Singh](https://open.spotify.com/artist/79GI0hH0SczSoo2cmD8xBS), [Gary Sidana](https://open.spotify.com/artist/6u3udaZVm2zdnn2uKlMLXd), [Ekamjot Singh](https://open.spotify.com/artist/2P2CeYkyAxMfOHTfl7JsSy) | [Void](https://open.spotify.com/album/1s7PCC0rlShK1EhKMewKh9) | 2:42 |

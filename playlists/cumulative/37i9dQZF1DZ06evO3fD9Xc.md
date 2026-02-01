@@ -4,7 +4,7 @@
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-98 songs - 5 hr 20 min
+99 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Que Bonito Es Querer](https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Que Bonito Es Querer](https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO) | 3:17 | 2023-03-10 |  |
 | [Qué Bueno Que Fuiste Tú](https://open.spotify.com/track/2QnN3woxO9KqDd1DAW0zUF) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Qué Bueno Que Fuiste Tú](https://open.spotify.com/album/24IaXitockhdYJSE4flwTG) | 2:59 | 2023-03-10 | 2024-04-30 |
 | [Qué Bueno Que Fuiste Tú](https://open.spotify.com/track/61pfP2D4QNELNEsxh0aCn7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Nunca Me Sueltes](https://open.spotify.com/album/7JfwGcd9SQy4wxXK5aQTFc) | 3:00 | 2024-04-30 |  |
+| [Qué Me Vas A Dar \- Cumbia](https://open.spotify.com/track/0OXXOSfjkIwHBA32jiguQ2) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Qué Me Vas A Dar \(Cumbia\)](https://open.spotify.com/album/65PsHT4xP40nlvdVNE1ldU) | 3:27 | 2026-02-01 |  |
 | [Sed de Acción \- Re\-versión](https://open.spotify.com/track/3TmCiH4l8VxHBUdbquTdgi) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [R \(Deluxe\)](https://open.spotify.com/album/3uNnttICdjtHZhbCY8SDJE) | 3:33 | 2025-10-04 | 2025-11-23 |
 | [Sed de Acción \- Re\-versión](https://open.spotify.com/track/4c7GjdSskBPh6drENlszMY) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Sed de Acción Con Carolina Ross \(Re\-versión\)](https://open.spotify.com/album/6LBOwIpVw50EltrrnZqRAN) | 3:33 | 2025-09-16 | 2025-10-04 |
 | [Seremos](https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:16 | 2023-03-10 |  |
@@ -92,7 +93,7 @@
 | [Simplemente Amigos](https://open.spotify.com/track/2OQy8QEsfuGsZmBYvo73dN) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Simplemente Amigos](https://open.spotify.com/album/2biUT54gIqLtxLUt8rNuct) | 2:56 | 2024-08-18 | 2025-03-25 |
 | [Solo Con Verte](https://open.spotify.com/track/4kap0K8QvEZUKKwmKUtKb8) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 2:55 | 2023-03-10 |  |
 | [Te Dirán](https://open.spotify.com/track/4RF0vwh8Evy0fIf198hmK0) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:17 | 2025-05-29 | 2025-06-22 |
-| [Te Lo Pido por Favor](https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 2:44 | 2023-03-10 |  |
+| [Te Lo Pido por Favor](https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 2:44 | 2023-03-10 | 2026-02-01 |
 | [Tengo Que Colgar](https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 4:02 | 2023-03-10 |  |
 | [Tiempos Peores](https://open.spotify.com/track/4BgWt5476DCZAPEOgj46pa) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Tiempos Peores](https://open.spotify.com/album/6eUMXVORVyvyZSxXKM1eRq) | 1:33 | 2025-12-07 | 2026-01-25 |
 | [Todavía Te Amo](https://open.spotify.com/track/06jscxwNwqueJ5NAmBsSwt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 2:32 | 2025-05-11 |  |

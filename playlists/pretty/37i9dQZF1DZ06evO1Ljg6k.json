@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 70185,
+  "num_followers": 70231,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAAAfklNejs25+51cH1dLmZBF",
+  "snapshot_id": "aXv0gAAAAADXSY97gx61S/1uf8eqaKoY",
   "tracks": [
     {
       "added_at": null,
@@ -367,18 +367,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
       },
       "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 246560,
-      "name": "Can't Hide Love - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/2gpTbzVPDMtxsDjLn2FrII"
+      "duration_ms": 282186,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi"
     },
     {
       "added_at": null,
@@ -415,26 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Blue Carpet Treatment",
-        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 282186,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi"
+      "duration_ms": 246560,
+      "name": "Can't Hide Love - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/2gpTbzVPDMtxsDjLn2FrII"
     },
     {
       "added_at": null,

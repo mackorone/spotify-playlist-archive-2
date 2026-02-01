@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-190 songs - 11 hr 33 min
+192 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,8 +169,10 @@
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-12-20 | 2026-01-21 |
 | [The Machine](https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [Transhumanity](https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7) | 4:20 | 2025-11-04 | 2025-12-06 |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 | 2025-12-06 |
+| [The Reaper](https://open.spotify.com/track/1TqJToCbf4wGMZntm8Siqc) | [Terry Gilbey](https://open.spotify.com/artist/7DUWtV3cMZU3zGHtRIAvB4) | [The Reading](https://open.spotify.com/album/1yfhCqyQjYko9wZcvB6PzO) | 3:51 | 2026-01-31 |  |
 | [The Ride Down](https://open.spotify.com/track/6AMWZ9fWpN2U28a3H5a7SS) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8) | 3:57 | 2025-12-13 | 2026-01-05 |
 | [The Third Pill](https://open.spotify.com/track/6IDfASgA4RKwMSx6vrA5Fz) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [The Third Pill](https://open.spotify.com/album/03dUhJsfcFP0k03noYf42i) | 3:50 | 2025-11-11 | 2025-12-06 |
+| [Thief in the Night](https://open.spotify.com/track/5kNpVgzAsiNlzTbjJeAD7n) | [Airdale](https://open.spotify.com/artist/0Ce0wrt8dMmQKvHRsCeOYf), [MAGESTICALIZM](https://open.spotify.com/artist/3fNZeTlZA1jeADwTEd9ORS) | [IRIS](https://open.spotify.com/album/4lx3bZivBk1NjJHwYqZ8aO) | 5:14 | 2026-01-31 |  |
 | [This Is How We Say Goodbye](https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Light Switch](https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP) | 6:55 | 2025-12-24 | 2026-01-21 |
 | [Tiempo](https://open.spotify.com/track/5Zn0k9u2eiNpmXsB3ifoqn) | [SATVRNO](https://open.spotify.com/artist/6NjxPRyyG0teb1WB0DGvCn) | [Tiempo](https://open.spotify.com/album/1boe137xgCDHPos7RCNFXy) | 3:41 | 2026-01-29 |  |
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-01-28 |  |

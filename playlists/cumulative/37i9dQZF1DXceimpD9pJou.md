@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Mike Muñoz y Alex Campos
 
-3,664 songs - 11 day 8 hr 19 min
+3,666 songs - 11 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1736,6 +1736,7 @@
 | [La Voz de Mi Amado](https://open.spotify.com/track/1X14ipPyol6744piX0ouol) | [Oscar Deaza](https://open.spotify.com/artist/3vj1nevJHEmAyuVzRsAMmr), [Semillas De Vida](https://open.spotify.com/artist/5wzQXPEWdkh3PCkxoceoP2) | [La Voz de Mi Amado](https://open.spotify.com/album/4OvRh4SYKqBSVuiOCLSTnn) | 7:49 | 2025-05-16 | 2025-06-14 |
 | [La Vuelta](https://open.spotify.com/track/2g7y3evag61OwIqtMsvKbX) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [La Vuelta](https://open.spotify.com/album/3SEMqkxHmIyj9d0Gxmt18G) | 2:22 | 2023-05-12 | 2023-07-08 |
 | [La Última Palabra](https://open.spotify.com/track/0mugBPnKT9BpBMO9Lg55yQ) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8) | [Siempre Bueno](https://open.spotify.com/album/3JmlQF6JSPIbbeuEeeQILG) | 2:43 | 2023-05-19 | 2023-07-15 |
+| [Laberinto](https://open.spotify.com/track/6yjoq8sPLQpr0rMMhpmk7j) | [Ross](https://open.spotify.com/artist/6M9ARUEWkb5cMG2KIXMHxG) | [HANAMI](https://open.spotify.com/album/7FTnxlGYwYe9b74YQXs2lW) | 3:54 | 2026-01-30 |  |
 | [Lagrimas de Un Niño \- Live](https://open.spotify.com/track/0arYRfwQ6HSH2kKcRfQX13) | [Joseph Cabanilla](https://open.spotify.com/artist/5M0gwBmnNgN31WBDJYZYbd) | [Joseph Cabanilla: Live Sessions](https://open.spotify.com/album/0jyTrWjIIJ9wDiXiqeYqXU) | 4:01 | 2025-07-18 | 2025-08-23 |
 | [Lamento En Baile](https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi) | [Misael J](https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD) | [Lamento En Baile](https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme) | 3:42 | 2026-01-09 |  |
 | [Las Avispas \- Versión Bossanova](https://open.spotify.com/track/5lZLCnyeOHdBNv8LyTGL6u) | [Yore](https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa) | [Las Avispas \(Versión Bossanova\)](https://open.spotify.com/album/1w79XTWUKW9w7k20twLOUq) | 2:37 | 2024-10-04 | 2024-11-09 |
@@ -3332,6 +3333,7 @@
 | [Tuya Es La Victoria](https://open.spotify.com/track/4NVX7KjFydz7BewuyijjGb) | [Genock Gabriel](https://open.spotify.com/artist/5g25JYxFKsH3nKaycuSodP) | [Tuya Es La Victoria](https://open.spotify.com/album/3IgFVKKja7SzdF3tgLhsJR) | 5:43 | 2023-11-17 | 2024-01-27 |
 | [Tuyo \- Remix](https://open.spotify.com/track/5qSX9n1khCEJY3QQHfob9Z) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Tuyo \(Remix\)](https://open.spotify.com/album/3GVhKm1yGltRwaOflbaRl3) | 4:04 | 2022-06-17 | 2022-08-20 |
 | [Tuyo Ser](https://open.spotify.com/track/0sSwybrYa6nKFduzoP7F4A) | [Kim Viera](https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41) | [Tuyo Ser](https://open.spotify.com/album/7tnK6mgWs7SH9LaDHxqtVU) | 3:29 | 2026-01-30 |  |
+| [Tuyo Soy](https://open.spotify.com/track/2VChSSNRTJT5cM7m1mt3Ed) | [Carlos Omar](https://open.spotify.com/artist/6h3lF5lLoo8wGMB4C8SaiY) | [Tuyo Soy](https://open.spotify.com/album/2Md9CaQGEgnqDDCeGO57Ef) | 4:42 | 2026-01-30 |  |
 | [Tuyo Soy](https://open.spotify.com/track/7jvyXMQbCOa8dRBoB2Xmjt) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8) | [Tuyo Soy](https://open.spotify.com/album/2pup0ILRokspy6lSerGxJx) | 7:12 | 2022-10-07 | 2022-12-10 |
 | [Twenty 3 Ninety 1](https://open.spotify.com/track/3sjezjkAK78oReAiFGJZqe) | [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [Twenty 3 Ninety 1](https://open.spotify.com/album/6MrjADkKEXgLoMEkimAp1Z) | 2:39 | 2025-04-25 | 2025-05-31 |
 | [TÁNDEM](https://open.spotify.com/track/3Zm8qRZl3617ViItOzrqjf) | [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [TÁNDEM](https://open.spotify.com/album/2Y7MrJeivoSGYc0TkHXp56) | 3:44 | 2025-02-14 | 2025-03-15 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Kid Yugi, Ditonellapiaga, Ermal Meta, Melanie Martinez e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,579 likes - 95 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,584 likes - 95 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Eroina](https://open.spotify.com/track/56n5UQJ0SDVaxwQNnu90ee) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:18 |
+| 1 | [Eroina \(feat\. Tutti Fenomeni\)](https://open.spotify.com/track/56n5UQJ0SDVaxwQNnu90ee) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:18 |
 | 2 | [Sì lo so](https://open.spotify.com/track/2rObCku06FZAuc3PjD1fzS) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Sì lo so](https://open.spotify.com/album/0wsU3VGqlxMCPka5elQoLS) | 3:17 |
 | 3 | [DeLorean](https://open.spotify.com/track/1YNYSvWkZ74y4LaYydEbZ8) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [DeLorean](https://open.spotify.com/album/3WRjNICZZ68PwIjGP5Rr5I) | 3:22 |
 | 4 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 29 | [Simone spaccia](https://open.spotify.com/track/1AXw4y6VSTKp7firxJlEYl) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Simone spaccia](https://open.spotify.com/album/6Hnq8ItsRnP4CxQ0gT4enh) | 3:13 |
 | 30 | [caTene](https://open.spotify.com/track/5TxSK5wg5cyy1HuwIRIPaU) | [Valentina Pesaresi](https://open.spotify.com/artist/6v4Rakxd3SfpdMi578hedT) | [caTene](https://open.spotify.com/album/1WB83Ud24M2aQLuPAw24Dt) | 3:35 |
 | 31 | [ZACK & CODY](https://open.spotify.com/track/6JO9XKYlcaSJsag6mWpk4q) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [ZACK & CODY](https://open.spotify.com/album/21bF2d3IN6A5l8xO4YTt9j) | 2:08 |
-| 32 | [Non Mi Lasci Stare \(feat\. Christian Liguori\)](https://open.spotify.com/track/2iqpOx3AXlJ456rsKhpM64) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn) | [Non Mi Lasci Stare \(feat\. Christian Liguori\)](https://open.spotify.com/album/6JfZRbO1zc0sacVgQa54y2) | 2:07 |
+| 32 | [Non Mi Lasci Stare \(feat\. Christian Liguori\)](https://open.spotify.com/track/2iqpOx3AXlJ456rsKhpM64) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [Non Mi Lasci Stare \(feat\. Christian Liguori\)](https://open.spotify.com/album/6JfZRbO1zc0sacVgQa54y2) | 2:07 |
 | 33 | [La Notte](https://open.spotify.com/track/1jOLP4Fbe14WEonlgdyYiC) | [Zara Colombo](https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx) | [La Notte](https://open.spotify.com/album/6ZqjPbnosJrH5uH87jmgmJ) | 3:10 |
 | 34 | [Perdigiorno](https://open.spotify.com/track/6Tld3zH5XE2EXF2UOqtLi1) | [plasma](https://open.spotify.com/artist/4ct6fFxYrQCgyveC8ILww4) | [Perdigiorno](https://open.spotify.com/album/6dn67zZpP9upayDx1f1p7l) | 2:57 |
 | 35 | [⁠FERITE PER TUTTI](https://open.spotify.com/track/24A1WJmLf4rgn2I232BTB5) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [FERITE PER TUTTI](https://open.spotify.com/album/3TGfSRfKSG4sTUspQQ0tAH) | 2:53 |

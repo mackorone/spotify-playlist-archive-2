@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Joaquin Coronel y Marcos Villalobos en portada.",
-  "num_followers": 69991,
+  "num_followers": 70012,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 188368,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "La Herida",
+        "url": "https://open.spotify.com/album/448r0IkYo8ehYROuSWwQ4p"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        }
+      ],
+      "duration_ms": 121845,
+      "name": "La Herida",
+      "url": "https://open.spotify.com/track/1sBSjceBS1Fl7qDJYEPkKP"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "Santa Mar\u00eda",
         "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 260584,
       "name": "Santa Mar\u00eda",
       "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "La Herida",
-        "url": "https://open.spotify.com/album/448r0IkYo8ehYROuSWwQ4p"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        }
-      ],
-      "duration_ms": 121845,
-      "name": "La Herida",
-      "url": "https://open.spotify.com/track/1sBSjceBS1Fl7qDJYEPkKP"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "ZENDAYA",
-        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        },
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "ZENDAYA",
-      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "Hell",
         "url": "https://open.spotify.com/album/1yMvWiFfOAGWAPzE2G6IUu"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 232542,
       "name": "Of The Void",
       "url": "https://open.spotify.com/track/1FAj2NPpH9xyKGEqmH3xtQ"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "ZENDAYA",
+        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "ZENDAYA",
+      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 170089,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "TUCU",
         "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
       },
@@ -1027,26 +1043,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Lunita (J.Pool Remix)",
-        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
-      },
-      "artists": [
-        {
-          "name": "J.Pool",
-          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
-        },
-        {
-          "name": "Danit",
-          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
-        }
-      ],
-      "duration_ms": 380878,
-      "name": "Lunita - J.Pool Remix",
-      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "MENTA",
         "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
       },
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+        "name": "Lunita (J.Pool Remix)",
+        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
       "artists": [
         {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+          "name": "J.Pool",
+          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+        },
+        {
+          "name": "Danit",
+          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
         }
       ],
-      "duration_ms": 170089,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+      "duration_ms": 380878,
+      "name": "Lunita - J.Pool Remix",
+      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1155,22 +1155,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "El 100",
-        "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
+        "name": "Sin Sentir",
+        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
         },
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Dr Babe",
+          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
         }
       ],
-      "duration_ms": 178100,
-      "name": "El 100",
-      "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
+      "duration_ms": 219098,
+      "name": "Sin Sentir",
+      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Sin Sentir",
-        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
+        "name": "El 100",
+        "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
       },
       "artists": [
         {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "Dr Babe",
-          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 219098,
-      "name": "Sin Sentir",
-      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
+      "duration_ms": 178100,
+      "name": "El 100",
+      "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1255,7 +1255,7 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "LABUBU",
+        "name": "LXBVBV",
         "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
       },
       "artists": [
@@ -1269,7 +1269,7 @@
         }
       ],
       "duration_ms": 165750,
-      "name": "LABUBU",
+      "name": "LXBVBV",
       "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
     },
     {
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Nina Vlu",
+          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
+        }
+      ],
+      "duration_ms": 149877,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "Corazon de Melon",
         "url": "https://open.spotify.com/album/4dnhKzEzKNdt8wObh5sPQ5"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 175161,
       "name": "Corazon de Melon",
       "url": "https://open.spotify.com/track/0OPOLrWNtqperhd32Q8XnF"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Nina Vlu",
-          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
-        }
-      ],
-      "duration_ms": 149877,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "me estoy volviendo loca",
+        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 139034,
+      "name": "la jefa del triple 4",
+      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "NOCHE FRIA",
         "url": "https://open.spotify.com/album/5pSLDdzSk6qgadsklb8VIN"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 176000,
       "name": "NOCHE FRIA",
       "url": "https://open.spotify.com/track/5hXBT9Mfo3SqlevuDRpmjG"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "me estoy volviendo loca",
-        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 139034,
-      "name": "la jefa del triple 4",
-      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Tomala (Se Mueve Se Siente)",
-        "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Draxx (ITA)",
-          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
-        }
-      ],
-      "duration_ms": 160600,
-      "name": "Tomala (Se Mueve Se Siente)",
-      "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "HOUSE PA LAS BANDIS",
         "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 182989,
       "name": "HOUSE PA LAS BANDIS",
       "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "Tomala (Se Mueve Se Siente)",
+        "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "Tomala (Se Mueve Se Siente)",
+      "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1663,6 +1663,34 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "Media Noche",
+        "url": "https://open.spotify.com/album/74f9HcviH7UX3l7S1o914T"
+      },
+      "artists": [
+        {
+          "name": "Jordy Medina",
+          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
+        },
+        {
+          "name": "Olisso",
+          "url": "https://open.spotify.com/artist/5j2C0iQHKvCcfPVCOqn20h"
+        },
+        {
+          "name": "rodrii",
+          "url": "https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi"
+        },
+        {
+          "name": "IGWT",
+          "url": "https://open.spotify.com/artist/0nWl2Cu7EETJgmSQyqThPE"
+        }
+      ],
+      "duration_ms": 180545,
+      "name": "Media Noche",
+      "url": "https://open.spotify.com/track/0CIh0LjgagV5JCAQSM1tT3"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "Ushua\u00efa",
         "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
       },
@@ -1695,34 +1723,6 @@
       "duration_ms": 186595,
       "name": "MiDNiGHT",
       "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "Media Noche",
-        "url": "https://open.spotify.com/album/74f9HcviH7UX3l7S1o914T"
-      },
-      "artists": [
-        {
-          "name": "Jordy Medina",
-          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
-        },
-        {
-          "name": "Olisso",
-          "url": "https://open.spotify.com/artist/5j2C0iQHKvCcfPVCOqn20h"
-        },
-        {
-          "name": "rodrii",
-          "url": "https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi"
-        },
-        {
-          "name": "IGWT",
-          "url": "https://open.spotify.com/artist/0nWl2Cu7EETJgmSQyqThPE"
-        }
-      ],
-      "duration_ms": 180545,
-      "name": "Media Noche",
-      "url": "https://open.spotify.com/track/0CIh0LjgagV5JCAQSM1tT3"
     },
     {
       "added_at": "2026-01-16 06:00:21",

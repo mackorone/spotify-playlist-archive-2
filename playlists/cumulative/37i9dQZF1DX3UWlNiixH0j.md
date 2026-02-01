@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: the bercedes menz
 
-2,957 songs - 7 day 17 hr 13 min
+2,959 songs - 7 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [feelgrey \- feat\. 毛利安寿](https://open.spotify.com/track/6gQULHFevrk74ztIxi9kuu) | [エスキベル](https://open.spotify.com/artist/3xfEX9OnAP0ft8UAn4e8E1), [毛利安寿](https://open.spotify.com/artist/0gx54SUKlzhD9xazX6XeG7) | [Sines](https://open.spotify.com/album/1AyJMFA3rYvkqzCH6wVPzY) | 3:38 | 2025-02-25 | 2025-03-05 |
 | [Feet Feet](https://open.spotify.com/track/0LhOjOaUIdQHwdYjQJIbYx) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Feet Feet](https://open.spotify.com/album/4Fw194NfogwEO1WNbDHEYe) | 3:41 | 2023-10-10 | 2023-11-02 |
 | [Festival](https://open.spotify.com/track/3Yj2DZImlcmjoEiBy726cW) | [the band apart](https://open.spotify.com/artist/6g7JH6zxP3JTfg7i8bZwbf) | [Festival](https://open.spotify.com/album/4gcHUWURmxGQnpfbVYvcHR) | 3:09 | 2025-10-28 | 2025-11-05 |
+| [Field \- feat\. Cwondo](https://open.spotify.com/track/6xDI04c1xoXpFzptfR36FM) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Field \(feat\. Cwondo\)](https://open.spotify.com/album/6s3wTeQzvQXNNGPTjSIps2) | 3:49 | 2026-01-29 |  |
 | [Field of Flowers](https://open.spotify.com/track/1KAEFpUZkkGQKvhFTTen4p) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Calla](https://open.spotify.com/album/5JW6kKPUEf6vLLNoC6jg8z) | 4:09 | 2023-11-09 | 2024-01-10 |
 | [Fight Song](https://open.spotify.com/track/73wSaOF5FpFpcRPMImLsW4) | [Puff](https://open.spotify.com/artist/5UhiiLdlZhWqyThTakJmkw) | [Fight Song](https://open.spotify.com/album/0aUCS8fFZ72S2jbNKxZF30) | 3:04 | 2025-09-09 | 2025-09-17 |
 | [Final Girl](https://open.spotify.com/track/3mNo6Wh3QfKh8yBymGumBA) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/0GZZCnHOMUx134tHJqocIm) | 3:30 | 2024-02-01 | 2024-02-07 |
@@ -2167,7 +2168,7 @@
 | [ウインクでおめかし](https://open.spotify.com/track/69wq2CZcZ7990DQB0AUKFT) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [ウインクでおめかし](https://open.spotify.com/album/1ciDRa9ytqUauxDT7DO3k3) | 2:28 | 2025-03-18 | 2025-04-05 |
 | [ウェルテル](https://open.spotify.com/track/4iYvEBKfRIKQLv39EEZeLi) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [ウェルテル](https://open.spotify.com/album/7I2pdc2wjO9J0jmZ2ldDYS) | 3:49 | 2024-08-06 | 2024-09-18 |
 | [ウェンズデーにおまかせ!](https://open.spotify.com/track/1GVtzx47XZV4ZyLG0qL3zn) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe) | [Destroy My Memory](https://open.spotify.com/album/1SU2EisZRC06sgLMwdGNiF) | 4:07 | 2024-06-04 | 2024-06-12 |
-| [エイリアンズ](https://open.spotify.com/track/6w3QGOV54PA8hsbFFD6FmJ) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [エイリアンズ](https://open.spotify.com/album/3hMQz7Gbsk7bo8rzEubIVl) | 6:00 | 2025-10-14 |  |
+| [エイリアンズ](https://open.spotify.com/track/6w3QGOV54PA8hsbFFD6FmJ) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [エイリアンズ](https://open.spotify.com/album/3hMQz7Gbsk7bo8rzEubIVl) | 6:00 | 2025-10-14 | 2026-02-01 |
 | [エデンの花](https://open.spotify.com/track/33oY2Nn1bAL0isfLxWxwAt) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [エデンの花](https://open.spotify.com/album/2EnPqo6WPPjqYX1YH0U3WX) | 4:48 | 2023-12-05 | 2024-01-31 |
 | [エンドロールの後に](https://open.spotify.com/track/6bFVknsjkdiDYdRTMEfVo4) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [エンドロールの後に](https://open.spotify.com/album/3Gc2kcVC5Oq33ZbrZOCcCo) | 3:41 | 2025-08-05 | 2025-09-04 |
 | [オキシトシン](https://open.spotify.com/track/6lQ9BNXouxCHJtkhMYe0Ti) | [ポニーテールスクライム](https://open.spotify.com/artist/3pjuGFTZi5mmhM1F01cYOz) | [オキシトシン](https://open.spotify.com/album/6kVb4wjABYvtA5dGyhgPRE) | 2:48 | 2024-04-16 | 2024-04-24 |
@@ -2636,7 +2637,7 @@
 | [抜けていく](https://open.spotify.com/track/6Xes5DgfEgPlGKwIQwRVGQ) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [チアキ](https://open.spotify.com/artist/5BgZvhd8WV1wd3dChcjNK6) | [Through The Lonely Nights](https://open.spotify.com/album/07aGzvY0kMQTTWFuGu9WTV) | 4:34 | 2023-12-28 | 2024-01-17 |
 | [指先ひとつで](https://open.spotify.com/track/0BXEoE6unKgw9xEuYjiMUe) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Steppin' Out](https://open.spotify.com/album/1HQmNQ7LovrKEvInfoMDrV) | 4:43 | 2023-09-05 | 2023-09-07 |
 | [指切り \(Cornelius Remix\)](https://open.spotify.com/track/2Dw3iSdLAXAEPRvfvpOLBg) | [大瀧詠一](https://open.spotify.com/artist/7wqLKZlQrecUHehboPBPHG), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Eiichi Ohtaki’s NIAGARA 50th Odyssey Remix EP](https://open.spotify.com/album/5fOtEsX0zSikm5l4Ll7lA4) | 3:52 | 2025-07-08 | 2025-07-16 |
-| [掴めない人](https://open.spotify.com/track/4X45mHitSi0UBFYreIWp87) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [掴めない人](https://open.spotify.com/album/31GdeHZUbAH14wedzLY41w) | 3:30 | 2025-12-27 |  |
+| [掴めない人](https://open.spotify.com/track/4X45mHitSi0UBFYreIWp87) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [掴めない人](https://open.spotify.com/album/31GdeHZUbAH14wedzLY41w) | 3:30 | 2025-12-27 | 2026-02-01 |
 | [換気](https://open.spotify.com/track/7qZVdyDeJC488Nfknqx4eb) | [Yoshida Yohei group](https://open.spotify.com/artist/31ysUnRxadhX0h9zQVE23h) | [Happiness Comes in Waves](https://open.spotify.com/album/27hltEvHkO0F85UkkQ2ZSJ) | 5:15 | 2025-08-19 | 2025-09-04 |
 | [放春花](https://open.spotify.com/track/0jZRUt5GtTFu1WjZsPTe7v) | [Khamai Leon](https://open.spotify.com/artist/0XR6pwgaNullwNSqnmnhHb) | [放春花](https://open.spotify.com/album/12DSwGJs8J0aGZqTdrpE5v) | 4:15 | 2025-04-15 | 2025-04-23 |
 | [敏感](https://open.spotify.com/track/4YPyhQj8nXCVL4oNV4ef5B) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [なかまきこ](https://open.spotify.com/artist/7aq5x0tdeZMA5THwHsYDUz) | [敏感](https://open.spotify.com/album/4mondnoMGMLlVTKUgoinCe) | 3:54 | 2023-11-21 | 2023-11-29 |
@@ -2931,6 +2932,7 @@
 | [雨の匂いはメッセージ](https://open.spotify.com/track/15e0xl1rIssFH5fenqD3Vo) | [生活の設計](https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR) | [季節のつかまえ方](https://open.spotify.com/album/7a2s3JhweKjXe1YSg6hEnR) | 4:10 | 2023-04-18 | 2023-04-20 |
 | [雨の降る町](https://open.spotify.com/track/4itG0yWd73gnhFreIu7SHA) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [NORM](https://open.spotify.com/album/2HqRQNUYtonTi5BK3eeneq) | 5:35 | 2025-08-19 | 2025-09-17 |
 | [雨雲と晴れのあいだ](https://open.spotify.com/track/61YDVXG5hPUKFY3Duy3Pck) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [雨雲と晴れのあいだ](https://open.spotify.com/album/4RKL5eUEwbzMqWt9HLxZvQ) | 4:22 | 2023-11-29 | 2023-12-01 |
+| [電話](https://open.spotify.com/track/4Ivha1S5ifAjJcL0ckow2C) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [電話](https://open.spotify.com/album/1PiCmopbgqhm2hfPu3T89V) | 3:46 | 2026-01-29 |  |
 | [青いワンピース](https://open.spotify.com/track/14AjzGgLwDhnK16wi5sn6V) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [魚 ＿ 魚](https://open.spotify.com/album/2DJYhop9XRweeinNLK37YJ) | 2:45 | 2023-10-03 | 2023-10-11 |
 | [青い空の幻](https://open.spotify.com/track/4LY4WB62mr7yhSj2MOBP4U) | [FULL OF LOVE](https://open.spotify.com/artist/21H82W5uNA68DQ43dAMs8i) | [FULL OF LOVE](https://open.spotify.com/album/3LdSpParymYK20V21oOI2m) | 3:32 | 2023-01-31 | 2023-03-08 |
 | [青い雨](https://open.spotify.com/track/2ybDGwhFqT7gOsPulLMo0v) | [Boyish](https://open.spotify.com/artist/4zOMFblFUbK27Smau7ABhD) | [青い雨](https://open.spotify.com/album/2DmMx1JHTI5StG8qs7LL84) | 3:33 | 2023-06-13 | 2023-06-15 |

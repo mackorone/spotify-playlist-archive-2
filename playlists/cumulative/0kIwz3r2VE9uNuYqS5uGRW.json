@@ -2770,6 +2770,24 @@
       "duration_ms": 183322,
       "name": "\u0412\u0434\u044b\u0445\u0430\u044f",
       "url": "https://open.spotify.com/track/7h0NWQtE9GpPGOwPaocdPF"
+    },
+    {
+      "album": {
+        "name": "\u0411\u043e\u0437\u043a\u0430\u0440\u0430\u0433\u0430\u043d",
+        "url": "https://open.spotify.com/album/37VsMcgG0086QMEfFI8jJQ"
+      },
+      "artists": [
+        {
+          "name": "\u041a \u041f\u043e\u0435\u0437\u0434\u0430\u043c",
+          "url": "https://open.spotify.com/artist/65hECiVsNi1wEvzF84pIxV"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127988,
+      "name": "\u041c\u043e\u043b\u043e\u0447\u043d\u044b\u0439 \u0443\u043b\u0443\u043d",
+      "url": "https://open.spotify.com/track/6Gw6lB9PIKJUivZXpI4E9i"
     }
   ],
   "url": "https://open.spotify.com/playlist/0kIwz3r2VE9uNuYqS5uGRW"

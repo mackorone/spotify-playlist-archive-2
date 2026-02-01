@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 526 likes - 149 songs - 7 hr 47 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 526 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,5 +157,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 147 | [Lisa](https://open.spotify.com/track/04iAtfM5oQS6wvrido4xDY) | [BEVIxPlanett](https://open.spotify.com/artist/0QgxDZ9yAoGgSRfxipFOtM) | [Lisa](https://open.spotify.com/album/0p6GGF380E8EIMoBEeNcBs) | 2:37 |
 | 148 | [All My Fault](https://open.spotify.com/track/0QUWUwCvf7cHIS5FaiuRRG) | [Maddy Little](https://open.spotify.com/artist/0o9LvaeSgJikQWwDnAEAyH) | [All My Fault](https://open.spotify.com/album/0r5SdB7rVTLWVY57npp7jw) | 3:05 |
 | 149 | [so...............................?](https://open.spotify.com/track/6wAGRDEEsUNkbcnWVZORSg) | [ArfHudson](https://open.spotify.com/artist/1r88jRdaqwfu3r6AHp7VVU) | [cute practice](https://open.spotify.com/album/18chTHeiJkJUX3Q5T9Rry6) | 1:33 |
+| 150 | [Молочный улун](https://open.spotify.com/track/6Gw6lB9PIKJUivZXpI4E9i) | [К Поездам](https://open.spotify.com/artist/65hECiVsNi1wEvzF84pIxV) | [Бозкараган](https://open.spotify.com/album/37VsMcgG0086QMEfFI8jJQ) | 2:07 |
 
-Snapshot ID: `AAAVm2RQ1mRxmrc8B1DO7YVVqCc9Wlfh`
+Snapshot ID: `AAAVnJiQFkfWQnPgOiyrj5R1whWKooV/`

@@ -1,12 +1,12 @@
 {
   "description": "New music from Don Toliver and Rod Wave. ",
-  "num_followers": 15800537,
+  "num_followers": 15800351,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJAhNxIWT/cAO8r2jzuxRF/BEuZD",
+  "snapshot_id": "AAAAAIsxykeWeakJ2vbYeuHwVJ66Y7sA",
   "tracks": [
     {
       "added_at": "2026-01-30 04:00:13",
@@ -227,6 +227,26 @@
       "duration_ms": 169090,
       "name": "Tuition",
       "url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
+    },
+    {
+      "added_at": "2026-01-31 05:07:01",
+      "album": {
+        "name": "ROCKSTAR RAGING (feat. Swae Lee)",
+        "url": "https://open.spotify.com/album/5gFv6vDkIvIAuEyXAqMa7Y"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 278260,
+      "name": "ROCKSTAR RAGING (feat. Swae Lee)",
+      "url": "https://open.spotify.com/track/0HtowIRBzj2HqgO1XW6eJC"
     },
     {
       "added_at": "2026-01-30 04:00:13",

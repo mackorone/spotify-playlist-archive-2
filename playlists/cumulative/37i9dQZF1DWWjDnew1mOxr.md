@@ -4,7 +4,7 @@
 
 > Music that means it\. Cover: The Snuts
 
-420 songs - 23 hr 43 min
+421 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Not Like The Rest](https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Not Like The Rest](https://open.spotify.com/album/311IWRJeyNHUwqV3bk3Grb) | 3:14 | 2024-07-12 | 2025-10-11 |
 | [Nothing Compares To Nineteen](https://open.spotify.com/track/7GQwcstzhZd6GNFp0LJqEt) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Nothing Compares To Nineteen](https://open.spotify.com/album/3aiDUv877OWq4i6t9jI9cD) | 2:48 | 2024-10-06 | 2024-12-31 |
 | [Nothing's As It Seems](https://open.spotify.com/track/5YgWCmoVZDch6bdaTa33EL) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ) | [Nothing's As It Seems](https://open.spotify.com/album/4LF9kAQz5mw8nJQgpR80S7) | 3:42 | 2025-06-06 | 2025-11-17 |
+| [Nurse Depression](https://open.spotify.com/track/5xnFYRez4P0r3xvnnleejq) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nurse Depression](https://open.spotify.com/album/6kYfN2e5eh0SHLB6mRAaF5) | 2:05 | 2026-01-30 |  |
 | [Oh Emily](https://open.spotify.com/track/5zb1wjPWBN0l8336yYjD9d) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Oh Emily](https://open.spotify.com/album/6XiF1c1A2HjpQ6Lx0qvCIJ) | 3:56 | 2024-04-15 | 2024-09-28 |
 | [Oh Shit](https://open.spotify.com/track/6RrAa9EThfrXsM3Yi6CJ3J) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Oh Shit](https://open.spotify.com/album/7ukfGmbgZaDTljhTnx3ydi) | 3:01 | 2024-07-12 | 2024-10-07 |
 | [On It](https://open.spotify.com/track/0iKYoUL481hFCTEp0ouxgt) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [On It](https://open.spotify.com/album/5CNFekoqEHJepwkq9qvY4X) | 3:45 | 2024-10-06 | 2025-01-22 |
@@ -347,7 +348,7 @@
 | [Spin The Block](https://open.spotify.com/track/1f3LYv9fIs3o9pS8V3dwUP) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Spin The Block](https://open.spotify.com/album/6lqtX8Ea7i76lIhPPoBPSl) | 2:53 | 2025-10-10 |  |
 | [Spirit Folio](https://open.spotify.com/track/6N2yszPeZBE2SAhZEgKIjH) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [Spirit Folio](https://open.spotify.com/album/6qAUxmEqxdEYpYTmlNkqN4) | 4:04 | 2024-04-15 | 2024-06-01 |
 | [SQUEEZE ME LIKE A LEMON](https://open.spotify.com/track/2owmH2uDBkaaTyTtYR3oKF) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN), [JC Stormz](https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV) | [SQUEEZE ME LIKE A LEMON](https://open.spotify.com/album/7H6SgwSso0FsLknG0EkqyA) | 2:47 | 2023-12-22 | 2024-03-07 |
-| [Stay Up](https://open.spotify.com/track/7i2ZntdYyNmcGnptw8Dhbw) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Stay Up](https://open.spotify.com/album/5J7fJeUi0ouBt8y4QWJYyY) | 3:17 | 2024-01-26 |  |
+| [Stay Up](https://open.spotify.com/track/7i2ZntdYyNmcGnptw8Dhbw) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Stay Up](https://open.spotify.com/album/5J7fJeUi0ouBt8y4QWJYyY) | 3:17 | 2024-01-26 | 2026-02-01 |
 | [Still Life](https://open.spotify.com/track/3Rmo63pS3ZAM03dJ9lVErM) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Miracle](https://open.spotify.com/album/7DkhdPN2rSpYG0tXqDljIh) | 3:44 | 2024-05-31 | 2024-11-26 |
 | [Stray](https://open.spotify.com/track/2wb55krslcGE17P1BHeqH1) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Stray](https://open.spotify.com/album/3CCIKTCVsvEzgrU8L7sCj8) | 3:33 | 2024-02-23 | 2024-10-20 |
 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 | 2025-02-07 |  |

@@ -916,7 +916,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 165022,
       "name": "Spit XXV",
       "url": "https://open.spotify.com/track/0PCH56B4BPJuD7qikh6Y7e"
@@ -938,6 +938,28 @@
       "duration_ms": 165022,
       "name": "Spit XXV",
       "url": "https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL"
+    },
+    {
+      "album": {
+        "name": "Spit XXV (NOWHERE2RUN Remix)",
+        "url": "https://open.spotify.com/album/3PQTna1Vn2MrLKdhUHS7vI"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        },
+        {
+          "name": "NOWHERE2RUN",
+          "url": "https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205285,
+      "name": "Spit XXV (NOWHERE2RUN Remix)",
+      "url": "https://open.spotify.com/track/5CV0KjLegdsXt6ioPWhlQC"
     },
     {
       "album": {

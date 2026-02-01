@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 72444,
+  "num_followers": 72451,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "Eeny Meeny Miny Moe",
-        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
-      },
-      "artists": [
-        {
-          "name": "Peter Ehrlichmann",
-          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
-        }
-      ],
-      "duration_ms": 68250,
-      "name": "Eeny Meeny Miny Moe",
-      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
-    },
-    {
-      "added_at": "2026-01-26 02:40:34",
-      "album": {
         "name": "The Music Of The Night",
         "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 269000,
       "name": "The Music Of The Night",
       "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
+    },
+    {
+      "added_at": "2026-01-26 02:40:34",
+      "album": {
+        "name": "Eeny Meeny Miny Moe",
+        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
+      },
+      "artists": [
+        {
+          "name": "Peter Ehrlichmann",
+          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
+        }
+      ],
+      "duration_ms": 68250,
+      "name": "Eeny Meeny Miny Moe",
+      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "You Are Peace",
-        "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 204911,
-      "name": "You Are Peace",
-      "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
-    },
-    {
-      "added_at": "2026-01-26 02:40:34",
-      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
+        "name": "You Are Peace",
+        "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
       },
       "artists": [
         {
-          "name": "Colette Blanche",
-          "url": "https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn"
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
         }
       ],
-      "duration_ms": 137645,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
+      "duration_ms": 204911,
+      "name": "You Are Peace",
+      "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -411,6 +395,22 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
+      },
+      "artists": [
+        {
+          "name": "Colette Blanche",
+          "url": "https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn"
+        }
+      ],
+      "duration_ms": 137645,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
+    },
+    {
+      "added_at": "2026-01-26 02:40:34",
+      "album": {
         "name": "Goodnight",
         "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 157250,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
-    },
-    {
-      "added_at": "2026-01-26 02:40:34",
-      "album": {
-        "name": "Fall Pieces",
-        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
-      },
-      "artists": [
-        {
-          "name": "Sonya O'Malley",
-          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
-        }
-      ],
-      "duration_ms": 238277,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -459,6 +443,22 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
+        "name": "Fall Pieces",
+        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
+      },
+      "artists": [
+        {
+          "name": "Sonya O'Malley",
+          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
+        }
+      ],
+      "duration_ms": 238277,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
+    },
+    {
+      "added_at": "2026-01-26 02:40:34",
+      "album": {
         "name": "A Perceptual Process",
         "url": "https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 113820,
       "name": "A Perceptual Process",
       "url": "https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet"
-    },
-    {
-      "added_at": "2026-01-26 02:40:34",
-      "album": {
-        "name": "All Alone",
-        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
-      },
-      "artists": [
-        {
-          "name": "Robert Elovsson",
-          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Out of place",
-      "url": "https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -507,22 +491,18 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "Kiss the Rain",
-        "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
       },
       "artists": [
         {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        },
-        {
-          "name": "Chris Snelling",
-          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
+          "name": "Robert Elovsson",
+          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
         }
       ],
-      "duration_ms": 170783,
-      "name": "Kiss the Rain",
-      "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
+      "duration_ms": 211000,
+      "name": "Out of place",
+      "url": "https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -539,6 +519,26 @@
       "duration_ms": 150000,
       "name": "Schutter",
       "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
+    },
+    {
+      "added_at": "2026-01-26 02:40:34",
+      "album": {
+        "name": "Kiss the Rain",
+        "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "Chris Snelling",
+          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
+        }
+      ],
+      "duration_ms": 170783,
+      "name": "Kiss the Rain",
+      "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "S\u00fcda",
-        "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
-      },
-      "artists": [
-        {
-          "name": "Jan Thiel",
-          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
-        }
-      ],
-      "duration_ms": 202750,
-      "name": "S\u00fcda",
-      "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
-    },
-    {
-      "added_at": "2026-01-26 02:40:34",
-      "album": {
         "name": "Murray's Moon",
         "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "Autumn Whispers",
-        "url": "https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz"
+        "name": "S\u00fcda",
+        "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
       },
       "artists": [
         {
-          "name": "Halgeir Nielsen",
-          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+          "name": "Jan Thiel",
+          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
         }
       ],
-      "duration_ms": 172510,
-      "name": "Autumn Whispers",
-      "url": "https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq"
+      "duration_ms": 202750,
+      "name": "S\u00fcda",
+      "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -683,6 +667,22 @@
       "duration_ms": 184389,
       "name": "Grounded Mind",
       "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
+    },
+    {
+      "added_at": "2026-01-26 02:40:34",
+      "album": {
+        "name": "Autumn Whispers",
+        "url": "https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "duration_ms": 172510,
+      "name": "Autumn Whispers",
+      "url": "https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "Nostalgia.",
-        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
-      },
-      "artists": [
-        {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
-        }
-      ],
-      "duration_ms": 104199,
-      "name": "Nostalgia.",
-      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
-    },
-    {
-      "added_at": "2026-01-26 02:40:34",
-      "album": {
         "name": "ballads by midnight",
         "url": "https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 314447,
       "name": "some other time",
       "url": "https://open.spotify.com/track/4LgRqskD0OohOTxfZRqV8E"
+    },
+    {
+      "added_at": "2026-01-26 02:40:34",
+      "album": {
+        "name": "Nostalgia.",
+        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 104199,
+      "name": "Nostalgia.",
+      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "My Foolishness",
-        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
-      },
-      "artists": [
-        {
-          "name": "Franck Byrne",
-          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
-        }
-      ],
-      "duration_ms": 166187,
-      "name": "My Foolishness",
-      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
-    },
-    {
-      "added_at": "2026-01-26 02:40:34",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 282824,
       "name": "Home",
       "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
+    },
+    {
+      "added_at": "2026-01-26 02:40:34",
+      "album": {
+        "name": "My Foolishness",
+        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
+      },
+      "artists": [
+        {
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
+        }
+      ],
+      "duration_ms": 166187,
+      "name": "My Foolishness",
+      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "Flaming Katy",
-        "url": "https://open.spotify.com/album/3mlH54JsUWAjDCqUf2us5J"
-      },
-      "artists": [
-        {
-          "name": "Valentine Summers",
-          "url": "https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs"
-        }
-      ],
-      "duration_ms": 201306,
-      "name": "Flaming Katy",
-      "url": "https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5"
-    },
-    {
-      "added_at": "2026-01-26 02:40:34",
-      "album": {
         "name": "Dedicated To You",
         "url": "https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 285374,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt"
+    },
+    {
+      "added_at": "2026-01-26 02:40:34",
+      "album": {
+        "name": "Flaming Katy",
+        "url": "https://open.spotify.com/album/3mlH54JsUWAjDCqUf2us5J"
+      },
+      "artists": [
+        {
+          "name": "Valentine Summers",
+          "url": "https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs"
+        }
+      ],
+      "duration_ms": 201306,
+      "name": "Flaming Katy",
+      "url": "https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "Growing Old",
-        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Johnson",
-          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
-        }
-      ],
-      "duration_ms": 126250,
-      "name": "Growing Old",
-      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
-    },
-    {
-      "added_at": "2026-01-26 02:40:34",
-      "album": {
         "name": "Clear Day",
         "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 225180,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
+    },
+    {
+      "added_at": "2026-01-26 02:40:34",
+      "album": {
+        "name": "Growing Old",
+        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Johnson",
+          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
+        }
+      ],
+      "duration_ms": 126250,
+      "name": "Growing Old",
+      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "Birdman",
-        "url": "https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF"
-      },
-      "artists": [
-        {
-          "name": "Abbie Lou Johnston",
-          "url": "https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo"
-        }
-      ],
-      "duration_ms": 201734,
-      "name": "Birdman",
-      "url": "https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO"
-    },
-    {
-      "added_at": "2026-01-26 02:40:34",
-      "album": {
         "name": "Yesterdays",
         "url": "https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 157744,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ"
+    },
+    {
+      "added_at": "2026-01-26 02:40:34",
+      "album": {
+        "name": "Birdman",
+        "url": "https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF"
+      },
+      "artists": [
+        {
+          "name": "Abbie Lou Johnston",
+          "url": "https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo"
+        }
+      ],
+      "duration_ms": 201734,
+      "name": "Birdman",
+      "url": "https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
+        "name": "10 Ways Of Canon In D By Johann Pachelbel",
+        "url": "https://open.spotify.com/album/4EqmXmIGvJ9ICr9PqqgSVh"
       },
       "artists": [
         {
-          "name": "Benjamine Hans",
-          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
         }
       ],
-      "duration_ms": 165750,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
+      "duration_ms": 200906,
+      "name": "Pachelbel Canon In D - Solo Piano - Cannon, Kanon",
+      "url": "https://open.spotify.com/track/2GrDy6CNYhyYFXJjSB5VOh"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "10 Ways Of Canon In D By Johann Pachelbel",
-        "url": "https://open.spotify.com/album/4EqmXmIGvJ9ICr9PqqgSVh"
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
       },
       "artists": [
         {
-          "name": "Johann Pachelbel",
-          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+          "name": "Benjamine Hans",
+          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
         }
       ],
-      "duration_ms": 200906,
-      "name": "Pachelbel Canon In D - Solo Piano - Cannon, Kanon",
-      "url": "https://open.spotify.com/track/2GrDy6CNYhyYFXJjSB5VOh"
+      "duration_ms": 165750,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "Tulip",
-        "url": "https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8"
+        "name": "Sleepy Mountains",
+        "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
       },
       "artists": [
         {
-          "name": "Steve Jones Swiff",
-          "url": "https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml"
+          "name": "Charlie Key",
+          "url": "https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM"
         }
       ],
-      "duration_ms": 123941,
-      "name": "Tulip",
-      "url": "https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a"
+      "duration_ms": 224741,
+      "name": "Evening Message",
+      "url": "https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "Sleepy Mountains",
-        "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
+        "name": "Tulip",
+        "url": "https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8"
       },
       "artists": [
         {
-          "name": "Charlie Key",
-          "url": "https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM"
+          "name": "Steve Jones Swiff",
+          "url": "https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml"
         }
       ],
-      "duration_ms": 224741,
-      "name": "Evening Message",
-      "url": "https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU"
+      "duration_ms": 123941,
+      "name": "Tulip",
+      "url": "https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a"
     },
     {
       "added_at": "2026-01-26 02:40:34",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "Pour Vous",
-        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
-      },
-      "artists": [
-        {
-          "name": "Pamela Goldings",
-          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Pour Vous",
-      "url": "https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU"
-    },
-    {
-      "added_at": "2026-01-26 02:40:34",
-      "album": {
         "name": "It is a Beauteous Evening",
         "url": "https://open.spotify.com/album/08rw1H3dmuani2VQMlDNLB"
       },
@@ -1615,18 +1599,34 @@
     {
       "added_at": "2026-01-26 02:40:34",
       "album": {
-        "name": "Relief On A Shitty Day",
-        "url": "https://open.spotify.com/album/413eCTjZ1lJAjgtH5srUFp"
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
       },
       "artists": [
         {
-          "name": "Tyler Marshall",
-          "url": "https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k"
+          "name": "Seth Fernsby",
+          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
         }
       ],
-      "duration_ms": 188022,
-      "name": "Relief On A Shitty Day",
-      "url": "https://open.spotify.com/track/4LDZC11b3Xe5s6jgz1RQJ3"
+      "duration_ms": 139663,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+    },
+    {
+      "added_at": "2026-01-26 02:40:34",
+      "album": {
+        "name": "Pour Vous",
+        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Pour Vous",
+      "url": "https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

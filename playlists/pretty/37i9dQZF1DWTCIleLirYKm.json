@@ -1,6 +1,6 @@
 {
   "description": "a state of mind.",
-  "num_followers": 206030,
+  "num_followers": 206121,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
-        "name": "Back To The Barrooms",
-        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "I Think I'll Just Stay Here And Drink",
-      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
-    },
-    {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
         "name": "Shine On Rainy Day",
         "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 270413,
       "name": "Black Crow",
       "url": "https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
+        "name": "Back To The Barrooms",
+        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "I Think I'll Just Stay Here And Drink",
+      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
     },
     {
       "added_at": "2026-01-09 05:00:37",
@@ -691,6 +691,26 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
         "name": "A Decade Of Hits",
         "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 281400,
       "name": "The Road Goes On Forever",
       "url": "https://open.spotify.com/track/5QvUIQYaDBvssqnxrw1X49"
-    },
-    {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
     },
     {
       "added_at": "2026-01-09 05:00:37",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-01-09 05:00:37",
       "album": {
-        "name": "Them Dirty Roses",
-        "url": "https://open.spotify.com/album/0PqJlFAxw4V4sz3rEqUOQj"
-      },
-      "artists": [
-        {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
-        }
-      ],
-      "duration_ms": 240744,
-      "name": "Whiskey in My Cup",
-      "url": "https://open.spotify.com/track/5GszBUwWj4j942qzkIwQ2R"
-    },
-    {
-      "added_at": "2026-01-09 05:00:37",
-      "album": {
         "name": "Outlaw Shit (feat. Shooter Jennings)",
         "url": "https://open.spotify.com/album/0wL6TUhFe9DutCDj6oIjDq"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 245046,
       "name": "Outlaw Shit (feat. Shooter Jennings)",
       "url": "https://open.spotify.com/track/1KLNhIijEB83TXz78CIK72"
+    },
+    {
+      "added_at": "2026-01-09 05:00:37",
+      "album": {
+        "name": "Them Dirty Roses",
+        "url": "https://open.spotify.com/album/0PqJlFAxw4V4sz3rEqUOQj"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "duration_ms": 240744,
+      "name": "Whiskey in My Cup",
+      "url": "https://open.spotify.com/track/5GszBUwWj4j942qzkIwQ2R"
     },
     {
       "added_at": "2026-01-09 05:00:37",

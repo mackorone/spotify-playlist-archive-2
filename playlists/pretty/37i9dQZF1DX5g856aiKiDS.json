@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 516029,
+  "num_followers": 516059,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-01-26 05:35:48",
       "album": {
+        "name": "Your BGM Vol.1",
+        "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
+      },
+      "artists": [
+        {
+          "name": "\uc5d0\ub9ad\ub0a8 (Eric Nam), CHEEZE (\uce58\uc988)",
+          "url": "https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX"
+        }
+      ],
+      "duration_ms": 239099,
+      "name": "Perhaps Love (\uc0ac\ub791\uc778\uac00\uc694) (Prod.By \ubc15\uadfc\ud0dc)",
+      "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
+    },
+    {
+      "added_at": "2026-01-26 05:35:48",
+      "album": {
         "name": "Maybe We Could Be a Thing",
         "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
-    },
-    {
-      "added_at": "2026-01-26 05:35:48",
-      "album": {
-        "name": "Your BGM Vol.1",
-        "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
-      },
-      "artists": [
-        {
-          "name": "\uc5d0\ub9ad\ub0a8 (Eric Nam), CHEEZE (\uce58\uc988)",
-          "url": "https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX"
-        }
-      ],
-      "duration_ms": 239099,
-      "name": "Perhaps Love (\uc0ac\ub791\uc778\uac00\uc694) (Prod.By \ubc15\uadfc\ud0dc)",
-      "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
     },
     {
       "added_at": "2026-01-26 05:35:48",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-01-26 05:35:48",
       "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
-    },
-    {
-      "added_at": "2026-01-26 05:35:48",
-      "album": {
         "name": "2 O' CLOCK",
         "url": "https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 152320,
       "name": "2 O' CLOCK",
       "url": "https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K"
+    },
+    {
+      "added_at": "2026-01-26 05:35:48",
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
     },
     {
       "added_at": "2026-01-26 05:35:48",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-01-26 05:35:48",
       "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
-    },
-    {
-      "added_at": "2026-01-26 05:35:48",
-      "album": {
         "name": "Can I Love?",
         "url": "https://open.spotify.com/album/5RywVUX8IUEPcj3VO6Bq3y"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/0Z8IT9sJWaGQb942lphBzY"
+    },
+    {
+      "added_at": "2026-01-26 05:35:48",
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
     },
     {
       "added_at": "2026-01-26 05:35:48",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-01-26 05:35:48",
       "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 184565,
+      "name": "Hope You're Doing Well",
+      "url": "https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF"
+    },
+    {
+      "added_at": "2026-01-26 05:35:48",
+      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
-    },
-    {
-      "added_at": "2026-01-26 05:35:48",
-      "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 184565,
-      "name": "Hope You're Doing Well",
-      "url": "https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF"
     },
     {
       "added_at": "2026-01-26 05:35:48",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-01-26 05:35:48",
       "album": {
-        "name": "It's Raining",
-        "url": "https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE"
-      },
-      "artists": [
-        {
-          "name": "Vincent Blue",
-          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
-        }
-      ],
-      "duration_ms": 214326,
-      "name": "It's Raining",
-      "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
-    },
-    {
-      "added_at": "2026-01-26 05:35:48",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 196866,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "added_at": "2026-01-26 05:35:48",
+      "album": {
+        "name": "It's Raining",
+        "url": "https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "duration_ms": 214326,
+      "name": "It's Raining",
+      "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
     },
     {
       "added_at": "2026-01-26 05:35:48",
@@ -811,38 +811,6 @@
     {
       "added_at": "2026-01-26 05:35:48",
       "album": {
-        "name": "GAUSSIAN",
-        "url": "https://open.spotify.com/album/3fW9gKjP50cSIocjBT7qR0"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "MIMI",
-      "url": "https://open.spotify.com/track/4RfVtka58I93lEnPsLlBEZ"
-    },
-    {
-      "added_at": "2026-01-26 05:35:48",
-      "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
-    },
-    {
-      "added_at": "2026-01-26 05:35:48",
-      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -863,22 +831,34 @@
     {
       "added_at": "2026-01-26 05:35:48",
       "album": {
-        "name": "Like a Fool",
-        "url": "https://open.spotify.com/album/6qUbqU5WUNc4tQuwdVsFMQ"
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
       },
       "artists": [
         {
-          "name": "NIve",
-          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 214426,
-      "name": "Like a Fool",
-      "url": "https://open.spotify.com/track/3yjlkUlDhK2XwLlOM6TO5Q"
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
+    },
+    {
+      "added_at": "2026-01-26 05:35:48",
+      "album": {
+        "name": "GAUSSIAN",
+        "url": "https://open.spotify.com/album/3fW9gKjP50cSIocjBT7qR0"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "MIMI",
+      "url": "https://open.spotify.com/track/4RfVtka58I93lEnPsLlBEZ"
     },
     {
       "added_at": "2026-01-26 05:35:48",
@@ -899,6 +879,26 @@
       "duration_ms": 202173,
       "name": "Luv Luv Luv",
       "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
+    },
+    {
+      "added_at": "2026-01-26 05:35:48",
+      "album": {
+        "name": "Like a Fool",
+        "url": "https://open.spotify.com/album/6qUbqU5WUNc4tQuwdVsFMQ"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 214426,
+      "name": "Like a Fool",
+      "url": "https://open.spotify.com/track/3yjlkUlDhK2XwLlOM6TO5Q"
     }
   ],
   "unique_name": "Dalkom Cafe",

@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 17302,
+  "num_followers": 17299,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-11-04 06:45:24",
       "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 255253,
+      "name": "Seed",
+      "url": "https://open.spotify.com/track/5PinFdI9r167ql5cVNYtFR"
+    },
+    {
+      "added_at": "2025-11-04 06:45:24",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 228226,
       "name": "Rock With You - Spotify Singles",
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
-    },
-    {
-      "added_at": "2025-11-04 06:45:24",
-      "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 255253,
-      "name": "Seed",
-      "url": "https://open.spotify.com/track/5PinFdI9r167ql5cVNYtFR"
     },
     {
       "added_at": "2025-11-04 06:45:24",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-11-04 06:45:24",
       "album": {
-        "name": "Jay Park Season 1",
-        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219742,
-      "name": "Your/My",
-      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
-    },
-    {
-      "added_at": "2025-11-04 06:45:24",
-      "album": {
         "name": "Syndrome",
         "url": "https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 221146,
       "name": "Syndrome",
       "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
+    },
+    {
+      "added_at": "2025-11-04 06:45:24",
+      "album": {
+        "name": "Jay Park Season 1",
+        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219742,
+      "name": "Your/My",
+      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
     },
     {
       "added_at": "2025-11-04 06:45:24",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-11-04 06:45:24",
       "album": {
-        "name": "My Liberation Notes OST Part 9",
-        "url": "https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV"
-      },
-      "artists": [
-        {
-          "name": "Kwak jineon",
-          "url": "https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD"
-        }
-      ],
-      "duration_ms": 236097,
-      "name": "A Kind Of Confession - Male Version",
-      "url": "https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s"
-    },
-    {
-      "added_at": "2025-11-04 06:45:24",
-      "album": {
         "name": "overdose",
         "url": "https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 255808,
       "name": "overdose",
       "url": "https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU"
+    },
+    {
+      "added_at": "2025-11-04 06:45:24",
+      "album": {
+        "name": "My Liberation Notes OST Part 9",
+        "url": "https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV"
+      },
+      "artists": [
+        {
+          "name": "Kwak jineon",
+          "url": "https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD"
+        }
+      ],
+      "duration_ms": 236097,
+      "name": "A Kind Of Confession - Male Version",
+      "url": "https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s"
     },
     {
       "added_at": "2025-11-04 06:45:24",
@@ -651,18 +651,18 @@
     {
       "added_at": "2025-11-04 06:45:24",
       "album": {
-        "name": "\uc74c\uc545 \ucea0\ud551 \uac08\ub798?",
-        "url": "https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK"
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
       "artists": [
         {
-          "name": "Yoon Do Hyun",
-          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 266999,
-      "name": "\ube57\uc18c\ub9ac - Acoustic",
-      "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"
+      "duration_ms": 215000,
+      "name": "My Ceiling Disappeared",
+      "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
     },
     {
       "added_at": "2025-11-04 06:45:24",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-11-04 06:45:24",
       "album": {
+        "name": "\uc74c\uc545 \ucea0\ud551 \uac08\ub798?",
+        "url": "https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "duration_ms": 266999,
+      "name": "\ube57\uc18c\ub9ac - Acoustic",
+      "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"
+    },
+    {
+      "added_at": "2025-11-04 06:45:24",
+      "album": {
         "name": "6equence",
         "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 212280,
       "name": "ddu ddu ddu",
       "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
-    },
-    {
-      "added_at": "2025-11-04 06:45:24",
-      "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "My Ceiling Disappeared",
-      "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
     },
     {
       "added_at": "2025-11-04 06:45:24",

@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-762 songs - 2 day 23 hr 42 min
+763 songs - 2 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Don't Give Up \- Radio Edit](https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Talal](https://open.spotify.com/artist/4FahFgHbYW6tRpEwCQqQTz), [Amy Wawn](https://open.spotify.com/artist/2LfqKoz9RFoKwyCs3s2OLf) | [Don't Give Up \(Radio Edit\)](https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN) | 3:28 | 2021-05-09 | 2022-12-24 |
 | [Don't Hold Back \- Edit](https://open.spotify.com/track/7g2ubdOa7LFHBGgt4UcjqO) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Don't Hold Back \(Edit\)](https://open.spotify.com/album/3MG0AAwNKfBPAUMGJR3mRz) | 4:30 | 2021-10-04 | 2022-07-29 |
 | [Don't Stop Me Now](https://open.spotify.com/track/2FxDmxZdZ0yNb8rABBxLS1) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Don't Stop Me Now](https://open.spotify.com/album/2jS4uQwgKMayLnhp2M38eS) | 5:44 | 2024-12-13 | 2025-01-19 |
+| [DONA](https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [NEWORLD II](https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK) | 2:49 | 2026-01-30 |  |
 | [Doomscrolling \- LORRAINNE Remix](https://open.spotify.com/track/6si9ARtgGV9mLDll570H5D) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [LORRAINNE](https://open.spotify.com/artist/3bmSLlxmls1bnwUooX4xW3) | [Doomscrolling EP](https://open.spotify.com/album/7FM6rDlWokL8N9gHScKsN6) | 7:28 | 2021-07-22 | 2021-12-07 |
 | [Drago](https://open.spotify.com/track/2MuW3jSDlBC5pyp5lDA7Ov) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Drago](https://open.spotify.com/album/6juKR9M4yV7SIxX5niEUZP) | 6:49 | 2021-10-10 | 2022-06-24 |
 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 | 2023-01-13 | 2024-01-05 |
@@ -362,7 +363,7 @@
 | [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 |  |
 | [Kurzstrecke](https://open.spotify.com/track/6AowzR1raQ3DLpBkrsQsNp) | [Function](https://open.spotify.com/artist/6eu3TBnYM3SrkUU59SFhgp) | [Existenz](https://open.spotify.com/album/6y5DYvvHhDbNQfonF1Ykc3) | 6:43 | 2020-01-03 | 2020-01-04 |
 | [Last Bloom](https://open.spotify.com/track/00om2cgsHAwhdbpACwbAke) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Last Bloom](https://open.spotify.com/album/6UC5SN5ycYhBgNk6Z5SfTT) | 5:53 | 2019-09-19 | 2020-01-04 |
-| [Last Forever](https://open.spotify.com/track/17DObRgarppeleRuJJOV8q) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Last Forever](https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C) | 5:09 | 2025-08-08 |  |
+| [Last Forever](https://open.spotify.com/track/17DObRgarppeleRuJJOV8q) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Last Forever](https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C) | 5:09 | 2025-08-08 | 2026-02-01 |
 | [Last Night \- Anyma x Layton Giordani Remix](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Last Night \(Anyma x Layton Giordani Remix\)](https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa) | 4:16 | 2024-05-24 |  |
 | [Last Song](https://open.spotify.com/track/6pvI93SNbtPTaWQ3OvvFmV) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Buenos Aires](https://open.spotify.com/album/5Ks5CvTHpCOc7m08HkxVpn) | 7:42 | 2019-08-15 | 2021-03-22 |
 | [Lean Into Light](https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Lean Into Light](https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO) | 3:25 | 2024-12-20 | 2025-01-26 |

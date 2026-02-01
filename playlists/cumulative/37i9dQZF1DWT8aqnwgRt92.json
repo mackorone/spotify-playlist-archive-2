@@ -3933,6 +3933,28 @@
     },
     {
       "album": {
+        "name": "CIRCE",
+        "url": "https://open.spotify.com/album/0kBGVaQkDtHgdzQm2Sp1fN"
+      },
+      "artists": [
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        },
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169261,
+      "name": "CIRCE",
+      "url": "https://open.spotify.com/track/3VQJu7ZUPT9dBaS7uAbKWI"
+    },
+    {
+      "album": {
         "name": "Clear Sky -2024-",
         "url": "https://open.spotify.com/album/3cumY09Qw8iMMA2zLvbw8V"
       },
@@ -5866,6 +5888,32 @@
       "duration_ms": 174254,
       "name": "Endroll",
       "url": "https://open.spotify.com/track/4tIjuLDto2gLGFrQOvU8kS"
+    },
+    {
+      "album": {
+        "name": "ENDROLL",
+        "url": "https://open.spotify.com/album/0VxAQil0vOXx4Iq5u5KAXy"
+      },
+      "artists": [
+        {
+          "name": "Yoohei Kawakami",
+          "url": "https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5"
+        },
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        },
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182772,
+      "name": "ENDROLL",
+      "url": "https://open.spotify.com/track/0zqQccMOU98P0gPDhqgnGg"
     },
     {
       "album": {
@@ -22047,6 +22095,24 @@
     },
     {
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+    },
+    {
+      "album": {
         "name": "Sweet Disaster",
         "url": "https://open.spotify.com/album/3fQCyO7eGK7sTv28OOQexg"
       },
@@ -22372,7 +22438,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 175333,
       "name": "Teen spirits",
       "url": "https://open.spotify.com/track/5jUTlv5OtqxTNfmw31ns5T"
@@ -26722,7 +26788,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 251373,
       "name": "\u3042\u307e\u306e\u3058\u3083\u304f",
       "url": "https://open.spotify.com/track/6gaGfVzxJ9abc0hAAK4ieH"
@@ -36998,7 +37064,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 215450,
       "name": "\u4e8c\u3064\u306e\u9053",
       "url": "https://open.spotify.com/track/7tLro8uKwT0hO49i3l6afj"

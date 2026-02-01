@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 198294,
       "name": "Finding You Again",
       "url": "https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB"
@@ -4120,6 +4120,24 @@
       "duration_ms": 157188,
       "name": "No Jolene",
       "url": "https://open.spotify.com/track/32MwhuIuhW55LawKJa8jyQ"
+    },
+    {
+      "album": {
+        "name": "Noe enkelt",
+        "url": "https://open.spotify.com/album/3tii6B8NjGqRqGc39rxTai"
+      },
+      "artists": [
+        {
+          "name": "Erlend Ropstad",
+          "url": "https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375453,
+      "name": "Noe enkelt",
+      "url": "https://open.spotify.com/track/7yTpaET2jjkSPLnhTFT75r"
     },
     {
       "album": {

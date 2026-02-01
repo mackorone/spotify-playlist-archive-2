@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, VICTORS, Laureline and more
+> With Rhineland, VICTORS, The Wild Wind and more
 
 1,435 songs - 3 day 20 hr 2 min
 
@@ -479,7 +479,7 @@
 | [Georgetown](https://open.spotify.com/track/1LJXg27KpKvIWQCo1xGlia) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Space and Time \(Deluxe Edition\)](https://open.spotify.com/album/6kHxPKAWHgv7wVaM2qcKlV) | 3:47 | 2022-02-18 | 2022-08-11 |
 | [Get a Grip](https://open.spotify.com/track/6kLhi6C5tXB5ILppo8BZhF) | [Patternist](https://open.spotify.com/artist/1n5JefcusF9c1qITJSp6Ms) | [I Don't Know What I'm Doing Here](https://open.spotify.com/album/4xmrb6kQ1X0ftdb2Xe3Cwd) | 1:11 | 2022-05-29 | 2024-02-20 |
 | [Get Better](https://open.spotify.com/track/0Cz5KFXVY2bM0X4ebyIGrR) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/5NZ0kjAcKNZQc9RYmOuzCa) | 3:26 | 2022-09-19 | 2022-09-21 |
-| [Get Better](https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:26 | 2023-12-14 | 2026-01-31 |
+| [Get Better](https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:26 | 2023-12-14 |  |
 | [Get Better](https://open.spotify.com/track/7JkdM2lpq22LeRtiSev3jC) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/2dsxWOvOPWcVg0rIBSOo1n) | 3:26 | 2022-05-06 | 2022-09-10 |
 | [Get Here](https://open.spotify.com/track/3Lo0dE8PtdTyVm7I8o4S4U) | [Bootstraps](https://open.spotify.com/artist/0x5TKpXlF0dsnMNB2xOYXz) | [Homage: Deluxe Reissue](https://open.spotify.com/album/1A7lsYGDV8WPGHhE1rECro) | 3:31 | 2022-05-02 | 2023-06-10 |
 | [Get You Out](https://open.spotify.com/track/3fdSUF8i5E6rWIqBjNqJ6F) | [Antigon](https://open.spotify.com/artist/3YPPVZi2rGfFGvd0YS5nwA) | [Get You Out](https://open.spotify.com/album/4pCLAH44OAcqoMC0Pq26N4) | 3:12 | 2022-04-13 | 2022-04-14 |
@@ -534,7 +534,7 @@
 | [Heart Away](https://open.spotify.com/track/51K5zFXStvYJ20UNE4nEFM) | [SAILR](https://open.spotify.com/artist/3OjFBZXDBX6mrezQFaadGa) | [Heart Away](https://open.spotify.com/album/6eNyApXXukqsxR8LDYbumB) | 3:50 | 2022-03-15 | 2024-03-18 |
 | [Heart Worth Breaking](https://open.spotify.com/track/1JMzrJCU3dIR0TDEhEDDe5) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Heroes](https://open.spotify.com/album/4oW03FMm0t1yYIa0RjBl12) | 5:07 | 2022-11-03 | 2023-08-28 |
 | [Heartbeat](https://open.spotify.com/track/7mPtXoZqVIRHSWjWzca85k) | [SAILR](https://open.spotify.com/artist/3OjFBZXDBX6mrezQFaadGa) | [Heartbeat](https://open.spotify.com/album/4kcrbLs822jesi8R1ok9ND) | 3:11 | 2022-06-06 | 2024-04-17 |
-| [Heartless](https://open.spotify.com/track/3RKdsUIRmpcYQRI50CV7Bj) | [Recent Rumors](https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn) | [Heartless](https://open.spotify.com/album/2JGLkLB8ZkqKY0IXVJppIr) | 3:13 | 2025-10-23 | 2026-01-30 |
+| [Heartless](https://open.spotify.com/track/3RKdsUIRmpcYQRI50CV7Bj) | [Recent Rumors](https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn) | [Heartless](https://open.spotify.com/album/2JGLkLB8ZkqKY0IXVJppIr) | 3:13 | 2025-10-23 |  |
 | [Hearts A Mess](https://open.spotify.com/track/1xXV11kKV4JwC9ZdF3QB9I) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [A World Gone By](https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8) | 4:04 | 2023-12-22 | 2023-12-26 |
 | [Heat and Dark](https://open.spotify.com/track/67qD5AzCPBZhwnFb1n75Oe) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Safety](https://open.spotify.com/album/6tgbjRYSkt8AHTBwG4lP3u) | 4:05 | 2022-01-14 | 2022-01-15 |
 | [Here Now](https://open.spotify.com/track/4DNJQD26B6pzHPFEssGiom) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Whatever You Want](https://open.spotify.com/album/5zzVQgRaQKhp2nmIbM5sc9) | 3:14 | 2022-03-16 | 2022-03-17 |
@@ -836,7 +836,7 @@
 | [Midnight in Miami](https://open.spotify.com/track/6mvrtlUzQYSvZQaWvvzqvZ) | [Heart Of Gold](https://open.spotify.com/artist/4hqo1pdNrZHfPmSmTtMvUZ) | [Midnight in Miami](https://open.spotify.com/album/6aAV39pK8V2hFp6jjgB9pK) | 3:59 | 2022-03-26 | 2022-03-27 |
 | [Midnight in NM](https://open.spotify.com/track/6FeH7h36FVmXWTBlZwxURA) | [Scott Ruth](https://open.spotify.com/artist/4pOiomYw0DRSNFPMLmKESa) | [Telephone EP](https://open.spotify.com/album/6CTHz8m8msKXxF2WC4ccB8) | 4:21 | 2024-11-30 | 2024-12-01 |
 | [Miles Ahead](https://open.spotify.com/track/2MKJD3HJ8CaHL9c2c46i93) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Miles Ahead](https://open.spotify.com/album/0eSTwqBo56JOxuT2QLz8pV) | 4:05 | 2021-12-02 | 2022-03-08 |
-| [Miles Ahead](https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 4:05 | 2022-11-07 |  |
+| [Miles Ahead](https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 4:05 | 2022-11-07 | 2026-02-01 |
 | [Miles Ahead](https://open.spotify.com/track/5OLFxOWe0DifvjtNaYlR4w) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Miles Ahead](https://open.spotify.com/album/5lCCPoqOoD2LHc9ofICCqo) | 4:05 | 2022-08-23 | 2022-10-11 |
 | [Mindreader](https://open.spotify.com/track/55oEOALXYVNkp1t9o3Dvxv) | [Yueku](https://open.spotify.com/artist/2aIlWzhu6bf22kYohuabVj) | [Mindreader](https://open.spotify.com/album/7wd57O0aWpoEQaTwBoQ381) | 3:34 | 2022-07-18 | 2022-09-12 |
 | [Mine!](https://open.spotify.com/track/1jXwFfEcr5B03cwn6YGYd2) | [Adam Ragsdale](https://open.spotify.com/artist/2aKWtObj45bDkX1f2E4Eom) | [Moon, Part One](https://open.spotify.com/album/1FnUAG453E4de7qG5LZOMO) | 4:00 | 2022-10-14 | 2022-10-15 |
@@ -978,7 +978,7 @@
 | [Painkillers](https://open.spotify.com/track/4BTsd7FBKe9m7fvTp6HtiP) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 3:57 | 2023-12-21 | 2024-04-04 |
 | [Painkillers](https://open.spotify.com/track/7tlzhzVWxGQaJ1OmELtnbu) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Painkillers](https://open.spotify.com/album/409yphur86d7jChA8slfAb) | 3:57 | 2022-05-05 | 2022-09-05 |
 | [Paint](https://open.spotify.com/track/5lHA0VtRqd0jsaT46xC3Ae) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Paint](https://open.spotify.com/album/5acGmCJHKwbGdnguz1Bpnz) | 4:31 | 2022-04-04 | 2022-04-06 |
-| [Pale Ash](https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Pale Ash](https://open.spotify.com/album/5OJo9rpvpcFLhrN9lk2gBN) | 3:26 | 2022-10-10 | 2026-01-21 |
+| [Pale Ash](https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Pale Ash](https://open.spotify.com/album/5OJo9rpvpcFLhrN9lk2gBN) | 3:26 | 2022-10-10 |  |
 | [Parachute](https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF) | 3:31 | 2022-08-07 | 2025-04-09 |
 | [Paranoid](https://open.spotify.com/track/0ZcDMe3lfj0lUAtgS9BjVd) | [LOYALS](https://open.spotify.com/artist/1yilHVaoQ33wVwL9HaODSA), [Josh Manuel](https://open.spotify.com/artist/33XCGkscDih2VsMHZSkHMW) | [Paranoid](https://open.spotify.com/album/1iXcojiGWJEwMvuObcceXg) | 3:51 | 2022-05-21 | 2022-05-22 |
 | [Part of Me](https://open.spotify.com/track/6tFcQWz3awZaYxbZqmSXRh) | [By The Coast](https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm) | [You](https://open.spotify.com/album/6W7ekW1v9CXxa33uhb1xp2) | 4:12 | 2021-12-06 | 2024-05-29 |
@@ -1027,7 +1027,7 @@
 | [Ready To Fall](https://open.spotify.com/track/1eOMqCzmXUG3lORc3PzPqo) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Ruminations](https://open.spotify.com/album/3ywsSe0AcPuKJQCVxEmX8P) | 2:54 | 2023-12-22 | 2024-04-09 |
 | [Real Thing](https://open.spotify.com/track/7E8P2emV16uBuPzaWPL1YI) | [LeBrock](https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ) | [Real Thing](https://open.spotify.com/album/4S3jQEdof1oA2ONsd8ROS0) | 5:05 | 2022-10-09 | 2022-10-10 |
 | [Rearview](https://open.spotify.com/track/0xl44WcbjRXYGz1rV0oAY5) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Rearview](https://open.spotify.com/album/3f6DvjqGkMsTnVRn8s0udM) | 3:42 | 2023-06-04 | 2024-04-05 |
-| [Reckless](https://open.spotify.com/track/3rkgDAgshJ6qDBFHEOMRvs) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [A Dream Through Open Eyes](https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ) | 3:37 | 2024-11-10 |  |
+| [Reckless](https://open.spotify.com/track/3rkgDAgshJ6qDBFHEOMRvs) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [A Dream Through Open Eyes](https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ) | 3:37 | 2024-11-10 | 2026-02-01 |
 | [Reckless Lover](https://open.spotify.com/track/4GaFm87ain13qtg3CkWR8b) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Welcome Back](https://open.spotify.com/album/5eLr7pwuHAUEnCCRyc9J7V) | 4:10 | 2022-03-17 | 2022-06-17 |
 | [Reckless Lover \- Acoustic](https://open.spotify.com/track/3cmcy7BwekXhIzysIdhLng) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Reckless Lover \(Acoustic\)](https://open.spotify.com/album/20cMOMSw2TBjDcY1QYJmqX) | 4:00 | 2021-12-01\* | 2024-04-02 |
 | [Redeye](https://open.spotify.com/track/0dOhHUYXDhNzKWtsvaNv3R) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Redeye](https://open.spotify.com/album/3bMCftnYUVKzKd1QuJUV4m) | 3:51 | 2022-08-03 | 2024-01-21 |
@@ -1332,7 +1332,7 @@
 | [Warm with You](https://open.spotify.com/track/0Pj6KjqwmJNdIOttPShZC9) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Warm With You](https://open.spotify.com/album/6Y3aUcxeYhAbv6CBgKXZ0R) | 4:07 | 2022-06-01 | 2023-08-22 |
 | [Wash](https://open.spotify.com/track/28eTBuDrB4pGDPL8VtutVL) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/13PivTjVtAlNX45TRXKqB4) | 4:46 | 2022-10-11 | 2022-10-12 |
 | [Wash](https://open.spotify.com/track/5geOnnY2JELFAlYORpvCEW) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/3X4oLQ5APFlwryQnOeNtYJ) | 4:46 | 2022-04-09 | 2022-08-16 |
-| [Washed Wine](https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Washed Wine](https://open.spotify.com/album/6cPnpY4PBuarcZVCOkddjA) | 3:39 | 2021-12-08 |  |
+| [Washed Wine](https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Washed Wine](https://open.spotify.com/album/6cPnpY4PBuarcZVCOkddjA) | 3:39 | 2021-12-08 | 2026-02-01 |
 | [Wasted](https://open.spotify.com/track/5p2Kha8AAJJUwfkYwCQoWk) | [Lonas](https://open.spotify.com/artist/4IK8Q9friPfYKvX4n83vYL) | [YOUTH II](https://open.spotify.com/album/5vnD9JpLH7r8RMxmywFRgR) | 3:41 | 2024-01-20 | 2024-01-25 |
 | [Wasted Nights](https://open.spotify.com/track/374EbBaIwl1iq65j7rlGQ8) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Nowhere Land](https://open.spotify.com/album/0VK286bf0SBVyB4NjdJwcz) | 3:10 | 2022-03-22 | 2022-03-23 |
 | [Wastelanders Paradise](https://open.spotify.com/track/0WRWaMxWH6UENygl1MjrNV) | [Zack Hall](https://open.spotify.com/artist/3phKKoGwK35CYmLZ3EmLay) | [Wastelanders Paradise](https://open.spotify.com/album/2s03AxNA7sBfBUQY1IBzYY) | 3:33 | 2023-12-14 | 2023-12-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,977 likes - 190 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,066 likes - 190 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 189 | [Very Gentle 528 Hz](https://open.spotify.com/track/36lK0alPIzF9mV22hNkCIL) | [Lynx XII](https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa) | [528 Hz Sleep & Relaxation](https://open.spotify.com/album/4qaU7LnjZmjwmwF3ar9p4U) | 3:05 |
 | 190 | [Finding Self \(528 Hz\)](https://open.spotify.com/track/6HKrQKnsteGLKVfpVlY6IF) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Solfeggios for the Solar Plexus Chakra](https://open.spotify.com/album/7ch4M4NHVGSkDDvzi0v124) | 3:21 |
 
-Snapshot ID: `AAAAAOUtMB/HQGAlvpRDA48OnrmBhIwB`
+Snapshot ID: `AAAAAGT5Rq6LUhxWAP26lmTPCbiCgdeI`

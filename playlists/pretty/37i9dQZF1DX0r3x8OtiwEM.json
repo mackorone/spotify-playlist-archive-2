@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 1054016,
+  "num_followers": 1054164,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
+        "name": "Hold It Down (DARE)",
+        "url": "https://open.spotify.com/album/4GkbVNXOcQFtpClXpBaqSm"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 226771,
+      "name": "Hold It Down (DARE)",
+      "url": "https://open.spotify.com/track/20Roe0czA0RVSwYhtRIFcz"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 453068,
       "name": "glow",
       "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
-        "name": "Hold It Down (DARE)",
-        "url": "https://open.spotify.com/album/4GkbVNXOcQFtpClXpBaqSm"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 226771,
-      "name": "Hold It Down (DARE)",
-      "url": "https://open.spotify.com/track/20Roe0czA0RVSwYhtRIFcz"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -391,26 +391,6 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
-        "name": "Contesto",
-        "url": "https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA"
-      },
-      "artists": [
-        {
-          "name": "Massuma",
-          "url": "https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF"
-        },
-        {
-          "name": "DOSAMIS",
-          "url": "https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "Contesto",
-      "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
         "name": "Eyes On Me",
         "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 218978,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
+        "name": "Contesto",
+        "url": "https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA"
+      },
+      "artists": [
+        {
+          "name": "Massuma",
+          "url": "https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF"
+        },
+        {
+          "name": "DOSAMIS",
+          "url": "https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K"
+        }
+      ],
+      "duration_ms": 206829,
+      "name": "Contesto",
+      "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/0kvc8rqF5vtlKwN78Fa85y"
+      },
+      "artists": [
+        {
+          "name": "NOVEMBER KID",
+          "url": "https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM"
+        }
+      ],
+      "duration_ms": 121818,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/3u6QGMiBRiIr3nprnSBo0s"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
         "name": "Finding Home",
         "url": "https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 300487,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/0kvc8rqF5vtlKwN78Fa85y"
-      },
-      "artists": [
-        {
-          "name": "NOVEMBER KID",
-          "url": "https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM"
-        }
-      ],
-      "duration_ms": 121818,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/3u6QGMiBRiIr3nprnSBo0s"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
-        "name": "Pump Up The Jam",
-        "url": "https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO"
-      },
-      "artists": [
-        {
-          "name": "Laherte",
-          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
-        }
-      ],
-      "duration_ms": 207619,
-      "name": "Pump Up The Jam",
-      "url": "https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
         "name": "Empty Skies",
         "url": "https://open.spotify.com/album/1A8ijkzRwAmJuzLN6IVWxs"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 214687,
       "name": "Empty Skies",
       "url": "https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
+        "name": "Pump Up The Jam",
+        "url": "https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO"
+      },
+      "artists": [
+        {
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
+        }
+      ],
+      "duration_ms": 207619,
+      "name": "Pump Up The Jam",
+      "url": "https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -1183,18 +1183,22 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C"
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS"
       },
       "artists": [
         {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
         }
       ],
-      "duration_ms": 309101,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/17DObRgarppeleRuJJOV8q"
+      "duration_ms": 244517,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -1215,22 +1219,22 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS"
+        "name": "NEWORLD II",
+        "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
         },
         {
-          "name": "Volen Sentir",
-          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
         }
       ],
-      "duration_ms": 244517,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
+      "duration_ms": 169090,
+      "name": "DONA",
+      "url": "https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS"
     },
     {
       "added_at": "2026-01-30 05:01:03",

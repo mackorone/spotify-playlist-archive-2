@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 212152,
+  "num_followers": 212153,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAAAKxZaSlnp7CciQOf3nr9+d",
+  "snapshot_id": "aXv0gAAAAABWOm5s04cLailhf6TRwHOh",
   "tracks": [
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 125514,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/3kuuGbu0mZbMqZ8gNKiXyo"
+      "duration_ms": 174334,
+      "name": "Not Quite Myself",
+      "url": "https://open.spotify.com/track/1N4D5MIp3v67TDRa8jJlQr"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 174334,
-      "name": "Not Quite Myself",
-      "url": "https://open.spotify.com/track/1N4D5MIp3v67TDRa8jJlQr"
+      "duration_ms": 125514,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/3kuuGbu0mZbMqZ8gNKiXyo"
     },
     {
       "added_at": null,

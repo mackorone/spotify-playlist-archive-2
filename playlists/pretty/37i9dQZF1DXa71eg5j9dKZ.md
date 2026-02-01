@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Dusky
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,726 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,736 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 19 | [champagne](https://open.spotify.com/track/3WIItkBeQ3ffdM9IntiSDv) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [champagne](https://open.spotify.com/album/7gGxMkJTazKUfPSPBEaRi6) | 3:13 |
 | 20 | [Believe](https://open.spotify.com/track/0P4m0R5msH9E5I2CfQx7Dg) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Believe](https://open.spotify.com/album/5UML5yybgZrFpHIMD3w7zY) | 3:42 |
 | 21 | [Fara](https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fara](https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd) | 3:02 |
-| 22 | [eye contact \(feat\. Council\)](https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ), [Council](https://open.spotify.com/artist/3N7z79Am2V9dxOxd8K2HVo) | [eye contact \(feat\. Council\)](https://open.spotify.com/album/6z9iFDIEPBgrDp1fpwqRHN) | 3:06 |
+| 22 | [eye contact \(feat\. Council\)](https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ), [Council](https://open.spotify.com/artist/0bX0GFeupnom6eHF7hJw62) | [eye contact \(feat\. Council\)](https://open.spotify.com/album/6z9iFDIEPBgrDp1fpwqRHN) | 3:06 |
 | 23 | [This Is The Place](https://open.spotify.com/track/2CNUFN8wwtwX39rRlPD3Kk) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [This Is The Place](https://open.spotify.com/album/3XPTdlBTpXlwP4ZdU9dgMN) | 3:16 |
 | 24 | [Do It Right](https://open.spotify.com/track/0revALbfswvbw3zURpu4eE) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Do It Right](https://open.spotify.com/album/4ZGhXqzoSNBnzvxRB2NALr) | 6:12 |
 | 25 | [Fallin'](https://open.spotify.com/track/4RWk0U7Fk6Y6TCLk0THcfN) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Balance](https://open.spotify.com/album/19z1oEwjBsQb9DSCqGRaq5) | 2:52 |

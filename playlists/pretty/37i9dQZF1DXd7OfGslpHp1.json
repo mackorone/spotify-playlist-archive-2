@@ -1,15 +1,103 @@
 {
-  "description": "\u4e3b\u984c\u6b4c\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u304c\u9078\u51fa\u3059\u308b\u3001TV\u30a2\u30cb\u30e1\u300c\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300d\u306b\u30a4\u30f3\u30b9\u30d1\u30a4\u30e4\u3055\u308c\u305f\u3001\u9752\u6625\u30e9\u30d6\u30b3\u30e1\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Highschool rom-com playlist inspired by \"You and I Are Polar Opposites\".  Tracks selected by the OPED Artists.  ",
-  "num_followers": 1918,
-  "original_name": "\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5 - Music Inspirations -",
+  "description": "All the music and podcasts from \"You and I Are Polar Opposites\".  ",
+  "num_followers": 1943,
+  "original_name": "You and I Are Polar Opposites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB620F2WXs+CP2KXTeDG9Y/AvwRB",
+  "snapshot_id": "AAAAAHcgmSo0WRn3XAmtX7HmDA9Fw51M",
   "tracks": [
     {
-      "added_at": "2026-01-27 15:01:16",
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066 (OPver)",
+        "url": "https://open.spotify.com/album/1jvAfGCSVDD5ashOM0vwRU"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 90090,
+      "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066 - OPver",
+      "url": "https://open.spotify.com/track/1djDw8S0KfPmz3DWM0XxUB"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "\u30d4\u30e5\u30a2",
+        "url": "https://open.spotify.com/album/3SZzpkCsHoH37FaJPh7I7i"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "\u6a4b\u672c\u7d75\u8389\u5b50",
+          "url": "https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM"
+        }
+      ],
+      "duration_ms": 95487,
+      "name": "\u30d4\u30e5\u30a2 (feat. \u6a4b\u672c\u7d75\u8389\u5b50) [TV Size]",
+      "url": "https://open.spotify.com/track/3ubnm2AgxAqGy7plzvgnZm"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        },
+        {
+          "name": "Tadashi Machida",
+          "url": "https://open.spotify.com/artist/0Fmm7YVAOysjZz3d7CPnRW"
+        }
+      ],
+      "duration_ms": 225999,
+      "name": "\u3075\u305f\u308a\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/7KHpE8UAkeTXoiSnVAuslb"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 120985,
+      "name": "\u9234\u6728\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/3dmLILaDTee4P4QzqnJbeF"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300d\u653e\u8ab2\u5f8c\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/5o4eW3tBlQlBZohE1sglW3"
+      },
+      "artists": [
+        {
+          "name": "TV\u30a2\u30cb\u30e1\u300c\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300d\u653e\u8ab2\u5f8c\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8",
+          "url": "https://open.spotify.com/show/5o4eW3tBlQlBZohE1sglW3"
+        }
+      ],
+      "duration_ms": 2088096,
+      "name": "\u300c\u6700\u9ad8\u306e\u30b9\u30dd\u30c9\u30ea\u30ac\u30f3\u30ac\u30f3\u3067\u3057\u305f\uff01\u300d\u8c37\u53e3\u5922\u5948\u3055\u3093\uff08\u6e21\u8fba\u5f79\uff09\u5e73\u6797\u745a\u590f\u3055\u3093\uff08\u4f50\u85e4\u5f79\uff09\u30b2\u30b9\u30c8",
+      "url": "https://open.spotify.com/episode/62NbuDqXgQS5NDx3jaL0Cu"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
       "album": {
         "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
         "url": "https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl"
@@ -25,7 +113,7 @@
       "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
     },
     {
-      "added_at": "2026-01-27 15:01:16",
+      "added_at": "2026-01-31 20:27:35",
       "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/38I9qOuRg17eRs0b8bgZCz"
@@ -45,502 +133,670 @@
       "url": "https://open.spotify.com/track/0qI9slgq5TJxNnkPFZcryt"
     },
     {
-      "added_at": "2026-01-27 15:01:16",
+      "added_at": "2026-01-31 20:27:35",
       "album": {
-        "name": "1000\u65e5\u9593",
-        "url": "https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
       },
       "artists": [
         {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 203380,
-      "name": "1000\u65e5\u9593",
-      "url": "https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "A8\u756a\u51fa\u53e3",
-        "url": "https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 215748,
-      "name": "A8\u756a\u51fa\u53e3",
-      "url": "https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "\u7d76\u4f53\u7d76\u547d",
-        "url": "https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 162280,
-      "name": "\u541b\u3068\u7f8a\u3068\u9752",
-      "url": "https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "\u30de\u30cb\u30d5\u30a7\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/5cwbtm1hHxSm4j444aWlwL"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "\u30de\u30cb\u30d5\u30a7\u30b9\u30c8",
-      "url": "https://open.spotify.com/track/2glwCeYYx1u1TAAXf6aKZM"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "\u4eba\u9593\u958b\u82b1",
-        "url": "https://open.spotify.com/album/4DzbZVGpyQ4zyqyAsQqDur"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "\u5149",
-      "url": "https://open.spotify.com/track/2uR9GsiKf0HQ65l5iDiAYx"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "\u7121\u7f6a\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
-        "url": "https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "\u6b63\u3057\u3044\u8857",
-      "url": "https://open.spotify.com/track/6HV4pHx1HpJxV8tYf5Fp4q"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "\u767e\u85ac\u306e\u9577",
-        "url": "https://open.spotify.com/album/7tean6qlQaKq6tyqzaLrpR"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         },
         {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+          "name": "in the blue shirt",
+          "url": "https://open.spotify.com/artist/4OyqzBV6i2e7Ycs5LwLDxE"
         }
       ],
-      "duration_ms": 259306,
-      "name": "\u5973\u306e\u5b50\u306f\u8ab0\u3067\u3082 \uff5eFly Me To Heaven\uff5e - STUTS Remix",
-      "url": "https://open.spotify.com/track/4XAXBrO1WFHzubLC5pV7jx"
+      "duration_ms": 159030,
+      "name": "\u307b\u3063\u3068\u3059\u308b\u3075\u305f\u308a\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/1pjiXzrf2XxtKuJpw2DXSa"
     },
     {
-      "added_at": "2026-01-27 15:01:16",
+      "added_at": "2026-01-31 20:27:35",
       "album": {
-        "name": "\u6df1\u591c\u67a0",
-        "url": "https://open.spotify.com/album/2cV8bIKK5fygJdIEer1FYY"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
       },
       "artists": [
         {
-          "name": "Tokyo Incidents",
-          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         }
       ],
-      "duration_ms": 246040,
-      "name": "\u5fc3",
-      "url": "https://open.spotify.com/track/75jehqS1WNi2lFytTSjRVO"
+      "duration_ms": 177735,
+      "name": "\u3061\u3087\u3063\u3074\u308a\u305b\u3064\u306a\u3044\u3075\u305f\u308a\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/1xcB0H7Yi5GMqRPHu1Wq9Y"
     },
     {
-      "added_at": "2026-01-27 15:01:16",
+      "added_at": "2026-01-31 20:27:35",
       "album": {
-        "name": "\u5a2f\u697d(\u30d0\u30e9\u30a8\u30c6\u30a3)",
-        "url": "https://open.spotify.com/album/3lppsAthiV8VkNYwTPJBRp"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
       },
       "artists": [
         {
-          "name": "Tokyo Incidents",
-          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         }
       ],
-      "duration_ms": 222320,
-      "name": "\u30ad\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS"
+      "duration_ms": 132820,
+      "name": "\u9234\u6728\u306e\u751f\u6d3b",
+      "url": "https://open.spotify.com/track/4tfPYXURbhTTDAxxnnac7y"
     },
     {
-      "added_at": "2026-01-27 15:01:16",
+      "added_at": "2026-01-31 20:27:35",
       "album": {
-        "name": "KissHug",
-        "url": "https://open.spotify.com/album/2Y0WickzAyhmu9ShTVZVvI"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
       },
       "artists": [
         {
-          "name": "aiko",
-          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         }
       ],
-      "duration_ms": 363066,
-      "name": "KissHug",
-      "url": "https://open.spotify.com/track/5yov1XKIxqezj8Rg23SvdF"
+      "duration_ms": 78160,
+      "name": "\u9234\u6728\u306e\u9045\u523b",
+      "url": "https://open.spotify.com/track/6TIK8KHHNQ6x8O6qJx164A"
     },
     {
-      "added_at": "2026-01-27 15:01:16",
+      "added_at": "2026-01-31 20:27:35",
       "album": {
-        "name": "\u30dc\u30fc\u30a4\u30d5\u30ec\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/6GvDAL6aZ4j9vV71nW4Eho"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
       },
       "artists": [
         {
-          "name": "aiko",
-          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
-        }
-      ],
-      "duration_ms": 286800,
-      "name": "\u30dc\u30fc\u30a4\u30d5\u30ec\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/4h4qR86LKL1KnzQWM2484a"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "NEW BEST",
-        "url": "https://open.spotify.com/album/2IET4sXJ3kwcFtNikYXfBy"
-      },
-      "artists": [
-        {
-          "name": "Finger 5",
-          "url": "https://open.spotify.com/artist/0yr7xw7vy6CHfrb7FqesC5"
-        }
-      ],
-      "duration_ms": 154613,
-      "name": "\u5b66\u5712\u5929\u56fd",
-      "url": "https://open.spotify.com/track/6ZCRBbwaqE52NywtxciqCk"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/0avJe7D8ASPbuBk2uyPQPL"
-      },
-      "artists": [
-        {
-          "name": "miwa",
-          "url": "https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5"
-        }
-      ],
-      "duration_ms": 280213,
-      "name": "\u30df\u30e9\u30af\u30eb",
-      "url": "https://open.spotify.com/track/0WWhdc9npUQ9BCAAnUOCDz"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "TEENAGER",
-        "url": "https://open.spotify.com/album/1m6tvZ9MycDDVxyGyZwb2d"
-      },
-      "artists": [
-        {
-          "name": "Fujifabric",
-          "url": "https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
-      "url": "https://open.spotify.com/track/5dH4asCl80Mvbsoz6zJVyZ"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3",
-        "url": "https://open.spotify.com/album/5S1jzfiw00B4Uqm69TGZop"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         },
         {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+          "name": "Tadashi Machida",
+          "url": "https://open.spotify.com/artist/0Fmm7YVAOysjZz3d7CPnRW"
         }
       ],
-      "duration_ms": 153461,
-      "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3",
-      "url": "https://open.spotify.com/track/4M1dqbgZzVtUfddPIDt4CJ"
+      "duration_ms": 185452,
+      "name": "\u5143\u6c17\u304c\u3044\u3044\u3088",
+      "url": "https://open.spotify.com/track/6inA981C5a02lgzm9gOHMc"
     },
     {
-      "added_at": "2026-01-27 15:01:16",
+      "added_at": "2026-01-31 20:27:35",
       "album": {
-        "name": "GRAND POP",
-        "url": "https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
       },
       "artists": [
         {
-          "name": "PAS TASTA",
-          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 133241,
+      "name": "\u8aa4\u89e3\u3092\u89e3\u304d\u305f\u3044\u9234\u6728\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/5lUjAfwwv22SFPoPYA49wv"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 105854,
+      "name": "\u9b54\u304c\u5dee\u3057\u305f",
+      "url": "https://open.spotify.com/track/2Rclef8xsgROPxx5VRGSox"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 137691,
+      "name": "\u8c37\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/3FuG1pbkZ334r3LbEaZoOR"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 97534,
+      "name": "\u897f\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/0NQfKfyh8OHxGs2GEBXFlH"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 74346,
+      "name": "\u81ea\u4fe1\u304c\u6301\u3066\u306a\u304f\u3066",
+      "url": "https://open.spotify.com/track/7Ki0jQwsGksk7oRwCRb67Q"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 77121,
+      "name": "\u5869\u5bfe\u5fdc\u306a\u8c37\u304f\u3093",
+      "url": "https://open.spotify.com/track/07vMcc1m6I8egSyoYV44QQ"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 118253,
+      "name": "\u5e73\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/7rPA23fvW61uVEiqNyTCKb"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 134225,
+      "name": "\u5c71\u7530\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/4P0gVMeXhARijGudTO8mAT"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 181454,
+      "name": "\u6b69\u3044\u3066\u3044\u3053\u3046",
+      "url": "https://open.spotify.com/track/6tUfJ1mPuJlBs88PU2YYlB"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 109135,
+      "name": "\u3044\u3064\u3082\u306e\u6559\u5ba4",
+      "url": "https://open.spotify.com/track/0D1tjIpf8kD3t6iV9X4Qls"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 92136,
+      "name": "\u4ed8\u304d\u5408\u3063\u3066\u3093\u306e\uff1f",
+      "url": "https://open.spotify.com/track/1WiRreCMsJ8lcQYrOK0tph"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 89370,
+      "name": "\u304a\u5f01\u5f53\u30bf\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/1L5JNcwsj7JfPlQiJFsYKw"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 79954,
+      "name": "\u53f3\u8db3\u53f3\u8db3\u5de6\u8db3",
+      "url": "https://open.spotify.com/track/56GskRKew5l2qKb1miThPK"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 51886,
+      "name": "\u3066\u3093\u3084\u308f\u3093\u3084",
+      "url": "https://open.spotify.com/track/3D2rT0pzjn4qykiSIYKipF"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 146820,
+      "name": "\u4fee\u5b66\u65c5\u884c\u3067\u4eac\u90fd\u306bGO\uff01",
+      "url": "https://open.spotify.com/track/6f1q20hBpP4cwXXptV01cK"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 86663,
+      "name": "\u629c\u304d\u8db3\u5dee\u3057\u8db3",
+      "url": "https://open.spotify.com/track/2e1JBn5CcoUhBPr4Fq8VpX"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 154515,
+      "name": "\u3059\u3079\u3066\u306f\u8a08\u753b\u901a\u308a",
+      "url": "https://open.spotify.com/track/4oRZ19oNP2Dr0L9Y0F1jju"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 68882,
+      "name": "\u5730\u5143\u306e\u540c\u7d1a\u751f",
+      "url": "https://open.spotify.com/track/5NZznrO93COAsFlYGT7PPm"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 132677,
+      "name": "\u967a\u60aa\u30a2\u30b7\u30c3\u30c9",
+      "url": "https://open.spotify.com/track/1CBANaSAfGvnCQba0alJsm"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 102599,
+      "name": "\u5143\u30ab\u30ec\u767b\u5834",
+      "url": "https://open.spotify.com/track/23VcNhZXDOugdc9rlgGbJ9"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 164480,
+      "name": "\u82e6\u3044\u601d\u3044\u51fa",
+      "url": "https://open.spotify.com/track/7j47U7Ns71WTSp6T1dzpyX"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 170885,
+      "name": "\u60f3\u3044\u306f\u4e00\u7dd2",
+      "url": "https://open.spotify.com/track/6dHIzThQ64spDcrnbtCH1I"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 131867,
+      "name": "\u5b09\u3057\u3044\u6c17\u6301\u3061",
+      "url": "https://open.spotify.com/track/26187DI04tfKV5aFhqE50L"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 129408,
+      "name": "\u5e78\u305b\u306a\u6c17\u6301\u3061\u3067\u3044\u3063\u3071\u3044",
+      "url": "https://open.spotify.com/track/0ElcnlL8W9jedRyWgBoDqF"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 133058,
+      "name": "Bright Future",
+      "url": "https://open.spotify.com/track/2k8rKfgfoiWjq8d8zSpeAg"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 168241,
+      "name": "\u305d\u3053\u306f\u8a00\u3048\u3088",
+      "url": "https://open.spotify.com/track/2Mpo0kH2OhN5CubEjd8TU6"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 218434,
+      "name": "\u3046\u307e\u304f\u3067\u304d\u306a\u304f\u3066",
+      "url": "https://open.spotify.com/track/6aHw5VeAGviBuZgv7homVA"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 147102,
+      "name": "\u3069\u3046\u3059\u308c\u3070\u3044\u3044\u304b\u306a",
+      "url": "https://open.spotify.com/track/6J9rfmUNB0B1DMKUb2u4pw"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 96279,
+      "name": "\u604b\u5fc3",
+      "url": "https://open.spotify.com/track/5sEMFYOJwTj8QbB2rYyina"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         },
         {
-          "name": "Satoko Shibata",
-          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+          "name": "Tadashi Machida",
+          "url": "https://open.spotify.com/artist/0Fmm7YVAOysjZz3d7CPnRW"
+        }
+      ],
+      "duration_ms": 157295,
+      "name": "\u8c37\u304f\u3093\u3068\u3082\u3063\u3068\u4e00\u7dd2\u306b\u3044\u305f\u3044\u3067\u3059",
+      "url": "https://open.spotify.com/track/1vCThPyQnDqK8e3rCMHXYU"
+    },
+    {
+      "added_at": "2026-01-31 20:27:35",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         },
         {
-          "name": "TAKU INOUE",
-          "url": "https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0"
+          "name": "Tadashi Machida",
+          "url": "https://open.spotify.com/artist/0Fmm7YVAOysjZz3d7CPnRW"
         }
       ],
-      "duration_ms": 183380,
-      "name": "My Mutant Ride (feat. \u67f4\u7530\u8061\u5b50 & TAKU INOUE)",
-      "url": "https://open.spotify.com/track/2jXy46Txmlx5cSzKrTHzna"
+      "duration_ms": 129958,
+      "name": "\u9234\u6728\u3055\u3093\u3001\u597d\u304d\u3067\u3059",
+      "url": "https://open.spotify.com/track/6Ysm2BEvv2O4TENRegvQjr"
     },
     {
-      "added_at": "2026-01-27 15:01:16",
+      "added_at": "2026-01-31 20:27:35",
       "album": {
-        "name": "POP VIRUS",
-        "url": "https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
       },
       "artists": [
         {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        },
+        {
+          "name": "\u96ea\u307e\u3057\u308d",
+          "url": "https://open.spotify.com/artist/0c2lTGccoECnCEyf2EPxoN"
+        },
+        {
+          "name": "Tadashi Machida",
+          "url": "https://open.spotify.com/artist/0Fmm7YVAOysjZz3d7CPnRW"
         }
       ],
-      "duration_ms": 251266,
-      "name": "\u604b",
-      "url": "https://open.spotify.com/track/1flvuaMS27JxpEBL0u2cWc"
+      "duration_ms": 95534,
+      "name": "\u5317\u306e\u9b54\u5973\u3068\u30a4\u30a8\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/5ivjeRNVw5doAFFKaAW9F8"
     },
     {
-      "added_at": "2026-01-27 15:01:16",
+      "added_at": "2026-01-31 20:27:35",
       "album": {
-        "name": "\u3077\u3089\u3044\u307e\u308a",
-        "url": "https://open.spotify.com/album/72JMaSEiDGP5nKDVPtwc20"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
       },
       "artists": [
         {
-          "name": "\u3044\u3088\u308f",
-          "url": "https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU"
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         }
       ],
-      "duration_ms": 198000,
-      "name": "\u3077\u3089\u3044\u307e\u308a",
-      "url": "https://open.spotify.com/track/0caV6IPnvSUYN5c2XzGK2X"
+      "duration_ms": 46506,
+      "name": "\u5317\u306e\u9b54\u5973\u3068\u30a4\u30a8\u30c6\u30a3 - BGM ver.",
+      "url": "https://open.spotify.com/track/0svCKktu4tf066pVdz0fLr"
     },
     {
-      "added_at": "2026-01-27 15:01:16",
+      "added_at": "2026-01-31 20:27:35",
       "album": {
-        "name": "\u30b4\u30ea\u30e9\u796d\u30fc\u30ba\u306e\u30a2\u30eb\u30d0\u30e0",
-        "url": "https://open.spotify.com/album/1dnTK1BUD7p24dM3ak7FFv"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
       },
       "artists": [
         {
-          "name": "\u30b4\u30ea\u30e9\u796d\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/6nXR6jeBjk99NlMJ1DvXph"
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         }
       ],
-      "duration_ms": 233986,
-      "name": "\u5bdd\u3066\u3082\u899a\u3081\u3066\u3082",
-      "url": "https://open.spotify.com/track/3tBL7IAgtxqzN7WRiz7mGs"
+      "duration_ms": 77332,
+      "name": "GO TO THE DOCTOR",
+      "url": "https://open.spotify.com/track/2rbv7KzRcxc6BchT2GzMii"
     },
     {
-      "added_at": "2026-01-27 15:01:16",
+      "added_at": "2026-01-31 20:27:35",
       "album": {
-        "name": "Awa Come",
-        "url": "https://open.spotify.com/album/4Nt3jsCN2AvpzBZ4URoqkv"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M"
       },
       "artists": [
         {
-          "name": "Chatmonchy",
-          "url": "https://open.spotify.com/artist/0GtBUVp1cWdIUKwm2GHTHc"
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         }
       ],
-      "duration_ms": 201320,
-      "name": "\u3053\u3053\u3060\u3051\u306e\u8a71",
-      "url": "https://open.spotify.com/track/4aSjoXBzSeT1ZgzYeYa0Ka"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "The Beautiful Game",
-        "url": "https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        }
-      ],
-      "duration_ms": 190801,
-      "name": "Animal Spirits",
-      "url": "https://open.spotify.com/track/1SHA4IJyiyNobDOrQzFFXy"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "to LOVE",
-        "url": "https://open.spotify.com/album/4l8vB63AzGlVfyNkVKLl8i"
-      },
-      "artists": [
-        {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
-        }
-      ],
-      "duration_ms": 319760,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/3cCZXvAywRt6L0QSEjjY3Y"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "\u541b\u306e\u305b\u3044",
-        "url": "https://open.spotify.com/album/1HyQSfsq5dGDCSQoinCIG2"
-      },
-      "artists": [
-        {
-          "name": "the peggies",
-          "url": "https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW"
-        }
-      ],
-      "duration_ms": 264666,
-      "name": "\u541b\u306e\u305b\u3044",
-      "url": "https://open.spotify.com/track/2w7WKnsPrkjd87lvTQbUnp"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "\u30b7\u30f3\u30e1\u30c8\u30ea\u30fc",
-        "url": "https://open.spotify.com/album/1YBwsVAvFTTAg7EJ2RANzH"
-      },
-      "artists": [
-        {
-          "name": "Meringue",
-          "url": "https://open.spotify.com/artist/3NQczbTAyGcQjNH6XcljG5"
-        }
-      ],
-      "duration_ms": 290812,
-      "name": "\u4e88\u5831\u901a\u308a\u306b\u6674\u308c\u305f\u7a7a",
-      "url": "https://open.spotify.com/track/5a9LTSyY8373KfJaW9HC5X"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "Pray Pray Pray",
-        "url": "https://open.spotify.com/album/54LFDgIOXP4mcP38NdM4sM"
-      },
-      "artists": [
-        {
-          "name": "\u7518\u795e\u4e09\u59c9\u59b9",
-          "url": "https://open.spotify.com/artist/15fHmyfDRxxhaI4dQBlbVW"
-        }
-      ],
-      "duration_ms": 227238,
-      "name": "Pray Pray Pray",
-      "url": "https://open.spotify.com/track/365LQqYSlscSglYNrabEIO"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "\u6620\u753b\u300c\u305f\u307e\u3053\u30e9\u30d6\u30b9\u30c8\u30fc\u30ea\u30fc\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/1cR7HFudSEQwmjq0EguqtL"
-      },
-      "artists": [
-        {
-          "name": "\u5317\u767d\u5ddd\u8c46\u5927(cv:\u85e4\u539f\u5553\u6cbb)",
-          "url": "https://open.spotify.com/artist/0JWNCgV4VhXMdj2qlqgOO8"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "KOI NO UTA",
-      "url": "https://open.spotify.com/track/6NCnZK1sACXyKii0Y72ekV"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "Petal Dance",
-        "url": "https://open.spotify.com/album/3bP0V1osNptjLTx7AqlP96"
-      },
-      "artists": [
-        {
-          "name": "gingerbee",
-          "url": "https://open.spotify.com/artist/4Qbxl6JsnUViVB7QmNjoH0"
-        }
-      ],
-      "duration_ms": 219614,
-      "name": "Petal Dance",
-      "url": "https://open.spotify.com/track/46vgDiuWNiZ7aFeizTbRiC"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "sakura",
-        "url": "https://open.spotify.com/album/6rCZW9dqxsTecPKY8TD25h"
-      },
-      "artists": [
-        {
-          "name": "Nirgilis",
-          "url": "https://open.spotify.com/artist/6kkPATxNypgTOflsy6D3LT"
-        }
-      ],
-      "duration_ms": 275866,
-      "name": "sakura(cherry blossom)",
-      "url": "https://open.spotify.com/track/4ebXmkHj2GVLhSvI48DVXH"
-    },
-    {
-      "added_at": "2026-01-27 15:01:16",
-      "album": {
-        "name": "CLAMP\u5b66\u5712\u63a2\u5075\u56e3 \u30bd\u30f3\u30b0\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/6hBQMScD0FxTrSb9eSY2Q5"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 350500,
-      "name": "Gift",
-      "url": "https://open.spotify.com/track/6N1JVYdW0hbb1Db5q1tZLB"
+      "duration_ms": 26063,
+      "name": "HAPPY BIRTHDAY TO YOU",
+      "url": "https://open.spotify.com/track/3sEH2dCExgusXuHWrBY75l"
     }
   ],
-  "unique_name": "\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5 - Music Inspirations -",
+  "unique_name": "You and I Are Polar Opposites",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd7OfGslpHp1"
 }

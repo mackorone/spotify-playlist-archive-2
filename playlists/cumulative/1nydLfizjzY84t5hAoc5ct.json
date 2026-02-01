@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 164013,
       "name": "Anytime Now",
       "url": "https://open.spotify.com/track/4ZmS5SLnbKNO1w5t4yei5d"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 264616,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2VNl1ygvFfGN4TW1U1UFhR"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 321080,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/0dGtxK3c1iU7NIeRohqRmL"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 107595,
       "name": "Frontier Radio",
       "url": "https://open.spotify.com/track/5tgDzjAKCuIh1XleRAgFeF"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 222000,
       "name": "i don't wanna care",
       "url": "https://open.spotify.com/track/1ELzMBhKYBTuhFpEpHILZ2"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 126320,
       "name": "Jimmie Rodgers",
       "url": "https://open.spotify.com/track/0F5Q5lS4avgv8oV4vDbF7b"
@@ -2053,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Sunday feelin blue",
+        "url": "https://open.spotify.com/album/2LRE6xZXyyl89ycUp7Nepf"
+      },
+      "artists": [
+        {
+          "name": "The Shine",
+          "url": "https://open.spotify.com/artist/0hI3GGqvOL7dGXATVv9PDL"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162516,
+      "name": "Sunday feelin blue",
+      "url": "https://open.spotify.com/track/5HxpA82MBhLlzrB46cqeGk"
+    },
+    {
+      "album": {
         "name": "Superhero",
         "url": "https://open.spotify.com/album/2I4Safy1OTDSrT03CljJAf"
       },
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 252000,
       "name": "Treading Water",
       "url": "https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1"

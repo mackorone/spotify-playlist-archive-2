@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from KiiiKiii, Yuna, FORCEPARKBOIS, Amylea, Daiyan Trisha,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,431 likes - 116 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,437 likes - 116 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 6 | [404 \(New Era\)](https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:59 |
 | 7 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 |
 | 8 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 |
-| 9 | [春風來到我Kampung](https://open.spotify.com/track/7ss8SbMsHmaKlY5EYmLcvU) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [Jess 佳仙](https://open.spotify.com/artist/1SnrjMkXp78HkmgUd41HLC), [陳文強](https://open.spotify.com/artist/3YLGJHG3YawuTDcxveGVXZ), [陳佳琪](https://open.spotify.com/artist/3tVGuL5S4F8jmX4BDpQj1h), [陳安立](https://open.spotify.com/artist/54qj0G7iqZlEPwEREqQiFc) | [春風來到我Kampung](https://open.spotify.com/album/3AQoZ0cSrw43xggsaMVnQA) | 3:15 |
+| 9 | [春风来到我Kampung](https://open.spotify.com/track/7ss8SbMsHmaKlY5EYmLcvU) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [Jess 佳仙](https://open.spotify.com/artist/1SnrjMkXp78HkmgUd41HLC), [陳文強](https://open.spotify.com/artist/3YLGJHG3YawuTDcxveGVXZ), [陳佳琪](https://open.spotify.com/artist/3tVGuL5S4F8jmX4BDpQj1h), [陳安立](https://open.spotify.com/artist/54qj0G7iqZlEPwEREqQiFc) | [春风来到我Kampung](https://open.spotify.com/album/3AQoZ0cSrw43xggsaMVnQA) | 3:15 |
 | 10 | [Binasa \- From "Sujud Terakhir En\. Norman"](https://open.spotify.com/track/13QkMUVoVWDZkjTJ6mqFi0) | [Amylea](https://open.spotify.com/artist/0wKBxTlgjMQvntR1t7JhZR) | [Binasa \(From "Sujud Terakhir En\. Norman"\)](https://open.spotify.com/album/08Yj9TZCHsrNdWjnVjlXeo) | 2:58 |
 | 11 | [Penipu](https://open.spotify.com/track/7jk190JYJh2oBzGhVZIY5i) | [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [Penipu](https://open.spotify.com/album/2lNsVwcH09D4VIqvyXv4j8) | 2:57 |
 | 12 | [Shouting Eyes](https://open.spotify.com/track/0dDsKbyrs6etmNdcsrVrTV) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [I'll Remember To Forget You](https://open.spotify.com/album/7Im3JtbRs16KKZB6efGQYe) | 4:01 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 24 | [Cruise Control](https://open.spotify.com/track/7hFTfseYJjG2Ul9WulhWrr) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Cruise Control](https://open.spotify.com/album/6UMlTRaAa8skjbkx56atCW) | 3:49 |
 | 25 | [Home](https://open.spotify.com/track/66YZHA3f21h20pxkMibsW8) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [DLKC](https://open.spotify.com/artist/0xiN6caKYAR6AQ04DPL2qc) | [Home](https://open.spotify.com/album/5nRAvVx4R9bDmZvEO6cIkj) | 2:42 |
 | 26 | [Wanita Syurgawi](https://open.spotify.com/track/24ivqimQzRR46EzeQ9kgFd) | [Zayne](https://open.spotify.com/artist/2olid9JDd0KYvExiTkD8QW) | [Wanita Syurgawi](https://open.spotify.com/album/4iPUWGpow4u1NeVOvhgdxb) | 4:27 |
-| 27 | [想問 \- 錄音室版本](https://open.spotify.com/track/4EO5CBJ6d8Q740YNfKyKD5) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [想問](https://open.spotify.com/album/7MmNdIyZaT61DzL03trm1X) | 3:58 |
+| 27 | [想問](https://open.spotify.com/track/4EO5CBJ6d8Q740YNfKyKD5) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [想問](https://open.spotify.com/album/7MmNdIyZaT61DzL03trm1X) | 3:58 |
 | 28 | [yes or no???](https://open.spotify.com/track/5uSDoQQ7RA1JcdY782JFXw) | [Bitty](https://open.spotify.com/artist/1I6fZDt9lA1IKxyQaLbdL7), [thecolorfractal](https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu) | [Lost & Found](https://open.spotify.com/album/2lNSaDyK69MT7avgWeEsUI) | 2:28 |
 | 29 | [戒不掉你的愛 \(feat\. Marz23\)](https://open.spotify.com/track/3U4rQ1fX2EP0cN64hm941J) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp), [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [戒不掉你的愛 \(feat\. Marz23\)](https://open.spotify.com/album/6SZDBYeNTlGozNz5ctIJIE) | 3:03 |
 | 30 | [那句我沒說](https://open.spotify.com/track/1ouAsmnoogYMfsoPQE9Jt1) | [黄俊荣 Amsden](https://open.spotify.com/artist/1DYqdyhbVTiFmGd70wMl1m), [小鼠](https://open.spotify.com/artist/3f6QoiFQMluzCKHSZlH7JX) | [那句我沒說](https://open.spotify.com/album/0YjgCCR4KxP2Og5QVsaM5S) | 3:02 |

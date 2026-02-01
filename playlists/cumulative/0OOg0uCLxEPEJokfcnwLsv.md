@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-270 songs - 16 hr 47 min
+275 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2026-01-03 | 2026-01-21 |
 | [Ain't no story of love](https://open.spotify.com/track/3f0iRjjbwR4gBSqlSjAOwe) | [Fredrik Bernhardtz](https://open.spotify.com/artist/1KhYjWBOtFNMf0VaIyWnK9) | [Ain't no story of love](https://open.spotify.com/album/5P8mY5mb96uTL53ThfjKfQ) | 5:46 | 2026-01-29 |  |
 | [Alive](https://open.spotify.com/track/7bCLybOMzLDnnSFGpzTcDT) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Alive](https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88) | 4:17 | 2025-12-23 | 2026-01-21 |
+| [All I Know \- 2025 Remaster](https://open.spotify.com/track/2FZPTSFBfhy9rPtSDhtBDb) | [Silverbird](https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW) | [All I Know \(2025 Remaster\)](https://open.spotify.com/album/5HecYSQaBgRpgTfjsVGMal) | 5:02 | 2026-01-31 |  |
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-05 | 2025-12-28 |
 | [All Things End](https://open.spotify.com/track/5nYUZedrldN3kCDohW4OkW) | [Ethan William Bowers](https://open.spotify.com/artist/1mNm642Xb2pIwHpkYO1dy6), [The Painted Strangers](https://open.spotify.com/artist/3xCaCW1JCbmKulU3XRhKaX) | [Panic Tax](https://open.spotify.com/album/5BVyxf28qJwmNUdOR9GZuL) | 4:01 | 2026-01-06 |  |
 | [Alone In LA](https://open.spotify.com/track/6hezehHsgXu0FvNzOMOLWK) | [Andrew Cärter](https://open.spotify.com/artist/5hng4ZEPzBFLEY0jfmFCdt) | [Alone In LA](https://open.spotify.com/album/1j8p383R5oRrfA6l48XZxH) | 3:05 | 2025-10-30 | 2025-11-22 |
@@ -81,6 +82,7 @@
 | [Despierta](https://open.spotify.com/track/3DfMMtS8g3P3NvmaBKcCdB) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 4:17 | 2025-12-12 | 2026-01-05 |
 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 | 2025-12-03 | 2025-12-28 |
 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 | 2025-11-29 | 2025-12-28 |
+| [Doctor Nic](https://open.spotify.com/track/4XYU90isBsinHacvaUtV1g) | [DORK](https://open.spotify.com/artist/76QFsdAqZECaFPJW1bxIKV) | [Doctor Nic](https://open.spotify.com/album/6wwti6Vjul2wP1hnQKE8MB) | 3:26 | 2026-01-31 |  |
 | [Don't Ask Why](https://open.spotify.com/track/5UDr0x745fkPgpILhvNjLC) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Don't Ask Why & Maum Meditation](https://open.spotify.com/album/6mosG3jbAhh0CGnynBON2T) | 4:36 | 2025-11-21 | 2025-12-12 |
 | [don't know better](https://open.spotify.com/track/6OPNg2fvD1f2HIPj4Tfh7x) | [Nathan Etes](https://open.spotify.com/artist/11WVY9LG4XWkOptquaXJ71) | [juniper](https://open.spotify.com/album/5e49oVu5bURuKYCej31uVw) | 2:45 | 2025-11-22 | 2025-12-12 |
 | [Don't Let Me Go](https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Don't Let Me Go](https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF) | 2:13 | 2025-11-09 |  |
@@ -96,6 +98,7 @@
 | [Estrellas](https://open.spotify.com/track/1u6yb30nxGeF32KRImj1Hz) | [EnRockecidos](https://open.spotify.com/artist/6j4BNmLmFMCkyszhxBDdnr) | [Lo que cuentan las aceras](https://open.spotify.com/album/2iJvyNUu7kiIpLz8WxmFaX) | 3:29 | 2026-01-11 |  |
 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2025-12-13 | 2026-01-05 |
 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 | 2025-12-13 | 2026-01-05 |
+| [FLOWER CHILD](https://open.spotify.com/track/0PYoxGNSQo2kMZWwSE8lcH) | [Krista Hartman](https://open.spotify.com/artist/0kwEEdnKa1I4oELZFRA6kN) | [Transcend](https://open.spotify.com/album/5CFY6AXx0tLDqkzbVpoUSu) | 4:22 | 2026-01-31 |  |
 | [Fly Away](https://open.spotify.com/track/1BPtiYG6hIuxlT79bPrvny) | [Springs of Autumn](https://open.spotify.com/artist/253bfrIVnxW1lBfhpvWijM) | [Fourteen](https://open.spotify.com/album/4qumeJ6UqZFk1aISguQLW8) | 3:35 | 2025-11-11 | 2025-12-12 |
 | [Fool Me](https://open.spotify.com/track/1WcPvfflvPno6P931ZrJT2) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [In from the shadows](https://open.spotify.com/album/3y0LCtWXVV5iNvWV3liWW5) | 2:50 | 2025-12-16 | 2026-01-05 |
 | [Furniture](https://open.spotify.com/track/0aLWoinlTtoPj47vmM03BD) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Furniture](https://open.spotify.com/album/3njCKYLIGVRpN3Ys448Smq) | 4:07 | 2025-12-30 |  |
@@ -103,6 +106,7 @@
 | [Get Down](https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Get Down](https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm) | 2:24 | 2025-12-03 | 2025-12-28 |
 | [Get Off Of My Cloud](https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:18 | 2026-01-05 |  |
 | [Ghosts](https://open.spotify.com/track/3bUg0pzC285GlYNIiwR5uP) | [Auchenflower](https://open.spotify.com/artist/3BaeOXKRaGaAzoNPxLG4Lg) | [Ghosts](https://open.spotify.com/album/3bwTQlkZFOEkIkFBWPZcJf) | 3:45 | 2025-11-13 | 2025-12-12 |
+| [Girl in the sky](https://open.spotify.com/track/1cG8dKgKpi4q51qYPkUfIW) | [The Larlocks](https://open.spotify.com/artist/3ZoHqGfiZBctXNyEUhj51u) | [Girl in the sky](https://open.spotify.com/album/2ED0TomZXJLUNusgKIgqSA) | 4:32 | 2026-01-31 |  |
 | [GIVE ME A LITTLE SOMETHING](https://open.spotify.com/track/31g6LI5FcZIg8qtwJu9adO) | [Whiskey South](https://open.spotify.com/artist/3FW9jdn2u4rDfo73WkfLsk) | [GIVE ME A LITTLE SOMETHING](https://open.spotify.com/album/3EQVs1LxN2BAc1rSHHp9iB) | 2:49 | 2026-01-29 |  |
 | [Glory Box](https://open.spotify.com/track/5JpTSv8YWDetex23Shl9Q4) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Glory Box](https://open.spotify.com/album/0DGdhDeY6oBFQY4uWOWVjB) | 3:17 | 2025-10-17 |  |
 | [Goin Down The Hiway \- VIP Edit](https://open.spotify.com/track/7upLHhu8ike2dPbWGt4KvY) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Goin Down The Hiway \(VIP Edit\)](https://open.spotify.com/album/5A0qlHzP41G9QuvvJNVmZu) | 3:25 | 2026-01-24 |  |
@@ -271,6 +275,7 @@
 | [With The Radio On](https://open.spotify.com/track/2D8Pe8G3mrE7sftHvvmQx9) | [Northfield](https://open.spotify.com/artist/51rLG6ENMAwu7WMcNHffyl) | [Lost and Found](https://open.spotify.com/album/1eBsLVrjcZHPSPMukzJkXV) | 3:39 | 2025-10-31 | 2025-11-22 |
 | [Wolfman](https://open.spotify.com/track/335KIfI6iRzLsdHTi1PSMc) | [Matt Malone & The Holy Spirits](https://open.spotify.com/artist/24uJIeIX3E40nyx51WZO9M) | [Wolfman](https://open.spotify.com/album/1CpD6xutceVgnNhxK2aW5E) | 3:20 | 2025-11-02 | 2025-11-22 |
 | [Wolves \(Instrumental Version\)](https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Danny Bourgeois](https://open.spotify.com/artist/0j2o3txfia5ATDt4sPqAnr) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:07 | 2025-11-17 | 2025-12-12 |
+| [Worst Enemy](https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Worst Enemy](https://open.spotify.com/album/1Szbrta34NQhMTsBx3mUcb) | 4:05 | 2026-01-31 |  |
 | [You and Your Friends](https://open.spotify.com/track/73W6OmloQlmC5y1mcuEcQT) | [Favourite Sidewalk Couch](https://open.spotify.com/artist/3OKKxACOJMrQgkBRJAtmDW) | [You and Your Friends](https://open.spotify.com/album/2hFLa0wWTltCDmUE68AuaK) | 2:45 | 2026-01-17 |  |
 | [You Can't Drive a Prius Without Wheels](https://open.spotify.com/track/2bz3GfwWoGRLjvbcclozYg) | [Not Exact](https://open.spotify.com/artist/6J8F4udmCRNzDt5l1AckUG) | [On a Roll EP](https://open.spotify.com/album/64JIDZEvAnH2JFgKSLzYiy) | 3:03 | 2025-11-12 | 2025-12-12 |
 | [You Make Me Feel](https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd) | [Gary.D.Pearson and the Distance](https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd) | [You Make Me Feel](https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM) | 3:59 | 2025-12-31 | 2026-01-21 |

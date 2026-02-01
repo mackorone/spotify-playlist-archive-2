@@ -1,6 +1,6 @@
 {
   "description": "Discover the multifaceted creativity of the Black queer community. Cover: The Arti$t",
-  "num_followers": 80030,
+  "num_followers": 80025,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a"
     },
     {
-      "added_at": "2022-05-31 20:14:29",
-      "album": {
-        "name": "dirty dancer",
-        "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "dirty dancer",
-      "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
-    },
-    {
       "added_at": "2025-05-07 20:24:43",
       "album": {
         "name": "BLOOM",
@@ -1085,6 +1069,22 @@
       "url": "https://open.spotify.com/track/2mgiMZ9BFMI8YgGHtIlgmT"
     },
     {
+      "added_at": "2025-05-07 20:24:43",
+      "album": {
+        "name": "RECLUSE",
+        "url": "https://open.spotify.com/album/2WUVOvapEN2Kb2lxoHGW14"
+      },
+      "artists": [
+        {
+          "name": "Talia Goddess",
+          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "RECLUSE",
+      "url": "https://open.spotify.com/track/239VipGSNCZXMhEgVei9g3"
+    },
+    {
       "added_at": "2023-10-05 17:45:18",
       "album": {
         "name": "The Age of Pleasure",
@@ -1101,20 +1101,20 @@
       "url": "https://open.spotify.com/track/0zBVnui5j6g5lDEfPpbobx"
     },
     {
-      "added_at": "2025-05-07 20:24:43",
+      "added_at": "2022-05-31 20:14:29",
       "album": {
-        "name": "RECLUSE",
-        "url": "https://open.spotify.com/album/2WUVOvapEN2Kb2lxoHGW14"
+        "name": "dirty dancer",
+        "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
       },
       "artists": [
         {
-          "name": "Talia Goddess",
-          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 231500,
-      "name": "RECLUSE",
-      "url": "https://open.spotify.com/track/239VipGSNCZXMhEgVei9g3"
+      "duration_ms": 169720,
+      "name": "dirty dancer",
+      "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
     },
     {
       "added_at": "2023-10-05 17:45:18",

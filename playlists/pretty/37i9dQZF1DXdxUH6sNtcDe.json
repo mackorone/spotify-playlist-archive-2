@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 20th anniversary of Miranda Lambert's hit album \"Kerosene\" on 2000s Country!\n",
-  "num_followers": 965702,
+  "num_followers": 965926,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,18 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
+        "name": "Time Well Wasted",
+        "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Beer For My Horses",
-      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
+      "duration_ms": 266902,
+      "name": "She's Everything",
+      "url": "https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC"
     },
     {
       "added_at": "2026-01-21 18:25:23",
@@ -615,18 +611,22 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
-        "name": "Time Well Wasted",
-        "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
       },
       "artists": [
         {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 266902,
-      "name": "She's Everything",
-      "url": "https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC"
+      "duration_ms": 204000,
+      "name": "Beer For My Horses",
+      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
     },
     {
       "added_at": "2026-01-21 18:25:23",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "I Love This Bar",
-      "url": "https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo"
-    },
-    {
-      "added_at": "2026-01-21 18:25:23",
-      "album": {
         "name": "Live Like You Were Dying",
         "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 300333,
       "name": "Live Like You Were Dying",
       "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
+    },
+    {
+      "added_at": "2026-01-21 18:25:23",
+      "album": {
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 335333,
+      "name": "I Love This Bar",
+      "url": "https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo"
     },
     {
       "added_at": "2026-01-21 18:25:23",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
-        "name": "Let's Be Us Again",
-        "url": "https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "Mr. Mom",
-      "url": "https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I"
-    },
-    {
-      "added_at": "2026-01-21 18:25:23",
-      "album": {
         "name": "Blake Shelton's Barn & Grill",
         "url": "https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 204826,
       "name": "Some Beach",
       "url": "https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP"
+    },
+    {
+      "added_at": "2026-01-21 18:25:23",
+      "album": {
+        "name": "Let's Be Us Again",
+        "url": "https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 208693,
+      "name": "Mr. Mom",
+      "url": "https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I"
     },
     {
       "added_at": "2026-01-21 18:25:23",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
-        "name": "Justin Moore",
-        "url": "https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj"
-      },
-      "artists": [
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        }
-      ],
-      "duration_ms": 218853,
-      "name": "Small Town USA",
-      "url": "https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl"
-    },
-    {
-      "added_at": "2026-01-21 18:25:23",
-      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 302346,
       "name": "There Goes My Life",
       "url": "https://open.spotify.com/track/1CjQCQsl9FDb3WhjGcFOzG"
+    },
+    {
+      "added_at": "2026-01-21 18:25:23",
+      "album": {
+        "name": "Justin Moore",
+        "url": "https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "duration_ms": 218853,
+      "name": "Small Town USA",
+      "url": "https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl"
     },
     {
       "added_at": "2026-01-21 18:25:23",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
-        "name": "Lady Antebellum",
-        "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Love Don't Live Here",
-      "url": "https://open.spotify.com/track/16vNQhg2y5RDkkNaQExLTL"
-    },
-    {
-      "added_at": "2026-01-21 18:25:23",
-      "album": {
         "name": "Down The Road I Go",
         "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 284173,
       "name": "Modern Day Bonnie and Clyde",
       "url": "https://open.spotify.com/track/58rdbCe3SBJuJeWEJa8Htm"
+    },
+    {
+      "added_at": "2026-01-21 18:25:23",
+      "album": {
+        "name": "Lady Antebellum",
+        "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Love Don't Live Here",
+      "url": "https://open.spotify.com/track/16vNQhg2y5RDkkNaQExLTL"
     },
     {
       "added_at": "2026-01-21 18:25:23",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
+        "name": "Rascal Flatts",
+        "url": "https://open.spotify.com/album/6RhvNGfuqrGZBNs5AChVO4"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Prayin' For Daylight",
+      "url": "https://open.spotify.com/track/0DAVCurdi9ZqkVUKIuikzm"
+    },
+    {
+      "added_at": "2026-01-21 18:25:23",
+      "album": {
         "name": "34 Number Ones",
         "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 171813,
       "name": "It Must Be Love",
       "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
-    },
-    {
-      "added_at": "2026-01-21 18:25:23",
-      "album": {
-        "name": "There's More Where That Came From",
-        "url": "https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs"
-      },
-      "artists": [
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "I May Hate Myself In The Morning",
-      "url": "https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN"
     },
     {
       "added_at": "2026-01-21 18:25:23",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
-        "name": "Rascal Flatts",
-        "url": "https://open.spotify.com/album/6RhvNGfuqrGZBNs5AChVO4"
+        "name": "There's More Where That Came From",
+        "url": "https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs"
       },
       "artists": [
         {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Prayin' For Daylight",
-      "url": "https://open.spotify.com/track/0DAVCurdi9ZqkVUKIuikzm"
+      "duration_ms": 272866,
+      "name": "I May Hate Myself In The Morning",
+      "url": "https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN"
     },
     {
       "added_at": "2026-01-21 18:25:23",

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 108979,
+  "num_followers": 109006,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "Sixteen Saltines",
+        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Love Is Blindness",
+      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "Mature Themes",
         "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Sixteen Saltines",
-        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
+        "name": "Sweet Disarray",
+        "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
       },
       "artists": [
         {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+          "name": "Dan Croll",
+          "url": "https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21"
         }
       ],
-      "duration_ms": 198620,
-      "name": "Love Is Blindness",
-      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
+      "duration_ms": 196848,
+      "name": "From Nowhere",
+      "url": "https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -827,22 +843,6 @@
       "duration_ms": 219259,
       "name": "Funtimes in Babylon",
       "url": "https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "Sweet Disarray",
-        "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
-      },
-      "artists": [
-        {
-          "name": "Dan Croll",
-          "url": "https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21"
-        }
-      ],
-      "duration_ms": 196848,
-      "name": "From Nowhere",
-      "url": "https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 167546,
-      "name": "Chained",
-      "url": "https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "When The Night (Deluxe)",
         "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 308360,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 167546,
+      "name": "Chained",
+      "url": "https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "Delta Spirit",
+        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
+      },
+      "artists": [
+        {
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "Port Of Morrow",
         "url": "https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 241616,
       "name": "It's Only Life",
       "url": "https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "Delta Spirit",
-        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
-      },
-      "artists": [
-        {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "California",
-      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH"
-      },
-      "artists": [
-        {
-          "name": "Matt and Kim",
-          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
-        }
-      ],
-      "duration_ms": 210746,
-      "name": "Let\u2019s Go",
-      "url": "https://open.spotify.com/track/2PlP2rRrgSz8lC7MpH3e4e"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Loma Vista",
         "url": "https://open.spotify.com/album/14SCnv027L0HidHq0URIDu"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 190280,
       "name": "Hero",
       "url": "https://open.spotify.com/track/6GRDI9suQHikFP6euIXnpq"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH"
+      },
+      "artists": [
+        {
+          "name": "Matt and Kim",
+          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "Let\u2019s Go",
+      "url": "https://open.spotify.com/track/2PlP2rRrgSz8lC7MpH3e4e"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Celebration Rock",
-        "url": "https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW"
-      },
-      "artists": [
-        {
-          "name": "Japandroids",
-          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
-        }
-      ],
-      "duration_ms": 289150,
-      "name": "The House That Heaven Built",
-      "url": "https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
       },
@@ -1371,18 +1355,34 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
+        "name": "Celebration Rock",
+        "url": "https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Japandroids",
+          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
         }
       ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
+      "duration_ms": 289150,
+      "name": "The House That Heaven Built",
+      "url": "https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Summer's Gone",
+        "url": "https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "How Did I Get Here",
+      "url": "https://open.spotify.com/track/4aJnMRNeuDZSQN7FaSNGtM"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Summer's Gone",
-        "url": "https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1"
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 131250,
-      "name": "How Did I Get Here",
-      "url": "https://open.spotify.com/track/4aJnMRNeuDZSQN7FaSNGtM"
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1447,22 +1447,6 @@
       "duration_ms": 219400,
       "name": "Fitzpleasure",
       "url": "https://open.spotify.com/track/09BGE23vqmtylTUBEhzu2H"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1511,6 +1495,22 @@
       "duration_ms": 318423,
       "name": "Yet Again",
       "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
     },
     {
       "added_at": "2025-03-14 12:16:12",

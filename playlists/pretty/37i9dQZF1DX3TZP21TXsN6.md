@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuwe tracks elke week! Nieuw: Marou, Massin & Kempi, CALSEY en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,486 likes - 59 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,479 likes - 59 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

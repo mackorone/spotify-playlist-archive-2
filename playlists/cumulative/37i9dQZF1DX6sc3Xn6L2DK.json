@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1 Mile From Heaven",
+        "url": "https://open.spotify.com/album/2mOWMR3alIP6kyzxcThPRv"
+      },
+      "artists": [
+        {
+          "name": "Calvin Love",
+          "url": "https://open.spotify.com/artist/4BGm5j3zsc5NU2BM1ihlA4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301787,
+      "name": "1 Mile From Heaven",
+      "url": "https://open.spotify.com/track/1j8hIIPFy1YM3FoBMAxihE"
+    },
+    {
+      "album": {
         "name": "12 Feet High",
         "url": "https://open.spotify.com/album/6KkGswg0AiEqjN2Uc79cWt"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 225813,
       "name": "12 Feet High",
       "url": "https://open.spotify.com/track/0a20AtS66hP9xUj51qXtl5"
@@ -1616,6 +1634,24 @@
       "duration_ms": 229400,
       "name": "Los Chicos Tristes",
       "url": "https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ"
+    },
+    {
+      "album": {
+        "name": "Back to Life",
+        "url": "https://open.spotify.com/album/2tf6b0OVMQg6Nh7O5OgHKu"
+      },
+      "artists": [
+        {
+          "name": "Cordovas",
+          "url": "https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184148,
+      "name": "Lost at Sea",
+      "url": "https://open.spotify.com/track/4SPFLGbWVbdSnnVa985mvA"
     },
     {
       "album": {
@@ -3538,7 +3574,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 243010,
       "name": "You've Got Other Girls for That",
       "url": "https://open.spotify.com/track/5YmUheNKfm5UiZ3q1mxVEF"

@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 53676,
+  "num_followers": 53687,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAAAv50Td9WHMFI40nWBovici",
+  "snapshot_id": "aXv0gAAAAABRQcLT9zkPahRpEQ3iUoWp",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 180185,
-      "name": "Nadie Es De Nadie",
-      "url": "https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V"
+      "duration_ms": 176626,
+      "name": "Esa Muchacha Me Gusta",
+      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 176626,
-      "name": "Esa Muchacha Me Gusta",
-      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
+      "duration_ms": 180185,
+      "name": "Nadie Es De Nadie",
+      "url": "https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Triunfador",
+        "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 172805,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mayor de Edad",
-        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 205213,
-      "name": "Mayor de Edad (Banda)",
-      "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ten\u00eda Due\u00f1o",
         "url": "https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk"
       },
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triunfador",
-        "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
+        "name": "Mayor de Edad",
+        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
       "artists": [
         {
@@ -668,9 +668,25 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 172805,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
+      "duration_ms": 205213,
+      "name": "Mayor de Edad (Banda)",
+      "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi M\u00e9xico Para El Mundo",
+        "url": "https://open.spotify.com/album/23r76axU3JSU045PYMWqIq"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Hola Mi Amor (Mariachi)",
+      "url": "https://open.spotify.com/track/5BaDvD4VYk48bVskuzQjwI"
     },
     {
       "added_at": null,
@@ -707,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi M\u00e9xico Para El Mundo",
-        "url": "https://open.spotify.com/album/23r76axU3JSU045PYMWqIq"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Hola Mi Amor (Mariachi)",
-      "url": "https://open.spotify.com/track/5BaDvD4VYk48bVskuzQjwI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camina Sin Mirar Atras",
         "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Ke Mandan",
-        "url": "https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 162720,
-      "name": "Cristaleros Michoacanos - Banda",
-      "url": "https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 198146,
       "name": "Sea Lo Que Sea",
       "url": "https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Ke Mandan",
+        "url": "https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 162720,
+      "name": "Cristaleros Michoacanos - Banda",
+      "url": "https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h"
     },
     {
       "added_at": null,

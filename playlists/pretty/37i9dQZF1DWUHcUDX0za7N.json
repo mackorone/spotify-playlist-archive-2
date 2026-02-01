@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:NO11",
-  "num_followers": 76636,
+  "num_followers": 76679,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-01-30 00:01:19",
       "album": {
+        "name": "Na Scra",
+        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Na Scra",
+      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
+    },
+    {
+      "added_at": "2026-01-30 00:01:19",
+      "album": {
         "name": "HIM",
         "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 202547,
       "name": "HIM (feat. Gunna)",
       "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
-    },
-    {
-      "added_at": "2026-01-30 00:01:19",
-      "album": {
-        "name": "Na Scra",
-        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Na Scra",
-      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
     },
     {
       "added_at": "2026-01-30 00:01:19",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-01-30 00:01:19",
       "album": {
+        "name": "Letter To My Guys (LTMG)",
+        "url": "https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 171687,
+      "name": "Letter To My Guys - LTMG",
+      "url": "https://open.spotify.com/track/6An0TGYYlArC43uqHovXEx"
+    },
+    {
+      "added_at": "2026-01-30 00:01:19",
+      "album": {
         "name": "FLAKO",
         "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 174117,
       "name": "FLAKO",
       "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
-    },
-    {
-      "added_at": "2026-01-30 00:01:19",
-      "album": {
-        "name": "Letter To My Guys (LTMG)",
-        "url": "https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 171687,
-      "name": "Letter To My Guys - LTMG",
-      "url": "https://open.spotify.com/track/6An0TGYYlArC43uqHovXEx"
     },
     {
       "added_at": "2026-01-30 00:01:19",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-01-30 00:01:19",
       "album": {
-        "name": "IRON BOY",
-        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 168138,
-      "name": "Sin City",
-      "url": "https://open.spotify.com/track/2Zju2Flw73tLPQNEfqu9gJ"
-    },
-    {
-      "added_at": "2026-01-30 00:01:19",
-      "album": {
         "name": "JONBU",
         "url": "https://open.spotify.com/album/5N84TrhEsfEvJwVdJwIwzP"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 158195,
       "name": "JONBU",
       "url": "https://open.spotify.com/track/6ljpoEvVqHtKsakkSvo5hQ"
+    },
+    {
+      "added_at": "2026-01-30 00:01:19",
+      "album": {
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 168138,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/2Zju2Flw73tLPQNEfqu9gJ"
     },
     {
       "added_at": "2026-01-30 00:01:19",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2026-01-30 00:01:19",
       "album": {
-        "name": "Contraband / Diamonds",
-        "url": "https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q"
-    },
-    {
-      "added_at": "2026-01-30 00:01:19",
-      "album": {
         "name": "PRESS AM",
         "url": "https://open.spotify.com/album/1EBWwV4ediQjVLCZfqgCyj"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 123750,
       "name": "PRESS AM",
       "url": "https://open.spotify.com/track/1HGAkDrQS4SAjGO1wUUEJ8"
+    },
+    {
+      "added_at": "2026-01-30 00:01:19",
+      "album": {
+        "name": "Contraband / Diamonds",
+        "url": "https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q"
     },
     {
       "added_at": "2026-01-30 00:01:19",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-01-30 00:01:19",
       "album": {
+        "name": "Cutesy",
+        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 181589,
+      "name": "Cutesy",
+      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
+    },
+    {
+      "added_at": "2026-01-30 00:01:19",
+      "album": {
         "name": "Healers Chapel",
         "url": "https://open.spotify.com/album/26EFuAiv2fxVd44jxz9oHN"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2026-01-30 00:01:19",
       "album": {
-        "name": "Cutesy",
-        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
+        "name": "OH MY DAYS",
+        "url": "https://open.spotify.com/album/03NtEqY1Id8juYBHnvSikk"
       },
       "artists": [
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Islambo",
+          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
         }
       ],
-      "duration_ms": 181589,
-      "name": "Cutesy",
-      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
+      "duration_ms": 119166,
+      "name": "OH MY DAYS",
+      "url": "https://open.spotify.com/track/0toWffYQiopaESjvTWNz1l"
     },
     {
       "added_at": "2026-01-30 00:01:19",
@@ -1311,26 +1327,6 @@
       "duration_ms": 186352,
       "name": "Space",
       "url": "https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN"
-    },
-    {
-      "added_at": "2026-01-30 00:01:19",
-      "album": {
-        "name": "20 Degrees",
-        "url": "https://open.spotify.com/album/12Vyfh3oSpTNPgdMNNQs1x"
-      },
-      "artists": [
-        {
-          "name": "Dremo",
-          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
-        },
-        {
-          "name": "Ruhdee",
-          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
-        }
-      ],
-      "duration_ms": 153380,
-      "name": "20 Degrees",
-      "url": "https://open.spotify.com/track/14pxWg0APGTl9mk3dKFNAx"
     }
   ],
   "unique_name": "Naija Bars ",

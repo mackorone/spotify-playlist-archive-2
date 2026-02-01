@@ -7206,7 +7206,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 144050,
       "name": "MYKILLI",
       "url": "https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU"
@@ -7672,6 +7672,28 @@
       "duration_ms": 156169,
       "name": "NOW I KNOW",
       "url": "https://open.spotify.com/track/4Q1kTtOhw3SosBs43un1bu"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Deixa",
+        "url": "https://open.spotify.com/album/7iVGJ5tk05XHR4NVd9vztR"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Nuno Ribeiro",
+          "url": "https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196948,
+      "name": "N\u00e3o Deixa",
+      "url": "https://open.spotify.com/track/1WuLD3wxu9e9vYkmrPHYqD"
     },
     {
       "album": {

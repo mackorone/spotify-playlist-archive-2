@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Nh\u1eefng kh\u00fac nh\u1ea1c qu\u00ea h\u01b0\u01a1ng ng\u1ee3i ca v\u1ebb \u0111\u1eb9p Vi\u1ec7t Nam. ",
+  "description": "V\u1ec1 qu\u00ea \u0103n T\u1ebft m\u1ecdi ng\u01b0\u1eddi \u01a1i, B\u00f9i C\u00f4ng Nam said",
   "name": "V\u1ec1 Qu\u00ea",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 343726,
       "name": "C\u00e2y C\u1ea7u D\u1eeba",
       "url": "https://open.spotify.com/track/7xAaW7s7YL9GkotKdafxSj"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 302837,
       "name": "C\u00f2n Th\u01b0\u01a1ng Rau \u0110\u1eafng M\u1ecdc Sau H\u00e8",
       "url": "https://open.spotify.com/track/1BkvNL3TRshjUdIP44ijnH"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 434678,
       "name": "Li\u00ean Kh\u00fac Ng\u1ee3i Ca Qu\u00ea H\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/7kSPodwCm3gVt0c70t1puI"
@@ -1480,6 +1480,28 @@
       "duration_ms": 249753,
       "name": "L\u00faa M\u00f9a Duy\u00ean Th\u1eafm",
       "url": "https://open.spotify.com/track/44CGwSTwzPLdWBctoI9lTx"
+    },
+    {
+      "album": {
+        "name": "L\u00fd c\u00e2y \u1ed5i",
+        "url": "https://open.spotify.com/album/10QWpbLqPHb656gckaDyPH"
+      },
+      "artists": [
+        {
+          "name": "Mer",
+          "url": "https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5"
+        },
+        {
+          "name": "Hoan Le",
+          "url": "https://open.spotify.com/artist/6ayVTh1gQU8SlkF0WkBdR9"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128799,
+      "name": "L\u00fd c\u00e2y \u1ed5i",
+      "url": "https://open.spotify.com/track/6UgsqEg9Oyy7emzgrriUdi"
     },
     {
       "album": {
@@ -2000,7 +2022,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 291449,
       "name": "N\u1eafng \u0110\u1eb9p Tr\u00e0 Vinh",
       "url": "https://open.spotify.com/track/7LeNyghMK5cBvU0nj3Atr8"
@@ -2399,6 +2421,28 @@
     },
     {
       "album": {
+        "name": "Feel l\u01b0u k\u00fd",
+        "url": "https://open.spotify.com/album/5mNcCYjKKEvz5B0Dd77w9t"
+      },
+      "artists": [
+        {
+          "name": "Mer",
+          "url": "https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5"
+        },
+        {
+          "name": "Hoan Le",
+          "url": "https://open.spotify.com/artist/6ayVTh1gQU8SlkF0WkBdR9"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205898,
+      "name": "Th\u1eb1ng kh\u1edd phi\u00eau l\u01b0u k\u00fd",
+      "url": "https://open.spotify.com/track/45F4se864BrBvGiv7WEjyr"
+    },
+    {
+      "album": {
         "name": "Th\u00e0 Gi\u1ebft Ng\u01b0\u1eddi Y\u00eau",
         "url": "https://open.spotify.com/album/6sGNU2iucs0IhCUz6LA7NC"
       },
@@ -2410,7 +2454,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 340573,
       "name": "Tr\u00ean D\u00f2ng S\u00f4ng Nh\u1ecf",
       "url": "https://open.spotify.com/track/7dhaxUr0uDCGjgRm9qZSeu"
@@ -2512,10 +2556,32 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 302915,
       "name": "T\u00e1t N\u01b0\u1edbc \u0110\u1ea7u \u0110\u00ecnh",
       "url": "https://open.spotify.com/track/4EsFje6KwIcdm1lfuTDEdp"
+    },
+    {
+      "album": {
+        "name": "sinh",
+        "url": "https://open.spotify.com/album/31q14MVtjZbcMlg5a3U33a"
+      },
+      "artists": [
+        {
+          "name": "Mer",
+          "url": "https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5"
+        },
+        {
+          "name": "Kriss Ngo",
+          "url": "https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108235,
+      "name": "t\u00e2m",
+      "url": "https://open.spotify.com/track/0mT2YgsN7ib5vaBaYdpUaN"
     },
     {
       "album": {
@@ -2917,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "Tuy\u1ec3n T\u1eadp Nh\u1ea1c T\u1ebft B\u00f9i C\u00f4ng Nam - 2024",
+        "url": "https://open.spotify.com/album/1NcOgL91afDyHrjDPFWCz2"
+      },
+      "artists": [
+        {
+          "name": "B\u00f9i C\u00f4ng Nam",
+          "url": "https://open.spotify.com/artist/6oqtpFuvCTISMPeGv6P2sj"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196137,
+      "name": "T\u1ebft N\u00e0y Con S\u1ebd V\u1ec1",
+      "url": "https://open.spotify.com/track/3xRwKsEaxuxKtS3n9ZrWJ1"
+    },
+    {
+      "album": {
         "name": "T\u1ebft V\u1ec1 Mi\u1ec1n T\u00e2y",
         "url": "https://open.spotify.com/album/772mRepAs67iZ1rFgdpfBi"
       },
@@ -2954,6 +3038,24 @@
       "duration_ms": 283585,
       "name": "T\u1ef1 T\u00ecnh Qu\u00ea H\u01b0\u01a1ng (feat. Ho\u00e0ng Linh)",
       "url": "https://open.spotify.com/track/3xTNAlqNRIEhSGFG8LNEVE"
+    },
+    {
+      "album": {
+        "name": "V\u1ec1 Ch\u01b0a Con",
+        "url": "https://open.spotify.com/album/3j8zKAduVpDp4v1oVAfrxZ"
+      },
+      "artists": [
+        {
+          "name": "B\u00f9i C\u00f4ng Nam",
+          "url": "https://open.spotify.com/artist/6oqtpFuvCTISMPeGv6P2sj"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "V\u1ec1 Ch\u01b0a Con",
+      "url": "https://open.spotify.com/track/5Ov5yZidHUGNh3ScEn9nop"
     },
     {
       "album": {
@@ -3598,6 +3700,28 @@
       "duration_ms": 293408,
       "name": "\u0110\u1eb9p M\u1ed1i Duy\u00ean Qu\u00ea (feat. Ng\u1ecdc Ki\u1ec1u Oanh)",
       "url": "https://open.spotify.com/track/1aRoFrHr1Jv2fKrKC0mgld"
+    },
+    {
+      "album": {
+        "name": "\u1ea6u \u01a0 V\u00ed D\u1ea7u (Theme Song From \"Nh\u00e0 Gia Ti\u00ean\")",
+        "url": "https://open.spotify.com/album/4avlYR7hCLIGPFtrHQ0LEK"
+      },
+      "artists": [
+        {
+          "name": "B\u00f9i C\u00f4ng Nam",
+          "url": "https://open.spotify.com/artist/6oqtpFuvCTISMPeGv6P2sj"
+        },
+        {
+          "name": "Ch\u00ed T\u00e2m",
+          "url": "https://open.spotify.com/artist/2f4FV7vjVeaIgV2UgmqNJk"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283448,
+      "name": "\u1ea6u \u01a0 V\u00ed D\u1ea7u (Theme Song From \"Nh\u00e0 Gia Ti\u00ean\")",
+      "url": "https://open.spotify.com/track/12YK0pixitPH1zUcDR4M3k"
     },
     {
       "album": {

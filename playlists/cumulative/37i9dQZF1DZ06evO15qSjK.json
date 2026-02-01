@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 161573,
       "name": "Havana",
       "url": "https://open.spotify.com/track/1dnJkyBbi3gDPoT1IFYR9j"
@@ -1532,6 +1532,24 @@
       "duration_ms": 191866,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4lqFiuMXlUwUgwDuvt4igC"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 52",
+        "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188300,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/0QgfsBEUm79puHnQz8N8OT"
     },
     {
       "album": {

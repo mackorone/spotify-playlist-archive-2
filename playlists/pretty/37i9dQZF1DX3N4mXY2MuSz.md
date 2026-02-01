@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,749 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,739 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 71 | [Get This Christmas Right](https://open.spotify.com/track/52PxV5MwXOVcNocge2Ay1W) | [Jaret and Kelly](https://open.spotify.com/artist/2mmcv7y7k8bhULYGQUiZHT) | [Get This Christmas Right](https://open.spotify.com/album/1trvEENbl7mzhG6t6FQoy1) | 2:11 |
 | 72 | [Christmas At My House](https://open.spotify.com/track/3tNGeh2arYnVYQTsyQs51E) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Christmas At My House](https://open.spotify.com/album/2B0f5yFrMJjxVHKZr9Hvhv) | 3:10 |
 | 73 | [The Season's Upon Us](https://open.spotify.com/track/1gSmN84niQf7DZSCCWfOyN) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Season's Upon Us](https://open.spotify.com/album/0eX2dIB3Ce7t32RjWoppJJ) | 4:02 |
-| 74 | [December \(again\) \[feat\. Mark Hoppus\]](https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [December](https://open.spotify.com/album/22jWMvcp7ruHDfqn9EVxwe) | 3:33 |
-| 75 | [Boxing Day](https://open.spotify.com/track/0HQLq1DUWyhMN2gWXBQ89Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/4dC3BP0H6eU4jkcyXUMrzb) | 3:59 |
+| 74 | [Boxing Day](https://open.spotify.com/track/0HQLq1DUWyhMN2gWXBQ89Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/4dC3BP0H6eU4jkcyXUMrzb) | 3:59 |
+| 75 | [December \(again\) \[feat\. Mark Hoppus\]](https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [December](https://open.spotify.com/album/22jWMvcp7ruHDfqn9EVxwe) | 3:33 |
 | 76 | [Wonderful Christmastime \- Remastered 2011 / Edited Version](https://open.spotify.com/track/4gavOCQdZ2g86gkvi17FM7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/7G2kEoHNNWxq6j8okgMvCr) | 3:47 |
 | 77 | [Right Where You Want Me to Be](https://open.spotify.com/track/1pcL2LXuaO01180QkIxkSG) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Attack of the Killer B\-Sides](https://open.spotify.com/album/6vzC3ouCJBHTO5KqQ2lnea) | 3:42 |
 | 78 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/4rZ0E41vSsttJd2AzaI4Y1) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work \(Deluxe Version\)](https://open.spotify.com/album/2ZF3l2HMjlP7KR2Na2ClY7) | 3:19 |

@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Yangın
 
-349 songs - 17 hr 38 min
+350 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Gör Şu Halimi](https://open.spotify.com/track/4mlMmbnxr5AsRDR9ysI3LX) | [Dilhan Şeşen](https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1) | [Gör Şu Halimi](https://open.spotify.com/album/5YoHw6HPiT7Y7TlttB4WhG) | 3:36 | 2025-02-20 | 2025-04-06 |
 | [Göz Bebeklerim](https://open.spotify.com/track/7tajCR4ppglEkZ0n2QHSAq) | [TurkodiRoma](https://open.spotify.com/artist/5ms13kENAqc7SAFQvPQz7L) | [Göz Bebeklerim](https://open.spotify.com/album/2VmXk4Lm0INsUzfQFBVgqU) | 2:58 | 2025-03-06 |  |
 | [Gücüm Yok](https://open.spotify.com/track/0yXU2mHp4li95DiqWX2K9X) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Gücüm Yok](https://open.spotify.com/album/1ywWSw85x5lEAPb8mi49HM) | 2:48 | 2024-10-10 | 2024-12-20 |
-| [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 | 2024-10-10 |  |
+| [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 | 2024-10-10 | 2026-02-01 |
 | [Günebakan](https://open.spotify.com/track/0kve63qUZXfXLRTOm6H3YI) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Günebakan](https://open.spotify.com/album/6FspaOaszVqDuYgkRtjiAw) | 3:14 | 2024-06-20 | 2026-01-30 |
 | [Güzel Olmaz Mı?](https://open.spotify.com/track/4aiPmZeZmXgDGaFzm51PNW) | [Kaset](https://open.spotify.com/artist/3D272RoVaG7oXSBIOgqgnJ) | [Güzel Olmaz Mı?](https://open.spotify.com/album/2HVpwKFTAkn2fSCfS2biRi) | 2:56 | 2024-08-29 | 2026-01-15 |
 | [HAFİFMEŞREP](https://open.spotify.com/track/2TFgGmiLfGaEbII24Ggb4r) | [Olabilir!](https://open.spotify.com/artist/5Q17hiDpug3g5J2Z7XSWhd) | [SANSÜR](https://open.spotify.com/album/4JF5u24eDcau1aEj8hw3AY) | 2:50 | 2025-11-06 | 2025-12-26 |
@@ -248,6 +248,7 @@
 | [Sevmeyi Bilmeliydik](https://open.spotify.com/track/0Lxmwww1gG4okcAZtVirjd) | [Hagüra](https://open.spotify.com/artist/63FsIdN7zwPwQGJb8wzifr) | [Sevmeyi Bilmeliydik](https://open.spotify.com/album/3WAgKTf44grcCd8umaC5nv) | 2:01 | 2024-10-10 | 2024-11-29 |
 | [Sevmişsin Gibi](https://open.spotify.com/track/4tEXZEWitoIMQJZAiBxbrk) | [Berkay Akman](https://open.spotify.com/artist/7Fi8SvzJZ6iFOyWvoS7DK1) | [Sevmişsin Gibi](https://open.spotify.com/album/7dkMzxKMKcuvGVkTbhOXWW) | 3:05 | 2024-09-05 | 2024-11-29 |
 | [Sil Numaramı](https://open.spotify.com/track/2UaT5jEKf4XUvCUC7O9LQh) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Sil Numaramı](https://open.spotify.com/album/2HEq9rAXOx2W6aUcu1dElM) | 2:31 | 2024-06-20 | 2026-01-30 |
+| [simsiyah](https://open.spotify.com/track/6OoTzJcTqxUUGmoDX0hTON) | [naska](https://open.spotify.com/artist/5SIAzxxpMOWkxuwwyoRHcm) | [simsiyah](https://open.spotify.com/album/4L6BSphML3s7B3IdgImBj5) | 2:14 | 2026-01-29 |  |
 | [Soft Öpücük](https://open.spotify.com/track/7sJ1cyZrmhqHaFVvD2xBkj) | [Diskopolis](https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7) | [Soft Öpücük](https://open.spotify.com/album/15Z5zDLAWBPP0GjIiVHzlK) | 3:18 | 2025-04-18 | 2025-05-30 |
 | [Son Kadeh](https://open.spotify.com/track/2tXrinFNKbWatA5JkKkVPY) | [Makbet](https://open.spotify.com/artist/5qwmcwRkE9KTZHYJfReVVC) | [Son Kadeh](https://open.spotify.com/album/4sxfvwIH6twvPM9Dba6Oxh) | 3:59 | 2025-09-18 |  |
 | [Son Kalan Sevgi](https://open.spotify.com/track/79ACxIaSx19G4U7IxCGswo) | [Serbest Radikal](https://open.spotify.com/artist/6WZfzPA83dHUpmQr1ecXhZ) | [Son Kalan Sevgi](https://open.spotify.com/album/1i4R0hL5WBawbOJJzWskTF) | 4:11 | 2025-11-06 | 2025-12-12 |

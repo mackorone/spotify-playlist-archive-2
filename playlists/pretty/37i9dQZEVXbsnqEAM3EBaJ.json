@@ -247,38 +247,6 @@
     {
       "added_at": "2026-01-30 03:00:00",
       "album": {
-        "name": "Whiplash (Deluxe)",
-        "url": "https://open.spotify.com/album/1bSJUui9WhyR6Ix6msUxxo"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 224322,
-      "name": "Twilight - Londinium Version",
-      "url": "https://open.spotify.com/track/10aymxDOFtt1yjMF5TeQj7"
-    },
-    {
-      "added_at": "2026-01-30 03:00:00",
-      "album": {
-        "name": "Armada (Orchestral Version)",
-        "url": "https://open.spotify.com/album/0jfoVULtvqdDo0jYgeWOxq"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "Armada - Orchestral Version",
-      "url": "https://open.spotify.com/track/5jV2N4JN9QRnC1UqQQWAAn"
-    },
-    {
-      "added_at": "2026-01-30 03:00:00",
-      "album": {
         "name": "Charlie The Wonderdog (Original Songs from the Motion Picture)",
         "url": "https://open.spotify.com/album/377uHBrhHsJU4XsGagTrs3"
       },
@@ -375,26 +343,6 @@
       "duration_ms": 218635,
       "name": "Bedroom Posters (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
-    },
-    {
-      "added_at": "2026-01-30 03:00:00",
-      "album": {
-        "name": "Ready To Live A Lie (The Remixes)",
-        "url": "https://open.spotify.com/album/6QwYgrrSVmYnlzpKQLXvM4"
-      },
-      "artists": [
-        {
-          "name": "Sally Shapiro",
-          "url": "https://open.spotify.com/artist/0Guuvi7P0R6ZuX2DeL1m9M"
-        },
-        {
-          "name": "Boys' Shorts",
-          "url": "https://open.spotify.com/artist/3nRPgO6HGmq7u7sj3KyEgx"
-        }
-      ],
-      "duration_ms": 298625,
-      "name": "He's Not You - Boys' Shorts Remix",
-      "url": "https://open.spotify.com/track/4htFv2xPYJddpnbTViryFa"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

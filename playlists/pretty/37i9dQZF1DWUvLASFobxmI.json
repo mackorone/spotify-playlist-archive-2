@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Duelo en portada.",
-  "num_followers": 525807,
+  "num_followers": 525879,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "La Barbie",
-        "url": "https://open.spotify.com/album/4xoctRoEbOSgvPw2wXl0Pw"
-      },
-      "artists": [
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 150961,
-      "name": "La Barbie",
-      "url": "https://open.spotify.com/track/263f8MqBDUWVxVWEMesYh0"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "LO LOGRAMOS",
         "url": "https://open.spotify.com/album/3b3xjKsM9yLxa4Cob0Qn22"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 205237,
       "name": "LO LOGRAMOS",
       "url": "https://open.spotify.com/track/1dg9Gf4LclMVJ9HuKp0sgF"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "La Barbie",
+        "url": "https://open.spotify.com/album/4xoctRoEbOSgvPw2wXl0Pw"
+      },
+      "artists": [
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 150961,
+      "name": "La Barbie",
+      "url": "https://open.spotify.com/track/263f8MqBDUWVxVWEMesYh0"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "Desde El Expendio (En Vivo)",
-        "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Alfonso Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT"
-        }
-      ],
-      "duration_ms": 184021,
-      "name": "Cosas De Borrachera (En Vivo)",
-      "url": "https://open.spotify.com/track/05rGX2P3QuJoTuXUEZhLjI"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "Vicio y Soledad",
         "url": "https://open.spotify.com/album/0TWW8RqtpVhujd4fx6DdvB"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 209160,
       "name": "La Competencia",
       "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "Desde El Expendio (En Vivo)",
+        "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Alfonso Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT"
+        }
+      ],
+      "duration_ms": 184021,
+      "name": "Cosas De Borrachera (En Vivo)",
+      "url": "https://open.spotify.com/track/05rGX2P3QuJoTuXUEZhLjI"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "PASAJES",
-        "url": "https://open.spotify.com/album/0C3Z053f7M8rXDTvP4VHiE"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 175503,
-      "name": "No Te Entra El Hacha",
-      "url": "https://open.spotify.com/track/72TAzFA9XMbpEuzynFbyMt"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/5TL4AEsMF5T6TSCGFiOfT1"
       },
@@ -843,22 +827,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "NO TE OLVIDES",
-        "url": "https://open.spotify.com/album/2OHw4drNof6J46PxVsqSf0"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 179997,
-      "name": "NO TE OLVIDES",
-      "url": "https://open.spotify.com/track/41wRME3Q9CtY8rYG9oQs1c"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "Que Viva El Amor",
         "url": "https://open.spotify.com/album/6G0mgUaqGHcBzAoZZVj6r8"
       },
@@ -871,6 +839,38 @@
       "duration_ms": 147022,
       "name": "Que Viva El Amor",
       "url": "https://open.spotify.com/track/4qEefGyrhP8ZAcotTWQfYs"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "PASAJES",
+        "url": "https://open.spotify.com/album/0C3Z053f7M8rXDTvP4VHiE"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 175503,
+      "name": "No Te Entra El Hacha",
+      "url": "https://open.spotify.com/track/72TAzFA9XMbpEuzynFbyMt"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "NO TE OLVIDES",
+        "url": "https://open.spotify.com/album/2OHw4drNof6J46PxVsqSf0"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 179997,
+      "name": "NO TE OLVIDES",
+      "url": "https://open.spotify.com/track/41wRME3Q9CtY8rYG9oQs1c"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "A Bailar Huapangos Vol.2",
-        "url": "https://open.spotify.com/album/3BrcMSYrYGMrnhFlb4wImF"
-      },
-      "artists": [
-        {
-          "name": "Los Igualados",
-          "url": "https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB"
-        }
-      ],
-      "duration_ms": 169484,
-      "name": "El Cascabel",
-      "url": "https://open.spotify.com/track/2QYc8Rh7ogygZK77usef00"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "En Vivo FP Vol. 2",
         "url": "https://open.spotify.com/album/3xvFTJbJlanrnNTNfjctZj"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "VI : Venimos X M\u00e1s",
-        "url": "https://open.spotify.com/album/5pFZFzTFHNKdJiutXkfJjB"
+        "name": "A Bailar Huapangos Vol.2",
+        "url": "https://open.spotify.com/album/3BrcMSYrYGMrnhFlb4wImF"
       },
       "artists": [
         {
-          "name": "Tapy Quintero",
-          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+          "name": "Los Igualados",
+          "url": "https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB"
         }
       ],
-      "duration_ms": 156789,
-      "name": "Ahora Estoy De M\u00e1s",
-      "url": "https://open.spotify.com/track/6PPgH1NsduSmfKFr3M06ku"
+      "duration_ms": 169484,
+      "name": "El Cascabel",
+      "url": "https://open.spotify.com/track/2QYc8Rh7ogygZK77usef00"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
+        "name": "VI : Venimos X M\u00e1s",
+        "url": "https://open.spotify.com/album/5pFZFzTFHNKdJiutXkfJjB"
+      },
+      "artists": [
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        }
+      ],
+      "duration_ms": 156789,
+      "name": "Ahora Estoy De M\u00e1s",
+      "url": "https://open.spotify.com/track/6PPgH1NsduSmfKFr3M06ku"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
         "name": "Algo Para Siempre",
         "url": "https://open.spotify.com/album/0XQsWCJWTWconBMYIirUrL"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 152088,
       "name": "Algo Para Siempre",
       "url": "https://open.spotify.com/track/2n3dABKKWhOCNcLIjTY4Vn"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "Borrachera Fito Shyruka (En Vivo)",
+        "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Las Calles Enlodadas (En Vivo)",
+      "url": "https://open.spotify.com/track/6isXA21iRtiZ2aIRAJXAdj"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -1123,22 +1139,6 @@
       "duration_ms": 149750,
       "name": "El Corrido De Lamberto",
       "url": "https://open.spotify.com/track/0k6VZw4MiQYGfkoNSZlAqW"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
-        "name": "Borrachera Fito Shyruka (En Vivo)",
-        "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Las Calles Enlodadas (En Vivo)",
-      "url": "https://open.spotify.com/track/6isXA21iRtiZ2aIRAJXAdj"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
+        "name": "Tu Clavo",
+        "url": "https://open.spotify.com/album/6DRYfEbBa7Fouauh2HxGuf"
+      },
+      "artists": [
+        {
+          "name": "Fila Tres",
+          "url": "https://open.spotify.com/artist/2yilil4JE6oxFqmGLy55wO"
+        }
+      ],
+      "duration_ms": 182399,
+      "name": "Tu Clavo",
+      "url": "https://open.spotify.com/track/117epVqgLmBxScEqVRBoCh"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
         "name": "Pensando En Usted",
         "url": "https://open.spotify.com/album/6DXyjAr1mEW7lIMJv7lyzy"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "Tu Clavo",
-        "url": "https://open.spotify.com/album/6DRYfEbBa7Fouauh2HxGuf"
-      },
-      "artists": [
-        {
-          "name": "Fila Tres",
-          "url": "https://open.spotify.com/artist/2yilil4JE6oxFqmGLy55wO"
-        }
-      ],
-      "duration_ms": 182399,
-      "name": "Tu Clavo",
-      "url": "https://open.spotify.com/track/117epVqgLmBxScEqVRBoCh"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "Aqu\u00ed Hay Con Queso",
         "url": "https://open.spotify.com/album/4DbaK0l9qzjLyDdUDn5JAR"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "Pueblito",
-        "url": "https://open.spotify.com/album/3FhSGwBa5z49kVa6MJjgAS"
-      },
-      "artists": [
-        {
-          "name": "Los Morales",
-          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
-        }
-      ],
-      "duration_ms": 224490,
-      "name": "Pueblito",
-      "url": "https://open.spotify.com/track/11CLUu5OqX6I0QZFTom8zD"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/548tU1ysBV2DfOr5upovQv"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 193142,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/6S6CZfhAy7T36SppunzYI8"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "Pueblito",
+        "url": "https://open.spotify.com/album/3FhSGwBa5z49kVa6MJjgAS"
+      },
+      "artists": [
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        }
+      ],
+      "duration_ms": 224490,
+      "name": "Pueblito",
+      "url": "https://open.spotify.com/track/11CLUu5OqX6I0QZFTom8zD"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "AYAYAY",
-        "url": "https://open.spotify.com/album/537OQuxoXPxsUal2NN86gf"
-      },
-      "artists": [
-        {
-          "name": "Juan Moya Y Los Del Valle",
-          "url": "https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b"
-        }
-      ],
-      "duration_ms": 151632,
-      "name": "AYAYAY",
-      "url": "https://open.spotify.com/track/4Pmqo5APBJJ98jVsYYJoQc"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "A Donde Vayas (En vivo, Auditorio Pabell\u00f3n M, 2023, Monterrey, N.L)",
         "url": "https://open.spotify.com/album/1VWezWQmRnGYdZhhDpES5G"
       },
@@ -1575,22 +1559,18 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "Peripecia",
-        "url": "https://open.spotify.com/album/5nPvAgRXUDboSwwIUHV91R"
+        "name": "AYAYAY",
+        "url": "https://open.spotify.com/album/537OQuxoXPxsUal2NN86gf"
       },
       "artists": [
         {
-          "name": "Bandera Negra",
-          "url": "https://open.spotify.com/artist/5xABAb793YTVAkTlUGPvnO"
-        },
-        {
-          "name": "La Edici\u00f3n de Culiac\u00e1n",
-          "url": "https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU"
+          "name": "Juan Moya Y Los Del Valle",
+          "url": "https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Peripecia",
-      "url": "https://open.spotify.com/track/67vUomLwg8288pELNn5OSA"
+      "duration_ms": 151632,
+      "name": "AYAYAY",
+      "url": "https://open.spotify.com/track/4Pmqo5APBJJ98jVsYYJoQc"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -1607,6 +1587,26 @@
       "duration_ms": 222000,
       "name": "La vida recia - En Vivo",
       "url": "https://open.spotify.com/track/5PDK2DNVnr11CNZ1X0hXsR"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "Peripecia",
+        "url": "https://open.spotify.com/album/5nPvAgRXUDboSwwIUHV91R"
+      },
+      "artists": [
+        {
+          "name": "Bandera Negra",
+          "url": "https://open.spotify.com/artist/5xABAb793YTVAkTlUGPvnO"
+        },
+        {
+          "name": "La Edici\u00f3n de Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Peripecia",
+      "url": "https://open.spotify.com/track/67vUomLwg8288pELNn5OSA"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER (EN VIVO)",
-        "url": "https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w"
-      },
-      "artists": [
-        {
-          "name": "Liz Ocampo",
-          "url": "https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx"
-        }
-      ],
-      "duration_ms": 233898,
-      "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
-      "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "Los Chismes",
         "url": "https://open.spotify.com/album/5474RKvrAG8YQjN4B98ul4"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 184988,
       "name": "Los Chismes",
       "url": "https://open.spotify.com/track/1EB7ebq9oX7eFr2aEHp3MG"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER (EN VIVO)",
+        "url": "https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w"
+      },
+      "artists": [
+        {
+          "name": "Liz Ocampo",
+          "url": "https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx"
+        }
+      ],
+      "duration_ms": 233898,
+      "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
+      "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
     },
     {
       "added_at": "2026-01-23 06:00:06",

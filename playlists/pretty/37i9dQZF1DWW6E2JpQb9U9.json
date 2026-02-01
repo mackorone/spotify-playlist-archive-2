@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Mat\u00f3 a un Polic\u00eda Motorizado.",
-  "num_followers": 125064,
+  "num_followers": 125071,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFedEYMCz1P82lHXYSfTO6Y/tuQL",
+  "snapshot_id": "AAAAAD688/8Z7PeR3UMFTTNR6TKN9TVm",
   "tracks": [
     {
       "added_at": "2026-01-23 03:00:04",
@@ -271,18 +271,18 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "En Vivo Gran Rex",
-        "url": "https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ"
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
       "artists": [
         {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
         }
       ],
-      "duration_ms": 250426,
-      "name": "El Coraz\u00f3n Sobre Todo - En Vivo",
-      "url": "https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK"
+      "duration_ms": 238625,
+      "name": "Si Supieras - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
+        "name": "En Vivo Gran Rex",
+        "url": "https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ"
       },
       "artists": [
         {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
         }
       ],
-      "duration_ms": 238625,
-      "name": "Si Supieras - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
+      "duration_ms": 250426,
+      "name": "El Coraz\u00f3n Sobre Todo - En Vivo",
+      "url": "https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Demoliendo Hoteles - Live",
-      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
-    },
-    {
-      "added_at": "2026-01-23 03:00:04",
-      "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 226186,
       "name": "Yo Tomo - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
+    },
+    {
+      "added_at": "2026-01-23 03:00:04",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Demoliendo Hoteles - Live",
+      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "Hasta La Luna - EN VIVO LUNA PARK",
-        "url": "https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 275845,
-      "name": "Adonde Est\u00e1n",
-      "url": "https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2"
-    },
-    {
-      "added_at": "2026-01-23 03:00:04",
-      "album": {
         "name": "Ji Ji Ji (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
         "url": "https://open.spotify.com/album/32bau642DRCuW27UlsiEnw"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 363208,
       "name": "Ji Ji Ji - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
       "url": "https://open.spotify.com/track/1TGLpWSsFMuDR3DMD6Pyc5"
+    },
+    {
+      "added_at": "2026-01-23 03:00:04",
+      "album": {
+        "name": "Hasta La Luna - EN VIVO LUNA PARK",
+        "url": "https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 275845,
+      "name": "Adonde Est\u00e1n",
+      "url": "https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
-        "name": "Ni\u00f1o Abuelo (Vivo en Obras 20/12/2024)",
-        "url": "https://open.spotify.com/album/3CaxPS84kJiMTUWuK2GYiC"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 280661,
-      "name": "Ni\u00f1o Abuelo - Vivo en Obras 20/12/2024",
-      "url": "https://open.spotify.com/track/4Lk0Y7rY5tlE5C89aBpK56"
-    },
-    {
-      "added_at": "2026-01-23 03:00:04",
-      "album": {
         "name": "Carretera Perdida (En Vivo)",
         "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 290496,
       "name": "Carretera Perdida - En Vivo",
       "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
+    },
+    {
+      "added_at": "2026-01-23 03:00:04",
+      "album": {
+        "name": "Ni\u00f1o Abuelo (Vivo en Obras 20/12/2024)",
+        "url": "https://open.spotify.com/album/3CaxPS84kJiMTUWuK2GYiC"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 280661,
+      "name": "Ni\u00f1o Abuelo - Vivo en Obras 20/12/2024",
+      "url": "https://open.spotify.com/track/4Lk0Y7rY5tlE5C89aBpK56"
     },
     {
       "added_at": "2026-01-23 03:00:04",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2026-01-23 03:00:04",
       "album": {
+        "name": "Ojos Rojos (En Vivo)",
+        "url": "https://open.spotify.com/album/3ccn8gkTRS9ly0X6795rsO"
+      },
+      "artists": [
+        {
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+        }
+      ],
+      "duration_ms": 200136,
+      "name": "Ojos Rojos - En vivo",
+      "url": "https://open.spotify.com/track/5Rbbj3DEeK2PXRkzbJVv19"
+    },
+    {
+      "added_at": "2026-01-23 03:00:04",
+      "album": {
         "name": "El Vuelo del Drag\u00f3n, Pt. 3",
         "url": "https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 289804,
       "name": "Ella Vendr\u00e1",
       "url": "https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU"
-    },
-    {
-      "added_at": "2026-01-23 03:00:04",
-      "album": {
-        "name": "M\u00fasica del Alma (En Vivo)",
-        "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 251296,
-      "name": "M\u00fasica Del Alma - En Vivo",
-      "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
     }
   ],
   "unique_name": "Vivo de Rock",

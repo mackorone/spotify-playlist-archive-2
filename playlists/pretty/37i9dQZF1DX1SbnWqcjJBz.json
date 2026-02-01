@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 133257,
+  "num_followers": 133285,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "I'm Not Dead",
+        "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 214386,
+      "name": "U + Ur Hand",
+      "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
       },
@@ -315,18 +331,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "I'm Not Dead",
-        "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
+        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
         }
       ],
-      "duration_ms": 214386,
-      "name": "U + Ur Hand",
-      "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
+      "duration_ms": 242160,
+      "name": "What Dreams Are Made Of",
+      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -347,22 +363,6 @@
       "duration_ms": 199245,
       "name": "Magnets",
       "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
-      },
-      "artists": [
-        {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
-        }
-      ],
-      "duration_ms": 242160,
-      "name": "What Dreams Are Made Of",
-      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Buzz",
-        "url": "https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na"
-      },
-      "artists": [
-        {
-          "name": "Steps",
-          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "It's the Way You Make Me Feel",
-      "url": "https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "SuperLove",
         "url": "https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 193163,
       "name": "SuperLove",
       "url": "https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na"
+      },
+      "artists": [
+        {
+          "name": "Steps",
+          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "It's the Way You Make Me Feel",
+      "url": "https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Hair Body Face",
-      "url": "https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "A Public Affair",
         "url": "https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 201466,
       "name": "A Public Affair",
       "url": "https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Hair Body Face",
+      "url": "https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "D\u00e9j\u00e0 vu",
-        "url": "https://open.spotify.com/album/09IChrkzmFo9ZZroCRYujr"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Moroder",
-          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Tom's Diner (feat. Britney Spears)",
-      "url": "https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Somebody To Love",
         "url": "https://open.spotify.com/album/1eb3ioGBDBkLiIWPFYzMK9"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 212933,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "D\u00e9j\u00e0 vu",
+        "url": "https://open.spotify.com/album/09IChrkzmFo9ZZroCRYujr"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Moroder",
+          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Tom's Diner (feat. Britney Spears)",
+      "url": "https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp"
     },
     {
       "added_at": "2024-06-02 21:23:10",

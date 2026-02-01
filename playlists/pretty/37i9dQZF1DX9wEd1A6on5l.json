@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 110931,
+  "num_followers": 110980,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -267,26 +267,6 @@
     {
       "added_at": "2026-01-30 00:01:22",
       "album": {
-        "name": "Allonsy",
-        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
-      },
-      "artists": [
-        {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
-        },
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        }
-      ],
-      "duration_ms": 122711,
-      "name": "Allonsy",
-      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
-    },
-    {
-      "added_at": "2026-01-30 00:01:22",
-      "album": {
         "name": "HOW FAR / SHIMA II",
         "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 163327,
       "name": "HOW FAR",
       "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
+    },
+    {
+      "added_at": "2026-01-30 00:01:22",
+      "album": {
+        "name": "Allonsy",
+        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "duration_ms": 122711,
+      "name": "Allonsy",
+      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
     },
     {
       "added_at": "2026-01-30 00:01:22",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-01-30 00:01:22",
       "album": {
+        "name": "LAPOPIANO",
+        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "LAPOPIANO",
+      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
+    },
+    {
+      "added_at": "2026-01-30 00:01:22",
+      "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2026-01-30 00:01:22",
       "album": {
-        "name": "LAPOPIANO",
-        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "LAPOPIANO",
-      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
-    },
-    {
-      "added_at": "2026-01-30 00:01:22",
-      "album": {
         "name": "Cash Flow (feat. Wizkid)",
         "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-01-30 00:01:22",
       "album": {
-        "name": "Na Scra",
-        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Na Scra",
-      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
-    },
-    {
-      "added_at": "2026-01-30 00:01:22",
-      "album": {
         "name": "Na So",
         "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 214441,
       "name": "Na So",
       "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
+    },
+    {
+      "added_at": "2026-01-30 00:01:22",
+      "album": {
+        "name": "Na Scra",
+        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Na Scra",
+      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
     },
     {
       "added_at": "2026-01-30 00:01:22",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-01-30 00:01:22",
       "album": {
-        "name": "Coco Money",
-        "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 136707,
-      "name": "Coco Money",
-      "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
-    },
-    {
-      "added_at": "2026-01-30 00:01:22",
-      "album": {
         "name": "Calculate II",
         "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 180688,
       "name": "Calculate II - II",
       "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
+    },
+    {
+      "added_at": "2026-01-30 00:01:22",
+      "album": {
+        "name": "Coco Money",
+        "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 136707,
+      "name": "Coco Money",
+      "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
     },
     {
       "added_at": "2026-01-30 00:01:22",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-01-30 00:01:22",
       "album": {
+        "name": "Babcock",
+        "url": "https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L"
+      },
+      "artists": [
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 143476,
+      "name": "Babcock",
+      "url": "https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH"
+    },
+    {
+      "added_at": "2026-01-30 00:01:22",
+      "album": {
         "name": "On A Low",
         "url": "https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 136062,
       "name": "On A Low",
       "url": "https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR"
-    },
-    {
-      "added_at": "2026-01-30 00:01:22",
-      "album": {
-        "name": "Babcock",
-        "url": "https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L"
-      },
-      "artists": [
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
-        }
-      ],
-      "duration_ms": 143476,
-      "name": "Babcock",
-      "url": "https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH"
     },
     {
       "added_at": "2026-01-30 00:01:22",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-01-30 00:01:22",
       "album": {
+        "name": "Forex Boys",
+        "url": "https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg"
+      },
+      "artists": [
+        {
+          "name": "TheFeyiii",
+          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
+        },
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Forex Boys",
+      "url": "https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm"
+    },
+    {
+      "added_at": "2026-01-30 00:01:22",
+      "album": {
         "name": "Girl On Fya",
         "url": "https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7"
       },
@@ -1411,22 +1431,22 @@
     {
       "added_at": "2026-01-30 00:01:22",
       "album": {
-        "name": "Forex Boys",
-        "url": "https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg"
+        "name": "Screaming Beauty",
+        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
       },
       "artists": [
         {
-          "name": "TheFeyiii",
-          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         },
         {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Forex Boys",
-      "url": "https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm"
+      "duration_ms": 161454,
+      "name": "Screaming Beauty",
+      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
     },
     {
       "added_at": "2026-01-30 00:01:22",
@@ -1455,26 +1475,6 @@
       "duration_ms": 192028,
       "name": "Anytime (feat. Ayo Maff)",
       "url": "https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a"
-    },
-    {
-      "added_at": "2026-01-30 00:01:22",
-      "album": {
-        "name": "Screaming Beauty",
-        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Screaming Beauty",
-      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
     },
     {
       "added_at": "2026-01-30 00:01:22",

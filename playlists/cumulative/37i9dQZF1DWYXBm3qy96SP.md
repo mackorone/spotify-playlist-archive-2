@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: EKKSTACY
 
-1,795 songs - 4 day 7 hr 49 min
+1,796 songs - 4 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 | 2024-10-10 | 2024-12-19 |
 | [A Kiss for the Whole World x](https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:31 | 2023-04-20 | 2023-04-28 |
 | [A Kiss for the Whole World x](https://open.spotify.com/track/28kdCguOw9S30DVMRhL3uh) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/54ueM4SD9fr9VTYeXJc8xp) | 3:31 | 2023-04-20 | 2023-04-22 |
+| [A Light That Waits](https://open.spotify.com/track/58gVmfPYnafwxolIaPPqDo) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/6KCQ2KCGBL9dByWTy4Qdh6) | 3:23 | 2026-01-29 |  |
 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-06-22 | 2023-12-24 |
 | [A Little Bit Of Your Love](https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:15 | 2024-02-29 | 2024-03-08 |
 | [A Little Too High](https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:37 | 2025-08-08 | 2025-09-12 |
@@ -1449,7 +1450,7 @@
 | [SUBURBIA CALLING](https://open.spotify.com/track/0sRMZbWkH1G5XVFt3NZbE1) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [SUBURBIA CALLING](https://open.spotify.com/album/5GEpjub1ldAz72kvL6kyVh) | 2:49 | 2024-04-25 | 2024-06-21 |
 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 | 2025-07-17 | 2025-10-17 |
 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 | 2025-02-06 | 2025-06-27 |
-| [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT) | 3:44 | 2024-11-07 |  |
+| [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT) | 3:44 | 2024-11-07 | 2026-02-01 |
 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 | 2025-06-12 | 2025-07-19 |
 | [Sugar \(feat JoJo\)](https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 3:00 | 2025-10-16 | 2026-01-23 |
 | [Sugar Babies](https://open.spotify.com/track/6V58G3yLOvUNI4TFuJzkbw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Sugar Babies](https://open.spotify.com/album/4u8VfWQis8Lq1EMi0wQlSv) | 5:45 | 2023-05-18 | 2023-06-09 |

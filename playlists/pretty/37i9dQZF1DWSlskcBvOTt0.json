@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 579576,
+  "num_followers": 579717,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1355,22 +1355,26 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
-        "name": "PROVENZA (Sistek Remix)",
-        "url": "https://open.spotify.com/album/2pbds46rDlZp6BjwcOi7vl"
+        "name": "Lioness (Francis Mercier Remix)",
+        "url": "https://open.spotify.com/album/3M4JloqZM4lhiM2TTEaeNf"
       },
       "artists": [
         {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         }
       ],
-      "duration_ms": 228200,
-      "name": "PROVENZA - Sistek Remix",
-      "url": "https://open.spotify.com/track/2SYfJeselsgIJ1yK0NgCto"
+      "duration_ms": 193278,
+      "name": "Lioness - Francis Mercier Remix",
+      "url": "https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -1399,26 +1403,22 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
-        "name": "Lioness (Francis Mercier Remix)",
-        "url": "https://open.spotify.com/album/3M4JloqZM4lhiM2TTEaeNf"
+        "name": "PROVENZA (Sistek Remix)",
+        "url": "https://open.spotify.com/album/2pbds46rDlZp6BjwcOi7vl"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
         },
         {
-          "name": "Niki & The Dove",
-          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
-        },
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 193278,
-      "name": "Lioness - Francis Mercier Remix",
-      "url": "https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq"
+      "duration_ms": 228200,
+      "name": "PROVENZA - Sistek Remix",
+      "url": "https://open.spotify.com/track/2SYfJeselsgIJ1yK0NgCto"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
+        "name": "Everywhere I Go",
+        "url": "https://open.spotify.com/album/04ICl7czgH66DbIDQosXuK"
+      },
+      "artists": [
+        {
+          "name": "Vidojean X Oliver Loenn",
+          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
+        }
+      ],
+      "duration_ms": 178636,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/2bVWX3FQDrlJGMPXKDmwzh"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 222956,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
-        "name": "Everywhere I Go",
-        "url": "https://open.spotify.com/album/04ICl7czgH66DbIDQosXuK"
-      },
-      "artists": [
-        {
-          "name": "Vidojean X Oliver Loenn",
-          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
-        }
-      ],
-      "duration_ms": 178636,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/2bVWX3FQDrlJGMPXKDmwzh"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
+        "name": "Waste Away",
+        "url": "https://open.spotify.com/album/3JFpZLPVImVNF3AfWOYdNm"
+      },
+      "artists": [
+        {
+          "name": "HotLap",
+          "url": "https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Waste Away",
+      "url": "https://open.spotify.com/track/7huXvIux5BzSSeOcyPaLHp"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/5yVW2lirxVrpemK2mj6K43"
       },
@@ -1779,18 +1795,22 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
-        "name": "Waste Away",
-        "url": "https://open.spotify.com/album/3JFpZLPVImVNF3AfWOYdNm"
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
       },
       "artists": [
         {
-          "name": "HotLap",
-          "url": "https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg"
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Waste Away",
-      "url": "https://open.spotify.com/track/7huXvIux5BzSSeOcyPaLHp"
+      "duration_ms": 176528,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -1815,22 +1835,22 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
+        "name": "Mayana",
+        "url": "https://open.spotify.com/album/7jX7fxxYewIXCfqIyz4bSy"
       },
       "artists": [
         {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
         },
         {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
         }
       ],
-      "duration_ms": 176528,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
+      "duration_ms": 212500,
+      "name": "Mayana",
+      "url": "https://open.spotify.com/track/46fdi4VtT9vhfNsw7NGBNX"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -1859,26 +1879,6 @@
       "duration_ms": 170516,
       "name": "Anything (Ya Ya)",
       "url": "https://open.spotify.com/track/0UPTkIZR45UaYchMgaVMAs"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
-        "name": "Mayana",
-        "url": "https://open.spotify.com/album/7jX7fxxYewIXCfqIyz4bSy"
-      },
-      "artists": [
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Mayana",
-      "url": "https://open.spotify.com/track/46fdi4VtT9vhfNsw7NGBNX"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL"
+      },
+      "artists": [
+        {
+          "name": "Betical",
+          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/6rfW8Ur00M44ftAONPPvY1"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 232000,
       "name": "111",
       "url": "https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL"
-      },
-      "artists": [
-        {
-          "name": "Betical",
-          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
-        "name": "I Don't Know",
-        "url": "https://open.spotify.com/album/269aLKNdaU2S3kbh5jCHPP"
-      },
-      "artists": [
-        {
-          "name": "AV\u00d6",
-          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
-        },
-        {
-          "name": "Jawora",
-          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
-        }
-      ],
-      "duration_ms": 195371,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
         "name": "Riga",
         "url": "https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S"
       },
@@ -2359,6 +2339,26 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/269aLKNdaU2S3kbh5jCHPP"
+      },
+      "artists": [
+        {
+          "name": "AV\u00d6",
+          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
+        },
+        {
+          "name": "Jawora",
+          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
+        }
+      ],
+      "duration_ms": 195371,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
         "name": "Nothing Wrong",
         "url": "https://open.spotify.com/album/6K2eYBkRKd1PigxrMJujNn"
       },
@@ -2371,6 +2371,26 @@
       "duration_ms": 205161,
       "name": "Nothing Wrong - Love Mix",
       "url": "https://open.spotify.com/track/7iplrJUdhVjYgAjZGINro8"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
+        "name": "Back On 74 (Rework)",
+        "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
+      },
+      "artists": [
+        {
+          "name": "Betical",
+          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
+        },
+        {
+          "name": "Arper",
+          "url": "https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq"
+        }
+      ],
+      "duration_ms": 340160,
+      "name": "Back On 74 - Rework",
+      "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -2395,26 +2415,6 @@
       "duration_ms": 212500,
       "name": "Mulalo",
       "url": "https://open.spotify.com/track/7oVcS6Ki7M2VjRa2765chw"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
-        "name": "Back On 74 (Rework)",
-        "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
-      },
-      "artists": [
-        {
-          "name": "Betical",
-          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
-        },
-        {
-          "name": "Arper",
-          "url": "https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq"
-        }
-      ],
-      "duration_ms": 340160,
-      "name": "Back On 74 - Rework",
-      "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
     },
     {
       "added_at": "2026-01-30 05:01:04",

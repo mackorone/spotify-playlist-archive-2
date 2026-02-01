@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,159 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,166 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 90 | [PETER PARKER](https://open.spotify.com/track/6IMQap1ZjMh6KR5Is2rhuR) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [PETER PARKER](https://open.spotify.com/album/5U5cXqaCC6UkBfmIIwulFq) | 2:07 |
 | 91 | [Boca](https://open.spotify.com/track/7nzIefePwn6Q5zcfheWXOF) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Boca](https://open.spotify.com/album/2TXiVnODiLZOGhzkLdVDgB) | 2:04 |
 | 92 | [Anxiety](https://open.spotify.com/track/2RMeldjCXW6xnd1ZeLycv7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/6vn4PpHr01H37q9khkzRby) | 4:09 |
-| 93 | [Mercedes](https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Mercedes](https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL) | 2:45 |
-| 94 | [Picătura De Cerneală](https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym), [Cristian Porcari](https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7) | [Picătura De Cerneală](https://open.spotify.com/album/1dJdy2U2isiT2Wew6xfTRI) | 2:49 |
+| 93 | [Picătura De Cerneală](https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym), [Cristian Porcari](https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7) | [Picătura De Cerneală](https://open.spotify.com/album/1dJdy2U2isiT2Wew6xfTRI) | 2:49 |
+| 94 | [Mercedes](https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Mercedes](https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL) | 2:45 |
 | 95 | [Doar La Ea, Ba La Ea](https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9) | [Denis Nuca](https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj), [Letty](https://open.spotify.com/artist/38W9DiKfCJQxQp5zUYyFDw) | [Doar La Ea, Ba La Ea](https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG) | 2:28 |
 | 96 | [Afacere](https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Afacere](https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ) | 2:27 |
 | 97 | [Să nu uiți cât te\-am iubit](https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Să nu uiți cât te\-am iubit](https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS) | 3:16 |

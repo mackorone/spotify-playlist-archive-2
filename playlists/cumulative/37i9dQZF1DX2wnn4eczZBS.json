@@ -994,7 +994,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 201981,
       "name": "Doe Het Voor Het Geld",
       "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
@@ -3775,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "Ruimtepak",
+        "url": "https://open.spotify.com/album/2iFQCeI3lRBcVOSJRErJda"
+      },
+      "artists": [
+        {
+          "name": "Eva van Manen",
+          "url": "https://open.spotify.com/artist/39fsjaOkLW4Gq6X6URiWRj"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221922,
+      "name": "Ruimtepak",
+      "url": "https://open.spotify.com/track/358hNGOO2Iu1kwX7fM18eI"
+    },
+    {
+      "album": {
         "name": "S.O.S.",
         "url": "https://open.spotify.com/album/0cuOUJAcoggXuV88PzqUKn"
       },
@@ -3942,7 +3960,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 164794,
       "name": "Sneeuw In De Zomer",
       "url": "https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC"
@@ -5066,6 +5084,24 @@
       "duration_ms": 189648,
       "name": "Ze Wil",
       "url": "https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB"
+    },
+    {
+      "album": {
+        "name": "Zeg Me Hoe Het Moet",
+        "url": "https://open.spotify.com/album/212j764AlLIekepAcRJsy6"
+      },
+      "artists": [
+        {
+          "name": "nonchelange",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208999,
+      "name": "Zeg Me Hoe Het Moet",
+      "url": "https://open.spotify.com/track/3JZHFwhoi5UnxkothjScpS"
     },
     {
       "album": {

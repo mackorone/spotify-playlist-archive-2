@@ -1,6 +1,6 @@
 {
   "description": "Nuovi brani di Kid Yugi, Ditonellapiaga, Ermal Meta, Melanie Martinez e tanti altri.",
-  "num_followers": 355579,
+  "num_followers": 355584,
   "original_name": "New Music Friday Italia",
   "owner": {
     "name": "Spotify",
@@ -18,10 +18,14 @@
         {
           "name": "Kid Yugi",
           "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Tutti Fenomeni",
+          "url": "https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE"
         }
       ],
       "duration_ms": 198001,
-      "name": "Eroina",
+      "name": "Eroina (feat. Tutti Fenomeni)",
       "url": "https://open.spotify.com/track/56n5UQJ0SDVaxwQNnu90ee"
     },
     {
@@ -542,6 +546,10 @@
         {
           "name": "Christian Liguori",
           "url": "https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn"
+        },
+        {
+          "name": "Ex\u2227",
+          "url": "https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ"
         }
       ],
       "duration_ms": 127928,

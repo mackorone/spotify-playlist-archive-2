@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 103,144 likes - 208 songs - 8 hr 56 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 103,162 likes - 211 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,5 +216,8 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 206 | [Sensational](https://open.spotify.com/track/7514QEveSyBn3arcByWhc0) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Sensational](https://open.spotify.com/album/4Ea0v15yE3jh6a9l0pO6B4) | 2:50 |
 | 207 | [Sun Is Rising](https://open.spotify.com/track/68gqfdmUcUNMRINRYMxUd0) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Jack David](https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG) | [Relax & Chill 2025](https://open.spotify.com/album/3t6h8xKSGz0GwJje8JPkOC) | 1:59 |
 | 208 | [Following The Sun](https://open.spotify.com/track/2JzXBqTIVHYX43t7EcLyMs) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following The Sun](https://open.spotify.com/album/2ZcEETOWlcn0tLqHpnDTXZ) | 3:26 |
+| 209 | [Somewhere Far Away](https://open.spotify.com/track/73BmpCqc2AU8zfsRONndlW) | [Revelries](https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Somewhere Far Away](https://open.spotify.com/album/1OHoYsaR4HxMKuTaC4xw2O) | 2:25 |
+| 210 | [The Same](https://open.spotify.com/track/0i5Le2xCCnuEBGiFlhvz66) | [REWEL](https://open.spotify.com/artist/73UOSrluHvjIdsQE8L4hEX), [Freelanz](https://open.spotify.com/artist/1lfwr1R5CZZOmg4uZwvQbn), [LYON](https://open.spotify.com/artist/0ISD6xTAMU5iIDsuKz7uoq) | [The Same](https://open.spotify.com/album/4p1ufiZqa6U3V5A3dWPpYm) | 2:16 |
+| 211 | [This Is Love](https://open.spotify.com/track/12NZbcbaiTHlyYGaisW4yv) | [Odeon](https://open.spotify.com/artist/3SWSnHWyLjxCkSREp4j6ye), [Freyer](https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4), [noo](https://open.spotify.com/artist/0qEvF1W4JTqZ1gV6HhI8Le) | [This Is Love](https://open.spotify.com/album/08mtOZbagD1xjpLZCgvOB2) | 2:42 |
 
-Snapshot ID: `AABPp/A/fTUqj0CHhwdaGuRvGHi4NCVf`
+Snapshot ID: `AABPqqAzlCo+boKxMJGfuEDjRJxb6fvK`

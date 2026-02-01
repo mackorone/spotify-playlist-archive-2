@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 他們就是本年度的重點雷達及力推星人！Let's meet the future！Cover: 公館青少年 \(GGteens\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,603 likes - 36 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,604 likes - 36 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Chill r&b\. Cover: Tems
 
-1,519 songs - 3 day 11 hr 31 min
+1,520 songs - 3 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Chances](https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Chances](https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr) | 3:53 | 2023-07-14 | 2024-09-14 |
 | [Change \(with Kehlani\)](https://open.spotify.com/track/2beHQY7DvKp9q4vwilKKRS) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Change \(with Kehlani\)](https://open.spotify.com/album/580D5yVakExsIvkwZqbXqK) | 3:12 | 2019-08-23 | 2020-02-19 |
 | [Change My Mind](https://open.spotify.com/track/7ISSqT0VPIh8A9tIVxurUu) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/7putIpK39AKgjSA1WGfeSk) | 2:54 | 2021-10-30 | 2022-05-07 |
+| [CHANGE OF SCENERY](https://open.spotify.com/track/1FSIvc9mVlodIvzFLzAci3) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 2:52 | 2026-02-01 |  |
 | [CHAPTER & VERS](https://open.spotify.com/track/24NTKPJ76fvD1VroPGNiLn) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [GRIP SEQUEL](https://open.spotify.com/album/7DRET0080oX5T7l4vYguwd) | 2:41 | 2025-02-28 | 2025-08-23 |
 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 | 2024-04-12 | 2024-07-19 |
 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 | 2023-05-12 | 2023-10-28 |
@@ -942,7 +943,7 @@
 | [Nobody But Us](https://open.spotify.com/track/0FHb0FsvH71rigM3vuaOLs) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Nobody But Us](https://open.spotify.com/album/0o9R9YUhYDJgnGOHaWfwO9) | 3:14 | 2025-09-12 |  |
 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 | 2021-04-11 | 2022-01-08 |
 | [NOBODY KNOWS](https://open.spotify.com/track/3OJ1TK767oRsv44iHeiCV9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:47 | 2022-11-11 | 2023-09-30 |
-| [NOISY NEIGHBORS](https://open.spotify.com/track/6rPdEbKcUxXOI7tY1oRR0Q) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 3:11 | 2026-01-30 |  |
+| [NOISY NEIGHBORS](https://open.spotify.com/track/6rPdEbKcUxXOI7tY1oRR0Q) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 3:11 | 2026-01-30 | 2026-02-01 |
 | [NOSEBLEED](https://open.spotify.com/track/32BdPuMcOzowmFjRR8Rb84) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [NOSEBLEED](https://open.spotify.com/album/2q8tx7JjxwCuHklk2yVb5F) | 2:21 | 2024-11-15 | 2025-04-12 |
 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 | 2023-12-08 | 2024-06-08 |
 | [Not Coming Back](https://open.spotify.com/track/79sX21LCECS5iBt0rRhU4W) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [1123 \(Deluxe Edition\)](https://open.spotify.com/album/0LuM1HbUxdW2HqOipMB3cb) | 2:37 | 2019-11-23 | 2020-05-01 |

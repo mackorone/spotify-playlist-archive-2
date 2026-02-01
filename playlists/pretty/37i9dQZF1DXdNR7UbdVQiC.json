@@ -1,6 +1,6 @@
 {
   "description": "because you deserve it. ",
-  "num_followers": 107803,
+  "num_followers": 107817,
   "original_name": "duvet day",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Krystal",
-        "url": "https://open.spotify.com/album/0DMKZZanrzK36YjFyI5nfF"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 79989,
-      "name": "Intolewd",
-      "url": "https://open.spotify.com/track/79rfskJwK9NLN3p5cdccth"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 242548,
       "name": "Fishtail",
       "url": "https://open.spotify.com/track/4Cg9XRHLP3s5ZiQaIdL4zW"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Krystal",
+        "url": "https://open.spotify.com/album/0DMKZZanrzK36YjFyI5nfF"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 79989,
+      "name": "Intolewd",
+      "url": "https://open.spotify.com/track/79rfskJwK9NLN3p5cdccth"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -911,18 +911,22 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Miss Summer",
-        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
+        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Irhq0vH0TR4TodaAIXG5N"
       },
       "artists": [
         {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 162376,
-      "name": "Miss Summer",
-      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
+      "duration_ms": 289560,
+      "name": "Rosyln",
+      "url": "https://open.spotify.com/track/1vsFzbhQXTqKJ3YSWxWxmJ"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -943,22 +947,18 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Irhq0vH0TR4TodaAIXG5N"
+        "name": "Miss Summer",
+        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        },
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Rosyln",
-      "url": "https://open.spotify.com/track/1vsFzbhQXTqKJ3YSWxWxmJ"
+      "duration_ms": 162376,
+      "name": "Miss Summer",
+      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 320533,
-      "name": "Cmon",
-      "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "Notes from the Archive: Recordings 2011-2016",
         "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 382613,
       "name": "New Song",
       "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 320533,
+      "name": "Cmon",
+      "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 171662,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 173840,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 171662,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Teen Dream",
-        "url": "https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 348440,
-      "name": "Take Care",
-      "url": "https://open.spotify.com/track/2aydv0bsXbIZg3Sk2S6u86"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 250603,
       "name": "I might say something stupid featuring the 1975 & jon hopkins",
       "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Teen Dream",
+        "url": "https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 348440,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/2aydv0bsXbIZg3Sk2S6u86"
     },
     {
       "added_at": "2025-05-06 15:44:34",

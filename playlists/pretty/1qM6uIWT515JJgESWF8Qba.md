@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 317 likes - 61 songs - 3 hr 50 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 319 likes - 62 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 59 | [Rooftops](https://open.spotify.com/track/0JJGV5lyQ2mji50PHu0Gce) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Rooftops](https://open.spotify.com/album/2300qonTPP24PHDOv62WqB) | 3:25 |
 | 60 | [Commute](https://open.spotify.com/track/66y8r4BeEnyb9ecsWdfNGj) | [Rude Mood](https://open.spotify.com/artist/6aqqzC1X5ylqLgKd2FdgSV) | [Commute](https://open.spotify.com/album/3yRDfvTfroHpvCfOpOJT9n) | 3:56 |
 | 61 | [Only a Few Cents More](https://open.spotify.com/track/1Qj36NqgQDgqPiBBJJqLOF) | [Jakob Vladimir](https://open.spotify.com/artist/3UztTm4JPy0pLeYT43H4c4) | [Only a Few Cents More](https://open.spotify.com/album/44wCOtiCQw9YGrVrNOWps2) | 4:39 |
+| 62 | [Worst Enemy](https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Worst Enemy](https://open.spotify.com/album/1Szbrta34NQhMTsBx3mUcb) | 4:05 |
 
-Snapshot ID: `AAABIbloR9F2zbGobjG1bJkbMaDhtIVS`
+Snapshot ID: `AAABIv2xv4Uuhq08Dp/YVlwwfPbPVgP9`

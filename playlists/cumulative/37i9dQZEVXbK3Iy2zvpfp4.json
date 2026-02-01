@@ -5260,7 +5260,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 166779,
       "name": "AWGAZI",
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
@@ -11316,7 +11316,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 91634,
       "name": "CARAMEL JESTER",
       "url": "https://open.spotify.com/track/2Emg9UfihjAkFU3mlal2i9"
@@ -16656,6 +16656,24 @@
       "duration_ms": 285050,
       "name": "Did you know that there's a tunnel under Ocean Blvd",
       "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
+    },
+    {
+      "album": {
+        "name": "It Came To Be",
+        "url": "https://open.spotify.com/album/1uPuVkp0VEfobYvnhkcWHg"
+      },
+      "artists": [
+        {
+          "name": "HaVexy",
+          "url": "https://open.spotify.com/artist/5HyFjzFkbuemY0v56tPYMn"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202566,
+      "name": "Diddy Heil Epstein",
+      "url": "https://open.spotify.com/track/5HHBo0qWwDNgXh4Wqt5PFf"
     },
     {
       "album": {
@@ -30470,10 +30488,28 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 171599,
       "name": "Hyperbaiter Disstrack",
       "url": "https://open.spotify.com/track/5IR3foqJYm3eUfeauouWE0"
+    },
+    {
+      "album": {
+        "name": "Hyperbaiter Disstrack",
+        "url": "https://open.spotify.com/album/64aTcaux91VZNOTcGgHOKX"
+      },
+      "artists": [
+        {
+          "name": "HaVexy",
+          "url": "https://open.spotify.com/artist/5HyFjzFkbuemY0v56tPYMn"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171605,
+      "name": "Hyperbaiter Disstrack",
+      "url": "https://open.spotify.com/track/06CttevDpM1a8FLAb90s5i"
     },
     {
       "album": {
@@ -31578,7 +31614,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
@@ -40511,6 +40547,24 @@
     },
     {
       "album": {
+        "name": "Mafia Style",
+        "url": "https://open.spotify.com/album/0g6kjDAtkgi2QWSEXsQugB"
+      },
+      "artists": [
+        {
+          "name": "TRAP MAFIA HOUSE",
+          "url": "https://open.spotify.com/artist/4NtiwBMu0IRDO1OAt3Aqoo"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157364,
+      "name": "Mafia Style",
+      "url": "https://open.spotify.com/track/4UsOAmp0X90RJYI1X4PudN"
+    },
+    {
+      "album": {
         "name": "Valedictorian [Deluxe]",
         "url": "https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q"
       },
@@ -41538,7 +41592,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 210070,
       "name": "Matovi\u010d (\u013dudov\u00e1 verzia)",
       "url": "https://open.spotify.com/track/1Ny4syMsKXD37E8KhEtVnH"
@@ -56365,6 +56419,24 @@
     },
     {
       "album": {
+        "name": "Calm Before The Storm",
+        "url": "https://open.spotify.com/album/09bPuMFAnJsTVVuTuEgFUn"
+      },
+      "artists": [
+        {
+          "name": "JAAD",
+          "url": "https://open.spotify.com/artist/6I06ACUwpCSCUKWjbxW1dt"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "PSG",
+      "url": "https://open.spotify.com/track/7xneSGmugLVTmu0lGRQluh"
+    },
+    {
+      "album": {
         "name": "WE GO UP",
         "url": "https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9"
       },
@@ -69932,7 +70004,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 197625,
       "name": "Thong Song x Poker Face",
       "url": "https://open.spotify.com/track/07K8skqONaGHHXb8roY4u3"
@@ -74267,6 +74339,32 @@
     },
     {
       "album": {
+        "name": "Napoleon",
+        "url": "https://open.spotify.com/album/1LCp4WcOKHWo1fZzL8LKSo"
+      },
+      "artists": [
+        {
+          "name": "Lboy Bsc",
+          "url": "https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2"
+        },
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY"
+        },
+        {
+          "name": "Freez247",
+          "url": "https://open.spotify.com/artist/0zML9ujTOJ6CtwzpX0uGCA"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206817,
+      "name": "Vodka nen\u00ed voda",
+      "url": "https://open.spotify.com/track/33l3BKJazySRMviJXQVTBJ"
+    },
+    {
+      "album": {
         "name": "never was much of a poet",
         "url": "https://open.spotify.com/album/2EjHr19a9VGJpaG66qubvX"
       },
@@ -75242,7 +75340,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 120300,
       "name": "W!LD",
       "url": "https://open.spotify.com/track/2wxdaWPCQ71uewXjyfBUU0"

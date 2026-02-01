@@ -438,7 +438,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 171280,
       "name": "20:30 (feat. Karim B)",
       "url": "https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 125135,
       "name": "Aikuinen mies",
       "url": "https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh"
@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 267624,
       "name": "Alter Ego (feat. Ege Zulu, VJ, KERZA, DAVI & Turisti)",
       "url": "https://open.spotify.com/track/4JMfnjpwLUUoDDxF4RNcjl"
@@ -4763,6 +4763,28 @@
     },
     {
       "album": {
+        "name": "Bier over hier",
+        "url": "https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl"
+      },
+      "artists": [
+        {
+          "name": "Katariina Juselius",
+          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
+        },
+        {
+          "name": "Teflon Brothers",
+          "url": "https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179122,
+      "name": "Bier over hier",
+      "url": "https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ"
+    },
+    {
+      "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
       },
@@ -6760,7 +6782,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 177951,
       "name": "Clean Girl",
       "url": "https://open.spotify.com/track/6mj1Yrft5u4JrHufxkyDSN"
@@ -9492,7 +9514,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 225210,
       "name": "Ei kulu p\u00e4iv\u00e4\u00e4k\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2"
@@ -15114,7 +15136,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 170109,
       "name": "Helppo raha ei oo vaikee teh\u00e4",
       "url": "https://open.spotify.com/track/1cHaaPtj2ofTESmYZNOGFR"
@@ -17690,6 +17712,28 @@
       "duration_ms": 201404,
       "name": "Ihan helmi - Vain el\u00e4m\u00e4\u00e4 kausi 14",
       "url": "https://open.spotify.com/track/396KiDHDV0wqARQv7yj8Tf"
+    },
+    {
+      "album": {
+        "name": "Ihan kohta ohi",
+        "url": "https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        },
+        {
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185920,
+      "name": "Ihan kohta ohi",
+      "url": "https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO"
     },
     {
       "album": {
@@ -23327,6 +23371,24 @@
     },
     {
       "album": {
+        "name": "Koko Y\u00f6",
+        "url": "https://open.spotify.com/album/40998SH65H751kfRFx2ZBV"
+      },
+      "artists": [
+        {
+          "name": "Petri Nyg\u00e5rd",
+          "url": "https://open.spotify.com/artist/4l0zTor5S32Yly4uw96Bto"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168906,
+      "name": "Koko Y\u00f6",
+      "url": "https://open.spotify.com/track/6HNpVwdqiL8yRfGnmK6mA5"
+    },
+    {
+      "album": {
         "name": "Koko Y\u00f6 (feat. JVG)",
         "url": "https://open.spotify.com/album/4N22YVi3uGbG787G61ukPH"
       },
@@ -24235,6 +24297,24 @@
     },
     {
       "album": {
+        "name": "Kun tulee pimee",
+        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
+      },
+      "artists": [
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165269,
+      "name": "Kun tulee pimee",
+      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
+    },
+    {
+      "album": {
         "name": "Kunnes sammutaan",
         "url": "https://open.spotify.com/album/0U7lxFv86m5JiqzeOsGgxC"
       },
@@ -24576,6 +24656,24 @@
       "duration_ms": 211664,
       "name": "Kuusamo",
       "url": "https://open.spotify.com/track/2pzpWwErfyxJqIfBXJgltE"
+    },
+    {
+      "album": {
+        "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
+        "url": "https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156214,
+      "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
+      "url": "https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8"
     },
     {
       "album": {
@@ -25098,6 +25196,24 @@
       "duration_ms": 197004,
       "name": "K\u00e4vi mit\u00e4 k\u00e4vi sul on mut",
       "url": "https://open.spotify.com/track/4SguwpcFtBPDgn2pM21GkS"
+    },
+    {
+      "album": {
+        "name": "K\u00e4vin t\u00e4\u00e4l",
+        "url": "https://open.spotify.com/album/0PQumKfngEJqgMgCDV9BWC"
+      },
+      "artists": [
+        {
+          "name": "Axel Kala",
+          "url": "https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140296,
+      "name": "K\u00e4vin t\u00e4\u00e4l",
+      "url": "https://open.spotify.com/track/4SMRzU9943uromfmKU7jim"
     },
     {
       "album": {
@@ -34447,6 +34563,28 @@
     },
     {
       "album": {
+        "name": "KATULAPSI",
+        "url": "https://open.spotify.com/album/6wuSr7ftRuj9Q9fDTuJTWB"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159300,
+      "name": "Naamat",
+      "url": "https://open.spotify.com/track/3Lp4gjt2Wa3ch8zNHEdegK"
+    },
+    {
+      "album": {
         "name": "Coast to Costi",
         "url": "https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv"
       },
@@ -41820,7 +41958,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 178815,
       "name": "Ready To Leave",
       "url": "https://open.spotify.com/track/0ZTknywhGMhRcPijHC3aiD"
@@ -46775,6 +46913,24 @@
     },
     {
       "album": {
+        "name": "Stand Back",
+        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
+      },
+      "artists": [
+        {
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165359,
+      "name": "Stand Back",
+      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
+    },
+    {
+      "album": {
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
         "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
       },
@@ -48722,6 +48878,24 @@
       "duration_ms": 228000,
       "name": "Syystakkikausi",
       "url": "https://open.spotify.com/track/73uA8BvDUEOOknZGekRiiB"
+    },
+    {
+      "album": {
+        "name": "EGOKUOLEMA",
+        "url": "https://open.spotify.com/album/3TeROhIjpXw96qJ42vCq4g"
+      },
+      "artists": [
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "Syyt\u00e4 mua",
+      "url": "https://open.spotify.com/track/38v6DvdI8arP7uJNsDHaYK"
     },
     {
       "album": {
@@ -53160,7 +53334,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 144690,
       "name": "T\u00e4h\u00e4n on tultu",
       "url": "https://open.spotify.com/track/1MOdMk3NxOBec8E0SAJ5gU"
@@ -53442,7 +53616,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 184973,
       "name": "T\u00e4st\u00e4 se vasta alkaa",
       "url": "https://open.spotify.com/track/4EqvO8rm1vyDVZG4nD380o"
@@ -55390,6 +55564,24 @@
       "duration_ms": 233984,
       "name": "Veitsi",
       "url": "https://open.spotify.com/track/5WrfaQBtLiP0wMuZkDfbmH"
+    },
+    {
+      "album": {
+        "name": "Veli nojaa siskoon",
+        "url": "https://open.spotify.com/album/7z5GKxXv9o8kReu8W04isP"
+      },
+      "artists": [
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167426,
+      "name": "Veli nojaa siskoon",
+      "url": "https://open.spotify.com/track/6MihxSwAbPXzD8NCt5wAs7"
     },
     {
       "album": {
@@ -57708,7 +57900,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

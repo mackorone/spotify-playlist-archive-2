@@ -1,13 +1,33 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2197,
+  "num_followers": 2199,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAADt5zJl3c5kUS06YTHcGloy",
+  "snapshot_id": "aXv0gAAAAACNKYscU8Ikmp6j14pA7n9J",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Perro",
+        "url": "https://open.spotify.com/album/0JzOJEOu1USnuC6pNJOA36"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 151697,
+      "name": "De Perro",
+      "url": "https://open.spotify.com/track/00xrZYL6PeaEDOd5086vDh"
+    },
     {
       "added_at": null,
       "album": {
@@ -643,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trokita Tumbada",
-        "url": "https://open.spotify.com/album/1ksTdtTRNpqzbFkCcPi8k5"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 166090,
-      "name": "Trokita Tumbada",
-      "url": "https://open.spotify.com/track/5OikUUl8HDGRfImohipqOw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TFS",
         "url": "https://open.spotify.com/album/3pormZJDUwmFPua4p2Fxqx"
       },
@@ -679,6 +683,22 @@
       "duration_ms": 187297,
       "name": "Tirando Flow Sesh #9",
       "url": "https://open.spotify.com/track/3XOfnUKBNSB01mQRiTVspm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trokita Tumbada",
+        "url": "https://open.spotify.com/album/1ksTdtTRNpqzbFkCcPi8k5"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 166090,
+      "name": "Trokita Tumbada",
+      "url": "https://open.spotify.com/track/5OikUUl8HDGRfImohipqOw"
     },
     {
       "added_at": null,
@@ -911,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
+        "url": "https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 174704,
+      "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
+      "url": "https://open.spotify.com/track/0hgTaCVMiUVwp4cK4kmkDW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Licuado",
         "url": "https://open.spotify.com/album/08f4lGUZsvC3g5Pkprj0lg"
       },
@@ -939,22 +975,6 @@
       "duration_ms": 134583,
       "name": "Licuado",
       "url": "https://open.spotify.com/track/7pU2OxHpgRxnrf0ax4TrjT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
-        "url": "https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 174704,
-      "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
-      "url": "https://open.spotify.com/track/0hgTaCVMiUVwp4cK4kmkDW"
     },
     {
       "added_at": null,

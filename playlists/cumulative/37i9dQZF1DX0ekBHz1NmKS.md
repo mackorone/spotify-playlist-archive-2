@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,128 songs - 4 day 14 hr 21 min
+2,131 songs - 4 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Bergs slussar](https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj) | [Nils\-Pontus](https://open.spotify.com/artist/2dzdtFxXRM7DB1YyDhL7Yr) | [Bergs slussar](https://open.spotify.com/album/4eJb8UiSDKyIADcaeXjKBG) | 2:31 | 2022-03-17 | 2022-07-29 |
 | [Bergtagen](https://open.spotify.com/track/2cDVHPlEJggkzq9Juzxul0) | [Magasin](https://open.spotify.com/artist/474TD8iZGUC4xnqe35aD2X) | [Bergtagen](https://open.spotify.com/album/3re55H1epL9mQUf4XWQgHi) | 3:55 | 2024-01-25 | 2024-02-25 |
 | [Beroendeframkallande](https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Beroendeframkallande](https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4) | 3:02 | 2023-01-12 | 2023-10-06 |
+| [Berusade ord](https://open.spotify.com/track/0RxBz475eVWbDQQwcY7DNa) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Berusade ord](https://open.spotify.com/album/74tRAatbdPLCLyq22KQYSi) | 2:55 | 2026-01-29 |  |
 | [Besvikelsens melodi](https://open.spotify.com/track/2vMkLWQPmHXDy9vBD06KuP) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Besvikelsens melodi](https://open.spotify.com/album/1vQFs8ArZg3Gh8OrbGrW14) | 2:41 | 2022-04-01 | 2022-10-16 |
 | [Better Clothes](https://open.spotify.com/track/32zQ6Vett2aO9VT0UNiJSz) | [SYLVE](https://open.spotify.com/artist/0PAAsgLKmFX9PFn3HMb7pW) | [Better Clothes](https://open.spotify.com/album/5Oj1H9ZLW7ZrDDlD2qSeSm) | 2:57 | 2022-06-16 | 2022-07-15 |
 | [Better Days](https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Better Days](https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT) | 3:38 | 2024-04-04 | 2024-05-10 |
@@ -533,7 +534,7 @@
 | [Europa](https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 6:34 | 2024-08-29 | 2025-01-02 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 | 2023-04-14 |
 | [Evergreen](https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Evergreen](https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo) | 3:54 | 2022-07-28 | 2022-09-20 |
-| [Evergreen min vän evergreen](https://open.spotify.com/track/2nn5Cj8bFekSz45yo666T5) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Evergreen min vän evergreen](https://open.spotify.com/album/2Ge4FZk4hqlX6snqKj2GKX) | 3:03 | 2025-10-02 |  |
+| [Evergreen min vän evergreen](https://open.spotify.com/track/2nn5Cj8bFekSz45yo666T5) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Evergreen min vän evergreen](https://open.spotify.com/album/2Ge4FZk4hqlX6snqKj2GKX) | 3:03 | 2025-10-02 | 2026-02-01 |
 | [Every Little Heart](https://open.spotify.com/track/5YrFcDIMuE4vxuppiffCaY) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:09 | 2023-04-20 | 2023-09-09 |
 | [Every Little Heart](https://open.spotify.com/track/7rn9elPfuViahibddSfGdn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Every Little Heart](https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2) | 3:09 | 2023-02-02 | 2023-04-26 |
 | [Everyone](https://open.spotify.com/track/1ZSbMB7SpKvDC7gVc9bJVV) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Everyone](https://open.spotify.com/album/0kudkPZkyrIWJ7gRHa93xv) | 2:30 | 2022-07-21 | 2022-07-29 |
@@ -724,6 +725,7 @@
 | [Hack i häl](https://open.spotify.com/track/5M4LcdQI697sSHvxTG647W) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Hack i häl](https://open.spotify.com/album/3ljQtz5B7PtcWF0qZlL2Dk) | 3:46 | 2026-01-01 |  |
 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 | 2025-06-19 | 2025-08-22 |
 | [Hail Mary](https://open.spotify.com/track/15pyj3akaHTgy2qBkPGmRj) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Hail Mary](https://open.spotify.com/album/2kvKdfynjNj11A5Fc1k5zS) | 3:13 | 2023-02-01 | 2023-03-23 |
+| [Half Of Me](https://open.spotify.com/track/24akkpWAHCec0hXyN9R1ct) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Half Of Me](https://open.spotify.com/album/26abVLhkfFemzBgaPabCRM) | 2:58 | 2026-01-29 |  |
 | [Halleluja](https://open.spotify.com/track/0Oz87iCfzi4JXmEV3YdjZf) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Halleluja](https://open.spotify.com/album/6oG0r4B68LY1oQIe8rQJuv) | 2:37 | 2025-01-16 | 2025-04-05 |
 | [Hallå hallå](https://open.spotify.com/track/1Ngsjy3FBg0hiYDEMBpu34) | [Eric Sporrong](https://open.spotify.com/artist/4ThLnQoYqiBCMWJKi8hnFO) | [Hallå hallå](https://open.spotify.com/album/0c53CwHfQEV3G8EZES70IC) | 2:53 | 2024-05-02 | 2024-06-01 |
 | [Halvfullt sprucket glas](https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Halvfullt sprucket glas](https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX) | 3:30 | 2023-11-09 | 2024-02-09 |
@@ -905,6 +907,7 @@
 | [I'm Coming Home](https://open.spotify.com/track/72TII5VXJvfSWVpwlNuoPF) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [I'm Coming Home](https://open.spotify.com/album/2Uy07vkjqxcAxyaH5cP6xu) | 1:21 | 2022-12-09 | 2023-04-28 |
 | [I'm So Sick](https://open.spotify.com/track/5qCVolVLPIb57Jhqhzurfk) | [Buster Moe](https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf) | [I'm So Sick](https://open.spotify.com/album/7IUw02WezIcITzhD8Mv8rU) | 3:24 | 2025-05-08 | 2026-01-15 |
 | [i'm tired](https://open.spotify.com/track/60JzQWgLHTNO68YTpS9YzJ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [i'm tired](https://open.spotify.com/album/1ZkucnleyUxjL4kSkTzcps) | 2:46 | 2023-09-14 | 2024-01-19 |
+| [Iconic](https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Iconic](https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3) | 2:58 | 2026-01-29 |  |
 | [Iconic](https://open.spotify.com/track/4oVWH6Jo0vpDY3qusXMj5w) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Iconic](https://open.spotify.com/album/2odTVHhrNcmaKYnoiQ46yP) | 2:28 | 2022-10-28 | 2023-02-01 |
 | [Idiot](https://open.spotify.com/track/1K60A6axKbeTgDMzaoOgri) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut \(pt\. 1\)](https://open.spotify.com/album/4ODsYIvXJVM9pvUA3HJUQo) | 2:58 | 2021-12-16 | 2022-01-04 |
 | [idiot now](https://open.spotify.com/track/7wSnWCccdLmbmk8NScY87s) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [idiot now](https://open.spotify.com/album/08IiAx3EaLXF7HjA8pYZ74) | 3:03 | 2025-05-29 | 2025-06-01 |
@@ -1119,7 +1122,7 @@
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-13 | 2024-08-16 |
 | [Looking For](https://open.spotify.com/track/7utd11pF5xRKn2RviFuRSN) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Looking For](https://open.spotify.com/album/4tYT4QOkTP4htJeErsCtVQ) | 3:14 | 2024-04-19 | 2024-05-24 |
 | [Looking For Love \- Spotify Singles](https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Spotify Singles](https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA) | 3:53 | 2023-06-08 | 2023-07-14 |
-| [lose control](https://open.spotify.com/track/0gPT9v8KyzHZ1MiH2yY9QE) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/album/4VPYO2mrgxJkSs6LC4zOm4) | 3:02 | 2025-10-23 |  |
+| [lose control](https://open.spotify.com/track/0gPT9v8KyzHZ1MiH2yY9QE) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/album/4VPYO2mrgxJkSs6LC4zOm4) | 3:02 | 2025-10-23 | 2026-02-01 |
 | [Lose my mind](https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Lose my mind](https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG) | 2:53 | 2021-12-16 | 2022-03-11 |
 | [LOSE YOU](https://open.spotify.com/track/54OIzoPpuWIzSluMIMnchp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [LOSE YOU](https://open.spotify.com/album/5NeqXYuu7ER0POYf9UH4u4) | 3:01 | 2022-06-02 | 2022-07-29 |
 | [loser](https://open.spotify.com/track/7AHDOIQv2eb2mbaj7lqYYp) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [loser](https://open.spotify.com/album/7KKcM8Cm8dCosCtUJ4DHT6) | 3:13 | 2022-03-24 | 2022-04-21 |
@@ -1245,7 +1248,7 @@
 | [Misstag & Tragedier](https://open.spotify.com/track/3z44bQwmDknmAK6KEAeDoZ) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Misstag & Tragedier](https://open.spotify.com/album/53Mw4ZudvKcURPwGALAsUS) | 3:01 | 2024-03-14 | 2024-04-26 |
 | [Misstag i Moskva](https://open.spotify.com/track/0cbBsBCCLSgUYJfqxeW2qJ) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Misstag i Moskva](https://open.spotify.com/album/36IuR33vblBXxjSHw6rcYK) | 3:26 | 2021-12-16 | 2022-04-01 |
 | [Misstro](https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Misstro](https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl) | 2:50 | 2024-05-09 | 2024-06-07 |
-| [Mistakes](https://open.spotify.com/track/2r3OmINnuBrxP5VXuIlUeR) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Mistakes](https://open.spotify.com/album/0Hwfl9l8bI0CPBLxU8H5AT) | 3:35 | 2025-12-04 |  |
+| [Mistakes](https://open.spotify.com/track/2r3OmINnuBrxP5VXuIlUeR) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Mistakes](https://open.spotify.com/album/0Hwfl9l8bI0CPBLxU8H5AT) | 3:35 | 2025-12-04 | 2026-02-01 |
 | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/track/1qGPIV4FDsZAmhdrTkIU5G) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/album/1IjSZcNfQQ7eVLvvGycnkL) | 2:57 | 2021-12-16 | 2022-03-11 |
 | [Mitt hjärtas fröjd](https://open.spotify.com/track/5IQYJQxCiOXo4G0TW7hlzn) | [Laura Toth](https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22) | [Mitt hjärtas fröjd](https://open.spotify.com/album/4DfhA9iA0jQjbvg0PGYj74) | 2:52 | 2024-04-04 | 2024-04-26 |
 | [Mitt inre barn](https://open.spotify.com/track/2R3lU207Hp9gg9oGF9h8fX) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mitt inre barn](https://open.spotify.com/album/3CkzxQQdxTUmLLWbBkH7oq) | 4:00 | 2024-02-24 | 2024-04-12 |

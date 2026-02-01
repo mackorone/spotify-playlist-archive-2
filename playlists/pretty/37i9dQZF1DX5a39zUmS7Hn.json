@@ -1,6 +1,6 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Buckingham Nicks",
-  "num_followers": 600769,
+  "num_followers": 600984,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
         "name": "Through The Looking Glass (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 309306,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
-        "name": "Bat Out Of Hell II: Back Into Hell...",
-        "url": "https://open.spotify.com/album/4yIGqIF5oroPCLDUOOLYSO"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 721000,
-      "name": "I'd Do Anything For Love (But I Won't Do That)",
-      "url": "https://open.spotify.com/track/4UrgDocbHywDZv2f3mBhCq"
     }
   ],
   "unique_name": "Legends Only",

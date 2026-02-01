@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Xande de Pilares
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,591 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,672 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Me Espera / O Amor Não Tem Culpa / Disfarça \- Ao Vivo](https://open.spotify.com/track/3wsqXaYsveePnuk2laiU5a) | [Grupo Doze por Oito](https://open.spotify.com/artist/4OV4NRRx75QfGAA2AUvG0q) | [Me Espera / O Amor Não Tem Culpa / Disfarça \(Ao Vivo\)](https://open.spotify.com/album/157ZNEEAGD07OE634ICRQY) | 3:59 |
 | 75 | [Não Tem Hora Nem Lugar / Sonhos E Planos \- Ao Vivo](https://open.spotify.com/track/4OFO8OHAUQTMK0erId2pl8) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Não Tem Hora Nem Lugar / Sonhos E Planos \(Ao Vivo\)](https://open.spotify.com/album/7pvPERAaD1rmTZOuY25yCV) | 4:02 |
 
-Snapshot ID: `AAAAAEYdgbdDFvI/krYSN/m/Q52KsRf9`
+Snapshot ID: `AAAAAB4dqlM35D6BMjSLFQRLnrQlzVsg`

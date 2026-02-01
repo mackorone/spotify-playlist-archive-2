@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 550 likes - 41 songs - 2 hr 20 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 551 likes - 42 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 39 | [Why da World So Mean](https://open.spotify.com/track/0rXBIIjohzuLEQ2FMCa427) | [Kuntry Boi Movement](https://open.spotify.com/artist/00lZvwtVbwHs2FfWQNYnWW), [Jay Creez23](https://open.spotify.com/artist/04s72J53BqDmEd1Fnq3NSB) | [Fine Wine](https://open.spotify.com/album/5AQRASubuxHx5zu9vTags0) | 4:09 |
 | 40 | [Camgirl](https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Camgirl](https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt) | 4:08 |
 | 41 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 |
+| 42 | [Was Los](https://open.spotify.com/track/0n0VH7jkxUITqDGTVRpBTH) | [Willi Eyy](https://open.spotify.com/artist/4nBqFEM66Gl0kKkKDKDx2t), [Krizbo](https://open.spotify.com/artist/6kIxxuflj0QyD89t9v4SSN) | [Was Los](https://open.spotify.com/album/0n9HJBDelqWOxZrFZqjEfK) | 3:11 |
 
-Snapshot ID: `AAAC+Kt+a1zL9fwzoXZhVtddioEFXICx`
+Snapshot ID: `AAAC+bGEBTeNeehBQbuDHm6MSvz7B/lS`

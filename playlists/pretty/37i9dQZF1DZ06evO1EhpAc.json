@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9643,
+  "num_followers": 9642,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAACCDIsv/Bpe52iimZP/59F4",
+  "snapshot_id": "aXv0gAAAAAAuX7VZ2puITZRRMFSVwAeR",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One More",
-        "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 202537,
-      "name": "One More",
-      "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
         "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 201239,
       "name": "WAKING UP DOWN",
       "url": "https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One More",
+        "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 202537,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 38 min
+51 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,5 +58,6 @@
 | [Why Can't You See](https://open.spotify.com/track/2GZ14jhPUHqN5scWzoaXZR) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 2:39 | 2023-04-30 |  |
 | [You're Not Alone](https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:58 | 2022-10-25 |  |
 | [Zero \- Live](https://open.spotify.com/track/41A0T5Gx3l0QJKxbXnoMRg) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 3:35 | 2024-07-22 | 2024-09-09 |
+| [Zero \- Live](https://open.spotify.com/track/5NoSuc0Y3ZmXqT6A1zi4GE) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 3:35 | 2026-02-01 |  |
 
 \*This playlist was first scraped on 2022-10-26. Prior content cannot be recovered.

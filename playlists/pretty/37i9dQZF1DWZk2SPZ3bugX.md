@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,450 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,475 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 59 | [and it felt like..](https://open.spotify.com/track/4KOhgGKxWz9Cj8XvHDDR3W) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [and it felt like..](https://open.spotify.com/album/3aaaDyEV0juYcVqSV15zYS) | 2:09 |
 | 60 | [Les hommes c'est pas des mecs bien](https://open.spotify.com/track/7eF1VjQV9FtZee90SKf66W) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Les hommes c'est pas des mecs bien](https://open.spotify.com/album/5EVuL399BeC3xOKLZr1Yl5) | 3:17 |
 
-Snapshot ID: `AAAAANBWyAwu25qAmZIQ7I0bVgI95Kof`
+Snapshot ID: `AAAAANPHVCwvntqHyxwzRbrEumGDATAE`

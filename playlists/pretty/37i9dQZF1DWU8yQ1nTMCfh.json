@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Zo\u00e9",
-  "num_followers": 296336,
+  "num_followers": 296328,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -291,26 +291,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Jaula de Oro",
-        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 238926,
-      "name": "Jaula de Oro",
-      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "Problema Cabr\u00f3n",
         "url": "https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 216105,
       "name": "Problema Cabr\u00f3n",
       "url": "https://open.spotify.com/track/1X5R4v1EqNgJeKaHRCIoFs"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "Jaula de Oro",
+        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 238926,
+      "name": "Jaula de Oro",
+      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -695,42 +695,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Esa Estrella",
-        "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9",
-          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
-        }
-      ],
-      "duration_ms": 238232,
-      "name": "Esa Estrella",
-      "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
-        "name": "En El Aire",
-        "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "En El Aire",
-      "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "T\u00fa Ya No Dices Nada",
         "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
       },
@@ -751,6 +715,22 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
+        "name": "Esa Estrella",
+        "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "duration_ms": 238232,
+      "name": "Esa Estrella",
+      "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
         "name": "Un Minuto Con Vos",
         "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 245467,
       "name": "Un Minuto Con Vos",
       "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "En El Aire",
+        "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "En El Aire",
+      "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "S\u00daPER PREMIUM ULTRA",
-        "url": "https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV"
-      },
-      "artists": [
-        {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
-        }
-      ],
-      "duration_ms": 204403,
-      "name": "RA",
-      "url": "https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/6HeMGetB5gKBMVuYsmOn3g"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 234115,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/52j7qytl2Cp3gM811huoLr"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "S\u00daPER PREMIUM ULTRA",
+        "url": "https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV"
+      },
+      "artists": [
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "duration_ms": 204403,
+      "name": "RA",
+      "url": "https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv"
     },
     {
       "added_at": "2026-01-16 05:27:49",

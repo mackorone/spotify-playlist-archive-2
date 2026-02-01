@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-477 songs - 1 day 4 hr 41 min
+478 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Madonna](https://open.spotify.com/track/2eNyIYoHZRUeEl5p5PKdOC) | [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr), [DIKTAT](https://open.spotify.com/artist/4OUqbwZjd0nfoQuCl7FfbI) | [Madonna](https://open.spotify.com/album/6Cw0ea9TmmMKnsT9aHjnIH) | 2:51 | 2023-03-05 | 2023-03-27 |
 | [Make You Dance](https://open.spotify.com/track/1nBKoqVdJng70x0o1eZzVG) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Reflection EP](https://open.spotify.com/album/41D6tuzkfG6LEGtrqCeVst) | 2:57 | 2023-03-31 | 2023-04-24 |
 | [Mandarino](https://open.spotify.com/track/2RvjRFKZEl5h5S8QftppUR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Puff \(ITA\)](https://open.spotify.com/artist/5Qg4A2TQVh8Cr9Jx19FpRf) | [Mandarino](https://open.spotify.com/album/6Q4691rahwBsUh6SonmYlW) | 5:08 | 2023-05-28 | 2023-06-12 |
+| [Manguetown](https://open.spotify.com/track/3sUVw4FW3EWWojzv7wfnZE) | [Bruno Costa](https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2) | [Manguetown](https://open.spotify.com/album/2ghGvqKtVHKBZmX6NfvDAy) | 3:24 | 2026-01-31 |  |
 | [Mantra](https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Mantra](https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe) | 3:21 | 2023-03-19 | 2023-04-01 |
 | [Messiah](https://open.spotify.com/track/6KqaitakrynOXlmjy6CSmp) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Messiah](https://open.spotify.com/album/0AktL0F0nhUNAG2jTxj5rq) | 3:02 | 2023-03-05 | 2023-03-20 |
 | [Mi alma grita en silencio](https://open.spotify.com/track/6udvw6xZelhUKahkHFtTNj) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [latin house 2](https://open.spotify.com/album/5bX8mRv2NYqu1eVSZbfaQE) | 4:01 | 2026-01-16 |  |

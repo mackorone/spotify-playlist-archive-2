@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Nova Twins",
-  "num_followers": 780244,
+  "num_followers": 780256,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
         "name": "Foreign Affair",
         "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 329800,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
+        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "My Apologies To The Chef",
-        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
-      },
-      "artists": [
-        {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
-        }
-      ],
-      "duration_ms": 174778,
-      "name": "You Look Like A Drunk Phoebe Bridgers",
-      "url": "https://open.spotify.com/track/49z8uMXflgtt6eQ3x7NRTN"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
         "name": "Welcome To My House",
         "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 190611,
       "name": "By The Time You're Reading This",
       "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
+        "name": "My Apologies To The Chef",
+        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 174778,
+      "name": "You Look Like A Drunk Phoebe Bridgers",
+      "url": "https://open.spotify.com/track/49z8uMXflgtt6eQ3x7NRTN"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "CRUISING TO SELF SOOTHE",
-        "url": "https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA"
-      },
-      "artists": [
-        {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "CRUISING TO SELF SOOTHE",
-      "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
         "name": "POPSICLE",
         "url": "https://open.spotify.com/album/0YLrEQbq0MLYmDsqRWn4fA"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 215649,
       "name": "POPSICLE",
       "url": "https://open.spotify.com/track/7oJoH5blsIb8n7aU9eBGRT"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
+        "name": "CRUISING TO SELF SOOTHE",
+        "url": "https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "CRUISING TO SELF SOOTHE",
+      "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "The Wolf You Feed (feat. Alissa White-Gluz)",
-        "url": "https://open.spotify.com/album/0RldApXzFEBMTvPetGTIcF"
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
       },
       "artists": [
         {
-          "name": "Nita Strauss",
-          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
-        },
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 234000,
-      "name": "The Wolf You Feed (feat. Alissa White-Gluz)",
-      "url": "https://open.spotify.com/track/6P6h9RdPJxPWqFqpLFIYA9"
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     }
   ],
   "unique_name": "Women of Rock",

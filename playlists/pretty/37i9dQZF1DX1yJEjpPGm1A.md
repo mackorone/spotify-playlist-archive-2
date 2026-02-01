@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yJEjpPGm1A.md) - [plain]
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,692 likes - 89 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,698 likes - 89 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yJEjpPGm1A.md) - [plain]
 | 21 | [Beauty of my life](https://open.spotify.com/track/2nuYQ6OTqjwzHw34SJiaF8) | [Kim Young Geun](https://open.spotify.com/artist/2gYn9xPkHXRkKnVnzRc4RZ) | [Beauty of my life](https://open.spotify.com/album/5XQTrStexFPEdhcCSLGvKe) | 4:28 |
 | 22 | [The Eternal Moment](https://open.spotify.com/track/7os5JrOif9RLhqZLUW828v) | [KyungHa](https://open.spotify.com/artist/4ialM3GP21JCOjJ3bftNi8) | [The Eternal Moment](https://open.spotify.com/album/5LEhAYdGG8zjXQaoKGOD30) | 4:00 |
 | 23 | [Stay With Me \(Feat\. As One\)](https://open.spotify.com/track/2BU4hyW2QRikHfa7on9jMp) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [Moon Se Yoon](https://open.spotify.com/artist/0xD8ZN47ERtuZEbmCkwZ05), [As One](https://open.spotify.com/artist/1MF797sg8WfxKRXELhlqtT) | [Stay With Me](https://open.spotify.com/album/2wJ2i4UQ1Hjp1gqrTtMXgD) | 3:40 |
-| 24 | [Marry Me](https://open.spotify.com/track/7aGU77FK6dBEFKWVKPeKXe) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [마크툽 프로젝트 Vol\. 03](https://open.spotify.com/album/0S9RrasD1Z6Y6Efkd3RfTj) | 4:21 |
+| 24 | [Marry Me](https://open.spotify.com/track/7aGU77FK6dBEFKWVKPeKXe) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Gu Yoon Hoe](https://open.spotify.com/artist/0dfxKU8RRSgxMUGbiusqMH) | [마크툽 프로젝트 Vol\. 03](https://open.spotify.com/album/0S9RrasD1Z6Y6Efkd3RfTj) | 4:21 |
 | 25 | [You're the prettiest to me](https://open.spotify.com/track/1JbvdwvlMVqB15xBMWidIo) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [You're the prettiest to me](https://open.spotify.com/album/1azG9sC2F6b0PUPSRzBcHr) | 3:50 |
 | 26 | [Speechless](https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Speechless](https://open.spotify.com/album/4utLnwQ4m8dLvfb72oJ6N8) | 3:27 |
 | 27 | [Confession Is Not Flashy](https://open.spotify.com/track/584hTOO20B2WKK8PjPB1Gw) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2D5vry1OpxezOMaUEkCGd3) | 3:48 |

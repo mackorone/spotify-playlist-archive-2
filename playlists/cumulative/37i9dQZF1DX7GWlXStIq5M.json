@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+    },
+    {
+      "album": {
         "name": "Abelha",
         "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
       },
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 152521,
       "name": "amanh\u00e3 de manh\u00e3",
       "url": "https://open.spotify.com/track/7re1atoPYsUFVx2Kv6mOqK"

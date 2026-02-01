@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 104775,
+  "num_followers": 104823,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -196,6 +196,18 @@
           "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
         },
         {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        },
+        {
           "name": "Broederliefde",
           "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
         },
@@ -307,6 +319,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Hella Cash",
+        "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "duration_ms": 175663,
+      "name": "Catch Up",
+      "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
       },
@@ -331,22 +359,6 @@
       "duration_ms": 173534,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Hella Cash",
-        "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
-      },
-      "artists": [
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        }
-      ],
-      "duration_ms": 175663,
-      "name": "Catch Up",
-      "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -535,6 +547,38 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Lituatie",
+        "url": "https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG"
+      },
+      "artists": [
+        {
+          "name": "GLOWINTHEDARK",
+          "url": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Philly Mor\u00e9",
+          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+        }
+      ],
+      "duration_ms": 164900,
+      "name": "Dansen Op Labanta",
+      "url": "https://open.spotify.com/track/1QQQEsgRzhUirI0vdKDz66"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Hij Is Van Mij (feat. Bizzey)",
         "url": "https://open.spotify.com/album/2H2PQhGTflXeBbPunZh2mL"
       },
@@ -559,30 +603,6 @@
       "duration_ms": 214387,
       "name": "Hij Is Van Mij (feat. Bizzey)",
       "url": "https://open.spotify.com/track/6716bTJI7qiHJFFSR0Ethe"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Lituatie",
-        "url": "https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG"
-      },
-      "artists": [
-        {
-          "name": "GLOWINTHEDARK",
-          "url": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
-        },
-        {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        },
-        {
-          "name": "Philly Mor\u00e9",
-          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
-        }
-      ],
-      "duration_ms": 164900,
-      "name": "Dansen Op Labanta",
-      "url": "https://open.spotify.com/track/1QQQEsgRzhUirI0vdKDz66"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1099,26 +1119,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Wat Is Je Naam",
-        "url": "https://open.spotify.com/album/7DSXNoQCBYILBZGG83t53t"
-      },
-      "artists": [
-        {
-          "name": "Yxng Le",
-          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 157935,
-      "name": "Wat Is Je Naam",
-      "url": "https://open.spotify.com/track/4SlqfJkQNAS7A5cvjBvQ3C"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Big Man",
         "url": "https://open.spotify.com/album/5GKqyIUHBWSwyCF1apkT9X"
       },
@@ -1139,6 +1139,26 @@
       "duration_ms": 163125,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/6bJ9c5VIx8jbf5U34qHAFm"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Wat Is Je Naam",
+        "url": "https://open.spotify.com/album/7DSXNoQCBYILBZGG83t53t"
+      },
+      "artists": [
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 157935,
+      "name": "Wat Is Je Naam",
+      "url": "https://open.spotify.com/track/4SlqfJkQNAS7A5cvjBvQ3C"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1407,6 +1427,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Ik Leef",
+        "url": "https://open.spotify.com/album/2ibLsqb4jdCcfC7iy6PZCH"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Volgende Stap",
+      "url": "https://open.spotify.com/track/7vIlKSC5fcyNhDBaQyFTxM"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "MGSEASON 2",
         "url": "https://open.spotify.com/album/3MpfM8o6cvwSM2l2Cs7XHQ"
       },
@@ -1423,22 +1459,6 @@
       "duration_ms": 156035,
       "name": "Hard 2 Get",
       "url": "https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Ik Leef",
-        "url": "https://open.spotify.com/album/2ibLsqb4jdCcfC7iy6PZCH"
-      },
-      "artists": [
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Volgende Stap",
-      "url": "https://open.spotify.com/track/7vIlKSC5fcyNhDBaQyFTxM"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1791,6 +1811,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Woozy",
+        "url": "https://open.spotify.com/album/5pUAwlSQbMdGGS96lNIDRU"
+      },
+      "artists": [
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 144667,
+      "name": "Woozy",
+      "url": "https://open.spotify.com/track/541peoOERBSTw2fRDZTHbd"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Spiritual",
         "url": "https://open.spotify.com/album/764ROddbOz7lLkKLexbdKR"
       },
@@ -1815,26 +1855,6 @@
       "duration_ms": 176366,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/4PSltAygj37fHdUccvL1x5"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Woozy",
-        "url": "https://open.spotify.com/album/5pUAwlSQbMdGGS96lNIDRU"
-      },
-      "artists": [
-        {
-          "name": "Caza",
-          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 144667,
-      "name": "Woozy",
-      "url": "https://open.spotify.com/track/541peoOERBSTw2fRDZTHbd"
     },
     {
       "added_at": "2024-07-19 06:38:33",

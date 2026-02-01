@@ -5943,6 +5943,28 @@
     },
     {
       "album": {
+        "name": "Outside (Remix)",
+        "url": "https://open.spotify.com/album/7ujpsRpFcStgeCFmAtge2H"
+      },
+      "artists": [
+        {
+          "name": "J.Bu$h",
+          "url": "https://open.spotify.com/artist/1xlDwQxeDDFKygaztpIMX1"
+        },
+        {
+          "name": "Lane Shuler",
+          "url": "https://open.spotify.com/artist/01Wu4arSj8hLulToXCdO8J"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174833,
+      "name": "Outside - Remix",
+      "url": "https://open.spotify.com/track/2hVI1Fl7b4sbDeAa8IPeSI"
+    },
+    {
+      "album": {
         "name": "Over The Hill",
         "url": "https://open.spotify.com/album/3d1D2K1JJK3nHWDPExuqcX"
       },

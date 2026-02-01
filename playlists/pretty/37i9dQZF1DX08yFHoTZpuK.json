@@ -1,12 +1,12 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 22293,
+  "num_followers": 22344,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANk99k4jg08UYI3CJ7CHg70LNx6Y",
+  "snapshot_id": "AAAAAJXcVl8Yzvx4D+TPBsPZP4haeCS1",
   "tracks": [
     {
       "added_at": "2026-01-23 10:07:20",
@@ -891,22 +891,30 @@
     {
       "added_at": "2026-01-23 10:07:20",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
+        "name": "Life, Dream, Love",
+        "url": "https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P"
       },
       "artists": [
         {
-          "name": "\u52e2\u559c\u904a",
-          "url": "https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE"
+          "name": "Daishi Dance",
+          "url": "https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ"
         },
         {
-          "name": "Yohji Igarashi",
-          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "Oh Jieun",
+          "url": "https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU"
+        },
+        {
+          "name": "Himekami",
+          "url": "https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV"
         }
       ],
-      "duration_ms": 163255,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
+      "duration_ms": 232558,
+      "name": "Life, Dream, Love",
+      "url": "https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r"
     }
   ],
   "unique_name": "Tokyo Club Beat",

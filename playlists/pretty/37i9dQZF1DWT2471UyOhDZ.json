@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Buck Meek",
-  "num_followers": 93718,
+  "num_followers": 93715,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
+        "name": "Melodramatic Fanatic",
+        "url": "https://open.spotify.com/album/4WZlY1rMOLJsJJg0goAPq5"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        },
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 249166,
+      "name": "Melodramatic Fanatic",
+      "url": "https://open.spotify.com/track/6kJB0UAaSCnFCJMRc5nVze"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
         "name": "This is the Killer Speaking",
         "url": "https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn"
       },
@@ -415,22 +435,6 @@
       "duration_ms": 294773,
       "name": "This is the Killer Speaking",
       "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
-        "name": "Trailers after dark",
-        "url": "https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4"
-      },
-      "artists": [
-        {
-          "name": "Finn Wolfhard",
-          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
-        }
-      ],
-      "duration_ms": 198168,
-      "name": "Trailers after dark",
-      "url": "https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -451,22 +455,18 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Melodramatic Fanatic",
-        "url": "https://open.spotify.com/album/4WZlY1rMOLJsJJg0goAPq5"
+        "name": "Trailers after dark",
+        "url": "https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4"
       },
       "artists": [
         {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        },
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
         }
       ],
-      "duration_ms": 249166,
-      "name": "Melodramatic Fanatic",
-      "url": "https://open.spotify.com/track/6kJB0UAaSCnFCJMRc5nVze"
+      "duration_ms": 198168,
+      "name": "Trailers after dark",
+      "url": "https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
+        "name": "Selling A Vibe",
+        "url": "https://open.spotify.com/album/5nSzIeVYqFB0laixl71FYq"
+      },
+      "artists": [
+        {
+          "name": "The Cribs",
+          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "Never The Same",
+      "url": "https://open.spotify.com/track/5IZqxf8th5sQVZgAiotTMY"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
         "name": "For Melancholy Brunettes (& sad women)",
         "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 210301,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
-        "name": "Selling A Vibe",
-        "url": "https://open.spotify.com/album/5nSzIeVYqFB0laixl71FYq"
-      },
-      "artists": [
-        {
-          "name": "The Cribs",
-          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "Never The Same",
-      "url": "https://open.spotify.com/track/5IZqxf8th5sQVZgAiotTMY"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -631,18 +631,18 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Hit My Head All Day",
-        "url": "https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI"
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
       },
       "artists": [
         {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 363918,
-      "name": "Hit My Head All Day",
-      "url": "https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN"
+      "duration_ms": 207242,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
+        "name": "Hit My Head All Day",
+        "url": "https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 363918,
+      "name": "Hit My Head All Day",
+      "url": "https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
         "name": "You're All I Got / So Long",
         "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 202865,
       "name": "You're All I Got",
       "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
-        "name": "I quit",
-        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "All over me",
-      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
+        "name": "I quit",
+        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 207242,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+      "duration_ms": 202626,
+      "name": "All over me",
+      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Tina",
-      "url": "https://open.spotify.com/track/7uFif00qArtq2USCkQEGac"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "Ginkgo",
         "url": "https://open.spotify.com/album/1YO3Eb228rrhTC0gKgGxSW"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 188417,
       "name": "Chapel of Salt",
       "url": "https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Tina",
+      "url": "https://open.spotify.com/track/7uFif00qArtq2USCkQEGac"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
+        "name": "Neon Grey Midnight Green",
+        "url": "https://open.spotify.com/album/6iTA9mrYpN3l5P3nJbq1BU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Wreck",
+      "url": "https://open.spotify.com/track/2N0e3WdwtkeDSAC8sqvP9a"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
         "name": "Television Love",
         "url": "https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Neon Grey Midnight Green",
-        "url": "https://open.spotify.com/album/6iTA9mrYpN3l5P3nJbq1BU"
+        "name": "The Night Before",
+        "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
       },
       "artists": [
         {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 190013,
-      "name": "Wreck",
-      "url": "https://open.spotify.com/track/2N0e3WdwtkeDSAC8sqvP9a"
+      "duration_ms": 154612,
+      "name": "The Night Before",
+      "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -951,22 +967,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Forever Howlong",
-        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 257547,
-      "name": "Goodbye (Don\u2019t Tell Me)",
-      "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "Pale Song / Love Is",
         "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
       },
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "The Night Before",
-        "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
+        "name": "Forever Howlong",
+        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
         }
       ],
-      "duration_ms": 154612,
-      "name": "The Night Before",
-      "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
+      "duration_ms": 257547,
+      "name": "Goodbye (Don\u2019t Tell Me)",
+      "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "Every Dawn's a Mountain",
         "url": "https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
         "name": "Down to be wrong",
         "url": "https://open.spotify.com/album/0aSLhfcnbZmgmzxuyzZjgg"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "SLUGLIFE",
-        "url": "https://open.spotify.com/album/38gPPBhvhAMdyPe8keDAnf"
-      },
-      "artists": [
-        {
-          "name": "BIG SPECIAL",
-          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
-        }
-      ],
-      "duration_ms": 283040,
-      "name": "SLUGLIFE",
-      "url": "https://open.spotify.com/track/6mliFFTDhUNOo0I3ye5uaf"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "Shells",
         "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 231333,
       "name": "Shells",
       "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "SLUGLIFE",
+        "url": "https://open.spotify.com/album/38gPPBhvhAMdyPe8keDAnf"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "duration_ms": 283040,
+      "name": "SLUGLIFE",
+      "url": "https://open.spotify.com/track/6mliFFTDhUNOo0I3ye5uaf"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "drains",
-        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 228999,
-      "name": "drains",
-      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "The Forest Is The Path (Extended Edition)",
         "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 179122,
       "name": "This Is The Silence",
       "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "drains",
+        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 228999,
+      "name": "drains",
+      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
+        "name": "Blankspace",
+        "url": "https://open.spotify.com/album/7x4uL7q989pphBMwV3g54g"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        }
+      ],
+      "duration_ms": 184373,
+      "name": "Blankspace",
+      "url": "https://open.spotify.com/track/0y4l286JVQCzFf2mC1esgl"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
         "name": "In Limerence",
         "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 295677,
       "name": "The Spirit",
       "url": "https://open.spotify.com/track/4WnsGUynB9D65tenA7U5gI"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
-        "name": "Blankspace",
-        "url": "https://open.spotify.com/album/7x4uL7q989pphBMwV3g54g"
-      },
-      "artists": [
-        {
-          "name": "Whitelands",
-          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
-        }
-      ],
-      "duration_ms": 184373,
-      "name": "Blankspace",
-      "url": "https://open.spotify.com/track/0y4l286JVQCzFf2mC1esgl"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "Masquerade",
         "url": "https://open.spotify.com/album/55PAmXeH8DbLOizqAqzeC8"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 188829,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/4ZrWs0G2sN9qimhkbQzEr1"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "Got to Have Love",
+        "url": "https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 292228,
+      "name": "Got to Have Love",
+      "url": "https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2"
     }
   ],
   "unique_name": "The Listening Post",

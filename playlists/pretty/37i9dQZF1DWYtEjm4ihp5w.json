@@ -1,13 +1,33 @@
 {
   "description": "Cover: Stormy",
-  "num_followers": 374324,
+  "num_followers": 374386,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANLXVbPZCLREnWH4fTcQyQGycpBL",
+  "snapshot_id": "AAAAAHTIcRsgXfu5fCkTu0wPBk+haERM",
   "tracks": [
+    {
+      "added_at": "2026-01-30 05:38:10",
+      "album": {
+        "name": "Bali maak",
+        "url": "https://open.spotify.com/album/6WtZt1QKkW712bnLox831o"
+      },
+      "artists": [
+        {
+          "name": "Amine Farsi",
+          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
+        },
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Bali maak",
+      "url": "https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E"
+    },
     {
       "added_at": "2026-01-30 05:38:10",
       "album": {
@@ -43,26 +63,6 @@
       "duration_ms": 164210,
       "name": "Dorororo",
       "url": "https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e"
-    },
-    {
-      "added_at": "2026-01-30 05:38:10",
-      "album": {
-        "name": "Bali maak",
-        "url": "https://open.spotify.com/album/6WtZt1QKkW712bnLox831o"
-      },
-      "artists": [
-        {
-          "name": "Amine Farsi",
-          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
-        },
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Bali maak",
-      "url": "https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E"
     },
     {
       "added_at": "2026-01-30 05:38:10",
@@ -185,6 +185,26 @@
       "url": "https://open.spotify.com/track/6NkranQpHTZTmgxka20LAe"
     },
     {
+      "added_at": "2026-01-31 14:17:39",
+      "album": {
+        "name": "Just Feel Me",
+        "url": "https://open.spotify.com/album/1pGyDBBEYlMOlqeZy2axu0"
+      },
+      "artists": [
+        {
+          "name": "LMLTM",
+          "url": "https://open.spotify.com/artist/0uKwNVVupedJeBbIuvXBG2"
+        },
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Hello Kitty",
+      "url": "https://open.spotify.com/track/6gyhZ6bMdy7FDTYCeqgwec"
+    },
+    {
       "added_at": "2026-01-30 05:38:10",
       "album": {
         "name": "KIYA",
@@ -249,6 +269,22 @@
       "url": "https://open.spotify.com/track/0bQzTbyG0KppLpnMkS9SSe"
     },
     {
+      "added_at": "2026-01-31 14:17:39",
+      "album": {
+        "name": "Mab9ach",
+        "url": "https://open.spotify.com/album/7bn1o0H5SCp0hqlGPwzXzN"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Mab9ach",
+      "url": "https://open.spotify.com/track/7lQ1yvzd4Cxxmo3ORpT99C"
+    },
+    {
       "added_at": "2026-01-30 05:38:10",
       "album": {
         "name": "SILENT BATTLES",
@@ -311,22 +347,6 @@
       "duration_ms": 166556,
       "name": "CAPABLE",
       "url": "https://open.spotify.com/track/7CSLJOKj4LuDlBMYArB2x1"
-    },
-    {
-      "added_at": "2026-01-30 05:38:10",
-      "album": {
-        "name": "Boca X2",
-        "url": "https://open.spotify.com/album/3ruYtS9atWFc9NrHTMKKT6"
-      },
-      "artists": [
-        {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
-        }
-      ],
-      "duration_ms": 136901,
-      "name": "Boca X2",
-      "url": "https://open.spotify.com/track/3r7RFeDHm1VZDVZpmpRCz8"
     },
     {
       "added_at": "2026-01-30 05:38:10",
@@ -547,26 +567,6 @@
       "duration_ms": 108880,
       "name": "Zanga Zanga",
       "url": "https://open.spotify.com/track/5D4C9W4adfHL5mMHmnQDkM"
-    },
-    {
-      "added_at": "2026-01-30 05:38:10",
-      "album": {
-        "name": "Twam Mafyouzi",
-        "url": "https://open.spotify.com/album/4eqDkabbyPAMkojyo9OYHQ"
-      },
-      "artists": [
-        {
-          "name": "Furelise",
-          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
-        },
-        {
-          "name": "Raste",
-          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
-        }
-      ],
-      "duration_ms": 126956,
-      "name": "Twam Mafyouzi",
-      "url": "https://open.spotify.com/track/5m0WDhOtaCO4yCoy8bqOy7"
     },
     {
       "added_at": "2026-01-30 05:38:10",

@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover:  Kunmie",
-  "num_followers": 260688,
+  "num_followers": 260723,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-01-30 00:01:17",
       "album": {
+        "name": "Babcock",
+        "url": "https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L"
+      },
+      "artists": [
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 143476,
+      "name": "Babcock",
+      "url": "https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH"
+    },
+    {
+      "added_at": "2026-01-30 00:01:17",
+      "album": {
         "name": "On A Low",
         "url": "https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
-    },
-    {
-      "added_at": "2026-01-30 00:01:17",
-      "album": {
-        "name": "Babcock",
-        "url": "https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L"
-      },
-      "artists": [
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
-        }
-      ],
-      "duration_ms": 143476,
-      "name": "Babcock",
-      "url": "https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH"
     },
     {
       "added_at": "2026-01-30 00:01:17",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2026-01-30 00:01:17",
       "album": {
-        "name": "Day n Nite",
-        "url": "https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J"
-      },
-      "artists": [
-        {
-          "name": "Ronis Goliath",
-          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 142204,
-      "name": "Day n Nite",
-      "url": "https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1"
-    },
-    {
-      "added_at": "2026-01-30 00:01:17",
-      "album": {
         "name": "So Much Sense",
         "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 168072,
       "name": "So Much Sense",
       "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
+    },
+    {
+      "added_at": "2026-01-30 00:01:17",
+      "album": {
+        "name": "Day n Nite",
+        "url": "https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J"
+      },
+      "artists": [
+        {
+          "name": "Ronis Goliath",
+          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 142204,
+      "name": "Day n Nite",
+      "url": "https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1"
     },
     {
       "added_at": "2026-01-30 00:01:17",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-01-30 00:01:17",
       "album": {
-        "name": "I'm Available",
-        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 196530,
-      "name": "I'm Available",
-      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
-    },
-    {
-      "added_at": "2026-01-30 00:01:17",
-      "album": {
         "name": "London Summers",
         "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 217636,
       "name": "London Summers",
       "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
+    },
+    {
+      "added_at": "2026-01-30 00:01:17",
+      "album": {
+        "name": "I'm Available",
+        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 196530,
+      "name": "I'm Available",
+      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
     },
     {
       "added_at": "2026-01-30 00:01:17",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-01-30 00:01:17",
       "album": {
-        "name": "Olufunmi (The Missing Recipe)",
-        "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Olufunmi (The Missing Recipe)",
-      "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
-    },
-    {
-      "added_at": "2026-01-30 00:01:17",
-      "album": {
         "name": "FINAL",
         "url": "https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 215103,
       "name": "FINAL",
       "url": "https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G"
+    },
+    {
+      "added_at": "2026-01-30 00:01:17",
+      "album": {
+        "name": "Olufunmi (The Missing Recipe)",
+        "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Olufunmi (The Missing Recipe)",
+      "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
     },
     {
       "added_at": "2026-01-30 00:01:17",
@@ -1491,34 +1491,38 @@
     {
       "added_at": "2026-01-30 00:01:17",
       "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/0WMD6V0S9gLpqZIutA8hL1"
+        "name": "Pick Pick",
+        "url": "https://open.spotify.com/album/1hM4TfDlb0ElOWFXmWF9hs"
       },
       "artists": [
         {
-          "name": "Oiza x Meyi",
-          "url": "https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ"
+          "name": "Tinchy Stryder",
+          "url": "https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx"
+        },
+        {
+          "name": "Kojo Funds",
+          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
         }
       ],
-      "duration_ms": 147428,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/5oaz3L4Ytz4UZpsH613uL8"
+      "duration_ms": 178333,
+      "name": "Pick Pick",
+      "url": "https://open.spotify.com/track/2NNyYGLjzhVVPU7gQBluqR"
     },
     {
       "added_at": "2026-01-30 00:01:17",
       "album": {
-        "name": "mo de ma [by any minz]",
-        "url": "https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk"
+        "name": "Super",
+        "url": "https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5"
       },
       "artists": [
         {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
         }
       ],
-      "duration_ms": 177720,
-      "name": "mo de ma [by any minz]",
-      "url": "https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL"
+      "duration_ms": 166500,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15"
     }
   ],
   "unique_name": "Ginja",

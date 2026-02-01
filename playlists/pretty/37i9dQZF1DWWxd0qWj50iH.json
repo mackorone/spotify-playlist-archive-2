@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 526988,
+  "num_followers": 526970,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Sling",
         "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 266432,
       "name": "Stoned at the Nail Salon",
       "url": "https://open.spotify.com/track/38Zs2b75JPNB2tS7O7JQnS"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Notes From A Wrist",
-        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Notes From A Wrist",
-      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "The Florist",
         "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 190601,
       "name": "The Florist",
       "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Notes From A Wrist",
+        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Notes From A Wrist",
+      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 398783,
-      "name": "Posing For Cars",
-      "url": "https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Spiderwebs",
         "url": "https://open.spotify.com/album/4QtlSNN8B8AxiHEllspqDl"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 153241,
       "name": "Spiderwebs",
       "url": "https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 398783,
+      "name": "Posing For Cars",
+      "url": "https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Friends That Break Your Heart",
+        "url": "https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 153238,
+      "name": "Foot Forward",
+      "url": "https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Wide Eyed",
         "url": "https://open.spotify.com/album/7n6rB3pvqkFzXeyBOeBPEh"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 258265,
       "name": "Confirmation (SSBD)",
       "url": "https://open.spotify.com/track/0gcNTflElPYcxajA1LelYd"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Friends That Break Your Heart",
-        "url": "https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 153238,
-      "name": "Foot Forward",
-      "url": "https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1473,20 +1473,20 @@
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
+      "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Glu",
-        "url": "https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb"
+        "name": "Now You're Moving",
+        "url": "https://open.spotify.com/album/2lbmETphNRANiKtRiSu7K8"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
         }
       ],
-      "duration_ms": 163673,
-      "name": "Glu",
-      "url": "https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt"
+      "duration_ms": 157852,
+      "name": "Now You're Moving",
+      "url": "https://open.spotify.com/track/78t96HOEIl6AkTyzOh6k99"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1505,20 +1505,20 @@
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
+      "added_at": "2024-10-10 23:35:59",
       "album": {
-        "name": "Now You're Moving",
-        "url": "https://open.spotify.com/album/2lbmETphNRANiKtRiSu7K8"
+        "name": "Glu",
+        "url": "https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb"
       },
       "artists": [
         {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 157852,
-      "name": "Now You're Moving",
-      "url": "https://open.spotify.com/track/78t96HOEIl6AkTyzOh6k99"
+      "duration_ms": 163673,
+      "name": "Glu",
+      "url": "https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "dirty dancer",
-        "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "dirty dancer",
-      "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Thank You (SOLOMON VERSION)",
         "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 138600,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "dirty dancer",
+        "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "dirty dancer",
+      "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
     }
   ],
   "unique_name": "Gentle",

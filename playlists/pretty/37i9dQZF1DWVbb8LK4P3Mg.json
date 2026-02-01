@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 156113,
+  "num_followers": 156084,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Perfect Night (Holiday Remix)",
-        "url": "https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 162336,
-      "name": "Perfect Night (Holiday Remix)",
-      "url": "https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Christmas Fever",
         "url": "https://open.spotify.com/album/5J2XvmVymUphtXV8lJwhcs"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 210308,
       "name": "Christmas Fever",
       "url": "https://open.spotify.com/track/5zJgLkNMU7p9xGhMshV46X"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Perfect Night (Holiday Remix)",
+        "url": "https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 162336,
+      "name": "Perfect Night (Holiday Remix)",
+      "url": "https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Wish to Wish",
-        "url": "https://open.spotify.com/album/6DmYT4XWlTpyQqKD7Z3rkx"
-      },
-      "artists": [
-        {
-          "name": "YOONA",
-          "url": "https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Wish to Wish",
-      "url": "https://open.spotify.com/track/6h49pP33Is5rIPyn70nKzt"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 236524,
       "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Wish to Wish",
+        "url": "https://open.spotify.com/album/6DmYT4XWlTpyQqKD7Z3rkx"
+      },
+      "artists": [
+        {
+          "name": "YOONA",
+          "url": "https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Wish to Wish",
+      "url": "https://open.spotify.com/track/6h49pP33Is5rIPyn70nKzt"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "PINK CHRISTMAS",
-        "url": "https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "PINK CHRISTMAS",
-      "url": "https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "My Winter Trip",
         "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 251617,
       "name": "My Winter Trip",
       "url": "https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "PINK CHRISTMAS",
+        "url": "https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "PINK CHRISTMAS",
+      "url": "https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "[My Christmas Sweet Love]",
         "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 232746,
       "name": "Jazz Bar (Carol ver.)",
       "url": "https://open.spotify.com/track/4I7hBCBjcnH5YCN6AtyFHP"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "The Present",
-        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "A miracle 3days ago",
-      "url": "https://open.spotify.com/track/5qKVSthaAAitawItqZjJpI"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "FIRST SNOW",
         "url": "https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 195466,
       "name": "FIRST SNOW",
       "url": "https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "The Present",
+        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "A miracle 3days ago",
+      "url": "https://open.spotify.com/track/5qKVSthaAAitawItqZjJpI"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "gr8",
+        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 158468,
+      "name": "gr8",
+      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 196565,
       "name": "Dancing on Christmas",
       "url": "https://open.spotify.com/track/1tHnzNY5NgKkTEcM3lYi3s"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "gr8",
-        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 158468,
-      "name": "gr8",
-      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "X-MAS TREE",
-        "url": "https://open.spotify.com/album/46Xgz5NzGXt1DIfqNjdYBG"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 256653,
-      "name": "X-MAS TREE",
-      "url": "https://open.spotify.com/track/6xh1O3D62j6aQ0TQmqsEbs"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "christmas recipe",
         "url": "https://open.spotify.com/album/7IPcwUqtcrmpwVE7dKgdYF"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 174333,
       "name": "christmas recipe (feat. 16)",
       "url": "https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "X-MAS TREE",
+        "url": "https://open.spotify.com/album/46Xgz5NzGXt1DIfqNjdYBG"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 256653,
+      "name": "X-MAS TREE",
+      "url": "https://open.spotify.com/track/6xh1O3D62j6aQ0TQmqsEbs"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "SECRET SANTA",
+        "url": "https://open.spotify.com/album/6oaSE8X5SdxnuQlXpLkttH"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "WE X MAS",
+      "url": "https://open.spotify.com/track/0TiyQwSeqLubY97007Adg4"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Feeling You",
         "url": "https://open.spotify.com/album/0l1XFnHjuGUgWQd3ELfi6c"
       },
@@ -1775,18 +1791,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "SECRET SANTA",
-        "url": "https://open.spotify.com/album/6oaSE8X5SdxnuQlXpLkttH"
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
       },
       "artists": [
         {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
         }
       ],
-      "duration_ms": 228933,
-      "name": "WE X MAS",
-      "url": "https://open.spotify.com/track/0TiyQwSeqLubY97007Adg4"
+      "duration_ms": 229386,
+      "name": "My Favorite Winter",
+      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1803,22 +1819,6 @@
       "duration_ms": 142406,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/2CKdHKVgFiemZTZucPJY4q"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "My Favorite Winter",
-        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "My Favorite Winter",
-      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
     }
   ],
   "unique_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",

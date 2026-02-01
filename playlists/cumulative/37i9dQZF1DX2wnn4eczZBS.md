@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Elmer
 
-283 songs - 14 hr 44 min
+285 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Disco Zwemmen](https://open.spotify.com/track/7cQnfJZHGlvyCnA2DbSquv) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje](https://open.spotify.com/album/4AHIczLAURZM2gYzCD2KoY) | 2:52 | 2024-06-26 | 2024-10-12 |
 | [Discozwemmen](https://open.spotify.com/track/0VlQjCCBWiU6IbGDfKcF7u) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Unity](https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk) | 2:45 | 2025-02-20 | 2025-11-08 |
 | [Doe Eens Raar](https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Doe Eens Raar](https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg) | 3:47 | 2024-09-13 | 2025-02-21 |
-| [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:21 | 2025-05-16 |  |
+| [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:21 | 2025-05-16 | 2026-02-01 |
 | [Dokter Phil](https://open.spotify.com/track/7maIOPhJPKi28mGgoD8S00) | [Ratel](https://open.spotify.com/artist/1qpgdHDd1l4SgW6VHKmijd) | [Dokter Phil](https://open.spotify.com/album/0aqDfhsbJSCYBPJiS4YHNO) | 3:25 | 2024-06-26 | 2024-10-25 |
 | [Drijfzand](https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [Drijfzand](https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc) | 3:39 | 2025-05-08 | 2025-12-19 |
 | [Drijfzand](https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Drijfzand](https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC) | 2:58 | 2024-10-24 | 2025-06-27 |
@@ -211,6 +211,7 @@
 | [Rat Race](https://open.spotify.com/track/4wUawYEd2U6U3niFCZWQcJ) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Rat Race](https://open.spotify.com/album/4JKpM1p2xwC6h9neD83b6I) | 2:33 | 2024-07-19 | 2024-11-15 |
 | [Rondjes](https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Rondjes](https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk) | 3:10 | 2025-06-20 |  |
 | [Rotonde](https://open.spotify.com/track/03jAxbMjwKuxlsgYaqT1Bt) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Rotonde](https://open.spotify.com/album/6jC78OUnAmxDCn24Xj2sC3) | 2:35 | 2025-03-28 | 2025-04-25 |
+| [Ruimtepak](https://open.spotify.com/track/358hNGOO2Iu1kwX7fM18eI) | [Eva van Manen](https://open.spotify.com/artist/39fsjaOkLW4Gq6X6URiWRj) | [Ruimtepak](https://open.spotify.com/album/2iFQCeI3lRBcVOSJRErJda) | 3:41 | 2026-01-30 |  |
 | [S.O.S.](https://open.spotify.com/track/1Z9B1h99qrDLM2Mg8A2X2y) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [S.O.S.](https://open.spotify.com/album/0cuOUJAcoggXuV88PzqUKn) | 2:58 | 2024-06-26 | 2024-09-13 |
 | [Salmari & Kreeft](https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Naar De Haaien & Weer Terug](https://open.spotify.com/album/49kVZFZguyqvfxt0HklIhg) | 4:22 | 2024-10-09 | 2025-03-08 |
 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 | 2025-06-06 |  |
@@ -219,7 +220,7 @@
 | [Shirt Uit \(feat\. Sef\)](https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Shirt Uit \(feat\. Sef\)](https://open.spotify.com/album/2Bh9v7RB7N7SQUMnpz3Pyf) | 3:27 | 2024-08-01 | 2025-02-28 |
 | [Skinroutine Bikinilijn](https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Skinroutine Bikinilijn](https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ) | 3:03 | 2025-12-01 |  |
 | [slecht idee \(let’s do it\)](https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [slecht idee \(let’s do it\)](https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t) | 3:11 | 2025-12-01 |  |
-| [Sneeuw In De Zomer](https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [Sneeuw In De Zomer](https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32) | 2:44 | 2026-01-12 |  |
+| [Sneeuw In De Zomer](https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [Sneeuw In De Zomer](https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32) | 2:44 | 2026-01-12 | 2026-02-01 |
 | [Soms Regen Ik Ook](https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Eclips](https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l) | 3:26 | 2024-09-12 | 2025-05-16 |
 | [Sorry Lul](https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Sorry Lul](https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB) | 2:47 | 2024-08-29 | 2025-05-09 |
 | [Souvenir \(met Pensioen\)](https://open.spotify.com/track/3S3ErXJ5NIbI2QDYVzS4vq) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Souvenir \(met Pensioen\)](https://open.spotify.com/album/7rcSGIx6an8qnUeUhF5lcy) | 3:05 | 2025-08-29 | 2025-10-22 |
@@ -280,6 +281,7 @@
 | [Zachte Landing](https://open.spotify.com/track/2NsGqzU5IYKu0JHs3WGDbP) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Zachte Landing](https://open.spotify.com/album/3sDk5V1SdMtYnOpwUrruq4) | 3:23 | 2024-06-26 | 2024-10-10 |
 | [Zachter](https://open.spotify.com/track/35L5RWfwYaoE1KEP8QWzRZ) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Zachter](https://open.spotify.com/album/74Ykd7VHFyzI5b3rNeautA) | 3:18 | 2025-12-18 |  |
 | [Ze Wil](https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [YAYO HARTJE JIMMY](https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v) | 3:09 | 2025-11-08 |  |
+| [Zeg Me Hoe Het Moet](https://open.spotify.com/track/3JZHFwhoi5UnxkothjScpS) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Zeg Me Hoe Het Moet](https://open.spotify.com/album/212j764AlLIekepAcRJsy6) | 3:28 | 2026-01-30 |  |
 | [Zieke Wereld](https://open.spotify.com/track/3uuNvNmN2O2ufgGoMNoLrC) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Zieke Wereld](https://open.spotify.com/album/0Xiq0JmDnC7RM0yaLbFQ5p) | 3:04 | 2025-03-07 | 2025-05-09 |
 | [Zo Licht Als Een Veertje](https://open.spotify.com/track/0ItuxgKyxZ9PfYuzcVwVDW) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD) | [Zo Licht Als een Veertje](https://open.spotify.com/album/3Do7RQ7EPLRYnmTWih10ii) | 2:41 | 2024-10-22 | 2025-02-16 |
 | [Zonder handen rijden](https://open.spotify.com/track/2lVKoxQgBNqJwCE1SeLFKl) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:23 | 2024-10-24 | 2025-02-27 |

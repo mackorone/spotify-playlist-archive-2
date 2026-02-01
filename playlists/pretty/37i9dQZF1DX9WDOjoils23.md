@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,516 likes - 50 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,553 likes - 50 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 49 | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/track/4kxI1XJtu7ftTRsvM4kmEj) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/album/5m9hCPOrY8zgLUOFlbGKza) | 3:08 |
 | 50 | [Meri Heeriye Fakiriye](https://open.spotify.com/track/2hkr7JCiGMuZLG8gotQj5t) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Sartaaj](https://open.spotify.com/album/0VUrwBn8uYyR7tM8tLDOto) | 7:35 |
 
-Snapshot ID: `AAAAAOaNYzHSPH3p+hBMGsvc+O/etwue`
+Snapshot ID: `AAAAAJBAOuegGX7FGnr4WbnoktT2G6X+`

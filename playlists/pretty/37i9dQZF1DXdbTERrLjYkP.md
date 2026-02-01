@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Emma Harner
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,970 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,965 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 59 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 |
 | 60 | [His Loss](https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7) | [Natalie 2V](https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x) | [His Loss](https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn) | 2:30 |
 
-Snapshot ID: `AAAAAJyMziPLeF6LU6jsAPtDmw2JLhhP`
+Snapshot ID: `AAAAAHQIuFQykFbsbiTUyJLnT4skWTJW`

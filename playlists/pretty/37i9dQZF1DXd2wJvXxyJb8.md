@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,627,605 likes - 70 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,628,033 likes - 70 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 25 | [BOA NOITE \(CHEGUEI\)](https://open.spotify.com/track/7gqB5ul2pZhMA80pX1orVZ) | [THEUZZIN](https://open.spotify.com/artist/4xQrZxDunp16t3UzWHCwwo), [2L Motta](https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm), [Mn de Niteroi](https://open.spotify.com/artist/7DD0RNx3vfzZXPcTuu3hKm), [DJ MK De Niterói](https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs) | [BOA NOITE \(CHEGUEI\)](https://open.spotify.com/album/5lV41TU5XhMIQHa2aCViUR) | 2:39 |
 | 26 | [EU SEI QUE NÃO É VERDADE](https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW) | [Dnovaees](https://open.spotify.com/artist/7DHre7bKPEWr38qMcFiwk3), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [GEXIS](https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU) | [EU SEI QUE NÃO É VERDADE](https://open.spotify.com/album/6wp5YPmGAp8kWOTZZZWAMA) | 2:37 |
 | 27 | [Oi Linda](https://open.spotify.com/track/0iG9z2JyiDYWpPQQIXZsUd) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Deiiv](https://open.spotify.com/artist/5GS6kDjSX60bQn6i5QqzaV), [prodbygdm](https://open.spotify.com/artist/3rBjV6OAw2hhldvZgfseTQ) | [É Disso Que Eu Me Alimento](https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg) | 3:02 |
-| 28 | [Onde Anda Meu Amor](https://open.spotify.com/track/5xy5ijTPXvuvmXoT3Xdmw8) | [Laércia Dantas](https://open.spotify.com/artist/0GbUYCCbAlnM9mVcVuoOcN) | [Garçom! Tem Pitu? Traz! \(Cover\)](https://open.spotify.com/album/3rKFWDyU5n3GRQjm0SLcvI) | 2:14 |
+| 28 | [Onde Anda Meu Amor](https://open.spotify.com/track/5xy5ijTPXvuvmXoT3Xdmw8) | [Laércia Dantas](https://open.spotify.com/artist/1dVyYH3h8GsRWHFerBranw) | [Garçom! Tem Pitu? Traz! \(Cover\)](https://open.spotify.com/album/3rKFWDyU5n3GRQjm0SLcvI) | 2:14 |
 | 29 | [Joga Nele \- Remix](https://open.spotify.com/track/7qax5a35g3cSIDoCPkzZI8) | [MC Marcelly](https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE), [DJ Ruan da VK](https://open.spotify.com/artist/0fRzXMoiuuR3kQDr8aavt2), [D'BEATS](https://open.spotify.com/artist/70JVilt92BAThI767veckx), [DJ NZR](https://open.spotify.com/artist/3H5shZe6q9nbTcliPDyBwg) | [Joga Nele \(Remix\)](https://open.spotify.com/album/4jw9gdNkQzcEOdpfhqbY6o) | 1:49 |
 | 30 | [P.I.T.T.Y\. \(Parecendo Uma Cafetina\)](https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Torelli](https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu) | [P.I.T.T.Y\. \(Parecendo Uma Cafetina\)](https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY) | 2:20 |
 | 31 | [THE FUNK OF OPHELIA](https://open.spotify.com/track/7grde5XigwdwcZRcd79jFV) | [NELLIN](https://open.spotify.com/artist/3xMFCSdYhkS0cQQ01lDlBy) | [THE FUNK OF OPHELIA](https://open.spotify.com/album/0TyTc5M7bu8I9tzhQckVJC) | 2:29 |

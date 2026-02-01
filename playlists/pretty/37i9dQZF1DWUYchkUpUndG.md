@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  kingdmusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,102 likes - 103 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,123 likes - 103 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 92 | [Karba Godiya](https://open.spotify.com/track/6Uwtq5lar2CSLJipLCs2md) | [Mastapeace Beats](https://open.spotify.com/artist/6jfcSjE052jzhggOXwN0Px), [Abraham T.](https://open.spotify.com/artist/0BGxwLLWjhaHMrF1HuDoqb) | [Karba Godiya](https://open.spotify.com/album/2Rgedo5AwhKweZKR1tqOEe) | 2:19 |
 | 93 | [Better](https://open.spotify.com/track/0qJ7XI86qG6li8J28TFXIi) | [Chinwe Bliss](https://open.spotify.com/artist/0Ykr7Cp3TyCvdF3Agixq9z) | [Better](https://open.spotify.com/album/6EgQWiEDYNJPo6eK3g1HfO) | 2:48 |
 | 94 | [Haufi Le Morena](https://open.spotify.com/track/7HMdyroypHP9BxoKm9mOXC) | [JTG Gospel Choir](https://open.spotify.com/artist/0GyDw1zJL0JJogWrT7Z7Ht) | [Haufi Le Morena](https://open.spotify.com/album/4JILhthnVSRd296i359qf3) | 3:21 |
-| 95 | [Merci seigneur](https://open.spotify.com/track/6n4PiU9EzfEHMsxtC6D4NB) | [D.A.N.E](https://open.spotify.com/artist/5WVsM9GJfYbwEnd5FHVb1i), [Papy Dag](https://open.spotify.com/artist/6WSEC2rWov2i9XNmNDyZv0) | [Merci seigneur](https://open.spotify.com/album/4r1mOSvOBCBiayX5kozlbY) | 3:12 |
+| 95 | [Merci Seigneur](https://open.spotify.com/track/6n4PiU9EzfEHMsxtC6D4NB) | [D.A.N.E](https://open.spotify.com/artist/5WVsM9GJfYbwEnd5FHVb1i), [Papy Dag](https://open.spotify.com/artist/6WSEC2rWov2i9XNmNDyZv0) | [Merci Seigneur](https://open.spotify.com/album/4r1mOSvOBCBiayX5kozlbY) | 3:12 |
 | 96 | [Living Water](https://open.spotify.com/track/5alNLu0rlk7k7AkPu3SuI4) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Armour of God](https://open.spotify.com/album/5bDAlflNpBtDRWZ6Pfg1iu) | 12:41 |
 | 97 | [Ihunaya Chineke](https://open.spotify.com/track/6A4fkHALDjAhXALSgj7smH) | [Godswill James](https://open.spotify.com/artist/7r48VAwS2CKM3saRqnhIVz) | [Ihunaya Chineke](https://open.spotify.com/album/0h0om4x819VVQgJn2S5LAM) | 3:21 |
 | 98 | [Security \(Live\) \- Remix](https://open.spotify.com/track/1KeoH3IklY84R3TD1Tf86x) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Security \(Live\) \[Remix\]](https://open.spotify.com/album/0N8AxAC0waqHqTMkw6vaIs) | 6:12 |

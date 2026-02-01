@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 140239,
+  "num_followers": 140277,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
+        "name": "Golden Earring Biggest Hits",
+        "url": "https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm"
+      },
+      "artists": [
+        {
+          "name": "Golden Earring",
+          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
+        }
+      ],
+      "duration_ms": 478106,
+      "name": "Twilight Zone",
+      "url": "https://open.spotify.com/track/0UELrOrtGeATsDJDBx8y13"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
         "name": "Rescue / Hero",
         "url": "https://open.spotify.com/album/0tl7YJWMDU4zYj50yrkf0f"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 290160,
       "name": "You're a Friend of Mine",
       "url": "https://open.spotify.com/track/2BSm925aJog65vjU9FU1R3"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
-        "name": "Golden Earring Biggest Hits",
-        "url": "https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm"
-      },
-      "artists": [
-        {
-          "name": "Golden Earring",
-          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
-        }
-      ],
-      "duration_ms": 478106,
-      "name": "Twilight Zone",
-      "url": "https://open.spotify.com/track/0UELrOrtGeATsDJDBx8y13"
     },
     {
       "added_at": "2024-07-09 16:44:07",

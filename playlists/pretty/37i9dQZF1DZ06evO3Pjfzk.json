@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 106106,
+  "num_followers": 106155,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAACzEuVkPAg/cThmYIfuebGS",
+  "snapshot_id": "aXv0gAAAAACASa65V8wD0a9Oky1TgtyA",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Weak-End",
+      "url": "https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Weak-End",
-      "url": "https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirlwind",
         "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
       },
@@ -310,15 +310,11 @@
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 237773,
-      "name": "Good Horses - feat. Miranda Lambert",
-      "url": "https://open.spotify.com/track/6cUJmzU24GorRheKghmNkY"
+      "duration_ms": 210280,
+      "name": "Devil Don\u2019t Go There",
+      "url": "https://open.spotify.com/track/14Tb6lAFBbE5HJUCyL0Ei3"
     },
     {
       "added_at": null,
@@ -386,11 +382,15 @@
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 210280,
-      "name": "Devil Don\u2019t Go There",
-      "url": "https://open.spotify.com/track/14Tb6lAFBbE5HJUCyL0Ei3"
+      "duration_ms": 237773,
+      "name": "Good Horses - feat. Miranda Lambert",
+      "url": "https://open.spotify.com/track/6cUJmzU24GorRheKghmNkY"
     },
     {
       "added_at": null,
@@ -483,6 +483,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Light of a Clear Blue Morning",
+        "url": "https://open.spotify.com/album/6YExDnUZUEXINyiPGk3FMz"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Queen Latifah",
+          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
+        },
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 227692,
+      "name": "Light of a Clear Blue Morning",
+      "url": "https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
       },
@@ -523,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light of a Clear Blue Morning",
-        "url": "https://open.spotify.com/album/6YExDnUZUEXINyiPGk3FMz"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Queen Latifah",
-          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
-        },
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 227692,
-      "name": "Light of a Clear Blue Morning",
-      "url": "https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "What\u2019s Up (What\u2019s Going On)",
-      "url": "https://open.spotify.com/track/7yVVTAPCav3KYMUksCTN3K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Story House",
         "url": "https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "What\u2019s Up (What\u2019s Going On)",
+      "url": "https://open.spotify.com/track/7yVVTAPCav3KYMUksCTN3K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lainey Wilson - EP",
         "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
       },
@@ -619,6 +619,26 @@
       "duration_ms": 177727,
       "name": "Breakin' Your Heart",
       "url": "https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unlocked",
+        "url": "https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 179811,
+      "name": "Thicc As Thieves (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF"
     },
     {
       "added_at": null,
@@ -643,26 +663,6 @@
       "duration_ms": 226753,
       "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
       "url": "https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unlocked",
-        "url": "https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC"
-      },
-      "artists": [
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 179811,
-      "name": "Thicc As Thieves (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF"
     },
     {
       "added_at": null,

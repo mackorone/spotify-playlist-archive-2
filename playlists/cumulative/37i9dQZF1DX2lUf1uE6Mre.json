@@ -82,7 +82,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 102793,
       "name": "24K (Ohne Tabak)",
       "url": "https://open.spotify.com/track/0dq6sZ4vPS4ntht0HoEipC"
@@ -4579,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "Loft",
+        "url": "https://open.spotify.com/album/0i87yB6MPpSHgVQCBg1r3i"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132680,
+      "name": "Loft",
+      "url": "https://open.spotify.com/track/14HEqZhk0BMLIU2QDSIghO"
+    },
+    {
+      "album": {
         "name": "Loro Piana",
         "url": "https://open.spotify.com/album/6oA9EjtMwjat0Y2bCW75ZU"
       },
@@ -5596,7 +5614,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 151464,
       "name": "MURDA (MS. FATTY)",
       "url": "https://open.spotify.com/track/76yQVPxMbxr1w1DxjZXx6c"
@@ -8332,6 +8350,24 @@
       "duration_ms": 128539,
       "name": "WAS IST DA LOS ?!",
       "url": "https://open.spotify.com/track/6WFdu4LIuTVrD2O1Z1bJdW"
+    },
+    {
+      "album": {
+        "name": "WAS MIR NOCH BLEIBT",
+        "url": "https://open.spotify.com/album/6TNySfTjnd82If8pkAAO8W"
+      },
+      "artists": [
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157618,
+      "name": "WAS MIR NOCH BLEIBT",
+      "url": "https://open.spotify.com/track/2SOUXV3gTf5loWJtCHvESv"
     },
     {
       "album": {

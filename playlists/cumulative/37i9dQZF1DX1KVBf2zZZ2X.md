@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-289 songs - 13 hr 31 min
+290 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [by our brook](https://open.spotify.com/track/5D2j9P6XAjC1KTHWgCtKCD) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [by our brook](https://open.spotify.com/album/6gsmlzO7pBVwDq6NBpDKTB) | 2:36 | 2025-12-03 |  |
 | [By The Window](https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [By The Window](https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ) | 2:30 | 2023-03-03 | 2025-04-25 |
 | [Calm in Green](https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Calm in Green](https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo) | 3:17 | 2023-09-01 | 2023-09-29 |
+| [Calm Mind, in the Forest](https://open.spotify.com/track/6j88pim2dgfpUIlf984HtC) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Calm Mind, in the Forest](https://open.spotify.com/album/0TYH8l0gdWGehsBYzlLkjq) | 2:15 | 2026-01-21 |  |
 | [Calm Moments](https://open.spotify.com/track/5dnkSxcgzgsVdUgsFNfpGB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Calm Moments](https://open.spotify.com/album/1BHKyjHNueZeBCFeAmCsRj) | 2:41 | 2024-08-23 |  |
 | [Calm Skies](https://open.spotify.com/track/5SSQz4zhV3mj6VVOrZDKnH) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Calm Skies](https://open.spotify.com/album/0La6GTzKvt8cJVRu3W1BNQ) | 3:14 | 2025-02-21 | 2026-01-22 |
 | [Calm Spring](https://open.spotify.com/track/45OQ4d2oF6PKUg30jIYhLD) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Calm Spring](https://open.spotify.com/album/7l3YpyW05EHVsy2LuXDIxN) | 2:42 | 2025-05-16 |  |
@@ -147,7 +148,7 @@
 | [Lily's Arrival](https://open.spotify.com/track/0KdOX4bbKodh8fWhbUgRLe) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Lily's Arrival](https://open.spotify.com/album/2lmh2HkpKRGJBjVLNf7D8Z) | 2:58 | 2023-03-03 | 2025-06-12 |
 | [Little Rabbit](https://open.spotify.com/track/4ANwAzJKUZv8n3DmUkOv6b) | [Mind Shores](https://open.spotify.com/artist/5rMYtkq4BVMFCtgXOsIyxK) | [Little Rabbit](https://open.spotify.com/album/5bU0ZA8rrJumX16meqGpSV) | 3:07 | 2023-09-28 |  |
 | [living with purpose](https://open.spotify.com/track/2TncYGmsmmSZUUdGgWzCn0) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [living with purpose](https://open.spotify.com/album/1cZ1ZBmY0zkmiszP0oS5o1) | 3:38 | 2025-06-11 |  |
-| [Lonely River](https://open.spotify.com/track/3uGsLMP22til2JB675A4xc) | [Glacial Patience](https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav) | [Lonely River](https://open.spotify.com/album/6MyDgpQAQqiB7qt5RFhU9o) | 3:11 | 2025-09-24 |  |
+| [Lonely River](https://open.spotify.com/track/3uGsLMP22til2JB675A4xc) | [Glacial Patience](https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav) | [Lonely River](https://open.spotify.com/album/6MyDgpQAQqiB7qt5RFhU9o) | 3:11 | 2025-09-24 | 2026-02-01 |
 | [Lost](https://open.spotify.com/track/5kDSdlxuEd4tSYgvHc1eRM) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [Lost](https://open.spotify.com/album/2yxL2OnCpPt5gB6NFeirMa) | 3:07 | 2023-03-03 | 2025-05-03 |
 | [Luna Nueva](https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Luna Nueva](https://open.spotify.com/album/1nXR27VjplhMuwL7u6ChGd) | 3:37 | 2023-03-03 | 2024-03-21 |
 | [Luna's Forest](https://open.spotify.com/track/6As07zYXCbu96oth2IcIXM) | [Verala Lux](https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW) | [Luna's Forest](https://open.spotify.com/album/5C6d1q0wQAzX8h724CTLl5) | 2:34 | 2025-09-04 |  |
@@ -192,7 +193,7 @@
 | [Panorama Sky](https://open.spotify.com/track/7l17NcC5dUhh2ZnYHUCcoA) | [Willow Skies](https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc) | [Panorama Sky](https://open.spotify.com/album/6f7mYP43UkkoHAHYPvRRYw) | 2:52 | 2025-03-19 |  |
 | [Part 1, Good Morning Tubac](https://open.spotify.com/track/3ZrVhaB84vn6hJiZrLi0DE) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anza Trail Soundwalk](https://open.spotify.com/album/0r0kniPp7rZPRahBAKZTY3) | 1:48 | 2023-04-13 | 2023-10-07 |
 | [Part 1, Good Morning Tubac](https://open.spotify.com/track/6YhQUEbGJesVf0XUsklFLz) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anza Trail Soundwalk](https://open.spotify.com/album/5M9Z55HQKiqS04hvpfIBxJ) | 1:48 | 2023-03-03 | 2023-04-29 |
-| [Passing](https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8) | [Lenards Šmits](https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx) | [Passing](https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo) | 2:42 | 2023-03-03 | 2025-12-23 |
+| [Passing](https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8) | [Lenards Šmits](https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx) | [Passing](https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo) | 2:42 | 2023-03-03 |  |
 | [Peaceful Oasis](https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil) | [Harlow Moss](https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE) | [Peaceful Oasis](https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP) | 2:57 | 2025-03-19 |  |
 | [Peaceful Waters](https://open.spotify.com/track/3A66mkYRioE3x2Yk7uHFdh) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Peaceful Waters](https://open.spotify.com/album/2aTeyEIlLEuOyMUqYKMfUj) | 2:33 | 2024-07-18 |  |
 | [Pentode](https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Pentode](https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A) | 2:39 | 2023-03-03 | 2024-07-19 |
@@ -223,7 +224,7 @@
 | [Sailing Home](https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb) | [Undis](https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo) | [Sailing Home](https://open.spotify.com/album/6pUlUufs3L6Zj3FQRm5Q4F) | 2:40 | 2024-10-01 |  |
 | [Sanctuary](https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Sanctuary](https://open.spotify.com/album/1Mm91Huwj8XSwn2Z6IqarA) | 3:03 | 2025-06-11 |  |
 | [Scots Pine](https://open.spotify.com/track/2Ch4DARTYZSOHgK8yq9e7h) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Scots Pine](https://open.spotify.com/album/30XzQtgzdmpr23G81JvMFJ) | 2:51 | 2025-02-21 | 2025-06-12 |
-| [Second Wishes](https://open.spotify.com/track/2nB18heJxd22fyEIp6u5HE) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Second Wishes](https://open.spotify.com/album/3NlwZy60OQ5UMMYuXMqCgi) | 2:13 | 2024-03-05 |  |
+| [Second Wishes](https://open.spotify.com/track/2nB18heJxd22fyEIp6u5HE) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Second Wishes](https://open.spotify.com/album/3NlwZy60OQ5UMMYuXMqCgi) | 2:13 | 2024-03-05 | 2026-02-01 |
 | [Secunda Carmina](https://open.spotify.com/track/2FwkigsYjlfvVJN4NCqyp3) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Secunda Carmina](https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG) | 3:23 | 2023-07-21 | 2024-06-04 |
 | [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 | 2023-03-03 | 2025-10-15 |
 | [Serene Dream](https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I) | [Chris Haugen](https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ) | [Serene Dream](https://open.spotify.com/album/4wzOVVcBdaUXPhw5Od3cf4) | 4:31 | 2024-02-06 | 2024-08-24 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 52893,
+  "num_followers": 52916,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "Antolog\u00eda de la M\u00fasica Cubana",
+        "url": "https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt"
+      },
+      "artists": [
+        {
+          "name": "Barbarito Diez",
+          "url": "https://open.spotify.com/artist/7moJIKSJ8ja7keltIrZzjE"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "La Cumbancha",
+      "url": "https://open.spotify.com/track/66dtKlJQaldv0pL0zASzGm"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "Colecci\u00f3n \u00c9xitos Joe Arroyo (Vol. 2)",
         "url": "https://open.spotify.com/album/0qGM0WX4GuaRaHWxzi73tX"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 268628,
       "name": "Yamulemau",
       "url": "https://open.spotify.com/track/3wyKZNE5qs4Etunb0dFrLw"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Antolog\u00eda de la M\u00fasica Cubana",
-        "url": "https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt"
-      },
-      "artists": [
-        {
-          "name": "Barbarito Diez",
-          "url": "https://open.spotify.com/artist/7moJIKSJ8ja7keltIrZzjE"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "La Cumbancha",
-      "url": "https://open.spotify.com/track/66dtKlJQaldv0pL0zASzGm"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "A Man And His Music",
-        "url": "https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89"
+        "name": "Salsa Y Control",
+        "url": "https://open.spotify.com/album/3zbVAA1zwyUcnUH3XDgJOX"
       },
       "artists": [
         {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
         }
       ],
-      "duration_ms": 230573,
-      "name": "El Raton",
-      "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
+      "duration_ms": 180106,
+      "name": "Bongo Loco",
+      "url": "https://open.spotify.com/track/2E97XhPc3vUQa1aozM2K1B"
     },
     {
       "added_at": "2024-09-24 21:05:36",

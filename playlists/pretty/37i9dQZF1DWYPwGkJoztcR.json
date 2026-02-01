@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 395941,
+  "num_followers": 395970,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-01-23 15:24:06",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 214817,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp"
-    },
-    {
-      "added_at": "2026-01-23 15:24:06",
-      "album": {
         "name": "Chlo\u00eb and the Next 20th Century",
         "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+    },
+    {
+      "added_at": "2026-01-23 15:24:06",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 214817,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp"
     },
     {
       "added_at": "2026-01-23 15:24:06",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-01-23 15:24:06",
       "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
-    },
-    {
-      "added_at": "2026-01-23 15:24:06",
-      "album": {
         "name": "Like It Always Was",
         "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 150904,
       "name": "Calling Out",
       "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
+    },
+    {
+      "added_at": "2026-01-23 15:24:06",
+      "album": {
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "added_at": "2026-01-23 15:24:06",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-01-23 15:24:06",
       "album": {
-        "name": "Do You Want To Be Honest?",
-        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 212565,
-      "name": "Do You Want To Be Honest?",
-      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
-    },
-    {
-      "added_at": "2026-01-23 15:24:06",
-      "album": {
         "name": "Beginners",
         "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 216005,
       "name": "Beginners",
       "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
+    },
+    {
+      "added_at": "2026-01-23 15:24:06",
+      "album": {
+        "name": "Do You Want To Be Honest?",
+        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 212565,
+      "name": "Do You Want To Be Honest?",
+      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
     },
     {
       "added_at": "2026-01-23 15:24:06",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-01-23 15:24:06",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt"
-      },
-      "artists": [
-        {
-          "name": "Youri Lentjes",
-          "url": "https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE"
-        }
-      ],
-      "duration_ms": 189064,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9"
-    },
-    {
-      "added_at": "2026-01-23 15:24:06",
-      "album": {
         "name": "the moment (acoustic)",
         "url": "https://open.spotify.com/album/66D5NgsCMW3RJXGYqAIkRQ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 190266,
       "name": "the moment - acoustic",
       "url": "https://open.spotify.com/track/4b9V2ARN8RJxGDrGAoXR8i"
+    },
+    {
+      "added_at": "2026-01-23 15:24:06",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt"
+      },
+      "artists": [
+        {
+          "name": "Youri Lentjes",
+          "url": "https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE"
+        }
+      ],
+      "duration_ms": 189064,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9"
     },
     {
       "added_at": "2026-01-23 15:24:06",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-01-23 15:24:06",
       "album": {
-        "name": "Little Love",
-        "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
-      },
-      "artists": [
-        {
-          "name": "Marta Arpini",
-          "url": "https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8"
-        }
-      ],
-      "duration_ms": 188478,
-      "name": "Little Love",
-      "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
-    },
-    {
-      "added_at": "2026-01-23 15:24:06",
-      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 206453,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
+    },
+    {
+      "added_at": "2026-01-23 15:24:06",
+      "album": {
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
+      },
+      "artists": [
+        {
+          "name": "Marta Arpini",
+          "url": "https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8"
+        }
+      ],
+      "duration_ms": 188478,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
     },
     {
       "added_at": "2026-01-23 15:24:06",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-01-23 15:24:06",
       "album": {
-        "name": "Suddenly Forever",
-        "url": "https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7"
-      },
-      "artists": [
-        {
-          "name": "Selwyn",
-          "url": "https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Suddenly Forever",
-      "url": "https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR"
-    },
-    {
-      "added_at": "2026-01-23 15:24:06",
-      "album": {
         "name": "Better Tomorrow",
         "url": "https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 211111,
       "name": "Better Tomorrow",
       "url": "https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA"
+    },
+    {
+      "added_at": "2026-01-23 15:24:06",
+      "album": {
+        "name": "Suddenly Forever",
+        "url": "https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7"
+      },
+      "artists": [
+        {
+          "name": "Selwyn",
+          "url": "https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Suddenly Forever",
+      "url": "https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR"
     },
     {
       "added_at": "2026-01-23 15:24:06",

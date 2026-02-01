@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-334 songs - 1 day 4 hr 16 min
+335 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Chasing Shadows, Pt\. 1](https://open.spotify.com/track/5lrxlHcu8D2Sl9807ZBI80) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 5:04 | 2022-12-30 |  |
 | [Clotho](https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 1:36 | 2022-01-21 | 2023-10-06 |
 | [Come Prima](https://open.spotify.com/track/3ufBy6taAXx6iiXxt2VaZO) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Memorie I](https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It) | 7:19 | 2025-05-22 |  |
-| [Confrontation 1](https://open.spotify.com/track/5Im1AfLERv9rAIgBNX8yDp) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [This Stolen Country of Mine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5C5ZkhlDDMKQnSmVG1x58u) | 6:50 | 2025-09-04 |  |
+| [Confrontation 1](https://open.spotify.com/track/5Im1AfLERv9rAIgBNX8yDp) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [This Stolen Country of Mine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5C5ZkhlDDMKQnSmVG1x58u) | 6:50 | 2025-09-04 | 2026-02-01 |
 | [Contrail](https://open.spotify.com/track/0kUaVSpFJ1c5If3fK3S8CX) | [Kane Ikin](https://open.spotify.com/artist/6cTJBOnAwPbGsoni23VAu4) | [Contrail](https://open.spotify.com/album/32ksiUukA1qPs0FrHTklxr) | 4:41 | 2022-05-25 |  |
 | [Cracks](https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Cracks](https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ) | 8:28 | 2022-01-21 | 2025-07-04 |
 | [Crystals](https://open.spotify.com/track/3EWBI2kILNiKA53AJ2Lpq4) | [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Crystals](https://open.spotify.com/album/7i6UA2PHzHi8AzHs0UH8uq) | 4:07 | 2023-10-06 | 2023-10-09 |
@@ -259,6 +259,7 @@
 | [Sleep](https://open.spotify.com/track/1TnEVTlFobaQCRYIXr1Ctc) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Sleep](https://open.spotify.com/album/5PWPXuYf4tFbW09yLqzJed) | 3:49 | 2025-01-31 |  |
 | [Slowdown](https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM) | [Thomas Brett](https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz) | [Slowdown](https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y) | 8:17 | 2022-03-18 |  |
 | [Snow Path](https://open.spotify.com/track/2LbQFXXIL6JRJodBGTJcXZ) | [Kylie Karlsson](https://open.spotify.com/artist/0YlpsaWcW0FShzeBUFIJQI) | [Snow Path](https://open.spotify.com/album/4t7m8bS6vq9OMXJz2iLQw0) | 5:44 | 2024-05-28 |  |
+| [Sometimes underwater \(feels like home\) \(Part 2\)](https://open.spotify.com/track/375WScoEe0HawG4gcfLAyi) | [A Space for Sound](https://open.spotify.com/artist/0tB57d7NG95iMYhPjbGZdg) | [Sometimes underwater \(feels like home\)](https://open.spotify.com/album/4ub2LzKfuW0gKMItp5ZFNp) | 4:56 | 2025-12-04 |  |
 | [Sorgjâl](https://open.spotify.com/track/1TCMjJrTpnQauIWksCcbzn) | [Massimo Silverio](https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI) | [Sorgjâl](https://open.spotify.com/album/4pSwRtFgic9SIdVqAu2oRB) | 10:00 | 2025-06-19 |  |
 | [Spectacle Of Ritual](https://open.spotify.com/track/2BqFBCxmlTAYLklSuyWi7y) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw) | 10:53 | 2023-12-01 | 2024-04-19 |
 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2022-01-21 | 2024-05-14 |

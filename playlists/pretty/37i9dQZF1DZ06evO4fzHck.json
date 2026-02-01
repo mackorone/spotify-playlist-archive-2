@@ -1,13 +1,29 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 594861,
+  "num_followers": 594924,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAACT1CX7DfJ8CPfkGoJiCzf0",
+  "snapshot_id": "aXv0gAAAAADErUN04h1v+gGEn4a+Fhst",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys Don\u2019t Cry (86 Mix)",
+        "url": "https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 158264,
+      "name": "Boys Don't Cry - 86 Mix / 2026 Remaster",
+      "url": "https://open.spotify.com/track/3nvGvWWUb5onTp6KjtGXvA"
+    },
     {
       "added_at": null,
       "album": {
@@ -791,22 +807,6 @@
       "duration_ms": 393986,
       "name": "Apart",
       "url": "https://open.spotify.com/track/6g5yxNUBisdqOqBLHeWQFc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 399866,
-      "name": "One Hundred Years",
-      "url": "https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl"
     }
   ],
   "unique_name": "This Is The Cure",

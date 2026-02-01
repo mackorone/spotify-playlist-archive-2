@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-759 songs - 1 day 8 hr 32 min
+760 songs - 1 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [Love Will Make You](https://open.spotify.com/track/2YzbIcOKUherdl9EdNweQL) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/1SORBAXHLKmapfgSoT1C7y) | 2:54 | 2024-01-26 | 2024-04-19 |
 | [Love Will Make You](https://open.spotify.com/track/4Vfi86zKcabroKWW4OSE6j) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/2tXZIxCz7pqrGuiXl1xf0g) | 2:54 | 2023-10-27 | 2024-08-24 |
 | [Lovely Places](https://open.spotify.com/track/1CXsjw1Or0ViS66ycVUA2W) | [Monkay](https://open.spotify.com/artist/6zmFDLFLjVKcJFgbF6PF6l), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Lovely Places](https://open.spotify.com/album/1jLJHOh1rOBQJobzDx934c) | 2:35 | 2025-03-22 | 2025-09-13 |
-| [loveseasons](https://open.spotify.com/track/47VYljDi6KJM3PPKTo7yQr) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [loveseasons](https://open.spotify.com/album/1i6h5nVrl2t3aVYCut5mgw) | 1:59 | 2024-11-22 |  |
+| [loveseasons](https://open.spotify.com/track/47VYljDi6KJM3PPKTo7yQr) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [loveseasons](https://open.spotify.com/album/1i6h5nVrl2t3aVYCut5mgw) | 1:59 | 2024-11-22 | 2026-02-01 |
 | [Lucid Dreams](https://open.spotify.com/track/3YIxQvOdOYYts92afIZpzz) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL) | [Lucid Dreams](https://open.spotify.com/album/5NApnQmYbhyref8q5QNbpd) | 3:23 | 2024-12-13 | 2025-02-07 |
 | [Lunar](https://open.spotify.com/track/75XyOPZx7izKlAx3t7Z9eH) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx), [Dubillard](https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8), [Estoric](https://open.spotify.com/artist/6N4Dpg7qAykAxA95NaYKLX), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Lunar](https://open.spotify.com/album/40w2cyLw0AFHejLi6BqqWr) | 2:06 | 2024-11-08 |  |
 | [Lunar Glow in the Lagoon](https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv) | [Julien Daïan](https://open.spotify.com/artist/1sbU4PhV0rilFBoBUcGMqa) | [Suppose It Is Butter](https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ) | 6:28 | 2024-11-22 | 2024-12-07 |
@@ -717,6 +717,7 @@
 | [Valencia](https://open.spotify.com/track/73BMJYyFBU2Awsz8HL27cz) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/4HMi4x83Z9sJHOUi5MhVsE) | 2:28 | 2024-03-20 | 2024-08-24 |
 | [Valencia](https://open.spotify.com/track/0P2xLcfVuluBvhxp6TPE0d) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Valencia](https://open.spotify.com/album/3okD9AoUHt223lwpPOZchp) | 2:00 | 2025-10-24 |  |
 | [Valued Forces](https://open.spotify.com/track/4uvgcOFDXvJpX6wIInjPJ4) | [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Valued Forces](https://open.spotify.com/album/6GhOVp3OF0XqudwFUNgAyL) | 2:36 | 2025-05-16 | 2025-05-26 |
+| [Veloria](https://open.spotify.com/track/3aUX5U0s99Bu9bAIvlymrn) | [yvwn.](https://open.spotify.com/artist/4nKqGQ0oFqlfBmXxiMPEO1) | [Veloria](https://open.spotify.com/album/0tpsI0tZ7SS59v3ci5XMDt) | 1:33 | 2026-01-30 |  |
 | [Velvet Keys](https://open.spotify.com/track/2lLWYl54En7wmYWO5FVhOf) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Velvet Keys](https://open.spotify.com/album/7wHdZd8aY5ivOMG7phgPTD) | 2:22 | 2024-09-06 |  |
 | [Velvet Mirage](https://open.spotify.com/track/1GiAPEbgGs8Md8p6iqIuc0) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Velvet Mirage](https://open.spotify.com/album/0lsIevcJhwXkyP78zRvgOP) | 1:58 | 2025-04-11 | 2025-04-27 |
 | [vento](https://open.spotify.com/track/19EzCbGr0oAHNimhMPIiM3) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [vento](https://open.spotify.com/album/0MOy8r1FSzmU6dpgwkSOTj) | 2:11 | 2025-08-22 | 2025-09-27 |

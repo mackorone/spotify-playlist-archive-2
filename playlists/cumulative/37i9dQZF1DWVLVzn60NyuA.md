@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-563 songs - 1 day 5 hr 30 min
+564 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 | 2021-12-16 | 2025-02-23 |
 | [Muévelo](https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Muévelo](https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG) | 3:14 | 2022-03-25 | 2022-10-03 |
 | [My Touch \- Dutch Remix](https://open.spotify.com/track/5SBy2tOnecAyebZwPD21YP) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Lauwtje](https://open.spotify.com/artist/1yWjbmwKNd1q0PI1V1BuQ7), [Rich2Gether](https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb) | [My Touch \(Dutch Remix\)](https://open.spotify.com/album/3HLfgkzaDwQCwURps1jIZ5) | 3:08 | 2021-12-16 | 2022-01-11 |
-| [MYKILLI](https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [MYKILLI](https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu) | 2:24 | 2021-12-16 |  |
+| [MYKILLI](https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [MYKILLI](https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu) | 2:24 | 2021-12-16 | 2026-02-01 |
 | [Mysterious](https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Mysterious](https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY) | 2:44 | 2022-10-17 | 2023-03-18 |
 | [N'y pense plus](https://open.spotify.com/track/5KCH6zWcx5qUYbmp0uaaE7) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [N'y pense plus](https://open.spotify.com/album/6OZw1o9TZEgHLnggVYmqLS) | 3:32 | 2021-12-16 | 2023-03-01 |
 | [Nancy](https://open.spotify.com/track/19WlgAuWYFPrmTng8GXn4B) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If), [Slim Kofi](https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6) | [Nancy](https://open.spotify.com/album/6R2ANqH5MSsYueMl6T2O0J) | 2:23 | 2025-09-26 | 2025-12-01 |
@@ -367,6 +367,7 @@
 | [Nobody Like You](https://open.spotify.com/track/1OxuUFo0lRwfWU2bm8nvRY) | [VERSANO](https://open.spotify.com/artist/2iw3duHiN2YGJfiLUJkIO3) | [Nobody Like You](https://open.spotify.com/album/3QKq7MUew8RASB1b0XVldC) | 3:05 | 2022-09-23 | 2023-04-27 |
 | [Not Over It](https://open.spotify.com/track/5vYWYCPdD6BqOy5hDYuCAi) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Aïcha Gill](https://open.spotify.com/artist/2qq2Vs81M7ReUEIxB0hjUu) | [Not Over It](https://open.spotify.com/album/6f26986svH5VZ03xVjsdap) | 3:32 | 2021-12-16 | 2023-04-07 |
 | [NOW I KNOW](https://open.spotify.com/track/4Q1kTtOhw3SosBs43un1bu) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:36 | 2024-10-04 | 2024-10-18 |
+| [Não Deixa](https://open.spotify.com/track/1WuLD3wxu9e9vYkmrPHYqD) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt) | [Não Deixa](https://open.spotify.com/album/7iVGJ5tk05XHR4NVd9vztR) | 3:16 | 2026-01-29 |  |
 | [Occuper](https://open.spotify.com/track/4V8y5OWqDxnoDIJ291i95B) | [Kiba](https://open.spotify.com/artist/0bz2VW1nPJpBXuPgZ8zMeY) | [Occuper](https://open.spotify.com/album/3vl9xM1ZhrdrnujGxeSvDH) | 2:24 | 2021-12-16 | 2022-07-29 |
 | [Ogen Dicht \(Wowo Será\)](https://open.spotify.com/track/4fGEopuAuQMFOv0aw7DjZa) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Ogen Dicht \(Wowo Será\)](https://open.spotify.com/album/0IExXLUzrIO6R9MJjmjDYh) | 3:17 | 2021-12-16 | 2022-02-24 |
 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 | 2023-07-07 |  |

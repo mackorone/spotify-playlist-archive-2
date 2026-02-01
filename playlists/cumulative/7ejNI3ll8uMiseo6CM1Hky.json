@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "4K CARPET",
+        "url": "https://open.spotify.com/album/6H57oq4pjohzx036mRDRsO"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120613,
+      "name": "4K CARPET",
+      "url": "https://open.spotify.com/track/284qRqsftKxNPWrejNEewL"
+    },
+    {
+      "album": {
         "name": "hypochondriac",
         "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
       },

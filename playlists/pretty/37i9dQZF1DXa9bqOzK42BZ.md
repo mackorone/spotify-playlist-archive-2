@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Rose Muhando
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,458 likes - 100 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,504 likes - 100 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [Dunia](https://open.spotify.com/track/6A8DkTvU2v7Z7UiHz76kwj) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Dunia](https://open.spotify.com/album/6JQDVjdfoEEr64kmDn6zCu) | 2:45 |
 | 100 | [Move On](https://open.spotify.com/track/6DZopdGdHv6WIh6d1Qh0rZ) | [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp) | [Move On](https://open.spotify.com/album/57FkLvxpYb3TvD6xbRvdOj) | 2:50 |
 
-Snapshot ID: `AAAAAA37+/sNlZRyncRGr+hDLAt0Wd3w`
+Snapshot ID: `AAAAALIHZJP4gJ3Jd4kddLY2bk+4WLiM`

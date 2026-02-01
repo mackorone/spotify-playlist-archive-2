@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con María Isabel.
 
-969 songs - 2 day 4 hr 15 min
+970 songs - 2 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [mañana](https://open.spotify.com/track/1BT8gWiMLQvN7oPQHS8RSR) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 2:55 | 2024-01-05 | 2024-01-20 |
 | [mañana](https://open.spotify.com/track/6eSlDHA3XYLha1e0z8I9DO) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 2:55 | 2023-07-07 | 2024-01-05 |
 | [Mañana](https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr) | [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO), [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Mañana](https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL) | 2:52 | 2021-12-02 | 2022-02-10 |
+| [Me Asusta Amar Tanto la Soledad](https://open.spotify.com/track/6026RHq4ZOiQH6Zdo0pTy3) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Me Asusta Amar Tanto la Soledad](https://open.spotify.com/album/1RjUloYZjSGblp5fKixULs) | 3:22 | 2026-01-30 |  |
 | [Me Caigo](https://open.spotify.com/track/0Q9YmrINbpJss0MBVSfMeE) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Me Caigo](https://open.spotify.com/album/3mIzqnZrrwgdJx7ojyFU9v) | 1:43 | 2025-08-08 |  |
 | [me cuesta hablar](https://open.spotify.com/track/7J2yiSiENs7Yexe08XW9h6) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [me cuesta hablar](https://open.spotify.com/album/4spdgnGkbsTubgVbkhdKfa) | 3:00 | 2025-09-26 |  |
 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 | 2024-03-08 | 2024-04-13 |
@@ -773,7 +774,7 @@
 | [Serotonina](https://open.spotify.com/track/0z6PsOx006lQADQl3gB5YC) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Serotonina](https://open.spotify.com/album/6D6hmtCKwlBSD5gqxUUMiP) | 2:54 | 2023-02-17 | 2023-04-14 |
 | [serotonina](https://open.spotify.com/track/0cvNgL1H2mrGMxYZJmagUP) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:42 | 2023-03-29 | 2023-08-05 |
 | [seu carinho](https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [seu carinho](https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh) | 2:39 | 2023-12-15 | 2024-04-13 |
-| [Señales](https://open.spotify.com/track/1itug8TlWzLL2jxCpWQwtp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Señales](https://open.spotify.com/album/4rCqAWYzn68QdzE9b0o77M) | 3:30 | 2025-04-04 |  |
+| [Señales](https://open.spotify.com/track/1itug8TlWzLL2jxCpWQwtp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Señales](https://open.spotify.com/album/4rCqAWYzn68QdzE9b0o77M) | 3:30 | 2025-04-04 | 2026-02-01 |
 | [Shapeshifting](https://open.spotify.com/track/52oyNRoKTuet5V4Q0MATIz) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Shapeshifting](https://open.spotify.com/album/03xfkeByIGKb2tlzSrNuxM) | 3:26 | 2021-12-02 | 2022-01-25 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-03-21 | 2022-05-11 |
 | [Si Es Verdad](https://open.spotify.com/track/64FLKmzgsDYXIj0S37de7W) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Si Es Verdad](https://open.spotify.com/album/4PmJkc7tLBzrQt2dBfdWHr) | 2:51 | 2025-06-27 |  |

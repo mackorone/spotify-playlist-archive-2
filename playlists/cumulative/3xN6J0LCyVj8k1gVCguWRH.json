@@ -16259,6 +16259,24 @@
     },
     {
       "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
+    },
+    {
+      "album": {
         "name": "The Prelude",
         "url": "https://open.spotify.com/album/3J6pyRJ6bL9o87SPnhWVZC"
       },
@@ -35862,7 +35880,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 219534,
       "name": "GHOST TOWN",
       "url": "https://open.spotify.com/track/4Lm6orZAzMWLIdSwCRz5Ei"
@@ -40612,7 +40630,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 214576,
       "name": "Hey Lady",
       "url": "https://open.spotify.com/track/0IzSenC5MvcuDV73eCKhtG"
@@ -50320,7 +50338,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 179439,
       "name": "KLK Kilode",
       "url": "https://open.spotify.com/track/2kllVZAiuCdCYK0j6VcO9f"
@@ -51696,7 +51714,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 197604,
       "name": "Lay Lady Lay - Austin Texas Version",
       "url": "https://open.spotify.com/track/4haAp3puefttXjVcm2PWOH"
@@ -60240,7 +60258,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 211479,
       "name": "Might Be Dreamin'",
       "url": "https://open.spotify.com/track/1s15qTfYdr0gV2X2Sh1gaA"
@@ -65264,7 +65282,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 166987,
       "name": "NO MORE CAMERAS",
       "url": "https://open.spotify.com/track/2FPWZhKih3iNdP3fGT7xLs"
@@ -95391,6 +95409,24 @@
     },
     {
       "album": {
+        "name": "GATHER",
+        "url": "https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188747,
+      "name": "TOKYO DRIFT",
+      "url": "https://open.spotify.com/track/3cHkS1oZDYBY31NXdqVCLw"
+    },
+    {
+      "album": {
         "name": "Tomograms",
         "url": "https://open.spotify.com/album/7pBc5KvnCNBcqCaxcwwzBI"
       },
@@ -101524,7 +101560,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 202102,
       "name": "Way Home",
       "url": "https://open.spotify.com/track/6kZiXSwSrIXAqtXH1KNkRN"

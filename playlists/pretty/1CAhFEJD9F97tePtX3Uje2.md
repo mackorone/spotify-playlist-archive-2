@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 336 likes - 249 songs - 14 hr 31 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 336 likes - 250 songs - 14 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,5 +257,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 247 | [IMPURE](https://open.spotify.com/track/5JsZWjPY3RctjRmPa98DPw) | [Planet V](https://open.spotify.com/artist/50KY1fYJqwGBSfCRXMtZjg) | [IMPURE](https://open.spotify.com/album/65nD6c1k6sVGXxHFaNNagJ) | 3:27 |
 | 248 | [Focus \- Instrumental](https://open.spotify.com/track/2PeUY1CQvZ10wu7qyGRsdI) | [BlazinG](https://open.spotify.com/artist/0CZJEhOFoOiEgYc2iUsNV9) | [INSight \(Instrumental Versions\)](https://open.spotify.com/album/00XSjoIbxp9jdOppZVyxcn) | 3:46 |
 | 249 | [Let Me Know](https://open.spotify.com/track/4eCTlg0pauVt8REuAuX0sz) | [ROUDS](https://open.spotify.com/artist/5I1A3GQ1w7E1uQnJvfbC4Z) | [Let Me Know](https://open.spotify.com/album/6FB153y3kIgVArxGejzHgV) | 2:38 |
+| 250 | [BETRAY ME](https://open.spotify.com/track/6NOejift3Q16eUfQZgJAwG) | [V.I.P.N](https://open.spotify.com/artist/2gtZypy6QDN8UfPbDQG6ro) | [BETRAY ME](https://open.spotify.com/album/4sm7HjHhd7o1yXYErV0IN0) | 2:05 |
 
-Snapshot ID: `AAABCV5OFccnGgvxMfDJPnT+4dHSGcMB`
+Snapshot ID: `AAABCjI9t/wHYgi1rktbdFNR77HgN3mK`

@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: YOUNG POSSE, 李大奔Benzo\)
 
-263 songs - 13 hr 47 min
+264 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Memu Aagamu](https://open.spotify.com/track/4C81bkQ2tkMmYk4bGFCrv5) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi) | [Memu Aagamu](https://open.spotify.com/album/3c7ooAYb67kWlfNC3DpMjh) | 2:47 | 2022-08-29 | 2024-08-14 |
 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 | 2025-09-08 |  |
 | [missed call](https://open.spotify.com/track/4DvbIQF7woSBVO3PkxGu1y) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [missed call](https://open.spotify.com/album/3TxhBZL0RbHDMrZuoNGd9q) | 2:21 | 2025-07-11 |  |
+| [Mono \(Feat\. skaiwater\)](https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC) | 2:50 | 2026-01-31 |  |
 | [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2022-09-15 | 2025-03-07 |
 | [My Love](https://open.spotify.com/track/3mhrwbSKg78tx8Klzal2mC) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [Francine Diaz](https://open.spotify.com/artist/38dzzX7PgHPXNHbMQDXi7l) | [My Love](https://open.spotify.com/album/4mVY5zUQmYI10LZMiVO94T) | 3:03 | 2024-03-08 | 2025-12-19 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-12-20 | 2022-06-01 |

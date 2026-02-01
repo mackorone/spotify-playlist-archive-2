@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Della Mae
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,489 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,485 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 99 | [Nowhere, Tennessee](https://open.spotify.com/track/36B7HVS4Wx1ncycG9TFg2l) | [Lost Patterns](https://open.spotify.com/artist/2s9hIIcuLrlQIde5CS15TI) | [Nowhere, Tennessee](https://open.spotify.com/album/00ZHRxFrPeaP9KJ1681p6W) | 3:06 |
 | 100 | [Paperback Dream](https://open.spotify.com/track/67rcVPWAQ63JxoRyJlnsW9) | [Simon Cropp](https://open.spotify.com/artist/6EXjT6qi3Syos9JtJjJRDV) | [Paperback Dream](https://open.spotify.com/album/7adDoWbboIEPjOza1iFtFe) | 2:51 |
 
-Snapshot ID: `AAAAAEoO5Ud8aNhGSSHcutEZ+1PFz4fe`
+Snapshot ID: `AAAAAOF1SxAJnWcRr2uUF5mFcMSZ4FyM`

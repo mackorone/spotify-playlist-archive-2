@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 61642,
+  "num_followers": 61667,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAABkLd8RvBBodYbWfY8ZKpzu",
+  "snapshot_id": "aXv0gAAAAAA4npElKyZWmd0hHondmHfl",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear Has No Power",
-        "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "Fear Has No Power",
-      "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Response",
         "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 234466,
       "name": "At Your Name (Yahweh, Yahweh)",
       "url": "https://open.spotify.com/track/2oi9hdNzZ5SFSzg8oEPxoA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear Has No Power",
+        "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "Fear Has No Power",
+      "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
     },
     {
       "added_at": null,

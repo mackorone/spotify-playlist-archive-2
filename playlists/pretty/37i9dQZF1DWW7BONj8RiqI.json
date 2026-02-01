@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 243129,
+  "num_followers": 243160,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Roll It Gal",
-      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
         "name": "Overdue",
         "url": "https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 177925,
       "name": "Overdue",
       "url": "https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Roll It Gal",
+      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -607,8 +607,8 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Too Real",
-        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
+        "name": "No Apology",
+        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Too Real",
-      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
+      "duration_ms": 169570,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -691,18 +691,26 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "No Apology",
-        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
+        "name": "King Bubba Mashup, Vol. 1",
+        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
       "artists": [
         {
           "name": "Kerwin Du Bois",
           "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        },
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        },
+        {
+          "name": "King Bubba Fm",
+          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
         }
       ],
-      "duration_ms": 169570,
-      "name": "No Apology",
-      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
+      "duration_ms": 159013,
+      "name": "Monster Winer",
+      "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -863,26 +871,18 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "King Bubba Mashup, Vol. 1",
-        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
+        "name": "Too Real",
+        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
       },
       "artists": [
         {
           "name": "Kerwin Du Bois",
           "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        },
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        },
-        {
-          "name": "King Bubba Fm",
-          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
         }
       ],
-      "duration_ms": 159013,
-      "name": "Monster Winer",
-      "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
+      "duration_ms": 186000,
+      "name": "Too Real",
+      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 167019,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
         "name": "How ah Livin",
         "url": "https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 229458,
       "name": "How ah Livin",
       "url": "https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 167019,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "The Carnival Jumbies Experiment",
-        "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
-      },
-      "artists": [
-        {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
-        }
-      ],
-      "duration_ms": 158917,
-      "name": "Carnival Jumbie",
-      "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
         "name": "Sit on My Face",
         "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 87086,
       "name": "Sit on My Face",
       "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
+        "name": "The Carnival Jumbies Experiment",
+        "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
+      },
+      "artists": [
+        {
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+        }
+      ],
+      "duration_ms": 158917,
+      "name": "Carnival Jumbie",
+      "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
+        "name": "Front Yard Wet",
+        "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 171885,
+      "name": "Front Yard Wet",
+      "url": "https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
         "name": "Search Party",
         "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
       },
@@ -1635,18 +1651,22 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
-        "name": "Front Yard Wet",
-        "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
+        "name": "Lose Weight",
+        "url": "https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF"
       },
       "artists": [
         {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+          "name": "Sackie",
+          "url": "https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh"
+        },
+        {
+          "name": "System32",
+          "url": "https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20"
         }
       ],
-      "duration_ms": 171885,
-      "name": "Front Yard Wet",
-      "url": "https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48"
+      "duration_ms": 167999,
+      "name": "Lose Weight",
+      "url": "https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1671,26 +1691,6 @@
       "duration_ms": 159691,
       "name": "SYMPTOMS",
       "url": "https://open.spotify.com/track/6xPovreLJAWcjphIlRZbqC"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
-        "name": "Lose Weight",
-        "url": "https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF"
-      },
-      "artists": [
-        {
-          "name": "Sackie",
-          "url": "https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh"
-        },
-        {
-          "name": "System32",
-          "url": "https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20"
-        }
-      ],
-      "duration_ms": 167999,
-      "name": "Lose Weight",
-      "url": "https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46"
     },
     {
       "added_at": "2026-01-16 00:00:13",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2026-01-16 00:00:13",
       "album": {
+        "name": "Position",
+        "url": "https://open.spotify.com/album/5qdP2o3JzTFe5ip7ljcEtX"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "Position",
+      "url": "https://open.spotify.com/track/5q4NYj1C7JN2SaP6xgbpRT"
+    },
+    {
+      "added_at": "2026-01-16 00:00:13",
+      "album": {
         "name": "Down Dey (Refix)",
         "url": "https://open.spotify.com/album/3KlpWoAIm83G0QQFZsubCY"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 173124,
       "name": "Down Dey - Refix",
       "url": "https://open.spotify.com/track/6ergIagYJbc09n51JHK3y1"
-    },
-    {
-      "added_at": "2026-01-16 00:00:13",
-      "album": {
-        "name": "Vitamin D",
-        "url": "https://open.spotify.com/album/6eUo0npwgBpo0cKQ7XtiOK"
-      },
-      "artists": [
-        {
-          "name": "Yung Bredda",
-          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Vitamin D",
-      "url": "https://open.spotify.com/track/2ayBxvV8lstsAY0grHVc4q"
     }
   ],
   "unique_name": "Massive Soca Hits",

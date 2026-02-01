@@ -1,13 +1,33 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 252838,
+  "num_followers": 252881,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAADe/mwZhuJ1KujNgm3xIOPV",
+  "snapshot_id": "aXv0gAAAAAB6eA6Hfn9chBMFMR2NS8uI",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Invit\u00e9 a Bailar, Me Dijo Adi\u00f3s Muy Pronto",
+        "url": "https://open.spotify.com/album/79Cm6Btxi0sAfOHn1x4HsP"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Afrutadita",
+      "url": "https://open.spotify.com/track/5bwHiSQsfb3yFR02kxYeL7"
+    },
     {
       "added_at": null,
       "album": {
@@ -915,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MPNV (Mudarnos para No Volver)",
-        "url": "https://open.spotify.com/album/0dnFtQd5hZJJFZsUDhigU4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samtwenty",
-          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Papalote",
-      "url": "https://open.spotify.com/track/66EFQ2qfWurweQwTvQrgxo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cora",
         "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
@@ -951,6 +951,26 @@
       "duration_ms": 164597,
       "name": "Legendarios",
       "url": "https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MPNV (Mudarnos para No Volver)",
+        "url": "https://open.spotify.com/album/0dnFtQd5hZJJFZsUDhigU4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Papalote",
+      "url": "https://open.spotify.com/track/66EFQ2qfWurweQwTvQrgxo"
     },
     {
       "added_at": null,
@@ -1047,34 +1067,6 @@
       "duration_ms": 163226,
       "name": "Lejos de Aqu\u00ed",
       "url": "https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bfC\u00f3mo Terminamos Aqu\u00ed?",
-        "url": "https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "En Lo Malo Me Va Bien",
-      "url": "https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL"
     }
   ],
   "unique_name": "This Is Charles Ans",

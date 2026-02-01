@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93778,
+  "num_followers": 93775,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-01-29 23:00:41",
       "album": {
-        "name": "Ingen vet",
-        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+        "name": "Den k\u00e4nslan",
+        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
       },
       "artists": [
         {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
         }
       ],
-      "duration_ms": 160975,
-      "name": "Ingen vet",
-      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+      "duration_ms": 166963,
+      "name": "Den k\u00e4nslan",
+      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
     },
     {
       "added_at": "2026-01-29 23:00:41",
@@ -663,6 +663,22 @@
       "duration_ms": 182567,
       "name": "T\u00e5rar",
       "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
+    },
+    {
+      "added_at": "2026-01-29 23:00:41",
+      "album": {
+        "name": "Ingen vet",
+        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 160975,
+      "name": "Ingen vet",
+      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
     },
     {
       "added_at": "2026-01-29 23:00:41",
@@ -703,22 +719,6 @@
       "duration_ms": 170000,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/6F5ZOMStXsxHAfWDqpcOVZ"
-    },
-    {
-      "added_at": "2026-01-29 23:00:41",
-      "album": {
-        "name": "Den k\u00e4nslan",
-        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 166963,
-      "name": "Den k\u00e4nslan",
-      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
     },
     {
       "added_at": "2026-01-29 23:00:41",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-01-29 23:00:41",
       "album": {
+        "name": "B\u00e4ttre h\u00e4r",
+        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 188695,
+      "name": "B\u00e4ttre h\u00e4r",
+      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
+    },
+    {
+      "added_at": "2026-01-29 23:00:41",
+      "album": {
         "name": "V\u00e5r b\u00e4sta tid",
         "url": "https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5"
       },
@@ -795,26 +811,6 @@
       "duration_ms": 216511,
       "name": "V\u00e5r b\u00e4sta tid",
       "url": "https://open.spotify.com/track/5v1oyyCiPfOtesq1lsuNDE"
-    },
-    {
-      "added_at": "2026-01-29 23:00:41",
-      "album": {
-        "name": "St\u00f6rst av allt",
-        "url": "https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr"
-      },
-      "artists": [
-        {
-          "name": "Uno Svenningsson",
-          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
-        },
-        {
-          "name": "Mauro Scocco",
-          "url": "https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV"
-        }
-      ],
-      "duration_ms": 195139,
-      "name": "St\u00f6rst av allt",
-      "url": "https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k"
     },
     {
       "added_at": "2026-01-29 23:00:41",
@@ -835,18 +831,22 @@
     {
       "added_at": "2026-01-29 23:00:41",
       "album": {
-        "name": "B\u00e4ttre h\u00e4r",
-        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
+        "name": "St\u00f6rst av allt",
+        "url": "https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr"
       },
       "artists": [
         {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+          "name": "Uno Svenningsson",
+          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
+        },
+        {
+          "name": "Mauro Scocco",
+          "url": "https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV"
         }
       ],
-      "duration_ms": 188695,
-      "name": "B\u00e4ttre h\u00e4r",
-      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
+      "duration_ms": 195139,
+      "name": "St\u00f6rst av allt",
+      "url": "https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k"
     },
     {
       "added_at": "2026-01-29 23:00:41",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-01-29 23:00:41",
       "album": {
-        "name": "Rain in the River",
-        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Rain in the River",
-      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
-    },
-    {
-      "added_at": "2026-01-29 23:00:41",
-      "album": {
         "name": "Greczula",
         "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 166451,
       "name": "All The Things That I Am",
       "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
+    },
+    {
+      "added_at": "2026-01-29 23:00:41",
+      "album": {
+        "name": "Rain in the River",
+        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Rain in the River",
+      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
     },
     {
       "added_at": "2026-01-29 23:00:41",
@@ -931,38 +931,6 @@
     {
       "added_at": "2026-01-29 23:00:41",
       "album": {
-        "name": "Bastard",
-        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
-      },
-      "artists": [
-        {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Lilla livet",
-      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
-    },
-    {
-      "added_at": "2026-01-29 23:00:41",
-      "album": {
-        "name": "Skebokvarnsv. 209 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
-        }
-      ],
-      "duration_ms": 213115,
-      "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
-      "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
-    },
-    {
-      "added_at": "2026-01-29 23:00:41",
-      "album": {
         "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
         "url": "https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0"
       },
@@ -979,18 +947,18 @@
     {
       "added_at": "2026-01-29 23:00:41",
       "album": {
-        "name": "Don\u2019t Look Back In Anger",
-        "url": "https://open.spotify.com/album/0OG4BDakNEA4JCXsrofX0T"
+        "name": "Bastard",
+        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
       },
       "artists": [
         {
-          "name": "Dad Harmony",
-          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
         }
       ],
-      "duration_ms": 222785,
-      "name": "Don't Look Back in Anger",
-      "url": "https://open.spotify.com/track/1aXG3oxcEYBvIztcrZOd0x"
+      "duration_ms": 200053,
+      "name": "Lilla livet",
+      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
     },
     {
       "added_at": "2026-01-29 23:00:41",
@@ -1011,6 +979,38 @@
       "duration_ms": 243137,
       "name": "L\u00e5ngholmsgatan 2",
       "url": "https://open.spotify.com/track/5rwGiXG9q84ah927p7Vcdo"
+    },
+    {
+      "added_at": "2026-01-29 23:00:41",
+      "album": {
+        "name": "Don\u2019t Look Back In Anger",
+        "url": "https://open.spotify.com/album/0OG4BDakNEA4JCXsrofX0T"
+      },
+      "artists": [
+        {
+          "name": "Dad Harmony",
+          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
+        }
+      ],
+      "duration_ms": 222785,
+      "name": "Don't Look Back in Anger",
+      "url": "https://open.spotify.com/track/1aXG3oxcEYBvIztcrZOd0x"
+    },
+    {
+      "added_at": "2026-01-29 23:00:41",
+      "album": {
+        "name": "Skebokvarnsv. 209 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "duration_ms": 213115,
+      "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
+      "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
     },
     {
       "added_at": "2026-01-29 23:00:41",
@@ -1063,34 +1063,18 @@
     {
       "added_at": "2026-01-29 23:00:41",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+        "name": "F\u00f6rloraren",
+        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
       },
       "artists": [
         {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
         }
       ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2026-01-29 23:00:41",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/6nwnSLk7ue6UM1UIc5KXAz"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 200833,
-      "name": "When Lights Go Down",
-      "url": "https://open.spotify.com/track/4fIO2zmiM0AyzE1RfIl6UP"
+      "duration_ms": 185333,
+      "name": "F\u00f6rloraren",
+      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
     },
     {
       "added_at": "2026-01-29 23:00:41",
@@ -1111,18 +1095,34 @@
     {
       "added_at": "2026-01-29 23:00:41",
       "album": {
-        "name": "F\u00f6rloraren",
-        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
+        "name": "30",
+        "url": "https://open.spotify.com/album/6nwnSLk7ue6UM1UIc5KXAz"
       },
       "artists": [
         {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
         }
       ],
-      "duration_ms": 185333,
-      "name": "F\u00f6rloraren",
-      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
+      "duration_ms": 200833,
+      "name": "When Lights Go Down",
+      "url": "https://open.spotify.com/track/4fIO2zmiM0AyzE1RfIl6UP"
+    },
+    {
+      "added_at": "2026-01-29 23:00:41",
+      "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
     },
     {
       "added_at": "2026-01-29 23:00:41",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-01-29 23:00:41",
       "album": {
-        "name": "Andra landskap 50",
-        "url": "https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0"
-      },
-      "artists": [
-        {
-          "name": "Ulf Lundell",
-          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
-        }
-      ],
-      "duration_ms": 295520,
-      "name": "\u00d6stra Svealand (2025)",
-      "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
-    },
-    {
-      "added_at": "2026-01-29 23:00:41",
-      "album": {
         "name": "Andetag (Man m\u00e5ste leva nu)",
         "url": "https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o"
       },
@@ -1295,22 +1279,6 @@
     {
       "added_at": "2026-01-29 23:00:41",
       "album": {
-        "name": "Make Up Your Mind",
-        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Make Up Your Mind",
-      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
-    },
-    {
-      "added_at": "2026-01-29 23:00:41",
-      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
       },
@@ -1331,6 +1299,38 @@
     {
       "added_at": "2026-01-29 23:00:41",
       "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
+    },
+    {
+      "added_at": "2026-01-29 23:00:41",
+      "album": {
+        "name": "Andra landskap 50",
+        "url": "https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0"
+      },
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
+        }
+      ],
+      "duration_ms": 295520,
+      "name": "\u00d6stra Svealand (2025)",
+      "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
+    },
+    {
+      "added_at": "2026-01-29 23:00:41",
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
       },
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-01-29 23:00:41",
       "album": {
-        "name": "Two in This Story",
-        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 234972,
-      "name": "Two in This Story",
-      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
-    },
-    {
-      "added_at": "2026-01-29 23:00:41",
-      "album": {
         "name": "Bl\u00e5jeans och stj\u00e4rnljus",
         "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 209610,
       "name": "Bl\u00e5jeans och stj\u00e4rnljus",
       "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
+    },
+    {
+      "added_at": "2026-01-29 23:00:41",
+      "album": {
+        "name": "Two in This Story",
+        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 234972,
+      "name": "Two in This Story",
+      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
     },
     {
       "added_at": "2026-01-29 23:00:41",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-01-29 23:00:41",
       "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/6hFvQaW5C5tc2HmmEq1DqA"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Country Enough",
-      "url": "https://open.spotify.com/track/4BmKl4Z5BnWSqOBAeTL2DJ"
-    },
-    {
-      "added_at": "2026-01-29 23:00:41",
-      "album": {
         "name": "Bara vi andas",
         "url": "https://open.spotify.com/album/70IDdegrPyqI2bWYFW5GmL"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 167266,
       "name": "Bara vi andas",
       "url": "https://open.spotify.com/track/1WbUSbSwnQ6YbvWiqjoe6L"
+    },
+    {
+      "added_at": "2026-01-29 23:00:41",
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/6hFvQaW5C5tc2HmmEq1DqA"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Country Enough",
+      "url": "https://open.spotify.com/track/4BmKl4Z5BnWSqOBAeTL2DJ"
     },
     {
       "added_at": "2026-01-29 23:00:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,753 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,811 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 46 | [Waterfall In The Forest](https://open.spotify.com/track/0yjxDtpJck8VnEaLh7rcyK) | [Stereo Outdoor Sampling](https://open.spotify.com/artist/34IdTgwUmZY7V5J44aFSzR) | [Waterfall In The Forest](https://open.spotify.com/album/5ZJavnJ7Qs0th2aPSEeUFO) | 4:02 |
 | 47 | [Dartmoor Stream Serenade](https://open.spotify.com/track/60yn8MpsON8VtDAqoCNrO6) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Jason Singh](https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ) | [Dartmoor Water Whispers](https://open.spotify.com/album/3CKitWwvOa4iloggIOkQbY) | 3:50 |
 | 48 | [Big and calm creek, distant wind in trees](https://open.spotify.com/track/5JH5HC1r8ljEGjXYq8Uzcd) | [Sounds of Scandinavia](https://open.spotify.com/artist/3SfbWy42IpSQrfjrIErmKt) | [Waters of the North](https://open.spotify.com/album/6eUzmobKzaTB4q8VhhNxMD) | 2:45 |
-| 49 | [Lonely River](https://open.spotify.com/track/6dfbeC2j0b2k5EfpnmeObP) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Lonely River](https://open.spotify.com/album/4rVxJYIv94lZyf6i5JQell) | 2:59 |
-| 50 | [Soothing Water Streams](https://open.spotify.com/track/5IUIk8PJ1gN7LMTIs1DtAp) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Soothing Water Streams](https://open.spotify.com/album/6TNpXO68x4e9xK0ca0GSgU) | 4:06 |
+| 49 | [Stream for Mind Balance](https://open.spotify.com/track/44Pn1Qi4iLLRYBnvEdSBSj) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Mystic Stream](https://open.spotify.com/album/7H4w3hmgIveqzbEgGHBWNj) | 2:55 |
+| 50 | [Lonely River](https://open.spotify.com/track/6dfbeC2j0b2k5EfpnmeObP) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Lonely River](https://open.spotify.com/album/4rVxJYIv94lZyf6i5JQell) | 2:59 |
 
 Snapshot ID: `AAAAAFnvzh58XYSDbqGW+qYb0s27ZrhG`

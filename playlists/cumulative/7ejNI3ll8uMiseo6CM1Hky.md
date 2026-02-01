@@ -4,11 +4,12 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-183 songs - 10 hr 17 min
+184 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2d Dreaming](https://open.spotify.com/track/5nVBO2OUUSRgJf8MO1wolg) | [TOFUKU](https://open.spotify.com/artist/3hg9J1p0uyzhuLwMic8pvW) | [2d Dreaming](https://open.spotify.com/album/2fihiE8eu3cnyI8dMch47L) | 4:33 | 2019-05-28 |  |
+| [4K CARPET](https://open.spotify.com/track/284qRqsftKxNPWrejNEewL) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [4K CARPET](https://open.spotify.com/album/6H57oq4pjohzx036mRDRsO) | 2:00 | 2026-01-31 |  |
 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2023-01-18 |  |
 | [A Little Bit Bad](https://open.spotify.com/track/3FcfrGCfPw5hBAXRXqkXv7) | [KittenSneeze](https://open.spotify.com/artist/2WKgR22LeNxOzIllOfH4ZW), [Tunnelberg](https://open.spotify.com/artist/0bW6E136CbdrMmbk6MlJiB), [The Musical Ghost](https://open.spotify.com/artist/5NCTflTCAp9FUqwYRz6N9n) | [A Little Bit Bad](https://open.spotify.com/album/7fdSRH1s1pNbyfu8141YIa) | 2:21 | 2026-01-16 |  |
 | [Abstraction \(Big Band Version\)](https://open.spotify.com/track/6RlqmQ5DMLDvXxibvBAsLG) | [KittenSneeze](https://open.spotify.com/artist/2WKgR22LeNxOzIllOfH4ZW), [Amanda Hufford](https://open.spotify.com/artist/69BxTUnWd8ujTo7GUdGFdA), [Michael Kovach](https://open.spotify.com/artist/7Gz9xqvzDYD8G3LnlolOdZ), [CLOUDSAVE](https://open.spotify.com/artist/6Po9si7KKnwz4fDuerSR7V) | [Abstraction \(Big Band Version\)](https://open.spotify.com/album/5x0168foSD4FsNjrLfgt8S) | 3:36 | 2026-01-16 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy these songs while you eat.",
-  "num_followers": 9286,
+  "num_followers": 9285,
   "original_name": "Iftar",
   "owner": {
     "name": "Spotify",
@@ -831,30 +831,6 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Duygu Pinari",
-        "url": "https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID"
-      },
-      "artists": [
-        {
-          "name": "P\u0131nar K\u00f6ksal",
-          "url": "https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ"
-        },
-        {
-          "name": "G\u00f6ksel Baktagir",
-          "url": "https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp"
-        },
-        {
-          "name": "Hakan Aysev",
-          "url": "https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk"
-        }
-      ],
-      "duration_ms": 277199,
-      "name": "Esinti (K\u00fcrdi Saz Eseri)",
-      "url": "https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
         "name": "Sevda Yolunda",
         "url": "https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 369615,
       "name": "\u015eark\u0131lar S\u00f6yl\u00fcyorsan (Nihavent \u015eark\u0131)",
       "url": "https://open.spotify.com/track/4BEPW6QrhMA7FyKcMzuaW8"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Duygu Pinari",
+        "url": "https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID"
+      },
+      "artists": [
+        {
+          "name": "P\u0131nar K\u00f6ksal",
+          "url": "https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ"
+        },
+        {
+          "name": "G\u00f6ksel Baktagir",
+          "url": "https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp"
+        },
+        {
+          "name": "Hakan Aysev",
+          "url": "https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk"
+        }
+      ],
+      "duration_ms": 277199,
+      "name": "Esinti (K\u00fcrdi Saz Eseri)",
+      "url": "https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -919,26 +919,18 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Duygu Pinari",
-        "url": "https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID"
+        "name": "Ahmet \u00d6zhan",
+        "url": "https://open.spotify.com/album/5Nf1taWXqdReHYkdzZo2MX"
       },
       "artists": [
         {
-          "name": "P\u0131nar K\u00f6ksal",
-          "url": "https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ"
-        },
-        {
-          "name": "G\u00f6ksel Baktagir",
-          "url": "https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp"
-        },
-        {
-          "name": "Hakan Aysev",
-          "url": "https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk"
+          "name": "Ahmet \u00d6zhan",
+          "url": "https://open.spotify.com/artist/6Du3hAAxRtIdKp3zF66Z78"
         }
       ],
-      "duration_ms": 240326,
-      "name": "Co\u015fku (Rast Saz Eseri)",
-      "url": "https://open.spotify.com/track/5XAaaO2urMdS43jypIA7ac"
+      "duration_ms": 84241,
+      "name": "H\u00fczzam Saz Semai",
+      "url": "https://open.spotify.com/track/2g0dHAFlelutOOWJKnW5am"
     }
   ],
   "unique_name": "Iftar",

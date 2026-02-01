@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,561 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,624 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 12 | [Kannullo Nee Roopame](https://open.spotify.com/track/7jbNMW04ju92tfMsSwIJyi) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Ninne Pelladatha](https://open.spotify.com/album/541GRaOEn6UBptC1WlX8E1) | 5:21 |
 | 13 | [Manasu Maree](https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa) | [Amit Trivedi, Shashaa Tirupati, Yazin Nizar](https://open.spotify.com/artist/3TttERM9n1ASk6Afa8Vgjt) | [V](https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc) | 4:27 |
 | 14 | [Oh Prema](https://open.spotify.com/track/63NdWczrPCYGWKY1RV4Zbh) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Sita Ramam \(Telugu\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5d0eh1FoU7tOYEnHLohjjv) | 3:28 |
-| 15 | [Aa Seetadevi Navvula](https://open.spotify.com/track/51ZgZSvy6VfmT89POoGwLf) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Rowdy Fellow](https://open.spotify.com/album/46f207Gwf1JOc9Ia1WRz7v) | 4:15 |
-| 16 | [Chilipiga](https://open.spotify.com/track/5J3Gykr4QdXzgbRGlusUrM) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:28 |
+| 15 | [Chilipiga](https://open.spotify.com/track/5J3Gykr4QdXzgbRGlusUrM) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:28 |
+| 16 | [Aa Seetadevi Navvula](https://open.spotify.com/track/51ZgZSvy6VfmT89POoGwLf) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Rowdy Fellow](https://open.spotify.com/album/46f207Gwf1JOc9Ia1WRz7v) | 4:15 |
 | 17 | [Ee Raathale](https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Radhe Shyam \(Telugu\)](https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel) | 3:52 |
 | 18 | [Ay Pilla \- Telugu](https://open.spotify.com/track/5nVFeACm96rucybpDAjfK5) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK) | [Love Story](https://open.spotify.com/album/2qPF34ldSTpFg8SEywoQ8E) | 4:13 |
 | 19 | [Madhurame](https://open.spotify.com/track/4sbR8sUkAe6tJTooAQauEe) | [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 5:43 |

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,763 songs - 4 day 10 hr 34 min
+1,765 songs - 4 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -861,6 +861,7 @@
 | [Last Train to London](https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:32 | 2024-03-04 |  |
 | [lastet](https://open.spotify.com/track/1SQsDwPlIxoBbUyjvET7US) | [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [Takeoff Prod](https://open.spotify.com/artist/3TDdgh9R8V77E8z1MrOLWX), [Leo cont](https://open.spotify.com/artist/0UByIf7UhdjJKWl4CGm8eI), [Travis](https://open.spotify.com/artist/7kZvC6IAN4NPYhGqoQd95K) | [Abandoned Payphone Prayers](https://open.spotify.com/album/5Z2G3coccrXAdhazbNk0O1) | 2:09 | 2025-11-20 |  |
 | [Latch on My Heart](https://open.spotify.com/track/2H9wXRcH8WYnCoTCX6h6bf) | [Claire\-Mae](https://open.spotify.com/artist/6pX6aIj26W3egb9sbljWhb) | [Latch on My Heart](https://open.spotify.com/album/5BafgWuvZ7EZprk6F7V8VM) | 2:57 | 2025-11-02 |  |
+| [Latido](https://open.spotify.com/track/4EbWNHuIQT77zPekmQXv03) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Latido](https://open.spotify.com/album/0JfNRexOOM77SDxARoTJxl) | 3:00 | 2026-01-31 |  |
 | [Laugh at the Lunch Table](https://open.spotify.com/track/5JRxrjdYfJpj1awNW2YKCY) | [Lisha Sebastian](https://open.spotify.com/artist/3DGpupUZehN24bDfwPU647) | [Laugh at the Lunch Table](https://open.spotify.com/album/3THZo1FtLGnetSmLQgv5PV) | 5:12 | 2025-05-25 |  |
 | [Launch](https://open.spotify.com/track/3cZixkhRsuOr4Zu9EwSCrD) | [iGL & Alecho](https://open.spotify.com/artist/0P7Ws2hOKvUgOadBq0nTXn) | [From A Droplet](https://open.spotify.com/album/2KkhkN4s5St2MqJNVeojam) | 4:48 | 2024-03-25 |  |
 | [Lazy Dog Danglin' Afternoon](https://open.spotify.com/track/5dJefkjbEmBYYcW5antHU7) | [Radio Relaxo](https://open.spotify.com/artist/04ikqcraU8yaaY1xYhRJB5) | [Dead Beat Permanent Record](https://open.spotify.com/album/2vzlrpdDN8ggDkUKpk8EjS) | 3:45 | 2026-01-15 |  |
@@ -1016,6 +1017,7 @@
 | [Movement Dub](https://open.spotify.com/track/3V9iIXhljPNGXAx1YWF7Yf) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 4:20 | 2024-03-25 |  |
 | [Moves Like Miyagi](https://open.spotify.com/track/76Iy59xBzt25zqAylQBNBB) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 2:38 | 2025-07-02 |  |
 | [MOVING ENERGY](https://open.spotify.com/track/6oAKPTYnCnXM56U07Wmznn) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [MOVING ENERGY](https://open.spotify.com/album/2rG14CQHtVnXtLKEBkcHqC) | 2:33 | 2025-02-27 |  |
+| [Mud, Sweat, and Tears](https://open.spotify.com/track/2acNWnoObRre52q1zphDrJ) | [The Unk Skunk](https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe) | [Mischief and Mayhem](https://open.spotify.com/album/0IonnFQaTjZvRJAj3d896O) | 3:02 | 2026-01-31 |  |
 | [Muirín and the Breath of Slievemore](https://open.spotify.com/track/4fdMm2iJjPOsrF6wL374hL) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Muirín and the Breath of Slievemore](https://open.spotify.com/album/5jAqBWPQlk1NG2GiCLKdiK) | 3:49 | 2025-11-11 |  |
 | [Muirín of the Tide](https://open.spotify.com/track/0qR6qQeOlPVVFar682oSXm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Muirín of the Tide](https://open.spotify.com/album/1EbEIFaqtvtCDagXpbNkqQ) | 3:17 | 2025-10-15 |  |
 | [Mushroom Tea Party \- Misled Convoy's Deep in the Forest Brew](https://open.spotify.com/track/6IbBW1qFW3n67lw4wPNFxy) | [Children Of The Bong](https://open.spotify.com/artist/39dCKWotmBmBxwQHMZkyV1), [Misled Convoy](https://open.spotify.com/artist/7MBKunpbP0Iz8b9Wx1SSVu) | [Sirius Diversions](https://open.spotify.com/album/4TCAxrfeRdgZkxvSbZbZiW) | 4:54 | 2025-11-08 |  |

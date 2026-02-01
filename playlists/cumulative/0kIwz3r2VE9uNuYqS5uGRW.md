@@ -4,7 +4,7 @@
 
 > 
 
-146 songs - 7 hr 36 min
+147 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,5 +154,6 @@
 | [You at First Sight](https://open.spotify.com/track/5Jb8z94wh7eUBUIhaqoKFm) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [You at First Sight](https://open.spotify.com/album/7zGHcgMh4hf5jUm0EgA1z6) | 3:04 | 2025-09-15 |  |
 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2025-12-24 |  |
 | [Вдыхая](https://open.spotify.com/track/7h0NWQtE9GpPGOwPaocdPF) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:03 | 2025-03-12 |  |
+| [Молочный улун](https://open.spotify.com/track/6Gw6lB9PIKJUivZXpI4E9i) | [К Поездам](https://open.spotify.com/artist/65hECiVsNi1wEvzF84pIxV) | [Бозкараган](https://open.spotify.com/album/37VsMcgG0086QMEfFI8jJQ) | 2:07 | 2026-01-31 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

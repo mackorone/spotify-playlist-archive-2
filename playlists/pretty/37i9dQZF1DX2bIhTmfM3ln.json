@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 55243,
+  "num_followers": 55308,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,30 @@
     {
       "added_at": "2026-01-30 00:01:22",
       "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        }
+      ],
+      "duration_ms": 155753,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
+    },
+    {
+      "added_at": "2026-01-30 00:01:22",
+      "album": {
         "name": "Calculate II",
         "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
       },
@@ -603,22 +627,6 @@
     {
       "added_at": "2026-01-30 00:01:22",
       "album": {
-        "name": "Holy Romance",
-        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 155377,
-      "name": "Holy Romance",
-      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
-    },
-    {
-      "added_at": "2026-01-30 00:01:22",
-      "album": {
         "name": "Yin Yang",
         "url": "https://open.spotify.com/album/7IU7fW4ehUnTiyaZZm9zRb"
       },
@@ -639,6 +647,22 @@
       "duration_ms": 194098,
       "name": "Soldier",
       "url": "https://open.spotify.com/track/1DP4141W3KiwsYaZSAWUb7"
+    },
+    {
+      "added_at": "2026-01-30 00:01:22",
+      "album": {
+        "name": "Holy Romance",
+        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 155377,
+      "name": "Holy Romance",
+      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
     },
     {
       "added_at": "2026-01-30 00:01:22",
@@ -1355,26 +1379,34 @@
     {
       "added_at": "2026-01-30 00:01:22",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d"
+        "name": "Super",
+        "url": "https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5"
       },
       "artists": [
         {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Steel Banglez",
-          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
         }
       ],
-      "duration_ms": 155753,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
+      "duration_ms": 166500,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15"
+    },
+    {
+      "added_at": "2026-01-30 00:01:22",
+      "album": {
+        "name": "Ride Solo",
+        "url": "https://open.spotify.com/album/5DYNIzeEqVdzYl0w23wvfo"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Ride Solo",
+      "url": "https://open.spotify.com/track/12ncJUshM46lUN0DS7kDEk"
     },
     {
       "added_at": "2026-01-30 00:01:22",
@@ -1435,6 +1467,22 @@
     {
       "added_at": "2026-01-30 00:01:22",
       "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/0x2g3YIdjckR28J2R3hpMX"
+      },
+      "artists": [
+        {
+          "name": "Skaa Veceti",
+          "url": "https://open.spotify.com/artist/7moqwVMHJ39sfMGtjfRNNo"
+        }
+      ],
+      "duration_ms": 157096,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/5ZldqhuqghE5SYpuSdUvhB"
+    },
+    {
+      "added_at": "2026-01-30 00:01:22",
+      "album": {
         "name": "Nobody's Perfect",
         "url": "https://open.spotify.com/album/1pAy23gG95TdT6rx8quM7G"
       },
@@ -1451,74 +1499,18 @@
     {
       "added_at": "2026-01-30 00:01:22",
       "album": {
-        "name": "Ride Solo",
-        "url": "https://open.spotify.com/album/5DYNIzeEqVdzYl0w23wvfo"
+        "name": "Have That Love",
+        "url": "https://open.spotify.com/album/6oA3Qy6OrZNAovJ7ZyULQQ"
       },
       "artists": [
         {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+          "name": "Efue",
+          "url": "https://open.spotify.com/artist/1ADatv0IywY3a3HW6Wy43x"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Ride Solo",
-      "url": "https://open.spotify.com/track/12ncJUshM46lUN0DS7kDEk"
-    },
-    {
-      "added_at": "2026-01-30 00:01:22",
-      "album": {
-        "name": "FORGIVE ME",
-        "url": "https://open.spotify.com/album/2d27e1hRsz0eZN4qXlgVty"
-      },
-      "artists": [
-        {
-          "name": "Ibradosky",
-          "url": "https://open.spotify.com/artist/3LnuoQXJhCzLPeOB1ufA2Y"
-        },
-        {
-          "name": "Lil Frosh",
-          "url": "https://open.spotify.com/artist/6637eWPPoj6GB8HLaT8Ett"
-        }
-      ],
-      "duration_ms": 129827,
-      "name": "FORGIVE ME",
-      "url": "https://open.spotify.com/track/2t3i8xFxAI3BstpaeVD8Pz"
-    },
-    {
-      "added_at": "2026-01-30 00:01:22",
-      "album": {
-        "name": "Super",
-        "url": "https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5"
-      },
-      "artists": [
-        {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15"
-    },
-    {
-      "added_at": "2026-01-30 00:01:22",
-      "album": {
-        "name": "K.O.K",
-        "url": "https://open.spotify.com/album/1P5BXDSNnqjkPpUMGcmjtt"
-      },
-      "artists": [
-        {
-          "name": "Brown Joel",
-          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "K.O.K",
-      "url": "https://open.spotify.com/track/1jS5C5fntvTGsoq3khJ8Pa"
+      "duration_ms": 174590,
+      "name": "Have That Love",
+      "url": "https://open.spotify.com/track/6p9N449djwtND5vS5hCRy7"
     }
   ],
   "unique_name": "AfroBae",

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Paris Paloma
 
-2,257 songs - 4 day 23 hr 54 min
+2,258 songs - 4 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -951,6 +951,7 @@
 | [i could die](https://open.spotify.com/track/3M94jcrpYyJpMDkvoriPYC) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i could die](https://open.spotify.com/album/4qZnP5lDjnUhm9p8doZJBo) | 2:35 | 2022-05-06 | 2022-05-14 |
 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 | 2021-05-26 | 2022-04-11 |
 | [I Did Drugs For You](https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [I Did Drugs For You](https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO) | 3:12 | 2022-08-19 | 2022-09-17 |
+| [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 | 2026-01-30 |  |
 | [I Do It For You](https://open.spotify.com/track/4bzdFCiqEGDBjshBNdAerM) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [I Do It For You](https://open.spotify.com/album/1vvsh2qWaz7Jo2OGigvcHH) | 3:33 | 2021-03-14 | 2021-05-27 |
 | [I Don't Mind \(feat\. Ben Chandler\) \- Tim Atlas Remix](https://open.spotify.com/track/1GnPvCbotk6yCBGDLijet9) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH), [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [I Don't Mind \(feat\. Ben Chandler\) \[Tim Atlas Remix\]](https://open.spotify.com/album/7obRDpFWQB79fhmpFaJvbT) | 2:11 | 2021-10-02 | 2022-04-14 |
 | [I Don't Miss You at All](https://open.spotify.com/track/5Jj7cr0vPBGlqDNyI4G8y6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [I Don't Miss You at All](https://open.spotify.com/album/06lFOrm3Fly43vUrVtNl0E) | 2:08 | 2020-10-20 | 2021-06-03 |
@@ -1352,7 +1353,7 @@
 | [Mott St](https://open.spotify.com/track/1ugYh6CIplawB33fSVYHUe) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Mott St](https://open.spotify.com/album/2gOQsfe1uva5AhY6KppuvH) | 2:55 | 2022-01-21 | 2022-04-23 |
 | [Mountain](https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 3:59 | 2025-03-28 | 2025-04-05 |
 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2021-12-03 | 2022-12-10 |
-| [Movie Star](https://open.spotify.com/track/7baiuxB2BkWnsAuAWn1NpO) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Movie Star](https://open.spotify.com/album/3Dwtzc1bPxXjFMxEPhm8r6) | 3:00 | 2025-12-12 |  |
+| [Movie Star](https://open.spotify.com/track/7baiuxB2BkWnsAuAWn1NpO) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Movie Star](https://open.spotify.com/album/3Dwtzc1bPxXjFMxEPhm8r6) | 3:00 | 2025-12-12 | 2026-02-01 |
 | [Moving Men \(feat\. Mac DeMarco\)](https://open.spotify.com/track/3y4I9VECfNbDXYN2bXh9hV) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Moving Men](https://open.spotify.com/album/5KHDM6ahrfEV8D2JFPbz4h) | 2:47 | 2020-10-29 | 2021-05-28 |
 | [moving on \(feat\. Khary\)](https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [moving on / sugarhoneyiceicetea](https://open.spotify.com/album/6bKEgno07WC8rhuhSwMb8n) | 2:59 | 2023-04-28 | 2023-09-30 |
 | [Mr Loverman \(feat\. chloe moriondo\)](https://open.spotify.com/track/60GNcfTVPbKYpdgyYDqUPq) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Mr Loverman \(feat\. chloe moriondo\)](https://open.spotify.com/album/7ugpe4Tp9D5kU1UbHwmu7p) | 3:35 | 2021-04-13 | 2022-04-21 |

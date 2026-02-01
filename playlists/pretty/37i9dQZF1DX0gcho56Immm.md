@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: PVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,332 likes - 151 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,396 likes - 151 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

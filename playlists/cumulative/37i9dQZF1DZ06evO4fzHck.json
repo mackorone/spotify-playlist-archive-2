@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Boys Don\u2019t Cry (86 Mix)",
+        "url": "https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158264,
+      "name": "Boys Don't Cry - 86 Mix / 2026 Remaster",
+      "url": "https://open.spotify.com/track/3nvGvWWUb5onTp6KjtGXvA"
+    },
+    {
+      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 399866,
       "name": "One Hundred Years",
       "url": "https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl"

@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 185562,
+  "num_followers": 185576,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "BELLA DAVVERO",
-        "url": "https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 178883,
-      "name": "BELLA DAVVERO",
-      "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 237880,
       "name": "Un'emozione per sempre",
       "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "BELLA DAVVERO",
+        "url": "https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 178883,
+      "name": "BELLA DAVVERO",
+      "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -623,6 +623,26 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
+        "name": "Stanza Singola",
+        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
+      },
+      "artists": [
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Stanza Singola (feat. Tommaso Paradiso)",
+      "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
         "name": "OBE",
         "url": "https://open.spotify.com/album/64ZUYtdEVuy4OXk63R579s"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 237613,
       "name": "LA CANZONE NOSTRA \u27c1 \ufe0e(con BLANCO & SALMO)",
       "url": "https://open.spotify.com/track/7rTcFU742aPIjmxwEnp7uh"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
-        "name": "Stanza Singola",
-        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
-      },
-      "artists": [
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Stanza Singola (feat. Tommaso Paradiso)",
-      "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
+        "name": "Perdere l'amore",
+        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
+      },
+      "artists": [
+        {
+          "name": "Massimo Ranieri",
+          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Perdere l'amore",
+      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
         "name": "Guasto D'Amore",
         "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Perdere l'amore",
-        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
-      },
-      "artists": [
-        {
-          "name": "Massimo Ranieri",
-          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Perdere l'amore",
-      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Unica",
         "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
       },
@@ -815,42 +815,6 @@
       "duration_ms": 225652,
       "name": "Due Vite",
       "url": "https://open.spotify.com/track/4eI0ncpnZuv4A3ssTJRSDY"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
-        "name": "Semplicemente (from the Netflix Series \"RIV4LI\")",
-        "url": "https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5"
-      },
-      "artists": [
-        {
-          "name": "Sarah Toscano",
-          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
-        },
-        {
-          "name": "Mida",
-          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
-        }
-      ],
-      "duration_ms": 187941,
-      "name": "Semplicemente (from the Netflix Series \"RIV4LI\")",
-      "url": "https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
-        "name": "Rimmel",
-        "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
-      },
-      "artists": [
-        {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
-        }
-      ],
-      "duration_ms": 220640,
-      "name": "Rimmel",
-      "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -887,6 +851,42 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
+        "name": "Rimmel",
+        "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
+      },
+      "artists": [
+        {
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+        }
+      ],
+      "duration_ms": 220640,
+      "name": "Rimmel",
+      "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Semplicemente (from the Netflix Series \"RIV4LI\")",
+        "url": "https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5"
+      },
+      "artists": [
+        {
+          "name": "Sarah Toscano",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        },
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "duration_ms": 187941,
+      "name": "Semplicemente (from the Netflix Series \"RIV4LI\")",
+      "url": "https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
         "name": "\u00c8 sempre bello",
         "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 207802,
-      "name": "La storia infinita",
-      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Umanamente uomo: il sogno",
         "url": "https://open.spotify.com/album/4eO6FJ1u3UkTlDJJGVOd1Z"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 331434,
       "name": "I giardini di marzo - Remastered",
       "url": "https://open.spotify.com/track/5odtVIhEujejNnxSJCgpCa"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 207802,
+      "name": "La storia infinita",
+      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "RAGAZZO DI GI\u00d9",
-        "url": "https://open.spotify.com/album/48XM18Azz6c6afvKV239IW"
-      },
-      "artists": [
-        {
-          "name": "Rocco Hunt",
-          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
-        }
-      ],
-      "duration_ms": 181445,
-      "name": "SPERO CHE DIO NON ME LA PORTI VIA",
-      "url": "https://open.spotify.com/track/0PQ56MIXWCCtrQNhkSf2ic"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Cari Amori Miei",
         "url": "https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 287466,
       "name": "Giulia",
       "url": "https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "RAGAZZO DI GI\u00d9",
+        "url": "https://open.spotify.com/album/48XM18Azz6c6afvKV239IW"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "duration_ms": 181445,
+      "name": "SPERO CHE DIO NON ME LA PORTI VIA",
+      "url": "https://open.spotify.com/track/0PQ56MIXWCCtrQNhkSf2ic"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
+        "name": "Ora (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7u8aAYprJucEFRmH2l6tJJ"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 213226,
+      "name": "Le Tasche Piene Di Sassi",
+      "url": "https://open.spotify.com/track/4BenDOqr4Feas8CiWtRyzf"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
         "name": "L'ultima notte",
         "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 300306,
       "name": "Come saprei",
       "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
-        "name": "Ora (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7u8aAYprJucEFRmH2l6tJJ"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 213226,
-      "name": "Le Tasche Piene Di Sassi",
-      "url": "https://open.spotify.com/track/4BenDOqr4Feas8CiWtRyzf"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv"
+        "name": "Oh, Vita!",
+        "url": "https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK"
       },
       "artists": [
         {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
         }
       ],
-      "duration_ms": 218092,
-      "name": "Il mondo prima di te",
-      "url": "https://open.spotify.com/track/0qM6TGkkinhKFllbcRfL8u"
+      "duration_ms": 239906,
+      "name": "Chiaro Di Luna",
+      "url": "https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Oh, Vita!",
-        "url": "https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK"
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv"
       },
       "artists": [
         {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
         }
       ],
-      "duration_ms": 239906,
-      "name": "Chiaro Di Luna",
-      "url": "https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx"
+      "duration_ms": 218092,
+      "name": "Il mondo prima di te",
+      "url": "https://open.spotify.com/track/0qM6TGkkinhKFllbcRfL8u"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Il Primo Bacio Sulla Luna",
-        "url": "https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Le Sei E Ventisei",
-      "url": "https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "Bruciasse Il Cielo",
         "url": "https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 237606,
       "name": "Bruciasse Il Cielo",
       "url": "https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Il Primo Bacio Sulla Luna",
+        "url": "https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Le Sei E Ventisei",
+      "url": "https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG"
     },
     {
       "added_at": "2026-01-23 13:59:15",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-01-23 13:59:15",
       "album": {
-        "name": "Mina (2001 Remaster)",
-        "url": "https://open.spotify.com/album/60BdC9E02JUjXK5KaycUWg"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Grande, grande, grande - 2001 Remaster",
-      "url": "https://open.spotify.com/track/7djxemkRcsWAqrWTye4Vxt"
-    },
-    {
-      "added_at": "2026-01-23 13:59:15",
-      "album": {
         "name": "La Vasca",
         "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 176373,
       "name": "Una Su 1.000.000",
       "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
+    },
+    {
+      "added_at": "2026-01-23 13:59:15",
+      "album": {
+        "name": "Alba",
+        "url": "https://open.spotify.com/album/5KlWvjXQsetLk8KqvtCaJw"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 209657,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/3slQ550jA1udn2keXTvu1U"
     }
   ],
   "unique_name": "Canzoni d'amore italiane",

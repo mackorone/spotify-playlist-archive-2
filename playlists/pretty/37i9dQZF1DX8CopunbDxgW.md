@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > Lewis OfMan delivers more funky goodness ⚡🇫🇷 metropolis is your home for all the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,302 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,255 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 6 | [Easy Flirt](https://open.spotify.com/track/0NCxUz8RdDtPcSwiLkDmhh) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Easy Flirt](https://open.spotify.com/album/3ewRXH9xzkimqdIXc7hUnN) | 2:46 |
 | 7 | [Melchior’s Dance](https://open.spotify.com/track/6lzimzZD5faC8aJa8ydCXK) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Straf \(Soundtrack\)](https://open.spotify.com/album/6RMfVRj6ZOkfALZPJqlzgI) | 4:14 |
 | 8 | [London Massive](https://open.spotify.com/track/3rr6YbIEazaOv6H9snVRMT) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [London Massive](https://open.spotify.com/album/4GdzA8ll8XWMiJsT84YUZz) | 2:05 |
-| 9 | [eye contact \(feat\. Council\)](https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ), [Council](https://open.spotify.com/artist/3N7z79Am2V9dxOxd8K2HVo) | [eye contact \(feat\. Council\)](https://open.spotify.com/album/6z9iFDIEPBgrDp1fpwqRHN) | 3:06 |
+| 9 | [eye contact \(feat\. Council\)](https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ), [Council](https://open.spotify.com/artist/0bX0GFeupnom6eHF7hJw62) | [eye contact \(feat\. Council\)](https://open.spotify.com/album/6z9iFDIEPBgrDp1fpwqRHN) | 3:06 |
 | 10 | [HOT WIFE](https://open.spotify.com/track/7Ehjne6Dao0AXr5D6GaHSa) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HOT WIFE](https://open.spotify.com/album/1IUFXmC2AcLCHYZGT0iIVD) | 3:10 |
 | 11 | [You Gimme Something](https://open.spotify.com/track/00s7KZVtYZN0f4Q7xk7jUB) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [You Gimme Something](https://open.spotify.com/album/0ULChTsCORw2tCmc0YBwak) | 2:49 |
 | 12 | [What You Need](https://open.spotify.com/track/1Q6zHALZxfArSQYmrZIHuJ) | [Davide Dev](https://open.spotify.com/artist/2C6UKuUrQSYVz39Fm5Ko4q) | [Future Chic EP](https://open.spotify.com/album/4Eu7jmYbEQcfDdODAzAMA2) | 2:47 |

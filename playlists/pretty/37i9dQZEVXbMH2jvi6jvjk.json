@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Africa.",
-  "num_followers": 66319,
+  "num_followers": 66338,
   "original_name": "Top 50 - South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MRAVQAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MRFpGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "Inkanyezi",
         "url": "https://open.spotify.com/album/3nPujMA2fT8W8MKRi4rNzt"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2KvVTO2N5a0zKMlDZZMBOK"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/0aCFxXlFzAm9dLtx5IFuYE"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/3UpOAGqJltveyi8DQYr0WI"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "ZEP (feat. Uncool MC)",
         "url": "https://open.spotify.com/album/6hmdlLccKNe9ORX8ZhXO39"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/0aCFxXlFzAm9dLtx5IFuYE"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/5z6nmZGMQoQGlrB8RhJ5s5"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -121,23 +121,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "Ngixolele Mtanami",
-        "url": "https://open.spotify.com/album/0bwC0CgvUytpJqQfiaGnRw"
-      },
-      "artists": [
-        {
-          "name": "Nkeshemba",
-          "url": "https://open.spotify.com/artist/5mcQQWaTilvZ99xmDg9LCU"
-        }
-      ],
-      "duration_ms": 264437,
-      "name": "Ngixolele Mtanami",
-      "url": "https://open.spotify.com/track/1FUVQbcP23lIgLSTY2r8SV"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "Amanxeba",
         "url": "https://open.spotify.com/album/3A3JFmEMkrIpKUGubH4KJH"
@@ -157,7 +141,63 @@
       "url": "https://open.spotify.com/track/1Cy9Zxtx0h8BrqfNrYr3nY"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "Ngixolele Mtanami",
+        "url": "https://open.spotify.com/album/0bwC0CgvUytpJqQfiaGnRw"
+      },
+      "artists": [
+        {
+          "name": "Nkeshemba",
+          "url": "https://open.spotify.com/artist/5mcQQWaTilvZ99xmDg9LCU"
+        }
+      ],
+      "duration_ms": 264437,
+      "name": "Ngixolele Mtanami",
+      "url": "https://open.spotify.com/track/1FUVQbcP23lIgLSTY2r8SV"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "SNOKONOKO",
+        "url": "https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp"
+      },
+      "artists": [
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        }
+      ],
+      "duration_ms": 399314,
+      "name": "SNOKONOKO",
+      "url": "https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "Inkanyezi",
+        "url": "https://open.spotify.com/album/3nPujMA2fT8W8MKRi4rNzt"
+      },
+      "artists": [
+        {
+          "name": "Feza",
+          "url": "https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0"
+        }
+      ],
+      "duration_ms": 244218,
+      "name": "Incenge Kancane",
+      "url": "https://open.spotify.com/track/3x9eb22Epgzw3GAR3gig5t"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "Bayede",
         "url": "https://open.spotify.com/album/3gndOvCu4HGrDOrv0nnyif"
@@ -177,47 +217,7 @@
       "url": "https://open.spotify.com/track/3RL87os1VKhglGA6CpgdWV"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "Inkanyezi",
-        "url": "https://open.spotify.com/album/3nPujMA2fT8W8MKRi4rNzt"
-      },
-      "artists": [
-        {
-          "name": "Feza",
-          "url": "https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0"
-        }
-      ],
-      "duration_ms": 244218,
-      "name": "Incenge Kancane",
-      "url": "https://open.spotify.com/track/3x9eb22Epgzw3GAR3gig5t"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "Intaba Zokhahlamba",
-        "url": "https://open.spotify.com/album/5qQEPFxsRvxHTwtmaLSgPR"
-      },
-      "artists": [
-        {
-          "name": "Mphathiwohlelo MC",
-          "url": "https://open.spotify.com/artist/3D8SLrKlLVHWhsdUQi4VQ7"
-        },
-        {
-          "name": "SHENGE WASEHLALANKOSI",
-          "url": "https://open.spotify.com/artist/2v1B7I9XcGoSQOASgMks5v"
-        },
-        {
-          "name": "Mjolisi",
-          "url": "https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr"
-        }
-      ],
-      "duration_ms": 226168,
-      "name": "Intaba Zokhahlamba",
-      "url": "https://open.spotify.com/track/24lofBbzbHV2KzxAMROTSS"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "Rato Laka",
         "url": "https://open.spotify.com/album/3mxwqhlLvT40u1dJhTvJmk"
@@ -245,79 +245,31 @@
       "url": "https://open.spotify.com/track/46NRGSM8TnSkJexKnQtoKw"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "Ushaka",
-        "url": "https://open.spotify.com/album/44vwXTHyQ16D0s0HAYAviv"
+        "name": "Intaba Zokhahlamba",
+        "url": "https://open.spotify.com/album/5qQEPFxsRvxHTwtmaLSgPR"
       },
       "artists": [
         {
-          "name": "Nkeshemba",
-          "url": "https://open.spotify.com/artist/5mcQQWaTilvZ99xmDg9LCU"
-        }
-      ],
-      "duration_ms": 237662,
-      "name": "Isibaya Sikababa",
-      "url": "https://open.spotify.com/track/2rHahLGm4dlLrEGmEN3lOb"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "Uyoncengwa Unyoko",
-        "url": "https://open.spotify.com/album/1g27w7a8gIRlcmQLIcO4Dq"
-      },
-      "artists": [
-        {
-          "name": "Umafikizolo",
-          "url": "https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K"
-        }
-      ],
-      "duration_ms": 259709,
-      "name": "Uyoncengwa Unyoko",
-      "url": "https://open.spotify.com/track/3H2sEc2EOfjeptg8pPPTlx"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "Unamagqubu",
-        "url": "https://open.spotify.com/album/1VLcOburufLSyk0HhztmnV"
-      },
-      "artists": [
-        {
-          "name": "MENZI MUSIC",
-          "url": "https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q"
-        }
-      ],
-      "duration_ms": 211565,
-      "name": "We-Skhinkily",
-      "url": "https://open.spotify.com/track/0MBvgnHXWHA9iusb7TZb9K"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "SNOKONOKO",
-        "url": "https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp"
-      },
-      "artists": [
-        {
-          "name": "Al Xapo",
-          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+          "name": "Mphathiwohlelo MC",
+          "url": "https://open.spotify.com/artist/3D8SLrKlLVHWhsdUQi4VQ7"
         },
         {
-          "name": "Benzoo",
-          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+          "name": "SHENGE WASEHLALANKOSI",
+          "url": "https://open.spotify.com/artist/2v1B7I9XcGoSQOASgMks5v"
         },
         {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+          "name": "Mjolisi",
+          "url": "https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr"
         }
       ],
-      "duration_ms": 399314,
-      "name": "SNOKONOKO",
-      "url": "https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny"
+      "duration_ms": 226168,
+      "name": "Intaba Zokhahlamba",
+      "url": "https://open.spotify.com/track/24lofBbzbHV2KzxAMROTSS"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "suka!",
         "url": "https://open.spotify.com/album/68Nsxy6Ytv2qTAQM0ijCns"
@@ -333,63 +285,39 @@
       "url": "https://open.spotify.com/track/0pFfsqtQQs9Uk4DnXoxwN4"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "The Most Wanted",
-        "url": "https://open.spotify.com/album/4RfcphuqAVShqwInsEAEny"
+        "name": "Uyoncengwa Unyoko",
+        "url": "https://open.spotify.com/album/1g27w7a8gIRlcmQLIcO4Dq"
       },
       "artists": [
         {
-          "name": "JAZZWRLD",
-          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
-        },
-        {
-          "name": "Thukuthela",
-          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
-        },
-        {
-          "name": "Babalwa M",
-          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
-        },
-        {
-          "name": "Dlala Thukzin",
-          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+          "name": "Umafikizolo",
+          "url": "https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K"
         }
       ],
-      "duration_ms": 368000,
-      "name": "uValo (feat. Dlala Thukzin)",
-      "url": "https://open.spotify.com/track/0y7lIKJXlNFPcqVCxfnvOO"
+      "duration_ms": 259709,
+      "name": "Uyoncengwa Unyoko",
+      "url": "https://open.spotify.com/track/3H2sEc2EOfjeptg8pPPTlx"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "Tobetsa 3.0 (feat. Shaunmusiq & Ftears)",
-        "url": "https://open.spotify.com/album/3Hwj7Le28vi4H7gcCOFlxA"
+        "name": "Ushaka",
+        "url": "https://open.spotify.com/album/44vwXTHyQ16D0s0HAYAviv"
       },
       "artists": [
         {
-          "name": "Myztro",
-          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
-        },
-        {
-          "name": "Leehleza",
-          "url": "https://open.spotify.com/artist/44bCE3ZXxsdBiMp6AHc4B2"
-        },
-        {
-          "name": "Shaunmusiq",
-          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
-        },
-        {
-          "name": "Ftears",
-          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+          "name": "Nkeshemba",
+          "url": "https://open.spotify.com/artist/5mcQQWaTilvZ99xmDg9LCU"
         }
       ],
-      "duration_ms": 383827,
-      "name": "Tobetsa 3.0 (feat. Shaunmusiq & Ftears)",
-      "url": "https://open.spotify.com/track/7ohMSMZrovYscFvEMkrtzP"
+      "duration_ms": 237662,
+      "name": "Isibaya Sikababa",
+      "url": "https://open.spotify.com/track/2rHahLGm4dlLrEGmEN3lOb"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "NGOMOYA",
         "url": "https://open.spotify.com/album/05HX31ytzjPOO53EqrIu0c"
@@ -425,27 +353,79 @@
       "url": "https://open.spotify.com/track/62auSQwzIlyVuqUsxd4w63"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "HEARTS SOLD SEPARATELY",
-        "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
+        "name": "The Most Wanted",
+        "url": "https://open.spotify.com/album/4RfcphuqAVShqwInsEAEny"
       },
       "artists": [
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        },
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+        },
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
         }
       ],
-      "duration_ms": 181334,
-      "name": "Is It a Crime",
-      "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
+      "duration_ms": 368000,
+      "name": "uValo (feat. Dlala Thukzin)",
+      "url": "https://open.spotify.com/track/0y7lIKJXlNFPcqVCxfnvOO"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "Unamagqubu",
+        "url": "https://open.spotify.com/album/1VLcOburufLSyk0HhztmnV"
+      },
+      "artists": [
+        {
+          "name": "MENZI MUSIC",
+          "url": "https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q"
+        }
+      ],
+      "duration_ms": 211565,
+      "name": "We-Skhinkily",
+      "url": "https://open.spotify.com/track/0MBvgnHXWHA9iusb7TZb9K"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "Tobetsa 3.0 (feat. Shaunmusiq & Ftears)",
+        "url": "https://open.spotify.com/album/3Hwj7Le28vi4H7gcCOFlxA"
+      },
+      "artists": [
+        {
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+        },
+        {
+          "name": "Leehleza",
+          "url": "https://open.spotify.com/artist/44bCE3ZXxsdBiMp6AHc4B2"
+        },
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Ftears",
+          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+        }
+      ],
+      "duration_ms": 383827,
+      "name": "Tobetsa 3.0 (feat. Shaunmusiq & Ftears)",
+      "url": "https://open.spotify.com/track/7ohMSMZrovYscFvEMkrtzP"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "Vele Uyena (Risk It All) (feat. JAZZWRLD, Thukuthela, Elaine & Solaariss)",
         "url": "https://open.spotify.com/album/7weLnc8ITNXPCwG2tVxUXs"
@@ -477,51 +457,7 @@
       "url": "https://open.spotify.com/track/1YwkMl9hCzyinkiioqo6kl"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "UNIKHODIMA",
-        "url": "https://open.spotify.com/album/5QuSNX1DQuEkWkwjwsKrkJ"
-      },
-      "artists": [
-        {
-          "name": "NHLOSO KHWELA",
-          "url": "https://open.spotify.com/artist/1PoCttTLXvpmlzQBpVnli7"
-        },
-        {
-          "name": "Shenge wasehlalankosi",
-          "url": "https://open.spotify.com/artist/1HYT018xvnsRBu6QvZmlcS"
-        }
-      ],
-      "duration_ms": 265560,
-      "name": "UNIKHODIMA",
-      "url": "https://open.spotify.com/track/1x4yHR7HJ0ZQCQVjXb2Vc8"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "Papaoutai (Afro Soul)",
-        "url": "https://open.spotify.com/album/4H50NcMmYRT4SovEvVgjqW"
-      },
-      "artists": [
-        {
-          "name": "mikeeysmind",
-          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
-        },
-        {
-          "name": "Chill77",
-          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
-        },
-        {
-          "name": "Unjaps",
-          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
-        }
-      ],
-      "duration_ms": 279962,
-      "name": "Papaoutai - Afro Soul",
-      "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "Bengicela (feat. JAZZWRLD)",
         "url": "https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6"
@@ -549,87 +485,95 @@
       "url": "https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "A NEW DAWN",
-        "url": "https://open.spotify.com/album/7yzhKRm8sJIL8h4AmqW6b6"
+        "name": "UNIKHODIMA",
+        "url": "https://open.spotify.com/album/5QuSNX1DQuEkWkwjwsKrkJ"
       },
       "artists": [
         {
-          "name": "Nothando Hlophe",
-          "url": "https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9"
+          "name": "NHLOSO KHWELA",
+          "url": "https://open.spotify.com/artist/1PoCttTLXvpmlzQBpVnli7"
+        },
+        {
+          "name": "Shenge wasehlalankosi",
+          "url": "https://open.spotify.com/artist/1HYT018xvnsRBu6QvZmlcS"
         }
       ],
-      "duration_ms": 535310,
-      "name": "Methodist Medley",
-      "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
+      "duration_ms": 265560,
+      "name": "UNIKHODIMA",
+      "url": "https://open.spotify.com/track/1x4yHR7HJ0ZQCQVjXb2Vc8"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "Acquiesce",
-        "url": "https://open.spotify.com/album/1YGjJwAanA1N66ctu89siu"
+        "name": "Onkgopotse",
+        "url": "https://open.spotify.com/album/1NSZ619pGHYfsgbB2kBfF8"
       },
       "artists": [
         {
-          "name": "Babalwa M",
-          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+          "name": "Dj Jaivane",
+          "url": "https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl"
         },
         {
-          "name": "JAZZWRLD",
-          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+          "name": "Smaki 08",
+          "url": "https://open.spotify.com/artist/3UWe7UnbC6ZfUxJ6AoqBkQ"
         },
         {
-          "name": "Thukuthela",
-          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+          "name": "Wesley Keys",
+          "url": "https://open.spotify.com/artist/2OGYdhAxnbigwUW9Be2b6C"
         },
         {
-          "name": "GL_Ceejay",
-          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+          "name": "De Rose",
+          "url": "https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL"
         }
       ],
-      "duration_ms": 333687,
-      "name": "Amaphutha",
-      "url": "https://open.spotify.com/track/6WAgkWtdNWXoZf8ZFkH5j1"
+      "duration_ms": 395493,
+      "name": "Lutho (feat. De Rose)",
+      "url": "https://open.spotify.com/track/54gOExDYI4WmDlwQaygLDp"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "Inkanyezi",
-        "url": "https://open.spotify.com/album/3nPujMA2fT8W8MKRi4rNzt"
+        "name": "The Good Die Young",
+        "url": "https://open.spotify.com/album/3b5pjh0iN82fs3nUb0PtOn"
       },
       "artists": [
         {
-          "name": "Feza",
-          "url": "https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0"
+          "name": "FIZZY SA",
+          "url": "https://open.spotify.com/artist/5wCu1FMWM7PLxdGVHPiM6Y"
         }
       ],
-      "duration_ms": 320104,
-      "name": "Nhliziyo Yami",
-      "url": "https://open.spotify.com/track/4LWjbiyDyLDLpJ7tWEKflM"
+      "duration_ms": 204919,
+      "name": "The Good Die Young",
+      "url": "https://open.spotify.com/track/4K1GpqZFdGgj18o3nThXXp"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "Phesheya",
-        "url": "https://open.spotify.com/album/5a1dhBeomIePHaxKDRv6kB"
+        "name": "iNkanyezi NeZinkanyezi",
+        "url": "https://open.spotify.com/album/3AbrYUidErtcqWHTLiXU00"
       },
       "artists": [
         {
-          "name": "JayJayy",
-          "url": "https://open.spotify.com/artist/0Tp9c5DcGoHSU4V8bt4Q1U"
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
         },
         {
-          "name": "Mordecai",
-          "url": "https://open.spotify.com/artist/15Nx2Vsu6WjYBUPcBptftM"
+          "name": "Buhlebendalo",
+          "url": "https://open.spotify.com/artist/1Nu3lDd06uk8y73zM6r6MW"
+        },
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
         }
       ],
-      "duration_ms": 350365,
-      "name": "Phesheya",
-      "url": "https://open.spotify.com/track/2cqRkbubhLlwDlEOoksEXt"
+      "duration_ms": 440000,
+      "name": "Sanibonani",
+      "url": "https://open.spotify.com/track/0mv6EPqRI29uBHDPELfqZi"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "Bab'Motha",
         "url": "https://open.spotify.com/album/5hdEZLjn0k8hM6KztDzIs1"
@@ -669,39 +613,127 @@
       "url": "https://open.spotify.com/track/30jHPgouy6TBqiykdGwbOe"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+        "name": "iNkanyezi NeZinkanyezi",
+        "url": "https://open.spotify.com/album/3AbrYUidErtcqWHTLiXU00"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Zamoh",
+          "url": "https://open.spotify.com/artist/7lt71LLkOIvqtshTx8tGIH"
+        },
+        {
+          "name": "Umafakhiza",
+          "url": "https://open.spotify.com/artist/0MaODS7ni3aBRbLXE6mTcd"
+        },
+        {
+          "name": "Dogzin",
+          "url": "https://open.spotify.com/artist/1YGfLMorlhBWm4L9xRJKIP"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+      "duration_ms": 298000,
+      "name": "Indoda Enjani",
+      "url": "https://open.spotify.com/track/2tNbE1V4pf0rLMKNOZFLMA"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "The Good Die Young",
-        "url": "https://open.spotify.com/album/3b5pjh0iN82fs3nUb0PtOn"
+        "name": "IVALENTINE",
+        "url": "https://open.spotify.com/album/43JZh9JBi8M5D8rxFGN042"
       },
       "artists": [
         {
-          "name": "FIZZY SA",
-          "url": "https://open.spotify.com/artist/5wCu1FMWM7PLxdGVHPiM6Y"
+          "name": "Skhanga",
+          "url": "https://open.spotify.com/artist/6lFcggGAwriultjU0Ziyny"
+        },
+        {
+          "name": "Shenge wasehlalankosi",
+          "url": "https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz"
         }
       ],
-      "duration_ms": 204919,
-      "name": "The Good Die Young",
-      "url": "https://open.spotify.com/track/4K1GpqZFdGgj18o3nThXXp"
+      "duration_ms": 240039,
+      "name": "IVALENTINE",
+      "url": "https://open.spotify.com/track/12Qat89DHA65Q16UbtuIw5"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "HEARTS SOLD SEPARATELY",
+        "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 181334,
+      "name": "Is It a Crime",
+      "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "Acquiesce",
+        "url": "https://open.spotify.com/album/1YGjJwAanA1N66ctu89siu"
+      },
+      "artists": [
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        },
+        {
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+        }
+      ],
+      "duration_ms": 333687,
+      "name": "Amaphutha",
+      "url": "https://open.spotify.com/track/6WAgkWtdNWXoZf8ZFkH5j1"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "Mamma (Radio Edit)",
+        "url": "https://open.spotify.com/album/66dxZZRUgVOyKnmq9VB70o"
+      },
+      "artists": [
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Skillz",
+          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        }
+      ],
+      "duration_ms": 420190,
+      "name": "Mamma",
+      "url": "https://open.spotify.com/track/40Df6EY2SezSKLvAkvNsbz"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "Bjaleni(Skinny Malepolana) Steel Bosh & Fuego)",
         "url": "https://open.spotify.com/album/5pCSUZIA7c99YY17ZxTVEH"
@@ -737,7 +769,7 @@
       "url": "https://open.spotify.com/track/5U9Z7CNYe8tu9QKnEAJJeW"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "Ng'funa intozami",
         "url": "https://open.spotify.com/album/5hXdv6EKkrLBoK0diMQwT6"
@@ -761,143 +793,147 @@
       "url": "https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "Onkgopotse",
-        "url": "https://open.spotify.com/album/1NSZ619pGHYfsgbB2kBfF8"
+        "name": "Papaoutai (Afro Soul)",
+        "url": "https://open.spotify.com/album/4H50NcMmYRT4SovEvVgjqW"
       },
       "artists": [
         {
-          "name": "Dj Jaivane",
-          "url": "https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl"
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
         },
         {
-          "name": "Smaki 08",
-          "url": "https://open.spotify.com/artist/3UWe7UnbC6ZfUxJ6AoqBkQ"
+          "name": "Chill77",
+          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
         },
         {
-          "name": "Wesley Keys",
-          "url": "https://open.spotify.com/artist/2OGYdhAxnbigwUW9Be2b6C"
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "duration_ms": 279962,
+      "name": "Papaoutai - Afro Soul",
+      "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "iNkanyezi NeZinkanyezi",
+        "url": "https://open.spotify.com/album/3AbrYUidErtcqWHTLiXU00"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
         },
         {
-          "name": "De Rose",
-          "url": "https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL"
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
         }
       ],
-      "duration_ms": 395493,
-      "name": "Lutho (feat. De Rose)",
-      "url": "https://open.spotify.com/track/54gOExDYI4WmDlwQaygLDp"
+      "duration_ms": 308000,
+      "name": "Sleepover",
+      "url": "https://open.spotify.com/track/6TJbwXS9JBIdn2rd7z1I9c"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+        "name": "iNkanyezi NeZinkanyezi",
+        "url": "https://open.spotify.com/album/3AbrYUidErtcqWHTLiXU00"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 184440,
-      "name": "wgft (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "Bab'Motha",
-        "url": "https://open.spotify.com/album/5hdEZLjn0k8hM6KztDzIs1"
-      },
-      "artists": [
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
         },
         {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+          "name": "Z\u0101dok",
+          "url": "https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea"
+        }
+      ],
+      "duration_ms": 498000,
+      "name": "Mdumise",
+      "url": "https://open.spotify.com/track/4ZMJJSza2lWzxoFdcccMdo"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "Mabalabala",
+        "url": "https://open.spotify.com/album/4Me9EaOHBK5rAVcjZahWwf"
+      },
+      "artists": [
+        {
+          "name": "Officixl RSA",
+          "url": "https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv"
         },
         {
-          "name": "Thatohatsi",
-          "url": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "Sizwe Alakine",
+          "url": "https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2"
+        },
+        {
+          "name": "Bob Mabena",
+          "url": "https://open.spotify.com/artist/64AibK7iJaFyzaWdx2t09W"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Mid9t",
+          "url": "https://open.spotify.com/artist/2U2toft3GCToSozH4TfVV5"
         }
       ],
-      "duration_ms": 394285,
-      "name": "Iphupho (feat. Thatohatsi)",
-      "url": "https://open.spotify.com/track/6t7jwNNBTceuXuVeT71naT"
+      "duration_ms": 406725,
+      "name": "Mabalabala",
+      "url": "https://open.spotify.com/track/2bo3rXKBXWab6ansQGSEkz"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+        "name": "Inkanyezi",
+        "url": "https://open.spotify.com/album/3nPujMA2fT8W8MKRi4rNzt"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Feza",
+          "url": "https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+      "duration_ms": 320104,
+      "name": "Nhliziyo Yami",
+      "url": "https://open.spotify.com/track/4LWjbiyDyLDLpJ7tWEKflM"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/6ah7HsIfLFVtBC4Qyk4JoG"
+        "name": "Phesheya",
+        "url": "https://open.spotify.com/album/5a1dhBeomIePHaxKDRv6kB"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "JayJayy",
+          "url": "https://open.spotify.com/artist/0Tp9c5DcGoHSU4V8bt4Q1U"
+        },
+        {
+          "name": "Mordecai",
+          "url": "https://open.spotify.com/artist/15Nx2Vsu6WjYBUPcBptftM"
         }
       ],
-      "duration_ms": 143746,
-      "name": "Finally Over It",
-      "url": "https://open.spotify.com/track/010a0zLOkBAMJvuscNdVxi"
+      "duration_ms": 350365,
+      "name": "Phesheya",
+      "url": "https://open.spotify.com/track/2cqRkbubhLlwDlEOoksEXt"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "Bayede",
         "url": "https://open.spotify.com/album/3gndOvCu4HGrDOrv0nnyif"
@@ -929,87 +965,23 @@
       "url": "https://open.spotify.com/track/2mStPTH9MdDyIQxMnkLOMV"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "Mamma (Radio Edit)",
-        "url": "https://open.spotify.com/album/66dxZZRUgVOyKnmq9VB70o"
+        "name": "A NEW DAWN",
+        "url": "https://open.spotify.com/album/7yzhKRm8sJIL8h4AmqW6b6"
       },
       "artists": [
         {
-          "name": "Zee Nxumalo",
-          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
-        },
-        {
-          "name": "Skillz",
-          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
-        },
-        {
-          "name": "Sykes",
-          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+          "name": "Nothando Hlophe",
+          "url": "https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9"
         }
       ],
-      "duration_ms": 420190,
-      "name": "Mamma",
-      "url": "https://open.spotify.com/track/40Df6EY2SezSKLvAkvNsbz"
+      "duration_ms": 535310,
+      "name": "Methodist Medley",
+      "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "Ng'funa intozami",
-        "url": "https://open.spotify.com/album/5hXdv6EKkrLBoK0diMQwT6"
-      },
-      "artists": [
-        {
-          "name": "Mzukulu",
-          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
-        },
-        {
-          "name": "Intombi yasoLundi",
-          "url": "https://open.spotify.com/artist/4Bn20pYoT2Dij98WIQc4lt"
-        }
-      ],
-      "duration_ms": 171954,
-      "name": "Ubu Ghost bami",
-      "url": "https://open.spotify.com/track/18135pAIhu4DClNzwruriW"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "Imbewu",
-        "url": "https://open.spotify.com/album/2qhmwFbtFFwCSLtYLtlRvA"
-      },
-      "artists": [
-        {
-          "name": "Yumbs",
-          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
-        },
-        {
-          "name": "Simmy",
-          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
-        }
-      ],
-      "duration_ms": 390802,
-      "name": "You Try",
-      "url": "https://open.spotify.com/track/5fMJe6MwbPYBFtBrQCf7pq"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192751,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "The Most Wanted",
         "url": "https://open.spotify.com/album/4RfcphuqAVShqwInsEAEny"
@@ -1037,27 +1009,155 @@
       "url": "https://open.spotify.com/track/3eRaSAk4a6gjsHK2omZbU4"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
       "album": {
-        "name": "Uyinja",
-        "url": "https://open.spotify.com/album/0oCCoXAo3PJn6oTKnoY2Sz"
+        "name": "Bab'Motha",
+        "url": "https://open.spotify.com/album/5hdEZLjn0k8hM6KztDzIs1"
       },
       "artists": [
         {
-          "name": "Umdumazi",
-          "url": "https://open.spotify.com/artist/1FaD9YX3OovAhntq4aV1DC"
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
         },
         {
-          "name": "Mjolisi",
-          "url": "https://open.spotify.com/artist/1WVxTF7mgVH51W5qTSSKY7"
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Thatohatsi",
+          "url": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
         }
       ],
-      "duration_ms": 294008,
-      "name": "Ubambo lwami",
-      "url": "https://open.spotify.com/track/7lqlmV3prYYMQvyswraACT"
+      "duration_ms": 394285,
+      "name": "Iphupho (feat. Thatohatsi)",
+      "url": "https://open.spotify.com/track/6t7jwNNBTceuXuVeT71naT"
     },
     {
-      "added_at": "2026-01-30 14:03:51",
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "nginawe",
+        "url": "https://open.spotify.com/album/0T6ZVUqG46EZf6W4PXScW3"
+      },
+      "artists": [
+        {
+          "name": "Rea Gopane",
+          "url": "https://open.spotify.com/artist/1FOb2ztsneNb8Ka0f817t1"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "nginawe",
+      "url": "https://open.spotify.com/track/783KjICEoHTdoF62p5Wi0t"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "Imbewu",
+        "url": "https://open.spotify.com/album/2qhmwFbtFFwCSLtYLtlRvA"
+      },
+      "artists": [
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Simmy",
+          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
+        }
+      ],
+      "duration_ms": 390802,
+      "name": "You Try",
+      "url": "https://open.spotify.com/track/5fMJe6MwbPYBFtBrQCf7pq"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "iNkanyezi NeZinkanyezi",
+        "url": "https://open.spotify.com/album/3AbrYUidErtcqWHTLiXU00"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        },
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Madibuseng",
+      "url": "https://open.spotify.com/track/5u1LiZnJhWuzFZqCf2O6nQ"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
+      "album": {
+        "name": "Ngisakuthanda",
+        "url": "https://open.spotify.com/album/1Y5TphK5oq4DmAGIvHNsUt"
+      },
+      "artists": [
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "TBO",
+          "url": "https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp"
+        },
+        {
+          "name": "PYY Log Drum King",
+          "url": "https://open.spotify.com/artist/7EjDxfiI8nHmJeYKZcE5MP"
+        },
+        {
+          "name": "Dj Tearz SA",
+          "url": "https://open.spotify.com/artist/4Nxf3jCcsMsxCNQrHq27M7"
+        },
+        {
+          "name": "Dr Thulz",
+          "url": "https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4"
+        }
+      ],
+      "duration_ms": 412092,
+      "name": "Ngisakuthanda",
+      "url": "https://open.spotify.com/track/2tUXE87QNnoVQZApV3uyVZ"
+    },
+    {
+      "added_at": "2026-01-31 13:47:45",
       "album": {
         "name": "Lerato Le Fedile",
         "url": "https://open.spotify.com/album/2PJH4hyZv10tZbvY3nEzof"
@@ -1095,42 +1195,6 @@
       "duration_ms": 287244,
       "name": "Lerato Le Fedile",
       "url": "https://open.spotify.com/track/6T1bDGKGCNArTlCm74R0gY"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "nginawe",
-        "url": "https://open.spotify.com/album/0T6ZVUqG46EZf6W4PXScW3"
-      },
-      "artists": [
-        {
-          "name": "Rea Gopane",
-          "url": "https://open.spotify.com/artist/1FOb2ztsneNb8Ka0f817t1"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "nginawe",
-      "url": "https://open.spotify.com/track/783KjICEoHTdoF62p5Wi0t"
-    },
-    {
-      "added_at": "2026-01-30 14:03:51",
-      "album": {
-        "name": "Sijabulile",
-        "url": "https://open.spotify.com/album/0nKGXbaOub4xCo40lYbZkP"
-      },
-      "artists": [
-        {
-          "name": "Vico da sporo",
-          "url": "https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd"
-        },
-        {
-          "name": "Zelule zn",
-          "url": "https://open.spotify.com/artist/1qoBjfvQR5qS9JzUwqsdeG"
-        }
-      ],
-      "duration_ms": 292075,
-      "name": "Sijabulile",
-      "url": "https://open.spotify.com/track/3VcbOu0uH7WSVSAoxHffVl"
     }
   ],
   "unique_name": "Top 50 - South Africa",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: 정승환 \(Jung Seung Hwan\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,227 likes - 233 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,240 likes - 233 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 139 | [서툰 이별을 하려해](https://open.spotify.com/track/4so85rrFc5TCgT6rd2vweV) | [Yountoven](https://open.spotify.com/artist/13PsdrWmNx5EcibArzkbcO), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [서툰 이별을 하려해](https://open.spotify.com/album/67bM1eAH4Sn29yE3wOeiJc) | 4:01 |
 | 140 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/55pN3kkk9Zor8mlZhyxHwp) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/20SAUNThmiFFm2txSQOKH0) | 3:49 |
 | 141 | [Lonely Night](https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely Night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:35 |
-| 142 | [Marry Me](https://open.spotify.com/track/7aGU77FK6dBEFKWVKPeKXe) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [마크툽 프로젝트 Vol\. 03](https://open.spotify.com/album/0S9RrasD1Z6Y6Efkd3RfTj) | 4:21 |
+| 142 | [Marry Me](https://open.spotify.com/track/7aGU77FK6dBEFKWVKPeKXe) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Gu Yoon Hoe](https://open.spotify.com/artist/0dfxKU8RRSgxMUGbiusqMH) | [마크툽 프로젝트 Vol\. 03](https://open.spotify.com/album/0S9RrasD1Z6Y6Efkd3RfTj) | 4:21 |
 | 143 | [Freak](https://open.spotify.com/track/6wfj7DeUoTA9gXbpLz3XSM) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM) | [Show Me the Money 9 Episode 1](https://open.spotify.com/album/6kMyOivhnaVCAfTw3ikjpB) | 3:52 |
 | 144 | [신촌을 못가 \(소울충만 체키라웃\)](https://open.spotify.com/track/470wF4yeCAUWFJyRyclq4g) | [Kim JinWoo](https://open.spotify.com/artist/2OPVaLymaCYX4lPpnmg6DU) | [Mask Singer 41th \(Live Version\)](https://open.spotify.com/album/3m8iMa9b0AMilQJ16EbnoU) | 3:45 |
 | 145 | [지나오다](https://open.spotify.com/track/0keu6b483OyisjQZqQBqqB) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [About You](https://open.spotify.com/album/3Wtjnp72J9oK31RxH83BiO) | 4:41 |

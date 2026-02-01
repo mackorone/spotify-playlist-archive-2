@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-555 songs - 1 day 9 hr 7 min
+556 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Dans tes bras](https://open.spotify.com/track/6MqZU9IaaFM7LPNuRnFlUf) | [Vincent Alizé](https://open.spotify.com/artist/2lgS5ZE6g9BhF47APJPrTD) | [Dans tes bras](https://open.spotify.com/album/5SbmPKpoZHhRMMeh2KTM76) | 4:01 | 2021-01-03\* | 2021-05-08 |
 | [Dead Shopping Mall](https://open.spotify.com/track/53YJFdzWn606fbJc9ngrm8) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mitshuap \(Deluxe\)](https://open.spotify.com/album/7afIEP4llzhNpu5xo43jOj) | 4:13 | 2023-06-02 | 2023-07-09 |
 | [Defunct Baseball Team](https://open.spotify.com/track/528146UttVCudD2otAEkEI) | [Drucker](https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks) | [Defunct Baseball Team](https://open.spotify.com/album/4BisJkUD3Bu6k8rnbhB1JG) | 2:28 | 2022-12-16 | 2024-06-17 |
+| [Demain](https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Demain](https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1) | 3:49 | 2026-01-30 |  |
 | [Demain nous nous verrons](https://open.spotify.com/track/1dRgHx8QuWoz2ApVgxOR46) | [Tina\-Ève](https://open.spotify.com/artist/5Qx0enclC0G69AWx3CUIq8) | [Entre deux éboulements](https://open.spotify.com/album/07l0yqSuVBOALvcDpx2WVN) | 2:34 | 2021-01-03\* | 2021-01-18 |
 | [Demain ça ira](https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Demain ça ira](https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU) | 2:43 | 2025-10-24 |  |
 | [Derrière le bruit](https://open.spotify.com/track/124cRsjCieRBFKiwr0yPqV) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 4:05 | 2022-07-08 | 2024-04-19 |
@@ -353,7 +354,7 @@
 | [Morceaux](https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Ceci est une espèce aimée](https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq) | 4:59 | 2022-07-08 | 2024-04-19 |
 | [Mourir au large \- sunrise version](https://open.spotify.com/track/1Sl7Lu4hrGSl3agn3OUEZW) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mourir au large](https://open.spotify.com/album/5ZC4UbRnVaHmzg5oIhlDyY) | 2:32 | 2021-10-09 | 2021-11-09 |
 | [My Love](https://open.spotify.com/track/2ozuVNKw0Sy6nqEOXWZaDO) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [Tout ce qui compte](https://open.spotify.com/album/42mi3DpqsjtKTrm4IvX2MU) | 2:26 | 2025-11-07 |  |
-| [Mères](https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Mères](https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY) | 4:33 | 2022-09-23 |  |
+| [Mères](https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Mères](https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY) | 4:33 | 2022-09-23 | 2026-02-01 |
 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 | 2021-01-15 | 2022-04-16 |
 | [Métamorphose](https://open.spotify.com/track/7mBKtspKXvQSUZZZqjsSYR) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Métamorphose](https://open.spotify.com/album/0QmmTp77ovJzMPXW78pNvb) | 3:08 | 2021-08-17 | 2021-10-02 |
 | [Même les loups versent des larmes de joie](https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:11 | 2022-04-15 | 2026-01-15 |

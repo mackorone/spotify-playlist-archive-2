@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 559225,
+  "num_followers": 559204,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -279,18 +279,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
         }
       ],
-      "duration_ms": 238733,
-      "name": "Didn't Cha Know",
-      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -311,22 +315,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 156988,
-      "name": "Mamushi (feat. Yuki Chiba)",
-      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
+      "duration_ms": 238733,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Be the One You Love",
+        "url": "https://open.spotify.com/album/4vnVALee891bV599C0I6rI"
+      },
+      "artists": [
+        {
+          "name": "Sitcom",
+          "url": "https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 223601,
+      "name": "Wake up Jacob",
+      "url": "https://open.spotify.com/track/0Gr1QWlPlbdA4n8hTMAXcy"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "THE ANGEL YOU DON'T KNOW",
         "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 180485,
       "name": "C\u00c9LINE",
       "url": "https://open.spotify.com/track/3PDph58rpbRHraKLXaC2ZG"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Be the One You Love",
-        "url": "https://open.spotify.com/album/4vnVALee891bV599C0I6rI"
-      },
-      "artists": [
-        {
-          "name": "Sitcom",
-          "url": "https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C"
-        },
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 223601,
-      "name": "Wake up Jacob",
-      "url": "https://open.spotify.com/track/0Gr1QWlPlbdA4n8hTMAXcy"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "intro",
-      "url": "https://open.spotify.com/track/6HSTJbYzJCK5jKz7hrsvQh"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "WAN ME DEAD",
         "url": "https://open.spotify.com/album/2IZuFx4C7bvUQdCWEiRcLR"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 131427,
       "name": "WAN ME DEAD",
       "url": "https://open.spotify.com/track/7xQNKbIhGbfibisThIb75d"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "intro",
+      "url": "https://open.spotify.com/track/6HSTJbYzJCK5jKz7hrsvQh"
     }
   ],
   "unique_name": "'fit check",

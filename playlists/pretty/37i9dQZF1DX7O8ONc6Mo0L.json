@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 370214,
+  "num_followers": 370314,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-11-30 17:53:06",
       "album": {
+        "name": "Teu Amor Por Mim",
+        "url": "https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK"
+      },
+      "artists": [
+        {
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
+        }
+      ],
+      "duration_ms": 185969,
+      "name": "Teu Amor Por Mim",
+      "url": "https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz"
+    },
+    {
+      "added_at": "2025-11-30 17:53:06",
+      "album": {
         "name": "Se N\u00e3o Fosse Ele",
         "url": "https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 289638,
       "name": "Se N\u00e3o Fosse Ele",
       "url": "https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ"
-    },
-    {
-      "added_at": "2025-11-30 17:53:06",
-      "album": {
-        "name": "Teu Amor Por Mim",
-        "url": "https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK"
-      },
-      "artists": [
-        {
-          "name": "Igor Roque",
-          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
-        }
-      ],
-      "duration_ms": 185969,
-      "name": "Teu Amor Por Mim",
-      "url": "https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz"
     },
     {
       "added_at": "2025-11-30 17:53:06",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-11-30 17:53:06",
       "album": {
+        "name": "Voz e Viol\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6glr1kILyy9z47Uz4BkVFz"
+      },
+      "artists": [
+        {
+          "name": "Alisson Santos",
+          "url": "https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ"
+        }
+      ],
+      "duration_ms": 244917,
+      "name": "Eu Prefiro Adorar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6XDaefR7b2nX6seYVYcnQ2"
+    },
+    {
+      "added_at": "2025-11-30 17:53:06",
+      "album": {
         "name": "Florescer",
         "url": "https://open.spotify.com/album/1JlMVDkzH54t0v8kz148LG"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 380520,
       "name": "Florescer",
       "url": "https://open.spotify.com/track/0YukDUvWMxW2FPuceeTNT0"
-    },
-    {
-      "added_at": "2025-11-30 17:53:06",
-      "album": {
-        "name": "Voz e Viol\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6glr1kILyy9z47Uz4BkVFz"
-      },
-      "artists": [
-        {
-          "name": "Alisson Santos",
-          "url": "https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ"
-        }
-      ],
-      "duration_ms": 244917,
-      "name": "Eu Prefiro Adorar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6XDaefR7b2nX6seYVYcnQ2"
     },
     {
       "added_at": "2025-11-30 17:53:06",

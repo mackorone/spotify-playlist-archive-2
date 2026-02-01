@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383 likes - 162 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 384 likes - 162 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,9 +125,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 115 | [RESSURECT](https://open.spotify.com/track/5uVI3sDRqfbBL2SUzewtik) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Jeriq](https://open.spotify.com/artist/4Oph4YGsWzU9KAvZuuuG8z) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/6BNLRL7UHe27t2D0nw9lqV) | 2:54 |
 | 116 | [Olive \(feat\. Zelooperz\)](https://open.spotify.com/track/4CGM56g4eHDSjW97Psi9aW) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Almost There](https://open.spotify.com/album/2Zi2oIVwrNddAmeqeO96ig) | 2:04 |
 | 117 | [No More](https://open.spotify.com/track/6T3Yt7O6rxpeiRF1dxODQL) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [No More](https://open.spotify.com/album/4UCY9M6aQm4RikN8BsptLI) | 3:06 |
-| 118 | [Uptown](https://open.spotify.com/track/5aAVu1wOi2hmMdT1DNYrkP) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Flight Plan 001](https://open.spotify.com/album/5WqMgmDRifpGVoMdtlmuC0) | 2:47 |
-| 119 | [MONTREAL](https://open.spotify.com/track/1VGQzAAmfZaalTHQLddcrT) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [WHY ALWAYS ME?](https://open.spotify.com/album/3HMmoUioYMFszTSEDEg5Jd) | 2:00 |
-| 120 | [INTERSTELLAR \(feat\. Jahvor\)](https://open.spotify.com/track/33uQ6PJKdnYsvY6GBfBOKl) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Jahvor](https://open.spotify.com/artist/6Iqo4GihxRL5ULiITVuMv0) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:53 |
+| 118 | [INTERSTELLAR \(feat\. Jahvor\)](https://open.spotify.com/track/33uQ6PJKdnYsvY6GBfBOKl) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Jahvor](https://open.spotify.com/artist/6Iqo4GihxRL5ULiITVuMv0) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:53 |
+| 119 | [Uptown](https://open.spotify.com/track/5aAVu1wOi2hmMdT1DNYrkP) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Flight Plan 001](https://open.spotify.com/album/5WqMgmDRifpGVoMdtlmuC0) | 2:47 |
+| 120 | [MONTREAL](https://open.spotify.com/track/1VGQzAAmfZaalTHQLddcrT) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [WHY ALWAYS ME?](https://open.spotify.com/album/3HMmoUioYMFszTSEDEg5Jd) | 2:00 |
 | 121 | [Feels CoreCore](https://open.spotify.com/track/3grRcy3rbsNz4ao4X8apku) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
 | 122 | [CLARITY](https://open.spotify.com/track/3z1z0Rjwhi6U71yv0qy85D) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [FIRST DEGREE](https://open.spotify.com/album/3xXhMQ8hGvs9hHwowUo7Wf) | 2:44 |
 | 123 | [Right Key](https://open.spotify.com/track/7vEuEEOz0iEiGaJFHDmheN) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 161 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 162 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcIXDAAAAAABWvr6XoQQzPWMU0MvJhZe`
+Snapshot ID: `AcIc6AAAAACrrRu5daYVLI6Q9VGqWXM2`

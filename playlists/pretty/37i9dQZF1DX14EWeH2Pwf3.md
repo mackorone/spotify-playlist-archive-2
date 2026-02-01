@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Kid Yugi in cover della playlist urban più grande d'Italia 🗡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,227 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,251 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Eroina](https://open.spotify.com/track/56n5UQJ0SDVaxwQNnu90ee) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:18 |
+| 1 | [Eroina \(feat\. Tutti Fenomeni\)](https://open.spotify.com/track/56n5UQJ0SDVaxwQNnu90ee) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:18 |
 | 2 | [2 GIORNI DI FILA \(feat\. Sfera Ebbasta, ANNA\)](https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:31 |
 | 3 | [Spendin \(feat\. Marracash\)](https://open.spotify.com/track/0ek2jtO8Ru1YrVImYFLSuW) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [FASTLIFE 5 : Audio Luxury](https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T) | 2:42 |
 | 4 | [Push It \(feat\. ANNA\)](https://open.spotify.com/track/5FLxKWv8HEFI67uKzSX27K) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Push It \(feat\. ANNA\)](https://open.spotify.com/album/0vBDPxviLQoogLmAgzqoC5) | 2:55 |
 | 5 | [Ma c sta disc \(feat\. Young Hash\)](https://open.spotify.com/track/3urK1DRfhEQLPyBpGsXoku) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Cocobeatz](https://open.spotify.com/artist/2kKkiWrxTciNuT6joW36iW) | [Tello](https://open.spotify.com/album/0H0UhBxunOl0oWIOHSFKrZ) | 2:45 |
 | 6 | [COME SE NON FOSSI NEI GUAI](https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:29 |
-| 7 | [Bullet Ballet](https://open.spotify.com/track/1ljOXO8cgSa8qntDVlP9uu) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:31 |
+| 7 | [Bullet Ballet \(feat\. Artie 5ive\)](https://open.spotify.com/track/1ljOXO8cgSa8qntDVlP9uu) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:31 |
 | 8 | [ARCOBALENO \(feat\. Anuel AA\)](https://open.spotify.com/track/6JE8qB33bwbb6kLK7YjndA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:13 |
 | 9 | [Resta Ancora Un Po'](https://open.spotify.com/track/48zY2jicewpCnYEnWtrPPn) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Resta Ancora Un Po'](https://open.spotify.com/album/5Yy72IJnQKirTKQ54lZBpO) | 2:27 |
 | 10 | [Amelie](https://open.spotify.com/track/0O5KcmgOeEgublW6ySQ6Vc) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:04 |

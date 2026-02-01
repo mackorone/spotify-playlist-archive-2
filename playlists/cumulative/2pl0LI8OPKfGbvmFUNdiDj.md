@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-330 songs - 18 hr 30 min
+331 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Volver a Brillar](https://open.spotify.com/track/4WBaBFfLF2XIGSojdu01pI) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Volver a Brillar](https://open.spotify.com/album/4WtZNvgYn6wodmMvtKjkSN) | 4:51 | 2025-11-16 | 2026-01-05 |
 | [Warzone](https://open.spotify.com/track/5eoBteAO3WSt6o9f18AVzm) | [Young Naughty G](https://open.spotify.com/artist/5ffV6UQd1XxjugmDxDN4cw) | [Warzone](https://open.spotify.com/album/4be2Xs4hXkcvjhkNKuN1Dl) | 1:19 | 2026-01-03 | 2026-01-25 |
 | [Was All \(Live at Rui2online\)](https://open.spotify.com/track/7287cbTyQRUs93lI7T5kLA) | [Bed Riders](https://open.spotify.com/artist/5ZD5TtaJpglHW9xPCjrdpZ), [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf) | [2014](https://open.spotify.com/album/4zRuYKD8Jr5mFjxeghUQ1E) | 5:08 | 2025-12-20 | 2026-01-15 |
+| [Was Los](https://open.spotify.com/track/0n0VH7jkxUITqDGTVRpBTH) | [Willi Eyy](https://open.spotify.com/artist/4nBqFEM66Gl0kKkKDKDx2t), [Krizbo](https://open.spotify.com/artist/6kIxxuflj0QyD89t9v4SSN) | [Was Los](https://open.spotify.com/album/0n9HJBDelqWOxZrFZqjEfK) | 3:11 | 2026-01-31 |  |
 | [Waste Your Life Away](https://open.spotify.com/track/3eabOltffS3CrKuJ0lSkL5) | [No Consent](https://open.spotify.com/artist/7jg6RKGiaiKYF7QJ3bigxW) | [Waste Your Life Away](https://open.spotify.com/album/61RNd1AYukexfLY2M9PgT6) | 2:56 | 2025-12-04 | 2026-01-05 |
 | [We're Not Going Back !](https://open.spotify.com/track/2ZfUwtNAa1m2pFfbw12P1f) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [We're Not Going Back !](https://open.spotify.com/album/24RpqAI2h0N71yyWZAHjUR) | 3:09 | 2026-01-24 |  |
 | [Weary Bones](https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Weary Bones](https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv) | 3:54 | 2025-12-29 | 2026-01-25 |

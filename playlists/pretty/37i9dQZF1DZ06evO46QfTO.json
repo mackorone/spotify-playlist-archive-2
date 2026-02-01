@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAABDcf2+Nw+GXtumGigtplle",
+  "snapshot_id": "aXv0gAAAAAAzIjBVwkGPoKyBeedkoi6O",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 193373,
-      "name": "If She Ever Leaves Me",
-      "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
+      "duration_ms": 174933,
+      "name": "Redesigning Women",
+      "url": "https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 174933,
-      "name": "Redesigning Women",
-      "url": "https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7"
+      "duration_ms": 193373,
+      "name": "If She Ever Leaves Me",
+      "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D R E A M S I C L E",
-        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 128160,
-      "name": "cut! (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/4kRlL390PfYKVAirO1ZUhZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Line By Line (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 208186,
       "name": "Line By Line (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D R E A M S I C L E",
+        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 128160,
+      "name": "cut! (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/4kRlL390PfYKVAirO1ZUhZ"
     },
     {
       "added_at": null,
@@ -876,7 +876,7 @@
       "added_at": null,
       "album": {
         "name": "D R E A M S I C L E",
-        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
+        "url": "https://open.spotify.com/album/5KE34iOewqgS2DNW3fHyih"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 216200,
-      "name": "i hope i never fall in love",
-      "url": "https://open.spotify.com/track/19v4Pp2J8bkpZYmVcFRvjA"
+      "duration_ms": 160866,
+      "name": "too good",
+      "url": "https://open.spotify.com/track/72pEJrNzZkImzQYeGXerzP"
     },
     {
       "added_at": null,
@@ -940,7 +940,7 @@
       "added_at": null,
       "album": {
         "name": "D R E A M S I C L E",
-        "url": "https://open.spotify.com/album/5KE34iOewqgS2DNW3fHyih"
+        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 160866,
-      "name": "too good",
-      "url": "https://open.spotify.com/track/72pEJrNzZkImzQYeGXerzP"
+      "duration_ms": 216200,
+      "name": "i hope i never fall in love",
+      "url": "https://open.spotify.com/track/19v4Pp2J8bkpZYmVcFRvjA"
     },
     {
       "added_at": null,

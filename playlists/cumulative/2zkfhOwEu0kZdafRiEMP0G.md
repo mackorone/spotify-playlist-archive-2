@@ -4,7 +4,7 @@
 
 > 
 
-76 songs - 5 hr 16 min
+77 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Helpless](https://open.spotify.com/track/54Sc7mZQ1RM03STpk4SfaA) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 4:09 | 2025-12-08 | 2025-12-28 |
 | [Her Embrace](https://open.spotify.com/track/1wIzJvTTrg1LhuYR54BQ4y) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [In The Light Ensemble](https://open.spotify.com/artist/1WD3T0MmoymGX68JUOZUaD) | [In the Light: A Faustian Tale \(Highlights from the World Premiere Studio Cast Recording\)](https://open.spotify.com/album/4HtJ1YiZQlLUtmRaOJj11N) | 3:35 | 2025-10-26 | 2026-01-26 |
 | [High Water](https://open.spotify.com/track/4wH1pXy6wTxvUnRmWaHWaP) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 5:13 | 2026-01-03 |  |
-| [Hold On Till May](https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Lindsey Stamey](https://open.spotify.com/artist/7lbX2TQTHawmdlhNuXDzHs) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 4:38 | 2025-07-13 |  |
+| [Hold On Till May](https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Lindsey Stamey](https://open.spotify.com/artist/7lbX2TQTHawmdlhNuXDzHs) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 4:38 | 2025-07-13 | 2026-02-01 |
 | [Hold Them Down](https://open.spotify.com/track/3lIgiul24q1uwE8l928s0w) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Ayron Alexander](https://open.spotify.com/artist/69ZOltPRsF5iPkicJQMRZ9), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:03 | 2025-10-21 | 2025-12-28 |
 | [How Liberty Dies](https://open.spotify.com/track/3JZw17iEok1bdXdmny1Tco) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [How Liberty Dies](https://open.spotify.com/album/6B8JOR5XGQ6X0PyQkqHWP4) | 2:13 | 2025-11-05 | 2025-12-28 |
 | [I Am a Jedi](https://open.spotify.com/track/2U0sNA99tgmDUxDvnukqJT) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [I Am a Jedi](https://open.spotify.com/album/3T9U4Po9LYbShRBuEECFdL) | 2:15 | 2025-11-30 |  |
@@ -44,6 +44,7 @@
 | [Just a Man](https://open.spotify.com/track/757cx0iJx1pcwLv4lnX39B) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Troy Saga \(Official Concept Album\)](https://open.spotify.com/album/6SxVoqHzmrFnPno9DWedMj) | 2:28 | 2025-10-21 | 2025-10-23 |
 | [Light My Candle](https://open.spotify.com/track/7uSxlYmb19TczZ3AP1s3tO) | [Adam Pascal](https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi), [Rosario Dawson](https://open.spotify.com/artist/5gGhRZgP9BJL9fsFdvTzeX) | [RENT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ) | 4:10 | 2025-07-13 | 2025-11-05 |
 | [Master and Apprentice](https://open.spotify.com/track/1fUfmJmdubIkIBn2yIctbi) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Master and Apprentice](https://open.spotify.com/album/686otqGNkQF90lL7Ok3GGQ) | 2:13 | 2025-11-05 |  |
+| [Maul's Revenge](https://open.spotify.com/track/2KT8DVAMX7MLxSuAmaIbOl) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Maul's Revenge](https://open.spotify.com/album/65aG5hYGhsppIZl96jUwXj) | 2:27 | 2026-01-31 |  |
 | [Mia & Sebastian’s Theme](https://open.spotify.com/track/1Vk4yRsz0iBzDiZEoFMQyv) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 1:38 | 2025-07-13 |  |
 | [My Girl \- Acappella](https://open.spotify.com/track/528QpBptHqhPL3WbKUUkhW) | [Jared Halley](https://open.spotify.com/artist/7IvXFbdaAQEFyeB7SSEfCG) | [My Girl \(Acappella\)](https://open.spotify.com/album/5GrRAQdh7ttyanhJuDCrcz) | 2:56 | 2025-06-29 |  |
 | [My Green Light](https://open.spotify.com/track/6laXbZsBFKw3FlQ7eJbuwO) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Original Broadway Cast of The Great Gatsby \- A New Musical](https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM) | [The Great Gatsby \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6) | 4:52 | 2026-01-20 |  |

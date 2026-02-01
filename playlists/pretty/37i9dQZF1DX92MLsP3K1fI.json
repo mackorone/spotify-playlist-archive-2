@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Jacinto en portada \u2728",
-  "num_followers": 93957,
+  "num_followers": 93959,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-01-30 06:00:21",
       "album": {
-        "name": "PALACIO DE LUX",
-        "url": "https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Mar\u00eda Jos\u00e9 Llergo",
-          "url": "https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q"
-        }
-      ],
-      "duration_ms": 194565,
-      "name": "bachata m\u00eda",
-      "url": "https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW"
-    },
-    {
-      "added_at": "2026-01-30 06:00:21",
-      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
+    },
+    {
+      "added_at": "2026-01-30 06:00:21",
+      "album": {
+        "name": "PALACIO DE LUX",
+        "url": "https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Mar\u00eda Jos\u00e9 Llergo",
+          "url": "https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q"
+        }
+      ],
+      "duration_ms": 194565,
+      "name": "bachata m\u00eda",
+      "url": "https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW"
     },
     {
       "added_at": "2026-01-30 06:00:21",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-01-30 06:00:21",
       "album": {
-        "name": "Tengamos Pasado",
-        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/12L1vxHaS7zk9jkA9vhBwQ"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
         }
       ],
-      "duration_ms": 180648,
-      "name": "Tengamos Pasado",
-      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
+      "duration_ms": 240000,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/1AcoghNuDqCo4WoUqjYYG0"
     }
   ],
   "unique_name": "Oye Pop",

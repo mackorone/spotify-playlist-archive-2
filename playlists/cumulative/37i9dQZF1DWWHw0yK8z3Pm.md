@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Zach Bryan
 
-658 songs - 1 day 15 hr 53 min
+659 songs - 1 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Nashville Now](https://open.spotify.com/track/3QTEG2yYoNpmTnCWtFGrcn) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Nashville Now](https://open.spotify.com/album/2t9zjuvUc6VjgJyjpCnWzu) | 4:35 | 2025-09-19 | 2025-09-27 |
 | [Nautical Disaster](https://open.spotify.com/track/6wazfCfvmYBOprq7Zq6kLL) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Nautical Disaster](https://open.spotify.com/album/3NLfuDDCC5hvsUEVgknel2) | 5:00 | 2022-05-13 | 2022-05-20 |
 | [Neon Blue](https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be](https://open.spotify.com/album/5nwLpXKbM62DYP0phC6NBV) | 4:19 | 2022-08-12 | 2023-12-09 |
+| [Never Kissed a Cowboy](https://open.spotify.com/track/45OZMlld4rUYxi62rXvxv1) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Never Kissed a Cowboy](https://open.spotify.com/album/0LQY59aSfb5QmRFK1z6VRK) | 3:04 | 2026-01-30 |  |
 | [Never Love You Again \(Feat\. Sierra Ferrell\)](https://open.spotify.com/track/1hpeLq6qX83kCsfh9C8RNI) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [F\-1 Trillion](https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw) | 3:06 | 2024-08-23 | 2025-10-27 |
 | [New Highs](https://open.spotify.com/track/0HENdkCmHGj3u7XEsYAYsn) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [New Highs, Pt\. 1](https://open.spotify.com/album/0aSUXrulSnrgnzyAzl2eBf) | 4:15 | 2025-10-06 |  |
 | [Next Somewhere](https://open.spotify.com/track/2BUHojp3DLIExIWPB7fHCZ) | [Sweet Alibi](https://open.spotify.com/artist/1g4g3e7KmtiCWGIazim0A4) | [Make A Scene](https://open.spotify.com/album/6t71WvBFQJpWzVeg2IWA3h) | 4:09 | 2022-05-13 | 2023-03-11 |
@@ -446,7 +447,7 @@
 | [On a Bluebird's Wing](https://open.spotify.com/track/2Pha4Ny8PyIq0GkaEnYWYl) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [On A Bluebird's Wing](https://open.spotify.com/album/6dOVgmu5erhWM0l4wOjqEx) | 2:29 | 2025-06-13 | 2025-07-12 |
 | [On a Roll](https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [On A Roll](https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb) | 3:31 | 2023-05-12 | 2023-07-29 |
 | [One Hell of a Woman](https://open.spotify.com/track/0ZCEp1OyaYwdJciyzkCCJ2) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk) | 4:49 | 2024-10-18 | 2025-11-07 |
-| [One More Dance Around The Sun](https://open.spotify.com/track/0wlIJpKDJN3DvOSSKtSj74) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [One More Dance Around The Sun](https://open.spotify.com/album/2zfsEsAIMyUPZ7OGLZA5FS) | 4:46 | 2025-06-06 |  |
+| [One More Dance Around The Sun](https://open.spotify.com/track/0wlIJpKDJN3DvOSSKtSj74) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [One More Dance Around The Sun](https://open.spotify.com/album/2zfsEsAIMyUPZ7OGLZA5FS) | 4:46 | 2025-06-06 | 2026-02-01 |
 | [Only an Island](https://open.spotify.com/track/0g1F7GCvtVXwMKuqhAnoBB) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Only an Island](https://open.spotify.com/album/3tw9sLSnx1LdZFpgfgXGs6) | 4:33 | 2023-01-27 | 2023-05-01 |
 | [Opening the Sky](https://open.spotify.com/track/3C5jENIYVwG38O0QkjlAA4) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Opening the Sky](https://open.spotify.com/album/0970umokFEUwY11RwYX7sE) | 4:17 | 2022-09-23 | 2022-10-15 |
 | [Other Side of Goodbye](https://open.spotify.com/track/1hMyjL6US0O882EZJ6tRih) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [House to House](https://open.spotify.com/album/1bgLbawfHvuMhOEE9WQA8w) | 2:34 | 2022-05-13 | 2022-07-29 |

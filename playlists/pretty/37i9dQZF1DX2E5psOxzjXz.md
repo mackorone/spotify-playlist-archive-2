@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Neha Karim Ullah
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,798 likes - 95 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,808 likes - 95 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

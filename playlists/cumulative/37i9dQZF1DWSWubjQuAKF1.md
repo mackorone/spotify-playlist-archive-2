@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: NEL, Hania
 
-713 songs - 1 day 10 hr 50 min
+714 songs - 1 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Ktoś](https://open.spotify.com/track/6JSzod8y7ovVlCENj7V0WV) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Ktoś](https://open.spotify.com/album/52tOlA2N5YrzOPbwyO12QE) | 2:36 | 2024-08-01 | 2025-01-24 |
 | [KUKU](https://open.spotify.com/track/6zNT4rr5WyxydUAa1WfOTZ) | [Nicole](https://open.spotify.com/artist/0u0v2kVNfDCRjSlND4Od44), [Faded Dollars](https://open.spotify.com/artist/7d16c3NgSNVAKr6ADZVSX6), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [KUKU](https://open.spotify.com/album/6fNggR8FhEbRX6clkcMdtr) | 2:24 | 2025-03-06 | 2025-03-30 |
 | [Kurz](https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Kurz](https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg) | 2:35 | 2025-02-27 | 2025-04-25 |
-| [Kwiaty](https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Kwiaty](https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB) | 2:48 | 2025-09-16 |  |
+| [Kwiaty](https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Kwiaty](https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB) | 2:48 | 2025-09-16 | 2026-02-01 |
 | [KŁOPOTY](https://open.spotify.com/track/7bl2ekqiQVO6xbQ1qIOdJX) | [Hanafi](https://open.spotify.com/artist/2JQBdaMfMfTzqCKlLVzndL), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Hubi](https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN), [Adash](https://open.spotify.com/artist/61OiK85G3liQ764VKRLJPk) | [KŁOPOTY](https://open.spotify.com/album/3k62wujjzZwoNyjduqwWNE) | 3:20 | 2025-08-19 | 2025-09-29 |
 | [Kłódki](https://open.spotify.com/track/3yuEPvUfNhi9yiXzWQHiiO) | [Gaba Kościug](https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [Kłódki](https://open.spotify.com/album/4l98agKaPj5xStMDqwXYe6) | 2:15 | 2025-07-08 | 2025-09-01 |
 | [Lawenda](https://open.spotify.com/track/03zESWjJhCUNKvbIO4W4AQ) | [Aymi](https://open.spotify.com/artist/4fjC4XQqR0L6tdvIgujs8I) | [Lawenda](https://open.spotify.com/album/3WEJpUAEawGWhW9DseR7KV) | 2:28 | 2024-08-22 | 2024-10-19 |
@@ -659,6 +659,7 @@
 | [Wiem co z nami będzie](https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Wiem co z nami będzie](https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V) | 3:20 | 2025-08-19 | 2025-11-07 |
 | [Wiem, że ci ciężko](https://open.spotify.com/track/6fdsYxLiiqBQBEdZh7lkL4) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Wiem, że ci ciężko](https://open.spotify.com/album/0CNDOPFX4ucmlpji8KAonu) | 3:31 | 2024-06-28 | 2024-07-05 |
 | [wifey material](https://open.spotify.com/track/1g8puN0EuWAuupTQfGBGZN) | [Milky.wav](https://open.spotify.com/artist/0d4V9KFvcZZS9ASemIGuDP) | [wifey material](https://open.spotify.com/album/60U1gVo9t0FP69JWud0BQ5) | 2:02 | 2025-09-16 | 2025-12-06 |
+| [Wild Child](https://open.spotify.com/track/23xaqczA9HXTZaHPA9Wxp0) | [Anastazja](https://open.spotify.com/artist/38mOAIXWQw4TmP5lRI9tbW), [Dizzma](https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1), [Mane](https://open.spotify.com/artist/0ZtfEvCbEaBHeA7IYI8wNH) | [Wild Child](https://open.spotify.com/album/7CeQTUeuMPEKhS1R7E1PA4) | 2:52 | 2026-01-30 |  |
 | [Wiosna](https://open.spotify.com/track/49JWaptOiGisHqxVA6QhtR) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wiosna EP](https://open.spotify.com/album/03Vjg22ukwVqMnrcfprG6l) | 2:26 | 2025-02-06 | 2025-02-21 |
 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 | 2024-09-13 | 2025-01-24 |
 | [woda utleniona](https://open.spotify.com/track/05PIFyGeH8pSnAfTb2dZpV) | [świtała](https://open.spotify.com/artist/0fP7Egec8F7B72aatTrLPQ), [dj cbh](https://open.spotify.com/artist/1Y8t9sDYteTcWxc4CqKQGJ) | [woda utleniona](https://open.spotify.com/album/6lrnYtBfGg8CDKj1F0XkWH) | 2:30 | 2025-10-07 | 2025-10-15 |

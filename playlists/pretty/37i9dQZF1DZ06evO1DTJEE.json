@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 64937,
+  "num_followers": 64966,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAAAa15JVmh16wFOpdUD6TVgU",
+  "snapshot_id": "aXv0gAAAAADLYBqkvaT+CMt6LNdRSL98",
   "tracks": [
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 195228,
-      "name": "They Don\u2019t Make 'Em Like That No More",
-      "url": "https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D"
+      "duration_ms": 216466,
+      "name": "Workin' On Me",
+      "url": "https://open.spotify.com/track/5yW4e8NG9a14JctdIlXAFt"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 216466,
-      "name": "Workin' On Me",
-      "url": "https://open.spotify.com/track/5yW4e8NG9a14JctdIlXAFt"
+      "duration_ms": 195228,
+      "name": "They Don\u2019t Make 'Em Like That No More",
+      "url": "https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 221946,
       "name": "She Used to Be Mine (with Riley Green)",
       "url": "https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bury Me In Dixie",
-        "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
+        "name": "Midtown Sessions",
+        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 188250,
-      "name": "Bury Me In Dixie",
-      "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
+      "duration_ms": 194064,
+      "name": "Cowboy In Me - Acoustic",
+      "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midtown Sessions",
-        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
+        "name": "Bury Me In Dixie",
+        "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 194064,
-      "name": "Cowboy In Me - Acoustic",
-      "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
+      "duration_ms": 188250,
+      "name": "Bury Me In Dixie",
+      "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-475 songs - 23 hr 2 min
+476 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Out Of Touch](https://open.spotify.com/track/5FhepPAZpSH6wgFWYbeuxC) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:18 | 2023-07-26 |  |
 | [outro \(hairy chairs\)](https://open.spotify.com/track/42eJjeTssb6JOMPkyn5QRj) | [LILBADDIETYRONE](https://open.spotify.com/artist/3Q9gITSqraeLAotKbn8Wsp) | [TISM\. EP](https://open.spotify.com/album/6CrSFGDrPMqNTg70ZoGENT) | 0:54 | 2024-06-11 |  |
 | [OUTSIDE](https://open.spotify.com/track/693ifaBEtY4mvcOVjXmRnp) | [Sin](https://open.spotify.com/artist/5mXGPcFOPkydmwQO4ebdVe) | [In The Sticks](https://open.spotify.com/album/0HCirtktFXDWNgY8CvHwr8) | 2:10 | 2024-05-25 |  |
+| [Outside \- Remix](https://open.spotify.com/track/2hVI1Fl7b4sbDeAa8IPeSI) | [J.Bu$h](https://open.spotify.com/artist/1xlDwQxeDDFKygaztpIMX1), [Lane Shuler](https://open.spotify.com/artist/01Wu4arSj8hLulToXCdO8J) | [Outside \(Remix\)](https://open.spotify.com/album/7ujpsRpFcStgeCFmAtge2H) | 2:54 | 2026-01-31 |  |
 | [Over The Hill](https://open.spotify.com/track/5V2xNM2mfjQmY7hu2oMsks) | [Lucciago](https://open.spotify.com/artist/6RDDG29KAd3bKVMreXYnwY) | [Over The Hill](https://open.spotify.com/album/3d1D2K1JJK3nHWDPExuqcX) | 2:32 | 2025-11-19 |  |
 | [Overdose](https://open.spotify.com/track/6uD9cyCj1Ep2if7Ll3haWp) | [SYLLA INK](https://open.spotify.com/artist/4OK5TUvorTMUjUcGMinkVs), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Overdose](https://open.spotify.com/album/3TsoyqI3cQUPaKLdlM9zOj) | 2:16 | 2024-05-30 |  |
 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 | 2023-07-26 |  |

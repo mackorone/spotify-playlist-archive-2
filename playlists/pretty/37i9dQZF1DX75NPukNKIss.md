@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,553 likes - 101 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,593 likes - 101 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

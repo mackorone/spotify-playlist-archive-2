@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,216 likes - 166 songs - 9 hr 24 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,219 likes - 170 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,5 +174,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 164 | [Start Over](https://open.spotify.com/track/6w6G8JwBtOQCiro9hj6rx7) | [Hilla Peer](https://open.spotify.com/artist/7bPux2PIV6JLOrjuxyfIbx), [Roy Aharon](https://open.spotify.com/artist/6iG05TrjWso3eQiNOcvmvc) | [Start Over](https://open.spotify.com/album/6Ix0eruzkCh5U11C3oma9c) | 2:48 |
 | 165 | [L'été](https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [L'été](https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc) | 3:58 |
 | 166 | [Judas](https://open.spotify.com/track/63ojE5nDCmEvkLG1tL8Hl8) | [Valeska Rautenberg](https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG) | [Aerial Minds](https://open.spotify.com/album/2c0rWMixj6Or2q7VdOVujJ) | 4:18 |
+| 167 | [On My Way](https://open.spotify.com/track/1NSXdzBae5YVJz1ZBD6y2L) | [OVRTME](https://open.spotify.com/artist/0yqsiKLq7oRCKSDBPk6Rm4) | [On My Way](https://open.spotify.com/album/4Fl8nGmtLOZjiObvfLoL9q) | 3:05 |
+| 168 | [Dimmelo Adesso](https://open.spotify.com/track/5dokQ5aPLUoVuKUMlUYYmy) | [Aless\_andro](https://open.spotify.com/artist/7olRQapU828COnC46pwfzO) | [Dimmelo Adesso](https://open.spotify.com/album/3j3qBXLr6p8gKGIPuNXTOV) | 4:05 |
+| 169 | [7 Wonder](https://open.spotify.com/track/2jEa1Hi7nMl4B8LT5yjThF) | [Necrovaye](https://open.spotify.com/artist/0dkN0O2ZrD4FTbEe8beISY) | [7 Wonder](https://open.spotify.com/album/2PVcfUE6GTbR4K8urqQcF0) | 2:29 |
+| 170 | [Polaroid Heartbeats](https://open.spotify.com/track/7rZfePcbPcwUNup9K5UL0K) | [Lyric official](https://open.spotify.com/artist/2i8zdGO7nanhaZfFKxWME4) | [Polaroid Heartbeats](https://open.spotify.com/album/76Zr0yOXBrSD14CwTJixCJ) | 3:00 |
 
-Snapshot ID: `AAAP5aZ/HRbv+J1jtT4aKrLoIgNChrPe`
+Snapshot ID: `AAAP6f0FQCYGaTzcOpSxe3M+5B63M6Dd`

@@ -4,11 +4,12 @@
 
 > Boots on the ground, head in the stars
 
-191 songs - 12 hr 10 min
+193 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [12 Feet High](https://open.spotify.com/track/0a20AtS66hP9xUj51qXtl5) | [Leslie Stevens](https://open.spotify.com/artist/2QFJpQcoOMr1A2m8socQKF) | [12 Feet High](https://open.spotify.com/album/6KkGswg0AiEqjN2Uc79cWt) | 3:45 | 2021-12-15 |  |
+| [1 Mile From Heaven](https://open.spotify.com/track/1j8hIIPFy1YM3FoBMAxihE) | [Calvin Love](https://open.spotify.com/artist/4BGm5j3zsc5NU2BM1ihlA4) | [1 Mile From Heaven](https://open.spotify.com/album/2mOWMR3alIP6kyzxcThPRv) | 5:01 | 2026-01-30 |  |
+| [12 Feet High](https://open.spotify.com/track/0a20AtS66hP9xUj51qXtl5) | [Leslie Stevens](https://open.spotify.com/artist/2QFJpQcoOMr1A2m8socQKF) | [12 Feet High](https://open.spotify.com/album/6KkGswg0AiEqjN2Uc79cWt) | 3:45 | 2021-12-15 | 2026-02-01 |
 | [13 Lakes](https://open.spotify.com/track/782wmOBwOEMzGaDxPpollT) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [13 Lakes](https://open.spotify.com/album/0M4ClN7TShkiIqusklnOq2) | 3:17 | 2025-12-05 |  |
 | [A Love International](https://open.spotify.com/track/3Bbb7sfVmXbJnuy75MidP3) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 4:15 | 2024-04-12 |  |
 | [Alchemy](https://open.spotify.com/track/2xoH0GxWAq8AxivBQdg4SY) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Alchemy](https://open.spotify.com/album/7C0o4kiZosGwLdgsdHKmtU) | 2:40 | 2025-06-18 |  |
@@ -95,6 +96,7 @@
 | [Los Angeles](https://open.spotify.com/track/5DQFjLWTW7AGqaPLdeXCTz) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [The Freelancer's Blues](https://open.spotify.com/album/4UxVJzE5iHPxl2mBWlEqC1) | 4:37 | 2021-12-15 | 2024-04-19 |
 | [Los Chicos Tristes](https://open.spotify.com/track/1ty2x08emLE57NrhHIw1gS) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:49 | 2024-02-02 | 2024-04-19 |
 | [Los Chicos Tristes](https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Chicos Tristes](https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa) | 3:49 | 2022-09-16 | 2024-03-01 |
+| [Lost at Sea](https://open.spotify.com/track/4SPFLGbWVbdSnnVa985mvA) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [Back to Life](https://open.spotify.com/album/2tf6b0OVMQg6Nh7O5OgHKu) | 3:04 | 2026-01-30 |  |
 | [Love Can Find You Anywhere](https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Love Can Find You Anywhere](https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24) | 3:39 | 2021-12-15 |  |
 | [Low Sun](https://open.spotify.com/track/4TwFXylgQheM8AUgY00G7C) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun](https://open.spotify.com/album/7nC5WtMQ8DJcfQzhFy2oqa) | 3:08 | 2024-03-22 |  |
 | [Luck of the Draw](https://open.spotify.com/track/37WNhzp7wOKMuMsByEsUF2) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Luck of the Draw](https://open.spotify.com/album/0N7kbieW6rfTyVPxtshZ7N) | 2:47 | 2021-12-15 | 2026-01-31 |
@@ -197,7 +199,7 @@
 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 | 2021-12-15 |  |
 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 | 2021-12-15 |  |
 | [Wrecking Ball](https://open.spotify.com/track/7AhLSMrjWMULOB9UH7lI7p) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 4:49 | 2021-12-15 |  |
-| [You've Got Other Girls for That](https://open.spotify.com/track/5YmUheNKfm5UiZ3q1mxVEF) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [You've Got Other Girls for That](https://open.spotify.com/album/0SwMHWz5Av4WNhffxJwPgQ) | 4:03 | 2021-12-15 |  |
+| [You've Got Other Girls for That](https://open.spotify.com/track/5YmUheNKfm5UiZ3q1mxVEF) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [You've Got Other Girls for That](https://open.spotify.com/album/0SwMHWz5Av4WNhffxJwPgQ) | 4:03 | 2021-12-15 | 2026-02-01 |
 | [Your Angel Steps Out Of Heaven](https://open.spotify.com/track/1tXGkY3JTbDSjRT28o8E0x) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [Sleepless Nights](https://open.spotify.com/album/3hDXV8pPMWKzRziBsuPJWA) | 3:09 | 2021-12-15 | 2022-06-04 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-397 songs - 21 hr 24 min
+398 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [BASS CANNON](https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp) | [Slaughterhouse](https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [BASS CANNON](https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD) | 2:09 | 2025-08-07 |  |
 | [Bass Face](https://open.spotify.com/track/4AuEotNw42YumygG85tYyV) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Bass Face](https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2) | 3:07 | 2024-02-08 | 2025-06-03 |
 | [Bass Face](https://open.spotify.com/track/06XJ9v73E7LE0JVPpl4YTG) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j) | [Bass Face](https://open.spotify.com/album/3ZFaGpH7Sr8H6yzEniHXyA) | 2:54 | 2025-10-02 |  |
+| [Bass Go Boom](https://open.spotify.com/track/7Iy0uVPtplh8WsntcIXP0J) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Bass Go Boom](https://open.spotify.com/album/7h3i3y44K4yQDUgCxt9CKk) | 2:40 | 2026-01-30 |  |
 | [Battle For The Mind](https://open.spotify.com/track/348gfv2I7vLLE3qZuRM10N) | [Hardbouncer](https://open.spotify.com/artist/1ODM6xNS8Osji0prNFRK9H), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Battle For The Mind EP](https://open.spotify.com/album/4cnqX9Xi3GeQVsf1gVHmvk) | 3:20 | 2023-07-13 | 2024-07-27 |
 | [Battle Tonight](https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Battle Tonight](https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ) | 4:08 | 2022-12-08 | 2023-06-02 |
 | [BE LOUDER](https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [BE LOUDER](https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg) | 2:51 | 2023-08-31 | 2024-08-31 |
@@ -361,7 +362,7 @@
 | [The Ultimate Sound](https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [The Ultimate Sound](https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW) | 2:41 | 2023-02-09 | 2024-11-09 |
 | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \- Satirized & Noxiouz Remix](https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \(Satirized & Noxiouz Remix\)](https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5) | 3:10 | 2025-12-26 |  |
 | [This Feeling](https://open.spotify.com/track/2H0eRy9vmts59596rouqUy) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt) | [This Feeling](https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns) | 3:08 | 2023-12-21 | 2024-12-13 |
-| [THRONE](https://open.spotify.com/track/5rfqRff1tGmbZNqWhG4fxk) | [The Herbalist](https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu), [Amigo](https://open.spotify.com/artist/0quq9NiPw5T5E9N6GoPJ1y) | [THRONE](https://open.spotify.com/album/1OI4m6WfOI3s3aV26V1fVL) | 2:28 | 2026-01-10 |  |
+| [THRONE](https://open.spotify.com/track/5rfqRff1tGmbZNqWhG4fxk) | [The Herbalist](https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu), [Amigo](https://open.spotify.com/artist/0quq9NiPw5T5E9N6GoPJ1y) | [THRONE](https://open.spotify.com/album/1OI4m6WfOI3s3aV26V1fVL) | 2:28 | 2026-01-10 | 2026-02-01 |
 | [Thunder Rolls](https://open.spotify.com/track/3HbvEtGjEUCTUE42RWk0ip) | [Angernoizer](https://open.spotify.com/artist/4dm9tgnnKjAVsqRaT7lN3Q), [Guizcore](https://open.spotify.com/artist/3Qg431RgaQNEOJVJY4vSaL) | [Thunder Rolls](https://open.spotify.com/album/7n0xFhy7mdmDp788AwH69y) | 3:12 | 2025-11-07 | 2025-12-27 |
 | [Til The AM](https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU) | [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja), [Animal Side](https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531) | [Til The AM](https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8) | 3:08 | 2023-07-27 | 2024-11-09 |
 | [To The Floor](https://open.spotify.com/track/6OaqyfnUDgs8MPwM8TUhi9) | [Atomic](https://open.spotify.com/artist/5aQar9fAjHoP9X6sKu3OHV) | [To The Floor](https://open.spotify.com/album/6mmopqXCXUydCGEOIwY6Z7) | 2:10 | 2025-10-13 | 2025-11-08 |

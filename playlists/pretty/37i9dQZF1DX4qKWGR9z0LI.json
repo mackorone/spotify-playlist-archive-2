@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Luis Fonsi & Feid",
-  "num_followers": 1882537,
+  "num_followers": 1882524,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
+        "name": "1+1",
+        "url": "https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 186047,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
         "name": "cuatro",
         "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
       },
@@ -483,22 +503,6 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "Al Duro",
-        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
-      },
-      "artists": [
-        {
-          "name": "Hector Rey",
-          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
-        }
-      ],
-      "duration_ms": 277906,
-      "name": "Te Propongo",
-      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
         "name": "La Carrera",
         "url": "https://open.spotify.com/album/6k67isnOdUxFxG45TxPR0H"
       },
@@ -515,6 +519,22 @@
       "duration_ms": 220851,
       "name": "La Carrera",
       "url": "https://open.spotify.com/track/7rZ1zXk0K0gSSUInOd9Tss"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "Al Duro",
+        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
+      },
+      "artists": [
+        {
+          "name": "Hector Rey",
+          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
+        }
+      ],
+      "duration_ms": 277906,
+      "name": "Te Propongo",
+      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -899,26 +919,6 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "1+1",
-        "url": "https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 186047,
-      "name": "1+1",
-      "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
         "name": "Cartas Sobre La Mesa",
         "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 180494,
-      "name": "No Se Vale",
-      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
         "name": "Yo Deluxe",
         "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 208774,
       "name": "Es Un Secreto",
       "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 180494,
+      "name": "No Se Vale",
+      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
+        "name": "Coraz\u00f3n Roto",
+        "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "Coraz\u00f3n Roto",
+      "url": "https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
         "name": "Soy",
         "url": "https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 263631,
       "name": "Soy",
       "url": "https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
-        "name": "Coraz\u00f3n Roto",
-        "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "Coraz\u00f3n Roto",
-      "url": "https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
+        "name": "Salsa de Amor Vol. 3",
+        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
+      },
+      "artists": [
+        {
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "P\u00e1ginas De Amor",
+      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 296240,
       "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
       "url": "https://open.spotify.com/track/2UN8K1VKiiKiEimbxa7Fpv"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
-        "name": "Salsa de Amor Vol. 3",
-        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
-      },
-      "artists": [
-        {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
-        }
-      ],
-      "duration_ms": 296133,
-      "name": "P\u00e1ginas De Amor",
-      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "La Vecina (No S\u00e9 Na')",
-        "url": "https://open.spotify.com/album/0ICQxzRcDYcP4jh2940IZL"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 197087,
-      "name": "La Vecina (No S\u00e9 Na')",
-      "url": "https://open.spotify.com/track/25RPB8VbIP95V5fgzHzEmk"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
         "name": "Es Ajena",
         "url": "https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI"
       },
@@ -1783,6 +1767,26 @@
       "duration_ms": 216626,
       "name": "Mira - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj"
+      },
+      "artists": [
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 202551,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj"
     }
   ],
   "unique_name": "Salsa Nation",

@@ -4,7 +4,7 @@
 
 > 
 
-8,320 songs - 21 day 3 hr 30 min
+8,321 songs - 21 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1043,6 +1043,7 @@
 | [Call It a Day in Liyue](https://open.spotify.com/track/1GC1sVLUrusMTygF5aA4od) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Jade Moon Upon a Sea of Clouds \(Original Game Soundtrack\)](https://open.spotify.com/album/22jmHd52fUk6hDe8S3Et0T) | 1:35 | 2025-03-23 |  |
 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 | 2025-04-21 |  |
 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 | 2024-12-14 |  |
+| [call me maybe \(original\)](https://open.spotify.com/track/1jGug8SsTt4TTGLjJ8PYxT) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [call me maybe \(original\)](https://open.spotify.com/album/2nsUuqGMjrWfBa2aAnGNdR) | 6:03 | 2026-01-31 |  |
 | [Call My Bluff](https://open.spotify.com/track/1oFYibU1RzB4OKE5iI3SyR) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:48 | 2025-01-15 |  |
 | [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2025-01-15 |  |
 | [Call the Coroner](https://open.spotify.com/track/1WlU4jsJ8AoTB96dgd8LJA) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:11 | 2025-01-03 |  |

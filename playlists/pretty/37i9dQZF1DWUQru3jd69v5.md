@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Low\-Red in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,395 likes - 65 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,393 likes - 65 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 2 | [ANUBI](https://open.spotify.com/track/7MLhPKIf1fTcJCy1Nfyyyc) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [ANUBI](https://open.spotify.com/album/52NtFcMo8qJNjOhOCDveCv) | 2:25 |
 | 3 | [Trasparente](https://open.spotify.com/track/7xwHgva8vHxL0dYJ3xaQva) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P) | [Trasparente](https://open.spotify.com/album/4fuGusHKvbAaWo7gzOLxfb) | 2:55 |
 | 4 | [COME STO \(feat\. Latrelle, Lubi\)](https://open.spotify.com/track/6KiLVkGr1QdIPFeq39d2Ed) | [Over Lapa](https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [COME STO \(feat\. Latrelle, Lubi\)](https://open.spotify.com/album/2raTFA9YUaDgQjinhlK6U1) | 2:38 |
-| 5 | [Non Mi Lasci Stare \(feat\. Christian Liguori\)](https://open.spotify.com/track/2iqpOx3AXlJ456rsKhpM64) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn) | [Non Mi Lasci Stare \(feat\. Christian Liguori\)](https://open.spotify.com/album/6JfZRbO1zc0sacVgQa54y2) | 2:07 |
+| 5 | [Non Mi Lasci Stare \(feat\. Christian Liguori\)](https://open.spotify.com/track/2iqpOx3AXlJ456rsKhpM64) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [Non Mi Lasci Stare \(feat\. Christian Liguori\)](https://open.spotify.com/album/6JfZRbO1zc0sacVgQa54y2) | 2:07 |
 | 6 | [BRIXTON TOWN \(ft\. Alborosie\)](https://open.spotify.com/track/3GPy45bEhq7TJU3mMQY06h) | [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [BRIXTON TOWN \(ft\. Alborosie\)](https://open.spotify.com/album/4fy4ttdnUG5HSq8x3ocoJh) | 1:51 |
 | 7 | [RAFAEL LEAO](https://open.spotify.com/track/1mx8YG8LMyhmvDjIYKUJse) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [RAFAEL LEAO](https://open.spotify.com/album/3N4vQxiuQTJR06jnYXV3mL) | 2:48 |
 | 8 | [Zito \(feat\. Emis Killa\)](https://open.spotify.com/track/6ma8HWG078Nvkkic4GduNq) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Zito \(feat\. Emis Killa\)](https://open.spotify.com/album/39zSm1mMMQVifQYKua4A0P) | 2:08 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. La Obsesión Factory en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,552 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,574 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dos16 \(feat\. Josa El Menor, Vic Gunn, Malo & Viglezz\)](https://open.spotify.com/track/2V9iZGxzyUnUBUPdGEW29Y) | [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [Josa El Menor](https://open.spotify.com/artist/2G2JiOdyGfRsEWqFs4hKUo), [Vic Gunn](https://open.spotify.com/artist/4tAUrm21TBHEWanUWQVSlb), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb), [Viglezz](https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5) | [\#2016TrapLatinSongsByLaObsesión](https://open.spotify.com/album/38U3R9JJKis2VGTsL1iay9) | 7:07 |
 | 2 | [pvt4$](https://open.spotify.com/track/0D9LRxuaQ2sz4WmcammkfZ) | [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [pvt4$](https://open.spotify.com/album/54NWKlXm6DOSfyFMqyW2Vh) | 2:03 |
-| 3 | [MOJA](https://open.spotify.com/track/3YB2xi0iOyJA9opgvrsi4B) | [dairon mx](https://open.spotify.com/artist/5VUeNKHWu9reJQAO4MwP6B), [charly sixx](https://open.spotify.com/artist/6fqvbTDjTaxk6rkRgMKtbU), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [MOJA](https://open.spotify.com/album/5MDOJdo7Vt0cmhFQD2gult) | 3:28 |
+| 3 | [MOJA](https://open.spotify.com/track/3YB2xi0iOyJA9opgvrsi4B) | [dairon mx](https://open.spotify.com/artist/5VUeNKHWu9reJQAO4MwP6B), [Charly Sixx](https://open.spotify.com/artist/71yJLPN984F8ev2hz9o90g), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [MOJA](https://open.spotify.com/album/5MDOJdo7Vt0cmhFQD2gult) | 3:28 |
 | 4 | [Chanel](https://open.spotify.com/track/246uR35q5efO72pHHOeotR) | [Emi Blue](https://open.spotify.com/artist/5PqJ1FTbrF7vML9bDQjZ6U), [Baldo](https://open.spotify.com/artist/5OWdpZWlNvCbu4qvrJufJh), [Yexay TMM](https://open.spotify.com/artist/6W5QFI6K8P7rxXiYW3n4qu) | [Chanel](https://open.spotify.com/album/1egc4QzjfDhlSpZtxESdtw) | 2:26 |
 | 5 | [ACTIVOS EN LA H](https://open.spotify.com/track/1Z9jqSIoEywx1j51zTB1As) | [Nash](https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1), [Karel](https://open.spotify.com/artist/2Hi7XaMBLh0oPKNBHNtAmJ), [MAZAA](https://open.spotify.com/artist/6yxFMfKa4pxRlrxdK93UG1) | [ACTIVOS EN LA H](https://open.spotify.com/album/78wEXNDSS06eTm5j6PiRuI) | 3:32 |
 | 6 | [roof de dubai](https://open.spotify.com/track/2fAimC7SzhDCJlSu23bwwG) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Merry Cruzmas](https://open.spotify.com/album/7jwWRyW06Y1ZVQ5ggkqobH) | 2:56 |

@@ -20683,6 +20683,24 @@
     },
     {
       "album": {
+        "name": "call me maybe (original)",
+        "url": "https://open.spotify.com/album/2nsUuqGMjrWfBa2aAnGNdR"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363692,
+      "name": "call me maybe (original)",
+      "url": "https://open.spotify.com/track/1jGug8SsTt4TTGLjJ8PYxT"
+    },
+    {
+      "album": {
         "name": "It's Almost Dry",
         "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
       },

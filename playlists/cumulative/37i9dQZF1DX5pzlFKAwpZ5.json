@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-25",
-  "description": "The calming space of Japanese Ambient and Environmental music. yanaco on cover.",
+  "description": "The calming space of Japanese Ambient and Environmental music. ",
   "name": "Ambient Japan",
   "tracks": [
     {
@@ -2355,6 +2355,28 @@
     },
     {
       "album": {
+        "name": "I Follow a Barren Path Across the Old Mountain",
+        "url": "https://open.spotify.com/album/5hS7idTRSq4lzWvAzL2OWf"
+      },
+      "artists": [
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        },
+        {
+          "name": "The Humble Bee",
+          "url": "https://open.spotify.com/artist/5GicejpdrZmfWfpDJE4XRT"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348166,
+      "name": "I Follow a Barren Path Across the Old Mountain",
+      "url": "https://open.spotify.com/track/5HjWFzDitkQMH7MLg1YAut"
+    },
+    {
+      "album": {
         "name": "Music for Nine Post Cards",
         "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
       },
@@ -2902,7 +2924,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 192000,
       "name": "Layer",
       "url": "https://open.spotify.com/track/7CxY2kPVqFLmwePf8YfGZW"
@@ -3354,6 +3376,24 @@
       "duration_ms": 240000,
       "name": "memories of younger days (that never existed)",
       "url": "https://open.spotify.com/track/50BWDrzzg4I9KttMBUXoQN"
+    },
+    {
+      "album": {
+        "name": "MIRAGE",
+        "url": "https://open.spotify.com/album/2Somw9fOnNGIQBbpWKUcPI"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132613,
+      "name": "MIRAGE",
+      "url": "https://open.spotify.com/track/0eVoDBK5Ye4KD7mAWCsvAG"
     },
     {
       "album": {
@@ -6202,7 +6242,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 226000,
       "name": "What It Means to Me",
       "url": "https://open.spotify.com/track/7swpWyjiKAnAvaPvsK5kJ9"

@@ -2720,7 +2720,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 114933,
       "name": "Introduction - Live",
       "url": "https://open.spotify.com/track/7bKgkxu1H5vCsvrHhKnSJR"
@@ -2742,6 +2742,24 @@
       "duration_ms": 62453,
       "name": "Introduction - Live at Canterbury House, Ann Arbor, MI, 3/10/1968",
       "url": "https://open.spotify.com/track/3GerCWcJRohVTPKZCQR0gK"
+    },
+    {
+      "album": {
+        "name": "Shadows and Light (Live)",
+        "url": "https://open.spotify.com/album/3zVRsmLuV1qVQBcHvD6aDT"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115893,
+      "name": "Introduction - Live at the Santa Barbara County Bowl, September 9, 1979",
+      "url": "https://open.spotify.com/track/5bqgAgayUyhrB5OQPnC9P9"
     },
     {
       "album": {

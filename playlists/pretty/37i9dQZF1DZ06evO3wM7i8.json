@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 35643,
+  "num_followers": 35651,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAAAQNMzAJfD1qVEKev4/8LYG",
+  "snapshot_id": "aXv0gAAAAADkUJH/URh7uwC05/Xjxm1G",
   "tracks": [
     {
       "added_at": null,
@@ -571,30 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinhardt, Django: Swingin' With Django (1937)",
-        "url": "https://open.spotify.com/album/5yLgvyZmjjKpGfwVoPS3Ty"
-      },
-      "artists": [
-        {
-          "name": "Ted Snyder",
-          "url": "https://open.spotify.com/artist/3EHU46gc1iN9wYecT3uFRs"
-        },
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Hot Club de France Quintet",
-          "url": "https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "The Sheik of Araby",
-      "url": "https://open.spotify.com/track/4t30z7yPGvIyrybsuykDnA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangology (feat. St\u00e9phane Grappelli)",
         "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 182800,
       "name": "Menilmontant (feat. St\u00e9phane Grappelli) - Remastered 2002",
       "url": "https://open.spotify.com/track/6ZiZFzYHPKeNO6i98ubnqa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinhardt, Django: Swingin' With Django (1937)",
+        "url": "https://open.spotify.com/album/5yLgvyZmjjKpGfwVoPS3Ty"
+      },
+      "artists": [
+        {
+          "name": "Ted Snyder",
+          "url": "https://open.spotify.com/artist/3EHU46gc1iN9wYecT3uFRs"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Hot Club de France Quintet",
+          "url": "https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "The Sheik of Araby",
+      "url": "https://open.spotify.com/track/4t30z7yPGvIyrybsuykDnA"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol6 / 1937",
+        "url": "https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Improvisation sur le 1er mvt concerto r\u00e9 mineur",
+      "url": "https://open.spotify.com/track/0ITMcSpAs4tjp4PZk0cRz8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djangologie Vol.12 / 1940 - 1941",
         "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 168400,
       "name": "Swing 42",
       "url": "https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol6 / 1937",
-        "url": "https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Improvisation sur le 1er mvt concerto r\u00e9 mineur",
-      "url": "https://open.spotify.com/track/0ITMcSpAs4tjp4PZk0cRz8"
     },
     {
       "added_at": null,
@@ -987,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limitless Jazz, Vol. 31",
-        "url": "https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Stephane Grappelli",
-          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bioshock 2: The Official Soundtrack - Music From And Inspired By The Game",
         "url": "https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 177240,
       "name": "Chasing Shadows",
       "url": "https://open.spotify.com/track/6oM4MacpuZJH6VUhIQfy3L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limitless Jazz, Vol. 31",
+        "url": "https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Stephane Grappelli",
+          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5"
     },
     {
       "added_at": null,

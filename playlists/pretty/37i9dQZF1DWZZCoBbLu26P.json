@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 98001,
+  "num_followers": 98011,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Cr\u00e8me Br\u00fbl\u00e9e",
-        "url": "https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu"
-      },
-      "artists": [
-        {
-          "name": "Shea Coule\u00e9",
-          "url": "https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6"
-        }
-      ],
-      "duration_ms": 172488,
-      "name": "Cr\u00e8me Br\u00fbl\u00e9e",
-      "url": "https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Hurt My Feelings",
         "url": "https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 237987,
       "name": "Hurt My Feelings",
       "url": "https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "I Love Being A Whore!",
+        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
+      },
+      "artists": [
+        {
+          "name": "Sherry Vine",
+          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "I Love Being A Whore!",
+      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -719,6 +719,22 @@
       "duration_ms": 222159,
       "name": "Arrogant",
       "url": "https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Cr\u00e8me Br\u00fbl\u00e9e",
+        "url": "https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu"
+      },
+      "artists": [
+        {
+          "name": "Shea Coule\u00e9",
+          "url": "https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6"
+        }
+      ],
+      "duration_ms": 172488,
+      "name": "Cr\u00e8me Br\u00fbl\u00e9e",
+      "url": "https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -751,22 +767,6 @@
       "duration_ms": 206000,
       "name": "Shadow - Spotify Singles",
       "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "I Love Being A Whore!",
-        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
-      },
-      "artists": [
-        {
-          "name": "Sherry Vine",
-          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "I Love Being A Whore!",
-      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
-      },
-      "artists": [
-        {
-          "name": "Blair St. Clair",
-          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
-        }
-      ],
-      "duration_ms": 204245,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Bitch On Heels (Kelvin Wood Remix)",
         "url": "https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 178064,
       "name": "Bitch On Heels - Kelvin Wood Radio Mix",
       "url": "https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
+      },
+      "artists": [
+        {
+          "name": "Blair St. Clair",
+          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
+        }
+      ],
+      "duration_ms": 204245,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Much Betta",
+        "url": "https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB"
+      },
+      "artists": [
+        {
+          "name": "Baga chipz",
+          "url": "https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240"
+        }
+      ],
+      "duration_ms": 139075,
+      "name": "Much Betta",
+      "url": "https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Part 2: The Antidote",
         "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
       },
@@ -1203,34 +1219,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Much Betta",
-        "url": "https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB"
+        "name": "Sunshine State",
+        "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
       },
       "artists": [
         {
-          "name": "Baga chipz",
-          "url": "https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Much Betta",
-      "url": "https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
-      },
-      "artists": [
+          "name": "Ginger Minj",
+          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
+        },
         {
-          "name": "Veronica Green",
-          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
+          "name": "Brandon Stansell",
+          "url": "https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz"
         }
       ],
-      "duration_ms": 251250,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
+      "duration_ms": 186686,
+      "name": "Sunshine State",
+      "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1251,22 +1255,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Sunshine State",
-        "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
       },
       "artists": [
         {
-          "name": "Ginger Minj",
-          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
-        },
-        {
-          "name": "Brandon Stansell",
-          "url": "https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz"
+          "name": "Veronica Green",
+          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
         }
       ],
-      "duration_ms": 186686,
-      "name": "Sunshine State",
-      "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
+      "duration_ms": 251250,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Stars (Disco Mix)",
-        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
-      },
-      "artists": [
-        {
-          "name": "Veronica Green",
-          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Stars - Disco Mix",
-      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Here For It",
         "url": "https://open.spotify.com/album/0vLZFcJpMsjOsublHTFjIk"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 286940,
       "name": "Ornacia",
       "url": "https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Stars (Disco Mix)",
+        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
+      },
+      "artists": [
+        {
+          "name": "Veronica Green",
+          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Stars - Disco Mix",
+      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
     },
     {
       "added_at": "2025-01-14 16:17:40",

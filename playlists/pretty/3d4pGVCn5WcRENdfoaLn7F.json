@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 465,
+  "num_followers": 468,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACgAVrLbdTKu+KmGJ0Icsn8S0p4eyY",
+  "snapshot_id": "AAACgjcVyK6CC4zM0Yo1TfxMySlUZWfR",
   "tracks": [
     {
       "added_at": "2026-01-29 03:49:29",
@@ -1099,6 +1099,42 @@
       "duration_ms": 245733,
       "name": "Worst Enemy",
       "url": "https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja"
+    },
+    {
+      "added_at": "2026-01-31 03:19:30",
+      "album": {
+        "name": "The Reading",
+        "url": "https://open.spotify.com/album/1yfhCqyQjYko9wZcvB6PzO"
+      },
+      "artists": [
+        {
+          "name": "Terry Gilbey",
+          "url": "https://open.spotify.com/artist/7DUWtV3cMZU3zGHtRIAvB4"
+        }
+      ],
+      "duration_ms": 231882,
+      "name": "The Reaper",
+      "url": "https://open.spotify.com/track/1TqJToCbf4wGMZntm8Siqc"
+    },
+    {
+      "added_at": "2026-01-31 18:05:15",
+      "album": {
+        "name": "IRIS",
+        "url": "https://open.spotify.com/album/4lx3bZivBk1NjJHwYqZ8aO"
+      },
+      "artists": [
+        {
+          "name": "Airdale",
+          "url": "https://open.spotify.com/artist/0Ce0wrt8dMmQKvHRsCeOYf"
+        },
+        {
+          "name": "MAGESTICALIZM",
+          "url": "https://open.spotify.com/artist/3fNZeTlZA1jeADwTEd9ORS"
+        }
+      ],
+      "duration_ms": 314745,
+      "name": "Thief in the Night",
+      "url": "https://open.spotify.com/track/5kNpVgzAsiNlzTbjJeAD7n"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

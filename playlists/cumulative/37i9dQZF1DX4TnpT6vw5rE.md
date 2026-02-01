@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-400 songs - 22 hr 13 min
+401 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [As It Rains](https://open.spotify.com/track/2nbPPCx73Ls5zUr4WqeeFh) | [Køsk Skriner](https://open.spotify.com/artist/373GwyozV3SJ9WC59MtwZu) | [As It Rains](https://open.spotify.com/album/4EstNIZ9eLhWw4utX8yHsA) | 2:19 | 2025-05-14 |  |
 | [Ashes](https://open.spotify.com/track/4SSEGcMR6QGz6U0vRQ8Lsk) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Ashes](https://open.spotify.com/album/7vJco1Uvoefx2kbHsY8yHb) | 2:23 | 2025-02-26 |  |
 | [Ashtanga Deep](https://open.spotify.com/track/51KqzonYq7QaXDOHXLguHT) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Ashtanga Deep](https://open.spotify.com/album/4G5YinQNlXd8yLCpaW7fxh) | 2:43 | 2024-03-14 | 2024-07-09 |
+| [Astralis Novum](https://open.spotify.com/track/473rxPBgRjE8JZAfCWPoQy) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Astralis Novum](https://open.spotify.com/album/6h6QS75JA46a42bwkiMKKq) | 3:12 | 2025-12-10 |  |
 | [Astrolabe](https://open.spotify.com/track/3WoGNWSOstLosLTgT8NxdC) | [Zilliondust](https://open.spotify.com/artist/1p2sIdnqZZodZjG4nharRM) | [Slowly Floating Through Space](https://open.spotify.com/album/372wf1vVLL9okON5afmUxV) | 2:31 | 2022-11-22 | 2025-06-24 |
 | [Atlantis](https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Atlantis](https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA) | 4:18 | 2022-09-02 | 2025-08-06 |
 | [Aurora Crest](https://open.spotify.com/track/1VOQPL4KzM4lSA8B3a6Poy) | [Lost storys](https://open.spotify.com/artist/5z30j24d40G43dHG9LDa3e) | [Aurora Crest](https://open.spotify.com/album/5wFQjHfxLhZBxtJhky5sBX) | 2:38 | 2025-05-14 | 2025-12-30 |
@@ -100,7 +101,7 @@
 | [Concept 1](https://open.spotify.com/track/55bFnrLvc4tUvHVngYhMV3) | [Kodomo](https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU) | [Still Life](https://open.spotify.com/album/7wwHgF0T6VcyxF4JkVU3eM) | 5:07 | 2020-12-08\* | 2021-05-27 |
 | [Conception](https://open.spotify.com/track/24zHMJlukUkCZDYMHtdsmH) | [Sunstone Peaks](https://open.spotify.com/artist/4vJrDzGliiXij2qOHiMdqk) | [Conception](https://open.spotify.com/album/6JY6AYRDVvnIPkTzYpvLQf) | 2:58 | 2021-11-13 | 2025-04-26 |
 | [Conclusions](https://open.spotify.com/track/0XAITZHrtlpUeRo00FoTLP) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Conclusions](https://open.spotify.com/album/5ZpLZtogYfd4enMphrDFVt) | 3:22 | 2022-11-11 | 2026-01-15 |
-| [Configuration](https://open.spotify.com/track/66QmlqypHwaune2fOlptt5) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Configuration](https://open.spotify.com/album/0DM9y4ZJrfzrh9M3tItUZk) | 2:50 | 2024-03-14 |  |
+| [Configuration](https://open.spotify.com/track/66QmlqypHwaune2fOlptt5) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Configuration](https://open.spotify.com/album/0DM9y4ZJrfzrh9M3tItUZk) | 2:50 | 2024-03-14 | 2026-02-01 |
 | [connection](https://open.spotify.com/track/1kS8CLPKqnKFxFD4iUbgcJ) | [eidra](https://open.spotify.com/artist/1Mrb5CCW52Mq4NRGb4zYXM) | [connection](https://open.spotify.com/album/7sqgVVrbRdYowtAo6CkNQU) | 2:24 | 2025-12-10 |  |
 | [Contrails](https://open.spotify.com/track/6mInCiYvOXj9jKXJKKMUTG) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [The Coachlight Woods](https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4) | 4:21 | 2021-01-07 | 2021-05-27 |
 | [Contrasts](https://open.spotify.com/track/7c1hx3D2NzJo4yCCuhde6W) | [Magnolia Dreams](https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt) | [Contrasts](https://open.spotify.com/album/0lYMr1xleQ7RD4oqvt5ERq) | 2:36 | 2025-02-26 |  |

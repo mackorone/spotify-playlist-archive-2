@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,087 songs - 2 day 6 hr 11 min
+1,088 songs - 2 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [If U Want Me](https://open.spotify.com/track/3IHmHyrPhfrzhcPmpvXmai) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [If U Want Me](https://open.spotify.com/album/4u6d52P49fIgGPBEljxhkG) | 2:52 | 2024-07-02 | 2024-07-27 |
 | [Iha miten vaa](https://open.spotify.com/track/3Pf2yQgJ1B8vKgPFd1oOXC) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Iha miten vaa](https://open.spotify.com/album/5yn9M6Cd8HYBCt1Yvt5Wrm) | 3:16 | 2024-10-24 | 2024-12-13 |
 | [Iha mitä vaa](https://open.spotify.com/track/67zvigqwjyq96TvR2t41SW) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3) | [Iha mitä vaa](https://open.spotify.com/album/4E1WAsqQmyw8a9PIUupHCO) | 2:22 | 2025-06-26 | 2025-08-29 |
+| [Ihan kohta ohi](https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Ihan kohta ohi](https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME) | 3:05 | 2026-01-29 |  |
 | [Ihan vaan ihminen](https://open.spotify.com/track/4q043Fo5avTZt1s8T0Y5qK) | [Mira Luoti](https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho) | [Ihan vaan ihminen](https://open.spotify.com/album/6U0nK3F7Qk7n7nyq6ACMLb) | 3:10 | 2025-03-28 | 2025-04-25 |
 | [Ihan vähän sua](https://open.spotify.com/track/2a4cjRKZCV3HnJavEDVLLx) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Ihan vähän sua](https://open.spotify.com/album/1FyivtsWLHas4iXj9cavH5) | 2:50 | 2024-11-21 | 2025-03-04 |
 | [Ihmishirviö](https://open.spotify.com/track/6EsFnbuNzZmSgiKAd0weFZ) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ihmishirviö](https://open.spotify.com/album/2xlMjMfeOJXJwgTtgQae17) | 3:06 | 2025-01-02 | 2025-02-14 |
@@ -402,7 +403,7 @@
 | [Jos puhutaan totta](https://open.spotify.com/track/4rjRfdvdlRwyAVAwwdDifd) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Jos puhutaan totta](https://open.spotify.com/album/264CvOZdO5iM2dcWxLld5h) | 2:54 | 2025-11-13 | 2025-12-12 |
 | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B) | 3:01 | 2025-05-15 | 2025-05-30 |
 | [Jos tuut vielä vastaan](https://open.spotify.com/track/15O33QdWhnWQIO7M7Vo2Lu) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV), [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Jos tuut vielä vastaan](https://open.spotify.com/album/0m14F9RLRrP56ffKJLHfD7) | 2:53 | 2024-09-19 | 2024-10-04 |
-| [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 | 2025-10-09 |  |
+| [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 | 2025-10-09 | 2026-02-01 |
 | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/album/36m9kmhRSZLRp1N9AwdqYz) | 2:30 | 2025-09-18 |  |
 | [Jossain sä oot](https://open.spotify.com/track/2ZvQ60llWT1r7KbTAsozYW) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Jossain sä oot](https://open.spotify.com/album/6LN6ZANO9lhVSZNFf1i8ou) | 3:37 | 2025-11-20 | 2025-12-12 |
 | [Jouluks kotiin](https://open.spotify.com/track/0lPnlw2OqYerwBT9MyoLex) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Jouluks kotiin](https://open.spotify.com/album/0YvTm6IHgUXyUr8Ywow0rn) | 2:44 | 2024-12-12 | 2025-01-03 |

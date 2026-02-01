@@ -2,9 +2,9 @@
 
 ### [Ambient Japan](https://open.spotify.com/playlist/37i9dQZF1DX5pzlFKAwpZ5)
 
-> The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
+> The calming space of Japanese Ambient and Environmental music.
 
-364 songs - 1 day 2 hr 19 min
+366 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [hoshisayuru](https://open.spotify.com/track/40vwaUbcDvJKO0lLdl4aWC) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [above the northern skies shown](https://open.spotify.com/album/6ix0ytl7g6oX25BhW6omzW) | 5:55 | 2022-01-07 | 2025-12-03 |
 | [hue](https://open.spotify.com/track/2PRWUAyqmp0OA5i7VFseXl) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [hue](https://open.spotify.com/album/1iZPZAw6xNwXuQfRgx5EB4) | 2:36 | 2024-08-08 | 2025-01-27 |
 | [HUM GHAR SAJAN](https://open.spotify.com/track/2uXA3xK2NKjp6Jn5cUTUwC) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [COCHIN MOON](https://open.spotify.com/album/4Mh0ihWBshB3fIGgUmTf3E) | 8:50 | 2025-03-21 | 2025-05-01 |
+| [I Follow a Barren Path Across the Old Mountain](https://open.spotify.com/track/5HjWFzDitkQMH7MLg1YAut) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV), [The Humble Bee](https://open.spotify.com/artist/5GicejpdrZmfWfpDJE4XRT) | [I Follow a Barren Path Across the Old Mountain](https://open.spotify.com/album/5hS7idTRSq4lzWvAzL2OWf) | 5:48 | 2026-01-31 |  |
 | [Ice Copy](https://open.spotify.com/track/4YleYbTBE8XmKs5fhuu06c) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 2:55 | 2022-12-30 | 2025-03-20 |
 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 | 2022-01-07 |  |
 | [In The Forest of Syrinx](https://open.spotify.com/track/7MsE9rH9EZH8AlocDpHQ0N) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Onnen Bock](https://open.spotify.com/artist/5asDcrPfBpJDJNe1ocbjdf), [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [MOON GARDEN](https://open.spotify.com/album/0j6HWiO4nQi5vR866jGjk5) | 9:30 | 2025-02-09 | 2026-01-31 |
@@ -165,7 +166,7 @@
 | [La brise oubliée](https://open.spotify.com/track/0HJ6XZxSibaTLpqJFo8Pj0) | [attic](https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku) | [La brise oubliée](https://open.spotify.com/album/5Iik8YsocayeSiVJRuJLdA) | 2:26 | 2025-07-03 | 2025-08-07 |
 | [La Cathédrale Engloutie](https://open.spotify.com/track/0GiSKGYCdQtGXDSCmSxuVb) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 4:04 | 2022-01-07 | 2022-12-21 |
 | [Lachrymation](https://open.spotify.com/track/5SCIlWl5oI8QmSgF9j5mjr) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Lachrymation](https://open.spotify.com/album/4av2tDxEG9t4rlssx6XJUT) | 3:59 | 2022-01-07 | 2025-03-20 |
-| [Layer](https://open.spotify.com/track/7CxY2kPVqFLmwePf8YfGZW) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Layer](https://open.spotify.com/album/60lpyOQBN0qHUDHuP2IB9F) | 3:12 | 2025-05-16 |  |
+| [Layer](https://open.spotify.com/track/7CxY2kPVqFLmwePf8YfGZW) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Layer](https://open.spotify.com/album/60lpyOQBN0qHUDHuP2IB9F) | 3:12 | 2025-05-16 | 2026-02-01 |
 | [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 | 2023-10-13 | 2024-03-08 |
 | [les cinquième alternées](https://open.spotify.com/track/0QPPyF3YNaFcsAgr3TXm68) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [northern wind](https://open.spotify.com/album/4VtWQBNxhE2xkgiaznyrgD) | 2:59 | 2025-03-21 |  |
 | [Liberty](https://open.spotify.com/track/2pv4n0WhR3f0IayyG0lc4z) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Envision](https://open.spotify.com/album/2lnwd16ApEAAJ0GNqH7SNq) | 2:39 | 2022-01-07 | 2025-03-30 |
@@ -190,6 +191,7 @@
 | [mellow](https://open.spotify.com/track/1VJ77OFm7zzfLcAaV7feNd) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ) | [mellow](https://open.spotify.com/album/67z28TWSWLl0K40wnmVmal) | 5:44 | 2022-01-07 | 2025-12-03 |
 | [melt](https://open.spotify.com/track/1OBYLRZN5dnufdxtTlmBZ1) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Sui](https://open.spotify.com/album/7iX6y044SXbJ9Rg0GWxgMh) | 2:40 | 2022-01-07 | 2025-11-28 |
 | [memories of younger days \(that never existed\)](https://open.spotify.com/track/50BWDrzzg4I9KttMBUXoQN) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [memories of younger days \(that never existed\)](https://open.spotify.com/album/2uOATtxzznGZMs7NXMsa8A) | 4:00 | 2022-09-30 |  |
+| [MIRAGE](https://open.spotify.com/track/0eVoDBK5Ye4KD7mAWCsvAG) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [MIRAGE](https://open.spotify.com/album/2Somw9fOnNGIQBbpWKUcPI) | 2:12 | 2026-01-31 |  |
 | [Mirror\#1](https://open.spotify.com/track/0y6jbOUzzm5NuNOhsGijqb) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Reflections](https://open.spotify.com/album/22Nb42QDmyNSEsiAUBAo3c) | 6:01 | 2024-06-15 |  |
 | [Mirrors of Still Light](https://open.spotify.com/track/3SWw83rPPkoTA2Vkg7GSiH) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Mirrors of Still Light](https://open.spotify.com/album/5yFNswrkN1lATKr3USIrW2) | 3:36 | 2025-08-20 | 2025-09-03 |
 | [Moon](https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Moon](https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt) | 2:43 | 2023-01-20 | 2025-04-17 |
@@ -343,7 +345,7 @@
 | [Whales](https://open.spotify.com/track/4iZyoZ5YJtKtgOeDoU5HF0) | [Tsugi\-Hagi](https://open.spotify.com/artist/0bEvPjEKvNenhsbb5G1Dsf), [Republyric](https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP) | [Whales](https://open.spotify.com/album/4ygVI4fHfhfECUPwVy75ZP) | 3:23 | 2023-01-13 |  |
 | [What It Means to Me](https://open.spotify.com/track/1i4DbSvqM0zwMv0Ik3Shap) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4Sv4vIH0WR5PF1g35XiBeA) | 3:46 | 2023-04-28 | 2023-11-02 |
 | [What It Means to Me](https://open.spotify.com/track/50zcUtpLD8yp5s2lTARxvV) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/2bLN1o2TlcAqYSjzLQ9ok7) | 3:46 | 2022-07-22 | 2023-04-30 |
-| [What It Means to Me](https://open.spotify.com/track/7swpWyjiKAnAvaPvsK5kJ9) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 3:46 | 2022-01-07 |  |
+| [What It Means to Me](https://open.spotify.com/track/7swpWyjiKAnAvaPvsK5kJ9) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 3:46 | 2022-01-07 | 2026-02-01 |
 | [when fossils dream](https://open.spotify.com/track/14fW5Ka6MstcnK7LczezYk) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [night museum](https://open.spotify.com/album/58EvMt6aO7smm3cFjWqkGf) | 5:12 | 2025-10-03 | 2025-12-03 |
 | [Whirlwind](https://open.spotify.com/track/4fEmztNkFn2Edb6lN4t2Zx) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Great Wind](https://open.spotify.com/album/6pt8OMCD3Q50VoM1mKICaw) | 3:04 | 2023-01-20 | 2025-02-10 |
 | [Wrapped](https://open.spotify.com/track/2hP5fvJv3YlaHsKHauQo8g) | [Akira Noumi](https://open.spotify.com/artist/5tUffhZ8wsHXifLfzhwNPm) | [Wrapped](https://open.spotify.com/album/2NHnwthgoUZbyuddHdVamb) | 2:44 | 2024-06-15 | 2025-12-14 |

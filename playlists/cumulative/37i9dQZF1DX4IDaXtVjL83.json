@@ -3347,6 +3347,28 @@
     },
     {
       "album": {
+        "name": "Mono (Feat. skaiwater)",
+        "url": "https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170653,
+      "name": "Mono (Feat. skaiwater)",
+      "url": "https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo"
       },

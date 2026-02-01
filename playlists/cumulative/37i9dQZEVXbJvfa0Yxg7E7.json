@@ -12788,7 +12788,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -18422,6 +18422,32 @@
       "duration_ms": 237386,
       "name": "Her",
       "url": "https://open.spotify.com/track/13JoLz1uqiif77Bs1tSKlh"
+    },
+    {
+      "album": {
+        "name": "Her vil e v\u00e6r",
+        "url": "https://open.spotify.com/album/352wPRSxAb5NP0LUOQ1mYh"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        },
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167751,
+      "name": "Her vil e v\u00e6r",
+      "url": "https://open.spotify.com/track/1vrHChYEhj3ZxIT94LfOsa"
     },
     {
       "album": {
@@ -31067,6 +31093,28 @@
     },
     {
       "album": {
+        "name": "Naboen",
+        "url": "https://open.spotify.com/album/0V83AYZQaHZLyc8Ej57Den"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142295,
+      "name": "Naboen",
+      "url": "https://open.spotify.com/track/43Fe7HmRD4htXBxcRfBMzS"
+    },
+    {
+      "album": {
         "name": "Nachpit",
         "url": "https://open.spotify.com/album/2cKVEpmdpUmscf9FFSJFm6"
       },
@@ -32020,7 +32068,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 177306,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/2qLYadTIWJTXJuS8sTt7m8"
@@ -34846,7 +34894,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 201928,
       "name": "Plystre p\u00e5 d\u00e6",
       "url": "https://open.spotify.com/track/2tm21APvsWvg2oR9lIsapD"
@@ -37718,7 +37766,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 238620,
       "name": "Sangen om mitt liv",
       "url": "https://open.spotify.com/track/69H8Kl2QCwPudogzvHLtjq"
@@ -39058,6 +39106,24 @@
       "duration_ms": 218030,
       "name": "Siste Dans - fra Sn\u00f8s\u00f8steren",
       "url": "https://open.spotify.com/track/6YSq1MHTG61D0p489GqcLA"
+    },
+    {
+      "album": {
+        "name": "Sitter fast i siste gang",
+        "url": "https://open.spotify.com/album/1ySgnCHd4kRSYwrYhiuSpY"
+      },
+      "artists": [
+        {
+          "name": "lille Caesar",
+          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217948,
+      "name": "Sitter fast i siste gang",
+      "url": "https://open.spotify.com/track/73c2t0KFcMKEFPEvOVMIeN"
     },
     {
       "album": {
@@ -44239,6 +44305,24 @@
     },
     {
       "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -48552,7 +48636,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 194962,
       "name": "When all the lights go out",
       "url": "https://open.spotify.com/track/6Dr15t2VHlpQDyfySJdvcx"
@@ -49866,7 +49950,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 207190,
       "name": "You Stole The Show",
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"

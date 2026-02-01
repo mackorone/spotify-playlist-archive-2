@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAH/JEKRP8hhmFt91hd+uFctSTWvTPD",
+  "snapshot_id": "AAAH/qboMmF0JJLH/xhglyUH7kZGMY1F",
   "tracks": [
     {
       "added_at": "2026-01-21 01:10:56",
@@ -31247,6 +31247,38 @@
       "duration_ms": 238892,
       "name": "Dissonance",
       "url": "https://open.spotify.com/track/7ojTGZAKHV9QVswnIWaHnt"
+    },
+    {
+      "added_at": "2026-01-31 07:21:53",
+      "album": {
+        "name": "Latido",
+        "url": "https://open.spotify.com/album/0JfNRexOOM77SDxARoTJxl"
+      },
+      "artists": [
+        {
+          "name": "BORDONADO",
+          "url": "https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl"
+        }
+      ],
+      "duration_ms": 180501,
+      "name": "Latido",
+      "url": "https://open.spotify.com/track/4EbWNHuIQT77zPekmQXv03"
+    },
+    {
+      "added_at": "2026-01-31 12:23:14",
+      "album": {
+        "name": "Mischief and Mayhem",
+        "url": "https://open.spotify.com/album/0IonnFQaTjZvRJAj3d896O"
+      },
+      "artists": [
+        {
+          "name": "The Unk Skunk",
+          "url": "https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe"
+        }
+      ],
+      "duration_ms": 182999,
+      "name": "Mud, Sweat, and Tears",
+      "url": "https://open.spotify.com/track/2acNWnoObRre52q1zphDrJ"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

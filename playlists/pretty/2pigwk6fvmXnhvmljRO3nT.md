@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,175 songs - 20 day 18 hr 52 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,176 songs - 20 day 18 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8183,5 +8183,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8173 | [brown sugar](https://open.spotify.com/track/6qKpRzWWhpeBvm4iSJrJLR) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [sankofa](https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3) | 3:36 |
 | 8174 | [Gira Gira](https://open.spotify.com/track/0vHCmjN8pepvdu41r69gcB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:36 |
 | 8175 | [Something About You](https://open.spotify.com/track/3oNQ6NkihVzQkV5qhk2Pbe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/12oHVYKFFU9n6BguwU64xx) | 2:33 |
+| 8176 | [call me maybe \(original\)](https://open.spotify.com/track/1jGug8SsTt4TTGLjJ8PYxT) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [call me maybe \(original\)](https://open.spotify.com/album/2nsUuqGMjrWfBa2aAnGNdR) | 6:03 |
 
-Snapshot ID: `AAAKfgNk9slBu4snPM0/N3oEtIBNVm94`
+Snapshot ID: `AAAKf0HhQ47j5kpfgY5V12ArLL7TTLkU`

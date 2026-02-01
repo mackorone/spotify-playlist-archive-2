@@ -1,12 +1,12 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 7702,
+  "num_followers": 7717,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAAA4+TgyF9J/OIKalXrj+RlE",
+  "snapshot_id": "aXv0gAAAAAAg+d3qmNSxyY+9JNO8Mpv+",
   "tracks": [
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+        "name": "For The Deported",
+        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 251501,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+      "duration_ms": 218150,
+      "name": "Open Light",
+      "url": "https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Deported",
-        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 218150,
-      "name": "Open Light",
-      "url": "https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h"
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
       "added_at": null,
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAROLD",
-        "url": "https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0"
+        "name": "For The Deported",
+        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
       },
       "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 274400,
-      "name": "Pool (feat. Elmiene)",
-      "url": "https://open.spotify.com/track/0csHRGsK3gKsERufowurNK"
+      "duration_ms": 129026,
+      "name": "Grave News",
+      "url": "https://open.spotify.com/track/5TriYLMGrvgW7j1aXymdeX"
     },
     {
       "added_at": null,
@@ -687,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Deported",
-        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
+        "name": "DAROLD",
+        "url": "https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0"
       },
       "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 129026,
-      "name": "Grave News",
-      "url": "https://open.spotify.com/track/5TriYLMGrvgW7j1aXymdeX"
+      "duration_ms": 274400,
+      "name": "Pool (feat. Elmiene)",
+      "url": "https://open.spotify.com/track/0csHRGsK3gKsERufowurNK"
     },
     {
       "added_at": null,

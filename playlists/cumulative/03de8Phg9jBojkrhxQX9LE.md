@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-4,119 songs - 9 day 14 hr 35 min
+4,120 songs - 9 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1211,6 +1211,7 @@
 | [feelthisway](https://open.spotify.com/track/3JVtezFwcpFAqvr4pdBBrd) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [feelthisway / 3000 miles](https://open.spotify.com/album/49dKlTV0eyQYHi7E9kcYaB) | 3:32 | 2023-12-08 | 2024-01-13 |
 | [FEIND](https://open.spotify.com/track/6oqg5J8XdVmP6WI5PVcGr7) | [Vavn](https://open.spotify.com/artist/0Bod61okS3l7lRl70HbmF8), [ccured](https://open.spotify.com/artist/5FNWYsl5p1BncxSYWaToom) | [FEIND](https://open.spotify.com/album/2gx4KAeIhYA5gxgLbzDFIx) | 2:27 | 2025-02-21 | 2025-03-29 |
 | [Fen Violet](https://open.spotify.com/track/4BrLRVfZF5Z8ld226xISH0) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Fen Violet](https://open.spotify.com/album/0L7g7avKfjuY9XyFsw3I6X) | 4:05 | 2024-03-08 | 2024-04-06 |
+| [Festy](https://open.spotify.com/track/36Ldzl1CGui3uzBoTI7tUC) | [Ricky Remedy](https://open.spotify.com/artist/2nWD5qpzn6rGaBz5gLZvfB) | [Festy](https://open.spotify.com/album/7A8MWzDWOWKS3B01UqKnWy) | 2:55 | 2026-01-31 |  |
 | [FEVER](https://open.spotify.com/track/1GYfRHuzZh7wBLS1qc25yt) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [HYPERMOTION](https://open.spotify.com/album/6GD2hZPbxrErWrPzLhdCRC) | 2:32 | 2026-01-09 |  |
 | [Fever](https://open.spotify.com/track/52g6ivLTMXxAn2vvX4772J) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Fever](https://open.spotify.com/album/2PlgEkyn7D04osG3U6iefw) | 3:31 | 2024-10-18 | 2024-11-16 |
 | [Fever](https://open.spotify.com/track/4vqSynbV7NmDYyEulIYwnZ) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Fever](https://open.spotify.com/album/2URXjf8qJqeoTOINaxymmB) | 2:58 | 2024-10-25 | 2024-11-23 |

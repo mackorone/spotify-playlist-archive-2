@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 118119,
+  "num_followers": 118130,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Pemmican",
-        "url": "https://open.spotify.com/album/6gzWaO97UPIi51o0MkoBjV"
-      },
-      "artists": [
-        {
-          "name": "La Fine Equipe",
-          "url": "https://open.spotify.com/artist/2EMmqQQmszsCXfVfMRibOQ"
-        },
-        {
-          "name": "Ga\u00ebl Faye",
-          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
-        }
-      ],
-      "duration_ms": 212971,
-      "name": "Pemmican",
-      "url": "https://open.spotify.com/track/54DPC3DrwCJeyQwgBoO0wh"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Tings My Way",
         "url": "https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 124878,
       "name": "Tings My Way",
       "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Pemmican",
+        "url": "https://open.spotify.com/album/6gzWaO97UPIi51o0MkoBjV"
+      },
+      "artists": [
+        {
+          "name": "La Fine Equipe",
+          "url": "https://open.spotify.com/artist/2EMmqQQmszsCXfVfMRibOQ"
+        },
+        {
+          "name": "Ga\u00ebl Faye",
+          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
+        }
+      ],
+      "duration_ms": 212971,
+      "name": "Pemmican",
+      "url": "https://open.spotify.com/track/54DPC3DrwCJeyQwgBoO0wh"
     },
     {
       "added_at": "2023-11-20 15:00:00",

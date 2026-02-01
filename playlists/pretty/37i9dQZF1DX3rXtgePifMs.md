@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,119 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,130 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 83 | [Soul Capturer](https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 6:08 |
 | 84 | [Pinking Shears](https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Pinking Shears](https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK) | 2:32 |
 | 85 | [So Clear](https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo) | [Fliptrix](https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE) | [Mantra No\. 9](https://open.spotify.com/album/2ZUa47nI8CFCIJhA94UGEj) | 3:32 |
-| 86 | [Pemmican](https://open.spotify.com/track/54DPC3DrwCJeyQwgBoO0wh) | [La Fine Equipe](https://open.spotify.com/artist/2EMmqQQmszsCXfVfMRibOQ), [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg) | [Pemmican](https://open.spotify.com/album/6gzWaO97UPIi51o0MkoBjV) | 3:32 |
-| 87 | [Tings My Way](https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu) | [Freq Motif](https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK), [Magugu](https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL) | [Tings My Way](https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5) | 2:04 |
+| 86 | [Tings My Way](https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu) | [Freq Motif](https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK), [Magugu](https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL) | [Tings My Way](https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5) | 2:04 |
+| 87 | [Pemmican](https://open.spotify.com/track/54DPC3DrwCJeyQwgBoO0wh) | [La Fine Equipe](https://open.spotify.com/artist/2EMmqQQmszsCXfVfMRibOQ), [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg) | [Pemmican](https://open.spotify.com/album/6gzWaO97UPIi51o0MkoBjV) | 3:32 |
 | 88 | [THAT GIRL](https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [THAT GIRL](https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE) | 2:05 |
 | 89 | [Absolutely Tidy](https://open.spotify.com/track/2OLXMMY73l5AZWZ5U5ETt1) | [ILLAMAN](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu), [Pitch 92](https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Absolutely Tidy](https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl) | 2:51 |
 | 90 | [EYELIDS](https://open.spotify.com/track/3Sb8uNflVynSu16m0zdt2x) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2), [Cole Bleu](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [EYELIDS](https://open.spotify.com/album/0KqX8QZZ3QdwGRFItQS8zp) | 2:06 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 79999,
+  "num_followers": 80003,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAAA963SmTCUqV6MVfJdm5nVs",
+  "snapshot_id": "aXv0gAAAAAAR7LsDA0lJAmsr9/eLDI6q",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
+        "name": "War Eternal",
+        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 247693,
-      "name": "Don't Look Down",
-      "url": "https://open.spotify.com/track/4gMYkfOztdTywqnakbBtpQ"
+      "duration_ms": 241160,
+      "name": "As the Pages Burn",
+      "url": "https://open.spotify.com/track/3BkqtdD3Vc90C3JFtTTVqI"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War Eternal",
-        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
+        "name": "Blood Dynasty (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 241160,
-      "name": "As the Pages Burn",
-      "url": "https://open.spotify.com/track/3BkqtdD3Vc90C3JFtTTVqI"
+      "duration_ms": 247693,
+      "name": "Don't Look Down",
+      "url": "https://open.spotify.com/track/4gMYkfOztdTywqnakbBtpQ"
     },
     {
       "added_at": null,

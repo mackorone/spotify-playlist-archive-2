@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2026\. Hit shuffle for a mixed listening experience\. Cover: Oscar Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,117 likes - 18 songs - 57 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 23,128 likes - 18 songs - 57 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 17 | [7\-3](https://open.spotify.com/track/4lzo6zPM2paqyP8oBp3DOs) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:09 |
 | 18 | [bckpckbyz](https://open.spotify.com/track/4qfkZtOGVw2BXa05wqXKkV) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:43 |
 
-Snapshot ID: `AAAAAL5NjSVMdCF3WFlgZ8xK9mpvJ/jD`
+Snapshot ID: `AAAAAJJMTWUp30ZuKBes3/KB2vLh/FEW`

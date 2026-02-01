@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Bottomland",
+        "url": "https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184942,
+      "name": "Bottomland",
+      "url": "https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ"
+    },
+    {
+      "album": {
         "name": "Break Mine EP",
         "url": "https://open.spotify.com/album/4aIwPQUD8tZxiojFNQfAxK"
       },
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 184818,
       "name": "Car That Drove You Away",
       "url": "https://open.spotify.com/track/3js7hQ6DUHQ2shBJ0snwEn"
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 238030,
       "name": "Country Country",
       "url": "https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g"
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 196520,
       "name": "Did It Anyway",
       "url": "https://open.spotify.com/track/23sot0mxmxT3nhmxS4cNbb"
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 181933,
       "name": "Dreams Don\u2019t Die",
       "url": "https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q"
@@ -3931,6 +3949,24 @@
     },
     {
       "album": {
+        "name": "Don't Mind If I Do (Deluxe)",
+        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252733,
+      "name": "Make It Rain",
+      "url": "https://open.spotify.com/track/5uJUF0Az31PDoOjaYeT2Cy"
+    },
+    {
+      "album": {
         "name": "Mamaw's House",
         "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
       },
@@ -4008,6 +4044,36 @@
       "duration_ms": 180181,
       "name": "Matching Tattoos",
       "url": "https://open.spotify.com/track/6Q0oVfhe6qYiwv6VNHhEAd"
+    },
+    {
+      "album": {
+        "name": "McArthur",
+        "url": "https://open.spotify.com/album/7tFDlNV1A2uRLdgArEKYuj"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "McArthur",
+      "url": "https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je"
     },
     {
       "album": {
@@ -5043,6 +5109,24 @@
     },
     {
       "album": {
+        "name": "Proving Me Right",
+        "url": "https://open.spotify.com/album/4Sy5ZQvGVhxbVZDUPY4UC2"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174693,
+      "name": "Proving Me Right",
+      "url": "https://open.spotify.com/track/5cMXjUFvxrppQsmeXoJ2tt"
+    },
+    {
+      "album": {
         "name": "Raining Inside (With Dawes)",
         "url": "https://open.spotify.com/album/1nYOXtwd7Ut5sBeM3207ka"
       },
@@ -5554,7 +5638,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 229799,
       "name": "Sincerely, Your Son",
       "url": "https://open.spotify.com/track/4Avhm4TheMNptgXdaQN52O"

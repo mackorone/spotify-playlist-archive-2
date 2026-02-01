@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11366,
+  "num_followers": 11370,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAAA03xVhfMO3QhmtQCY8SKKo",
+  "snapshot_id": "aXv0gAAAAAD054XTNTyEZTYvS11W+V3B",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Indian Summer",
+        "url": "https://open.spotify.com/album/19MHrbDm0HLUSXZf9FTjji"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 248470,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/05q78FY1IOa85XzPipVmvJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deep Down",
         "url": "https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 185142,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Indian Summer",
-        "url": "https://open.spotify.com/album/19MHrbDm0HLUSXZf9FTjji"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 248470,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/05q78FY1IOa85XzPipVmvJ"
     },
     {
       "added_at": null,

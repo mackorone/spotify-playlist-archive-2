@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-652 songs - 1 day 20 hr 55 min
+653 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Distraction](https://open.spotify.com/track/2XCc7Y5BhnBK29r9mhFXZG) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Distraction](https://open.spotify.com/album/18iJol0H5J6ApQzwRkniXp) | 3:55 | 2024-05-03 |  |
 | [Don't Look Down \- Edit](https://open.spotify.com/track/10NoopYlXNLPFLCvm2l4nT) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Don't Look Down](https://open.spotify.com/album/0lKB8S9EwZygC7JYEYAvL1) | 4:23 | 2022-05-06 | 2022-07-29 |
 | [Dreamers](https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI) | [Dreamers](https://open.spotify.com/album/4d9XNWcx3CXxvVnrRfkZrO) | 6:43 | 2021-10-25 | 2023-07-15 |
+| [Drop That Beat](https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Ixxel](https://open.spotify.com/artist/4FuPIvoA4iAe0sVoEfXhal) | [Drop That Beat](https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU) | 3:28 | 2026-01-30 |  |
 | [Each Other](https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [Each Other](https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv) | 3:04 | 2025-04-18 |  |
 | [Easy](https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Easy](https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78) | 3:25 | 2023-11-17 | 2025-03-22 |
 | [Easy Love](https://open.spotify.com/track/520bx5thoXdK6SsBJseLGl) | [Krismi](https://open.spotify.com/artist/3ujWl7adFLOFZOkNtVi0WL) | [Easy Love](https://open.spotify.com/album/07gM5wpFq7rh1kGg9NECTj) | 3:26 | 2024-07-26 | 2025-04-19 |
@@ -532,7 +533,7 @@
 | [Suligen](https://open.spotify.com/track/56EmWLEAO7lKWhZIOOGehP) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [Sodality](https://open.spotify.com/artist/6rkcwqYBmnC0cqjGERkklu) | [From The Start](https://open.spotify.com/album/5fUAt336RVzjYVm7l4kC5a) | 3:58 | 2021-05-07 | 2022-07-25 |
 | [Sun](https://open.spotify.com/track/3gwL0zQKWmtJA8oYhXmqn8) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Sun EP](https://open.spotify.com/album/2eEvThMm9Kj9HDifqrI8Xw) | 7:29 | 2021-05-07 | 2022-04-13 |
 | [Sunday Driver](https://open.spotify.com/track/66QxW6PVaVt4viuUqHFDsJ) | [Igor Garanin](https://open.spotify.com/artist/4ehXKv4sgs5snOxOGnEHLr) | [Anjunadeep Explorations 15](https://open.spotify.com/album/1Z7foZwT3Mg4ZT5GEKD49W) | 4:52 | 2021-05-07 | 2022-04-21 |
-| [Sunrise To The Morning](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Sunrise To The Morning](https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn) | 4:28 | 2024-08-09 |  |
+| [Sunrise To The Morning](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Sunrise To The Morning](https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn) | 4:28 | 2024-08-09 | 2026-02-01 |
 | [Super Powers](https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Super Powers](https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi) | 3:32 | 2025-07-11 |  |
 | [Supermodel](https://open.spotify.com/track/3JT8wu4fht9m6m5H9VsAFz) | [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [Marcus Cito](https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC) | [Supermodel](https://open.spotify.com/album/0wMDrSOXPQeh6Lm2jy5LO6) | 2:52 | 2023-03-03 | 2023-04-01 |
 | [Surrender](https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Surrender](https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT) | 2:27 | 2023-05-26 | 2024-07-22 |

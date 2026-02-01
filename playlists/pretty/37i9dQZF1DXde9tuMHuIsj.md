@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: YOVNGCHIMI, JC Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,493,191 likes - 99 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493,189 likes - 99 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 98 | [Rito](https://open.spotify.com/track/3n7pryFOcA61ZvPegaYidv) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Yama Make Them Bounce](https://open.spotify.com/artist/5w4k2ycYs8poQj5iMR7Vdu) | [Rito](https://open.spotify.com/album/1g0Qy70daljauJeGJQrTBa) | 2:42 |
 | 99 | [RKO](https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 1:46 |
 
-Snapshot ID: `AAAAABWfnyLpfqB+lbpWOle8d+KA96JY`
+Snapshot ID: `AAAAAATcDtvuVyk8araJazkFqs576zcN`

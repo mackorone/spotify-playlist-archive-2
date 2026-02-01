@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "BETRAY ME",
+        "url": "https://open.spotify.com/album/4sm7HjHhd7o1yXYErV0IN0"
+      },
+      "artists": [
+        {
+          "name": "V.I.P.N",
+          "url": "https://open.spotify.com/artist/2gtZypy6QDN8UfPbDQG6ro"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125070,
+      "name": "BETRAY ME",
+      "url": "https://open.spotify.com/track/6NOejift3Q16eUfQZgJAwG"
+    },
+    {
+      "album": {
         "name": "Future Love Story",
         "url": "https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n"
       },

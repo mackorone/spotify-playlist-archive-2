@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/25\-year\-end\-reflections\-from\-turnstile?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">read our Substack here :\) </a>  The Marías on the cover 🫧
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,771 likes - 200 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,756 likes - 200 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

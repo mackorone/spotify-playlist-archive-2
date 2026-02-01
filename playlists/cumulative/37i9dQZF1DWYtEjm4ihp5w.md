@@ -4,7 +4,7 @@
 
 > Cover: Stormy
 
-477 songs - 1 day 0 hr 58 min
+479 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Blood](https://open.spotify.com/track/5H7Q8TFW1rWURc99JysBiW) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Blood](https://open.spotify.com/album/46Z5x4VAEiqhZyXekglUya) | 4:10 | 2022-12-31 | 2023-03-16 |
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2024-08-01 | 2024-09-18 |
 | [BLUE LOVE](https://open.spotify.com/track/7Djd9Ct8LmEhshieSejXPV) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [ARABIA / BLUE LOVE](https://open.spotify.com/album/0aFUI7XlqD1IQHjJ9P8MBl) | 3:07 | 2024-02-23 | 2024-05-18 |
-| [Boca X2](https://open.spotify.com/track/3r7RFeDHm1VZDVZpmpRCz8) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Boca X2](https://open.spotify.com/album/3ruYtS9atWFc9NrHTMKKT6) | 2:16 | 2025-10-17 |  |
+| [Boca X2](https://open.spotify.com/track/3r7RFeDHm1VZDVZpmpRCz8) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Boca X2](https://open.spotify.com/album/3ruYtS9atWFc9NrHTMKKT6) | 2:16 | 2025-10-17 | 2026-02-01 |
 | [bohème](https://open.spotify.com/track/2cUoF6XU7X7pXVYJ8bHaxX) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [bohème](https://open.spotify.com/album/6jsBeOOVVhPyGhph1KngmS) | 2:54 | 2026-01-23 |  |
 | [Bombonera](https://open.spotify.com/track/4xxNysr35mMhcRpfw6v1Fu) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alha9i9a \(الحقيقة\)](https://open.spotify.com/album/4ChviB4GBxtlmGtDk4Z81M) | 3:31 | 2025-06-05 | 2025-07-29 |
 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-07-01 |  |
@@ -185,6 +185,7 @@
 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2022-11-14 | 2023-07-14 |
 | [HASSIT](https://open.spotify.com/track/6tYP1jWtifDbPqbag1XFjF) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [HASSIT](https://open.spotify.com/album/16qfby0d8gOvjDJEESVVTb) | 3:31 | 2023-10-19 | 2024-05-10 |
 | [Head&Shoulders](https://open.spotify.com/track/3GWp8k6UYutdqAeKgSsVpq) | [Obito.Triple3](https://open.spotify.com/artist/7asvA6Yz9cItmIbt2HNUPQ), [Villain](https://open.spotify.com/artist/1i27pFc4SeQb0dgzelooMn), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [ZETSU](https://open.spotify.com/album/1dOSiwqVdpeHeENILhIKNS) | 1:58 | 2025-07-24 | 2025-08-03 |
+| [Hello Kitty](https://open.spotify.com/track/6gyhZ6bMdy7FDTYCeqgwec) | [LMLTM](https://open.spotify.com/artist/0uKwNVVupedJeBbIuvXBG2), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Just Feel Me](https://open.spotify.com/album/1pGyDBBEYlMOlqeZy2axu0) | 3:01 | 2026-01-31 |  |
 | [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 | 2023-05-12 | 2023-06-23 |
 | [Hiphop is dead](https://open.spotify.com/track/08FKkdkbm4FXA0fWLscjJh) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [Hiphop is dead](https://open.spotify.com/album/2nPyvcEJof1Xg70FmEOYp2) | 2:47 | 2022-11-28 | 2023-05-19 |
 | [HKZ GANG V2](https://open.spotify.com/track/055mtpjA761fk09YyAXAoF) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [HKZ GANG V2](https://open.spotify.com/album/7zCD2W5LfZ1h68oM33gACn) | 3:02 | 2023-08-23 | 2023-09-10 |
@@ -262,6 +263,7 @@
 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 | 2023-02-13 | 2023-10-27 |
 | [M3a L3echrane](https://open.spotify.com/track/39Tt3K2AHv4hJS4W6QIPgZ) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/0wmeXAtXpjaeevmIFsLPGh) | 3:52 | 2024-07-12 | 2024-11-18 |
 | [Ma Mère](https://open.spotify.com/track/7olBJXnUt6te4YGhDd8OPW) | [Lemhllwess](https://open.spotify.com/artist/454idLWxvkeePy4v39nP0J), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Ma Mère](https://open.spotify.com/album/2O9O6EeyowClx0t4uRpYLh) | 3:07 | 2024-03-08 | 2024-06-23 |
+| [Mab9ach](https://open.spotify.com/track/7lQ1yvzd4Cxxmo3ORpT99C) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Mab9ach](https://open.spotify.com/album/7bn1o0H5SCp0hqlGPwzXzN) | 2:27 | 2026-01-31 |  |
 | [MACHAKIL](https://open.spotify.com/track/2PFX4PymQztndGtLbVADWG) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [MACHAKIL](https://open.spotify.com/album/67myjm0ApsCdgyBAiVFQ1x) | 2:27 | 2022-11-17 | 2023-05-09 |
 | [MACHI HAKA](https://open.spotify.com/track/46vZZCyBcvlABmEF57PLBc) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [PLAN B](https://open.spotify.com/album/4p3aP0cbVIb90Lm3h2TD1N) | 3:22 | 2025-11-24 | 2026-01-26 |
 | [Machi Lkhatri](https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Machi Lkhatri](https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU) | 3:29 | 2024-01-11 | 2025-01-21 |
@@ -432,7 +434,7 @@
 | [TRAUMA](https://open.spotify.com/track/4c3wYPl65eHyt3oicxlJqJ) | [HB BOSS](https://open.spotify.com/artist/75kSwvCfQ095CKfPCd07sj), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [TRAUMA](https://open.spotify.com/album/2A7jeOCRQ9xbklAosed2eg) | 3:35 | 2025-02-17 | 2025-05-31 |
 | [Tsali Hna](https://open.spotify.com/track/6fbulsCLH3xzVQV3rIOKg1) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Tsali Hna](https://open.spotify.com/album/2cHLj5YOFFqZ0hi0pKslPt) | 2:40 | 2024-02-09 | 2024-02-17 |
 | [TU SAIS DEJA](https://open.spotify.com/track/5aEqH3jmxYadMW6IeA6G0W) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [TU SAIS DEJA](https://open.spotify.com/album/4Aw22griAVsPwxRv0wD8Cz) | 2:57 | 2023-11-24 | 2023-12-08 |
-| [Twam Mafyouzi](https://open.spotify.com/track/5m0WDhOtaCO4yCoy8bqOy7) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Twam Mafyouzi](https://open.spotify.com/album/4eqDkabbyPAMkojyo9OYHQ) | 2:06 | 2025-06-15 |  |
+| [Twam Mafyouzi](https://open.spotify.com/track/5m0WDhOtaCO4yCoy8bqOy7) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Twam Mafyouzi](https://open.spotify.com/album/4eqDkabbyPAMkojyo9OYHQ) | 2:06 | 2025-06-15 | 2026-02-01 |
 | [Tyson](https://open.spotify.com/track/0jtgbnxjhaxqOmc8TJ0Eys) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Tyson](https://open.spotify.com/album/7yGKJvNTKg6MnQU2gknQay) | 5:05 | 2024-09-01 | 2024-11-05 |
 | [UNICEF](https://open.spotify.com/track/5IGhxeMAkpsQlyEIOsNmDE) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [UNICEF](https://open.spotify.com/album/17rnDndSLdVrQR0CbHvCq1) | 2:30 | 2023-05-12 | 2023-06-23 |
 | [Unique](https://open.spotify.com/track/4SIEgCDS7h90gFP5MEU4ai) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Unique](https://open.spotify.com/album/0iVvvnQXwwLBQhiwX3WFQ8) | 3:03 | 2024-03-01 | 2024-08-11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 168834,
+  "num_followers": 168846,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAAAeq/cWvg3uD3mlTiLbKKD5",
+  "snapshot_id": "aXv0gAAAAAAcpeU56c9NckRat7RcClH0",
   "tracks": [
     {
       "added_at": null,
@@ -207,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
       },
       "artists": [
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Keith Caputo",
+          "url": "https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz"
         }
       ],
-      "duration_ms": 297413,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/0tUWRioloZrqmq95DAMsOK"
+      "duration_ms": 313333,
+      "name": "What Have You Done (feat. Keith Caputo)",
+      "url": "https://open.spotify.com/track/2OHeJR6Cfvm42512gonFRh"
     },
     {
       "added_at": null,
@@ -255,22 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
       },
       "artists": [
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Keith Caputo",
-          "url": "https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz"
         }
       ],
-      "duration_ms": 313333,
-      "name": "What Have You Done (feat. Keith Caputo)",
-      "url": "https://open.spotify.com/track/2OHeJR6Cfvm42512gonFRh"
+      "duration_ms": 297413,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/0tUWRioloZrqmq95DAMsOK"
     },
     {
       "added_at": null,
@@ -439,22 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing Like A Siren",
-        "url": "https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD"
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
       "artists": [
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Jerry Heil",
-          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
         }
       ],
-      "duration_ms": 192561,
-      "name": "Sing Like A Siren",
-      "url": "https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV"
+      "duration_ms": 286680,
+      "name": "Jillian (I'd Give My Heart)",
+      "url": "https://open.spotify.com/track/1wDDWn5UjpjbT9onEAbL4n"
     },
     {
       "added_at": null,
@@ -479,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
+        "name": "Sing Like A Siren",
+        "url": "https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD"
       },
       "artists": [
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
         }
       ],
-      "duration_ms": 286680,
-      "name": "Jillian (I'd Give My Heart)",
-      "url": "https://open.spotify.com/track/1wDDWn5UjpjbT9onEAbL4n"
+      "duration_ms": 192561,
+      "name": "Sing Like A Siren",
+      "url": "https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Julia Vit\u00f3ria",
-  "num_followers": 1209391,
+  "num_followers": 1209634,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -55,22 +55,6 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
-        "name": "Santo Pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 312219,
-      "name": "Santo Pra Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
         "name": "Quem \u00c9 Esse? (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ysHV53D57phSxmT72HZXx"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 468953,
       "name": "Quem \u00c9 Esse? - Ao Vivo",
       "url": "https://open.spotify.com/track/7JtJjh9WfxUOpjFhurxVRW"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
+        "name": "Santo Pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 312219,
+      "name": "Santo Pra Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
     },
     {
       "added_at": "2026-01-30 13:09:31",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
+        "name": "Messias",
+        "url": "https://open.spotify.com/album/5pPQywuULSpZCfNvhXUjp9"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 367846,
+      "name": "Messias",
+      "url": "https://open.spotify.com/track/1Us77TbG0XgbRqwB6TnKdC"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
         "name": "MEU UNIVERSO",
         "url": "https://open.spotify.com/album/3ZRURB6L7WwE4t0nnzKNqF"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 252479,
       "name": "MEU UNIVERSO",
       "url": "https://open.spotify.com/track/641brJX9841CQj3xYyPHHK"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
-        "name": "Messias",
-        "url": "https://open.spotify.com/album/5pPQywuULSpZCfNvhXUjp9"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 367846,
-      "name": "Messias",
-      "url": "https://open.spotify.com/track/1Us77TbG0XgbRqwB6TnKdC"
     },
     {
       "added_at": "2026-01-30 13:09:31",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
-        "name": "Gratid\u00e3o (Gratitude) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        }
-      ],
-      "duration_ms": 420477,
-      "name": "Gratid\u00e3o (Gratitude) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
         "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 390933,
       "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
       "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
+        "name": "Gratid\u00e3o (Gratitude) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        }
+      ],
+      "duration_ms": 420477,
+      "name": "Gratid\u00e3o (Gratitude) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea"
     },
     {
       "added_at": "2026-01-30 13:09:31",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
-        "name": "Betel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/36GKPZfDGWd6GWWWbWZjz0"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 303309,
-      "name": "Betel - Ao Vivo",
-      "url": "https://open.spotify.com/track/3e023EoYu68V1IHJdo18GO"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
         "name": "Jesus te Amamos (Ao Vivo)",
         "url": "https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 415435,
       "name": "Jesus te Amamos - Ao Vivo",
       "url": "https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
+        "name": "Betel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36GKPZfDGWd6GWWWbWZjz0"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 303309,
+      "name": "Betel - Ao Vivo",
+      "url": "https://open.spotify.com/track/3e023EoYu68V1IHJdo18GO"
     },
     {
       "added_at": "2026-01-30 13:09:31",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
+        "name": "Processo (Ao Vivo em Salvador)",
+        "url": "https://open.spotify.com/album/525yOeLPhKZ0roNgjZpEHW"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 271689,
+      "name": "Processo - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/2z0bVsgogc37nPMOblrjaU"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
         "name": "O Senhor \u00e9 o Meu Pastor (Ao Vivo)",
         "url": "https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 381302,
       "name": "O Senhor \u00e9 o Meu Pastor - Ao Vivo",
       "url": "https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
-        "name": "Processo (Ao Vivo em Salvador)",
-        "url": "https://open.spotify.com/album/525yOeLPhKZ0roNgjZpEHW"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 271689,
-      "name": "Processo - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/2z0bVsgogc37nPMOblrjaU"
     },
     {
       "added_at": "2026-01-30 13:09:31",
@@ -1671,30 +1671,6 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
-        "name": "Melhor Amigo / O Que Seria de Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7"
-      },
-      "artists": [
-        {
-          "name": "Nair Nany",
-          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
-        },
-        {
-          "name": "Dimy Francisco",
-          "url": "https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8"
-        },
-        {
-          "name": "Eunice Zumbuca",
-          "url": "https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p"
-        }
-      ],
-      "duration_ms": 678000,
-      "name": "Melhor Amigo / O Que Seria de Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
         "name": "O Grande Banquete",
         "url": "https://open.spotify.com/album/1q6vwW5Cz3X9UdQW6BZwBw"
       },
@@ -1719,6 +1695,30 @@
       "duration_ms": 315943,
       "name": "Au\u00ea (A F\u00e9 Ganhou)",
       "url": "https://open.spotify.com/track/50W1rtz1xOmrqbL0HPg7Ro"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
+        "name": "Melhor Amigo / O Que Seria de Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7"
+      },
+      "artists": [
+        {
+          "name": "Nair Nany",
+          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
+        },
+        {
+          "name": "Dimy Francisco",
+          "url": "https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8"
+        },
+        {
+          "name": "Eunice Zumbuca",
+          "url": "https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p"
+        }
+      ],
+      "duration_ms": 678000,
+      "name": "Melhor Amigo / O Que Seria de Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE"
     },
     {
       "added_at": "2026-01-30 13:09:31",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
+        "name": "Eu Confio em Ti",
+        "url": "https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ"
+      },
+      "artists": [
+        {
+          "name": "Duda Santos Oficial",
+          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
+        }
+      ],
+      "duration_ms": 303582,
+      "name": "Eu Confio em Ti",
+      "url": "https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
         "name": "Eu Vou Orar (Ao Vivo)",
         "url": "https://open.spotify.com/album/13tq7LjAnlaJCzbICKvp6W"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 243252,
       "name": "Esp\u00edrito, Enche a Minha Vida",
       "url": "https://open.spotify.com/track/5vui0rUNNhaYWzGKsYYq8H"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
-        "name": "Eu Confio em Ti",
-        "url": "https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ"
-      },
-      "artists": [
-        {
-          "name": "Duda Santos Oficial",
-          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
-        }
-      ],
-      "duration_ms": 303582,
-      "name": "Eu Confio em Ti",
-      "url": "https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN"
     },
     {
       "added_at": "2026-01-30 13:09:31",

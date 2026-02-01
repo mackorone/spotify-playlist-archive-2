@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Organoclorados, MIK's Reaction, Jon Drake and more",
+  "description": "With AlligatorX, MIK's Reaction, Jon Drake and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -654,7 +654,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 175034,
       "name": "Campana de Gauss",
       "url": "https://open.spotify.com/track/6xcnKsDtCmYNS67cbUq8sz"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 234590,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/08buGoheqrNstHvUJGprEN"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 248679,
       "name": "Creepy Tales from the Other Side (Crimson Nights Part II)",
       "url": "https://open.spotify.com/track/0wQ1WQ6eA4RqwkWLRMlPVK"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Draumen",
+        "url": "https://open.spotify.com/album/3MvU3bncfVIGLw91FiTPlV"
+      },
+      "artists": [
+        {
+          "name": "Sleggefett",
+          "url": "https://open.spotify.com/artist/7zs9wewsPxF0yy3BMJhWJb"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201586,
+      "name": "Draumen",
+      "url": "https://open.spotify.com/track/62i0jfS0Rie0VJxVwLWbHB"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/0QG4po6S7xFCQIMzGwHo7P"
       },
@@ -1278,7 +1296,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 497500,
       "name": "Ecos do Passado",
       "url": "https://open.spotify.com/track/37PZySszRFWvAPXpz8FE11"
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 128062,
       "name": "Everything Is Possible",
       "url": "https://open.spotify.com/track/2Z8CuQgPHHEeuIymMDLebF"
@@ -1516,7 +1534,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 135600,
       "name": "Ez a gyertya \u00c9rted \u00e9g",
       "url": "https://open.spotify.com/track/7siRurfSaIm2WPd5eRgWLR"
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6LI1br3anXTOBmqj0FKvgl"
@@ -1808,7 +1826,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 267412,
       "name": "Ground Boots",
       "url": "https://open.spotify.com/track/1reiH7NsrqX8n46TJm1jYa"
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 227200,
       "name": "Have you got nothing left to Say",
       "url": "https://open.spotify.com/track/1OcLvOt48oLJqkhSTljR6b"
@@ -2338,7 +2356,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 272042,
       "name": "Insecurity (Radio Edit)",
       "url": "https://open.spotify.com/track/7qkbq9iXcW1pWI6NNLJ7Jv"
@@ -2417,6 +2435,28 @@
     },
     {
       "album": {
+        "name": "Jury-Rigged",
+        "url": "https://open.spotify.com/album/5paTCGQQXoPZta3eDVnfgS"
+      },
+      "artists": [
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        },
+        {
+          "name": "Don Buck",
+          "url": "https://open.spotify.com/artist/5kacWQfFS7x5VqRAwseEXh"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202080,
+      "name": "Jury-Rigged (Duct Taped)",
+      "url": "https://open.spotify.com/track/7xEARAscJRbQ3bqbs2PlWy"
+    },
+    {
+      "album": {
         "name": "Just Keep Swimming",
         "url": "https://open.spotify.com/album/7LmcuNts5OXsMLkfCxwy7s"
       },
@@ -2428,7 +2468,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -2836,7 +2876,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 293422,
       "name": "Lori - Special Edition",
       "url": "https://open.spotify.com/track/3y64sLHWMzAJHBVSfGgwPX"
@@ -2926,7 +2966,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Mancave",
       "url": "https://open.spotify.com/track/0MKA9fLN5P3tzTFgQqQ4Wf"
@@ -3038,6 +3078,24 @@
       "duration_ms": 227213,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5mEF1C1YOgzRiMMWFOszkV"
+    },
+    {
+      "album": {
+        "name": "Mental Health (MIK\u2019s Miasma)",
+        "url": "https://open.spotify.com/album/5gfoeaTbvC2fB0ggE1FiKm"
+      },
+      "artists": [
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340409,
+      "name": "Mental Health (MIK\u2019s Miasma)",
+      "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
     },
     {
       "album": {
@@ -3186,7 +3244,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 351000,
       "name": "Mr. Record Man",
       "url": "https://open.spotify.com/track/1DXOaD84OMVvwL2oaTuGiM"
@@ -3262,7 +3320,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -3464,7 +3522,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -3756,7 +3814,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 209986,
       "name": "Pav",
       "url": "https://open.spotify.com/track/1HHBk3iIoFmwSH7CE6DmfD"
@@ -3832,7 +3890,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 147278,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/7hund5bivOghcZsQu1PdNp"
@@ -3904,7 +3962,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 183080,
       "name": "Quick, Fast And In A Hurry",
       "url": "https://open.spotify.com/track/7kYt80QO4Pficzg8OdogNP"
@@ -4048,7 +4106,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 230710,
       "name": "Roots and Canopy",
       "url": "https://open.spotify.com/track/1T81lZqu2C7zhZOBJy3fHV"
@@ -4658,7 +4716,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 264207,
       "name": "Strobelight",
       "url": "https://open.spotify.com/track/3W1NYG4pnGubSlwWVIhfyf"
@@ -4712,7 +4770,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Surviving - Demo",
       "url": "https://open.spotify.com/track/51EjIOlT6UaNTlMQZvd3pa"
@@ -4766,7 +4824,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 313253,
       "name": "Swithen",
       "url": "https://open.spotify.com/track/1cqjwYM3BX69vy8hQ6Ug16"
@@ -4932,7 +4990,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -5264,7 +5322,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -5484,7 +5542,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 253374,
       "name": "Turn Me on (Flag and the Wind)",
       "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
@@ -5610,7 +5668,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -5664,7 +5722,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -6053,6 +6111,28 @@
     },
     {
       "album": {
+        "name": "To Die Like a God",
+        "url": "https://open.spotify.com/album/6hB6fly1rhQr8SPsfwM1jo"
+      },
+      "artists": [
+        {
+          "name": "Die Oberherren",
+          "url": "https://open.spotify.com/artist/5W8kg2FcTaUXscRnsgsQAz"
+        },
+        {
+          "name": "Whiplasher Bernadotte",
+          "url": "https://open.spotify.com/artist/58IzUSedtF1CITlf7WvgbN"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301336,
+      "name": "Zulu Alpha",
+      "url": "https://open.spotify.com/track/2Un1wf1MC4CEAramid6OoC"
+    },
+    {
+      "album": {
         "name": "Zulu Alpha",
         "url": "https://open.spotify.com/album/4BYNpvUyo15QnOMFweqV8F"
       },
@@ -6068,7 +6148,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 301336,
       "name": "Zulu Alpha",
       "url": "https://open.spotify.com/track/7FYleU9JYGSACXn0ODPd3l"

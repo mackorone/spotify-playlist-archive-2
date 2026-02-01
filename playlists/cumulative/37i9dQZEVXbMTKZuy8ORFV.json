@@ -277,6 +277,28 @@
     },
     {
       "album": {
+        "name": "100to",
+        "url": "https://open.spotify.com/album/6Tk2lQ947CNmA6zxlj2AW3"
+      },
+      "artists": [
+        {
+          "name": "SXMU",
+          "url": "https://open.spotify.com/artist/3HqMHyJVk2DzIhcaqvmyFx"
+        },
+        {
+          "name": "scarsnuevenuevenueve",
+          "url": "https://open.spotify.com/artist/6GhYVrX2Iee5LyNvSj9zmJ"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132183,
+      "name": "100to",
+      "url": "https://open.spotify.com/track/7pvoCsRytJOBpolJLLOZan"
+    },
+    {
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ"
       },
@@ -3222,7 +3244,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 217560,
       "name": "Ayer Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/1QsRXToHGvathPoMPWnwaN"
@@ -8293,6 +8315,24 @@
     },
     {
       "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias",
+        "url": "https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210452,
+      "name": "Como Un P\u00e1jaro",
+      "url": "https://open.spotify.com/track/2qRiMr3Gy4Vz643Q6sNMx5"
+    },
+    {
+      "album": {
         "name": "Como Yo Sufr\u00ed",
         "url": "https://open.spotify.com/album/6VwKKtk3Hhb3bAJNkS0z7r"
       },
@@ -11402,7 +11442,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 158440,
       "name": "Domingo Familiar",
       "url": "https://open.spotify.com/track/6s5fdTesXo77NneP3tn3Km"
@@ -13736,7 +13776,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 186531,
       "name": "ESCONDIDIN",
       "url": "https://open.spotify.com/track/7w6zp06Tnmi6iZ9A47XRm7"
@@ -19506,7 +19546,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 59547,
       "name": "JESTER FUNK",
       "url": "https://open.spotify.com/track/5s8JPPlozHtew6J1cXmrXU"
@@ -30320,7 +30360,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 167747,
       "name": "Palaces",
       "url": "https://open.spotify.com/track/6Asusvso8663OBJJI5BQzF"
@@ -34690,7 +34730,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 173041,
       "name": "Saucin'",
       "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
@@ -36104,7 +36144,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
@@ -40042,6 +40082,24 @@
       "duration_ms": 73373,
       "name": "Todo lo Contrario",
       "url": "https://open.spotify.com/track/0I77PewLj8ZuqXPdqdPgkt"
+    },
+    {
+      "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192064,
+      "name": "Todo Lo Fue",
+      "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
     },
     {
       "album": {

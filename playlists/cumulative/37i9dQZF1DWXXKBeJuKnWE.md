@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Static Dress
 
-684 songs - 1 day 17 hr 12 min
+686 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Blockage](https://open.spotify.com/track/4xJfsFXJITax9I1GrGPVEI) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [Death Hilarious](https://open.spotify.com/album/3ayehNLPtO03kFwPnkOhgx) | 2:51 | 2025-04-04 | 2025-09-12 |
 | [Blood Magick \(It's a Ritual\)](https://open.spotify.com/track/7k0JGsxzok5ktriz6DPxKq) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Blood Magick \(It's A Ritual\)](https://open.spotify.com/album/5GwBrqyCANmHOPkrveS3fI) | 4:12 | 2025-08-11 | 2025-09-12 |
 | [BLOOD PUDDLE](https://open.spotify.com/track/5kkeXjTwDKrMJdpXA2nFZq) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [BLOOD PUDDLE](https://open.spotify.com/album/5DfUyG3nyxRRKOzj5hV4PU) | 1:54 | 2023-12-01 | 2024-01-27 |
-| [Blood Red](https://open.spotify.com/track/4AnKuPB7x38JYmx2kTod9o) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Blood Red](https://open.spotify.com/album/6LvwGtZQBIgivk0qOXCrEu) | 3:29 | 2025-02-21 |  |
+| [Blood Red](https://open.spotify.com/track/4AnKuPB7x38JYmx2kTod9o) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Blood Red](https://open.spotify.com/album/6LvwGtZQBIgivk0qOXCrEu) | 3:29 | 2025-02-21 | 2026-02-01 |
 | [Bloodlust](https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Bloodlust](https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D) | 3:29 | 2025-10-03 |  |
 | [BLOODPUDDLE](https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [BLOODPUDDLE](https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo) | 1:54 | 2023-07-25 | 2023-12-03 |
 | [Bloodshot](https://open.spotify.com/track/0eyaXlEiQOmUyQo0PC0PpT) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Bloodshot](https://open.spotify.com/album/2ZGm33efqRup92vVIxh1kw) | 3:24 | 2023-03-17 | 2023-03-25 |
@@ -194,6 +194,7 @@
 | [Eat My Dust!](https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Eat My Dust!](https://open.spotify.com/album/4E8nAMLXCyRiaVP3sPgmUf) | 2:59 | 2026-01-30 |  |
 | [Echoes](https://open.spotify.com/track/0LaoxSSzKFhhbBQ9fGKxsc) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Echoes](https://open.spotify.com/album/0eZVWhcjULemVSblWXjqnV) | 4:29 | 2025-10-10 | 2026-01-19 |
 | [Ego \(Maniac\)](https://open.spotify.com/track/4FpAkBPkcL2U2jvdnQwUdL) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [Shadowlight](https://open.spotify.com/album/68dh3KwPvAvRVpuG0Jx7u4) | 3:37 | 2024-11-08 | 2025-09-12 |
+| [Ego Death](https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Ego Death](https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx) | 2:12 | 2026-01-30 |  |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-11 | 2023-10-13 |
 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 | 2025-09-05 |  |
 | [Enemy](https://open.spotify.com/track/6uw93PQ8gHcceraxPfCFUp) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Enemy](https://open.spotify.com/album/5kiallXslLnp6hxZRFhDkp) | 2:24 | 2023-07-25 | 2024-01-12 |
@@ -658,6 +659,7 @@
 | [WASHED](https://open.spotify.com/track/4aC5cgC8yvmxyukDiFqVgf) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [WASHED](https://open.spotify.com/album/048E1k65MEDeslw2sN8cQ7) | 2:44 | 2025-08-11 | 2025-09-12 |
 | [Watch Me Burn](https://open.spotify.com/track/52HjwNVAoDmpawoYGYfG3p) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Watch Me Burn](https://open.spotify.com/album/7M6CVCNoLE0MU5gsmiVt3A) | 3:38 | 2023-03-17 | 2023-07-26 |
 | [Watcher In The Sky](https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:48 | 2022-11-10 | 2023-07-26 |
+| [WE ARE EMPIRE](https://open.spotify.com/track/6ose7JySKEZszL4eisoFhM) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [WE ARE EMPIRE](https://open.spotify.com/album/4GtAnZ58WCp80acUpwM50P) | 6:00 | 2026-01-30 |  |
 | [We Are The Rest](https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [We Are The Rest](https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE) | 3:02 | 2023-09-15 | 2024-05-24 |
 | [We Are The Rest](https://open.spotify.com/track/1c206nIhscBrNMXM2b5Jfw) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 3:02 | 2023-10-13 | 2024-04-19 |
 | [We Could Be Heaven](https://open.spotify.com/track/7qsCOBgSNp8SOOV9UfHnJD) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [We Could Be Heaven](https://open.spotify.com/album/6olZb6eZFBI9xpmPDAwqOR) | 2:48 | 2024-11-08 | 2025-09-12 |
@@ -679,7 +681,7 @@
 | [Who Am I](https://open.spotify.com/track/2gDzbtMofzJlmaN5oGjI7x) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Who Am I](https://open.spotify.com/album/112fCF19lmyd56p14czHBO) | 1:46 | 2023-07-25 | 2024-01-12 |
 | [who am i?](https://open.spotify.com/track/0pfFn3KYKI6mc6fd4blgxA) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [who am i?](https://open.spotify.com/album/0nPc7GBdemUzf6YsHc3YpS) | 2:49 | 2025-06-06 | 2025-09-12 |
 | [Wicked Ways](https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:26 | 2022-11-10 | 2023-02-03 |
-| [Winona](https://open.spotify.com/track/24RP8LdRXT4Om2NxZ0R7OS) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Lonely People With Power](https://open.spotify.com/album/5Eh3xMVdGFAUiYwuoPOzXc) | 7:28 | 2025-04-04 |  |
+| [Winona](https://open.spotify.com/track/24RP8LdRXT4Om2NxZ0R7OS) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Lonely People With Power](https://open.spotify.com/album/5Eh3xMVdGFAUiYwuoPOzXc) | 7:28 | 2025-04-04 | 2026-02-01 |
 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 | 2023-05-19 | 2024-02-17 |
 | [WITHER BELOW](https://open.spotify.com/track/0aPa8xNPbvi5HXBqJXVW6g) | [LOVELOST](https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6) | [COLLAPSE](https://open.spotify.com/album/0nzdD1BY9vYHzoSMrtlG2R) | 4:13 | 2024-09-20 | 2025-09-12 |
 | [Wonderwall \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 | 2025-02-07 |  |

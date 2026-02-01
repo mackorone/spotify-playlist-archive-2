@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u795e\u4fdd\u5f70",
-  "num_followers": 32439,
+  "num_followers": 32436,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-01-28 04:50:06",
       "album": {
-        "name": "SET FREE",
-        "url": "https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ"
-      },
-      "artists": [
-        {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        }
-      ],
-      "duration_ms": 228106,
-      "name": "The Piano",
-      "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"
-    },
-    {
-      "added_at": "2026-01-28 04:50:06",
-      "album": {
         "name": "BLISS",
         "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 185000,
       "name": "\u67af\u8449 \uff5eAutumn Leaves\uff5e (jazz standard)",
       "url": "https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx"
+    },
+    {
+      "added_at": "2026-01-28 04:50:06",
+      "album": {
+        "name": "SET FREE",
+        "url": "https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "duration_ms": 228106,
+      "name": "The Piano",
+      "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"
     },
     {
       "added_at": "2026-01-28 04:50:06",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-01-28 04:50:06",
       "album": {
+        "name": "seed",
+        "url": "https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg"
+      },
+      "artists": [
+        {
+          "name": "The Hey Song",
+          "url": "https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "\u30cf\u30eb\u30ab\u30bc",
+      "url": "https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz"
+    },
+    {
+      "added_at": "2026-01-28 04:50:06",
+      "album": {
         "name": "Horns Riot",
         "url": "https://open.spotify.com/album/75yKmLPDLWt0G9RdDlHNY6"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 247509,
       "name": "Horns Riot",
       "url": "https://open.spotify.com/track/23Qd9pGRAGYvkW769SDCIg"
-    },
-    {
-      "added_at": "2026-01-28 04:50:06",
-      "album": {
-        "name": "seed",
-        "url": "https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg"
-      },
-      "artists": [
-        {
-          "name": "The Hey Song",
-          "url": "https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "\u30cf\u30eb\u30ab\u30bc",
-      "url": "https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz"
     },
     {
       "added_at": "2026-01-28 04:50:06",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-01-28 04:50:06",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 404426,
-      "name": "\u767d\u9ce5",
-      "url": "https://open.spotify.com/track/5cFJ2DLxeLgNE4AZsuWOrB"
-    },
-    {
-      "added_at": "2026-01-28 04:50:06",
-      "album": {
         "name": "Telepathy",
         "url": "https://open.spotify.com/album/3qKAQlG3pTQ2dXi9Qg6tPe"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 415733,
       "name": "WOLF",
       "url": "https://open.spotify.com/track/2xsyDwq9ZYm9kKYZF8gD4P"
+    },
+    {
+      "added_at": "2026-01-28 04:50:06",
+      "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 404426,
+      "name": "\u767d\u9ce5",
+      "url": "https://open.spotify.com/track/5cFJ2DLxeLgNE4AZsuWOrB"
     },
     {
       "added_at": "2026-01-28 04:50:06",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-01-28 04:50:06",
       "album": {
-        "name": "qualia",
-        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
-      },
-      "artists": [
-        {
-          "name": "PRIMITIVE ART ORCHESTRA",
-          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "qualia",
-      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
-    },
-    {
-      "added_at": "2026-01-28 04:50:06",
-      "album": {
         "name": "\u30d5\u30eb\u30fb\u30b9\u30ed\u30c3\u30c8\u30eb",
         "url": "https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 236266,
       "name": "\u30d5\u30eb\u30fb\u30b9\u30ed\u30c3\u30c8\u30eb",
       "url": "https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L"
+    },
+    {
+      "added_at": "2026-01-28 04:50:06",
+      "album": {
+        "name": "qualia",
+        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
+      },
+      "artists": [
+        {
+          "name": "PRIMITIVE ART ORCHESTRA",
+          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "qualia",
+      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
     },
     {
       "added_at": "2026-01-28 04:50:06",
@@ -839,18 +839,18 @@
     {
       "added_at": "2026-01-28 04:50:06",
       "album": {
-        "name": "NEW DAY",
-        "url": "https://open.spotify.com/album/5wo4OdsI8cutqgOV1ieXbB"
+        "name": "ZIPANG \u5f10nd",
+        "url": "https://open.spotify.com/album/39c02j5uv4sOAD1sx1yV8q"
       },
       "artists": [
         {
-          "name": "MIDORINOMARU",
-          "url": "https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu"
+          "name": "SANOVA",
+          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
         }
       ],
-      "duration_ms": 290000,
-      "name": "birth",
-      "url": "https://open.spotify.com/track/2VXijxrpCGnWb7pM3LkYZY"
+      "duration_ms": 265000,
+      "name": "\u4eac\u90fd",
+      "url": "https://open.spotify.com/track/6xePBiTAAtrAtH2a37fwGS"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

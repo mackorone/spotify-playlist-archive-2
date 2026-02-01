@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: hongjoin
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,188 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,190 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cruise Control](https://open.spotify.com/track/7hFTfseYJjG2Ul9WulhWrr) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Cruise Control](https://open.spotify.com/album/6UMlTRaAa8skjbkx56atCW) | 3:49 |
-| 2 | [想問 \- 錄音室版本](https://open.spotify.com/track/4EO5CBJ6d8Q740YNfKyKD5) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [想問](https://open.spotify.com/album/7MmNdIyZaT61DzL03trm1X) | 3:58 |
+| 2 | [想問](https://open.spotify.com/track/4EO5CBJ6d8Q740YNfKyKD5) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [想問](https://open.spotify.com/album/7MmNdIyZaT61DzL03trm1X) | 3:58 |
 | 3 | [Mahal \- From "Mencari Isteri Sempurna"](https://open.spotify.com/track/24iTumKzGcpXhZ1UjtpMss) | [Idayu](https://open.spotify.com/artist/7suXbmosCjq93DMz9QO2rM), [Iskandar Ismail](https://open.spotify.com/artist/0lNGasZmTx9kDjKrt8llt0) | [Mahal \(From "Mencari Isteri Sempurna"\)](https://open.spotify.com/album/5uNu35h1RvPiIeyBZ3JBDe) | 4:19 |
 | 4 | [那句我沒說](https://open.spotify.com/track/1ouAsmnoogYMfsoPQE9Jt1) | [黄俊荣 Amsden](https://open.spotify.com/artist/1DYqdyhbVTiFmGd70wMl1m), [小鼠](https://open.spotify.com/artist/3f6QoiFQMluzCKHSZlH7JX) | [那句我沒說](https://open.spotify.com/album/0YjgCCR4KxP2Og5QVsaM5S) | 3:02 |
 | 5 | [Home](https://open.spotify.com/track/66YZHA3f21h20pxkMibsW8) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [DLKC](https://open.spotify.com/artist/0xiN6caKYAR6AQ04DPL2qc) | [Home](https://open.spotify.com/album/5nRAvVx4R9bDmZvEO6cIkj) | 2:42 |

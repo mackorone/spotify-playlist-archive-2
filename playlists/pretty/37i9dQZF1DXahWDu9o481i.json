@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Fred again...",
-  "num_followers": 64667,
+  "num_followers": 64830,
   "original_name": "Editors' Picks: Best Songs of December",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-01-09 19:16:40",
       "album": {
+        "name": "Time Time Time (I'm in the Palm of Your Hand)",
+        "url": "https://open.spotify.com/album/3EKXvszVGLCqYN3eriHXIO"
+      },
+      "artists": [
+        {
+          "name": "Yndling",
+          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "It's Almost Like You're Here",
+      "url": "https://open.spotify.com/track/4VQO8F8rlxTRLHCB3f0hWz"
+    },
+    {
+      "added_at": "2026-01-09 19:16:40",
+      "album": {
         "name": "Can't Hold Us [Feat. Mwanj\u00e9]",
         "url": "https://open.spotify.com/album/4rX3FZJVX0PSnhnlYs19qu"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 166140,
       "name": "Can't Hold Us [Feat. Mwanj\u00e9]",
       "url": "https://open.spotify.com/track/4m7GhyLPmnQvZybjuxeYlP"
-    },
-    {
-      "added_at": "2026-01-09 19:16:40",
-      "album": {
-        "name": "Time Time Time (I'm in the Palm of Your Hand)",
-        "url": "https://open.spotify.com/album/3EKXvszVGLCqYN3eriHXIO"
-      },
-      "artists": [
-        {
-          "name": "Yndling",
-          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "It's Almost Like You're Here",
-      "url": "https://open.spotify.com/track/4VQO8F8rlxTRLHCB3f0hWz"
     },
     {
       "added_at": "2026-01-09 19:16:40",

@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAKfgNk9slBu4snPM0/N3oEtIBNVm94",
+  "snapshot_id": "AAAKf0HhQ47j5kpfgY5V12ArLL7TTLkU",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -144955,6 +144955,22 @@
       "duration_ms": 153312,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/3oNQ6NkihVzQkV5qhk2Pbe"
+    },
+    {
+      "added_at": "2026-01-31 22:14:14",
+      "album": {
+        "name": "call me maybe (original)",
+        "url": "https://open.spotify.com/album/2nsUuqGMjrWfBa2aAnGNdR"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 363692,
+      "name": "call me maybe (original)",
+      "url": "https://open.spotify.com/track/1jGug8SsTt4TTGLjJ8PYxT"
     }
   ],
   "unique_name": "Purge",

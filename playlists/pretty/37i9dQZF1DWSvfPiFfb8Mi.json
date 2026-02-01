@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 696036,
+  "num_followers": 696101,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Pull Together",
-        "url": "https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Pull Together",
-      "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Papooz & Friends",
         "url": "https://open.spotify.com/album/2Kn8qlxUCCXr4nIbJiNUWd"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 206207,
       "name": "Velvet Avenue",
       "url": "https://open.spotify.com/track/18QNbwbYp3ueBhvuaogkF6"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Pull Together",
+        "url": "https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Pull Together",
+      "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
+      },
+      "artists": [
+        {
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Feelin' It",
+      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
         "name": "I Miss Having Someone To Talk To",
         "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
-      },
-      "artists": [
-        {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Feelin' It",
-      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Time To Move",
         "url": "https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu"
       },
@@ -1555,22 +1539,34 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V"
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
       },
       "artists": [
         {
-          "name": "WEISS",
-          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
-        },
-        {
-          "name": "Louise Marshall",
-          "url": "https://open.spotify.com/artist/4CyLG34nLgjnptiPPPB7y4"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 166875,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Marlboro Sounds",
+        "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 363620,
+      "name": "Marlboro Sounds",
+      "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1595,6 +1591,26 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V"
+      },
+      "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
+        {
+          "name": "Louise Marshall",
+          "url": "https://open.spotify.com/artist/4CyLG34nLgjnptiPPPB7y4"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
         "name": "Watching Me Dance",
         "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 213688,
       "name": "Watching Me Dance",
       "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
-        "name": "Marlboro Sounds",
-        "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 363620,
-      "name": "Marlboro Sounds",
-      "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "All Of The Time",
-        "url": "https://open.spotify.com/album/1Y5W4ZrI5SXtqa6skp8JTn"
-      },
-      "artists": [
-        {
-          "name": "The Avener",
-          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
-        }
-      ],
-      "duration_ms": 209042,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/4oiwfWqwbcAqGuHHkHbU7r"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 204366,
       "name": "Girl",
       "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "All Of The Time",
+        "url": "https://open.spotify.com/album/1Y5W4ZrI5SXtqa6skp8JTn"
+      },
+      "artists": [
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        }
+      ],
+      "duration_ms": 209042,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/4oiwfWqwbcAqGuHHkHbU7r"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dolores Forever",
-          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
-        }
-      ],
-      "duration_ms": 189190,
-      "name": "LOVER",
-      "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
@@ -1935,6 +1915,26 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "duration_ms": 189190,
+      "name": "LOVER",
+      "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
         "name": "Know Me",
         "url": "https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1"
       },
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 179750,
       "name": "Touch",
       "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -2039,6 +2039,22 @@
       "duration_ms": 184801,
       "name": "Silky, Buttery, Smooth",
       "url": "https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "White Rose",
+        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "White Rose",
+      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -2123,22 +2139,6 @@
       "duration_ms": 208200,
       "name": "california",
       "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
-        "name": "White Rose",
-        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
-      },
-      "artists": [
-        {
-          "name": "No Suits",
-          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "White Rose",
-      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
     },
     {
       "added_at": "2026-01-30 05:01:02",

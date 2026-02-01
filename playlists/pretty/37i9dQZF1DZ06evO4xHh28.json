@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 624302,
+  "num_followers": 624506,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAACYRR3igtpQ4H1KlqE+OuUU",
+  "snapshot_id": "aXv0gAAAAADcwPjcDQTl+vhtUhS4mUZ4",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
       "duration_ms": 230706,
       "name": "Desert Song",
       "url": "https://open.spotify.com/track/1rDJIKiabJGtDtT8y72aTr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "May Death Never Stop You",
-        "url": "https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "Fake Your Death",
-      "url": "https://open.spotify.com/track/2M8g01v2vUMn39YQ10l7ef"
     }
   ],
   "unique_name": "This Is My Chemical Romance",

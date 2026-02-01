@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-699 songs - 1 day 12 hr 0 min
+700 songs - 1 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [If He Won't](https://open.spotify.com/track/4UUoX1ufb996g2D13qzlOz) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [If He Won't](https://open.spotify.com/album/23mxFDwh1Dy8HhN5uOa0aw) | 3:22 | 2021-12-16 | 2022-01-21 |
 | [If I Get Caught](https://open.spotify.com/track/4Ovm6d3qx2fKyDDq2uVb6K) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 | 2023-01-12 | 2023-02-17 |
 | [If Pretty Was A Person](https://open.spotify.com/track/1j7fU1ptLBpN6l6ZjBxgvo) | [Hylan Starr](https://open.spotify.com/artist/4QqSN19btzq9AcjTKhuGYI), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [If Pretty Was A Person](https://open.spotify.com/album/59A7ehBvw2UQRurkZsrk7T) | 2:36 | 2023-01-12 | 2023-03-23 |
+| [If The Walls Could Talk](https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi) | [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [If The Walls Could Talk](https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx) | 3:10 | 2026-01-29 |  |
 | [If You Leave](https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [If You Leave](https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m) | 3:09 | 2023-09-14 | 2023-10-13 |
 | [ily2](https://open.spotify.com/track/1aCi1np6otYE894Gwpxjoj) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Mother, I'm Not Here](https://open.spotify.com/album/2ddfx92XO61BAgXdhgCgoj) | 2:14 | 2023-11-09 | 2024-03-21 |
 | [Imperfections](https://open.spotify.com/track/6il4WwS3efuv7GZ15g4ZQ8) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [Imperfections](https://open.spotify.com/album/7BwQeu6XotauNon9gAKf84) | 1:30 | 2023-10-12 | 2023-11-10 |
@@ -407,7 +408,7 @@
 | [MUSE FREESTYLE](https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:58 | 2023-08-31 | 2024-09-28 |
 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 | 2024-09-05 | 2025-03-21 |
 | [MUTT \(feat\. Chris Brown\) \[CB REMIX\]](https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [MUTT \(CB REMIX\)](https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s) | 3:19 | 2025-03-20 | 2025-06-28 |
-| [My Absolute \- Remake](https://open.spotify.com/track/56cRGAZAZIwcswRV9v9QcO) | [Mar Omin](https://open.spotify.com/artist/6zOPs5R5TIlc5VSm8bfC7F) | [My Absolute \(Remake\)](https://open.spotify.com/album/5iuuxI1ovQPOdyiJgR9biJ) | 4:25 | 2025-11-20 |  |
+| [My Absolute \- Remake](https://open.spotify.com/track/56cRGAZAZIwcswRV9v9QcO) | [Mar Omin](https://open.spotify.com/artist/6zOPs5R5TIlc5VSm8bfC7F) | [My Absolute \(Remake\)](https://open.spotify.com/album/5iuuxI1ovQPOdyiJgR9biJ) | 4:25 | 2025-11-20 | 2026-02-01 |
 | [My Favourite Mistake](https://open.spotify.com/track/6GeNR4AIxxQUs1sXnQBjCJ) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [My Favourite Mistake](https://open.spotify.com/album/3H56yRhrGZ90lrsxKpijXH) | 3:39 | 2021-12-16 | 2022-06-10 |
 | [Naked](https://open.spotify.com/track/5cyohpUtQViRIwZoodcl2O) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Between Spaces](https://open.spotify.com/album/5xKvJOrOl8uXL3IOmVhqZm) | 2:03 | 2024-07-12 | 2025-03-08 |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2025-02-05 | 2025-03-13 |

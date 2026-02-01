@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 557 likes - 2,250 songs - 5 day 11 hr 38 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,257 songs - 5 day 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2258,5 +2258,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2248 | [Ōkami](https://open.spotify.com/track/2Yxj1CHdjdLdj8pvr6OBLT) | [SkyLighted](https://open.spotify.com/artist/0J6OJ6Mtb1450MG7vUiOVt) | [Ōkami](https://open.spotify.com/album/7KlGAK4qbiCpsHDM07TNmf) | 2:16 |
 | 2249 | [Il pleut sur la place Saint\-Germain](https://open.spotify.com/track/5QkpKrT7EEE2aouQWwBN60) | [Anne Grégory](https://open.spotify.com/artist/6W4HMI6oQHSzesTQHuVtBI) | [1965](https://open.spotify.com/album/3bvGWBVe0t7mtJKcKIl7yO) | 3:47 |
 | 2250 | [Land for the brave](https://open.spotify.com/track/5Xe1NgCClAFVYEK5HQsfTt) | [Painting Movies](https://open.spotify.com/artist/5oQG7yFMLbOXwU1Kd4c7K0) | [Land for the brave](https://open.spotify.com/album/2Z7THXcnbsQCdVSqi5DYwU) | 3:26 |
+| 2251 | [Chill Out](https://open.spotify.com/track/2SyTk8MGHbIwQ0IBe9JPck) | [Loleeka](https://open.spotify.com/artist/6746vC4wpqjN0Nt2k4lsF5) | [Chill Out](https://open.spotify.com/album/6AuHouQ6gak8D2OjIYnKO8) | 3:29 |
+| 2252 | [No One To Wake Me](https://open.spotify.com/track/7IGzmqwu5cCd7B6CtZlCly) | [Ryan Lord](https://open.spotify.com/artist/3JYAoQz9q15sPpfCTMU4ww) | [Sands Of Time​/​No One To Wake Me](https://open.spotify.com/album/0ocwsGncnpXKor1dKFSd84) | 4:28 |
+| 2253 | [I Wish You Luck](https://open.spotify.com/track/1r7gv1DoQyaEYRtm7Lmg1V) | [Dancing Armadillo](https://open.spotify.com/artist/7b2rS7Tg0w7BvZPyGpx1mt) | [I Wish You Luck](https://open.spotify.com/album/64FlVk8Yx0oAsqhXdYazpR) | 3:50 |
+| 2254 | [Playing Games Again](https://open.spotify.com/track/36njWEANR6L7Y7oJwF6PsP) | [Jenner Brandon](https://open.spotify.com/artist/0tzRDLY7TgosQIxgB1mCte) | [Playing Games Again](https://open.spotify.com/album/6S4v3E0vuhnUFFTjoA4zSk) | 2:22 |
+| 2255 | [Universal Cowboy](https://open.spotify.com/track/3E1Xd1dU70XoR3RDSLJVpH) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Universal Cowboy](https://open.spotify.com/album/4rOErxwAu1auXgapFpo84E) | 4:23 |
+| 2256 | [Better Days](https://open.spotify.com/track/6YJuEaomrMXR7MY3VcRt6p) | [Kattavi](https://open.spotify.com/artist/43jRPx8NAXECI9Jyvo8Sz9) | [Better Days](https://open.spotify.com/album/0ZKUW5KYtZpljKh4wvSkZg) | 2:40 |
+| 2257 | [When You Walked In](https://open.spotify.com/track/5BrEu5rJQcWtCw1A3Llucn) | [Tyler Herwig](https://open.spotify.com/artist/2xdCts7UWRYMS4Uyf6GBM5) | [When You Walked In](https://open.spotify.com/album/1YLyRxUAXoW4y5Ai4CVYFT) | 3:01 |
 
-Snapshot ID: `AAAJYe1JltFAcoO+nNbPl99UmYUB/W+V`
+Snapshot ID: `AAAJaEDD8GfDWb23Lo1vOOkpb7IYnJic`

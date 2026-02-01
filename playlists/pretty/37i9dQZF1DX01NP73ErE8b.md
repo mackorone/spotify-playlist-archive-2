@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  BLANCO in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,456 likes - 65 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,468 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 22 | [Canzone D'Amore](https://open.spotify.com/track/0Ufi0vac6DDTUAkgEAkb7B) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Canzone D'Amore](https://open.spotify.com/album/3IgaAZrMsLvmNEuJph8nnA) | 2:45 |
 | 23 | [Ragazze facili](https://open.spotify.com/track/06VuH9h9RdPDsEWyyHoDHI) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ragazze facili](https://open.spotify.com/album/77L3Km2FifiLyQX6lKIikS) | 4:02 |
 | 24 | [PER TE](https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 3:34 |
-| 25 | [Eroina](https://open.spotify.com/track/56n5UQJ0SDVaxwQNnu90ee) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:18 |
+| 25 | [Eroina \(feat\. Tutti Fenomeni\)](https://open.spotify.com/track/56n5UQJ0SDVaxwQNnu90ee) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:18 |
 | 26 | [punto](https://open.spotify.com/track/1WLfItpqW8NNP6VanqRKy0) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [punto](https://open.spotify.com/album/2G73CooRfo1Ly5YFpCuhrI) | 2:16 |
 | 27 | [Facciamo a metà](https://open.spotify.com/track/2PAZ4v3LrSLjEUdE9CAuJP) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/161wzAhcVaxA9SipWiTF6n) | 3:33 |
 | 28 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 |

@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 897939,
+  "num_followers": 897947,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANfgYZufZpely6ZvtnpHGdj/ETHm",
+  "snapshot_id": "AAAAAD6gc8zOKZ+CffBMJ7oK1KEUHn6t",
   "tracks": [
     {
       "added_at": "2026-01-23 15:47:46",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
+        "name": "Soy capaz",
+        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 205452,
+      "name": "Soy capaz",
+      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
         "name": "I know",
         "url": "https://open.spotify.com/album/6GRPgTY3rk3dgxsG9ZOkCu"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 177867,
       "name": "I know",
       "url": "https://open.spotify.com/track/5xCUOxO46AyKy4x0W7dxeM"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
-        "name": "Soy capaz",
-        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 205452,
-      "name": "Soy capaz",
-      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "NI\u00d1O BUENO - Lado A",
-        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "a los 20",
-      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
         "name": "Cuando Los Ac\u00e9falos Predominan",
         "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 181500,
       "name": "\u00bfD\u00d3NDE COMIENZA TU AMOR?",
       "url": "https://open.spotify.com/track/1Bx8DbcW6mSJlRWhmOdpV3"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
+        "name": "NI\u00d1O BUENO - Lado A",
+        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "a los 20",
+      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "Reconciliados",
-        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
       },
       "artists": [
         {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Reconciliados",
-      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
+      "duration_ms": 260000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+        "name": "Reconciliados",
+        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
       },
       "artists": [
         {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
+      "duration_ms": 169400,
+      "name": "Reconciliados",
+      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "dosextra\u00f1os",
-        "url": "https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E"
+        "name": "Dos y Veintid\u00f3s",
+        "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
       },
       "artists": [
         {
-          "name": "Jeudy Garc\u00eda",
-          "url": "https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz"
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 227244,
-      "name": "dosextra\u00f1os",
-      "url": "https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV"
+      "duration_ms": 237272,
+      "name": "Electricidad (2:21am)",
+      "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "Dos y Veintid\u00f3s",
-        "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
+        "name": "dosextra\u00f1os",
+        "url": "https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E"
       },
       "artists": [
         {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+          "name": "Jeudy Garc\u00eda",
+          "url": "https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz"
         }
       ],
-      "duration_ms": 237272,
-      "name": "Electricidad (2:21am)",
-      "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
+      "duration_ms": 227244,
+      "name": "dosextra\u00f1os",
+      "url": "https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV"
     },
     {
       "added_at": "2026-01-23 15:47:46",

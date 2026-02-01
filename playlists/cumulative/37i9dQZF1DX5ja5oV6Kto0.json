@@ -4094,7 +4094,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 157714,
       "name": "Company",
       "url": "https://open.spotify.com/track/26ulnyg8SfgTtstCdGmArl"
@@ -15590,7 +15590,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 159360,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8"
@@ -15646,6 +15646,28 @@
       "duration_ms": 192008,
       "name": "Running",
       "url": "https://open.spotify.com/track/21MSFhrfJzZOYUnKqNdkQr"
+    },
+    {
+      "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
+      },
+      "artists": [
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        },
+        {
+          "name": "Hunter Drake",
+          "url": "https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
     },
     {
       "album": {
@@ -20344,6 +20366,28 @@
       "duration_ms": 240261,
       "name": "Why Evils",
       "url": "https://open.spotify.com/track/7poPPZ1XEZfgjYSqjnzi9r"
+    },
+    {
+      "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/3vvnRjJyZZlyl6FcqZsNMk"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        },
+        {
+          "name": "Allan Harvey",
+          "url": "https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155335,
+      "name": "Wicked",
+      "url": "https://open.spotify.com/track/34BRP7EOk9XtnfpQXoVePk"
     },
     {
       "album": {

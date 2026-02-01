@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Strings & Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,825 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,900 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 7 | [Fly](https://open.spotify.com/track/5lzec28JNA1x8Rjnz3zr1a) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Fly](https://open.spotify.com/album/55bAheFPgMQHbMR8WNs97r) | 3:04 |
 | 8 | [NO MORE LIES](https://open.spotify.com/track/6F031EwtYi9axdT7Sc43Jp) | [Sean Daily](https://open.spotify.com/artist/57PqS7EAbP8iX4d3v9J2L1) | [NO MORE LIES](https://open.spotify.com/album/1BNlnEJaQTYdQYuj6bes9u) | 5:12 |
 | 9 | [The Love I Have For You](https://open.spotify.com/track/75aoONJnZBvJ7va31RjtSv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [The Love I Have For You](https://open.spotify.com/album/6IAZRtDcKhLmoK8KFziqrE) | 2:42 |
-| 10 | [Ever And Ever Before](https://open.spotify.com/track/4YhMnXwp2khsqK05irNhDp) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv), [Courtney](https://open.spotify.com/artist/0d8odIvbXq4hPIIv1C4KvV) | [Ever And Ever Before](https://open.spotify.com/album/6Ib03CnwNxVNok7OahkFwd) | 3:50 |
+| 10 | [Ever & Ever Before](https://open.spotify.com/track/4YhMnXwp2khsqK05irNhDp) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv), [Courtney Smallbone](https://open.spotify.com/artist/4K8Y4stLh0ndgHPBll3nMJ) | [Ever & Ever Before](https://open.spotify.com/album/6Ib03CnwNxVNok7OahkFwd) | 3:50 |
 | 11 | [Trust…Fall!](https://open.spotify.com/track/0itJM3ixZ3fKV5tfd2Mi2o) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Trust…Fall!](https://open.spotify.com/album/5JkSJVPrTaIacdoTBhaoRB) | 2:59 |
 | 12 | [Life With You](https://open.spotify.com/track/1tnR8SHJKG3XBIDKUB5Ys1) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Life With You](https://open.spotify.com/album/07PemxQ0IHwoeZofljquDK) | 3:12 |
 | 13 | [heaven knows i tried \- acoustic](https://open.spotify.com/track/1Kcu9DxL9pd8tkoTPtEk71) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [NO SKIPS \(DELUXE\)](https://open.spotify.com/album/6EXlsYJl67Xd08HQg1mBrS) | 3:09 |

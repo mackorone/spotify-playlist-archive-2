@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,230 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,233 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 28 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 |
 | 29 | [Nooit Geweet](https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i), [Jemaine Julies](https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf) | [Nooit Geweet](https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4) | 3:16 |
 | 30 | [Koepie Gevrietie](https://open.spotify.com/track/7Dy4POL2thHmuMk7Fy6cD9) | [Maintjie](https://open.spotify.com/artist/3XAYWDIMwPLQUXr0j5jTpb), [TYREAKE](https://open.spotify.com/artist/5uHVVOJq0zlg0BSy7TKyBe) | [Koepie Gevrietie](https://open.spotify.com/album/3t6muPDJ2IoGG1WMajYf4T) | 3:19 |
-| 31 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
-| 32 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
+| 31 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
+| 32 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
 | 33 | [Niks Te Laat](https://open.spotify.com/track/441g3bc9gbGl60UFyZdePp) | [R.M.R Music](https://open.spotify.com/artist/3QzXOzRO97jRlp2CS8giA2) | [Niks Te Laat](https://open.spotify.com/album/5WUyk7e2lVJ2bXdnQsJOag) | 2:22 |
 | 34 | [Doen Net Jou Ding](https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Doen Net Jou Ding](https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe) | 3:05 |
 | 35 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 |
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 38 | [Stap Soldaat](https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Stap Soldaat](https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ) | 3:10 |
 | 39 | [Hulle Weet Nog Niks](https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9) | [Vaughn Valentine](https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH) | [Hulle Weet Nog Niks](https://open.spotify.com/album/2RU30FokgN5wzHyJ8AyCGe) | 2:19 |
 | 40 | [Lewe Soos 'n Laanie](https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [GBOY](https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1) | [Lewe Soos 'n Laanie](https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb) | 3:21 |
-| 41 | [Die Hele Nag](https://open.spotify.com/track/32mG7p0lEzV1Uqk8HvHBKY) | [DxD](https://open.spotify.com/artist/7Leion5vRfpcrWvaksfIW5), [CampusMr007](https://open.spotify.com/artist/1gQAWDtAOTxgw8DqGTqF29), [Galx\-M](https://open.spotify.com/artist/3oCnyaGXgbCHSTqaKtJ0F1) | [Die Hele Nag](https://open.spotify.com/album/5j0aBTm9jeaetWshVFaux6) | 3:29 |
-| 42 | [Tyd Saam](https://open.spotify.com/track/6J9rWNVO1o859GVwSM088z) | [EAZY CPT](https://open.spotify.com/artist/6J5gjRHi3E9eLTKtsvT0cm) | [Tyd Saam](https://open.spotify.com/album/1ZVA1TwHvzCTC9UsVw3c7c) | 2:47 |
+| 41 | [Tyd Saam](https://open.spotify.com/track/6J9rWNVO1o859GVwSM088z) | [EAZY CPT](https://open.spotify.com/artist/6J5gjRHi3E9eLTKtsvT0cm) | [Tyd Saam](https://open.spotify.com/album/1ZVA1TwHvzCTC9UsVw3c7c) | 2:47 |
+| 42 | [Die Hele Nag](https://open.spotify.com/track/32mG7p0lEzV1Uqk8HvHBKY) | [DxD](https://open.spotify.com/artist/7Leion5vRfpcrWvaksfIW5), [CampusMr007](https://open.spotify.com/artist/1gQAWDtAOTxgw8DqGTqF29), [Galx\-M](https://open.spotify.com/artist/3oCnyaGXgbCHSTqaKtJ0F1) | [Die Hele Nag](https://open.spotify.com/album/5j0aBTm9jeaetWshVFaux6) | 3:29 |
 | 43 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 |
 | 44 | [Massive](https://open.spotify.com/track/5T9YoFqvvLDBMvjRw71WSx) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Massive](https://open.spotify.com/album/1kLvAMqMrqd1KbPamJfxah) | 2:57 |
-| 45 | [Op My Kant](https://open.spotify.com/track/2L9OtaOBouuhjveWwvXTY7) | [Lyht Skin Native](https://open.spotify.com/artist/37IbZiNUGaNzPa8Iln2mp8) | [Op My Kant](https://open.spotify.com/album/1ZWr4PND5ALJdU4HMsguPV) | 2:49 |
-| 46 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
+| 45 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
+| 46 | [Op My Kant](https://open.spotify.com/track/2L9OtaOBouuhjveWwvXTY7) | [Lyht Skin Native](https://open.spotify.com/artist/37IbZiNUGaNzPa8Iln2mp8) | [Op My Kant](https://open.spotify.com/album/1ZWr4PND5ALJdU4HMsguPV) | 2:49 |
 | 47 | [Die dog](https://open.spotify.com/track/3joOWQZLziJIIv1ZnFUncm) | [Ama vrant](https://open.spotify.com/artist/6VMxeGjGUjqqhfIzcvPfSm) | [Die dog](https://open.spotify.com/album/6hJ8q2qVzqDwhaj5m5Y5Rv) | 2:45 |
 | 48 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
 | 49 | [Staan Uit](https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Staan Uit](https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw) | 2:27 |

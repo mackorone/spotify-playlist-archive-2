@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Kelsea Ballerini",
-  "num_followers": 245969,
+  "num_followers": 246045,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-30 05:01:08",
       "album": {
-        "name": "I Sit In Parks",
-        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "I Sit In Parks",
-      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
-    },
-    {
-      "added_at": "2026-01-30 05:01:08",
-      "album": {
         "name": "Bed on Fire (with Ingrid Andress)",
         "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 228507,
       "name": "Bed on Fire (with Ingrid Andress)",
       "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
+    },
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
+        "name": "I Sit In Parks",
+        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-01-30 05:01:08",
       "album": {
-        "name": "Bulletproof (feat. Avril Lavigne)",
-        "url": "https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 183919,
-      "name": "Bulletproof (feat. Avril Lavigne)",
-      "url": "https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7"
-    },
-    {
-      "added_at": "2026-01-30 05:01:08",
-      "album": {
         "name": "Fancy Like (feat. Kesha)",
         "url": "https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 161853,
       "name": "Fancy Like (feat. Kesha)",
       "url": "https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo"
+    },
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
+        "name": "Bulletproof (feat. Avril Lavigne)",
+        "url": "https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 183919,
+      "name": "Bulletproof (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -1363,6 +1363,22 @@
       "duration_ms": 220520,
       "name": "Take A Bow (with Halsey)",
       "url": "https://open.spotify.com/track/0DkWJ9I5diiEuVoGUzSTHh"
+    },
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
+        "name": "Slow Dancin'",
+        "url": "https://open.spotify.com/album/53sKCJTcX1AnTBqU9XUCD8"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 124001,
+      "name": "Slow Dancin'",
+      "url": "https://open.spotify.com/track/647YdG7a4EkucGiyDkfBRY"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -1435,18 +1451,22 @@
     {
       "added_at": "2026-01-30 05:01:08",
       "album": {
-        "name": "Talk Of The Town",
-        "url": "https://open.spotify.com/album/02Azszdh3FeMdvKOwWRiS9"
+        "name": "Want This Beer (Feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8"
       },
       "artists": [
         {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 185346,
-      "name": "Talk Of The Town",
-      "url": "https://open.spotify.com/track/3vDnYNZK21uZxBAGsPuWjz"
+      "duration_ms": 159784,
+      "name": "Want This Beer (Feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -1467,22 +1487,18 @@
     {
       "added_at": "2026-01-30 05:01:08",
       "album": {
-        "name": "Want This Beer (Feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8"
+        "name": "Talk Of The Town",
+        "url": "https://open.spotify.com/album/02Azszdh3FeMdvKOwWRiS9"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
         }
       ],
-      "duration_ms": 159784,
-      "name": "Want This Beer (Feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM"
+      "duration_ms": 185346,
+      "name": "Talk Of The Town",
+      "url": "https://open.spotify.com/track/3vDnYNZK21uZxBAGsPuWjz"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -1507,6 +1523,26 @@
     {
       "added_at": "2026-01-30 05:01:08",
       "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "duration_ms": 147866,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
+    },
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
         "name": "All I Forgot",
         "url": "https://open.spotify.com/album/439gP9SIn0l4lOAeK9i7YV"
       },
@@ -1527,22 +1563,18 @@
     {
       "added_at": "2026-01-30 05:01:08",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Katelyn Brown",
-          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 147866,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
+      "duration_ms": 177313,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -1567,22 +1599,6 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
-    },
-    {
-      "added_at": "2026-01-30 05:01:08",
-      "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 177313,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -1631,6 +1647,22 @@
       "duration_ms": 181485,
       "name": "Please Please Please - Acoustic",
       "url": "https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ"
+    },
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/63XwmOMDfcOpOc8JSSNwp7"
+      },
+      "artists": [
+        {
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+        }
+      ],
+      "duration_ms": 151868,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/2FazcKsxgoI6X9FxFgLd9k"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -1759,46 +1791,6 @@
       "duration_ms": 214560,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/4Q12rnySxgZA5gX4cwblRG"
-    },
-    {
-      "added_at": "2026-01-30 05:01:08",
-      "album": {
-        "name": "Line By Line (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Line By Line (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
-    },
-    {
-      "added_at": "2026-01-30 05:01:08",
-      "album": {
-        "name": "Praise The Lord (feat. Thomas Rhett)",
-        "url": "https://open.spotify.com/album/19IBYeeXLti2wekxA8913l"
-      },
-      "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 160289,
-      "name": "Praise the Lord (feat. Thomas Rhett)",
-      "url": "https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U"
     }
   ],
   "unique_name": "Pop Country",

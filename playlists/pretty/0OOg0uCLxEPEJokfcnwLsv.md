@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 661 likes - 90 songs - 5 hr 41 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 668 likes - 95 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,5 +98,10 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 88 | [Яд](https://open.spotify.com/track/6pdt8es3jvmkqpbAL7RzQU) | [Палмерин](https://open.spotify.com/artist/4TWuUkIy1dyDqDkGUFqglO) | [Яд](https://open.spotify.com/album/6epDfKdwgN4YaadHMAf8ek) | 3:04 |
 | 89 | [Mojo On](https://open.spotify.com/track/3TdRMlfp6LGeAtOASCN8nx) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/0haX6u2d6rCkAXWJB4d9sO) | [Mojo On](https://open.spotify.com/album/22flR5Lny2T7GFrDKLxxUD) | 4:21 |
 | 90 | [Objects in the Mirrors](https://open.spotify.com/track/7FgMPd1QmYQlcCTu2yMum3) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Objects in the Mirrors](https://open.spotify.com/album/5iZG0EZiKBMSlomcPjxdVF) | 4:23 |
+| 91 | [Doctor Nic](https://open.spotify.com/track/4XYU90isBsinHacvaUtV1g) | [DORK](https://open.spotify.com/artist/76QFsdAqZECaFPJW1bxIKV) | [Doctor Nic](https://open.spotify.com/album/6wwti6Vjul2wP1hnQKE8MB) | 3:26 |
+| 92 | [FLOWER CHILD](https://open.spotify.com/track/0PYoxGNSQo2kMZWwSE8lcH) | [Krista Hartman](https://open.spotify.com/artist/0kwEEdnKa1I4oELZFRA6kN) | [Transcend](https://open.spotify.com/album/5CFY6AXx0tLDqkzbVpoUSu) | 4:22 |
+| 93 | [Worst Enemy](https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Worst Enemy](https://open.spotify.com/album/1Szbrta34NQhMTsBx3mUcb) | 4:05 |
+| 94 | [All I Know \- 2025 Remaster](https://open.spotify.com/track/2FZPTSFBfhy9rPtSDhtBDb) | [Silverbird](https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW) | [All I Know \(2025 Remaster\)](https://open.spotify.com/album/5HecYSQaBgRpgTfjsVGMal) | 5:02 |
+| 95 | [Girl in the sky](https://open.spotify.com/track/1cG8dKgKpi4q51qYPkUfIW) | [The Larlocks](https://open.spotify.com/artist/3ZoHqGfiZBctXNyEUhj51u) | [Girl in the sky](https://open.spotify.com/album/2ED0TomZXJLUNusgKIgqSA) | 4:32 |
 
-Snapshot ID: `AAAEsW3l4DYNPVrxd80RCvI6TjTZTyS1`
+Snapshot ID: `AAAEtqBm+gq9A9qAcRGT6IrluzGbylz2`

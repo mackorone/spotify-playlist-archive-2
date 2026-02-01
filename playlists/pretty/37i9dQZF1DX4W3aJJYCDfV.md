@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Noah Kahan, Fredo, Paris Paloma and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,413 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,434 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 29 | [Cold, No Coat](https://open.spotify.com/track/35Vp66dI9saavgJd4pf5Mm) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Cold, No Coat](https://open.spotify.com/album/6c6Bs9XywsavE2lCbxceQ9) | 2:05 |
 | 30 | [Numbers 31:17\-18](https://open.spotify.com/track/4AB8v3vtDk8fJmLU5UdeSr) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Numbers 31:17\-18](https://open.spotify.com/album/5sZ1NEQVwz1jizFMf4DuW9) | 5:44 |
 | 31 | [Streets of Minneapolis](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:35 |
-| 32 | [eye contact \(feat\. Council\)](https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ), [Council](https://open.spotify.com/artist/3N7z79Am2V9dxOxd8K2HVo) | [eye contact \(feat\. Council\)](https://open.spotify.com/album/6z9iFDIEPBgrDp1fpwqRHN) | 3:06 |
+| 32 | [eye contact \(feat\. Council\)](https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ), [Council](https://open.spotify.com/artist/0bX0GFeupnom6eHF7hJw62) | [eye contact \(feat\. Council\)](https://open.spotify.com/album/6z9iFDIEPBgrDp1fpwqRHN) | 3:06 |
 | 33 | [Yo Yo Yo](https://open.spotify.com/track/4gHz86ZxlMVspIstL8IIkj) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Yo Yo Yo](https://open.spotify.com/album/7qiFD9AYKGX3qzI5fclwTe) | 2:56 |
 | 34 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 |
 | 35 | [Sort It!](https://open.spotify.com/track/7Kc2lkSeblbKBOAGtYfXdq) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [STILL ODD](https://open.spotify.com/album/6e7qwvVHhaerqchHTB5SUI) | 2:08 |

@@ -4425,28 +4425,6 @@
     },
     {
       "album": {
-        "name": "LABUBU",
-        "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        },
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        }
-      ],
-      "date_added": "2025-02-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165750,
-      "name": "LABUBU",
-      "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
-    },
-    {
-      "album": {
         "name": "Le Dome",
         "url": "https://open.spotify.com/album/60TW5MVt9E41QYbJNOQVhu"
       },
@@ -4840,6 +4818,28 @@
       "duration_ms": 380878,
       "name": "Lunita - J.Pool Remix",
       "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
+    },
+    {
+      "album": {
+        "name": "LXBVBV",
+        "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "LXBVBV",
+      "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-428 songs - 19 hr 36 min
+429 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [F\*CKED UP!](https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP!](https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji) | 2:47 | 2022-09-22 | 2024-02-09 |
 | [Fakk Min X](https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Fakk Min X](https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ) | 1:51 | 2022-10-15 | 2023-07-18 |
 | [Felleskjøpet\-dress](https://open.spotify.com/track/1yHGoNVtlz20xq2ny8QpxP) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Felleskjøpet\-dress](https://open.spotify.com/album/76O4WYc2C9IpIKepQCHhzj) | 3:12 | 2022-04-21 | 2022-07-29 |
-| [Fest i Trøndelag](https://open.spotify.com/track/7IAzz4Eof2KQzw2AA18aa8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Johnny Skinnvest](https://open.spotify.com/artist/6zetK6GB7Zs99bJELK3XQm) | [Fest i Trøndelag](https://open.spotify.com/album/4y4NUVNk5bzyydVabRpfXl) | 2:53 | 2025-05-22 |  |
+| [Fest i Trøndelag](https://open.spotify.com/track/7IAzz4Eof2KQzw2AA18aa8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Johnny Skinnvest](https://open.spotify.com/artist/6zetK6GB7Zs99bJELK3XQm) | [Fest i Trøndelag](https://open.spotify.com/album/4y4NUVNk5bzyydVabRpfXl) | 2:53 | 2025-05-22 | 2026-02-01 |
 | [Fineste i bygda](https://open.spotify.com/track/0ao1DL2cMdCuh4mB8r1y9z) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU) | [Fineste i bygda](https://open.spotify.com/album/7JFPf1f5pWX81h6EMxolbY) | 3:11 | 2025-10-23 | 2026-01-01 |
 | [Fjellrypa](https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Sånn e livet \- Live 10 år](https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6) | 4:26 | 2022-03-24 | 2025-03-28 |
 | [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 | 2023-09-21 |  |
@@ -286,6 +286,7 @@
 | [Morra di](https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Morra di](https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR) | 2:42 | 2024-08-15 | 2026-01-25 |
 | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK) | [DJ Anton](https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq) | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw) | 2:52 | 2021-12-16 |  |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-03-24 | 2022-04-12 |
+| [Naboen](https://open.spotify.com/track/43Fe7HmRD4htXBxcRfBMzS) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Naboen](https://open.spotify.com/album/0V83AYZQaHZLyc8Ej57Den) | 2:22 | 2026-01-29 |  |
 | [Naboen har operert kona si](https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [Naboen har operert kona si](https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE) | 2:30 | 2023-11-02 |  |
 | [Nachspiel](https://open.spotify.com/track/6LGZTgf2BWIL4rT5luKAyU) | [Swingklubben](https://open.spotify.com/artist/1N6yMzPtvz09r7oiOmLhuz), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Nachspiel](https://open.spotify.com/album/6xGaQNvJydJViYIFqjesaE) | 2:37 | 2025-09-04 | 2026-01-01 |
 | [NATT TILL DAG](https://open.spotify.com/track/3OGIM1caVXkaAElEhGkLMB) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [NATT TILL DAG](https://open.spotify.com/album/7DrEhHhsCtyMT3HVKk8vKv) | 2:48 | 2023-07-27 | 2023-12-13 |

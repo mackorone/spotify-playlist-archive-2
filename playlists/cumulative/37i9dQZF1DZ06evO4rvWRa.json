@@ -889,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Slowed",
+        "url": "https://open.spotify.com/album/61ZZ2XHEGHwl9gHov01GUs"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "Faded - Slowed Remix",
+      "url": "https://open.spotify.com/track/2zK1krCIeewkY2v0RNPcBu"
+    },
+    {
+      "album": {
         "name": "Faded (Remixes)",
         "url": "https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08"
       },
@@ -1768,12 +1786,12 @@
           "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Delta Force",
+          "url": "https://open.spotify.com/artist/7LMRd2GY8us9EXHeY4Mi9G"
         },
         {
-          "name": "Delta Force",
-          "url": "https://open.spotify.com/artist/1MIBr4T0vz2f6XWybFMzOU"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
       "date_added": "2025-08-10",
@@ -2290,7 +2308,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 195888,
       "name": "That's What I Like - Alan Walker Remix",
       "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"

@@ -1,6 +1,6 @@
 {
   "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Patrick Noel. Artwork: Isu Kim",
-  "num_followers": 11875,
+  "num_followers": 11877,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32 (Not Mine)",
+        "url": "https://open.spotify.com/album/2QNdcrnfCe2syD7fYaj1Ye"
+      },
+      "artists": [
+        {
+          "name": "Poppy Chatchaya",
+          "url": "https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32 - Not Mine",
+      "url": "https://open.spotify.com/track/1qvnngn7XwPGq0Hevwy3rl"
+    },
+    {
+      "added_at": "2026-01-30 14:09:00",
+      "album": {
         "name": "\u0e41\u0e14\u0e19\u0e1d\u0e31\u0e19 (Dreaming)",
         "url": "https://open.spotify.com/album/5BHEKbYKlMt2OHcLh2SEj1"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32 (Not Mine)",
-        "url": "https://open.spotify.com/album/2QNdcrnfCe2syD7fYaj1Ye"
-      },
-      "artists": [
-        {
-          "name": "Poppy Chatchaya",
-          "url": "https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32 - Not Mine",
-      "url": "https://open.spotify.com/track/1qvnngn7XwPGq0Hevwy3rl"
-    },
-    {
-      "added_at": "2026-01-30 14:09:00",
-      "album": {
         "name": "\u0e16\u0e19\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e04\u0e38\u0e49\u0e19",
         "url": "https://open.spotify.com/album/1zYDTPJkXQUt9ypTkzU4am"
       },
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
-        "name": "\u0e17\u0e33\u0e44\u0e14\u0e49\u0e41\u0e04\u0e48\u0e17\u0e19",
-        "url": "https://open.spotify.com/album/2rVVZTZFMqjZC71b6brchN"
-      },
-      "artists": [
-        {
-          "name": "JDI",
-          "url": "https://open.spotify.com/artist/6aTDbF5IiPexZVjvyza8U4"
-        }
-      ],
-      "duration_ms": 196727,
-      "name": "\u0e17\u0e33\u0e44\u0e14\u0e49\u0e41\u0e04\u0e48\u0e17\u0e19",
-      "url": "https://open.spotify.com/track/2gHzSJ1FqYNRJpstisFbdx"
-    },
-    {
-      "added_at": "2026-01-30 14:09:00",
-      "album": {
         "name": "\u0e07\u0e2d\u0e41\u0e07 (CRY BABY)",
         "url": "https://open.spotify.com/album/5qecFpWOPDsOmsRvauJUas"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 204418,
       "name": "\u0e07\u0e2d\u0e41\u0e07 (CRY BABY)",
       "url": "https://open.spotify.com/track/2LlY5eozH3DcI75AwWuA2q"
+    },
+    {
+      "added_at": "2026-01-30 14:09:00",
+      "album": {
+        "name": "\u0e17\u0e33\u0e44\u0e14\u0e49\u0e41\u0e04\u0e48\u0e17\u0e19",
+        "url": "https://open.spotify.com/album/2rVVZTZFMqjZC71b6brchN"
+      },
+      "artists": [
+        {
+          "name": "JDI",
+          "url": "https://open.spotify.com/artist/6aTDbF5IiPexZVjvyza8U4"
+        }
+      ],
+      "duration_ms": 196727,
+      "name": "\u0e17\u0e33\u0e44\u0e14\u0e49\u0e41\u0e04\u0e48\u0e17\u0e19",
+      "url": "https://open.spotify.com/track/2gHzSJ1FqYNRJpstisFbdx"
     },
     {
       "added_at": "2026-01-30 14:09:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
-        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 (It'S Over)",
-        "url": "https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE"
-      },
-      "artists": [
-        {
-          "name": "mita.",
-          "url": "https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 - It'S Over",
-      "url": "https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB"
-    },
-    {
-      "added_at": "2026-01-30 14:09:00",
-      "album": {
         "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19\u0e01\u0e0f\u0e2b\u0e21\u0e32\u0e22\u0e01\u0e33\u0e2b\u0e19\u0e14",
         "url": "https://open.spotify.com/album/2gnmLixPZNUNl2nkRr7mNX"
       },
@@ -363,18 +347,34 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
-        "name": "\u0e01\u0e2d\u0e14\u0e44\u0e27\u0e49 (It's u)",
-        "url": "https://open.spotify.com/album/28vlKhumNRm5ojQWl0hlJ1"
+        "name": "PERFORM (\u0e01\u0e32\u0e23\u0e41\u0e2a\u0e14\u0e07)",
+        "url": "https://open.spotify.com/album/3nWTMmyXJ4DLhXrCrRs5MX"
       },
       "artists": [
         {
-          "name": "TITI Nichaphat",
-          "url": "https://open.spotify.com/artist/5Xj4vMbStZeK3ONLGuug9N"
+          "name": "Blyss",
+          "url": "https://open.spotify.com/artist/3l1wcgbumEkKeom14hHJ2V"
         }
       ],
-      "duration_ms": 219130,
-      "name": "\u0e01\u0e2d\u0e14\u0e44\u0e27\u0e49 (It's u)",
-      "url": "https://open.spotify.com/track/6fZeDz2ZzYGxnX5l1zRH14"
+      "duration_ms": 197666,
+      "name": "PERFORM (\u0e01\u0e32\u0e23\u0e41\u0e2a\u0e14\u0e07)",
+      "url": "https://open.spotify.com/track/5e6j0IX7JXRyxFqkT7jlcI"
+    },
+    {
+      "added_at": "2026-01-30 14:09:00",
+      "album": {
+        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 (It'S Over)",
+        "url": "https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE"
+      },
+      "artists": [
+        {
+          "name": "mita.",
+          "url": "https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 - It'S Over",
+      "url": "https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB"
     },
     {
       "added_at": "2026-01-30 14:09:00",
@@ -395,22 +395,18 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
-        "name": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
-        "url": "https://open.spotify.com/album/2as6VxkIr64nV6iLAxzSJu"
+        "name": "\u0e01\u0e2d\u0e14\u0e44\u0e27\u0e49 (It's u)",
+        "url": "https://open.spotify.com/album/28vlKhumNRm5ojQWl0hlJ1"
       },
       "artists": [
         {
-          "name": "WATAN-U",
-          "url": "https://open.spotify.com/artist/50uEFKn0N4sbHWzwssHpiG"
-        },
-        {
-          "name": "tAH AND FRIENDS",
-          "url": "https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2"
+          "name": "TITI Nichaphat",
+          "url": "https://open.spotify.com/artist/5Xj4vMbStZeK3ONLGuug9N"
         }
       ],
-      "duration_ms": 241978,
-      "name": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
-      "url": "https://open.spotify.com/track/5tuPUaPMjfw8GHxIFt1Fr8"
+      "duration_ms": 219130,
+      "name": "\u0e01\u0e2d\u0e14\u0e44\u0e27\u0e49 (It's u)",
+      "url": "https://open.spotify.com/track/6fZeDz2ZzYGxnX5l1zRH14"
     },
     {
       "added_at": "2026-01-30 14:09:00",
@@ -427,6 +423,26 @@
       "duration_ms": 276000,
       "name": "\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30 (Sorrow)",
       "url": "https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r"
+    },
+    {
+      "added_at": "2026-01-30 14:09:00",
+      "album": {
+        "name": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/2as6VxkIr64nV6iLAxzSJu"
+      },
+      "artists": [
+        {
+          "name": "WATAN-U",
+          "url": "https://open.spotify.com/artist/50uEFKn0N4sbHWzwssHpiG"
+        },
+        {
+          "name": "tAH AND FRIENDS",
+          "url": "https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2"
+        }
+      ],
+      "duration_ms": 241978,
+      "name": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/5tuPUaPMjfw8GHxIFt1Fr8"
     },
     {
       "added_at": "2026-01-30 14:09:00",
@@ -463,18 +479,18 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
-        "name": "PERFORM (\u0e01\u0e32\u0e23\u0e41\u0e2a\u0e14\u0e07)",
-        "url": "https://open.spotify.com/album/3nWTMmyXJ4DLhXrCrRs5MX"
+        "name": "KAKA",
+        "url": "https://open.spotify.com/album/4XXtFw8LsV0upbzNupKIqM"
       },
       "artists": [
         {
-          "name": "Blyss",
-          "url": "https://open.spotify.com/artist/3l1wcgbumEkKeom14hHJ2V"
+          "name": "NAMP",
+          "url": "https://open.spotify.com/artist/3PswRd4t5e69N3OEMZrzSA"
         }
       ],
-      "duration_ms": 197666,
-      "name": "PERFORM (\u0e01\u0e32\u0e23\u0e41\u0e2a\u0e14\u0e07)",
-      "url": "https://open.spotify.com/track/5e6j0IX7JXRyxFqkT7jlcI"
+      "duration_ms": 180928,
+      "name": "KAKA",
+      "url": "https://open.spotify.com/track/2EfoPYxiZvpG2u5KGBbPUN"
     },
     {
       "added_at": "2026-01-30 14:09:00",
@@ -575,22 +591,6 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
-        "name": "KAKA",
-        "url": "https://open.spotify.com/album/4XXtFw8LsV0upbzNupKIqM"
-      },
-      "artists": [
-        {
-          "name": "NAMP",
-          "url": "https://open.spotify.com/artist/3PswRd4t5e69N3OEMZrzSA"
-        }
-      ],
-      "duration_ms": 180928,
-      "name": "KAKA",
-      "url": "https://open.spotify.com/track/2EfoPYxiZvpG2u5KGBbPUN"
-    },
-    {
-      "added_at": "2026-01-30 14:09:00",
-      "album": {
         "name": "\u0e40\u0e01\u0e34\u0e14 But with Me",
         "url": "https://open.spotify.com/album/4ZyXBIWBQnlg5JQT2dhab5"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 160000,
       "name": "\u0e40\u0e01\u0e34\u0e14 But with Me",
       "url": "https://open.spotify.com/track/2Vwhm9aT5LGeG0uKE1C8nH"
+    },
+    {
+      "added_at": "2026-01-30 14:09:00",
+      "album": {
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/0HFavjIaQALjdqMEBz5hrN"
+      },
+      "artists": [
+        {
+          "name": "THE CROW CLUB",
+          "url": "https://open.spotify.com/artist/402nT3c5ycs17LYnK15XHR"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/7groJTvmcGWeomDC7Z56wC"
     },
     {
       "added_at": "2026-01-30 14:09:00",
@@ -687,6 +703,22 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
+        "name": "Deep Sea Monster",
+        "url": "https://open.spotify.com/album/4QvdtqP4c48Vq09kOQOxXV"
+      },
+      "artists": [
+        {
+          "name": "HEADLESS SCULPTURES",
+          "url": "https://open.spotify.com/artist/1N8WE8etYFapd7lt9RJNhB"
+        }
+      ],
+      "duration_ms": 286300,
+      "name": "Deep Sea Monster",
+      "url": "https://open.spotify.com/track/0jqWeLZDT99FyY7uDtRldJ"
+    },
+    {
+      "added_at": "2026-01-30 14:09:00",
+      "album": {
         "name": "Tadaima!",
         "url": "https://open.spotify.com/album/09TAWKKFvHYoKYy1BXpqPT"
       },
@@ -719,18 +751,34 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
-        "name": "LOSER",
-        "url": "https://open.spotify.com/album/0HFavjIaQALjdqMEBz5hrN"
+        "name": "\u0e0a\u0e48\u0e27\u0e22\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u2026 (Do It Again)",
+        "url": "https://open.spotify.com/album/6XVLMRRETdAgGAStPGXEWO"
       },
       "artists": [
         {
-          "name": "THE CROW CLUB",
-          "url": "https://open.spotify.com/artist/402nT3c5ycs17LYnK15XHR"
+          "name": "ZIYEN",
+          "url": "https://open.spotify.com/artist/5GgjczjHERBxIcpy5cKZ6e"
         }
       ],
-      "duration_ms": 206250,
-      "name": "LOSER",
-      "url": "https://open.spotify.com/track/7groJTvmcGWeomDC7Z56wC"
+      "duration_ms": 178666,
+      "name": "\u0e0a\u0e48\u0e27\u0e22\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u2026 (Do It Again)",
+      "url": "https://open.spotify.com/track/5LBRqzmVBtqAcSt9cnqc7W"
+    },
+    {
+      "added_at": "2026-01-30 14:09:00",
+      "album": {
+        "name": "\u0e19\u0e34\u0e22\u0e32\u0e21\u0e04\u0e33\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/42ciRO1cFcejFaJmnWiVdi"
+      },
+      "artists": [
+        {
+          "name": "JING Suppanat",
+          "url": "https://open.spotify.com/artist/2Jr86sjAohy5az25fRUfSz"
+        }
+      ],
+      "duration_ms": 269583,
+      "name": "\u0e19\u0e34\u0e22\u0e32\u0e21\u0e04\u0e33\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/7jHM4wCOFUdXTBfOp8wIEV"
     },
     {
       "added_at": "2026-01-30 14:09:00",
@@ -835,118 +883,6 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
-        "name": "ii uu",
-        "url": "https://open.spotify.com/album/4iuFYXbjfMnePLI7RMD13I"
-      },
-      "artists": [
-        {
-          "name": "HAYDEN",
-          "url": "https://open.spotify.com/artist/6VxLIdqbuN1MWLW5NaPHmz"
-        }
-      ],
-      "duration_ms": 194375,
-      "name": "ii uu",
-      "url": "https://open.spotify.com/track/7mPrazW5UjgJpmM8Z0rvAQ"
-    },
-    {
-      "added_at": "2026-01-30 14:09:00",
-      "album": {
-        "name": "Canvas",
-        "url": "https://open.spotify.com/album/3qwkrT1uf5kICtZtD93iKW"
-      },
-      "artists": [
-        {
-          "name": "C#",
-          "url": "https://open.spotify.com/artist/3cHznWQOP1ssmoouwarq6o"
-        }
-      ],
-      "duration_ms": 268694,
-      "name": "Canvas",
-      "url": "https://open.spotify.com/track/7hGtKpepHfqNl8JNZnlCef"
-    },
-    {
-      "added_at": "2026-01-30 14:09:00",
-      "album": {
-        "name": "\u0e19\u0e34\u0e22\u0e32\u0e21\u0e04\u0e33\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
-        "url": "https://open.spotify.com/album/42ciRO1cFcejFaJmnWiVdi"
-      },
-      "artists": [
-        {
-          "name": "JING Suppanat",
-          "url": "https://open.spotify.com/artist/2Jr86sjAohy5az25fRUfSz"
-        }
-      ],
-      "duration_ms": 269583,
-      "name": "\u0e19\u0e34\u0e22\u0e32\u0e21\u0e04\u0e33\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
-      "url": "https://open.spotify.com/track/7jHM4wCOFUdXTBfOp8wIEV"
-    },
-    {
-      "added_at": "2026-01-30 14:09:00",
-      "album": {
-        "name": "daiprode",
-        "url": "https://open.spotify.com/album/108S2GKsLHDaePcbv4CAhg"
-      },
-      "artists": [
-        {
-          "name": "phufa",
-          "url": "https://open.spotify.com/artist/5DBzB5LBcjhLch039hzb2y"
-        }
-      ],
-      "duration_ms": 211460,
-      "name": "\u0e2d\u0e38\u0e49\u0e07\u0e21\u0e37\u0e2d (rewind)",
-      "url": "https://open.spotify.com/track/7vNRdiyGapUwabPg95bnb6"
-    },
-    {
-      "added_at": "2026-01-30 14:09:00",
-      "album": {
-        "name": "\u0e0a\u0e48\u0e27\u0e22\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u2026 (Do It Again)",
-        "url": "https://open.spotify.com/album/6XVLMRRETdAgGAStPGXEWO"
-      },
-      "artists": [
-        {
-          "name": "ZIYEN",
-          "url": "https://open.spotify.com/artist/5GgjczjHERBxIcpy5cKZ6e"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "\u0e0a\u0e48\u0e27\u0e22\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u2026 (Do It Again)",
-      "url": "https://open.spotify.com/track/5LBRqzmVBtqAcSt9cnqc7W"
-    },
-    {
-      "added_at": "2026-01-30 14:09:00",
-      "album": {
-        "name": "\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e01\u0e31\u0e19\u0e43\u0e2b\u0e49\u0e14\u0e35\u0e01\u0e48\u0e2d\u0e19",
-        "url": "https://open.spotify.com/album/3n62B8TiJyOqkWRrWCaxHY"
-      },
-      "artists": [
-        {
-          "name": "\u0e1e\u0e39\u0e48\u0e01\u0e31\u0e19 \u0e01\u0e31\u0e19\u0e0f\u0e4c\u0e23\u0e30\u0e1e\u0e35",
-          "url": "https://open.spotify.com/artist/3k7rqg9S2F8zpVETclVJyl"
-        }
-      ],
-      "duration_ms": 188634,
-      "name": "\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e01\u0e31\u0e19\u0e43\u0e2b\u0e49\u0e14\u0e35\u0e01\u0e48\u0e2d\u0e19",
-      "url": "https://open.spotify.com/track/3OyrJNwOjk1fZ3e7ZybYRs"
-    },
-    {
-      "added_at": "2026-01-30 14:09:00",
-      "album": {
-        "name": "\u0e42\u0e17\u0e23\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 (Will You Answer?)",
-        "url": "https://open.spotify.com/album/1hDzWMgtDIfWqsXVYfPxZS"
-      },
-      "artists": [
-        {
-          "name": "RATTHEE",
-          "url": "https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh"
-        }
-      ],
-      "duration_ms": 232445,
-      "name": "\u0e42\u0e17\u0e23\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 - Will You Answer?",
-      "url": "https://open.spotify.com/track/6Tu7qGeULDB5nkB0CT8k3m"
-    },
-    {
-      "added_at": "2026-01-30 14:09:00",
-      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e1f\u0e31\u0e07 (Yum Yum)",
         "url": "https://open.spotify.com/album/3OtebzeLCguedVJaN5so0m"
       },
@@ -963,34 +899,34 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
-        "name": "Deep Sea Monster",
-        "url": "https://open.spotify.com/album/4QvdtqP4c48Vq09kOQOxXV"
+        "name": "ii uu",
+        "url": "https://open.spotify.com/album/4iuFYXbjfMnePLI7RMD13I"
       },
       "artists": [
         {
-          "name": "HEADLESS SCULPTURES",
-          "url": "https://open.spotify.com/artist/1N8WE8etYFapd7lt9RJNhB"
+          "name": "HAYDEN",
+          "url": "https://open.spotify.com/artist/6VxLIdqbuN1MWLW5NaPHmz"
         }
       ],
-      "duration_ms": 286300,
-      "name": "Deep Sea Monster",
-      "url": "https://open.spotify.com/track/0jqWeLZDT99FyY7uDtRldJ"
+      "duration_ms": 194375,
+      "name": "ii uu",
+      "url": "https://open.spotify.com/track/7mPrazW5UjgJpmM8Z0rvAQ"
     },
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
-        "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
-        "url": "https://open.spotify.com/album/5hh7QUvhveqKRp0Pxgja9I"
+        "name": "\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e01\u0e31\u0e19\u0e43\u0e2b\u0e49\u0e14\u0e35\u0e01\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/3n62B8TiJyOqkWRrWCaxHY"
       },
       "artists": [
         {
-          "name": "Arm Sarawut",
-          "url": "https://open.spotify.com/artist/5pLHBTehBn3LVAYaHMdeTs"
+          "name": "\u0e1e\u0e39\u0e48\u0e01\u0e31\u0e19 \u0e01\u0e31\u0e19\u0e0f\u0e4c\u0e23\u0e30\u0e1e\u0e35",
+          "url": "https://open.spotify.com/artist/3k7rqg9S2F8zpVETclVJyl"
         }
       ],
-      "duration_ms": 200025,
-      "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
-      "url": "https://open.spotify.com/track/322V4MGbCbcpCN0HZOUthS"
+      "duration_ms": 188634,
+      "name": "\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e01\u0e31\u0e19\u0e43\u0e2b\u0e49\u0e14\u0e35\u0e01\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/3OyrJNwOjk1fZ3e7ZybYRs"
     },
     {
       "added_at": "2026-01-30 14:09:00",
@@ -1027,6 +963,70 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/4mkp4nRaQOQ9tmoNshruhi"
+      },
+      "artists": [
+        {
+          "name": "palmlamer",
+          "url": "https://open.spotify.com/artist/37WPxh3ExxE9QY1J4rMp57"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/5FrK4jlxc8WmAHk2lsOTPt"
+    },
+    {
+      "added_at": "2026-01-30 14:09:00",
+      "album": {
+        "name": "Canvas",
+        "url": "https://open.spotify.com/album/3qwkrT1uf5kICtZtD93iKW"
+      },
+      "artists": [
+        {
+          "name": "C#",
+          "url": "https://open.spotify.com/artist/3cHznWQOP1ssmoouwarq6o"
+        }
+      ],
+      "duration_ms": 268694,
+      "name": "Canvas",
+      "url": "https://open.spotify.com/track/7hGtKpepHfqNl8JNZnlCef"
+    },
+    {
+      "added_at": "2026-01-30 14:09:00",
+      "album": {
+        "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+        "url": "https://open.spotify.com/album/5hh7QUvhveqKRp0Pxgja9I"
+      },
+      "artists": [
+        {
+          "name": "Arm Sarawut",
+          "url": "https://open.spotify.com/artist/5pLHBTehBn3LVAYaHMdeTs"
+        }
+      ],
+      "duration_ms": 200025,
+      "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+      "url": "https://open.spotify.com/track/322V4MGbCbcpCN0HZOUthS"
+    },
+    {
+      "added_at": "2026-01-30 14:09:00",
+      "album": {
+        "name": "\u0e42\u0e17\u0e23\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 (Will You Answer?)",
+        "url": "https://open.spotify.com/album/1hDzWMgtDIfWqsXVYfPxZS"
+      },
+      "artists": [
+        {
+          "name": "RATTHEE",
+          "url": "https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh"
+        }
+      ],
+      "duration_ms": 232445,
+      "name": "\u0e42\u0e17\u0e23\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 - Will You Answer?",
+      "url": "https://open.spotify.com/track/6Tu7qGeULDB5nkB0CT8k3m"
+    },
+    {
+      "added_at": "2026-01-30 14:09:00",
+      "album": {
         "name": "\u0e2a\u0e31\u0e21\u0e1c\u0e31\u0e2a\u0e42\u0e01\u0e2b\u0e01",
         "url": "https://open.spotify.com/album/1RoyATW49Dkwq5gn23SsHx"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2026-01-30 14:09:00",
       "album": {
-        "name": "Sun",
-        "url": "https://open.spotify.com/album/4mkp4nRaQOQ9tmoNshruhi"
+        "name": "daiprode",
+        "url": "https://open.spotify.com/album/108S2GKsLHDaePcbv4CAhg"
       },
       "artists": [
         {
-          "name": "palmlamer",
-          "url": "https://open.spotify.com/artist/37WPxh3ExxE9QY1J4rMp57"
+          "name": "phufa",
+          "url": "https://open.spotify.com/artist/5DBzB5LBcjhLch039hzb2y"
         }
       ],
-      "duration_ms": 181500,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/5FrK4jlxc8WmAHk2lsOTPt"
+      "duration_ms": 211460,
+      "name": "\u0e2d\u0e38\u0e49\u0e07\u0e21\u0e37\u0e2d (rewind)",
+      "url": "https://open.spotify.com/track/7vNRdiyGapUwabPg95bnb6"
     }
   ],
   "unique_name": "Fresh Finds Thailand",

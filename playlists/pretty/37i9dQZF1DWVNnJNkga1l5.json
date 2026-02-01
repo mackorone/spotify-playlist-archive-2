@@ -1,12 +1,12 @@
 {
   "description": "Canciones inolvidables para darle un toque dulce a tus comidas.",
-  "num_followers": 166409,
+  "num_followers": 166444,
   "original_name": "Cocina con Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH0Ba6YHHNls5uY8w/0VAX4/Ycn7",
+  "snapshot_id": "AAAAABO4TAd2EtQvV959JSFHbRFdRf30",
   "tracks": [
     {
       "added_at": "2026-01-22 22:48:28",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-01-22 22:48:28",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
-    },
-    {
-      "added_at": "2026-01-22 22:48:28",
-      "album": {
         "name": "Canta Trovador",
         "url": "https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 187173,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg"
+    },
+    {
+      "added_at": "2026-01-22 22:48:28",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
       "added_at": "2026-01-22 22:48:28",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-01-22 22:48:28",
       "album": {
-        "name": "Triunfador de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/3ugVckz2VVhaPa5XxkFpDF"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 192413,
-      "name": "Mary Es Mi Amor",
-      "url": "https://open.spotify.com/track/7rtaRzuEKom36ZmQSmL6EB"
-    },
-    {
-      "added_at": "2026-01-22 22:48:28",
-      "album": {
         "name": "Jon Secada",
         "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 327240,
       "name": "Otro D\u00eda M\u00e1s Sin Verte",
       "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
+    },
+    {
+      "added_at": "2026-01-22 22:48:28",
+      "album": {
+        "name": "Triunfador de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/3ugVckz2VVhaPa5XxkFpDF"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 192413,
+      "name": "Mary Es Mi Amor",
+      "url": "https://open.spotify.com/track/7rtaRzuEKom36ZmQSmL6EB"
     },
     {
       "added_at": "2026-01-22 22:48:28",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-01-22 22:48:28",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "Frente a Frente",
-      "url": "https://open.spotify.com/track/38sK8PSXXgZMLZujwgvNUH"
-    },
-    {
-      "added_at": "2026-01-22 22:48:28",
-      "album": {
         "name": "Pra Sempre Em Espanhol - Vol. 2",
         "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 195080,
       "name": "Cama y Mesa - Cama e Mesa",
       "url": "https://open.spotify.com/track/426kUsOMW5p2VWEVNu5BxF"
+    },
+    {
+      "added_at": "2026-01-22 22:48:28",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/38sK8PSXXgZMLZujwgvNUH"
     },
     {
       "added_at": "2026-01-22 22:48:28",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-01-22 22:48:28",
       "album": {
-        "name": "CORAZ\u00d3N VAC\u00cdO",
-        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160535,
-      "name": "CORAZ\u00d3N VAC\u00cdO",
-      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
-    },
-    {
-      "added_at": "2026-01-22 22:48:28",
-      "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 180866,
       "name": "Mi gran noche",
       "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
+    },
+    {
+      "added_at": "2026-01-22 22:48:28",
+      "album": {
+        "name": "CORAZ\u00d3N VAC\u00cdO",
+        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160535,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
     }
   ],
   "unique_name": "Cocina con Pop",

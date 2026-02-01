@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Vitão
 
-1,093 songs - 2 day 6 hr 11 min
+1,094 songs - 2 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [A Laje](https://open.spotify.com/track/6pDASjyhHtN2Dv4ZY8EBhU) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Kandace Lindsey](https://open.spotify.com/artist/6UOqGECOrz2Whn4I24CO8E) | [A Laje](https://open.spotify.com/album/2SJX2EcFiTzY466hX1cWMv) | 5:42 | 2025-01-17 | 2025-11-29 |
 | [A Vida De Uma Gostosa](https://open.spotify.com/track/5kENXCermYSISd7l9rSBNf) | [Ananda Paixão](https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [A Vida De Uma Gostosa](https://open.spotify.com/album/3lKFu66OVJkAGww20AjXoN) | 2:37 | 2024-07-19 | 2024-11-16 |
 | [A.N.A.N.D.A.](https://open.spotify.com/track/19N3cwfpPVn61lTNLPlG8X) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A.N.A.N.D.A.](https://open.spotify.com/album/6Sanh4zYrUafHTxedmfea1) | 2:27 | 2023-06-16 | 2023-07-22 |
+| [a1](https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [a1](https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca) | 3:03 | 2026-01-30 |  |
 | [Abelha](https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Abelha](https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu) | 2:18 | 2023-09-29 | 2023-10-28 |
 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 | 2020-10-20 | 2022-07-26 |
 | [absurdo](https://open.spotify.com/track/5bGS3CPNkYbYqEsOcGwwck) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:35 | 2024-05-08 | 2024-12-21 |
@@ -74,7 +75,7 @@
 | [ALTA TENSÃO](https://open.spotify.com/track/3WpW3fck8V6yljWCRNynXL) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [ALTA TENSÃO](https://open.spotify.com/album/12JE1Bk262iVJaqN7yKqfH) | 2:08 | 2023-12-08 | 2024-01-13 |
 | [ALÔ](https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a) | [YASSIQ](https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr) | [YASSIQ](https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl) | 2:08 | 2023-02-14 | 2023-04-09 |
 | [Amanhã](https://open.spotify.com/track/5NymnW8GUo8rbcpjnATBM1) | [Ralk](https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC), [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Amanhã](https://open.spotify.com/album/4fAOx1ZdilrOoeOl0D0d0l) | 2:09 | 2024-03-22 | 2024-06-08 |
-| [amanhã de manhã](https://open.spotify.com/track/7re1atoPYsUFVx2Kv6mOqK) | [lola ferrera](https://open.spotify.com/artist/73XYpnz3T3doSWen2bH10K) | [amanhã de manhã](https://open.spotify.com/album/7wnb54oeH4W62nXcF66qzU) | 2:32 | 2026-01-30 |  |
+| [amanhã de manhã](https://open.spotify.com/track/7re1atoPYsUFVx2Kv6mOqK) | [lola ferrera](https://open.spotify.com/artist/73XYpnz3T3doSWen2bH10K) | [amanhã de manhã](https://open.spotify.com/album/7wnb54oeH4W62nXcF66qzU) | 2:32 | 2026-01-30 | 2026-02-01 |
 | [Amapiano](https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil) | [JOTTA R](https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Amapiano](https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm) | 2:19 | 2025-07-18 |  |
 | [American Pie](https://open.spotify.com/track/1PZUD6jjtYsOUC9vDjdJHK) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [O Iluminado](https://open.spotify.com/album/0e2bs8KEArBtFeMYoqBYKP) | 2:59 | 2020-10-20 | 2022-07-29 |
 | [Amigo de Ninguém](https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [PODERIA SER \(bem\) PIOR](https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0) | 2:51 | 2023-03-17 | 2023-03-25 |

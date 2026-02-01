@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Hania Rani
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,385 likes - 101 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,508 likes - 101 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

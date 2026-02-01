@@ -4759,6 +4759,24 @@
     },
     {
       "album": {
+        "name": "BACKWARD",
+        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172524,
+      "name": "CHANGE OF SCENERY",
+      "url": "https://open.spotify.com/track/1FSIvc9mVlodIvzFLzAci3"
+    },
+    {
+      "album": {
         "name": "GRIP SEQUEL",
         "url": "https://open.spotify.com/album/7DRET0080oX5T7l4vYguwd"
       },
@@ -18336,7 +18354,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 191581,
       "name": "NOISY NEIGHBORS",
       "url": "https://open.spotify.com/track/6rPdEbKcUxXOI7tY1oRR0Q"

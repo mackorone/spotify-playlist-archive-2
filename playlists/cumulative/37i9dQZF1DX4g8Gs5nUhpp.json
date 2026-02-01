@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: (S)TRONG",
+  "description": "Hoa xu\u00e2n V-Pop n\u1edf tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: \u0111\u1ed1 bi\u1ebft",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 208289,
       "name": "Em",
       "url": "https://open.spotify.com/track/1UhQ0VwKq2PGnLiAZOJYV1"
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 198947,
       "name": "Gieo Qu\u1ebb (feat. \u0110en)",
       "url": "https://open.spotify.com/track/6SjnTRDyTM162pPOAM0O8M"
@@ -2936,7 +2936,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 290634,
       "name": "Gi\u1eef Anh Cho Ng\u00e0y H\u00f4m Qua",
       "url": "https://open.spotify.com/track/5wYQC7AuxV8ROALWcbVNxc"
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 189296,
       "name": "L\u00e0m G\u00ec Ph\u1ea3i H\u1ed1t",
       "url": "https://open.spotify.com/track/34zLev2Poav7NqDi6zWTtb"
@@ -5046,7 +5046,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 232131,
       "name": "NG\u01af\u1edcI \u0110\u1ea6U TI\u00caN",
       "url": "https://open.spotify.com/track/3qKeW2XJFZU5CvOQKStQW6"
@@ -6076,6 +6076,24 @@
       "duration_ms": 302640,
       "name": "Sau L\u01b0ng Anh C\u00f3 Ai K\u00eca",
       "url": "https://open.spotify.com/track/0IojBwrFi0lwPW1eE3BNdU"
+    },
+    {
+      "album": {
+        "name": "CineLove",
+        "url": "https://open.spotify.com/album/0O3IzHXaHspsJCKd1wbhfl"
+      },
+      "artists": [
+        {
+          "name": "Phan M\u1ea1nh Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/0aNyWetkjBvIdZvJY00yEa"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Sau L\u1eddi T\u1eeb Kh\u01b0\u1edbc",
+      "url": "https://open.spotify.com/track/3LAoVv4NJ2DJAr2HZHjVi7"
     },
     {
       "album": {
@@ -7311,6 +7329,24 @@
     },
     {
       "album": {
+        "name": "Nh\u1eefng Ng\u00e0y \u0110\u1ea7u",
+        "url": "https://open.spotify.com/album/0Epi1Mr9lpKVdKnjWXBpX4"
+      },
+      "artists": [
+        {
+          "name": "Phan M\u1ea1nh Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/0aNyWetkjBvIdZvJY00yEa"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198879,
+      "name": "T\u00ecnh Y\u00eau Gi\u1eefa M\u00f9a \u0110\u00f4ng",
+      "url": "https://open.spotify.com/track/2vRVkMbH5quR47CYV3Dsyb"
+    },
+    {
+      "album": {
         "name": "T\u00ecnh Y\u00eau \u0110\u1ebfn Sau",
         "url": "https://open.spotify.com/album/4UStQJDzvaNbNdAzxZ1k9A"
       },
@@ -7516,7 +7552,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 251696,
       "name": "t\u1eeb 1 s\u1ebd th\u00e0nh 2",
       "url": "https://open.spotify.com/track/02BHlLrO9jmkdCkP9V7722"
@@ -8104,7 +8140,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 211200,
       "name": "Wrong Times",
       "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"

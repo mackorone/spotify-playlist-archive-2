@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYN0OyXQBvO.md) - [plain]
 
 > The world deserves a better ending\. Listen to the music from Fallout, the hit video game and epic Prime Video series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,195 likes - 112 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,334 likes - 112 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [When You're Smiling \(The Whole World Smiles With You\)](https://open.spotify.com/track/44hUubH8Om6qIYVJN7pyFU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Ramblin Rose](https://open.spotify.com/album/0E6nzXbvyyVzZls1TtEmRP) | 2:44 |
+| 1 | [When You're Smiling \(The Whole World Smiles With You\) \- As Heard on “Fallout” \(Series\)](https://open.spotify.com/track/44hUubH8Om6qIYVJN7pyFU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Ramblin Rose](https://open.spotify.com/album/0E6nzXbvyyVzZls1TtEmRP) | 2:44 |
 | 2 | [Bedelia](https://open.spotify.com/track/3VuJRwKY6EpDIMuHSx9eq6) | [Bill Stutz and His Bearcats](https://open.spotify.com/artist/4vVVXvsVFEueqPHPAuCcWB) | [The Roaring 20's](https://open.spotify.com/album/6y5HbesdMxfeh5W1IhwHPl) | 2:44 |
 | 3 | [Devil Drums](https://open.spotify.com/track/2dmWmHjnRwkoaSCVJqmltE) | [Raymond Scott](https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt), [Raymond Scott Quintet](https://open.spotify.com/artist/2TtxVYGXwhuRb9EfmLlqFh) | [Microphone Music](https://open.spotify.com/album/2VfgvLgihYABpbco9qsrpz) | 3:42 |
 | 4 | [I'm Forever Blowing Bubbles \- 2017 Version](https://open.spotify.com/track/1IV4avTzXccy9WZTecmr0c) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS) | [Vera Lynn 100](https://open.spotify.com/album/2DWg5EgpevBgYN4lwSyBXU) | 3:32 |

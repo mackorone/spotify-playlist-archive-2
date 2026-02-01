@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-708 songs - 1 day 10 hr 19 min
+709 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Biko](https://open.spotify.com/track/2EU8sMA1cxTIWIbUGd8pRA) | [Bawa ALA](https://open.spotify.com/artist/1Q98mSTvrmCOEzRZhlMUz1) | [Biko / Iwai](https://open.spotify.com/album/5loaagDKYuReBMUeeLq35C) | 2:14 | 2025-02-14 | 2025-03-01 |
 | [BILLING = CHILLING](https://open.spotify.com/track/0whm71yydiyeu8W2WnKAD4) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [BILLING = CHILLING](https://open.spotify.com/album/7IUFcafS1yVSCcnI6xpYq3) | 2:50 | 2023-07-20 | 2023-07-29 |
 | [Billions](https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Billions](https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2) | 3:44 | 2024-05-17 | 2024-11-22 |
+| [Birthday](https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Birthday](https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d) | 2:35 | 2026-01-30 |  |
 | [BLESSING$](https://open.spotify.com/track/5l2a0rOc4A8fuy4TEDH3Ex) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BLESSING$](https://open.spotify.com/album/4BiiOopVTUJhsAP54UyiXk) | 2:41 | 2023-11-03 | 2023-12-02 |
 | [Blessings](https://open.spotify.com/track/5ibf0QRiCeCmlFlNb7otEP) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Blessings](https://open.spotify.com/album/0tgjVqsRs4lXQ4sgJ1EFIg) | 2:03 | 2022-06-09 | 2022-10-14 |
 | [Blind](https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae) | [Jahplaka](https://open.spotify.com/artist/7LHtDuHQxPma5xK94mexGk) | [Blind](https://open.spotify.com/album/5x9iKmrB20VHunQSud1vy6) | 2:27 | 2023-03-17 | 2023-03-31 |
@@ -626,7 +627,7 @@
 | [Time To Love Again](https://open.spotify.com/track/0LaCgmzJqzWymrvuXrimkd) | [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Time To Love Again](https://open.spotify.com/album/4DkV7VjFbEg0n4AsHVLtz9) | 2:35 | 2024-02-09 | 2024-03-22 |
 | [Timing](https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Timing](https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8) | 2:58 | 2024-10-04 | 2025-09-09 |
 | [Tonic No Lime](https://open.spotify.com/track/4PaF06tc9L8LnAW3fIHl18) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Tonic No Lime](https://open.spotify.com/album/0urB5NaXZ8nuLaYyAL5kil) | 3:03 | 2024-03-29 | 2024-05-03 |
-| [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 | 2024-06-28 |  |
+| [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 | 2024-06-28 | 2026-02-01 |
 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 | 2023-10-20 | 2024-11-22 |
 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/5h5fI8fZG0BGiUqyuR3BYZ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/album/0XBN8hQFaFIVmTJCj6Yix5) | 3:31 | 2023-10-20 | 2023-10-21 |
 | [Too Late To Party](https://open.spotify.com/track/3yrdfryHbFnwQuGrNAZQIr) | [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Too Late To Party](https://open.spotify.com/album/5DMDU4qd94FEgJlpKr7rZs) | 3:04 | 2023-06-30 | 2023-07-14 |

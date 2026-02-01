@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 63032,
+  "num_followers": 63066,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -59,18 +59,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
+        "name": "Chamame",
+        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
       "artists": [
         {
-          "name": "Los Reyes Del Chamame",
-          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 150480,
-      "name": "Pobre Mi Caballo Bayo",
-      "url": "https://open.spotify.com/track/1RH0xRjfMRrJyzuSgeUZt5"
+      "duration_ms": 171399,
+      "name": "Km. 11",
+      "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -91,22 +95,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamame",
-        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
       },
       "artists": [
         {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        },
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+          "name": "Los Reyes Del Chamame",
+          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
         }
       ],
-      "duration_ms": 171399,
-      "name": "Km. 11",
-      "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
+      "duration_ms": 150480,
+      "name": "Pobre Mi Caballo Bayo",
+      "url": "https://open.spotify.com/track/1RH0xRjfMRrJyzuSgeUZt5"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -283,22 +283,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "30 A\u00f1os Despu\u00e9s",
-        "url": "https://open.spotify.com/album/29qdVczira2f72fAfz51fB"
+        "name": "Enganchados en Vivo Desde San Jos\u00e9 Feliciano / Nacional, Vol. 2",
+        "url": "https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ"
       },
       "artists": [
         {
-          "name": "Conjunto Ivoti",
-          "url": "https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP"
-        },
-        {
-          "name": "J. C. Mansilla",
-          "url": "https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b"
+          "name": "Los Majestuosos Del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp"
         }
       ],
-      "duration_ms": 177893,
-      "name": "Mi Caballo Bayo",
-      "url": "https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg"
+      "duration_ms": 455840,
+      "name": "Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos - En Vivo",
+      "url": "https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -319,18 +315,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Enganchados en Vivo Desde San Jos\u00e9 Feliciano / Nacional, Vol. 2",
-        "url": "https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ"
+        "name": "30 A\u00f1os Despu\u00e9s",
+        "url": "https://open.spotify.com/album/29qdVczira2f72fAfz51fB"
       },
       "artists": [
         {
-          "name": "Los Majestuosos Del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp"
+          "name": "Conjunto Ivoti",
+          "url": "https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP"
+        },
+        {
+          "name": "J. C. Mansilla",
+          "url": "https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b"
         }
       ],
-      "duration_ms": 455840,
-      "name": "Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos - En Vivo",
-      "url": "https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5"
+      "duration_ms": 177893,
+      "name": "Mi Caballo Bayo",
+      "url": "https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Me Dicen el Rey",
-        "url": "https://open.spotify.com/album/6CA6JZ9igKWBTxi18sdTo8"
-      },
-      "artists": [
-        {
-          "name": "Miguel Figueroa y Su Conjunto Amanecer Campero",
-          "url": "https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "Amanecer Campero",
-      "url": "https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Alegr\u00eda y Chamam\u00e9",
         "url": "https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Me Dicen el Rey",
+        "url": "https://open.spotify.com/album/6CA6JZ9igKWBTxi18sdTo8"
+      },
+      "artists": [
+        {
+          "name": "Miguel Figueroa y Su Conjunto Amanecer Campero",
+          "url": "https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef"
+        }
+      ],
+      "duration_ms": 166480,
+      "name": "Amanecer Campero",
+      "url": "https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Coraz\u00f3n Chamamecero",
         "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Sobredosis De Chamame",
-        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
-      },
-      "artists": [
-        {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "La Fiesta Del Chamam\u00e9",
-      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "El Guachito",
         "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 181493,
       "name": "Ca\u00f1a Doble para Mi Padre",
       "url": "https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Sobredosis De Chamame",
+        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "La Fiesta Del Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "Siento haberte perdido",
+      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Hijos de la Cordillera",
         "url": "https://open.spotify.com/album/2xpXO54zmVpQnRK8IQxkTS"
       },
@@ -1072,13 +1088,13 @@
       },
       "artists": [
         {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
         }
       ],
-      "duration_ms": 195146,
-      "name": "Siento haberte perdido",
-      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
+      "duration_ms": 185906,
+      "name": "Malvita",
+      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
-        }
-      ],
-      "duration_ms": 185906,
-      "name": "Malvita",
-      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Los 20 A\u00f1os de Rosendo y Ofelia",
         "url": "https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 143466,
       "name": "Jam\u00e1s Te Podr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Los Cate",
+          "url": "https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf"
+        }
+      ],
+      "duration_ms": 123226,
+      "name": "Un simbronazo",
+      "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamame - Los 100 mejores temas - Vol 4",
-        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+        "name": "Con Los Grandes",
+        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
       },
       "artists": [
         {
-          "name": "Los Cate",
-          "url": "https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf"
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
         }
       ],
-      "duration_ms": 123226,
-      "name": "Un simbronazo",
-      "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
+      "duration_ms": 129693,
+      "name": "La Flecha",
+      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1179,22 +1195,6 @@
       "duration_ms": 164440,
       "name": "Mi Anhelo",
       "url": "https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Con Los Grandes",
-        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
-      },
-      "artists": [
-        {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
-        }
-      ],
-      "duration_ms": 129693,
-      "name": "La Flecha",
-      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Abelardo Dimotta",
+          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "La Ofelia",
+      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Fuerte No Soy",
         "url": "https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 208579,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Abelardo Dimotta",
-          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "La Ofelia",
-      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 3",
-        "url": "https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc"
-      },
-      "artists": [
-        {
-          "name": "Coquimarola",
-          "url": "https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy"
-        }
-      ],
-      "duration_ms": 145280,
-      "name": "Pasion oculta",
-      "url": "https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1415,6 +1399,38 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 3",
+        "url": "https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc"
+      },
+      "artists": [
+        {
+          "name": "Coquimarola",
+          "url": "https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy"
+        }
+      ],
+      "duration_ms": 145280,
+      "name": "Pasion oculta",
+      "url": "https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Duo Aranda Palacio",
+          "url": "https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M"
+        }
+      ],
+      "duration_ms": 124360,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "D\u00fao Cejas Sol\u00eds",
         "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
       },
@@ -1436,13 +1452,13 @@
       },
       "artists": [
         {
-          "name": "Duo Aranda Palacio",
-          "url": "https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M"
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
         }
       ],
-      "duration_ms": 124360,
-      "name": "Porque te fuiste",
-      "url": "https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D"
+      "duration_ms": 134240,
+      "name": "La dama misteriosa",
+      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1459,22 +1475,6 @@
       "duration_ms": 198371,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2nYzufWjnRBtBEf9ggFtXA"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Toto Maidana",
-          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
-        }
-      ],
-      "duration_ms": 134240,
-      "name": "La dama misteriosa",
-      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
     },
     {
       "added_at": "2025-03-31 12:53:49",

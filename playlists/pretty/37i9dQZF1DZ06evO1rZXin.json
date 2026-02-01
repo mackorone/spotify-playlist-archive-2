@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 7062,
+  "num_followers": 7066,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAABWXLb7ayc6RwkIhlpdcowG",
+  "snapshot_id": "aXv0gAAAAAApFY3Z4yA8b5rdsFsPTjbg",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meneaito",
-        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 217234,
-      "name": "Meneaito",
-      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
         "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 179000,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/1nFZVvBqero0LnSsH23NAd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meneaito",
+        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 217234,
+      "name": "Meneaito",
+      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
     },
     {
       "added_at": null,

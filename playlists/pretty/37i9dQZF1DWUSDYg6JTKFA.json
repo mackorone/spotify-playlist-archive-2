@@ -1,6 +1,6 @@
 {
   "description": "Find hope in Him in every note of these songs full of faith!",
-  "num_followers": 211454,
+  "num_followers": 211461,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "He Knows",
+      "url": "https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "Benjamin William Hastings",
         "url": "https://open.spotify.com/album/1K9dbdsz6jagqTAkrHHSmk"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 237173,
       "name": "That's The Thing About Praise",
       "url": "https://open.spotify.com/track/3jWIXPUA6KAHoatVUAaxBv"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "I Will Follow",
-        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "He Knows",
-      "url": "https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Heaven On My Mind",
-        "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 203450,
-      "name": "Heaven On My Mind",
-      "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "Wide Open",
         "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 175453,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/6UPzYldiFNx9jssIxwuyYv"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Heaven On My Mind",
+        "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 203450,
+      "name": "Heaven On My Mind",
+      "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Rescue",
-        "url": "https://open.spotify.com/album/49sgj5TsAza6TkXow8DQWa"
-      },
-      "artists": [
-        {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        }
-      ],
-      "duration_ms": 221403,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "Live From Camp",
         "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 365185,
       "name": "Christ Our King - Live From Camp",
       "url": "https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Rescue",
+        "url": "https://open.spotify.com/album/49sgj5TsAza6TkXow8DQWa"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "duration_ms": 221403,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        }
-      ],
-      "duration_ms": 241951,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "Fear No More EP",
         "url": "https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/5VTWQeTAZGa6c5ZWRDN3oo"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 241951,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1647,6 +1647,30 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "No Longer Slaves (Radio Version) [feat. Jonathan David Helser & Melissa Helser]",
+        "url": "https://open.spotify.com/album/3R0kFFdsc82KAmQlH1WqG0"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "duration_ms": 247677,
+      "name": "No Longer Slaves (Radio Version) [feat. Jonathan David Helser & Melissa Helser]",
+      "url": "https://open.spotify.com/track/37sWianweYMt42ZoSABn6y"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "The Free World, Vol. 1",
         "url": "https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg"
       },
@@ -1675,30 +1699,6 @@
       "duration_ms": 196173,
       "name": "Even Then",
       "url": "https://open.spotify.com/track/1y6Xu9iSTxUeUjDJyfu61e"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "No Longer Slaves (Radio Version) [feat. Jonathan David Helser & Melissa Helser]",
-        "url": "https://open.spotify.com/album/3R0kFFdsc82KAmQlH1WqG0"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 247677,
-      "name": "No Longer Slaves (Radio Version) [feat. Jonathan David Helser & Melissa Helser]",
-      "url": "https://open.spotify.com/track/37sWianweYMt42ZoSABn6y"
     },
     {
       "added_at": "2025-12-13 23:46:05",

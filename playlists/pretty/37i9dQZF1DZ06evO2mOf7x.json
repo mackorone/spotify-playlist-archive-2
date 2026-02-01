@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47022,
+  "num_followers": 47029,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAADZUKdu4E3ZI5dROghShiwf",
+  "snapshot_id": "aXv0gAAAAADbn0tuOej5WzcJteCmeFAM",
   "tracks": [
     {
       "added_at": null,
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ven a Cantar",
-        "url": "https://open.spotify.com/album/3HzOOi5kJxfrCpbX96L82F"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 261497,
-      "name": "Ven a Cantar",
-      "url": "https://open.spotify.com/track/5mldPrwCyzAlq9fNsi5aYg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor y Veneno",
         "url": "https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 209732,
       "name": "Amor y Veneno",
       "url": "https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ven a Cantar",
+        "url": "https://open.spotify.com/album/3HzOOi5kJxfrCpbX96L82F"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 261497,
+      "name": "Ven a Cantar",
+      "url": "https://open.spotify.com/track/5mldPrwCyzAlq9fNsi5aYg"
     },
     {
       "added_at": null,

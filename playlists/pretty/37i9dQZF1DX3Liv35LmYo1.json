@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 2018,
+  "num_followers": 2022,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -439,18 +439,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+        "name": "Halcyon (30 Something) [Remixes]",
+        "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
       },
       "artists": [
         {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
         }
       ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
+      "duration_ms": 292987,
+      "name": "Halcyon & On - Logic1000 Mix",
+      "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -471,22 +475,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Halcyon (30 Something) [Remixes]",
-        "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
       },
       "artists": [
         {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        },
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
         }
       ],
-      "duration_ms": 292987,
-      "name": "Halcyon & On - Logic1000 Mix",
-      "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Coasting",
-        "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
-      },
-      "artists": [
-        {
-          "name": "Achingdrum",
-          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "Coasting",
-      "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Push Power ( a 1 )",
         "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 249261,
       "name": "Push Power ( a 1 )",
       "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Coasting",
+        "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
+      },
+      "artists": [
+        {
+          "name": "Achingdrum",
+          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Unsolicited Joints",
-        "url": "https://open.spotify.com/album/4voAyhSEWcXAiNCqeYcv3r"
+        "name": "Minoxidil Life crisis",
+        "url": "https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3"
       },
       "artists": [
         {
-          "name": "Unsolicited Joints",
-          "url": "https://open.spotify.com/artist/7p5UQv94mUY8N9MSvJshlB"
+          "name": "Morgan Wright",
+          "url": "https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7"
         }
       ],
-      "duration_ms": 378461,
-      "name": "Joint 2",
-      "url": "https://open.spotify.com/track/6ReMJ5usS97047qn4aohMz"
+      "duration_ms": 314504,
+      "name": "Minoxidil Life crisis",
+      "url": "https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha"
     }
   ],
   "unique_name": "Night Shift",

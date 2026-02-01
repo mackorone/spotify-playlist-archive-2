@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 136901,
       "name": "Boca X2",
       "url": "https://open.spotify.com/track/3r7RFeDHm1VZDVZpmpRCz8"
@@ -3483,6 +3483,28 @@
     },
     {
       "album": {
+        "name": "Just Feel Me",
+        "url": "https://open.spotify.com/album/1pGyDBBEYlMOlqeZy2axu0"
+      },
+      "artists": [
+        {
+          "name": "LMLTM",
+          "url": "https://open.spotify.com/artist/0uKwNVVupedJeBbIuvXBG2"
+        },
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181413,
+      "name": "Hello Kitty",
+      "url": "https://open.spotify.com/track/6gyhZ6bMdy7FDTYCeqgwec"
+    },
+    {
+      "album": {
         "name": "Helma",
         "url": "https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx"
       },
@@ -4986,6 +5008,24 @@
       "duration_ms": 187401,
       "name": "Ma M\u00e8re",
       "url": "https://open.spotify.com/track/7olBJXnUt6te4YGhDd8OPW"
+    },
+    {
+      "album": {
+        "name": "Mab9ach",
+        "url": "https://open.spotify.com/album/7bn1o0H5SCp0hqlGPwzXzN"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147826,
+      "name": "Mab9ach",
+      "url": "https://open.spotify.com/track/7lQ1yvzd4Cxxmo3ORpT99C"
     },
     {
       "album": {
@@ -8328,7 +8368,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 126956,
       "name": "Twam Mafyouzi",
       "url": "https://open.spotify.com/track/5m0WDhOtaCO4yCoy8bqOy7"

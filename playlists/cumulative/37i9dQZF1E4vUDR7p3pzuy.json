@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 200640,
       "name": "(Just Like) Arcadia",
       "url": "https://open.spotify.com/track/52GaMDUrRxzTpd1r7VYqCl"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 199398,
       "name": "A Fool",
       "url": "https://open.spotify.com/track/4SsTepEkOqfwbNbt4cY4ZS"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 271388,
       "name": "Blind",
       "url": "https://open.spotify.com/track/4jhV1n0o9UDs0AWdqsow6R"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 280276,
       "name": "Cries from Heaven",
       "url": "https://open.spotify.com/track/3sqevh7Usx16zG831a4BDK"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Discipline",
       "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 229573,
       "name": "Galactic Tides",
       "url": "https://open.spotify.com/track/4iR5tmTE8GsxaH0PjYsJIN"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 231000,
       "name": "Got a Letter",
       "url": "https://open.spotify.com/track/4AeTNIe8ncxsCSOiY94JGn"
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -2149,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "Heroes + Legends",
+        "url": "https://open.spotify.com/album/50SAuWHcP6D6W1PGa5IWB1"
+      },
+      "artists": [
+        {
+          "name": "Omnesia",
+          "url": "https://open.spotify.com/artist/5F6GIhIqbuqyIzi8gF8weP"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240953,
+      "name": "Heroes + Legends",
+      "url": "https://open.spotify.com/track/4G0ocrIIcqnYYpnCoeIsEZ"
+    },
+    {
+      "album": {
         "name": "Hit The Floor",
         "url": "https://open.spotify.com/album/6QljszzGUK8HaXFUnnlher"
       },
@@ -2200,6 +2218,24 @@
       "duration_ms": 209741,
       "name": "Hollywood Horror Story",
       "url": "https://open.spotify.com/track/7LqAhnED7L0qUrlsKsJZAe"
+    },
+    {
+      "album": {
+        "name": "Holy Gasoline (Edit)",
+        "url": "https://open.spotify.com/album/6EpylYAowc3qpI4IkuwbAq"
+      },
+      "artists": [
+        {
+          "name": "giglinger",
+          "url": "https://open.spotify.com/artist/0Tfa8OzRrLJOHhwOtC0H3p"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "Holy Gasoline - Edit",
+      "url": "https://open.spotify.com/track/49bFx42WNt6Cha7VpwdqQQ"
     },
     {
       "album": {
@@ -2290,7 +2326,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 219511,
       "name": "I can't sleep",
       "url": "https://open.spotify.com/track/5Ccro6iY3KDNOvsvNZsdtv"
@@ -2344,7 +2380,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 387527,
       "name": "I Got It Bad",
       "url": "https://open.spotify.com/track/2vwG74jskPYPrZaKu24XAy"
@@ -2972,7 +3008,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Lena",
       "url": "https://open.spotify.com/track/1GP8hd4auBi1Uvg5q0Ng9h"
@@ -3070,7 +3106,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 236615,
       "name": "Long Distance to Go",
       "url": "https://open.spotify.com/track/5CpzD2bjv4G7R7xZsg7jCL"
@@ -3514,7 +3550,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 230975,
       "name": "never enough",
       "url": "https://open.spotify.com/track/3xOGzJzfPKYLVSk1MF9Zrl"
@@ -4010,7 +4046,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 190480,
       "name": "Quiet Ones",
       "url": "https://open.spotify.com/track/3g3i3u2CY5DFNDEc5BNHnH"
@@ -4046,7 +4082,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 211636,
       "name": "Rain world",
       "url": "https://open.spotify.com/track/4p1xHVaSdJA5jQCu7gGfDB"
@@ -4122,7 +4158,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 256777,
       "name": "Red and Gold",
       "url": "https://open.spotify.com/track/0FDQYEOZpOerg4dFVgjvP9"
@@ -5266,7 +5302,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 234320,
       "name": "Things Have Changed - Radio Edit",
       "url": "https://open.spotify.com/track/0LmikJOYvaLdWcQCZWNHUU"
@@ -5396,7 +5432,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 253456,
       "name": "Time",
       "url": "https://open.spotify.com/track/6E2d2GMw6cAp9Tla3V9VRM"
@@ -5472,7 +5508,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Tr\u00e4nen Aus Blut",
       "url": "https://open.spotify.com/track/0sXugNYXjDsLXzc5X8bpQi"
@@ -5646,7 +5682,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 266853,
       "name": "Wait for a Day",
       "url": "https://open.spotify.com/track/79WwDikRFMbWwdYiW8uvzk"
@@ -5852,7 +5888,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"
@@ -5874,7 +5910,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"

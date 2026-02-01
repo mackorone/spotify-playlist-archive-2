@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37651,
+  "num_followers": 37653,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAADHsBm650zFXAQAOF5IqomW",
+  "snapshot_id": "aXv0gAAAAAAcYED17GpyhthpccZwy+n1",
   "tracks": [
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 373933,
-      "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Louvarei (Ao Vivo)",
         "url": "https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 334656,
       "name": "Te Louvarei - Ao Vivo",
       "url": "https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 373933,
+      "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 345698,
-      "name": "Alvo Mais que a Neve",
-      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
+      "duration_ms": 411364,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 411364,
-      "name": "A Cura",
-      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
+      "duration_ms": 345698,
+      "name": "Alvo Mais que a Neve",
+      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+        "name": "For\u00e7a Imensa",
+        "url": "https://open.spotify.com/album/0qLMGkSjgjqzCb0BZzvXXQ"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 321549,
-      "name": "N\u00e3o Negue a Jesus",
-      "url": "https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX"
+      "duration_ms": 302927,
+      "name": "Igreja Pequena",
+      "url": "https://open.spotify.com/track/3inLgXi9DzkUMtj5CPPi6p"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For\u00e7a Imensa",
-        "url": "https://open.spotify.com/album/0qLMGkSjgjqzCb0BZzvXXQ"
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 302927,
-      "name": "Igreja Pequena",
-      "url": "https://open.spotify.com/track/3inLgXi9DzkUMtj5CPPi6p"
+      "duration_ms": 321549,
+      "name": "N\u00e3o Negue a Jesus",
+      "url": "https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX"
     },
     {
       "added_at": null,

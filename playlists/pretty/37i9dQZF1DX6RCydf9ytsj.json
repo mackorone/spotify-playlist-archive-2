@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 719516,
+  "num_followers": 719701,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The First Of A Million Kisses",
-        "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
-      },
-      "artists": [
-        {
-          "name": "Fairground Attraction",
-          "url": "https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Just Sylvia",
         "url": "https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 201908,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "The First Of A Million Kisses",
+        "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
+      },
+      "artists": [
+        {
+          "name": "Fairground Attraction",
+          "url": "https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "I'll Still Be Loving You",
-      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Milestones- Greatest Hits",
         "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 209466,
       "name": "Daddy's Hands",
       "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "I'll Still Be Loving You",
+      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Forester Sisters",
-        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
-      },
-      "artists": [
-        {
-          "name": "The Forester Sisters",
-          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "Mama's Never Seen Those Eyes",
-      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "The Essential Jerry Reed",
         "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 196173,
       "name": "She Got the Goldmine (I Got the Shaft)",
       "url": "https://open.spotify.com/track/0AbYscoIblUGiNqn2Iw6fq"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "The Forester Sisters",
+        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
+      },
+      "artists": [
+        {
+          "name": "The Forester Sisters",
+          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "Mama's Never Seen Those Eyes",
+      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
     },
     {
       "added_at": "2024-10-14 21:15:40",

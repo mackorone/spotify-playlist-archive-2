@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-6,695 songs - 15 day 10 hr 19 min
+6,696 songs - 15 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2014,7 +2014,7 @@
 | [Extraordinary Wings](https://open.spotify.com/track/0AhGvGEGReufQjUf1F63H7) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Extraordinary Wings](https://open.spotify.com/album/5e0XCIe5lOajksC70PMlMX) | 5:06 | 2025-01-09 | 2025-01-18 |
 | [Extraterrestre \(feat\. Dani Fernández\)](https://open.spotify.com/track/5sH0eeQR4CY2U4oNK3HZd2) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Extraterrestre \(feat\. Dani Fernández\)](https://open.spotify.com/album/2N3lSXfdnvC10lkPre0wFS) | 3:20 | 2025-01-10 | 2025-01-18 |
 | [Ey Bae Bae](https://open.spotify.com/track/43CF73k2GdyDrF9ruxKk8m) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Cómo coronar a un rey sin cabeza](https://open.spotify.com/album/4eJNUUgn1ImnSVx4TCZYWV) | 2:25 | 2025-07-18 | 2025-07-26 |
-| [eye contact \(feat\. Council\)](https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ), [Council](https://open.spotify.com/artist/3N7z79Am2V9dxOxd8K2HVo) | [eye contact \(feat\. Council\)](https://open.spotify.com/album/6z9iFDIEPBgrDp1fpwqRHN) | 3:06 | 2026-01-30 |  |
+| [eye contact \(feat\. Council\)](https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ), [Council](https://open.spotify.com/artist/0bX0GFeupnom6eHF7hJw62) | [eye contact \(feat\. Council\)](https://open.spotify.com/album/6z9iFDIEPBgrDp1fpwqRHN) | 3:06 | 2026-01-30 |  |
 | [Eye Contact High](https://open.spotify.com/track/0f0zRRBVMQ73clwRnYiYaG) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Fate & Alcohol](https://open.spotify.com/album/6wVB0HHN4WuzbsMHAnfMIo) | 2:29 | 2024-10-18 | 2024-10-26 |
 | [Eyes Closed](https://open.spotify.com/track/7dTZ0dEnpFed6ohli3g5NE) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Eyes Closed](https://open.spotify.com/album/6GTw2AKd5RhtzkMQ9utnGJ) | 2:57 | 2025-10-30 | 2025-11-08 |
 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 | 2025-10-10 | 2025-10-18 |
@@ -2839,6 +2839,7 @@
 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 | 2024-05-10 | 2024-05-18 |
 | [If U Want My Heart \(Ft\. KLP\)](https://open.spotify.com/track/6xLcLWmWW2Kle7zacIIT5A) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [If U Want My Heart \(Ft\. KLP\)](https://open.spotify.com/album/1MW85rBJDHzpDIu4rtKPez) | 3:23 | 2025-07-25 | 2025-08-02 |
 | [IGLOO](https://open.spotify.com/track/1l8418sJErDynswgmktDEI) | [CANTEO!](https://open.spotify.com/artist/5wuRxXOBRZ1Zt0EvCi7xis) | [IGLOO](https://open.spotify.com/album/01vCw322NDzw14Ebl00gEQ) | 4:12 | 2024-11-21 | 2024-11-30 |
+| [IGNORANDO SEÑALES](https://open.spotify.com/track/1Jxg2MMugsTlDEhQlzb4ty) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [QUIZÁS INCLUSO MAÑANA](https://open.spotify.com/album/3JXZ0QjLuS1sjPIS5LV41G) | 2:24 | 2026-01-31 |  |
 | [Igual hemos roto y no me he enterado](https://open.spotify.com/track/5gI2xygyWzvud4zTn8BZhk) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Igual hemos roto y no me he enterado](https://open.spotify.com/album/0RJIItCjiGEGT440zHtWnt) | 3:02 | 2024-09-06 | 2024-09-14 |
 | [Igual, amor](https://open.spotify.com/track/0VGuZL4dPln4GSYRg9kG53) | [Perdón](https://open.spotify.com/artist/6rvuyWGNXKoO2dyYy3VgM6) | [Igual, amor](https://open.spotify.com/album/4XP7fhJZTKUP0gZoh5Em2K) | 2:19 | 2024-04-26 | 2024-05-10 |
 | [II Remember](https://open.spotify.com/track/7kQlovp6BedLpzgnQ0fBkA) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 4:05 | 2025-01-31 | 2025-02-08 |

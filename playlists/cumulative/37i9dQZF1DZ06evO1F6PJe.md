@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-218 songs - 18 hr 46 min
+219 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Four Day Creep](https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Four Day Creep](https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW) | 3:52 | 2024-01-27 | 2025-04-27 |
 | [Further On Up the Road \- Live](https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Joe Bonamassa Live from the Royal Albert Hall](https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd) | 5:44 | 2022-08-05 |  |
 | [Get Back My Tomorrow](https://open.spotify.com/track/6muehQlPjXMjgTwssII7bO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades Of Blue \(Overdrive\)](https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg) | 4:46 | 2024-11-09 | 2024-11-10 |
+| [Ghetto Woman](https://open.spotify.com/track/62zsH5Ae3qcR5LPmg1714N) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv) | [Ghetto Woman](https://open.spotify.com/album/1qvVRgEiiuObWJZEe9Wav4) | 5:07 | 2026-02-01 |  |
 | [Going Down \(Live\)](https://open.spotify.com/track/46aW1XoxfDLztY4mSdLyGs) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 6:13 | 2022-08-17 | 2022-10-13 |
 | [Hanging On A Loser](https://open.spotify.com/track/6B4KDiLeMu7RveS2W3IOWI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 4:17 | 2022-08-05 | 2023-12-14 |
 | [Happier Times](https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:40 | 2024-09-09 |  |
@@ -213,7 +214,7 @@
 | [We're All In This Together](https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [We're All In This Together](https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw) | 7:57 | 2022-08-05 |  |
 | [Well, I Done Got Over It](https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Well, I Done Got Over It](https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7) | 2:54 | 2023-07-15 |  |
 | [Well, I Done Got Over It](https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 2:54 | 2023-11-10 | 2025-07-20 |
-| [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 | 2022-08-05 |  |
+| [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 | 2022-08-05 | 2026-02-01 |
 | [When Love Comes To Town](https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [When Love Comes To Town](https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3) | 4:11 | 2025-12-17 |  |
 | [When Love Comes To Town](https://open.spotify.com/track/65K5MkheeKyH9L4fhPqCu5) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [B.B\. King's Blues Summit 100, Vol\. IV](https://open.spotify.com/album/6GJ8cjx6k5RkpzbHx0HGiL) | 4:11 | 2025-12-14 | 2026-01-15 |
 | [When One Door Opens \(Overture\) \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/1JDy4xbecC2sU55T1Uz10R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 2:00 | 2024-06-30 | 2024-07-21 |

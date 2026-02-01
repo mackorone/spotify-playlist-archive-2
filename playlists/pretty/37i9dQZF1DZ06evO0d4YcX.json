@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 15874,
+  "num_followers": 15878,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAAAKy6q6NNXaneePZsYYqIYW",
+  "snapshot_id": "aXv0gAAAAAAx94BZ7fvHyATtktrkblRJ",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2"
+        "name": "What If",
+        "url": "https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q"
       },
       "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 174396,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/0ChXlpQEMGYU0HLNjGXqCR"
+      "duration_ms": 215239,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR"
     },
     {
       "added_at": null,
@@ -199,18 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q"
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2"
       },
       "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 215239,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR"
+      "duration_ms": 174396,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/0ChXlpQEMGYU0HLNjGXqCR"
     },
     {
       "added_at": null,

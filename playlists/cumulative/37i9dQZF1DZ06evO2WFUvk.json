@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Learning to Climb",
+        "url": "https://open.spotify.com/album/1wjrdSKG4wOqSqyXqrxF3A"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184830,
+      "name": "Learning to Climb",
+      "url": "https://open.spotify.com/track/6Biqaf8r3N0NiRxXFp1Kga"
+    },
+    {
+      "album": {
         "name": "Aventuras En el Defe",
         "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
       },

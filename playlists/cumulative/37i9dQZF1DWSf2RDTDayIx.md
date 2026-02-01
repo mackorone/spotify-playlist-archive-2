@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-506 songs - 1 day 2 hr 50 min
+507 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Daybreak \(feat\. The Knocks\)](https://open.spotify.com/track/0ynPUHpdm11TcLZrA0cUTO) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Daybreak](https://open.spotify.com/album/6NPBWNiI7LfhG9sZLEBsJm) | 4:10 | 2021-12-03 | 2022-01-08 |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-06-17 |  |
 | [Deja Vu](https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Deja Vu](https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY) | 3:18 | 2021-12-03 | 2024-09-07 |
-| [Devotion \(feat\. TEED\)](https://open.spotify.com/track/6wgm6R3hGR820RHkX1cfTr) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 3:38 | 2025-09-05 |  |
+| [Devotion \(feat\. TEED\)](https://open.spotify.com/track/6wgm6R3hGR820RHkX1cfTr) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 3:38 | 2025-09-05 | 2026-02-01 |
 | [Disco Inferno](https://open.spotify.com/track/7qhFWlQpahKJT9LcL6qTH4) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ), [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Disco Inferno](https://open.spotify.com/album/4lVZr7UdF9hRTsnXiVQCRo) | 2:11 | 2022-04-15 |  |
 | [DNA](https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [DNA](https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO) | 2:57 | 2022-07-29 | 2024-09-24 |
 | [DNA](https://open.spotify.com/track/41za80kTVaQpZwtPfPtPYB) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 2:57 | 2023-10-27 | 2024-04-19 |
@@ -240,6 +240,7 @@
 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 | 2022-07-22 | 2022-09-26 |
 | [Just Can't Get Enough](https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic) | 5:03 | 2023-01-06 | 2023-08-24 |
 | [Just Sayin'](https://open.spotify.com/track/3iEdgCfsmUIRWDuW7PMLCL) | [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Madds](https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy), [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a) | [Just Sayin'](https://open.spotify.com/album/7qP5OmCyxU9ETMaadj2h9x) | 3:18 | 2021-12-03 | 2022-01-08 |
+| [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 | 2026-01-30 |  |
 | [Keep On Rising](https://open.spotify.com/track/5EO3XfmUHzdeGq3XCue8YP) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Keep On Rising](https://open.spotify.com/album/26qaW7TcD4ktLQztHU3pda) | 3:27 | 2022-04-29 | 2026-01-23 |
 | [Kingdom](https://open.spotify.com/track/7mYp88qI0fTKLWr93vHTJM) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Kingdom](https://open.spotify.com/album/7vYDaAmX76hkgdwuWyGga2) | 4:00 | 2021-12-03 | 2022-01-08 |
 | [Kingdoms](https://open.spotify.com/track/1w7AnnTldbh47eNFwReiIn) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Kingdoms](https://open.spotify.com/album/5Mx2xEa6vEKmAhOqe1ixQY) | 2:23 | 2021-12-03 | 2022-01-08 |

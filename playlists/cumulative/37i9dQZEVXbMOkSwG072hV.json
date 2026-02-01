@@ -10751,6 +10751,36 @@
     },
     {
       "album": {
+        "name": "Blogueira Do Tigrin",
+        "url": "https://open.spotify.com/album/7fgoAj1ybhXsbRkuskFzJo"
+      },
+      "artists": [
+        {
+          "name": "DJ Gustavo Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/0lmGPNLouKEkENDuIrIvtR"
+        },
+        {
+          "name": "DJ IBIAQUI",
+          "url": "https://open.spotify.com/artist/1k4aTCqGvkLyZqy1FM8sPo"
+        },
+        {
+          "name": "MC C4",
+          "url": "https://open.spotify.com/artist/3pyz96JCKHG8Z68MfuzGoo"
+        },
+        {
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127776,
+      "name": "Blogueira Do Tigrin",
+      "url": "https://open.spotify.com/track/3spjNLO1XN3Lz7rK5UELSK"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
@@ -27708,7 +27738,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 148561,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/4V2rUOmaevK0C1bKAkeFf5"
@@ -36296,7 +36326,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
@@ -49199,6 +49229,32 @@
     },
     {
       "album": {
+        "name": "Montagem - Calafrio",
+        "url": "https://open.spotify.com/album/1uaBaJaRHrnFF3br7cDJq1"
+      },
+      "artists": [
+        {
+          "name": "DJ KN DE VILA VELHA",
+          "url": "https://open.spotify.com/artist/603VnhQ48nW8ip2g2GtcOt"
+        },
+        {
+          "name": "TDK Rec",
+          "url": "https://open.spotify.com/artist/7xlfzmvOVlZ65oSIv9vvBd"
+        },
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "Montagem - Calafrio",
+      "url": "https://open.spotify.com/track/3Vlb046ateZv3zatIqMm5P"
+    },
+    {
+      "album": {
         "name": "Montagem - Conga Conga (Remix)",
         "url": "https://open.spotify.com/album/1PNplJIKoEDSa3GfgMluKu"
       },
@@ -57790,7 +57846,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 188374,
       "name": "OF\u00c9LIA - A SINA DE OF\u00c9LIA - Radio Edit",
       "url": "https://open.spotify.com/track/6pZY6PvunvjJweOqtnNIcn"
@@ -74080,7 +74136,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 205639,
       "name": "Sina de Of\u00e9lia",
       "url": "https://open.spotify.com/track/6bAPjDuy2ibWBWFqulV54V"
@@ -81227,6 +81283,36 @@
     },
     {
       "album": {
+        "name": "Todo Homem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0mRzDiuNG27w17jXvO2Udw"
+      },
+      "artists": [
+        {
+          "name": "Zeca Veloso",
+          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        },
+        {
+          "name": "Tom Veloso",
+          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216780,
+      "name": "Todo Homem - Ao Vivo",
+      "url": "https://open.spotify.com/track/3YhZmqOIDldFyMDsHGUkbG"
+    },
+    {
+      "album": {
         "name": "Todo Mundo Menos Eu (Ao Vivo)",
         "url": "https://open.spotify.com/album/50swQR5HVBhgawCQSyUSrK"
       },
@@ -87336,7 +87422,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 181839,
       "name": "Voltei Mais Forte",
       "url": "https://open.spotify.com/track/3gjAnZHQkJAUp0bl1DGGQ5"

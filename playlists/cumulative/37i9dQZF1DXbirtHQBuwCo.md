@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: <br/>DIMO REX\)
 
-891 songs - 1 day 23 hr 5 min
+892 songs - 1 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 | 2025-05-20 |  |
 | [Empty cup \(feat\. OLNL\)](https://open.spotify.com/track/0aFtrI1ULAEx7F5Xw1WhoL) | [Baneul 바늘](https://open.spotify.com/artist/5xIzk6DGZeavSBU8iI9vrW), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [Empty cup \(feat\. OLNL\)](https://open.spotify.com/album/143JvNY8kNbp0NPfpLlpL6) | 4:20 | 2022-04-19 | 2022-04-21 |
 | [Encourage](https://open.spotify.com/track/4yitm2JyWU6MvIXkVeAzej) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Encourage](https://open.spotify.com/album/5krAfT1ml81CaLIPDZVwZ9) | 3:31 | 2022-04-22 | 2022-06-27 |
-| [Endless story \(feat\. TRADE L\)](https://open.spotify.com/track/2XAYYibwjdqJMmDe3FM4wa) | [YOUNGJOO](https://open.spotify.com/artist/1nLn5ZeWUlNQuxva3WZGfp), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [Endless story](https://open.spotify.com/album/0RQ4fZ4xFEcMUi3s04NkKu) | 3:19 | 2026-01-20 |  |
+| [Endless story \(feat\. TRADE L\)](https://open.spotify.com/track/2XAYYibwjdqJMmDe3FM4wa) | [YOUNGJOO](https://open.spotify.com/artist/1nLn5ZeWUlNQuxva3WZGfp), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [Endless story](https://open.spotify.com/album/0RQ4fZ4xFEcMUi3s04NkKu) | 3:19 | 2026-01-20 | 2026-02-01 |
 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 | 2025-08-20 | 2025-10-23 |
 | [Enough \(prod\. APRO\)](https://open.spotify.com/track/2jVUq760yHNIYtYoVFLbK1) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [정유미](https://open.spotify.com/artist/2Ul0NBshcBFPOy5Sth8w7t), [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O) | [Enough](https://open.spotify.com/album/2fRLICt6oO6ut0IkerAWPr) | 3:03 | 2022-04-19 | 2022-07-27 |
 | [Enough \(Prod\. Primary\)](https://open.spotify.com/track/3LJZMmngKDvo1X04dBYG0J) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [Little Women, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/58xp3aLV0FLfzuQAg4HKe3) | 3:45 | 2022-09-20 | 2022-10-08 |
@@ -506,6 +506,7 @@
 | [Mermaid \(Feat\. Ashley Alisha\)](https://open.spotify.com/track/3RnA2ed4bQKVoqmOHyQsAT) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Mermaid](https://open.spotify.com/album/2jRnquNGhs7aab6mzdBVK2) | 2:17 | 2022-11-22 | 2022-12-06 |
 | [MERRY GO ROUND](https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [MERRY GO ROUND](https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM) | 3:20 | 2022-09-05 | 2022-09-17 |
 | [merry merry](https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [merry merry](https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q) | 2:45 | 2022-12-09 | 2023-01-11 |
+| [Message \(with Gist\)](https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL) | [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Message \(with Gist\)](https://open.spotify.com/album/3yUzjFo7J9UHdxUeYrkpeW) | 2:50 | 2026-01-31 |  |
 | [Microphone](https://open.spotify.com/track/4qaVcA4yzqG1dlGNdvyTh4) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:16 | 2022-07-07 | 2022-07-23 |
 | [Mileage \(Feat\. Gaeko\)](https://open.spotify.com/track/4XoEsmqX5CQ4y1xT19T92m) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Mileage](https://open.spotify.com/album/5d9ateKsiHjEd3c17Yd376) | 3:04 | 2024-09-06 | 2024-09-20 |
 | [MIRROR](https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Flash and Core](https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N) | 3:08 | 2025-10-03 | 2025-11-04 |

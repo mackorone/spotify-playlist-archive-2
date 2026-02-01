@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 158105,
+  "num_followers": 158121,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAAChOGzWqCiioB/TcC8Hny9R",
+  "snapshot_id": "aXv0gAAAAADPgkYDoKCCjWY63W+S63Xd",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 174046,
-      "name": "Mis Canciones de Amor - Remastered 2025",
-      "url": "https://open.spotify.com/track/1hvY2zM7APQW1H0AazMc4x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinverg\u00fcenza Y Mujeriego",
         "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 206309,
       "name": "Los Amantes",
       "url": "https://open.spotify.com/track/40G5sjVX47PG8LMMigxyJH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 174046,
+      "name": "Mis Canciones de Amor - Remastered 2025",
+      "url": "https://open.spotify.com/track/1hvY2zM7APQW1H0AazMc4x"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 209374,
-      "name": "Adi\u00f3s Mi Vida",
-      "url": "https://open.spotify.com/track/0T64rl0btWefSvCJIEPnZm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinverg\u00fcenza Y Mujeriego",
         "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 206843,
       "name": "Unidos Para Amarnos",
       "url": "https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 209374,
+      "name": "Adi\u00f3s Mi Vida",
+      "url": "https://open.spotify.com/track/0T64rl0btWefSvCJIEPnZm"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 251994,
-      "name": "No Llores Mis Recuerdos",
-      "url": "https://open.spotify.com/track/0rUYYUjhjxQDE2Zc6tDK5A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis \u00cddolos, Hoy Mis Amigos!!!",
         "url": "https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 195293,
       "name": "Hay Amores",
       "url": "https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 251994,
+      "name": "No Llores Mis Recuerdos",
+      "url": "https://open.spotify.com/track/0rUYYUjhjxQDE2Zc6tDK5A"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "Ojal\u00e1 Sea Cierto",
+      "url": "https://open.spotify.com/track/6RL91YY0Kf24NeHHjwdaeb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuenta Conmigo",
         "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 182613,
       "name": "Te Amo Y Te Lo Digo",
       "url": "https://open.spotify.com/track/6HQTfGCo5O2itJ25D1yytt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 207934,
-      "name": "Al Final De Tu Camino",
-      "url": "https://open.spotify.com/track/23IZObD629IXwpPEyDM3RL"
     },
     {
       "added_at": null,
@@ -439,8 +439,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
+        "name": "Inv\u00e9ntame Un Amor",
+        "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Mariachi Santa Mar\u00eda",
+          "url": "https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ"
+        }
+      ],
+      "duration_ms": 241359,
+      "name": "Inv\u00e9ntame Un Amor",
+      "url": "https://open.spotify.com/track/0TsfSmAtQig4YnIlISqVmw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
       "artists": [
         {
@@ -448,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 206239,
-      "name": "Vuelve Por Favor",
-      "url": "https://open.spotify.com/track/4ZMlISnhTmLaAbWIngyU8O"
+      "duration_ms": 207934,
+      "name": "Al Final De Tu Camino",
+      "url": "https://open.spotify.com/track/23IZObD629IXwpPEyDM3RL"
     },
     {
       "added_at": null,
@@ -471,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "Ojal\u00e1 Sea Cierto",
-      "url": "https://open.spotify.com/track/6RL91YY0Kf24NeHHjwdaeb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Canciones de Amor (Remastered 2025)",
         "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
       },
@@ -503,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inv\u00e9ntame Un Amor",
-        "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Mariachi Santa Mar\u00eda",
-          "url": "https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ"
         }
       ],
-      "duration_ms": 241359,
-      "name": "Inv\u00e9ntame Un Amor",
-      "url": "https://open.spotify.com/track/0TsfSmAtQig4YnIlISqVmw"
+      "duration_ms": 206239,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/4ZMlISnhTmLaAbWIngyU8O"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Historia De Un Amor",
+        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Vagabundo Que Te Ama",
         "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Historia De Un Amor",
-        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superlameando",
         "url": "https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 145786,
-      "name": "El Vagabundo Que Te Ama",
-      "url": "https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ignoraste mis L\u00e1grimas",
         "url": "https://open.spotify.com/album/6lOgMbZ0srl0VxkBAf7Rvy"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 178527,
       "name": "Ignoraste mis L\u00e1grimas",
       "url": "https://open.spotify.com/track/6b0CVkwv2COK0Xd7wyWy77"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 145786,
+      "name": "El Vagabundo Que Te Ama",
+      "url": "https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amarte A La Medida",
-        "url": "https://open.spotify.com/album/2pzae7PbWoSasY5bgvMwQ4"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 196416,
-      "name": "Amarte A La Medida",
-      "url": "https://open.spotify.com/track/2Fi1qapMrYHXPk8n3NfMTI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo O Nada",
         "url": "https://open.spotify.com/album/1TUOGsKIg3CKeiGbIFzHdz"
       },
@@ -783,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 185736,
-      "name": "De Frente Al Mar",
-      "url": "https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vuelve Por Favor",
         "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
       },
@@ -811,6 +775,42 @@
       "duration_ms": 156920,
       "name": "Cuando Nadie Te Quiera",
       "url": "https://open.spotify.com/track/7siDteg05QhOq4fRlRLXO8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amarte A La Medida",
+        "url": "https://open.spotify.com/album/2pzae7PbWoSasY5bgvMwQ4"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 196416,
+      "name": "Amarte A La Medida",
+      "url": "https://open.spotify.com/track/2Fi1qapMrYHXPk8n3NfMTI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 185736,
+      "name": "De Frente Al Mar",
+      "url": "https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG"
     },
     {
       "added_at": null,

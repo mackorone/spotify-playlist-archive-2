@@ -3989,6 +3989,24 @@
     },
     {
       "album": {
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/5XnGqduLs9TKkjhKolDhtB"
+      },
+      "artists": [
+        {
+          "name": "Remnant House",
+          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159204,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/2VtQ4TnLxooGfv89IC3Qc3"
+    },
+    {
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
       },
@@ -10278,7 +10296,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 166000,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"

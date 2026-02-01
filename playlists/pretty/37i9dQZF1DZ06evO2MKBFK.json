@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 634555,
+  "num_followers": 634557,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAAC7okUn1s0cL5+Eb6GNJPPE",
+  "snapshot_id": "aXv0gAAAAABR9NbVR43+Dk/2/81HYFZ1",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Radar de \u00c9xitos: K-Pop",
+        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Beautiful Hangover",
+      "url": "https://open.spotify.com/track/0NRpO3bfCBOPYd04i5CnRs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 225666,
       "name": "Fool",
       "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Radar de \u00c9xitos: K-Pop",
-        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Beautiful Hangover",
-      "url": "https://open.spotify.com/track/0NRpO3bfCBOPYd04i5CnRs"
     },
     {
       "added_at": null,

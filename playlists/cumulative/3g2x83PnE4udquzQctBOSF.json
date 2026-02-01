@@ -5569,6 +5569,24 @@
     },
     {
       "album": {
+        "name": "Manguetown",
+        "url": "https://open.spotify.com/album/2ghGvqKtVHKBZmX6NfvDAy"
+      },
+      "artists": [
+        {
+          "name": "Bruno Costa",
+          "url": "https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204960,
+      "name": "Manguetown",
+      "url": "https://open.spotify.com/track/3sUVw4FW3EWWojzv7wfnZE"
+    },
+    {
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
       },

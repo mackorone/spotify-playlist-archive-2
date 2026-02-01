@@ -1,6 +1,6 @@
 {
   "description": "Dedicata a chi non ha rischiato ed \u00e8 sempre andato al massimo  \u26a1\ufe0f",
-  "num_followers": 13148,
+  "num_followers": 13150,
   "original_name": "Sanremo: Schegge Impazzite",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "No, Tu No",
-        "url": "https://open.spotify.com/album/6KZkxbFfmuaWe8EiiRo3S4"
-      },
-      "artists": [
-        {
-          "name": "Enzo Jannacci",
-          "url": "https://open.spotify.com/artist/02tKmsUnu6UIYpTx5Wyle8"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "Se me lo dicevi prima",
-      "url": "https://open.spotify.com/track/7bDDUMonsSUQyvctsj9lg9"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Sincero (feat. Morgan)",
         "url": "https://open.spotify.com/album/1N1j43lLEbPtcH2agEYos7"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 223426,
       "name": "Sincero (feat. Morgan)",
       "url": "https://open.spotify.com/track/6v2eWAtpP4WDrxRDAG9FwL"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "No, Tu No",
+        "url": "https://open.spotify.com/album/6KZkxbFfmuaWe8EiiRo3S4"
+      },
+      "artists": [
+        {
+          "name": "Enzo Jannacci",
+          "url": "https://open.spotify.com/artist/02tKmsUnu6UIYpTx5Wyle8"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "Se me lo dicevi prima",
+      "url": "https://open.spotify.com/track/7bDDUMonsSUQyvctsj9lg9"
     },
     {
       "added_at": "2026-01-25 23:01:07",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Made In Italy",
-        "url": "https://open.spotify.com/album/2GU0jh6JYDm5CZzOwFJBb9"
-      },
-      "artists": [
-        {
-          "name": "Ladri Di Biciclette",
-          "url": "https://open.spotify.com/artist/4xsbbVfhjw1iCPyLKQdKQe"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Sbatti Ben Su Del BeBop",
-      "url": "https://open.spotify.com/track/5Dt3SmukbC11M8p5boi1ss"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "\u00c7a Plane Pour Moi",
         "url": "https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 166666,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "Made In Italy",
+        "url": "https://open.spotify.com/album/2GU0jh6JYDm5CZzOwFJBb9"
+      },
+      "artists": [
+        {
+          "name": "Ladri Di Biciclette",
+          "url": "https://open.spotify.com/artist/4xsbbVfhjw1iCPyLKQdKQe"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Sbatti Ben Su Del BeBop",
+      "url": "https://open.spotify.com/track/5Dt3SmukbC11M8p5boi1ss"
     },
     {
       "added_at": "2026-01-25 23:01:07",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Righeira The 80's Hit Songs",
-        "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 229523,
-      "name": "Innamoratissimo",
-      "url": "https://open.spotify.com/track/6zFbHceSJ23viD2FKoXS06"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Rockmantic Collection",
         "url": "https://open.spotify.com/album/47UVu4TaCdXT12GFQPswt3"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 220293,
       "name": "La bottega del caffe'",
       "url": "https://open.spotify.com/track/4vgziFK1AtMxdnZllyaDnC"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "Righeira The 80's Hit Songs",
+        "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
+      },
+      "artists": [
+        {
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+        }
+      ],
+      "duration_ms": 229523,
+      "name": "Innamoratissimo",
+      "url": "https://open.spotify.com/track/6zFbHceSJ23viD2FKoXS06"
     },
     {
       "added_at": "2026-01-25 23:01:07",

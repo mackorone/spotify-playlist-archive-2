@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 550,
+  "num_followers": 551,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAC+Kt+a1zL9fwzoXZhVtddioEFXICx",
+  "snapshot_id": "AAAC+bGEBTeNeehBQbuDHm6MSvz7B/lS",
   "tracks": [
     {
       "added_at": "2025-12-22 18:56:21",
@@ -683,6 +683,26 @@
       "duration_ms": 236053,
       "name": "Falling into the Void",
       "url": "https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh"
+    },
+    {
+      "added_at": "2026-01-31 20:02:56",
+      "album": {
+        "name": "Was Los",
+        "url": "https://open.spotify.com/album/0n9HJBDelqWOxZrFZqjEfK"
+      },
+      "artists": [
+        {
+          "name": "Willi Eyy",
+          "url": "https://open.spotify.com/artist/4nBqFEM66Gl0kKkKDKDx2t"
+        },
+        {
+          "name": "Krizbo",
+          "url": "https://open.spotify.com/artist/6kIxxuflj0QyD89t9v4SSN"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "Was Los",
+      "url": "https://open.spotify.com/track/0n0VH7jkxUITqDGTVRpBTH"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

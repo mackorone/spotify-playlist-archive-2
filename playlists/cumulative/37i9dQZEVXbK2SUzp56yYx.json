@@ -982,7 +982,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -2114,7 +2114,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -7262,7 +7262,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 199415,
       "name": "Far Away (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/14qNHvX8h6HoynFuV0RxWS"
@@ -10080,7 +10080,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 123297,
       "name": "Highway",
       "url": "https://open.spotify.com/track/5cH4HR1RAMEOS3L3JJPUMi"
@@ -13374,7 +13374,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 201186,
       "name": "LOVE YOU LESS",
       "url": "https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY"
@@ -14364,7 +14364,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 121051,
       "name": "Mercedes Dope",
       "url": "https://open.spotify.com/track/1xIgcnSdbKsXSk9VPo8asf"
@@ -16160,7 +16160,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 228093,
       "name": "My Love \u0422\u0430\u043d\u044e\u0445\u0430",
       "url": "https://open.spotify.com/track/0TzSKCLwNINLyxrYb4X6qo"
@@ -17896,7 +17896,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 343062,
       "name": "Paprika Parade",
       "url": "https://open.spotify.com/track/0wZBhFZsN96Q8fKOnZjoj5"
@@ -24122,7 +24122,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 98149,
       "name": "unhappy",
       "url": "https://open.spotify.com/track/2wa1o5Qnt8aqMcoIB471oY"
@@ -25864,7 +25864,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 89019,
       "name": "why",
       "url": "https://open.spotify.com/track/7e0sd39oELbsd5pG4KTh3G"
@@ -30394,7 +30394,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 203573,
       "name": "\u0414\u0430\u0432\u0430\u0439 \u0441\u043e \u043c\u043d\u043e\u0439 \u0437\u0430 \u0437\u0432\u0451\u0437\u0434\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/0FNdvLOlLpi6YMqjpCD2Yv"
@@ -30987,6 +30987,24 @@
     },
     {
       "album": {
+        "name": "\u0414\u0443\u0440\u043e\u0447\u043a\u0430",
+        "url": "https://open.spotify.com/album/4Vrz4rNWQiA9qJkUNMKsot"
+      },
+      "artists": [
+        {
+          "name": "Murat Thagalegov",
+          "url": "https://open.spotify.com/artist/5maQ7xVuYI2948CcOq6Q4O"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152542,
+      "name": "\u0414\u0443\u0440\u043e\u0447\u043a\u0430",
+      "url": "https://open.spotify.com/track/6wLzQVd5ixYzPTzeVMaY8g"
+    },
+    {
+      "album": {
         "name": "\u0434\u0443\u0448\u0430",
         "url": "https://open.spotify.com/album/5CmWuX2FjNgPyXWPUGnOJz"
       },
@@ -31558,7 +31576,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 150241,
       "name": "\u0417\u0410\u041b\u0415\u0422\u0410\u0420\u0418\u041a\u0418",
       "url": "https://open.spotify.com/track/71rCzvZdS8KrtUg28ISrAU"
@@ -34934,6 +34952,24 @@
       "duration_ms": 132875,
       "name": "\u041d\u0430\u043c \u0441 \u043f\u0430\u0446\u0430\u043d\u0430\u043c\u0438 \u043d\u0430\u0441\u0443\u0432\u0430\u043b\u0438 (CS2)",
       "url": "https://open.spotify.com/track/7kx3jpcOoKIMc2Njes1YHG"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0430\u043e\u0431\u043e\u0440\u043e\u0442",
+        "url": "https://open.spotify.com/album/6E1tuRsKF8oGGPAygWH8U1"
+      },
+      "artists": [
+        {
+          "name": "MiyaGi & Endspiel",
+          "url": "https://open.spotify.com/artist/6L5bLEtpxwd0KOdOr3gtW4"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206153,
+      "name": "\u041d\u0430\u043e\u0431\u043e\u0440\u043e\u0442",
+      "url": "https://open.spotify.com/track/2PUmIysYrKZ4EukmycTOql"
     },
     {
       "album": {
@@ -42146,7 +42182,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 109542,
       "name": "\u0422\u0443\u043f\u043e\u0439",
       "url": "https://open.spotify.com/track/5pOKuJPebDJAr295s5NBTC"

@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 21867,
+  "num_followers": 21885,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "izi 1\uc9d1",
-        "url": "https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8"
-      },
-      "artists": [
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf"
-        }
-      ],
-      "duration_ms": 226548,
-      "name": "\uc751\uae09\uc2e4",
-      "url": "https://open.spotify.com/track/5XVEx1pTUR4T7ABtXoGGxx"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Princess Hours (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 275342,
       "name": "Perhaps Love",
       "url": "https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "izi 1\uc9d1",
+        "url": "https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8"
+      },
+      "artists": [
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf"
+        }
+      ],
+      "duration_ms": 226548,
+      "name": "\uc751\uae09\uc2e4",
+      "url": "https://open.spotify.com/track/5XVEx1pTUR4T7ABtXoGGxx"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cheerful Sensibility",
-        "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
-      },
-      "artists": [
-        {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Smile Again",
         "url": "https://open.spotify.com/album/6PUXZU8KQoiC7PJGHobQ8E"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 253026,
       "name": "\uc0ac\ub791 \uc548\ud574",
       "url": "https://open.spotify.com/track/4wztk2LQD75UzN5UTnFK0E"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Cheerful Sensibility",
+        "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "\uc810\uc810",
-      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "SO COOL",
         "url": "https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 201273,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "\uc810\uc810",
+      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "M.C The Max! Vol.1",
+        "url": "https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T"
+      },
+      "artists": [
+        {
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+        }
+      ],
+      "duration_ms": 408678,
+      "name": "\uc7a0\uc2dc\ub9cc \uc548\ub155",
+      "url": "https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 Best Collection (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 215840,
       "name": "With Coffee\u2026",
       "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "M.C The Max! Vol.1",
-        "url": "https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T"
-      },
-      "artists": [
-        {
-          "name": "M.C the Max",
-          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
-        }
-      ],
-      "duration_ms": 408678,
-      "name": "\uc7a0\uc2dc\ub9cc \uc548\ub155",
-      "url": "https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\ud61c\uc131",
-        "url": "https://open.spotify.com/album/2hGIulY9CjIWsQ8Rqed6fZ"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 194821,
-      "name": "\ud61c\uc131",
-      "url": "https://open.spotify.com/track/1JrzvYMdLqHGBa6jmnBXia"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\uc0b4\ub2e4\uac00",
         "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 243026,
       "name": "\uc8c4\uc640 \ubc8c (\u7f6a\uc640 \u7f70)",
       "url": "https://open.spotify.com/track/2yfD1eKDVlNRxDUE5Q1n3Y"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\ud61c\uc131",
+        "url": "https://open.spotify.com/album/2hGIulY9CjIWsQ8Rqed6fZ"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 194821,
+      "name": "\ud61c\uc131",
+      "url": "https://open.spotify.com/track/1JrzvYMdLqHGBa6jmnBXia"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "It's Different",
-        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
-      },
-      "artists": [
-        {
-          "name": "GUMMY",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
-      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "The 3rd Masterpiece",
         "url": "https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 298237,
       "name": "Partner for Life",
       "url": "https://open.spotify.com/track/1Ud6TKFPVyWIs0dmQhg5iL"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
+      },
+      "artists": [
+        {
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Like Them",
-        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
-      },
-      "artists": [
-        {
-          "name": "GUMMY",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "We Should've Been Friends",
-      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "SOUL FOOD",
         "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 284106,
       "name": "When flowering spring comes",
       "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Like Them",
+        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
+      },
+      "artists": [
+        {
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "We Should've Been Friends",
+      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 255844,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Dropping the Tears",
         "url": "https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 257226,
       "name": "Dropping the Tears",
       "url": "https://open.spotify.com/track/0WHzRzinRoUzW7vX7xhSLD"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 255844,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Type B (1)",
-        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
+        "name": "The Wind, The Sea, The Rain",
+        "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
       },
       "artists": [
         {
-          "name": "Son Dam Bi",
-          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
         }
       ],
-      "duration_ms": 222171,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
+      "duration_ms": 263533,
+      "name": "Nothing Better",
+      "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "The Wind, The Sea, The Rain",
-        "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
+        "name": "Type B (1)",
+        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
       },
       "artists": [
         {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
         }
       ],
-      "duration_ms": 263533,
-      "name": "Nothing Better",
-      "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
+      "duration_ms": 222171,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "fuzz . Buzz",
-        "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/5uPLGc3hT67DBjd7eNFd1L"
       },
       "artists": [
         {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+          "name": "KCM",
+          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
         }
       ],
-      "duration_ms": 253879,
-      "name": "You Don't Know Men",
-      "url": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc"
+      "duration_ms": 234841,
+      "name": "An old love story",
+      "url": "https://open.spotify.com/track/4jknyio1tolPfGu539fE87"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "fuzz . Buzz",
+        "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "duration_ms": 253879,
+      "name": "You Don't Know Men",
+      "url": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "HEY, COME ON! - The 4th Album",
         "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 201866,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Beautiful Mind",
-        "url": "https://open.spotify.com/album/5uPLGc3hT67DBjd7eNFd1L"
-      },
-      "artists": [
-        {
-          "name": "KCM",
-          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
-        }
-      ],
-      "duration_ms": 234841,
-      "name": "An old love story",
-      "url": "https://open.spotify.com/track/4jknyio1tolPfGu539fE87"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

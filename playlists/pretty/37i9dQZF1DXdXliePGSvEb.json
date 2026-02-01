@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 77309,
+  "num_followers": 77318,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "START UP A RUMOUR",
-        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 200207,
-      "name": "START UP A RUMOUR",
-      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs"
+        "name": "START UP A RUMOUR",
+        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
       },
       "artists": [
         {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 249140,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
+      "duration_ms": 200207,
+      "name": "START UP A RUMOUR",
+      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -515,6 +499,22 @@
       "duration_ms": 256920,
       "name": "Romance",
       "url": "https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 249140,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Love Will Win The Day (Take 3 Radio Edit)",
+        "url": "https://open.spotify.com/album/6X8YeWB1WRps0m4DXEu23a"
+      },
+      "artists": [
+        {
+          "name": "Nutty Nys",
+          "url": "https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX"
+        }
+      ],
+      "duration_ms": 195871,
+      "name": "Love Will Win The Day - Take 3 Radio Edit",
+      "url": "https://open.spotify.com/track/4r4G0PQIrASzTRrT9R1Pd5"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "132 TECHNO",
         "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 222089,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Love Will Win The Day (Take 3 Radio Edit)",
-        "url": "https://open.spotify.com/album/6X8YeWB1WRps0m4DXEu23a"
-      },
-      "artists": [
-        {
-          "name": "Nutty Nys",
-          "url": "https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX"
-        }
-      ],
-      "duration_ms": 195871,
-      "name": "Love Will Win The Day - Take 3 Radio Edit",
-      "url": "https://open.spotify.com/track/4r4G0PQIrASzTRrT9R1Pd5"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Music Can Hear Us",
-        "url": "https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 516815,
-      "name": "Buschtaxi",
-      "url": "https://open.spotify.com/track/1GLWfcqdlEedcZ0KywSrf9"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "TANK IT",
         "url": "https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD"
       },
@@ -971,22 +955,18 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/5PlzsOCOn76AF8NnmjScU8"
+        "name": "Music Can Hear Us",
+        "url": "https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0"
       },
       "artists": [
         {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        },
-        {
-          "name": "ASHWARYA",
-          "url": "https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk"
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
         }
       ],
-      "duration_ms": 235647,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/7Ksw8nf3U4g8rcJOoFkxaT"
+      "duration_ms": 516815,
+      "name": "Buschtaxi",
+      "url": "https://open.spotify.com/track/1GLWfcqdlEedcZ0KywSrf9"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1019,6 +999,26 @@
       "duration_ms": 211409,
       "name": "Feel It For You",
       "url": "https://open.spotify.com/track/76vnxLIS70EvlISthDydnE"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/5PlzsOCOn76AF8NnmjScU8"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "ASHWARYA",
+          "url": "https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk"
+        }
+      ],
+      "duration_ms": 235647,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7Ksw8nf3U4g8rcJOoFkxaT"
     },
     {
       "added_at": "2025-12-03 12:15:55",

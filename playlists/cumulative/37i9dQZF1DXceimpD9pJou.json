@@ -35941,6 +35941,24 @@
     },
     {
       "album": {
+        "name": "HANAMI",
+        "url": "https://open.spotify.com/album/7FTnxlGYwYe9b74YQXs2lW"
+      },
+      "artists": [
+        {
+          "name": "Ross",
+          "url": "https://open.spotify.com/artist/6M9ARUEWkb5cMG2KIXMHxG"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/6yjoq8sPLQpr0rMMhpmk7j"
+    },
+    {
+      "album": {
         "name": "Joseph Cabanilla: Live Sessions",
         "url": "https://open.spotify.com/album/0jyTrWjIIJ9wDiXiqeYqXU"
       },
@@ -69190,6 +69208,24 @@
       "duration_ms": 209250,
       "name": "Tuyo Ser",
       "url": "https://open.spotify.com/track/0sSwybrYa6nKFduzoP7F4A"
+    },
+    {
+      "album": {
+        "name": "Tuyo Soy",
+        "url": "https://open.spotify.com/album/2Md9CaQGEgnqDDCeGO57Ef"
+      },
+      "artists": [
+        {
+          "name": "Carlos Omar",
+          "url": "https://open.spotify.com/artist/6h3lF5lLoo8wGMB4C8SaiY"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282314,
+      "name": "Tuyo Soy",
+      "url": "https://open.spotify.com/track/2VChSSNRTJT5cM7m1mt3Ed"
     },
     {
       "album": {

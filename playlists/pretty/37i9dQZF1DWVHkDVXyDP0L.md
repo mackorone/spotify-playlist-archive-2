@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Courtney Barnett
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,490 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,486 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Bad For My Health](https://open.spotify.com/track/5hstoClN1sRJsIYT4gjZ4O) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [Oh Positive](https://open.spotify.com/album/5LyEZ8KPtjAK8EnpBEKVeH) | 3:11 |
 | 100 | [Changing Shapes](https://open.spotify.com/track/06uRd3Zvphvo7F17IEBl4o) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Changing Shapes](https://open.spotify.com/album/793aYdy2aN7PvZj6YsdUVz) | 2:52 |
 
-Snapshot ID: `AAAAAKErBSGGYIlNFd370JO9yT1ZH5Jy`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 373651,
+  "num_followers": 373905,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Everett",
-          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
-        }
-      ],
-      "duration_ms": 219752,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/1THYlGUnGESGfmZWLW11C6"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
         "name": "Born 2 Groove",
         "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 301240,
       "name": "Mr. Groove",
       "url": "https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Everett",
+          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
+        }
+      ],
+      "duration_ms": 219752,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/1THYlGUnGESGfmZWLW11C6"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 279040,
-      "name": "Candlelight",
-      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
         "name": "Send One Your Love",
         "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 291840,
-      "name": "Out'a Nowhere",
-      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
+      "duration_ms": 279040,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -559,18 +543,18 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 262800,
-      "name": "Read Between the Lines",
-      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
+      "duration_ms": 291840,
+      "name": "Out'a Nowhere",
+      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -587,6 +571,22 @@
       "duration_ms": 303106,
       "name": "Ocean Way",
       "url": "https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Read Between the Lines",
+      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Playin' Favorites",
-        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
         "name": "My Inspiration",
         "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 266960,
       "name": "Old School",
       "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
+        "name": "Playin' Favorites",
+        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Sudden Burst Of Energy",
-        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
-      },
-      "artists": [
-        {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
+        "name": "Sudden Burst Of Energy",
+        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
+      },
+      "artists": [
+        {
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
         "name": "Whisper",
         "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 256295,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Saturday Cool",
-      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -827,6 +811,22 @@
       "duration_ms": 376000,
       "name": "Let's Get It Started",
       "url": "https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "Saturday Cool",
+      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Big Dume",
-        "url": "https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk"
-      },
-      "artists": [
-        {
-          "name": "Citronium",
-          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
-        }
-      ],
-      "duration_ms": 230101,
-      "name": "Big Dume",
-      "url": "https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
         "name": "Let\u2019s Call It a Day",
         "url": "https://open.spotify.com/album/5uENW3cnR0CJp5GvU8H1fy"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 296913,
       "name": "Let\u2019s Call It a Day",
       "url": "https://open.spotify.com/track/2keNZpTW568HvOK445GGQU"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
+        "name": "Big Dume",
+        "url": "https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk"
+      },
+      "artists": [
+        {
+          "name": "Citronium",
+          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
+        }
+      ],
+      "duration_ms": 230101,
+      "name": "Big Dume",
+      "url": "https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Golden Hour Groove",
-        "url": "https://open.spotify.com/album/68Xew9Io7x9Hpz8j2xi5RS"
-      },
-      "artists": [
-        {
-          "name": "Wellington Groove",
-          "url": "https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8"
-        }
-      ],
-      "duration_ms": 196017,
-      "name": "Golden Hour Groove",
-      "url": "https://open.spotify.com/track/51vzBS76w1G5H10Y1T0hzt"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
         "name": "Under The Influence",
         "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 305026,
       "name": "A Short Walk From Home",
       "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
+        "name": "Golden Hour Groove",
+        "url": "https://open.spotify.com/album/68Xew9Io7x9Hpz8j2xi5RS"
+      },
+      "artists": [
+        {
+          "name": "Wellington Groove",
+          "url": "https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8"
+        }
+      ],
+      "duration_ms": 196017,
+      "name": "Golden Hour Groove",
+      "url": "https://open.spotify.com/track/51vzBS76w1G5H10Y1T0hzt"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Influences",
-        "url": "https://open.spotify.com/album/7pJZjU3feX0JRmJsyNMUKk"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 264440,
-      "name": "When You Love Somebody",
-      "url": "https://open.spotify.com/track/7AeS3Lkmps2klORaU65IMq"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
         "name": "Picante",
         "url": "https://open.spotify.com/album/0ZHhbsQQI6wFPYU4pClcaw"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 302459,
       "name": "Picante",
       "url": "https://open.spotify.com/track/3YSonOZutvi9PoFiNxLcrS"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
+        "name": "Influences",
+        "url": "https://open.spotify.com/album/7pJZjU3feX0JRmJsyNMUKk"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "When You Love Somebody",
+      "url": "https://open.spotify.com/track/7AeS3Lkmps2klORaU65IMq"
     },
     {
       "added_at": "2026-01-21 15:00:25",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-01-21 15:00:25",
       "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Givin' It Up",
-      "url": "https://open.spotify.com/track/39ex82ihu7ZSBIW7zFTA4P"
-    },
-    {
-      "added_at": "2026-01-21 15:00:25",
-      "album": {
         "name": "Winning\u2019s Easy (When You Want It To Be)",
         "url": "https://open.spotify.com/album/5uLwe7jvlIH89BInp8tWtu"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 282087,
       "name": "Winning\u2019s Easy (When You Want It To Be)",
       "url": "https://open.spotify.com/track/2Pd1HYBk7du6vgBkJvIUr9"
+    },
+    {
+      "added_at": "2026-01-21 15:00:25",
+      "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Givin' It Up",
+      "url": "https://open.spotify.com/track/39ex82ihu7ZSBIW7zFTA4P"
     },
     {
       "added_at": "2026-01-21 15:00:25",

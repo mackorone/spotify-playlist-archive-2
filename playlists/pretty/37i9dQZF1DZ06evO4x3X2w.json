@@ -1,13 +1,29 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 719954,
+  "num_followers": 720012,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAACfTAJ80BrHxqaGV1HrCZ2s",
+  "snapshot_id": "aXv0gAAAAABbdqbGwhV24r/GvGVWRR5K",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mama Kin (2024 Mix)",
+        "url": "https://open.spotify.com/album/041HhRrNYZc7BE0JPbkIYF"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 275435,
+      "name": "Mama Kin - 2024 Mix",
+      "url": "https://open.spotify.com/track/24W3iqR9pR1lc1V3NfiDpF"
+    },
     {
       "added_at": null,
       "album": {
@@ -319,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Woman (Lainey Wilson Version)",
-        "url": "https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA"
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5V12ap591SmtretgcunhiO"
       },
       "artists": [
         {
@@ -330,15 +346,11 @@
         {
           "name": "YUNGBLUD",
           "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 212175,
-      "name": "Wild Woman - Lainey Wilson Version",
-      "url": "https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt"
+      "duration_ms": 215200,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/4sB1ohmoVVG1e3vq9jPVE3"
     },
     {
       "added_at": null,
@@ -355,6 +367,38 @@
       "duration_ms": 224583,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/6FfE10CNarokEyIGxWhz2g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 280431,
+      "name": "Back In the Saddle",
+      "url": "https://open.spotify.com/track/3WPYapjyqcVpShYXQuChcs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 321826,
+      "name": "Love In An Elevator - Single Version",
+      "url": "https://open.spotify.com/track/1l6DV8qhmCdgOKLSAFzPOe"
     },
     {
       "added_at": null,
@@ -379,38 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Ones",
-        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 321826,
-      "name": "Love In An Elevator - Single Version",
-      "url": "https://open.spotify.com/track/1l6DV8qhmCdgOKLSAFzPOe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rocks",
-        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 280431,
-      "name": "Back In the Saddle",
-      "url": "https://open.spotify.com/track/3WPYapjyqcVpShYXQuChcs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Your Wings",
         "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
       },
@@ -423,6 +435,38 @@
       "duration_ms": 233567,
       "name": "Same Old Song and Dance",
       "url": "https://open.spotify.com/track/37Ptnxxd7WXAaCfWXxcElU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 205923,
+      "name": "Falling In Love (Is Hard On The Knees)",
+      "url": "https://open.spotify.com/track/798M8UpxnEqKotUBuiDqhR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music From Another Dimension! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 224377,
+      "name": "What Could Have Been Love",
+      "url": "https://open.spotify.com/track/5FKq1jZkkIC8LHkyp1TSBJ"
     },
     {
       "added_at": null,
@@ -447,38 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nine Lives",
-        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 300672,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music From Another Dimension! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 224377,
-      "name": "What Could Have Been Love",
-      "url": "https://open.spotify.com/track/5FKq1jZkkIC8LHkyp1TSBJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rocks",
         "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
       },
@@ -495,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 300672,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get A Grip",
         "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
       },
@@ -507,38 +535,6 @@
       "duration_ms": 250600,
       "name": "Eat The Rich",
       "url": "https://open.spotify.com/track/3O7LU72UPGoCzrOFU6LqGd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nine Lives",
-        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 205923,
-      "name": "Falling In Love (Is Hard On The Knees)",
-      "url": "https://open.spotify.com/track/798M8UpxnEqKotUBuiDqhR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aerosmith",
-        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 269190,
-      "name": "Mama Kin",
-      "url": "https://open.spotify.com/track/6Qs5u9Tqh1rm1ljdr1ckhw"
     },
     {
       "added_at": null,

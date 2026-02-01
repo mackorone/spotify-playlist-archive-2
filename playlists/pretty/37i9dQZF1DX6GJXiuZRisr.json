@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1607971,
+  "num_followers": 1608044,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-01-30 05:00:43",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
+      },
+      "artists": [
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 211905,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
+    },
+    {
+      "added_at": "2026-01-30 05:00:43",
+      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 245927,
       "name": "Children - Edit Mix",
       "url": "https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV"
-    },
-    {
-      "added_at": "2026-01-30 05:00:43",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
-      },
-      "artists": [
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 211905,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
     },
     {
       "added_at": "2026-01-30 05:00:43",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2026-01-30 05:00:43",
       "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 202992,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+    },
+    {
+      "added_at": "2026-01-30 05:00:43",
+      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/3pUuzw75v7nqmsbXWUqBWu"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 135238,
       "name": "Feel",
       "url": "https://open.spotify.com/track/7koLP2DMvE3rmvFfjweYTb"
-    },
-    {
-      "added_at": "2026-01-30 05:00:43",
-      "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
     },
     {
       "added_at": "2026-01-30 05:00:43",
@@ -1499,34 +1499,6 @@
     {
       "added_at": "2026-01-30 05:00:43",
       "album": {
-        "name": "Getting Lost",
-        "url": "https://open.spotify.com/album/0qdinh0sxfnzRxRa9mzgeB"
-      },
-      "artists": [
-        {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
-        },
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        },
-        {
-          "name": "GRATIFY",
-          "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
-        },
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Getting Lost",
-      "url": "https://open.spotify.com/track/71IxdxUXlRpBrRASkihDZ4"
-    },
-    {
-      "added_at": "2026-01-30 05:00:43",
-      "album": {
         "name": "Tears Don\u2019t Fall",
         "url": "https://open.spotify.com/album/57nuOUDbXKsN91R9ry5EAj"
       },
@@ -1559,6 +1531,34 @@
       "duration_ms": 219892,
       "name": "IT MIGHT BE THE DRUGS",
       "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
+    },
+    {
+      "added_at": "2026-01-30 05:00:43",
+      "album": {
+        "name": "Getting Lost",
+        "url": "https://open.spotify.com/album/0qdinh0sxfnzRxRa9mzgeB"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "GRATIFY",
+          "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
+        },
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Getting Lost",
+      "url": "https://open.spotify.com/track/71IxdxUXlRpBrRASkihDZ4"
     },
     {
       "added_at": "2026-01-30 05:00:43",
@@ -1683,22 +1683,22 @@
     {
       "added_at": "2026-01-30 05:00:43",
       "album": {
-        "name": "Lost In Light",
-        "url": "https://open.spotify.com/album/7fIGGmEiq5Lr8ZTYSdvP4m"
+        "name": "Nothing Ever Changes",
+        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
       },
       "artists": [
         {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
         }
       ],
-      "duration_ms": 192500,
-      "name": "Lost In Light",
-      "url": "https://open.spotify.com/track/6OMjEqdLABiCa42LtYMSUv"
+      "duration_ms": 226048,
+      "name": "Nothing Ever Changes",
+      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
     },
     {
       "added_at": "2026-01-30 05:00:43",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2026-01-30 05:00:43",
       "album": {
-        "name": "Nothing Ever Changes",
-        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 226048,
-      "name": "Nothing Ever Changes",
-      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
-    },
-    {
-      "added_at": "2026-01-30 05:00:43",
-      "album": {
         "name": "Heard It All Before",
         "url": "https://open.spotify.com/album/6oX3DYMCxQrrwTpaMZc8VH"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 174705,
       "name": "Heard It All Before",
       "url": "https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2"
+    },
+    {
+      "added_at": "2026-01-30 05:00:43",
+      "album": {
+        "name": "Lost In Light",
+        "url": "https://open.spotify.com/album/7fIGGmEiq5Lr8ZTYSdvP4m"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Lost In Light",
+      "url": "https://open.spotify.com/track/6OMjEqdLABiCa42LtYMSUv"
     },
     {
       "added_at": "2026-01-30 05:00:43",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2026-01-30 05:00:43",
       "album": {
-        "name": "Start A Fire",
-        "url": "https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        }
-      ],
-      "duration_ms": 217523,
-      "name": "Start A Fire",
-      "url": "https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9"
-    },
-    {
-      "added_at": "2026-01-30 05:00:43",
-      "album": {
         "name": "Each Other",
         "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 220952,
       "name": "Cheating Heart",
       "url": "https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs"
+    },
+    {
+      "added_at": "2026-01-30 05:00:43",
+      "album": {
+        "name": "Start A Fire",
+        "url": "https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        }
+      ],
+      "duration_ms": 217523,
+      "name": "Start A Fire",
+      "url": "https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9"
     },
     {
       "added_at": "2026-01-30 05:00:43",
@@ -1935,6 +1935,26 @@
     {
       "added_at": "2026-01-30 05:00:43",
       "album": {
+        "name": "Drop That Beat",
+        "url": "https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU"
+      },
+      "artists": [
+        {
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+        },
+        {
+          "name": "Ixxel",
+          "url": "https://open.spotify.com/artist/4FuPIvoA4iAe0sVoEfXhal"
+        }
+      ],
+      "duration_ms": 208915,
+      "name": "Drop That Beat",
+      "url": "https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap"
+    },
+    {
+      "added_at": "2026-01-30 05:00:43",
+      "album": {
         "name": "Only I",
         "url": "https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d"
       },
@@ -1963,22 +1983,6 @@
       "duration_ms": 260329,
       "name": "ReAnimation",
       "url": "https://open.spotify.com/track/43ofk81krK92e5sM12mfPC"
-    },
-    {
-      "added_at": "2026-01-30 05:00:43",
-      "album": {
-        "name": "Sunrise To The Morning",
-        "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Sunrise To The Morning",
-      "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
     }
   ],
   "unique_name": "Night Rider",

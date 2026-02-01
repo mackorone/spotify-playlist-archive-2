@@ -1,6 +1,6 @@
 {
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with the one & only Ti\u00ebsto",
-  "num_followers": 866816,
+  "num_followers": 866945,
   "original_name": "Trance Mission",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,26 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "When I Found You",
+        "url": "https://open.spotify.com/album/3gftFtNaaZxWSrPzOBGKM9"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        }
+      ],
+      "duration_ms": 267428,
+      "name": "When I Found You",
+      "url": "https://open.spotify.com/track/7sKNFCASmjb4USs8M0BScb"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Super Powers (Giuseppe Ottaviani Remix)",
         "url": "https://open.spotify.com/album/2rT6BaaMS8ZBOyPSTRcl4Z"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 210000,
       "name": "Feel It Coming",
       "url": "https://open.spotify.com/track/1YJF4B8vyqm3lasRu5yLU2"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "When I Found You",
-        "url": "https://open.spotify.com/album/3gftFtNaaZxWSrPzOBGKM9"
-      },
-      "artists": [
-        {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
-        },
-        {
-          "name": "Ciaran McAuley",
-          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
-        }
-      ],
-      "duration_ms": 267428,
-      "name": "When I Found You",
-      "url": "https://open.spotify.com/track/7sKNFCASmjb4USs8M0BScb"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/6OIEacqHqXdcKmS3m5PJIz"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Helmy",
+          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
+        },
+        {
+          "name": "Cari",
+          "url": "https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/6RcemUDuHKPPGO5BTm6CsG"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Each Other",
         "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
       },
@@ -1059,22 +1079,6 @@
       "duration_ms": 184737,
       "name": "Each Other",
       "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 260353,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1123,38 +1127,18 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/6OIEacqHqXdcKmS3m5PJIz"
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
       },
       "artists": [
         {
-          "name": "Ahmed Helmy",
-          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
-        },
-        {
-          "name": "Cari",
-          "url": "https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re"
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
         }
       ],
-      "duration_ms": 229090,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/6RcemUDuHKPPGO5BTm6CsG"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "Don't Say Goodbye",
-        "url": "https://open.spotify.com/album/6uNfsZPWn63GJG3p3PmuwH"
-      },
-      "artists": [
-        {
-          "name": "Dr Phunk",
-          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
-        }
-      ],
-      "duration_ms": 191956,
-      "name": "Don't Say Goodbye",
-      "url": "https://open.spotify.com/track/6UaUhR4vtXyCbcHmIRveQb"
+      "duration_ms": 260353,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1175,6 +1159,22 @@
       "duration_ms": 260750,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/6DlKclVrMHUVwdJpe2HAyC"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/6uNfsZPWn63GJG3p3PmuwH"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "duration_ms": 191956,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/6UaUhR4vtXyCbcHmIRveQb"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Music Is Invisible",
-        "url": "https://open.spotify.com/album/6BePp3bYCocZMhczgRMA1A"
+        "name": "Moment In Time",
+        "url": "https://open.spotify.com/album/0U2NNhwQzhuyhA1LOic8U8"
       },
       "artists": [
         {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+          "name": "Peter Steele",
+          "url": "https://open.spotify.com/artist/3b6QkLz89r7XzbkISDwljq"
+        },
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
         }
       ],
-      "duration_ms": 312311,
-      "name": "In Unison",
-      "url": "https://open.spotify.com/track/0fYrUra3kcxvETQiVrxssG"
+      "duration_ms": 227250,
+      "name": "Moment In Time",
+      "url": "https://open.spotify.com/track/6abaHQZjNIZ0d0WE8Poues"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Moment In Time",
-        "url": "https://open.spotify.com/album/0U2NNhwQzhuyhA1LOic8U8"
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73"
       },
       "artists": [
         {
-          "name": "Peter Steele",
-          "url": "https://open.spotify.com/artist/3b6QkLz89r7XzbkISDwljq"
-        },
-        {
-          "name": "Christina Novelli",
-          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
         }
       ],
-      "duration_ms": 227250,
-      "name": "Moment In Time",
-      "url": "https://open.spotify.com/track/6abaHQZjNIZ0d0WE8Poues"
+      "duration_ms": 158000,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1275,22 +1275,6 @@
       "duration_ms": 190344,
       "name": "Unified",
       "url": "https://open.spotify.com/track/1RrQr6asuzJOBFSjWtqOUn"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73"
-      },
-      "artists": [
-        {
-          "name": "Nifra",
-          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1331,6 +1315,22 @@
       "duration_ms": 145634,
       "name": "Toca's Miracle",
       "url": "https://open.spotify.com/track/0hBfllV37fOnsMe0Iq57RZ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
+        "name": "Music Is Invisible",
+        "url": "https://open.spotify.com/album/6BePp3bYCocZMhczgRMA1A"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 312311,
+      "name": "In Unison",
+      "url": "https://open.spotify.com/track/0fYrUra3kcxvETQiVrxssG"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1439,6 +1439,30 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "Who We\u2019d Become",
+        "url": "https://open.spotify.com/album/4trihYW8MiEdqVS4e4dRtx"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Helmy",
+          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
+        },
+        {
+          "name": "Doppenberg",
+          "url": "https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF"
+        },
+        {
+          "name": "HEL:BRG",
+          "url": "https://open.spotify.com/artist/2vk6a5l8B9XenS7lT11MBn"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Who We'd Become",
+      "url": "https://open.spotify.com/track/3k6JT9da01bKXGpnOaq1c4"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg"
       },
@@ -1475,30 +1499,6 @@
       "duration_ms": 215000,
       "name": "Chasing The Unknown",
       "url": "https://open.spotify.com/track/1PAplHZ1KhdqNLpLriC0fx"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "Who We\u2019d Become",
-        "url": "https://open.spotify.com/album/4trihYW8MiEdqVS4e4dRtx"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Helmy",
-          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
-        },
-        {
-          "name": "Doppenberg",
-          "url": "https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF"
-        },
-        {
-          "name": "HEL:BRG",
-          "url": "https://open.spotify.com/artist/2vk6a5l8B9XenS7lT11MBn"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Who We'd Become",
-      "url": "https://open.spotify.com/track/3k6JT9da01bKXGpnOaq1c4"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "Stimulate",
+        "url": "https://open.spotify.com/album/1P7CCrdETknvhDGWURvjfx"
+      },
+      "artists": [
+        {
+          "name": "Allen Watts",
+          "url": "https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Stimulate",
+      "url": "https://open.spotify.com/track/6AUmM0g0XAyClwGtZdQUig"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Finding My Way To You",
         "url": "https://open.spotify.com/album/37h4YzM20FNl9Fl1eFHNwo"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 239239,
       "name": "Finding My Way To You",
       "url": "https://open.spotify.com/track/2QsMWa3DcVrsBYenj0ZI87"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "Stimulate",
-        "url": "https://open.spotify.com/album/1P7CCrdETknvhDGWURvjfx"
-      },
-      "artists": [
-        {
-          "name": "Allen Watts",
-          "url": "https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Stimulate",
-      "url": "https://open.spotify.com/track/6AUmM0g0XAyClwGtZdQUig"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "The Cave",
+        "url": "https://open.spotify.com/album/1qLNZq74AegSSEfALf3a4U"
+      },
+      "artists": [
+        {
+          "name": "Jaytech",
+          "url": "https://open.spotify.com/artist/5mpJ1Z8BYEOG0rrdO4a2nG"
+        }
+      ],
+      "duration_ms": 226340,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/5B8nT3UfCkkeDVFsfAGWXp"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Brave (ATB\u2019s Anthem Remix)",
         "url": "https://open.spotify.com/album/0r7K8ZjnKBTIaLYv4AGsS9"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 193000,
       "name": "Song to the Siren",
       "url": "https://open.spotify.com/track/7KHzgG1zvxM52AO6JVPO0o"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "The Cave",
-        "url": "https://open.spotify.com/album/1qLNZq74AegSSEfALf3a4U"
-      },
-      "artists": [
-        {
-          "name": "Jaytech",
-          "url": "https://open.spotify.com/artist/5mpJ1Z8BYEOG0rrdO4a2nG"
-        }
-      ],
-      "duration_ms": 226340,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/5B8nT3UfCkkeDVFsfAGWXp"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1931,22 +1931,18 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/3Hzdf64veh0KPRE0GbVx0Q"
+        "name": "Glow Up",
+        "url": "https://open.spotify.com/album/72O9KbYw4uzkRAirxUtaOL"
       },
       "artists": [
         {
-          "name": "Markus Schulz",
-          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
-        },
-        {
-          "name": "Frankyeffe",
-          "url": "https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O"
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
         }
       ],
-      "duration_ms": 190308,
-      "name": "Monolith",
-      "url": "https://open.spotify.com/track/2Bam0TVEexdTbaC2s8V3xY"
+      "duration_ms": 161000,
+      "name": "Glow Up",
+      "url": "https://open.spotify.com/track/4UM7u9H76sdBGDsx3Kc8TK"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1967,6 +1963,26 @@
       "duration_ms": 185326,
       "name": "Moonburn",
       "url": "https://open.spotify.com/track/4FSoe9qXKMY31gWoPPpiSk"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/3Hzdf64veh0KPRE0GbVx0Q"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "Frankyeffe",
+          "url": "https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O"
+        }
+      ],
+      "duration_ms": 190308,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/2Bam0TVEexdTbaC2s8V3xY"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -1995,6 +2011,26 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/391dou0sf3aAeqXzfSrMHW"
+      },
+      "artists": [
+        {
+          "name": "Oliver Smith",
+          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
+        },
+        {
+          "name": "Midnite Amity",
+          "url": "https://open.spotify.com/artist/3pXdaLTNU9FMCIVDr7Cz64"
+        }
+      ],
+      "duration_ms": 191216,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1dws9VNYuR8s2bdPIft626"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
         "name": "Ignite",
         "url": "https://open.spotify.com/album/3GRYJstBFhTZeiNSS6NSTY"
       },
@@ -2019,26 +2055,6 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/391dou0sf3aAeqXzfSrMHW"
-      },
-      "artists": [
-        {
-          "name": "Oliver Smith",
-          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
-        },
-        {
-          "name": "Midnite Amity",
-          "url": "https://open.spotify.com/artist/3pXdaLTNU9FMCIVDr7Cz64"
-        }
-      ],
-      "duration_ms": 191216,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1dws9VNYuR8s2bdPIft626"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
         "name": "Loyalty",
         "url": "https://open.spotify.com/album/3YKNaB4SFqIMIDCxi6x1t8"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 228809,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/2xY7icfJSoWq3QGu9ZgLMH"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "Glow Up",
-        "url": "https://open.spotify.com/album/72O9KbYw4uzkRAirxUtaOL"
-      },
-      "artists": [
-        {
-          "name": "B Jones",
-          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Glow Up",
-      "url": "https://open.spotify.com/track/4UM7u9H76sdBGDsx3Kc8TK"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -2091,26 +2091,22 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4OmLoF1baTfIw50x250ELm"
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/1AiMqouP0qfLTho7pADxB8"
       },
       "artists": [
         {
-          "name": "Ilan Bluestone",
-          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+          "name": "OTTAGON",
+          "url": "https://open.spotify.com/artist/49b9crFClEofQmf5078d31"
         },
         {
-          "name": "ALPHA 9",
-          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
-        },
-        {
-          "name": "H.E.A.R.T.S.",
-          "url": "https://open.spotify.com/artist/2LVnO7HXk285e9qqVVhtcd"
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
         }
       ],
-      "duration_ms": 260578,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/0MD3uMPbhJiX4QTz0i9iqA"
+      "duration_ms": 217846,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/5vcuyY3EZgQEhLEx6fmYHM"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -2135,26 +2131,6 @@
       "duration_ms": 164560,
       "name": "ResuRection (Call Me)",
       "url": "https://open.spotify.com/track/7w5eVOIt7g0DhUWvoqvhq9"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/1AiMqouP0qfLTho7pADxB8"
-      },
-      "artists": [
-        {
-          "name": "OTTAGON",
-          "url": "https://open.spotify.com/artist/49b9crFClEofQmf5078d31"
-        },
-        {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/5vcuyY3EZgQEhLEx6fmYHM"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -2199,18 +2175,42 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Origins / ARP",
-        "url": "https://open.spotify.com/album/3OoQvRYpRLTCETcNGbydvw"
+        "name": "Away",
+        "url": "https://open.spotify.com/album/3jdODA321IZNmGAOTjA2DH"
       },
       "artists": [
         {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+          "name": "David Forbes",
+          "url": "https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Origins",
-      "url": "https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO"
+      "duration_ms": 211862,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/19ofHnEgE8dIOaCthpoo84"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4OmLoF1baTfIw50x250ELm"
+      },
+      "artists": [
+        {
+          "name": "Ilan Bluestone",
+          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+        },
+        {
+          "name": "ALPHA 9",
+          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
+        },
+        {
+          "name": "H.E.A.R.T.S.",
+          "url": "https://open.spotify.com/artist/2LVnO7HXk285e9qqVVhtcd"
+        }
+      ],
+      "duration_ms": 260578,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0MD3uMPbhJiX4QTz0i9iqA"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -2231,38 +2231,18 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1eyavWo18zCN5KIjfPgUU5"
+        "name": "Origins / ARP",
+        "url": "https://open.spotify.com/album/3OoQvRYpRLTCETcNGbydvw"
       },
       "artists": [
         {
-          "name": "Ilan Bluestone",
-          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
-        },
-        {
-          "name": "Jasper Blunk",
-          "url": "https://open.spotify.com/artist/4XwNMUcavKaSy2A8dIzgnB"
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
         }
       ],
-      "duration_ms": 231044,
-      "name": "40",
-      "url": "https://open.spotify.com/track/1HuepUhvOtnDnp6mnioLhW"
-    },
-    {
-      "added_at": "2026-01-23 05:00:17",
-      "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/3jdODA321IZNmGAOTjA2DH"
-      },
-      "artists": [
-        {
-          "name": "David Forbes",
-          "url": "https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/19ofHnEgE8dIOaCthpoo84"
+      "duration_ms": 212903,
+      "name": "Origins",
+      "url": "https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -2379,30 +2359,38 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "Through It All",
-        "url": "https://open.spotify.com/album/1iyu3drYMArDsMldiGW00g"
+        "name": "40",
+        "url": "https://open.spotify.com/album/1eyavWo18zCN5KIjfPgUU5"
       },
       "artists": [
         {
-          "name": "nilsix",
-          "url": "https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I"
+          "name": "Ilan Bluestone",
+          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
         },
         {
-          "name": "Clara Yates",
-          "url": "https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0"
-        },
-        {
-          "name": "Orjan Nilsen",
-          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
-        },
-        {
-          "name": "Mark Sixma",
-          "url": "https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm"
+          "name": "Jasper Blunk",
+          "url": "https://open.spotify.com/artist/4XwNMUcavKaSy2A8dIzgnB"
         }
       ],
-      "duration_ms": 216716,
-      "name": "Through It All",
-      "url": "https://open.spotify.com/track/7ITpVklEunzJudn1CTB9wu"
+      "duration_ms": 231044,
+      "name": "40",
+      "url": "https://open.spotify.com/track/1HuepUhvOtnDnp6mnioLhW"
+    },
+    {
+      "added_at": "2026-01-23 05:00:17",
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/0Qr6hyjW3JqnnjRxKiy4Bk"
+      },
+      "artists": [
+        {
+          "name": "Super8 & Tab",
+          "url": "https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC"
+        }
+      ],
+      "duration_ms": 201799,
+      "name": "XX",
+      "url": "https://open.spotify.com/track/76ma1GT4O6D1WO4AfIdEnO"
     },
     {
       "added_at": "2026-01-23 05:00:17",
@@ -2447,18 +2435,30 @@
     {
       "added_at": "2026-01-23 05:00:17",
       "album": {
-        "name": "XX",
-        "url": "https://open.spotify.com/album/0Qr6hyjW3JqnnjRxKiy4Bk"
+        "name": "Through It All",
+        "url": "https://open.spotify.com/album/1iyu3drYMArDsMldiGW00g"
       },
       "artists": [
         {
-          "name": "Super8 & Tab",
-          "url": "https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC"
+          "name": "nilsix",
+          "url": "https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I"
+        },
+        {
+          "name": "Clara Yates",
+          "url": "https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0"
+        },
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        },
+        {
+          "name": "Mark Sixma",
+          "url": "https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm"
         }
       ],
-      "duration_ms": 201799,
-      "name": "XX",
-      "url": "https://open.spotify.com/track/76ma1GT4O6D1WO4AfIdEnO"
+      "duration_ms": 216716,
+      "name": "Through It All",
+      "url": "https://open.spotify.com/track/7ITpVklEunzJudn1CTB9wu"
     },
     {
       "added_at": "2026-01-23 05:00:17",

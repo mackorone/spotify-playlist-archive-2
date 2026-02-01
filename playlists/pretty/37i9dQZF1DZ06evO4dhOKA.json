@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 68829,
+  "num_followers": 68849,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXqjAAAAAACOGhU7jnewZpD9UvWA4+pX",
+  "snapshot_id": "aXv0gAAAAADmykjD0HvTq3iQSnCXfNil",
   "tracks": [
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 193893,
-      "name": "Me Refiero A Ti",
-      "url": "https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH"
+      "duration_ms": 168000,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/1JjaJSRN66vbHsz5J7pKEq"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/1JjaJSRN66vbHsz5J7pKEq"
+      "duration_ms": 193893,
+      "name": "Me Refiero A Ti",
+      "url": "https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "45 \u00c9xitos (Versiones Originales)",
+        "url": "https://open.spotify.com/album/3hgPZ6SJi38giU4wlYi9nN"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "A Punto De Marcharme - Remastered",
+      "url": "https://open.spotify.com/track/6jb7fBU3VDJS2rcHfAZIQH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
         "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 169664,
       "name": "Con Tu Imagen (EN VIVO DESDE EL DOMO CARE)",
       "url": "https://open.spotify.com/track/1VLdYIeUG6fWsoWFNVY7uP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "45 \u00c9xitos (Versiones Originales)",
-        "url": "https://open.spotify.com/album/3hgPZ6SJi38giU4wlYi9nN"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "A Punto De Marcharme - Remastered",
-      "url": "https://open.spotify.com/track/6jb7fBU3VDJS2rcHfAZIQH"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Corrido De Los P\u00e9rez",
-      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta (En Vivo)",
         "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 174290,
       "name": "El Rog\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/7t1X9xoDduvrcaoOVallpV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Corrido De Los P\u00e9rez",
+      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
     },
     {
       "added_at": null,
@@ -775,6 +775,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
+        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Baraja de Oro",
+      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coraz\u00f3n Indeseable",
+        "url": "https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Que Me Perdone Dios",
+      "url": "https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Borrachera Perfecta (En Vivo)",
         "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
@@ -799,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
-        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Baraja de Oro",
-      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 160493,
       "name": "Ojitos a Mi Gusto",
       "url": "https://open.spotify.com/track/3taGhh1KtPfIGTU5QjdfTc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coraz\u00f3n Indeseable",
-        "url": "https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Que Me Perdone Dios",
-      "url": "https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1"
     },
     {
       "added_at": null,
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 178938,
-      "name": "Sin Recompensa Ni Esperanza (En Vivo)",
-      "url": "https://open.spotify.com/track/0GsGXQ9E6jjlfs3FIn6F9h"
+      "duration_ms": 195506,
+      "name": "Me Llega, Me Llega (En Vivo)",
+      "url": "https://open.spotify.com/track/63MbvcB6E9xMw7ljwfyEej"
     },
     {
       "added_at": null,
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 195506,
-      "name": "Me Llega, Me Llega (En Vivo)",
-      "url": "https://open.spotify.com/track/63MbvcB6E9xMw7ljwfyEej"
+      "duration_ms": 178938,
+      "name": "Sin Recompensa Ni Esperanza (En Vivo)",
+      "url": "https://open.spotify.com/track/0GsGXQ9E6jjlfs3FIn6F9h"
     }
   ],
   "unique_name": "This Is Lalo Mora",

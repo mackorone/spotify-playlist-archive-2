@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: Emre Fel ",
-  "num_followers": 572402,
+  "num_followers": 572497,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2026-01-08 21:00:29",
       "album": {
-        "name": "Bir \u00c7ift G\u00f6z",
-        "url": "https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH"
-      },
-      "artists": [
-        {
-          "name": "Norm Ender",
-          "url": "https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ"
-        },
-        {
-          "name": "Ebru G\u00fcnde\u015f",
-          "url": "https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN"
-        }
-      ],
-      "duration_ms": 207678,
-      "name": "Bir \u00c7ift G\u00f6z",
-      "url": "https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H"
-    },
-    {
-      "added_at": "2026-01-08 21:00:29",
-      "album": {
         "name": "MI AMOR",
         "url": "https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 163200,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/63tBXIkHpGP99Powr8UxBv"
+    },
+    {
+      "added_at": "2026-01-08 21:00:29",
+      "album": {
+        "name": "Bir \u00c7ift G\u00f6z",
+        "url": "https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH"
+      },
+      "artists": [
+        {
+          "name": "Norm Ender",
+          "url": "https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ"
+        },
+        {
+          "name": "Ebru G\u00fcnde\u015f",
+          "url": "https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN"
+        }
+      ],
+      "duration_ms": 207678,
+      "name": "Bir \u00c7ift G\u00f6z",
+      "url": "https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H"
     },
     {
       "added_at": "2026-01-08 21:00:29",
@@ -403,6 +403,30 @@
     {
       "added_at": "2026-01-08 21:00:29",
       "album": {
+        "name": "SONBAHAR",
+        "url": "https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        },
+        {
+          "name": "SNOW",
+          "url": "https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "SONBAHAR",
+      "url": "https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf"
+    },
+    {
+      "added_at": "2026-01-08 21:00:29",
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/4Y85xXiGtuA1moIlx5JMZV"
       },
@@ -459,30 +483,6 @@
       "duration_ms": 139833,
       "name": "BURADA SOKAKLAR",
       "url": "https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4"
-    },
-    {
-      "added_at": "2026-01-08 21:00:29",
-      "album": {
-        "name": "SONBAHAR",
-        "url": "https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY"
-      },
-      "artists": [
-        {
-          "name": "Era7capone",
-          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
-        },
-        {
-          "name": "Poizi",
-          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
-        },
-        {
-          "name": "SNOW",
-          "url": "https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "SONBAHAR",
-      "url": "https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf"
     },
     {
       "added_at": "2026-01-08 21:00:29",

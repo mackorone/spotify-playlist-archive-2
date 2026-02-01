@@ -5641,6 +5641,28 @@
     },
     {
       "album": {
+        "name": "Was Los",
+        "url": "https://open.spotify.com/album/0n9HJBDelqWOxZrFZqjEfK"
+      },
+      "artists": [
+        {
+          "name": "Willi Eyy",
+          "url": "https://open.spotify.com/artist/4nBqFEM66Gl0kKkKDKDx2t"
+        },
+        {
+          "name": "Krizbo",
+          "url": "https://open.spotify.com/artist/6kIxxuflj0QyD89t9v4SSN"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191999,
+      "name": "Was Los",
+      "url": "https://open.spotify.com/track/0n0VH7jkxUITqDGTVRpBTH"
+    },
+    {
+      "album": {
         "name": "Waste Your Life Away",
         "url": "https://open.spotify.com/album/61RNd1AYukexfLY2M9PgT6"
       },

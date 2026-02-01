@@ -768,7 +768,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 199660,
       "name": "Back to Life",
       "url": "https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 200000,
       "name": "Beat It Up",
       "url": "https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF"
@@ -13675,6 +13675,24 @@
     },
     {
       "album": {
+        "name": "VISA / Pilot3",
+        "url": "https://open.spotify.com/album/7BYBKfbZxXgJkZ82GYp3MI"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247312,
+      "name": "VISA",
+      "url": "https://open.spotify.com/track/3rLQaj0aIBRBEsSwHGY0HP"
+    },
+    {
+      "album": {
         "name": "FIRST IMPACT",
         "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
       },
@@ -14580,6 +14598,28 @@
       "duration_ms": 189133,
       "name": "YG - Spotify Singles",
       "url": "https://open.spotify.com/track/0QeZDFhBQGIrFgkmaIEko9"
+    },
+    {
+      "album": {
+        "name": "Yin and Yang",
+        "url": "https://open.spotify.com/album/4wEyDGNGZUVetM252x1D5W"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Yin and Yang",
+      "url": "https://open.spotify.com/track/6CyRYi1FXygOyejKcfZeJI"
     },
     {
       "album": {

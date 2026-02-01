@@ -3031,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "CON",
+        "url": "https://open.spotify.com/album/7G6l5aysx0c5qAo5NwQLfD"
+      },
+      "artists": [
+        {
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234753,
+      "name": "CON",
+      "url": "https://open.spotify.com/track/2Czo9pgOr54xXZw8oz6ENk"
+    },
+    {
+      "album": {
         "name": "TENbient 3",
         "url": "https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk"
       },
@@ -4551,6 +4569,24 @@
     },
     {
       "album": {
+        "name": "Farewell, Little Island",
+        "url": "https://open.spotify.com/album/29qHG5XJoU2G02KNeLw48V"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Farewell, Little Island",
+      "url": "https://open.spotify.com/track/5VkQpMa8nsJUuA4hbR2XBy"
+    },
+    {
+      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -5318,7 +5354,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 146000,
       "name": "Glow Echoes",
       "url": "https://open.spotify.com/track/3OZzkDFsPq2YAc1W0oj0Fq"
@@ -6171,6 +6207,28 @@
     },
     {
       "album": {
+        "name": "I Follow a Barren Path Across the Old Mountain",
+        "url": "https://open.spotify.com/album/5hS7idTRSq4lzWvAzL2OWf"
+      },
+      "artists": [
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        },
+        {
+          "name": "The Humble Bee",
+          "url": "https://open.spotify.com/artist/5GicejpdrZmfWfpDJE4XRT"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348166,
+      "name": "I Follow a Barren Path Across the Old Mountain",
+      "url": "https://open.spotify.com/track/5HjWFzDitkQMH7MLg1YAut"
+    },
+    {
+      "album": {
         "name": "I Miss The Way You Swim",
         "url": "https://open.spotify.com/album/6frTDuQZ8NQsvCUxJkqcQ7"
       },
@@ -6518,6 +6576,24 @@
       "duration_ms": 296724,
       "name": "Imminent",
       "url": "https://open.spotify.com/track/4GYWbWRnrGBkXOOTp3bqyi"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"journal with witch\" original soundtrack",
+        "url": "https://open.spotify.com/album/59UzDd3UjwYpX2lOfwWS5a"
+      },
+      "artists": [
+        {
+          "name": "kensuke ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80623,
+      "name": "in bloom",
+      "url": "https://open.spotify.com/track/7zTlTzLKetfdt28oiAsQcI"
     },
     {
       "album": {
@@ -7098,6 +7174,40 @@
       "duration_ms": 137195,
       "name": "karen",
       "url": "https://open.spotify.com/track/2ITops8wfJv8pfWBftXdFp"
+    },
+    {
+      "album": {
+        "name": "Kazegafuku",
+        "url": "https://open.spotify.com/album/74IVWqSvmOxcgM3DWOJCEm"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Herman",
+          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
+        },
+        {
+          "name": "Jimmi Jo Hueting",
+          "url": "https://open.spotify.com/artist/5Iu0HPefCN5ZuremvJZMbN"
+        },
+        {
+          "name": "Thomas Pol",
+          "url": "https://open.spotify.com/artist/6zdJjdjOSerTzdPK3ZPIX4"
+        },
+        {
+          "name": "Akihito Obama",
+          "url": "https://open.spotify.com/artist/3uXZZFcntVAhyqqqDZDtzt"
+        },
+        {
+          "name": "Ko Ishikawa",
+          "url": "https://open.spotify.com/artist/5quQJazkwaXo44NpWjaHfp"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306705,
+      "name": "Kazegafuku",
+      "url": "https://open.spotify.com/track/3IstLCRbBdCPmjWwPDYwtr"
     },
     {
       "album": {
@@ -8614,6 +8724,24 @@
       "duration_ms": 160000,
       "name": "minamo",
       "url": "https://open.spotify.com/track/2eZwcuZFX8WKFZB1wQRJpx"
+    },
+    {
+      "album": {
+        "name": "Mineral (Edit)",
+        "url": "https://open.spotify.com/album/6FaUwMO4QZqxJNApqgs1qq"
+      },
+      "artists": [
+        {
+          "name": "Wata Igarashi",
+          "url": "https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207749,
+      "name": "Mineral - Edit",
+      "url": "https://open.spotify.com/track/561gXtzNTVy07efgx7IJee"
     },
     {
       "album": {
@@ -10898,7 +11026,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 404093,
       "name": "Reeling Then Again",
       "url": "https://open.spotify.com/track/6ndYaBtSmN9IjpSXyNVGOM"
@@ -11922,7 +12050,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 199653,
       "name": "Sewing a Button",
       "url": "https://open.spotify.com/track/6y7zXAfN1uR1OMUX8YmB2i"
@@ -12454,7 +12582,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 287293,
       "name": "Sn\u00e5cko",
       "url": "https://open.spotify.com/track/0p6cXpEEZIv1IYIIGkwPzW"
@@ -13411,6 +13539,24 @@
     },
     {
       "album": {
+        "name": "Resurrection (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2Gvlc723AMrliLB7bgNQ30"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206186,
+      "name": "Sullen Passage",
+      "url": "https://open.spotify.com/track/1uhRtTpMX37u195FCRjDaZ"
+    },
+    {
+      "album": {
         "name": "Juvenile",
         "url": "https://open.spotify.com/album/00yWYLS0DgM5cCKoMXtqjT"
       },
@@ -13466,6 +13612,24 @@
       "duration_ms": 271807,
       "name": "Sun Tickles",
       "url": "https://open.spotify.com/track/7qhjO48EeSm9ecDfDt2LIp"
+    },
+    {
+      "album": {
+        "name": "Sunlight Zone",
+        "url": "https://open.spotify.com/album/4qQy2EJsZNVvrRgXZJe2Ez"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 672016,
+      "name": "Sunlight Zone",
+      "url": "https://open.spotify.com/track/46YhbNVUyPEFQ9N4KymBGu"
     },
     {
       "album": {
@@ -13910,7 +14074,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 461364,
       "name": "The Funeral Of A Woman Whose Soul Is Trapped In The Sun",
       "url": "https://open.spotify.com/track/1aQ6vO6CMwt2nlCSXONTxN"
@@ -15358,6 +15522,46 @@
       "duration_ms": 371866,
       "name": "Water Copy",
       "url": "https://open.spotify.com/track/48MPwRtt4PRuC0gUZgkI48"
+    },
+    {
+      "album": {
+        "name": "Watermelon Well",
+        "url": "https://open.spotify.com/album/0nNsXUIdgSoz2kVRbOyRDL"
+      },
+      "artists": [
+        {
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
+        },
+        {
+          "name": "John Thayer",
+          "url": "https://open.spotify.com/artist/0epYBMvUpoUYstNjLNHL4k"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221647,
+      "name": "Watermelon Well",
+      "url": "https://open.spotify.com/track/4P0VaKvN6XffglDI00Kxr3"
+    },
+    {
+      "album": {
+        "name": "Watermirror",
+        "url": "https://open.spotify.com/album/5tFb7pmQUJqYARw0C787v6"
+      },
+      "artists": [
+        {
+          "name": "Koji Ishikura",
+          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168306,
+      "name": "Watermirror",
+      "url": "https://open.spotify.com/track/4DHBAANMcbSyKuAO3okHAl"
     },
     {
       "album": {

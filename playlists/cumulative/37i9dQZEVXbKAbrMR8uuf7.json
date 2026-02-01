@@ -4403,6 +4403,32 @@
     },
     {
       "album": {
+        "name": "Bo de Bo de Bo",
+        "url": "https://open.spotify.com/album/06od7wjviQ5TOvI84DEAOU"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Bo de Bo de Bo",
+      "url": "https://open.spotify.com/track/2zVbERV91MhiijUwQVLK3k"
+    },
+    {
+      "album": {
         "name": "Bobo (Remix)",
         "url": "https://open.spotify.com/album/0ZatlaLzcdWxzLaSivJDae"
       },
@@ -21988,7 +22014,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 215064,
       "name": "Loyal",
       "url": "https://open.spotify.com/track/5YVtFzNdgSOlryYtUMauM4"
@@ -26386,6 +26412,28 @@
       "duration_ms": 158608,
       "name": "No lo pillas",
       "url": "https://open.spotify.com/track/5SO3nXcGKt5TWIsqTyzxvj"
+    },
+    {
+      "album": {
+        "name": "No Me Acuesto",
+        "url": "https://open.spotify.com/album/0N5HmXAXOx8sC5stZei4p5"
+      },
+      "artists": [
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        },
+        {
+          "name": "Ezzy R",
+          "url": "https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105283,
+      "name": "No Me Acuesto",
+      "url": "https://open.spotify.com/track/0wGSU3MdjH6whI4fDW29XU"
     },
     {
       "album": {
@@ -35198,6 +35246,28 @@
     {
       "album": {
         "name": "Shorty",
+        "url": "https://open.spotify.com/album/2ZDGf43ncsEvvuXlfwYEFG"
+      },
+      "artists": [
+        {
+          "name": "Ezzy R",
+          "url": "https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX"
+        },
+        {
+          "name": "Megadivo Produce",
+          "url": "https://open.spotify.com/artist/0fDsWL50lXtP2fc8ayi4KN"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100269,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/5SfpF8yQCo9C2DINN9jrzl"
+    },
+    {
+      "album": {
+        "name": "Shorty",
         "url": "https://open.spotify.com/album/2PUUfckakjlUc8hh2qt5XU"
       },
       "artists": [
@@ -35638,7 +35708,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 184547,
       "name": "si te pillara",
       "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
@@ -38332,7 +38402,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 194441,
       "name": "Tesoro Perdido",
       "url": "https://open.spotify.com/track/2Mb1J5mrXMqeFLRLUv2ynN"

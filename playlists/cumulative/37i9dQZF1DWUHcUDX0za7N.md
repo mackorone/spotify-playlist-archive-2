@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:NO11
 
-693 songs - 1 day 8 hr 37 min
+694 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [11:11](https://open.spotify.com/track/4opSFGcLXcnaacX04QvEiB) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [11:11](https://open.spotify.com/album/22URoqf24iLEXcZPKd6NWn) | 2:30 | 2023-08-10 | 2023-09-29 |
 | [1999](https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [R2 Sept 12](https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB) | 2:42 | 2024-04-26 | 2024-11-22 |
 | [2 Fresh](https://open.spotify.com/track/51c4uJ7B9cxplMLPnPMoRt) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [2 Fresh](https://open.spotify.com/album/3yhOIQQoxiI51WPlUEbhvD) | 2:17 | 2023-09-14 | 2023-10-16 |
-| [20 Degrees](https://open.spotify.com/track/14pxWg0APGTl9mk3dKFNAx) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [20 Degrees](https://open.spotify.com/album/12Vyfh3oSpTNPgdMNNQs1x) | 2:33 | 2025-03-21 |  |
+| [20 Degrees](https://open.spotify.com/track/14pxWg0APGTl9mk3dKFNAx) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [20 Degrees](https://open.spotify.com/album/12Vyfh3oSpTNPgdMNNQs1x) | 2:33 | 2025-03-21 | 2026-02-01 |
 | [234 \(PRBLMS\)](https://open.spotify.com/track/1uXvDZoNNJmXPNt6dGJ9fV) | [2AAB](https://open.spotify.com/artist/0INY0RufOyabGf8TT1hgRC), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [234 \(PRBLMS\)](https://open.spotify.com/album/5PYhGPNQLtnQSawhjaHzq3) | 2:59 | 2023-06-02 | 2023-06-11 |
 | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR) | 3:43 | 2025-08-22 |  |
 | [3AM](https://open.spotify.com/track/6OHJx893brg4fNrgDOEPfH) | [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Belu Vuitton](https://open.spotify.com/artist/0aMcHs9KqS3BM83hwR9Kk9), [Blakkboi](https://open.spotify.com/artist/1irKyDpZ6RCRkVlCm6Sn73) | [3AM](https://open.spotify.com/album/1IqjNIMWcVuDQnvwPxAdtC) | 2:52 | 2025-05-30 | 2025-06-28 |
@@ -460,6 +460,7 @@
 | [Oganigwe](https://open.spotify.com/track/7DRGQ7JVWzXxHbPXOU172t) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Omo Ologo](https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN) | 2:58 | 2023-04-27 | 2024-07-19 |
 | [Oghene](https://open.spotify.com/track/1TGNfm1HCICFHIKM1DMmuL) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4Su2KjN1mxdB5JpT5aAtQw), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [R2 Sept 12](https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB) | 3:04 | 2024-04-26 | 2024-11-22 |
 | [Ogini](https://open.spotify.com/track/67B82yul6EbtJGI1owyzjn) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Prettyboy D\-O](https://open.spotify.com/artist/0FkhtN9D0FYqWSdXDeNRjf) | [NO ZZZZ 2](https://open.spotify.com/album/17gL7RXMOp0Advfm0L7th9) | 3:37 | 2022-10-14 | 2022-10-29 |
+| [OH MY DAYS](https://open.spotify.com/track/0toWffYQiopaESjvTWNz1l) | [Islambo](https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR) | [OH MY DAYS](https://open.spotify.com/album/03NtEqY1Id8juYBHnvSikk) | 1:59 | 2026-01-30 |  |
 | [Okwaraji](https://open.spotify.com/track/4ghRDR6c8VNISdVTCQ5FK4) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love](https://open.spotify.com/album/34tZdQwqkLwmCE6a4armXv) | 2:45 | 2022-06-09 | 2022-10-14 |
 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 | 2022-06-09 | 2023-10-18 |
 | [Olu Maintain](https://open.spotify.com/track/6Hc5qCdQekUa3ALn2KwsPc) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Powpeezy](https://open.spotify.com/artist/6x91G9xyfu0x9rFyUzk9Fv) | [ATSG, Vol\. 1](https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn) | 2:35 | 2023-10-27 | 2024-02-03 |

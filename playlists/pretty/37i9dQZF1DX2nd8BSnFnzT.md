@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: RANCORE
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,501 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,477 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 7 | [História de Verão](https://open.spotify.com/track/0ee4gpvvh89pA1MlYZ7nmt) | [O Grilo](https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO) | [TUDO ACONTECE AO VIVO](https://open.spotify.com/album/18mVYr4LBAOBECfmjVVkkt) | 3:10 |
 | 8 | [Frutífero](https://open.spotify.com/track/2SZ2QCsVtttTB4jNX9oOJX) | [Diogo Defante](https://open.spotify.com/artist/7bvcRZF7XTQzPi0T8jMAyg) | [Frutífero](https://open.spotify.com/album/5NjD5I7YZ5DTYuTNN0QkGK) | 4:57 |
 | 9 | [Orbitando \- Faixa Bônus](https://open.spotify.com/track/6TVxV0IUc6ua13Dt0rPJ6p) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Labirinto da Memória \(Deluxe\)](https://open.spotify.com/album/6WYzBQEt36Hz5ewmK9FTRo) | 2:26 |
-| 10 | [Helena](https://open.spotify.com/track/60uJAwRPVW7rmTY7lBO1CS) | [Lua Dultra](https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU), [Katu Hai](https://open.spotify.com/artist/3W61BezC0rEwXJdmv2UDZ6) | [Helena](https://open.spotify.com/album/0lcLoM63dT3VY1elCHRBwE) | 3:48 |
+| 10 | [Helena](https://open.spotify.com/track/60uJAwRPVW7rmTY7lBO1CS) | [Lua Dultra](https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU) | [Helena](https://open.spotify.com/album/0lcLoM63dT3VY1elCHRBwE) | 3:48 |
 | 11 | [Os Calo](https://open.spotify.com/track/6S71HoKuRv0DkUseOwBWwl) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [XXX](https://open.spotify.com/album/7hblqnTE9JBown6OuvVJNh) | 3:33 |
 | 12 | [Relógio](https://open.spotify.com/track/10ehnUrR5Hbuu2LV2TGN4C) | [Botoneck](https://open.spotify.com/artist/2ZISsBhQQkOcCLAa4OEBYM) | [Perspectiva](https://open.spotify.com/album/7MVLwQzkCwiVraGaEHpw1h) | 3:54 |
 | 13 | [Potinho de Veneno](https://open.spotify.com/track/3smgMtxQbgUXzNCVxWaIeX) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Potinho de Veneno](https://open.spotify.com/album/0FEy7NRnyMSxHF0GSl1Ifw) | 3:23 |

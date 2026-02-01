@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-566 songs - 1 day 9 hr 44 min
+570 songs - 1 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [3.32](https://open.spotify.com/track/59mnJcXOSvRZ9ac99Ans7r) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [3.32](https://open.spotify.com/album/472ZMnbtlayJCQWlopwf5i) | 2:32 | 2025-11-11 | 2025-12-21 |
 | [4thegirl](https://open.spotify.com/track/0K2X58uhUSfVCpPy2H8bl5) | [Velcro Scars](https://open.spotify.com/artist/51nu35m42ANVB85bNip6jy) | [Random Acts of Cynicism](https://open.spotify.com/album/51QpH5x3KiOnybwi7yPKXF) | 4:15 | 2025-12-15 | 2026-01-15 |
 | [6 P.M\. \- Sped Up + Reverbed](https://open.spotify.com/track/13c4SLMyy8znHwt61koe4Z) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [6 P.M\. \(Sped Up + Reverbed\)](https://open.spotify.com/album/5rYYBjP2VsETOIm13VcJ5H) | 3:42 | 2026-01-14 |  |
+| [7 Wonder](https://open.spotify.com/track/2jEa1Hi7nMl4B8LT5yjThF) | [Necrovaye](https://open.spotify.com/artist/0dkN0O2ZrD4FTbEe8beISY) | [7 Wonder](https://open.spotify.com/album/2PVcfUE6GTbR4K8urqQcF0) | 2:29 | 2026-01-31 |  |
 | [9 To 5](https://open.spotify.com/track/7auGZWqcJNoVLmWWzaT6AC) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [Avaraj](https://open.spotify.com/artist/6LTM1sXyyToaTPdm4B4WDC), [Mrshamoozoo](https://open.spotify.com/artist/52HZoaSk1AE7pZ7ayNiq9f) | [9 To 5](https://open.spotify.com/album/4pnCHzfBnXsVnTJxuRBnDX) | 1:45 | 2025-12-30 |  |
 | [A Bad Place To Be Born](https://open.spotify.com/track/3dgJ3pBAYy2O9BOK1gU41x) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [A Bad Place To Be Born](https://open.spotify.com/album/1UFJUNLMyBZcwM37LTvqHK) | 4:01 | 2024-10-03 | 2025-12-28 |
 | [A bird of passage \- Radio Edit](https://open.spotify.com/track/36zXMWF7Szgb3X079H8ZIz) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [A bird of passage \(Radio Edit\)](https://open.spotify.com/album/49wm3IOhMOGWnJfDy1gk24) | 6:08 | 2026-01-13 |  |
@@ -130,6 +131,7 @@
 | [Dieser Moment Mit Dir](https://open.spotify.com/track/2xFZeUDtkclgCGTRqUPg1r) | [Leslie´s Project](https://open.spotify.com/artist/6FxIZD5GYvLPbrdln5RD2f) | [Dieser Moment Mit Dir](https://open.spotify.com/album/2GnhEFSs5b8kTy7PPEH4dG) | 3:18 | 2025-12-15 | 2026-01-15 |
 | [Dimensione Sospesa](https://open.spotify.com/track/60ALwPWjAZpShCXdanf3Vq) | [Angelo Ceriani](https://open.spotify.com/artist/528oQIO898zLSZD9ZjDw5H) | [Canzoni Contromano](https://open.spotify.com/album/3nit3Sz2i15P8Kf4BZUDII) | 4:01 | 2025-10-02 | 2025-11-29 |
 | [Diminuendo](https://open.spotify.com/track/3YbKWayRUzzl86Yu88vvbi) | [Giuseppe Moffa](https://open.spotify.com/artist/5fkDfBiPF2JYEl8VXeg9Np) | [Diminuendo](https://open.spotify.com/album/30H9RvsEPStjBG8ZNNToBr) | 2:02 | 2023-04-20 | 2025-11-29 |
+| [Dimmelo Adesso](https://open.spotify.com/track/5dokQ5aPLUoVuKUMlUYYmy) | [Aless\_andro](https://open.spotify.com/artist/7olRQapU828COnC46pwfzO) | [Dimmelo Adesso](https://open.spotify.com/album/3j3qBXLr6p8gKGIPuNXTOV) | 4:05 | 2026-01-31 |  |
 | [DinéraNotte \(with TK RILLA\)](https://open.spotify.com/track/6VUcnnHpzj05hGj8FT6AQf) | [Dabvno](https://open.spotify.com/artist/6vN7IgF59WJ34A6jEpM1us), [TK RILLA](https://open.spotify.com/artist/1mpNY1gFLdsgOMc6wahxji) | [DinéraNotte \(with TK RILLA\)](https://open.spotify.com/album/3TsGE2vxvKP5quHx0hYJfS) | 2:08 | 2026-01-14 |  |
 | [Disappointment](https://open.spotify.com/track/2hVGmS8Ghk82rXU5q543dj) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Disappointment](https://open.spotify.com/album/0XHhbFHM5TQYB3O5VerbuX) | 4:31 | 2026-01-16 |  |
 | [Discúlpame por favor](https://open.spotify.com/track/5cdp1jlB5RDbywqL9Kaiuk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un ciclo sin remedio](https://open.spotify.com/album/7HKcT6JUt4O8fATJE0ic94) | 3:01 | 2025-12-21 | 2026-01-24 |
@@ -351,6 +353,7 @@
 | [Old Man with Sax \(alt\. Vers\)](https://open.spotify.com/track/1MN5jbDV4H0IxAdzLYQnd6) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Ma sister jumps through fire: a jazz drama](https://open.spotify.com/album/5FW6ouGwJts0HD8PfUFti9) | 4:58 | 2023-04-20 | 2025-11-29 |
 | [Old Roads, New Lights](https://open.spotify.com/track/17Sd8h5ieN2WBmHmuD3XIp) | [Veronika Vail](https://open.spotify.com/artist/68F9KH4EmTnuvZDQul8V0C), [Vector Sneak](https://open.spotify.com/artist/3lqPnVqQ12I42zHSFbM4D5) | [Old Roads, New Lights](https://open.spotify.com/album/4w80XAkEEKxEAXRdZrJTRp) | 3:08 | 2025-12-23 | 2026-01-24 |
 | [On My List](https://open.spotify.com/track/3Q3NnHKP9TWYCYc29lJ9Xs) | [Nuna Shoesmith Sextet](https://open.spotify.com/artist/27DutwUI3nP1AZa96t8SuD) | [Courage](https://open.spotify.com/album/22yRsZW1KCaJdUe74GSdKq) | 3:48 | 2023-04-20 | 2025-11-29 |
+| [On My Way](https://open.spotify.com/track/1NSXdzBae5YVJz1ZBD6y2L) | [OVRTME](https://open.spotify.com/artist/0yqsiKLq7oRCKSDBPk6Rm4) | [On My Way](https://open.spotify.com/album/4Fl8nGmtLOZjiObvfLoL9q) | 3:05 | 2026-01-31 |  |
 | [One Big Love](https://open.spotify.com/track/1TacV2Z6hOXpC0Wxm4GeVx) | [Maria Maltseva](https://open.spotify.com/artist/19a7inyeBBxVwWxFY1n5Lf) | [One Big Love](https://open.spotify.com/album/5wEsY96xkxGfqsmoUM6Un6) | 3:45 | 2025-12-22 | 2026-01-24 |
 | [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 | 2026-01-30 |  |
 | [Our Man in Rajasthan](https://open.spotify.com/track/5fN3GfmiP4a47NbWkJFSxo) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK), [Pakhi Adhikari Kalipada](https://open.spotify.com/artist/7ozw5g9CS05d0lgbhPAmNv), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT) | [Our Man in Rajasthan](https://open.spotify.com/album/75pV5uJWF3Ne8TBBjrFsnL) | 3:59 | 2024-05-23 | 2025-12-28 |
@@ -370,6 +373,7 @@
 | [Pink Suede](https://open.spotify.com/track/4isLl2iFia46IP45efXmRn) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Prod\. MyKey](https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm) | [Pink Suede](https://open.spotify.com/album/5lXKgCMwxyZOWfq8C4CKM6) | 2:32 | 2025-10-17 | 2025-11-29 |
 | [Pista Para Un Perdido \- Versión Acústica](https://open.spotify.com/track/4tg5Il5vh4uNotWbMBENH3) | [Nest](https://open.spotify.com/artist/7uEi7eGkVFgMpTN4cTsc4f) | [Pista Para Un Perdido \(Versión Acústica\)](https://open.spotify.com/album/6Msd5vD7iGt8Hf8P66ozo3) | 3:50 | 2026-01-15 |  |
 | [Playing Games Again](https://open.spotify.com/track/36njWEANR6L7Y7oJwF6PsP) | [Jenner Brandon](https://open.spotify.com/artist/0tzRDLY7TgosQIxgB1mCte) | [Playing Games Again](https://open.spotify.com/album/6S4v3E0vuhnUFFTjoA4zSk) | 2:22 | 2026-01-04 |  |
+| [Polaroid Heartbeats](https://open.spotify.com/track/7rZfePcbPcwUNup9K5UL0K) | [Lyric official](https://open.spotify.com/artist/2i8zdGO7nanhaZfFKxWME4) | [Polaroid Heartbeats](https://open.spotify.com/album/76Zr0yOXBrSD14CwTJixCJ) | 3:00 | 2026-01-31 |  |
 | [Port to Port \(The Lonesome Sailor\)](https://open.spotify.com/track/3GitXkbovHuRvwE9GR4INY) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Julience](https://open.spotify.com/album/11NSFx2W1QyiHDQsJjm1lm) | 4:23 | 2026-01-16 |  |
 | [PORTOFINO](https://open.spotify.com/track/3grfVUE40sDo56NFfrzP2N) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [PORTOFINO](https://open.spotify.com/album/0QhGmfZRTXFCIurpMqus8E) | 3:07 | 2025-09-13 | 2025-11-29 |
 | [POSSESSED GIRL](https://open.spotify.com/track/1hOFHg2ssRGWTZL0IHQ06z) | [Exorcisor](https://open.spotify.com/artist/0WFguk3ZC20eLKXcM70rOT) | [POSSESSED GIRL](https://open.spotify.com/album/1j8WlP6PQR4lWw70YQGEMq) | 3:45 | 2026-01-26 |  |

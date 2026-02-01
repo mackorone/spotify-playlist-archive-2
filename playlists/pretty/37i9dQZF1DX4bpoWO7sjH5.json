@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Marcos Witt",
-  "num_followers": 41230,
+  "num_followers": 41227,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -627,18 +627,18 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/7dkXbTzCNrbLeLwEBDjBrC"
+        "name": "El Gran Milagro",
+        "url": "https://open.spotify.com/album/14BZUzZIxiQi1swJc4Q5zk"
       },
       "artists": [
         {
-          "name": "Jeremy Rosado",
-          "url": "https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY"
+          "name": "Conquistando Fronteras",
+          "url": "https://open.spotify.com/artist/4wSfiTrdcKdVZ7L7wNSaE3"
         }
       ],
-      "duration_ms": 185008,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/2hh3NHe6Z3JyC11wwkHTBG"
+      "duration_ms": 230317,
+      "name": "El Gran Milagro",
+      "url": "https://open.spotify.com/track/2WwgtdDe76Zb4hOg8wYhSK"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -659,18 +659,18 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "El Gran Milagro",
-        "url": "https://open.spotify.com/album/14BZUzZIxiQi1swJc4Q5zk"
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/7dkXbTzCNrbLeLwEBDjBrC"
       },
       "artists": [
         {
-          "name": "Conquistando Fronteras",
-          "url": "https://open.spotify.com/artist/4wSfiTrdcKdVZ7L7wNSaE3"
+          "name": "Jeremy Rosado",
+          "url": "https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY"
         }
       ],
-      "duration_ms": 230317,
-      "name": "El Gran Milagro",
-      "url": "https://open.spotify.com/track/2WwgtdDe76Zb4hOg8wYhSK"
+      "duration_ms": 185008,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/2hh3NHe6Z3JyC11wwkHTBG"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Pa'que Mi Pueblo Cante",
-        "url": "https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "V\u00edstete",
-      "url": "https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Dios Anduvo en Pa\u00f1ales",
         "url": "https://open.spotify.com/album/1XLOzbZqYkWelLKKTQUTCh"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 186712,
       "name": "Dios Anduvo en Pa\u00f1ales",
       "url": "https://open.spotify.com/track/0c5eFeiDpsu7s40DSRbU78"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Pa'que Mi Pueblo Cante",
+        "url": "https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "V\u00edstete",
+      "url": "https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
+        "name": "Ven a Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7dAjKqHAhF30krZOkRr3Xo"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "duration_ms": 207994,
+      "name": "Ven a Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1IhJ1lFqO9IhJnfFRwgFJl"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
         "name": "Noche De Paz",
         "url": "https://open.spotify.com/album/0S9BgleYMmHBmhpNAjoPG3"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 248244,
       "name": "Noche De Paz",
       "url": "https://open.spotify.com/track/7cnp0cRWXtGt0cSE8dSLFh"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "Ven a Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7dAjKqHAhF30krZOkRr3Xo"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Day",
-          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
-        }
-      ],
-      "duration_ms": 207994,
-      "name": "Ven a Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1IhJ1lFqO9IhJnfFRwgFJl"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Folky Navidad",
-        "url": "https://open.spotify.com/album/5vFb6MeUukVCeRcRyp6fi3"
-      },
-      "artists": [
-        {
-          "name": "Papel Mach\u00e9",
-          "url": "https://open.spotify.com/artist/4HHusE5bmlEPr8TodXqV1Q"
-        }
-      ],
-      "duration_ms": 216811,
-      "name": "Cumplea\u00f1os",
-      "url": "https://open.spotify.com/track/52HoxkjHTmMLDbItFbQt7e"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Cantamos Gloria",
         "url": "https://open.spotify.com/album/0i7htaf0ZTPTubP784xd7Q"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 227771,
       "name": "Cantamos Gloria",
       "url": "https://open.spotify.com/track/4Jy3kEtTF3MuGzOXsuXyrg"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Folky Navidad",
+        "url": "https://open.spotify.com/album/5vFb6MeUukVCeRcRyp6fi3"
+      },
+      "artists": [
+        {
+          "name": "Papel Mach\u00e9",
+          "url": "https://open.spotify.com/artist/4HHusE5bmlEPr8TodXqV1Q"
+        }
+      ],
+      "duration_ms": 216811,
+      "name": "Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/52HoxkjHTmMLDbItFbQt7e"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/6lIjL1XdZmY6rKjX2l8Tv0"
-      },
-      "artists": [
-        {
-          "name": "Celeste & Wilber",
-          "url": "https://open.spotify.com/artist/0z8qKQvfadsbeqHhMKIavF"
-        }
-      ],
-      "duration_ms": 277857,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/1EbW5NTsbAwkfy1rUaP2yG"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Celebremos Juntos II",
         "url": "https://open.spotify.com/album/15EAiGTs89wM2bHiS9W3U9"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 208389,
       "name": "Celebremos Juntos II",
       "url": "https://open.spotify.com/track/0ildB0tDK7OSPBzzF4ryLi"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/6lIjL1XdZmY6rKjX2l8Tv0"
+      },
+      "artists": [
+        {
+          "name": "Celeste & Wilber",
+          "url": "https://open.spotify.com/artist/0z8qKQvfadsbeqHhMKIavF"
+        }
+      ],
+      "duration_ms": 277857,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/1EbW5NTsbAwkfy1rUaP2yG"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Glorioso Rey",
-        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 310231,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 264800,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Glorioso Rey",
+        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 310231,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Incontenible Es Tu Amor",
-        "url": "https://open.spotify.com/album/255rwV8lwNBydz4Has3O1D"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 333170,
-      "name": "El Gran Yo Soy",
-      "url": "https://open.spotify.com/track/74qC6iJw5alC14dHvSpT23"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Naci\u00f3 el Rey",
         "url": "https://open.spotify.com/album/0IhrNU0jTTPsNrnxMz0Flz"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 193282,
       "name": "Es Navidad (feat. Marcos Witt)",
       "url": "https://open.spotify.com/track/6Gz8X07dOszrxiPoTVmKnk"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Incontenible Es Tu Amor",
+        "url": "https://open.spotify.com/album/255rwV8lwNBydz4Has3O1D"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 333170,
+      "name": "El Gran Yo Soy",
+      "url": "https://open.spotify.com/track/74qC6iJw5alC14dHvSpT23"
     },
     {
       "added_at": "2025-12-12 05:00:50",

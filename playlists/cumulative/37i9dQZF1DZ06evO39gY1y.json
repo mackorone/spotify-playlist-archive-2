@@ -53,6 +53,28 @@
     },
     {
       "album": {
+        "name": "La Invit\u00e9 a Bailar, Me Dijo Adi\u00f3s Muy Pronto",
+        "url": "https://open.spotify.com/album/79Cm6Btxi0sAfOHn1x4HsP"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Afrutadita",
+      "url": "https://open.spotify.com/track/5bwHiSQsfb3yFR02kxYeL7"
+    },
+    {
+      "album": {
         "name": "Agua Bendita",
         "url": "https://open.spotify.com/album/5E43YpkRr0eDPgiNwXzU6N"
       },
@@ -776,7 +798,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 241000,
       "name": "En Lo Malo Me Va Bien",
       "url": "https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL"

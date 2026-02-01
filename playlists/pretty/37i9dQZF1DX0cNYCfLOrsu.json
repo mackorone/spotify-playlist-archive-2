@@ -1,12 +1,12 @@
 {
   "description": "The best in Dancehall for the gyaldem. Cover: Jada Kingdom",
-  "num_followers": 62719,
+  "num_followers": 62808,
   "original_name": "Dancehall Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC/bVcUWymh2M7M6qxlhzdwVNFmk",
+  "snapshot_id": "AAAAAEbmXsDxykPDo358S4nMXmf/rp7r",
   "tracks": [
     {
       "added_at": "2026-01-23 14:06:44",
@@ -1399,22 +1399,26 @@
     {
       "added_at": "2026-01-23 14:06:44",
       "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/0kHRg6FA7Ql5gNGYTr1iKH"
+        "name": "Hard & Done",
+        "url": "https://open.spotify.com/album/2mdQ5xNL2QOBniNeHrhIDY"
       },
       "artists": [
         {
-          "name": "Lisa Mercedez",
-          "url": "https://open.spotify.com/artist/2uL8gbwzpTKZKSNcCTHm0p"
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
         },
         {
-          "name": "IQ",
-          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
+          "name": "Nyla",
+          "url": "https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy"
+        },
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
         }
       ],
-      "duration_ms": 204695,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/7kFrtjToVEFgUWvOJdDigU"
+      "duration_ms": 160388,
+      "name": "Hard & Done",
+      "url": "https://open.spotify.com/track/50ZQ13cDPuFaSXfWdPwa5n"
     }
   ],
   "unique_name": "Dancehall Queen",

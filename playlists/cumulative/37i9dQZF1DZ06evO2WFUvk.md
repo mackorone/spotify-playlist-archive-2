@@ -4,7 +4,7 @@
 
 > This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
 
-36 songs - 2 hr 26 min
+37 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [La Máquina Del Tiempo](https://open.spotify.com/track/5kS9UDQMhmoDXLdm2zFYQb) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 4:42 | 2023-01-14 |  |
 | [La Partida](https://open.spotify.com/track/6mes0R2e1oe1RZMPHymcHt) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Wiracocha](https://open.spotify.com/artist/3Bed96BaBI1MxnoggMiACW), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Viaje \(Original Soundtrack\)](https://open.spotify.com/album/1qkhgSzOSCwZ809JLv4fJS) | 3:19 | 2023-01-14 |  |
 | [Las Aventuras en el Defe](https://open.spotify.com/track/5xI8SnxPGQA4kSt1InLWud) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 3:26 | 2023-01-14 |  |
+| [Learning to Climb](https://open.spotify.com/track/6Biqaf8r3N0NiRxXFp1Kga) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Learning to Climb](https://open.spotify.com/album/1wjrdSKG4wOqSqyXqrxF3A) | 3:04 | 2026-02-01 |  |
 | [Los Intelectuales](https://open.spotify.com/track/7zPsqNF4oTx9XQMRoNZt5y) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 3:16 | 2023-01-14 |  |
 | [Make Me Feel \- Original Mix](https://open.spotify.com/track/77LQaMRRaciUEzl0NgQN2v) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Deep Inside](https://open.spotify.com/album/31sPRBlkwIXf4wGo3HnA6T) | 7:36 | 2023-01-14 | 2025-11-01 |
 | [Metro Balderas \(Estación del metro Balderas\)](https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:48 | 2023-01-14 |  |

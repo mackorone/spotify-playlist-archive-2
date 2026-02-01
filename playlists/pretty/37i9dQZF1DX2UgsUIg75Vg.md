@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,369,812 likes - 260 songs - 13 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,369,878 likes - 260 songs - 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 3 | [Your Love](https://open.spotify.com/track/5eISFKZXelPjYW4qZTDBo9) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY) | [Honey Water](https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN) | 3:03 |
 | 4 | [Dreaming](https://open.spotify.com/track/5x1dCNl5oITrYHTytJdqup) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS) | 4:44 |
 | 5 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
-| 6 | [NOISY NEIGHBORS](https://open.spotify.com/track/6rPdEbKcUxXOI7tY1oRR0Q) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 3:11 |
+| 6 | [CHANGE OF SCENERY](https://open.spotify.com/track/1FSIvc9mVlodIvzFLzAci3) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 2:52 |
 | 7 | [Break Me In](https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Break Me In](https://open.spotify.com/album/3qAQ2awAKHXsu0SKTKR0Wg) | 2:52 |
 | 8 | [Lullaby](https://open.spotify.com/track/1mOwVgwbD4HWrATknEbCMP) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto) | [Me My Songs & I](https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu) | 3:37 |
 | 9 | [Fly](https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Fly](https://open.spotify.com/album/6Yz1hJu1dIcIlTHmuNZkkY) | 3:06 |
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 259 | [Rotation](https://open.spotify.com/track/7rc1HQlfKhsdhDri8eM5i4) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [LOVE.JONES](https://open.spotify.com/album/1xcouduCLDsvfyp3pltKqO) | 3:35 |
 | 260 | [Lovers To Enemies](https://open.spotify.com/track/3bkyytDbOVfBw1C4YxxV0B) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Confessions of a Loverboy](https://open.spotify.com/album/7H0YUpWlIxLBzRrHBctaWe) | 2:41 |
 
-Snapshot ID: `AAAAAIxnQmpp3UydUt59h2x7tNLHs0D6`
+Snapshot ID: `AAAAAO7FKnKup/Qh84j5DtcUBfZ0+ARc`

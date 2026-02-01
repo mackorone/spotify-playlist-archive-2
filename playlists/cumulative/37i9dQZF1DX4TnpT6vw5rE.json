@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Astralis Novum",
+        "url": "https://open.spotify.com/album/6h6QS75JA46a42bwkiMKKq"
+      },
+      "artists": [
+        {
+          "name": "Ephermal Nights",
+          "url": "https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192084,
+      "name": "Astralis Novum",
+      "url": "https://open.spotify.com/track/473rxPBgRjE8JZAfCWPoQy"
+    },
+    {
+      "album": {
         "name": "Slowly Floating Through Space",
         "url": "https://open.spotify.com/album/372wf1vVLL9okON5afmUxV"
       },
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 170040,
       "name": "Configuration",
       "url": "https://open.spotify.com/track/66QmlqypHwaune2fOlptt5"

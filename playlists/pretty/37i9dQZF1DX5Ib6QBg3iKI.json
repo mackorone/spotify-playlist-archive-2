@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 146765,
+  "num_followers": 146750,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 254437,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
         "name": "The Kacey Musgraves Christmas Show",
         "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 132108,
       "name": "I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show",
       "url": "https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 254437,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
     },
     {
       "added_at": "2025-12-22 16:18:07",

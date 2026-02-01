@@ -4,7 +4,7 @@
 
 > New music from Don Toliver and Rod Wave.
 
-2,634 songs - 5 day 16 hr 31 min
+2,635 songs - 5 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1894,6 +1894,7 @@
 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2020-04-18 | 2020-09-04 |
 | [ROCKSTAR \(feat\. Roddy Ricch\) \- BLM REMIX](https://open.spotify.com/track/4Aykm3xrOFSHrAnv80KUhh) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [ROCKSTAR \(feat\. Roddy Ricch\) \[BLM REMIX\]](https://open.spotify.com/album/3xGZrrUdbVXu3CRXSSsPQZ) | 3:24 | 2020-06-12 | 2020-06-19 |
 | [Rockstar In His Prime](https://open.spotify.com/track/0v36cov6Z6aEV5ZgIlqZMk) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:00 | 2021-12-10 | 2022-03-05 |
+| [ROCKSTAR RAGING \(feat\. Swae Lee\)](https://open.spotify.com/track/0HtowIRBzj2HqgO1XW6eJC) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [ROCKSTAR RAGING \(feat\. Swae Lee\)](https://open.spotify.com/album/5gFv6vDkIvIAuEyXAqMa7Y) | 4:38 | 2026-01-31 |  |
 | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer) | 2:58 | 2022-05-20 | 2022-07-16 |
 | [Rodeo](https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:38 | 2019-06-28 | 2019-08-29 |
 | [Rodeo \- feat\. Nas](https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Rodeo \(feat\. Nas\)](https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE) | 2:25 | 2020-01-27 | 2020-02-14 |

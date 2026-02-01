@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-143 songs - 8 hr 49 min
+144 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [White Devil](https://open.spotify.com/track/2FOLmxfAX5oQiOYanJccZ0) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [A Carnival of Reveries](https://open.spotify.com/album/3PEtGxaEPDtWziE2OUrd6G) | 4:42 | 2025-12-08 | 2025-12-28 |
 | [Wild In The CIty](https://open.spotify.com/track/6UJ7Tx50w0VwQc8GFM1Ghw) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Feel The Heat](https://open.spotify.com/album/1XYLHUy8YpqocGfm14fzyJ) | 4:49 | 2025-10-13 |  |
 | [Wolfman](https://open.spotify.com/track/335KIfI6iRzLsdHTi1PSMc) | [Matt Malone & The Holy Spirits](https://open.spotify.com/artist/24uJIeIX3E40nyx51WZO9M) | [Wolfman](https://open.spotify.com/album/1CpD6xutceVgnNhxK2aW5E) | 3:20 | 2025-11-02 | 2025-12-28 |
+| [Worst Enemy](https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Worst Enemy](https://open.spotify.com/album/1Szbrta34NQhMTsBx3mUcb) | 4:05 | 2026-01-31 |  |
 | [XOX](https://open.spotify.com/track/6NPFMNDnzPigdslFwfXoGm) | [The Haptics](https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV) | [LET IT BURN](https://open.spotify.com/album/7qPN6FUAx44U3Ti7F6Rpxr) | 2:06 | 2025-12-15 | 2026-01-21 |
 | [Your Revolution](https://open.spotify.com/track/1WSbOpf77PWVKHqiPhTdmI) | [Baby and the Beats](https://open.spotify.com/artist/6lOkM52lTEtUVl4qgEHJ7Z) | [Your Revolution](https://open.spotify.com/album/27Q2F1616jpd9nAUjqlnVw) | 3:46 | 2025-12-20 | 2026-01-21 |
 | [Your Way](https://open.spotify.com/track/4QSLf4BxEwJw9T2OyKzAZc) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Your Way](https://open.spotify.com/album/6M71haNo2UkinTsC27uRAn) | 2:56 | 2025-11-02 | 2025-11-21 |

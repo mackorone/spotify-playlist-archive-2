@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-308 songs - 19 hr 56 min
+309 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,8 +154,9 @@
 | [Intro To The Pirate Of Penance \- Live at Le Hibou Coffee House, Ottawa, Ontario, 3/19/1968](https://open.spotify.com/track/1bTR9UrwoIJH5Oa9RHE7Mv) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:44 | 2024-03-21 |  |
 | [Intro To Urge For Going \- Live at Carnegie Hall, New York, NY, 2/1/1969](https://open.spotify.com/track/059opCpPHj4gNxhhXCM2AF) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 1:21 | 2024-03-21 |  |
 | [Introduction \- John Peel \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4FtSsvttVuDgONo3JqRq4q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:21 | 2024-03-21 |  |
-| [Introduction \- Live](https://open.spotify.com/track/7bKgkxu1H5vCsvrHhKnSJR) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shadows and Light](https://open.spotify.com/album/0sk9dYm1TZbsxJ5hIEBuby) | 1:54 | 2024-08-16 |  |
+| [Introduction \- Live](https://open.spotify.com/track/7bKgkxu1H5vCsvrHhKnSJR) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shadows and Light](https://open.spotify.com/album/0sk9dYm1TZbsxJ5hIEBuby) | 1:54 | 2024-08-16 | 2026-02-01 |
 | [Introduction \- Live at Canterbury House, Ann Arbor, MI, 3/10/1968](https://open.spotify.com/track/3GerCWcJRohVTPKZCQR0gK) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 1:02 | 2024-03-21 |  |
+| [Introduction \- Live at the Santa Barbara County Bowl, September 9, 1979](https://open.spotify.com/track/5bqgAgayUyhrB5OQPnC9P9) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shadows and Light \(Live\)](https://open.spotify.com/album/3zVRsmLuV1qVQBcHvD6aDT) | 1:55 | 2026-01-31 |  |
 | [It's Easy \- Chelsea Recording](https://open.spotify.com/track/0dZF6Q7gdoOrqEe8aX5FMl) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 2:12 | 2024-03-21 |  |
 | [Jeremy \(Incomplete\)](https://open.spotify.com/track/2uRi3Zd0UZWcLlqCs9F8Qo) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:08 | 2024-03-21 |  |
 | [Jeremy \- Song To A Seagull Session](https://open.spotify.com/track/0n8kcXmx4hD2JKzOkCQ1Qb) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 3:34 | 2024-03-21 |  |

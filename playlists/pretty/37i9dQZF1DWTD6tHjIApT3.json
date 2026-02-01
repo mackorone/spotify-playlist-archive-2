@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u8309\u3072\u308b Mahiru",
-  "num_followers": 134762,
+  "num_followers": 134776,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
-        "name": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/1fiO9LItKQZ6ZKnPnLBh12"
-      },
-      "artists": [
-        {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/5V9LT2rCDDoIv1pB6bzlza"
-    },
-    {
-      "added_at": "2026-01-27 16:46:34",
-      "album": {
         "name": "BALALAIKA Acoustic Ver.",
         "url": "https://open.spotify.com/album/1v86NbqCrRTOrwotk46lDG"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 226881,
       "name": "BALALAIKA Acoustic Ver.",
       "url": "https://open.spotify.com/track/6rmJJa2t3CBsqqWOjUzuhw"
+    },
+    {
+      "added_at": "2026-01-27 16:46:34",
+      "album": {
+        "name": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/1fiO9LItKQZ6ZKnPnLBh12"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/5V9LT2rCDDoIv1pB6bzlza"
     },
     {
       "added_at": "2026-01-27 16:46:34",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
-        "name": "What the Ripple Sees",
-        "url": "https://open.spotify.com/album/78fhnG5ADzOETko64kqGtW"
-      },
-      "artists": [
-        {
-          "name": "Mili",
-          "url": "https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs"
-        }
-      ],
-      "duration_ms": 239106,
-      "name": "What the Ripple Sees",
-      "url": "https://open.spotify.com/track/2VEM6i965SAXK5A59lXmHa"
-    },
-    {
-      "added_at": "2026-01-27 16:46:34",
-      "album": {
         "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
         "url": "https://open.spotify.com/album/7HjRgi9qbWdYzteTDPvNow"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 262766,
       "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
       "url": "https://open.spotify.com/track/7HXZCDmWVLC3ygAcXw5I6q"
+    },
+    {
+      "added_at": "2026-01-27 16:46:34",
+      "album": {
+        "name": "What the Ripple Sees",
+        "url": "https://open.spotify.com/album/78fhnG5ADzOETko64kqGtW"
+      },
+      "artists": [
+        {
+          "name": "Mili",
+          "url": "https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs"
+        }
+      ],
+      "duration_ms": 239106,
+      "name": "What the Ripple Sees",
+      "url": "https://open.spotify.com/track/2VEM6i965SAXK5A59lXmHa"
     },
     {
       "added_at": "2026-01-27 16:46:34",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8"
+        "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
+        "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
       },
       "artists": [
         {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
         }
       ],
-      "duration_ms": 245065,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO"
+      "duration_ms": 193430,
+      "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
+      "url": "https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6"
     },
     {
       "added_at": "2026-01-27 16:46:34",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
-        "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
-        "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8"
       },
       "artists": [
         {
-          "name": "\u7d2b \u4eca",
-          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 193430,
-      "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
-      "url": "https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6"
+      "duration_ms": 245065,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO"
     },
     {
       "added_at": "2026-01-27 16:46:34",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
-        "name": "\u8cb4\u65b9\u89b3\u6e2c\u65e5\u548c",
-        "url": "https://open.spotify.com/album/52lmLSXU6HmDYwWUmhNtob"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 178162,
-      "name": "\u8cb4\u65b9\u89b3\u6e2c\u65e5\u548c",
-      "url": "https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4"
-    },
-    {
-      "added_at": "2026-01-27 16:46:34",
-      "album": {
         "name": "Belt of Venus",
         "url": "https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 329604,
       "name": "Belt of Venus",
       "url": "https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1"
+    },
+    {
+      "added_at": "2026-01-27 16:46:34",
+      "album": {
+        "name": "\u8cb4\u65b9\u89b3\u6e2c\u65e5\u548c",
+        "url": "https://open.spotify.com/album/52lmLSXU6HmDYwWUmhNtob"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 178162,
+      "name": "\u8cb4\u65b9\u89b3\u6e2c\u65e5\u548c",
+      "url": "https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4"
     },
     {
       "added_at": "2026-01-27 16:46:34",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
+        "name": "\u58f0\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/4n2Fbv9J5fqFbLnjBt5PTi"
+      },
+      "artists": [
+        {
+          "name": "Soala",
+          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "\u58f0\u306e\u8ecc\u8de1",
+      "url": "https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj"
+    },
+    {
+      "added_at": "2026-01-27 16:46:34",
+      "album": {
         "name": "\u221e",
         "url": "https://open.spotify.com/album/43tk1aJAbtbnlIPDtrKIJ9"
       },
@@ -1323,6 +1339,26 @@
       "duration_ms": 237316,
       "name": "\u221e",
       "url": "https://open.spotify.com/track/6ZrX2IRdkDrYwLT2uwnllG"
+    },
+    {
+      "added_at": "2026-01-27 16:46:34",
+      "album": {
+        "name": "Happy Ever After",
+        "url": "https://open.spotify.com/album/6gvgtKoAbqP46vLw46Hrlg"
+      },
+      "artists": [
+        {
+          "name": "\u9df2\u5c3e\u4f36\u83dc",
+          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
+        },
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Happy Ever After",
+      "url": "https://open.spotify.com/track/6ht5QWPzQSQInoRN2v87Ac"
     },
     {
       "added_at": "2026-01-27 16:46:34",
@@ -1391,22 +1427,18 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
-        "name": "Happy Ever After",
-        "url": "https://open.spotify.com/album/6gvgtKoAbqP46vLw46Hrlg"
+        "name": "\u30df\u30ae\u30d2\u30c0\u30ea",
+        "url": "https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z"
       },
       "artists": [
         {
-          "name": "\u9df2\u5c3e\u4f36\u83dc",
-          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
-        },
-        {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+          "name": "Yuka Nagase",
+          "url": "https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX"
         }
       ],
-      "duration_ms": 225533,
-      "name": "Happy Ever After",
-      "url": "https://open.spotify.com/track/6ht5QWPzQSQInoRN2v87Ac"
+      "duration_ms": 184891,
+      "name": "\u30df\u30ae\u30d2\u30c0\u30ea",
+      "url": "https://open.spotify.com/track/6oapMHhwhvjN0iQISpORq9"
     },
     {
       "added_at": "2026-01-27 16:46:34",
@@ -1423,22 +1455,6 @@
       "duration_ms": 224812,
       "name": "Two Of Us",
       "url": "https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68"
-    },
-    {
-      "added_at": "2026-01-27 16:46:34",
-      "album": {
-        "name": "\u30df\u30ae\u30d2\u30c0\u30ea",
-        "url": "https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z"
-      },
-      "artists": [
-        {
-          "name": "Yuka Nagase",
-          "url": "https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX"
-        }
-      ],
-      "duration_ms": 184891,
-      "name": "\u30df\u30ae\u30d2\u30c0\u30ea",
-      "url": "https://open.spotify.com/track/6oapMHhwhvjN0iQISpORq9"
     },
     {
       "added_at": "2026-01-27 16:46:34",
@@ -1511,6 +1527,22 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/69rpY1f8pKvaHgFqIXSJdi"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 225298,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/0wwkJegAXrw6dGg9gdPP8N"
+    },
+    {
+      "added_at": "2026-01-27 16:46:34",
+      "album": {
         "name": "last scene.",
         "url": "https://open.spotify.com/album/23bd5qlw1TCIso2aXmkzZw"
       },
@@ -1543,22 +1575,6 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/69rpY1f8pKvaHgFqIXSJdi"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 225298,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/0wwkJegAXrw6dGg9gdPP8N"
-    },
-    {
-      "added_at": "2026-01-27 16:46:34",
-      "album": {
         "name": "\u30d3\u30bf\u30fc\u30a8\u30c1\u30e5\u30fc\u30c9",
         "url": "https://open.spotify.com/album/3U6a7FD3CjUMxK7HE41zz8"
       },
@@ -1571,38 +1587,6 @@
       "duration_ms": 217600,
       "name": "\u30d3\u30bf\u30fc\u30a8\u30c1\u30e5\u30fc\u30c9",
       "url": "https://open.spotify.com/track/6JKLWsPeeNLlXNw4XXTN0T"
-    },
-    {
-      "added_at": "2026-01-27 16:46:34",
-      "album": {
-        "name": "\u58f0\u306e\u8ecc\u8de1",
-        "url": "https://open.spotify.com/album/4n2Fbv9J5fqFbLnjBt5PTi"
-      },
-      "artists": [
-        {
-          "name": "Soala",
-          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "\u58f0\u306e\u8ecc\u8de1",
-      "url": "https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj"
-    },
-    {
-      "added_at": "2026-01-27 16:46:34",
-      "album": {
-        "name": "\u304f\u3059\u3050\u3063\u305f\u3044\u3002",
-        "url": "https://open.spotify.com/album/5UTPQGDcH5xJUEF4wOVjUp"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "\u304f\u3059\u3050\u3063\u305f\u3044\u3002",
-      "url": "https://open.spotify.com/track/38AcP3Bam3btVBm7UatiTJ"
     },
     {
       "added_at": "2026-01-27 16:46:34",
@@ -1623,6 +1607,22 @@
       "duration_ms": 232096,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6brjskUpqNCIdPDZ1bO8g1"
+    },
+    {
+      "added_at": "2026-01-27 16:46:34",
+      "album": {
+        "name": "\u304f\u3059\u3050\u3063\u305f\u3044\u3002",
+        "url": "https://open.spotify.com/album/5UTPQGDcH5xJUEF4wOVjUp"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "\u304f\u3059\u3050\u3063\u305f\u3044\u3002",
+      "url": "https://open.spotify.com/track/38AcP3Bam3btVBm7UatiTJ"
     },
     {
       "added_at": "2026-01-27 16:46:34",

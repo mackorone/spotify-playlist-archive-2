@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,596 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,592 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 48 | [Christmas in Your Arms](https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4) | [Bad Temper Joe](https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6) | [Christmas in Your Arms](https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A) | 2:43 |
 | 49 | [Christmas Rocks!](https://open.spotify.com/track/2D6MeS0FupmqOPRDchT9j9) | [Smokestack Blues Band](https://open.spotify.com/artist/0ImMr2pKH8DaYvhB6gtV5s) | [Christmas Rocks!](https://open.spotify.com/album/2ipVMM2f0j79rDkFywlEaK) | 3:37 |
 | 50 | [Christmas Time Blues](https://open.spotify.com/track/659ac5HeJ5aG6ihR8lCtBe) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [The Very Best of Roy Milton](https://open.spotify.com/album/47FXnQf2Q3UL2tIP82nMSv) | 3:05 |
-| 51 | [Christmas Morning \(10\-29\-52\)](https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V) | [Titus Turner](https://open.spotify.com/artist/0cilTln9dpUgfKhi52fqP2) | [Classics: 1949\-1954](https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s) | 2:42 |
-| 52 | [Sonny Boy's Christmas Blues](https://open.spotify.com/track/4weFccuXOr6pFIC58i5cvq) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK), [His Harmonica](https://open.spotify.com/artist/3SZ6jDra9YUYwBfwICOY9p), [Houserockers](https://open.spotify.com/artist/2lB3JZ8mfRSa63NWZs4r6R) | [Merry Christmas Baby \(1950\-1951\)](https://open.spotify.com/album/35QfACrmI15EQdKUSQCZ3o) | 2:34 |
+| 51 | [Sonny Boy's Christmas Blues](https://open.spotify.com/track/4weFccuXOr6pFIC58i5cvq) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK), [His Harmonica](https://open.spotify.com/artist/3SZ6jDra9YUYwBfwICOY9p), [Houserockers](https://open.spotify.com/artist/2lB3JZ8mfRSa63NWZs4r6R) | [Merry Christmas Baby \(1950\-1951\)](https://open.spotify.com/album/35QfACrmI15EQdKUSQCZ3o) | 2:34 |
+| 52 | [Christmas Morning \(10\-29\-52\)](https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V) | [Titus Turner](https://open.spotify.com/artist/0cilTln9dpUgfKhi52fqP2) | [Classics: 1949\-1954](https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s) | 2:42 |
 | 53 | [Happy New Year](https://open.spotify.com/track/3jMryalIecyAt3f4PiCGtf) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [The Best Of](https://open.spotify.com/album/4W32kJML1IfiPlSmAQ1hU8) | 3:17 |
 | 54 | [Santa Claus Is Back In Town](https://open.spotify.com/track/0ZoZqNYk87V3tul0yrwXG0) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [A Very Special Christmas 3](https://open.spotify.com/album/2hEKlY7YRSh80urtq66VgB) | 4:19 |
 | 55 | [Baby, It's Cold Outside](https://open.spotify.com/track/2QISYl5ymxANso2WIy7rCN) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Baby, It's Cold Outside](https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4) | 4:31 |
-| 56 | [Christmas 9\-1\-1](https://open.spotify.com/track/3PVDw7nzzFpIghctXFKQCe) | [Sonny Rhodes](https://open.spotify.com/artist/6IzJ8vvCUABlUbz3JN3hnl) | [Stony Plain's Christmas Blues](https://open.spotify.com/album/1E4Wzf4JcS2Rp0VUi94MFs) | 6:07 |
-| 57 | [Christmas Morning Blues](https://open.spotify.com/track/5gIXMjdqGoRoILyzFH65Pi) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Bluebird Recordings](https://open.spotify.com/album/6zDy9OWPCw9CAS89vWQM0X) | 3:23 |
+| 56 | [Christmas Morning Blues](https://open.spotify.com/track/5gIXMjdqGoRoILyzFH65Pi) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Bluebird Recordings](https://open.spotify.com/album/6zDy9OWPCw9CAS89vWQM0X) | 3:23 |
+| 57 | [Christmas 9\-1\-1](https://open.spotify.com/track/3PVDw7nzzFpIghctXFKQCe) | [Sonny Rhodes](https://open.spotify.com/artist/6IzJ8vvCUABlUbz3JN3hnl) | [Stony Plain's Christmas Blues](https://open.spotify.com/album/1E4Wzf4JcS2Rp0VUi94MFs) | 6:07 |
 | 58 | [Merry Christmas Baby](https://open.spotify.com/track/4p4z8a8I9ORaoFqhlEwUSY) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 5:05 |
 | 59 | [Merry Christmas](https://open.spotify.com/track/3OoPWE8UFg4Vu8kMsKRApn) | [Jesse "Babyface" Thomas](https://open.spotify.com/artist/69Yao8jRVjzUue5Mkcoblc) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 3:24 |
 | 60 | [Merry Christmas Baby](https://open.spotify.com/track/4numb7lAi5gbfXLAwRs8gx) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Merry Christmas Baby](https://open.spotify.com/album/0T8ScTKAu8F1ZR7bYBvJSH) | 3:24 |

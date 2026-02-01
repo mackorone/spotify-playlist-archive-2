@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,945 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,992 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 69 | [Daddy](https://open.spotify.com/track/6Do4bqBjIN6ZlAXsBY5050) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Daddy](https://open.spotify.com/album/1jysTp8hYT1f8wb4Mbf45P) | 2:05 |
 | 70 | [When Last \- Remix](https://open.spotify.com/track/06ZEPQuntYP0MAC4D1nztv) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Grateful Co](https://open.spotify.com/artist/13nrySUFCJn8q7RIaSmtb2) | [When Last \(Remix\)](https://open.spotify.com/album/30Z7WKAvQtL56OViOk44de) | 3:14 |
 
-Snapshot ID: `AAAAAHNvLZfnROUDxp2tBQrjdwmG5fLM`
+Snapshot ID: `AAAAAPTS8yzdSAATQKLyKUf2r4d46V86`

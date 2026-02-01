@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 209146,
       "name": "Blood Red",
       "url": "https://open.spotify.com/track/4AnKuPB7x38JYmx2kTod9o"
@@ -3490,6 +3490,24 @@
       "duration_ms": 217669,
       "name": "Ego (Maniac)",
       "url": "https://open.spotify.com/track/4FpAkBPkcL2U2jvdnQwUdL"
+    },
+    {
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132476,
+      "name": "Ego Death",
+      "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
     },
     {
       "album": {
@@ -12149,6 +12167,24 @@
     },
     {
       "album": {
+        "name": "WE ARE EMPIRE",
+        "url": "https://open.spotify.com/album/4GtAnZ58WCp80acUpwM50P"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360216,
+      "name": "WE ARE EMPIRE",
+      "url": "https://open.spotify.com/track/6ose7JySKEZszL4eisoFhM"
+    },
+    {
+      "album": {
         "name": "We Are The Rest",
         "url": "https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE"
       },
@@ -12542,7 +12578,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 448000,
       "name": "Winona",
       "url": "https://open.spotify.com/track/24RP8LdRXT4Om2NxZ0R7OS"

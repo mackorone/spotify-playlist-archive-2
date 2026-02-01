@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 214440,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -16712,7 +16712,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -25038,7 +25038,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 211040,
       "name": "Nehaj tak",
       "url": "https://open.spotify.com/track/5SdanljnIl81vy8nsLYea4"
@@ -25560,6 +25560,32 @@
       "duration_ms": 153043,
       "name": "Neozna\u010den\u00e9 bankovky",
       "url": "https://open.spotify.com/track/50TVvlM2nsa1zk0u7HLdEW"
+    },
+    {
+      "album": {
+        "name": "NEPO",
+        "url": "https://open.spotify.com/album/1HDyLGZFh5kyvZHV5JtIez"
+      },
+      "artists": [
+        {
+          "name": "Mat213",
+          "url": "https://open.spotify.com/artist/3VIkv3HNIvPNwdQIatB5Rx"
+        },
+        {
+          "name": "Franta Pracha\u0159",
+          "url": "https://open.spotify.com/artist/0nKDQIY2quMNZLKHGHXUGU"
+        },
+        {
+          "name": "Anna Mercedes",
+          "url": "https://open.spotify.com/artist/5pvi5tAogKLPvk9yBQxWTt"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "NEPO",
+      "url": "https://open.spotify.com/track/2nRBoOgeS2P8dO5ZUX1CyV"
     },
     {
       "album": {
@@ -31728,7 +31754,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -32516,7 +32542,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 149589,
       "name": "Saf\u00edr",
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
@@ -36086,7 +36112,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 155520,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
@@ -36344,7 +36370,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -38242,7 +38268,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-01",
       "duration_ms": 147428,
       "name": "TINTED WINDOWS",
       "url": "https://open.spotify.com/track/7vyNS9qPNnSTZ1MXDyIzpG"

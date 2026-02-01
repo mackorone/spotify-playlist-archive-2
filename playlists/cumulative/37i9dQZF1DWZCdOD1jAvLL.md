@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Tiga & Boys Noize
 
-941 songs - 2 day 2 hr 50 min
+942 songs - 2 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Fool Me](https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Fool Me](https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh) | 2:13 | 2023-06-23 | 2023-10-28 |
 | [Freak](https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Freak](https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO) | 3:21 | 2025-01-10 | 2025-08-30 |
 | [Freak Machine](https://open.spotify.com/track/0XymbFxLcMhG1oNuwczvMV) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Freak Machine](https://open.spotify.com/album/7LVo7KHu8sZLk8M3wUL6oo) | 3:41 | 2022-06-03 | 2022-10-08 |
+| [Free](https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [ZOHARA](https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2) | [Free](https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl) | 3:56 | 2026-01-30 |  |
 | [Friday](https://open.spotify.com/track/4t5DaUXvdAFahZJtXYGYpH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Friday](https://open.spotify.com/album/4ZW6WBOX3bmgCZUwXAtTLB) | 2:26 | 2022-01-14 | 2022-04-23 |
 | [Friends](https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Friends](https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w) | 2:27 | 2023-03-31 | 2023-08-19 |
 | [Frikitona](https://open.spotify.com/track/0q9YhUuxm8G1UatNDgBAdh) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/7nsb4hMX1yb6GOILmcp7Kl) | 2:54 | 2023-08-18 | 2023-12-17 |
@@ -709,7 +710,7 @@
 | [RING RING](https://open.spotify.com/track/4gtfPZo6ckI7ATOhrYTJql) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [ENNEA](https://open.spotify.com/artist/13FyoL7CyDurBDEoONBu9J), [Rubicini](https://open.spotify.com/artist/63o3tEzgC2KtkSRc3RFMlC) | [RING RING](https://open.spotify.com/album/3Hpza8uC1Km15l6EN6IAlN) | 2:14 | 2025-04-11 | 2025-05-17 |
 | [RIP](https://open.spotify.com/track/17dPQMxsqyWBlNI9mSyAmu) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [RIP](https://open.spotify.com/album/6vpLOIEk5TgMGHIk3OEfC5) | 3:42 | 2022-04-29 | 2022-08-20 |
 | [Rise](https://open.spotify.com/track/71B802cRMsrJ0GuzJH8q8o) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Rise](https://open.spotify.com/album/4RhhoTQSL1nuBWHOuL1Pau) | 3:42 | 2022-12-09 | 2023-10-14 |
-| [Risk It All](https://open.spotify.com/track/4FO0CV9ShbsEgpZQsbXJcz) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb), [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut), [JiLLi](https://open.spotify.com/artist/0MCwtoXvVPYiEpr1A7Agr3) | [Risk It All](https://open.spotify.com/album/78tJCkE9ethJEJTKLhi4NT) | 3:55 | 2025-11-28 |  |
+| [Risk It All](https://open.spotify.com/track/4FO0CV9ShbsEgpZQsbXJcz) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb), [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut), [JiLLi](https://open.spotify.com/artist/0MCwtoXvVPYiEpr1A7Agr3) | [Risk It All](https://open.spotify.com/album/78tJCkE9ethJEJTKLhi4NT) | 3:55 | 2025-11-28 | 2026-02-01 |
 | [RIZZ](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [RIZZ](https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc) | 3:20 | 2024-04-05 | 2025-08-30 |
 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 | 2022-05-13 | 2022-08-20 |
 | [Roll The Dice](https://open.spotify.com/track/3kGAV0R2L8epxVr7FQ5Wpv) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Roll The Dice](https://open.spotify.com/album/2AZ4Obu4mSxijQjXnt1s68) | 4:08 | 2022-03-04 | 2022-06-25 |
