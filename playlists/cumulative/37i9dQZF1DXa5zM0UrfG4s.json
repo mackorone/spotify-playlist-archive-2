@@ -3729,6 +3729,24 @@
     },
     {
       "album": {
+        "name": "HJEM",
+        "url": "https://open.spotify.com/album/3GWLj6KdiZx1qDb1d2fqBM"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151332,
+      "name": "HJEM",
+      "url": "https://open.spotify.com/track/04iXrACbPfc111pClbzXRk"
+    },
+    {
+      "album": {
         "name": "Geasseijat",
         "url": "https://open.spotify.com/album/3shwdZY9LBfiRuAHpt3TNT"
       },
@@ -5950,7 +5968,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 175250,
       "name": "Om igjen",
       "url": "https://open.spotify.com/track/1xjH8AXPen7QsInIual4yF"

@@ -5355,6 +5355,24 @@
     },
     {
       "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/4crMQvV6BNVcEu7ei8pnd1"
+      },
+      "artists": [
+        {
+          "name": "gongwon",
+          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208306,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/4rvPYhCiaSqv24S4UxqFvJ"
+    },
+    {
+      "album": {
         "name": "Flower Tail",
         "url": "https://open.spotify.com/album/2HOtDyfnNtr07GNcoeVtBp"
       },
@@ -11260,7 +11278,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 214640,
       "name": "Mute is Off",
       "url": "https://open.spotify.com/track/6pHBcS2aQTIvUpKB20SJMU"
@@ -12786,7 +12804,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 158000,
       "name": "PASS",
       "url": "https://open.spotify.com/track/0V32dVXNkIfrRrenhbR0Sz"
@@ -16236,6 +16254,24 @@
       "duration_ms": 205076,
       "name": "stuck on you",
       "url": "https://open.spotify.com/track/71mRT3HNtB6KIialwvjnfE"
+    },
+    {
+      "album": {
+        "name": "loop vol. 1 - Sugar",
+        "url": "https://open.spotify.com/album/4MDyxmsFEznFjPrxOaqC1i"
+      },
+      "artists": [
+        {
+          "name": "We Are The Night",
+          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3B0PFLEa5sAcv1eX6g1IFE"
     },
     {
       "album": {

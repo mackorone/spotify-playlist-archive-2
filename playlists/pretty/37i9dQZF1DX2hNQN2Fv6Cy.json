@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 241078,
+  "num_followers": 241294,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Let Me Blow Ya Mind",
-      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 229866,
       "name": "Run It! (feat. Juelz Santana)",
       "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Let Me Blow Ya Mind",
+      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 262226,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 261800,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 262226,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Lucy Pearl",
-        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
-      },
-      "artists": [
-        {
-          "name": "Lucy Pearl",
-          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Don't Mess With My Man",
-      "url": "https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "8701",
         "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 269400,
       "name": "U Don't Have to Call",
       "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Lucy Pearl",
+        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
+      },
+      "artists": [
+        {
+          "name": "Lucy Pearl",
+          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Don't Mess With My Man",
+      "url": "https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "I Care 4 U",
+        "url": "https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 265666,
+      "name": "Are You That Somebody?",
+      "url": "https://open.spotify.com/track/2TNaQWWTeTyig2wsr1BNaL"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Vol. 3... Life And Times Of S. Carter",
         "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 283066,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "I Care 4 U",
-        "url": "https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "Are You That Somebody?",
-      "url": "https://open.spotify.com/track/2TNaQWWTeTyig2wsr1BNaL"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "Trick Me",
+      "url": "https://open.spotify.com/track/3aImJnJlAgcE7bJ1NxthGt"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/6nUnNpoLKWpb9qxhYiT98S"
       },
@@ -2179,38 +2195,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "Trick Me",
-      "url": "https://open.spotify.com/track/3aImJnJlAgcE7bJ1NxthGt"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Dutty Rock",
-        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Like Glue",
-      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Pain Is Love (International Version)",
         "url": "https://open.spotify.com/album/4Xc3wBfUZ9yiszOrttoCXV"
       },
@@ -2231,18 +2215,18 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/2UhhTDJmmzO0vGWpWm0KZN"
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 225533,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/6BUZX2MNhJs0p13ezYtOLp"
+      "duration_ms": 232506,
+      "name": "Like Glue",
+      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2259,6 +2243,22 @@
       "duration_ms": 230053,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/2ujbOwvdiH020TO5EucGiX"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/2UhhTDJmmzO0vGWpWm0KZN"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/6BUZX2MNhJs0p13ezYtOLp"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "If I Could Go (feat. Sacario & Lil Mo) - Single",
-        "url": "https://open.spotify.com/album/5Fm5jXpwSRQYDDfIIC2jn7"
-      },
-      "artists": [
-        {
-          "name": "Angie Martinez",
-          "url": "https://open.spotify.com/artist/6VJqy1YyzrK4ZhgGs9cNTy"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "If I Could Go (feat. Sacario & Lil Mo)",
-      "url": "https://open.spotify.com/track/623M2eiRUKVIDJGTuKsvut"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 293266,
       "name": "Everything Is Everything",
       "url": "https://open.spotify.com/track/09RS0QfhJVmx1zwwEGtMQu"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "If I Could Go (feat. Sacario & Lil Mo) - Single",
+        "url": "https://open.spotify.com/album/5Fm5jXpwSRQYDDfIIC2jn7"
+      },
+      "artists": [
+        {
+          "name": "Angie Martinez",
+          "url": "https://open.spotify.com/artist/6VJqy1YyzrK4ZhgGs9cNTy"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "If I Could Go (feat. Sacario & Lil Mo)",
+      "url": "https://open.spotify.com/track/623M2eiRUKVIDJGTuKsvut"
     },
     {
       "added_at": "2024-07-15 07:37:26",

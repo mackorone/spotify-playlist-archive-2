@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,050 songs - 1 day 17 hr 18 min
+2,052 songs - 1 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Calm Flow Of The River \- Strings Version](https://open.spotify.com/track/2BV6JqhpuPkT8WuTApdiBV) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Flow Of The River \(Strings Version\)](https://open.spotify.com/album/6hkGpiFvnQqSTJlQ96QfL9) | 1:00 | 2024-01-15 | 2024-02-13 |
 | [Calm in the Storm](https://open.spotify.com/track/62K0MoPaI5wETh7rsaAHK6) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Aura](https://open.spotify.com/album/0FVU6l8yPL1RaowRNaGux0) | 1:40 | 2024-01-29 |  |
 | [Calm Mind](https://open.spotify.com/track/1jnXGElUDE7xhu0Lm37zCA) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calm Mind](https://open.spotify.com/album/0nlYjaUkM16phZdfEDhMFj) | 1:00 | 2024-07-02 |  |
+| [Calm Night](https://open.spotify.com/track/2pnsVSCfbFIZiI35pgKSYR) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Calm Night](https://open.spotify.com/album/6gt14lr5bloeww3fhTAQ5I) | 1:00 | 2026-02-01 |  |
 | [Calm Reflection](https://open.spotify.com/track/1f6Zd1w0iDfnVNGT54wLjC) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Reflection](https://open.spotify.com/album/0a4Ky5OOFj8jjhA6qNgxft) | 1:00 | 2024-02-26 |  |
 | [Calm Silence](https://open.spotify.com/track/0cGI8lTL6D2YQF1z3EqUBP) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Calm Silence](https://open.spotify.com/album/6ckurL8LwGjxHs6kNHFj2k) | 1:00 | 2025-01-25 |  |
 | [Calm Solitude Arr\. For Cello](https://open.spotify.com/track/0GpfLHzQs54VBsD9oYutkl) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Solitude](https://open.spotify.com/album/4tBAUa5sn2DudxSygRiEYN) | 1:01 | 2023-04-19 | 2024-02-13 |
@@ -1514,6 +1515,7 @@
 | [Saturday Sunrise](https://open.spotify.com/track/2wTuyBCFGZtUn0Wm5rQBrM) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Saturday Sunrise](https://open.spotify.com/album/4V2lNdfrQB9Mu0R6NfIAFj) | 2:01 | 2022-05-20 | 2024-02-13 |
 | [Saturn](https://open.spotify.com/track/2ss7QQYRcRKnbhSWFUWJQT) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [The Planets](https://open.spotify.com/album/7ljRCBTVAkXyyDmZ2qNOgT) | 1:11 | 2022-01-12 |  |
 | [Saudade](https://open.spotify.com/track/1MiKy3cGvmsyiRBe7qke1s) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Saudade](https://open.spotify.com/album/5rL9OmC5CtHDQmJ49BFkzc) | 1:59 | 2022-01-12 | 2024-01-30 |
+| [Savor](https://open.spotify.com/track/0NY9UhwnU24o3GqHX6HZPz) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Savor](https://open.spotify.com/album/2U598857KpeMhQjFSEOAMa) | 1:00 | 2026-02-02 |  |
 | [Saying Goodbye](https://open.spotify.com/track/41l7D8c4Vd9e5bBaeeAukY) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Songs Without Words](https://open.spotify.com/album/0rhu5ZYpDAN0J9Njc4zHb7) | 1:35 | 2024-01-29 |  |
 | [Scarborough Fair](https://open.spotify.com/track/2eUTtVBI4H0mmz6iC25bJD) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Celtic Melodies](https://open.spotify.com/album/2WQmQWUaSHMCY8H50XC32Y) | 2:00 | 2022-01-12 | 2024-01-30 |
 | [Scenes From A Park](https://open.spotify.com/track/17TwBVAVC4YxYPZTZ5dnzM) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Scenes From A Park](https://open.spotify.com/album/1AkrbfVqPDmCX85mXMFE5i) | 1:04 | 2024-01-29 |  |

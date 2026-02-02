@@ -2075,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "The 3rd Digital Single BRUISE",
+        "url": "https://open.spotify.com/album/0Hnt6Uo4wPdBvh0Yb4oSrI"
+      },
+      "artists": [
+        {
+          "name": "8TURN",
+          "url": "https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "BRUISE",
+      "url": "https://open.spotify.com/track/5eYhUukI5PVCqSLOmO8Idq"
+    },
+    {
+      "album": {
         "name": "Go Back To The Future",
         "url": "https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM"
       },
@@ -4184,7 +4202,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 176847,
       "name": "Fame",
       "url": "https://open.spotify.com/track/1nEhhkEidrTOtc46fCvRFp"
@@ -4620,7 +4638,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 188000,
       "name": "FORMULA",
       "url": "https://open.spotify.com/track/7z81drJrJ391T2RRwFLNTk"
@@ -4638,7 +4656,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "FREAK ALARM",
       "url": "https://open.spotify.com/track/4LYM1IwuTq6b5vqTdQTbag"
@@ -5428,7 +5446,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 199000,
       "name": "Grenade",
       "url": "https://open.spotify.com/track/69erutIC5E9VFHtDKerTkd"
@@ -10766,6 +10784,24 @@
       "duration_ms": 182893,
       "name": "ROCK THANG",
       "url": "https://open.spotify.com/track/19Rqlm7wniVmb2XejSVlE9"
+    },
+    {
+      "album": {
+        "name": "ROCK THE NATION",
+        "url": "https://open.spotify.com/album/2TjwZqt5ndVe6sQTNrS6bF"
+      },
+      "artists": [
+        {
+          "name": "WHIB",
+          "url": "https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "ROCK THE NATION",
+      "url": "https://open.spotify.com/track/5eUqyBKFdnSDjaljStvIbC"
     },
     {
       "album": {

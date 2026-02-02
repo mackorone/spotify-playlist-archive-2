@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: giuliette price",
-  "num_followers": 12718,
+  "num_followers": 12721,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,42 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
+        "name": "The Y-Factor Project",
+        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
+      },
+      "artists": [
+        {
+          "name": "Billy Monama",
+          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
+        },
+        {
+          "name": "MoAfrika Wa Mokgathi",
+          "url": "https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs"
+        }
+      ],
+      "duration_ms": 258920,
+      "name": "Elusive Freedom",
+      "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "In The Wake",
+        "url": "https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "duration_ms": 418730,
+      "name": "Clarion Call",
+      "url": "https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
         "name": "Njia",
         "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
       },
@@ -351,42 +387,6 @@
       "duration_ms": 113750,
       "name": "Njia",
       "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "In The Wake",
-        "url": "https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 418730,
-      "name": "Clarion Call",
-      "url": "https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "The Y-Factor Project",
-        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
-      },
-      "artists": [
-        {
-          "name": "Billy Monama",
-          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
-        },
-        {
-          "name": "MoAfrika Wa Mokgathi",
-          "url": "https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs"
-        }
-      ],
-      "duration_ms": 258920,
-      "name": "Elusive Freedom",
-      "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -699,30 +699,6 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU"
-      },
-      "artists": [
-        {
-          "name": "Tutu Puoane",
-          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jacomo Bairos",
-          "url": "https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3"
-        }
-      ],
-      "duration_ms": 416493,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 304495,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU"
+      },
+      "artists": [
+        {
+          "name": "Tutu Puoane",
+          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jacomo Bairos",
+          "url": "https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3"
+        }
+      ],
+      "duration_ms": 416493,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
+        "name": "MaBrrrrrrrrr",
+        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "duration_ms": 296678,
+      "name": "MaBrrrrrrrrr",
+      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
         "name": "Apho Kungenje",
         "url": "https://open.spotify.com/album/7BgstqFLclam34XUZfiX33"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 413906,
       "name": "Ebhedini",
       "url": "https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "MaBrrrrrrrrr",
-        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Jiyane Tree-O",
-          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
-        }
-      ],
-      "duration_ms": 296678,
-      "name": "MaBrrrrrrrrr",
-      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
     },
     {
       "added_at": "2025-11-07 00:07:51",

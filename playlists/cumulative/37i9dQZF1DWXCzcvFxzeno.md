@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry + Shlømo
 
-341 songs - 23 hr 34 min
+342 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Come With Me](https://open.spotify.com/track/5nHaB4kZ5QT8cH4Ie31ssY) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Come With Me](https://open.spotify.com/album/22DsxCKPqrUUOUG5E3x5Cm) | 3:59 | 2025-09-05 | 2025-12-03 |
 | [Control](https://open.spotify.com/track/7DiK4Zb8foUGz0DdmLGOCH) | [Clara Cuvé](https://open.spotify.com/artist/7daFW9cX9jHmOxZ0PIofRm) | [Sektion 1](https://open.spotify.com/album/4C3R1RL6h7EkNvTJnwwV1j) | 5:43 | 2024-04-09 | 2024-10-01 |
 | [CONTROL YOUR BODY](https://open.spotify.com/track/3xTwHPwWKMWrWgyN22Qk2h) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [CONTROL YOUR BODY](https://open.spotify.com/album/61k2pkPgF5ky2mjy7ZrBBa) | 3:36 | 2025-12-12 |  |
+| [Crowd Operator](https://open.spotify.com/track/5I11zu7bajz0ctX3vYVML0) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Crowd Operator](https://open.spotify.com/album/4bZgI0aJv7TCz0nMpX0Tbo) | 3:45 | 2026-01-29 |  |
 | [Crush](https://open.spotify.com/track/4BuT5v6lb1LYYtzHntnhfx) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Crush](https://open.spotify.com/album/4i0OpEAjeFGlaySj85Lh6g) | 2:13 | 2025-05-16 | 2025-07-30 |
 | [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-24 | 2025-07-25 |
 | [Daitarn](https://open.spotify.com/track/1e11DOVqj6bIxTuoGdYDcI) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Daitarn](https://open.spotify.com/album/3y7pMrwrSgyGfNDVfKO7cU) | 3:23 | 2025-07-25 | 2025-10-11 |
@@ -199,7 +200,7 @@
 | [Looking 4 Balance](https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Various Artists \- EP 3](https://open.spotify.com/album/7Drk0jXeEUhOkK7ohIZlil) | 6:22 | 2024-04-09 | 2024-08-14 |
 | [Lose Control](https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [T A N E](https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn) | [Lose Control](https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn) | 2:31 | 2024-12-13 |  |
 | [Lose Their Shit](https://open.spotify.com/track/0L94j90lQBZ1VOyAcBnyXp) | [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV), [Dottychu](https://open.spotify.com/artist/6yjC123viK1Ap6KEdPRyIm) | [Lose Their Shit \(feat\. Dottychu\)](https://open.spotify.com/album/0oXbCQU7Ophzv84gWr1Cqs) | 3:15 | 2024-07-14 | 2024-11-01 |
-| [LSD](https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [LSD](https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo) | 2:36 | 2024-11-08 |  |
+| [LSD](https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [LSD](https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo) | 2:36 | 2024-11-08 | 2026-02-02 |
 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 | 2024-04-09 | 2024-06-19 |
 | [Magic Feet](https://open.spotify.com/track/7p7XX2brjwJG6DP4S34EPH) | [RobJanssen](https://open.spotify.com/artist/2FDAjR63mWtjnNpVo6ZB4X) | [Magic Feet](https://open.spotify.com/album/2KSFw3D1cGAITmkYQYFish) | 3:54 | 2024-07-14 | 2024-07-22 |
 | [Massive Attack](https://open.spotify.com/track/2MlYnCsWXwMyVVQMZmYMYr) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Massive Attack](https://open.spotify.com/album/2RmsWUdkRKEIrcQhSVFCLF) | 4:06 | 2024-04-09 | 2024-07-27 |

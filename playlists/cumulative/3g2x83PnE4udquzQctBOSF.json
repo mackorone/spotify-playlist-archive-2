@@ -6431,6 +6431,24 @@
     },
     {
       "album": {
+        "name": "Party Days (Club Mix)",
+        "url": "https://open.spotify.com/album/4okSDIP3oazeyDubqCine7"
+      },
+      "artists": [
+        {
+          "name": "Tess Mac Keen",
+          "url": "https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212802,
+      "name": "Party Days (Club Mix)",
+      "url": "https://open.spotify.com/track/2D6oTGHTjPvO7M4tk23ZoX"
+    },
+    {
+      "album": {
         "name": "PEOPLE",
         "url": "https://open.spotify.com/album/4VbAEgz7EDCz8k6C4z6hRn"
       },

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,765 songs - 4 day 10 hr 41 min
+1,766 songs - 4 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [Fireside](https://open.spotify.com/track/0ZDHsXc2Oe3PXKaNH38tR2) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Fireside](https://open.spotify.com/album/3hKn1c0BwHI1PzWQELe6tM) | 2:29 | 2025-11-21 |  |
 | [FIRST](https://open.spotify.com/track/0fefDKmSDmws0zzhIJzdG8) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4G5ugJrdVIQM3l3MaTsFpi) | 3:49 | 2025-10-24 |  |
 | [FIRST](https://open.spotify.com/track/553SWInFyd53tSE1pG7bgG) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:49 | 2025-12-01 |  |
+| [FIRST \- LIVE AT THE PUB](https://open.spotify.com/track/2Hbsuhl4xxHs6Nb4cARevw) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST \(LIVE AT THE PUB\)](https://open.spotify.com/album/7dSAOE0d05FwcUYrbFadqh) | 3:42 | 2026-02-01 |  |
 | [First day of the month](https://open.spotify.com/track/4jd1pxuPftkrDIPAxn1if5) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Paranoia](https://open.spotify.com/album/4DvnfJcQj24VSJ2PCMsFHR) | 2:45 | 2025-10-21 |  |
 | [Fleeting Moments](https://open.spotify.com/track/054ywE1bujWhjkPfECvg6U) | [Javier](https://open.spotify.com/artist/3fEkFHLCGHSQ2YNM3dyz0P) | [Echoes of Tomorrow](https://open.spotify.com/album/00NEKdR6p91zs5Q5VHUTT9) | 4:14 | 2025-05-26 |  |
 | [Flexzolit](https://open.spotify.com/track/6XIAG7gM4CDFIP2fJywGwA) | [Gregory Shaggy](https://open.spotify.com/artist/4ln0VnkzzqUmTTwBK9Io1w), [Jojo Wavy](https://open.spotify.com/artist/4xq9B09qPeGipdrCRm7ZbQ) | [Flexzolit](https://open.spotify.com/album/2uwqZx5lkldkvzyIYGq6XC) | 2:25 | 2025-12-15 |  |

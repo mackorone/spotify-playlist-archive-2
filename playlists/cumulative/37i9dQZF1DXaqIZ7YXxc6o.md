@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: John Summit
 
-3,745 songs - 8 day 13 hr 14 min
+3,746 songs - 8 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1804,6 +1804,7 @@
 | [Just Say \- DJ Sliink Remix](https://open.spotify.com/track/0E0tSPI5JZz8Aq1y1DbFEQ) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Just Say \(DJ Sliink Remix\)](https://open.spotify.com/album/15YPQEfHQwtk8rcgSDPtBY) | 2:12 | 2023-01-19 | 2023-02-03 |
 | [Just the Kinda Feeling](https://open.spotify.com/track/2tHBUiReIreeqlCldkBXUI) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Growth](https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI) | 3:34 | 2023-02-02 | 2023-03-03 |
 | [Just The Way You Are](https://open.spotify.com/track/6v0I4vstyfyoHK2p35vHlS) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Just The Way You Are](https://open.spotify.com/album/1WArdrd1ephpGZHcKX8qgo) | 5:09 | 2024-08-22 | 2024-10-11 |
+| [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 | 2026-02-01 |  |
 | [Just Us](https://open.spotify.com/track/5dXKYalDeLV7IaO5OVw2ef) | [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Just Us](https://open.spotify.com/album/2Z0kbF35GK2ahzos4iBJfD) | 4:22 | 2023-10-26 | 2023-11-17 |
 | [JUSTICE](https://open.spotify.com/track/5HfcN9OowIB7cWmBtczSnT) | [Justice Crew](https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b) | [JUSTICE](https://open.spotify.com/album/0Em9lIzuOZAhPoItTI9Gms) | 2:31 | 2025-07-31 | 2025-09-13 |
 | [Justin's Song \(Timmy Trumpet Remix\) \- Radio Edit](https://open.spotify.com/track/5dcnXBFUWfuWL5GhMAysgj) | [Riotron](https://open.spotify.com/artist/6oW4zCSDSA4RTCwFpatN3k), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Justin's Song \(Timmy Trumpet Remix\)](https://open.spotify.com/album/40E6dR5x46LZzciWdJvde8) | 2:43 | 2023-10-06 | 2023-10-20 |
@@ -3628,7 +3629,7 @@
 | [Whole Gang](https://open.spotify.com/track/5XSBpfojqqSELHLQ8RhyMh) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Weekend EP](https://open.spotify.com/album/0XndSAiDhn9uDkpTrX2Rec) | 3:42 | 2023-12-19 | 2024-01-19 |
 | [Whole Lotta Drugs](https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Whole Lotta Drugs / Over The Edge](https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn) | 3:28 | 2024-04-04 | 2024-05-24 |
 | [Why I Love You So](https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV) | [Why I Love You So](https://open.spotify.com/album/4JF0zqoAl589waMex3Y1nx) | 2:53 | 2024-08-08 | 2024-09-20 |
-| [Wicked Game](https://open.spotify.com/track/1nTIzrBPl6PLG6SokJ89lP) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Wicked Game](https://open.spotify.com/album/3tljDywU5DOVRM3J9bZWoO) | 3:51 | 2025-12-04 |  |
+| [Wicked Game](https://open.spotify.com/track/1nTIzrBPl6PLG6SokJ89lP) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Wicked Game](https://open.spotify.com/album/3tljDywU5DOVRM3J9bZWoO) | 3:51 | 2025-12-04 | 2026-02-02 |
 | [wide awake](https://open.spotify.com/track/4jOeXb2wVeFcQMUHe3333z) | [Nuxe](https://open.spotify.com/artist/5Sq2960LCdGIniRjmbmT6G), [Clea](https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl) | [wide awake](https://open.spotify.com/album/2HzG5LJbMvb5RV6GBvjKXJ) | 3:29 | 2023-03-09 | 2023-03-31 |
 | [Wig Owt](https://open.spotify.com/track/74MV9oIXKs0jw4LB5qn80o) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Wig Owt](https://open.spotify.com/album/6r86E8aLCHw6OFTSFzl7Cq) | 3:13 | 2023-09-28 | 2023-10-20 |
 | [Wikidest DJ](https://open.spotify.com/track/23Vzz30Kuo6mvtC08pTBX0) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Wikidest DJ](https://open.spotify.com/album/0kbT9bsuLwT17rK9zp3Gzr) | 2:56 | 2024-04-04 | 2024-06-21 |

@@ -1,6 +1,6 @@
 {
   "description": "a state of mind.",
-  "num_followers": 206121,
+  "num_followers": 206221,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
+        "name": "Ring Of Fire: The Best Of Johnny Cash",
+        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 157913,
       "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
       "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
-    },
-    {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
-        "name": "Ring Of Fire: The Best Of Johnny Cash",
-        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/3s5NrHgyTkuinl0TgHCHeK"
     },
     {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 238211,
+      "name": "Drunk Driving",
+      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
+    },
+    {
       "added_at": "2026-01-09 05:00:37",
       "album": {
         "name": "With Heaven On Top",
@@ -303,22 +319,6 @@
       "duration_ms": 201898,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
-    },
-    {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 238211,
-      "name": "Drunk Driving",
-      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
     },
     {
       "added_at": "2026-01-09 05:00:37",
@@ -579,6 +579,38 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 345120,
+      "name": "High Cost Of Living",
+      "url": "https://open.spotify.com/track/73sWpECi7iZrcISLSRxuaH"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
+        "name": "The Ramblin' Man",
+        "url": "https://open.spotify.com/album/353z5yWoQlug84akazanpg"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 170166,
+      "name": "I'm a Ramblin' Man",
+      "url": "https://open.spotify.com/track/24uwABPWPejBuvFL4tMkvD"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
         "name": "Shine On Rainy Day",
         "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
       },
@@ -627,18 +659,18 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+        "name": "Montana Caf\u00e9",
+        "url": "https://open.spotify.com/album/4Wp49MODsJfTP1n0ZspbHf"
       },
       "artists": [
         {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 345120,
-      "name": "High Cost Of Living",
-      "url": "https://open.spotify.com/track/73sWpECi7iZrcISLSRxuaH"
+      "duration_ms": 237866,
+      "name": "Country State Of Mind",
+      "url": "https://open.spotify.com/track/262r1LfhrukxXCMymvPaTA"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -659,34 +691,18 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
-        "name": "Montana Caf\u00e9",
-        "url": "https://open.spotify.com/album/4Wp49MODsJfTP1n0ZspbHf"
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 237866,
-      "name": "Country State Of Mind",
-      "url": "https://open.spotify.com/track/262r1LfhrukxXCMymvPaTA"
-    },
-    {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
-        "name": "The Ramblin' Man",
-        "url": "https://open.spotify.com/album/353z5yWoQlug84akazanpg"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 170166,
-      "name": "I'm a Ramblin' Man",
-      "url": "https://open.spotify.com/track/24uwABPWPejBuvFL4tMkvD"
+      "duration_ms": 240106,
+      "name": "Long Haired Country Boy",
+      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -707,22 +723,6 @@
       "duration_ms": 287626,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
-    },
-    {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Long Haired Country Boy",
-      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
-        "name": "Take This Job And Shove It",
-        "url": "https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI"
-      },
-      "artists": [
-        {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
-        }
-      ],
-      "duration_ms": 157773,
-      "name": "Take This Job and Shove It",
-      "url": "https://open.spotify.com/track/63CbvkHcX8VBn09CCcGDLQ"
-    },
-    {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
         "name": "That Lonesome Song",
         "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 251960,
       "name": "Between Jennings And Jones",
       "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
+        "name": "Take This Job And Shove It",
+        "url": "https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI"
+      },
+      "artists": [
+        {
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+        }
+      ],
+      "duration_ms": 157773,
+      "name": "Take This Job and Shove It",
+      "url": "https://open.spotify.com/track/63CbvkHcX8VBn09CCcGDLQ"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
         "name": "Whiskey Bent And Hell Bound",
         "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 232493,
       "name": "The Conversation",
       "url": "https://open.spotify.com/track/7GIBwtwVahJvvpot8g4Z4V"
-    },
-    {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Poncho & Lefty",
-      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
-      },
-      "artists": [
-        {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "I'm the Only Hell (Mama Ever Raised)",
-      "url": "https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR"
-    },
-    {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
         "name": "Walking Distance",
         "url": "https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 196866,
       "name": "Feelin' Good Again",
       "url": "https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "I'm the Only Hell (Mama Ever Raised)",
+      "url": "https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/06MnI6bTrVI0i1RLntTass"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "duration_ms": 283146,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/6XHJItDN9BGgMmaAAdvMZ9"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
         "name": "I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday",
         "url": "https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq"
       },
@@ -1219,6 +1235,22 @@
       "duration_ms": 121400,
       "name": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday)",
       "url": "https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj"
+    },
+    {
+      "added_at": "2026-01-09 05:00:37",
+      "album": {
+        "name": "American Love Song",
+        "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 232524,
+      "name": "Jingle and Go",
+      "url": "https://open.spotify.com/track/42Wvzdf5yRnjE3C6XjYYVV"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -1235,22 +1267,6 @@
       "duration_ms": 213888,
       "name": "White River",
       "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
-    },
-    {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
-        "name": "Shooting Star",
-        "url": "https://open.spotify.com/album/06MnI6bTrVI0i1RLntTass"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
-        }
-      ],
-      "duration_ms": 283146,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/6XHJItDN9BGgMmaAAdvMZ9"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -1279,22 +1295,6 @@
       "duration_ms": 220796,
       "name": "Bonfire At Tina's",
       "url": "https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z"
-    },
-    {
-      "added_at": "2026-01-09 05:00:37",
-      "album": {
-        "name": "American Love Song",
-        "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
-      },
-      "artists": [
-        {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
-        }
-      ],
-      "duration_ms": 232524,
-      "name": "Jingle and Go",
-      "url": "https://open.spotify.com/track/42Wvzdf5yRnjE3C6XjYYVV"
     },
     {
       "added_at": "2025-10-08 18:07:38",

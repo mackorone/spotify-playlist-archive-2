@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: NEL, Hania
 
-714 songs - 1 day 10 hr 52 min
+715 songs - 1 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Bestie, Move On](https://open.spotify.com/track/5RCo8gwmcHB8cRyKrOVOOk) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 3:31 | 2025-01-23 | 2025-05-16 |
 | [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 | 2025-05-01 | 2025-08-27 |
 | [Bez Ciebie](https://open.spotify.com/track/3HdQwGJ9gbYCH2YwqatNoR) | [Berie](https://open.spotify.com/artist/2hUbI0ebOh5Aq8QS1XB54r) | [Bez Ciebie](https://open.spotify.com/album/46XHKQ8GBkUoHoTugf8pjo) | 3:18 | 2025-03-06 | 2025-03-14 |
-| [Bez Ciebie](https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 3:37 | 2025-09-23 |  |
+| [Bez Ciebie](https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 3:37 | 2025-09-23 | 2026-02-02 |
 | [Bez siebie](https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Bez siebie](https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p) | 2:58 | 2025-08-26 | 2025-12-14 |
 | [BEZ STRESU](https://open.spotify.com/track/38Jen8MKWIwtRDOhbxFCzG) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Rumak](https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [LATARNIE WSZĘDZIE DAWNO ZGASŁY](https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL) | 4:16 | 2025-12-18 |  |
 | [Bez szans](https://open.spotify.com/track/56OpBZfaegA6brrWpTb6Rk) | [Wojtek Stefanowski](https://open.spotify.com/artist/54TNNqTljkBCh8TkJt6DIu) | [Bez szans](https://open.spotify.com/album/5IYt2n6hbMk5fVwiFA66df) | 2:40 | 2024-06-28 | 2024-08-23 |
@@ -700,6 +700,7 @@
 | [Zapomnij Mnie](https://open.spotify.com/track/4pjWbIByb1viHxrsKleGCF) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Zapomnij Mnie](https://open.spotify.com/album/6r7P6UnFxFnmYlO7HK7EJi) | 2:58 | 2025-03-27 | 2025-06-13 |
 | [Zaryzykuję](https://open.spotify.com/track/1ykxcLXLmkq4lliBqDbG4F) | [Jan Majewski](https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi) | [Zaryzykuję](https://open.spotify.com/album/1lqjH7MbV6C1lHvQimYxs3) | 2:39 | 2025-02-20 | 2025-02-22 |
 | [Zawsze](https://open.spotify.com/track/3OLUmPycj7LGskLHNLoQGd) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [Zawsze](https://open.spotify.com/album/3WQ2cHU59lxOpc9JVgT7qr) | 2:29 | 2025-02-20 | 2025-04-25 |
+| [Ze stali](https://open.spotify.com/track/5Zdq0ubjxhpzlIAFE6rroT) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Ze stali](https://open.spotify.com/album/5fewcblY1gdnc9tkpjPV2C) | 2:11 | 2026-01-30 |  |
 | [zero dwa](https://open.spotify.com/track/5jKEhld4eJ5emfvC5fpeyA) | [pik pik](https://open.spotify.com/artist/2tg8M5no3GJwNf0XBq4tcY), [Marianna Matyja](https://open.spotify.com/artist/69C3K642BGqBEFR5au5t48) | [zero dwa](https://open.spotify.com/album/11VxtaKa4FqvRxw42414cv) | 4:08 | 2024-07-18 | 2024-09-20 |
 | [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/album/4IwEr0wyufB7BrcKE1uNTM) | 3:55 | 2024-08-01 | 2025-01-24 |
 | [Zimna woda](https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud) | [Basia Giewont](https://open.spotify.com/artist/7cxbQTlqES2I9xbf2DErr9) | [Szeptucha](https://open.spotify.com/album/5dBwx9W01trP3vTTvEdHmQ) | 2:40 | 2026-01-22 |  |

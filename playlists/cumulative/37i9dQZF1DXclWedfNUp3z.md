@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-472 songs - 1 day 8 hr 22 min
+473 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [No tiempo](https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 3:35 | 2022-08-02 | 2024-04-19 |
 | [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-02 | 2022-09-03 |
 | [Noodles](https://open.spotify.com/track/17Wzd6vAVq0qJqxHHc1iQ3) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Noodles](https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60) | 4:52 | 2022-03-30 | 2022-06-22 |
-| [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 | 2022-01-14 |  |
+| [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 | 2022-01-14 | 2026-02-02 |
 | [Nutrition \- Single Edit](https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00) | [Tenka](https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw), [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Nutrition](https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi) | 4:39 | 2022-09-15 | 2024-08-15 |
 | [Nylon Bell Pot](https://open.spotify.com/track/6EoUeqkKpALb2HXWyEYIDk) | [Ben Hackett](https://open.spotify.com/artist/050oABtOYcWMjuoWR7saCa) | [Nylon Bell Pot / Loose Changes 2](https://open.spotify.com/album/3fQsUY9826C3ccViItiPO7) | 3:37 | 2025-03-27 |  |
 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 | 2021-10-20 | 2022-07-27 |
@@ -455,6 +455,7 @@
 | [Wake Me Softly](https://open.spotify.com/track/7JPzLU6ako27gbSXZGjQ62) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Wake Me Softly](https://open.spotify.com/album/6ARc0MH301kItHchIEZJST) | 4:30 | 2021-10-20 |  |
 | [Waking Up Is Hard Sometimes](https://open.spotify.com/track/19umVTVtQDDhqjnJjsSByX) | [a boy with a balloon](https://open.spotify.com/artist/2RU6buhw0TjkxXj5oIyDX8) | [Waking Up Is Hard Sometimes](https://open.spotify.com/album/4aZcpDhJ82gGFgwuVLAkBw) | 2:16 | 2021-10-20 | 2025-07-11 |
 | [Warmth in the Dark](https://open.spotify.com/track/5jMSxkwkdVCGeTxtIGlbyr) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Warmth in the Dark](https://open.spotify.com/album/0ohAn4f6Pv9lk179Exs5F6) | 3:29 | 2023-03-03 | 2023-09-22 |
+| [Watermelon Well](https://open.spotify.com/track/4P0VaKvN6XffglDI00Kxr3) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa), [John Thayer](https://open.spotify.com/artist/0epYBMvUpoUYstNjLNHL4k) | [Watermelon Well](https://open.spotify.com/album/0nNsXUIdgSoz2kVRbOyRDL) | 3:41 | 2026-01-30 |  |
 | [We Lay Down in a Field of Orange Flowers and We Listened to the Birds](https://open.spotify.com/track/25np9YI8L2IWtcxDoTFgoG) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [Flues of Forgotten Sands](https://open.spotify.com/album/7mXP8hv5XTR0PkY7J4gbOp) | 19:33 | 2022-07-15 | 2024-08-15 |
 | [Welcome](https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [7RAYS](https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx) | [Music For Psychedelic Therapy](https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH) | 6:22 | 2021-11-12 | 2023-07-29 |
 | [Well](https://open.spotify.com/track/630GnYjh9pMw7iO9KrCQIG) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Peel](https://open.spotify.com/album/56le7IdNe67vArpXDjqUOj) | 5:30 | 2021-10-20 | 2022-05-07 |

@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-137 songs - 8 hr 0 min
+139 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Nothing We Can Do](https://open.spotify.com/track/2GcRdml2oURe3PpLEZmpfn) | [Laurie McMahon](https://open.spotify.com/artist/3Xr0YttuvFgDb6vgjONFT7) | [Nothing We Can Do](https://open.spotify.com/album/0nfkbEiPiQrwF9dIVEjGUV) | 3:36 | 2025-11-21 | 2026-01-17 |
 | [nowhere](https://open.spotify.com/track/52acR4SFKkSmmZX0vIJsUG) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [nowhere](https://open.spotify.com/album/00jJdhjPWVtce0Uiygt6AB) | 2:02 | 2025-10-24 | 2025-12-02 |
 | [Oh, Juliette!](https://open.spotify.com/track/5Uz0ggdrjLMTK91wVFMgpo) | [Apostles](https://open.spotify.com/artist/3RcRQvnGYuY8dyIROokwNi) | [Here to Stay](https://open.spotify.com/album/6QdDsrjkS70Lkub6FYUXvf) | 2:41 | 2025-10-30 | 2026-01-17 |
+| [Over It](https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Over It](https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI) | 3:11 | 2026-02-01 |  |
 | [Phone Addiction](https://open.spotify.com/track/20lqNTuwAQPf2IQMBi4KYa) | [The Nouveau](https://open.spotify.com/artist/1ltzwAbvKdW4KhvTHmEvf4) | [Phone Addiction](https://open.spotify.com/album/7AMN0yf800pU8eMbC7NMmf) | 2:30 | 2025-11-13 | 2026-01-17 |
 | [Pilgrim](https://open.spotify.com/track/4Libgzg3p5CFzsVYlel1yQ) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:01 | 2026-01-06 |  |
 | [Polaroid](https://open.spotify.com/track/6EDdWIIOStvysXHsMSpIUb) | [The Dogwood](https://open.spotify.com/artist/4tTo9dVmw8bT7GFAzRNxPv) | [The Dogwood](https://open.spotify.com/album/3irhwWwqeNRizO3LaoRoWB) | 3:08 | 2025-10-24 | 2025-12-02 |
@@ -125,6 +126,7 @@
 | [The Immortal Man](https://open.spotify.com/track/5ph8vrJG60fZ5s4kp4SlrQ) | [Euan Merchill](https://open.spotify.com/artist/2IgZ6614NLgSh7SUv55fDz) | [The Immortal Man](https://open.spotify.com/album/10MDJ4CXiHCfZxX5O7ROEE) | 1:27 | 2025-11-15 | 2026-01-17 |
 | [The queen and the tearaway](https://open.spotify.com/track/6RzjgO7QhYIYbNZGVE4LQI) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [The queen and the tearaway](https://open.spotify.com/album/1BKkGNtx5n0Rvmvyv25hXp) | 3:27 | 2025-11-02 | 2026-01-17 |
 | [The Vampire](https://open.spotify.com/track/5IgY9NY1WdWAvcwc5mD9d0) | [Ivan Page](https://open.spotify.com/artist/1sJKCsYrIeZROEAMXCpdYh) | [The Vampire](https://open.spotify.com/album/5HxF0UmQ9JXGGVTENcPSxN) | 2:47 | 2026-01-15 |  |
+| [The Way It Makes Me Feel](https://open.spotify.com/track/3oBUdNLtPspoHjr4mMlQkk) | [Penelope](https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN) | [The Way It Makes Me Feel](https://open.spotify.com/album/6LxSvGxZ6Csn5ijB3QtVcZ) | 3:33 | 2026-02-01 |  |
 | [The Whistleblower](https://open.spotify.com/track/3tjz79WyUdxsnt3RvGsbdh) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Under The East End Sky](https://open.spotify.com/album/7a3Bw6t0OBpaH6NNya0wnD) | 3:37 | 2025-10-29 | 2026-01-17 |
 | [These Days](https://open.spotify.com/track/2px3o5x9yKjcOH0jggvuTh) | [Talking Horses](https://open.spotify.com/artist/1IY7UHFAiPbjwHxM2lzB06) | [These Days](https://open.spotify.com/album/0YGva80Km2kPxFko2KglWD) | 4:25 | 2026-01-20 |  |
 | [Time Machine](https://open.spotify.com/track/6MYZWeZrIpeeJZHjc2fRCJ) | [MYLO BYBEE](https://open.spotify.com/artist/6NWYao9Kq1OZi1mki3yhwS) | [Time Machine](https://open.spotify.com/album/1hJzdSv338nXvopDvcgj3q) | 3:44 | 2025-11-24 | 2026-01-17 |

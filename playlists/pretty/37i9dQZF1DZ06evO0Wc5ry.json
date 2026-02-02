@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 166546,
+  "num_followers": 166559,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXv0gAAAAAAAOBhuzyiSWGPBrIu2iVSU",
+  "snapshot_id": "aX1GAAAAAABcZEnX05b3La/sL9hXugBG",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stankonia (25th Anniversary)",
-        "url": "https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 304059,
-      "name": "Speedballin'",
-      "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Idlewild",
         "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 204160,
       "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
       "url": "https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stankonia (25th Anniversary)",
+        "url": "https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 304059,
+      "name": "Speedballin'",
+      "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
     },
     {
       "added_at": null,

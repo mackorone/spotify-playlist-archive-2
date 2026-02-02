@@ -31260,7 +31260,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 147214,
       "name": "Foi assim",
       "url": "https://open.spotify.com/track/6fPALIGFkjmlHKuiiZLRl6"
@@ -40782,6 +40782,28 @@
     {
       "album": {
         "name": "Lembrei de Tu",
+        "url": "https://open.spotify.com/album/4gT6BRFGEiEmddbC7SuSBk"
+      },
+      "artists": [
+        {
+          "name": "1ly9",
+          "url": "https://open.spotify.com/artist/25Wz4B8LiaW5VAXHwrXxb8"
+        },
+        {
+          "name": "yoilya",
+          "url": "https://open.spotify.com/artist/0JO6iSEawFTeWSPEkjMA5X"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121129,
+      "name": "Lembrei de Tu",
+      "url": "https://open.spotify.com/track/7r3V2Pf56owIdC1c5PwHYX"
+    },
+    {
+      "album": {
+        "name": "Lembrei de Tu",
         "url": "https://open.spotify.com/album/52Y0Zjv2NuvaCC4JxRQGu9"
       },
       "artists": [
@@ -40792,7 +40814,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 121092,
       "name": "Lembrei de Tu",
       "url": "https://open.spotify.com/track/4XYbOhT1tYC5CexattH53S"
@@ -60399,6 +60421,24 @@
     },
     {
       "album": {
+        "name": "Panamera",
+        "url": "https://open.spotify.com/album/6j4V8qNfLRH5Nzmo5oEJDl"
+      },
+      "artists": [
+        {
+          "name": "Tony Salles",
+          "url": "https://open.spotify.com/artist/65wb6r9GvL7JUySeWfDD9q"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186624,
+      "name": "Panamera",
+      "url": "https://open.spotify.com/track/4Z4TWlYC1xRQFBxO5fuZwG"
+    },
+    {
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
       },
@@ -62672,7 +62712,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 156680,
       "name": "Pikezin do M.J",
       "url": "https://open.spotify.com/track/2nzXwfnAPFVlLLpYtDQXmd"
@@ -87422,7 +87462,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 181839,
       "name": "Voltei Mais Forte",
       "url": "https://open.spotify.com/track/3gjAnZHQkJAUp0bl1DGGQ5"

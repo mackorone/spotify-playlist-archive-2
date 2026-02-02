@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-478 songs - 1 day 4 hr 44 min
+479 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Outer Space \- SLVR Remix](https://open.spotify.com/track/2NKQH2R0sqi4zBeQKkZ3vC) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy), [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU) | [Outer Space \(Remixes\)](https://open.spotify.com/album/2VljxTmjwL6AvehbFSDN1j) | 3:34 | 2023-08-27 | 2023-09-26 |
 | [Pablo](https://open.spotify.com/track/76NTYF4tcQ7pMErL0PPpCO) | [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6), [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P) | [Pablo](https://open.spotify.com/album/54sLNgzlkwJa22OGF5G56N) | 2:53 | 2023-08-20 | 2023-09-26 |
 | [Paradise](https://open.spotify.com/track/3tek0cqcIJ0wKMpFuNrwBe) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 4:11 | 2023-03-31 | 2023-04-17 |
+| [Party Days \(Club Mix\)](https://open.spotify.com/track/2D6oTGHTjPvO7M4tk23ZoX) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Party Days \(Club Mix\)](https://open.spotify.com/album/4okSDIP3oazeyDubqCine7) | 3:32 | 2026-02-01 |  |
 | [PEOPLE](https://open.spotify.com/track/0DLnXvcFb6f70DZ3NJTOpa) | [Enrico Chialastri](https://open.spotify.com/artist/79gyVvzs3cLxfCleiiZ9e5) | [PEOPLE](https://open.spotify.com/album/4VbAEgz7EDCz8k6C4z6hRn) | 3:32 | 2025-12-14 | 2026-01-03 |
 | [Perreo](https://open.spotify.com/track/0B5wxpAcOlXYvvPyC4L933) | [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [Perreo](https://open.spotify.com/album/2l59DNMUyDHJazlbBkew3b) | 2:41 | 2023-07-16 | 2023-08-20 |
 | [Piano Cut \- Original Mix](https://open.spotify.com/track/47xYP9z5UvuRinGKLuFHba) | [Krizman Toni](https://open.spotify.com/artist/1gs5auXmVRzKT318H1yRJ0) | [Piano Cut](https://open.spotify.com/album/4Btco6sLBM6L2mQtIJbwtu) | 5:42 | 2023-04-16 | 2023-05-01 |

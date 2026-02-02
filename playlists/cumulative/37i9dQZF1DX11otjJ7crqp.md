@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: MARIS
 
-10,451 songs - 21 day 19 hr 49 min
+10,453 songs - 21 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [16](https://open.spotify.com/track/3WM3StDOsMAYaCjxymQeOy) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [16](https://open.spotify.com/album/2u5D7W8rZ1azEWJ02BX27P) | 2:45 | 2023-08-18 | 2023-09-09 |
 | [16](https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:01 | 2024-03-22 | 2024-04-13 |
 | [16 dogs](https://open.spotify.com/track/6evha6l77b3R2dxTKRVXjh) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [16 dogs](https://open.spotify.com/album/0kIWwzGOGMXcgqRxZBW1h3) | 2:40 | 2024-07-26 | 2024-08-17 |
+| [17](https://open.spotify.com/track/44mNFl4PM016z0tueNAhzK) | [Ella Collier](https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ) | [17](https://open.spotify.com/album/3fEFkAZn2TC3C1dgra63SZ) | 3:15 | 2026-02-01 |  |
 | [17](https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [17](https://open.spotify.com/album/5rs7aEqIPHIfOCTznBzmFM) | 4:44 | 2023-01-13 | 2023-01-21 |
 | [17 again](https://open.spotify.com/track/18BaPMhDKWbDz9upIBmirj) | [Casey Baer](https://open.spotify.com/artist/0NJXUPqUHxTBWf7n3naRqy) | [17 again](https://open.spotify.com/album/5S9BaV9ILBfgXAYXb4kViM) | 2:56 | 2023-04-07 | 2023-04-22 |
 | [17chains](https://open.spotify.com/track/20o89adLR0eYsHVQKbklko) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [17chains](https://open.spotify.com/album/6e9r5Wtaf9M5V60cPcl4MX) | 5:03 | 2024-03-08 | 2024-03-22 |
@@ -780,6 +781,7 @@
 | [Bad Omen](https://open.spotify.com/track/5EOZ3A2b51wJDIQcETd2eZ) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Bad Omen](https://open.spotify.com/album/1pc77kQ9YUWTYQpB13avmr) | 3:28 | 2025-08-08 | 2025-08-24 |
 | [Bad Omens](https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:35 | 2022-09-23 | 2022-10-15 |
 | [Bad Radio](https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4) | 3:05 | 2022-11-11 | 2022-12-03 |
+| [BAD SEX](https://open.spotify.com/track/1J3q19fUwmGK3Ub8hjiJSv) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BAD SEX](https://open.spotify.com/album/3xVX1ylMlhB0AQ1dWFgd7g) | 2:50 | 2026-02-01 |  |
 | [bad tattoo](https://open.spotify.com/track/7iUhMgffcOTVXrpBKP0wxm) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [bad tattoo](https://open.spotify.com/album/0j7ZjvfGjpbiSZl4Jm0BKR) | 2:40 | 2023-12-08 | 2024-01-13 |
 | [Bad Thing](https://open.spotify.com/track/4iQz6o1dEA3dZY81d3DiJm) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9) | [Bad Thing](https://open.spotify.com/album/0QY0A6aKhw0f2D1RfpCYk7) | 3:33 | 2023-04-14 | 2023-04-22 |
 | [Bad Thoughts](https://open.spotify.com/track/4v28bSJI0g2JPvxu88jhWQ) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Bad Thoughts](https://open.spotify.com/album/5WY8DdpsihDi6SZ8CrHrhI) | 4:35 | 2024-04-26 | 2024-05-04 |
@@ -2567,7 +2569,7 @@
 | [dot dot dot](https://open.spotify.com/track/2babNB7t9s2xIlSSoRFaPy) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [dot dot dot](https://open.spotify.com/album/5quLNXWWPhwTJwxjVI73I1) | 2:17 | 2023-05-19 | 2023-06-03 |
 | [Double Casket](https://open.spotify.com/track/7rR24CWfEpO61fjSicHQfv) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [Double Casket](https://open.spotify.com/album/2KREFkBR5HsPSEoAt2ECLx) | 2:41 | 2024-10-04 | 2024-10-12 |
 | [Double Date](https://open.spotify.com/track/4CyevrMYaqn6cvODOldS6m) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Double Date](https://open.spotify.com/album/5ofZGLKXLj5RaTNasbBB8O) | 3:12 | 2025-10-24 | 2025-11-08 |
-| [double edged sword](https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [double edged sword](https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW) | 3:28 | 2026-01-23 |  |
+| [double edged sword](https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [double edged sword](https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW) | 3:28 | 2026-01-23 | 2026-02-02 |
 | [Double Edged Sword](https://open.spotify.com/track/1faO8uZBqjwTyUmYOEE5Z5) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [Double Edged Sword](https://open.spotify.com/album/10E3qrwPpiy3QXLrzARadz) | 2:47 | 2026-01-09 | 2026-01-17 |
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-04-21 | 2023-05-13 |
 | [DOUBLE STANDARDS](https://open.spotify.com/track/5ZxEaTbHYH57kiGuJOB2qd) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [DOUBLE STANDARDS](https://open.spotify.com/album/0s52D3Vg8CVxcjZEJXMj0c) | 2:55 | 2023-11-17 | 2023-12-02 |
@@ -4942,7 +4944,7 @@
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-10-13 | 2023-11-11 |
 | [is it love at all?](https://open.spotify.com/track/6UWNP6v8hFXwoM2lYT2I91) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [is it love at all?](https://open.spotify.com/album/1PwuFNJdZhbtH7optCfEw5) | 2:36 | 2024-12-27 | 2025-01-18 |
 | [Is it really over?](https://open.spotify.com/track/54kbbuAhiu3AIfXPzk2diq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Is it really over?](https://open.spotify.com/album/3TcvEgcMQXHzOdrtgh0KBM) | 3:04 | 2023-05-12 | 2023-05-27 |
-| [IS THERE A WORLD?](https://open.spotify.com/track/0RX7ZR2qX13rNJkFyI1THV) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [IS THERE A WORLD?](https://open.spotify.com/album/5SCes4ZPjdPch5Dge1nChl) | 3:42 | 2026-01-23 |  |
+| [IS THERE A WORLD?](https://open.spotify.com/track/0RX7ZR2qX13rNJkFyI1THV) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [IS THERE A WORLD?](https://open.spotify.com/album/5SCes4ZPjdPch5Dge1nChl) | 3:42 | 2026-01-23 | 2026-02-02 |
 | [Is This Love To You](https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Is This Love To You](https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V) | 2:55 | 2024-10-25 | 2024-11-09 |
 | [Is This Love?](https://open.spotify.com/track/12mdVLAKNOl9yMdACC4yZW) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY) | [Is This Love?](https://open.spotify.com/album/30AtnSjOLRdorwEgBXFnl0) | 2:43 | 2024-10-11 | 2024-10-26 |
 | [Isabelle](https://open.spotify.com/track/5o87pxo0Zozf7P1O1yNfbd) | [Whitney Whitney](https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R) | [Isabelle](https://open.spotify.com/album/5ygL8MzMTxNwuPtvMI4znh) | 3:23 | 2025-12-12 | 2026-01-15 |

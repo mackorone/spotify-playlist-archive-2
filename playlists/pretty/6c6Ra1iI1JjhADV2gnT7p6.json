@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of indie, dreampop and lofi vibes. Updated every week, save your favorites \ud83d\udc9c",
-  "num_followers": 59650,
+  "num_followers": 59660,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAuGC8mqs7OWCQcv6R/Of6vpHNNW8pj",
+  "snapshot_id": "AAAuGXY4e3C2qcjht2ORjwlOWdJ/PQc0",
   "tracks": [
     {
       "added_at": "2026-01-31 06:34:14",
@@ -5499,22 +5499,6 @@
     {
       "added_at": "2026-01-31 06:34:14",
       "album": {
-        "name": "Growth Machine",
-        "url": "https://open.spotify.com/album/0ftFYBIEC52NIXEIdZ12n9"
-      },
-      "artists": [
-        {
-          "name": "Nevin",
-          "url": "https://open.spotify.com/artist/7mv4ENpQx3G5aSOlbalvU0"
-        }
-      ],
-      "duration_ms": 241026,
-      "name": "Growth Machine",
-      "url": "https://open.spotify.com/track/0RCLeg65Xq5q7IeBTKmRZy"
-    },
-    {
-      "added_at": "2026-01-31 06:34:14",
-      "album": {
         "name": "Authentic Natural Tradition",
         "url": "https://open.spotify.com/album/3pwDE4fSZ5BsTnUTHZrHCR"
       },
@@ -5543,6 +5527,22 @@
       "duration_ms": 296200,
       "name": "All Of Our Friends",
       "url": "https://open.spotify.com/track/7LDPJapt5Y0ugPR9ysUHw2"
+    },
+    {
+      "added_at": "2026-01-31 06:34:14",
+      "album": {
+        "name": "Growth Machine",
+        "url": "https://open.spotify.com/album/0ftFYBIEC52NIXEIdZ12n9"
+      },
+      "artists": [
+        {
+          "name": "Nevin",
+          "url": "https://open.spotify.com/artist/7mv4ENpQx3G5aSOlbalvU0"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "Growth Machine",
+      "url": "https://open.spotify.com/track/0RCLeg65Xq5q7IeBTKmRZy"
     },
     {
       "added_at": "2026-01-31 06:34:14",

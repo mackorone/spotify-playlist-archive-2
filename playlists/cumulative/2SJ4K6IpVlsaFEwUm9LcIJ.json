@@ -1895,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Set Free",
+        "url": "https://open.spotify.com/album/20A3l4TcQUxmiISp0txH8y"
+      },
+      "artists": [
+        {
+          "name": "The American Analog Set",
+          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208146,
+      "name": "Born On The Cusp",
+      "url": "https://open.spotify.com/track/3Tc2Q1KlWcgSd4Fm4T41i8"
+    },
+    {
+      "album": {
         "name": "A Quiet Week In The House",
         "url": "https://open.spotify.com/album/2BzeMAgbzjG6dzFEhrj2np"
       },
@@ -2972,6 +2990,24 @@
       "duration_ms": 147692,
       "name": "CRANK",
       "url": "https://open.spotify.com/track/7xAvtuHf8nGi5OtXVPYgb3"
+    },
+    {
+      "album": {
+        "name": "Moon Pix",
+        "url": "https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272200,
+      "name": "Cross Bones Style",
+      "url": "https://open.spotify.com/track/5Qhy5MYSkAMRVgTrABOlp7"
     },
     {
       "album": {

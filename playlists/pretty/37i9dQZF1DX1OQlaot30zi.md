@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Kid Yugi,  Niky Savage e Capo Plaza, Rondodasosa, Fudasca con Side Baby, Ketama126 e Close Listen e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,667 likes - 104 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,678 likes - 104 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

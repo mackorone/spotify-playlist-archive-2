@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-212 songs - 10 hr 11 min
+213 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Morning Bird Symphony](https://open.spotify.com/track/2DG4GclEMtxZEFbXixAGxq) | [Himalaya Nature](https://open.spotify.com/artist/7IlmN5ipzDWqSbLNsjDMU8) | [Himalaya Bird Sounds](https://open.spotify.com/album/5SfxNMY6MyEfia4wV0vv7x) | 4:36 | 2022-03-25 |  |
 | [Morning Calm Water Stream](https://open.spotify.com/track/31wvp2QgO981pppVCALAdu) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Morning Calm Water Stream](https://open.spotify.com/album/0zZf1uBvtd8UoQSRoy60wO) | 4:32 | 2025-11-11 |  |
 | [Morning in Scotland](https://open.spotify.com/track/3wNGiwpHA6AMTSlLN71IjW) | [Hermelo](https://open.spotify.com/artist/0sJWDshSokRwvOqYo7W3iV) | [Morning in Scotland](https://open.spotify.com/album/176L5jSWsdkfgou23TPydl) | 1:53 | 2023-09-20 |  |
-| [Morning Rain](https://open.spotify.com/track/4rOmpvrIMLau6Hig9GSmp1) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:10 | 2022-03-25 |  |
+| [Morning Rain](https://open.spotify.com/track/4rOmpvrIMLau6Hig9GSmp1) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:10 | 2022-03-25 | 2026-02-02 |
 | [Multiple birds at dawn](https://open.spotify.com/track/031M3L3hN4j19SKjYuRo1i) | [Watertowers](https://open.spotify.com/artist/7DcNhZNSWzYyhuDm2SyQnt) | [Multiple birds at dawn](https://open.spotify.com/album/6xdKRRuxNPQGGNv74XTD2p) | 4:03 | 2025-11-11 | 2025-12-13 |
 | [Nature Night\-time](https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 | 2022-03-25 |  |
 | [Nature Sounds](https://open.spotify.com/track/0aiIxhhNwCZcUF4foUSpNa) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:08 | 2022-03-25 |  |
@@ -218,6 +218,7 @@
 | [Wildlife Paradise](https://open.spotify.com/track/4qcjA5Vy7HwEmgkFPbt51A) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Circle of Earth](https://open.spotify.com/album/3Gu9YgsqlLILMcW5k30exE) | 2:47 | 2022-04-29 |  |
 | [Wildwood Meditation](https://open.spotify.com/track/3h2KfUN6qMnM85VxTVyx1t) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Relaxing Forest Harmony](https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81) | 3:56 | 2023-09-20 |  |
 | [Windy Green Noise](https://open.spotify.com/track/7vTHgLyabM4wWJDy6S81d1) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Windy Green Noise](https://open.spotify.com/album/0UaYMl1fr54ct0cZe8Z8g7) | 2:30 | 2025-07-21 |  |
+| [With Gentle Forest Sounds I](https://open.spotify.com/track/76pDWgR9MSvLAUvRz51R7n) | [Relaxing The Mind](https://open.spotify.com/artist/44wFi6rFvY5u6U69UNnwSr) | [With Gentle Forest Sounds I](https://open.spotify.com/album/57c9YKnCRzzG2iLTiVKq5k) | 2:38 | 2025-11-11 |  |
 | [Woodland Reverie](https://open.spotify.com/track/3QwgHRh1IO6EztjJBgL0jq) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Woodland Reverie](https://open.spotify.com/album/0Ml0x9lt98lmMXyrsHJuQv) | 2:21 | 2024-12-03 |  |
 | [Zen Forest Serenade](https://open.spotify.com/track/7I4BBYAPTQZqdX6aPXxRtg) | [Touch of Spades](https://open.spotify.com/artist/1YWkdQMBdIM1QiiYiiTdil) | [Melodic Nature Chorus](https://open.spotify.com/album/0VwWFLflpeb6ayLAdcwi6i) | 4:32 | 2023-09-20 |  |
 

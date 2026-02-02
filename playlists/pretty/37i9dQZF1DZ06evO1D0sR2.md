@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,203 likes - 50 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,206 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 41 | [Stretch Out \- Live](https://open.spotify.com/track/7jK7b2h7B6INaJTcogXFBq) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Donishisa Ballard](https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq) | [The Live Reunion: Washington, DC](https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs) | 5:48 |
 | 42 | [Glory and Honor \- Live](https://open.spotify.com/track/3IMaPnkSJjgnnWgRdn89oF) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 7:24 |
 | 43 | [I Am Thankful](https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Chris House](https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 9:12 |
-| 44 | [You Are Awesome](https://open.spotify.com/track/4h5GMPfnPIHhcZ0yuVWSAw) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 5:29 |
+| 44 | [The Presence](https://open.spotify.com/track/5VKxzVaGwVvrYMd3K0ICVi) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 3:39 |
 | 45 | [Promise Keeper \- Live](https://open.spotify.com/track/7wqKuKwdNF9fnyWkzEJuaN) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Tiffany Andrews](https://open.spotify.com/artist/6v7gnhOk1fjAft80LHaYLP) | [The Live Reunion: Washington, DC](https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs) | 7:55 |
-| 46 | [The Newborn King \- Live](https://open.spotify.com/track/1CfKsupM9g6aNrbxOXYv9g) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm), [Katondra Jenkins](https://open.spotify.com/artist/4siQoXWognMsG9ieD6B2fG) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 8:22 |
+| 46 | [Everything Is Changed \- Live](https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 6:53 |
 | 47 | [All the Glory](https://open.spotify.com/track/1MwgcZiSArZ1QRVurMpQGU) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Juanita Contee](https://open.spotify.com/artist/5bmmROi22eqQz8CiVGz7W5) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 8:06 |
-| 48 | [Everything Is Changed \- Live](https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 6:53 |
+| 48 | [You Are Awesome](https://open.spotify.com/track/4h5GMPfnPIHhcZ0yuVWSAw) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 5:29 |
 | 49 | [I Shall Praise \- Live](https://open.spotify.com/track/1ApLJEbcGPgBFOV4qhwC7K) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [The Live Reunion: Washington, DC](https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs) | 3:00 |
-| 50 | [The Presence](https://open.spotify.com/track/5VKxzVaGwVvrYMd3K0ICVi) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 3:39 |
+| 50 | [Love Lifted Me](https://open.spotify.com/track/7HTM2vcGxRMqAXU5IbiZBO) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 7:40 |
 
-Snapshot ID: `aXv0gAAAAABSwZdJfKEZgsZAWKpegMr8`
+Snapshot ID: `aX1GAAAAAACOT1yqkXuAuPRsF9zlhb7X`

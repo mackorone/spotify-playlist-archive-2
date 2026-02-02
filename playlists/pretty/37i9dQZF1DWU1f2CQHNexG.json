@@ -1,6 +1,6 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Bronski Beat",
-  "num_followers": 202177,
+  "num_followers": 202266,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "Hunting High and Low",
-        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 302400,
-      "name": "The Sun Always Shines on T.V.",
-      "url": "https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 259906,
       "name": "Once in a Lifetime - 2005 Remaster",
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "Hunting High and Low",
+        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 302400,
+      "name": "The Sun Always Shines on T.V.",
+      "url": "https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -1051,6 +1051,38 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/6adz3RVhKbyw53pXOXJ83a"
+      },
+      "artists": [
+        {
+          "name": "Ultravox",
+          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Dancing with Tears in My Eyes",
+      "url": "https://open.spotify.com/track/19omiIPoSfj8S1MlqK1aCd"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "Into The Gap",
+        "url": "https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0"
+      },
+      "artists": [
+        {
+          "name": "Thompson Twins",
+          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+        }
+      ],
+      "duration_ms": 286666,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
         "name": "New York, London, Paris, Munich",
         "url": "https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0"
       },
@@ -1075,22 +1107,6 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "Into The Gap",
-        "url": "https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0"
-      },
-      "artists": [
-        {
-          "name": "Thompson Twins",
-          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
-        }
-      ],
-      "duration_ms": 286666,
-      "name": "Hold Me Now",
-      "url": "https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
         "name": "Rebel Yell",
         "url": "https://open.spotify.com/album/6yDq3SrTcstT7zD1hv3hgM"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 299240,
       "name": "Eyes Without A Face",
       "url": "https://open.spotify.com/track/0A1QehwXuYOGcIoZHy7UTb"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
-        "name": "Only Yazoo - The Best Of",
-        "url": "https://open.spotify.com/album/2SXWfdXGHFj0boWOGASmbM"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 192293,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/62sTjrwZKzNjfeeBcG4nIv"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/6adz3RVhKbyw53pXOXJ83a"
+        "name": "Only Yazoo - The Best Of",
+        "url": "https://open.spotify.com/album/2SXWfdXGHFj0boWOGASmbM"
       },
       "artists": [
         {
-          "name": "Ultravox",
-          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
         }
       ],
-      "duration_ms": 244120,
-      "name": "Dancing with Tears in My Eyes",
-      "url": "https://open.spotify.com/track/19omiIPoSfj8S1MlqK1aCd"
+      "duration_ms": 192293,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/62sTjrwZKzNjfeeBcG4nIv"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "Only Yazoo - The Best Of",
-        "url": "https://open.spotify.com/album/2SXWfdXGHFj0boWOGASmbM"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "Nobody's Diary",
-      "url": "https://open.spotify.com/track/0DCJUyPArbtLcJlRhjCew9"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
         "name": "Fascination!",
         "url": "https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 296453,
       "name": "Fascination - Extended Remix",
       "url": "https://open.spotify.com/track/2uynnXFdf3wBIjOEHCB9up"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "Only Yazoo - The Best Of",
+        "url": "https://open.spotify.com/album/2SXWfdXGHFj0boWOGASmbM"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "Nobody's Diary",
+      "url": "https://open.spotify.com/track/0DCJUyPArbtLcJlRhjCew9"
     },
     {
       "added_at": "2024-07-09 02:45:34",

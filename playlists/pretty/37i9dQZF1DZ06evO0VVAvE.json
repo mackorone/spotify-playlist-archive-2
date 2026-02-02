@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 8882,
+  "num_followers": 8899,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXv0gAAAAAC45MU8wCRVC/A8E3a8ccAc",
+  "snapshot_id": "aX1GAAAAAAAPWc59ActnXuUV+QUtm1Pl",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 177931,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/7pzHI4SRRFgXBrmUoILjbi"
+      "duration_ms": 133773,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 133773,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75"
+      "duration_ms": 177931,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/7pzHI4SRRFgXBrmUoILjbi"
     },
     {
       "added_at": null,
@@ -631,26 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ali (Remix)",
-        "url": "https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv"
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
       "artists": [
-        {
-          "name": "Steven Adeoye",
-          "url": "https://open.spotify.com/artist/0mXiMVr0qnRXZDogkEPgF6"
-        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         },
         {
-          "name": "Portable",
-          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
         }
       ],
-      "duration_ms": 202301,
-      "name": "Ali (Remix)",
-      "url": "https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg"
+      "duration_ms": 188737,
+      "name": "Oba (feat. Barry Jhay)",
+      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
     },
     {
       "added_at": null,
@@ -671,22 +667,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+        "name": "Ali (Remix)",
+        "url": "https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv"
       },
       "artists": [
+        {
+          "name": "Steven Adeoye",
+          "url": "https://open.spotify.com/artist/0mXiMVr0qnRXZDogkEPgF6"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         },
         {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
         }
       ],
-      "duration_ms": 188737,
-      "name": "Oba (feat. Barry Jhay)",
-      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
+      "duration_ms": 202301,
+      "name": "Ali (Remix)",
+      "url": "https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg"
     },
     {
       "added_at": null,

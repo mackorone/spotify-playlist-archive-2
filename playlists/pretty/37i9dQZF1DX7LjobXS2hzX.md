@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Gabriel Fredette
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,375 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,364 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 49 | [Not What’s Going On](https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5) | 2:54 |
 | 50 | [La ziguezon](https://open.spotify.com/track/2Vmf6V7IQAVZlUcjE2FbDc) | [La Bottine Souriante](https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ) | [Chic & Swell](https://open.spotify.com/album/4YH9MXN39Roa0QdQKceH9l) | 3:42 |
 
-Snapshot ID: `AAAAAJ7jhe6e27DdtqVsDprEIRFK4hQ2`
+Snapshot ID: `AAAAANIPdbULQ4U1fwHTX8a1gCF/UPvX`

@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 108094,
+  "num_followers": 108177,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1071,22 +1071,26 @@
     {
       "added_at": "2026-01-30 05:00:47",
       "album": {
-        "name": "Buscando Money",
-        "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
+        "name": "una noche con hugel",
+        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
       },
       "artists": [
         {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Buscando Money",
-      "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
+      "duration_ms": 191475,
+      "name": "una noche con hugel",
+      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
     },
     {
       "added_at": "2026-01-30 05:00:47",
@@ -1123,26 +1127,22 @@
     {
       "added_at": "2026-01-30 05:00:47",
       "album": {
-        "name": "una noche con hugel",
-        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
         },
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
         }
       ],
-      "duration_ms": 191475,
-      "name": "una noche con hugel",
-      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
     },
     {
       "added_at": "2026-01-30 05:00:47",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-01-30 05:00:47",
       "album": {
+        "name": "La Samba",
+        "url": "https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        }
+      ],
+      "duration_ms": 150476,
+      "name": "La Samba",
+      "url": "https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr"
+    },
+    {
+      "added_at": "2026-01-30 05:00:47",
+      "album": {
         "name": "Asereje (Remix)",
         "url": "https://open.spotify.com/album/5wrHAkjZUkhPuj3hrHcmVB"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 157440,
       "name": "Asereje - Remix",
       "url": "https://open.spotify.com/track/7yiZOX1floHlpZEskbbZnk"
-    },
-    {
-      "added_at": "2026-01-30 05:00:47",
-      "album": {
-        "name": "La Samba",
-        "url": "https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
-        }
-      ],
-      "duration_ms": 150476,
-      "name": "La Samba",
-      "url": "https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr"
     },
     {
       "added_at": "2026-01-30 05:00:47",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-01-30 05:00:47",
       "album": {
+        "name": "Delante",
+        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
+      },
+      "artists": [
+        {
+          "name": "Lodgerz",
+          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
+        }
+      ],
+      "duration_ms": 145908,
+      "name": "Delante",
+      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
+    },
+    {
+      "added_at": "2026-01-30 05:00:47",
+      "album": {
         "name": "Vamos A La Playa",
         "url": "https://open.spotify.com/album/3geRmvgFf5Bnei4MaCblqL"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 176818,
       "name": "Vamos A La Playa (Feat. Miranda)",
       "url": "https://open.spotify.com/track/7jhZ9ObYAmlHSoP6w6xB9g"
-    },
-    {
-      "added_at": "2026-01-30 05:00:47",
-      "album": {
-        "name": "Delante",
-        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
-      },
-      "artists": [
-        {
-          "name": "Lodgerz",
-          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
-        }
-      ],
-      "duration_ms": 145908,
-      "name": "Delante",
-      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
     },
     {
       "added_at": "2026-01-30 05:00:47",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2026-01-30 05:00:47",
       "album": {
+        "name": "Baila Le Digo",
+        "url": "https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B"
+      },
+      "artists": [
+        {
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
+        },
+        {
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+        }
+      ],
+      "duration_ms": 139702,
+      "name": "Baila Le Digo",
+      "url": "https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH"
+    },
+    {
+      "added_at": "2026-01-30 05:00:47",
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 178816,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
-    },
-    {
-      "added_at": "2026-01-30 05:00:47",
-      "album": {
-        "name": "Baila Le Digo",
-        "url": "https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B"
-      },
-      "artists": [
-        {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
-        },
-        {
-          "name": "James Poole",
-          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
-        }
-      ],
-      "duration_ms": 139702,
-      "name": "Baila Le Digo",
-      "url": "https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH"
     },
     {
       "added_at": "2026-01-30 05:00:47",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2026-01-30 05:00:47",
       "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
+    },
+    {
+      "added_at": "2026-01-30 05:00:47",
+      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 211547,
       "name": "El Beso (feat. Mathieu Ruz)",
       "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
-    },
-    {
-      "added_at": "2026-01-30 05:00:47",
-      "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
     },
     {
       "added_at": "2026-01-30 05:00:47",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-01-30 05:00:47",
       "album": {
-        "name": "MIA in Miami",
-        "url": "https://open.spotify.com/album/17pv0JSvdJkKt1CYttl0zj"
-      },
-      "artists": [
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "MIA in Miami",
-      "url": "https://open.spotify.com/track/6FC1NTWsL1uYAVnAHvSuqL"
-    },
-    {
-      "added_at": "2026-01-30 05:00:47",
-      "album": {
         "name": "Rulay",
         "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 165123,
       "name": "Rulay",
       "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
+    },
+    {
+      "added_at": "2026-01-30 05:00:47",
+      "album": {
+        "name": "MIA in Miami",
+        "url": "https://open.spotify.com/album/17pv0JSvdJkKt1CYttl0zj"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "MIA in Miami",
+      "url": "https://open.spotify.com/track/6FC1NTWsL1uYAVnAHvSuqL"
     },
     {
       "added_at": "2026-01-30 05:00:47",
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2026-01-30 05:00:47",
       "album": {
+        "name": "Matadora (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
+      },
+      "artists": [
+        {
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Matadora - Radio Edit",
+      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+    },
+    {
+      "added_at": "2026-01-30 05:00:47",
+      "album": {
         "name": "BaBaBa (Hangover)",
         "url": "https://open.spotify.com/album/3Xq4k9A16wDzWLrwLM6rTo"
       },
@@ -1867,22 +1887,18 @@
     {
       "added_at": "2026-01-30 05:00:47",
       "album": {
-        "name": "Matadora (Radio Edit)",
-        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
       },
       "artists": [
         {
-          "name": "Maahez",
-          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Matadora - Radio Edit",
-      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
     },
     {
       "added_at": "2026-01-30 05:00:47",
@@ -1899,30 +1915,6 @@
       "duration_ms": 170476,
       "name": "Maracuya",
       "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
-    },
-    {
-      "added_at": "2026-01-30 05:00:47",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq"
-      },
-      "artists": [
-        {
-          "name": "TCTS",
-          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
-        },
-        {
-          "name": "GotSome",
-          "url": "https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 116361,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF"
     },
     {
       "added_at": "2026-01-30 05:00:47",
@@ -1951,18 +1943,26 @@
     {
       "added_at": "2026-01-30 05:00:47",
       "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq"
       },
       "artists": [
         {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        },
+        {
+          "name": "GotSome",
+          "url": "https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
         }
       ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+      "duration_ms": 116361,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF"
     },
     {
       "added_at": "2026-01-30 05:00:47",

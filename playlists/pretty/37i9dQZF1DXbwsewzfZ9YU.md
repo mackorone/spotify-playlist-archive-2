@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ SPEED
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,258 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,293 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Chains](https://open.spotify.com/track/2xxCaSfOiU11PgSZYvSKsB) | [Rise Above](https://open.spotify.com/artist/3le4zTdLcBAhhjhYOgqCnW) | [Thread the Needle](https://open.spotify.com/album/0OBvndHGQo0sDVuCjsZUSO) | 1:58 |
 | 100 | [Fakes & Liars II](https://open.spotify.com/track/1PEooS0YDKnP6ueHyn1PtJ) | [Day By Day](https://open.spotify.com/artist/4iscKytAx2iFQH7l6p1MnP) | [Dust and Ashes](https://open.spotify.com/album/0DiKJ2UdkTmyti73sXlCbH) | 3:05 |
 
-Snapshot ID: `AAAAAMWPIZuCZZaU8bqKcfiwpbUmzYxa`
+Snapshot ID: `AAAAAOvPgIpsymgcNWCJ+eQpellbLLFJ`

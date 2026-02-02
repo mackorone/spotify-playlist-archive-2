@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: TEED
 
-388 songs - 1 day 0 hr 13 min
+389 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [cyanotype memories \- edit \- joe goddard remix](https://open.spotify.com/track/1qTLK7XA1zRMcrmXQ2VLsr) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [cyanotype memories \(joe goddard remix\)](https://open.spotify.com/album/5AUpxQhx2aZmUdHc3DQKx8) | 3:11 | 2024-04-12 | 2025-02-14 |
 | [cyanotype memories \- joe goddard remix \(edit\)](https://open.spotify.com/track/5OjiA2QAxv0YX9qFaveApH) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [cyanotype memories \(joe goddard remix\)](https://open.spotify.com/album/2TuCPQYYEYjB6EmRJREXbJ) | 3:11 | 2024-04-12 | 2024-04-19 |
 | [D.I.S.C.O\. \- Edit](https://open.spotify.com/track/6tjYbiZ2wLgp33HMVxkJ9o) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Anima EP](https://open.spotify.com/album/3z33qPqbX0yY8b3PcVgzxu) | 4:05 | 2021-10-28 | 2024-02-02 |
-| [Damaged Goods](https://open.spotify.com/track/4k1d1w9S7qxxMcPwvz4THV) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Damaged Goods](https://open.spotify.com/album/2c8qaZHyi7bMwh0iQpHRo0) | 4:38 | 2025-11-27 |  |
+| [Damaged Goods](https://open.spotify.com/track/4k1d1w9S7qxxMcPwvz4THV) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Damaged Goods](https://open.spotify.com/album/2c8qaZHyi7bMwh0iQpHRo0) | 4:38 | 2025-11-27 | 2026-02-02 |
 | [Dance and Fall in Love](https://open.spotify.com/track/6bMzjurIUwP0ieEJcT8AFU) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Dance and Fall in Love](https://open.spotify.com/album/0Sylj4SfR5QryUtD3oj641) | 2:31 | 2025-03-07 | 2025-05-09 |
 | [dark days](https://open.spotify.com/track/5D1uzv1oRRfkzeilJAwSbO) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [dark days](https://open.spotify.com/album/4QKdPcQKtrwW8Zhw5LrFps) | 3:32 | 2024-03-22 | 2024-04-19 |
 | [dark days](https://open.spotify.com/track/6tbsEeUjRCGhYllV6cEBGA) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [dark days](https://open.spotify.com/album/7aeoIg6BedCyjOQPP0Xatb) | 3:32 | 2024-04-12 | 2025-01-31 |
@@ -183,6 +183,7 @@
 | [IN YOUR EYES](https://open.spotify.com/track/0UTTnRPIlgoJEq9D7i6gW6) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [IN YOUR EYES](https://open.spotify.com/album/4f9lLOAQsQIH9JwanNAV24) | 3:16 | 2024-07-03 | 2025-04-05 |
 | [Insomnia](https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Insomnia](https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq) | 2:45 | 2025-10-16 |  |
 | [Is This Where It Ends](https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Is This Where It Ends](https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq) | 4:02 | 2021-10-28 | 2024-03-01 |
+| [It Always Was](https://open.spotify.com/track/70RnHM8LkHb01drKirYcm2) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [It Always Was](https://open.spotify.com/album/1NzBNfRbGEuKelVdllaVq8) | 2:32 | 2025-12-17 |  |
 | [It Feels Much Better](https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Soul Speech](https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Keep Me On The Dancefloor](https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU) | 3:01 | 2025-07-03 |  |
 | [It's Over \- Edit](https://open.spotify.com/track/1RLeNp25m5qaGCtF97p5r1) | [Extra Credit](https://open.spotify.com/artist/0eBplsuM9uqqqXMjn2ZsoA) | [It's Over](https://open.spotify.com/album/0q9YXpClk2bSqJYgAryoQJ) | 4:16 | 2021-10-28 | 2024-03-02 |
 | [It's You](https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 2:49 | 2025-08-22 |  |

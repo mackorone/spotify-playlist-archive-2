@@ -1,6 +1,6 @@
 {
   "description": "entering my reputation era",
-  "num_followers": 1402384,
+  "num_followers": 1402601,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X"
     },
     {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
-    },
-    {
       "added_at": "2024-09-22 21:42:54",
       "album": {
         "name": "He's My Man",
@@ -1131,6 +1115,22 @@
       "duration_ms": 232985,
       "name": "He's My Man",
       "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
       "added_at": "2024-02-22 03:52:54",

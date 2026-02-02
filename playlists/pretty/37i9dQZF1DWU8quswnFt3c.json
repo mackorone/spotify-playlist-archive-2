@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Lola Flores.",
-  "num_followers": 1051139,
+  "num_followers": 1050913,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-01-21 05:00:03",
       "album": {
-        "name": "Willoughby Tucker, I'll Always Love You",
-        "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 483692,
-      "name": "Nettles",
-      "url": "https://open.spotify.com/track/02kTd6gB8IsBwPygDTHE4c"
-    },
-    {
-      "added_at": "2026-01-21 05:00:03",
-      "album": {
         "name": "Hoogtevrees",
         "url": "https://open.spotify.com/album/2eFFsUoXgThMpW3hCZdqJ0"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 215568,
       "name": "Hoogtevrees",
       "url": "https://open.spotify.com/track/4EgjDXCj3Nokm6cP0FVH1F"
+    },
+    {
+      "added_at": "2026-01-21 05:00:03",
+      "album": {
+        "name": "Willoughby Tucker, I'll Always Love You",
+        "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 483692,
+      "name": "Nettles",
+      "url": "https://open.spotify.com/track/02kTd6gB8IsBwPygDTHE4c"
     },
     {
       "added_at": "2026-01-21 05:00:03",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-01-21 05:00:03",
       "album": {
-        "name": "Querida Socia (En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles)",
-        "url": "https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 189620,
-      "name": "Querida Socia - En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles",
-      "url": "https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk"
-    },
-    {
-      "added_at": "2026-01-21 05:00:03",
-      "album": {
         "name": "Au",
         "url": "https://open.spotify.com/album/7wyETxfJy1bBjE5s2ym3sO"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 158812,
       "name": "pijama.",
       "url": "https://open.spotify.com/track/2EfKMUpLG6jViIi2FB8Z3L"
+    },
+    {
+      "added_at": "2026-01-21 05:00:03",
+      "album": {
+        "name": "Querida Socia (En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles)",
+        "url": "https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 189620,
+      "name": "Querida Socia - En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles",
+      "url": "https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk"
     },
     {
       "added_at": "2026-01-21 05:00:03",

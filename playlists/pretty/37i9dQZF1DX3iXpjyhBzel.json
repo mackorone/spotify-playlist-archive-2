@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Julia Vit\u00f3ria",
-  "num_followers": 1209634,
+  "num_followers": 1209878,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
-        "name": "Jo\u00e3o 20 + pra Sempre - Ao Vivo",
-        "url": "https://open.spotify.com/album/3adHglUeEVq6ETuiGOwz3w"
-      },
-      "artists": [
-        {
-          "name": "Vitor Santana",
-          "url": "https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ"
-        }
-      ],
-      "duration_ms": 289313,
-      "name": "Jo\u00e3o 20 + pra Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
         "name": "O Fogo Arder\u00e1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 624000,
       "name": "O Fogo Arder\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
+        "name": "Jo\u00e3o 20 + pra Sempre - Ao Vivo",
+        "url": "https://open.spotify.com/album/3adHglUeEVq6ETuiGOwz3w"
+      },
+      "artists": [
+        {
+          "name": "Vitor Santana",
+          "url": "https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ"
+        }
+      ],
+      "duration_ms": 289313,
+      "name": "Jo\u00e3o 20 + pra Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS"
     },
     {
       "added_at": "2026-01-30 13:09:31",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
-        "name": "Me V\u00ea Como Ningu\u00e9m Me V\u00ea",
-        "url": "https://open.spotify.com/album/1lQY6Gs9eK42Emoqf27JK6"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 349500,
-      "name": "Me V\u00ea Como Ningu\u00e9m Me V\u00ea",
-      "url": "https://open.spotify.com/track/1qXR4bBNp3tg4yTWhfXb3D"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
         "name": "Si\u00e3o / Derrama (Ao Vivo)",
         "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 508733,
       "name": "Si\u00e3o / Derrama - Ao Vivo",
       "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
+        "name": "Me V\u00ea Como Ningu\u00e9m Me V\u00ea",
+        "url": "https://open.spotify.com/album/1lQY6Gs9eK42Emoqf27JK6"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 349500,
+      "name": "Me V\u00ea Como Ningu\u00e9m Me V\u00ea",
+      "url": "https://open.spotify.com/track/1qXR4bBNp3tg4yTWhfXb3D"
     },
     {
       "added_at": "2026-01-30 13:09:31",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
         "name": "Oi, Jesus 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3XpCverbmaqWNW8AH59Tu6"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 329488,
       "name": "Oi, Jesus 2 - Ao Vivo",
       "url": "https://open.spotify.com/track/0tCWQmv79OdJXnIHungKVt"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "added_at": "2026-01-30 13:09:31",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
-        "name": "Eu Te Ouvi (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 243368,
-      "name": "Eu Te Ouvi - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
         "name": "Simples Assim (Ao Vivo)",
         "url": "https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 233795,
       "name": "Hoje \u00e9 tempo de louvar a Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/3v3XN3EZ6ZyylRNt7yOzVu"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
+        "name": "Eu Te Ouvi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 243368,
+      "name": "Eu Te Ouvi - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
     },
     {
       "added_at": "2026-01-30 13:09:31",

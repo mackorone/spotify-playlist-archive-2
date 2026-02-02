@@ -14338,7 +14338,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 229343,
       "name": "Call",
       "url": "https://open.spotify.com/track/6TKZHYRWAdiITZ6nhxkqwP"
@@ -18178,7 +18178,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 210001,
       "name": "Cold Feet",
       "url": "https://open.spotify.com/track/0wwIPdelOGqyUTBkH2lxyO"
@@ -22562,7 +22562,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 214120,
       "name": "Dear Summer",
       "url": "https://open.spotify.com/track/30eJFFbX4blxlKDyKZFuII"
@@ -32374,7 +32374,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 207568,
       "name": "Float - feat. Jim Adkins",
       "url": "https://open.spotify.com/track/55ajMXRw1koPLQiG5jOXf1"
@@ -34250,7 +34250,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 224366,
       "name": "Friends",
       "url": "https://open.spotify.com/track/5kcjK5zLJp7ZoDrU0P2KGy"
@@ -35132,7 +35132,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 180186,
       "name": "Garland of Letters",
       "url": "https://open.spotify.com/track/6GdlKjBDHxdEy1ohGrbGuv"
@@ -45538,7 +45538,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 181377,
       "name": "I've Done Wrong",
       "url": "https://open.spotify.com/track/08Puj5pzoYNALR4bM062vL"
@@ -49568,7 +49568,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 123520,
       "name": "just say dat",
       "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
@@ -49850,7 +49850,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 132413,
       "name": "Keep The Noise Down",
       "url": "https://open.spotify.com/track/3r8mAbOc3OPhEWsNKDmXUq"
@@ -50588,7 +50588,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 232725,
       "name": "Kyrie",
       "url": "https://open.spotify.com/track/3xcaV5z2wFVw6Edrlz7a9u"
@@ -50746,7 +50746,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 320177,
       "name": "La Belle Vie",
       "url": "https://open.spotify.com/track/0I9tqFX9tzvfJrDkQO9QFQ"
@@ -51960,7 +51960,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 338457,
       "name": "Leave a Little to the Imagination",
       "url": "https://open.spotify.com/track/5B55NAEl15wZLczu6QcQDp"
@@ -65103,6 +65103,24 @@
     },
     {
       "album": {
+        "name": "No King in no Castle",
+        "url": "https://open.spotify.com/album/0QABYOAWkmMdCWwZP4OWMQ"
+      },
+      "artists": [
+        {
+          "name": "The Static Dive",
+          "url": "https://open.spotify.com/artist/2bo4x9G5fsOOqdTfyqPulX"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186920,
+      "name": "No King in no Castle",
+      "url": "https://open.spotify.com/track/28KmAN5LFhU7pULUbQhJlv"
+    },
+    {
+      "album": {
         "name": "No Letting Go",
         "url": "https://open.spotify.com/album/6wdnQhpe7sOAo9pYTjiy6X"
       },
@@ -72616,7 +72634,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 214809,
       "name": "Please Don\u2019t Cry",
       "url": "https://open.spotify.com/track/6wAUFWRFSJyHv1GDfeg3Ha"
@@ -73100,7 +73118,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 139218,
       "name": "Power",
       "url": "https://open.spotify.com/track/3IZWjZdBedCLxEFElCZNrX"
@@ -77432,7 +77450,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 160153,
       "name": "Roads Not Taken",
       "url": "https://open.spotify.com/track/77fwHgGNMB1ayLvQZNf24C"
@@ -78684,6 +78702,24 @@
       "duration_ms": 220432,
       "name": "Sad Baby",
       "url": "https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B"
+    },
+    {
+      "album": {
+        "name": "sad forever",
+        "url": "https://open.spotify.com/album/5F0N3X76szNkulPkX5grdT"
+      },
+      "artists": [
+        {
+          "name": "Eliana",
+          "url": "https://open.spotify.com/artist/6at6gA54NPGopl52Hbsd1K"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197216,
+      "name": "sad forever",
+      "url": "https://open.spotify.com/track/2giOAvgiB3uJUwWYWwKu84"
     },
     {
       "album": {
@@ -92074,7 +92110,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 208060,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/0Gwoxi4awMX0CP0Z1uR326"
@@ -101842,7 +101878,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 170040,
       "name": "WE LOST TRACK OF RIGHT",
       "url": "https://open.spotify.com/track/24PGpSiHKTn58M2n5JI8kJ"

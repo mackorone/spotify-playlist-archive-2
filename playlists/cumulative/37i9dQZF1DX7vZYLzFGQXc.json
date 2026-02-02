@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "\ud53c\uc5b4\ub098\uace0 \uc788\ub294 \ud55c\uad6d\uc758 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Cover: \uacf5\uc6d0 (gongwon)) (Meet the emerging talents of Korea!) ",
+  "description": "\ud53c\uc5b4\ub098\uace0 \uc788\ub294 \ud55c\uad6d\uc758 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Cover: Tokai) (Meet the emerging talents of Korea!) ",
   "name": "Fresh Finds Korea",
   "tracks": [
     {
@@ -9121,6 +9121,24 @@
     },
     {
       "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/4crMQvV6BNVcEu7ei8pnd1"
+      },
+      "artists": [
+        {
+          "name": "gongwon",
+          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208306,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/4rvPYhCiaSqv24S4UxqFvJ"
+    },
+    {
+      "album": {
         "name": "flower",
         "url": "https://open.spotify.com/album/7K2HNbayHtKdheEdhxTZ0r"
       },
@@ -11022,7 +11040,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 133000,
       "name": "Harley",
       "url": "https://open.spotify.com/track/7qgTYPbzMfRnIHpNsBUiF8"
@@ -12239,6 +12257,24 @@
     },
     {
       "album": {
+        "name": "I don\u2019t care I like u",
+        "url": "https://open.spotify.com/album/4kU2FHO3Sy20o2EmYFRB2I"
+      },
+      "artists": [
+        {
+          "name": "chorim",
+          "url": "https://open.spotify.com/artist/0Lw3RrzOZdrQFcWy9kYtEW"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275125,
+      "name": "I don\u2019t care I like u",
+      "url": "https://open.spotify.com/track/2mbjfGSPSFCIxoauRghoB0"
+    },
+    {
+      "album": {
         "name": "I Don\u2019t Want To Do Anything",
         "url": "https://open.spotify.com/album/2ofn9EOJCgLgCoZSfddVUL"
       },
@@ -12550,7 +12586,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 198323,
       "name": "i said i don't wanna do it.",
       "url": "https://open.spotify.com/track/40ZhlP5Fbli97Xrz1iWdJz"
@@ -15311,6 +15347,24 @@
     },
     {
       "album": {
+        "name": "Lines For Today",
+        "url": "https://open.spotify.com/album/6ft7pqkX2AsA17DSCb75XB"
+      },
+      "artists": [
+        {
+          "name": "Wavemeans",
+          "url": "https://open.spotify.com/artist/6CYyF2lNhSUwZHUtlYoJ3r"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Lines For Today",
+      "url": "https://open.spotify.com/track/51JY7adOGiJuEYuydofe12"
+    },
+    {
+      "album": {
         "name": "Little Star",
         "url": "https://open.spotify.com/album/0YOo4g8SBSVyq7BTKMtiVO"
       },
@@ -17402,7 +17456,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 190634,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/3oDQFjboot0EOyfeaRHOPg"
@@ -24853,6 +24907,24 @@
     },
     {
       "album": {
+        "name": "shining.",
+        "url": "https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191278,
+      "name": "sway",
+      "url": "https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ"
+    },
+    {
+      "album": {
         "name": "Someone's playlist #6",
         "url": "https://open.spotify.com/album/3VbivLC3qr9JCqAEAx5PqW"
       },
@@ -25042,7 +25114,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 161071,
       "name": "take it anymore",
       "url": "https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe"
@@ -25750,7 +25822,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 183428,
       "name": "The Summer We Shared",
       "url": "https://open.spotify.com/track/0BtqyDF7zslNB6aXx1sQZl"
@@ -28442,6 +28514,24 @@
       "duration_ms": 215816,
       "name": "What I think of you",
       "url": "https://open.spotify.com/track/6xZAatNVKmfPDSpAg2uFFz"
+    },
+    {
+      "album": {
+        "name": "what is love?",
+        "url": "https://open.spotify.com/album/5NYJFYhPcQMjX5jlqIGrCE"
+      },
+      "artists": [
+        {
+          "name": "LIUNICORN",
+          "url": "https://open.spotify.com/artist/3ZCrB15ZZykjX1SESZWx6L"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "what is love?",
+      "url": "https://open.spotify.com/track/6KhsWBgYEJuqvtXRTwJYdw"
     },
     {
       "album": {

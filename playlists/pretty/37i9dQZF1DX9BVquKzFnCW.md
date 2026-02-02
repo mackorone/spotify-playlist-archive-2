@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,303 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,325 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 53 | [Summer In Central Park \- Remastered](https://open.spotify.com/track/20ZALyUySircoAOgNfp3Cs) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [In Pursuit Of The 27th Man](https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp) | 4:41 |
 | 54 | [I'm Just A Lucky So And So](https://open.spotify.com/track/0ELeaBGn9P1cddgiyz6tEi) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Soul Call](https://open.spotify.com/album/15ccY5H0H0HAVSLRuZwo1S) | 5:12 |
 | 55 | [I Get a Kick out of You](https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 8:38 |
-| 56 | [Salute To Benny](https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Laughin' to Keep From Cryin'](https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo) | 8:32 |
+| 56 | [Salute To Benny](https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Harry Edison](https://open.spotify.com/artist/3ueoXokbuMsqszWCQEhARj) | [Laughin' to Keep From Cryin'](https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo) | 8:32 |
 | 57 | [Like Someone In Love \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/5oEUptjKIrQ4eVMdwTiYcM) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Like Someone In Love](https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9) | 8:04 |
 | 58 | [But Not For Me](https://open.spotify.com/track/6s5Ush55ZistjzNAbbIpoL) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 5:52 |
 | 59 | [I Should Care](https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Music For Lovers](https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga) | 7:42 |

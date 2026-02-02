@@ -4332,7 +4332,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 213658,
       "name": "First Day Of School",
       "url": "https://open.spotify.com/track/6BNC6rSgDvGlyzsIPJmTER"
@@ -5500,6 +5500,24 @@
       "duration_ms": 176973,
       "name": "Homework Forever",
       "url": "https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7"
+    },
+    {
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/23kUkSGjqtrFhTfTj2reSv"
+      },
+      "artists": [
+        {
+          "name": "Parched",
+          "url": "https://open.spotify.com/artist/6bruCOXoELcqPEXSll0bBN"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185975,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/3pXKQhZErohG9N1fFVMZcz"
     },
     {
       "album": {

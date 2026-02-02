@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 665 songs - 1 day 19 hr 29 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 664 songs - 1 day 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -659,19 +659,18 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 649 | [XOXO](https://open.spotify.com/track/5QvFYp5Kt1fETgI2T0kNiK) | [Camille Schmidt](https://open.spotify.com/artist/0XGV1FXgyGB0yg6lPcfQg1) | [Nude \#9](https://open.spotify.com/album/6Oo6v3mZgMOwTv9qctDQWb) | 2:51 |
 | 650 | [Against The World](https://open.spotify.com/track/1fnTxeWrORlRZqUsEOvVEo) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Infinite](https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3) | 3:30 |
 | 651 | [Famous](https://open.spotify.com/track/5QbSxX3tmc24xZxTwgnVkl) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Get Lost](https://open.spotify.com/album/4ZfeweV9NuqF0YXe3OMmwB) | 3:11 |
-| 652 | [BBC Radiophonic Workshop](https://open.spotify.com/track/5eqrwcF6uJiDaSDQ3o1WAv) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Holiday](https://open.spotify.com/album/43gU5fFjKslAS9hXXDvkdz) | 0:22 |
-| 653 | [Hey Mr\. Dogman!](https://open.spotify.com/track/1poEehfJMN4lQqSsXcBxNQ) | [Powerplant](https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx) | [People in the Sun](https://open.spotify.com/album/28Oa0IXZyGHw0GpSLdkyk1) | 2:42 |
-| 654 | [Landline](https://open.spotify.com/track/2LvG6CvAngdkkbPw5EjG5H) | [Landline](https://open.spotify.com/artist/0bRSQWTnCzkRKctyXYrhs4) | [Landline](https://open.spotify.com/album/2171VebZnlhHswDZtosl4r) | 2:41 |
-| 655 | [Dog](https://open.spotify.com/track/1b9sUqUIX9ya2piu29HJNu) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [The Rubber Teeth Talk](https://open.spotify.com/album/4lloxY9u7ukMRVBlI9JGh1) | 4:03 |
-| 656 | [Somewhere In America There's A Street](https://open.spotify.com/track/03wgi2tpRy0pdUVZSsBomu) | [Was \(Not Was\)](https://open.spotify.com/artist/7Jmod60ZpPG0tckhY0Ls0p) | [What Up, Dog?](https://open.spotify.com/album/4IY2WJvEcXzaHfQQoVi2sZ) | 3:41 |
-| 657 | [Say No More](https://open.spotify.com/track/1ZtQs6a3iYM74lWc28FcQv) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [POTLUCK](https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh) | 2:21 |
-| 658 | [Tubi](https://open.spotify.com/track/0qT6t3DZrOEqw5P8IDnGxF) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [MADE BY DOPE](https://open.spotify.com/album/4HgGbZrruExGMeXaQ3DOlb) | 2:03 |
-| 659 | [Interpret Sabotage](https://open.spotify.com/track/04HcLAYZ3YJ73oOZvjqBcM) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3), [Mel](https://open.spotify.com/artist/1yHQHPrgaF1Oe8LuYgBW8a) | [No Poison No Paradise](https://open.spotify.com/album/4GqT8uQCQRSs3Xt7wQ0u13) | 3:29 |
-| 660 | [Long Story Short](https://open.spotify.com/track/0JMyXs0Zj8hrr0OwvqSnxM) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3) | [Tronic](https://open.spotify.com/album/5MbqqLcX0c1rtKtzKWKxCx) | 5:04 |
-| 661 | [The Ballad Of The RAA](https://open.spotify.com/track/3TU3qRbVu8jSv6IrfY0FoV) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Hometowns](https://open.spotify.com/album/5X27E81cePL9bNER4QEjmO) | 3:28 |
-| 662 | [Pure Morning](https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 4:14 |
-| 663 | [Court and Spark](https://open.spotify.com/track/2l8kERLPqgP7p94Duj9nqH) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:46 |
-| 664 | [How the Shadow Is Clear \- Remastered](https://open.spotify.com/track/4dJV7QQkkqE8o6UrWp6poO) | [Oidopuaa Vladimir Oiun](https://open.spotify.com/artist/11D12wFV7ZA7kc83fO23Fv) | [Divine Music from Jail](https://open.spotify.com/album/1EfMnzM9K8lIXG394evveZ) | 2:06 |
-| 665 | [Morning Morgantown](https://open.spotify.com/track/6jhvDPA1wPvyZgt4Sd0jV2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:13 |
+| 652 | [Hey Mr\. Dogman!](https://open.spotify.com/track/1poEehfJMN4lQqSsXcBxNQ) | [Powerplant](https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx) | [People in the Sun](https://open.spotify.com/album/28Oa0IXZyGHw0GpSLdkyk1) | 2:42 |
+| 653 | [Landline](https://open.spotify.com/track/2LvG6CvAngdkkbPw5EjG5H) | [Landline](https://open.spotify.com/artist/0bRSQWTnCzkRKctyXYrhs4) | [Landline](https://open.spotify.com/album/2171VebZnlhHswDZtosl4r) | 2:41 |
+| 654 | [Dog](https://open.spotify.com/track/1b9sUqUIX9ya2piu29HJNu) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [The Rubber Teeth Talk](https://open.spotify.com/album/4lloxY9u7ukMRVBlI9JGh1) | 4:03 |
+| 655 | [Somewhere In America There's A Street](https://open.spotify.com/track/03wgi2tpRy0pdUVZSsBomu) | [Was \(Not Was\)](https://open.spotify.com/artist/7Jmod60ZpPG0tckhY0Ls0p) | [What Up, Dog?](https://open.spotify.com/album/4IY2WJvEcXzaHfQQoVi2sZ) | 3:41 |
+| 656 | [Say No More](https://open.spotify.com/track/1ZtQs6a3iYM74lWc28FcQv) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [POTLUCK](https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh) | 2:21 |
+| 657 | [Tubi](https://open.spotify.com/track/0qT6t3DZrOEqw5P8IDnGxF) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [MADE BY DOPE](https://open.spotify.com/album/4HgGbZrruExGMeXaQ3DOlb) | 2:03 |
+| 658 | [Interpret Sabotage](https://open.spotify.com/track/04HcLAYZ3YJ73oOZvjqBcM) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3), [Mel](https://open.spotify.com/artist/1yHQHPrgaF1Oe8LuYgBW8a) | [No Poison No Paradise](https://open.spotify.com/album/4GqT8uQCQRSs3Xt7wQ0u13) | 3:29 |
+| 659 | [Long Story Short](https://open.spotify.com/track/0JMyXs0Zj8hrr0OwvqSnxM) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3) | [Tronic](https://open.spotify.com/album/5MbqqLcX0c1rtKtzKWKxCx) | 5:04 |
+| 660 | [The Ballad Of The RAA](https://open.spotify.com/track/3TU3qRbVu8jSv6IrfY0FoV) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Hometowns](https://open.spotify.com/album/5X27E81cePL9bNER4QEjmO) | 3:28 |
+| 661 | [Pure Morning](https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 4:14 |
+| 662 | [Court and Spark](https://open.spotify.com/track/2l8kERLPqgP7p94Duj9nqH) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:46 |
+| 663 | [How the Shadow Is Clear \- Remastered](https://open.spotify.com/track/4dJV7QQkkqE8o6UrWp6poO) | [Oidopuaa Vladimir Oiun](https://open.spotify.com/artist/11D12wFV7ZA7kc83fO23Fv) | [Divine Music from Jail](https://open.spotify.com/album/1EfMnzM9K8lIXG394evveZ) | 2:06 |
+| 664 | [Morning Morgantown](https://open.spotify.com/track/6jhvDPA1wPvyZgt4Sd0jV2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:13 |
 
-Snapshot ID: `AAAIiuk4JcB90kayXR95oUVwGWFI2BPC`
+Snapshot ID: `AAAIi8+Va9kTj9wUbx51FRWecF5rmmfH`

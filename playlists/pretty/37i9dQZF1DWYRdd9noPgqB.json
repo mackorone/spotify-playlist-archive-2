@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299038,
+  "num_followers": 299025,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-01-29 23:00:33",
       "album": {
-        "name": "Second Sleep / Star Eyes",
-        "url": "https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Second Sleep",
-      "url": "https://open.spotify.com/track/47N21fn8V8IN392MGlicT5"
-    },
-    {
-      "added_at": "2026-01-29 23:00:33",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 164885,
       "name": "Dream",
       "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
+    },
+    {
+      "added_at": "2026-01-29 23:00:33",
+      "album": {
+        "name": "Second Sleep / Star Eyes",
+        "url": "https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 288453,
+      "name": "Second Sleep",
+      "url": "https://open.spotify.com/track/47N21fn8V8IN392MGlicT5"
     },
     {
       "added_at": "2026-01-29 23:00:33",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-01-29 23:00:33",
       "album": {
+        "name": "Departures & Arrivals: Adventures of Captain Curt",
+        "url": "https://open.spotify.com/album/6kslXkHCr5rcOpf07Ss37k"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/4difawHT7Gzi9q7l9qUcZi"
+    },
+    {
+      "added_at": "2026-01-29 23:00:33",
+      "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
-    },
-    {
-      "added_at": "2026-01-29 23:00:33",
-      "album": {
-        "name": "Departures & Arrivals: Adventures of Captain Curt",
-        "url": "https://open.spotify.com/album/6kslXkHCr5rcOpf07Ss37k"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/4difawHT7Gzi9q7l9qUcZi"
     },
     {
       "added_at": "2026-01-29 23:00:33",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-01-29 23:00:33",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 257400,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
-    },
-    {
-      "added_at": "2026-01-29 23:00:33",
-      "album": {
         "name": "Unoriginal / Black-Eyed Susan Climb",
         "url": "https://open.spotify.com/album/6G8lUZ22qQTBDsV5EKN4MO"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 178053,
       "name": "Unoriginal",
       "url": "https://open.spotify.com/track/0k4qLmMUs7HOvGYtkljECk"
+    },
+    {
+      "added_at": "2026-01-29 23:00:33",
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 257400,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
     },
     {
       "added_at": "2026-01-29 23:00:33",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-01-29 23:00:33",
       "album": {
-        "name": "When I Go",
-        "url": "https://open.spotify.com/album/5MYFajLWl4uphD3NPW223K"
-      },
-      "artists": [
-        {
-          "name": "Saults",
-          "url": "https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8"
-        }
-      ],
-      "duration_ms": 257397,
-      "name": "When I Go",
-      "url": "https://open.spotify.com/track/1DIWTY8YI8cLaQRdPSrkDl"
-    },
-    {
-      "added_at": "2026-01-29 23:00:33",
-      "album": {
         "name": "Feel Myself / Wait For You",
         "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 164002,
       "name": "Feel Myself",
       "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
+    },
+    {
+      "added_at": "2026-01-29 23:00:33",
+      "album": {
+        "name": "When I Go",
+        "url": "https://open.spotify.com/album/5MYFajLWl4uphD3NPW223K"
+      },
+      "artists": [
+        {
+          "name": "Saults",
+          "url": "https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8"
+        }
+      ],
+      "duration_ms": 257397,
+      "name": "When I Go",
+      "url": "https://open.spotify.com/track/1DIWTY8YI8cLaQRdPSrkDl"
     },
     {
       "added_at": "2026-01-29 23:00:33",
@@ -691,6 +691,22 @@
       "duration_ms": 131811,
       "name": "Mr. Plastic",
       "url": "https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb"
+    },
+    {
+      "added_at": "2026-01-29 23:00:33",
+      "album": {
+        "name": "Electronicity",
+        "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Electronicity",
+      "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
     },
     {
       "added_at": "2026-01-29 23:00:33",
@@ -843,22 +859,6 @@
       "duration_ms": 159078,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
-    },
-    {
-      "added_at": "2026-01-29 23:00:33",
-      "album": {
-        "name": "Kick Out of You",
-        "url": "https://open.spotify.com/album/0jEYKbsEzz4s3xK65hBhq5"
-      },
-      "artists": [
-        {
-          "name": "Charlie Winston",
-          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Kick Out of You",
-      "url": "https://open.spotify.com/track/6xynry0TYIlyClA93a1rJt"
     }
   ],
   "unique_name": "Feel Good",

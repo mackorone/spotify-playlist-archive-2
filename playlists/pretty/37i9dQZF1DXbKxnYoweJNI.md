@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: Quanzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,040 likes - 119 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,038 likes - 119 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 36 | [證明 Proof](https://open.spotify.com/track/7ouwtgwhVsjnyIzOGtm560) | [江文瑞](https://open.spotify.com/artist/21vf5GQMlvJPyZNrngQFsR) | [證明 Proof](https://open.spotify.com/album/1y8ydCloOSoPt8cE1Wj2ni) | 4:09 |
 | 37 | [太空牧游](https://open.spotify.com/track/5FRKui7yv18McN80efXpqY) | [鄧奕恆Ehen](https://open.spotify.com/artist/0slaEFCgYaLAoIWTsd46DE) | [太空牧游](https://open.spotify.com/album/2I1Q6lMygmoEkzfrEcBQT8) | 4:57 |
 | 38 | [我不會](https://open.spotify.com/track/1Cqh5IcGOczZUopGKECDvm) | [Andrew柏諺](https://open.spotify.com/artist/4eRjjiU6wVgybvvhdyPvrB), [兔子先生](https://open.spotify.com/artist/7ljAPbAorbPaC3gvSBz1lU) | [我不會](https://open.spotify.com/album/5hCkLAxrAy4b8QjK58Xas2) | 2:46 |
-| 39 | [悄然無聲地離開](https://open.spotify.com/track/0FwIn5u09bP0Zk9AOfooKo) | [WHY](https://open.spotify.com/artist/5ng8tiD9xq9hrvcIljqaG7) | [悄然無聲地離開](https://open.spotify.com/album/6og1H6Q4aiblzFWBtsxlzw) | 3:24 |
+| 39 | [悄然無聲地離開 \(Demo\)](https://open.spotify.com/track/0FwIn5u09bP0Zk9AOfooKo) | [WHY](https://open.spotify.com/artist/5ng8tiD9xq9hrvcIljqaG7) | [悄然無聲地離開 \(Demo\)](https://open.spotify.com/album/6og1H6Q4aiblzFWBtsxlzw) | 3:24 |
 | 40 | [單純的](https://open.spotify.com/track/2qtIaCcwI4AmpaEEjA2rFi) | [王以童](https://open.spotify.com/artist/1CKaCQ46AaqfVHz1r1Vqta) | [單純的](https://open.spotify.com/album/7wxHwNfjei8MxH8msEsXzd) | 2:44 |
 | 41 | [追日出的人](https://open.spotify.com/track/6OZ1obmAOSEwY1tjkXCmVJ) | [人行斜道OtherWayOut](https://open.spotify.com/artist/7wlPnRsZsGWb59tE9WXr1c) | [追日出的人&苹果](https://open.spotify.com/album/4Eowjw62yhfzzKwLFo5NTR) | 5:31 |
 | 42 | [賞金獵人](https://open.spotify.com/track/2EryMeozkVrj1XdtGCpGTS) | [K.I](https://open.spotify.com/artist/6fG5o0kIAg543WNXI4AkZe) | [西部專輯](https://open.spotify.com/album/4knpRKNJNEmNlXUSITyNuR) | 2:28 |

@@ -6203,6 +6203,24 @@
     },
     {
       "album": {
+        "name": "A Love Just For You",
+        "url": "https://open.spotify.com/album/1SImD1w5edFzQMbxjq147b"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "A Love Just For You",
+      "url": "https://open.spotify.com/track/7jQp6vs7mSfvIsRvynDh9Q"
+    },
+    {
+      "album": {
         "name": "A Love of Van Gogh",
         "url": "https://open.spotify.com/album/4IyjbYwBNAgK00OCtVI8PJ"
       },
@@ -6214,7 +6232,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 224400,
       "name": "A Love of Van Gogh",
       "url": "https://open.spotify.com/track/26gmwC2ocEG519x4WJcLji"
@@ -6946,6 +6964,24 @@
       "duration_ms": 198626,
       "name": "A rustic ballad",
       "url": "https://open.spotify.com/track/7lP0HJw74ggCKq20M0dy86"
+    },
+    {
+      "album": {
+        "name": "a sad invitation(2026)",
+        "url": "https://open.spotify.com/album/3MMsu7kcbpJuFV9tBbRd0S"
+      },
+      "artists": [
+        {
+          "name": "Fil",
+          "url": "https://open.spotify.com/artist/7m8uiaaNYL1PY7zRCfnLgU"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241690,
+      "name": "a sad invitation(2026)",
+      "url": "https://open.spotify.com/track/3Gh2h3MOaRFRILbyKrbsZu"
     },
     {
       "album": {
@@ -9135,6 +9171,24 @@
     },
     {
       "album": {
+        "name": "After A Long Time",
+        "url": "https://open.spotify.com/album/4yAwgNjDnvbdfK3IIlAL2H"
+      },
+      "artists": [
+        {
+          "name": "Cha ga eul",
+          "url": "https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "After A Long Time",
+      "url": "https://open.spotify.com/track/6x2iQYiypmUoAyapbeyVWt"
+    },
+    {
+      "album": {
         "name": "After A Long Time (Our Secret Diary X ZIA)",
         "url": "https://open.spotify.com/album/2n59KRYHmLnU3SxfzRHKWv"
       },
@@ -9182,7 +9236,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 222170,
       "name": "After All, I Couldn't Forget You",
       "url": "https://open.spotify.com/track/6643WbschshTYtbIK4Sx4m"
@@ -47549,6 +47603,24 @@
     },
     {
       "album": {
+        "name": "Countdown to Three like a Habit : Wish+ Ep. 02",
+        "url": "https://open.spotify.com/album/1b0vlTAlYnDzKYDPPKxyt5"
+      },
+      "artists": [
+        {
+          "name": "Kim Min Seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/45L3afdB7MgheLyaAjRV8t"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348000,
+      "name": "Countdown to Three like a Habit",
+      "url": "https://open.spotify.com/track/6EbVa7DkMT0Uy7zs3Hj9lQ"
+    },
+    {
+      "album": {
         "name": "Countdown to Three like a Habit (with KCM)",
         "url": "https://open.spotify.com/album/5Mh0l9bZv9z8PhYeLQXoX6"
       },
@@ -50280,6 +50352,24 @@
       "duration_ms": 217240,
       "name": "DANCE ON",
       "url": "https://open.spotify.com/track/2GOrO1x1nBH8B63YF774QY"
+    },
+    {
+      "album": {
+        "name": "Undercover Miss Hong OST Part.4",
+        "url": "https://open.spotify.com/album/09ws0yNmhahZcRhVo4B8Pr"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Dance Tonight",
+      "url": "https://open.spotify.com/track/2bAc5lIgEuoDOWtgMiIox7"
     },
     {
       "album": {
@@ -68116,7 +68206,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 220000,
       "name": "Even If This Love Disappears Tonight",
       "url": "https://open.spotify.com/track/00KY9LKV7KJM53zByjtmiE"
@@ -90548,7 +90638,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 199000,
       "name": "Grenade",
       "url": "https://open.spotify.com/track/69erutIC5E9VFHtDKerTkd"
@@ -97686,7 +97776,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 195000,
       "name": "History",
       "url": "https://open.spotify.com/track/6NBoJY5N8IkkOLFTy6Yt06"
@@ -101861,6 +101951,28 @@
     },
     {
       "album": {
+        "name": "How we were written (feat. Yu kyeongmo)",
+        "url": "https://open.spotify.com/album/3iMzZBicTfswItLy6vrr3T"
+      },
+      "artists": [
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Yu Kyeongmo",
+          "url": "https://open.spotify.com/artist/1PQQIeHxe1ADOrBKH80rmC"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219545,
+      "name": "How we were written (feat. Yu kyeongmo)",
+      "url": "https://open.spotify.com/track/1yzpgc1tELi6hL8x6tlpWM"
+    },
+    {
+      "album": {
         "name": "How you doin'",
         "url": "https://open.spotify.com/album/0Yt1IfHLwHR2VPq3bRn6EF"
       },
@@ -103114,7 +103226,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 165000,
       "name": "Hyper Slide (Sung by KYEHOON, DONGHWA, MINJE, KEIJU)",
       "url": "https://open.spotify.com/track/064sWTOPij4bxEHfdhejwU"
@@ -107556,7 +107668,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 250637,
       "name": "I Love You, I Love You",
       "url": "https://open.spotify.com/track/3rCWM4pX0nChM3EAKF8Wle"
@@ -109682,6 +109794,24 @@
       "duration_ms": 212688,
       "name": "I wanna be free",
       "url": "https://open.spotify.com/track/14aB5V0cYhcMCS7wwYm7J9"
+    },
+    {
+      "album": {
+        "name": "i wanna believe something",
+        "url": "https://open.spotify.com/album/4oZ2V5zfK2tyvQFdVhTpBM"
+      },
+      "artists": [
+        {
+          "name": "untell",
+          "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "i wanna believe something",
+      "url": "https://open.spotify.com/track/2Kx1TevXau92x9faOQcW9Y"
     },
     {
       "album": {
@@ -126408,7 +126538,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 181733,
       "name": "King of the New World",
       "url": "https://open.spotify.com/track/5Jx7Z2gn3qsYmP0pbvLtCZ"
@@ -126842,7 +126972,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 139045,
       "name": "Knife",
       "url": "https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w"
@@ -135162,6 +135292,24 @@
       "duration_ms": 192768,
       "name": "lilac",
       "url": "https://open.spotify.com/track/7tR89psGizV85a9gkOk9E6"
+    },
+    {
+      "album": {
+        "name": "End of the Month, Jang Beomjune (January 2026) \u2013 Lilac",
+        "url": "https://open.spotify.com/album/5K8owHEoj8fLGzxpflJ9xU"
+      },
+      "artists": [
+        {
+          "name": "Jang Beom June",
+          "url": "https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "lilac",
+      "url": "https://open.spotify.com/track/4zB4KkdJTY3YhlC2CtODcs"
     },
     {
       "album": {
@@ -149960,7 +150108,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 230000,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/0jd9sIP9WfC3DyGVM3pET8"
@@ -153100,6 +153248,24 @@
       "duration_ms": 240372,
       "name": "Mirage of Love",
       "url": "https://open.spotify.com/track/1toTw9mQ89Li7LqNvTA5Aa"
+    },
+    {
+      "album": {
+        "name": "MIRO",
+        "url": "https://open.spotify.com/album/0X7Pul2W2tFNUPBYZ9foQl"
+      },
+      "artists": [
+        {
+          "name": "Kani",
+          "url": "https://open.spotify.com/artist/1tBCub2evxGX1rUso7eveJ"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "MIRO",
+      "url": "https://open.spotify.com/track/3MtYafyNz7jYirfhdoUuCq"
     },
     {
       "album": {
@@ -178788,7 +178954,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 158000,
       "name": "PASS",
       "url": "https://open.spotify.com/track/0V32dVXNkIfrRrenhbR0Sz"
@@ -181720,7 +181886,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 185142,
       "name": "platanus",
       "url": "https://open.spotify.com/track/6KMn4P1nkZYG0fdbaefrxz"
@@ -220713,6 +220879,24 @@
     },
     {
       "album": {
+        "name": "loop vol. 1 - Sugar",
+        "url": "https://open.spotify.com/album/4MDyxmsFEznFjPrxOaqC1i"
+      },
+      "artists": [
+        {
+          "name": "We Are The Night",
+          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3B0PFLEa5sAcv1eX6g1IFE"
+    },
+    {
+      "album": {
         "name": "SUGAR",
         "url": "https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef"
       },
@@ -257123,6 +257307,24 @@
     },
     {
       "album": {
+        "name": "What Love Is (Positively Yours X Huh Gak) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0vNd9d5KtDFOOQN0nGJB4F"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/18iOwgbRDm7FX3BIyOmfZE"
+    },
+    {
+      "album": {
         "name": "What Makes You Beautiful [THE SEASONS: Red Carpet with Lee Hyo Ri]",
         "url": "https://open.spotify.com/album/3RvguzRz56wqZ9fNldExgn"
       },
@@ -264474,7 +264676,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 261000,
       "name": "With a smile",
       "url": "https://open.spotify.com/track/5kppvK2WJueiLy4ntFkNaj"
@@ -266182,6 +266384,24 @@
       "duration_ms": 174600,
       "name": "words don\u2018t come true",
       "url": "https://open.spotify.com/track/2OdSPWm64XuYGITs12Xhfs"
+    },
+    {
+      "album": {
+        "name": "To My Beloved Thief, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/44WRSzIf5J3ccuvdym0aCY"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Words I Never Said",
+      "url": "https://open.spotify.com/track/0y0iug6LnWXJzDlW8inP8N"
     },
     {
       "album": {
@@ -269692,7 +269912,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 227000,
       "name": "You Are Spring",
       "url": "https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG"
@@ -279311,6 +279531,24 @@
     },
     {
       "album": {
+        "name": "\ubc14\ub78c\uc5d0 \uae30\ub300\uc5b4 \ub108\ub97c \ubd88\ub7ec\ubcf8\ub2e4",
+        "url": "https://open.spotify.com/album/1cRPzXTir9M5WaOxXZyxUe"
+      },
+      "artists": [
+        {
+          "name": "Beadyo \uad6c\uc2ac\uc694",
+          "url": "https://open.spotify.com/artist/74wxMxhARzy0dzb0j2iD9A"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "\ubc14\ub78c\uc5d0 \uae30\ub300\uc5b4 \ub108\ub97c \ubd88\ub7ec\ubcf8\ub2e4",
+      "url": "https://open.spotify.com/track/2B5i2W1aD1iJW38GTjYuRc"
+    },
+    {
+      "album": {
         "name": "\ubc14\uc774\ud2b8\ubbf8 (Original Webtoon Soundtrack) Pt.23",
         "url": "https://open.spotify.com/album/3NFXkReFhOYDZdwVsc5tqW"
       },
@@ -283278,6 +283516,24 @@
       "duration_ms": 214786,
       "name": "\uc624\ub298 \ub098\ub97c \ubc84\ub824\uc694 (Throw me away)",
       "url": "https://open.spotify.com/track/1GV9lFvn24jFusdrGtIuV3"
+    },
+    {
+      "album": {
+        "name": "\uc624\ub298 \ubc24\uc740 \ucde8\ud574 \ubcfc\uac8c\uc694 (\uc601\ud654 \ubcf4\uc774 (Original Motion Picture Soundtrack))",
+        "url": "https://open.spotify.com/album/4XgHHYUWyvlOKo7oCniMOK"
+      },
+      "artists": [
+        {
+          "name": "ZO ZAZZ",
+          "url": "https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "\uc624\ub298 \ubc24\uc740 \ucde8\ud574 \ubcfc\uac8c\uc694",
+      "url": "https://open.spotify.com/track/2QfBVi4AgoRP1Hk0rn7A3J"
     },
     {
       "album": {

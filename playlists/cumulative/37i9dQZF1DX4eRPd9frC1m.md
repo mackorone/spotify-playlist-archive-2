@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-458 songs - 1 day 0 hr 34 min
+459 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Control](https://open.spotify.com/track/1YVPBX1nfpWOlp6rSrg0C4) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Control](https://open.spotify.com/album/6UDJu02Yx57vyNTqAfEMr7) | 2:57 | 2021-11-19 | 2022-01-08 |
 | [Crash Out](https://open.spotify.com/track/5uWbuRqGSBmFtzC7hIyfVr) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [Crash Out](https://open.spotify.com/album/6owfK8zHCY2EzDO8OvQ1eD) | 3:46 | 2025-03-28 | 2025-08-02 |
 | [Crazy in the Head](https://open.spotify.com/track/4qfkszBr0DlyeXYL0yyvdY) | [FOCUSS](https://open.spotify.com/artist/1zF6ztWzJmC3kmyvUsLbqX) | [Crazy in the Head EP](https://open.spotify.com/album/6jKmTWnMw3VYIS9R52wion) | 3:00 | 2023-08-18 | 2023-09-10 |
-| [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 | 2023-07-14 |  |
+| [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 | 2023-07-14 | 2026-02-02 |
 | [Crossfire](https://open.spotify.com/track/1cScOu41mPgWKFzBXbBaSS) | [Alpha AF](https://open.spotify.com/artist/1avz8uLnB3bKQvDnHQko5o) | [Crossfire](https://open.spotify.com/album/3DOZibhKgdUYQ9qBzQcO5w) | 3:28 | 2021-11-19 | 2022-01-08 |
 | [Cyanide](https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [MINDFULL](https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb) | 3:06 | 2025-08-29 |  |
 | [Damage](https://open.spotify.com/track/4uwscfpPs3qMpswueaKISw) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Damage](https://open.spotify.com/album/1nYaZZovs0DuMxyYn79XP9) | 3:15 | 2025-02-07 | 2025-07-01 |
@@ -125,6 +125,7 @@
 | [Emergence](https://open.spotify.com/track/5NM99r8sRxJ1vbVlAopATe) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [LLLLNNNN](https://open.spotify.com/artist/5EnVoD5aCLkfAkZR6hFrSR) | [Emergence](https://open.spotify.com/album/1ZdDg0Y5tTFYMGlGMN0VJd) | 2:56 | 2022-01-07 | 2022-07-21 |
 | [Eternity](https://open.spotify.com/track/1apKTl69lh4dXHcUOZer8l) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Eternity](https://open.spotify.com/album/3zUXUyx9kx2Pp7ANoLtzxV) | 3:01 | 2021-11-19 | 2022-01-08 |
 | [F.Y.U.](https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [F.Y.U.](https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q) | 2:41 | 2023-12-15 | 2026-01-15 |
+| [FACEDOWN](https://open.spotify.com/track/5bBsJxig0Ls4USQqIukB6I) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [FACEDOWN](https://open.spotify.com/album/2ynrHhpM9WSDh9Snv0dz1c) | 2:36 | 2026-01-30 |  |
 | [Faded](https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI) | [Zannen](https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Faded](https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod) | 2:56 | 2022-01-07 | 2022-08-03 |
 | [Falling](https://open.spotify.com/track/7nc4yn0oktMNoRV1vaG1de) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Falling](https://open.spotify.com/album/5P9Te9AL9l7qphGAXne9rt) | 3:31 | 2021-11-19 | 2022-01-08 |
 | [Falling \(Alexandar Smash Remix\)](https://open.spotify.com/track/3zJTXgtzn4mr9YYanvSGfp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Alexandar Smash](https://open.spotify.com/artist/2eheBZ3uhxzH8eBRvV0xtv) | [Falling \(Alexandar Smash Remix\)](https://open.spotify.com/album/0jbULvSiNGAHkiTrtoVZTR) | 3:26 | 2022-01-07 | 2022-08-17 |

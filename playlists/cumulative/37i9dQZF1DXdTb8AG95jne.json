@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 252000,
       "name": "Blueberry muffin",
       "url": "https://open.spotify.com/track/05twJYCLTHmuA25J6X25N1"
@@ -11568,7 +11568,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 237619,
       "name": "Love, After All",
       "url": "https://open.spotify.com/track/220eac16XYiepPKj7igHzB"
@@ -12042,7 +12042,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 212250,
       "name": "Me, Forever (feat. Car, the garden)",
       "url": "https://open.spotify.com/track/6nNTYLF4VszdIETzoAenvw"
@@ -12390,6 +12390,24 @@
       "duration_ms": 360360,
       "name": "Minerva",
       "url": "https://open.spotify.com/track/2DmSpel2RpctQjgHHWif0v"
+    },
+    {
+      "album": {
+        "name": "MIRO",
+        "url": "https://open.spotify.com/album/0X7Pul2W2tFNUPBYZ9foQl"
+      },
+      "artists": [
+        {
+          "name": "Kani",
+          "url": "https://open.spotify.com/artist/1tBCub2evxGX1rUso7eveJ"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "MIRO",
+      "url": "https://open.spotify.com/track/3MtYafyNz7jYirfhdoUuCq"
     },
     {
       "album": {
@@ -18168,6 +18186,24 @@
       "duration_ms": 428750,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/5pVRFzJBef2QI5kfOBfsQY"
+    },
+    {
+      "album": {
+        "name": "loop vol. 1 - Sugar",
+        "url": "https://open.spotify.com/album/4MDyxmsFEznFjPrxOaqC1i"
+      },
+      "artists": [
+        {
+          "name": "We Are The Night",
+          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3B0PFLEa5sAcv1eX6g1IFE"
     },
     {
       "album": {

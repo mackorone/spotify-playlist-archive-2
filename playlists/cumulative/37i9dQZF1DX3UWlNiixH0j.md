@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: the bercedes menz
 
-2,959 songs - 7 day 17 hr 21 min
+2,960 songs - 7 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1625,7 +1625,7 @@
 | [Swans](https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Swans](https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g) | 3:05 | 2023-12-12 | 2024-02-14 |
 | [Sway](https://open.spotify.com/track/0cxHahki62Il8grUpVOymf) | [Barbara](https://open.spotify.com/artist/5L4cL58h70X4usTwKuvmQk) | [Sway](https://open.spotify.com/album/6No2MfukzpkiCBO0OWl00l) | 3:16 | 2024-04-30 | 2024-05-08 |
 | [Sway](https://open.spotify.com/track/50Opxhj5GxjF47Fc5SXoZl) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [Sway](https://open.spotify.com/album/3ZYTXFJA0ju3dk4PErgh5O) | 4:26 | 2023-02-07 | 2023-03-22 |
-| [SWEATER](https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [SWEATER](https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq) | 4:14 | 2025-11-18 |  |
+| [SWEATER](https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [SWEATER](https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq) | 4:14 | 2025-11-18 | 2026-02-02 |
 | [Sweet Cherry](https://open.spotify.com/track/50yh6IKYA8b7y6ydZypdfj) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Sweet Cherry](https://open.spotify.com/album/7vjFmZN5LluhVrNAbysold) | 4:36 | 2024-07-16 | 2024-07-24 |
 | [Sweet dream](https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [9.](https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7) | 2:56 | 2023-04-27 | 2023-06-25 |
 | [Sweet Lemon](https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON) | [Newdums](https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB) | [Left Behind](https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D) | 3:42 | 2024-02-15 | 2024-02-21 |
@@ -1772,6 +1772,7 @@
 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 | 2024-01-11 | 2024-09-18 |
 | [two drifters](https://open.spotify.com/track/3eJhGpKn8aLCPOZ2uPiWps) | [Skirt](https://open.spotify.com/artist/08mohCeV7TXJ7EASM6u6Cc) | [two drifters](https://open.spotify.com/album/2RGDUzS8MmT062IVgRELBa) | 3:53 | 2025-03-25 | 2025-04-02 |
 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 | 2023-09-08 | 2024-04-19 |
+| [Tシャツvs雨](https://open.spotify.com/track/5F1bxYmnaCmYny5OVVaqwr) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [Tシャツvs雨](https://open.spotify.com/album/6DtP1Xii0O4aYMmqCXy1SH) | 4:54 | 2026-01-29 |  |
 | [U THINK](https://open.spotify.com/track/3sLrzUeK6tiFbqIf3bKu7s) | [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [BREAK POINT](https://open.spotify.com/album/43T8WbhPCFjtOqrEyB9EgU) | 2:58 | 2023-06-27 | 2023-07-05 |
 | [U THINK](https://open.spotify.com/track/7AhEAatRnOAO1nfaa5qyB6) | [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [BREAK POINT](https://open.spotify.com/album/56PXRjWzmiwZ0vqbj65g1B) | 2:58 | 2023-06-27 | 2023-06-29 |
 | [Uh Wah](https://open.spotify.com/track/1qqwzMfqIsg0HhQqCjc7Di) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [Uh Wah](https://open.spotify.com/album/7wZrxTpwlI3PsGJAyWXp4R) | 2:59 | 2025-10-14 | 2025-10-22 |

@@ -3038,7 +3038,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 178703,
       "name": "Luft",
       "url": "https://open.spotify.com/track/2YJSx1oGUOKnjpBbC5eV8U"
@@ -3484,6 +3484,28 @@
       "duration_ms": 146411,
       "name": "Nanana",
       "url": "https://open.spotify.com/track/5x1Hh2KQ8qXYxxSHC6ATAG"
+    },
+    {
+      "album": {
+        "name": "Never have I ever",
+        "url": "https://open.spotify.com/album/4PjHE0kHGMXGfzqHUnevHg"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207214,
+      "name": "Never have I ever",
+      "url": "https://open.spotify.com/track/0IcgxTESfN2LKZZC7l6Mw4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,076 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,108 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 13 | [MORE LIKE YOU](https://open.spotify.com/track/0k8edf4aAsnJxOKhWJJkPe) | [BLVRS](https://open.spotify.com/artist/3SeJEA9smshVPlk8jbWlPD) | [MORE LIKE YOU](https://open.spotify.com/album/6GXBFlCRnvdiDtBJajp88w) | 2:55 |
 | 14 | [GREATER LOVE](https://open.spotify.com/track/3gdAmqnh0cQiknfkLSB17H) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE), [LOGE](https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x) | [GREATER LOVE](https://open.spotify.com/album/0HsBCbZW9Y7taCvI9FkvPB) | 1:51 |
 | 15 | [FOOTSTOOL](https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [FOOTSTOOL](https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ) | 4:09 |
-| 16 | [Love Like This](https://open.spotify.com/track/5xdPonunrBkmwGkWNFcKhV) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Love Like This](https://open.spotify.com/album/3OPoxCkmoIe96rtyVpEopw) | 3:09 |
-| 17 | [Need Your Love](https://open.spotify.com/track/00lhBqWtz3kIwBD3DFtM3I) | [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Need Your Love](https://open.spotify.com/album/0rcpSlFUQH5z4YkWJ7vBRq) | 3:18 |
+| 16 | [Need Your Love](https://open.spotify.com/track/00lhBqWtz3kIwBD3DFtM3I) | [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Need Your Love](https://open.spotify.com/album/0rcpSlFUQH5z4YkWJ7vBRq) | 3:18 |
+| 17 | [Love Like This](https://open.spotify.com/track/5xdPonunrBkmwGkWNFcKhV) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Love Like This](https://open.spotify.com/album/3OPoxCkmoIe96rtyVpEopw) | 3:09 |
 | 18 | [Love Me Like I Am \(R3HAB Remix\)](https://open.spotify.com/track/0tsQVVq4TVZzcHWU6T634g) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Love Me Like I Am \(R3HAB Remix\)](https://open.spotify.com/album/1gwgrjoHrsA7bSzk1RkYNR) | 2:49 |
 | 19 | [YAHWEH](https://open.spotify.com/track/2X8by6m44p9dpivzyzB14p) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Anike](https://open.spotify.com/album/6PzZRVqEuFrt2U6f5j4yEf) | 2:49 |
 | 20 | [Take Over Me](https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Take Over Me](https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd) | 3:11 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 62 | [Need You](https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Need You](https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD) | 3:29 |
 | 63 | [It's Coming](https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [It's Coming](https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j) | 2:34 |
 | 64 | [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 |
-| 65 | [I AM](https://open.spotify.com/track/0sUPsWMFICkSCbWL2WCzxi) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [I AM](https://open.spotify.com/album/0wiIzRzhsidJL1k4dWFS7w) | 3:22 |
-| 66 | [Start Right Now](https://open.spotify.com/track/6WT10ADn9Y5pUgNvSJQclM) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Start Right Now](https://open.spotify.com/album/0DPOGBL5n3QYfrBufbvnK8) | 3:12 |
+| 65 | [Start Right Now](https://open.spotify.com/track/6WT10ADn9Y5pUgNvSJQclM) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Start Right Now](https://open.spotify.com/album/0DPOGBL5n3QYfrBufbvnK8) | 3:12 |
+| 66 | [I AM](https://open.spotify.com/track/0sUPsWMFICkSCbWL2WCzxi) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [I AM](https://open.spotify.com/album/0wiIzRzhsidJL1k4dWFS7w) | 3:22 |
 | 67 | [Zeal \- allskate remix](https://open.spotify.com/track/4Tz49pC7LbWb4FHnEjnk7t) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [David Dennis](https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK), [Shantrice Laura](https://open.spotify.com/artist/7jsV5ldKtsBr5ifAkmzQyP) | [Zeal \(allskate remix\)](https://open.spotify.com/album/4fUccHGUHkLJA87XzAoNEm) | 3:10 |
 | 68 | [Abacus](https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Abacus](https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1) | 2:03 |
 | 69 | [Smell The Roses](https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Smell The Roses](https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f) | 4:13 |

@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 218906,
       "name": "Con La Misma Bala",
       "url": "https://open.spotify.com/track/39bH2GZGYpB4j6wxtkwLy0"
@@ -1848,6 +1848,24 @@
       "duration_ms": 184520,
       "name": "Ticket De Salida",
       "url": "https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH"
+    },
+    {
+      "album": {
+        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico",
+        "url": "https://open.spotify.com/album/3F8aZbqlYnHBBPc8qSnbgg"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Tragos Amargos - En Vivo",
+      "url": "https://open.spotify.com/track/2yV0GXmzDOdiylEFzMhquy"
     },
     {
       "album": {

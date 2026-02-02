@@ -9581,6 +9581,24 @@
     },
     {
       "album": {
+        "name": "FIRST (LIVE AT THE PUB)",
+        "url": "https://open.spotify.com/album/7dSAOE0d05FwcUYrbFadqh"
+      },
+      "artists": [
+        {
+          "name": "The Mark & Freddy Band",
+          "url": "https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222279,
+      "name": "FIRST - LIVE AT THE PUB",
+      "url": "https://open.spotify.com/track/2Hbsuhl4xxHs6Nb4cARevw"
+    },
+    {
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/4DvnfJcQj24VSJ2PCMsFHR"
       },

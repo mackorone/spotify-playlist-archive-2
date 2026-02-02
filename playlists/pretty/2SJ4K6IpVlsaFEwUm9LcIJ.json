@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to jan-feb 2026",
-  "num_followers": 23866,
+  "num_followers": 23872,
   "original_name": "now is not the time, the time is now",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAANztWxlV7fQNYXEFrB2gr3wEuGjQzX",
+  "snapshot_id": "AAAN0AYJb0sPeL6trpW6/884e/RaEahT",
   "tracks": [
     {
       "added_at": "2026-01-08 20:03:59",
@@ -447,6 +447,38 @@
       "duration_ms": 142031,
       "name": "23",
       "url": "https://open.spotify.com/track/2BP54vmLS8Xdw294EuiH67"
+    },
+    {
+      "added_at": "2026-02-01 15:51:41",
+      "album": {
+        "name": "Set Free",
+        "url": "https://open.spotify.com/album/20A3l4TcQUxmiISp0txH8y"
+      },
+      "artists": [
+        {
+          "name": "The American Analog Set",
+          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "Born On The Cusp",
+      "url": "https://open.spotify.com/track/3Tc2Q1KlWcgSd4Fm4T41i8"
+    },
+    {
+      "added_at": "2026-02-02 00:11:10",
+      "album": {
+        "name": "Moon Pix",
+        "url": "https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 272200,
+      "name": "Cross Bones Style",
+      "url": "https://open.spotify.com/track/5Qhy5MYSkAMRVgTrABOlp7"
     }
   ],
   "unique_name": "now is not the time, the time is now",

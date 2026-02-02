@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1168,
+  "num_followers": 1167,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAM/o6pFMinZPO4yH1rC9+n8AnrHqos",
+  "snapshot_id": "AAANAJMbJHjCyKt3oaDeuSZDjg9Yzf1l",
   "tracks": [
     {
       "added_at": "2025-12-11 13:51:04",
@@ -875,6 +875,38 @@
       "duration_ms": 232656,
       "name": "Beautiful Fear",
       "url": "https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0"
+    },
+    {
+      "added_at": "2026-02-01 15:31:03",
+      "album": {
+        "name": "The Way It Makes Me Feel",
+        "url": "https://open.spotify.com/album/6LxSvGxZ6Csn5ijB3QtVcZ"
+      },
+      "artists": [
+        {
+          "name": "Penelope",
+          "url": "https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN"
+        }
+      ],
+      "duration_ms": 213438,
+      "name": "The Way It Makes Me Feel",
+      "url": "https://open.spotify.com/track/3oBUdNLtPspoHjr4mMlQkk"
+    },
+    {
+      "added_at": "2026-02-01 22:26:08",
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI"
+      },
+      "artists": [
+        {
+          "name": "Michael Barrow & the Tourists",
+          "url": "https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

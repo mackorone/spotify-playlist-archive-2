@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from KiiiKiii, Yuna, FORCEPARKBOIS, Amylea, Daiyan Trisha,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,437 likes - 116 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,426 likes - 116 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

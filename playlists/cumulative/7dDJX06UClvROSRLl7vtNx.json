@@ -1147,6 +1147,28 @@
     },
     {
       "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/5mkNjSe4l9sdmOKf3Tn91h"
+      },
+      "artists": [
+        {
+          "name": "Solayne",
+          "url": "https://open.spotify.com/artist/1OSYviDPXQTukysazHRPdh"
+        },
+        {
+          "name": "Her Majesty",
+          "url": "https://open.spotify.com/artist/4a8Lrkd7Ca9gdqytlXXU6X"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215731,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7slFkdJoxNJ2NAvp98MauA"
+    },
+    {
+      "album": {
         "name": "Another Night",
         "url": "https://open.spotify.com/album/3V4qu83f9ZoDOe1uvQ6tUy"
       },
@@ -1936,7 +1958,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 140000,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/7HYpXGqMiPZdcFx7spNMHL"
@@ -2226,7 +2248,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 176406,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0wI0S42Cg41DVGqIIVimTM"
@@ -3560,7 +3582,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 153461,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/2t55C2BOtdTHywkXvdloBy"
@@ -9416,6 +9438,28 @@
     {
       "album": {
         "name": "Hollow",
+        "url": "https://open.spotify.com/album/0GxtSGxzjekQNRV5Lsx78K"
+      },
+      "artists": [
+        {
+          "name": "Kusta5",
+          "url": "https://open.spotify.com/artist/7tTbcLrr3ZSC3IM1CQKbtx"
+        },
+        {
+          "name": "2FarAway",
+          "url": "https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/3nGeGQiBQTmAoXQkjLQnAf"
+    },
+    {
+      "album": {
+        "name": "Hollow",
         "url": "https://open.spotify.com/album/3J0mqMUXUMAeOA2yKi7Ky0"
       },
       "artists": [
@@ -11112,7 +11156,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 120975,
       "name": "In The Moment",
       "url": "https://open.spotify.com/track/2gR8Fvdb7sEb8kCPgMJevr"
@@ -11490,6 +11534,28 @@
       "duration_ms": 129677,
       "name": "It's Not Living (If It's Not With You)",
       "url": "https://open.spotify.com/track/1EgvFSaFRALgJJg5FqV6b4"
+    },
+    {
+      "album": {
+        "name": "It's Not Nothing",
+        "url": "https://open.spotify.com/album/0LMDUnW60BivkQfNgM9aXG"
+      },
+      "artists": [
+        {
+          "name": "Chris Ruo",
+          "url": "https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY"
+        },
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140788,
+      "name": "It's Not Nothing",
+      "url": "https://open.spotify.com/track/6S3vHNClO5Ixm2Dj5125hW"
     },
     {
       "album": {
@@ -12318,6 +12384,32 @@
       "duration_ms": 156494,
       "name": "Lay all your love on me",
       "url": "https://open.spotify.com/track/7fAb1ipk2twSkV3mRUvBV3"
+    },
+    {
+      "album": {
+        "name": "Lay Me Down",
+        "url": "https://open.spotify.com/album/6ft1qSpdJQBiCa1m552CBy"
+      },
+      "artists": [
+        {
+          "name": "Panuma",
+          "url": "https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH"
+        },
+        {
+          "name": "blaank",
+          "url": "https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177049,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/6VF1Wb7vNeO87tmhzo9Mqe"
     },
     {
       "album": {
@@ -13438,6 +13530,24 @@
       "duration_ms": 166315,
       "name": "Long Island",
       "url": "https://open.spotify.com/track/26edX6Ce1xLb780DyRkLK4"
+    },
+    {
+      "album": {
+        "name": "Look At Us",
+        "url": "https://open.spotify.com/album/7p4ew7H5zflO6GNGXbX7t5"
+      },
+      "artists": [
+        {
+          "name": "Goldaine",
+          "url": "https://open.spotify.com/artist/1QftYA5x2E5cUTutfjtcfg"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132521,
+      "name": "Look At Us",
+      "url": "https://open.spotify.com/track/4dVjXRECnu1iZjmSpfSOH4"
     },
     {
       "album": {
@@ -18822,7 +18932,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 158633,
       "name": "Rise And Fall",
       "url": "https://open.spotify.com/track/0rxD0lPiz9xsq1V1AjpVWb"
@@ -19032,6 +19142,32 @@
       "duration_ms": 128953,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1K0hfTvzjtTBzx0amj0VBS"
+    },
+    {
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/1hbTypNlDTJdXMK677REtZ"
+      },
+      "artists": [
+        {
+          "name": "Horxata",
+          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
+        },
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
+        },
+        {
+          "name": "Cha\u00ebl",
+          "url": "https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172380,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/2N0L3jEwhhD1vLwtk1baTJ"
     },
     {
       "album": {
@@ -22401,6 +22537,28 @@
     },
     {
       "album": {
+        "name": "Take Me Somewhere (Warm)",
+        "url": "https://open.spotify.com/album/39gsN8ColB2I3l7FVpxmhW"
+      },
+      "artists": [
+        {
+          "name": "L.B. One",
+          "url": "https://open.spotify.com/artist/42D00VQsIgAb68LZK0zWYS"
+        },
+        {
+          "name": "Shoby",
+          "url": "https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Take Me Somewhere (Warm)",
+      "url": "https://open.spotify.com/track/5LpFSrFNgTFFi5LRKiUF03"
+    },
+    {
+      "album": {
         "name": "Take You Higher",
         "url": "https://open.spotify.com/album/1h8mAy8Ijb7LCp9Qc6UUhO"
       },
@@ -25386,7 +25544,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 146181,
       "name": "Where We Belong",
       "url": "https://open.spotify.com/track/3GpkilqR1lWfKitVeKy6r4"
@@ -26330,6 +26488,28 @@
       "duration_ms": 128780,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/150iydyHGcXmZ8ijifkyMF"
+    },
+    {
+      "album": {
+        "name": "Your Gravity",
+        "url": "https://open.spotify.com/album/5kWhnGSSj2Xc1cnbu6jFZm"
+      },
+      "artists": [
+        {
+          "name": "S\u00d8R",
+          "url": "https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi"
+        },
+        {
+          "name": "Jake Neumar",
+          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153305,
+      "name": "Your Gravity",
+      "url": "https://open.spotify.com/track/2awzTSQg8wqOQIt9IGp3It"
     },
     {
       "album": {

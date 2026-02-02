@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-394 songs - 23 hr 5 min
+395 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Beige](https://open.spotify.com/track/3OBhDSxocfqs9knOUWYkBF) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0) | 3:22 | 2022-11-18 | 2024-02-12 |
 | [Beige](https://open.spotify.com/track/7yiNQMIKNj9tZvhRxscbg2) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Beige](https://open.spotify.com/album/5khD0TiegRGYelA8ju93qj) | 3:22 | 2022-11-18 | 2023-05-06 |
 | [Best I Can Do \- Alternative version](https://open.spotify.com/track/3SRzNd2pvcRrQgO1a7cZ82) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [How To Belong](https://open.spotify.com/album/0ujaVLfsY5PPAznqSG8QD7) | 3:47 | 2022-04-08 | 2022-08-27 |
+| [best thing](https://open.spotify.com/track/5L3aHDHOBC8wuahElfRzF0) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [best thing](https://open.spotify.com/album/3wURrlGrt2NuddOFSamiqh) | 4:27 | 2026-01-30 |  |
 | [Bible](https://open.spotify.com/track/2YWhFsixQdDGS391Wom0s4) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Bible](https://open.spotify.com/album/7nidHGnHANwdtpPgJvPQUY) | 3:21 | 2022-04-08 | 2024-01-26 |
 | [Black Lung](https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Sunflowers and Leather](https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59) | 3:30 | 2025-09-11 |  |
 | [Black Rabbit](https://open.spotify.com/track/7mUAtPz8GMelbiuVyPEgKP) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Black Rabbit](https://open.spotify.com/album/5ZuHH6ov9hbThE3u2QVPhq) | 4:35 | 2025-03-21 | 2025-04-12 |
@@ -56,7 +57,7 @@
 | [Builder Boy](https://open.spotify.com/track/3gxmx971GXRYyQlygxj5rs) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO) | [Builder Boy](https://open.spotify.com/album/6vSdbAoBBwvffyjs4w1jts) | 3:09 | 2023-06-30 | 2024-01-20 |
 | [Bullet](https://open.spotify.com/track/02xiL1bRrT2lEtrxul4JzB) | [Elizabeth M\. Drummond](https://open.spotify.com/artist/2IHOf4FCu5FCjH0QSPHvCT) | [Bullet](https://open.spotify.com/album/7bUTtLWrkKLsntpZTcacGR) | 3:51 | 2022-10-07 | 2024-06-09 |
 | [Butterfly](https://open.spotify.com/track/2husMCUsF2HdWmGKhr0lo2) | [Nanuk](https://open.spotify.com/artist/5k64JTFIHR64agZZUTinI7) | [Butterfly](https://open.spotify.com/album/7vDC6freFYc73J5YHbBzvh) | 3:13 | 2022-10-07 | 2023-07-01 |
-| [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 | 2024-01-19 |  |
+| [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 | 2024-01-19 | 2026-02-02 |
 | [Call My Name](https://open.spotify.com/track/25otaaQaySgAkOW61WibDs) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Call My Name](https://open.spotify.com/album/0EzgsLTpps8HovqZA1aMNK) | 3:25 | 2023-10-06 | 2024-02-10 |
 | [Can't Buy Happiness](https://open.spotify.com/track/5IwkralT3gnN9hL900X0Fr) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Can't Buy Happiness](https://open.spotify.com/album/6RKsSdVwMCq14PecYUjIQL) | 3:11 | 2022-04-08 | 2023-02-25 |
 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 | 2023-01-13 | 2025-09-12 |

@@ -2065,6 +2065,24 @@
     },
     {
       "album": {
+        "name": "Electronicity",
+        "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232373,
+      "name": "Electronicity",
+      "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
+    },
+    {
+      "album": {
         "name": "End Zone",
         "url": "https://open.spotify.com/album/6nE416MMt0BOKa0e696X7J"
       },
@@ -3678,7 +3696,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 199520,
       "name": "Kick Out of You",
       "url": "https://open.spotify.com/track/6xynry0TYIlyClA93a1rJt"

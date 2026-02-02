@@ -4,7 +4,7 @@
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Meet Uncle Hussain, Adi Priyo
 
-127 songs - 8 hr 46 min
+128 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Biarkanlah](https://open.spotify.com/track/0TbxuF4pkOZBfdBipPorYQ) | [Drama Band](https://open.spotify.com/artist/5NWfEZx5XGbVCAQTjhSxlR) | [Biarkanlah](https://open.spotify.com/album/5oR5jLtz8APUIBiZ5lB4CL) | 4:13 | 2024-06-21 | 2024-07-06 |
 | [Bimbang \- Remastered 2024](https://open.spotify.com/track/2ScdiGpRHznTFtqrQNmePu) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Ada Apa Dengan Cinta? \(Original Soundtrack\) \[Remastered 2024\]](https://open.spotify.com/album/3ONiigYwrqhTaU406vuDXQ) | 3:35 | 2024-05-23 | 2024-06-22 |
 | [Bukan Cinta Biasa](https://open.spotify.com/track/7pnySx65jx0qm8ZmV6R56m) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 4:11 | 2024-01-12 |  |
+| [Bukan Cinta Biasa](https://open.spotify.com/track/4arXMX7u6GSz4EJG92db1F) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [E.M.A.S](https://open.spotify.com/album/1SVWVBKR3VuR29T83MQXlc) | 4:26 | 2024-11-29 |  |
 | [Bukan Dia Tapi Aku](https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:36 | 2024-01-12 |  |
 | [Chentaku \(feat\. SonaOne\)](https://open.spotify.com/track/0xWcxp3BFrKSsAgpGtaseK) | [Zizan Razak](https://open.spotify.com/artist/7GkUskIBOKpJRyzpE7WQBD), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Chentaku \(feat\. SonaOne\)](https://open.spotify.com/album/0isfC79ZoHRIO8zMCvLOiz) | 3:55 | 2024-06-21 | 2024-07-06 |
 | [Cinta Dalam Hati](https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Untukmu Selamanya](https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva) | 4:43 | 2024-01-12 | 2025-09-16 |
@@ -95,7 +96,7 @@
 | [Perasaanku](https://open.spotify.com/track/0F9MgsXvr3oLfGX8bodXZW) | [Fieya Julia](https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA) | [Perasaanku](https://open.spotify.com/album/1Aep3n7K9j0m1ech4wRXFD) | 3:58 | 2024-06-21 | 2024-07-06 |
 | [Percayalah](https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet) | [Angly Kansil](https://open.spotify.com/artist/1b6uU6N4Uw7zGLdhn2C291) | [Percayalah](https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0) | 4:26 | 2024-11-29 | 2025-11-15 |
 | [Perempuanku](https://open.spotify.com/track/7LPM7izo6bPUrvnI9EJ4em) | [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:55 | 2024-01-12 |  |
-| [Purnama Merindu](https://open.spotify.com/track/5XvA9FrzIFGkMSlWt206jZ) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Adiwarna](https://open.spotify.com/album/3k2mWs74YcfgJstZGabWGj) | 4:27 | 2024-11-29 |  |
+| [Purnama Merindu](https://open.spotify.com/track/5XvA9FrzIFGkMSlWt206jZ) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Adiwarna](https://open.spotify.com/album/3k2mWs74YcfgJstZGabWGj) | 4:27 | 2024-11-29 | 2026-02-02 |
 | [Rahasia Hati \(New Version\)](https://open.spotify.com/track/5ljoPIZmzmXVoTdF7ebfwE) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Rahasia Hati \(New Version\)](https://open.spotify.com/album/2irA4FZKAdkCn7y6iceOhx) | 4:19 | 2024-11-07 | 2024-11-15 |
 | [Risalah Hati](https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Pupus / Risalah Hati](https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki) | 5:01 | 2024-01-12 | 2025-03-06 |
 | [Sakit](https://open.spotify.com/track/3pkLAqPKJWqr9MluDVIc6U) | [IamNeeta](https://open.spotify.com/artist/6g7i9qhTwxhEuxNUhU1mCg) | [Sakit](https://open.spotify.com/album/7BJzH3Q3qe33MO9KexP6Gc) | 3:25 | 2024-06-21 | 2024-07-06 |

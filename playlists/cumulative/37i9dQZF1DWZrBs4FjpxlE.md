@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-189 songs - 9 hr 19 min
+190 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Aftermath](https://open.spotify.com/track/2pUAN0zPh6TqyD1B2eZ6S9) | [PVLN](https://open.spotify.com/artist/7uCAdx7vj3t6T1ZSq25WIa) | [Aftermath](https://open.spotify.com/album/7kTIZod5T2uP9NKXAmCmf5) | 3:33 | 2025-01-31 | 2025-03-29 |
 | [again](https://open.spotify.com/track/7k0sm58Wlu2jR4dJB5Y0tS) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [again](https://open.spotify.com/album/5GNuSs1dFqX1x083OV3DrQ) | 1:55 | 2025-10-10 | 2025-11-19 |
 | [ALWAYS DO](https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:31 | 2024-02-23 | 2026-01-15 |
+| [Anyone's Guess](https://open.spotify.com/track/45zyM4NTpaYTp58OJzmaMI) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Anyone's Guess](https://open.spotify.com/album/4EZSr1NCFEc4yzD2NlPTZa) | 3:54 | 2026-02-01 |  |
 | [Apologies](https://open.spotify.com/track/7KvJup9EIS0K5Tsunt2p4r) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [PARTYLAND](https://open.spotify.com/album/1Fj0KeuWt1GTTMDm6ZtmBY) | 2:21 | 2025-04-18 | 2025-04-26 |
 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 | 2023-08-07 |  |
 | [Away you bleed](https://open.spotify.com/track/4FHp3T2CC92SV7JFLE8Q5j) | [Sway Burr](https://open.spotify.com/artist/57bMN7QDsEnxCtPXDo56Ok), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Away you bleed](https://open.spotify.com/album/7L34snu4jsWI5A5el0o27Z) | 2:00 | 2025-07-04 | 2025-08-02 |
@@ -70,7 +71,7 @@
 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 | 2023-08-14 |  |
 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 | 2023-08-07 |  |
 | [figure it out](https://open.spotify.com/track/4qylKOs840zBPQDKmzos7F) | [TJ Hickey](https://open.spotify.com/artist/3Q2AyLfZdQ108qXMWJf6lv) | [figure it out](https://open.spotify.com/album/20Kaf2kJfVIYc9YWu7eKM8) | 2:53 | 2026-01-30 |  |
-| [Forever \(71943509\)](https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Forever \(71943509\)](https://open.spotify.com/album/14kRP3nG8zEwpRjgGBlGKt) | 3:08 | 2025-05-09 |  |
+| [Forever \(71943509\)](https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Forever \(71943509\)](https://open.spotify.com/album/14kRP3nG8zEwpRjgGBlGKt) | 3:08 | 2025-05-09 | 2026-02-02 |
 | [Games](https://open.spotify.com/track/7xR4soaVnkl0IunRwUO5Dw) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Games](https://open.spotify.com/album/0qhjCNkQX5WQGFcY3ZOOfG) | 2:50 | 2026-01-09 |  |
 | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8) | 2:59 | 2023-08-07 |  |
 | [GHOST](https://open.spotify.com/track/6a0JNVksUWTzdQ2H0r9nBd) | [Witt Lowry](https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY) | [NEVERS ROAD](https://open.spotify.com/album/3kIUmStYlCKTlM9eZmN1Nb) | 3:44 | 2024-02-23 |  |

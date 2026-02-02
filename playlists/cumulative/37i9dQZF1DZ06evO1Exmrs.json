@@ -1302,6 +1302,24 @@
     {
       "album": {
         "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/4kENFtcJFlF2fmRfopRauO"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/3rfHA1jNeTCVoU5WUxaKjN"
+    },
+    {
+      "album": {
+        "name": "The Great Divide",
         "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
       },
       "artists": [

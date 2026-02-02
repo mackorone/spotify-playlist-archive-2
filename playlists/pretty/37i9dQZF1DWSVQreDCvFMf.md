@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: JAO
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,757 likes - 110 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,841 likes - 110 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,104 songs - 2 day 4 hr 27 min
+1,105 songs - 2 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Kusipää](https://open.spotify.com/track/6Z5OLH0shZIbkRDxx7xD11) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [<3](https://open.spotify.com/album/1XFTTD1GYqnF6WmTwKWMeo) | 2:48 | 2024-05-16 | 2024-10-11 |
 | [Kuuhullu](https://open.spotify.com/track/6ILzmI8c0gNcmEqyIrBAAL) | [Färmy](https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi), [Eetsi](https://open.spotify.com/artist/3AHkVr6NVYkai2vF16RHdq), [Jamidas](https://open.spotify.com/artist/6MUWOWYnswbWR69qKDshtU) | [Kuuhullu](https://open.spotify.com/album/0FmNlFMwAFetJrnvUsxJ1l) | 2:56 | 2023-11-02 | 2023-11-10 |
 | [KUULUISAT TYTÖT](https://open.spotify.com/track/1aZDBabbXx8jASLq31HMaj) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [KUULUISAT TYTÖT](https://open.spotify.com/album/3hZGcIqnUKtRSSpDachPXP) | 2:18 | 2024-03-28 | 2024-05-17 |
+| [Kuvia mun kännykässä](https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Kuvia mun kännykässä](https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega) | 2:36 | 2026-01-29 |  |
 | [Kyl Sä Tiiät](https://open.spotify.com/track/2mvxdfJD9tqz4nxF3jMTbi) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Kyl Sä Tiiät](https://open.spotify.com/album/20OcRKV8CQyRGj7uA1uyh0) | 2:49 | 2024-10-24 | 2025-02-21 |
 | [Kylmä](https://open.spotify.com/track/3uMQjsaRVWAjS1oOylqUVK) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Kylmä](https://open.spotify.com/album/3pU3zu1MwLs3gzCMPrxA8o) | 2:17 | 2024-03-28 | 2024-05-10 |
 | [Kylmä \(feat\. Etta\)](https://open.spotify.com/track/6DZb09dWZhI7dF4wLRRxfz) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Kylmä \(feat\. Etta\)](https://open.spotify.com/album/5M96DNh1ylelY2dbFutcZb) | 2:33 | 2023-09-21 | 2023-11-03 |
@@ -501,7 +502,7 @@
 | [Liikkuu Juttuu](https://open.spotify.com/track/7sQkF23GZt3EJYJflV8xVO) | [Jere](https://open.spotify.com/artist/3Oxf4EUF3hcY3qpqd5W04o) | [Liikkuu Juttuu](https://open.spotify.com/album/3PwvlZoFtHVCnFYTikVl36) | 3:03 | 2023-11-23 | 2023-12-08 |
 | [LIKSA](https://open.spotify.com/track/5C7Nlv95wXAplxDxfAWaX9) | [BALOBOIZ](https://open.spotify.com/artist/08VZsyOGm9AsqIuICGVvdo) | [LIKSA](https://open.spotify.com/album/16wiTOUI4vJGcNFv2b2fes) | 2:38 | 2024-04-18 | 2024-05-03 |
 | [LITTY FREESTYLE](https://open.spotify.com/track/0iKUV5r3kZ4t6wsyIrrJ3o) | [Eevil Stöö](https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf) | [BACK ON MY BULLSHIT](https://open.spotify.com/album/3DoQtoXfFEulEtJIR6zWLI) | 2:32 | 2024-05-30 | 2024-07-02 |
-| [Lohikäärme](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [X](https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys) | 3:38 | 2025-10-09 |  |
+| [Lohikäärme](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [X](https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys) | 3:38 | 2025-10-09 | 2026-02-02 |
 | [Lomastyge](https://open.spotify.com/track/3ZK7smGZ5ecyz9loKv5pFD) | [Mäk Gälis](https://open.spotify.com/artist/3TjISn9d9gIsTasWGYtlWR) | [Lomastyge](https://open.spotify.com/album/4JT9fPrnpmRL1cOYtbKowM) | 2:42 | 2025-06-19 | 2025-07-04 |
 | [Lopputulos](https://open.spotify.com/track/6AWKC64ZQBu4EqCem2d4YJ) | [Rono](https://open.spotify.com/artist/11IszKPzyr7Zbv3XNwfOc4) | [Lopputulos](https://open.spotify.com/album/3ASrCtCOjEoX7g5clS9WA4) | 2:14 | 2024-02-22 | 2024-03-08 |
 | [Lotos](https://open.spotify.com/track/1XVSWIxUHRfiG5kk5rsa2S) | [Chebaleba](https://open.spotify.com/artist/7FXHLGDZv4fx2vg3LHLoGJ), [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [Jivefunk](https://open.spotify.com/artist/5z8wjGd1fnvewcoj9XFCox) | [Lotos](https://open.spotify.com/album/62sn1QfUsrtFzR9A8KUO3F) | 3:32 | 2024-08-29 | 2024-09-13 |

@@ -1,13 +1,161 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4?si=kjTTAOiRTlmD3duoTo3JQA\">nomi.</a>. Updates every Wednesday.",
-  "num_followers": 276669,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys?si=32wOcvKtTpumuP3vH6vqIA\">Chuka, The Destroyer</a>. Updates every Wednesday.",
+  "num_followers": 276703,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADEQtWxL7f+P5o0ycqzbyFHNZOfB",
+  "snapshot_id": "AAAAAMClA+DkQPaviao6ym2f2Qo05bil",
   "tracks": [
+    {
+      "added_at": "2026-01-23 07:24:53",
+      "album": {
+        "name": "back 'n forth",
+        "url": "https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED"
+      },
+      "artists": [
+        {
+          "name": "Chuka, The Destroyer",
+          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
+        }
+      ],
+      "duration_ms": 197952,
+      "name": "back 'n forth",
+      "url": "https://open.spotify.com/track/57c824155MOILKW4B9i26h"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "NOBLE",
+        "url": "https://open.spotify.com/album/7kSO56we07fodbcyHOSCps"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "NOBLE",
+      "url": "https://open.spotify.com/track/36jgline0lR83kGP9YFXcE"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "sweet tooth",
+        "url": "https://open.spotify.com/album/4Zm4DG6bNYmNdEOglOYp3d"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Kaleo",
+          "url": "https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5"
+        }
+      ],
+      "duration_ms": 156023,
+      "name": "sweet tooth",
+      "url": "https://open.spotify.com/track/1rpSNugc4dv83BF1WyjhH5"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "Why Do Feelings Matter Anyway",
+        "url": "https://open.spotify.com/album/74KBgkPg55lmPeu8Lt2r4M"
+      },
+      "artists": [
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        }
+      ],
+      "duration_ms": 180048,
+      "name": "N.M.N",
+      "url": "https://open.spotify.com/track/1c9AwaAGcb4e7IPTRuPdHN"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "Move on",
+        "url": "https://open.spotify.com/album/2nLoFygVWZrgN2Bxf3B40q"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "duration_ms": 150430,
+      "name": "Move on",
+      "url": "https://open.spotify.com/track/2x3ysVnMpdIwtski9oYQPJ"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "Make Up",
+        "url": "https://open.spotify.com/album/2qZdhz8WFw1WzgBmwxHqxf"
+      },
+      "artists": [
+        {
+          "name": "Binta",
+          "url": "https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI"
+        }
+      ],
+      "duration_ms": 129288,
+      "name": "Make Up",
+      "url": "https://open.spotify.com/track/4ErVC5fJuGPZeVaomNxUeP"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "Waiting For You (feat. Reggie Dartey)",
+        "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        }
+      ],
+      "duration_ms": 198894,
+      "name": "Waiting For You (feat. Reggie Dartey)",
+      "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/4I3eWUXAc2jS6a3ZiORnRn"
+      },
+      "artists": [
+        {
+          "name": "Lee Lewis",
+          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
+        }
+      ],
+      "duration_ms": 196510,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/15ogUxj5nlIwXqq6h54fiH"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "Father",
+        "url": "https://open.spotify.com/album/1HG8vY7XKeX57yck24riZM"
+      },
+      "artists": [
+        {
+          "name": "August Charles",
+          "url": "https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S"
+        }
+      ],
+      "duration_ms": 175214,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/7qLCJRQGJPfTpwVu6TUyV2"
+    },
     {
       "added_at": "2026-01-15 19:58:06",
       "album": {
@@ -25,20 +173,144 @@
       "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
     },
     {
-      "added_at": "2026-01-23 07:24:53",
+      "added_at": "2026-02-01 04:54:13",
       "album": {
-        "name": "back 'n forth",
-        "url": "https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED"
+        "name": "If He Loved You,",
+        "url": "https://open.spotify.com/album/0NPsghtFXYN2thmSurimRe"
       },
       "artists": [
         {
-          "name": "Chuka, The Destroyer",
-          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
+          "name": "Caleb Taylor",
+          "url": "https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH"
         }
       ],
-      "duration_ms": 197952,
-      "name": "back 'n forth",
-      "url": "https://open.spotify.com/track/57c824155MOILKW4B9i26h"
+      "duration_ms": 110769,
+      "name": "If He Loved You,",
+      "url": "https://open.spotify.com/track/44Hzn81pPBFQ3DPhADO9VP"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "invisible attachments.",
+        "url": "https://open.spotify.com/album/6Gs7bwkOQgjXSPmBg9LNvM"
+      },
+      "artists": [
+        {
+          "name": "Flyy Armani",
+          "url": "https://open.spotify.com/artist/1zpQUYwOMrhBBHfzgdr2n9"
+        },
+        {
+          "name": "JLLY",
+          "url": "https://open.spotify.com/artist/6TtCAKrgTaBRw50XkvTY54"
+        }
+      ],
+      "duration_ms": 141913,
+      "name": "invisible attachments.",
+      "url": "https://open.spotify.com/track/2pobof8rJa2DSEEM4LdxVm"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "DAYDREAM",
+        "url": "https://open.spotify.com/album/2pJ4Rz0hds8wVuo5PrSYHA"
+      },
+      "artists": [
+        {
+          "name": "LARIICA",
+          "url": "https://open.spotify.com/artist/4ToRGHPORYxQMdyn7nKm9h"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/5znWm5VPJg7E3vwFMalXed"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "FIGURED YOU OUT",
+        "url": "https://open.spotify.com/album/1vVgp9NEKp3kM3tR4h5DYX"
+      },
+      "artists": [
+        {
+          "name": "Devkota",
+          "url": "https://open.spotify.com/artist/5e48iUv2r7DgotDwhI9Ulm"
+        }
+      ],
+      "duration_ms": 134702,
+      "name": "FIGURED YOU OUT",
+      "url": "https://open.spotify.com/track/7bLm3Wjv9zQF7Sc2PpDCvR"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "Passport",
+        "url": "https://open.spotify.com/album/34nvulEEywAowu33bsTj4I"
+      },
+      "artists": [
+        {
+          "name": "cortex",
+          "url": "https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i"
+        }
+      ],
+      "duration_ms": 146165,
+      "name": "Passport",
+      "url": "https://open.spotify.com/track/5A3NYWleEF8IiihYxjakIg"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "If The Walls Could Talk",
+        "url": "https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx"
+      },
+      "artists": [
+        {
+          "name": "Lizzy",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        },
+        {
+          "name": "Maydien",
+          "url": "https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y"
+        },
+        {
+          "name": "Mitchell Yard",
+          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "If The Walls Could Talk",
+      "url": "https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "HYPNOTIC",
+        "url": "https://open.spotify.com/album/7AuHGq4uur6qqmyW3AqUuW"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "duration_ms": 198034,
+      "name": "HYPNOTIC",
+      "url": "https://open.spotify.com/track/3C8HvNZG1E9EiYmq9Vd9Bm"
+    },
+    {
+      "added_at": "2026-02-01 04:54:13",
+      "album": {
+        "name": "Come (Aana)",
+        "url": "https://open.spotify.com/album/0Quw9s5CM27F0ZSn5Zo3gx"
+      },
+      "artists": [
+        {
+          "name": "Allyn",
+          "url": "https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3"
+        }
+      ],
+      "duration_ms": 105494,
+      "name": "Come (Aana)",
+      "url": "https://open.spotify.com/track/62kC69jJDPRvPTOLn8g7tK"
     },
     {
       "added_at": "2026-01-23 07:24:53",
@@ -1427,22 +1699,6 @@
     {
       "added_at": "2025-10-25 04:10:25",
       "album": {
-        "name": "Anything 4 U",
-        "url": "https://open.spotify.com/album/6R2Ciz7A4ZdsYkHI4vGpNX"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 247114,
-      "name": "Anything 4 U",
-      "url": "https://open.spotify.com/track/1JHXXsXkDddmQJoD0cWegU"
-    },
-    {
-      "added_at": "2025-10-25 04:10:25",
-      "album": {
         "name": "MDT",
         "url": "https://open.spotify.com/album/3xOZdO4cLemaXvXdhKRUo1"
       },
@@ -1655,22 +1911,6 @@
     {
       "added_at": "2025-10-25 04:10:25",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/3qiFJ7G7hsKsmc81vpqrmU"
-      },
-      "artists": [
-        {
-          "name": "Phoenix James",
-          "url": "https://open.spotify.com/artist/4ccuoNDrKJ85JUWxl5HJfP"
-        }
-      ],
-      "duration_ms": 149624,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/2WxDWDwauuyMaOwOXTCerq"
-    },
-    {
-      "added_at": "2025-10-25 04:10:25",
-      "album": {
         "name": "Sweet Baby",
         "url": "https://open.spotify.com/album/58M7vepjcCPyf4UHOhVrXJ"
       },
@@ -1761,22 +2001,6 @@
       "url": "https://open.spotify.com/track/2gmIuzodimyyKJ1KiGS8XQ"
     },
     {
-      "added_at": "2025-10-25 04:10:25",
-      "album": {
-        "name": "uhm...ok?",
-        "url": "https://open.spotify.com/album/05jYfyuD5KltjzyPmAa7wS"
-      },
-      "artists": [
-        {
-          "name": "ilham",
-          "url": "https://open.spotify.com/artist/0r7PsZB4ePA6vHrW4agoGN"
-        }
-      ],
-      "duration_ms": 174572,
-      "name": "love away",
-      "url": "https://open.spotify.com/track/0oy31mP3pLEvN26BIlZmHy"
-    },
-    {
       "added_at": "2025-09-07 03:09:06",
       "album": {
         "name": "I'm Still",
@@ -1791,26 +2015,6 @@
       "duration_ms": 162206,
       "name": "I'm Still",
       "url": "https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr"
-    },
-    {
-      "added_at": "2025-09-07 03:09:06",
-      "album": {
-        "name": "You & Your Homegirls",
-        "url": "https://open.spotify.com/album/5h8plOz1jTs0Dk3PLOeA90"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        },
-        {
-          "name": "Ye Ali",
-          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
-        }
-      ],
-      "duration_ms": 232907,
-      "name": "Back2mama",
-      "url": "https://open.spotify.com/track/6LzzG26olg6SfrvZBpt3Wq"
     },
     {
       "added_at": "2025-09-07 03:09:06",
@@ -2023,22 +2227,6 @@
       "duration_ms": 136800,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc"
-    },
-    {
-      "added_at": "2025-08-15 07:39:51",
-      "album": {
-        "name": "Are You Still Listening?",
-        "url": "https://open.spotify.com/album/2oSCVAgYxOv9OA0MTHJV3E"
-      },
-      "artists": [
-        {
-          "name": "Zyah Belle",
-          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
-        }
-      ],
-      "duration_ms": 223004,
-      "name": "Deserve",
-      "url": "https://open.spotify.com/track/3U0d3bzQ5LMt51QzrI3BQK"
     },
     {
       "added_at": "2025-08-15 07:39:51",
@@ -2331,22 +2519,6 @@
       "duration_ms": 225613,
       "name": "Twisting (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj"
-    },
-    {
-      "added_at": "2025-07-25 10:44:33",
-      "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/2T5k9gN9zFMRQfwcPqppir"
-      },
-      "artists": [
-        {
-          "name": "Stefan Mahendra",
-          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
-        }
-      ],
-      "duration_ms": 197518,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0i4MXfI8jEioz5v69WAXbu"
     },
     {
       "added_at": "2025-07-25 10:44:33",

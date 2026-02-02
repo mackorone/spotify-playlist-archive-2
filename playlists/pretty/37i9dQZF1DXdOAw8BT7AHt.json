@@ -1,6 +1,6 @@
 {
   "description": "The best in every corner of modern punk rock. Cover: Sn\u00f5\u00f5per",
-  "num_followers": 471701,
+  "num_followers": 471714,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 135541,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
         "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 175240,
       "name": "negative spaces",
       "url": "https://open.spotify.com/track/3SowkNXvDoTa2qhqmYB3SZ"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 135541,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "And a Big Load",
-        "url": "https://open.spotify.com/album/6johubE9tj9mVKstuoxUtx"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 173791,
-      "name": "And a Big Load",
-      "url": "https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "State Champs",
         "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
       },
@@ -707,18 +691,34 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Hablame Bonito",
-        "url": "https://open.spotify.com/album/0Xshxl3jl5UWJCCHm4R29y"
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB"
       },
       "artists": [
         {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
         }
       ],
-      "duration_ms": 175793,
-      "name": "Hablame Bonito",
-      "url": "https://open.spotify.com/track/4iu0dsOOKLsjyjMiT0WyLP"
+      "duration_ms": 145893,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "And a Big Load",
+        "url": "https://open.spotify.com/album/6johubE9tj9mVKstuoxUtx"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 173791,
+      "name": "And a Big Load",
+      "url": "https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b"
     },
     {
       "added_at": "2025-10-03 13:40:04",
@@ -739,18 +739,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Stupid",
-        "url": "https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB"
+        "name": "Hablame Bonito",
+        "url": "https://open.spotify.com/album/0Xshxl3jl5UWJCCHm4R29y"
       },
       "artists": [
         {
-          "name": "Karen Di\u00f3",
-          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
         }
       ],
-      "duration_ms": 145893,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR"
+      "duration_ms": 175793,
+      "name": "Hablame Bonito",
+      "url": "https://open.spotify.com/track/4iu0dsOOKLsjyjMiT0WyLP"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Nod",
-        "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 182494,
-      "name": "Nod",
-      "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Nod",
+        "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 182494,
+      "name": "Nod",
+      "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
     },
     {
-      "added_at": "2025-10-03 13:40:04",
-      "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd"
-      },
-      "artists": [
-        {
-          "name": "Girl Tones",
-          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
-        }
-      ],
-      "duration_ms": 148663,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK"
-    },
-    {
       "added_at": "2025-09-11 23:00:08",
       "album": {
         "name": "TREK",
@@ -911,6 +895,22 @@
       "duration_ms": 182666,
       "name": "SCREWDRIVA",
       "url": "https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51"
+    },
+    {
+      "added_at": "2025-10-03 13:40:04",
+      "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd"
+      },
+      "artists": [
+        {
+          "name": "Girl Tones",
+          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
+        }
+      ],
+      "duration_ms": 148663,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "TREK",
+        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
+      },
+      "artists": [
+        {
+          "name": "Shady Nasty",
+          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "HARDSTYLE",
+      "url": "https://open.spotify.com/track/5GmH8zSn6ri8ftbJDR8rE7"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "SLEEP WHEN I'M DEAD",
         "url": "https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9"
       },
@@ -1007,6 +1023,22 @@
       "duration_ms": 146677,
       "name": "SLEEP WHEN I'M DEAD",
       "url": "https://open.spotify.com/track/7rsfVPsWQg8vwcOfxIKKpz"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Erasure",
+        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 189159,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1043,38 +1075,6 @@
       "duration_ms": 173956,
       "name": "I've Felt Better",
       "url": "https://open.spotify.com/track/39ybOUF3YmjGDdHsk8EqtN"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "Erasure",
-        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 189159,
-      "name": "Erasure",
-      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "TREK",
-        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
-      },
-      "artists": [
-        {
-          "name": "Shady Nasty",
-          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "HARDSTYLE",
-      "url": "https://open.spotify.com/track/5GmH8zSn6ri8ftbJDR8rE7"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Thameslink",
-        "url": "https://open.spotify.com/album/5GYdpToNRvYnXG3ob4aGEn"
-      },
-      "artists": [
-        {
-          "name": "PLAY DEAD",
-          "url": "https://open.spotify.com/artist/2XQ4KK7Ol8gTUBBLAkIF2j"
-        }
-      ],
-      "duration_ms": 178189,
-      "name": "Thameslink",
-      "url": "https://open.spotify.com/track/2HghPvscCDfcGWp56y6SRP"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "GROWING UP ON THE INTERNET",
         "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 199866,
       "name": "GROWING UP ON THE INTERNET",
       "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Thameslink",
+        "url": "https://open.spotify.com/album/5GYdpToNRvYnXG3ob4aGEn"
+      },
+      "artists": [
+        {
+          "name": "PLAY DEAD",
+          "url": "https://open.spotify.com/artist/2XQ4KK7Ol8gTUBBLAkIF2j"
+        }
+      ],
+      "duration_ms": 178189,
+      "name": "Thameslink",
+      "url": "https://open.spotify.com/track/2HghPvscCDfcGWp56y6SRP"
     },
     {
       "added_at": "2025-09-11 23:00:08",

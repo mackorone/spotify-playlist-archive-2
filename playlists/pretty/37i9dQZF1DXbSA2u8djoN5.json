@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: DZWS, Vali Miron ",
-  "num_followers": 22462,
+  "num_followers": 22465,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
+        "name": "\u0218mecher",
+        "url": "https://open.spotify.com/album/2y0W7bqPbV8D7gSKJIDuCX"
+      },
+      "artists": [
+        {
+          "name": "Badd G",
+          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
+        }
+      ],
+      "duration_ms": 156562,
+      "name": "\u0218mecher",
+      "url": "https://open.spotify.com/track/047EZz6lObOJGbisz9BQ1V"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
         "name": "Deliric X Silent Strike III",
         "url": "https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 257259,
       "name": "Adam",
       "url": "https://open.spotify.com/track/6deXLFe1JUF7x76CNbBRiJ"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
-        "name": "\u0218mecher",
-        "url": "https://open.spotify.com/album/2y0W7bqPbV8D7gSKJIDuCX"
-      },
-      "artists": [
-        {
-          "name": "Badd G",
-          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
-        }
-      ],
-      "duration_ms": 156562,
-      "name": "\u0218mecher",
-      "url": "https://open.spotify.com/track/047EZz6lObOJGbisz9BQ1V"
     },
     {
       "added_at": "2026-01-15 22:00:28",

@@ -5597,6 +5597,24 @@
     },
     {
       "album": {
+        "name": "Calm Night",
+        "url": "https://open.spotify.com/album/6gt14lr5bloeww3fhTAQ5I"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60517,
+      "name": "Calm Night",
+      "url": "https://open.spotify.com/track/2pnsVSCfbFIZiI35pgKSYR"
+    },
+    {
+      "album": {
         "name": "Calm Reflection",
         "url": "https://open.spotify.com/album/0a4Ky5OOFj8jjhA6qNgxft"
       },
@@ -27182,6 +27200,24 @@
       "duration_ms": 119737,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/1MiKy3cGvmsyiRBe7qke1s"
+    },
+    {
+      "album": {
+        "name": "Savor",
+        "url": "https://open.spotify.com/album/2U598857KpeMhQjFSEOAMa"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60245,
+      "name": "Savor",
+      "url": "https://open.spotify.com/track/0NY9UhwnU24o3GqHX6HZPz"
     },
     {
       "album": {

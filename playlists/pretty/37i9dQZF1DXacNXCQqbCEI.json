@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 344226,
+  "num_followers": 344201,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Efecto Manglar",
-        "url": "https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz"
-      },
-      "artists": [
-        {
-          "name": "Black Mambo",
-          "url": "https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ"
-        },
-        {
-          "name": "\u00c1cido Pantera",
-          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
-        }
-      ],
-      "duration_ms": 308213,
-      "name": "Efecto Manglar",
-      "url": "https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Bleu de lune (El Buho Remix)",
         "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
       },
@@ -503,6 +483,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Efecto Manglar",
+        "url": "https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz"
+      },
+      "artists": [
+        {
+          "name": "Black Mambo",
+          "url": "https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ"
+        },
+        {
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
+        }
+      ],
+      "duration_ms": 308213,
+      "name": "Efecto Manglar",
+      "url": "https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Nene",
         "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
-      },
-      "artists": [
-        {
-          "name": "Felipe Schuster",
-          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
-        }
-      ],
-      "duration_ms": 213146,
-      "name": "Tamarugal (Para de Mirarme)",
-      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Recuerdos de Expiaci\u00f3n",
         "url": "https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 192039,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
+      },
+      "artists": [
+        {
+          "name": "Felipe Schuster",
+          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
+        }
+      ],
+      "duration_ms": 213146,
+      "name": "Tamarugal (Para de Mirarme)",
+      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -599,26 +599,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Indus Meets Palenque Records, Vol. 2",
-        "url": "https://open.spotify.com/album/6ZhlLTZtTuVyH3W3O079p2"
-      },
-      "artists": [
-        {
-          "name": "Indus",
-          "url": "https://open.spotify.com/artist/3NaTDSUj7DxcuG1oJPuQ63"
-        },
-        {
-          "name": "Las Alegres Ambulancias",
-          "url": "https://open.spotify.com/artist/2I2AW3q2mvPfWpRmybkosr"
-        }
-      ],
-      "duration_ms": 215427,
-      "name": "P\u00e1jaro de Mar",
-      "url": "https://open.spotify.com/track/2h6FAxXm6crebk5AEVsChg"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Indus Meets Palenque Records, Vol. 2",
+        "url": "https://open.spotify.com/album/6ZhlLTZtTuVyH3W3O079p2"
+      },
+      "artists": [
+        {
+          "name": "Indus",
+          "url": "https://open.spotify.com/artist/3NaTDSUj7DxcuG1oJPuQ63"
+        },
+        {
+          "name": "Las Alegres Ambulancias",
+          "url": "https://open.spotify.com/artist/2I2AW3q2mvPfWpRmybkosr"
+        }
+      ],
+      "duration_ms": 215427,
+      "name": "P\u00e1jaro de Mar",
+      "url": "https://open.spotify.com/track/2h6FAxXm6crebk5AEVsChg"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "El Corredor Del Jaguar",
+        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Frio Severo",
+      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Trending Tropics",
         "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 189430,
       "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
       "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "El Corredor Del Jaguar",
-        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Frio Severo",
-      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Elevation / Baba Meyi",
-        "url": "https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs"
-      },
-      "artists": [
-        {
-          "name": "Penya",
-          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
-        }
-      ],
-      "duration_ms": 184886,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Siesta",
         "url": "https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 233739,
       "name": "Kalimba Nara",
       "url": "https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Elevation / Baba Meyi",
+        "url": "https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs"
+      },
+      "artists": [
+        {
+          "name": "Penya",
+          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
+        }
+      ],
+      "duration_ms": 184886,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9"
     },
     {
       "added_at": "2024-07-12 22:50:04",

@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 297490,
+  "num_followers": 297496,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-10-08 18:31:57",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "Invitation to the Blues",
+      "url": "https://open.spotify.com/track/0C7M2eMM22PSLOGE1v8oTr"
+    },
+    {
+      "added_at": "2025-10-08 18:31:57",
+      "album": {
         "name": "Sings the Songs that Made Him Famous",
         "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 151338,
       "name": "Big River",
       "url": "https://open.spotify.com/track/12wDCrXdu2y1FbXHMb2hJQ"
-    },
-    {
-      "added_at": "2025-10-08 18:31:57",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "Invitation to the Blues",
-      "url": "https://open.spotify.com/track/0C7M2eMM22PSLOGE1v8oTr"
     },
     {
       "added_at": "2025-10-08 18:31:57",

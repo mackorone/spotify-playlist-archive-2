@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-429 songs - 19 hr 39 min
+430 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [HET](https://open.spotify.com/track/5RaQUKpL2DtpEPFhnddC65) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [The Pineapple Squad](https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi) | [HET](https://open.spotify.com/album/5RlQuD6gyCSIVgx4rQxXRX) | 2:47 | 2022-06-02 | 2022-07-13 |
 | [HEY FRÖKEN](https://open.spotify.com/track/4rBpRg5KKRBj8jTshSMSeE) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [HEY FRÖKEN](https://open.spotify.com/album/1jaQS1Kw0HAfiyIWOUrDUA) | 2:13 | 2024-02-08 | 2024-02-16 |
 | [Hey skål!](https://open.spotify.com/track/2Hzy0I10PwAqFNHmxUZB2A) | [Chris og Colada](https://open.spotify.com/artist/0YVbhK3PygEi4q70SrSPfB) | [Hey skål!](https://open.spotify.com/album/75VNjjmIX0UOhDdHskHHlk) | 2:16 | 2022-07-07 | 2022-07-09 |
+| [HJEM](https://open.spotify.com/track/04iXrACbPfc111pClbzXRk) | [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw) | [HJEM](https://open.spotify.com/album/3GWLj6KdiZx1qDb1d2fqBM) | 2:31 | 2026-01-29 |  |
 | [Hjerteknuser](https://open.spotify.com/track/6D2Hxj0e7gZojlFBV1fKBx) | [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Geasseijat](https://open.spotify.com/album/3shwdZY9LBfiRuAHpt3TNT) | 4:23 | 2022-08-31 | 2022-10-14 |
 | [Hjerteløs](https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Hjerteløs](https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV) | 2:17 | 2022-09-15 | 2024-04-26 |
 | [Hon kan inte banka plåt](https://open.spotify.com/track/6wy0CoUqP1fl93OpZkr8g9) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [Hon kan inte banka plåt](https://open.spotify.com/album/6F68Xk20E7SFurcQuRggZW) | 2:08 | 2022-12-08 | 2023-03-31 |
@@ -303,7 +304,7 @@
 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 | 2021-12-16 | 2024-02-09 |
 | [Når solå går ned](https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Når solå går ned](https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo) | 3:19 | 2025-10-16 |  |
 | [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 | 2022-03-10 | 2026-01-04 |
-| [Om igjen](https://open.spotify.com/track/1xjH8AXPen7QsInIual4yF) | [Archer](https://open.spotify.com/artist/5nhwZTZri5arEhPjYJVtfe), [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Om igjen](https://open.spotify.com/album/16f2U7RUhhchDESg3o81hV) | 2:55 | 2025-07-03 |  |
+| [Om igjen](https://open.spotify.com/track/1xjH8AXPen7QsInIual4yF) | [Archer](https://open.spotify.com/artist/5nhwZTZri5arEhPjYJVtfe), [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Om igjen](https://open.spotify.com/album/16f2U7RUhhchDESg3o81hV) | 2:55 | 2025-07-03 | 2026-02-02 |
 | [Oppi Ein Dal](https://open.spotify.com/track/6JMatYYmKlvo1I0dNKes5R) | [Kruttrøyk](https://open.spotify.com/artist/1e1vDSbWqUyPfETrVY5mM8) | [Farande Fant](https://open.spotify.com/album/6NQHQ6V4o7d2Vd1EGF1lsn) | 3:01 | 2022-01-13 | 2022-04-21 |
 | [Oppi ein dal](https://open.spotify.com/track/6WiAX5SXrCj5z6kk5YrxGb) | [Kruttrøyk](https://open.spotify.com/artist/1e1vDSbWqUyPfETrVY5mM8) | [Farande fant](https://open.spotify.com/album/2hmiqt8cfsJajxqRGJrnUh) | 3:01 | 2022-10-13 | 2022-10-16 |
 | [Oslo \- Takk, jeg er ferdig](https://open.spotify.com/track/1KRshP62zz9fFXfRzqHOD8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Oslo \(Takk, jeg er ferdig\)](https://open.spotify.com/album/0YiF4FO522DbWOwzfCW1Fc) | 2:24 | 2021-12-16 | 2022-10-16 |

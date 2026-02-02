@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-422 songs - 1 day 3 hr 29 min
+423 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [COLOGNE](https://open.spotify.com/track/0nh7PHjK9n0w9hu4Ka1HkL) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [COLOGNE](https://open.spotify.com/album/79omah7LR2uicio2GTfxZ1) | 3:20 | 2024-06-14 |  |
 | [Colors \- The Knocks Remix](https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Colors \(The Knocks Remix\)](https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU) | 4:12 | 2023-05-19 | 2025-09-27 |
 | [Coma Cat \- Purple Disco Machine Re\-Work](https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ) | [Tensnake](https://open.spotify.com/artist/1Cpr1FGRdiayMbTcZ2WDN3), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Coma Cat \(Purple Disco Machine Re\-Work\)](https://open.spotify.com/album/0xQYiQjTVXSJFEqgM7GgUC) | 3:28 | 2023-05-19 |  |
+| [Confetti \- Kraak & Smaak Remix](https://open.spotify.com/track/7hlj2sZHWObIaLIEiMSd9Y) | [Marine Neuilly](https://open.spotify.com/artist/4YwQhwRfbRMFIplXwGQezw), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Confetti \(Kraak & Smaak Remix\)](https://open.spotify.com/album/3oFSALQPWl6XXcBTeZLZZ9) | 3:38 | 2026-01-30 |  |
 | [Cruel Summer \- Part I](https://open.spotify.com/track/6oHszVM0cChVuEKChXGP55) | [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo), [Zampera & Muttofunk](https://open.spotify.com/artist/1DeIegb677snMXzU6LMLMQ) | [Cruel Summer](https://open.spotify.com/album/0v2R3NgURPoZCpdb0UmJp5) | 3:05 | 2022-06-20 | 2023-05-20 |
 | [Cruel Summer \- Part I \(feat\. Zampera & Muttofunk\)](https://open.spotify.com/track/4YTO9Z4RSkQRfCoX6kYNrz) | [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo), [Zampera & Muttofunk](https://open.spotify.com/artist/1DeIegb677snMXzU6LMLMQ) | [Cruel Summer \(feat\. Zampera & Muttofunk\)](https://open.spotify.com/album/0nrCAUDPvtB9w4p7BAZX3a) | 3:05 | 2021-07-24 | 2023-02-25 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-05-19 | 2024-05-25 |
@@ -142,7 +143,7 @@
 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 | 2023-05-19 | 2025-06-28 |
 | [Golden Hour](https://open.spotify.com/track/1Mwukx2jPsPsurJRN9fRYn) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Golden Hour](https://open.spotify.com/album/7925ysUpNzHNZ1ixyBrq3Y) | 3:02 | 2025-07-25 | 2025-08-12 |
 | [Golden Hour](https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT) | [Moment in Time](https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq) | [Golden Hour](https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O) | 2:20 | 2025-04-11 |  |
-| [Good Night](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Good Night](https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge) | 4:37 | 2023-05-19 |  |
+| [Good Night](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Good Night](https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge) | 4:37 | 2023-05-19 | 2026-02-02 |
 | [Good Times](https://open.spotify.com/track/4ElhB6q5C4ugz6owedGbQZ) | [Mikey Lion](https://open.spotify.com/artist/50iz6mQhjUfbM0UjtZxWIp) | [Good Times](https://open.spotify.com/album/3ozbJ3UJy7n4rgD8yAMNmz) | 3:56 | 2025-04-25 | 2025-09-07 |
 | [Hard To Find \- Girls of the Internet Remix \- Short Edit](https://open.spotify.com/track/64GKXIMjQoBbbY6ZdxK0Gw) | [Tender Games](https://open.spotify.com/artist/0ZkJ54ZnjZt0ZuoQpXbR8U), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Hard To Find \(Girls of the Internet Remix\)](https://open.spotify.com/album/0fL5W0T0KqPiSZVyVcAghr) | 4:03 | 2021-07-24 | 2023-06-11 |
 | [Hasta Málaga](https://open.spotify.com/track/6F9FBd4ZTKlhCuvxzJWcZf) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Hasta Málaga](https://open.spotify.com/album/40R3ygyEgApOC8fnmH7Ayx) | 2:28 | 2024-08-30 | 2024-09-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Lovvbömbing! in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,145 likes - 105 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,130 likes - 105 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 19 | [Neon Lights](https://open.spotify.com/track/3NSzSm19CTwOPmDHc6iJel) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Antarctica / Neon Lights](https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx) | 3:43 |
 | 20 | [LASCIA](https://open.spotify.com/track/32bpPoOYFcDxDTTSSK1SoH) | [Frisàri](https://open.spotify.com/artist/2f6mtYy1MV0l5jYGGdCYTN) | [LASCIA](https://open.spotify.com/album/69bcLpdJIOkHWdRlqmrjry) | 3:19 |
 | 21 | [Wanna Be Enough](https://open.spotify.com/track/5KlXGcFG9ZaZgHC3gh9pmS) | [Painted Vein](https://open.spotify.com/artist/1Yz4iQXuDT8WRluhIxYHLa) | [Wanna Be Enough](https://open.spotify.com/album/4lKFZ6qfOa4Qe6YT823IZY) | 3:48 |
-| 22 | [Il Tempo in Me](https://open.spotify.com/track/3gEiSGfcgXtKKGmfIkUGbX) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Il Tempo in Me](https://open.spotify.com/album/6NRgfIZXblIPjMeUxreY7k) | 4:08 |
+| 22 | [Il Tempo in Me \- Radio Edit](https://open.spotify.com/track/3gEiSGfcgXtKKGmfIkUGbX) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Il Tempo in Me \(Radio Edit\)](https://open.spotify.com/album/6NRgfIZXblIPjMeUxreY7k) | 4:08 |
 | 23 | [Your Mom](https://open.spotify.com/track/0fs4BbyzfVI77EgBPafQs0) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [Your Mom](https://open.spotify.com/album/1EP5M7wlW4rV4nZtnJjQna) | 2:36 |
 | 24 | [CASCARA](https://open.spotify.com/track/4lW9rkaM6DncE3oasycGr1) | [Martini Police](https://open.spotify.com/artist/3n9KprBEE2yopQJkqLDnO4) | [CASCARA](https://open.spotify.com/album/2jpLn1ShQqWgEpTr5ABfr6) | 3:06 |
 | 25 | [INAMMISSIBILE](https://open.spotify.com/track/1MyClPLL0szgvcOjH7ZQ0p) | [Quercia](https://open.spotify.com/artist/5AQAAs2emLmGYAd8UuNmbK) | [INAMMISSIBILE](https://open.spotify.com/album/4bYlEgpQhNX247c2YFkFKh) | 3:13 |

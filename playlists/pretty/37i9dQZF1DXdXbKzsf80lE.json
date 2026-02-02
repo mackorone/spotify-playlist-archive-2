@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 280925,
+  "num_followers": 280945,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-11-07 18:48:09",
       "album": {
+        "name": "Batom de Ouro",
+        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "Batom De Ouro",
+      "url": "https://open.spotify.com/track/4XoQPLxuXl5M4oBEsF73bt"
+    },
+    {
+      "added_at": "2025-11-07 18:48:09",
+      "album": {
         "name": "O Apostador",
         "url": "https://open.spotify.com/album/5Djfedu3tD8JnJ27Te8LcX"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 136304,
       "name": "O Apostador",
       "url": "https://open.spotify.com/track/4JCNKUDiJi9GOKjfur6R9S"
-    },
-    {
-      "added_at": "2025-11-07 18:48:09",
-      "album": {
-        "name": "Batom de Ouro",
-        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "Batom De Ouro",
-      "url": "https://open.spotify.com/track/4XoQPLxuXl5M4oBEsF73bt"
     },
     {
       "added_at": "2025-11-07 18:48:09",
@@ -931,26 +931,6 @@
     {
       "added_at": "2025-11-07 18:48:09",
       "album": {
-        "name": "Saudade Vai Bater",
-        "url": "https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh"
-      },
-      "artists": [
-        {
-          "name": "MC Bruninho",
-          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
-        },
-        {
-          "name": "Aldair Playboy",
-          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Saudade Vai Bater",
-      "url": "https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU"
-    },
-    {
-      "added_at": "2025-11-07 18:48:09",
-      "album": {
         "name": "Caf\u00e9zin de V\u00f3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/71WPmaIdErmdczERbxFDRp"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 163654,
       "name": "Caf\u00e9zin de V\u00f3 - Ao Vivo",
       "url": "https://open.spotify.com/track/1BCn0dTxjdd4IWDLBFIX6V"
+    },
+    {
+      "added_at": "2025-11-07 18:48:09",
+      "album": {
+        "name": "Saudade Vai Bater",
+        "url": "https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh"
+      },
+      "artists": [
+        {
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+        },
+        {
+          "name": "Aldair Playboy",
+          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Saudade Vai Bater",
+      "url": "https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU"
     },
     {
       "added_at": "2025-11-07 18:48:09",

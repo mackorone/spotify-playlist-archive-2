@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-790 songs - 1 day 21 hr 23 min
+791 songs - 1 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [February](https://open.spotify.com/track/26gEGxhko1zfphl2smhaVq) | [Drowning Spree](https://open.spotify.com/artist/3hQb3x5dtoqt0PGaNRA7ny) | [February](https://open.spotify.com/album/0NxBq522UIDPvCVL2m8P2v) | 3:57 | 2026-01-14 |  |
 | [Feel the Men](https://open.spotify.com/track/0y8QYNa314rbXaGCbB4hG6) | [Required\*](https://open.spotify.com/artist/7rPSoYPbX5QCiZqf8bZDE6) | [Feel the Men](https://open.spotify.com/album/61oEI3locEfOR9f9gKK6Pv) | 3:39 | 2026-01-13 |  |
 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 | 2025-08-03 |  |
-| [First Day Of School](https://open.spotify.com/track/6BNC6rSgDvGlyzsIPJmTER) | [Victories](https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA) | [First Day Of School](https://open.spotify.com/album/7dwebyySi3YeXuzVaEOSmq) | 3:33 | 2026-01-01 |  |
+| [First Day Of School](https://open.spotify.com/track/6BNC6rSgDvGlyzsIPJmTER) | [Victories](https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA) | [First Day Of School](https://open.spotify.com/album/7dwebyySi3YeXuzVaEOSmq) | 3:33 | 2026-01-01 | 2026-02-02 |
 | [Flaccid Venus \- Demo](https://open.spotify.com/track/67oqRTeaFSGIwCNripucnp) | [RINGARDS](https://open.spotify.com/artist/2ZdOF65gPaO3xW7DsUXlZ7) | [Flaccid Venus \(Demo\)](https://open.spotify.com/album/5BwyS6H8sa7UxeuAT4BhtX) | 2:17 | 2026-01-23 | 2026-01-25 |
 | [Flam Rest](https://open.spotify.com/track/04JOLBR8LDgukIWfY2g2q7) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:19 | 2025-08-03 |  |
 | [Flesh Wound](https://open.spotify.com/track/1RjCjZcKyWfjFB8jqoFZON) | [Cranc.](https://open.spotify.com/artist/47N8enshucZvNiSqBmHA4d) | [Flesh Wound](https://open.spotify.com/album/7cnvcAn3r77500nHVmvwrs) | 3:34 | 2026-01-02 |  |
@@ -309,6 +309,7 @@
 | [Hollow](https://open.spotify.com/track/0uhGLwuCMClw1JXDj6HXTb) | [Sunkeeper](https://open.spotify.com/artist/7fzEHUb9cy0LIwlWXMZfUY) | [Hollow](https://open.spotify.com/album/0RVddq3xxMv7nyMPX7sMiP) | 4:12 | 2026-01-14 |  |
 | [Hollow Sun](https://open.spotify.com/track/7pR4pIdtqjey4YdfGzQMZx) | [Tyson Dickert](https://open.spotify.com/artist/7DzMrRXO3rUkDzR32YaB2p) | [Hollow Sun](https://open.spotify.com/album/1LnVYOaVOONBK3Cl8wCs5n) | 5:06 | 2026-01-26 |  |
 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 | 2025-12-23 | 2026-01-22 |
+| [Hotel](https://open.spotify.com/track/3pXKQhZErohG9N1fFVMZcz) | [Parched](https://open.spotify.com/artist/6bruCOXoELcqPEXSll0bBN) | [Hotel](https://open.spotify.com/album/23kUkSGjqtrFhTfTj2reSv) | 3:05 | 2026-02-02 |  |
 | [Hungry For The Prize \- Edit](https://open.spotify.com/track/1CH36VOisDb0vdW3Q8XBxI) | [KEELEY](https://open.spotify.com/artist/5H98N76pS5eRu8bWuh2ric) | [Hungry For The Prize \(Edit\)](https://open.spotify.com/album/5C7g4RQ8nKPHu3tFZBB86G) | 4:08 | 2026-01-24 |  |
 | [I Am The Reckoning](https://open.spotify.com/track/5rl2DsX3ILgGuy9i4dZ4vn) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [I Am The Reckoning](https://open.spotify.com/album/6RgkFI8kvfCWuWeRifJLEP) | 3:49 | 2025-12-15 | 2026-01-06 |
 | [I dont understand](https://open.spotify.com/track/5TeuwANZfx3dIxvy9FV7FD) | [Adam Alford](https://open.spotify.com/artist/5NOQhV94Dia7LiieRRWWuV) | [Desert nights](https://open.spotify.com/album/2457jyGvDUxCAlRihGaxFQ) | 1:55 | 2025-12-04 | 2025-12-24 |

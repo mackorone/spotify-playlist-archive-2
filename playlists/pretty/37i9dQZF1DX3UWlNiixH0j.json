@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: the bercedes menz",
-  "num_followers": 66361,
+  "num_followers": 66366,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-01-29 17:33:20",
       "album": {
-        "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
-        "url": "https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
-      "url": "https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0"
-    },
-    {
-      "added_at": "2026-01-29 17:33:20",
-      "album": {
         "name": "\u7b2c\u4e8c\u5fc3 (Dainishin)",
         "url": "https://open.spotify.com/album/78oTBSWxd86gNnwNf4XOTi"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 230070,
       "name": "\u7b2c\u4e8c\u5fc3 (Dainishin)",
       "url": "https://open.spotify.com/track/1nnl5SqTlN9PNY9xFcSC26"
+    },
+    {
+      "added_at": "2026-01-29 17:33:20",
+      "album": {
+        "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
+        "url": "https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
+      "url": "https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0"
     },
     {
       "added_at": "2026-01-29 17:33:20",
@@ -487,22 +487,18 @@
     {
       "added_at": "2026-01-29 17:33:20",
       "album": {
-        "name": "YOU (feat. YonYon)",
-        "url": "https://open.spotify.com/album/3lX3lsryxi98xKYbEkKnAs"
+        "name": "\u306e\u3073\u3057\u308d",
+        "url": "https://open.spotify.com/album/48AtXqpHhoWVCOBm70H98C"
       },
       "artists": [
         {
-          "name": "Emerald",
-          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
-        },
-        {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
         }
       ],
-      "duration_ms": 216717,
-      "name": "YOU - feat. YonYon",
-      "url": "https://open.spotify.com/track/73PhCzsLpLarNUHUHd2zfr"
+      "duration_ms": 243607,
+      "name": "\u306e\u3073\u3057\u308d",
+      "url": "https://open.spotify.com/track/3K3DKM9L29UkITFBW3AdrJ"
     },
     {
       "added_at": "2026-01-29 17:33:20",
@@ -523,18 +519,22 @@
     {
       "added_at": "2026-01-29 17:33:20",
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/0whAMSdgqbvFPyd6NgeGhW"
+        "name": "YOU (feat. YonYon)",
+        "url": "https://open.spotify.com/album/3lX3lsryxi98xKYbEkKnAs"
       },
       "artists": [
         {
-          "name": "E.scene",
-          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
         }
       ],
-      "duration_ms": 194080,
-      "name": "DAWN",
-      "url": "https://open.spotify.com/track/1MMKb51GLNUn6p2N11BTCa"
+      "duration_ms": 216717,
+      "name": "YOU - feat. YonYon",
+      "url": "https://open.spotify.com/track/73PhCzsLpLarNUHUHd2zfr"
     },
     {
       "added_at": "2026-01-29 17:33:20",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-01-29 17:33:20",
       "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/0whAMSdgqbvFPyd6NgeGhW"
+      },
+      "artists": [
+        {
+          "name": "E.scene",
+          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "DAWN",
+      "url": "https://open.spotify.com/track/1MMKb51GLNUn6p2N11BTCa"
+    },
+    {
+      "added_at": "2026-01-29 17:33:20",
+      "album": {
         "name": "\u8a18\u61b6\u3068\u5f15\u529b",
         "url": "https://open.spotify.com/album/3FoPyCwKDKxxtFpp7WnL2i"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 280414,
       "name": "\u8a18\u61b6\u3068\u5f15\u529b",
       "url": "https://open.spotify.com/track/4ecV5zKR5Cktcou2PXPb1x"
-    },
-    {
-      "added_at": "2026-01-29 17:33:20",
-      "album": {
-        "name": "\u306e\u3073\u3057\u308d",
-        "url": "https://open.spotify.com/album/48AtXqpHhoWVCOBm70H98C"
-      },
-      "artists": [
-        {
-          "name": "MONO NO AWARE",
-          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
-        }
-      ],
-      "duration_ms": 243607,
-      "name": "\u306e\u3073\u3057\u308d",
-      "url": "https://open.spotify.com/track/3K3DKM9L29UkITFBW3AdrJ"
     },
     {
       "added_at": "2026-01-29 17:33:20",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-01-29 17:33:20",
       "album": {
+        "name": "All About McGuffin",
+        "url": "https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4"
+      },
+      "artists": [
+        {
+          "name": "mei ehara",
+          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
+        }
+      ],
+      "duration_ms": 209521,
+      "name": "After that...",
+      "url": "https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS"
+    },
+    {
+      "added_at": "2026-01-29 17:33:20",
+      "album": {
         "name": "Babel (Re-recorded)",
         "url": "https://open.spotify.com/album/2JzBeuZ6mo9dWfeD7kcW2Z"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2026-01-29 17:33:20",
       "album": {
-        "name": "All About McGuffin",
-        "url": "https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4"
+        "name": "Eternal Orbit",
+        "url": "https://open.spotify.com/album/45I5XsIbAX2CTqpkaMgqGD"
       },
       "artists": [
         {
-          "name": "mei ehara",
-          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
+          "name": "ASOUND",
+          "url": "https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk"
         }
       ],
-      "duration_ms": 209521,
-      "name": "After that...",
-      "url": "https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS"
+      "duration_ms": 287011,
+      "name": "Eternal Orbit",
+      "url": "https://open.spotify.com/track/2ifHo7sPgqbXLVuShccAHU"
     },
     {
       "added_at": "2026-01-29 17:33:20",
@@ -835,22 +851,6 @@
       "duration_ms": 226745,
       "name": "\u30c9\u30df\u30ce\u306e\u304a\u544a\u3052",
       "url": "https://open.spotify.com/track/5G9RWqRyJtp6uzsCx1ZtlF"
-    },
-    {
-      "added_at": "2026-01-29 17:33:20",
-      "album": {
-        "name": "Eternal Orbit",
-        "url": "https://open.spotify.com/album/45I5XsIbAX2CTqpkaMgqGD"
-      },
-      "artists": [
-        {
-          "name": "ASOUND",
-          "url": "https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk"
-        }
-      ],
-      "duration_ms": 287011,
-      "name": "Eternal Orbit",
-      "url": "https://open.spotify.com/track/2ifHo7sPgqbXLVuShccAHU"
     },
     {
       "added_at": "2026-01-29 17:33:20",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-01-29 17:33:20",
       "album": {
+        "name": "\u96fb\u8a71",
+        "url": "https://open.spotify.com/album/1PiCmopbgqhm2hfPu3T89V"
+      },
+      "artists": [
+        {
+          "name": "odol",
+          "url": "https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS"
+        }
+      ],
+      "duration_ms": 226276,
+      "name": "\u96fb\u8a71",
+      "url": "https://open.spotify.com/track/4Ivha1S5ifAjJcL0ckow2C"
+    },
+    {
+      "added_at": "2026-01-29 17:33:20",
+      "album": {
         "name": "what a night",
         "url": "https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 227914,
       "name": "what a night",
       "url": "https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs"
-    },
-    {
-      "added_at": "2026-01-29 17:33:20",
-      "album": {
-        "name": "Kuroi Echoes",
-        "url": "https://open.spotify.com/album/6YQ5zvaQ8gsB076SoL9ZhS"
-      },
-      "artists": [
-        {
-          "name": "aoni",
-          "url": "https://open.spotify.com/artist/3AcR5cfA2SMdwm5v0FPvvn"
-        }
-      ],
-      "duration_ms": 175309,
-      "name": "lost",
-      "url": "https://open.spotify.com/track/7LKD6LKTziLqv8oXo6iv3e"
     },
     {
       "added_at": "2026-01-29 17:33:20",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-01-29 17:33:20",
       "album": {
+        "name": "Kuroi Echoes",
+        "url": "https://open.spotify.com/album/6YQ5zvaQ8gsB076SoL9ZhS"
+      },
+      "artists": [
+        {
+          "name": "aoni",
+          "url": "https://open.spotify.com/artist/3AcR5cfA2SMdwm5v0FPvvn"
+        }
+      ],
+      "duration_ms": 175309,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/7LKD6LKTziLqv8oXo6iv3e"
+    },
+    {
+      "added_at": "2026-01-29 17:33:20",
+      "album": {
         "name": "Fibril",
         "url": "https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 174087,
       "name": "Brutalist",
       "url": "https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK"
-    },
-    {
-      "added_at": "2026-01-29 17:33:20",
-      "album": {
-        "name": "LOST AND FOUND",
-        "url": "https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu"
-      },
-      "artists": [
-        {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
-        }
-      ],
-      "duration_ms": 245223,
-      "name": "\u201cYou're the Best Person in This World\u201d",
-      "url": "https://open.spotify.com/track/0vb4RHCjcytUzXJF2Vwykh"
     },
     {
       "added_at": "2026-01-29 17:33:20",
@@ -1015,6 +1015,42 @@
       "duration_ms": 186352,
       "name": "White Chocolate",
       "url": "https://open.spotify.com/track/7N2ziBCRxWB1ulFxUUD74a"
+    },
+    {
+      "added_at": "2026-01-29 17:33:20",
+      "album": {
+        "name": "LOST AND FOUND",
+        "url": "https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        }
+      ],
+      "duration_ms": 245223,
+      "name": "\u201cYou're the Best Person in This World\u201d",
+      "url": "https://open.spotify.com/track/0vb4RHCjcytUzXJF2Vwykh"
+    },
+    {
+      "added_at": "2026-01-29 17:33:20",
+      "album": {
+        "name": "Field (feat. Cwondo)",
+        "url": "https://open.spotify.com/album/6s3wTeQzvQXNNGPTjSIps2"
+      },
+      "artists": [
+        {
+          "name": "80KIDZ",
+          "url": "https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D"
+        },
+        {
+          "name": "Cwondo",
+          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
+        }
+      ],
+      "duration_ms": 229891,
+      "name": "Field - feat. Cwondo",
+      "url": "https://open.spotify.com/track/6xDI04c1xoXpFzptfR36FM"
     },
     {
       "added_at": "2026-01-29 17:33:20",
@@ -1047,22 +1083,6 @@
       "duration_ms": 220000,
       "name": "Sentimental Journey",
       "url": "https://open.spotify.com/track/2SQ8cSa0qW495Gw1mmvMGz"
-    },
-    {
-      "added_at": "2026-01-29 17:33:20",
-      "album": {
-        "name": "\u96fb\u8a71",
-        "url": "https://open.spotify.com/album/1PiCmopbgqhm2hfPu3T89V"
-      },
-      "artists": [
-        {
-          "name": "odol",
-          "url": "https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS"
-        }
-      ],
-      "duration_ms": 226276,
-      "name": "\u96fb\u8a71",
-      "url": "https://open.spotify.com/track/4Ivha1S5ifAjJcL0ckow2C"
     },
     {
       "added_at": "2026-01-29 17:33:20",
@@ -1135,22 +1155,18 @@
     {
       "added_at": "2026-01-29 17:33:20",
       "album": {
-        "name": "Field (feat. Cwondo)",
-        "url": "https://open.spotify.com/album/6s3wTeQzvQXNNGPTjSIps2"
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X"
       },
       "artists": [
         {
-          "name": "80KIDZ",
-          "url": "https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D"
-        },
-        {
-          "name": "Cwondo",
-          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 229891,
-      "name": "Field - feat. Cwondo",
-      "url": "https://open.spotify.com/track/6xDI04c1xoXpFzptfR36FM"
+      "duration_ms": 188659,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t"
     },
     {
       "added_at": "2026-01-29 17:33:20",
@@ -1167,22 +1183,6 @@
       "duration_ms": 151555,
       "name": "\u7570\u7269\u6df7\u5165",
       "url": "https://open.spotify.com/track/4AD5vjzHeG7gqoxS357joP"
-    },
-    {
-      "added_at": "2026-01-29 17:33:20",
-      "album": {
-        "name": "Hold Me Tight",
-        "url": "https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 188659,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t"
     },
     {
       "added_at": "2026-01-29 17:33:20",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-01-29 17:33:20",
       "album": {
-        "name": "Dear Grandpa",
-        "url": "https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3"
-      },
-      "artists": [
-        {
-          "name": "Shintaro Sakamoto",
-          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
-        }
-      ],
-      "duration_ms": 178501,
-      "name": "Dear Grandpa",
-      "url": "https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE"
-    },
-    {
-      "added_at": "2026-01-29 17:33:20",
-      "album": {
         "name": "Town e.p",
         "url": "https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO"
       },
@@ -1275,18 +1259,34 @@
     {
       "added_at": "2026-01-29 17:33:20",
       "album": {
-        "name": "SWEATER",
-        "url": "https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq"
+        "name": "Dear Grandpa",
+        "url": "https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3"
       },
       "artists": [
         {
-          "name": "\u3048\u3093\u3077\u3066\u3044",
-          "url": "https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh"
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
         }
       ],
-      "duration_ms": 254498,
-      "name": "SWEATER",
-      "url": "https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg"
+      "duration_ms": 178501,
+      "name": "Dear Grandpa",
+      "url": "https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE"
+    },
+    {
+      "added_at": "2026-01-29 17:33:20",
+      "album": {
+        "name": "T\u30b7\u30e3\u30c4vs\u96e8",
+        "url": "https://open.spotify.com/album/6DtP1Xii0O4aYMmqCXy1SH"
+      },
+      "artists": [
+        {
+          "name": "Gateballers",
+          "url": "https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU"
+        }
+      ],
+      "duration_ms": 294622,
+      "name": "T\u30b7\u30e3\u30c4vs\u96e8",
+      "url": "https://open.spotify.com/track/5F1bxYmnaCmYny5OVVaqwr"
     }
   ],
   "unique_name": "Edge!",

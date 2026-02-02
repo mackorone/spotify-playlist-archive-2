@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,650 likes - 335 songs - 18 hr 59 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,660 likes - 335 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -339,9 +339,9 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 329 | [Linger On](https://open.spotify.com/track/21w5gMq1b9lbZF0LUghalw) | [innerinnerlife](https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo) | [IfOnly](https://open.spotify.com/album/4uLuSvcvafheRnddYqDOxB) | 4:12 |
 | 330 | [Letters From Sing Sing](https://open.spotify.com/track/48mzQO6oFCw5YMbmNGrPHc) | [BAMBARA](https://open.spotify.com/artist/0JHvODQe3KnriRMPuZPNL6) | [Birthmarks](https://open.spotify.com/album/4Cy5zbpEW1aTKHvGiRXY1S) | 3:14 |
 | 331 | [Commotion](https://open.spotify.com/track/29MnyydjwSuj8ZodH7tK7r) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 2:04 |
-| 332 | [Growth Machine](https://open.spotify.com/track/0RCLeg65Xq5q7IeBTKmRZy) | [Nevin](https://open.spotify.com/artist/7mv4ENpQx3G5aSOlbalvU0) | [Growth Machine](https://open.spotify.com/album/0ftFYBIEC52NIXEIdZ12n9) | 4:01 |
-| 333 | [Skink](https://open.spotify.com/track/51yZTj0lmvakr1hE88cVSu) | [e4444e](https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC) | [Authentic Natural Tradition](https://open.spotify.com/album/3pwDE4fSZ5BsTnUTHZrHCR) | 4:35 |
-| 334 | [All Of Our Friends](https://open.spotify.com/track/7LDPJapt5Y0ugPR9ysUHw2) | [Emily Hines](https://open.spotify.com/artist/2ickW99aviSnUfDMsxpIOX) | [These Days](https://open.spotify.com/album/73oXwYKn7SWXBHCsDlQyLc) | 4:56 |
+| 332 | [Skink](https://open.spotify.com/track/51yZTj0lmvakr1hE88cVSu) | [e4444e](https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC) | [Authentic Natural Tradition](https://open.spotify.com/album/3pwDE4fSZ5BsTnUTHZrHCR) | 4:35 |
+| 333 | [All Of Our Friends](https://open.spotify.com/track/7LDPJapt5Y0ugPR9ysUHw2) | [Emily Hines](https://open.spotify.com/artist/2ickW99aviSnUfDMsxpIOX) | [These Days](https://open.spotify.com/album/73oXwYKn7SWXBHCsDlQyLc) | 4:56 |
+| 334 | [Growth Machine](https://open.spotify.com/track/0RCLeg65Xq5q7IeBTKmRZy) | [Nevin](https://open.spotify.com/artist/7mv4ENpQx3G5aSOlbalvU0) | [Growth Machine](https://open.spotify.com/album/0ftFYBIEC52NIXEIdZ12n9) | 4:01 |
 | 335 | [Away](https://open.spotify.com/track/3BV7JiYHQAcWgQA1G5JNH6) | [Jo Passed](https://open.spotify.com/artist/1ONiIDqrHLLeDjVan9RRns) | [Away](https://open.spotify.com/album/2qkKaD8PVtIu8RKmHVtwNI) | 3:18 |
 
-Snapshot ID: `AAAuGC8mqs7OWCQcv6R/Of6vpHNNW8pj`
+Snapshot ID: `AAAuGXY4e3C2qcjht2ORjwlOWdJ/PQc0`

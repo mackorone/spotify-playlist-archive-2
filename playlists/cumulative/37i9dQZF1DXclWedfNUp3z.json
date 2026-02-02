@@ -5232,7 +5232,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 246000,
       "name": "Northern Spirit",
       "url": "https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ"
@@ -8456,6 +8456,28 @@
       "duration_ms": 209500,
       "name": "Warmth in the Dark",
       "url": "https://open.spotify.com/track/5jMSxkwkdVCGeTxtIGlbyr"
+    },
+    {
+      "album": {
+        "name": "Watermelon Well",
+        "url": "https://open.spotify.com/album/0nNsXUIdgSoz2kVRbOyRDL"
+      },
+      "artists": [
+        {
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
+        },
+        {
+          "name": "John Thayer",
+          "url": "https://open.spotify.com/artist/0epYBMvUpoUYstNjLNHL4k"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221647,
+      "name": "Watermelon Well",
+      "url": "https://open.spotify.com/track/4P0VaKvN6XffglDI00Kxr3"
     },
     {
       "album": {

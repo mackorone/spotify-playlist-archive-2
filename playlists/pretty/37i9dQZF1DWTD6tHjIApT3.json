@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u8309\u3072\u308b Mahiru",
-  "num_followers": 134776,
+  "num_followers": 134789,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
-        "name": "\u65e5\u9670",
-        "url": "https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK"
-      },
-      "artists": [
-        {
-          "name": "Rokudenashi",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 180821,
-      "name": "\u96e8\u666f\u8272",
-      "url": "https://open.spotify.com/track/0S4vsLoQPVC46Ctnee2FxG"
-    },
-    {
-      "added_at": "2026-01-27 16:46:34",
-      "album": {
         "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
         "url": "https://open.spotify.com/album/7HjRgi9qbWdYzteTDPvNow"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 262766,
       "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
       "url": "https://open.spotify.com/track/7HXZCDmWVLC3ygAcXw5I6q"
+    },
+    {
+      "added_at": "2026-01-27 16:46:34",
+      "album": {
+        "name": "\u65e5\u9670",
+        "url": "https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK"
+      },
+      "artists": [
+        {
+          "name": "Rokudenashi",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "duration_ms": 180821,
+      "name": "\u96e8\u666f\u8272",
+      "url": "https://open.spotify.com/track/0S4vsLoQPVC46Ctnee2FxG"
     },
     {
       "added_at": "2026-01-27 16:46:34",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
+        "name": "\u58f0\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/4n2Fbv9J5fqFbLnjBt5PTi"
+      },
+      "artists": [
+        {
+          "name": "Soala",
+          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "\u58f0\u306e\u8ecc\u8de1",
+      "url": "https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj"
+    },
+    {
+      "added_at": "2026-01-27 16:46:34",
+      "album": {
         "name": "\u30ed\u30fc\u30ba\u30d2\u30c3\u30d7\u30c6\u30a3\u30fc",
         "url": "https://open.spotify.com/album/42rLhEFaJghaRLnmEQv5Fs"
       },
@@ -1295,38 +1311,6 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
-        "name": "ACTION",
-        "url": "https://open.spotify.com/album/5fG9xJaE05G3ffjqhXSXTt"
-      },
-      "artists": [
-        {
-          "name": "eill",
-          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
-        }
-      ],
-      "duration_ms": 199014,
-      "name": "ACTION",
-      "url": "https://open.spotify.com/track/0Al26AUvUaOkySrlXeklV2"
-    },
-    {
-      "added_at": "2026-01-27 16:46:34",
-      "album": {
-        "name": "\u58f0\u306e\u8ecc\u8de1",
-        "url": "https://open.spotify.com/album/4n2Fbv9J5fqFbLnjBt5PTi"
-      },
-      "artists": [
-        {
-          "name": "Soala",
-          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "\u58f0\u306e\u8ecc\u8de1",
-      "url": "https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj"
-    },
-    {
-      "added_at": "2026-01-27 16:46:34",
-      "album": {
         "name": "\u221e",
         "url": "https://open.spotify.com/album/43tk1aJAbtbnlIPDtrKIJ9"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 237316,
       "name": "\u221e",
       "url": "https://open.spotify.com/track/6ZrX2IRdkDrYwLT2uwnllG"
+    },
+    {
+      "added_at": "2026-01-27 16:46:34",
+      "album": {
+        "name": "ACTION",
+        "url": "https://open.spotify.com/album/5fG9xJaE05G3ffjqhXSXTt"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "duration_ms": 199014,
+      "name": "ACTION",
+      "url": "https://open.spotify.com/track/0Al26AUvUaOkySrlXeklV2"
     },
     {
       "added_at": "2026-01-27 16:46:34",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
+        "name": "\u7d20\u63cf",
+        "url": "https://open.spotify.com/album/0OsYUg4pxgjKBJOqESsZju"
+      },
+      "artists": [
+        {
+          "name": "harha",
+          "url": "https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh"
+        }
+      ],
+      "duration_ms": 275844,
+      "name": "\u7d20\u63cf",
+      "url": "https://open.spotify.com/track/2WTDyaNE5JtuUWWFxy1XM9"
+    },
+    {
+      "added_at": "2026-01-27 16:46:34",
+      "album": {
         "name": "\u304a\u3068\u3081\u306e\u8096\u50cf",
         "url": "https://open.spotify.com/album/3abSkOFoNQtxxIJ8GhLwy8"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
-        "name": "\u7d20\u63cf",
-        "url": "https://open.spotify.com/album/0OsYUg4pxgjKBJOqESsZju"
+        "name": "The rose",
+        "url": "https://open.spotify.com/album/5tHePKEB70C7xnNessYfKx"
       },
       "artists": [
         {
-          "name": "harha",
-          "url": "https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh"
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
         }
       ],
-      "duration_ms": 275844,
-      "name": "\u7d20\u63cf",
-      "url": "https://open.spotify.com/track/2WTDyaNE5JtuUWWFxy1XM9"
+      "duration_ms": 172966,
+      "name": "The rose",
+      "url": "https://open.spotify.com/track/6ZGcf4owKDzTv5tfLFNS5Y"
     },
     {
       "added_at": "2026-01-27 16:46:34",
@@ -1411,18 +1427,18 @@
     {
       "added_at": "2026-01-27 16:46:34",
       "album": {
-        "name": "The rose",
-        "url": "https://open.spotify.com/album/5tHePKEB70C7xnNessYfKx"
+        "name": "\u30ad\u30df\u304c\u3044\u306a\u3044\u3068",
+        "url": "https://open.spotify.com/album/0uT3czZrsT57vsb4R9KPG5"
       },
       "artists": [
         {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+          "name": "AYANE",
+          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
         }
       ],
-      "duration_ms": 172966,
-      "name": "The rose",
-      "url": "https://open.spotify.com/track/6ZGcf4owKDzTv5tfLFNS5Y"
+      "duration_ms": 215115,
+      "name": "\u30ad\u30df\u304c\u3044\u306a\u3044\u3068",
+      "url": "https://open.spotify.com/track/0DvgsF4TJLflTcGrlkIpKM"
     },
     {
       "added_at": "2026-01-27 16:46:34",
@@ -1455,22 +1471,6 @@
       "duration_ms": 224812,
       "name": "Two Of Us",
       "url": "https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68"
-    },
-    {
-      "added_at": "2026-01-27 16:46:34",
-      "album": {
-        "name": "\u30ad\u30df\u304c\u3044\u306a\u3044\u3068",
-        "url": "https://open.spotify.com/album/0uT3czZrsT57vsb4R9KPG5"
-      },
-      "artists": [
-        {
-          "name": "AYANE",
-          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
-        }
-      ],
-      "duration_ms": 215115,
-      "name": "\u30ad\u30df\u304c\u3044\u306a\u3044\u3068",
-      "url": "https://open.spotify.com/track/0DvgsF4TJLflTcGrlkIpKM"
     },
     {
       "added_at": "2026-01-27 16:46:34",

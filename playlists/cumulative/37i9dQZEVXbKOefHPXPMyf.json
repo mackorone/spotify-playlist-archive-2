@@ -6206,7 +6206,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 166779,
       "name": "AWGAZI",
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
@@ -15624,6 +15624,32 @@
       "duration_ms": 261600,
       "name": "Como David",
       "url": "https://open.spotify.com/track/4f7OAbmlCzlJjCXALIg9Uh"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122986,
+      "name": "Como De Sol A Sol",
+      "url": "https://open.spotify.com/track/74yeYD6XNdGWGb2FeihqCa"
     },
     {
       "album": {
@@ -46210,7 +46236,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 214399,
       "name": "Mer\u00e9",
       "url": "https://open.spotify.com/track/7m2ZdJo5lzQ9tDwDcymFcb"
@@ -49544,7 +49570,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 156888,
       "name": "MURAKAMI",
       "url": "https://open.spotify.com/track/5JVUhvcanHXMOL6y3HsvNN"
@@ -50768,7 +50794,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 220720,
       "name": "NETFLIX AND CHILL",
       "url": "https://open.spotify.com/track/7i0jnaHh4ZLQmtux4qTxXV"
@@ -55880,7 +55906,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 105454,
       "name": "PALETA",
       "url": "https://open.spotify.com/track/7iPPva4YhNLriWcI4EP4MJ"
@@ -67442,7 +67468,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 215959,
       "name": "Sin Maquillaje",
       "url": "https://open.spotify.com/track/5jEyu0nTEGmpWv3QVWRx4m"
@@ -68898,6 +68924,24 @@
       "duration_ms": 142022,
       "name": "Soltera - W Sound 01",
       "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151986,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/7tVRrUDjiGcyBpdvGPCid8"
     },
     {
       "album": {

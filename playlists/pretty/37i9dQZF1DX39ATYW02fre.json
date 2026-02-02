@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 268516,
+  "num_followers": 268557,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "storm",
-        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 248264,
-      "name": "storm",
-      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
         "name": "Ride At Dawn",
         "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/1VrpTWfDRK2pdzgGSoyDty"
+        "name": "storm",
+        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
       },
       "artists": [
         {
-          "name": "narou",
-          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
         }
       ],
-      "duration_ms": 232133,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/0s9vuU1DPc3Us9TboMMeK8"
+      "duration_ms": 248264,
+      "name": "storm",
+      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -847,18 +831,18 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Corner Of My Eye",
-        "url": "https://open.spotify.com/album/4O2rzyeqhC7yOFMlYvfNfB"
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/1VrpTWfDRK2pdzgGSoyDty"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
         }
       ],
-      "duration_ms": 420906,
-      "name": "Corner Of My Eye",
-      "url": "https://open.spotify.com/track/6QALVDW1IdwKF2bAPKf0Wi"
+      "duration_ms": 232133,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/0s9vuU1DPc3Us9TboMMeK8"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -875,6 +859,22 @@
       "duration_ms": 354102,
       "name": "October",
       "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "Corner Of My Eye",
+        "url": "https://open.spotify.com/album/4O2rzyeqhC7yOFMlYvfNfB"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 420906,
+      "name": "Corner Of My Eye",
+      "url": "https://open.spotify.com/track/6QALVDW1IdwKF2bAPKf0Wi"
     },
     {
       "added_at": "2026-01-23 00:00:37",

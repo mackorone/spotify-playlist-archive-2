@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/3fEFkAZn2TC3C1dgra63SZ"
+      },
+      "artists": [
+        {
+          "name": "Ella Collier",
+          "url": "https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195492,
+      "name": "17",
+      "url": "https://open.spotify.com/track/44mNFl4PM016z0tueNAhzK"
+    },
+    {
+      "album": {
         "name": "2 LATE",
         "url": "https://open.spotify.com/album/0rY7VQUOTcumdtLJfpBW2s"
       },
@@ -6560,7 +6578,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 156788,
       "name": "Good Girl Bad Dreams",
       "url": "https://open.spotify.com/track/41Z5PmYNGNvm9yHyuaWOaW"
@@ -8344,7 +8362,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 194888,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/7gqcQg5BexFAhj848x2Nni"
@@ -10350,6 +10368,24 @@
       "duration_ms": 155540,
       "name": "Love Bombs",
       "url": "https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5"
+    },
+    {
+      "album": {
+        "name": "Love Fast Cry Young",
+        "url": "https://open.spotify.com/album/4WTNBIGsISUa41cF0QlcZq"
+      },
+      "artists": [
+        {
+          "name": "Bruklin",
+          "url": "https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136050,
+      "name": "Love Fast Cry Young",
+      "url": "https://open.spotify.com/track/3jaKAdyj6conXy9NwmRgJj"
     },
     {
       "album": {
@@ -14504,6 +14540,24 @@
       "duration_ms": 129397,
       "name": "SEX MACHINA",
       "url": "https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K"
+    },
+    {
+      "album": {
+        "name": "Sexxxtapes",
+        "url": "https://open.spotify.com/album/14C5aCg0VZ3KoewEIfiygG"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203949,
+      "name": "Sexxxtapes",
+      "url": "https://open.spotify.com/track/67gl2k7No6jIOMm4F2XNTZ"
     },
     {
       "album": {

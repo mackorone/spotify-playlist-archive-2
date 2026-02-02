@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,080 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,140 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 10 | [Party People](https://open.spotify.com/track/2qOL9YCX61pJ9AAeblJdfF) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Party People](https://open.spotify.com/album/5iJ02YLpPhR6xQodkoGDMi) | 3:03 |
 | 11 | [Tokyo Drift](https://open.spotify.com/track/36Cv79TksfjnPhlrN1D9wN) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Tokyo Drift](https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix) | 2:26 |
 | 12 | [Blade](https://open.spotify.com/track/1wQwTyocYlAE27QEk8BQXa) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Blade](https://open.spotify.com/album/0Knz2xzbB2dkdjxDcJvNaY) | 2:48 |
-| 13 | [That Acid](https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [That Acid](https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL) | 2:25 |
-| 14 | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm) | 2:13 |
+| 13 | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm) | 2:13 |
+| 14 | [That Acid](https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [That Acid](https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL) | 2:25 |
 | 15 | [Post Malone \(feat\. RANI\) \[Future Tropical 2025 Remix\]](https://open.spotify.com/track/5TlWaAb2G6C9glTAC9gNzj) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Post Malone \(feat\. RANI\) \[Future Tropical 2025 Remix\]](https://open.spotify.com/album/3vSRXeih0pJszSHkrumg0e) | 3:45 |
 | 16 | [Cream](https://open.spotify.com/track/0DQiMuw802BljfUAbU8uxd) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG) | [Cream](https://open.spotify.com/album/7ltPrMbeM3QEMziwOCtBys) | 2:41 |
 | 17 | [Lucky](https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Lucky](https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I) | 2:26 |

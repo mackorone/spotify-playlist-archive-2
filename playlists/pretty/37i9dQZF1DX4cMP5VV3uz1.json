@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165994,
+  "num_followers": 165997,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6tZ8Lr0POSPvr58qJAFwn7"
+      },
+      "artists": [
+        {
+          "name": "Born On Road",
+          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
+        },
+        {
+          "name": "Brodie",
+          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0dDO88EP1FcKMrj8N1hXWy"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/2z78ad2f2wX8aFJmI1emFo"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 215172,
       "name": "Reload",
       "url": "https://open.spotify.com/track/1oM52NNGYAT961AgxEgv6E"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6tZ8Lr0POSPvr58qJAFwn7"
-      },
-      "artists": [
-        {
-          "name": "Born On Road",
-          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
-        },
-        {
-          "name": "Brodie",
-          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/0dDO88EP1FcKMrj8N1hXWy"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "The Speaker",
-        "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
-      },
-      "artists": [
-        {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "The Speaker",
-      "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
         "name": "Ring Doorbell",
         "url": "https://open.spotify.com/album/0FRunFsZtqZ4TPely2oAWI"
       },
@@ -771,6 +751,26 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
+        "name": "The Speaker",
+        "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "The Speaker",
+      "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
         "name": "247",
         "url": "https://open.spotify.com/album/6X0tNQSao8Ll2D3q2ocpll"
       },
@@ -791,18 +791,22 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Anti/Thesis: Vol. 2",
-        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
+        "name": "Skanka",
+        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
       },
       "artists": [
         {
-          "name": "High Contrast",
-          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Jaybee (UK)",
+          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
         }
       ],
-      "duration_ms": 233083,
-      "name": "Grindhouse",
-      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
+      "duration_ms": 190689,
+      "name": "Skanka",
+      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -827,22 +831,18 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Skanka",
-        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
+        "name": "Anti/Thesis: Vol. 2",
+        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
       },
       "artists": [
         {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        },
-        {
-          "name": "Jaybee (UK)",
-          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
         }
       ],
-      "duration_ms": 190689,
-      "name": "Skanka",
-      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
+      "duration_ms": 233083,
+      "name": "Grindhouse",
+      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
+        "name": "Machine Learning",
+        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "Techno",
+      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
         "name": "Inside The Rider (TC & Original Sin 2000's Remix)",
         "url": "https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 206996,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/4OyDiydPAu3q6rNcLp313U"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Machine Learning",
-        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 275862,
-      "name": "Techno",
-      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
+        "name": "Rigid Lord",
+        "url": "https://open.spotify.com/album/0wUZn5ztqivzJzwoPwq4Dn"
+      },
+      "artists": [
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/0u4uzzMGK1exfnG33MII0b"
+        }
+      ],
+      "duration_ms": 225856,
+      "name": "Rigid Lord",
+      "url": "https://open.spotify.com/track/0zlBYfthuEV22L3DMhGiJu"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
         "name": "Bear Trap",
         "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
       },
@@ -1191,22 +1211,18 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Rigid Lord",
-        "url": "https://open.spotify.com/album/0wUZn5ztqivzJzwoPwq4Dn"
+        "name": "Barbera 2026",
+        "url": "https://open.spotify.com/album/22Nd35GHcvvu4zWZ4Q6WeV"
       },
       "artists": [
         {
-          "name": "Cesco",
-          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/0u4uzzMGK1exfnG33MII0b"
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
         }
       ],
-      "duration_ms": 225856,
-      "name": "Rigid Lord",
-      "url": "https://open.spotify.com/track/0zlBYfthuEV22L3DMhGiJu"
+      "duration_ms": 243921,
+      "name": "Barbera 2026",
+      "url": "https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1227,22 +1243,6 @@
       "duration_ms": 202000,
       "name": "Simulation",
       "url": "https://open.spotify.com/track/6xnBre4gfp3CiOazJ44IMy"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Barbera 2026",
-        "url": "https://open.spotify.com/album/22Nd35GHcvvu4zWZ4Q6WeV"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 243921,
-      "name": "Barbera 2026",
-      "url": "https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
+        "name": "Spag Bol",
+        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 202281,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
         "name": "Bad Like We",
         "url": "https://open.spotify.com/album/5C0XFFqgELRXBmEZoPMJge"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 209142,
       "name": "Bad Like We",
       "url": "https://open.spotify.com/track/6ssBXWgW8GaUfDfOzne2tS"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Spag Bol",
-        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 202281,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Voicenote Violence",
-        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
-      },
-      "artists": [
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 166714,
-      "name": "Voicenote Violence",
-      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
         "name": "Satan's Alley",
         "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 244114,
       "name": "Satan's Alley",
       "url": "https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "Voicenote Violence",
+        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 166714,
+      "name": "Voicenote Violence",
+      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Bringing the pain",
-        "url": "https://open.spotify.com/album/1IIhfLfwtp1OQFYKfQLMZS"
-      },
-      "artists": [
-        {
-          "name": "Alonestar",
-          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 201299,
-      "name": "Bringing the pain",
-      "url": "https://open.spotify.com/track/5ptEed5dl6MPK5TbA8zvV5"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
         "name": "You Had It 2025 Part 1",
         "url": "https://open.spotify.com/album/5V6FMNCUcUU6x797prBEzf"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 203142,
       "name": "You Had It - Sub Zero & Burntboi Remix",
       "url": "https://open.spotify.com/track/5DWdOBDdJNDRvVM4duGVor"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "Bringing the pain",
+        "url": "https://open.spotify.com/album/1IIhfLfwtp1OQFYKfQLMZS"
+      },
+      "artists": [
+        {
+          "name": "Alonestar",
+          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 201299,
+      "name": "Bringing the pain",
+      "url": "https://open.spotify.com/track/5ptEed5dl6MPK5TbA8zvV5"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Unnecessary",
-        "url": "https://open.spotify.com/album/7f58ErEZRn11jADChakpWM"
-      },
-      "artists": [
-        {
-          "name": "DJ Hazard",
-          "url": "https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh"
-        }
-      ],
-      "duration_ms": 223914,
-      "name": "Unnecessary",
-      "url": "https://open.spotify.com/track/0NVmeeW4WioYxNl7PgWVel"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
         "name": "I Want U",
         "url": "https://open.spotify.com/album/6EN5SAQyLwYYJezKi5QxMo"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 246165,
       "name": "I Want U",
       "url": "https://open.spotify.com/track/7jKhJz76Mn74qYRIupU8Gb"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "Unnecessary",
+        "url": "https://open.spotify.com/album/7f58ErEZRn11jADChakpWM"
+      },
+      "artists": [
+        {
+          "name": "DJ Hazard",
+          "url": "https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh"
+        }
+      ],
+      "duration_ms": 223914,
+      "name": "Unnecessary",
+      "url": "https://open.spotify.com/track/0NVmeeW4WioYxNl7PgWVel"
     },
     {
       "added_at": "2026-01-23 00:00:37",

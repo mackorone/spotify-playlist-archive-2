@@ -1,12 +1,12 @@
 {
   "description": "sweet. sharp. unbothered - Precious Pepala on the cover",
-  "num_followers": 425784,
+  "num_followers": 425782,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI2XAeepm3CyrQlz/eCLNaoYbj6c",
+  "snapshot_id": "AAAAAL6RZEc3tRgFjpldWhMc10CT0nl9",
   "tracks": [
     {
       "added_at": "2026-01-23 05:11:43",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5"
     },
     {
+      "added_at": "2026-02-01 19:52:17",
+      "album": {
+        "name": "Love Fast Cry Young",
+        "url": "https://open.spotify.com/album/4WTNBIGsISUa41cF0QlcZq"
+      },
+      "artists": [
+        {
+          "name": "Bruklin",
+          "url": "https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO"
+        }
+      ],
+      "duration_ms": 136050,
+      "name": "Love Fast Cry Young",
+      "url": "https://open.spotify.com/track/3jaKAdyj6conXy9NwmRgJj"
+    },
+    {
       "added_at": "2026-01-23 05:11:43",
       "album": {
         "name": "BAD IDEA",
@@ -39,6 +55,22 @@
       "duration_ms": 184421,
       "name": "BAD IDEA",
       "url": "https://open.spotify.com/track/2tv9f6TI6N2YodNZznGX9u"
+    },
+    {
+      "added_at": "2026-02-01 19:52:17",
+      "album": {
+        "name": "Sexxxtapes",
+        "url": "https://open.spotify.com/album/14C5aCg0VZ3KoewEIfiygG"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "duration_ms": 203949,
+      "name": "Sexxxtapes",
+      "url": "https://open.spotify.com/track/67gl2k7No6jIOMm4F2XNTZ"
     },
     {
       "added_at": "2025-12-19 05:00:39",
@@ -71,6 +103,22 @@
       "duration_ms": 154155,
       "name": "BLEED MY LOVE",
       "url": "https://open.spotify.com/track/5vbuYJAzJqMIIaGcEuu021"
+    },
+    {
+      "added_at": "2026-02-01 19:52:17",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/3fEFkAZn2TC3C1dgra63SZ"
+      },
+      "artists": [
+        {
+          "name": "Ella Collier",
+          "url": "https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ"
+        }
+      ],
+      "duration_ms": 195492,
+      "name": "17",
+      "url": "https://open.spotify.com/track/44mNFl4PM016z0tueNAhzK"
     },
     {
       "added_at": "2026-01-09 05:00:48",
@@ -811,42 +859,6 @@
       "duration_ms": 133736,
       "name": "Crazy Bitch Song",
       "url": "https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM"
-    },
-    {
-      "added_at": "2025-09-19 04:00:31",
-      "album": {
-        "name": "Good Girl Bad Dreams",
-        "url": "https://open.spotify.com/album/48R9mXpiOmqdLzdqTOOXM6"
-      },
-      "artists": [
-        {
-          "name": "Bruklin",
-          "url": "https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO"
-        }
-      ],
-      "duration_ms": 156788,
-      "name": "Good Girl Bad Dreams",
-      "url": "https://open.spotify.com/track/41Z5PmYNGNvm9yHyuaWOaW"
-    },
-    {
-      "added_at": "2025-09-19 04:00:31",
-      "album": {
-        "name": "Baby Teeth",
-        "url": "https://open.spotify.com/album/3TBvK353HDQDDNfScJ8QaD"
-      },
-      "artists": [
-        {
-          "name": "Yuneki",
-          "url": "https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi"
-        },
-        {
-          "name": "shortstraw.",
-          "url": "https://open.spotify.com/artist/3qlFWAsq8StLpupHiBDVND"
-        }
-      ],
-      "duration_ms": 194888,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/7gqcQg5BexFAhj848x2Nni"
     },
     {
       "added_at": "2025-09-22 15:05:23",

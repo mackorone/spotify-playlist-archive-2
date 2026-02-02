@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243069,
+  "num_followers": 243071,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "Georgia Blackwell",
+          "url": "https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 184045,
       "name": "Dancing Thing",
       "url": "https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE"
-      },
-      "artists": [
-        {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
-        },
-        {
-          "name": "Georgia Blackwell",
-          "url": "https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -659,26 +659,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Verden",
-        "url": "https://open.spotify.com/album/3E7tB63oCaFKzaxJSlrLD2"
-      },
-      "artists": [
-        {
-          "name": "MEUTE",
-          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
-        },
-        {
-          "name": "p\u00f8laroit",
-          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
-        }
-      ],
-      "duration_ms": 344893,
-      "name": "Verden",
-      "url": "https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Body on Fire",
         "url": "https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 159310,
       "name": "Body on Fire",
       "url": "https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Verden",
+        "url": "https://open.spotify.com/album/3E7tB63oCaFKzaxJSlrLD2"
+      },
+      "artists": [
+        {
+          "name": "MEUTE",
+          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
+        },
+        {
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
+        }
+      ],
+      "duration_ms": 344893,
+      "name": "Verden",
+      "url": "https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj"
     },
     {
       "added_at": "2024-08-01 10:59:15",

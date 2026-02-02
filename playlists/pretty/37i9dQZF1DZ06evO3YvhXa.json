@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 430018,
+  "num_followers": 430099,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXv0gAAAAABfVjE6BBwEcQMtMgW+LuC2",
+  "snapshot_id": "aX1GAAAAAACFwakZ7G77CQZlhZINhm1E",
   "tracks": [
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Dust Light Star (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+        "name": "The Return of the Space Cowboy (Remastered)",
+        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 231666,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/7AJYzLJSLtJzic79quUS0j"
+      "duration_ms": 256640,
+      "name": "Stillness in Time",
+      "url": "https://open.spotify.com/track/704D4dPfn1ubgJ1UHXwg3Q"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Return of the Space Cowboy (Remastered)",
-        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 256640,
-      "name": "Stillness in Time",
-      "url": "https://open.spotify.com/track/704D4dPfn1ubgJ1UHXwg3Q"
+      "duration_ms": 231666,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7AJYzLJSLtJzic79quUS0j"
     },
     {
       "added_at": null,

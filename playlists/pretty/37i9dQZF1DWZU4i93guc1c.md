@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > Xіти та проривні новинки незалежної місцевої музики\. Обкладинка: Berliner Döner
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,321 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,325 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 37 | [обережно! розбите!](https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [обережно! розбите!](https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i) | 3:00 |
 | 38 | [Вішліст](https://open.spotify.com/track/47hZVeRyKcxRmmXtTbTD7o) | [Крихітка](https://open.spotify.com/artist/3GvCDEg7s8LxI3FNS1CWRK), [Роман Набожняк](https://open.spotify.com/artist/2sHoBZ5pymMyTfXwwOy3u3) | [Вішліст](https://open.spotify.com/album/2LQxfeNVKqR6HQRRTDESzz) | 4:23 |
 | 39 | [Ти мене не знаєш](https://open.spotify.com/track/4kzgictzsfIQhlab6T2kdL) | [туди\-сюди і смерть](https://open.spotify.com/artist/6PnFs3tKw82t1j8q5bxrzK), [Лея](https://open.spotify.com/artist/0ByHX7o0SMk0Vad9zqQIiM) | [Ти мене не знаєш](https://open.spotify.com/album/6Vh7u2qs4ly6yjbQZWNsfj) | 2:55 |
-| 40 | [Плече](https://open.spotify.com/track/6ZJR4OGklEGhBfCuNCCP0W) | [Intermezzo](https://open.spotify.com/artist/6BSuzS2Q1E75dXsghaVNHf) | [Плече](https://open.spotify.com/album/1lzKSrwpqEDWMhsbJlEYNh) | 3:15 |
-| 41 | [WAKE UP](https://open.spotify.com/track/4fKLKGQZBFKtMXxErGimHx) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [WAKE UP](https://open.spotify.com/album/6KtQkO9VJn6S8gxlII4NOg) | 2:36 |
+| 40 | [WAKE UP](https://open.spotify.com/track/4fKLKGQZBFKtMXxErGimHx) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [WAKE UP](https://open.spotify.com/album/6KtQkO9VJn6S8gxlII4NOg) | 2:36 |
+| 41 | [Плече](https://open.spotify.com/track/6ZJR4OGklEGhBfCuNCCP0W) | [Intermezzo](https://open.spotify.com/artist/6BSuzS2Q1E75dXsghaVNHf) | [Плече](https://open.spotify.com/album/1lzKSrwpqEDWMhsbJlEYNh) | 3:15 |
 | 42 | [Намалюй](https://open.spotify.com/track/2Umyi3slF7uXgLQFu33RMS) | [паліндром](https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX) | [Намалюй](https://open.spotify.com/album/2TZPOp1h74kMSsM1fiI8rN) | 3:31 |
 | 43 | [Напинай вітрила](https://open.spotify.com/track/4sxB6gfbavGMopWKv6vjj5) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Напинай вітрила](https://open.spotify.com/album/3TqrkVSKKeiHKEnRz60PH0) | 2:39 |
 | 44 | [Твій Сміх](https://open.spotify.com/track/4pD8GIxWDAOeA819786Ny7) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3) | [Твій Сміх](https://open.spotify.com/album/3ENa9mw7tNiMX7f3Az0fZC) | 3:22 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 60 | [ПУ\-ПУ\-ПУ](https://open.spotify.com/track/63VAFnT5Quk8Xd6B9w2AP2) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0), [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he) | [ПУ\-ПУ\-ПУ](https://open.spotify.com/album/1YxN5njBve7AbCfbI5kkPk) | 1:53 |
 | 61 | [З мене досить](https://open.spotify.com/track/67NlZXaAshNFrTE3Wj70qK) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [З мене досить](https://open.spotify.com/album/6VdAnbSa0J1vUprrARwJxs) | 2:59 |
 | 62 | [Ввечері](https://open.spotify.com/track/1IjpNQqnyNzg98FPu3dZTU) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Ввечері](https://open.spotify.com/album/5RPe3f34Y2Ume0GKGcYAa6) | 2:54 |
-| 63 | [Веган](https://open.spotify.com/track/6s6TbZNJImTnEaZpq7fTD5) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Веган](https://open.spotify.com/album/7CdBYR6RwlujHNFEXkAIWR) | 3:10 |
-| 64 | [Дивний спокій](https://open.spotify.com/track/29Pa0G0nrVe7ags8SGXz30) | [Darie Lu](https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs) | [Дивний спокій](https://open.spotify.com/album/5iDgRFXFgVftXqPB1P2ha4) | 4:05 |
+| 63 | [Дивний спокій](https://open.spotify.com/track/29Pa0G0nrVe7ags8SGXz30) | [Darie Lu](https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs) | [Дивний спокій](https://open.spotify.com/album/5iDgRFXFgVftXqPB1P2ha4) | 4:05 |
+| 64 | [Веган](https://open.spotify.com/track/6s6TbZNJImTnEaZpq7fTD5) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Веган](https://open.spotify.com/album/7CdBYR6RwlujHNFEXkAIWR) | 3:10 |
 | 65 | [хтось когось](https://open.spotify.com/track/6iCnqQUXat2FoLOD3ow5Pw) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0), [Melancholydi](https://open.spotify.com/artist/01gFGpB3Lew9liOqNthKBe) | [хтось когось](https://open.spotify.com/album/7n1NrKF4Lh3rc0woScsUpe) | 2:47 |
 | 66 | [Я був](https://open.spotify.com/track/42nLkYXq8sJ5REilcjsive) | [Мій конфлікт](https://open.spotify.com/artist/18A2MbWAjVr4JNsBLdB21H) | [Я був](https://open.spotify.com/album/63LVPnilWuzqAhiwrEnrFs) | 2:33 |
 | 67 | [фарби](https://open.spotify.com/track/7vYCdjVFJtUFv8zuFghOpP) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [фарби забуття](https://open.spotify.com/album/2sy9aeifFkZIrmK2MyzpcX) | 2:58 |

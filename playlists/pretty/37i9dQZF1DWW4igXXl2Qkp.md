@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:5hfKHmE2Vo9XyLyIJZe3rl">Yung Skooley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,416 likes - 100 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,446 likes - 100 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

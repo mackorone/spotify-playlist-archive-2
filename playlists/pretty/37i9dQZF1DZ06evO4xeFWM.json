@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220230,
+  "num_followers": 220221,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXv0gAAAAAAORSKtjfHieh6Y2i+IXMtd",
+  "snapshot_id": "aX1GAAAAAABZsoQO25kfmqEibKHe2+ca",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roots Of ReOrchestrated",
+        "url": "https://open.spotify.com/album/6F7mN2nWYIj4sAwTTOEFZY"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Good Grief - Live At Capitol Studios, Los Angeles / 2016",
+      "url": "https://open.spotify.com/track/22byEqX8buZheWfPKki5MW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bathsheba & Him",
         "url": "https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 198074,
       "name": "Grip",
       "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roots Of ReOrchestrated",
-        "url": "https://open.spotify.com/album/6F7mN2nWYIj4sAwTTOEFZY"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Good Grief - Live At Capitol Studios, Los Angeles / 2016",
-      "url": "https://open.spotify.com/track/22byEqX8buZheWfPKki5MW"
     },
     {
       "added_at": null,

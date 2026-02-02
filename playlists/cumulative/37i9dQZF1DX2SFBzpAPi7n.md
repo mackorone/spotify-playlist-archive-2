@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 롤링쿼츠 \(Rolling Quartz\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,115 songs - 2 day 19 hr 48 min
+1,117 songs - 2 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Flame](https://open.spotify.com/track/1Qg4qHeb1DK1FdwjxgbGt6) | [김한겸](https://open.spotify.com/artist/01qikWSwB9BtwXkxXyBcWJ) | [Military Prosecutor Doberman, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ruhTOVA7QJSkaNuLC4Xp2) | 3:22 | 2022-05-24 | 2022-05-30 |
 | [Flare](https://open.spotify.com/track/5qvCcpVLeYGwJSIP2aU5uP) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [PANORAMA](https://open.spotify.com/album/5KCwE9Ev3dhkvQOzPCR6Yx) | 6:03 | 2022-04-22 | 2022-07-27 |
 | [Flash](https://open.spotify.com/track/20jlpOzNCCZzqkeVAQm8rV) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Cape](https://open.spotify.com/album/626dbHFyezrT6lBxvjN6iq) | 4:57 | 2024-11-29 | 2025-01-02 |
+| [Flower](https://open.spotify.com/track/4rvPYhCiaSqv24S4UxqFvJ) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [Flower](https://open.spotify.com/album/4crMQvV6BNVcEu7ei8pnd1) | 3:28 | 2026-02-01 |  |
 | [Flower Tail](https://open.spotify.com/track/7xEGoHycWoyimqDSOwJ5Hv) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [Flower Tail](https://open.spotify.com/album/2HOtDyfnNtr07GNcoeVtBp) | 5:21 | 2023-07-28 | 2023-08-18 |
 | [Flowering](https://open.spotify.com/track/0qhreE12TQ0x669kJDfL3V) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/4f4E2S0S3Zq5XULNKyxvCm) | 4:11 | 2025-03-17 | 2025-05-16 |
 | [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 | 2024-06-05 | 2024-11-07 |
@@ -614,7 +615,7 @@
 | [More](https://open.spotify.com/track/5JUMzqH6U6oO6yKXa0rLZg) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [More](https://open.spotify.com/album/1zvUzhuA4hLQpnl5SL02Sv) | 4:36 | 2022-05-02 | 2022-07-05 |
 | [Mouse](https://open.spotify.com/track/3bFpFHcK5cbg93FyKUTNWs) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Mouse](https://open.spotify.com/album/3BLdWzAtpi6No30f2m1okJ) | 3:58 | 2022-04-12 | 2022-07-28 |
 | [MUNG](https://open.spotify.com/track/746IIP4nhFrFcKXNkqtj2m) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 4:59 | 2022-04-22 | 2022-07-19 |
-| [Mute is Off](https://open.spotify.com/track/6pHBcS2aQTIvUpKB20SJMU) | [INSEONG](https://open.spotify.com/artist/36u2c5kavTRe2iEh0fURyL) | [Crossfade:](https://open.spotify.com/album/1WAZmt7JGy7B1BRqG137cf) | 3:34 | 2026-01-15 |  |
+| [Mute is Off](https://open.spotify.com/track/6pHBcS2aQTIvUpKB20SJMU) | [INSEONG](https://open.spotify.com/artist/36u2c5kavTRe2iEh0fURyL) | [Crossfade:](https://open.spotify.com/album/1WAZmt7JGy7B1BRqG137cf) | 3:34 | 2026-01-15 | 2026-02-02 |
 | [My Christmas Sweet Love](https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:45 | 2024-12-23 | 2025-03-07 |
 | [My day](https://open.spotify.com/track/1NZMPSVekYx3Nn2eztsHgk) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [Won't Forget You](https://open.spotify.com/album/5YAKoVELgEDXMao7RHtft9) | 3:39 | 2022-04-12 | 2022-07-19 |
 | [My Name is Malguem](https://open.spotify.com/track/1lTBkwEm0wim9RsMXqtqWy) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [2nd Mini Album 'Algorithm's Blossom'](https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT) | 3:08 | 2024-09-26 | 2024-12-19 |
@@ -697,7 +698,7 @@
 | [Part\-time heroes](https://open.spotify.com/track/5WOivVOIhosLc6IoIGj3vU) | [The Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [Part\-time heroes](https://open.spotify.com/album/0Ppe27BB0mAYrbNX7JRPnM) | 3:29 | 2022-04-21 | 2022-04-28 |
 | [Parting](https://open.spotify.com/track/6NpJD0Hkm4fbjqwqHRNHJt) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Parting](https://open.spotify.com/album/49M2LTtZI2Fl2M7w1isqAV) | 4:00 | 2022-04-12 | 2022-07-18 |
 | [PARTY](https://open.spotify.com/track/2jtWXVlL3KBa174BjXJi3s) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [PARTY](https://open.spotify.com/album/0kDkTW1381ddDzzjq181Eo) | 3:20 | 2023-06-22 | 2023-07-25 |
-| [PASS](https://open.spotify.com/track/0V32dVXNkIfrRrenhbR0Sz) | [AxMxP](https://open.spotify.com/artist/2XUQUIfzPtEZtkjU0D9y8C) | [Amplify My Way](https://open.spotify.com/album/7IuDZgFQceNCdHLYNUGCZD) | 2:38 | 2026-01-22 |  |
+| [PASS](https://open.spotify.com/track/0V32dVXNkIfrRrenhbR0Sz) | [AxMxP](https://open.spotify.com/artist/2XUQUIfzPtEZtkjU0D9y8C) | [Amplify My Way](https://open.spotify.com/album/7IuDZgFQceNCdHLYNUGCZD) | 2:38 | 2026-01-22 | 2026-02-02 |
 | [Password 486](https://open.spotify.com/track/1KrreL8nKfx44ibk9sd9Cu) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Password 486](https://open.spotify.com/album/6pZdY6TKxDTkk6Ndi3eOt1) | 3:18 | 2022-09-01 | 2022-10-01 |
 | [PDSG](https://open.spotify.com/track/7h64srBKgw9bmocbk3EmGQ) | [April 2nd](https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr) | [PDSG](https://open.spotify.com/album/1Owmn3lrAQzRTMtnlNfhCd) | 4:03 | 2022-05-11 | 2022-06-26 |
 | [Peachy](https://open.spotify.com/track/7m9TTtjVC8QOByp3SKFf6s) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Peachy](https://open.spotify.com/album/5yu53vfvfv6IE6lZ98xViM) | 3:29 | 2025-08-21 | 2025-09-06 |
@@ -885,6 +886,7 @@
 | [Still, a Flower](https://open.spotify.com/track/3ZWkJYkX2MOpe1ptsGH6wo) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Still, a Flower](https://open.spotify.com/album/3N5X7dF6350QVWQUYWX4SV) | 3:43 | 2026-01-02 | 2026-01-15 |
 | [STOP IT](https://open.spotify.com/track/23rtmmIgcIsCEiIPDwxPrd) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [TOP NOTE](https://open.spotify.com/album/3JX0mIUcLLvvaye1HjFINP) | 3:23 | 2025-07-03 | 2025-07-10 |
 | [stuck on you](https://open.spotify.com/track/71mRT3HNtB6KIialwvjnfE) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [stuck on you](https://open.spotify.com/album/1lizyEQ39gw9rjafMyyYZY) | 3:25 | 2022-07-22 | 2022-08-02 |
+| [Sugar](https://open.spotify.com/track/3B0PFLEa5sAcv1eX6g1IFE) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [loop vol\. 1 \- Sugar](https://open.spotify.com/album/4MDyxmsFEznFjPrxOaqC1i) | 3:49 | 2026-02-01 |  |
 | [Summer](https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 4:03 | 2022-05-03 | 2023-10-19 |
 | [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 | 2022-09-05 | 2022-10-01 |
 | [Summer Nostalgia](https://open.spotify.com/track/6AaI8NkeP0Yaw2r2tSg6uv) | [415](https://open.spotify.com/artist/4ZAakh9PB0owkUsmGcYXKh) | [Summer Nostalgia](https://open.spotify.com/album/0xh9ejn2bLP6NUJGkORVkz) | 4:01 | 2022-04-22 | 2022-07-29 |

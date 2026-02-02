@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1219,
+  "num_followers": 1220,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAP6f0FQCYGaTzcOpSxe3M+5B63M6Dd",
+  "snapshot_id": "AAAP7aMxJjfdSerq6jUajYIyqu/FVFb8",
   "tracks": [
     {
       "added_at": "2026-01-15 08:27:53",
@@ -39,6 +39,26 @@
       "duration_ms": 278576,
       "name": "Allora come ti va",
       "url": "https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS"
+    },
+    {
+      "added_at": "2026-02-01 09:03:28",
+      "album": {
+        "name": "Humanimal",
+        "url": "https://open.spotify.com/album/5rFNe5IslSCUsPtuZX1Tsk"
+      },
+      "artists": [
+        {
+          "name": "The Beatroot Road",
+          "url": "https://open.spotify.com/artist/2igBGRo0CgkQaQmR6nrk9b"
+        },
+        {
+          "name": "Ian Putz",
+          "url": "https://open.spotify.com/artist/0jnbutvYP88Rh3eiz7Gbqu"
+        }
+      ],
+      "duration_ms": 325250,
+      "name": "Laugh In The West",
+      "url": "https://open.spotify.com/track/43aVP7siaAfqPsgzKLGn0N"
     },
     {
       "added_at": "2026-01-23 14:26:56",
@@ -2823,6 +2843,58 @@
       "duration_ms": 180618,
       "name": "Polaroid Heartbeats",
       "url": "https://open.spotify.com/track/7rZfePcbPcwUNup9K5UL0K"
+    },
+    {
+      "added_at": "2026-02-01 12:28:46",
+      "album": {
+        "name": "Closer than the sky",
+        "url": "https://open.spotify.com/album/7k6BcY2jbUrVOhWF4E2ltd"
+      },
+      "artists": [
+        {
+          "name": "ChrisGCol",
+          "url": "https://open.spotify.com/artist/0w5xIHnOStrQPWy6BNWIFL"
+        },
+        {
+          "name": "Paula B",
+          "url": "https://open.spotify.com/artist/6Ir0G4hBaP4gT5Y2ritrnx"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Closer than the sky",
+      "url": "https://open.spotify.com/track/3yeC1HoVGJxk5KGAX4595T"
+    },
+    {
+      "added_at": "2026-02-01 12:28:56",
+      "album": {
+        "name": "Feel the night",
+        "url": "https://open.spotify.com/album/5s1ETma0NHObW9iNgddC5a"
+      },
+      "artists": [
+        {
+          "name": "Kryhos",
+          "url": "https://open.spotify.com/artist/4aqG8I79UujSmRHe7yphiW"
+        }
+      ],
+      "duration_ms": 145605,
+      "name": "Feel the night",
+      "url": "https://open.spotify.com/track/7p5t5QpJDkczSCaZMXxLdX"
+    },
+    {
+      "added_at": "2026-02-01 12:29:27",
+      "album": {
+        "name": "marble shoes",
+        "url": "https://open.spotify.com/album/0RJiDVWDcsFD1VKbAVQBAk"
+      },
+      "artists": [
+        {
+          "name": "Gramcav\u00eb",
+          "url": "https://open.spotify.com/artist/41TTKZTHkulLFW5MKJh4uV"
+        }
+      ],
+      "duration_ms": 276599,
+      "name": "marble shoes",
+      "url": "https://open.spotify.com/track/66zv7ZK5PG5eInCqvQEkdg"
     }
   ],
   "unique_name": "New Indie Music",

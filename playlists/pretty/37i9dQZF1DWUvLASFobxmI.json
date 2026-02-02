@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Duelo en portada.",
-  "num_followers": 525879,
+  "num_followers": 525916,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
-        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 286218,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "Dos Minutos",
         "url": "https://open.spotify.com/album/5zt9q5RpzmAyOPWjdcCHcY"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 200631,
       "name": "AMOR - Remix",
       "url": "https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
+        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 286218,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "Gracias Por Estar Aqu\u00ed Vol. 4",
-        "url": "https://open.spotify.com/album/1SMWGZmsySxBLIDRb1eQ4u"
-      },
-      "artists": [
-        {
-          "name": "La Novedad Norte\u00f1a de Israel Leyva",
-          "url": "https://open.spotify.com/artist/3QtJuj3Rl1hzwue4LOWPgh"
-        }
-      ],
-      "duration_ms": 188744,
-      "name": "Los Besos No Se Piden",
-      "url": "https://open.spotify.com/track/09PLQwCtRhJRT93pCw73Bg"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "Mis Zapatos",
         "url": "https://open.spotify.com/album/0KHNhi6FluRfYZ1zmk1yiI"
       },
@@ -683,22 +667,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "Vicio y Soledad",
-        "url": "https://open.spotify.com/album/0TWW8RqtpVhujd4fx6DdvB"
-      },
-      "artists": [
-        {
-          "name": "Elias Medina",
-          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
-        }
-      ],
-      "duration_ms": 215792,
-      "name": "Vicio y Soledad",
-      "url": "https://open.spotify.com/track/4NOkqBkyb9ZdBBEaCbOGmj"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "La Competencia",
         "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 209160,
       "name": "La Competencia",
       "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "Gracias Por Estar Aqu\u00ed Vol. 4",
+        "url": "https://open.spotify.com/album/1SMWGZmsySxBLIDRb1eQ4u"
+      },
+      "artists": [
+        {
+          "name": "La Novedad Norte\u00f1a de Israel Leyva",
+          "url": "https://open.spotify.com/artist/3QtJuj3Rl1hzwue4LOWPgh"
+        }
+      ],
+      "duration_ms": 188744,
+      "name": "Los Besos No Se Piden",
+      "url": "https://open.spotify.com/track/09PLQwCtRhJRT93pCw73Bg"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "Vicio y Soledad",
+        "url": "https://open.spotify.com/album/0TWW8RqtpVhujd4fx6DdvB"
+      },
+      "artists": [
+        {
+          "name": "Elias Medina",
+          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+        }
+      ],
+      "duration_ms": 215792,
+      "name": "Vicio y Soledad",
+      "url": "https://open.spotify.com/track/4NOkqBkyb9ZdBBEaCbOGmj"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/5TL4AEsMF5T6TSCGFiOfT1"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
-        }
-      ],
-      "duration_ms": 167402,
-      "name": "Mejor Que Ayer",
-      "url": "https://open.spotify.com/track/77R8HuQqh7F6CI9p2n1UCF"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "Que Viva El Amor",
         "url": "https://open.spotify.com/album/6G0mgUaqGHcBzAoZZVj6r8"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "PASAJES",
-        "url": "https://open.spotify.com/album/0C3Z053f7M8rXDTvP4VHiE"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/5TL4AEsMF5T6TSCGFiOfT1"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
         }
       ],
-      "duration_ms": 175503,
-      "name": "No Te Entra El Hacha",
-      "url": "https://open.spotify.com/track/72TAzFA9XMbpEuzynFbyMt"
+      "duration_ms": 167402,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/77R8HuQqh7F6CI9p2n1UCF"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -875,6 +859,22 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
+        "name": "PASAJES",
+        "url": "https://open.spotify.com/album/0C3Z053f7M8rXDTvP4VHiE"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 175503,
+      "name": "No Te Entra El Hacha",
+      "url": "https://open.spotify.com/track/72TAzFA9XMbpEuzynFbyMt"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
         "name": "De Ma\u00f1ana en 8 D\u00edas",
         "url": "https://open.spotify.com/album/2HDQE114T4dR6LCae6NxjQ"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "Las Que M\u00e1s Nos Gustan",
-        "url": "https://open.spotify.com/album/2FQeIReMdopM98YBPPyPO7"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Derecho De Antig\u00fcedad",
-      "url": "https://open.spotify.com/track/2udeOpUteFLPbLqLSR2gZh"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "\u00bfCon Qu\u00e9 Coraz\u00f3n?",
         "url": "https://open.spotify.com/album/2rkBvFtZtiTUkRQq1DMVs3"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 191365,
       "name": "\u00bfCon Qu\u00e9 Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/7EPqGwFErwo8Phwt1U9P9v"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "Las Que M\u00e1s Nos Gustan",
+        "url": "https://open.spotify.com/album/2FQeIReMdopM98YBPPyPO7"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Derecho De Antig\u00fcedad",
+      "url": "https://open.spotify.com/track/2udeOpUteFLPbLqLSR2gZh"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
+        "name": "En Vivo FP Vol. 2",
+        "url": "https://open.spotify.com/album/3xvFTJbJlanrnNTNfjctZj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aficion",
+          "url": "https://open.spotify.com/artist/49weauk9NAWsBV2o3icbdM"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Tus Palabras",
+      "url": "https://open.spotify.com/track/73UxSb6sM0SdvdhGQPM6wZ"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
         "name": "BB PA DONDE",
         "url": "https://open.spotify.com/album/6Bwj69yLgbNqzDJgIhKBNR"
       },
@@ -1003,6 +1019,22 @@
       "duration_ms": 168021,
       "name": "BB PA DONDE",
       "url": "https://open.spotify.com/track/65pDDQOeXOR5QUM9GEWaNM"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "A Bailar Huapangos Vol.2",
+        "url": "https://open.spotify.com/album/3BrcMSYrYGMrnhFlb4wImF"
+      },
+      "artists": [
+        {
+          "name": "Los Igualados",
+          "url": "https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB"
+        }
+      ],
+      "duration_ms": 169484,
+      "name": "El Cascabel",
+      "url": "https://open.spotify.com/track/2QYc8Rh7ogygZK77usef00"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -1023,38 +1055,6 @@
       "duration_ms": 193015,
       "name": "Mi Potra",
       "url": "https://open.spotify.com/track/2fwihVz6TlJkSn6CKfx1SF"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
-        "name": "En Vivo FP Vol. 2",
-        "url": "https://open.spotify.com/album/3xvFTJbJlanrnNTNfjctZj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aficion",
-          "url": "https://open.spotify.com/artist/49weauk9NAWsBV2o3icbdM"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Tus Palabras",
-      "url": "https://open.spotify.com/track/73UxSb6sM0SdvdhGQPM6wZ"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
-        "name": "A Bailar Huapangos Vol.2",
-        "url": "https://open.spotify.com/album/3BrcMSYrYGMrnhFlb4wImF"
-      },
-      "artists": [
-        {
-          "name": "Los Igualados",
-          "url": "https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB"
-        }
-      ],
-      "duration_ms": 169484,
-      "name": "El Cascabel",
-      "url": "https://open.spotify.com/track/2QYc8Rh7ogygZK77usef00"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "Algo Para Siempre",
-        "url": "https://open.spotify.com/album/0XQsWCJWTWconBMYIirUrL"
-      },
-      "artists": [
-        {
-          "name": "Destino",
-          "url": "https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ"
-        }
-      ],
-      "duration_ms": 152088,
-      "name": "Algo Para Siempre",
-      "url": "https://open.spotify.com/track/2n3dABKKWhOCNcLIjTY4Vn"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "Borrachera Fito Shyruka (En Vivo)",
         "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 186133,
       "name": "Las Calles Enlodadas (En Vivo)",
       "url": "https://open.spotify.com/track/6isXA21iRtiZ2aIRAJXAdj"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "Algo Para Siempre",
+        "url": "https://open.spotify.com/album/0XQsWCJWTWconBMYIirUrL"
+      },
+      "artists": [
+        {
+          "name": "Destino",
+          "url": "https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ"
+        }
+      ],
+      "duration_ms": 152088,
+      "name": "Algo Para Siempre",
+      "url": "https://open.spotify.com/track/2n3dABKKWhOCNcLIjTY4Vn"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "Made In Texas",
-        "url": "https://open.spotify.com/album/4gjs9M8BZw9tcM0oj7BHGD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Delta Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG"
-        }
-      ],
-      "duration_ms": 149949,
-      "name": "Mi Credo",
-      "url": "https://open.spotify.com/track/4cVtEr63oDSHlkxSTqdCwv"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "Tu Clavo",
         "url": "https://open.spotify.com/album/6DRYfEbBa7Fouauh2HxGuf"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 182399,
       "name": "Tu Clavo",
       "url": "https://open.spotify.com/track/117epVqgLmBxScEqVRBoCh"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "Made In Texas",
+        "url": "https://open.spotify.com/album/4gjs9M8BZw9tcM0oj7BHGD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Delta Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG"
+        }
+      ],
+      "duration_ms": 149949,
+      "name": "Mi Credo",
+      "url": "https://open.spotify.com/track/4cVtEr63oDSHlkxSTqdCwv"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
+        "name": "A Donde Vayas (En vivo, Auditorio Pabell\u00f3n M, 2023, Monterrey, N.L)",
+        "url": "https://open.spotify.com/album/1VWezWQmRnGYdZhhDpES5G"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        },
+        {
+          "name": "Salom\u00f3n Robles Y Sus Legendarios",
+          "url": "https://open.spotify.com/artist/24ZxliaPEOn2Ya3tfRD4w8"
+        }
+      ],
+      "duration_ms": 222922,
+      "name": "A Donde Vayas - En vivo, Auditorio Pabell\u00f3n M, 2023, Monterrey, N.L",
+      "url": "https://open.spotify.com/track/7oktF34XozdYCDoaEbz6Jx"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
         "name": "100/10",
         "url": "https://open.spotify.com/album/3owezghBiQRQwhrsdOGeAu"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 172199,
       "name": "100/10",
       "url": "https://open.spotify.com/track/6UdmwjsufsakKJF70vYZQe"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
-        "name": "A Donde Vayas (En vivo, Auditorio Pabell\u00f3n M, 2023, Monterrey, N.L)",
-        "url": "https://open.spotify.com/album/1VWezWQmRnGYdZhhDpES5G"
-      },
-      "artists": [
-        {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
-        },
-        {
-          "name": "Salom\u00f3n Robles Y Sus Legendarios",
-          "url": "https://open.spotify.com/artist/24ZxliaPEOn2Ya3tfRD4w8"
-        }
-      ],
-      "duration_ms": 222922,
-      "name": "A Donde Vayas - En vivo, Auditorio Pabell\u00f3n M, 2023, Monterrey, N.L",
-      "url": "https://open.spotify.com/track/7oktF34XozdYCDoaEbz6Jx"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER (EN VIVO)",
-        "url": "https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w"
-      },
-      "artists": [
-        {
-          "name": "Liz Ocampo",
-          "url": "https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx"
-        }
-      ],
-      "duration_ms": 233898,
-      "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
-      "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "A Que Si Te Acuerdas",
         "url": "https://open.spotify.com/album/20M8RGNubRywb3xTTGDbI3"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 246647,
       "name": "A Que Si Te Acuerdas",
       "url": "https://open.spotify.com/track/6cnQxQqmPIXoNtNoe9O0gV"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER (EN VIVO)",
+        "url": "https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w"
+      },
+      "artists": [
+        {
+          "name": "Liz Ocampo",
+          "url": "https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx"
+        }
+      ],
+      "duration_ms": 233898,
+      "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
+      "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
     },
     {
       "added_at": "2026-01-23 06:00:06",

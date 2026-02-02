@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Guilherme Arantes",
-  "num_followers": 355447,
+  "num_followers": 355454,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2026-01-30 13:00:31",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Bruna Marquezine",
-          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
-        }
-      ],
-      "duration_ms": 297233,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
-    },
-    {
-      "added_at": "2026-01-30 13:00:31",
-      "album": {
         "name": "Algo Me Diz (Acusticamente)",
         "url": "https://open.spotify.com/album/6kYYHDpVNwqkbOyQb0MHPx"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 245612,
       "name": "Troco Tudo",
       "url": "https://open.spotify.com/track/3vT0bYuBxPIbZxfqKTvHsh"
+    },
+    {
+      "added_at": "2026-01-30 13:00:31",
+      "album": {
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Bruna Marquezine",
+          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
+        }
+      ],
+      "duration_ms": 297233,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
     },
     {
       "added_at": "2026-01-30 13:00:31",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-01-30 13:00:31",
       "album": {
+        "name": "A \u00daltima M\u00fasica (Acusticamente)",
+        "url": "https://open.spotify.com/album/7N0Z8ZWAFG0EAs5ibqkHEl"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 228778,
+      "name": "A \u00daltima M\u00fasica (Acusticamente)",
+      "url": "https://open.spotify.com/track/25CV9bt3BGAFxaMLsOPgCb"
+    },
+    {
+      "added_at": "2026-01-30 13:00:31",
+      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 274304,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
-    },
-    {
-      "added_at": "2026-01-30 13:00:31",
-      "album": {
-        "name": "A \u00daltima M\u00fasica (Acusticamente)",
-        "url": "https://open.spotify.com/album/7N0Z8ZWAFG0EAs5ibqkHEl"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 228778,
-      "name": "A \u00daltima M\u00fasica (Acusticamente)",
-      "url": "https://open.spotify.com/track/25CV9bt3BGAFxaMLsOPgCb"
     },
     {
       "added_at": "2026-01-30 13:00:31",
@@ -559,8 +559,8 @@
     {
       "added_at": "2026-01-30 13:00:31",
       "album": {
-        "name": "Nosso Timing",
-        "url": "https://open.spotify.com/album/2M2BZctZ73o33TlQG6rsIN"
+        "name": "JV30 Tour Deluxe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7tzWjnm1GsPT4xCpSOShKk"
       },
       "artists": [
         {
@@ -568,29 +568,29 @@
           "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         },
         {
-          "name": "Paulo Fa\u00e7anha",
-          "url": "https://open.spotify.com/artist/1z7zILZNZUoNbWG2rk0iLU"
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 178142,
-      "name": "Nosso Timing",
-      "url": "https://open.spotify.com/track/2fWVWn1p7lSgJVQjbrH49x"
+      "duration_ms": 342150,
+      "name": "Ela Une Todas as Coisas - Ao Vivo",
+      "url": "https://open.spotify.com/track/6U9PvzASkq37hBMZrDOzbE"
     },
     {
       "added_at": "2026-01-30 13:00:31",
       "album": {
-        "name": "Vila do Sossego",
-        "url": "https://open.spotify.com/album/5xQJOjRkhtFXfmOo8KoeGR"
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/05vHoRRovirQAL58SCHNBZ"
       },
       "artists": [
         {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         }
       ],
-      "duration_ms": 249798,
-      "name": "Vila do Sossego",
-      "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
+      "duration_ms": 265166,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/39wmwAYmZBUiH6uZmXcKoz"
     },
     {
       "added_at": "2026-01-30 13:00:31",
@@ -615,18 +615,18 @@
     {
       "added_at": "2026-01-30 13:00:31",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/05vHoRRovirQAL58SCHNBZ"
+        "name": "Vila do Sossego",
+        "url": "https://open.spotify.com/album/5xQJOjRkhtFXfmOo8KoeGR"
       },
       "artists": [
         {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
         }
       ],
-      "duration_ms": 265166,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/39wmwAYmZBUiH6uZmXcKoz"
+      "duration_ms": 249798,
+      "name": "Vila do Sossego",
+      "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
     },
     {
       "added_at": "2026-01-30 13:00:31",
@@ -655,8 +655,8 @@
     {
       "added_at": "2026-01-30 13:00:31",
       "album": {
-        "name": "JV30 Tour Deluxe (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7tzWjnm1GsPT4xCpSOShKk"
+        "name": "Nosso Timing",
+        "url": "https://open.spotify.com/album/2M2BZctZ73o33TlQG6rsIN"
       },
       "artists": [
         {
@@ -664,13 +664,13 @@
           "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         },
         {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          "name": "Paulo Fa\u00e7anha",
+          "url": "https://open.spotify.com/artist/1z7zILZNZUoNbWG2rk0iLU"
         }
       ],
-      "duration_ms": 342150,
-      "name": "Ela Une Todas as Coisas - Ao Vivo",
-      "url": "https://open.spotify.com/track/6U9PvzASkq37hBMZrDOzbE"
+      "duration_ms": 178142,
+      "name": "Nosso Timing",
+      "url": "https://open.spotify.com/track/2fWVWn1p7lSgJVQjbrH49x"
     },
     {
       "added_at": "2026-01-30 13:00:31",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-01-30 13:00:31",
       "album": {
-        "name": "Beleza",
-        "url": "https://open.spotify.com/album/5cntHecIHsUxVDDPUjFrhg"
-      },
-      "artists": [
-        {
-          "name": "Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/6arRXoJBfebp5a9VKlEATa"
-        },
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        }
-      ],
-      "duration_ms": 271285,
-      "name": "Beleza",
-      "url": "https://open.spotify.com/track/6fNO8kUQv98XLDmIiopTwd"
-    },
-    {
-      "added_at": "2026-01-30 13:00:31",
-      "album": {
         "name": "Faltando Um Peda\u00e7o",
         "url": "https://open.spotify.com/album/1pwgOhve84CrLFnLr1WN7t"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 230718,
       "name": "Faltando Um Peda\u00e7o",
       "url": "https://open.spotify.com/track/5Yfrg3OFRagnGydac8xfqD"
+    },
+    {
+      "added_at": "2026-01-30 13:00:31",
+      "album": {
+        "name": "Beleza",
+        "url": "https://open.spotify.com/album/5cntHecIHsUxVDDPUjFrhg"
+      },
+      "artists": [
+        {
+          "name": "Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/6arRXoJBfebp5a9VKlEATa"
+        },
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        }
+      ],
+      "duration_ms": 271285,
+      "name": "Beleza",
+      "url": "https://open.spotify.com/track/6fNO8kUQv98XLDmIiopTwd"
     },
     {
       "added_at": "2026-01-30 13:00:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-01-30 13:00:31",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 437313,
-      "name": "VELUDO MARROM",
-      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
-    },
-    {
-      "added_at": "2026-01-30 13:00:31",
-      "album": {
         "name": "For\u00e7a Estranha",
         "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
       },
@@ -923,6 +907,38 @@
       "duration_ms": 239873,
       "name": "Umami",
       "url": "https://open.spotify.com/track/3r32wc9pcsAvekdnTuuJHI"
+    },
+    {
+      "added_at": "2026-01-30 13:00:31",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 437313,
+      "name": "VELUDO MARROM",
+      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
+    },
+    {
+      "added_at": "2026-01-30 13:00:31",
+      "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-01-30 13:00:31",
@@ -1055,22 +1071,6 @@
       "duration_ms": 213377,
       "name": "Bananeira",
       "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
-    },
-    {
-      "added_at": "2026-01-30 13:00:31",
-      "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-01-30 13:00:31",
@@ -1335,6 +1335,30 @@
     {
       "added_at": "2026-01-30 13:00:31",
       "album": {
+        "name": "Mandinga",
+        "url": "https://open.spotify.com/album/4guK13IUP7UcWIneUgqbt3"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        },
+        {
+          "name": "L\u00e9o da Bodega",
+          "url": "https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Mandinga",
+      "url": "https://open.spotify.com/track/3jEit8uxHNRvDwhHdMSE3H"
+    },
+    {
+      "added_at": "2026-01-30 13:00:31",
+      "album": {
         "name": "50 (Ao Vivo)",
         "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
       },
@@ -1363,6 +1387,26 @@
       "duration_ms": 247847,
       "name": "Onde Deus possa me ouvir - Ao vivo",
       "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
+    },
+    {
+      "added_at": "2026-01-30 13:00:31",
+      "album": {
+        "name": "O Que Ser\u00e1 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/36JVIS8Kb5kD2tcXHTHSvg"
+      },
+      "artists": [
+        {
+          "name": "Rafa Castro",
+          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
+        },
+        {
+          "name": "T\u00f3 Brandileone",
+          "url": "https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "O Que Ser\u00e1 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/45bFBXL8loxclYoIhCtpWG"
     },
     {
       "added_at": "2026-01-30 13:00:31",
@@ -1443,6 +1487,22 @@
     {
       "added_at": "2026-01-30 13:00:31",
       "album": {
+        "name": "Sonhando o Futuro",
+        "url": "https://open.spotify.com/album/3zMVuA9xdKA7KKaqy1crSy"
+      },
+      "artists": [
+        {
+          "name": "14 Bis",
+          "url": "https://open.spotify.com/artist/4cz8toptnAtxffn7ghNjyp"
+        }
+      ],
+      "duration_ms": 261043,
+      "name": "Sonhando o Futuro",
+      "url": "https://open.spotify.com/track/351MxF9HAAqxb33O6SCiRl"
+    },
+    {
+      "added_at": "2026-01-30 13:00:31",
+      "album": {
         "name": "Desculpe o Au\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/70ayyaP7jxqFfpvOvbtxqK"
       },
@@ -1483,22 +1543,6 @@
     {
       "added_at": "2026-01-30 13:00:31",
       "album": {
-        "name": "Sonhando o Futuro",
-        "url": "https://open.spotify.com/album/3zMVuA9xdKA7KKaqy1crSy"
-      },
-      "artists": [
-        {
-          "name": "14 Bis",
-          "url": "https://open.spotify.com/artist/4cz8toptnAtxffn7ghNjyp"
-        }
-      ],
-      "duration_ms": 261043,
-      "name": "Sonhando o Futuro",
-      "url": "https://open.spotify.com/track/351MxF9HAAqxb33O6SCiRl"
-    },
-    {
-      "added_at": "2026-01-30 13:00:31",
-      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
@@ -1515,50 +1559,6 @@
       "duration_ms": 311811,
       "name": "Abre Alas",
       "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
-    },
-    {
-      "added_at": "2026-01-30 13:00:31",
-      "album": {
-        "name": "Mandinga",
-        "url": "https://open.spotify.com/album/4guK13IUP7UcWIneUgqbt3"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        },
-        {
-          "name": "L\u00e9o da Bodega",
-          "url": "https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Mandinga",
-      "url": "https://open.spotify.com/track/3jEit8uxHNRvDwhHdMSE3H"
-    },
-    {
-      "added_at": "2026-01-30 13:00:31",
-      "album": {
-        "name": "Cartas de Amor - Vol 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kdArHM1ssoWk6mNKsgP9Z"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        },
-        {
-          "name": "Bona",
-          "url": "https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV"
-        }
-      ],
-      "duration_ms": 169668,
-      "name": "A Noite do Meu Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/3kwREOYVZ8vbrwKHkQJeoh"
     },
     {
       "added_at": "2026-01-30 13:00:31",
@@ -1603,22 +1603,22 @@
     {
       "added_at": "2026-01-30 13:00:31",
       "album": {
-        "name": "O Que Ser\u00e1 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/36JVIS8Kb5kD2tcXHTHSvg"
+        "name": "Cartas de Amor - Vol 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kdArHM1ssoWk6mNKsgP9Z"
       },
       "artists": [
         {
-          "name": "Rafa Castro",
-          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
         },
         {
-          "name": "T\u00f3 Brandileone",
-          "url": "https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA"
+          "name": "Bona",
+          "url": "https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV"
         }
       ],
-      "duration_ms": 213818,
-      "name": "O Que Ser\u00e1 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/45bFBXL8loxclYoIhCtpWG"
+      "duration_ms": 169668,
+      "name": "A Noite do Meu Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/3kwREOYVZ8vbrwKHkQJeoh"
     },
     {
       "added_at": "2026-01-30 13:00:31",

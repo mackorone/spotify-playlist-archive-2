@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 62801,
+  "num_followers": 62811,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXv0gAAAAAC8Qt1euGzJuP+2IWS+ImLJ",
+  "snapshot_id": "aX1GAAAAAAAwAQ8FZkJAidmKV+7ojDNS",
   "tracks": [
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey De Los Paquetes",
-        "url": "https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc"
-      },
-      "artists": [
-        {
-          "name": "Los De La 9",
-          "url": "https://open.spotify.com/artist/3jTankh0q4rncxU4i22Bow"
-        },
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 122212,
-      "name": "El Rey de Los Paquetes",
-      "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proyecto A",
         "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
       },
@@ -839,22 +819,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Equipados",
-        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
+        "name": "El Rey De Los Paquetes",
+        "url": "https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+          "name": "Los De La 9",
+          "url": "https://open.spotify.com/artist/3jTankh0q4rncxU4i22Bow"
         },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 170461,
-      "name": "Bien Equipados",
-      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
+      "duration_ms": 122212,
+      "name": "El Rey de Los Paquetes",
+      "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 190544,
+      "name": "Porte Fino - En Vivo",
+      "url": "https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik"
     },
     {
       "added_at": null,
@@ -875,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+        "name": "Bien Equipados",
+        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
       },
       "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 190544,
-      "name": "Porte Fino - En Vivo",
-      "url": "https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik"
+      "duration_ms": 170461,
+      "name": "Bien Equipados",
+      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
     }
   ],
   "unique_name": "This Is Grupo Los de la O",

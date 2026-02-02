@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,850 likes - 40 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,849 likes - 40 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 | 39 | [冷戰](https://open.spotify.com/track/4fq1wnzohJvzP1yhx5kQQw) | [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [做舊](https://open.spotify.com/album/3MBFGMhVo9a0nlXbH9CONV) | 3:43 |
 | 40 | [雨蝶](https://open.spotify.com/track/4PLVAN7d2k4brMHmFTjKRa) | [E\-Jun Lee](https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI) | [誓言謊言](https://open.spotify.com/album/1kTSEPqCFKUYDrk18OlCDo) | 3:50 |
 
-Snapshot ID: `AAAAANCB9/Cs/rI0Odu3gihGf1i29BkO`
+Snapshot ID: `AAAAAKvFO1aY7GIw6mL/4yCBQaGLY4uN`

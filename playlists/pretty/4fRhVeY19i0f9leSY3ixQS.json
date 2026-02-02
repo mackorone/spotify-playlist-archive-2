@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1193,
+  "num_followers": 1192,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAKlHNKpasM7zLYNkLuaRUXYdzQbKFQ",
+  "snapshot_id": "AAAKlt9tqsoMSiyBzCjJP758WZ0aNloo",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -39,6 +39,22 @@
       "duration_ms": 333031,
       "name": "Echo Chambers",
       "url": "https://open.spotify.com/track/0QPdGdupsEmBguX9QSOQYA"
+    },
+    {
+      "added_at": "2026-02-02 01:53:47",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/23kUkSGjqtrFhTfTj2reSv"
+      },
+      "artists": [
+        {
+          "name": "Parched",
+          "url": "https://open.spotify.com/artist/6bruCOXoELcqPEXSll0bBN"
+        }
+      ],
+      "duration_ms": 185975,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/3pXKQhZErohG9N1fFVMZcz"
     },
     {
       "added_at": "2026-01-31 02:13:42",
@@ -1323,22 +1339,6 @@
       "duration_ms": 231529,
       "name": "Losing Game (Impending)",
       "url": "https://open.spotify.com/track/3KZ98CEfZ0uun5Iq1TDBj9"
-    },
-    {
-      "added_at": "2026-01-01 09:47:53",
-      "album": {
-        "name": "First Day Of School",
-        "url": "https://open.spotify.com/album/7dwebyySi3YeXuzVaEOSmq"
-      },
-      "artists": [
-        {
-          "name": "Victories",
-          "url": "https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA"
-        }
-      ],
-      "duration_ms": 213658,
-      "name": "First Day Of School",
-      "url": "https://open.spotify.com/track/6BNC6rSgDvGlyzsIPJmTER"
     },
     {
       "added_at": "2025-11-20 11:02:56",

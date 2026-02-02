@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Lisandro Meza
 
-375 songs - 22 hr 46 min
+376 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Feliz Nochebuena](https://open.spotify.com/track/4uC2MaLgcwhU0Hvi4wgcOY) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Historia Músical \- 40 Éxitos Inolvidables](https://open.spotify.com/album/2qqjxauiRKYCTksiZnp2ZF) | 3:13 | 2025-09-09 | 2025-10-04 |
 | [Festival En Guarare](https://open.spotify.com/track/0J3WJy4IGIaGcfWR85xv2g) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [30 Mejores](https://open.spotify.com/album/0IjPHQGoyrniScZYyYfWtE) | 2:58 | 2023-11-09 | 2023-12-14 |
 | [Festival en Guararé](https://open.spotify.com/track/5cOI16GNvBOmfgbuKV7kg2) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A), [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [Mis Mejores Éxitos](https://open.spotify.com/album/3mXNuSz9Z5piZOVIHsfB4D) | 3:07 | 2025-09-09 | 2025-10-04 |
+| [Festival Vallenato](https://open.spotify.com/track/6i4R9dZBaldVry3dJ3zey4) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon) | [A Pulir la Hebilla](https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q) | 3:26 | 2025-12-17 |  |
 | [Fiesta de Mi Pueblo](https://open.spotify.com/track/0WXMlNme92zpMKnORbFqcX) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [A Mover el Esqueleto Con 3 Grandes](https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy) | 1:43 | 2025-12-17 |  |
 | [Golpe Con Golpe](https://open.spotify.com/track/62ebrScTyZO1d93HVmHvnb) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Historia Musical de Pastor López](https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf) | 3:33 | 2024-09-01 | 2025-11-16 |
 | [Golpe Con Golpe](https://open.spotify.com/track/7lG5rKK7defs3wLH3A1wtd) | [Pastor López](https://open.spotify.com/artist/5eHNeUjS4GogffJdQ1vVN5) | [Recordando a Pastor Lopez](https://open.spotify.com/album/5tmSVevQNFdbxFKTFOHWAk) | 3:30 | 2025-09-09 | 2025-10-04 |
@@ -249,7 +250,7 @@
 | [Mi Gran Secreto](https://open.spotify.com/track/1w7HjjEcAgbB4BF5haaPvn) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 2:48 | 2023-02-03 | 2024-09-02 |
 | [Mi Mala Estrella](https://open.spotify.com/track/7K4HVrNssRcLSvNQ6INDRw) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Triunfadores de la Música Popular](https://open.spotify.com/album/4Otd9SzYETagXLSF9mXmxS) | 2:40 | 2023-02-03 | 2024-09-02 |
 | [Mi Pasión Recordarás](https://open.spotify.com/track/3LzZdhGJiHamzWOlMlQEPD) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [Grandes Éxitos de Luis Alberto Posada con los Inolvidables de Apia](https://open.spotify.com/album/2xw9PAGdFfEwfjmHzarbzv) | 3:25 | 2023-02-03 | 2024-09-02 |
-| [Micaela](https://open.spotify.com/track/1S76g6wBx7YGlO6XEFTG8L) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Harold](https://open.spotify.com/artist/4R5fxip31MUAZnwwSgdlmI) | [Salsa Pa Bacanes](https://open.spotify.com/album/7K6HRnSQFKGbFTtct2wFFu) | 4:53 | 2023-12-20 |  |
+| [Micaela](https://open.spotify.com/track/1S76g6wBx7YGlO6XEFTG8L) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Harold](https://open.spotify.com/artist/4R5fxip31MUAZnwwSgdlmI) | [Salsa Pa Bacanes](https://open.spotify.com/album/7K6HRnSQFKGbFTtct2wFFu) | 4:53 | 2023-12-20 | 2026-02-02 |
 | [Mil Horas](https://open.spotify.com/track/0wzg9y3e8tuk0vjpqgDVM8) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Colección Oro la Sonora Dinamita \(Vol\. 7\)](https://open.spotify.com/album/5j7AAPdbkCludx1GoWeX5m) | 3:46 | 2024-09-01 |  |
 | [Mosaico de Cumbias \- La Pollera Colorá / Se Vá el Caimán / Santander de Batunga / Quiero Amanecer / 777 Días / Si Tuviera Plata Iría a Mar de Plata / La Múcura / Santa Marta / La Casa Está Sola / Adios, Adios Corazón](https://open.spotify.com/track/54eQG8ZLvbbgAZ8NSUqlUA) | [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87) | [Para Bailar y Bailar con El Cuarteto Imperial](https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd) | 7:15 | 2025-11-20 |  |
 | [Mosaico de Merengues \- Rio Manzanares / La Lora / Hace un Mes / La Cinta Verde / El Perico / Se Enamoró de Manuel / El Pájaro Amarillo / El Gavilán](https://open.spotify.com/track/71boEve6Xf0iiORrgVkwiP) | [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87) | [Para Bailar y Bailar con El Cuarteto Imperial](https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd) | 7:59 | 2023-12-20 |  |

@@ -2650,11 +2650,35 @@
         {
           "name": "Grupo Danson",
           "url": "https://open.spotify.com/artist/3jDjCkIGthiTkbp7uWMe8R"
+        },
+        {
+          "name": "Carlos Liban P\u00e9rez Alfonso",
+          "url": "https://open.spotify.com/artist/3KtZLqXNVnn3C2JrZRZrQU"
+        },
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Mia Birch Engsager",
+          "url": "https://open.spotify.com/artist/6fAiZkXRxsbL2YFw950dfl"
+        },
+        {
+          "name": "Ernesto Manuitt Hernandez",
+          "url": "https://open.spotify.com/artist/6shQLDgamKRDLKkysy9C5C"
+        },
+        {
+          "name": "Yasser Pino",
+          "url": "https://open.spotify.com/artist/3yjnZbbWh736wux5a6jsH4"
+        },
+        {
+          "name": "Rune Thorsteinsson",
+          "url": "https://open.spotify.com/artist/5xTi9OwHU2G7iNL1860DiS"
         }
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 368850,
       "name": "Mi M\u00fasica",
       "url": "https://open.spotify.com/track/16WC29An2oh5cLWveO9HpD"
@@ -2784,7 +2808,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 226000,
       "name": "Olvida Que Te Olvide",
       "url": "https://open.spotify.com/track/7f9kaG29f9CfyIwHpNJGOH"
@@ -2936,7 +2960,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 265639,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK"
@@ -4362,7 +4386,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 324493,
       "name": "\u00a1Ay! Ay Amor",
       "url": "https://open.spotify.com/track/5FxtsZEiJqNn9mCl4lAJKp"

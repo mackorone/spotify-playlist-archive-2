@@ -1,6 +1,6 @@
 {
   "description": "gostosinho n\u00e9?",
-  "num_followers": 605526,
+  "num_followers": 605467,
   "original_name": "Manh\u00e3 de Natal",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,18 @@
     {
       "added_at": "2025-12-05 19:44:48",
       "album": {
-        "name": "deixa fluir",
-        "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
+        "name": "Coisas Naturais",
+        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
       },
       "artists": [
         {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 171907,
-      "name": "deixa fluir",
-      "url": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw"
+      "duration_ms": 173198,
+      "name": "Sem Lei",
+      "url": "https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6"
     },
     {
       "added_at": "2025-12-05 19:44:48",
@@ -351,18 +347,22 @@
     {
       "added_at": "2025-12-05 19:44:48",
       "album": {
-        "name": "Coisas Naturais",
-        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
+        "name": "deixa fluir",
+        "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         }
       ],
-      "duration_ms": 173198,
-      "name": "Sem Lei",
-      "url": "https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6"
+      "duration_ms": 171907,
+      "name": "deixa fluir",
+      "url": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw"
     },
     {
       "added_at": "2025-12-05 19:44:48",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-12-05 19:44:48",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2025-12-05 19:44:48",
-      "album": {
         "name": "Banda do Mar",
         "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 221693,
       "name": "Dia Clarear",
       "url": "https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx"
+    },
+    {
+      "added_at": "2025-12-05 19:44:48",
+      "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2025-12-05 19:44:48",
@@ -847,6 +847,38 @@
     {
       "added_at": "2025-12-05 19:44:48",
       "album": {
+        "name": "Mundan\u00e7a",
+        "url": "https://open.spotify.com/album/3JWFKWdDalc9xBfekjsk2o"
+      },
+      "artists": [
+        {
+          "name": "Marina Aquino",
+          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "Mundan\u00e7a",
+      "url": "https://open.spotify.com/track/6pZhsDgyThgdww4vNQpov5"
+    },
+    {
+      "added_at": "2025-12-05 19:44:48",
+      "album": {
+        "name": "Aqui, Ali, Em Qualquer Lugar",
+        "url": "https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/5dIZa3pwSn1vDenZpSBEFO"
+    },
+    {
+      "added_at": "2025-12-05 19:44:48",
+      "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
@@ -875,22 +907,6 @@
     {
       "added_at": "2025-12-05 19:44:48",
       "album": {
-        "name": "Mundan\u00e7a",
-        "url": "https://open.spotify.com/album/3JWFKWdDalc9xBfekjsk2o"
-      },
-      "artists": [
-        {
-          "name": "Marina Aquino",
-          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Mundan\u00e7a",
-      "url": "https://open.spotify.com/track/6pZhsDgyThgdww4vNQpov5"
-    },
-    {
-      "added_at": "2025-12-05 19:44:48",
-      "album": {
         "name": "Deixa Vir Do Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 204007,
       "name": "Outono",
       "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
-    },
-    {
-      "added_at": "2025-12-05 19:44:48",
-      "album": {
-        "name": "Aqui, Ali, Em Qualquer Lugar",
-        "url": "https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/5dIZa3pwSn1vDenZpSBEFO"
     },
     {
       "added_at": "2025-12-05 19:44:48",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-12-05 19:44:48",
       "album": {
+        "name": "Moska Apresenta Zoombido: Mart'n\u00e1lia",
+        "url": "https://open.spotify.com/album/61iI1h0ZvmKVjJOE3siQhn"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Benditas",
+      "url": "https://open.spotify.com/track/0QzxEXZTx8Ygqhl3yDhvaA"
+    },
+    {
+      "added_at": "2025-12-05 19:44:48",
+      "album": {
         "name": "JV30 Tour, Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 231017,
       "name": "Banho de Folhas",
       "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
-    },
-    {
-      "added_at": "2025-12-05 19:44:48",
-      "album": {
-        "name": "Moska Apresenta Zoombido: Mart'n\u00e1lia",
-        "url": "https://open.spotify.com/album/61iI1h0ZvmKVjJOE3siQhn"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Benditas",
-      "url": "https://open.spotify.com/track/0QzxEXZTx8Ygqhl3yDhvaA"
     },
     {
       "added_at": "2025-12-05 19:44:48",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2025-12-05 19:44:48",
       "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
-      },
-      "artists": [
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "A Gente Tem Tudo a Ver",
-      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
-    },
-    {
-      "added_at": "2025-12-05 19:44:48",
-      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 169086,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
+    },
+    {
+      "added_at": "2025-12-05 19:44:48",
+      "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
+      },
+      "artists": [
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "A Gente Tem Tudo a Ver",
+      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
     },
     {
       "added_at": "2025-12-05 19:44:48",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2025-12-05 19:44:48",
       "album": {
+        "name": "Voc\u00ea Tem",
+        "url": "https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX"
+      },
+      "artists": [
+        {
+          "name": "Dreicon",
+          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 164583,
+      "name": "Voc\u00ea Tem",
+      "url": "https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn"
+    },
+    {
+      "added_at": "2025-12-05 19:44:48",
+      "album": {
         "name": "Nossa Resenha",
         "url": "https://open.spotify.com/album/6bFqfgfvRkjciDVVQCZZYr"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 161277,
       "name": "Nossa Resenha",
       "url": "https://open.spotify.com/track/5EaOVYUrQB5Hp9zkXxcFpL"
-    },
-    {
-      "added_at": "2025-12-05 19:44:48",
-      "album": {
-        "name": "Voc\u00ea Tem",
-        "url": "https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX"
-      },
-      "artists": [
-        {
-          "name": "Dreicon",
-          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
-        },
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 164583,
-      "name": "Voc\u00ea Tem",
-      "url": "https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn"
     },
     {
       "added_at": "2025-12-05 19:44:48",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-12-05 19:44:48",
       "album": {
+        "name": "Descubra Sua For\u00e7a",
+        "url": "https://open.spotify.com/album/2rK7IIEZGisVmA9bOarBRj"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 160825,
+      "name": "Descubra Sua For\u00e7a",
+      "url": "https://open.spotify.com/track/49jghinMiDdkPfjRSeOu8q"
+    },
+    {
+      "added_at": "2025-12-05 19:44:48",
+      "album": {
         "name": "Respiro",
         "url": "https://open.spotify.com/album/2wKOCCeBGn6D2KJImp97vW"
       },
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2025-12-05 19:44:48",
       "album": {
-        "name": "Descubra Sua For\u00e7a",
-        "url": "https://open.spotify.com/album/2rK7IIEZGisVmA9bOarBRj"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 160825,
-      "name": "Descubra Sua For\u00e7a",
-      "url": "https://open.spotify.com/track/49jghinMiDdkPfjRSeOu8q"
-    },
-    {
-      "added_at": "2025-12-05 19:44:48",
-      "album": {
         "name": "Nana, Tom, Vinicius",
         "url": "https://open.spotify.com/album/73qo38bDY4G4RczOWQxDtI"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 178426,
       "name": "Se Todos Fossem Iguais a Voc\u00ea",
       "url": "https://open.spotify.com/track/5KCyS9wZaKo5T6AnKMQ1uG"
-    },
-    {
-      "added_at": "2025-12-05 19:44:48",
-      "album": {
-        "name": "Todo Caminho \u00c9 Sorte",
-        "url": "https://open.spotify.com/album/1l0jOyAvq12BpfGz6vnqof"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 229480,
-      "name": "Minha Felicidade",
-      "url": "https://open.spotify.com/track/6sW59B995jzBoLxWBhXPbK"
     },
     {
       "added_at": "2025-12-05 19:44:48",
@@ -1635,6 +1619,22 @@
       "duration_ms": 160699,
       "name": "Pensando em Voc\u00ea",
       "url": "https://open.spotify.com/track/28SnPmRvZwsd4KtyENLWZd"
+    },
+    {
+      "added_at": "2025-12-05 19:44:48",
+      "album": {
+        "name": "Todo Caminho \u00c9 Sorte",
+        "url": "https://open.spotify.com/album/1l0jOyAvq12BpfGz6vnqof"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Minha Felicidade",
+      "url": "https://open.spotify.com/track/6sW59B995jzBoLxWBhXPbK"
     },
     {
       "added_at": "2025-12-05 19:44:48",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2025-12-05 19:44:48",
       "album": {
-        "name": "Sentido",
-        "url": "https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0"
-      },
-      "artists": [
-        {
-          "name": "5 a Seco",
-          "url": "https://open.spotify.com/artist/1R9QfzgBmhk1spLg3BiU1f"
-        },
-        {
-          "name": "Pedro Alt\u00e9rio",
-          "url": "https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td"
-        }
-      ],
-      "duration_ms": 182711,
-      "name": "Deixa Eu Gostar de Voc\u00ea",
-      "url": "https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31"
-    },
-    {
-      "added_at": "2025-12-05 19:44:48",
-      "album": {
         "name": "Mela\u00e7o",
         "url": "https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 163240,
       "name": "Mela\u00e7o",
       "url": "https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7"
+    },
+    {
+      "added_at": "2025-12-05 19:44:48",
+      "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0"
+      },
+      "artists": [
+        {
+          "name": "5 a Seco",
+          "url": "https://open.spotify.com/artist/1R9QfzgBmhk1spLg3BiU1f"
+        },
+        {
+          "name": "Pedro Alt\u00e9rio",
+          "url": "https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td"
+        }
+      ],
+      "duration_ms": 182711,
+      "name": "Deixa Eu Gostar de Voc\u00ea",
+      "url": "https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31"
     },
     {
       "added_at": "2025-12-05 19:44:48",
@@ -1843,22 +1843,18 @@
     {
       "added_at": "2025-12-05 19:44:48",
       "album": {
-        "name": "Beb\u00ea",
-        "url": "https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT"
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/4cdC6A0Dhofn5M0Qm1tr6H"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
         }
       ],
-      "duration_ms": 173672,
-      "name": "Beb\u00ea",
-      "url": "https://open.spotify.com/track/5eGKoukqxNOcO2SWkqGNqE"
+      "duration_ms": 220257,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/3xJygPEkeDUonwKS5rnn7j"
     },
     {
       "added_at": "2025-12-05 19:44:48",

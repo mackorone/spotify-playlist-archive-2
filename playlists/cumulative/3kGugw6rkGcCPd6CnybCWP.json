@@ -1601,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI"
+      },
+      "artists": [
+        {
+          "name": "Michael Barrow & the Tourists",
+          "url": "https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191400,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5"
+    },
+    {
+      "album": {
         "name": "Phone Addiction",
         "url": "https://open.spotify.com/album/7AMN0yf800pU8eMbC7NMmf"
       },
@@ -2128,6 +2146,24 @@
       "duration_ms": 167343,
       "name": "The Vampire",
       "url": "https://open.spotify.com/track/5IgY9NY1WdWAvcwc5mD9d0"
+    },
+    {
+      "album": {
+        "name": "The Way It Makes Me Feel",
+        "url": "https://open.spotify.com/album/6LxSvGxZ6Csn5ijB3QtVcZ"
+      },
+      "artists": [
+        {
+          "name": "Penelope",
+          "url": "https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213438,
+      "name": "The Way It Makes Me Feel",
+      "url": "https://open.spotify.com/track/3oBUdNLtPspoHjr4mMlQkk"
     },
     {
       "album": {

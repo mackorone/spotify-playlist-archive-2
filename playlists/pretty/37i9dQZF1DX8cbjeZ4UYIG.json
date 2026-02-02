@@ -1,6 +1,6 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 356527,
+  "num_followers": 356602,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-22 16:20:43",
       "album": {
-        "name": "LFO",
-        "url": "https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n"
-      },
-      "artists": [
-        {
-          "name": "LFO",
-          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
-        }
-      ],
-      "duration_ms": 319266,
-      "name": "LFO",
-      "url": "https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5"
-    },
-    {
-      "added_at": "2024-03-22 16:20:43",
-      "album": {
         "name": "The Best of Impact Mixed By Slipmatt",
         "url": "https://open.spotify.com/album/3izM4uFu9nBTD3A5qJDQhx"
       },
@@ -807,18 +791,34 @@
     {
       "added_at": "2024-03-22 16:20:43",
       "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
+        "name": "LFO",
+        "url": "https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n"
       },
       "artists": [
         {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+          "name": "LFO",
+          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
         }
       ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+      "duration_ms": 319266,
+      "name": "LFO",
+      "url": "https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5"
+    },
+    {
+      "added_at": "2024-03-22 16:20:43",
+      "album": {
+        "name": "Blueprint (The Best of)",
+        "url": "https://open.spotify.com/album/2WuGvmbLkF1HFHkVq33TuY"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 350560,
+      "name": "Pacific State",
+      "url": "https://open.spotify.com/track/3t9dq1I2VKPmEcatwRkJ9P"
     }
   ],
   "unique_name": "Rave Classics",

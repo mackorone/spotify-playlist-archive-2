@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-891 songs - 2 day 5 hr 36 min
+893 songs - 2 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Body's In Trouble](https://open.spotify.com/track/15Edy9um1W2jrCb9MVaIBV) | [Mary Margaret O'Hara](https://open.spotify.com/artist/7d4LXGxrBM99Ayu2MkcMWo) | [Miss America](https://open.spotify.com/album/7EorEag88teTV1CevBYuMV) | 5:01 | 2025-05-01 | 2025-07-04 |
 | [Boer Farmstead](https://open.spotify.com/track/4ThB3AtztuqdKxPHdjeta7) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 4:53 | 2025-08-18 | 2025-09-11 |
 | [Bonbon sucre](https://open.spotify.com/track/7LisFV8edSWfOvm9XKJjA9) | [Grand Kallé](https://open.spotify.com/artist/72y2BmOygi88StwtMuQfEQ), [L'African Jazz](https://open.spotify.com/artist/0mHnv5jdaehGzv9zujVlXW) | [Merveilles du passé, Vol\. 1 \(1958 / 1959 / 1960\)](https://open.spotify.com/album/6LGIjTarpggj13sgOa0G1h) | 2:44 | 2025-06-12 | 2025-07-04 |
+| [Born On The Cusp](https://open.spotify.com/track/3Tc2Q1KlWcgSd4Fm4T41i8) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Set Free](https://open.spotify.com/album/20A3l4TcQUxmiISp0txH8y) | 3:28 | 2026-02-01 |  |
 | [Bouge\-toi](https://open.spotify.com/track/52E5gMJk3PTV9ycMjJWmei) | [Donna Regina](https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h) | [A Quiet Week In The House](https://open.spotify.com/album/2BzeMAgbzjG6dzFEhrj2np) | 4:09 | 2025-04-02 | 2025-05-09 |
 | [boy meets girl](https://open.spotify.com/track/109x8MvebgkNncoE1bk3mU) | [Pelados](https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU) | [Contato](https://open.spotify.com/album/2XUCKM3IH9nvHr1VRBgLbe) | 3:29 | 2025-09-10 | 2025-11-15 |
 | [Boy With the Bright Eyes](https://open.spotify.com/track/2r0XYwo9sFmmUFy3K4ZbnE) | [The Shermans](https://open.spotify.com/artist/1ijBXnXG7DX8hUI35tuuT8) | [Happiness Is Toy Shaped](https://open.spotify.com/album/6GwF4YxPAKGaxKpKELs36H) | 2:44 | 2024-05-20 | 2024-07-12 |
@@ -169,6 +170,7 @@
 | [Cowboy Fora Da Lei](https://open.spotify.com/track/3Ob98mJElVwt9PwhuFqtIP) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [Bis \- Raul Seixas](https://open.spotify.com/album/23Tuvaq7L43VGmXZCJVIp7) | 3:35 | 2025-12-24 | 2025-12-27 |
 | [Cozy](https://open.spotify.com/track/6WTEo1YkpHsOIg0CH638Z0) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Cozy](https://open.spotify.com/album/0IPNMyYo3yYoFu9vUtjKtY) | 3:11 | 2024-03-20 | 2024-05-16 |
 | [CRANK](https://open.spotify.com/track/7xAvtuHf8nGi5OtXVPYgb3) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:27 | 2025-03-23 | 2025-05-09 |
+| [Cross Bones Style](https://open.spotify.com/track/5Qhy5MYSkAMRVgTrABOlp7) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:32 | 2026-02-02 |  |
 | [Cross Purposes](https://open.spotify.com/track/1LWNGV4aU7nLCnfIgO2xuJ) | [Novak](https://open.spotify.com/artist/2fb1zlAyUxXYuZnrtLw90x) | [Novak](https://open.spotify.com/album/7wJpbPDD3MhcxblMVKjdg1) | 4:54 | 2024-10-08 | 2024-11-14 |
 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 | 2024-10-10 | 2024-11-14 |
 | [Crushing](https://open.spotify.com/track/0qS8CNO9bZlCJoGk6jyGXo) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [1992\-1998](https://open.spotify.com/album/2WwcPCIKcAoVlYmIKjd8PO) | 3:51 | 2025-01-18 | 2025-03-02 |

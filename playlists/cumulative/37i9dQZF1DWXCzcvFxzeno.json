@@ -1435,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Crowd Operator",
+        "url": "https://open.spotify.com/album/4bZgI0aJv7TCz0nMpX0Tbo"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Crowd Operator",
+      "url": "https://open.spotify.com/track/5I11zu7bajz0ctX3vYVML0"
+    },
+    {
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/4i0OpEAjeFGlaySj85Lh6g"
       },
@@ -3946,7 +3964,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 156169,
       "name": "LSD",
       "url": "https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5"

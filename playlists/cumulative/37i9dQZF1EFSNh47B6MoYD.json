@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "The Sunshine State",
+        "url": "https://open.spotify.com/album/5vkfBiDEnpWdpNqIW7AY37"
+      },
+      "artists": [
+        {
+          "name": "Ana Cristina Cash",
+          "url": "https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190018,
+      "name": "Cheap Margaritas",
+      "url": "https://open.spotify.com/track/3ThTrxIgLjf3uANqn4PhEy"
+    },
+    {
+      "album": {
         "name": "Cheap Margaritas",
         "url": "https://open.spotify.com/album/78nQnLW83yjco3LS3mGits"
       },
@@ -658,7 +676,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 190018,
       "name": "Cheap Margaritas",
       "url": "https://open.spotify.com/track/6z7OS3P0O3yDQ05WwbQGRV"

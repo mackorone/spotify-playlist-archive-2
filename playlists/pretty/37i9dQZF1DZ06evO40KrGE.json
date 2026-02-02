@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37653,
+  "num_followers": 37657,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXv0gAAAAAAcYED17GpyhthpccZwy+n1",
+  "snapshot_id": "aX1GAAAAAAAmhy39o7hQ8ZVz8iyZ77Hw",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 263500,
+      "name": "Onde Jesus Mora",
+      "url": "https://open.spotify.com/track/5nIdb0Gpg2Mb0ktbFrM9Ot"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Identidade",
         "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 275853,
       "name": "Identidade",
       "url": "https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "Onde Jesus Mora",
-      "url": "https://open.spotify.com/track/5nIdb0Gpg2Mb0ktbFrM9Ot"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 321549,
-      "name": "N\u00e3o Negue a Jesus",
-      "url": "https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Segredo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 306694,
       "name": "O Segredo (Ao Vivo)",
       "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 321549,
+      "name": "N\u00e3o Negue a Jesus",
+      "url": "https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 290899,
-      "name": "Contigo Est\u00e1",
-      "url": "https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Sempre",
         "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 222958,
       "name": "Para Sempre",
       "url": "https://open.spotify.com/track/4JMEYQr7JAhVPu5LP2eeB7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 290899,
+      "name": "Contigo Est\u00e1",
+      "url": "https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL"
     },
     {
       "added_at": null,

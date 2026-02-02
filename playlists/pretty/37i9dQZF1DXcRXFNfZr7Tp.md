@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,974,607 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,975,200 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 99 | [Freaking You Out](https://open.spotify.com/track/5ndDgAqa9XNZsfdt6MVHIC) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Freaking You Out](https://open.spotify.com/album/4pYGTu5OMw0SAeW7uWIpM3) | 3:02 |
 | 100 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
 
-Snapshot ID: `AAAAAOq2TKPtpGNI49xfncpwGn1Ucr53`
+Snapshot ID: `AAAAAF5QlNCJBQcp6gF2pxNipUJD1X6g`

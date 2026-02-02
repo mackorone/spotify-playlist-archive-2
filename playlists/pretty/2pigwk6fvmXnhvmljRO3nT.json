@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAKf0HhQ47j5kpfgY5V12ArLL7TTLkU",
+  "snapshot_id": "AAAKhiIjQJiuWqiYMC7DsDpY/cjXhrqN",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -75095,22 +75095,6 @@
     {
       "added_at": "2025-01-04 20:31:32",
       "album": {
-        "name": "Kanj\u014d Effect",
-        "url": "https://open.spotify.com/album/01io69WD2sRtAUghv0k0Nx"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "Living Dolls",
-      "url": "https://open.spotify.com/track/676cbg6lrLFhHZ4KQIbUuI"
-    },
-    {
-      "added_at": "2025-01-04 20:31:32",
-      "album": {
         "name": "Niche Syndrome",
         "url": "https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK"
       },
@@ -144921,22 +144905,6 @@
       "url": "https://open.spotify.com/track/6qKpRzWWhpeBvm4iSJrJLR"
     },
     {
-      "added_at": "2026-01-29 04:10:33",
-      "album": {
-        "name": "Kyougen",
-        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Gira Gira",
-      "url": "https://open.spotify.com/track/0vHCmjN8pepvdu41r69gcB"
-    },
-    {
       "added_at": "2026-01-30 09:05:36",
       "album": {
         "name": "Mulholland Drive",
@@ -144971,6 +144939,86 @@
       "duration_ms": 363692,
       "name": "call me maybe (original)",
       "url": "https://open.spotify.com/track/1jGug8SsTt4TTGLjJ8PYxT"
+    },
+    {
+      "added_at": "2026-02-01 03:24:02",
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 209198,
+      "name": "mini me",
+      "url": "https://open.spotify.com/track/4ZFlY4w9Sq5ppw2RvYd3LP"
+    },
+    {
+      "added_at": "2026-02-01 03:26:04",
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 165530,
+      "name": "save",
+      "url": "https://open.spotify.com/track/4Galy41T3rhZ8eHgaTebWc"
+    },
+    {
+      "added_at": "2026-02-01 03:30:15",
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 154083,
+      "name": "stay the night",
+      "url": "https://open.spotify.com/track/4BsQ415OGM28wFJHcT1ksl"
+    },
+    {
+      "added_at": "2026-02-01 03:35:22",
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 346403,
+      "name": "buzzerbeater / black christmas",
+      "url": "https://open.spotify.com/track/5XO2VBOwEdrQja4fEx4rlp"
+    },
+    {
+      "added_at": "2026-02-01 03:38:35",
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 292648,
+      "name": "glimpse of you",
+      "url": "https://open.spotify.com/track/1Mk3UttPL673cDTAy1uwe2"
     }
   ],
   "unique_name": "Purge",

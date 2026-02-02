@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 69100,
+  "num_followers": 69132,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXv0gAAAAAAdCsq+bGqiB3JDDd6jUTYf",
+  "snapshot_id": "aX1GAAAAAACf0mbYZVDSXBPt3TvMgtD+",
   "tracks": [
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Vi Con \u00c9l",
-        "url": "https://open.spotify.com/album/54ZF7BXU10BXqefAZYaWUY"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 187536,
-      "name": "Te Vi Con \u00c9l",
-      "url": "https://open.spotify.com/track/3pLvf1cD0QOQ6b8JaU6l4t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "C ARMO",
         "url": "https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 182500,
       "name": "C ARMO",
       "url": "https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Vi Con \u00c9l",
+        "url": "https://open.spotify.com/album/54ZF7BXU10BXqefAZYaWUY"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 187536,
+      "name": "Te Vi Con \u00c9l",
+      "url": "https://open.spotify.com/track/3pLvf1cD0QOQ6b8JaU6l4t"
     },
     {
       "added_at": null,

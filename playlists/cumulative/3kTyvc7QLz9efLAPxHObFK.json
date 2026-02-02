@@ -42195,6 +42195,28 @@
     },
     {
       "album": {
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE"
+      },
+      "artists": [
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        },
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160457,
+      "name": "RECKLESS",
+      "url": "https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw"
+    },
+    {
+      "album": {
         "name": "Recollection",
         "url": "https://open.spotify.com/album/1XF6BI5mXtxvzcGLELkjjA"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 550,718 likes - 72 songs - 4 hr 29 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 551,011 likes - 72 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 14 | [parabellum](https://open.spotify.com/track/7IIWd636d0ZpEAm5zhwNhE) | [Radi 216](https://open.spotify.com/artist/48nbLKABX0EPaH6pg6UcTB) | [Tirat](https://open.spotify.com/album/2bGBVXIHWhiMRrxhYrYume) | 3:48 |
 | 15 | [Cicada Summer](https://open.spotify.com/track/2mjmFPhSfrlJ5MlhuafMiC) | [David Wolfenberger](https://open.spotify.com/artist/4rQ1U823hYB7c5tyOQp4v0) | [Portrait of Narcissus](https://open.spotify.com/album/4wTKhZZNP9ZMDAUEwi60IZ) | 4:10 |
 | 16 | [Voyage of the Moon](https://open.spotify.com/track/04vWPrP2hiL9gWh8iZo75k) | [Gwyn Singer](https://open.spotify.com/artist/0yGhlKH7r4Oy1vghnYDKtO) | [Voyage of the Moon](https://open.spotify.com/album/0ogHO18YMZ0VTPEUqcgqkb) | 5:35 |
-| 17 | [Europa Meets Orient](https://open.spotify.com/track/43PT7g8IQQ7zyYKheEWwtS) | [Greenstorm](https://open.spotify.com/artist/2p2nLbTlDaWpVIEsR67Duf) | [Film und Tanzmusik \-Vol\. 1](https://open.spotify.com/album/5OpJ0mt4K86QIyqbYhdB1J) | 2:30 |
+| 17 | [Europe Meets Orient](https://open.spotify.com/track/43PT7g8IQQ7zyYKheEWwtS) | [Greenstorm](https://open.spotify.com/artist/2p2nLbTlDaWpVIEsR67Duf) | [Film und Tanzmusik \-Vol\. 1](https://open.spotify.com/album/5OpJ0mt4K86QIyqbYhdB1J) | 2:30 |
 | 18 | [Kimia](https://open.spotify.com/track/7y6hgRP1qSRS20qQ8hGKHZ) | [Melda Ahmad](https://open.spotify.com/artist/0SQdTHT31B1UlDSJpkdx5F) | [Kimia](https://open.spotify.com/album/1fT8ZvJjKBX8mjx0ZH6Iua) | 3:09 |
 | 19 | [My Habit is Jesus](https://open.spotify.com/track/4YMSXueQuODdzNmnWwW9et) | [Adele Gutierrez](https://open.spotify.com/artist/0pUggDyloC0BNZvB8FupXp) | [My Habit is Jesus](https://open.spotify.com/album/6FyPVVownmgyXfvNIldGrn) | 4:04 |
 | 20 | [Everyday](https://open.spotify.com/track/42ntamRWVAKROsIBL8KRTp) | [Alexia Rabé](https://open.spotify.com/artist/4FtZ2cODcwNedqAPi3kXO8) | [Everyday](https://open.spotify.com/album/3BOFkzRPABsi2ZViBNASbT) | 3:39 |

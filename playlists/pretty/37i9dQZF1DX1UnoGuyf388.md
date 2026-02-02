@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Seyi Vibez & Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,792 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,797 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 49 | [Die For This](https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Die For This](https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q) | 2:35 |
 | 50 | [Conversation](https://open.spotify.com/track/6wMnZzsRUWQAENpnqTmIJk) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Conversation](https://open.spotify.com/album/0OJjgbzuaOF0f2U7vdriTK) | 2:31 |
 
-Snapshot ID: `AAAAAHX6uxNtJUCOHpWP7zwYP6jlz1QN`
+Snapshot ID: `AAAAANF4xgHlv8hFCnu5HbgRS2pY/CHX`

@@ -4,7 +4,7 @@
 
 > 
 
-2,821 songs - 6 day 2 hr 19 min
+2,822 songs - 6 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2047,6 +2047,7 @@
 | [Really Like You](https://open.spotify.com/track/07AYvrfqNUDrKr7FfBCdUR) | [Eufeion](https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B), [24/7 Hardcore](https://open.spotify.com/artist/13HaJU1EgDEuPrJO6XgiFu) | [Really Like You](https://open.spotify.com/album/5eV0Ve0PKrL7X7L8XEce9Q) | 3:19 | 2024-05-28 |  |
 | [Realm of Demons](https://open.spotify.com/track/0bX7RfvsAFZlqpYgTbHx38) | [Hellsystem](https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85) | [Rise E.P.](https://open.spotify.com/album/0TUsTayMR7oMnvKHfpcREL) | 2:38 | 2025-06-07 |  |
 | [Reasons To Die \(Rage\)](https://open.spotify.com/track/03YfdUYRVXGFtvFi4Mcj4A) | [Onlynumbers](https://open.spotify.com/artist/14lZi2xEonJg9DyYk9JBak), [Slayer Diesel](https://open.spotify.com/artist/1YetjaSYt1TONhYWHRns8t) | [Reasons To Die \(Rage\)](https://open.spotify.com/album/6AwDOWuIcog78987K7xTy2) | 4:25 | 2025-10-26 |  |
+| [RECKLESS](https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [RECKLESS](https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE) | 2:40 | 2026-02-01 |  |
 | [Recollection](https://open.spotify.com/track/3UjNsqmIr8Po865AdeJy2a) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [Recollection](https://open.spotify.com/album/1XF6BI5mXtxvzcGLELkjjA) | 2:41 | 2024-03-08 |  |
 | [Red & Blue Theme \- Radio Edit](https://open.spotify.com/track/2EPfLUIw0a8rycrbSePNhm) | [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Red & Blue Theme](https://open.spotify.com/album/0fRtufGRDMHgjtbz2rHmtD) | 2:37 | 2025-04-12 |  |
 | [Red Bottom Heels](https://open.spotify.com/track/63MqcRYdZRfhRQQmMS7ROK) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Red Bottom Heels](https://open.spotify.com/album/3YZAPQhNuwQUG0lnDh2bcw) | 2:25 | 2025-09-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。ずっと真夜中でいいのに。, Noah Kahan, Awesome City Club, Sia and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,785 likes - 91 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,825 likes - 91 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

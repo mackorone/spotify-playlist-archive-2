@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Magda
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,090 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,088 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 |
 | 36 | [Dreams](https://open.spotify.com/track/5Wx2g3BF41Ef13oWKOA4xl) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0), [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE), [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ), [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [Dreams](https://open.spotify.com/album/2ro3STHbQiz5ODZ4LSJ6l6) | 4:14 |
 | 37 | [Pretty World](https://open.spotify.com/track/3UCQJRrWZeJ0JMepVaImTJ) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Kim Hnizdo](https://open.spotify.com/artist/5zSKaJ03sOhtNVbELQh4VC) | [Pretty World](https://open.spotify.com/album/0JdcrQtqkXCxYDmS0tseWR) | 2:37 |
-| 38 | [Mega peinlich](https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Süß sauer EP](https://open.spotify.com/album/7vDRWDLsWTjnOV0YJJR5v6) | 2:50 |
-| 39 | [Ode an die Periode](https://open.spotify.com/track/0lT1vQgPFJADFbXBdD3Ccx) | [REMOTE BONDAGE](https://open.spotify.com/artist/1HXRtPOPeROOtRPBCHIk5z) | [Ode an die Periode](https://open.spotify.com/album/0toOljgBlJQJi7pNEzja1r) | 2:21 |
+| 38 | [Ode an die Periode](https://open.spotify.com/track/0lT1vQgPFJADFbXBdD3Ccx) | [REMOTE BONDAGE](https://open.spotify.com/artist/1HXRtPOPeROOtRPBCHIk5z) | [Ode an die Periode](https://open.spotify.com/album/0toOljgBlJQJi7pNEzja1r) | 2:21 |
+| 39 | [Mega peinlich](https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Süß sauer EP](https://open.spotify.com/album/7vDRWDLsWTjnOV0YJJR5v6) | 2:50 |
 | 40 | [Easy Peeler](https://open.spotify.com/track/1HTpc61ViNtrmEsjzRYbOt) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Easy Peeler](https://open.spotify.com/album/7A0PyN0K1CPMb5FbeuSGvX) | 3:41 |
 | 41 | [Toure](https://open.spotify.com/track/7kZ0PlIj3w9ddNFHLCv7fa) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Toure](https://open.spotify.com/album/1r68wuu5ZHEbbg1bJKE17Z) | 2:32 |
 | 42 | [Bittere Pillen](https://open.spotify.com/track/7fzrZkC4Uo9agpFmNhBZzw) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0), [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [Bittere Pillen](https://open.spotify.com/album/0RV8jbDGyDKL7qGox5FkKy) | 2:55 |

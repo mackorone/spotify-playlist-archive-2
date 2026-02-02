@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3923453,
+  "num_followers": 3923391,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-01-30 05:00:44",
       "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 423006,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
-    },
-    {
-      "added_at": "2026-01-30 05:00:44",
-      "album": {
         "name": "Threads",
         "url": "https://open.spotify.com/album/0pqpfxmoT9HhcZMmMPraRE"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 313152,
       "name": "Threads",
       "url": "https://open.spotify.com/track/6uDOlnBhgzWqfYD4BZctJL"
+    },
+    {
+      "added_at": "2026-01-30 05:00:44",
+      "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2026-01-30 05:00:44",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-01-30 05:00:44",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 258409,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
-    },
-    {
-      "added_at": "2026-01-30 05:00:44",
-      "album": {
         "name": "We Are Always Under The Same Sky",
         "url": "https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 249479,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld"
+    },
+    {
+      "added_at": "2026-01-30 05:00:44",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 258409,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
     },
     {
       "added_at": "2026-01-30 05:00:44",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-01-30 05:00:44",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
-      },
-      "artists": [
-        {
-          "name": "Nathan C",
-          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
-    },
-    {
-      "added_at": "2026-01-30 05:00:44",
-      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 259400,
       "name": "blinded",
       "url": "https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi"
+    },
+    {
+      "added_at": "2026-01-30 05:00:44",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
+      },
+      "artists": [
+        {
+          "name": "Nathan C",
+          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
     },
     {
       "added_at": "2026-01-30 05:00:44",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-01-30 05:00:44",
       "album": {
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
+    },
+    {
+      "added_at": "2026-01-30 05:00:44",
+      "album": {
         "name": "Let You Know",
         "url": "https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv"
       },
@@ -947,6 +963,26 @@
       "duration_ms": 219923,
       "name": "Let You Know",
       "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
+    },
+    {
+      "added_at": "2026-01-30 05:00:44",
+      "album": {
+        "name": "Another Touch",
+        "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 225301,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW"
     },
     {
       "added_at": "2026-01-30 05:00:44",
@@ -971,42 +1007,6 @@
       "duration_ms": 153875,
       "name": "Out Of Ten - Shingo Nakamura & before saudade Remix",
       "url": "https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj"
-    },
-    {
-      "added_at": "2026-01-30 05:00:44",
-      "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
-    },
-    {
-      "added_at": "2026-01-30 05:00:44",
-      "album": {
-        "name": "Another Touch",
-        "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 225301,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW"
     },
     {
       "added_at": "2026-01-30 05:00:44",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-01-30 05:00:44",
       "album": {
-        "name": "The Thought of You",
-        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
-      },
-      "artists": [
-        {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "imallryt",
-          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
-        }
-      ],
-      "duration_ms": 262008,
-      "name": "The Thought of You",
-      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
-    },
-    {
-      "added_at": "2026-01-30 05:00:44",
-      "album": {
         "name": "Love Pains",
         "url": "https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 265161,
       "name": "Love Pains",
       "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
+    },
+    {
+      "added_at": "2026-01-30 05:00:44",
+      "album": {
+        "name": "The Thought of You",
+        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
+      },
+      "artists": [
+        {
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
+        },
+        {
+          "name": "imallryt",
+          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
+        }
+      ],
+      "duration_ms": 262008,
+      "name": "The Thought of You",
+      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
     },
     {
       "added_at": "2026-01-30 05:00:44",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-01-30 05:00:44",
       "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-01-30 05:00:44",
+      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 273442,
       "name": "Heal",
       "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
-    },
-    {
-      "added_at": "2026-01-30 05:00:44",
-      "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
     },
     {
       "added_at": "2026-01-30 05:00:44",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-01-30 05:00:44",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 124710,
-      "name": "Time - Edit",
-      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
-    },
-    {
-      "added_at": "2026-01-30 05:00:44",
-      "album": {
         "name": "Dark In This Room",
         "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 252000,
       "name": "Dark In This Room",
       "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
+    },
+    {
+      "added_at": "2026-01-30 05:00:44",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 124710,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
     },
     {
       "added_at": "2026-01-30 05:00:44",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-01-30 05:00:44",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/1VrpTWfDRK2pdzgGSoyDty"
-      },
-      "artists": [
-        {
-          "name": "narou",
-          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/0s9vuU1DPc3Us9TboMMeK8"
-    },
-    {
-      "added_at": "2026-01-30 05:00:44",
-      "album": {
         "name": "Pursuit",
         "url": "https://open.spotify.com/album/0rZHrHxu3kxKh8qeWAXR5F"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 265960,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l"
+    },
+    {
+      "added_at": "2026-01-30 05:00:44",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/1VrpTWfDRK2pdzgGSoyDty"
+      },
+      "artists": [
+        {
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/0s9vuU1DPc3Us9TboMMeK8"
     },
     {
       "added_at": "2026-01-30 05:00:44",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2026-01-30 05:00:44",
       "album": {
-        "name": "Give It A Try (Why Don't We)",
-        "url": "https://open.spotify.com/album/43t8HuPAt7aHP2K2PrRPjU"
-      },
-      "artists": [
-        {
-          "name": "Freyer",
-          "url": "https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4"
-        },
-        {
-          "name": "Idun Nicoline",
-          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
-        }
-      ],
-      "duration_ms": 131803,
-      "name": "Give It A Try (Why Don't We)",
-      "url": "https://open.spotify.com/track/0zd56qb1rPeB5kyWZKGZbX"
-    },
-    {
-      "added_at": "2026-01-30 05:00:44",
-      "album": {
         "name": "Can't Read Your Mind",
         "url": "https://open.spotify.com/album/7nl7JCskc9bFG6Hb1R9Peu"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 191824,
       "name": "Can't Read Your Mind",
       "url": "https://open.spotify.com/track/3qLeZcFGwVM7gJE74KTKa6"
+    },
+    {
+      "added_at": "2026-01-30 05:00:44",
+      "album": {
+        "name": "Give It A Try (Why Don't We)",
+        "url": "https://open.spotify.com/album/43t8HuPAt7aHP2K2PrRPjU"
+      },
+      "artists": [
+        {
+          "name": "Freyer",
+          "url": "https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4"
+        },
+        {
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        }
+      ],
+      "duration_ms": 131803,
+      "name": "Give It A Try (Why Don't We)",
+      "url": "https://open.spotify.com/track/0zd56qb1rPeB5kyWZKGZbX"
     },
     {
       "added_at": "2026-01-30 05:00:44",

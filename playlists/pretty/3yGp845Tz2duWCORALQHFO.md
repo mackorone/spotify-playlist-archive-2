@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,081 likes - 38 songs - 1 hr 57 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,078 likes - 38 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 24 | [Blood On My Hands](https://open.spotify.com/track/6kMqtoG4GUMjCSorLD6Max) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Blood On My Hands](https://open.spotify.com/album/555QuQvzYTgaJzcGPlpTzc) | 3:11 |
 | 25 | [FACEDOWN](https://open.spotify.com/track/5bBsJxig0Ls4USQqIukB6I) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [FACEDOWN](https://open.spotify.com/album/2ynrHhpM9WSDh9Snv0dz1c) | 2:36 |
 | 26 | [Thunder](https://open.spotify.com/track/61FDBTmciFHAX2N7qkezim) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Thunder](https://open.spotify.com/album/2tcKKWhpEpA5v6R4toUIB1) | 3:00 |
-| 27 | [Faultline](https://open.spotify.com/track/40VjzWMh4LwqzNtqUoIhvP) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Dakota](https://open.spotify.com/artist/7mTnfFkluYaLb3UpA9aWgG), [Das Pharaoh](https://open.spotify.com/artist/4BVdLTy33D4KtSxNUu6bUW) | [Faultline \(Das Pharaoh Remix\)](https://open.spotify.com/album/5vXn2tbTtWrbk6pN67gPpI) | 3:12 |
+| 27 | [Faultline \- Das Pharaoh Remix](https://open.spotify.com/track/40VjzWMh4LwqzNtqUoIhvP) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Dakota](https://open.spotify.com/artist/7mTnfFkluYaLb3UpA9aWgG), [Das Pharaoh](https://open.spotify.com/artist/4BVdLTy33D4KtSxNUu6bUW) | [Faultline \(Das Pharaoh Remix\)](https://open.spotify.com/album/5vXn2tbTtWrbk6pN67gPpI) | 3:12 |
 | 28 | [Let the Bass Kick](https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Let the Bass Kick](https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul) | 2:26 |
 | 29 | [Still Sincere](https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Still Sincere](https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d) | 3:08 |
 | 30 | [What The Future Holds](https://open.spotify.com/track/0KVDS7jwMRbmr90hWiO475) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31), [Lake Silver](https://open.spotify.com/artist/3jUIM87ijH82I8Wp91U6aE), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [What The Future Holds](https://open.spotify.com/album/6Jfo849VvIPPxXT9fTp5t0) | 3:25 |

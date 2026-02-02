@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Luis Fonsi & Feid
 
-321 songs - 23 hr 7 min
+322 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [La Noche](https://open.spotify.com/track/4719W4pIdmaH0tawsJBeNf) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [La Noche](https://open.spotify.com/album/4BfxN7T83kFNWVzgxDaXJb) | 3:20 | 2025-05-02 | 2025-08-18 |
 | [La Pantera Mambo](https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 6:14 | 2022-01-01 |  |
 | [La Película II](https://open.spotify.com/track/5WZPTq3NoLhIys3RyPF5Ye) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Salsa Premier](https://open.spotify.com/album/0U0shFxqYSSjHADZ6N97FE) | 4:17 | 2022-01-01 | 2022-07-20 |
-| [La Puerta](https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Puerta](https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj) | 3:22 | 2024-02-23 |  |
+| [La Puerta](https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Puerta](https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj) | 3:22 | 2024-02-23 | 2026-02-02 |
 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2022-01-01 | 2022-07-16 |
 | [LA RONDA](https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:29 | 2023-12-01 |  |
 | [La Rumba Que Yo Te Traigo](https://open.spotify.com/track/1o2hixb9ZedXPpNANypMwd) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [La Rumba Que Yo Te Traigo](https://open.spotify.com/album/5xC1o0vtWDY1etRTSnTIia) | 3:14 | 2022-05-20 | 2022-05-29 |
@@ -237,6 +237,7 @@
 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 | 2022-05-20 | 2024-04-19 |
 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/4Ih0JljQ3X3PbHfmuk05PR) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Pura Salsa](https://open.spotify.com/album/0Lkf1Mgd8iTICnd8sYGgoi) | 5:09 | 2022-01-01 | 2022-07-29 |
 | [Que Locura Enamorarme De Ti \(feat\. Eddie Santiago\)](https://open.spotify.com/track/2UN8K1VKiiKiEimbxa7Fpv) | [Huey Dunbar](https://open.spotify.com/artist/6fhCq41xOJnMGIvFd13Oft), [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 4:56 | 2022-01-01 |  |
+| [Quien](https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Quien](https://open.spotify.com/album/0hNgwLeRtUaLir1rHEwdLp) | 4:19 | 2026-01-30 |  |
 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 | 2022-01-01 | 2026-01-15 |
 | [Qué Culpa Tengo Yo \(feat\. Rafa Pabön\)](https://open.spotify.com/track/4AixJH9KlcFih0TeGxBMDa) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Qué Culpa Tengo Yo \(feat\. Rafa Pabön\)](https://open.spotify.com/album/13UxJwBgIkL0IUbSOJSWgv) | 3:30 | 2024-11-15 | 2025-05-13 |
 | [Qué Más Da](https://open.spotify.com/track/442FzbQEob2NXAg2KIbVBm) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [SOY](https://open.spotify.com/album/6TMMFAy97YN7iTrQF3gEFa) | 4:17 | 2025-05-23 | 2026-01-24 |

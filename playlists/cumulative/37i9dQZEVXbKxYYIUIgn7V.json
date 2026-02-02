@@ -7697,6 +7697,24 @@
     },
     {
       "album": {
+        "name": "Breathe In, Let Go",
+        "url": "https://open.spotify.com/album/6mn3uB6aQeUkXACsQyATb9"
+      },
+      "artists": [
+        {
+          "name": "AURENZA",
+          "url": "https://open.spotify.com/artist/4osA1DTtVEc75xSK2GWZXz"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226196,
+      "name": "Breathe In, Let Go",
+      "url": "https://open.spotify.com/track/46zuxgL3LXzJc9gHWzuRj7"
+    },
+    {
+      "album": {
         "name": "Brich mich",
         "url": "https://open.spotify.com/album/3T5br6m5wsjODxas4HyLeN"
       },
@@ -12186,7 +12204,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -25695,6 +25713,24 @@
     },
     {
       "album": {
+        "name": "Star 2008",
+        "url": "https://open.spotify.com/album/03THQjn4rbpKRo94XkhQ3Z"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210070,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/22BiNbFtHyktTOKzXBaTp3"
+    },
+    {
+      "album": {
         "name": "Just What I Said (Everything In Its Right Place)",
         "url": "https://open.spotify.com/album/74oGQ6WbH59pCuxcN6om5m"
       },
@@ -34756,7 +34792,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 120887,
       "name": "NICHT VER\u00c4NDERT",
       "url": "https://open.spotify.com/track/0aUp8SRoWJ0xadMqEbcKeJ"
@@ -34934,7 +34970,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
@@ -36674,7 +36710,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 109360,
       "name": "Ova macka do mene - Live",
       "url": "https://open.spotify.com/track/5PCIxOXnHeLQNVNQaB6zDJ"
@@ -50254,10 +50290,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 132571,
       "name": "Versatile - Slowed + Low Honor",
       "url": "https://open.spotify.com/track/7FoURDwuTDBsyUOUal2UYL"
+    },
+    {
+      "album": {
+        "name": "Versatile",
+        "url": "https://open.spotify.com/album/3kOOGs0rpSlOl7xltyQNoO"
+      },
+      "artists": [
+        {
+          "name": "slenderpill",
+          "url": "https://open.spotify.com/artist/237rawiOSdfQRCfAhlowSx"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Versatile - Slower + Low Honor",
+      "url": "https://open.spotify.com/track/4ZgS3TItedzN6bfykzxlnL"
     },
     {
       "album": {

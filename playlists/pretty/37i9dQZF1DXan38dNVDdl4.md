@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,595,910 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,595,885 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 79 | [God Nah Sleep](https://open.spotify.com/track/4eMFo2OlaFSRYmTYAoNJbV) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Chimney Records](https://open.spotify.com/artist/0tUD4J6UWEDb0aQdRaOp52) | [God Nah Sleep](https://open.spotify.com/album/77VoG6elcFERW1OhcRevuG) | 3:31 |
 | 80 | [So Mi Like It](https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 |
 
-Snapshot ID: `AAAAAAK7lNNuiH17WaIHBMRds4CBo9zM`
+Snapshot ID: `AAAAAAe0LTCN0kHFETBrnDZwETUxG6AN`

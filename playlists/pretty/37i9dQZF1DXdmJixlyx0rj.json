@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: The Deep)",
-  "num_followers": 34905,
+  "num_followers": 34938,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -307,38 +307,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        }
-      ],
-      "duration_ms": 112965,
-      "name": "maybe baby",
-      "url": "https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "My Universe (David Guetta Remix)",
         "url": "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI"
       },
@@ -363,38 +331,34 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Nocturne 07 (for aerse)",
-        "url": "https://open.spotify.com/album/3cs88X4vsJW3H5O69QC9GN"
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
       },
       "artists": [
         {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Miso",
-          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 152473,
-      "name": "Nocturne 07 (for aerse)",
-      "url": "https://open.spotify.com/track/3CV5geHX47MIejxoQ9evgA"
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
     },
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "SAINT",
-        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
+        "name": "E",
+        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
         }
       ],
-      "duration_ms": 179426,
-      "name": "SAINT",
-      "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
+      "duration_ms": 112965,
+      "name": "maybe baby",
+      "url": "https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -415,6 +379,42 @@
       "duration_ms": 180520,
       "name": "Seven (feat. Latto) (Festival Mix)",
       "url": "https://open.spotify.com/track/79DU9AWxpMpKsGS5yps6sp"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "SAINT",
+        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "SAINT",
+      "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "Nocturne 07 (for aerse)",
+        "url": "https://open.spotify.com/album/3cs88X4vsJW3H5O69QC9GN"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "duration_ms": 152473,
+      "name": "Nocturne 07 (for aerse)",
+      "url": "https://open.spotify.com/track/3CV5geHX47MIejxoQ9evgA"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "4444",
-        "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
-      },
-      "artists": [
-        {
-          "name": "WOOSUNG",
-          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
-        }
-      ],
-      "duration_ms": 313866,
-      "name": "44 (Forget Forever)",
-      "url": "https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "Standing Next to You (The Remixes)",
         "url": "https://open.spotify.com/album/18U7qF5UYXzGP5C11y9rmq"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 197160,
       "name": "Standing Next to You (Future Funk Remix)",
       "url": "https://open.spotify.com/track/0nCAwowgJ2bV2g5EOE67Yi"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "4444",
+        "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
+      },
+      "artists": [
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        }
+      ],
+      "duration_ms": 313866,
+      "name": "44 (Forget Forever)",
+      "url": "https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "IF U WANT IT",
-        "url": "https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
-        }
-      ],
-      "duration_ms": 340660,
-      "name": "I DON'T CARE",
-      "url": "https://open.spotify.com/track/0N9WQE0WCPetQduRvRRu1r"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "Super (Workout Remix)",
         "url": "https://open.spotify.com/album/6oeww5DTxCKE4h5sSkoRjI"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 193586,
       "name": "Super (Workout Remix)",
       "url": "https://open.spotify.com/track/6P7m3AZlTUm39hkeAgQNMk"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "IF U WANT IT",
+        "url": "https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "duration_ms": 340660,
+      "name": "I DON'T CARE",
+      "url": "https://open.spotify.com/track/0N9WQE0WCPetQduRvRRu1r"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Whiplash (English Version)",
-        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Whiplash (Steve Aoki Remix)",
-      "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "Eu li EP",
         "url": "https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 472841,
       "name": "Bail-E",
       "url": "https://open.spotify.com/track/4q5UlYGp3arPnpSFdyWsga"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "Whiplash (English Version)",
+        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Whiplash (Steve Aoki Remix)",
+      "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
-        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 227677,
-      "name": "Supernova (Grimes Remix)",
-      "url": "https://open.spotify.com/track/4cebwm6DwAPkyOKbNT6RmL"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "Mirror ball (feat. Moon Sujin)",
         "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 193493,
       "name": "Mirror ball (feat. Moon Sujin)",
       "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 227677,
+      "name": "Supernova (Grimes Remix)",
+      "url": "https://open.spotify.com/track/4cebwm6DwAPkyOKbNT6RmL"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1171,8 +1171,8 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
-        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
+        "name": "Dirty Work (Remixes)",
+        "url": "https://open.spotify.com/album/1bV9UJSiCQOg5S786s2T9g"
       },
       "artists": [
         {
@@ -1180,13 +1180,13 @@
           "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         },
         {
-          "name": "2Spade",
-          "url": "https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn"
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Armageddon (2Spade Remix)",
-      "url": "https://open.spotify.com/track/7KHVgThSlUCtMzvnze3Tye"
+      "duration_ms": 201454,
+      "name": "Dirty Work - RayRay Remix",
+      "url": "https://open.spotify.com/track/4WlnsX6Mpgv1tZ3Vwtrdsc"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Pondeggi",
-        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "E Wata",
-          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Pondeggi",
-      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "The Feels",
         "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 185218,
       "name": "The Feels (Benny Benassi Remix)",
       "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "Pondeggi",
+        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "E Wata",
+          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Pondeggi",
+      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Concrete Valley 0.5",
-        "url": "https://open.spotify.com/album/53Y4VuYwteJcwIlB3PlVvW"
-      },
-      "artists": [
-        {
-          "name": "off the menu",
-          "url": "https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Concrete Valley",
-      "url": "https://open.spotify.com/track/0fU8a6ynFpnDx4jECwGLWE"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "Iab",
         "url": "https://open.spotify.com/album/2fUQFQJIQwo14l0dUbH6Qr"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 190312,
       "name": "Iab",
       "url": "https://open.spotify.com/track/3uTfD1qpztCCQ55ifHJ982"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "Concrete Valley 0.5",
+        "url": "https://open.spotify.com/album/53Y4VuYwteJcwIlB3PlVvW"
+      },
+      "artists": [
+        {
+          "name": "off the menu",
+          "url": "https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Concrete Valley",
+      "url": "https://open.spotify.com/track/0fU8a6ynFpnDx4jECwGLWE"
     },
     {
       "added_at": "2026-01-23 02:07:01",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Too Far",
-        "url": "https://open.spotify.com/album/15jknj7bcRgBYPk1u3RaBc"
-      },
-      "artists": [
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        },
-        {
-          "name": "Noisy Choice",
-          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
-        }
-      ],
-      "duration_ms": 143622,
-      "name": "Too Far",
-      "url": "https://open.spotify.com/track/5w1KPYqxVLZ34Bwc4pNTsq"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "Good Night Good Morning (GNGM) [minlee Remix]",
         "url": "https://open.spotify.com/album/6Gms2D8W5M7060RkTQchjO"
       },
@@ -1887,26 +1867,6 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "Kind of Love (feat. Ina Bravo)",
-        "url": "https://open.spotify.com/album/4OcyPubs6iPrCqw2LJCAUd"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        },
-        {
-          "name": "Ina Bravo",
-          "url": "https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Kind of Love (feat. Ina Bravo)",
-      "url": "https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r"
-    },
-    {
-      "added_at": "2026-01-23 02:07:01",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
       },
@@ -1927,22 +1887,62 @@
     {
       "added_at": "2026-01-23 02:07:01",
       "album": {
-        "name": "TWO",
-        "url": "https://open.spotify.com/album/2O0QmR1oXCc70QLwYDn03z"
+        "name": "Kind of Love (feat. Ina Bravo)",
+        "url": "https://open.spotify.com/album/4OcyPubs6iPrCqw2LJCAUd"
       },
       "artists": [
         {
-          "name": "O3ohn",
-          "url": "https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI"
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
         },
         {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+          "name": "Ina Bravo",
+          "url": "https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx"
         }
       ],
-      "duration_ms": 160500,
-      "name": "WEAR AWAY",
-      "url": "https://open.spotify.com/track/216TkxBKw3ab0WiAePZvQO"
+      "duration_ms": 200826,
+      "name": "Kind of Love (feat. Ina Bravo)",
+      "url": "https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/15jknj7bcRgBYPk1u3RaBc"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Noisy Choice",
+          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
+        }
+      ],
+      "duration_ms": 143622,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/5w1KPYqxVLZ34Bwc4pNTsq"
+    },
+    {
+      "added_at": "2026-01-23 02:07:01",
+      "album": {
+        "name": "iScreaM Vol.25 : Red Flavor Remix",
+        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "MAR VISTA",
+          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Red Flavor - Mar Vista Remix",
+      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
     }
   ],
   "unique_name": "Electronii[K]",

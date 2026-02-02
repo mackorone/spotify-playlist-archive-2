@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover: Dylan Sinclair
 
-1,643 songs - 3 day 11 hr 2 min
+1,644 songs - 3 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,7 +943,7 @@
 | [Maybe](https://open.spotify.com/track/4Q5i4B6XiPWhGOFMxYvMfO) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Maybe](https://open.spotify.com/album/1PMUQC0cN01wWBOa7JX1Tz) | 3:00 | 2025-03-28 | 2025-08-24 |
 | [Maybe](https://open.spotify.com/track/6wQtyoObNKwlt6M9Zvl202) | [MaKenzie](https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0), [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Maybe](https://open.spotify.com/album/1dFTN7Y4BMzak07Xlo8CUu) | 3:47 | 2024-03-15 | 2025-02-15 |
 | [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 | 2022-07-01 | 2022-07-16 |
-| [Meeting You Once \(The End\)](https://open.spotify.com/track/4a08u29chwEimXNJ2GbFzA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return Act II](https://open.spotify.com/album/02XrUeWA1UrWc9B5esKAM2) | 2:17 | 2025-10-10 |  |
+| [Meeting You Once \(The End\)](https://open.spotify.com/track/4a08u29chwEimXNJ2GbFzA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return Act II](https://open.spotify.com/album/02XrUeWA1UrWc9B5esKAM2) | 2:17 | 2025-10-10 | 2026-02-02 |
 | [MERCY PLEASE](https://open.spotify.com/track/36VaeS40rE82eU4mxBCJ6v) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [MERCY PLEASE](https://open.spotify.com/album/7zp1dyDCFHB2KbMLHWuZeh) | 2:53 | 2025-08-29 | 2025-09-06 |
 | [Merlot](https://open.spotify.com/track/1qWEIjCuCRlRbtrPmtEvjb) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Sidney Gilliam](https://open.spotify.com/artist/4f3YbRd80O0uo81hswwwo5) | [Merlot](https://open.spotify.com/album/5GznepRbxSMHnnnxPNUYGt) | 4:06 | 2024-07-19 | 2024-10-26 |
 | [MET YOU AT A BAR](https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [MET YOU AT A BAR](https://open.spotify.com/album/5XFDNmKIETmCv4YabIQRHP) | 2:40 | 2024-02-23 | 2024-07-20 |
@@ -1022,6 +1022,7 @@
 | [No R&B](https://open.spotify.com/track/4to9r81T8XZH2H4VPwxBZj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [No R&B](https://open.spotify.com/album/3EzKwOcet7cQm3UnJdsCVH) | 3:34 | 2021-12-15 | 2022-03-12 |
 | [No Trouble](https://open.spotify.com/track/1JQBJIjf5KVkmyjjfdKRHu) | [Jabari](https://open.spotify.com/artist/1KxiW7WB29InuGgNca2XHW) | [ULTRA](https://open.spotify.com/album/5RVCEBzJf14dJzY8Avz8yk) | 2:37 | 2025-09-05 |  |
 | [No Way](https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [No Way](https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK) | 2:53 | 2023-07-14 | 2024-01-11 |
+| [NOBLE](https://open.spotify.com/track/36jgline0lR83kGP9YFXcE) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/7kSO56we07fodbcyHOSCps) | 3:05 | 2026-02-01 |  |
 | [NOBODY ELSE](https://open.spotify.com/track/3yABhcucUufptBWbGqVrSo) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [The Sky Is Recording Me: 100 Years Later, Vol\. 3](https://open.spotify.com/album/2ghjL5JT1VKSNcshmqjrbM) | 2:37 | 2025-10-24 |  |
 | [NOBODY KNOWS](https://open.spotify.com/track/3OJ1TK767oRsv44iHeiCV9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:47 | 2022-11-11 | 2023-01-21 |
 | [Nobody Knows](https://open.spotify.com/track/1BvM9oBXDWtOjoggPrRyB6) | [Larrenwong](https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz) | [Nobody Knows](https://open.spotify.com/album/55DoOHDPppZH23KGRmRfpj) | 1:57 | 2025-08-01 | 2025-10-18 |

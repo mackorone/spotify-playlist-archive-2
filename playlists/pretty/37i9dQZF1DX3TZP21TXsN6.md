@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuwe tracks elke week! Nieuw: Marou, Massin & Kempi, CALSEY en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,479 likes - 59 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,463 likes - 59 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Niet Geven](https://open.spotify.com/track/2B53g8fU6OmblMdgaV4cmg) | [Stackz](https://open.spotify.com/artist/7JaoaPra85ySxiAoKeAUQS), [Vk](https://open.spotify.com/artist/1MFAuPu6RxxiK2DZR9PEDJ), [73RB](https://open.spotify.com/artist/3Dmnj37t2lC7tpMp983MJc), [73 De Pijp](https://open.spotify.com/artist/12iyh851ZpgQQ0iPIKefFJ), [Kaijoeyy](https://open.spotify.com/artist/62a1E9rix60fwvSx0JEcjc) | [Niet Geven](https://open.spotify.com/album/44uiJvk5unMsFNR7eI5Vb4) | 2:01 |
+| 1 | [Niet Geven](https://open.spotify.com/track/2B53g8fU6OmblMdgaV4cmg) | [Stackz](https://open.spotify.com/artist/7JaoaPra85ySxiAoKeAUQS), [Vk](https://open.spotify.com/artist/1MFAuPu6RxxiK2DZR9PEDJ), [73RB](https://open.spotify.com/artist/3Dmnj37t2lC7tpMp983MJc), [73 De Pijp](https://open.spotify.com/artist/12iyh851ZpgQQ0iPIKefFJ), [Kaijoeyy](https://open.spotify.com/artist/5Ibp4CHqfwCHUgpdKVHbZN) | [Niet Geven](https://open.spotify.com/album/44uiJvk5unMsFNR7eI5Vb4) | 2:01 |
 | 2 | [Dans](https://open.spotify.com/track/0OTujEGFH01lCNvARKmYDr) | [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Dans](https://open.spotify.com/album/2sg6inkTHiY1QGjtAzVAaC) | 2:42 |
 | 3 | [Mijn Meisje](https://open.spotify.com/track/4POwc83pKmEwTeNCMRZsx6) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK), [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [BNT Vol\. 1](https://open.spotify.com/album/2hRFLumetrIxEE4py3GnJE) | 2:33 |
 | 4 | [Nun 2 Prove](https://open.spotify.com/track/39qbvnwgoMaZAlW0H2dosg) | [NTT](https://open.spotify.com/artist/2aiK06FSZV8lWst1q1LKYQ), [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD) | [Nun 2 Prove](https://open.spotify.com/album/2ug6dqw6bwnJ7e7bSMnPmr) | 2:45 |

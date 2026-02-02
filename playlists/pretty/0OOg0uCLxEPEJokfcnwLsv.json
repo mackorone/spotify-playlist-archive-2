@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 668,
+  "num_followers": 669,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEtqBm+gq9A9qAcRGT6IrluzGbylz2",
+  "snapshot_id": "AAAEuc9p9ccOA/7a386SVTETfTVTG26Z",
   "tracks": [
     {
       "added_at": "2026-01-29 01:31:47",
@@ -525,202 +525,6 @@
       "url": "https://open.spotify.com/track/6M2aKsUboctabwZD4BnIpZ"
     },
     {
-      "added_at": "2026-01-05 13:25:37",
-      "album": {
-        "name": "Old, New, Borrowed II",
-        "url": "https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi"
-      },
-      "artists": [
-        {
-          "name": "The Lollygags",
-          "url": "https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t"
-        }
-      ],
-      "duration_ms": 207238,
-      "name": "A Cautionary Tale",
-      "url": "https://open.spotify.com/track/6pDaf6QczqxT2fu52rTxWO"
-    },
-    {
-      "added_at": "2026-01-05 13:25:48",
-      "album": {
-        "name": "Old, New, Borrowed II",
-        "url": "https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi"
-      },
-      "artists": [
-        {
-          "name": "The Lollygags",
-          "url": "https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t"
-        }
-      ],
-      "duration_ms": 198191,
-      "name": "Get Off Of My Cloud",
-      "url": "https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui"
-    },
-    {
-      "added_at": "2026-01-06 03:34:09",
-      "album": {
-        "name": "Panic Tax",
-        "url": "https://open.spotify.com/album/5BVyxf28qJwmNUdOR9GZuL"
-      },
-      "artists": [
-        {
-          "name": "Ethan William Bowers",
-          "url": "https://open.spotify.com/artist/1mNm642Xb2pIwHpkYO1dy6"
-        },
-        {
-          "name": "The Painted Strangers",
-          "url": "https://open.spotify.com/artist/3xCaCW1JCbmKulU3XRhKaX"
-        }
-      ],
-      "duration_ms": 241416,
-      "name": "All Things End",
-      "url": "https://open.spotify.com/track/5nYUZedrldN3kCDohW4OkW"
-    },
-    {
-      "added_at": "2026-01-06 15:09:56",
-      "album": {
-        "name": "SONGBOOK BURNING",
-        "url": "https://open.spotify.com/album/0HUMF75Y8H7ImKHHtODjS8"
-      },
-      "artists": [
-        {
-          "name": "Zachary Friederich",
-          "url": "https://open.spotify.com/artist/63vqahfTVk1h3kpU2o7JKk"
-        }
-      ],
-      "duration_ms": 219637,
-      "name": "My Love is an Exploding Star",
-      "url": "https://open.spotify.com/track/5eETbpiCV3FHMjEVVkHEiI"
-    },
-    {
-      "added_at": "2026-01-07 02:14:20",
-      "album": {
-        "name": "Blood Full of Metal",
-        "url": "https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB"
-      },
-      "artists": [
-        {
-          "name": "The PennyPound",
-          "url": "https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Blood Full of Metal",
-      "url": "https://open.spotify.com/track/248ljP84krXywsN09x4F4E"
-    },
-    {
-      "added_at": "2026-01-07 02:16:51",
-      "album": {
-        "name": "Bowerbird",
-        "url": "https://open.spotify.com/album/52YSSNofyjjtLsZcPAdvEL"
-      },
-      "artists": [
-        {
-          "name": "Perfect Weather for Humans",
-          "url": "https://open.spotify.com/artist/1f2FYrOXGLghWMIcjrBwFD"
-        }
-      ],
-      "duration_ms": 315276,
-      "name": "Bowerbird",
-      "url": "https://open.spotify.com/track/3bqgRiOCd9ymGlaNO4S9h6"
-    },
-    {
-      "added_at": "2026-01-07 02:18:22",
-      "album": {
-        "name": "Saffron Desert",
-        "url": "https://open.spotify.com/album/1JOu4mZyOanf5dpfaIGMm7"
-      },
-      "artists": [
-        {
-          "name": "LYSERIUS",
-          "url": "https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp"
-        }
-      ],
-      "duration_ms": 354446,
-      "name": "Saffron Desert",
-      "url": "https://open.spotify.com/track/6KYCDti7qANpsQuyUpR5h5"
-    },
-    {
-      "added_at": "2026-01-07 03:35:08",
-      "album": {
-        "name": "EQUINOCCIO",
-        "url": "https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw"
-      },
-      "artists": [
-        {
-          "name": "Rodeo Manhattan",
-          "url": "https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Eres Lo Que Quiero",
-      "url": "https://open.spotify.com/track/21SgAoUFH0EacYN57lW7mo"
-    },
-    {
-      "added_at": "2026-01-07 03:40:26",
-      "album": {
-        "name": "elvira",
-        "url": "https://open.spotify.com/album/51zYMlPIqJDH3m6h0QdJrI"
-      },
-      "artists": [
-        {
-          "name": "The Links",
-          "url": "https://open.spotify.com/artist/2TFSpXVPNjJAFyFbzitt3c"
-        }
-      ],
-      "duration_ms": 253953,
-      "name": "elvira",
-      "url": "https://open.spotify.com/track/1MN0j7rkRyjKHNnpPrRI6p"
-    },
-    {
-      "added_at": "2026-01-07 03:42:09",
-      "album": {
-        "name": "Daisyland",
-        "url": "https://open.spotify.com/album/7jDAk7n5r1qHQFNIFXGtM2"
-      },
-      "artists": [
-        {
-          "name": "no-ne",
-          "url": "https://open.spotify.com/artist/45s6knTSGIU7M3kaHSdLiy"
-        }
-      ],
-      "duration_ms": 261760,
-      "name": "The Bee",
-      "url": "https://open.spotify.com/track/6tT2Oh2O2pAgnlbu02DpOv"
-    },
-    {
-      "added_at": "2026-01-07 04:09:01",
-      "album": {
-        "name": "Sugarfoot",
-        "url": "https://open.spotify.com/album/02niz58UNJFpGGgOB3HOrO"
-      },
-      "artists": [
-        {
-          "name": "Foolish Manure",
-          "url": "https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS"
-        }
-      ],
-      "duration_ms": 161238,
-      "name": "Deathbed Confession",
-      "url": "https://open.spotify.com/track/272fKwbSnBABixCNI3gqEO"
-    },
-    {
-      "added_at": "2026-01-10 04:17:26",
-      "album": {
-        "name": "Hero of My Life",
-        "url": "https://open.spotify.com/album/2m3mXPOr21QAet7D8x6uIR"
-      },
-      "artists": [
-        {
-          "name": "Ghost Pepper Seeds",
-          "url": "https://open.spotify.com/artist/506uBknY803DW00wSWlH0u"
-        }
-      ],
-      "duration_ms": 324549,
-      "name": "Hero of My Life",
-      "url": "https://open.spotify.com/track/7nhckeFvgq2hFoPl0j9Zpx"
-    },
-    {
       "added_at": "2026-01-11 00:08:51",
       "album": {
         "name": "Seven Thirty Three",
@@ -799,22 +603,6 @@
       "duration_ms": 221914,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/5Zn0k9u2eiNpmXsB3ifoqn"
-    },
-    {
-      "added_at": "2026-01-11 21:32:11",
-      "album": {
-        "name": "December Fields",
-        "url": "https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq"
-      },
-      "artists": [
-        {
-          "name": "Kevin ISM",
-          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
-        }
-      ],
-      "duration_ms": 246224,
-      "name": "December Fields (Distribution)",
-      "url": "https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N"
     },
     {
       "added_at": "2026-01-12 02:39:10",

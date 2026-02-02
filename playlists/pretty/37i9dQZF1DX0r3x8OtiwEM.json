@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 1054164,
+  "num_followers": 1054224,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,30 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
+        "name": "Last Night (Anyma x Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 256743,
+      "name": "Last Night - Anyma x Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -223,46 +247,6 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
-        "name": "Last Night (Anyma x Layton Giordani Remix)",
-        "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
-      },
-      "artists": [
-        {
-          "name": "Loofy",
-          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 256743,
-      "name": "Last Night - Anyma x Layton Giordani Remix",
-      "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
-        "name": "ABOUT YOU",
-        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "ABOUT YOU",
-      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
@@ -279,26 +263,6 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
-        "name": "In the Moment (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/4f7J80jlBhnA3TSWdjc5KF"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 250577,
-      "name": "In the Moment - Adriatique Remix",
-      "url": "https://open.spotify.com/track/6YmTRcr74slEya3cvMsR6y"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -339,6 +303,26 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
+        "name": "In the Moment (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/4f7J80jlBhnA3TSWdjc5KF"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 250577,
+      "name": "In the Moment - Adriatique Remix",
+      "url": "https://open.spotify.com/track/6YmTRcr74slEya3cvMsR6y"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
         "name": "Could You Be Loved (with LP Giobbi)",
         "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 286879,
       "name": "Could You Be Loved (with LP Giobbi)",
       "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
+        "name": "ABOUT YOU",
+        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "ABOUT YOU",
+      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -391,26 +391,6 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
-        "name": "Eyes On Me",
-        "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
-      },
-      "artists": [
-        {
-          "name": "Nicole Moudaber",
-          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 218978,
-      "name": "Eyes On Me",
-      "url": "https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
         "name": "Contesto",
         "url": "https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA"
       },
@@ -431,26 +411,22 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
-        "name": "Loop",
-        "url": "https://open.spotify.com/album/08THJAm0P4Po6FzhvRVftg"
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
       },
       "artists": [
         {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
         },
         {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Dinia",
-          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 198764,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/5MKANTNybiKpBINi93lfj7"
+      "duration_ms": 218978,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -479,6 +455,30 @@
       "duration_ms": 384062,
       "name": "Neverender - Rampa Remix",
       "url": "https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/08THJAm0P4Po6FzhvRVftg"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Dinia",
+          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+        }
+      ],
+      "duration_ms": 198764,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/5MKANTNybiKpBINi93lfj7"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -547,26 +547,6 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
-        "name": "BLINK",
-        "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 237938,
-      "name": "Keep Love Waiting",
-      "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
         "name": "You Gonna Want Me (I Know)",
         "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
       },
@@ -587,6 +567,26 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
+        "name": "BLINK",
+        "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 237938,
+      "name": "Keep Love Waiting",
+      "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
         "name": "Little Lies",
         "url": "https://open.spotify.com/album/3r4Jl48LaSrHlKh0Lcqk7b"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 188160,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
+        "name": "EYES",
+        "url": "https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 212080,
+      "name": "EYES",
+      "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -623,22 +639,6 @@
       "duration_ms": 219047,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4J1QJwbFiinUpUvsXdagBh"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
-        "name": "EYES",
-        "url": "https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 212080,
-      "name": "EYES",
-      "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
+        "name": "Like A Dream",
+        "url": "https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "duration_ms": 253658,
+      "name": "Like A Dream",
+      "url": "https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/1w0c45yUou9pVM7qe2pvti"
       },
@@ -779,42 +799,6 @@
       "duration_ms": 268359,
       "name": "Waste my time",
       "url": "https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
-        "name": "Like A Dream",
-        "url": "https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
-        }
-      ],
-      "duration_ms": 253658,
-      "name": "Like A Dream",
-      "url": "https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 455040,
-      "name": "Ginger",
-      "url": "https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -855,6 +839,42 @@
       "duration_ms": 121818,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/3u6QGMiBRiIr3nprnSBo0s"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
+        "name": "Empty Skies",
+        "url": "https://open.spotify.com/album/1A8ijkzRwAmJuzLN6IVWxs"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        },
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "duration_ms": 214687,
+      "name": "Empty Skies",
+      "url": "https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 455040,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -919,26 +939,6 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
-        "name": "Empty Skies",
-        "url": "https://open.spotify.com/album/1A8ijkzRwAmJuzLN6IVWxs"
-      },
-      "artists": [
-        {
-          "name": "Switch Disco",
-          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
-        },
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        }
-      ],
-      "duration_ms": 214687,
-      "name": "Empty Skies",
-      "url": "https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
         "name": "Pump Up The Jam",
         "url": "https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO"
       },
@@ -971,18 +971,22 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/2lti3xxEJ9Yta59kUAq0Eg"
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/0BHheZxTmxC2fZh6mbCVx2"
       },
       "artists": [
         {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Adna",
+          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
         }
       ],
-      "duration_ms": 226200,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/2DimMk00BsDm19bbxTzY03"
+      "duration_ms": 178800,
+      "name": "Nothing (feat. Adna)",
+      "url": "https://open.spotify.com/track/4egeaqqFbTFm8heiYXbsLn"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -1007,22 +1011,18 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
-        "name": "Until We Meet Again",
-        "url": "https://open.spotify.com/album/0BHheZxTmxC2fZh6mbCVx2"
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/2lti3xxEJ9Yta59kUAq0Eg"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Adna",
-          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Nothing (feat. Adna)",
-      "url": "https://open.spotify.com/track/4egeaqqFbTFm8heiYXbsLn"
+      "duration_ms": 226200,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/2DimMk00BsDm19bbxTzY03"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -1043,6 +1043,26 @@
       "duration_ms": 225892,
       "name": "Born Like That",
       "url": "https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
+        "name": "NEWORLD II",
+        "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "DONA",
+      "url": "https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS"
     },
     {
       "added_at": "2026-01-30 05:01:03",
@@ -1147,6 +1167,22 @@
     {
       "added_at": "2026-01-30 05:01:03",
       "album": {
+        "name": "Beside You",
+        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 281826,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
+    },
+    {
+      "added_at": "2026-01-30 05:01:03",
+      "album": {
         "name": "SLOWLY",
         "url": "https://open.spotify.com/album/3VmoOOqgRIipO0Qy2k9jE2"
       },
@@ -1199,42 +1235,6 @@
       "duration_ms": 244517,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
-        "name": "Beside You",
-        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
-        "name": "NEWORLD II",
-        "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "DONA",
-      "url": "https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS"
     },
     {
       "added_at": "2026-01-30 05:01:03",

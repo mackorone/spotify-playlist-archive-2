@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Samad Khan, Shikhar, Janisht Joshi and other exciting artists.\n",
-  "num_followers": 104936,
+  "num_followers": 104982,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-01-30 09:00:54",
       "album": {
-        "name": "You're The One",
-        "url": "https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9"
-      },
-      "artists": [
-        {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        },
-        {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6"
-    },
-    {
-      "added_at": "2026-01-30 09:00:54",
-      "album": {
         "name": "Dil Tera Hi Ho Gaya",
         "url": "https://open.spotify.com/album/3CCzKWvmpgf9cCjtyankp4"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 148571,
       "name": "Dil Tera Hi Ho Gaya",
       "url": "https://open.spotify.com/track/0afYZUwHfUuYgi7JE6oQ0N"
+    },
+    {
+      "added_at": "2026-01-30 09:00:54",
+      "album": {
+        "name": "You're The One",
+        "url": "https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6"
     },
     {
       "added_at": "2026-01-30 09:00:54",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-01-30 09:00:54",
       "album": {
-        "name": "atari",
-        "url": "https://open.spotify.com/album/5PtDkXw3gSBYk1g7oDJUda"
-      },
-      "artists": [
-        {
-          "name": "roshnee",
-          "url": "https://open.spotify.com/artist/5bNlV7RugEn70UvFBW2V9D"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "atari",
-      "url": "https://open.spotify.com/track/2QbOs8LucCMsNycmZcyxaB"
-    },
-    {
-      "added_at": "2026-01-30 09:00:54",
-      "album": {
         "name": "Patang (From \"UR Debut\")",
         "url": "https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2026-01-30 09:00:54",
       "album": {
+        "name": "atari",
+        "url": "https://open.spotify.com/album/5PtDkXw3gSBYk1g7oDJUda"
+      },
+      "artists": [
+        {
+          "name": "roshnee",
+          "url": "https://open.spotify.com/artist/5bNlV7RugEn70UvFBW2V9D"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "atari",
+      "url": "https://open.spotify.com/track/2QbOs8LucCMsNycmZcyxaB"
+    },
+    {
+      "added_at": "2026-01-30 09:00:54",
+      "album": {
         "name": "Udaan",
         "url": "https://open.spotify.com/album/2IKuIWZXFYHQKRLnrbjx7L"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 220952,
       "name": "Udaan",
       "url": "https://open.spotify.com/track/5yL8CBAxa5ijWGKndCTG9T"
-    },
-    {
-      "added_at": "2026-01-30 09:00:54",
-      "album": {
-        "name": "Dooba Dooba",
-        "url": "https://open.spotify.com/album/6qe5EPxPHhvivsZPH3PMBh"
-      },
-      "artists": [
-        {
-          "name": "Suryansh",
-          "url": "https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD"
-        }
-      ],
-      "duration_ms": 202241,
-      "name": "Dooba Dooba",
-      "url": "https://open.spotify.com/track/4fmO1bhllxFwDwDCcmCtcy"
     },
     {
       "added_at": "2026-01-30 09:00:54",
@@ -963,6 +947,22 @@
       "duration_ms": 159973,
       "name": "Bhaage Naina",
       "url": "https://open.spotify.com/track/1VGTeXWTqjpwCBP5n3kwrI"
+    },
+    {
+      "added_at": "2026-01-30 09:00:54",
+      "album": {
+        "name": "Dooba Dooba",
+        "url": "https://open.spotify.com/album/6qe5EPxPHhvivsZPH3PMBh"
+      },
+      "artists": [
+        {
+          "name": "Suryansh",
+          "url": "https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD"
+        }
+      ],
+      "duration_ms": 202241,
+      "name": "Dooba Dooba",
+      "url": "https://open.spotify.com/track/4fmO1bhllxFwDwDCcmCtcy"
     },
     {
       "added_at": "2026-01-30 09:00:54",
@@ -1019,42 +1019,6 @@
     {
       "added_at": "2026-01-30 09:00:54",
       "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE"
-      },
-      "artists": [
-        {
-          "name": "Run it's the Kid",
-          "url": "https://open.spotify.com/artist/36057fby7tY856T2vg7jQj"
-        }
-      ],
-      "duration_ms": 176869,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV"
-    },
-    {
-      "added_at": "2026-01-30 09:00:54",
-      "album": {
-        "name": "Tumhare Liye",
-        "url": "https://open.spotify.com/album/7jiMxfqjDLlKm4WmE3xQuH"
-      },
-      "artists": [
-        {
-          "name": "Priyanshi Srivastava",
-          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
-        },
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        }
-      ],
-      "duration_ms": 276359,
-      "name": "Tumhare Liye",
-      "url": "https://open.spotify.com/track/3X3BnAkWoadSsoMxyBBq27"
-    },
-    {
-      "added_at": "2026-01-30 09:00:54",
-      "album": {
         "name": "Saiyyan Beiman",
         "url": "https://open.spotify.com/album/093GFPVnL9Aw4kAbSkPWUv"
       },
@@ -1075,6 +1039,22 @@
     {
       "added_at": "2026-01-30 09:00:54",
       "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE"
+      },
+      "artists": [
+        {
+          "name": "Run it's the Kid",
+          "url": "https://open.spotify.com/artist/36057fby7tY856T2vg7jQj"
+        }
+      ],
+      "duration_ms": 176869,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV"
+    },
+    {
+      "added_at": "2026-01-30 09:00:54",
+      "album": {
         "name": "Gulabi Hawa",
         "url": "https://open.spotify.com/album/3wYJA35ECM4DqK9LTxr6vx"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 138155,
       "name": "Gulabi Hawa",
       "url": "https://open.spotify.com/track/1s3JFBIpuBuRqLP8dBuUeY"
+    },
+    {
+      "added_at": "2026-01-30 09:00:54",
+      "album": {
+        "name": "Tumhare Liye",
+        "url": "https://open.spotify.com/album/7jiMxfqjDLlKm4WmE3xQuH"
+      },
+      "artists": [
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        },
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        }
+      ],
+      "duration_ms": 276359,
+      "name": "Tumhare Liye",
+      "url": "https://open.spotify.com/track/3X3BnAkWoadSsoMxyBBq27"
     },
     {
       "added_at": "2026-01-30 09:00:54",
@@ -1139,6 +1139,34 @@
     {
       "added_at": "2026-01-30 09:00:54",
       "album": {
+        "name": "Tere Hi Ho Gaye",
+        "url": "https://open.spotify.com/album/1qK2a68VrGwh0Lb3a040SZ"
+      },
+      "artists": [
+        {
+          "name": "Yash Pathak",
+          "url": "https://open.spotify.com/artist/6rCwcxRLPFehKZWB41woJW"
+        },
+        {
+          "name": "Soumyadeep Sarkar",
+          "url": "https://open.spotify.com/artist/5PwsbCGrapQnteQhVZod7L"
+        },
+        {
+          "name": "Navjot Godara",
+          "url": "https://open.spotify.com/artist/0c0qpnbcYeEhumUo9u8C2u"
+        },
+        {
+          "name": "Deepanshi Nagar",
+          "url": "https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ"
+        }
+      ],
+      "duration_ms": 202628,
+      "name": "Tere Hi Ho Gaye",
+      "url": "https://open.spotify.com/track/5eLxew7YHYs4NgXhMsthCD"
+    },
+    {
+      "added_at": "2026-01-30 09:00:54",
+      "album": {
         "name": "Monday Morning",
         "url": "https://open.spotify.com/album/1ONHoesReqVQRDbGdurVGy"
       },
@@ -1183,26 +1211,6 @@
     {
       "added_at": "2026-01-30 09:00:54",
       "album": {
-        "name": "Gustakh Dil",
-        "url": "https://open.spotify.com/album/6gyWtT1mzXqFrURC7KjILt"
-      },
-      "artists": [
-        {
-          "name": "Vibhuti Sharma",
-          "url": "https://open.spotify.com/artist/3qlog2b7fkFJvNIA8ZmrAm"
-        },
-        {
-          "name": "Aman Sharma",
-          "url": "https://open.spotify.com/artist/2jGsUaf3nyfgiIukPeX200"
-        }
-      ],
-      "duration_ms": 184990,
-      "name": "Gustakh Dil",
-      "url": "https://open.spotify.com/track/02XrFnvCmBUZEY1MkfuGJ7"
-    },
-    {
-      "added_at": "2026-01-30 09:00:54",
-      "album": {
         "name": "Saazish",
         "url": "https://open.spotify.com/album/2UOdW7KCh180SpRiPR3Lqw"
       },
@@ -1227,30 +1235,22 @@
     {
       "added_at": "2026-01-30 09:00:54",
       "album": {
-        "name": "Tere Hi Ho Gaye",
-        "url": "https://open.spotify.com/album/1qK2a68VrGwh0Lb3a040SZ"
+        "name": "Gustakh Dil",
+        "url": "https://open.spotify.com/album/6gyWtT1mzXqFrURC7KjILt"
       },
       "artists": [
         {
-          "name": "Yash Pathak",
-          "url": "https://open.spotify.com/artist/6rCwcxRLPFehKZWB41woJW"
+          "name": "Vibhuti Sharma",
+          "url": "https://open.spotify.com/artist/3qlog2b7fkFJvNIA8ZmrAm"
         },
         {
-          "name": "Soumyadeep Sarkar",
-          "url": "https://open.spotify.com/artist/5PwsbCGrapQnteQhVZod7L"
-        },
-        {
-          "name": "Navjot Godara",
-          "url": "https://open.spotify.com/artist/0c0qpnbcYeEhumUo9u8C2u"
-        },
-        {
-          "name": "Deepanshi Nagar",
-          "url": "https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ"
+          "name": "Aman Sharma",
+          "url": "https://open.spotify.com/artist/2jGsUaf3nyfgiIukPeX200"
         }
       ],
-      "duration_ms": 202628,
-      "name": "Tere Hi Ho Gaye",
-      "url": "https://open.spotify.com/track/5eLxew7YHYs4NgXhMsthCD"
+      "duration_ms": 184990,
+      "name": "Gustakh Dil",
+      "url": "https://open.spotify.com/track/02XrFnvCmBUZEY1MkfuGJ7"
     },
     {
       "added_at": "2026-01-30 09:00:54",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-01-30 09:00:54",
       "album": {
-        "name": "Ban gayi main teri piya",
-        "url": "https://open.spotify.com/album/6CJklnf3cR64FFTWfCrZA3"
-      },
-      "artists": [
-        {
-          "name": "Shrinidhi Ghatate",
-          "url": "https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW"
-        },
-        {
-          "name": "Siddharth Mahadevan",
-          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
-        }
-      ],
-      "duration_ms": 200490,
-      "name": "Ban gayi main teri piya",
-      "url": "https://open.spotify.com/track/5PMX0x8YZZydMRCmuuUePh"
-    },
-    {
-      "added_at": "2026-01-30 09:00:54",
-      "album": {
         "name": "Kehna Tumse",
         "url": "https://open.spotify.com/album/6KHC4aR4LAVQYZkHloyzPA"
       },
@@ -1319,6 +1299,50 @@
       "duration_ms": 159272,
       "name": "Kehna Tumse",
       "url": "https://open.spotify.com/track/76XUvU8RskaeXOxgQn9EQ9"
+    },
+    {
+      "added_at": "2026-01-30 09:00:54",
+      "album": {
+        "name": "Saanu Tere Naal",
+        "url": "https://open.spotify.com/album/5BmUhx8SXUqQEkcYVJatXW"
+      },
+      "artists": [
+        {
+          "name": "Aasa Singh",
+          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+        },
+        {
+          "name": "Arvinder Singh",
+          "url": "https://open.spotify.com/artist/4ZY81pabNXmCTyutcniAVW"
+        },
+        {
+          "name": "Sid Paul",
+          "url": "https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Saanu Tere Naal",
+      "url": "https://open.spotify.com/track/50LOCpH5OsXbQ9Wq0OKvbl"
+    },
+    {
+      "added_at": "2026-01-30 09:00:54",
+      "album": {
+        "name": "Ban gayi main teri piya",
+        "url": "https://open.spotify.com/album/6CJklnf3cR64FFTWfCrZA3"
+      },
+      "artists": [
+        {
+          "name": "Shrinidhi Ghatate",
+          "url": "https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW"
+        },
+        {
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+        }
+      ],
+      "duration_ms": 200490,
+      "name": "Ban gayi main teri piya",
+      "url": "https://open.spotify.com/track/5PMX0x8YZZydMRCmuuUePh"
     },
     {
       "added_at": "2026-01-30 09:00:54",
@@ -1375,6 +1399,34 @@
     {
       "added_at": "2026-01-30 09:00:54",
       "album": {
+        "name": "Izhaar",
+        "url": "https://open.spotify.com/album/7MC8Onu5LOsmekmDcQwSEC"
+      },
+      "artists": [
+        {
+          "name": "YXTO",
+          "url": "https://open.spotify.com/artist/4Nhl3LGtmf1UEZjlNG5nyI"
+        },
+        {
+          "name": "Trivekza",
+          "url": "https://open.spotify.com/artist/3Zdry70AZZtyu3TqCC3YUG"
+        },
+        {
+          "name": "CJ CHIRAG",
+          "url": "https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV"
+        },
+        {
+          "name": "Raib Ansari M",
+          "url": "https://open.spotify.com/artist/74ze9NQTCrCKZDRJ5GXeQC"
+        }
+      ],
+      "duration_ms": 169143,
+      "name": "Bekhudi",
+      "url": "https://open.spotify.com/track/6e17QkGSkLlFoxZgDv5n0N"
+    },
+    {
+      "added_at": "2026-01-30 09:00:54",
+      "album": {
         "name": "Junoon",
         "url": "https://open.spotify.com/album/7duiK2eKEnE4sl7dGbIx72"
       },
@@ -1387,30 +1439,6 @@
       "duration_ms": 257614,
       "name": "Junoon",
       "url": "https://open.spotify.com/track/7HRXtrwY5dLY91d5VzTLOB"
-    },
-    {
-      "added_at": "2026-01-30 09:00:54",
-      "album": {
-        "name": "Saanu Tere Naal",
-        "url": "https://open.spotify.com/album/5BmUhx8SXUqQEkcYVJatXW"
-      },
-      "artists": [
-        {
-          "name": "Aasa Singh",
-          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
-        },
-        {
-          "name": "Arvinder Singh",
-          "url": "https://open.spotify.com/artist/4ZY81pabNXmCTyutcniAVW"
-        },
-        {
-          "name": "Sid Paul",
-          "url": "https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Saanu Tere Naal",
-      "url": "https://open.spotify.com/track/50LOCpH5OsXbQ9Wq0OKvbl"
     },
     {
       "added_at": "2026-01-30 09:00:54",
@@ -1455,34 +1483,6 @@
     {
       "added_at": "2026-01-30 09:00:54",
       "album": {
-        "name": "Izhaar",
-        "url": "https://open.spotify.com/album/7MC8Onu5LOsmekmDcQwSEC"
-      },
-      "artists": [
-        {
-          "name": "YXTO",
-          "url": "https://open.spotify.com/artist/4Nhl3LGtmf1UEZjlNG5nyI"
-        },
-        {
-          "name": "Trivekza",
-          "url": "https://open.spotify.com/artist/3Zdry70AZZtyu3TqCC3YUG"
-        },
-        {
-          "name": "CJ CHIRAG",
-          "url": "https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV"
-        },
-        {
-          "name": "Raib Ansari M",
-          "url": "https://open.spotify.com/artist/74ze9NQTCrCKZDRJ5GXeQC"
-        }
-      ],
-      "duration_ms": 169143,
-      "name": "Bekhudi",
-      "url": "https://open.spotify.com/track/6e17QkGSkLlFoxZgDv5n0N"
-    },
-    {
-      "added_at": "2026-01-30 09:00:54",
-      "album": {
         "name": "Sard",
         "url": "https://open.spotify.com/album/3TWFhMPqCHbx97mFqhmjeF"
       },
@@ -1515,22 +1515,18 @@
     {
       "added_at": "2026-01-30 09:00:54",
       "album": {
-        "name": "Befikra",
-        "url": "https://open.spotify.com/album/4owOgyrIaAaZfZqWsTGFS5"
+        "name": "Saans Bharlu",
+        "url": "https://open.spotify.com/album/6WSjY7WP5xxG8gojnmjnEQ"
       },
       "artists": [
         {
-          "name": "Shradha Mishra",
-          "url": "https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7"
-        },
-        {
-          "name": "Yash Mishra",
-          "url": "https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi"
+          "name": "Raghvansh",
+          "url": "https://open.spotify.com/artist/5GmdJXkk970lvGZ94UNBSl"
         }
       ],
-      "duration_ms": 190909,
-      "name": "Befikra",
-      "url": "https://open.spotify.com/track/3eTPW7zWFQNghrizc7BODu"
+      "duration_ms": 197454,
+      "name": "Saans Bharlu",
+      "url": "https://open.spotify.com/track/0mKEM8JHj0GfFcstcASLqb"
     }
   ],
   "unique_name": "Naya Indiestan",

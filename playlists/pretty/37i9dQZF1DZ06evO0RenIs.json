@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 97391,
+  "num_followers": 97393,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXv0gAAAAAC4rOHAMKAtLWtaY9aap7YJ",
+  "snapshot_id": "aX1GAAAAAAA1YFrkf4CxVO7MQ7d4dikJ",
   "tracks": [
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 224973,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/4N7159SXtxwObOFhimCLGW"
+      "duration_ms": 167840,
+      "name": "Lasso",
+      "url": "https://open.spotify.com/track/3LENMSJJU0LLqcdVgf4JVW"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 167840,
-      "name": "Lasso",
-      "url": "https://open.spotify.com/track/3LENMSJJU0LLqcdVgf4JVW"
+      "duration_ms": 224973,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/4N7159SXtxwObOFhimCLGW"
     },
     {
       "added_at": null,

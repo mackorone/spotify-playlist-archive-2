@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1071313,
+  "num_followers": 1071268,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
+        "name": "Bright Idea",
+        "url": "https://open.spotify.com/album/3CbD5meaudNYNl42Ldw7Tp"
+      },
+      "artists": [
+        {
+          "name": "Orson",
+          "url": "https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "Bright Idea",
+      "url": "https://open.spotify.com/track/2bNivLleNjHDgPonfchAfo"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/5D7wyvS4OM7u1PvEH2k3FO"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 205250,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "Bright Idea",
-        "url": "https://open.spotify.com/album/3CbD5meaudNYNl42Ldw7Tp"
-      },
-      "artists": [
-        {
-          "name": "Orson",
-          "url": "https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "Bright Idea",
-      "url": "https://open.spotify.com/track/2bNivLleNjHDgPonfchAfo"
     },
     {
       "added_at": "2024-03-22 16:40:22",

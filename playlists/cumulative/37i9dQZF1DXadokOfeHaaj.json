@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 278154,
       "name": "Damaged Goods",
       "url": "https://open.spotify.com/track/4k1d1w9S7qxxMcPwvz4THV"
@@ -3508,6 +3508,24 @@
       "duration_ms": 242943,
       "name": "Is This Where It Ends",
       "url": "https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T"
+    },
+    {
+      "album": {
+        "name": "It Always Was",
+        "url": "https://open.spotify.com/album/1NzBNfRbGEuKelVdllaVq8"
+      },
+      "artists": [
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152449,
+      "name": "It Always Was",
+      "url": "https://open.spotify.com/track/70RnHM8LkHb01drKirYcm2"
     },
     {
       "album": {

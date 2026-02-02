@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,814 songs - 6 day 1 hr 55 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,815 songs - 6 day 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2822,5 +2822,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2812 | [Go Psycho](https://open.spotify.com/track/5ETepK6uZZgKy0Ti4nYO5j) | [HYPRDRVE](https://open.spotify.com/artist/0LEDohWJbpNV65CY3acjUS) | [Go Psycho](https://open.spotify.com/album/3XwoKzwfte8b4wodRDELNl) | 2:09 |
 | 2813 | [UwU](https://open.spotify.com/track/1VuKkCYSgPnOXQRGUrHTaX) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [UwU](https://open.spotify.com/album/0jHp6fH7kjS1STG0Bw7mse) | 2:27 |
 | 2814 | [666](https://open.spotify.com/track/3RCHJgOwnqbnvkrK8LgFO3) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX) | [666](https://open.spotify.com/album/1jiGIv2z3VGxFG8wAOcOOG) | 3:25 |
+| 2815 | [RECKLESS](https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [RECKLESS](https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE) | 2:40 |
 
-Snapshot ID: `AAALT2hyUD5+Dw37mP57GLWxvPoFK0r0`
+Snapshot ID: `AAALUNaxUsw59cRLzsI1fX0JKWkwx+OR`

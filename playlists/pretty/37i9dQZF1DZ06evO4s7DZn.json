@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 9426,
+  "num_followers": 9430,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXv0gAAAAADyNASNJWq1E35i9fgsLx3s",
+  "snapshot_id": "aX1GAAAAAAA8q9t2/+igTI2dGLCtLFuE",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Todav\u00eda Hay Amor",
-        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
+        "name": "Cari\u00f1o Donde Andaras",
+        "url": "https://open.spotify.com/album/0B1b5XWLxUdAz54oCsG1VH"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 208773,
-      "name": "Algo Sin Igual",
-      "url": "https://open.spotify.com/track/32U4fpsJyL9akGOX0jbj8E"
+      "duration_ms": 301578,
+      "name": "Yo Te Amo",
+      "url": "https://open.spotify.com/track/7wrkulb0HE7RTrXjfOxqwf"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cari\u00f1o Donde Andaras",
-        "url": "https://open.spotify.com/album/0B1b5XWLxUdAz54oCsG1VH"
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 301578,
-      "name": "Yo Te Amo",
-      "url": "https://open.spotify.com/track/7wrkulb0HE7RTrXjfOxqwf"
+      "duration_ms": 208773,
+      "name": "Algo Sin Igual",
+      "url": "https://open.spotify.com/track/32U4fpsJyL9akGOX0jbj8E"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 201613,
-      "name": "Se Termino Lo Nuestro",
-      "url": "https://open.spotify.com/track/6VNEA24QBwFvuDIZw6zrYH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy de Carne Y Hueso",
         "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 201613,
+      "name": "Se Termino Lo Nuestro",
+      "url": "https://open.spotify.com/track/6VNEA24QBwFvuDIZw6zrYH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Banda Rafaga En Vivo Desde Tepic, Nayarit",
         "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 414000,
       "name": "Carola - En Vivo",
       "url": "https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 196101,
-      "name": "Ya para Que",
-      "url": "https://open.spotify.com/track/4xQ8BFRwZpcshakCveg3E1"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 179546,
       "name": "La \u00daltima L\u00e1grima",
       "url": "https://open.spotify.com/track/7jg5POsCAqmOsqsvlnjDcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 196101,
+      "name": "Ya para Que",
+      "url": "https://open.spotify.com/track/4xQ8BFRwZpcshakCveg3E1"
     }
   ],
   "unique_name": "This Is Banda Rafaga",

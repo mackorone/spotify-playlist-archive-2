@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,308 songs - 5 day 3 hr 42 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,316 songs - 5 day 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2316,5 +2316,13 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2306 | [Se Voce Nao Quer Passa a Vez](https://open.spotify.com/track/7snnTlaWaN39nfN1PhUaT8) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Se Voce Nao Quer Passa a Vez](https://open.spotify.com/album/7mSEULBduMtsKcy7w7QgWk) | 2:13 |
 | 2307 | [Dirty Harry \(feat\. Bootie Brown\)](https://open.spotify.com/track/2bfGNzdiRa1jXZRdfssSzR) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:50 |
 | 2308 | [Vuk Vuk](https://open.spotify.com/track/4QUb9n7gFsDAmfBahFBFWK) | [VXEL](https://open.spotify.com/artist/4iaNizg8r7g1pi2dexE4Hc) | [Vuk Vuk](https://open.spotify.com/album/2uD8VYHFQN9Lr5jgz9lcLB) | 2:37 |
+| 2309 | [the kill 2](https://open.spotify.com/track/3R9ABUfepu50aVNh08RAdL) | [Lex Amarni](https://open.spotify.com/artist/1GJLP5vEHWn08VOlzfR8ID), [2muchmotion](https://open.spotify.com/artist/1DW3WjdUKh9hvg2bh89IVw) | [the kill 2](https://open.spotify.com/album/5KHDih5cpd82fdPt9CDHSP) | 2:01 |
+| 2310 | [It's Wack](https://open.spotify.com/track/6z9aUJ8AlQMFj5fqeG2RKR) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw), [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg) | [WFM](https://open.spotify.com/album/5r6WVMMWvmJ0lSGafuflfp) | 4:56 |
+| 2311 | [50/50](https://open.spotify.com/track/3I4G8p5a0n1I7owUfaUUpH) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [50/50](https://open.spotify.com/album/0CfK7axWPYSxqUpnaMhECd) | 3:35 |
+| 2312 | [XY](https://open.spotify.com/track/5kI88ybsxuqXdmnOATVXN7) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [What The Feng](https://open.spotify.com/album/5asi6xhIro5qMzaEojet0l) | 2:19 |
+| 2313 | [purrr \(at the goth club\)](https://open.spotify.com/track/0dyaPZLwK52rY7ysOvBwt2) | [jecta](https://open.spotify.com/artist/5D904KJAspKAyVpUPrXRK6) | [purrr \(at the goth club\)](https://open.spotify.com/album/1FjsYb9Qa1Ml2EpWoqv7wO) | 3:20 |
+| 2314 | [Drugs](https://open.spotify.com/track/6AKSYkwnAZMz6bWMuY7JUQ) | [Sonic Mine](https://open.spotify.com/artist/4J6pkrgsk24N50oIM2fpdw) | [Pump This Party](https://open.spotify.com/album/3L7pe3S6yi3DUq3Hr69oQY) | 3:37 |
+| 2315 | [do…youloveme?, 4ever&ever.](https://open.spotify.com/track/75RdEWciO7PwGQPcCJiRRv) | [Blythe Star](https://open.spotify.com/artist/4iNkH6gh0eYi0FiLfpVqf4) | [do…youloveme?, 4ever&ever.](https://open.spotify.com/album/0K33AadWUHxeUmfncCVFsG) | 5:13 |
+| 2316 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
 
-Snapshot ID: `AAAFApe5SDC8vkFK6lRfrygsn1s7sisa`
+Snapshot ID: `AAAFC8SoGgEsvteqkDqfaJLBBOnHI76Q`

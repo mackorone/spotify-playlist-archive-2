@@ -8949,6 +8949,24 @@
     },
     {
       "album": {
+        "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
+        "url": "https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156214,
+      "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
+      "url": "https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8"
+    },
+    {
+      "album": {
         "name": "Kyl S\u00e4 Tii\u00e4t",
         "url": "https://open.spotify.com/album/20OcRKV8CQyRGj7uA1uyh0"
       },
@@ -9998,7 +10016,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 218159,
       "name": "Lohik\u00e4\u00e4rme",
       "url": "https://open.spotify.com/track/1aYzlHJla01Kam316YVADh"

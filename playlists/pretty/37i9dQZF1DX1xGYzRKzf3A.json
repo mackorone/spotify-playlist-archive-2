@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 168489,
+  "num_followers": 168517,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,26 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Punta Cana",
+        "url": "https://open.spotify.com/album/3YvrPSD94Th9TvHcykVsyK"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 168230,
+      "name": "Punta Cana",
+      "url": "https://open.spotify.com/track/1TPAAS0YvLKzmDMAGrRd6i"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Punta Cana",
-        "url": "https://open.spotify.com/album/3YvrPSD94Th9TvHcykVsyK"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 168230,
-      "name": "Punta Cana",
-      "url": "https://open.spotify.com/track/1TPAAS0YvLKzmDMAGrRd6i"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 245481,
-      "name": "C\u00edrculo De Amor",
-      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "El Empresario",
         "url": "https://open.spotify.com/album/5i0mRNIGDibaCnpqN7bw94"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 223912,
       "name": "El Empresario",
       "url": "https://open.spotify.com/track/2HXqNMrEBpxfDHVlz9CEgC"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 245481,
+      "name": "C\u00edrculo De Amor",
+      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Te Hubieras Ido Antes",
+        "url": "https://open.spotify.com/album/4qbIKGbmkRRu5MEdIGKM56"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 193104,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/29abLTf6kqg1j1HMUBzJ0o"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Libres Y Locos",
         "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 168986,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/2psCHGIWluVtlfEVKEFUM7"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Te Hubieras Ido Antes",
-        "url": "https://open.spotify.com/album/4qbIKGbmkRRu5MEdIGKM56"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 193104,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/29abLTf6kqg1j1HMUBzJ0o"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "LOS CHICOS DEL NORTE",
-        "url": "https://open.spotify.com/album/6qbPsvUX9w5CYvNT55hi8m"
-      },
-      "artists": [
-        {
-          "name": "Kevis & Maykyy",
-          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
-        },
-        {
-          "name": "Big Sempa",
-          "url": "https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "BACK TO THE 90s",
-      "url": "https://open.spotify.com/track/4eZwTqnEhXNcbk2rqU8sZT"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Comienza la Dinast\u00eda",
         "url": "https://open.spotify.com/album/5amCWiTFY5plEsClsvBFZH"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 188540,
       "name": "Ella Te Enga\u00f1a",
       "url": "https://open.spotify.com/track/26StxwJZilB1s1Ha5UfuYW"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "LOS CHICOS DEL NORTE",
+        "url": "https://open.spotify.com/album/6qbPsvUX9w5CYvNT55hi8m"
+      },
+      "artists": [
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        },
+        {
+          "name": "Big Sempa",
+          "url": "https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "BACK TO THE 90s",
+      "url": "https://open.spotify.com/track/4eZwTqnEhXNcbk2rqU8sZT"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "El Rosario (Bonus Track)",
-        "url": "https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "El Rosario - Bonus Track",
-      "url": "https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Busc\u00e1ndome",
         "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 256086,
       "name": "Busc\u00e1ndome",
       "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "El Rosario (Bonus Track)",
+        "url": "https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "El Rosario - Bonus Track",
+      "url": "https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "No Es Que No Te Quiera Pero\u2026",
+        "url": "https://open.spotify.com/album/4lT9QcAZdlOvF6Ah0AbtEn"
+      },
+      "artists": [
+        {
+          "name": "SERBIA",
+          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Su\u00e9ltame",
+      "url": "https://open.spotify.com/track/75yiR81pmYJw0l882dGRHM"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "donde qued\u00e9 yo?",
         "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
       },
@@ -1907,22 +1923,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "No Es Que No Te Quiera Pero\u2026",
-        "url": "https://open.spotify.com/album/4lT9QcAZdlOvF6Ah0AbtEn"
-      },
-      "artists": [
-        {
-          "name": "SERBIA",
-          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Su\u00e9ltame",
-      "url": "https://open.spotify.com/track/75yiR81pmYJw0l882dGRHM"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Scratch De Versos",
         "url": "https://open.spotify.com/album/7sRbfBmwb0jFdmyUJEJh28"
       },
@@ -1935,26 +1935,6 @@
       "duration_ms": 180750,
       "name": "Materia Gris",
       "url": "https://open.spotify.com/track/6dUdzcJRYT2uvPZxKptycR"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Beso de Novela",
-        "url": "https://open.spotify.com/album/59fdDCsawh4fwKGTqfECbD"
-      },
-      "artists": [
-        {
-          "name": "Rivs",
-          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "Beso de Novela",
-      "url": "https://open.spotify.com/track/4TOIbly1a3G25HrrPWZRRB"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1987,6 +1967,26 @@
       "duration_ms": 230730,
       "name": "Nube Viajera",
       "url": "https://open.spotify.com/track/2YPUSBvQwfFgfe6aIsW69j"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Beso de Novela",
+        "url": "https://open.spotify.com/album/59fdDCsawh4fwKGTqfECbD"
+      },
+      "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 166480,
+      "name": "Beso de Novela",
+      "url": "https://open.spotify.com/track/4TOIbly1a3G25HrrPWZRRB"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2043,26 +2043,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Vas A Perrear Como Nunca Has Perreado",
-        "url": "https://open.spotify.com/album/1y9iZhEA1xlPbG8gYFPCbb"
-      },
-      "artists": [
-        {
-          "name": "Dj Aza",
-          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
-        },
-        {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
-        }
-      ],
-      "duration_ms": 136156,
-      "name": "Vas A Perrear Como Nunca Has Perreado",
-      "url": "https://open.spotify.com/track/2bKVmT0K33VdKgKxrRhU9I"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/4spOiFzbH5Q2ORqtPcREG5"
       },
@@ -2079,6 +2059,26 @@
       "duration_ms": 184736,
       "name": "24/7",
       "url": "https://open.spotify.com/track/4K4ks2NpTorYdGIitosc5U"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Vas A Perrear Como Nunca Has Perreado",
+        "url": "https://open.spotify.com/album/1y9iZhEA1xlPbG8gYFPCbb"
+      },
+      "artists": [
+        {
+          "name": "Dj Aza",
+          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
+        },
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        }
+      ],
+      "duration_ms": 136156,
+      "name": "Vas A Perrear Como Nunca Has Perreado",
+      "url": "https://open.spotify.com/track/2bKVmT0K33VdKgKxrRhU9I"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "EMILIANO",
+        "url": "https://open.spotify.com/album/3TQ4j44ZbMGtoPigfLTh6R"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "duration_ms": 200597,
+      "name": "el afortunado",
+      "url": "https://open.spotify.com/track/3FRHIzYjG3xiK9VFTaBaqi"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Colgando En Tus Manos (En Vivo)",
         "url": "https://open.spotify.com/album/1UxIU3tJp20lUahFtBaFY5"
       },
@@ -2151,42 +2167,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "EMILIANO",
-        "url": "https://open.spotify.com/album/3TQ4j44ZbMGtoPigfLTh6R"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        }
-      ],
-      "duration_ms": 200597,
-      "name": "el afortunado",
-      "url": "https://open.spotify.com/track/3FRHIzYjG3xiK9VFTaBaqi"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Es As\u00ed",
-        "url": "https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Sam Vazquez",
-          "url": "https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq"
-        }
-      ],
-      "duration_ms": 207980,
-      "name": "Es As\u00ed",
-      "url": "https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Soy Lo Prohibido",
         "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
@@ -2203,6 +2183,26 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "duration_ms": 266055,
+      "name": "Otra salida",
+      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "#El Regreso",
         "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
       },
@@ -2215,6 +2215,22 @@
       "duration_ms": 226965,
       "name": "Tu Forma De Ser",
       "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "SaD </3 VaLENTIN",
+        "url": "https://open.spotify.com/album/2qBckyoECTiIXjvxugEnkw"
+      },
+      "artists": [
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        }
+      ],
+      "duration_ms": 179594,
+      "name": "Sexo Con Tu Ex",
+      "url": "https://open.spotify.com/track/5DxDTVexCtiHtSk0GQCybW"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2243,42 +2259,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "SaD </3 VaLENTIN",
-        "url": "https://open.spotify.com/album/2qBckyoECTiIXjvxugEnkw"
-      },
-      "artists": [
-        {
-          "name": "Valdo Rodriguez",
-          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
-        }
-      ],
-      "duration_ms": 179594,
-      "name": "Sexo Con Tu Ex",
-      "url": "https://open.spotify.com/track/5DxDTVexCtiHtSk0GQCybW"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Verde",
-        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
-        }
-      ],
-      "duration_ms": 266055,
-      "name": "Otra salida",
-      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/5mS2VooMYaBTuxqm9siExC"
       },
@@ -2303,6 +2283,26 @@
       "duration_ms": 203555,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/78MlxXcdUIYlYH5TNSjEut"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Es As\u00ed",
+        "url": "https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Sam Vazquez",
+          "url": "https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq"
+        }
+      ],
+      "duration_ms": 207980,
+      "name": "Es As\u00ed",
+      "url": "https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY"
     },
     {
       "added_at": "2025-11-09 06:50:57",

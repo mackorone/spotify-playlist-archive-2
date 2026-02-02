@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:NO11
 
-694 songs - 1 day 8 hr 39 min
+695 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,7 +589,7 @@
 | [Something Special](https://open.spotify.com/track/4vW1HwzceCsO8EWA8YJSBu) | [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Begho](https://open.spotify.com/artist/3TTy6LYKVib6oOmyEq0QZb) | [Something Special](https://open.spotify.com/album/5pHSz7BQnbY0Sw3jkQ1X6h) | 2:21 | 2023-09-29 | 2023-10-10 |
 | [Soro](https://open.spotify.com/track/6q85h6RomSM8STj1Qbpk3E) | [Bizzonthetrack](https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG), [Bliizzy](https://open.spotify.com/artist/5bTtiKQwOpHRD5Mf5TTyPN) | [Crescendo](https://open.spotify.com/album/3TZIgQWteQktQ1HLS5776X) | 3:16 | 2023-03-25 | 2023-04-12 |
 | [Soro](https://open.spotify.com/track/2dVQommY8nXPpWHoE3dCBX) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Soro](https://open.spotify.com/album/4LvhQBl1WJd8ZdUh5YL3et) | 3:05 | 2024-03-01 | 2024-11-22 |
-| [Space](https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Space](https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN) | 3:06 | 2025-05-16 |  |
+| [Space](https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Space](https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN) | 3:06 | 2025-05-16 | 2026-02-02 |
 | [Speak In Tongues](https://open.spotify.com/track/0eaY230Y03z4AI2OApMFgn) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Speak In Tongues](https://open.spotify.com/album/3vTsGoGuFPrXctZmfKQ9HC) | 3:22 | 2023-11-17 | 2023-11-21 |
 | [SPIN DA BLOCK](https://open.spotify.com/track/2YT1PCNcxZJaYyQRKo67DM) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ \(DELUXE\)](https://open.spotify.com/album/3gYxC3PsBBi3MZR2678Djo) | 3:18 | 2024-05-03 | 2024-11-22 |
 | [Stacks](https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Stacks](https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u) | 2:57 | 2022-06-09 | 2022-12-03 |
@@ -644,6 +644,7 @@
 | [Unbeliever](https://open.spotify.com/track/362VDvgZDpaA4kact7PU2O) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR) | [POISN](https://open.spotify.com/album/3WILfuknm2R78qFkJxrzyZ) | 2:24 | 2023-11-24 | 2023-12-17 |
 | [Untitled \(feat\. Odumodublvck, PsychoYP\)](https://open.spotify.com/track/5KpWVmwVJnwI5Lnu9uDumP) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Psycho YP](https://open.spotify.com/artist/4eL65uA4fJr2CI6u3h2kaJ) | [Untitled \(feat\. Odumodublvck, PsychoYP\)](https://open.spotify.com/album/3ccI3rN8btuN5jv0Amk0Uk) | 3:15 | 2024-04-26 | 2024-05-03 |
 | [Up](https://open.spotify.com/track/17mf9XIYI25YOaBolVvZXB) | [Tena Tenpo](https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN), [benmaelen](https://open.spotify.com/artist/7rQenKdDeM6d5o7GOBwWnq), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [Color Blind](https://open.spotify.com/album/2u0YrATRVSaGfjArfIshdX) | 3:24 | 2023-05-04 | 2023-05-13 |
+| [Up To The Sky](https://open.spotify.com/track/0C5EAk8CLWstW061MaIqBD) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [YAZI](https://open.spotify.com/album/47vElf8frT0kCgKE3qLcC7) | 2:18 | 2026-01-30 |  |
 | [UPDATE](https://open.spotify.com/track/3MOIM8ODmal0b7N4m4VaBY) | [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [UPDATE](https://open.spotify.com/album/1aWhxaiuigcJSg4OAPlSb7) | 2:25 | 2024-09-13 | 2025-06-14 |
 | [US](https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [US](https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X) | 2:19 | 2025-06-20 |  |
 | [Vawulence](https://open.spotify.com/track/7oNKjJYsdUUmshMyxjKHTl) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Vawulence](https://open.spotify.com/album/119mHn5zmu5HNlZhQKcuVB) | 3:05 | 2022-08-25 | 2022-12-06 |

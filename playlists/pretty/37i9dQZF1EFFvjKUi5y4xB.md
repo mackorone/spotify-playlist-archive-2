@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2OQUEjDiPXqgRWrUP6v3mU">Jozzy</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 114 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18 likes - 114 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 47 | [Where You Want](https://open.spotify.com/track/43wKRbV4ZvC6AoCR05zGMh) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Where You Want](https://open.spotify.com/album/1Pl10i0UUrGwR7JYIywlR4) | 2:18 |
 | 48 | [Facts \(feat\. YG, Rich The Kid & BIA\)](https://open.spotify.com/track/2k5W7eyzobMFd1a1Xisf3w) | [Chantel Jeffries](https://open.spotify.com/artist/2HFuviZiAYhouKgvRX0y45), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Facts \(feat\. YG, Rich The Kid & BIA\)](https://open.spotify.com/album/7kN33AZ16jN976NF6vBmE2) | 3:27 |
 | 49 | [Caught Up](https://open.spotify.com/track/7lqaw4hj1vy2YYkr6Fn7Lq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:50 |
-| 50 | [Destiny](https://open.spotify.com/track/6tHMlD7OpbA4JeoJjwN74z) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Second Nature](https://open.spotify.com/album/265qYIYPxwGIkeGPfuFFBU) | 4:02 |
+| 50 | [Destiny](https://open.spotify.com/track/1iKkaI98zLjSH07G0rkt1e) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Second Nature](https://open.spotify.com/album/0SUfKH80GjuKbA5dTWSwkh) | 4:02 |
 | 51 | [Pass It \(feat\. G\-Eazy\)](https://open.spotify.com/track/4h0QQdrUaJjxSOrOjZQbz0) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Pass It \(feat\. G\-Eazy\)](https://open.spotify.com/album/71HOMe8FwF9Jvmbu2H01bT) | 2:20 |
 | 52 | [Gucci Pajamas \(feat\. Chance the Rapper & Charlie Wilson\)](https://open.spotify.com/track/2lujaBUGguOl1Rr2mI1Len) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Dior Deposits](https://open.spotify.com/album/3b5bP24e7bIUZeqXUsZWfa) | 3:24 |
 | 53 | [Just Right for Me \(feat\. Lil Wayne\)](https://open.spotify.com/track/5QWkNtNkhWLLKpQngO6S06) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:20 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 103 | [Door No.2](https://open.spotify.com/track/47uhP9GwLEbUVi4msjCSiU) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Great Escape](https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps) | 2:52 |
 | 104 | [Suga](https://open.spotify.com/track/6hxXriaJ6Uf3riLxQsN3CA) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:21 |
 | 105 | [Replay](https://open.spotify.com/track/7LENqRaHiHacJvpQcuuTJt) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:23 |
-| 106 | [Push Thru](https://open.spotify.com/track/0rkvjZuAO56gvlFdsokv5w) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Push Thru](https://open.spotify.com/album/3yAVmXJQVOjtoE2npitBaS) | 3:49 |
-| 107 | [Freedom](https://open.spotify.com/track/0szaILbfBYQ8rO5h8bHLLv) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Freedom](https://open.spotify.com/album/3zltPmOeb6jwbDxwE8yd2z) | 3:03 |
+| 106 | [Freedom](https://open.spotify.com/track/0szaILbfBYQ8rO5h8bHLLv) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Freedom](https://open.spotify.com/album/3zltPmOeb6jwbDxwE8yd2z) | 3:03 |
+| 107 | [Push Thru](https://open.spotify.com/track/0rkvjZuAO56gvlFdsokv5w) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Push Thru](https://open.spotify.com/album/3yAVmXJQVOjtoE2npitBaS) | 3:49 |
 | 108 | [Knife](https://open.spotify.com/track/5E9baT9kS0AZryjOQKwHDi) | [Skinnyfromthe9](https://open.spotify.com/artist/5yJ8UM2G0BWZpvplnY4iln) | [It's an Evil World](https://open.spotify.com/album/7uWkmDHhumFMMNOe0XpEX5) | 2:40 |
 | 109 | [Popular](https://open.spotify.com/track/2fWS8C0jDYqP0eSF7cKwrY) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Popular](https://open.spotify.com/album/4ZUvFLlyJfIvJUPhMHPo8A) | 3:15 |
 | 110 | [She Asked Me](https://open.spotify.com/track/4UWx61fJ2lmA6TcXOqsRtq) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:12 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 113 | [Songs for Women](https://open.spotify.com/track/5gRUEMbzjBYe146BYIUlXK) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:28 |
 | 114 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
 
-Snapshot ID: `AcIctgAAAABg61yjNY7CTF7okhC0RN9l`
+Snapshot ID: `AcIiVgAAAACMbbn1hzyRn7l9YE0Bl3kZ`

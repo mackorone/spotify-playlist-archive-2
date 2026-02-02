@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 63457,
+  "num_followers": 63464,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXv0gAAAAACNs8PUd/OwJYgynB9uSZD/",
+  "snapshot_id": "aX1GAAAAAADc4AIQhpoSYabiufvZnQSc",
   "tracks": [
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u2026Que viva el vallenato!",
-        "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 296013,
-      "name": "Cuando Vuelvas",
-      "url": "https://open.spotify.com/track/4DIUQD8fBn7ondOghonHa8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Nuestro",
         "url": "https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u2026Que viva el vallenato!",
+        "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 296013,
+      "name": "Cuando Vuelvas",
+      "url": "https://open.spotify.com/track/4DIUQD8fBn7ondOghonHa8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De La Mano Con El Pueblo",
         "url": "https://open.spotify.com/album/5nCKUZvev5ocWCIICjFvO8"
       },
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 302950,
-      "name": "Solo Por Ti",
-      "url": "https://open.spotify.com/track/5biz82cvckw47XRp26iJwT"
+      "duration_ms": 319826,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/0ZrddFVnZp5galGScp8NK5"
     },
     {
       "added_at": null,

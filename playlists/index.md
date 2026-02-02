@@ -184,7 +184,7 @@
 - [256 Bars](/playlists/pretty/37i9dQZF1DX28OajZ4kQnX.md)
 - [2NE1 CONCERT \[WELCOME BACK\]](/playlists/pretty/37i9dQZF1DWTaVx3bGepdB.md)
 - [30 Days of New Unsigned Music](/playlists/pretty/1c66mgdrPmio97QsJHNN2M.md)
-- [30 KM/H \- TOTAL NORSK TAKEOVER](/playlists/pretty/37i9dQZF1DX0sQWfevMRw3.md)
+- [30 km/h](/playlists/pretty/37i9dQZF1DX0sQWfevMRw3.md)
 - [303 Classics](/playlists/pretty/37i9dQZF1DX202yvKb0g9m.md)
 - [360 Dance](/playlists/pretty/37i9dQZF1DWTwCImwcYjDL.md)
 - [365 Days Official Playlist](/playlists/pretty/37i9dQZF1DX0JXQl1bmFgT.md)

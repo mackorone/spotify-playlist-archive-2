@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 251 likes - 1,831 songs - 4 day 14 hr 45 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 252 likes - 1,832 songs - 4 day 14 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1839,5 +1839,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1829 | [Dissonance](https://open.spotify.com/track/7ojTGZAKHV9QVswnIWaHnt) | [Ambith](https://open.spotify.com/artist/4fAMSGI9YBnkkkNx8dsyF2) | [Dissonance](https://open.spotify.com/album/1qgZndhIljvvCFIupC6Fct) | 3:58 |
 | 1830 | [Latido](https://open.spotify.com/track/4EbWNHuIQT77zPekmQXv03) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Latido](https://open.spotify.com/album/0JfNRexOOM77SDxARoTJxl) | 3:00 |
 | 1831 | [Mud, Sweat, and Tears](https://open.spotify.com/track/2acNWnoObRre52q1zphDrJ) | [The Unk Skunk](https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe) | [Mischief and Mayhem](https://open.spotify.com/album/0IonnFQaTjZvRJAj3d896O) | 3:02 |
+| 1832 | [FIRST \- LIVE AT THE PUB](https://open.spotify.com/track/2Hbsuhl4xxHs6Nb4cARevw) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST \(LIVE AT THE PUB\)](https://open.spotify.com/album/7dSAOE0d05FwcUYrbFadqh) | 3:42 |
 
-Snapshot ID: `AAAH/qboMmF0JJLH/xhglyUH7kZGMY1F`
+Snapshot ID: `AAAH/xFWrGiHbHc4PBUm613m397IICvc`

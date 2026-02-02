@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159121,
+  "num_followers": 159117,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2026-01-30 16:51:05",
       "album": {
+        "name": "Balan\u00e7o de Rede",
+        "url": "https://open.spotify.com/album/4NGgX3eEortOZHBjqdM3dc"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Balan\u00e7o de Rede",
+      "url": "https://open.spotify.com/track/0qaEgZu9Qq9D41zyiAiiro"
+    },
+    {
+      "added_at": "2026-01-30 16:51:05",
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 250434,
       "name": "Madrugada \u00e9 Solid\u00e3o",
       "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
-    },
-    {
-      "added_at": "2026-01-30 16:51:05",
-      "album": {
-        "name": "Balan\u00e7o de Rede",
-        "url": "https://open.spotify.com/album/4NGgX3eEortOZHBjqdM3dc"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Balan\u00e7o de Rede",
-      "url": "https://open.spotify.com/track/0qaEgZu9Qq9D41zyiAiiro"
     },
     {
       "added_at": "2026-01-30 16:51:05",
@@ -283,30 +283,6 @@
     {
       "added_at": "2026-01-30 16:51:05",
       "album": {
-        "name": "OCANV",
-        "url": "https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D"
-      },
-      "artists": [
-        {
-          "name": "Kako",
-          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
-        },
-        {
-          "name": "Thiago Castanho",
-          "url": "https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER"
-        },
-        {
-          "name": "Marc\u00e3o Britto",
-          "url": "https://open.spotify.com/artist/5jKJ8fkQJwbAb8z0cFpaWe"
-        }
-      ],
-      "duration_ms": 225138,
-      "name": "Mundo Louco, N\u00f3s Tamb\u00e9m",
-      "url": "https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo"
-    },
-    {
-      "added_at": "2026-01-30 16:51:05",
-      "album": {
         "name": "Brisa Errada",
         "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
       },
@@ -327,6 +303,30 @@
       "duration_ms": 123582,
       "name": "Brisa Errada",
       "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
+    },
+    {
+      "added_at": "2026-01-30 16:51:05",
+      "album": {
+        "name": "OCANV",
+        "url": "https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D"
+      },
+      "artists": [
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "Thiago Castanho",
+          "url": "https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER"
+        },
+        {
+          "name": "Marc\u00e3o Britto",
+          "url": "https://open.spotify.com/artist/5jKJ8fkQJwbAb8z0cFpaWe"
+        }
+      ],
+      "duration_ms": 225138,
+      "name": "Mundo Louco, N\u00f3s Tamb\u00e9m",
+      "url": "https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo"
     },
     {
       "added_at": "2026-01-30 16:51:05",
@@ -547,30 +547,6 @@
     {
       "added_at": "2026-01-30 16:51:05",
       "album": {
-        "name": "Talism\u00e3",
-        "url": "https://open.spotify.com/album/6w8KrZmc4Lvo8CHOxcWsMX"
-      },
-      "artists": [
-        {
-          "name": "Gorilla Concept Music",
-          "url": "https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Chayco",
-          "url": "https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Talism\u00e3",
-      "url": "https://open.spotify.com/track/26DVRByfW09GuvoX7CO4Bu"
-    },
-    {
-      "added_at": "2026-01-30 16:51:05",
-      "album": {
         "name": "cinco noites em sp",
         "url": "https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 146288,
       "name": "sintetizar",
       "url": "https://open.spotify.com/track/3w6ET1iXZsZYSAjZSBzI1X"
+    },
+    {
+      "added_at": "2026-01-30 16:51:05",
+      "album": {
+        "name": "Talism\u00e3",
+        "url": "https://open.spotify.com/album/6w8KrZmc4Lvo8CHOxcWsMX"
+      },
+      "artists": [
+        {
+          "name": "Gorilla Concept Music",
+          "url": "https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Chayco",
+          "url": "https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Talism\u00e3",
+      "url": "https://open.spotify.com/track/26DVRByfW09GuvoX7CO4Bu"
     },
     {
       "added_at": "2026-01-30 16:51:05",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-01-30 16:51:05",
       "album": {
+        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
+        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "duration_ms": 208485,
+      "name": "4 da Manh\u00e3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
+    },
+    {
+      "added_at": "2026-01-30 16:51:05",
+      "album": {
         "name": "Voos Internacionais, Vol. 2",
         "url": "https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 143721,
       "name": "S\u00e1bado",
       "url": "https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo"
-    },
-    {
-      "added_at": "2026-01-30 16:51:05",
-      "album": {
-        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
-        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
-      },
-      "artists": [
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        }
-      ],
-      "duration_ms": 208485,
-      "name": "4 da Manh\u00e3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
     },
     {
       "added_at": "2026-01-30 16:51:05",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-01-30 16:51:05",
       "album": {
-        "name": "Dias de Luta Dias de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Dias de Luta Dias de Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
-    },
-    {
-      "added_at": "2026-01-30 16:51:05",
-      "album": {
         "name": "ALAKASAM",
         "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 212400,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
+    },
+    {
+      "added_at": "2026-01-30 16:51:05",
+      "album": {
+        "name": "Dias de Luta Dias de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Dias de Luta Dias de Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
     },
     {
       "added_at": "2026-01-30 16:51:05",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-01-30 16:51:05",
       "album": {
-        "name": "BARRIL DOBRADO",
-        "url": "https://open.spotify.com/album/0D6NdLJd952BvwlMksyka3"
-      },
-      "artists": [
-        {
-          "name": "Matchola",
-          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "BARRIL DOBRADO",
-      "url": "https://open.spotify.com/track/7xaddKWtArM969FhiGYAdY"
-    },
-    {
-      "added_at": "2026-01-30 16:51:05",
-      "album": {
         "name": "Jam #2",
         "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 214509,
       "name": "Jam #02 - Tudo do Melhor/Prosperidade",
       "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
+    },
+    {
+      "added_at": "2026-01-30 16:51:05",
+      "album": {
+        "name": "BARRIL DOBRADO",
+        "url": "https://open.spotify.com/album/0D6NdLJd952BvwlMksyka3"
+      },
+      "artists": [
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "BARRIL DOBRADO",
+      "url": "https://open.spotify.com/track/7xaddKWtArM969FhiGYAdY"
     },
     {
       "added_at": "2026-01-30 16:51:05",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2026-01-30 16:51:05",
       "album": {
+        "name": "Comemorar?",
+        "url": "https://open.spotify.com/album/7eUW8B4zebW4viuiN178Ml"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 190833,
+      "name": "Comemorar?",
+      "url": "https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x"
+    },
+    {
+      "added_at": "2026-01-30 16:51:05",
+      "album": {
         "name": "After",
         "url": "https://open.spotify.com/album/53UhafrNXuHQrg6lOmXsnF"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 130708,
       "name": "After",
       "url": "https://open.spotify.com/track/1dOiyhqL1CUWr4S9R8fgkB"
-    },
-    {
-      "added_at": "2026-01-30 16:51:05",
-      "album": {
-        "name": "Comemorar?",
-        "url": "https://open.spotify.com/album/7eUW8B4zebW4viuiN178Ml"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 190833,
-      "name": "Comemorar?",
-      "url": "https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x"
     },
     {
       "added_at": "2026-01-30 16:51:05",

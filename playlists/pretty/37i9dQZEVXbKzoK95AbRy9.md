@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,869 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,900 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Carnívoro](https://open.spotify.com/track/6zWfgvh1e1FCdtfUVj370i) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6) | [Carnívoro](https://open.spotify.com/album/45lGEvqXqQd7RLietEj16l) | 3:36 |
 | 50 | [Chatão](https://open.spotify.com/track/5jXXQY6LLlEtEWMDL6XcaP) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [Mc DR](https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG), [Gubeatz](https://open.spotify.com/artist/3onpHCaIChS7saQn7fYncx), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Chatão](https://open.spotify.com/album/6qtdLyhX199LWgKEBLwgkc) | 5:14 |
 
-Snapshot ID: `MRFpGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MRK4QAAAAAAAAAAAAAAAAAAAAAAAAGVu`

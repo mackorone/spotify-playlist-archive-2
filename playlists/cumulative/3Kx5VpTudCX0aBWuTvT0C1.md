@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-119 songs - 6 hr 48 min
+120 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Rock](https://open.spotify.com/track/77lY028zHQMb93dP5XEYTE) | [MINNA ORA](https://open.spotify.com/artist/76RqksjOb9wTLKq1EUfNOC) | [Rock](https://open.spotify.com/album/6e6WCc9Exq6Dn8F0aUSh1y) | 2:56 | 2025-11-29 |  |
 | [Selfish Song](https://open.spotify.com/track/38lFq4m55EmIGIn39UqluL) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Selfish Song](https://open.spotify.com/album/6ItdXN8Nc1Rj3LnJ5QtW9k) | 3:55 | 2025-11-12 |  |
 | [Semente \(Cê Mente\)](https://open.spotify.com/track/4GZhUYBuGmrfE9tUQ3weFN) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF), [Iza Molinari](https://open.spotify.com/artist/32oYjzL7UXoGkr75PWDST2) | [Semente \(Cê Mente\)](https://open.spotify.com/album/7vbzb6nkW7SUUOkaLgRiuy) | 3:10 | 2025-11-01 | 2025-12-09 |
+| [Shame](https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Shame](https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not) | 3:12 | 2026-02-01 |  |
 | [Slam Dunk](https://open.spotify.com/track/0asprWWnSSVaYhWvmRKDgb) | [Aishe](https://open.spotify.com/artist/6lXZYPpYrkt4jbBawRJ6qA) | [Slam Dunk](https://open.spotify.com/album/6IMcApH01rfqNtTdvWEoN6) | 2:03 | 2025-11-12 |  |
 | [Songbird](https://open.spotify.com/track/7FKST7WmlWa4RKcr6RNEQE) | [DataBass](https://open.spotify.com/artist/2Rvog1SN7fG6KPC2KDbjM4) | [Songbird](https://open.spotify.com/album/63eb3gQjXxJUflcgKMTBy3) | 3:42 | 2025-11-24 |  |
 | [Sorrow](https://open.spotify.com/track/03WwAoY5g9cuENQZ8STzXn) | [The Scree Fall](https://open.spotify.com/artist/34Sey5DRlJEnCm3TEEk7cE) | [Steel Birds Scream](https://open.spotify.com/album/5W6X8kOGx698haoq3iR8yO) | 4:35 | 2025-10-27 | 2025-12-09 |

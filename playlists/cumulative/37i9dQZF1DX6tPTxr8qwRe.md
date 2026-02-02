@@ -4,7 +4,7 @@
 
 > sweet\. sharp\. unbothered \- Precious Pepala on the cover
 
-1,043 songs - 2 day 0 hr 10 min
+1,046 songs - 2 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1\-800\-F\*\*K\-YOU](https://open.spotify.com/track/0XUZUSGfg5BdDgPwIWO1GX) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [1\-800\-F\*\*K\-YOU](https://open.spotify.com/album/5EZ98Kq5X22Oese1iPoBRx) | 1:55 | 2025-08-08 | 2025-11-08 |
 | [10 Things I Hate About You](https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/0pIt9H9KU1FyhygpHAOs2l) | 2:37 | 2022-03-25 | 2022-07-29 |
 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 | 2022-03-25 | 2022-07-30 |
+| [17](https://open.spotify.com/track/44mNFl4PM016z0tueNAhzK) | [Ella Collier](https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ) | [17](https://open.spotify.com/album/3fEFkAZn2TC3C1dgra63SZ) | 3:15 | 2026-02-01 |  |
 | [2 LATE](https://open.spotify.com/track/3IvXpswu83BD9Ip4gBQkH0) | [LO LA](https://open.spotify.com/artist/5AuJyIGhbMbssJq6LIEquF) | [2 LATE](https://open.spotify.com/album/0rY7VQUOTcumdtLJfpBW2s) | 2:45 | 2023-08-18 | 2023-09-23 |
 | [2 of us](https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [2 of us](https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI) | 2:46 | 2024-01-12 | 2024-04-27 |
 | [20 Questions](https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG) | 2:59 | 2022-09-23 | 2023-03-25 |
@@ -364,7 +365,7 @@
 | [Good Boy](https://open.spotify.com/track/0ZuPqWaILv4VJsTii3UdeM) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Good Boy](https://open.spotify.com/album/0jlQOoi6XuQfOi5bBwqOUZ) | 2:26 | 2024-04-12 | 2024-07-06 |
 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 | 2023-03-31 | 2023-08-05 |
 | [GOOD FOR HER](https://open.spotify.com/track/76YyKbh4QI8Sfxm9Id2mBz) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [GOOD FOR HER](https://open.spotify.com/album/4HSsLhmoneSVz1GmqFTFdK) | 2:13 | 2022-02-18 | 2022-06-11 |
-| [Good Girl Bad Dreams](https://open.spotify.com/track/41Z5PmYNGNvm9yHyuaWOaW) | [Bruklin](https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO) | [Good Girl Bad Dreams](https://open.spotify.com/album/48R9mXpiOmqdLzdqTOOXM6) | 2:36 | 2025-09-19 |  |
+| [Good Girl Bad Dreams](https://open.spotify.com/track/41Z5PmYNGNvm9yHyuaWOaW) | [Bruklin](https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO) | [Good Girl Bad Dreams](https://open.spotify.com/album/48R9mXpiOmqdLzdqTOOXM6) | 2:36 | 2025-09-19 | 2026-02-02 |
 | [GOOD GIRL ERA \(SIDE A\)](https://open.spotify.com/track/5whdFux566Ve7KTpR0Hk73) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V1](https://open.spotify.com/album/7hF7nGQXoQhkWjz7y1uTPk) | 2:19 | 2023-04-28 | 2023-06-10 |
 | [good girls don't make headlines](https://open.spotify.com/track/3wlm5DNXjmfoGIboqMbXUU) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [good girls don't make headlines](https://open.spotify.com/album/0JcYbZRHA1GeRKAWmCQNdT) | 2:43 | 2025-09-19 | 2026-01-15 |
 | [Good In Bed](https://open.spotify.com/track/3nceiixhkjFwEpFITqy3f0) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Life's A Bitch](https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd) | 2:38 | 2022-10-28 | 2023-04-01 |
@@ -462,7 +463,7 @@
 | [I Know U Know](https://open.spotify.com/track/2EFNCr1kRsyLmryWA3M8xF) | [PIA MARIA](https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ) | [I Know U Know](https://open.spotify.com/album/5TTU4kEpnHYMA8k822kJjk) | 3:01 | 2022-06-03 | 2022-07-16 |
 | [I Like You Best](https://open.spotify.com/track/75TVJYusnr7pk5ooXNLZCP) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [I Like You Best](https://open.spotify.com/album/6dk1A9dHnyENBQyJk3QWJX) | 2:43 | 2024-07-05 | 2025-01-25 |
 | [I Like You Best \- Cloud 9 Version](https://open.spotify.com/track/3Ihlrpj4BkhVIEkQKECy1F) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [I Like You Best \(Cloud 9 Version\)](https://open.spotify.com/album/3Psow0HwdFlSP024i2S33b) | 2:48 | 2025-07-04 | 2025-08-10 |
-| [I Love It](https://open.spotify.com/track/7gqcQg5BexFAhj848x2Nni) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi), [shortstraw.](https://open.spotify.com/artist/3qlFWAsq8StLpupHiBDVND) | [Baby Teeth](https://open.spotify.com/album/3TBvK353HDQDDNfScJ8QaD) | 3:14 | 2025-09-19 |  |
+| [I Love It](https://open.spotify.com/track/7gqcQg5BexFAhj848x2Nni) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi), [shortstraw.](https://open.spotify.com/artist/3qlFWAsq8StLpupHiBDVND) | [Baby Teeth](https://open.spotify.com/album/3TBvK353HDQDDNfScJ8QaD) | 3:14 | 2025-09-19 | 2026-02-02 |
 | [I Love This!](https://open.spotify.com/track/2vyB53UUSya8kQ8uChgZic) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I Love This!](https://open.spotify.com/album/1kXssAuP3Kmlb164pqZjB6) | 2:50 | 2025-07-25 | 2025-10-05 |
 | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R) | 3:42 | 2021-10-22 | 2022-03-18 |
 | [i only smoke to feel bad](https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [SPILT MILK](https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk) | 3:00 | 2023-11-10 | 2024-06-08 |
@@ -572,6 +573,7 @@
 | [Love Always Knocks Me Out](https://open.spotify.com/track/2lDaTN2AqPq9nlhhBQNQcR) | [Jessica Doolan](https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW) | [Love Always Knocks Me Out](https://open.spotify.com/album/2PzM429yMvxxpcUpPfoCfr) | 2:52 | 2024-08-16 | 2024-11-16 |
 | [LOVE AND WAR](https://open.spotify.com/track/3YOPBDerQJorMfLrORcbsY) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [LOVE AND WAR](https://open.spotify.com/album/2q5AVOB26ptWtuXN3hjfok) | 2:40 | 2022-09-02 | 2022-11-26 |
 | [Love Bombs](https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Love Bombs](https://open.spotify.com/album/3JGRQFGZS9j3GzhpHAzcZs) | 2:35 | 2026-01-23 |  |
+| [Love Fast Cry Young](https://open.spotify.com/track/3jaKAdyj6conXy9NwmRgJj) | [Bruklin](https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO) | [Love Fast Cry Young](https://open.spotify.com/album/4WTNBIGsISUa41cF0QlcZq) | 2:16 | 2026-02-01 |  |
 | [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 | 2023-09-08 | 2023-10-14 |
 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 | 2024-02-09 | 2024-06-29 |
 | [Love Me Till U Hate Me](https://open.spotify.com/track/0f72jNvO6UORzL8J51jPIW) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Love Me Till U Hate Me](https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB) | 3:32 | 2022-05-13 | 2022-11-19 |
@@ -797,6 +799,7 @@
 | [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 | 2022-09-09 | 2023-04-22 |
 | [Sex Concept](https://open.spotify.com/track/056QhSuhJ822uO45NZtq1X) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Sex Concept](https://open.spotify.com/album/2JOwZaCHcUSJUxQPQ9WfmY) | 3:52 | 2024-08-16 | 2025-01-25 |
 | [SEX MACHINA](https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq) | 2:09 | 2023-11-10 | 2024-03-23 |
+| [Sexxxtapes](https://open.spotify.com/track/67gl2k7No6jIOMm4F2XNTZ) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Sexxxtapes](https://open.spotify.com/album/14C5aCg0VZ3KoewEIfiygG) | 3:23 | 2026-02-01 |  |
 | [Shagidi](https://open.spotify.com/track/7zKYsYbbC7N8C5QOOtTlZx) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Shagidi](https://open.spotify.com/album/14xJ5Qg9sEbCJmg2vBRCUZ) | 2:28 | 2025-06-06 | 2025-07-19 |
 | [Shapeshifter](https://open.spotify.com/track/5bmGMXvdLlUdLp0qYauHcC) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shapeshifter](https://open.spotify.com/album/0mfYRLKHbGtozSzkKMmUol) | 2:26 | 2024-04-12 | 2024-06-29 |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-02-04 | 2022-07-02 |

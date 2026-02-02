@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2674,
+  "num_followers": 2676,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARVgOqboPJ5/UmBUvaOFLsImOdKiyA",
+  "snapshot_id": "AAARV9CyaTpqwOHEtNFJd1clPM4TBHkj",
   "tracks": [
+    {
+      "added_at": "2026-02-01 10:54:20",
+      "album": {
+        "name": "Party Days (Club Mix)",
+        "url": "https://open.spotify.com/album/4okSDIP3oazeyDubqCine7"
+      },
+      "artists": [
+        {
+          "name": "Tess Mac Keen",
+          "url": "https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin"
+        }
+      ],
+      "duration_ms": 212802,
+      "name": "Party Days (Club Mix)",
+      "url": "https://open.spotify.com/track/2D6oTGHTjPvO7M4tk23ZoX"
+    },
     {
       "added_at": "2026-01-31 23:42:06",
       "album": {

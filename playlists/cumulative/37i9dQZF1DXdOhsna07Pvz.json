@@ -716,7 +716,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 286800,
       "name": "Danada",
       "url": "https://open.spotify.com/track/2k14GJCIjWUuOJ39cloaGk"
@@ -2014,6 +2014,24 @@
       "duration_ms": 185280,
       "name": "S\u00e3o Jorge",
       "url": "https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM"
+    },
+    {
+      "album": {
+        "name": "Quem Tem Carinho Me Leva",
+        "url": "https://open.spotify.com/album/0wtZxaaJBXJf4OxPkgGwzK"
+      },
+      "artists": [
+        {
+          "name": "Geovana",
+          "url": "https://open.spotify.com/artist/3oWSIlB1wq6fZf3olazy7v"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141426,
+      "name": "Tatarue",
+      "url": "https://open.spotify.com/track/397flPDxxM0ThZbsGTVGMb"
     },
     {
       "album": {

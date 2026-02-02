@@ -12494,7 +12494,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 186352,
       "name": "Space",
       "url": "https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN"
@@ -13658,6 +13658,24 @@
       "duration_ms": 204800,
       "name": "Up",
       "url": "https://open.spotify.com/track/17mf9XIYI25YOaBolVvZXB"
+    },
+    {
+      "album": {
+        "name": "YAZI",
+        "url": "https://open.spotify.com/album/47vElf8frT0kCgKE3qLcC7"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138446,
+      "name": "Up To The Sky",
+      "url": "https://open.spotify.com/track/0C5EAk8CLWstW061MaIqBD"
     },
     {
       "album": {

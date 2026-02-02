@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 502601,
+  "num_followers": 502672,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,30 @@
     {
       "added_at": "2026-01-16 03:03:26",
       "album": {
+        "name": "It's Your Life",
+        "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
+      },
+      "artists": [
+        {
+          "name": "Isadora",
+          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
+        },
+        {
+          "name": "Marina Diniz",
+          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "It's Your Life",
+      "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
+    },
+    {
+      "added_at": "2026-01-16 03:03:26",
+      "album": {
         "name": "Um Dia Inteiro",
         "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
       },
@@ -639,30 +663,6 @@
       "duration_ms": 160000,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
-    },
-    {
-      "added_at": "2026-01-16 03:03:26",
-      "album": {
-        "name": "It's Your Life",
-        "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
-      },
-      "artists": [
-        {
-          "name": "Isadora",
-          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
-        },
-        {
-          "name": "Marina Diniz",
-          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "It's Your Life",
-      "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
     },
     {
       "added_at": "2026-01-16 03:03:26",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-01-16 03:03:26",
       "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
-    },
-    {
-      "added_at": "2026-01-16 03:03:26",
-      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 193747,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
+    },
+    {
+      "added_at": "2026-01-16 03:03:26",
+      "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2026-01-16 03:03:26",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-01-16 03:03:26",
       "album": {
-        "name": "Deixe Me Ir",
-        "url": "https://open.spotify.com/album/4cUP4A6DlXz2LOADhjsr9Q"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "Deixe Me Ir",
-      "url": "https://open.spotify.com/track/5iG6XGRTfFjL2iky4d8Q5L"
-    },
-    {
-      "added_at": "2026-01-16 03:03:26",
-      "album": {
         "name": "La Belle De Jour (Remix)",
         "url": "https://open.spotify.com/album/13FFkY8H5bRfN05qfhQCLt"
       },
@@ -1239,6 +1219,26 @@
     {
       "added_at": "2026-01-16 03:03:26",
       "album": {
+        "name": "Deixe Me Ir",
+        "url": "https://open.spotify.com/album/4cUP4A6DlXz2LOADhjsr9Q"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "Deixe Me Ir",
+      "url": "https://open.spotify.com/track/5iG6XGRTfFjL2iky4d8Q5L"
+    },
+    {
+      "added_at": "2026-01-16 03:03:26",
+      "album": {
         "name": "Olhos Coloridos (Rap Singulares)",
         "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
       },
@@ -1259,6 +1259,30 @@
       "duration_ms": 277565,
       "name": "Olhos Coloridos (Rap Singulares)",
       "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
+    },
+    {
+      "added_at": "2026-01-16 03:03:26",
+      "album": {
+        "name": "SHOUT",
+        "url": "https://open.spotify.com/album/4TMNunyC0pAOVTDd3YyY3t"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Molk",
+          "url": "https://open.spotify.com/artist/6U58xKDckIjvutio9rirLx"
+        },
+        {
+          "name": "Di Fabianno",
+          "url": "https://open.spotify.com/artist/66rGokWlYlVXbG1mTkYpO1"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "SHOUT",
+      "url": "https://open.spotify.com/track/574zMI4Ve1OvuKyap7casF"
     },
     {
       "added_at": "2026-01-16 03:03:26",
@@ -1303,30 +1327,6 @@
       "duration_ms": 212640,
       "name": "O Descobridor dos Sete Mares",
       "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
-    },
-    {
-      "added_at": "2026-01-16 03:03:26",
-      "album": {
-        "name": "SHOUT",
-        "url": "https://open.spotify.com/album/4TMNunyC0pAOVTDd3YyY3t"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Molk",
-          "url": "https://open.spotify.com/artist/6U58xKDckIjvutio9rirLx"
-        },
-        {
-          "name": "Di Fabianno",
-          "url": "https://open.spotify.com/artist/66rGokWlYlVXbG1mTkYpO1"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "SHOUT",
-      "url": "https://open.spotify.com/track/574zMI4Ve1OvuKyap7casF"
     },
     {
       "added_at": "2026-01-16 03:03:26",
@@ -1527,18 +1527,22 @@
     {
       "added_at": "2026-01-16 03:03:26",
       "album": {
-        "name": "Hot Summer",
-        "url": "https://open.spotify.com/album/4wFTM9WLwSSq8nM30ckDYb"
+        "name": "Foreplay (Radio Edit)",
+        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
       },
       "artists": [
         {
-          "name": "Felguk",
-          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+          "name": "Flowavez",
+          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
+        },
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
         }
       ],
-      "duration_ms": 191129,
-      "name": "Hot Summer",
-      "url": "https://open.spotify.com/track/37CObm6PbDabgHBNK4Z65X"
+      "duration_ms": 177633,
+      "name": "Foreplay - Radio Edit",
+      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
     }
   ],
   "unique_name": "Festa na Praia",

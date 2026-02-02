@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 156084,
+  "num_followers": 156055,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Christmas Promises: Again",
-        "url": "https://open.spotify.com/album/4PvAlkoDM29aJSfx2BLcpu"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Christmas Again",
-      "url": "https://open.spotify.com/track/2XPu6hAfHuQO1dVyIlACVb"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Ex-Mas",
         "url": "https://open.spotify.com/album/1SdCbiVhmFkKbkNXpaVWe5"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 216564,
       "name": "Ex-Mas",
       "url": "https://open.spotify.com/track/4OPHXmAsFf5BcMhUSITwm1"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Christmas Promises: Again",
+        "url": "https://open.spotify.com/album/4PvAlkoDM29aJSfx2BLcpu"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Christmas Again",
+      "url": "https://open.spotify.com/track/2XPu6hAfHuQO1dVyIlACVb"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -903,18 +903,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Everyday Christmas",
-        "url": "https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2"
+        "name": "Peppermint Tea",
+        "url": "https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Sam Ock",
+          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Everyday Christmas",
-      "url": "https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc"
+      "duration_ms": 211933,
+      "name": "Mr. Snowman",
+      "url": "https://open.spotify.com/track/1Bo4rmJ5bFUcq03tjJY98H"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -935,22 +939,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Peppermint Tea",
-        "url": "https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ"
+        "name": "Everyday Christmas",
+        "url": "https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2"
       },
       "artists": [
         {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Sam Ock",
-          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 211933,
-      "name": "Mr. Snowman",
-      "url": "https://open.spotify.com/track/1Bo4rmJ5bFUcq03tjJY98H"
+      "duration_ms": 188493,
+      "name": "Everyday Christmas",
+      "url": "https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/7FOruuAoRntAE1TmGzukOQ"
+      },
+      "artists": [
+        {
+          "name": "ALL(H)OURS",
+          "url": "https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO"
+        }
+      ],
+      "duration_ms": 193728,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/0y8c42IjxOGn8O87ZNxZMZ"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Christmas is Coming",
         "url": "https://open.spotify.com/album/02vzxxDPtbNmqeQx2XHWlH"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 206520,
       "name": "Christmas is Coming (feat. Kelsey Kuan & prettyhappy)",
       "url": "https://open.spotify.com/track/2CiRzMXe6uk1RmDHLADsOx"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/7FOruuAoRntAE1TmGzukOQ"
-      },
-      "artists": [
-        {
-          "name": "ALL(H)OURS",
-          "url": "https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO"
-        }
-      ],
-      "duration_ms": 193728,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/0y8c42IjxOGn8O87ZNxZMZ"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "This Christmas - Single",
-        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
-      },
-      "artists": [
-        {
-          "name": "Jyp Nation",
-          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
-        }
-      ],
-      "duration_ms": 227825,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Maybe Christmas (Orchestra Version)",
         "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 303297,
       "name": "Maybe Christmas - Orchestra Version",
       "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "This Christmas - Single",
+        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
+      },
+      "artists": [
+        {
+          "name": "Jyp Nation",
+          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
+        }
+      ],
+      "duration_ms": 227825,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Wonderland (Carol ver.)",
+      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "SATELLITE",
         "url": "https://open.spotify.com/album/48AZZ4Ry6QARCUWLC7dqpW"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 165486,
       "name": "SATELLITE",
       "url": "https://open.spotify.com/track/2jvYOUaoyzaq9RIvyaYw9r"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "[My Christmas Sweet Love]",
-        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Wonderland (Carol ver.)",
-      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Feeling You",
-        "url": "https://open.spotify.com/album/0l1XFnHjuGUgWQd3ELfi6c"
-      },
-      "artists": [
-        {
-          "name": "muhpy",
-          "url": "https://open.spotify.com/artist/1Frp4xDTDbK5zPvabWGah4"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "Feeling You",
-      "url": "https://open.spotify.com/track/5wvADQcJzUbNE1s1SnKTC3"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "FOCUS",
         "url": "https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 146962,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Feeling You",
+        "url": "https://open.spotify.com/album/0l1XFnHjuGUgWQd3ELfi6c"
+      },
+      "artists": [
+        {
+          "name": "muhpy",
+          "url": "https://open.spotify.com/artist/1Frp4xDTDbK5zPvabWGah4"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "Feeling You",
+      "url": "https://open.spotify.com/track/5wvADQcJzUbNE1s1SnKTC3"
     },
     {
       "added_at": "2026-01-20 05:01:24",

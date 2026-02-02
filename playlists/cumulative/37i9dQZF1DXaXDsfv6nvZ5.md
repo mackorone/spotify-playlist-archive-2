@@ -2,9 +2,9 @@
 
 ### [Soul Coffee](https://open.spotify.com/playlist/37i9dQZF1DXaXDsfv6nvZ5)
 
-> The soulful tunes to ease you into your day\. Cover: Samm Henshaw
+> The soulful tunes to ease you into your day\. Cover: Lekan
 
-921 songs - 2 day 6 hr 53 min
+922 songs - 2 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Chasing](https://open.spotify.com/track/2TR35rjnC69Mqs3uBZ1QqR) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Chasing](https://open.spotify.com/album/0Sne6wKPU3s6feDEkCqKff) | 3:01 | 2024-05-03 | 2025-04-19 |
 | [Chasing](https://open.spotify.com/track/0orFtPnEGDbq0Pzksa64V2) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Chasing](https://open.spotify.com/album/5dHZziyKMWUmdFRLfYvU07) | 2:29 | 2024-04-12 | 2024-07-20 |
 | [Chocolate Skin](https://open.spotify.com/track/6eqksbyPGoY5iqmYKE5wD6) | [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Chocolate Skin](https://open.spotify.com/album/4ocw5sUycR4psZBbHVHmSQ) | 2:55 | 2025-11-07 | 2025-11-22 |
-| [Chocolate Woman](https://open.spotify.com/track/0M5ZTD5bzYadecfUQcQx8j) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Chocolate Woman](https://open.spotify.com/album/2dDCKPhCc7U0dBOkeK5I8W) | 2:50 | 2025-12-12 |  |
+| [Chocolate Woman](https://open.spotify.com/track/0M5ZTD5bzYadecfUQcQx8j) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Chocolate Woman](https://open.spotify.com/album/2dDCKPhCc7U0dBOkeK5I8W) | 2:50 | 2025-12-12 | 2026-02-02 |
 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-03-10 | 2025-10-04 |
 | [Choosin'](https://open.spotify.com/track/1KRmD4611AGR0nJzuZq634) | [Solomon Headen](https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv) | [SUMMER ENDS](https://open.spotify.com/album/10062usD6EWFvYflzRdpK7) | 1:44 | 2025-10-03 |  |
 | [Cinnamon Crush \(feat\. Lindsey Lomis\)](https://open.spotify.com/track/6XJvYWE3tx9tRVavh6GysW) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 3:47 | 2024-03-01 | 2024-04-19 |
@@ -787,6 +787,7 @@
 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 | 2022-10-28 | 2023-05-21 |
 | [Tell Him](https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 4:40 | 2021-12-03 | 2023-02-25 |
 | [Tell Jimmy](https://open.spotify.com/track/29wBVMyS8gehL3W69HlYgB) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Tell Jimmy](https://open.spotify.com/album/7qW0v91QqdcYVuu4sVMLVt) | 1:56 | 2024-02-16 | 2024-06-21 |
+| [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 | 2026-02-01 |  |
 | [Temperature High](https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Temperature High](https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD) | 3:10 | 2023-08-11 | 2024-01-28 |
 | [Tempo](https://open.spotify.com/track/2NS9rH4XWJlQiA4YCBKFkQ) | [Dre Scot](https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1) | [Tempo](https://open.spotify.com/album/2fDAV06zu8TiZD8kSqEYow) | 3:32 | 2025-05-23 | 2025-06-07 |
 | [Thank You For A Lovely Time \- Raphael Saadiq Version](https://open.spotify.com/track/29XwzOrnfKvIPjr22T1slO) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Thank You For A Lovely Time \(Raphael Saadiq Version\)](https://open.spotify.com/album/5YuVvhYV5JfP3ThFLSnHeH) | 3:55 | 2025-08-01 |  |

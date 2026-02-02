@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 110324,
+  "num_followers": 110314,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Told Me",
-        "url": "https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz"
-      },
-      "artists": [
-        {
-          "name": "Wdz",
-          "url": "https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY"
-        }
-      ],
-      "duration_ms": 142027,
-      "name": "Told Me",
-      "url": "https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "WAIT N SEE",
         "url": "https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 164553,
       "name": "WAIT N SEE",
       "url": "https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Told Me",
+        "url": "https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz"
+      },
+      "artists": [
+        {
+          "name": "Wdz",
+          "url": "https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY"
+        }
+      ],
+      "duration_ms": 142027,
+      "name": "Told Me",
+      "url": "https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps"
     },
     {
       "added_at": "2025-10-10 12:01:08",

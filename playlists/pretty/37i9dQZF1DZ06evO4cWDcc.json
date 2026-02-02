@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 325018,
+  "num_followers": 325034,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXv0gAAAAACofmfW2Vhn+kP5gDmuiB8Q",
+  "snapshot_id": "aX1GAAAAAACLV0izS9lg6Z+10iP3zRp2",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Band Of Gypsys (50th Anniversary / Live)",
-        "url": "https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 576360,
-      "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
-      "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs For Groovy Children: The Fillmore East Concerts",
         "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 533672,
       "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
       "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Band Of Gypsys (50th Anniversary / Live)",
+        "url": "https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 576360,
+      "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
+      "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"
     },
     {
       "added_at": null,

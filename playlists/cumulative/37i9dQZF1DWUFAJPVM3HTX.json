@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4?si=kjTTAOiRTlmD3duoTo3JQA\">nomi.</a>. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys?si=32wOcvKtTpumuP3vH6vqIA\">Chuka, The Destroyer</a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -4182,7 +4182,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 247114,
       "name": "Anything 4 U",
       "url": "https://open.spotify.com/track/1JHXXsXkDddmQJoD0cWegU"
@@ -5466,7 +5466,7 @@
       ],
       "date_added": "2025-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 232907,
       "name": "Back2mama",
       "url": "https://open.spotify.com/track/6LzzG26olg6SfrvZBpt3Wq"
@@ -12583,6 +12583,24 @@
     },
     {
       "album": {
+        "name": "Come (Aana)",
+        "url": "https://open.spotify.com/album/0Quw9s5CM27F0ZSn5Zo3gx"
+      },
+      "artists": [
+        {
+          "name": "Allyn",
+          "url": "https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105494,
+      "name": "Come (Aana)",
+      "url": "https://open.spotify.com/track/62kC69jJDPRvPTOLn8g7tK"
+    },
+    {
+      "album": {
         "name": "Come And Get It",
         "url": "https://open.spotify.com/album/17FivesjC4MXXd1QOCOxXQ"
       },
@@ -14953,6 +14971,24 @@
     },
     {
       "album": {
+        "name": "DAYDREAM",
+        "url": "https://open.spotify.com/album/2pJ4Rz0hds8wVuo5PrSYHA"
+      },
+      "artists": [
+        {
+          "name": "LARIICA",
+          "url": "https://open.spotify.com/artist/4ToRGHPORYxQMdyn7nKm9h"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/5znWm5VPJg7E3vwFMalXed"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/3tzUohsQuxMekbz1BN1P6G"
       },
@@ -15444,7 +15480,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 223004,
       "name": "Deserve",
       "url": "https://open.spotify.com/track/3U0d3bzQ5LMt51QzrI3BQK"
@@ -20407,6 +20443,24 @@
     },
     {
       "album": {
+        "name": "Father",
+        "url": "https://open.spotify.com/album/1HG8vY7XKeX57yck24riZM"
+      },
+      "artists": [
+        {
+          "name": "August Charles",
+          "url": "https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175214,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/7qLCJRQGJPfTpwVu6TUyV2"
+    },
+    {
+      "album": {
         "name": "FAV",
         "url": "https://open.spotify.com/album/69nPMp4b4TPoeIuTfjhW1H"
       },
@@ -20990,6 +21044,24 @@
       "duration_ms": 232208,
       "name": "Figure Me Out",
       "url": "https://open.spotify.com/track/7Bw1MG3rm2E0RL91572PqW"
+    },
+    {
+      "album": {
+        "name": "FIGURED YOU OUT",
+        "url": "https://open.spotify.com/album/1vVgp9NEKp3kM3tR4h5DYX"
+      },
+      "artists": [
+        {
+          "name": "Devkota",
+          "url": "https://open.spotify.com/artist/5e48iUv2r7DgotDwhI9Ulm"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134702,
+      "name": "FIGURED YOU OUT",
+      "url": "https://open.spotify.com/track/7bLm3Wjv9zQF7Sc2PpDCvR"
     },
     {
       "album": {
@@ -29029,6 +29101,24 @@
     },
     {
       "album": {
+        "name": "HYPNOTIC",
+        "url": "https://open.spotify.com/album/7AuHGq4uur6qqmyW3AqUuW"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198034,
+      "name": "HYPNOTIC",
+      "url": "https://open.spotify.com/track/3C8HvNZG1E9EiYmq9Vd9Bm"
+    },
+    {
+      "album": {
         "name": "on my way",
         "url": "https://open.spotify.com/album/1Yept5lAVmuKuduoK5b3oF"
       },
@@ -30247,6 +30337,24 @@
     },
     {
       "album": {
+        "name": "If He Loved You,",
+        "url": "https://open.spotify.com/album/0NPsghtFXYN2thmSurimRe"
+      },
+      "artists": [
+        {
+          "name": "Caleb Taylor",
+          "url": "https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "If He Loved You,",
+      "url": "https://open.spotify.com/track/44Hzn81pPBFQ3DPhADO9VP"
+    },
+    {
+      "album": {
         "name": "IT'S NOT PERSONAL",
         "url": "https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5"
       },
@@ -30374,6 +30482,32 @@
       "duration_ms": 88000,
       "name": "If That\u2019s Coo With You? Pt.II",
       "url": "https://open.spotify.com/track/6tONZr3dw6q9mmXCScahve"
+    },
+    {
+      "album": {
+        "name": "If The Walls Could Talk",
+        "url": "https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx"
+      },
+      "artists": [
+        {
+          "name": "Lizzy",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        },
+        {
+          "name": "Maydien",
+          "url": "https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y"
+        },
+        {
+          "name": "Mitchell Yard",
+          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "If The Walls Could Talk",
+      "url": "https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi"
     },
     {
       "album": {
@@ -31648,6 +31782,28 @@
       "duration_ms": 176727,
       "name": "Intoxicated Truth",
       "url": "https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq"
+    },
+    {
+      "album": {
+        "name": "invisible attachments.",
+        "url": "https://open.spotify.com/album/6Gs7bwkOQgjXSPmBg9LNvM"
+      },
+      "artists": [
+        {
+          "name": "Flyy Armani",
+          "url": "https://open.spotify.com/artist/1zpQUYwOMrhBBHfzgdr2n9"
+        },
+        {
+          "name": "JLLY",
+          "url": "https://open.spotify.com/artist/6TtCAKrgTaBRw50XkvTY54"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141913,
+      "name": "invisible attachments.",
+      "url": "https://open.spotify.com/track/2pobof8rJa2DSEEM4LdxVm"
     },
     {
       "album": {
@@ -36844,7 +37000,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 174572,
       "name": "love away",
       "url": "https://open.spotify.com/track/0oy31mP3pLEvN26BIlZmHy"
@@ -38740,6 +38896,24 @@
       "duration_ms": 198625,
       "name": "Make Room",
       "url": "https://open.spotify.com/track/5Bs2Z00xz32c9ONx79r7Ek"
+    },
+    {
+      "album": {
+        "name": "Make Up",
+        "url": "https://open.spotify.com/album/2qZdhz8WFw1WzgBmwxHqxf"
+      },
+      "artists": [
+        {
+          "name": "Binta",
+          "url": "https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129288,
+      "name": "Make Up",
+      "url": "https://open.spotify.com/track/4ErVC5fJuGPZeVaomNxUeP"
     },
     {
       "album": {
@@ -41353,6 +41527,24 @@
     },
     {
       "album": {
+        "name": "Move on",
+        "url": "https://open.spotify.com/album/2nLoFygVWZrgN2Bxf3B40q"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150430,
+      "name": "Move on",
+      "url": "https://open.spotify.com/track/2x3ysVnMpdIwtski9oYQPJ"
+    },
+    {
+      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/4Hu6IX2Qc9nUsKcBqLapY7"
       },
@@ -42158,6 +42350,24 @@
       "duration_ms": 245972,
       "name": "My World (beyond)",
       "url": "https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u"
+    },
+    {
+      "album": {
+        "name": "Why Do Feelings Matter Anyway",
+        "url": "https://open.spotify.com/album/74KBgkPg55lmPeu8Lt2r4M"
+      },
+      "artists": [
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180048,
+      "name": "N.M.N",
+      "url": "https://open.spotify.com/track/1c9AwaAGcb4e7IPTRuPdHN"
     },
     {
       "album": {
@@ -43657,6 +43867,24 @@
     },
     {
       "album": {
+        "name": "NOBLE",
+        "url": "https://open.spotify.com/album/7kSO56we07fodbcyHOSCps"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "NOBLE",
+      "url": "https://open.spotify.com/track/36jgline0lR83kGP9YFXcE"
+    },
+    {
+      "album": {
         "name": "Femme Fatale",
         "url": "https://open.spotify.com/album/4b28smZwrgrzO5RsJODYsJ"
       },
@@ -44218,7 +44446,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 149624,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/2WxDWDwauuyMaOwOXTCerq"
@@ -47688,6 +47916,24 @@
       "duration_ms": 143018,
       "name": "Passion",
       "url": "https://open.spotify.com/track/7EM0Ng2mHr7qxJWxqImUu3"
+    },
+    {
+      "album": {
+        "name": "Passport",
+        "url": "https://open.spotify.com/album/34nvulEEywAowu33bsTj4I"
+      },
+      "artists": [
+        {
+          "name": "cortex",
+          "url": "https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146165,
+      "name": "Passport",
+      "url": "https://open.spotify.com/track/5A3NYWleEF8IiihYxjakIg"
     },
     {
       "album": {
@@ -59036,7 +59282,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 197518,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0i4MXfI8jEioz5v69WAXbu"
@@ -61330,6 +61576,24 @@
       "duration_ms": 120000,
       "name": "SWEET STICKY THANG!!!",
       "url": "https://open.spotify.com/track/1Eg97ua8vuNX2BcKXVkVEW"
+    },
+    {
+      "album": {
+        "name": "sweet tooth",
+        "url": "https://open.spotify.com/album/4Zm4DG6bNYmNdEOglOYp3d"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Kaleo",
+          "url": "https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156023,
+      "name": "sweet tooth",
+      "url": "https://open.spotify.com/track/1rpSNugc4dv83BF1WyjhH5"
     },
     {
       "album": {
@@ -67775,6 +68039,28 @@
     },
     {
       "album": {
+        "name": "Waiting For You (feat. Reggie Dartey)",
+        "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198894,
+      "name": "Waiting For You (feat. Reggie Dartey)",
+      "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
+    },
+    {
+      "album": {
         "name": "LSTN!!!",
         "url": "https://open.spotify.com/album/5N9OrPMq2eHKwNq2sLYCjY"
       },
@@ -70200,6 +70486,24 @@
       "duration_ms": 216000,
       "name": "Whispers In The Wind",
       "url": "https://open.spotify.com/track/2ER0GjqhDrizhVMPgfyxCy"
+    },
+    {
+      "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/4I3eWUXAc2jS6a3ZiORnRn"
+      },
+      "artists": [
+        {
+          "name": "Lee Lewis",
+          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196510,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/15ogUxj5nlIwXqq6h54fiH"
     },
     {
       "album": {

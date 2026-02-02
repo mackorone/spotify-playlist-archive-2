@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Static Dress
 
-686 songs - 1 day 17 hr 21 min
+687 songs - 1 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,7 @@
 | [Monolith](https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Monolith](https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4) | 3:32 | 2026-01-30 |  |
 | [Monsters](https://open.spotify.com/track/1SRg5WImDS1LbjbWR24Ln4) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Monsters](https://open.spotify.com/album/2NSBVVafbPaqtcTKP5QTqI) | 3:31 | 2025-02-07 | 2025-09-12 |
 | [More Than Misery](https://open.spotify.com/track/3LzJLwxUIzeYWO4uFGA0rD) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [More Than Misery](https://open.spotify.com/album/4cRfSvpKfy82la7s16tDXB) | 3:41 | 2023-05-11 | 2023-07-26 |
-| [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 | 2025-10-10 |  |
+| [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 | 2025-10-10 | 2026-02-02 |
 | [MURDER \(feat\. Code:Pandorum\)](https://open.spotify.com/track/0SXHYLK8GYc2jAtFJXiL0Y) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [MURDER \(feat\. Code:Pandorum\)](https://open.spotify.com/album/0XznCZpaBbtD0ZYeEjJ8wP) | 3:12 | 2024-03-22 | 2025-09-12 |
 | [MURDERER](https://open.spotify.com/track/5hu9tUuV1KtxYV5Hx8OeLG) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [MURDERER + NOSEBLEEDS](https://open.spotify.com/album/0rMT2kcpRVeTNDXK4I4Zw8) | 3:18 | 2024-09-20 | 2025-09-12 |
 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 | 2025-08-11 |  |
@@ -603,6 +603,7 @@
 | [they’re all around us](https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [they’re all around us](https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj) | 3:24 | 2024-09-20 | 2025-09-12 |
 | [Things I Don't Feel](https://open.spotify.com/track/0N2ykPdDmAnqAHxY7PAbIR) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Rest Assured](https://open.spotify.com/album/2Cv1QmB5lrMKewHKUb5Nlm) | 3:25 | 2024-04-11 | 2025-09-12 |
 | [This Is Mongol \(Warrior Souls\) \[feat\. William DuVall of Alice In Chains\]](https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [William DuVall](https://open.spotify.com/artist/7i706LwoMxh1uYYnrMuQUR), [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [This Is Mongol \(Warrior Souls\) \[feat\. William DuVall of Alice In Chains\]](https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK) | 3:41 | 2023-03-03 | 2025-09-12 |
+| [This Is The Sound](https://open.spotify.com/track/5u3LQf7tg1eS2AEGyguDPa) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [This Is The Sound](https://open.spotify.com/album/37Ixky407QDvoGFDx1vmrC) | 2:57 | 2026-01-30 |  |
 | [This is War](https://open.spotify.com/track/2e8F1M3b7dI2GDUDZh6c9l) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Pawns & Kings](https://open.spotify.com/album/6GfoBh7p2LS5fMbYYMjj5b) | 4:03 | 2022-11-10 | 2023-01-20 |
 | [Thorn In My Side](https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Thorn In My Side](https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh) | 3:45 | 2025-02-21 | 2025-09-12 |
 | [Thoroughbreds](https://open.spotify.com/track/1c4Oq2SYTnRzt1gg4zCl9q) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [Thoroughbreds](https://open.spotify.com/album/5RhKFclwguoGY9QTRmKA0g) | 3:24 | 2026-01-23 |  |

@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -4248,7 +4248,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 140782,
       "name": "Baila de Gasolina",
       "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
@@ -4974,7 +4974,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -4996,7 +4996,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -10554,7 +10554,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 189070,
       "name": "CRIC FAMILY5",
       "url": "https://open.spotify.com/track/2p4I44OICSG6f2tbgqSSAi"
@@ -22582,7 +22582,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 224480,
       "name": "Into the Blue",
       "url": "https://open.spotify.com/track/3qIQAophwgi9UKMJHZcSpQ"
@@ -23126,7 +23126,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
@@ -23906,7 +23906,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 156000,
       "name": "KATYUSHA",
       "url": "https://open.spotify.com/track/05axRIbcO9nhPiuLRz2pOW"
@@ -23932,6 +23932,28 @@
       "duration_ms": 156001,
       "name": "KATYUSHA",
       "url": "https://open.spotify.com/track/0r8EzfodJLJqTlMjKUHy2e"
+    },
+    {
+      "album": {
+        "name": "KATYUSHA",
+        "url": "https://open.spotify.com/album/3f7mB34bC6jE59WxDneBa7"
+      },
+      "artists": [
+        {
+          "name": "BADGRUB",
+          "url": "https://open.spotify.com/artist/2VVMEBr62eAnKJH1Td9kfc"
+        },
+        {
+          "name": "Police in Paris",
+          "url": "https://open.spotify.com/artist/5GcTMypY9ErwDyFmx0D24z"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156001,
+      "name": "KATYUSHA",
+      "url": "https://open.spotify.com/track/5rX0dJIOu65lJTX7IPiv9h"
     },
     {
       "album": {
@@ -27682,7 +27704,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 147692,
       "name": "LOVE YOU",
       "url": "https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT"
@@ -29104,6 +29126,24 @@
     {
       "album": {
         "name": "Mauvaise t\u00eate",
+        "url": "https://open.spotify.com/album/0Lf2JwBPW1pxnmScm5m2L1"
+      },
+      "artists": [
+        {
+          "name": "a6el",
+          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158054,
+      "name": "Mauvaise t\u00eate",
+      "url": "https://open.spotify.com/track/4QEg4vfzw0NwePfYMoJtwK"
+    },
+    {
+      "album": {
+        "name": "Mauvaise t\u00eate",
         "url": "https://open.spotify.com/album/1i3MT8gzXP5FXANjZBML4B"
       },
       "artists": [
@@ -29114,7 +29154,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 158054,
       "name": "Mauvaise t\u00eate",
       "url": "https://open.spotify.com/track/7nIFo1p5nZURXW34Fvtp6n"
@@ -33306,7 +33346,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 75284,
       "name": "Nono La Grinta - CARR\u00c9 VIP",
       "url": "https://open.spotify.com/track/2WGn1XaHC9QIj576HJApPi"
@@ -33606,6 +33646,24 @@
       "duration_ms": 177758,
       "name": "NOUS#2",
       "url": "https://open.spotify.com/track/49I6wzkGWO11FFNicqY7oa"
+    },
+    {
+      "album": {
+        "name": "Nous#2",
+        "url": "https://open.spotify.com/album/6JsyNU76LiI4o3wZxXDtWR"
+      },
+      "artists": [
+        {
+          "name": "K2_sp",
+          "url": "https://open.spotify.com/artist/0lZe1qbPTyYFXebsbkznIh"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177761,
+      "name": "Nous#2",
+      "url": "https://open.spotify.com/track/6X81J6gmOMkJI3mo49NCPk"
     },
     {
       "album": {
@@ -34658,7 +34716,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 248109,
       "name": "Orgulho",
       "url": "https://open.spotify.com/track/76VKddiLu5mIxtjsImvxVH"

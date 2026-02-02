@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 525861,
+  "num_followers": 525872,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Laberinto de Pasiones",
+        "url": "https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Puro Teatro",
+      "url": "https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Me Dicen Cuba / Rosa la Peligrosa",
         "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 358480,
       "name": "Rosa la Peligrosa",
       "url": "https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Laberinto de Pasiones",
-        "url": "https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Puro Teatro",
-      "url": "https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -719,26 +719,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Pasaporte",
-        "url": "https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 300451,
-      "name": "Pasaporte",
-      "url": "https://open.spotify.com/track/14JmB4k9tBUcS5MYbi8y1M"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Que No Me Controlen",
         "url": "https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN"
       },
@@ -759,6 +739,26 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Pasaporte",
+        "url": "https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 300451,
+      "name": "Pasaporte",
+      "url": "https://open.spotify.com/track/14JmB4k9tBUcS5MYbi8y1M"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Camino al Cielo",
         "url": "https://open.spotify.com/album/72Tes06RKTTqOuImJivudD"
       },
@@ -775,8 +775,8 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Olvida Que Te Olvide",
-        "url": "https://open.spotify.com/album/6EwixuIBcRFYSZPoxeS0ng"
+        "name": "Lo Mejor de la Charanga",
+        "url": "https://open.spotify.com/album/17BU5qXTnzlNo6ETqkBY2S"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Olvida Que Te Olvide",
-      "url": "https://open.spotify.com/track/7f9kaG29f9CfyIwHpNJGOH"
+      "duration_ms": 324493,
+      "name": "\u00a1Ay! Ay Amor",
+      "url": "https://open.spotify.com/track/5FxtsZEiJqNn9mCl4lAJKp"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -807,18 +807,42 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM"
+        "name": "Mi M\u00fasica",
+        "url": "https://open.spotify.com/album/6885J4w1iaRdZbs8Ol4Zzs"
       },
       "artists": [
         {
+          "name": "Grupo Danson",
+          "url": "https://open.spotify.com/artist/3jDjCkIGthiTkbp7uWMe8R"
+        },
+        {
+          "name": "Carlos Liban P\u00e9rez Alfonso",
+          "url": "https://open.spotify.com/artist/3KtZLqXNVnn3C2JrZRZrQU"
+        },
+        {
           "name": "Alexander Abreu",
           "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Mia Birch Engsager",
+          "url": "https://open.spotify.com/artist/6fAiZkXRxsbL2YFw950dfl"
+        },
+        {
+          "name": "Ernesto Manuitt Hernandez",
+          "url": "https://open.spotify.com/artist/6shQLDgamKRDLKkysy9C5C"
+        },
+        {
+          "name": "Yasser Pino",
+          "url": "https://open.spotify.com/artist/3yjnZbbWh736wux5a6jsH4"
+        },
+        {
+          "name": "Rune Thorsteinsson",
+          "url": "https://open.spotify.com/artist/5xTi9OwHU2G7iNL1860DiS"
         }
       ],
-      "duration_ms": 265639,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK"
+      "duration_ms": 368850,
+      "name": "Mi M\u00fasica",
+      "url": "https://open.spotify.com/track/16WC29An2oh5cLWveO9HpD"
     }
   ],
   "unique_name": "Salsa Cubana",

@@ -6,7 +6,7 @@
     "name": "IW Music",
     "url": "https://open.spotify.com/user/ikwong1979"
   },
-  "snapshot_id": "AAAl9s/NcLM+niGgQsyuYviGRUBQYIzV",
+  "snapshot_id": "AAAl+A4uom7jFbbf1MlsLngUPmqP5qZe",
   "tracks": [
     {
       "added_at": "2024-02-12 06:27:00",
@@ -1689,6 +1689,22 @@
       "url": "https://open.spotify.com/track/0tJ9vnNnVMXXxCaM7Khz7e"
     },
     {
+      "added_at": "2026-02-01 18:43:22",
+      "album": {
+        "name": "Calm Night",
+        "url": "https://open.spotify.com/album/6gt14lr5bloeww3fhTAQ5I"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "duration_ms": 60517,
+      "name": "Calm Night",
+      "url": "https://open.spotify.com/track/2pnsVSCfbFIZiI35pgKSYR"
+    },
+    {
       "added_at": "2025-01-25 15:06:05",
       "album": {
         "name": "Calm Silence",
@@ -2343,6 +2359,22 @@
       "duration_ms": 60422,
       "name": "Distant Shore",
       "url": "https://open.spotify.com/track/5WdLx92ssiZpYNmy0AGFK8"
+    },
+    {
+      "added_at": "2026-02-02 00:23:25",
+      "album": {
+        "name": "Savor",
+        "url": "https://open.spotify.com/album/2U598857KpeMhQjFSEOAMa"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "duration_ms": 60245,
+      "name": "Savor",
+      "url": "https://open.spotify.com/track/0NY9UhwnU24o3GqHX6HZPz"
     },
     {
       "added_at": "2025-04-13 18:24:45",

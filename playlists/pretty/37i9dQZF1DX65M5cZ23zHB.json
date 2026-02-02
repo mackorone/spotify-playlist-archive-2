@@ -1,6 +1,6 @@
 {
   "description": "A collection of timeless queer love songs. ",
-  "num_followers": 19276,
+  "num_followers": 19286,
   "original_name": "Queer Love: Classics",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-18 21:57:33",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "Love They Say",
-      "url": "https://open.spotify.com/track/38GMZWLQs4NDvBtrIKRvNh"
-    },
-    {
-      "added_at": "2024-03-18 21:57:33",
-      "album": {
         "name": "The Waves",
         "url": "https://open.spotify.com/album/6tgcCHvlpGnpHFpd5kfABz"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 212693,
       "name": "Memoir",
       "url": "https://open.spotify.com/track/0z21vE4xHXXYSyXkOLDUXF"
+    },
+    {
+      "added_at": "2024-03-18 21:57:33",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "Love They Say",
+      "url": "https://open.spotify.com/track/38GMZWLQs4NDvBtrIKRvNh"
     },
     {
       "added_at": "2024-03-18 21:57:33",

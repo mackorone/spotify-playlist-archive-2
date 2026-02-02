@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With flyzhe, blazingfairis, real silent bloom and more",
+  "description": "With blazingfairis, Static Palm Ritual, real silent bloom and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 181613,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 224568,
       "name": "Don't eat Chinese Cabbage",
       "url": "https://open.spotify.com/track/73BWaSLtgS9WhlEnjPbsc1"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 132900,
       "name": "Edge of the Edge",
       "url": "https://open.spotify.com/track/5RjVpzcBWF1tUUwW8dak0j"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 111433,
       "name": "Flexrage Circuit",
       "url": "https://open.spotify.com/track/5EsC9FA5hQTxBsDk6uDI9f"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 166250,
       "name": "Hellhound",
       "url": "https://open.spotify.com/track/12HqMjib07q7A5oUuICcTs"
@@ -2033,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "I Just Wanna Fuck",
+        "url": "https://open.spotify.com/album/0MuU6oV3tIuPdOtYnhs5gx"
+      },
+      "artists": [
+        {
+          "name": "Baddie Daddy",
+          "url": "https://open.spotify.com/artist/1SRq0xO1hudc2tOO79qoHk"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102319,
+      "name": "I Just Wanna Fuck",
+      "url": "https://open.spotify.com/track/4oU0Yvy5C13aRzJZr9hvRn"
+    },
+    {
+      "album": {
         "name": "Bastard by choice",
         "url": "https://open.spotify.com/album/4Ht329CdU1DvrpDlbpPBHE"
       },
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 211941,
       "name": "I'm Just A Girl",
       "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
@@ -2286,7 +2304,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 200680,
       "name": "Jesus Wept",
       "url": "https://open.spotify.com/track/4mULVN5fIsZYaUYxE3HQdH"
@@ -2430,7 +2448,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 164389,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
@@ -2564,6 +2582,24 @@
       "duration_ms": 212973,
       "name": "Live and Learn",
       "url": "https://open.spotify.com/track/3h9ZD4Z1faqKZzTJlDO2a9"
+    },
+    {
+      "album": {
+        "name": "Distinto",
+        "url": "https://open.spotify.com/album/6unRphipWSJpMdn62fs12A"
+      },
+      "artists": [
+        {
+          "name": "EchoQueen",
+          "url": "https://open.spotify.com/artist/386VOv5kGfvFaXYgHA1146"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172839,
+      "name": "llama-interna",
+      "url": "https://open.spotify.com/track/4WeIovHlVPJDnjMt86xm0B"
     },
     {
       "album": {
@@ -2830,7 +2866,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -2848,7 +2884,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -2902,7 +2938,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 205008,
       "name": "My husband is a rabbit",
       "url": "https://open.spotify.com/track/1hJiyIosppX1yWHRwEiBYB"
@@ -2920,7 +2956,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 221688,
       "name": "My husband is a tiger",
       "url": "https://open.spotify.com/track/4qR2EGNRoF24YtmpZwKEOU"
@@ -3424,7 +3460,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 242472,
       "name": "Purple Celery",
       "url": "https://open.spotify.com/track/30FV0B9p34EAt9qcZFkRBe"
@@ -3442,7 +3478,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 241080,
       "name": "Purple Lettuce",
       "url": "https://open.spotify.com/track/6NNoOfN0j3JeXH4ywR4i8u"
@@ -3460,7 +3496,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 254592,
       "name": "Purple Olive",
       "url": "https://open.spotify.com/track/55QpXM5WAAfq9G1nuFPK8G"
@@ -3478,7 +3514,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 169991,
       "name": "Purple Pepper",
       "url": "https://open.spotify.com/track/4yChIOsxLjpVDFVqqdP9Af"
@@ -3496,7 +3532,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 225792,
       "name": "Purple Spinach",
       "url": "https://open.spotify.com/track/64AQ3MjxgfReHd0BX8Hxjl"
@@ -3568,7 +3604,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 265272,
       "name": "Rebel's Anthem",
       "url": "https://open.spotify.com/track/7xj0VbrnmCpFOUsVT3UyNN"
@@ -3748,7 +3784,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 184578,
       "name": "Show Me What You Got",
       "url": "https://open.spotify.com/track/3zVzZWw5QnIInC5VydX6Qd"
@@ -3899,6 +3935,24 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/0m39gu0HRS3vXHPAUxKDHG"
+      },
+      "artists": [
+        {
+          "name": "Static Palm Ritual",
+          "url": "https://open.spotify.com/artist/4sssNlLJSAIhiwMrVSHp9M"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124557,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5kHBiTygc3beHbf8ZBemgj"
+    },
+    {
+      "album": {
         "name": "Inside The Hollow",
         "url": "https://open.spotify.com/album/04ZUaYNv07KLNMtKtQPCTG"
       },
@@ -4022,7 +4076,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 166136,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/6bz4qMWZrodFwDkcLUu0i9"
@@ -4116,7 +4170,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 202160,
       "name": "Think Like A Man",
       "url": "https://open.spotify.com/track/6AaBX9BWwQTjDtuqjoHELM"
@@ -4170,7 +4224,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 106110,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/7IiwWCfZ4tzymtKnfG4RL3"

@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-398 songs - 21 hr 26 min
+399 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [In the year 2222](https://open.spotify.com/track/276doaEmdigNFjR6JeLs4b) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [In the year 2222](https://open.spotify.com/album/4BUq0MYMPCVVRVTNYv0lVl) | 3:37 | 2023-12-04 | 2024-08-03 |
 | [Infinity](https://open.spotify.com/track/6ORIjEQQU6jIIGhCscs5y7) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Infinity](https://open.spotify.com/album/3dFlIzoweOmGPWX2Iin5iN) | 3:12 | 2023-10-25 | 2024-12-13 |
 | [Internet Hooligan](https://open.spotify.com/track/6kZaIV2giPqFrf2nZ0obcH) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Boogshe](https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3) | [Internet Hooligan](https://open.spotify.com/album/1u3zmIGG1j0kwtBRSq6OIQ) | 2:17 | 2025-10-02 | 2026-01-31 |
+| [Jackpot Killah](https://open.spotify.com/track/09iyKXX1dreXl6FYwbMbe7) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Jackpot Killah](https://open.spotify.com/album/0ZQhWfxL3wxl5Acu2SPDz0) | 2:36 | 2026-01-30 |  |
 | [Jammer!](https://open.spotify.com/track/6EGcJr9fS0fXAKxWgxJOUU) | [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [JAMMER!](https://open.spotify.com/album/3ZiBL68zxCdy77InVMSEmt) | 3:28 | 2022-12-08 | 2023-02-01 |
 | [Jongens van de straat](https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Jongens van de straat](https://open.spotify.com/album/1S7iTYpQr6eYFLaCLWVfbt) | 3:22 | 2022-12-08 | 2023-12-22 |
 | [Kamikaze](https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Kamikaze](https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0) | 3:40 | 2024-11-18 | 2025-11-07 |
@@ -212,7 +213,7 @@
 | [Locked Up](https://open.spotify.com/track/6NURhpGBxcPREjrtBdfWeL) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [The Keymaker](https://open.spotify.com/album/5STLj7Mkx2nwrCKdrSOnoR) | 3:53 | 2024-01-24 | 2024-04-19 |
 | [Loco](https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Loco](https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g) | 3:33 | 2022-12-08 | 2023-10-26 |
 | [LOSE IT](https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2) | [LOSE IT](https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5) | 2:43 | 2023-11-17 | 2024-04-16 |
-| [Lose My Mind](https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs), [Darkside Retox](https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp) | [Lose My Mind](https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj) | 3:14 | 2025-10-13 |  |
+| [Lose My Mind](https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs), [Darkside Retox](https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp) | [Lose My Mind](https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj) | 3:14 | 2025-10-13 | 2026-02-02 |
 | [LOSE STRESS](https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [LOSE STRESS](https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ) | 2:48 | 2022-12-08 | 2023-12-22 |
 | [M.D.E.](https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [M.D.E.](https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM) | 2:32 | 2022-12-08 | 2023-12-22 |
 | [Mad Masquerade](https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Mad Masquerade](https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud) | 3:47 | 2023-02-23 | 2023-06-23 |

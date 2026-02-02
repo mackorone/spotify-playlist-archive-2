@@ -2,7 +2,7 @@
 
 ### [Frat Party](https://open.spotify.com/playlist/37i9dQZF1DX7jLQsJHPr0Z)
 
-> The aux for every college party.
+> The aux for every college party\. Cover: Benson Boone and YUNGBLUD
 
 293 songs - 17 hr 15 min
 

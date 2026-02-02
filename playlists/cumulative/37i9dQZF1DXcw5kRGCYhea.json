@@ -1427,6 +1427,28 @@
     },
     {
       "album": {
+        "name": "DAYEKH",
+        "url": "https://open.spotify.com/album/5jzbFtWq8QWywzAEzsiEU7"
+      },
+      "artists": [
+        {
+          "name": "Hassa1",
+          "url": "https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr"
+        },
+        {
+          "name": "Sybka",
+          "url": "https://open.spotify.com/artist/0wKWC4FXvBdk5b1m9eJWQO"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132336,
+      "name": "DAYEKH",
+      "url": "https://open.spotify.com/track/2WXrrNqQYyacYvMhr7Ibzh"
+    },
+    {
+      "album": {
         "name": "BL\u00c9DARD",
         "url": "https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq"
       },
@@ -4294,7 +4316,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 146626,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/5ihk7LYUhUcGVVvUAqViTt"
@@ -5000,7 +5022,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-02",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -6164,6 +6186,24 @@
       "duration_ms": 193125,
       "name": "Triple V",
       "url": "https://open.spotify.com/track/6e1T28Wkr7r8xciTXcwhKJ"
+    },
+    {
+      "album": {
+        "name": "Trop tard",
+        "url": "https://open.spotify.com/album/49Mmv9BwGV57MtMVmWrApw"
+      },
+      "artists": [
+        {
+          "name": "Nezar",
+          "url": "https://open.spotify.com/artist/3sUn8nsotkqOARVLiqofNu"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178235,
+      "name": "Trop tard",
+      "url": "https://open.spotify.com/track/1IAZPiKUsXLK7NT9RUrXrR"
     },
     {
       "album": {

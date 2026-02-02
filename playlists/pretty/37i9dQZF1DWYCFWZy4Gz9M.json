@@ -1,6 +1,6 @@
 {
   "description": "Guembri, rhythmic krakebs and soulful chants.",
-  "num_followers": 76951,
+  "num_followers": 76990,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-10-13 07:03:56",
       "album": {
+        "name": "Djaza\u00efr Johara",
+        "url": "https://open.spotify.com/album/6aMI4N8bNjlmyf5nLaRgAG"
+      },
+      "artists": [
+        {
+          "name": "Hasna el Becharia",
+          "url": "https://open.spotify.com/artist/2Y2LaK65xm8j2wQMtEII8f"
+        }
+      ],
+      "duration_ms": 318333,
+      "name": "Bouri Bouri Manandabo",
+      "url": "https://open.spotify.com/track/4tEPVARoc88ff4zLuYDWEB"
+    },
+    {
+      "added_at": "2025-10-13 07:03:56",
+      "album": {
         "name": "Safi",
         "url": "https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 309000,
       "name": "Mister X",
       "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
-    },
-    {
-      "added_at": "2025-10-13 07:03:56",
-      "album": {
-        "name": "Djaza\u00efr Johara",
-        "url": "https://open.spotify.com/album/6aMI4N8bNjlmyf5nLaRgAG"
-      },
-      "artists": [
-        {
-          "name": "Hasna el Becharia",
-          "url": "https://open.spotify.com/artist/2Y2LaK65xm8j2wQMtEII8f"
-        }
-      ],
-      "duration_ms": 318333,
-      "name": "Bouri Bouri Manandabo",
-      "url": "https://open.spotify.com/track/4tEPVARoc88ff4zLuYDWEB"
     }
   ],
   "unique_name": "Gnawa Music",

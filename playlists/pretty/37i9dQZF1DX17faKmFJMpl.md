@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,565 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,576 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 50 | [Hiphop Beginner Class \(4 Beginners\)](https://open.spotify.com/track/4rZ652DdqI6n3mRqNwoScD) | [Da Crew](https://open.spotify.com/artist/1pxWngQhTWdOpwE8CBCfjo), [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:18 |
 | 51 | [Brutal Treatment \(Part\. 1\) \[feat\. Kebee & The Quiett\]](https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR) | [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT), [Kebee & The Quiett](https://open.spotify.com/artist/19FusVEESEp7aIW8ZNORim) | [Fanatic](https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO) | 4:18 |
 | 52 | [불한당's oblige](https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 3:20 |
-| 53 | [Climb High](https://open.spotify.com/track/6t5aUI9PC1NWSaWlUquNTw) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Bobby Kim](https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:24 |
-| 54 | [Again](https://open.spotify.com/track/1ZQK8wTvRhyL1vEe19j4Dp) | [Onesun](https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU), [T'ache](https://open.spotify.com/artist/5Wgz2qwf3Cn5N0NUyAhS5r), [Mithra Jin](https://open.spotify.com/artist/025L56GiNRsa5jSK7HO1ke) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:42 |
+| 53 | [Again](https://open.spotify.com/track/1ZQK8wTvRhyL1vEe19j4Dp) | [Onesun](https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU), [T'ache](https://open.spotify.com/artist/5Wgz2qwf3Cn5N0NUyAhS5r), [Mithra Jin](https://open.spotify.com/artist/025L56GiNRsa5jSK7HO1ke) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:42 |
+| 54 | [Climb High](https://open.spotify.com/track/6t5aUI9PC1NWSaWlUquNTw) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Bobby Kim](https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:24 |
 | 55 | [What U Write 4 \(Feat\. P\-Type & The Illest I.L.L.S.\) \- 2021 Remaster](https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [The Illest I.L.L.S.](https://open.spotify.com/artist/5uWKonV7gPmynKub7povSG) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 2:52 |
 | 56 | [Windbag Three Brothers and Spinner Park](https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ) | [Ill Skillz](https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 3:57 |
 | 57 | [이 구역에 미친놈은 나야 \(feat\. Geegooin & New Champ\)](https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua), [New Champ](https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 3:51 |

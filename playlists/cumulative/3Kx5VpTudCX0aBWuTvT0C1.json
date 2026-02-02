@@ -1531,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not"
+      },
+      "artists": [
+        {
+          "name": "The Paperbags",
+          "url": "https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk"
+        }
+      ],
+      "date_added": "2026-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192964,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864"
+    },
+    {
+      "album": {
         "name": "Slam Dunk",
         "url": "https://open.spotify.com/album/6IMcApH01rfqNtTdvWEoN6"
       },
