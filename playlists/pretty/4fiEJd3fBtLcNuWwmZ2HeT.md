@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 431 songs - 1 day 0 hr 54 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 433 songs - 1 day 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -439,5 +439,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 429 | [Heavenly You \(feat\. REML\)](https://open.spotify.com/track/5DUKpelrahdO3Zuoi89lkd) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb), [REML](https://open.spotify.com/artist/7qAvJuLIr1uEt2iad9myrO) | [Heavenly You \(feat\. REML\)](https://open.spotify.com/album/1gIJekdZgsQizLp2G3aLT0) | 3:53 |
 | 430 | [ZEKKOU](https://open.spotify.com/track/7nlj9QwWHCmDPq89CkebOs) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [ZEKKOU](https://open.spotify.com/album/0aT6OYiBjgEMfA92jWmoeE) | 1:53 |
 | 431 | [.....\. \- MARETU Remix](https://open.spotify.com/track/37TZpH55FF8LxIDShZuLLp) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz), [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [人形](https://open.spotify.com/album/6OiLP3mN9ntclPFqqyIS0c) | 2:40 |
+| 432 | [Spot Late](https://open.spotify.com/track/6FqWBvjXuDOI0wK7E2dPE3) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [Spot Late](https://open.spotify.com/album/6kRUDQ0A6l0pMGMO8cDdKE) | 3:03 |
+| 433 | [Medianoche](https://open.spotify.com/track/4frNQ6DvaOl96cemtTgW7q) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [Medianoche](https://open.spotify.com/album/5zi9SzPGFgLazFD7C9ICym) | 3:49 |
 
-Snapshot ID: `AAAJ2/uRz6PPWQsXLVNw/XM8Aor2ztgU`
+Snapshot ID: `AAAJ3ZFfiyL8NAUFKtHbgdbpHAWpKsiQ`

@@ -4,7 +4,7 @@
 
 > พลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Three Man Down, PEEMWASU OF BUS
 
-219 songs - 14 hr 7 min
+220 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2024-01-26 | 2024-08-23 |
 | [ยิ้มง่าย \(Better Together\) \- เพลงจากซีรีส์ "9 Years of you แต่ละปีที่มีเธอ"](https://open.spotify.com/track/51EN90GQ1JhX7n1noAB0s4) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ยิ้มง่าย \(Better Together\) \[เพลงจากซีรีส์ "9 Years of you แต่ละปีที่มีเธอ"\]](https://open.spotify.com/album/0s8Fg1llJ5cOB0XQxsicdW) | 3:00 | 2025-06-19 | 2025-10-16 |
 | [รถไฟบนฟ้า](https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [รถไฟบนฟ้า](https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC) | 4:16 | 2024-01-26 | 2024-10-11 |
+| [รสชาติชีวิต](https://open.spotify.com/track/3S16LqUZZibsrTeG59kH4M) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [รสชาติชีวิต](https://open.spotify.com/album/716iJevJDc8Pl0nob6n891) | 4:42 | 2026-02-02 |  |
 | [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2024-01-26 | 2024-03-28 |
 | [รออยู่อย่างนั้น](https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [SIMON](https://open.spotify.com/artist/6gL6AwaRQKqK9VGBqi5zDo) | [รออยู่อย่างนั้น](https://open.spotify.com/album/1pZSegpCKVMmIrPUtYcWQq) | 3:52 | 2025-04-16 |  |
 | [รักแรก \(First Love\) \[เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious\]](https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รักแรก \(First Love\) \- Single](https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s) | 4:26 | 2024-01-26 | 2024-08-09 |
@@ -162,7 +163,7 @@
 | [ลั่นทม \(เพลงประกอบละคร หอมกลิ่นความรัก\)](https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ลั่นทม \- Single](https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs) | 4:37 | 2024-01-26 | 2024-03-17 |
 | [ลามปาม \(circus\)](https://open.spotify.com/track/30CRjTYAXaJf5YBsNQHIvG) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลามปาม \(circus\)](https://open.spotify.com/album/7lnH9HjgEB01bjIbD2VX4t) | 4:56 | 2025-08-09 |  |
 | [ลูกคุณหนู](https://open.spotify.com/track/7n8XxOyeEnGBNJ7u5ClhCn) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [ลูกคุณหนู \- Single](https://open.spotify.com/album/57EbfAqOQkxyqeevvBmQCj) | 3:48 | 2024-03-14 | 2024-11-23 |
-| [ล้มแชมป์ \(Only You Can\)](https://open.spotify.com/track/3dKiS7M3Rkqtj9dsOkvzW6) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ล้มแชมป์ \(Only You Can\) \- Single](https://open.spotify.com/album/3iTtuuLmUWLN8nZ9GBkhhk) | 3:28 | 2025-01-15 |  |
+| [ล้มแชมป์ \(Only You Can\)](https://open.spotify.com/track/3dKiS7M3Rkqtj9dsOkvzW6) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ล้มแชมป์ \(Only You Can\) \- Single](https://open.spotify.com/album/3iTtuuLmUWLN8nZ9GBkhhk) | 3:28 | 2025-01-15 | 2026-02-03 |
 | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK) | 3:43 | 2024-09-12 | 2025-08-10 |
 | [วันนี้ปีที่แล้ว](https://open.spotify.com/track/4bnxMt1viexb85sAtVz1dA) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [วันนี้ปีที่แล้ว \- Single](https://open.spotify.com/album/6gI2LOnO76dKJ97awecXIx) | 3:53 | 2024-01-26 | 2025-01-16 |
 | [วาสนาผู้ใด](https://open.spotify.com/track/1atD9QMSoZjgKiUKKopZBW) | [Parkmalody](https://open.spotify.com/artist/6qb55pF0q2KS3v4M1Vd0yE) | [วาสนาผู้ใด](https://open.spotify.com/album/3pcJIZiaDMxH8hvTig1v99) | 3:15 | 2024-01-26 | 2024-04-19 |

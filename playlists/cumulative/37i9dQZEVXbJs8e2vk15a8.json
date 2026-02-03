@@ -29498,7 +29498,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 204733,
       "name": "Helena",
       "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
@@ -47130,7 +47130,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 269879,
       "name": "No Me Sofoco",
       "url": "https://open.spotify.com/track/3X0JPpWypjuxQA9Aqg481j"
@@ -55864,7 +55864,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 192145,
       "name": "Que Lindos Ojos",
       "url": "https://open.spotify.com/track/7qiOFRVtJvOVRFaWh2nrrf"
@@ -56524,7 +56524,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 120000,
       "name": "Qu\u00e9 Rico PR!",
       "url": "https://open.spotify.com/track/08C6m4alGcRaXEbm6IMsNs"
@@ -62071,6 +62071,24 @@
     },
     {
       "album": {
+        "name": "The Invisible Band",
+        "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S"
+    },
+    {
+      "album": {
         "name": "C\u00d3DiGOS DE MU\u00d1EKA",
         "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
       },
@@ -66382,7 +66400,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 307199,
       "name": "Te quiero en secreto",
       "url": "https://open.spotify.com/track/3sWwlCVpPjL6OTGLDRfVgH"

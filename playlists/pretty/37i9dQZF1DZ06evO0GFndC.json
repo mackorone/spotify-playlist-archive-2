@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 62811,
+  "num_followers": 62827,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAAwAQ8FZkJAidmKV+7ojDNS",
+  "snapshot_id": "aX6XgAAAAAAtgJQwomZLhFzqn+Thdtkh",
   "tracks": [
     {
       "added_at": null,
@@ -839,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+        "name": "Hoy Me Estoy Comiendo La Ciudad (En Vivo)",
+        "url": "https://open.spotify.com/album/4B2ByHupResD9l0PlPL7cb"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 190544,
-      "name": "Porte Fino - En Vivo",
-      "url": "https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik"
+      "duration_ms": 234922,
+      "name": "Hoy Me Estoy Comiendo la Ciudad - En Vivo",
+      "url": "https://open.spotify.com/track/1lZWOA1c0YzqUvvmBpcc1s"
     },
     {
       "added_at": null,
@@ -871,22 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Equipados",
-        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
       },
       "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 170461,
-      "name": "Bien Equipados",
-      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
+      "duration_ms": 190544,
+      "name": "Porte Fino - En Vivo",
+      "url": "https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik"
     }
   ],
   "unique_name": "This Is Grupo Los de la O",

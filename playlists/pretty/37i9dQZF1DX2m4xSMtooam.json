@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 319942,
+  "num_followers": 320069,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-01-23 08:17:08",
       "album": {
-        "name": "When I Fall In Love",
-        "url": "https://open.spotify.com/album/1ghS8R6i5bVgpKl2JOQIuS"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 331493,
-      "name": "La Belle Dame Sans Regrets",
-      "url": "https://open.spotify.com/track/5aAHHNcoXd1SrF5MnbKP2k"
-    },
-    {
-      "added_at": "2026-01-23 08:17:08",
-      "album": {
         "name": "Travelin' Light",
         "url": "https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 149640,
       "name": "And I Love Him",
       "url": "https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL"
+    },
+    {
+      "added_at": "2026-01-23 08:17:08",
+      "album": {
+        "name": "When I Fall In Love",
+        "url": "https://open.spotify.com/album/1ghS8R6i5bVgpKl2JOQIuS"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 331493,
+      "name": "La Belle Dame Sans Regrets",
+      "url": "https://open.spotify.com/track/5aAHHNcoXd1SrF5MnbKP2k"
     },
     {
       "added_at": "2026-01-23 08:17:08",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-01-23 08:17:08",
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/16ucl1JzaaDVmMXFqeYnWP"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/4iOqSgvp753MBixwpuQFtn"
+    },
+    {
+      "added_at": "2026-01-23 08:17:08",
+      "album": {
         "name": "Way Down Low",
         "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 250266,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/1AUwrey3n69snJNwvhzLB7"
-    },
-    {
-      "added_at": "2026-01-23 08:17:08",
-      "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/16ucl1JzaaDVmMXFqeYnWP"
-      },
-      "artists": [
-        {
-          "name": "Goblin Quartet",
-          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/4iOqSgvp753MBixwpuQFtn"
     },
     {
       "added_at": "2026-01-23 08:17:08",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-01-23 08:17:08",
       "album": {
-        "name": "C\u00e9u Tropical",
-        "url": "https://open.spotify.com/album/5b6Pitwhg3vbsfRO2wrVXs"
-      },
-      "artists": [
-        {
-          "name": "Mart\u00edn Lima",
-          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
-        }
-      ],
-      "duration_ms": 215699,
-      "name": "C\u00e9u Tropical",
-      "url": "https://open.spotify.com/track/1tQDRcG0bYg7zYvTkN98RY"
-    },
-    {
-      "added_at": "2026-01-23 08:17:08",
-      "album": {
         "name": "Liljeholmsviken",
         "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 262408,
       "name": "Liljeholmsviken",
       "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
+    },
+    {
+      "added_at": "2026-01-23 08:17:08",
+      "album": {
+        "name": "C\u00e9u Tropical",
+        "url": "https://open.spotify.com/album/5b6Pitwhg3vbsfRO2wrVXs"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "duration_ms": 215699,
+      "name": "C\u00e9u Tropical",
+      "url": "https://open.spotify.com/track/1tQDRcG0bYg7zYvTkN98RY"
     },
     {
       "added_at": "2026-01-23 08:17:08",
@@ -947,38 +947,6 @@
     {
       "added_at": "2026-01-23 08:17:08",
       "album": {
-        "name": "Verano",
-        "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 172162,
-      "name": "Verano",
-      "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
-    },
-    {
-      "added_at": "2026-01-23 08:17:08",
-      "album": {
-        "name": "Your Laugh",
-        "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 262673,
-      "name": "Your Laugh",
-      "url": "https://open.spotify.com/track/1AGKMyRXRV6io3TLzgioVL"
-    },
-    {
-      "added_at": "2026-01-23 08:17:08",
-      "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
@@ -999,6 +967,22 @@
     {
       "added_at": "2026-01-23 08:17:08",
       "album": {
+        "name": "Your Laugh",
+        "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 262673,
+      "name": "Your Laugh",
+      "url": "https://open.spotify.com/track/1AGKMyRXRV6io3TLzgioVL"
+    },
+    {
+      "added_at": "2026-01-23 08:17:08",
+      "album": {
         "name": "Our Poetry",
         "url": "https://open.spotify.com/album/654pcW24D0sY2s08xWpmC2"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2026-01-23 08:17:08",
       "album": {
-        "name": "Nature Boy",
-        "url": "https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR"
+        "name": "Verano",
+        "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
       },
       "artists": [
         {
-          "name": "Lighthouse Lounge Band",
-          "url": "https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc"
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
         }
       ],
-      "duration_ms": 263536,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8"
+      "duration_ms": 172162,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
     },
     {
       "added_at": "2026-01-23 08:17:08",
@@ -1043,6 +1027,22 @@
       "duration_ms": 207339,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
+    },
+    {
+      "added_at": "2026-01-23 08:17:08",
+      "album": {
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR"
+      },
+      "artists": [
+        {
+          "name": "Lighthouse Lounge Band",
+          "url": "https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc"
+        }
+      ],
+      "duration_ms": 263536,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8"
     },
     {
       "added_at": "2026-01-23 08:17:08",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-01-23 08:17:08",
       "album": {
-        "name": "I Mean To Say",
-        "url": "https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8"
-      },
-      "artists": [
-        {
-          "name": "Mornington",
-          "url": "https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS"
-        }
-      ],
-      "duration_ms": 217194,
-      "name": "I Mean To Say",
-      "url": "https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0"
-    },
-    {
-      "added_at": "2026-01-23 08:17:08",
-      "album": {
         "name": "Black Orpheus",
         "url": "https://open.spotify.com/album/1uIZcgp7yorDXZFTY7Eh53"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 254533,
       "name": "Black Orpheus",
       "url": "https://open.spotify.com/track/2gURzEbMFhxw1ujKV3v1HY"
+    },
+    {
+      "added_at": "2026-01-23 08:17:08",
+      "album": {
+        "name": "I Mean To Say",
+        "url": "https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8"
+      },
+      "artists": [
+        {
+          "name": "Mornington",
+          "url": "https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS"
+        }
+      ],
+      "duration_ms": 217194,
+      "name": "I Mean To Say",
+      "url": "https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0"
     },
     {
       "added_at": "2026-01-23 08:17:08",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-01-23 08:17:08",
       "album": {
-        "name": "Bel\u00e9m",
-        "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
-      },
-      "artists": [
-        {
-          "name": "Tyree",
-          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
-        }
-      ],
-      "duration_ms": 173507,
-      "name": "Bel\u00e9m",
-      "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
-    },
-    {
-      "added_at": "2026-01-23 08:17:08",
-      "album": {
         "name": "Cande y Paulo",
         "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 226658,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
+    },
+    {
+      "added_at": "2026-01-23 08:17:08",
+      "album": {
+        "name": "Bel\u00e9m",
+        "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
+      },
+      "artists": [
+        {
+          "name": "Tyree",
+          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
+        }
+      ],
+      "duration_ms": 173507,
+      "name": "Bel\u00e9m",
+      "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
     },
     {
       "added_at": "2026-01-23 08:17:08",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-01-23 08:17:08",
       "album": {
-        "name": "Lonely Desires",
-        "url": "https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1"
-      },
-      "artists": [
-        {
-          "name": "Amir Patel",
-          "url": "https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy"
-        }
-      ],
-      "duration_ms": 161860,
-      "name": "Lonely Desires",
-      "url": "https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6"
-    },
-    {
-      "added_at": "2026-01-23 08:17:08",
-      "album": {
         "name": "Above the Clouds",
         "url": "https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 240072,
       "name": "Above the Clouds",
       "url": "https://open.spotify.com/track/3LScC8PsoWhfG3IvoQ0VoC"
+    },
+    {
+      "added_at": "2026-01-23 08:17:08",
+      "album": {
+        "name": "Lonely Desires",
+        "url": "https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1"
+      },
+      "artists": [
+        {
+          "name": "Amir Patel",
+          "url": "https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy"
+        }
+      ],
+      "duration_ms": 161860,
+      "name": "Lonely Desires",
+      "url": "https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6"
     },
     {
       "added_at": "2026-01-23 08:17:08",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2026-01-23 08:17:08",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        },
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
-        }
-      ],
-      "duration_ms": 298280,
-      "name": "Caminhos Cruzados",
-      "url": "https://open.spotify.com/track/1u4Xal8izsdfmuNpmUTNo1"
-    },
-    {
-      "added_at": "2026-01-23 08:17:08",
-      "album": {
         "name": "A Rita",
         "url": "https://open.spotify.com/album/0AOG458GeaoRDRDuEHd2ns"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 248448,
       "name": "Wave",
       "url": "https://open.spotify.com/track/3bwnEib4SFS3W3wAVCEbaJ"
+    },
+    {
+      "added_at": "2026-01-23 08:17:08",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        },
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "duration_ms": 298280,
+      "name": "Caminhos Cruzados",
+      "url": "https://open.spotify.com/track/1u4Xal8izsdfmuNpmUTNo1"
     },
     {
       "added_at": "2026-01-23 08:17:08",

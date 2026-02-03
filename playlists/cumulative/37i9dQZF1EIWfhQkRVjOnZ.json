@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a> and <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 230533,
       "name": "A Call To The Faithful",
       "url": "https://open.spotify.com/track/3BAGoosCoAadI2UhrKLMu2"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 253373,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1NBLKfycJLSpzYM4zYIB8v"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 77973,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/6cPCoJDvn9OwyKT5s9uXXy"
@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 250733,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6X5R4cXJlu91xxl84WUzpS"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 275120,
       "name": "False Profit",
       "url": "https://open.spotify.com/track/3aahZWSGhy07rsli5H94Jr"
@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 155306,
       "name": "Giants Among Common Men",
       "url": "https://open.spotify.com/track/1liJO1TUfFgfLGFJ8YMiCj"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 193880,
       "name": "Hymn of a Broken Man",
       "url": "https://open.spotify.com/track/1vcHLDfAfuBq4JuIgEkw5I"
@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 222466,
       "name": "Right Side Of The Bed",
       "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 285226,
       "name": "Same Thing We Do Everyday Pinky",
       "url": "https://open.spotify.com/track/0e7Nhkz1m36BjJxlwVUjJh"
@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 205426,
       "name": "Son Of The Morning",
       "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
@@ -4204,7 +4204,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "The Seduction",
       "url": "https://open.spotify.com/track/4pVmA9mRD6FYrVQYhi8lEF"
@@ -4600,7 +4600,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 230546,
       "name": "To Plant a Seed",
       "url": "https://open.spotify.com/track/1XDleb5NksSab3NmUAlvz6"
@@ -4708,7 +4708,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 212506,
       "name": "Vacant Room",
       "url": "https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl"
@@ -4744,7 +4744,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 258933,
       "name": "Vices Like Vipers",
       "url": "https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm"

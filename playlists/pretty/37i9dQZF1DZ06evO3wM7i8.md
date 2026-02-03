@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,655 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,656 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 32 | [Nagasaki](https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol.2 / 1936 \- 1937](https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2) | 2:51 |
 | 33 | [Improvisation sur le 1er mvt concerto ré mineur](https://open.spotify.com/track/0ITMcSpAs4tjp4PZk0cRz8) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol6 / 1937](https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf) | 3:18 |
 | 34 | [You Rascal You](https://open.spotify.com/track/5tSmb1dTCnio8QRb0CXjtx) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 3:07 |
-| 35 | [Sweet Georgia Brown](https://open.spotify.com/track/3ytZXNJEyBQHqg6EcTxR2X) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt](https://open.spotify.com/album/5yhbUBKJTxNrdpUZzvTIPd) | 3:07 |
-| 36 | [Swing 42](https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol.12 / 1940 \- 1941](https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL) | 2:48 |
+| 35 | [Swing 42](https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol.12 / 1940 \- 1941](https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL) | 2:48 |
+| 36 | [Sweet Georgia Brown](https://open.spotify.com/track/3ytZXNJEyBQHqg6EcTxR2X) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt](https://open.spotify.com/album/5yhbUBKJTxNrdpUZzvTIPd) | 3:07 |
 | 37 | [Honeysuckle Rose](https://open.spotify.com/track/50gUKvSt2vFvxq84SX5ZXi) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 2:56 |
 | 38 | [Ol' Man River](https://open.spotify.com/track/0MWuBu7R8svPnlcas59cXN) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 2:37 |
 | 39 | [I Saw Stars \(feat\. Stéphane Grappelli\) \- Remastered 2002](https://open.spotify.com/track/7bK6vG5VbBtSbr831Fgsi5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Djangology \(feat\. Stéphane Grappelli\)](https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 49 | [I Got Rhythm](https://open.spotify.com/track/48UyiTaUgNPuIMorC6GgMS) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stephane Grappelli](https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z) | [Limitless Jazz, Vol\. 32](https://open.spotify.com/album/7Lc8bN9NtL0xk539MNQhDf) | 2:33 |
 | 50 | [Swing from Paris](https://open.spotify.com/track/1dZsuN8xSTM4cbuFQ1ypsf) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 2:34 |
 
-Snapshot ID: `aX1GAAAAAACfz/FmOUmsltHswgagSpvb`
+Snapshot ID: `aX6XgAAAAACs69mmv7JgkrTkNZ+R4zAH`

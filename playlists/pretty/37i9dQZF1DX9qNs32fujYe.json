@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Rob Zombie",
-  "num_followers": 1401365,
+  "num_followers": 1401526,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "Wait and Bleed",
-      "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "The Real Thing",
         "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 293653,
       "name": "Epic",
       "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Wait and Bleed",
+      "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Parasocial Christ",
-        "url": "https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 200963,
-      "name": "Parasocial Christ",
-      "url": "https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Foregone",
         "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 237300,
       "name": "Meet Your Maker",
       "url": "https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "Parasocial Christ",
+        "url": "https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 200963,
+      "name": "Parasocial Christ",
+      "url": "https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Demanufacture (Special Edition)",
-        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "Replica",
-      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Nu Delhi",
         "url": "https://open.spotify.com/album/4ZNvlZ4wynMad7cTp8hr2C"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 228364,
       "name": "Bekhauf (feat. BABYMETAL)",
       "url": "https://open.spotify.com/track/5j0WY6cTRud78QFLdfaS2N"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "Demanufacture (Special Edition)",
+        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "The Black",
-        "url": "https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 247599,
-      "name": "Desolation",
-      "url": "https://open.spotify.com/track/5uyD7zoJKzukGNFxZ1jPpM"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Our Time Is Now",
         "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 271417,
       "name": "Our Time Is Now",
       "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "duration_ms": 247599,
+      "name": "Desolation",
+      "url": "https://open.spotify.com/track/5uyD7zoJKzukGNFxZ1jPpM"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Break the Spell",
-        "url": "https://open.spotify.com/album/3Fjjxc5rAZr8xw0gl25crI"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Break the Spell",
-      "url": "https://open.spotify.com/track/2XLfNFUKxi1er33lMTa34m"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Voyage of the Dead Marauder",
         "url": "https://open.spotify.com/album/24Pm8GCzu6JXWOWTjburvl"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 267530,
       "name": "Voyage of the Dead Marauder (feat. Patty Gurdy)",
       "url": "https://open.spotify.com/track/15tb65IQDLvVlz8znIQfAu"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "Break the Spell",
+        "url": "https://open.spotify.com/album/3Fjjxc5rAZr8xw0gl25crI"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Break the Spell",
+      "url": "https://open.spotify.com/track/2XLfNFUKxi1er33lMTa34m"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Steelbound",
-        "url": "https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry"
-      },
-      "artists": [
-        {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "Twilight Cabaret",
-      "url": "https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 234931,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "Steelbound",
+        "url": "https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "Twilight Cabaret",
+      "url": "https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Make Them Suffer",
-        "url": "https://open.spotify.com/album/4IlFCPiC0DlO0wip7BjQwr"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "Small Town Syndrome",
-      "url": "https://open.spotify.com/track/1iF43TRxhGRq1ZUCnHrjXr"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Death Above Life",
         "url": "https://open.spotify.com/album/4wstmx3brleWK61hfO5y8P"
       },
@@ -2315,18 +2299,18 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Blood Dynasty (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
+        "name": "Make Them Suffer",
+        "url": "https://open.spotify.com/album/4IlFCPiC0DlO0wip7BjQwr"
       },
       "artists": [
         {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
         }
       ],
-      "duration_ms": 241300,
-      "name": "Moths",
-      "url": "https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz"
+      "duration_ms": 228880,
+      "name": "Small Town Syndrome",
+      "url": "https://open.spotify.com/track/1iF43TRxhGRq1ZUCnHrjXr"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2347,18 +2331,18 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Last Goodbye",
-        "url": "https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB"
+        "name": "Blood Dynasty (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
       },
       "artists": [
         {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 212710,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq"
+      "duration_ms": 241300,
+      "name": "Moths",
+      "url": "https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2375,6 +2359,38 @@
       "duration_ms": 245656,
       "name": "A Visceral Retch",
       "url": "https://open.spotify.com/track/7BlvPctRnjjJUjBnrySJ7b"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "duration_ms": 212710,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2411,22 +2427,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Sinners of the Seven Seas",
         "url": "https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP"
       },
@@ -2439,22 +2439,6 @@
       "duration_ms": 180930,
       "name": "Sinners of the Seven Seas",
       "url": "https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 269853,
-      "name": "Dream Stealer",
-      "url": "https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2487,6 +2471,22 @@
       "duration_ms": 449786,
       "name": "Mean, Green, Killing Machine",
       "url": "https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 269853,
+      "name": "Dream Stealer",
+      "url": "https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Paper Tiger",
-      "url": "https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Marching in Time",
         "url": "https://open.spotify.com/album/0kxRp8FlcQ0Sx2edzWzEGe"
       },
@@ -2599,6 +2583,22 @@
       "duration_ms": 250598,
       "name": "If Not for You",
       "url": "https://open.spotify.com/track/0YErfApccjJFLU9KvVd0Lv"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Paper Tiger",
+      "url": "https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "HOLLYWOOD SUICIDE",
-        "url": "https://open.spotify.com/album/6YFZoTSdDcMGv0ryhzB4Oy"
-      },
-      "artists": [
-        {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
-        }
-      ],
-      "duration_ms": 235061,
-      "name": "HEAVY RAIN",
-      "url": "https://open.spotify.com/track/2aNOTGXCObY6U2zblqqWA9"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Operation: Mindcrime (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/16VzTNaeadMjxI03Xi9s6n"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 263560,
       "name": "I Don't Believe In Love - Remastered 2003",
       "url": "https://open.spotify.com/track/3p9GbXMy1f9Efhdfj0QNBG"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "HOLLYWOOD SUICIDE",
+        "url": "https://open.spotify.com/album/6YFZoTSdDcMGv0ryhzB4Oy"
+      },
+      "artists": [
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        }
+      ],
+      "duration_ms": 235061,
+      "name": "HEAVY RAIN",
+      "url": "https://open.spotify.com/track/2aNOTGXCObY6U2zblqqWA9"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2779,6 +2779,22 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
+        "name": "House of Mirrors",
+        "url": "https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "House of Mirrors",
+      "url": "https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
         "name": "Would You Walk With Me Through Hell",
         "url": "https://open.spotify.com/album/4ZPrSeieiq4GpCgUifuuY4"
       },
@@ -2795,22 +2811,6 @@
       "duration_ms": 275011,
       "name": "Would You Walk With Me Through Hell",
       "url": "https://open.spotify.com/track/7i1Z0H568DE25JZTGkCQeB"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
-        "name": "House of Mirrors",
-        "url": "https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "House of Mirrors",
-      "url": "https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2903,22 +2903,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Break The Silence",
-        "url": "https://open.spotify.com/album/3V6YPXL4wfUaO2rr5YoAfH"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 263244,
-      "name": "Break The Silence",
-      "url": "https://open.spotify.com/track/0HsVlWPK8eZ8ig3NMZC5zP"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Spotlight",
         "url": "https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW"
       },
@@ -2935,18 +2919,18 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Cross The Divide",
-        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
+        "name": "Break The Silence",
+        "url": "https://open.spotify.com/album/3V6YPXL4wfUaO2rr5YoAfH"
       },
       "artists": [
         {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
         }
       ],
-      "duration_ms": 258209,
-      "name": "Cross the Divide",
-      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
+      "duration_ms": 263244,
+      "name": "Break The Silence",
+      "url": "https://open.spotify.com/track/0HsVlWPK8eZ8ig3NMZC5zP"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2963,6 +2947,22 @@
       "duration_ms": 234346,
       "name": "Eternal Rains",
       "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "Cross The Divide",
+        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 258209,
+      "name": "Cross the Divide",
+      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2991,22 +2991,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "The Hunter (Deluxe)",
-        "url": "https://open.spotify.com/album/7lObP1GanG65wToWzufQtq"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Curl of the Burl",
-      "url": "https://open.spotify.com/track/6PPQEvj7UZ2hXM80Qo7gR1"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Venerate Me",
         "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
       },
@@ -3019,6 +3003,22 @@
       "duration_ms": 283338,
       "name": "Venerate Me",
       "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "The Hunter (Deluxe)",
+        "url": "https://open.spotify.com/album/7lObP1GanG65wToWzufQtq"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Curl of the Burl",
+      "url": "https://open.spotify.com/track/6PPQEvj7UZ2hXM80Qo7gR1"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -3183,22 +3183,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Midnight Messiah",
-        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 478186,
-      "name": "Midnight Messiah",
-      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Degradation Rules (feat. Tony Iommi)",
         "url": "https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq"
       },
@@ -3215,6 +3199,22 @@
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "Midnight Messiah",
+        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 478186,
+      "name": "Midnight Messiah",
+      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
     },
     {
       "added_at": "2026-01-23 05:00:18",

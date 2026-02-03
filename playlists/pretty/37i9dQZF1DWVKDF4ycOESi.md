@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Kid Yugi, Ditonellapiaga, Ermal Meta, Melanie Martinez e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,586 likes - 95 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,578 likes - 95 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 34 | [Perdigiorno](https://open.spotify.com/track/6Tld3zH5XE2EXF2UOqtLi1) | [plasma](https://open.spotify.com/artist/4ct6fFxYrQCgyveC8ILww4) | [Perdigiorno](https://open.spotify.com/album/6dn67zZpP9upayDx1f1p7l) | 2:57 |
 | 35 | [⁠FERITE PER TUTTI](https://open.spotify.com/track/24A1WJmLf4rgn2I232BTB5) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [FERITE PER TUTTI](https://open.spotify.com/album/3TGfSRfKSG4sTUspQQ0tAH) | 2:53 |
 | 36 | [Rosaria](https://open.spotify.com/track/5KBtddmAOWglelJh66ycJb) | [Rossana De Pace](https://open.spotify.com/artist/5gkWD5byGyu98HtrFUOTz2) | [Diatomee](https://open.spotify.com/album/0yiACrzCfRen3oZcT1r7VV) | 3:15 |
-| 37 | [a minute a moment](https://open.spotify.com/track/5lKxgT7JyS3nqVVrypMonw) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/5E6aswcc0puXAQvvGuzOtp) | 3:23 |
+| 37 | [a minute a moment](https://open.spotify.com/track/64nEsHY3vnRwKFcUjaz6cC) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/70WuZoQSaSw3sAS9hTu5cD) | 3:23 |
 | 38 | [NONOSTANTE TUTTO](https://open.spotify.com/track/74V4kDrGzzx5AsNIZ5ieIX) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [NONOSTANTE TUTTO](https://open.spotify.com/album/6VUj6eJHXU1RGq3AiSroQi) | 2:47 |
 | 39 | [Sabato Sera](https://open.spotify.com/track/7aEuztQFFqyTQUBanox9kU) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Sabato Sera](https://open.spotify.com/album/14PnXsuZjIJFEAeizmD0KP) | 2:14 |
 | 40 | [Tyson](https://open.spotify.com/track/3K9jbkMAwN2iEwUWOGBplf) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq) | [Tyson](https://open.spotify.com/album/0vGBomvsBvd0P3bTqDTVv0) | 2:45 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 94 | [250cc](https://open.spotify.com/track/0Ywh0NH8bmPTQFvQZ9G5yU) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [Olisso](https://open.spotify.com/artist/5j2C0iQHKvCcfPVCOqn20h) | [250cc](https://open.spotify.com/album/6nUtF0ygYhS5iJh8JvnfuB) | 2:25 |
 | 95 | [NO LIES.](https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7) | [paradise fell.](https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3) | [NO LIES.](https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh) | 3:26 |
 
-Snapshot ID: `AAAAABlzO1qq9zwZsV4hhucrRI/3Vblt`
+Snapshot ID: `AAAAAIbesgoCwrjt5MQMFbjooqPsR5q2`

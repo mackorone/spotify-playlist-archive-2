@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: 千葉雄喜 \*毎週更新
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,226 likes - 81 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,236 likes - 81 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 5 | [Kabukimono](https://open.spotify.com/track/4EkfUCeJdOuwh45nm6ZQsh) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Wataru](https://open.spotify.com/album/6gfdpeoCwQlU5zrGaJ9mMx) | 2:45 |
 | 6 | [MONEY UP \(feat\. 7 & eyden\)](https://open.spotify.com/track/6FYeN26inu1ArB0YGuW98s) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [MONEY UP \(feat\. 7 & eyden\)](https://open.spotify.com/album/08zxWOjo6UKSy1zNaGAyt6) | 2:54 |
 | 7 | [Late Night step \(feat\. BIM\)](https://open.spotify.com/track/2yabxW9OpHSgXmgo434gpU) | [JuggrixhSentana](https://open.spotify.com/artist/3ijoOXa68U7MRSFIw3JnVP), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Late Night step \(feat\. BIM\)](https://open.spotify.com/album/2ZlNUEojjt77OwZhpos3HE) | 2:44 |
-| 8 | [Ride \(feat\. IO\) \- Remix](https://open.spotify.com/track/2xowEfMazyKWkMGPUCaM72) | [SWEE](https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Ride \(feat\. IO\) \[Remix\]](https://open.spotify.com/album/0tszxEUKldzRspJnTACvLK) | 4:33 |
+| 8 | [Ride Remix \(feat\. IO\)](https://open.spotify.com/track/2xowEfMazyKWkMGPUCaM72) | [SWEE](https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Ride Remix \(feat\. IO\)](https://open.spotify.com/album/0tszxEUKldzRspJnTACvLK) | 4:33 |
 | 9 | [Tell Me How It Goes](https://open.spotify.com/track/1pIsFTEz8mGw8VBzh7vtlI) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Tell Me How It Goes](https://open.spotify.com/album/0b196yyH4aO0CCRb5m1zMP) | 3:25 |
 | 10 | [Stay With Me](https://open.spotify.com/track/3GVSPTF6hkjISzWNDbWfpM) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Stay With Me](https://open.spotify.com/album/6QW9pw5fNadRfVp6Gg8SpF) | 2:57 |
 | 11 | [WE SWAG](https://open.spotify.com/track/6ZZlbNwlY2cnFEA8aYOtKQ) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [GENIUS](https://open.spotify.com/album/6zL17Eyx4I0bTGtToAaulZ) | 2:51 |

@@ -5795,6 +5795,24 @@
     },
     {
       "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "album": {
         "name": "Desce Novinha",
         "url": "https://open.spotify.com/album/7GLm0XGPioTe7CdTRUKOED"
       },
@@ -5876,6 +5894,24 @@
       "duration_ms": 157565,
       "name": "Desfa\u00e7o",
       "url": "https://open.spotify.com/track/7GZp4mZWDd0CFv4j3B6ObX"
+    },
+    {
+      "album": {
+        "name": "Coisas Naturais",
+        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213719,
+      "name": "Desmitificar",
+      "url": "https://open.spotify.com/track/5h2S4Tob1xXcUiSxjMHb2B"
     },
     {
       "album": {
@@ -6850,7 +6886,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 171841,
       "name": "ele n\u00e3o vale NADA",
       "url": "https://open.spotify.com/track/5VvJRY3MMSZ63N5jApIsOo"
@@ -12496,7 +12532,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 186069,
       "name": "Mil e uma Noites",
       "url": "https://open.spotify.com/track/2tWJnn5FPV7K9zAxjaHrVf"

@@ -74,10 +74,28 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 145800,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
+    },
+    {
+      "album": {
+        "name": "At The Movies",
+        "url": "https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147293,
+      "name": "Ain't That A Kick In The Head - Remastered 1997",
+      "url": "https://open.spotify.com/track/4qQ8sToR3GNossXlwSlyKz"
     },
     {
       "album": {

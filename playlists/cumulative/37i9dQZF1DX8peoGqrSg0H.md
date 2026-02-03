@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: JAOKHUN
 
-830 songs - 2 day 0 hr 51 min
+831 songs - 2 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Smash or Pass \- Original Soundtrack From Out of the nest](https://open.spotify.com/track/442Za23vtvJthRqBVBkSc5) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Smash or Pass \(Original Soundtrack From Out of the nest\)](https://open.spotify.com/album/0Fkt3VKyuPCTXNOLDMjLGE) | 2:46 | 2024-08-01 | 2024-08-09 |
 | [Snooze](https://open.spotify.com/track/6C5WwJEDLnOYSWFU8AGfEk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [GLOW](https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz) | 2:59 | 2025-06-19 | 2025-07-10 |
 | [So Big](https://open.spotify.com/track/6QB644JBem2AXeb3q4OLtT) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [Yours <3](https://open.spotify.com/album/3VUPo0U0ZShcYi1wmTipRr) | 3:04 | 2022-06-09 | 2022-06-17 |
-| [So Blue](https://open.spotify.com/track/2yWjkStHfK0BYmV1HdexvX) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [So Blue](https://open.spotify.com/album/1glJl6KpvOWoXxHoMK9QlB) | 3:32 | 2026-01-22 |  |
+| [So Blue](https://open.spotify.com/track/2yWjkStHfK0BYmV1HdexvX) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [So Blue](https://open.spotify.com/album/1glJl6KpvOWoXxHoMK9QlB) | 3:32 | 2026-01-22 | 2026-02-03 |
 | [so good so bad](https://open.spotify.com/track/0w6zTpil7ny1enDWlFLMff) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [so good so bad](https://open.spotify.com/album/5JpxHDyjPJ06ky5W08b5yb) | 3:44 | 2024-05-23 | 2024-06-07 |
 | [Someone Someday](https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Someone Someday](https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF) | 3:57 | 2024-04-25 | 2025-05-30 |
 | [SOMTAM \(ส้มตำ\)](https://open.spotify.com/track/0yJse6R8bNxJcjZuB1GE7d) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [SOMTAM \(ส้มตำ\)](https://open.spotify.com/album/3F8jYGorl7sO2oUSY8lTHn) | 3:51 | 2025-11-06 |  |
@@ -638,6 +638,7 @@
 | [อยากเริ่มต้นใหม่กับคนเดิม \(repeat\)](https://open.spotify.com/track/1E0waZD9GmD0SkbEhk19J4) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [อยากเริ่มต้นใหม่กับคนเดิม \(repeat\)](https://open.spotify.com/album/1cXnOf7dMtpsiGzvDjREAq) | 3:58 | 2022-05-26 | 2022-07-29 |
 | [อยากแชร์เพลงรักทุกเพลงให้เธอ อยากแชร์เพลงรักให้เธอทุกวัน y\(our\) song](https://open.spotify.com/track/2O2KeSSPM08QzPXMVJWe4L) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [อยากแชร์เพลงรักทุกเพลงให้เธอ อยากแชร์เพลงรักให้เธอทุกวัน y\(our\) song](https://open.spotify.com/album/4NamkMWD2iNno2fyBqtEgz) | 3:39 | 2025-06-13 |  |
 | [อยู่คนเดียวกับเขา](https://open.spotify.com/track/53LA6FpWz2mGrQVde1vTr9) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [อยู่คนเดียวกับเขา](https://open.spotify.com/album/2Pm2Btrcqr3bhyOLPXRolY) | 3:45 | 2024-08-22 | 2024-10-04 |
+| [อยู่คนเดียวยังไงไหว \(Our Time\)](https://open.spotify.com/track/7ryl96WbiU10WXCJHVQkHx) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [อยู่คนเดียวยังไงไหว \(Our Time\)](https://open.spotify.com/album/4tF1Mxe1WyMNpRmETeJz2P) | 2:55 | 2026-02-02 |  |
 | [อยู่ดีๆก็อ่อนแอ \(My Weakness is You\)](https://open.spotify.com/track/5Kw1ljNGHNZy8xmPn81QyH) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [Emotional Rollercoaster](https://open.spotify.com/album/7x6Rqd74OhtmCkipVZ31FM) | 2:56 | 2024-10-03 | 2024-10-18 |
 | [อยู่อย่างนี้ดีกว่าไหม \(Not too close\)](https://open.spotify.com/track/79b1jvvma41fVEycWddFgO) | [MANIACT](https://open.spotify.com/artist/4vwzfpFBKNWO5wSikwFm8j) | [อยู่อย่างนี้ดีกว่าไหม \(Not too close\)](https://open.spotify.com/album/0CIMFN6hXEe7bgIKvzegdy) | 3:27 | 2024-10-03 | 2024-10-11 |
 | [อยู่เฉยๆ ก็น่ารัก \(Please Be Mine\)](https://open.spotify.com/track/6lrMGW46YadQYHzD6mzz4E) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [อยู่เฉยๆ ก็น่ารัก \(Please Be Mine\) \- Single](https://open.spotify.com/album/4IJ0gjuhqJoGQlwJiEMHH9) | 2:59 | 2023-08-10 | 2024-04-19 |

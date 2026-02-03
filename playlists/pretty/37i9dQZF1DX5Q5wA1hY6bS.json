@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1350577,
+  "num_followers": 1350273,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "3D Country",
         "url": "https://open.spotify.com/album/4RT2pNX9ZXCB0LtqfI2sdJ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 170537,
       "name": "Cowboy Nudes",
       "url": "https://open.spotify.com/track/5vtJPJsiwW5BZAYo8Nla0n"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
     },
     {
       "added_at": "2025-12-12 15:56:47",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "All Flowers In Time Bend Towards The Sun",
-        "url": "https://open.spotify.com/album/3UP0SM64jqkfShy1BfaCOV"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 235704,
-      "name": "All Flowers In Time Bend Towards The Sun",
-      "url": "https://open.spotify.com/track/2ZN1QoGCnCoxWZWm4b0J2N"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "All Flowers In Time Bend Towards The Sun",
+        "url": "https://open.spotify.com/album/3UP0SM64jqkfShy1BfaCOV"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 235704,
+      "name": "All Flowers In Time Bend Towards The Sun",
+      "url": "https://open.spotify.com/track/2ZN1QoGCnCoxWZWm4b0J2N"
     },
     {
       "added_at": "2025-12-12 15:56:47",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
-      },
-      "artists": [
-        {
-          "name": "Trudy and the Romance",
-          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
-        }
-      ],
-      "duration_ms": 242844,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "Not Like It Was",
         "url": "https://open.spotify.com/album/2OXSKzWohxMSLtcDQIovDT"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 175103,
       "name": "Not Like It Was",
       "url": "https://open.spotify.com/track/7kAJjcUdOIDXVVowBEneH5"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "duration_ms": 242844,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
     },
     {
       "added_at": "2025-12-12 15:56:47",

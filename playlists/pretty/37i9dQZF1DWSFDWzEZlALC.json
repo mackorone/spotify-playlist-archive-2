@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Levin Liam",
-  "num_followers": 462541,
+  "num_followers": 462509,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGhqG696wK4FKbclHz7DixCgoyRm",
+  "snapshot_id": "AAAAANAwAL2InjeOYl9Gi0DaarxRkZmU",
   "tracks": [
     {
       "added_at": "2026-01-30 08:22:47",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-01-30 08:22:47",
       "album": {
-        "name": "PINOCCHIO",
-        "url": "https://open.spotify.com/album/200tPb3IQw1l3sqqRi4jBk"
-      },
-      "artists": [
-        {
-          "name": "CARLI",
-          "url": "https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6"
-        }
-      ],
-      "duration_ms": 162584,
-      "name": "PINOCCHIO",
-      "url": "https://open.spotify.com/track/18tyqyDTt7UqTaVSKc18Bn"
-    },
-    {
-      "added_at": "2026-01-30 08:22:47",
-      "album": {
         "name": "blinde passagiere",
         "url": "https://open.spotify.com/album/1V1ibDiBGqIhChSZ3EHONo"
       },
@@ -75,34 +59,34 @@
     {
       "added_at": "2026-01-30 08:22:47",
       "album": {
-        "name": "Wenn du dann weg bist",
-        "url": "https://open.spotify.com/album/5OutEJHBJdzCcvm2Wyl08H"
+        "name": "PINOCCHIO",
+        "url": "https://open.spotify.com/album/200tPb3IQw1l3sqqRi4jBk"
       },
       "artists": [
         {
-          "name": "JANKA",
-          "url": "https://open.spotify.com/artist/2hQq5kPUjPSNnI95WB6LK2"
+          "name": "CARLI",
+          "url": "https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6"
         }
       ],
-      "duration_ms": 209803,
-      "name": "Wenn du dann weg bist",
-      "url": "https://open.spotify.com/track/1PK2Z9ztmQ5OftJ12Pe7ZI"
+      "duration_ms": 162584,
+      "name": "PINOCCHIO",
+      "url": "https://open.spotify.com/track/18tyqyDTt7UqTaVSKc18Bn"
     },
     {
       "added_at": "2026-01-30 08:22:47",
       "album": {
-        "name": "VIEL10",
-        "url": "https://open.spotify.com/album/1jgjo504dJyPyAdnruD0g3"
+        "name": "amelie",
+        "url": "https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE"
       },
       "artists": [
         {
-          "name": "siovo",
-          "url": "https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST"
+          "name": "Ella Stern",
+          "url": "https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd"
         }
       ],
-      "duration_ms": 197608,
-      "name": "VIEL10",
-      "url": "https://open.spotify.com/track/3rCsF9E5A7YBQXl5Y4usVh"
+      "duration_ms": 158902,
+      "name": "amelie",
+      "url": "https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub"
     },
     {
       "added_at": "2026-01-30 08:22:47",
@@ -123,22 +107,6 @@
     {
       "added_at": "2026-01-30 08:22:47",
       "album": {
-        "name": "wie ich dich seh",
-        "url": "https://open.spotify.com/album/5hPNFDOgqC7i7qTJIxhMkJ"
-      },
-      "artists": [
-        {
-          "name": "AMBRA",
-          "url": "https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5"
-        }
-      ],
-      "duration_ms": 163119,
-      "name": "wie ich dich seh",
-      "url": "https://open.spotify.com/track/62frCZLAewgAgA7TnKCWPp"
-    },
-    {
-      "added_at": "2026-01-30 08:22:47",
-      "album": {
         "name": "L\u00e4rm",
         "url": "https://open.spotify.com/album/34c0s3KnxOt1kejKFHBLQZ"
       },
@@ -155,18 +123,50 @@
     {
       "added_at": "2026-01-30 08:22:47",
       "album": {
-        "name": "amelie",
-        "url": "https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE"
+        "name": "VIEL10",
+        "url": "https://open.spotify.com/album/1jgjo504dJyPyAdnruD0g3"
       },
       "artists": [
         {
-          "name": "Ella Stern",
-          "url": "https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd"
+          "name": "siovo",
+          "url": "https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST"
         }
       ],
-      "duration_ms": 158902,
-      "name": "amelie",
-      "url": "https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub"
+      "duration_ms": 197608,
+      "name": "VIEL10",
+      "url": "https://open.spotify.com/track/3rCsF9E5A7YBQXl5Y4usVh"
+    },
+    {
+      "added_at": "2026-01-30 08:22:47",
+      "album": {
+        "name": "Wenn du dann weg bist",
+        "url": "https://open.spotify.com/album/5OutEJHBJdzCcvm2Wyl08H"
+      },
+      "artists": [
+        {
+          "name": "JANKA",
+          "url": "https://open.spotify.com/artist/2hQq5kPUjPSNnI95WB6LK2"
+        }
+      ],
+      "duration_ms": 209803,
+      "name": "Wenn du dann weg bist",
+      "url": "https://open.spotify.com/track/1PK2Z9ztmQ5OftJ12Pe7ZI"
+    },
+    {
+      "added_at": "2026-01-30 08:22:47",
+      "album": {
+        "name": "wie ich dich seh",
+        "url": "https://open.spotify.com/album/5hPNFDOgqC7i7qTJIxhMkJ"
+      },
+      "artists": [
+        {
+          "name": "AMBRA",
+          "url": "https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5"
+        }
+      ],
+      "duration_ms": 163119,
+      "name": "wie ich dich seh",
+      "url": "https://open.spotify.com/track/62frCZLAewgAgA7TnKCWPp"
     },
     {
       "added_at": "2026-01-30 08:22:47",

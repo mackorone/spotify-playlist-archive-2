@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The extraordinary women making great country music today. Cover: Ashley McBryde",
+  "description": "The extraordinary women making great country music today. Cover: Kelsea Ballerini and Lainey Wilson",
   "name": "Women of Country",
   "tracks": [
     {
@@ -3031,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "Mount Pleasant Commentary",
+        "url": "https://open.spotify.com/album/02HvVdouLKpJD56EJfxyZo"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130093,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/1eXaJCN3pBxK12D4NjJwBP"
+    },
+    {
+      "album": {
         "name": "I Tried A Ring On",
         "url": "https://open.spotify.com/album/6R8KPrq6T7SpQFvJoEOlKI"
       },
@@ -5624,6 +5642,24 @@
       "duration_ms": 156906,
       "name": "Somethin' Bout You",
       "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
+    },
+    {
+      "album": {
+        "name": "Whirlwind (Deluxe)",
+        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Somewhere Over Laredo",
+      "url": "https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC"
     },
     {
       "album": {

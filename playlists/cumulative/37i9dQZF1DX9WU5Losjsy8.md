@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9WU5Losjsy8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9WU5Losjsy8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9WU5Losjsy8)
 
-### [Après Ski Party 2025](https://open.spotify.com/playlist/37i9dQZF1DX9WU5Losjsy8)
+### [Après Ski Party 2026](https://open.spotify.com/playlist/37i9dQZF1DX9WU5Losjsy8)
 
-> Bald gehts wieder auf zur Hütten Gaudi!
+> Die Musik für die Hütten Gaudi!
 
-190 songs - 9 hr 30 min
+191 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [7 Sünden \- Party Mix](https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Marc Pircher](https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:59 | 2023-12-19 |  |
 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 | 2023-09-18 |  |
 | [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 | 2024-03-27 |  |
-| [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 | 2023-07-14 |  |
+| [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 | 2023-07-14 | 2026-02-03 |
 | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ) | 2:43 | 2025-03-18 |  |
 | [Anna\-Lena](https://open.spotify.com/track/1N7HWv5UZrmhGYJAExPBSO) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/5p43YwAvnW9SP3s5jVsO1Q) | 3:00 | 2024-02-09 | 2024-02-16 |
 | [Anna\-Lena](https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d) | 3:00 | 2023-07-14 | 2024-01-18 |
@@ -148,6 +148,7 @@
 | [Oben ohne](https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Oben ohne](https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M) | 2:59 | 2024-03-22 |  |
 | [Oben unten \- Party Edit](https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2) | [Räuber](https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Oben unten \(Party Edit\)](https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH) | 3:32 | 2024-09-30 |  |
 | [Oberteil](https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf) | [Oberteil](https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M) | 2:29 | 2024-04-30 |  |
+| [Octopus \(100.000 Hände\)](https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm) | [Mountain Crew](https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z) | [Octopus \(100.000 Hände\)](https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii) | 3:45 | 2026-02-02 |  |
 | [Oh Baby](https://open.spotify.com/track/59HKKV0eD3UPJ3RCG5qFcc) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Oh Baby](https://open.spotify.com/album/5xZubDsUa9davo8N2LOFy6) | 3:11 | 2024-01-26 | 2024-04-19 |
 | [OHNE DICH](https://open.spotify.com/track/2zB3m7cucvTZQ7IwUtdnxM) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [OHNE DICH](https://open.spotify.com/album/4ojhahjUoeEdcbCaFVygXE) | 3:01 | 2025-04-17 |  |
 | [Olivia](https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I) | [Die Zipfelbuben](https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U), [Der Zipfelbube](https://open.spotify.com/artist/6J8iPd5dkgJWgxqe4Fn2Az), [DJ Cashi](https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo) | [Olivia](https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx) | 3:00 | 2023-07-14 |  |

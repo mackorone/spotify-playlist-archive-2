@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 54439,
+  "num_followers": 54441,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-01-21 03:22:06",
       "album": {
+        "name": "three",
+        "url": "https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl"
+      },
+      "artists": [
+        {
+          "name": "ILIVEHERE.",
+          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "three",
+      "url": "https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV"
+    },
+    {
+      "added_at": "2026-01-21 03:22:06",
+      "album": {
         "name": "Namikimichi",
         "url": "https://open.spotify.com/album/6GCOhJ4u43m3tJaNKkhErs"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 119230,
       "name": "Namikimichi",
       "url": "https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw"
-    },
-    {
-      "added_at": "2026-01-21 03:22:06",
-      "album": {
-        "name": "three",
-        "url": "https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl"
-      },
-      "artists": [
-        {
-          "name": "ILIVEHERE.",
-          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "three",
-      "url": "https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV"
     },
     {
       "added_at": "2026-01-21 03:22:06",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-01-21 03:22:06",
       "album": {
+        "name": "\u5c71\u6708",
+        "url": "https://open.spotify.com/album/6Z0UjFVXkFckcns2oHcOJT"
+      },
+      "artists": [
+        {
+          "name": "\u7e54\u7530\u7950\u4eae",
+          "url": "https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD"
+        }
+      ],
+      "duration_ms": 193384,
+      "name": "\u5c71\u6708",
+      "url": "https://open.spotify.com/track/7dO2wvBbkZtX2mKVbP2DcX"
+    },
+    {
+      "added_at": "2026-01-21 03:22:06",
+      "album": {
         "name": "KUMORI",
         "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
       },
@@ -619,18 +635,18 @@
     {
       "added_at": "2026-01-21 03:22:06",
       "album": {
-        "name": "\u5c71\u6708",
-        "url": "https://open.spotify.com/album/6Z0UjFVXkFckcns2oHcOJT"
+        "name": "Day Trip",
+        "url": "https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W"
       },
       "artists": [
         {
-          "name": "\u7e54\u7530\u7950\u4eae",
-          "url": "https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD"
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
         }
       ],
-      "duration_ms": 193384,
-      "name": "\u5c71\u6708",
-      "url": "https://open.spotify.com/track/7dO2wvBbkZtX2mKVbP2DcX"
+      "duration_ms": 137000,
+      "name": "Day Trip",
+      "url": "https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ"
     },
     {
       "added_at": "2026-01-21 03:22:06",
@@ -667,22 +683,6 @@
       "duration_ms": 225600,
       "name": "Goodbye Blurry Days",
       "url": "https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop"
-    },
-    {
-      "added_at": "2026-01-21 03:22:06",
-      "album": {
-        "name": "Day Trip",
-        "url": "https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W"
-      },
-      "artists": [
-        {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Day Trip",
-      "url": "https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ"
     },
     {
       "added_at": "2026-01-21 03:22:06",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-01-21 03:22:06",
       "album": {
+        "name": "C.itosakura f.ascendens (synfilums rework)",
+        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
+      },
+      "artists": [
+        {
+          "name": "synfilums",
+          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "C.itosakura f.ascendens - synfilums rework",
+      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
+    },
+    {
+      "added_at": "2026-01-21 03:22:06",
+      "album": {
         "name": "qutie",
         "url": "https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 149333,
       "name": "qutie",
       "url": "https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI"
-    },
-    {
-      "added_at": "2026-01-21 03:22:06",
-      "album": {
-        "name": "C.itosakura f.ascendens (synfilums rework)",
-        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
-      },
-      "artists": [
-        {
-          "name": "synfilums",
-          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "C.itosakura f.ascendens - synfilums rework",
-      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
     },
     {
       "added_at": "2026-01-21 03:22:06",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-01-21 03:22:06",
       "album": {
+        "name": "hakubo",
+        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
+      },
+      "artists": [
+        {
+          "name": "THE LIQUID RAY",
+          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
+        }
+      ],
+      "duration_ms": 55226,
+      "name": "hakubo",
+      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
+    },
+    {
+      "added_at": "2026-01-21 03:22:06",
+      "album": {
         "name": "It Hurts to Love You (it meant a lot)",
         "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 117600,
       "name": "It Hurts to Love You (it meant a lot)",
       "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
-    },
-    {
-      "added_at": "2026-01-21 03:22:06",
-      "album": {
-        "name": "hakubo",
-        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
-      },
-      "artists": [
-        {
-          "name": "THE LIQUID RAY",
-          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
-        }
-      ],
-      "duration_ms": 55226,
-      "name": "hakubo",
-      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
     },
     {
       "added_at": "2026-01-21 03:22:06",

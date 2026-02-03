@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15732,
+  "num_followers": 15738,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADf8ZF1IFu6frmOx7OEBn67",
+  "snapshot_id": "aX6XgAAAAABzRLO6HmrvmMi9YMPVRgTv",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Liber\u00e9",
+        "url": "https://open.spotify.com/album/2N2qUUEHAZw9b5Kj8Zpv0S"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/54o97glZqjfQambK2yyNCG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano y Mujer",
         "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
       },
@@ -259,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Liber\u00e9",
-        "url": "https://open.spotify.com/album/2N2qUUEHAZw9b5Kj8Zpv0S"
+        "name": "Refugio",
+        "url": "https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn"
       },
       "artists": [
         {
@@ -268,9 +284,9 @@
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 217973,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/54o97glZqjfQambK2yyNCG"
+      "duration_ms": 193666,
+      "name": "Refugio",
+      "url": "https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA"
     },
     {
       "added_at": null,
@@ -287,22 +303,6 @@
       "duration_ms": 189653,
       "name": "Uno M\u00e1s Uno",
       "url": "https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Refugio",
-        "url": "https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Refugio",
-      "url": "https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
-        "url": "https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi"
+        "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
+        "url": "https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY"
       },
       "artists": [
         {
@@ -496,13 +496,17 @@
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
         },
         {
-          "name": "Carolina Mestrovic",
-          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
+          "name": "Sebasti\u00e1n Silva",
+          "url": "https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu"
+        },
+        {
+          "name": "Angela Rinc\u00f3n",
+          "url": "https://open.spotify.com/artist/5qDiR6RleDUdHI2MQnHWBD"
         }
       ],
-      "duration_ms": 133880,
-      "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
-      "url": "https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR"
+      "duration_ms": 166140,
+      "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
+      "url": "https://open.spotify.com/track/58zDpy00YXfsLxKPOyrNIn"
     },
     {
       "added_at": null,
@@ -531,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muchacha Solitaria",
-        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
+        "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
+        "url": "https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi"
       },
       "artists": [
         {
@@ -542,11 +546,15 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Carolina Mestrovic",
+          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
         }
       ],
-      "duration_ms": 221423,
-      "name": "Muchacha Solitaria",
-      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
+      "duration_ms": 133880,
+      "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
+      "url": "https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR"
     },
     {
       "added_at": null,
@@ -575,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
-        "url": "https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY"
+        "name": "Muchacha Solitaria",
+        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
       },
       "artists": [
         {
@@ -586,19 +594,11 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Sebasti\u00e1n Silva",
-          "url": "https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu"
-        },
-        {
-          "name": "Angela Rinc\u00f3n",
-          "url": "https://open.spotify.com/artist/5qDiR6RleDUdHI2MQnHWBD"
         }
       ],
-      "duration_ms": 166140,
-      "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
-      "url": "https://open.spotify.com/track/58zDpy00YXfsLxKPOyrNIn"
+      "duration_ms": 221423,
+      "name": "Muchacha Solitaria",
+      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
     },
     {
       "added_at": null,

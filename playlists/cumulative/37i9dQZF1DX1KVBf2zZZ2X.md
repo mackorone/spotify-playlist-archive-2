@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-290 songs - 13 hr 33 min
+291 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Forest Rhodes](https://open.spotify.com/track/2EZ9pD380RJJANsQR8NJTg) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Rhodes](https://open.spotify.com/album/1Isn7pNhAwOzz2QkbVn7gv) | 2:51 | 2025-01-15 |  |
 | [Forest Springs](https://open.spotify.com/track/0gbgqU8bsNSv5A5mL4BLEa) | [Aiyo](https://open.spotify.com/artist/6CK2nmnsqef5YFU7ckNTqH) | [Forest Springs](https://open.spotify.com/album/3rPqj0BK1CLWdvGhreDybN) | 3:22 | 2025-09-24 |  |
 | [Forest Water](https://open.spotify.com/track/0Tne2gAPuA298VvTZ3Q87w) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Forest Water](https://open.spotify.com/album/4zPa0muGVcqjeGwlicz27m) | 3:07 | 2025-06-11 |  |
-| [Foresta Andante](https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Green Andante](https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy) | 2:37 | 2024-06-03 |  |
+| [Foresta Andante](https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Green Andante](https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy) | 2:37 | 2024-06-03 | 2026-02-03 |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-03-03 | 2024-09-05 |
 | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/track/3tG0GoNdGyG42ktp3fRzeH) | [Mind Gardener](https://open.spotify.com/artist/3cYm4kOmJnp5qRslUjwjhP) | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/album/523HXHTCCd8HuZY7dyf0l5) | 2:52 | 2025-03-19 | 2026-01-31 |
 | [Gentle Awakening](https://open.spotify.com/track/3Nhb2tW6P3QgBosxqmdACc) | [Lush Aura](https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW) | [Gentle Awakening](https://open.spotify.com/album/3orIz0nqcl54GFcbyyYYWJ) | 3:18 | 2025-03-19 |  |
@@ -173,6 +173,7 @@
 | [Nature's Balance](https://open.spotify.com/track/4VVK46fpmG16sD5eM5jSoK) | [Vox Lumi](https://open.spotify.com/artist/3pmnzN7hw5uBer8FWezNQ3) | [Nature's Balance](https://open.spotify.com/album/4Ycr0QB6Kl1KtSdL95Xv4V) | 2:44 | 2025-09-24 | 2025-12-04 |
 | [Nature's Calling](https://open.spotify.com/track/1GwNF0VSW51XuLCyyj2HON) | [Evie May](https://open.spotify.com/artist/0UpCHJTp9iC8xQ43AyVDF4) | [Nature's Calling](https://open.spotify.com/album/6I1focCEQmsmoKj2XhabC0) | 1:55 | 2023-03-03 | 2024-09-05 |
 | [Nature's Energy](https://open.spotify.com/track/03kNewVwapP82UDyaYHns8) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Nature's Energy](https://open.spotify.com/album/4dF4uAh7ElOl6BfncIdZf2) | 2:40 | 2025-09-24 |  |
+| [Naya Raasta](https://open.spotify.com/track/35yOrI4w6yTsMvBzDwc3F9) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Naya Raasta](https://open.spotify.com/album/2f2Xr2TzaZjlBAdm7vFR26) | 2:16 | 2026-01-21 |  |
 | [Nemuru](https://open.spotify.com/track/7ijrcNdiapZN38vYSvavTz) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Nemuru](https://open.spotify.com/album/5FdIDykBzbqefQiBt0RByS) | 2:48 | 2023-09-01 |  |
 | [New Lakes](https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:45 | 2023-03-03 | 2026-01-22 |
 | [New Roads](https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:10 | 2023-03-03 | 2024-11-23 |

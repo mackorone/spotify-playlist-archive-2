@@ -7530,7 +7530,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 224223,
       "name": "Neon - Spotify Sessions",
       "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
@@ -9492,6 +9492,24 @@
       "duration_ms": 129418,
       "name": "RAM TCHUM",
       "url": "https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
+        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
+      },
+      "artists": [
+        {
+          "name": "Filho do Piseiro",
+          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136333,
+      "name": "Raparigas",
+      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
     },
     {
       "album": {

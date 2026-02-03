@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 98016,
+  "num_followers": 98012,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "UK Hun? (United Kingdolls Version)",
+        "url": "https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul's Drag Race UK, Season 2",
+          "url": "https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs"
+        }
+      ],
+      "duration_ms": 166100,
+      "name": "UK Hun? (United Kingdolls Version)",
+      "url": "https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "I'm That Bitch",
         "url": "https://open.spotify.com/album/7kRlARoaczAjQoVxOEV37b"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 224430,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/3C3jcnDl4fbX05x67Jp4B6"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "UK Hun? (United Kingdolls Version)",
-        "url": "https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE"
-      },
-      "artists": [
-        {
-          "name": "The Cast of RuPaul's Drag Race UK, Season 2",
-          "url": "https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs"
-        }
-      ],
-      "duration_ms": 166100,
-      "name": "UK Hun? (United Kingdolls Version)",
-      "url": "https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "A Prueba De Todo",
+        "url": "https://open.spotify.com/album/3kJ8eCheV6bqBprBW0UaN8"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/0j1JDlYHGnOf8zQE3OzlyF"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "A Prueba De Todo",
+      "url": "https://open.spotify.com/track/5K9629jLBvdabDmmhdCLui"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Queens Everywhere (Cast Version)",
         "url": "https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 197422,
       "name": "Queens Everywhere - Cast Version",
       "url": "https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "A Prueba De Todo",
-        "url": "https://open.spotify.com/album/3kJ8eCheV6bqBprBW0UaN8"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/0j1JDlYHGnOf8zQE3OzlyF"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "A Prueba De Todo",
-      "url": "https://open.spotify.com/track/5K9629jLBvdabDmmhdCLui"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Unapologetically",
-        "url": "https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9t X Change",
-          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
-        }
-      ],
-      "duration_ms": 176643,
-      "name": "Beyonc\u00e9",
-      "url": "https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Werqin' Girl (Professional)",
         "url": "https://open.spotify.com/album/4cAQ8XGLVUtvVSpo2KYAnm"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 222642,
       "name": "Werqin' Girl (Professional)",
       "url": "https://open.spotify.com/track/3MCG7KYRFM4uFErWnmTIuv"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Unapologetically",
+        "url": "https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t X Change",
+          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
+        }
+      ],
+      "duration_ms": 176643,
+      "name": "Beyonc\u00e9",
+      "url": "https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1219,28 +1219,8 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Sunshine State",
-        "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
-      },
-      "artists": [
-        {
-          "name": "Ginger Minj",
-          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
-        },
-        {
-          "name": "Brandon Stansell",
-          "url": "https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz"
-        }
-      ],
-      "duration_ms": 186686,
-      "name": "Sunshine State",
-      "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Stars (Disco Mix)",
-        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
       },
       "artists": [
         {
@@ -1248,9 +1228,9 @@
           "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
         }
       ],
-      "duration_ms": 252500,
-      "name": "Stars - Disco Mix",
-      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
+      "duration_ms": 251250,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1267,6 +1247,26 @@
       "duration_ms": 215434,
       "name": "Gratify",
       "url": "https://open.spotify.com/track/3oAa776TeEtmmbvJ7fH4Bt"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Sunshine State",
+        "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
+      },
+      "artists": [
+        {
+          "name": "Ginger Minj",
+          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
+        },
+        {
+          "name": "Brandon Stansell",
+          "url": "https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz"
+        }
+      ],
+      "duration_ms": 186686,
+      "name": "Sunshine State",
+      "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1307,24 +1307,8 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Here For It",
-        "url": "https://open.spotify.com/album/0vLZFcJpMsjOsublHTFjIk"
-      },
-      "artists": [
-        {
-          "name": "Peppermint",
-          "url": "https://open.spotify.com/artist/4Cy4hqXIcD2Gz4NGgbNSw6"
-        }
-      ],
-      "duration_ms": 179672,
-      "name": "Here For It",
-      "url": "https://open.spotify.com/track/0WMcCCWggt6q9pCBVLBmwN"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
+        "name": "Stars (Disco Mix)",
+        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
       },
       "artists": [
         {
@@ -1332,9 +1316,9 @@
           "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
         }
       ],
-      "duration_ms": 251250,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
+      "duration_ms": 252500,
+      "name": "Stars - Disco Mix",
+      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1351,6 +1335,22 @@
       "duration_ms": 286940,
       "name": "Ornacia",
       "url": "https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Here For It",
+        "url": "https://open.spotify.com/album/0vLZFcJpMsjOsublHTFjIk"
+      },
+      "artists": [
+        {
+          "name": "Peppermint",
+          "url": "https://open.spotify.com/artist/4Cy4hqXIcD2Gz4NGgbNSw6"
+        }
+      ],
+      "duration_ms": 179672,
+      "name": "Here For It",
+      "url": "https://open.spotify.com/track/0WMcCCWggt6q9pCBVLBmwN"
     },
     {
       "added_at": "2025-01-14 16:17:40",

@@ -1,13 +1,45 @@
 {
-  "description": "Feeling dramatic? All eyes on you. Cover: Haute & Freddy",
-  "num_followers": 558104,
+  "description": "Feeling dramatic? All eyes on you. Cover: Lady Gaga and Chappell Roan",
+  "num_followers": 558161,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG3WMVBH9+GXNkc3oTxqaiiga8zy",
+  "snapshot_id": "AAAAAJVGS7Q/qI+d4tczc73eCITj4nys",
   "tracks": [
+    {
+      "added_at": "2026-02-02 19:17:29",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
+    },
+    {
+      "added_at": "2026-02-02 19:17:29",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {

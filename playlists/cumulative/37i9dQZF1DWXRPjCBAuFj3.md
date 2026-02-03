@@ -4,7 +4,7 @@
 
 > Brani virali e trend, rap e urban 📈  Boro e Young Hash in cover
 
-970 songs - 2 day 2 hr 12 min
+972 songs - 2 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Alright \(feat\. 24kGoldn & Quavo\)](https://open.spotify.com/track/5T0ahhwM0f4YYExfIGEHVw) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Alright \(feat\. 24kGoldn & Quavo\)](https://open.spotify.com/album/5UT5cy2zj70DQrV4jlENIu) | 2:26 | 2022-05-10 | 2022-07-29 |
 | [Altezza cielo \(feat\. Kid Yugi\)](https://open.spotify.com/track/0GtGhO25XJZIwVVQzfOxVy) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 2:41 | 2025-07-03 | 2025-08-08 |
 | [Am I Dreaming \(Metro Boomin & A$AP Rocky, Roisee\)](https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Roisee](https://open.spotify.com/artist/5pCGvSxNNUcddlRrG0wsrY) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 4:16 | 2023-06-09 | 2024-04-19 |
+| [Amelie](https://open.spotify.com/track/0O5KcmgOeEgublW6ySQ6Vc) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:04 | 2026-02-02 |  |
 | [AMEN](https://open.spotify.com/track/2Gic1IIcgCJYErTssSWmL2) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [AMEN](https://open.spotify.com/album/098CzUov15FoAHLYWJh7yV) | 2:40 | 2023-09-01 | 2023-12-08 |
 | [AMICI COME PRIMA](https://open.spotify.com/track/0adrbI6meVUfb7BLAYuIg0) | [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [AMICI COME PRIMA](https://open.spotify.com/album/3ZsMXYg498oH28Jx7KkZUN) | 3:21 | 2025-07-07 |  |
 | [Amiri jeans](https://open.spotify.com/track/2b0nACGnsNKVvJhmhOjewh) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh) | 2:59 | 2024-01-26 | 2024-02-22 |
@@ -894,6 +895,7 @@
 | [Trauma \(feat\. Lil Tjay\)](https://open.spotify.com/track/5jXKeWgIopSbVWyVIOe6W9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain & Love 2](https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN) | 3:17 | 2024-02-08 | 2024-05-12 |
 | [TREVI \(FREESTYLE\)](https://open.spotify.com/track/058f5DHmd8TdzDM7xLm7rp) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [TREVI \(FREESTYLE\)](https://open.spotify.com/album/74C3CgG3lgqfXumCEGHnA1) | 2:25 | 2025-08-07 | 2025-08-13 |
 | [TRICKIN'](https://open.spotify.com/track/1jBMZDuirIUrnXyhS2ExfB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TRICKIN'](https://open.spotify.com/album/1o8Qeyne1vdIDJtPCwwbvw) | 1:45 | 2023-09-29 | 2023-10-21 |
+| [Tristano e Isotta](https://open.spotify.com/track/7dFfkSJrAHnUdKM5jaUOLt) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:37 | 2026-02-02 |  |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-27 | 2023-08-19 |
 | [Try Me](https://open.spotify.com/track/0tIHHwV2eL10rpQ1fiyDjz) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Try Me](https://open.spotify.com/album/71ziNzfuk5VLPwiAvQaC1X) | 2:21 | 2022-05-10 | 2022-07-29 |
 | [TT LE GIRLZ \(feat\. Niky Savage\)](https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:24 | 2025-07-03 | 2025-07-30 |

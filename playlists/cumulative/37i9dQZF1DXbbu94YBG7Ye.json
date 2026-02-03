@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\ud83d\udcf8 Kapo & Ryan Castro",
+  "description": "\ud83d\udcf8 Ca7riel & Paco Amoroso",
   "name": "\u00c9xitos Argentina",
   "tracks": [
     {
@@ -3600,19 +3600,11 @@
         {
           "name": "CA7RIEL & Paco Amoroso",
           "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        },
-        {
-          "name": "Paco Amoroso",
-          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
         }
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 170038,
       "name": "EL D\u00cdA DEL AMIGO",
       "url": "https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN"
@@ -11990,6 +11982,28 @@
       "duration_ms": 211101,
       "name": "TENGO CELOS",
       "url": "https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq"
+    },
+    {
+      "album": {
+        "name": "TENGO UN FEELING",
+        "url": "https://open.spotify.com/album/6x0R5etnad2YtJ8aobqMoU"
+      },
+      "artists": [
+        {
+          "name": "PEPU",
+          "url": "https://open.spotify.com/artist/2uHt84x3H1VLR7xFBAuNS8"
+        },
+        {
+          "name": "Pizzu",
+          "url": "https://open.spotify.com/artist/7pedkJwoj0LebN20pvgtJY"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197264,
+      "name": "TENGO UN FEELING",
+      "url": "https://open.spotify.com/track/4ezApj4UvVqLOtxdXUOLMb"
     },
     {
       "album": {

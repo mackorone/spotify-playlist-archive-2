@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-351 songs - 17 hr 21 min
+352 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [I Blame You](https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [I Blame You](https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb) | 2:12 | 2022-09-29 | 2025-02-28 |
 | [I Came For You](https://open.spotify.com/track/7GzMPJZYGgWW7VbcHYG21I) | [Starzun](https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8) | [I Came For You](https://open.spotify.com/album/0XJRGHbpVofHp14XgEpQHv) | 2:37 | 2024-07-12 | 2024-11-15 |
 | [I Can See](https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8) | [Krister & Dalbani](https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT) | [I Can See](https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk) | 2:10 | 2023-06-08 | 2025-04-25 |
+| [I Found Myself](https://open.spotify.com/track/3QPechTK4qqIgMGXW8zzHh) | [Charleon](https://open.spotify.com/artist/197faNV22JRdMv3xmmPz4p) | [I Found Myself](https://open.spotify.com/album/2smPdba2CBI5r46wyUEija) | 2:49 | 2026-01-30 |  |
 | [I'll Be Here](https://open.spotify.com/track/5UTjWT7qr0ltzTTzifQETi) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Endless, Dawn](https://open.spotify.com/album/6MKZdIsK146WQexodIPOvs) | 4:52 | 2024-03-20 | 2024-08-02 |
 | [Iawah](https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Iawah](https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt) | 2:21 | 2024-06-20 | 2025-10-05 |
 | [If I Have To](https://open.spotify.com/track/3YL13hNz8ssxUsPHG7GgUP) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Mosoo](https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Morane](https://open.spotify.com/artist/6UaAGwEkZDSzBtMbfPcDeB) | [If I Have To](https://open.spotify.com/album/4QuTyx5bLbYPRqzhUymkID) | 4:06 | 2024-11-14 | 2025-02-08 |
@@ -264,7 +265,7 @@
 | [Safe and Sound](https://open.spotify.com/track/5J9V8D72Oj6Mp8aHUhMFqq) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Safe and Sound](https://open.spotify.com/album/0W8pgf0TWJ60iL3SKfL2Iq) | 3:34 | 2024-07-26 | 2025-04-29 |
 | [Sandcastles](https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Sandcastles](https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk) | 2:18 | 2024-08-30 | 2025-12-05 |
 | [Say Goodbye](https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [ECHŌWALL](https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS) | [Say Goodbye](https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho) | 2:36 | 2023-03-23 | 2024-09-27 |
-| [Say You'll Stay \- ERIICE Remix](https://open.spotify.com/track/4YSFy8kCk4YLq5ZnAaZgaP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw), [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Say You'll Stay \(ERIICE Remix\)](https://open.spotify.com/album/4mPJTjfFfZGZIVqotnSNko) | 2:47 | 2025-10-09 |  |
+| [Say You'll Stay \- ERIICE Remix](https://open.spotify.com/track/4YSFy8kCk4YLq5ZnAaZgaP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw), [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Say You'll Stay \(ERIICE Remix\)](https://open.spotify.com/album/4mPJTjfFfZGZIVqotnSNko) | 2:47 | 2025-10-09 | 2026-02-03 |
 | [Scent of Wood \(Bound to Divide Remix\)](https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk), [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4), [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Scent of Wood \(Bound to Divide Remix\)](https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3) | 3:28 | 2022-09-15 | 2024-11-09 |
 | [Second Hand Love](https://open.spotify.com/track/2VNyk9xmiWb3J0OPEasXHX) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [FC Commitments](https://open.spotify.com/artist/2ZDiyRudCpoSMiQTa5ZVOt), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Second Hand Love](https://open.spotify.com/album/2tE6xUKn7UOdyHhjdh6G7V) | 3:42 | 2022-12-01 | 2024-08-31 |
 | [See You On The Other Side](https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [See You On The Other Side](https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG) | 4:01 | 2022-09-29 | 2024-10-04 |

@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "unrequited",
+        "url": "https://open.spotify.com/album/3QSuOtz5r0f6XpTrh7ps2y"
+      },
+      "artists": [
+        {
+          "name": "Bri Suarez",
+          "url": "https://open.spotify.com/artist/6YIifNHowmkIvsOwOlrUXq"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/7u7h9iVQx5CUb7gljzDSU1"
+    },
+    {
+      "album": {
         "name": "Coffee Stain",
         "url": "https://open.spotify.com/album/6hW4QKW2Bmzhtkrx4D28di"
       },
@@ -606,6 +624,28 @@
       "duration_ms": 311000,
       "name": "Controller",
       "url": "https://open.spotify.com/track/25yY8HF7pYDHA0CXx9Beil"
+    },
+    {
+      "album": {
+        "name": "Vol 1 (Experience, Strength and Broke)",
+        "url": "https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy"
+      },
+      "artists": [
+        {
+          "name": "Homegrownalwaysbest",
+          "url": "https://open.spotify.com/artist/3EwGYKjWb6aQXjammXz7T7"
+        },
+        {
+          "name": "Jam",
+          "url": "https://open.spotify.com/artist/2HcIDnavebY2T024UsfDUt"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Cool Story Bro",
+      "url": "https://open.spotify.com/track/5GvWYBiKovK3KWGjmCi9wX"
     },
     {
       "album": {
@@ -704,6 +744,28 @@
       "duration_ms": 231246,
       "name": "Demon Child",
       "url": "https://open.spotify.com/track/1APdKAaLRrC8zxGCeC44aw"
+    },
+    {
+      "album": {
+        "name": "Vol 1 (Experience, Strength and Broke)",
+        "url": "https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy"
+      },
+      "artists": [
+        {
+          "name": "Homegrownalwaysbest",
+          "url": "https://open.spotify.com/artist/3EwGYKjWb6aQXjammXz7T7"
+        },
+        {
+          "name": "Neil 'The Wee Man' Bratchpiece",
+          "url": "https://open.spotify.com/artist/5RrTCaow69RvY5WZ4NcOJg"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167810,
+      "name": "Dharma",
+      "url": "https://open.spotify.com/track/4IUKBK0I1Lxp3UPxptRMrd"
     },
     {
       "album": {
@@ -927,6 +989,40 @@
     },
     {
       "album": {
+        "name": "Vol 1 (Experience, Strength and Broke)",
+        "url": "https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy"
+      },
+      "artists": [
+        {
+          "name": "Homegrownalwaysbest",
+          "url": "https://open.spotify.com/artist/3EwGYKjWb6aQXjammXz7T7"
+        },
+        {
+          "name": "Tribal John",
+          "url": "https://open.spotify.com/artist/2wOJ5rlkn1qN6EovfmygGe"
+        },
+        {
+          "name": "MOG",
+          "url": "https://open.spotify.com/artist/7L97CynQqmNmrfCcHt5qqI"
+        },
+        {
+          "name": "Werd (SOS)",
+          "url": "https://open.spotify.com/artist/2JmBusSS5IQxCb3U4PV3z0"
+        },
+        {
+          "name": "Lewis Findlay",
+          "url": "https://open.spotify.com/artist/7HEb5QxdsYnm5r5oA2iBpQ"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298285,
+      "name": "Excess & Lewis Findlay)",
+      "url": "https://open.spotify.com/track/0Itvhn3niERQXu4y0bDNVY"
+    },
+    {
+      "album": {
         "name": "Feet on the ground",
         "url": "https://open.spotify.com/album/4enfg1hvO7ul2Wo42lA74k"
       },
@@ -982,7 +1078,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 215922,
       "name": "First Rap",
       "url": "https://open.spotify.com/track/4vY8rZrUFWwOV386qouWic"
@@ -1040,7 +1136,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 157894,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/08gNkGaNGqRWMwXKxJ3TzZ"
@@ -1421,6 +1517,28 @@
     },
     {
       "album": {
+        "name": "Vol 1 (Experience, Strength and Broke)",
+        "url": "https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy"
+      },
+      "artists": [
+        {
+          "name": "Homegrownalwaysbest",
+          "url": "https://open.spotify.com/artist/3EwGYKjWb6aQXjammXz7T7"
+        },
+        {
+          "name": "Jam",
+          "url": "https://open.spotify.com/artist/2HcIDnavebY2T024UsfDUt"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218873,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/5MqWKIoNpV1TnLVTvk58GU"
+    },
+    {
+      "album": {
         "name": "International Radio Star",
         "url": "https://open.spotify.com/album/1NqOdon7S5dZYKWiW1Tt7I"
       },
@@ -1515,6 +1633,32 @@
     },
     {
       "album": {
+        "name": "Vol 1 (Experience, Strength and Broke)",
+        "url": "https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy"
+      },
+      "artists": [
+        {
+          "name": "Homegrownalwaysbest",
+          "url": "https://open.spotify.com/artist/3EwGYKjWb6aQXjammXz7T7"
+        },
+        {
+          "name": "Fivo",
+          "url": "https://open.spotify.com/artist/7zjzFchjxHqoHq46AiglS2"
+        },
+        {
+          "name": "Tribal John",
+          "url": "https://open.spotify.com/artist/2wOJ5rlkn1qN6EovfmygGe"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192446,
+      "name": "Junkie",
+      "url": "https://open.spotify.com/track/5FoAvYOnBBVYAHOybfy9l5"
+    },
+    {
+      "album": {
         "name": "Beginnings and Endings",
         "url": "https://open.spotify.com/album/7ouFqeYiBHWwPBb34BvZci"
       },
@@ -1578,7 +1722,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 224727,
       "name": "LAYLA",
       "url": "https://open.spotify.com/track/74JuxtP50Iiet8xk5CZwBP"
@@ -2151,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/3B57Qv6jReWQPiNJ9BhIeD"
+      },
+      "artists": [
+        {
+          "name": "Tidal Rave",
+          "url": "https://open.spotify.com/artist/1cLwEvonj7L34lEucivmLv"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136727,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/0HVvVxGh2gMKpJRgeSYmYp"
+    },
+    {
+      "album": {
         "name": "winter rose",
         "url": "https://open.spotify.com/album/0BpLBp0VpUu2avnutskwT0"
       },
@@ -2516,7 +2678,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 195349,
       "name": "TURN AROUND",
       "url": "https://open.spotify.com/track/3uUP0YYjP04xMBIRJ2dtrp"

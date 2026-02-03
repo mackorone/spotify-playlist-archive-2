@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 345502,
+  "num_followers": 345540,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAABEuVpgjlbo6MoWqyWYZtFT",
+  "snapshot_id": "aX6XgAAAAADFmR6CIMxJiJWAXtegg3GX",
   "tracks": [
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Virus Del Amor",
-        "url": "https://open.spotify.com/album/0zPdPmQSaEvZQt4PvllaJB"
+        "name": "Corridos Time Season Two \"Los Implacables\"",
+        "url": "https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 209360,
-      "name": "El Virus Del Amor",
-      "url": "https://open.spotify.com/track/3YWK9RTqPBfAvI2Xjk9wrU"
+      "duration_ms": 221493,
+      "name": "El Chavo",
+      "url": "https://open.spotify.com/track/1j8X26U42cDQpxcjCk8IiI"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Time Season Two \"Los Implacables\"",
-        "url": "https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh"
+        "name": "El Virus Del Amor",
+        "url": "https://open.spotify.com/album/0zPdPmQSaEvZQt4PvllaJB"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 221493,
-      "name": "El Chavo",
-      "url": "https://open.spotify.com/track/1j8X26U42cDQpxcjCk8IiI"
+      "duration_ms": 209360,
+      "name": "El Virus Del Amor",
+      "url": "https://open.spotify.com/track/3YWK9RTqPBfAvI2Xjk9wrU"
     },
     {
       "added_at": null,

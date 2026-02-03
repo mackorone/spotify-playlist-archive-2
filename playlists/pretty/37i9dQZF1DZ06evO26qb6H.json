@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAAHdc0jppGzJFT83Qxyxd08",
+  "snapshot_id": "aX6XgAAAAAB4ue2w7rmd7b2hVFmjVRwD",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybach",
-        "url": "https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB"
-      },
-      "artists": [
-        {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 165311,
-      "name": "Maybach",
-      "url": "https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wake Em Up",
         "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 129729,
       "name": "Wake Em Up",
       "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybach",
+        "url": "https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 165311,
+      "name": "Maybach",
+      "url": "https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 122346,
-      "name": "Close to Me",
-      "url": "https://open.spotify.com/track/1LXShQsFNYrYgqnleZLn4d"
+      "duration_ms": 156706,
+      "name": "No Jewelry",
+      "url": "https://open.spotify.com/track/6HOttKB0jFwrrcwdOIDXQc"
     },
     {
       "added_at": null,

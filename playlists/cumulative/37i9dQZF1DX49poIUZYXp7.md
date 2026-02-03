@@ -2,9 +2,9 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Ashley McBryde
+> The extraordinary women making great country music today\. Cover: Kelsea Ballerini and Lainey Wilson
 
-408 songs - 22 hr 11 min
+410 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [I Just Killed A Man](https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [I Just Killed A Man](https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz) | 3:32 | 2023-10-06 | 2023-12-02 |
 | [I Know A Woman](https://open.spotify.com/track/7ltghituhN1IsPha0eBDmE) | [I KNOW A WOMAN](https://open.spotify.com/artist/0nPBkRYyuvBzvJMx2Nnvkd), [SABYNA](https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6), [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Anna Rose](https://open.spotify.com/artist/3fnDSaurPwPiGssbcrUnuB), [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b), [Louisa](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq), [Tigirlily](https://open.spotify.com/artist/7svOgAS4qeCt0uW0tgPckm), [Corrina](https://open.spotify.com/artist/5gECKmU9XVIL4UeezCwSqf), [Wendy Moten](https://open.spotify.com/artist/6X0dG1JElAP4z0ardgJGjY), [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ), [Bianca Rose](https://open.spotify.com/artist/3L06eylvgeEkGmkNyi4uPo), [Kelsey Gill](https://open.spotify.com/artist/44tZnrUH9hayxKwSi7fNaL), [Parker McKay](https://open.spotify.com/artist/2YRaSvSmNEvoyu0bx6JQ38), [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB), [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz), [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU), [Kelleigh Bannen](https://open.spotify.com/artist/6C7VkLRszFSbRkKNhEvBST), [Shelly Fairchild](https://open.spotify.com/artist/4FALuPoXjPUK7GZrghbSjm) | [I Know A Woman](https://open.spotify.com/album/7rwm4vOibJ49kkX8mNymiA) | 3:40 | 2022-03-11 | 2022-04-20 |
 | [I Love My Hometown](https://open.spotify.com/track/3EF8vJwg4NBkzp7DCO90E1) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/59vGZh0k3KIyFS6kFyNVID) | 3:18 | 2022-06-17 | 2022-07-02 |
+| [I Sit In Parks](https://open.spotify.com/track/1eXaJCN3pBxK12D4NjJwBP) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant Commentary](https://open.spotify.com/album/02HvVdouLKpJD56EJfxyZo) | 2:10 | 2026-02-02 |  |
 | [I Tried A Ring On](https://open.spotify.com/track/6ouFl8UDdMc9zuzmzvmh7v) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [I Tried A Ring On](https://open.spotify.com/album/6R8KPrq6T7SpQFvJoEOlKI) | 3:31 | 2024-07-01 |  |
 | [I Would For You](https://open.spotify.com/track/2MmEe5XtzJka6SumcNviWv) | [Lauren Duski](https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5) | [I Would For You](https://open.spotify.com/album/4ygAFWNoQTtuA9J9Detlkr) | 3:01 | 2021-12-01 | 2022-03-02 |
 | [I'm A Survivor](https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Greatest Hits Volume III \- I'm A Survivor](https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj) | 3:07 | 2021-12-01 | 2025-05-10 |
@@ -309,6 +310,7 @@
 | [Someone's Sometimes](https://open.spotify.com/track/4CRM33ZzLhuJzQGAnINTtp) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Someone's Sometimes](https://open.spotify.com/album/6GUducmjhIlMXqrbDxBeBi) | 3:31 | 2021-12-01 | 2022-03-02 |
 | [Somethin' Bad \(with Carrie Underwood\)](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 | 2022-03-25 |  |
 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 | 2022-09-16 |  |
+| [Somewhere Over Laredo](https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:46 | 2026-02-02 |  |
 | [Song For Shania](https://open.spotify.com/track/6VWsRQY6A3irb7dIILmHfK) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Cowboy Up](https://open.spotify.com/album/4sf1VyilDtKqaduPSTXfet) | 2:52 | 2025-09-26 |  |
 | [Songs About Whiskey](https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 2:53 | 2024-07-01 |  |
 | [Static](https://open.spotify.com/track/3Nr9eUOWStY6RDpZQ1ajd6) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Static](https://open.spotify.com/album/3ck02eTzosk6U6FBNynQ4e) | 3:15 | 2024-06-07 |  |

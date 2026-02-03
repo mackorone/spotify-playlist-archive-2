@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: GA Chillerong Ghetto and Paul N Ballin
 
-360 songs - 20 hr 5 min
+361 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [I can be the one](https://open.spotify.com/track/4rgexTquOBLYzQWusUsLyb) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [I can be the one](https://open.spotify.com/album/1A8lPVdz7nGht81w9PrwKo) | 3:45 | 2025-07-23 |  |
 | [I Dior U](https://open.spotify.com/track/1Hg0jtmHv4dc5TyjfjXxpp) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [I Dior U](https://open.spotify.com/album/0c0HekrDhtOEqe6N9oOhZo) | 3:15 | 2024-11-28 | 2025-03-06 |
 | [Iba Pa Yon](https://open.spotify.com/track/5Zd7WR5fEg8gJoPLFRf475) | [Lightskeen Baby](https://open.spotify.com/artist/5ZpjkPLzL9439XJbt7wffG) | [Iba Pa Yon](https://open.spotify.com/album/7k28FL99HOqppKSNOhBxDB) | 2:34 | 2024-01-17 | 2024-03-07 |
-| [ICE ICE](https://open.spotify.com/track/5a3XyJk1ubsLyVawrgGsod) | [NO LIMIT 4L](https://open.spotify.com/artist/3juGvllCh35NrOCsIgrHsG) | [ICE ICE](https://open.spotify.com/album/1sjPP0lcRFb9rqbxVG60vb) | 4:12 | 2025-08-13 |  |
+| [ICE ICE](https://open.spotify.com/track/5a3XyJk1ubsLyVawrgGsod) | [NO LIMIT 4L](https://open.spotify.com/artist/3juGvllCh35NrOCsIgrHsG) | [ICE ICE](https://open.spotify.com/album/1sjPP0lcRFb9rqbxVG60vb) | 4:12 | 2025-08-13 | 2026-02-03 |
 | [Ikaw Na Nga Yon](https://open.spotify.com/track/5Ue5JtL9UexTpaOd8BOwQC) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Ikaw Na Nga Yon](https://open.spotify.com/album/2HsPUNsgshhCRSQuIU3wDZ) | 3:50 | 2023-09-20 | 2023-10-19 |
 | [IKAW SANA](https://open.spotify.com/track/6PvtDn5azrvVYHGWILEwt5) | [OLG Zak](https://open.spotify.com/artist/3cAaV8C5Lgdvtib9ub4EGs), [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [IKAW SANA](https://open.spotify.com/album/1BhlaFEHPOnHE9pXXQgkhe) | 3:51 | 2025-05-28 | 2025-10-23 |
 | [ILY](https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [ILY](https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh) | 2:59 | 2024-02-21 | 2025-09-04 |
@@ -192,6 +192,7 @@
 | [Letter X](https://open.spotify.com/track/1eeDm7r6Q0oGhpu9KlVofe) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Letter X](https://open.spotify.com/album/4P3orLxvtiV72yVLKdY9vv) | 2:39 | 2024-09-26 | 2024-10-24 |
 | [LezGo](https://open.spotify.com/track/4LjwejvV5Lip3IKW20n9Ql) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [LezGo](https://open.spotify.com/album/553cG9J6wkUahTqJ1OKtK3) | 2:35 | 2025-08-27 | 2025-11-19 |
 | [Lil Kasalanan Shortie](https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Lil Kasalanan Shortie](https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO) | 2:43 | 2023-11-15 | 2025-02-06 |
+| [LOBAT](https://open.spotify.com/track/4Oai6CNbyktfWoRCjXU7eh) | [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [LOBAT](https://open.spotify.com/album/4oEYd3R2Sli52WJodXtn3C) | 1:40 | 2026-02-02 |  |
 | [LOOT](https://open.spotify.com/track/3oatEcORsK8cRYPWBcqXEC) | [SUPAFLY](https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih), [HELLMERRY](https://open.spotify.com/artist/1H95M1bvQrlKGcrrAkMvqg) | [GRA GRA G10CSHEEP](https://open.spotify.com/album/5FQaybhkebSoY0ghQg2cCU) | 4:44 | 2025-06-11 | 2025-08-28 |
 | [LOW](https://open.spotify.com/track/0WXKTXf2dX28zbpaozHcg7) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [LOW](https://open.spotify.com/album/6GudVvbJ370hfdYFDj97G9) | 4:57 | 2024-03-27 | 2024-05-09 |
 | [Low Key](https://open.spotify.com/track/6Eik0bvVyGHACEEJWqfFQl) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Low Key](https://open.spotify.com/album/6sfBOM9O439L3kClbO4aoX) | 2:43 | 2024-07-11 | 2024-11-21 |

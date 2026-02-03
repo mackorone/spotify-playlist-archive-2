@@ -2,9 +2,9 @@
 
 ### [Éxitos Argentina](https://open.spotify.com/playlist/37i9dQZF1DXbbu94YBG7Ye)
 
-> 📸 Kapo & Ryan Castro
+> 📸 Ca7riel & Paco Amoroso
 
-647 songs - 1 day 9 hr 36 min
+648 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [el cielo](https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [el cielo](https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk) | 3:08 | 2024-12-06 | 2025-02-11 |
 | [EL CLúB](https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL CLúB](https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF) | 3:42 | 2024-12-12 | 2024-12-20 |
 | [El Doctorado](https://open.spotify.com/track/1yg1tWFaYajN4b7vsKtYRE) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Messirve Mix 7](https://open.spotify.com/album/5Em5bjM50jYSWN8omi5Fkl) | 2:13 | 2024-12-12 | 2025-04-11 |
-| [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 | 2025-03-14 | 2025-04-11 |
+| [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 | 2025-03-14 |  |
 | [EL GORDO](https://open.spotify.com/track/500kQAqm0AVQIPXIe6o1Ie) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 3:36 | 2025-05-23 | 2025-06-13 |
 | [El Hombre Puerco](https://open.spotify.com/track/2qczuYk56imj9ZFPz3JTwg) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Hombre Puerco](https://open.spotify.com/album/1rYJ6npG9IpXCxNDqPzkg1) | 3:12 | 2025-05-16 | 2025-06-13 |
 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-03-16 | 2023-04-21 |
@@ -556,6 +556,7 @@
 | [Te Mentiría Remix](https://open.spotify.com/track/1txrFHh4XUU3Kp8HcD2TFW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Te Mentiría Remix](https://open.spotify.com/album/750Blgh3jZlXqAep5wlH8K) | 2:52 | 2022-05-05 | 2022-10-28 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-09-05 | 2025-09-26 |
 | [TENGO CELOS](https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:31 | 2025-07-24 | 2025-08-29 |
+| [TENGO UN FEELING](https://open.spotify.com/track/4ezApj4UvVqLOtxdXUOLMb) | [PEPU](https://open.spotify.com/artist/2uHt84x3H1VLR7xFBAuNS8), [Pizzu](https://open.spotify.com/artist/7pedkJwoj0LebN20pvgtJY) | [TENGO UN FEELING](https://open.spotify.com/album/6x0R5etnad2YtJ8aobqMoU) | 3:17 | 2026-02-02 |  |
 | [Tengo Una Cadena](https://open.spotify.com/track/3xdbqyli0ZUKupnyKQfGJp) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Tengo Una Cadena](https://open.spotify.com/album/4qwdTvKXGFZVMZxyTwBCuN) | 2:00 | 2025-05-23 | 2025-08-16 |
 | [TERAPIA DE CHOQUE](https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TERAPIA DE CHOQUE](https://open.spotify.com/album/1iyOjIeFTikF2Tr5nqhGNc) | 2:44 | 2024-08-01 | 2025-01-10 |
 | [TERAPIA DE CHOQUE](https://open.spotify.com/track/2d6M6QjAo68bwoauEXzVCr) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TERAPIA DE CHOQUE](https://open.spotify.com/album/2NDfUNnez6tWxMCu0klXT8) | 2:44 | 2024-07-25 | 2024-08-16 |

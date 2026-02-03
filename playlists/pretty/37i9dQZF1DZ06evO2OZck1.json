@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 54868,
+  "num_followers": 54872,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADs5j9yCTx3OX8taGcsZZiW",
+  "snapshot_id": "aX6XgAAAAAAPsUWMj4CUVYqYil9TwCav",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Narani Narani (feat. ATARASHII GAKKO!)",
-        "url": "https://open.spotify.com/album/35sSZefnCfHDR4rGtKj9yw"
+        "name": "\u653e\u751f\u4f1a",
+        "url": "https://open.spotify.com/album/37asoWjHlM134Da94j5kAc"
       },
       "artists": [
         {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
         },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 224297,
-      "name": "Narani Narani (feat. ATARASHII GAKKO!)",
-      "url": "https://open.spotify.com/track/1g528rQTLYwfqtVtl2uyOJ"
+      "duration_ms": 183000,
+      "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
+      "url": "https://open.spotify.com/track/7Ij982d8c03oFU29uDoGy6"
     },
     {
       "added_at": null,
@@ -195,22 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u653e\u751f\u4f1a",
-        "url": "https://open.spotify.com/album/37asoWjHlM134Da94j5kAc"
+        "name": "Narani Narani (feat. ATARASHII GAKKO!)",
+        "url": "https://open.spotify.com/album/35sSZefnCfHDR4rGtKj9yw"
       },
       "artists": [
         {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
         },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 183000,
-      "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
-      "url": "https://open.spotify.com/track/7Ij982d8c03oFU29uDoGy6"
+      "duration_ms": 224297,
+      "name": "Narani Narani (feat. ATARASHII GAKKO!)",
+      "url": "https://open.spotify.com/track/1g528rQTLYwfqtVtl2uyOJ"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "saisyu jinrui",
-      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Edge",
         "url": "https://open.spotify.com/album/6oDoxmNcFcGiO79PF5vwNx"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 163790,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/0EAmmfAwFxNGnAKAd3red6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "saisyu jinrui",
+      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MANINGEN",
+        "url": "https://open.spotify.com/album/36HmV8Uc2UVPTSlJ88uVpN"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 137136,
+      "name": "Neraiuchi - 50th anniversary special cover",
+      "url": "https://open.spotify.com/track/2747l2vCNws9AxvFQzOBrh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "maenarawanai",
         "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
       },
@@ -719,26 +735,6 @@
       "duration_ms": 253866,
       "name": "zzz",
       "url": "https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free Yourself feat. ATARASHII GAKKO!",
-        "url": "https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr"
-      },
-      "artists": [
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        },
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 213500,
-      "name": "Free Yourself feat. ATARASHII GAKKO!",
-      "url": "https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J"
     },
     {
       "added_at": null,
@@ -759,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANINGEN",
-        "url": "https://open.spotify.com/album/36HmV8Uc2UVPTSlJ88uVpN"
+        "name": "Free Yourself feat. ATARASHII GAKKO!",
+        "url": "https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr"
       },
       "artists": [
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 137136,
-      "name": "Neraiuchi - 50th anniversary special cover",
-      "url": "https://open.spotify.com/track/2747l2vCNws9AxvFQzOBrh"
+      "duration_ms": 213500,
+      "name": "Free Yourself feat. ATARASHII GAKKO!",
+      "url": "https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world. ",
-  "num_followers": 14180,
+  "num_followers": 14177,
   "original_name": "NYE Party Vibes",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAALCR1OcyvnHEMlepg7YQpNdfUqb9Jp",
+  "snapshot_id": "AAALCv2KfyZSMMWhMox1fxON1pr5DOlS",
   "tracks": [
     {
       "added_at": "2025-06-10 12:37:11",
@@ -1947,6 +1947,26 @@
       "duration_ms": 147748,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/54yX67G3dYvtINgHaSEoUo"
+    },
+    {
+      "added_at": "2026-02-02 15:37:09",
+      "album": {
+        "name": "Utopia (DJ DALI Remix)",
+        "url": "https://open.spotify.com/album/63RYjt6GRGyFj3ufuUqf5X"
+      },
+      "artists": [
+        {
+          "name": "Bang La Decks",
+          "url": "https://open.spotify.com/artist/52gTlzX6XwOavvrAz8TxEz"
+        },
+        {
+          "name": "DJ DALI",
+          "url": "https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS"
+        }
+      ],
+      "duration_ms": 236033,
+      "name": "Utopia - DJ DALI Remix",
+      "url": "https://open.spotify.com/track/4VpFQo5uDItpzW6XsTy0UH"
     }
   ],
   "unique_name": "NYE Party Vibes",

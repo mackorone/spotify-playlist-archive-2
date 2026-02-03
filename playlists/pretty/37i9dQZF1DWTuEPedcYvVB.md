@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 
 > The official playlist for Top Boy\. Watch the final season on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,786 likes - 77 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,783 likes - 77 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 | 19 | [My Ones](https://open.spotify.com/track/2ImlWeWgeEjSsqBiuwNv6t) | [Ty Leone](https://open.spotify.com/artist/0MW1dL6UrStOPsBpjkcSva) | [Pain To Champagne](https://open.spotify.com/album/7larUWG4LtKIHlDYB4TK5n) | 2:42 |
 | 20 | [Bun Fi Bun](https://open.spotify.com/track/3UR8PpPKfnLlCxbpyPAsVq) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun](https://open.spotify.com/album/3j74olOZtNcUCoQ9ZNFZdN) | 3:17 |
 | 21 | [East](https://open.spotify.com/track/6XZFzfW1WpmA9L0dJ47FxF) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [East](https://open.spotify.com/album/1kHBliQUJxk2xzoJmrCvcJ) | 2:42 |
-| 22 | [Moment](https://open.spotify.com/track/5TpDEu4GCYzGeYIKh1dcPB) | [Anastazja Maciąg](https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3), [Questy](https://open.spotify.com/artist/1WKmwWWtp0Q0rXHKeAYTN2) | [Moment](https://open.spotify.com/album/78ZPtJ6ZYyXTPYrDWcsvJN) | 2:24 |
+| 22 | [Moment](https://open.spotify.com/track/5TpDEu4GCYzGeYIKh1dcPB) | [Anastazja](https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3), [Questy](https://open.spotify.com/artist/1WKmwWWtp0Q0rXHKeAYTN2) | [Moment](https://open.spotify.com/album/78ZPtJ6ZYyXTPYrDWcsvJN) | 2:24 |
 | 23 | [POUNDS & EUROS](https://open.spotify.com/track/1yug7wAcY3fEve8aRb4XIS) | [Jordy](https://open.spotify.com/artist/7l3zlwcm9aq7yogYA4Xn1p), [Elt Cheekz](https://open.spotify.com/artist/1T2a1UNdYn0AboUTcvyJzX) | [IF I COULDN'T RAP, I WOULDN'T RAP](https://open.spotify.com/album/4kZIeZ2D82hawricknw72D) | 2:02 |
 | 24 | [Real One](https://open.spotify.com/track/3IYcHE80wi0fSiArJIglku) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Queen of the South](https://open.spotify.com/album/1nwgHyQOABtfjwCJUIB0GQ) | 2:26 |
 | 25 | [Rosé](https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Rosé](https://open.spotify.com/album/75zIcxRfIZxxNEpSuqpCdX) | 2:46 |

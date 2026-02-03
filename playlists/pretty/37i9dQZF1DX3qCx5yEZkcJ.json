@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1478153,
+  "num_followers": 1478074,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
+        "name": "Examples",
+        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
+      },
+      "artists": [
+        {
+          "name": "Eric Lau",
+          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
+        }
+      ],
+      "duration_ms": 128496,
+      "name": "Its Rainy",
+      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
         "name": "Riverside",
         "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 110561,
       "name": "UH OH",
       "url": "https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
-        "name": "Examples",
-        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
-      },
-      "artists": [
-        {
-          "name": "Eric Lau",
-          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
-        }
-      ],
-      "duration_ms": 128496,
-      "name": "Its Rainy",
-      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "Paddling pool",
-        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
-      },
-      "artists": [
-        {
-          "name": "S I M",
-          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
-        }
-      ],
-      "duration_ms": 167874,
-      "name": "Paddling pool",
-      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "Spring",
-        "url": "https://open.spotify.com/album/10rAKfkhemf2JeNWocch1A"
+        "name": "Paddling pool",
+        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "S I M",
+          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
         }
       ],
-      "duration_ms": 263000,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF"
+      "duration_ms": 167874,
+      "name": "Paddling pool",
+      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -507,6 +491,22 @@
       "duration_ms": 121320,
       "name": "Do the Right Thing",
       "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/10rAKfkhemf2JeNWocch1A"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "Paris Nights",
-        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Paris Nights",
-      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
         "name": "Flow Motion",
         "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 132152,
       "name": "Flow Motion",
       "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
+        "name": "Paris Nights",
+        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Paris Nights",
+      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "Hagaki",
-        "url": "https://open.spotify.com/album/21LKWaFjHFYtOPZ099uEdR"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Ma \u9593",
-      "url": "https://open.spotify.com/track/28DvrpcX2EBfFpSwufPdNi"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
         "name": "\u6ce2\u7d0b",
         "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 189878,
       "name": "\u6ce2\u7d0b",
       "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
+        "name": "Hagaki",
+        "url": "https://open.spotify.com/album/21LKWaFjHFYtOPZ099uEdR"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Ma \u9593",
+      "url": "https://open.spotify.com/track/28DvrpcX2EBfFpSwufPdNi"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -891,6 +891,46 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
+        "name": "Syn Fonia I",
+        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Space Orgazm",
+      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
+        "name": "DIAMONDS & FREAKS (Instrumentals)",
+        "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 269474,
+      "name": "ADAM & EVE - Instrumental",
+      "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
         "name": "Raincoat (Paul Grant Remix)",
         "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
       },
@@ -931,26 +971,6 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "Syn Fonia I",
-        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Kazuhiko Maeda",
-          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Space Orgazm",
-      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
         "name": "busking",
         "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 140714,
       "name": "busking",
       "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
-        "name": "DIAMONDS & FREAKS (Instrumentals)",
-        "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 269474,
-      "name": "ADAM & EVE - Instrumental",
-      "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "Beats On Boat: Hazy Year",
-        "url": "https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U"
-      },
-      "artists": [
-        {
-          "name": "Hazy Year",
-          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
-        }
-      ],
-      "duration_ms": 167926,
-      "name": "Notes",
-      "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
         "name": "The Valley",
         "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 202938,
       "name": "Tender Rose",
       "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
+        "name": "Beats On Boat: Hazy Year",
+        "url": "https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U"
+      },
+      "artists": [
+        {
+          "name": "Hazy Year",
+          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
+        }
+      ],
+      "duration_ms": 167926,
+      "name": "Notes",
+      "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
+        "name": "Lofi Loyal Caf\u00e9 Customer",
+        "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
+      },
+      "artists": [
+        {
+          "name": "Single Friend",
+          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Lofi Loyal Caf\u00e9 Customer",
+      "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/7gSflGtYJSDOcgCfaUEnGE"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 165333,
       "name": "Woodstock",
       "url": "https://open.spotify.com/track/26vm8tYfXCHUxK8A3jFgBZ"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
-        "name": "Lofi Loyal Caf\u00e9 Customer",
-        "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
-      },
-      "artists": [
-        {
-          "name": "Single Friend",
-          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Lofi Loyal Caf\u00e9 Customer",
-      "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -1435,26 +1435,18 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "reminisce",
-        "url": "https://open.spotify.com/album/3hgNp3JLIj9YqRo3RuvWeC"
+        "name": "CELEBRATION OF JAY 3",
+        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
       },
       "artists": [
         {
           "name": "DJ Mitsu The Beats",
           "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        },
-        {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        },
-        {
-          "name": "Kzyboost",
-          "url": "https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil"
         }
       ],
-      "duration_ms": 169074,
-      "name": "reminisce",
-      "url": "https://open.spotify.com/track/33eWL7EXXttUumnaOJ95vT"
+      "duration_ms": 135529,
+      "name": "Rostrum",
+      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
     },
     {
       "added_at": "2026-01-23 10:32:42",

@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: F\u00faria, Muse Maya",
-  "num_followers": 134661,
+  "num_followers": 134648,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -399,30 +399,6 @@
     {
       "added_at": "2026-01-30 16:57:54",
       "album": {
-        "name": "BANDIDO COM BANDIDA",
-        "url": "https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ"
-      },
-      "artists": [
-        {
-          "name": "Dpaula",
-          "url": "https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Ericoness",
-          "url": "https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584"
-        }
-      ],
-      "duration_ms": 171774,
-      "name": "BANDIDO COM BANDIDA",
-      "url": "https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM"
-    },
-    {
-      "added_at": "2026-01-30 16:57:54",
-      "album": {
         "name": "Sexo Hot 2",
         "url": "https://open.spotify.com/album/1GiHRtZrCsAVQYOS5rfLqI"
       },
@@ -447,6 +423,30 @@
       "duration_ms": 172856,
       "name": "Sexo Hot 2",
       "url": "https://open.spotify.com/track/4qc9XsRd0x2Gdw3AzvUnhA"
+    },
+    {
+      "added_at": "2026-01-30 16:57:54",
+      "album": {
+        "name": "BANDIDO COM BANDIDA",
+        "url": "https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ"
+      },
+      "artists": [
+        {
+          "name": "Dpaula",
+          "url": "https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Ericoness",
+          "url": "https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584"
+        }
+      ],
+      "duration_ms": 171774,
+      "name": "BANDIDO COM BANDIDA",
+      "url": "https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM"
     },
     {
       "added_at": "2026-01-30 16:57:54",
@@ -719,30 +719,6 @@
     {
       "added_at": "2026-01-30 16:57:54",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
-      },
-      "artists": [
-        {
-          "name": "yollirum",
-          "url": "https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq"
-        },
-        {
-          "name": "Zairon",
-          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 133064,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
-    },
-    {
-      "added_at": "2026-01-30 16:57:54",
-      "album": {
         "name": "DOISMILEVINTEHOJE",
         "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 187317,
       "name": "Pasta Registrada",
       "url": "https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl"
+    },
+    {
+      "added_at": "2026-01-30 16:57:54",
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "yollirum",
+          "url": "https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq"
+        },
+        {
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        }
+      ],
+      "duration_ms": 133064,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
     },
     {
       "added_at": "2026-01-30 16:57:54",
@@ -1095,6 +1095,30 @@
     {
       "added_at": "2026-01-30 16:57:54",
       "album": {
+        "name": "Rebola Na Vara",
+        "url": "https://open.spotify.com/album/6YDmmUKfUc341SLnyQjy7g"
+      },
+      "artists": [
+        {
+          "name": "DJ Shua",
+          "url": "https://open.spotify.com/artist/5KxqaJcX319zOOEj8E7ZUC"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Conex\u00e3o do Funk",
+          "url": "https://open.spotify.com/artist/4gsXN66pofmZfqIMrOEFX3"
+        }
+      ],
+      "duration_ms": 149684,
+      "name": "Rebola Na Vara",
+      "url": "https://open.spotify.com/track/1FU24ZYS74ElrWpoJq01kJ"
+    },
+    {
+      "added_at": "2026-01-30 16:57:54",
+      "album": {
         "name": "Pula Pula",
         "url": "https://open.spotify.com/album/2otx86iOPJ0iynLm8wAzrO"
       },
@@ -1127,30 +1151,6 @@
       "duration_ms": 175448,
       "name": "Pula Pula",
       "url": "https://open.spotify.com/track/2bv3MjBOFgMgf1VPGLT5py"
-    },
-    {
-      "added_at": "2026-01-30 16:57:54",
-      "album": {
-        "name": "Rebola Na Vara",
-        "url": "https://open.spotify.com/album/6YDmmUKfUc341SLnyQjy7g"
-      },
-      "artists": [
-        {
-          "name": "DJ Shua",
-          "url": "https://open.spotify.com/artist/5KxqaJcX319zOOEj8E7ZUC"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Conex\u00e3o do Funk",
-          "url": "https://open.spotify.com/artist/4gsXN66pofmZfqIMrOEFX3"
-        }
-      ],
-      "duration_ms": 149684,
-      "name": "Rebola Na Vara",
-      "url": "https://open.spotify.com/track/1FU24ZYS74ElrWpoJq01kJ"
     },
     {
       "added_at": "2026-01-30 16:57:54",

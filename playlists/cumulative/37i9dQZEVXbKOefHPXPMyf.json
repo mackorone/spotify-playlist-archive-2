@@ -16317,6 +16317,24 @@
     },
     {
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/5IwOZQP8N8aklileNY9KXu"
+      },
+      "artists": [
+        {
+          "name": "Malpa\u00eds",
+          "url": "https://open.spotify.com/artist/5zZpD0w7JdJ56hd9rjGyiu"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295693,
+      "name": "Contramarea (Vivo)",
+      "url": "https://open.spotify.com/track/1B0wPBnyl3DCCJSzfcQLsi"
+    },
+    {
+      "album": {
         "name": "Conv\u00e9ncete",
         "url": "https://open.spotify.com/album/2ECz8iqicVkgCZr6QAVnoP"
       },
@@ -19562,7 +19580,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Desde Chepe City",
       "url": "https://open.spotify.com/track/50qRaPgOTpgzHfA0ibA79w"
@@ -22649,6 +22667,24 @@
     },
     {
       "album": {
+        "name": "Hay Ni\u00f1os Aqu\u00ed",
+        "url": "https://open.spotify.com/album/4jMBTrXh916qVZmrDrMVsu"
+      },
+      "artists": [
+        {
+          "name": "Malpa\u00eds",
+          "url": "https://open.spotify.com/artist/5zZpD0w7JdJ56hd9rjGyiu"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261133,
+      "name": "El Barrio De Los Jazmines",
+      "url": "https://open.spotify.com/track/4bVsp3pVgUay24JoaH5eg3"
+    },
+    {
+      "album": {
         "name": "Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
@@ -22878,6 +22914,24 @@
       "duration_ms": 151400,
       "name": "EL CUARTO DE FERXXO",
       "url": "https://open.spotify.com/track/1WBwck9KqWfe6mr2j06UEM"
+    },
+    {
+      "album": {
+        "name": "Nada Que Olvidar",
+        "url": "https://open.spotify.com/album/3x57eAgXsnseamNqEWu27E"
+      },
+      "artists": [
+        {
+          "name": "Malpa\u00eds",
+          "url": "https://open.spotify.com/artist/5zZpD0w7JdJ56hd9rjGyiu"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259688,
+      "name": "El D\u00eda De Las Crayolas",
+      "url": "https://open.spotify.com/track/5M3snNEJKHTFyxqL6qoG32"
     },
     {
       "album": {
@@ -42648,7 +42702,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -46236,7 +46290,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 214399,
       "name": "Mer\u00e9",
       "url": "https://open.spotify.com/track/7m2ZdJo5lzQ9tDwDcymFcb"
@@ -56978,7 +57032,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 354986,
       "name": "Patri\u00f3tica Costarricense",
       "url": "https://open.spotify.com/track/46jTNkvDyoBofPkt84MLFO"
@@ -61770,7 +61824,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -68938,7 +68992,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 151986,
       "name": "Soltero",
       "url": "https://open.spotify.com/track/7tVRrUDjiGcyBpdvGPCid8"
@@ -69364,7 +69418,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 187338,
       "name": "Soy Tico",
       "url": "https://open.spotify.com/track/4WJE2pCFVd1KO4qDmQKda4"
@@ -77888,7 +77942,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 146503,
       "name": "Un Kiss",
       "url": "https://open.spotify.com/track/6RZyak46Ufg0VCrWRyz0FJ"
@@ -81766,7 +81820,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

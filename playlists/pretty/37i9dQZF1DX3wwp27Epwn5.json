@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 249089,
+  "num_followers": 249288,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,26 @@
     {
       "added_at": "2026-01-21 06:17:28",
       "album": {
+        "name": "Chikni Chameli",
+        "url": "https://open.spotify.com/album/69gDXnPkVlY1ILqxBEvEDU"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 303413,
+      "name": "Chikni Chameli",
+      "url": "https://open.spotify.com/track/1NtUkEglWHG26BOqj3rPhQ"
+    },
+    {
+      "added_at": "2026-01-21 06:17:28",
+      "album": {
         "name": "Ghungroo (From \"War\")",
         "url": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 302935,
       "name": "Ghungroo (From \"War\")",
       "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
-    },
-    {
-      "added_at": "2026-01-21 06:17:28",
-      "album": {
-        "name": "Chikni Chameli",
-        "url": "https://open.spotify.com/album/69gDXnPkVlY1ILqxBEvEDU"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 303413,
-      "name": "Chikni Chameli",
-      "url": "https://open.spotify.com/track/1NtUkEglWHG26BOqj3rPhQ"
     },
     {
       "added_at": "2026-01-21 06:17:28",
@@ -527,34 +527,6 @@
     {
       "added_at": "2026-01-21 06:17:28",
       "album": {
-        "name": "Student of the Year (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
-      },
-      "artists": [
-        {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        },
-        {
-          "name": "Shahid Mallya",
-          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
-        },
-        {
-          "name": "Nisha Mascarenhas",
-          "url": "https://open.spotify.com/artist/06rb04GGkUUP0nZMWEs0P6"
-        },
-        {
-          "name": "Marianne D'Cruz Aiman",
-          "url": "https://open.spotify.com/artist/5kXfKycKZbS90vKTz62joF"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Kukkad",
-      "url": "https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw"
-    },
-    {
-      "added_at": "2026-01-21 06:17:28",
-      "album": {
         "name": "Band Baaja Baaraat",
         "url": "https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU"
       },
@@ -579,6 +551,34 @@
       "duration_ms": 267624,
       "name": "Ainvayi Ainvayi",
       "url": "https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3"
+    },
+    {
+      "added_at": "2026-01-21 06:17:28",
+      "album": {
+        "name": "Student of the Year (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Nisha Mascarenhas",
+          "url": "https://open.spotify.com/artist/06rb04GGkUUP0nZMWEs0P6"
+        },
+        {
+          "name": "Marianne D'Cruz Aiman",
+          "url": "https://open.spotify.com/artist/5kXfKycKZbS90vKTz62joF"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Kukkad",
+      "url": "https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw"
     },
     {
       "added_at": "2026-01-21 06:17:28",
@@ -667,6 +667,26 @@
     {
       "added_at": "2026-01-21 06:17:28",
       "album": {
+        "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
+        "url": "https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy"
+      },
+      "artists": [
+        {
+          "name": "Ved Sharma",
+          "url": "https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "duration_ms": 287374,
+      "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
+      "url": "https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx"
+    },
+    {
+      "added_at": "2026-01-21 06:17:28",
+      "album": {
         "name": "O Saki Saki (From \"Batla House\")",
         "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 191089,
       "name": "O Saki Saki (From \"Batla House\")",
       "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm"
-    },
-    {
-      "added_at": "2026-01-21 06:17:28",
-      "album": {
-        "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
-        "url": "https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy"
-      },
-      "artists": [
-        {
-          "name": "Ved Sharma",
-          "url": "https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z"
-        },
-        {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-        }
-      ],
-      "duration_ms": 287374,
-      "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
-      "url": "https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx"
     },
     {
       "added_at": "2026-01-21 06:17:28",
@@ -955,26 +955,22 @@
     {
       "added_at": "2026-01-21 06:17:28",
       "album": {
-        "name": "Jab Koi Baat - Recreated",
-        "url": "https://open.spotify.com/album/1nIe4xtu5pwjRLgegOYdMm"
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
       },
       "artists": [
         {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         },
         {
-          "name": "Shirley Setia",
-          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
-        },
-        {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
         }
       ],
-      "duration_ms": 192228,
-      "name": "Jab Koi Baat - Recreated",
-      "url": "https://open.spotify.com/track/43GfQ1SC17rBWiHkOtdwK8"
+      "duration_ms": 243206,
+      "name": "Yaar Naa Miley",
+      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
     },
     {
       "added_at": "2026-01-21 06:17:28",
@@ -999,22 +995,26 @@
     {
       "added_at": "2026-01-21 06:17:28",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
+        "name": "Jab Koi Baat - Recreated",
+        "url": "https://open.spotify.com/album/1nIe4xtu5pwjRLgegOYdMm"
       },
       "artists": [
         {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
         },
         {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+          "name": "Shirley Setia",
+          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
         }
       ],
-      "duration_ms": 243206,
-      "name": "Yaar Naa Miley",
-      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
+      "duration_ms": 192228,
+      "name": "Jab Koi Baat - Recreated",
+      "url": "https://open.spotify.com/track/43GfQ1SC17rBWiHkOtdwK8"
     },
     {
       "added_at": "2026-01-21 06:17:28",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2026-01-21 06:17:28",
       "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Sahil Kaushal",
+          "url": "https://open.spotify.com/artist/7gnhXaxCLcHKi61BD2JRcz"
+        }
+      ],
+      "duration_ms": 282792,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
+    },
+    {
+      "added_at": "2026-01-21 06:17:28",
+      "album": {
         "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
         "url": "https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV"
       },
@@ -1127,26 +1147,6 @@
     {
       "added_at": "2026-01-21 06:17:28",
       "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Sahil Kaushal",
-          "url": "https://open.spotify.com/artist/7gnhXaxCLcHKi61BD2JRcz"
-        }
-      ],
-      "duration_ms": 282792,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
-    },
-    {
-      "added_at": "2026-01-21 06:17:28",
-      "album": {
         "name": "Brothers (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/383e45grHa4YKHGRojMqYy"
       },
@@ -1183,6 +1183,46 @@
       "duration_ms": 260053,
       "name": "Aai Paapi",
       "url": "https://open.spotify.com/track/7Bw56mGeOVbBBWBSLg356s"
+    },
+    {
+      "added_at": "2026-01-21 06:17:28",
+      "album": {
+        "name": "Sonu Ke Titu Ki Sweety",
+        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Navraj Hans",
+          "url": "https://open.spotify.com/artist/4ItzUQL1OI4JNDGNdKHR1K"
+        },
+        {
+          "name": "Anand Raj Anand",
+          "url": "https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH"
+        },
+        {
+          "name": "Singhsta",
+          "url": "https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G"
+        },
+        {
+          "name": "Oye Sheraa",
+          "url": "https://open.spotify.com/artist/3gyYSD2w6UlmfrTeIY3Y3i"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        }
+      ],
+      "duration_ms": 203881,
+      "name": "Chhote Chhote Peg",
+      "url": "https://open.spotify.com/track/3AQrBSjowqCFu2jiFFuGsv"
     },
     {
       "added_at": "2026-01-21 06:17:28",
@@ -1231,46 +1271,6 @@
       "duration_ms": 201655,
       "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
       "url": "https://open.spotify.com/track/0z9lOAVgQT5bysEKZ6Wwbk"
-    },
-    {
-      "added_at": "2026-01-21 06:17:28",
-      "album": {
-        "name": "Sonu Ke Titu Ki Sweety",
-        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Navraj Hans",
-          "url": "https://open.spotify.com/artist/4ItzUQL1OI4JNDGNdKHR1K"
-        },
-        {
-          "name": "Anand Raj Anand",
-          "url": "https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH"
-        },
-        {
-          "name": "Singhsta",
-          "url": "https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G"
-        },
-        {
-          "name": "Oye Sheraa",
-          "url": "https://open.spotify.com/artist/3gyYSD2w6UlmfrTeIY3Y3i"
-        },
-        {
-          "name": "Sameer Anjaan",
-          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
-        }
-      ],
-      "duration_ms": 203881,
-      "name": "Chhote Chhote Peg",
-      "url": "https://open.spotify.com/track/3AQrBSjowqCFu2jiFFuGsv"
     },
     {
       "added_at": "2026-01-21 06:17:28",

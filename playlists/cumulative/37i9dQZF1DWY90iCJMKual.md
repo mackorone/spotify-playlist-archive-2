@@ -4,7 +4,7 @@
 
 > PH vibin' cover: JASTENN
 
-444 songs - 1 day 0 hr 16 min
+447 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Bitter](https://open.spotify.com/track/0ZzK5ezcQCY5QYCa7zC7sR) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Bitter](https://open.spotify.com/album/2TmYMVMKx4Ddkeqa7SahW8) | 2:26 | 2024-06-03 | 2024-08-17 |
 | [Bittersweet](https://open.spotify.com/track/50ExJUNgfTOmpgl1PwSm0N) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Bittersweet](https://open.spotify.com/album/6AUSTrQAtjAsI0zGqBEzGd) | 2:54 | 2025-08-08 | 2025-12-04 |
 | [Bodies](https://open.spotify.com/track/0sqBr3CLU0kcWiWbOHN6RB) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Bodies](https://open.spotify.com/album/0XssBa1R2KbGPfddGC5jpt) | 3:17 | 2023-08-16 | 2024-01-16 |
+| [Bounce that](https://open.spotify.com/track/6n96W9LX01FU9igJpSKX3O) | [Billy Crawford](https://open.spotify.com/artist/43CiK1548VVp2DT95joswS) | [Bounce that](https://open.spotify.com/album/7flE1Q207y0if6jMh1foXX) | 2:50 | 2026-02-02 |  |
 | [Boyfriend](https://open.spotify.com/track/4067uAzJZUHJInwOo7X701) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Boyfriend](https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf) | 4:53 | 2024-08-07 |  |
 | [bum 2 me](https://open.spotify.com/track/6lKn8JoOM1Rgob6ebmAaGD) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bum 2 me](https://open.spotify.com/album/1TRVM0jgIiI8Sv61MGHPjM) | 2:18 | 2023-05-02 | 2023-10-03 |
 | [BURN](https://open.spotify.com/track/3I15kjOXZ5BWoNyGEhMV9B) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [BURN](https://open.spotify.com/album/5UinUFeyhjArW24gIKT9PN) | 2:42 | 2023-06-13 | 2023-09-07 |
@@ -91,7 +92,7 @@
 | [Delusyon](https://open.spotify.com/track/2cCDHJUUC9NmxPPr7JkP3R) | [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e), [Ken Manguiat](https://open.spotify.com/artist/5X0lDO3wabgkXnCyXZpXKz) | [Delusyon](https://open.spotify.com/album/2u4i2jr1X6AdlQrvKlAXZ2) | 3:12 | 2025-02-27 | 2026-01-17 |
 | [DESPERADO](https://open.spotify.com/track/5OhOlK3n9t6vCsDjNQvdOc) | [ARDEE](https://open.spotify.com/artist/5KyAtSiun66X0W4l9azY1J), [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB), [aust\|nn](https://open.spotify.com/artist/02qicH9o3fQf9RhfhzGgKm) | [DESPERADO](https://open.spotify.com/album/0zpdy5QT4W1S138ntxeywQ) | 4:57 | 2022-10-12 | 2023-05-18 |
 | [Di kita trip](https://open.spotify.com/track/1lS1wmAFXcj4RMbQ3pEhDt) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Di kita trip](https://open.spotify.com/album/3iYWYMFX37PfR3w4n1Z3fa) | 2:54 | 2024-02-28 | 2024-07-13 |
-| [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/track/7q5sqrG9X5ZzwSqKIpM77F) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK) | [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/album/0GuFAo9QHxDMdTCMKpix06) | 3:19 | 2024-05-03 |  |
+| [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/track/7q5sqrG9X5ZzwSqKIpM77F) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK) | [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/album/0GuFAo9QHxDMdTCMKpix06) | 3:19 | 2024-05-03 | 2026-02-03 |
 | [Di ko pala kaya](https://open.spotify.com/track/28ORaX44ctuxnlZ8EvMeF8) | [Chy](https://open.spotify.com/artist/2pdQteTtlz2JwxUJnOiBRE) | [Di ko pala kaya](https://open.spotify.com/album/6I2lmp16dw7oYB6bRC6lhY) | 4:12 | 2023-11-10 | 2024-02-29 |
 | [Di Mawari](https://open.spotify.com/track/54duSykVaql1tM1vmp3E4v) | [dyco](https://open.spotify.com/artist/08i4C64spjTRcYxcc3YXKJ) | [Di Mawari](https://open.spotify.com/album/5pg9caS7JVC71WcsSw0ynb) | 2:51 | 2025-04-16 | 2026-01-29 |
 | [Di Na Babalik](https://open.spotify.com/track/0Gt84LW4Ec1ptxIQiIJY3N) | [yshy](https://open.spotify.com/artist/5DKxABYbjG07LuQ929VRST), [Limpo](https://open.spotify.com/artist/5pRXGrEPlgwQLEKeO2NQhp) | [Di Na Babalik](https://open.spotify.com/album/5RAmV5jGpAZTz99u1sVIJM) | 3:51 | 2023-09-06 | 2023-11-04 |
@@ -326,6 +327,7 @@
 | [Patalikod](https://open.spotify.com/track/1uCfgPynfwFHzz4gfRpc10) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf), [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun), [E\-Kove](https://open.spotify.com/artist/1oy5G3wIJcMmPqOSaWzndE) | [Patalikod](https://open.spotify.com/album/7B7oRrsCf90rx8aKboiyhU) | 3:11 | 2025-03-21 |  |
 | [pati ng ulan](https://open.spotify.com/track/7xDxh11hPnoyFeQ8BMCS60) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [pati ng ulan](https://open.spotify.com/album/338bWmo7P3asnye9ba4D7I) | 2:41 | 2024-07-12 | 2024-11-09 |
 | [Patid](https://open.spotify.com/track/4dOIWeYQpPI9NM6ThxRDWj) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Patid](https://open.spotify.com/album/3japR74Iy2UKN0ldaGf9em) | 4:07 | 2023-10-11 | 2024-01-16 |
+| [pelikula](https://open.spotify.com/track/0oJfnh4VKNasIDgzn9dUU6) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Pasakalye](https://open.spotify.com/album/6wsRiy69i3LW7LSRF2Wlrg) | 3:34 | 2026-02-02 |  |
 | [Phases](https://open.spotify.com/track/0m1FSRVrQ4LEqFGicqjcDt) | [Aloura](https://open.spotify.com/artist/0kLp0sF2loscGK68sPESxQ) | [Phases](https://open.spotify.com/album/1B6czSiyIMwLWgPsCdXwc2) | 3:35 | 2022-10-12 | 2023-07-29 |
 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 | 2022-10-12 | 2023-07-29 |
 | [Play No Games](https://open.spotify.com/track/4LKMwbD4qi6dawvR5Ez6Ee) | [Ant$](https://open.spotify.com/artist/5Q071iT6WeDNP937gQF2FT) | [Play No Games](https://open.spotify.com/album/1GFIbb6O9Z7kbR4bXuT6zl) | 2:49 | 2023-07-28 | 2023-10-12 |
@@ -390,6 +392,7 @@
 | [Stay](https://open.spotify.com/track/7iHFyFiyd2Iebl1Cle2AFi) | [Kacee Cortes](https://open.spotify.com/artist/0TJNUEzHtlI9OKM4i9QXts) | [Solace](https://open.spotify.com/album/1YFp4JQZ2cAUREbNQna9d7) | 3:57 | 2022-10-12 | 2023-05-18 |
 | [Stay With Me](https://open.spotify.com/track/2vFWFoKYCZnayFsPKuqz86) | [kyleaux](https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M) | [Stay With Me](https://open.spotify.com/album/0JHhmeAUt9YXvZbpEXnvVc) | 2:36 | 2024-11-08 |  |
 | [Staying On My Phone Tonight](https://open.spotify.com/track/3Ok8zKZ039wgZkXzwagnmP) | [L•Y](https://open.spotify.com/artist/6TX5wo8K752OtN0iDcTPs3), [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Staying On My Phone Tonight](https://open.spotify.com/album/715iMxdVwD4JYpx99Axge0) | 4:26 | 2022-10-12 | 2023-05-03 |
+| [Still\_In\_My\_Room](https://open.spotify.com/track/0TwqT9S8k5aow0krEaWemc) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Still\_In\_My\_Room](https://open.spotify.com/album/2LHgjQDo74QcJbVQ4xKCMB) | 3:10 | 2026-02-02 |  |
 | [STUNNA MUZIK](https://open.spotify.com/track/1wL7xnZfEpZCWU7YYF3Tgf) | [Soulja444](https://open.spotify.com/artist/6ll7EpjLKQlh0B6E9BU7Hi) | [STUNNA MUZIK](https://open.spotify.com/album/3a8wKXJVzYW8BnMOKReB7x) | 2:54 | 2024-05-03 | 2025-03-22 |
 | [Sugar n' Spice](https://open.spotify.com/track/68GGwBrzj5PEe4nbltGuda) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 3:16 | 2024-02-09 | 2025-01-17 |
 | [Sumama Ka](https://open.spotify.com/track/6oRWij7VgIgb4Ysux6UVEj) | [Vaughn](https://open.spotify.com/artist/5jy8TSg982wcBINinxTMc1), [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5), [Louis Angelo](https://open.spotify.com/artist/2IxYn7kml5dzf4HptTMJWo) | [Sumama Ka](https://open.spotify.com/album/7Gwjn6SEKBBKY9mXK6HTrA) | 3:07 | 2022-10-12 | 2023-07-29 |

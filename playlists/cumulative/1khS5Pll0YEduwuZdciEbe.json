@@ -5081,6 +5081,28 @@
     },
     {
       "album": {
+        "name": "The Cloudmaker's Cry",
+        "url": "https://open.spotify.com/album/45fmKJJfgk0lCYD8MXQ9GS"
+      },
+      "artists": [
+        {
+          "name": "Braden Lam",
+          "url": "https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr"
+        },
+        {
+          "name": "Michaela Slinger",
+          "url": "https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222760,
+      "name": "Wide Open (feat. Michaela Slinger)",
+      "url": "https://open.spotify.com/track/6Qgx3mAZWONLD9wo5PYHGq"
+    },
+    {
+      "album": {
         "name": "Wild Heart",
         "url": "https://open.spotify.com/album/6uVJObcq28mcUHXLoFDOaF"
       },

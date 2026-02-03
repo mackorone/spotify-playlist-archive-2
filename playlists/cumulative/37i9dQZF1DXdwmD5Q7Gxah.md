@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://open.substack.com/pub/loremandfriends/p/25\-year\-end\-reflections\-from\-turnstile?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">read our Substack here :\) </a>  The Marías on the cover 🫧
+> <a href="https://open.substack.com/pub/loremandfriends/p/25\-year\-end\-reflections\-from\-turnstile?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">read our Substack here! </a>  Cover: Lola Young ☆
 
-3,683 songs - 8 day 9 hr 35 min
+3,684 songs - 8 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2078,6 +2078,7 @@
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-10-28 | 2022-06-03 |
 | [Message 1](https://open.spotify.com/track/1Ax55SEHx4toTKFEM3z7T5) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Message 1](https://open.spotify.com/album/6pgixwiySWx8NVXDLnplbI) | 0:54 | 2025-08-20 | 2025-09-04 |
 | [Messed Up](https://open.spotify.com/track/4WHmafrJ0ANeLFf7UlXjiM) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Messed Up](https://open.spotify.com/album/5Bzq6KT7Xvqv6qsMDJpyi5) | 3:53 | 2020-10-24 | 2021-01-12 |
+| [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2026-02-02 |  |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-05-31 | 2025-01-18 |
 | [Messy Hair](https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Fauxllennium \(Japanese Deluxe Edition\)](https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M) | 1:56 | 2025-04-04 | 2025-08-02 |
 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 | 2022-05-12 | 2022-08-27 |

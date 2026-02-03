@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: DomLaike, L7NNON, AJULIACOSTA, MD Chefe, Orochi, Fp
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,063 likes - 73 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,051 likes - 73 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 5 | [Estrelinha](https://open.spotify.com/track/3tEa0FYJbdcQDjOqC2RGJU) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [Estrelinha](https://open.spotify.com/album/2b1YzuuchTTYNFD8vN6nG1) | 2:14 |
 | 6 | [DOISMILEVINTEHOJE](https://open.spotify.com/track/3k8gQe3Y8h6BAAELkgV4X3) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [DOISMILEVINTEHOJE](https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw) | 2:10 |
 | 7 | [AUTOBAHN](https://open.spotify.com/track/38NukRP5zIlRv9XlKtwuAJ) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [XTRANHO](https://open.spotify.com/album/5ORsvI5ThmZw7PS1NTvZaB) | 3:05 |
-| 8 | [Madrugada Sombria \(STUDIO\#4\)](https://open.spotify.com/track/5bW18XYQ8xYiRAzalJsC3e) | [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf) | [Madrugada Sombria \(STUDIO\#4\)](https://open.spotify.com/album/3gmn2MECj75anIL2rAHzxE) | 2:09 |
+| 8 | [Madrugada Sombria \(STUDIO\#4\)](https://open.spotify.com/track/5bW18XYQ8xYiRAzalJsC3e) | [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Madrugada Sombria \(STUDIO\#4\)](https://open.spotify.com/album/3gmn2MECj75anIL2rAHzxE) | 2:09 |
 | 9 | [1MR](https://open.spotify.com/track/5CHsBPkXs3SFiDCShVe6yh) | [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [1MR](https://open.spotify.com/album/1NyDvirEuOXBhvX23JyEfm) | 3:19 |
 | 10 | [I LOVE SEX](https://open.spotify.com/track/5VVzJWMRvTy66G6UZ8pAMI) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [I LOVE SEX](https://open.spotify.com/album/78yI1cYu77mUtwROhw07Nh) | 2:09 |
 | 11 | [Wave \(2021\)](https://open.spotify.com/track/4bT9jt4qg4f3z5kMQGY2u5) | [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK), [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V) | [Wave \(2021\)](https://open.spotify.com/album/4gw0MRtIA4z8WFvpYYoLkz) | 2:44 |

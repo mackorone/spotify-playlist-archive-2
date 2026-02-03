@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Act I",
+        "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223886,
+      "name": "Alabama Beauty Queen",
+      "url": "https://open.spotify.com/track/7rg80OVCvZN76iCjMaH5g8"
+    },
+    {
+      "album": {
         "name": "Alimony",
         "url": "https://open.spotify.com/album/75PVKU0GHALIqPZ92fpTvf"
       },
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 161919,
       "name": "Easy Man",
       "url": "https://open.spotify.com/track/4PlLk1253CbpRzsdytzEWF"
@@ -3364,7 +3382,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 183573,
       "name": "It Ain\u2019t The Whiskey",
       "url": "https://open.spotify.com/track/0AsrOS8HktHe9TaB1i9W3v"
@@ -5200,6 +5218,24 @@
       "duration_ms": 193621,
       "name": "reason to be",
       "url": "https://open.spotify.com/track/5ouPuhOx1c3BJcejzchGNO"
+    },
+    {
+      "album": {
+        "name": "Redneck And You Know It",
+        "url": "https://open.spotify.com/album/34sjQt45YVKzaA5qdUh3Z9"
+      },
+      "artists": [
+        {
+          "name": "Dalton Davis",
+          "url": "https://open.spotify.com/artist/6J9RN4Pef3aGhMaIPt4d6B"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162184,
+      "name": "Redneck And You Know It",
+      "url": "https://open.spotify.com/track/2ut2AuaXbCHXqvROJjy5lB"
     },
     {
       "album": {

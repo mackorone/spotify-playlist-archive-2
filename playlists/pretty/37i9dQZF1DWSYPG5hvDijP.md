@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Smoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,461 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,485 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 7 | [OCD](https://open.spotify.com/track/6X6sdP57vPPeqdkvb8TC8x) | [Insane](https://open.spotify.com/artist/1phmOmIeRVUkFcfHFgPzHu), [Floki](https://open.spotify.com/artist/2gM0lYkOceiDZsi3cavaIN), [Dhadkan](https://open.spotify.com/artist/57JOmmcrq0tuWiOmXqYfHL), [Eleven Eleven](https://open.spotify.com/artist/3EhQIVHF9ddORwND0lgqAO) | [OCD](https://open.spotify.com/album/3JhlgJ1THV6Kant5SuDskY) | 2:33 |
 | 8 | [Palat](https://open.spotify.com/track/2c2mSLlqLC9f18sLicW0aW) | [Fat Krrent](https://open.spotify.com/artist/4E98XpRcPeJB8ICcqoyj3N), [DTXdude](https://open.spotify.com/artist/4TxjDi1ZnhkKeymflQs6KX) | [Palat](https://open.spotify.com/album/7hPRjoIIwgiuaGy04wo4qN) | 2:11 |
 | 9 | [Burberry \- A](https://open.spotify.com/track/3IAlh9i025YzvntflCId5F) | [DON YG](https://open.spotify.com/artist/7jkW3pdM5vCB833oDKBfHf) | [Burberry \(A\)](https://open.spotify.com/album/7EOmCtY0gly1fEqLCv0WbS) | 2:27 |
-| 10 | [Acche Karam Bure Karam](https://open.spotify.com/track/04UzJ8Ai3KupK16t3nmRTN) | [HVR](https://open.spotify.com/artist/6hPAHmZ0DcoXLoHiO0uCp6), [Diya rajpurohit](https://open.spotify.com/artist/04rhqeQsfqIyzvUD3LBaHI), [Raxita Avasthi](https://open.spotify.com/artist/2DnCfpXMXHjHr8U0ZjQdNb) | [Acche Karam Bure Karam](https://open.spotify.com/album/3NXaXwwBFXN0GDn9PmVAs5) | 2:31 |
+| 10 | [Ache Karam Bure Karam](https://open.spotify.com/track/04UzJ8Ai3KupK16t3nmRTN) | [HVR](https://open.spotify.com/artist/6hPAHmZ0DcoXLoHiO0uCp6), [Diya rajpurohit](https://open.spotify.com/artist/04rhqeQsfqIyzvUD3LBaHI), [Raxita Avasthi](https://open.spotify.com/artist/2DnCfpXMXHjHr8U0ZjQdNb) | [Ache Karam Bure Karam](https://open.spotify.com/album/3NXaXwwBFXN0GDn9PmVAs5) | 2:31 |
 | 11 | [VISHKANYA](https://open.spotify.com/track/1lQD2Jc5mBVmPIW91lqjEK) | [Youngparas](https://open.spotify.com/artist/1CaVjQFV7kMVzbFTzOmq8y), [V\. Kid](https://open.spotify.com/artist/5bqLt0oDohxu1f9Iaq3POv) | [Pen & Paper](https://open.spotify.com/album/0mk4F39Py1cfOYmbSx9qq0) | 2:42 |
 | 12 | [KAHA SE KAHA](https://open.spotify.com/track/74a4vlwrzZF48KMUsD6FyU) | [Ahmer](https://open.spotify.com/artist/0EAfS9gQe5SCtQp1R6hJqG) | [KAHA SE KAHA](https://open.spotify.com/album/4SDGel7N5Ayn5loKKsU7bN) | 3:38 |
 | 13 | [Malaal](https://open.spotify.com/track/6iy6CVCGvXjMTYLm001fwZ) | [Mk Teefa](https://open.spotify.com/artist/6msRiuuYVHXMSRFdFmCznY) | [Malaal](https://open.spotify.com/album/38vzGrT3mfTqA7sTWeVFK3) | 3:53 |

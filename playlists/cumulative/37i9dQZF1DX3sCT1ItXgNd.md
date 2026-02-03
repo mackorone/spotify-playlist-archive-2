@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Manuel Turizo
 
-857 songs - 1 day 19 hr 3 min
+858 songs - 1 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [CABI](https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [CABI](https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N) | 2:01 | 2023-03-21 | 2023-04-04 |
 | [Caigo \(Stumblin' In\)](https://open.spotify.com/track/0BFVoZViKatuNpRthpxIUP) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Essa Gante](https://open.spotify.com/artist/3dYgPy7idZRW4mnP9P05aK) | [Caigo \(Stumblin' In\)](https://open.spotify.com/album/6DZLdaSUl1uuhGTd4WAhe3) | 3:28 | 2024-09-30 | 2024-10-22 |
 | [Calor](https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Calor](https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8) | 3:20 | 2023-08-31 | 2024-02-16 |
+| [CAMBIARÉ](https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CAMBIARÉ](https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU) | 3:01 | 2026-02-02 |  |
 | [Camila](https://open.spotify.com/track/7Cm5tjS184tqmc2IcoRpvY) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Camila](https://open.spotify.com/album/7xlPVZP989LXPe1XnYuJfm) | 2:51 | 2025-10-06 | 2025-10-21 |
 | [Campeón](https://open.spotify.com/track/4nOq3daqKP7XXSDckP6zyS) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Campeón](https://open.spotify.com/album/1upIoTXyEpfmtNVsTfBure) | 2:34 | 2023-05-22 | 2023-06-13 |
 | [Canalla](https://open.spotify.com/track/0UEGkBGiQRyjqgbWypHN2n) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Canalla](https://open.spotify.com/album/6ZIMuzMVOnHqaXFkTqHN5g) | 3:05 | 2024-11-12 | 2025-01-21 |

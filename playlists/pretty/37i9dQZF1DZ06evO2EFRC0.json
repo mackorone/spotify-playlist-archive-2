@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 97642,
+  "num_followers": 97646,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADWeF1B+w9AuinIqCqq72eI",
+  "snapshot_id": "aX6XgAAAAABCDmtB4mYhBnvSxmHOoSpY",
   "tracks": [
     {
       "added_at": null,
@@ -182,11 +182,15 @@
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 128240,
-      "name": "Tu Mirada",
-      "url": "https://open.spotify.com/track/1qpi3Zh2f9mPx5F0SR0xDB"
+      "duration_ms": 160386,
+      "name": "Tu Fidelidad",
+      "url": "https://open.spotify.com/track/1tCdXIAdRx5CvilfUpCNuU"
     },
     {
       "added_at": null,
@@ -250,15 +254,11 @@
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 160386,
-      "name": "Tu Fidelidad",
-      "url": "https://open.spotify.com/track/1tCdXIAdRx5CvilfUpCNuU"
+      "duration_ms": 128240,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/1qpi3Zh2f9mPx5F0SR0xDB"
     },
     {
       "added_at": null,
@@ -411,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Volver\u00e1",
-        "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 329377,
-      "name": "A Quien Ir\u00e9",
-      "url": "https://open.spotify.com/track/6bjDSczvenKmtEqLJAiftS"
+      "duration_ms": 260022,
+      "name": "A Ti",
+      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
     },
     {
       "added_at": null,
@@ -451,18 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
+        "name": "El Volver\u00e1",
+        "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 260022,
-      "name": "A Ti",
-      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
+      "duration_ms": 329377,
+      "name": "A Quien Ir\u00e9",
+      "url": "https://open.spotify.com/track/6bjDSczvenKmtEqLJAiftS"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dios de Pactos",
+        "url": "https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 651080,
+      "name": "Dios De Pactos",
+      "url": "https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Mill\u00f3n (Kelly Spyker)",
         "url": "https://open.spotify.com/album/0of9ruVLilhQBR0Z5RSxPi"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 218521,
       "name": "Un Mill\u00f3n - Kelly Spyker",
       "url": "https://open.spotify.com/track/6WWmIrz1sawQoJzZZKjrAJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dios de Pactos",
-        "url": "https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 651080,
-      "name": "Dios De Pactos",
-      "url": "https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Instrumentales",
-        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Renu\u00e9vame",
-      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
         "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 93254,
       "name": "Dios Ha Sido Bueno - En Vivo desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor de Instrumentales",
+        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 222876,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
     }
   ],
   "unique_name": "This Is Marcos Witt",

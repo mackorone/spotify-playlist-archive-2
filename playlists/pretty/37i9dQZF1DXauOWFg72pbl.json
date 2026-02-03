@@ -1,6 +1,6 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 607969,
+  "num_followers": 608009,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-04-07 23:29:17",
       "album": {
-        "name": "Villains",
-        "url": "https://open.spotify.com/album/6JdX9MGiEMypqYLMKyIE8a"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 274281,
-      "name": "The Way You Used to Do",
-      "url": "https://open.spotify.com/track/1wsnCfewxZlCs7cJxkaMZM"
-    },
-    {
-      "added_at": "2025-04-07 23:29:17",
-      "album": {
         "name": "Nathaniel Rateliff & The Night Sweats",
         "url": "https://open.spotify.com/album/2UCyiayMoJOwBilPLQPQvK"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 247613,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/1hWQvA6oGVJ2mAVsZ59AaV"
+    },
+    {
+      "added_at": "2025-04-07 23:29:17",
+      "album": {
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/6JdX9MGiEMypqYLMKyIE8a"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 274281,
+      "name": "The Way You Used to Do",
+      "url": "https://open.spotify.com/track/1wsnCfewxZlCs7cJxkaMZM"
     },
     {
       "added_at": "2025-04-07 23:29:17",

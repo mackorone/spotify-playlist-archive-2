@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,516 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,529 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 4 | [Pain Salesmen \(with Ren\)](https://open.spotify.com/track/6LcCM904i2ATZcyatWGRsT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Pain Salesmen \(with Ren\)](https://open.spotify.com/album/57PLyxgQHkm56xk3nssS4h) | 3:19 |
 | 5 | [Fire Lessons](https://open.spotify.com/track/3FLMN8fVYCVu0UgVpifSWa) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:18 |
 | 6 | [Judy](https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 2:56 |
-| 7 | [Bar Breaker](https://open.spotify.com/track/4pynucrEEPPD3ZRQtnvjSz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:44 |
-| 8 | [Cutthroat](https://open.spotify.com/track/6jWg9ZeIlDOuwr62vpKfut) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Cutthroat](https://open.spotify.com/album/3RswC4TBK1oa5mEh9nHtKS) | 3:07 |
+| 7 | [Cutthroat](https://open.spotify.com/track/6jWg9ZeIlDOuwr62vpKfut) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Cutthroat](https://open.spotify.com/album/3RswC4TBK1oa5mEh9nHtKS) | 3:07 |
+| 8 | [Bar Breaker](https://open.spotify.com/track/4pynucrEEPPD3ZRQtnvjSz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:44 |
 | 9 | [Dead Man Shuffle](https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 2:35 |
 | 10 | [Horse](https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:02 |
 | 11 | [Light Work](https://open.spotify.com/track/2LRLHZKFo7N7diPirNcVjh) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:30 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 17 | [Dirty Work](https://open.spotify.com/track/3CDaT41CYRfgn1t8pYMiJo) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dirty Work](https://open.spotify.com/album/4stJxEqPXyiXGHIQNyS9D9) | 2:14 |
 | 18 | [Soupy \(with Cozz\)](https://open.spotify.com/track/1nmZkBjLJr1fK3CiNjkNUS) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:26 |
 | 19 | [OH SHIT!!!](https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [OH SHIT!!!](https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G) | 3:05 |
-| 20 | [Neighborhood \(with Krayzie Bone & Prof\)](https://open.spotify.com/track/6cLk7MbP2eN80S0wbwbyl6) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [All The Colors](https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG) | 3:47 |
-| 21 | [The Season](https://open.spotify.com/track/5zvPlnOXaOoknahmh69RiI) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 3:25 |
+| 20 | [The Season](https://open.spotify.com/track/5zvPlnOXaOoknahmh69RiI) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 3:25 |
+| 21 | [Neighborhood \(with Krayzie Bone & Prof\)](https://open.spotify.com/track/6cLk7MbP2eN80S0wbwbyl6) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [All The Colors](https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG) | 3:47 |
 | 22 | [Snake Skin Leather](https://open.spotify.com/track/521mlZAo2XcA5lvFgN4tUT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:26 |
 | 23 | [Destiny \(with Sauce Walka\)](https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Destiny \(with Sauce Walka\)](https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD) | 3:15 |
 | 24 | [Vulnerable God](https://open.spotify.com/track/1rns1Sea7RI4wCNHtkkthQ) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Vulnerable God](https://open.spotify.com/album/2Px80IZqOMRP6E6kjM2wie) | 2:04 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 35 | [No \(feat\. Cashinova\)](https://open.spotify.com/track/3GmUchj44KpmQIpYH95xDn) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Cashinova](https://open.spotify.com/artist/7esS6SDpFk34861XWk17kn) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:07 |
 | 36 | [Cousins](https://open.spotify.com/track/5GgieBASQgXvkaAJhk2XOi) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Cashinova](https://open.spotify.com/artist/7esS6SDpFk34861XWk17kn) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:50 |
 | 37 | [Standout](https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 3:44 |
-| 38 | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra) | 2:28 |
-| 39 | [Whiskey](https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 2:55 |
+| 38 | [Whiskey](https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 2:55 |
+| 39 | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra) | 2:28 |
 | 40 | [Bawse](https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Survivor's Guilt](https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6) | 3:07 |
 | 41 | [Pookie Baby](https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 |
 | 42 | [Permission](https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:57 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 48 | [Butter \(with Baby Tate\)](https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Butter \(with Baby Tate\)](https://open.spotify.com/album/1AcQ5sph3JVQ9lPMwDaHax) | 3:47 |
 | 49 | [Dodo Birds](https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dodo Birds](https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft) | 2:13 |
 
-Snapshot ID: `aX1GAAAAAAB217iKr6iF1N3UnupYyGPQ`
+Snapshot ID: `aX6XgAAAAACOJZk8olSVE6/HBZd/wntb`

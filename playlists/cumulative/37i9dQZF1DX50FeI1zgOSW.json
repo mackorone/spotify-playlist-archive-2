@@ -3779,6 +3779,24 @@
     },
     {
       "album": {
+        "name": "INITHANA PORKLAM ONDRU",
+        "url": "https://open.spotify.com/album/3wj2PJD396nZ3Ij9WCnLkG"
+      },
+      "artists": [
+        {
+          "name": "Roshith abdulrahman",
+          "url": "https://open.spotify.com/artist/1cmSRUsjBAxwwN0fiYAd1F"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66931,
+      "name": "INITHANA PORKLAM ONDRU",
+      "url": "https://open.spotify.com/track/6cfeIztrSQdeS8PEWXfT8D"
+    },
+    {
+      "album": {
         "name": "Iraivi",
         "url": "https://open.spotify.com/album/6UybZwoEfIp2NkxrvlYy7j"
       },
@@ -4324,7 +4342,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 167192,
       "name": "Kaadhal Vibe (Bachata)",
       "url": "https://open.spotify.com/track/6cORWkPNsK5unM85YFALFl"
@@ -14321,6 +14339,32 @@
     },
     {
       "album": {
+        "name": "Veerathuku Madurai Thaan Da",
+        "url": "https://open.spotify.com/album/5tgiJnukVXaRNII4KfvLZl"
+      },
+      "artists": [
+        {
+          "name": "Vishal - Aditya",
+          "url": "https://open.spotify.com/artist/18Gn0S8ERNbuv5GA8FB0xT"
+        },
+        {
+          "name": "Velmurugan",
+          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
+        },
+        {
+          "name": "Tom Karthi",
+          "url": "https://open.spotify.com/artist/5rf6qdyKd6WeUUmnO2YU32"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204333,
+      "name": "Veerathuku Madurai Thaan Da",
+      "url": "https://open.spotify.com/track/4r2SJ2pPYDvbN5jFenqkwk"
+    },
+    {
+      "album": {
         "name": "Vellai Mazhaye (From \"Muthal Pakkam\")",
         "url": "https://open.spotify.com/album/5mOh1j3BQ0vUIWWYtkgYfl"
       },
@@ -15386,7 +15430,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 223103,
       "name": "ZARA",
       "url": "https://open.spotify.com/track/2nNzswBXvsFM6K8yd7Hpe8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,961 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,910 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 77 | [Make It Home \(feat\. PJ Morton & Sevyn Streeter\)](https://open.spotify.com/track/3hmJxTHHlEoMeBfH8KUiGU) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [In December](https://open.spotify.com/album/2ae65TpzMw6I9b8gJQG6Op) | 3:47 |
 | 78 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 |
 | 79 | [Spend Christmas With You](https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Spend Christmas With You](https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ) | 3:15 |
-| 80 | [Soulful Christmas](https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:06 |
-| 81 | [Sunshine for Christmas](https://open.spotify.com/track/1XkTm4mzmhLSv0lLCpZSy4) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Sunshine for Christmas](https://open.spotify.com/album/0JOoOiIcMDVzYxlmJ1HIyQ) | 5:10 |
+| 80 | [Sunshine for Christmas](https://open.spotify.com/track/1XkTm4mzmhLSv0lLCpZSy4) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Sunshine for Christmas](https://open.spotify.com/album/0JOoOiIcMDVzYxlmJ1HIyQ) | 5:10 |
+| 81 | [Soulful Christmas](https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:06 |
 | 82 | [The Christmas Song](https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:10 |
 | 83 | [Mrs Clause](https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA) | [NYA](https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs) | [Mrs Clause](https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL) | 3:43 |
 | 84 | [Secret Santa](https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Secret Santa](https://open.spotify.com/album/1fJejxgB7258DWBWlqXCNk) | 2:59 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 94 | [I Want To Come Home For Christmas \- SaLaAM ReMi Remix](https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Save The World Remix Suite](https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9) | 4:59 |
 | 95 | [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 |
 | 96 | [Kisses On Christmas](https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eazy Christmas](https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT) | 2:59 |
-| 97 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd) | 2:31 |
-| 98 | [To: You](https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [To: You \(a holiday joint\)](https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df) | 3:12 |
+| 97 | [To: You](https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [To: You \(a holiday joint\)](https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df) | 3:12 |
+| 98 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd) | 2:31 |
 | 99 | [Christmastime is here](https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Christmastime is here](https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO) | 5:17 |
 | 100 | [This Christmas \(Could Be The One\)](https://open.spotify.com/track/02fFV8eUDKAyLayxw77RCQ) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 4:43 |
 

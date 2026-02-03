@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 248832,
       "name": "99 (feat. Daecolm)",
       "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
@@ -17848,7 +17848,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 216857,
       "name": "Closer to You",
       "url": "https://open.spotify.com/track/1ERrm54TavWXNueITuUYQm"
@@ -17964,7 +17964,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 219000,
       "name": "Clouds With No Water",
       "url": "https://open.spotify.com/track/15SGSpxfOcgEdG9QgN1v0h"
@@ -38192,7 +38192,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 252206,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/5ChNQASJKT0LsqrUGHhHlJ"
@@ -45476,7 +45476,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 274756,
       "name": "I've Been Saved",
       "url": "https://open.spotify.com/track/2a4tZg1sHEfxfkCbjTBlSh"
@@ -47292,6 +47292,28 @@
       "duration_ms": 210132,
       "name": "Infinitude",
       "url": "https://open.spotify.com/track/5skbihhycQ4XRA1aJ2XTEK"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202386,
+      "name": "Ingl\u00e9s En Miami",
+      "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
     },
     {
       "album": {
@@ -60814,7 +60836,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 121119,
       "name": "Missing You Tonight",
       "url": "https://open.spotify.com/track/6Cb7xiPsxrzwvYem08BGvR"
@@ -66128,7 +66150,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 199420,
       "name": "Not In Surrender",
       "url": "https://open.spotify.com/track/1RP8ezSFLQ3hIDQ3GqKbw7"
@@ -69602,7 +69624,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 195550,
       "name": "Over",
       "url": "https://open.spotify.com/track/2aa1zpBxCTT5yZ5MLCbkNn"
@@ -72742,7 +72764,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 225052,
       "name": "pocket poetry",
       "url": "https://open.spotify.com/track/5ElGvWkvJHUhytDVoO3Kpo"
@@ -91724,6 +91746,24 @@
       "duration_ms": 147712,
       "name": "The Bitter Taste Of Apples That Promised Everything",
       "url": "https://open.spotify.com/track/0d7J8gDmwnaQTTudGZcj3O"
+    },
+    {
+      "album": {
+        "name": "The Boy And The Swan",
+        "url": "https://open.spotify.com/album/1paQiW4t0eYyP4VvERxjjo"
+      },
+      "artists": [
+        {
+          "name": "Bird",
+          "url": "https://open.spotify.com/artist/2bdmTAor9skjnI4YX2Uk6N"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248375,
+      "name": "The Boy And The Swan",
+      "url": "https://open.spotify.com/track/3OhnER1sVL5LlIdeBAvkFZ"
     },
     {
       "album": {

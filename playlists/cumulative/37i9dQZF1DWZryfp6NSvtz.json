@@ -2974,10 +2974,28 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 203657,
       "name": "a minute a moment",
       "url": "https://open.spotify.com/track/5lKxgT7JyS3nqVVrypMonw"
+    },
+    {
+      "album": {
+        "name": "MONOSTATIC",
+        "url": "https://open.spotify.com/album/70WuZoQSaSw3sAS9hTu5cD"
+      },
+      "artists": [
+        {
+          "name": "Les Votives",
+          "url": "https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203657,
+      "name": "a minute a moment",
+      "url": "https://open.spotify.com/track/64nEsHY3vnRwKFcUjaz6cC"
     },
     {
       "album": {

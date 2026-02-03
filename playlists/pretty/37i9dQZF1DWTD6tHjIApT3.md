@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 茉ひる Mahiru
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,789 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,793 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 57 | [崖っぷちルビー \(VS\. アイナ・ジ・エンド\)](https://open.spotify.com/track/7HXZCDmWVLC3ygAcXw5I6q) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [崖っぷちルビー \(VS\. アイナ・ジ・エンド\)](https://open.spotify.com/album/7HjRgi9qbWdYzteTDPvNow) | 4:22 |
 | 58 | [雨景色](https://open.spotify.com/track/0S4vsLoQPVC46Ctnee2FxG) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [日陰](https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK) | 3:00 |
 | 59 | [What the Ripple Sees](https://open.spotify.com/track/2VEM6i965SAXK5A59lXmHa) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [What the Ripple Sees](https://open.spotify.com/album/78fhnG5ADzOETko64kqGtW) | 3:59 |
-| 60 | [ムリムリ進化論](https://open.spotify.com/track/50palGbYA85jbX8y79aqRK) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ムリムリ進化論](https://open.spotify.com/album/2Vfs0CtkNRPZx79hu7N3cf) | 3:14 |
-| 61 | [Latata](https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Laugh](https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ) | 3:06 |
-| 62 | [メンタルレンタル](https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [メンタルレンタル](https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB) | 3:13 |
+| 60 | [メンタルレンタル](https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [メンタルレンタル](https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB) | 3:13 |
+| 61 | [ムリムリ進化論](https://open.spotify.com/track/50palGbYA85jbX8y79aqRK) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ムリムリ進化論](https://open.spotify.com/album/2Vfs0CtkNRPZx79hu7N3cf) | 3:14 |
+| 62 | [Latata](https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Laugh](https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ) | 3:06 |
 | 63 | [生きて、燦々](https://open.spotify.com/track/1syODzS05DNwO7hiFjwn5z) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [生きて、燦々](https://open.spotify.com/album/2hRKTBG9RvaUklnfa9ouip) | 4:08 |
 | 64 | [Pastoral](https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Pastoral](https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8) | 4:05 |
 | 65 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 |
@@ -80,20 +80,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 70 | [Voyage](https://open.spotify.com/track/0djEHfacrcMs3DKuBba00C) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Voyage](https://open.spotify.com/album/3qUKioXfUeLyuzPtsYCNnL) | 3:38 |
 | 71 | [CUBE](https://open.spotify.com/track/0Utf1kTcynD7Fg5u2NXtZC) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [CUBE](https://open.spotify.com/album/0Pjd5SU2gAPoFnwnYj5x9C) | 3:22 |
 | 72 | [シーグラス](https://open.spotify.com/track/5GzVRXs8B9SqIceiMgAaLO) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [シーグラス](https://open.spotify.com/album/09lswKx1ZcQ9lLvM8VY5aZ) | 4:00 |
-| 73 | [グライド](https://open.spotify.com/track/6jg0v1Iy7Y1t2M2bcVrTRf) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [グライド](https://open.spotify.com/album/05RJSqyP55ocLOOyIXaNht) | 3:30 |
-| 74 | [Belt of Venus](https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Belt of Venus](https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0) | 5:29 |
-| 75 | [貴方観測日和](https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [貴方観測日和](https://open.spotify.com/album/52lmLSXU6HmDYwWUmhNtob) | 2:58 |
-| 76 | [愛](https://open.spotify.com/track/7pdQLxJPGgPfv9yyUGTJ82) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プラットフォーム](https://open.spotify.com/album/0Y6E8iONiviXsPqEPGzRsl) | 4:41 |
-| 77 | [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 |
-| 78 | [声の軌跡](https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj) | [Soala](https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer) | [声の軌跡](https://open.spotify.com/album/4n2Fbv9J5fqFbLnjBt5PTi) | 3:19 |
+| 73 | [声の軌跡](https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj) | [Soala](https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer) | [声の軌跡](https://open.spotify.com/album/4n2Fbv9J5fqFbLnjBt5PTi) | 3:19 |
+| 74 | [グライド](https://open.spotify.com/track/6jg0v1Iy7Y1t2M2bcVrTRf) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [グライド](https://open.spotify.com/album/05RJSqyP55ocLOOyIXaNht) | 3:30 |
+| 75 | [Belt of Venus](https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Belt of Venus](https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0) | 5:29 |
+| 76 | [貴方観測日和](https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [貴方観測日和](https://open.spotify.com/album/52lmLSXU6HmDYwWUmhNtob) | 2:58 |
+| 77 | [愛](https://open.spotify.com/track/7pdQLxJPGgPfv9yyUGTJ82) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プラットフォーム](https://open.spotify.com/album/0Y6E8iONiviXsPqEPGzRsl) | 4:41 |
+| 78 | [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 |
 | 79 | [ローズヒップティー](https://open.spotify.com/track/70b4ERyNm85qdsU0gdgc3M) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ローズヒップティー](https://open.spotify.com/album/42rLhEFaJghaRLnmEQv5Fs) | 3:12 |
 | 80 | [Thinking of You](https://open.spotify.com/track/5eIP2BdEEtv4EWIWGlJQV1) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Thinking of You](https://open.spotify.com/album/548AzNIS7caaO926qVC4Ob) | 2:59 |
 | 81 | [∞](https://open.spotify.com/track/6ZrX2IRdkDrYwLT2uwnllG) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [∞](https://open.spotify.com/album/43tk1aJAbtbnlIPDtrKIJ9) | 3:57 |
-| 82 | [ACTION](https://open.spotify.com/track/0Al26AUvUaOkySrlXeklV2) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [ACTION](https://open.spotify.com/album/5fG9xJaE05G3ffjqhXSXTt) | 3:19 |
-| 83 | [Happy Ever After](https://open.spotify.com/track/6ht5QWPzQSQInoRN2v87Ac) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Happy Ever After](https://open.spotify.com/album/6gvgtKoAbqP46vLw46Hrlg) | 3:45 |
+| 82 | [Happy Ever After](https://open.spotify.com/track/6ht5QWPzQSQInoRN2v87Ac) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Happy Ever After](https://open.spotify.com/album/6gvgtKoAbqP46vLw46Hrlg) | 3:45 |
+| 83 | [ACTION](https://open.spotify.com/track/0Al26AUvUaOkySrlXeklV2) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [ACTION](https://open.spotify.com/album/5fG9xJaE05G3ffjqhXSXTt) | 3:19 |
 | 84 | [素描](https://open.spotify.com/track/2WTDyaNE5JtuUWWFxy1XM9) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [素描](https://open.spotify.com/album/0OsYUg4pxgjKBJOqESsZju) | 4:35 |
-| 85 | [おとめの肖像](https://open.spotify.com/track/2cpQtKvfgzNQE8MGhOuM7v) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [おとめの肖像](https://open.spotify.com/album/3abSkOFoNQtxxIJ8GhLwy8) | 3:26 |
-| 86 | [The rose](https://open.spotify.com/track/6ZGcf4owKDzTv5tfLFNS5Y) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [The rose](https://open.spotify.com/album/5tHePKEB70C7xnNessYfKx) | 2:52 |
+| 85 | [The rose](https://open.spotify.com/track/6ZGcf4owKDzTv5tfLFNS5Y) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [The rose](https://open.spotify.com/album/5tHePKEB70C7xnNessYfKx) | 2:52 |
+| 86 | [おとめの肖像](https://open.spotify.com/track/2cpQtKvfgzNQE8MGhOuM7v) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [おとめの肖像](https://open.spotify.com/album/3abSkOFoNQtxxIJ8GhLwy8) | 3:26 |
 | 87 | [奇跡のようなこと](https://open.spotify.com/track/01sKD9SmQPM1rwN8Sc1cx5) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [奇跡のようなこと](https://open.spotify.com/album/7ucHTv7k6HRCHXEZ2db7YB) | 5:07 |
 | 88 | [キミがいないと](https://open.spotify.com/track/0DvgsF4TJLflTcGrlkIpKM) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [キミがいないと](https://open.spotify.com/album/0uT3czZrsT57vsb4R9KPG5) | 3:35 |
 | 89 | [ミギヒダリ](https://open.spotify.com/track/6oapMHhwhvjN0iQISpORq9) | [Yuka Nagase](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [ミギヒダリ](https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z) | 3:04 |

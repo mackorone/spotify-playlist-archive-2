@@ -4,7 +4,7 @@
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Ivete Sangalo
 
-547 songs - 1 day 2 hr 29 min
+548 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Na Maldade](https://open.spotify.com/track/3v6kV61B29SjuwnKd7fyBS) | [Simone Morena](https://open.spotify.com/artist/6ZLrr7ThUgVtMaIZRAhK9R) | [A Sofrência dos Paredões!](https://open.spotify.com/album/5qpun3JTycaXPVXO5x1MhT) | 3:12 | 2025-07-18 | 2025-08-23 |
 | [Nada Com Nada \- Ao Vivo](https://open.spotify.com/track/4PiA2gsPjf5jD1zlv1DeyH) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Atemporal \(Ao Vivo\)](https://open.spotify.com/album/1Rhh1ACMnj4WR7l0kMcvlh) | 2:41 | 2025-06-12 | 2025-11-15 |
 | [NEM AÍ](https://open.spotify.com/track/7CHfDDYWBiRH609GKdWgif) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [NEM AÍ](https://open.spotify.com/album/14LmGIr2aU8m2UA4cQhdvu) | 2:38 | 2023-10-27 | 2023-12-05 |
-| [Neon \- Spotify Sessions](https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ana Castela \- Spotify Sessions](https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q) | 3:44 | 2025-11-07 |  |
+| [Neon \- Spotify Sessions](https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ana Castela \- Spotify Sessions](https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q) | 3:44 | 2025-11-07 | 2026-02-03 |
 | [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 | 2023-05-15 | 2024-03-23 |
 | [No Som do Paredão](https://open.spotify.com/track/4g4Saf3cpS10gQ7W86rYby) | [Forró Boys](https://open.spotify.com/artist/0iEEXnLK5t87wh91rNYozv) | [No Som do Paredão](https://open.spotify.com/album/58datGfKJ5XzmPzCu7WB9W) | 3:11 | 2023-05-15 | 2023-07-22 |
 | [Nossas Fotos](https://open.spotify.com/track/7fW5TnCdNFhdPw7C2QakEO) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Nossas Fotos](https://open.spotify.com/album/3aVb56y4Uwa70qqEnlq4yi) | 2:50 | 2025-02-10 | 2025-04-12 |
@@ -419,6 +419,7 @@
 | [Raivinha](https://open.spotify.com/track/1Vtj48CdrulKHNzrEbn9M9) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Tony Salles](https://open.spotify.com/artist/65wb6r9GvL7JUySeWfDD9q) | [Raivinha](https://open.spotify.com/album/79jzOtiK7A8HH5JtfWLSOy) | 2:40 | 2025-01-17 | 2025-02-15 |
 | [Rala Xerekinha \- Joga No Coroa](https://open.spotify.com/track/47JkzmLFh3iPXmr9V1ADCx) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Wilson Castro](https://open.spotify.com/artist/3ePiu1aYb8oCSlWmJe1S6y) | [Rala Xerekinha \- Joga No Coroa](https://open.spotify.com/album/2fvBuZ3xMzGYsHMq0Ci3ju) | 2:54 | 2024-12-27 | 2025-05-16 |
 | [RAM TCHUM](https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [RAM TCHUM](https://open.spotify.com/album/4Z5EJkqY3ZiXIux4noy34c) | 2:09 | 2024-03-01 | 2024-12-27 |
+| [Raparigas](https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4) | [Filho do Piseiro](https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW) | [Só Poesias No Médio Grave \(Vol.1\)](https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS) | 2:16 | 2026-02-02 |  |
 | [Rave e Bagaceira](https://open.spotify.com/track/4cOvirEduQ56JOQVMdWz5A) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl), [Marquinhos Lima](https://open.spotify.com/artist/57mkZiyi1RbNRp58F3RACm) | [Embaixador do Piseiro em Casa \- Ao Vivo](https://open.spotify.com/album/2p8Ak3oGSuWvNZ5CW8pygX) | 2:55 | 2023-05-15 | 2023-10-17 |
 | [Rebolando](https://open.spotify.com/track/17xyLNjsAkAbMRzZl8eOJX) | [Kew](https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50) | [Rebolando](https://open.spotify.com/album/289saTjwe7KWkj0InLRX9t) | 1:46 | 2025-05-15 |  |
 | [recadin no espelho](https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [recadin no espelho](https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT) | 2:04 | 2024-02-09 | 2024-03-16 |

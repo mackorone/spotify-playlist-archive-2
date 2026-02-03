@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The country way of testifying. ",
+  "description": "The country way of testifying. Cover: Jelly Roll",
   "name": "Country by the Grace of God",
   "tracks": [
     {
@@ -1890,6 +1890,24 @@
       "duration_ms": 233146,
       "name": "Heart of God",
       "url": "https://open.spotify.com/track/6BhXU6XZMOZ4wz3tUcgkai"
+    },
+    {
+      "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181773,
+      "name": "Heart of Stone",
+      "url": "https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i"
     },
     {
       "album": {

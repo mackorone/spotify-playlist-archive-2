@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Dani Lia
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,435 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,373 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [schlechte tochter](https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [schlechte tochter](https://open.spotify.com/album/0XWjsDi93ZoA87yo3BRiyw) | 3:27 |
 | 2 | [Atemnot](https://open.spotify.com/track/6UhgRaImXqsKLZUOkyzFyx) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Atemnot](https://open.spotify.com/album/4gCWVd9F5dMXaIDLxWYmXa) | 2:15 |
-| 3 | [Renn](https://open.spotify.com/track/3uKAPZDXq6yE8Zqfhjbpp6) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Renn](https://open.spotify.com/album/6Kb7RsCVhNArBtaJkLOflg) | 2:46 |
+| 3 | [Renn!](https://open.spotify.com/track/3uKAPZDXq6yE8Zqfhjbpp6) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Renn!](https://open.spotify.com/album/6Kb7RsCVhNArBtaJkLOflg) | 2:46 |
 | 4 | [Niemand ist wie du](https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Niemand ist wie du](https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice) | 2:23 |
 | 5 | [heimkommen](https://open.spotify.com/track/23hkINwIA9UA9GVwfRneIo) | [Lea Marie](https://open.spotify.com/artist/5XIF2l3hXty0qWMNR58Bqk) | [heimkommen](https://open.spotify.com/album/1bNvs6IMhOHHmnYBSPcsn9) | 3:01 |
 | 6 | [Wenn ich tanz](https://open.spotify.com/track/6manz9cSmcEufbEknYWV6a) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Wenn ich tanz](https://open.spotify.com/album/1qxXxQq35rB8iUGIh4DBZ6) | 3:30 |

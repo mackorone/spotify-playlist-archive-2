@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 138888,
       "name": "Drink And Shout",
       "url": "https://open.spotify.com/track/6V5LMAIGNd7qMjco5JjUSa"
@@ -3960,7 +3960,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 220689,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1"
@@ -4548,6 +4548,32 @@
       "duration_ms": 136875,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/5QigdMkimi4NnfTmiOQEfS"
+    },
+    {
+      "album": {
+        "name": "Fendi 2",
+        "url": "https://open.spotify.com/album/65K3PJuqDDFu40Tk93vvxU"
+      },
+      "artists": [
+        {
+          "name": "Rakhim",
+          "url": "https://open.spotify.com/artist/78G8FdUykcn02tsgMLi3q0"
+        },
+        {
+          "name": "Khim",
+          "url": "https://open.spotify.com/artist/1TDYyvzorLvXWMBjHg3B9l"
+        },
+        {
+          "name": "ayv1o",
+          "url": "https://open.spotify.com/artist/2CeSBZrsPySr5XwmdoiGzv"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90526,
+      "name": "Fendi 2",
+      "url": "https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH"
     },
     {
       "album": {
@@ -8961,6 +8987,28 @@
     },
     {
       "album": {
+        "name": "MONTAGEM COMA",
+        "url": "https://open.spotify.com/album/5k8jDV518pIk74gBsU72fi"
+      },
+      "artists": [
+        {
+          "name": "ANDROMEDA",
+          "url": "https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS"
+        },
+        {
+          "name": "elysian.",
+          "url": "https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73480,
+      "name": "MONTAGEM COMA",
+      "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
+    },
+    {
+      "album": {
         "name": "Montagem Mysterious Game",
         "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
       },
@@ -8998,6 +9046,32 @@
       "duration_ms": 172968,
       "name": "MONTAGEM PR FUNK - Alesso Remix",
       "url": "https://open.spotify.com/track/58L5MMUqBCZROyYBrRHxsT"
+    },
+    {
+      "album": {
+        "name": "Montagem Supersonic",
+        "url": "https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC"
+      },
+      "artists": [
+        {
+          "name": "KHAOS",
+          "url": "https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ"
+        },
+        {
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
+        },
+        {
+          "name": "Mc Jaj\u00e1",
+          "url": "https://open.spotify.com/artist/1P2tOPRmSa1XzEdtIEYA9W"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87816,
+      "name": "Montagem Supersonic",
+      "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
     },
     {
       "album": {
@@ -9398,6 +9472,46 @@
       "duration_ms": 204003,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/35EpJBwkHu4uVBiQKokIPr"
+    },
+    {
+      "album": {
+        "name": "NO BATID\u00c3O",
+        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107933,
+      "name": "NO BATID\u00c3O - Slowed",
+      "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
+    },
+    {
+      "album": {
+        "name": "NO ERA AMOR",
+        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
+      },
+      "artists": [
+        {
+          "name": "DJ Asul",
+          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93066,
+      "name": "NO ERA AMOR - Slowed",
+      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
     },
     {
       "album": {
@@ -11832,7 +11946,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 189176,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/1tIYTeCrLtHTbZwmKXh625"
@@ -12904,7 +13018,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 167253,
       "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
       "url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp"
@@ -15198,7 +15312,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 195114,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"

@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Bounce that",
+        "url": "https://open.spotify.com/album/7flE1Q207y0if6jMh1foXX"
+      },
+      "artists": [
+        {
+          "name": "Billy Crawford",
+          "url": "https://open.spotify.com/artist/43CiK1548VVp2DT95joswS"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170738,
+      "name": "Bounce that",
+      "url": "https://open.spotify.com/track/6n96W9LX01FU9igJpSKX3O"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf"
       },
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 199708,
       "name": "Di Ko Kasalanan (feat. gins&melodies)",
       "url": "https://open.spotify.com/track/7q5sqrG9X5ZzwSqKIpM77F"
@@ -6341,6 +6359,24 @@
     },
     {
       "album": {
+        "name": "Pasakalye",
+        "url": "https://open.spotify.com/album/6wsRiy69i3LW7LSRF2Wlrg"
+      },
+      "artists": [
+        {
+          "name": "VXON",
+          "url": "https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214940,
+      "name": "pelikula",
+      "url": "https://open.spotify.com/track/0oJfnh4VKNasIDgzn9dUU6"
+    },
+    {
+      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/1B6czSiyIMwLWgPsCdXwc2"
       },
@@ -7662,6 +7698,24 @@
       "duration_ms": 266328,
       "name": "Staying On My Phone Tonight",
       "url": "https://open.spotify.com/track/3Ok8zKZ039wgZkXzwagnmP"
+    },
+    {
+      "album": {
+        "name": "Still_In_My_Room",
+        "url": "https://open.spotify.com/album/2LHgjQDo74QcJbVQ4xKCMB"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Still_In_My_Room",
+      "url": "https://open.spotify.com/track/0TwqT9S8k5aow0krEaWemc"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11191,
+  "num_followers": 11189,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-01-30 10:04:46",
       "album": {
+        "name": "Vlijmscherp",
+        "url": "https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 271717,
+      "name": "Vlijmscherp",
+      "url": "https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a"
+    },
+    {
+      "added_at": "2026-01-30 10:04:46",
+      "album": {
         "name": "Bang Dat Ik Spring",
         "url": "https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 186093,
       "name": "Bang Dat Ik Spring",
       "url": "https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R"
-    },
-    {
-      "added_at": "2026-01-30 10:04:46",
-      "album": {
-        "name": "Vlijmscherp",
-        "url": "https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb"
-      },
-      "artists": [
-        {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
-        }
-      ],
-      "duration_ms": 271717,
-      "name": "Vlijmscherp",
-      "url": "https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a"
     },
     {
       "added_at": "2026-01-30 10:04:46",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-01-30 10:04:46",
       "album": {
+        "name": "Zeg Me Hoe Het Moet",
+        "url": "https://open.spotify.com/album/212j764AlLIekepAcRJsy6"
+      },
+      "artists": [
+        {
+          "name": "nonchelange",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "duration_ms": 208999,
+      "name": "Zeg Me Hoe Het Moet",
+      "url": "https://open.spotify.com/track/3JZHFwhoi5UnxkothjScpS"
+    },
+    {
+      "added_at": "2026-01-30 10:04:46",
+      "album": {
         "name": "Niemandsland",
         "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 165210,
       "name": "Niemandsland",
       "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
-    },
-    {
-      "added_at": "2026-01-30 10:04:46",
-      "album": {
-        "name": "Zeg Me Hoe Het Moet",
-        "url": "https://open.spotify.com/album/212j764AlLIekepAcRJsy6"
-      },
-      "artists": [
-        {
-          "name": "nonchelange",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
-        }
-      ],
-      "duration_ms": 208999,
-      "name": "Zeg Me Hoe Het Moet",
-      "url": "https://open.spotify.com/track/3JZHFwhoi5UnxkothjScpS"
     },
     {
       "added_at": "2026-01-30 10:04:46",
@@ -747,22 +747,18 @@
     {
       "added_at": "2026-01-30 10:04:46",
       "album": {
-        "name": "Voor Alles",
-        "url": "https://open.spotify.com/album/3UlV5dLrM7tvIaXceGMUWp"
+        "name": "Ruimtepak",
+        "url": "https://open.spotify.com/album/2iFQCeI3lRBcVOSJRErJda"
       },
       "artists": [
         {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        },
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+          "name": "Eva van Manen",
+          "url": "https://open.spotify.com/artist/39fsjaOkLW4Gq6X6URiWRj"
         }
       ],
-      "duration_ms": 230971,
-      "name": "Voor Alles",
-      "url": "https://open.spotify.com/track/3YwGI3M4iKIb0eCR8s0Dn7"
+      "duration_ms": 221922,
+      "name": "Ruimtepak",
+      "url": "https://open.spotify.com/track/358hNGOO2Iu1kwX7fM18eI"
     },
     {
       "added_at": "2026-01-30 10:04:46",
@@ -783,18 +779,22 @@
     {
       "added_at": "2026-01-30 10:04:46",
       "album": {
-        "name": "Ruimtepak",
-        "url": "https://open.spotify.com/album/2iFQCeI3lRBcVOSJRErJda"
+        "name": "Voor Alles",
+        "url": "https://open.spotify.com/album/3UlV5dLrM7tvIaXceGMUWp"
       },
       "artists": [
         {
-          "name": "Eva van Manen",
-          "url": "https://open.spotify.com/artist/39fsjaOkLW4Gq6X6URiWRj"
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
         }
       ],
-      "duration_ms": 221922,
-      "name": "Ruimtepak",
-      "url": "https://open.spotify.com/track/358hNGOO2Iu1kwX7fM18eI"
+      "duration_ms": 230971,
+      "name": "Voor Alles",
+      "url": "https://open.spotify.com/track/3YwGI3M4iKIb0eCR8s0Dn7"
     },
     {
       "added_at": "2026-01-30 10:04:46",
@@ -815,6 +815,38 @@
     {
       "added_at": "2026-01-30 10:04:46",
       "album": {
+        "name": "We Slapen In De Lucht",
+        "url": "https://open.spotify.com/album/2W7h1XL3czf36B0jL8QKpN"
+      },
+      "artists": [
+        {
+          "name": "Igor",
+          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
+        }
+      ],
+      "duration_ms": 164043,
+      "name": "We Slapen In De Lucht",
+      "url": "https://open.spotify.com/track/5DAmgJJfetkfuKNwque4J0"
+    },
+    {
+      "added_at": "2026-01-30 10:04:46",
+      "album": {
+        "name": "Doe Het Voor Het Geld",
+        "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
+      },
+      "artists": [
+        {
+          "name": "nonchelange",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "duration_ms": 201981,
+      "name": "Doe Het Voor Het Geld",
+      "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
+    },
+    {
+      "added_at": "2026-01-30 10:04:46",
+      "album": {
         "name": "God Los",
         "url": "https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS"
       },
@@ -827,38 +859,6 @@
       "duration_ms": 223013,
       "name": "God Los",
       "url": "https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R"
-    },
-    {
-      "added_at": "2026-01-30 10:04:46",
-      "album": {
-        "name": "narcose",
-        "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
-      },
-      "artists": [
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 173816,
-      "name": "narcose",
-      "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
-    },
-    {
-      "added_at": "2026-01-30 10:04:46",
-      "album": {
-        "name": "In De Steek",
-        "url": "https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "In De Steek",
-      "url": "https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj"
     }
   ],
   "unique_name": "indie.nl",

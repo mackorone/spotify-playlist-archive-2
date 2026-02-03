@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: DZWS, Vali Miron ",
-  "num_followers": 22465,
+  "num_followers": 22472,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
+        "name": "\u0218mecher",
+        "url": "https://open.spotify.com/album/2y0W7bqPbV8D7gSKJIDuCX"
+      },
+      "artists": [
+        {
+          "name": "Badd G",
+          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
+        }
+      ],
+      "duration_ms": 156562,
+      "name": "\u0218mecher",
+      "url": "https://open.spotify.com/track/047EZz6lObOJGbisz9BQ1V"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
         "name": "Asta-i \u021aara Mea",
         "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 169711,
       "name": "Asta-i \u021aara Mea",
       "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
-        "name": "\u0218mecher",
-        "url": "https://open.spotify.com/album/2y0W7bqPbV8D7gSKJIDuCX"
-      },
-      "artists": [
-        {
-          "name": "Badd G",
-          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
-        }
-      ],
-      "duration_ms": 156562,
-      "name": "\u0218mecher",
-      "url": "https://open.spotify.com/track/047EZz6lObOJGbisz9BQ1V"
     },
     {
       "added_at": "2026-01-15 22:00:28",

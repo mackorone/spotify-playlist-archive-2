@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Opeth",
-  "num_followers": 566406,
+  "num_followers": 566438,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5xD9RF7OL25i2xOaCnzuf7"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 247019,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/4hLvUbH5dkCByoNFsM02Js"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Les Chants de l'Aurore",
         "url": "https://open.spotify.com/album/24nGcIMJdnThRbgxpovlpy"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 317946,
       "name": "Flamme Jumelle",
       "url": "https://open.spotify.com/track/6qWYIFxZV0ZkmTynlhR1qk"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5xD9RF7OL25i2xOaCnzuf7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 247019,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/4hLvUbH5dkCByoNFsM02Js"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "In Stasis",
-        "url": "https://open.spotify.com/album/3Q0ElZiEA7GBDcqNyeF71r"
-      },
-      "artists": [
-        {
-          "name": "Monuments",
-          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
-        }
-      ],
-      "duration_ms": 270546,
-      "name": "Makeshift Harmony",
-      "url": "https://open.spotify.com/track/5hT9plaY8kgBZSmCUpfV47"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "CURE",
         "url": "https://open.spotify.com/album/1SOXDy18xKOgjygDKqCHWv"
       },
@@ -1039,22 +1023,18 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Stonewalker",
-        "url": "https://open.spotify.com/album/0AfCFzK9Q86MY6sJgw70Gj"
+        "name": "In Stasis",
+        "url": "https://open.spotify.com/album/3Q0ElZiEA7GBDcqNyeF71r"
       },
       "artists": [
         {
-          "name": "I Built the Sky",
-          "url": "https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN"
-        },
-        {
-          "name": "Jake Howsam Lowe",
-          "url": "https://open.spotify.com/artist/4L53eKiTXJsZeaX0Q9jxMI"
+          "name": "Monuments",
+          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
         }
       ],
-      "duration_ms": 254032,
-      "name": "Stonewalker",
-      "url": "https://open.spotify.com/track/2P3OwLmz095p0PIMwkrQOh"
+      "duration_ms": 270546,
+      "name": "Makeshift Harmony",
+      "url": "https://open.spotify.com/track/5hT9plaY8kgBZSmCUpfV47"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1079,6 +1059,26 @@
       "duration_ms": 302866,
       "name": "Cannibal (feat. Anders Frid\u00e9n)",
       "url": "https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Stonewalker",
+        "url": "https://open.spotify.com/album/0AfCFzK9Q86MY6sJgw70Gj"
+      },
+      "artists": [
+        {
+          "name": "I Built the Sky",
+          "url": "https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN"
+        },
+        {
+          "name": "Jake Howsam Lowe",
+          "url": "https://open.spotify.com/artist/4L53eKiTXJsZeaX0Q9jxMI"
+        }
+      ],
+      "duration_ms": 254032,
+      "name": "Stonewalker",
+      "url": "https://open.spotify.com/track/2P3OwLmz095p0PIMwkrQOh"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Phronesis",
-        "url": "https://open.spotify.com/album/3TolVtFlrVEwzIwpOXEW75"
-      },
-      "artists": [
-        {
-          "name": "Monuments",
-          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
-        }
-      ],
-      "duration_ms": 274528,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/6dfiHpYb2ciw2urKenpdyC"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/5X4CRGrc6q1ivnwgifLJJi"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 293382,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/3sRWzDsE5oZ0IKpJwpzpqn"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Phronesis",
+        "url": "https://open.spotify.com/album/3TolVtFlrVEwzIwpOXEW75"
+      },
+      "artists": [
+        {
+          "name": "Monuments",
+          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
+        }
+      ],
+      "duration_ms": 274528,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/6dfiHpYb2ciw2urKenpdyC"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Holocene",
-        "url": "https://open.spotify.com/album/1JS5Xf3DiLfVAb904ZGlyT"
-      },
-      "artists": [
-        {
-          "name": "The Ocean",
-          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
-        }
-      ],
-      "duration_ms": 304440,
-      "name": "Preboreal",
-      "url": "https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Black Water",
         "url": "https://open.spotify.com/album/4VVqbpx3nWQT1MguesdSvL"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 269271,
       "name": "Black Water",
       "url": "https://open.spotify.com/track/1l3sMzBRc8dgpKzj2wm368"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Holocene",
+        "url": "https://open.spotify.com/album/1JS5Xf3DiLfVAb904ZGlyT"
+      },
+      "artists": [
+        {
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+        }
+      ],
+      "duration_ms": 304440,
+      "name": "Preboreal",
+      "url": "https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1771,22 +1771,18 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Illuminate",
-        "url": "https://open.spotify.com/album/5ZQOrK16Mv53eEE7LjGALS"
+        "name": "Deadlock",
+        "url": "https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR"
       },
       "artists": [
         {
-          "name": "Anup Sastry",
-          "url": "https://open.spotify.com/artist/0sCAofrHFyDFPxXA0B7a86"
-        },
-        {
-          "name": "Andy Cizek",
-          "url": "https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta"
+          "name": "InVisions",
+          "url": "https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR"
         }
       ],
-      "duration_ms": 304864,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/3rJD4jqjvYUgM6F0LVSMWG"
+      "duration_ms": 272757,
+      "name": "The 6 6 9",
+      "url": "https://open.spotify.com/track/1x3D10RwWsAbJaohK2XeRX"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1807,18 +1803,38 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Deadlock",
-        "url": "https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR"
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/5ZQOrK16Mv53eEE7LjGALS"
       },
       "artists": [
         {
-          "name": "InVisions",
-          "url": "https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR"
+          "name": "Anup Sastry",
+          "url": "https://open.spotify.com/artist/0sCAofrHFyDFPxXA0B7a86"
+        },
+        {
+          "name": "Andy Cizek",
+          "url": "https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta"
         }
       ],
-      "duration_ms": 272757,
-      "name": "The 6 6 9",
-      "url": "https://open.spotify.com/track/1x3D10RwWsAbJaohK2XeRX"
+      "duration_ms": 304864,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/3rJD4jqjvYUgM6F0LVSMWG"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "m\u00e5sstaden (forte)",
+        "url": "https://open.spotify.com/album/5QGxkAyvsgRiQQw6K04ftz"
+      },
+      "artists": [
+        {
+          "name": "Vildhjarta",
+          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
+        }
+      ],
+      "duration_ms": 231757,
+      "name": "Eternal Golden Monk - forte",
+      "url": "https://open.spotify.com/track/63lzuPkE4FkPW7SPyDolSi"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1859,22 +1875,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "m\u00e5sstaden (forte)",
-        "url": "https://open.spotify.com/album/5QGxkAyvsgRiQQw6K04ftz"
-      },
-      "artists": [
-        {
-          "name": "Vildhjarta",
-          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
-        }
-      ],
-      "duration_ms": 231757,
-      "name": "Eternal Golden Monk - forte",
-      "url": "https://open.spotify.com/track/63lzuPkE4FkPW7SPyDolSi"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Psychotic Banana",
         "url": "https://open.spotify.com/album/1qDg0ds6zDDmYT7nCv9ccw"
       },
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Break My Lying Tongue",
-        "url": "https://open.spotify.com/album/6c98Sbfq18dN7DYxxLIOUs"
-      },
-      "artists": [
-        {
-          "name": "VOLA",
-          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Break My Lying Tongue",
-      "url": "https://open.spotify.com/track/5mkuAmQFK8QxgH1FVlJhAF"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Like a Sunken Ship",
         "url": "https://open.spotify.com/album/6YUOHmRM9RlwTqpsfbCZ1W"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 244470,
       "name": "Like a Sunken Ship",
       "url": "https://open.spotify.com/track/3x2ZT5BPPLCKX0ZuRD6Oaq"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Break My Lying Tongue",
+        "url": "https://open.spotify.com/album/6c98Sbfq18dN7DYxxLIOUs"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Break My Lying Tongue",
+      "url": "https://open.spotify.com/track/5mkuAmQFK8QxgH1FVlJhAF"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Your Little Suburbia Is In Ruins",
-        "url": "https://open.spotify.com/album/0vXAO3JDpkIOZgaXD4Hg1N"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 245325,
-      "name": "Your Little Suburbia Is In Ruins",
-      "url": "https://open.spotify.com/track/5ov5AZ68uU6HpXk5y7j92G"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
         "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 227972,
       "name": "The End",
       "url": "https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Your Little Suburbia Is In Ruins",
+        "url": "https://open.spotify.com/album/0vXAO3JDpkIOZgaXD4Hg1N"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 245325,
+      "name": "Your Little Suburbia Is In Ruins",
+      "url": "https://open.spotify.com/track/5ov5AZ68uU6HpXk5y7j92G"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
+        "name": "Legion",
+        "url": "https://open.spotify.com/album/0HqM65LT46hyFSk18D4UgW"
+      },
+      "artists": [
+        {
+          "name": "TesseracT",
+          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Legion",
+      "url": "https://open.spotify.com/track/4gHIRlbHfLKLMThA0beE5h"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
         "name": "Fend You Off",
         "url": "https://open.spotify.com/album/7HFYz0fonPkHyxqAiJ1peV"
       },
@@ -2159,18 +2175,18 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Legion",
-        "url": "https://open.spotify.com/album/0HqM65LT46hyFSk18D4UgW"
+        "name": "Silently Walking Alone",
+        "url": "https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J"
       },
       "artists": [
         {
-          "name": "TesseracT",
-          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
+          "name": "Leprous",
+          "url": "https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Legion",
-      "url": "https://open.spotify.com/track/4gHIRlbHfLKLMThA0beE5h"
+      "duration_ms": 245077,
+      "name": "Silently Walking Alone",
+      "url": "https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2191,22 +2207,6 @@
       "duration_ms": 382420,
       "name": "Splitting the Soul (feat. Ihsahn)",
       "url": "https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "Silently Walking Alone",
-        "url": "https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J"
-      },
-      "artists": [
-        {
-          "name": "Leprous",
-          "url": "https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5"
-        }
-      ],
-      "duration_ms": 245077,
-      "name": "Silently Walking Alone",
-      "url": "https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/2hF7dY29EsfBvXe65PYPBd"
+      },
+      "artists": [
+        {
+          "name": "TesseracT",
+          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
+        }
+      ],
+      "duration_ms": 393882,
+      "name": "Eden - P O R T A L S",
+      "url": "https://open.spotify.com/track/62duewknNqt9fZhBoYAanE"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
         "name": "Nightingale",
         "url": "https://open.spotify.com/album/0zfKKza4jm4n4L2Z78bOd2"
       },
@@ -2307,38 +2323,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Stories to Forget",
-        "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
-      },
-      "artists": [
-        {
-          "name": "Words Of Farewell",
-          "url": "https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO"
-        }
-      ],
-      "duration_ms": 281187,
-      "name": "A Lesser King",
-      "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "PORTALS",
-        "url": "https://open.spotify.com/album/2hF7dY29EsfBvXe65PYPBd"
-      },
-      "artists": [
-        {
-          "name": "TesseracT",
-          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
-        }
-      ],
-      "duration_ms": 393882,
-      "name": "Eden - P O R T A L S",
-      "url": "https://open.spotify.com/track/62duewknNqt9fZhBoYAanE"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Terror Management Theory",
         "url": "https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 421601,
       "name": "Through the Sands of Time",
       "url": "https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Stories to Forget",
+        "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
+      },
+      "artists": [
+        {
+          "name": "Words Of Farewell",
+          "url": "https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO"
+        }
+      ],
+      "duration_ms": 281187,
+      "name": "A Lesser King",
+      "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
     },
     {
       "added_at": "2025-11-28 04:00:03",

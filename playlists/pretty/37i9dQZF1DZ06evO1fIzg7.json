@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20578,
+  "num_followers": 20582,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAC70R4w9uNNgUnUFEovUIxV",
+  "snapshot_id": "aX6XgAAAAACHw8+bJaO/8FodYxQ7qLJ+",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Catch You",
-      "url": "https://open.spotify.com/track/1LjXn0nG37aBWPPnDOq1nQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
         "url": "https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 302106,
       "name": "True Faith - BBC Session",
       "url": "https://open.spotify.com/track/5smOkIgfWYhfZmAoDM71Qk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Catch You",
+      "url": "https://open.spotify.com/track/1LjXn0nG37aBWPPnDOq1nQ"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 256386,
-      "name": "Today The Sun's On Us",
-      "url": "https://open.spotify.com/track/3KqFrUNkrv3TntnvM3hx8T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 268213,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/26wfj0NDkkO2NIx1jPplPA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 256386,
+      "name": "Today The Sun's On Us",
+      "url": "https://open.spotify.com/track/3KqFrUNkrv3TntnvM3hx8T"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "If I Can't Dance",
-      "url": "https://open.spotify.com/track/1FBPdXaWvaAOsoZxAkzDEz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 265186,
       "name": "Is It Any Wonder",
       "url": "https://open.spotify.com/track/1gbDVb8GzhAL7TOZ5HeLeU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "If I Can't Dance",
+      "url": "https://open.spotify.com/track/1FBPdXaWvaAOsoZxAkzDEz"
     },
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "While You're Still Young (From ''Everybody's Talking About Jamie'')",
+        "url": "https://open.spotify.com/album/4EJNd5H3wQlvA0TFwDXQIA"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "The Feeling",
+          "url": "https://open.spotify.com/artist/4AksvCnkZaQoTu1nJr62Db"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "While You're Still Young - From ''Everybody's Talking About Jamie''",
+      "url": "https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only Child",
         "url": "https://open.spotify.com/album/5eWXw9T1dhm982KAjqh2WB"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 225000,
       "name": "Only Child - Atlantic Remix",
       "url": "https://open.spotify.com/track/3ctNp68FT0mcCQA7sgT5V1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "While You're Still Young (From ''Everybody's Talking About Jamie'')",
-        "url": "https://open.spotify.com/album/4EJNd5H3wQlvA0TFwDXQIA"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "The Feeling",
-          "url": "https://open.spotify.com/artist/4AksvCnkZaQoTu1nJr62Db"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "While You're Still Young - From ''Everybody's Talking About Jamie''",
-      "url": "https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf"
     },
     {
       "added_at": null,

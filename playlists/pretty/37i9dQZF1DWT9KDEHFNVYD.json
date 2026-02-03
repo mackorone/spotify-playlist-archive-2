@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 16469,
+  "num_followers": 16472,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "With Dim Light",
-        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
+        "name": "Before And After Science",
+        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
       },
       "artists": [
         {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 346883,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
+      "duration_ms": 236239,
+      "name": "King's Lead Hat - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -283,18 +283,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Before And After Science",
-        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
+        "name": "With Dim Light",
+        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
         }
       ],
-      "duration_ms": 236239,
-      "name": "King's Lead Hat - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv"
+      "duration_ms": 346883,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Gnod Drop Out With White Hills II",
-        "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
-      },
-      "artists": [
-        {
-          "name": "Gnod",
-          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
-        },
-        {
-          "name": "White Hills",
-          "url": "https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX"
-        }
-      ],
-      "duration_ms": 661120,
-      "name": "Drop Out",
-      "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "La D\u00fcsseldorf",
         "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 223066,
       "name": "Magic Kraut",
       "url": "https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Gnod Drop Out With White Hills II",
+        "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
+      },
+      "artists": [
+        {
+          "name": "Gnod",
+          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
+        },
+        {
+          "name": "White Hills",
+          "url": "https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX"
+        }
+      ],
+      "duration_ms": 661120,
+      "name": "Drop Out",
+      "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "La D\u00fcsseldorf",
+        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
+      },
+      "artists": [
+        {
+          "name": "La D\u00fcsseldorf",
+          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "La D\u00fcsseldorf",
+      "url": "https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Panther Rotate",
         "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 389869,
       "name": "Ecdysis!",
       "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "La D\u00fcsseldorf",
-        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
-      },
-      "artists": [
-        {
-          "name": "La D\u00fcsseldorf",
-          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "La D\u00fcsseldorf",
-      "url": "https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT"
     },
     {
       "added_at": "2023-09-04 19:37:16",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Gnod Drop Out With White Hills II",
-        "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
-      },
-      "artists": [
-        {
-          "name": "Gnod",
-          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
-        },
-        {
-          "name": "White Hills",
-          "url": "https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX"
-        }
-      ],
-      "duration_ms": 581906,
-      "name": "Run-a-Round",
-      "url": "https://open.spotify.com/track/4PCJV3YbgMwrTrhKsk12bN"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Ship",
         "url": "https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 246861,
       "name": "Ship - EP Version",
       "url": "https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Gnod Drop Out With White Hills II",
+        "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
+      },
+      "artists": [
+        {
+          "name": "Gnod",
+          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
+        },
+        {
+          "name": "White Hills",
+          "url": "https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX"
+        }
+      ],
+      "duration_ms": 581906,
+      "name": "Run-a-Round",
+      "url": "https://open.spotify.com/track/4PCJV3YbgMwrTrhKsk12bN"
     },
     {
       "added_at": "2021-07-30 14:56:06",

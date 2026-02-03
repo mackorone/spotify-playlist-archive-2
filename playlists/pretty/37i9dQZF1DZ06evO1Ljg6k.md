@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 
 > This is D'Angelo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,279 likes - 35 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,471 likes - 35 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 | 31 | [Tell Me](https://open.spotify.com/track/2Xr7QVhLRYwXRR1oteyo9I) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 4:37 |
 | 32 | [Ain't That Easy](https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 4:49 |
 | 33 | [Jonz In My Bones \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 3:55 |
-| 34 | [Water No Get Enemy](https://open.spotify.com/track/5WFSTTKZxDnvr0EVBJTFpe) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [The Soultronics](https://open.spotify.com/artist/4b3u2gT5QT5SApOmMUGDeN), [Positive Force](https://open.spotify.com/artist/6kDuO7eG1AJika9vpTF6yG) | [Red Hot + Riot](https://open.spotify.com/album/1A8CTj3nDNQrxNs6kXEYsq) | 10:10 |
-| 35 | [Believe](https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ) | 2:56 |
+| 34 | [Believe](https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ) | 2:56 |
+| 35 | [Water No Get Enemy](https://open.spotify.com/track/5WFSTTKZxDnvr0EVBJTFpe) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [The Soultronics](https://open.spotify.com/artist/4b3u2gT5QT5SApOmMUGDeN), [Positive Force](https://open.spotify.com/artist/6kDuO7eG1AJika9vpTF6yG) | [Red Hot + Riot](https://open.spotify.com/album/1A8CTj3nDNQrxNs6kXEYsq) | 10:10 |
 
-Snapshot ID: `aX1GAAAAAAAui7umHmWxfZfWAodUU7Aa`
+Snapshot ID: `aX6XgAAAAADwP1s5PxyQxYwUiG+Fy0E9`

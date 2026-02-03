@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,966 likes - 100 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,022 likes - 100 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 86 | [Kuligugu Kimi \- Live](https://open.spotify.com/track/1HUE7OwElBeDZVtkm5MDXX) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 18: One Purpose \(Live at CityHill Church, Durban 2014\)](https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr) | 8:34 |
 | 87 | [iZono Zami](https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp) | [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [iZono Zami](https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b) | 5:19 |
 | 88 | [Yiwo Lawa Amandla](https://open.spotify.com/track/0TlaxuJDdtZuTnTjgkNzEa) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Mandla Tshabalala; House of Grace Choir](https://open.spotify.com/artist/2ahSbEy0lmfTqf1iK3kQrU) | [Victorious in His Presence](https://open.spotify.com/album/0Zcuz4iyNg81kcMSY140p6) | 8:28 |
-| 89 | [Izindela Zakhe \- Live at The Playhouse](https://open.spotify.com/track/3rOm6rtALrqKEoBjwhY9Rr) | [Ntokozo Ngongoma](https://open.spotify.com/artist/5IGR73moHopegctzMOpM10) | [Izindela Zakhe \(Live at The Playhouse\)](https://open.spotify.com/album/44qTX6pyLy6y5TNrhy3SzW) | 6:28 |
+| 89 | [Izindlela Zakhe \- Live at The Playhouse](https://open.spotify.com/track/3rOm6rtALrqKEoBjwhY9Rr) | [Ntokozo Ngongoma](https://open.spotify.com/artist/5IGR73moHopegctzMOpM10) | [Izindlela Zakhe \(Live at The Playhouse\)](https://open.spotify.com/album/44qTX6pyLy6y5TNrhy3SzW) | 6:28 |
 | 90 | [Re boka Wena \- Live](https://open.spotify.com/track/7oA77phphX31LmuPwOkoQt) | [Ntsiki Kanelo](https://open.spotify.com/artist/5gZ4ZnnaTvwyagJ3oxZ8dp) | [Re boka Wena \(Live\)](https://open.spotify.com/album/5CzWYKCpr1muWsxDdroqrY) | 5:22 |
 | 91 | [Wayekhona](https://open.spotify.com/track/68V1UG1Jx42cflLoTQ7eAD) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Wayekhona](https://open.spotify.com/album/1N6h6jtN6arTTFihVnQofV) | 4:00 |
 | 92 | [Jehova Retshepile Wena](https://open.spotify.com/track/3NIngZRxMFF6OX4um51JMB) | [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Another Level Of Worship](https://open.spotify.com/album/0Efc952Zwr7eco7WyiWoJx) | 5:41 |

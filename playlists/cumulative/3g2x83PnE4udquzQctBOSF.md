@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-479 songs - 1 day 4 hr 48 min
+480 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Stop Time](https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Stop Time](https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4) | 3:13 | 2023-07-30 | 2023-08-28 |
 | [Stronger](https://open.spotify.com/track/1gqRLGe1HWXqwaRw4NOMyp) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Stronger](https://open.spotify.com/album/5IqP9C9cQdux5zJpGUOdPI) | 2:32 | 2023-04-09 | 2023-05-01 |
 | [STUPID](https://open.spotify.com/track/3yW4OUmhCGjgj7hb11hMMP) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [STUPID](https://open.spotify.com/album/3TeajY9TawyGrr0r3Gfvwg) | 5:27 | 2023-07-02 | 2023-07-31 |
+| [Stupid Love](https://open.spotify.com/track/3JIo2eOLK87AaZ8Y4sNOoF) | [Daniele Polge](https://open.spotify.com/artist/5VW0vABbPzjpG5B81MfyiZ) | [Stupid Love](https://open.spotify.com/album/6c4haH9o8Rss7VdErplr7K) | 4:22 | 2026-02-02 |  |
 | [Sueltate](https://open.spotify.com/track/6H9nRRIKgRARzEWxxKrInp) | [Dre Mendez](https://open.spotify.com/artist/7IgWNyKhkmxREElrD3XEvk), [Caleb Dent](https://open.spotify.com/artist/3V6IeJyXSj7ApMbvv1ZqWE) | [Sueltate](https://open.spotify.com/album/7gsKayaP9XMyAaLF3RGArF) | 3:09 | 2023-04-30 | 2023-05-30 |
 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 | 2024-05-19 | 2024-07-08 |
 | [Superlicious](https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs) | 3:01 | 2023-03-19 | 2023-04-10 |

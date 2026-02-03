@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 114404,
+  "num_followers": 114413,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
+        "name": "J\u00f3venes Promesas de la Delincuencia",
+        "url": "https://open.spotify.com/album/6IRgFasohZEQPq4O9KPRQz"
+      },
+      "artists": [
+        {
+          "name": "Rat-Zinger",
+          "url": "https://open.spotify.com/artist/1WVMR6t5Uqq5IBqQiFYKTR"
+        }
+      ],
+      "duration_ms": 171005,
+      "name": "J\u00f3venes Promesas de la Delincuencia",
+      "url": "https://open.spotify.com/track/5TJt3gSmt1X1h9HkxwNpHJ"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "J\u00f3venes Promesas de la Delincuencia",
-        "url": "https://open.spotify.com/album/6IRgFasohZEQPq4O9KPRQz"
-      },
-      "artists": [
-        {
-          "name": "Rat-Zinger",
-          "url": "https://open.spotify.com/artist/1WVMR6t5Uqq5IBqQiFYKTR"
-        }
-      ],
-      "duration_ms": 171005,
-      "name": "J\u00f3venes Promesas de la Delincuencia",
-      "url": "https://open.spotify.com/track/5TJt3gSmt1X1h9HkxwNpHJ"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "Quiero que sepas",
         "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
       },
@@ -903,26 +903,6 @@
       "duration_ms": 170662,
       "name": "Quiero que sepas",
       "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
-        "name": "Corona de espinas",
-        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
-      },
-      "artists": [
-        {
-          "name": "Bihotza",
-          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
-        },
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Corona de espinas",
-      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -943,6 +923,26 @@
       "duration_ms": 266698,
       "name": "Una y Mil Veces",
       "url": "https://open.spotify.com/track/38ynrtrPa6laWTufKuW7vK"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "Corona de espinas",
+        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
+      },
+      "artists": [
+        {
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Corona de espinas",
+      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Esperando a Mi Enemigo",
-        "url": "https://open.spotify.com/album/6lqFTzBGCIBHlsVHMSU8cY"
+        "name": "Ni una Sola Palabra",
+        "url": "https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka"
       },
       "artists": [
         {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+          "name": "Me Fritos and the Gimme Cheetos",
+          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
         }
       ],
-      "duration_ms": 196405,
-      "name": "Esperando a Mi Enemigo",
-      "url": "https://open.spotify.com/track/28Hrxc3DjI3GxszzvYZLxz"
+      "duration_ms": 148000,
+      "name": "Ni una Sola Palabra",
+      "url": "https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Ni una Sola Palabra",
-        "url": "https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka"
+        "name": "Esperando a Mi Enemigo",
+        "url": "https://open.spotify.com/album/6lqFTzBGCIBHlsVHMSU8cY"
       },
       "artists": [
         {
-          "name": "Me Fritos and the Gimme Cheetos",
-          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Ni una Sola Palabra",
-      "url": "https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN"
+      "duration_ms": 196405,
+      "name": "Esperando a Mi Enemigo",
+      "url": "https://open.spotify.com/track/28Hrxc3DjI3GxszzvYZLxz"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
+        "name": "no quiero irme",
+        "url": "https://open.spotify.com/album/5oqJC5aOyKm22QgwyoBZOR"
+      },
+      "artists": [
+        {
+          "name": "Galgo Diamante",
+          "url": "https://open.spotify.com/artist/36I1EHmwcYh6yIBl57eGta"
+        },
+        {
+          "name": "TETAS FR\u00cdAS",
+          "url": "https://open.spotify.com/artist/6Lplaf8qcklV41FjuyBw8S"
+        }
+      ],
+      "duration_ms": 131125,
+      "name": "no quiero irme",
+      "url": "https://open.spotify.com/track/17OaJWKUg7PtCzsqMFwezi"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
         "name": "Amaneceres",
         "url": "https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 137963,
       "name": "Putos Nazis",
       "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
-        "name": "no quiero irme",
-        "url": "https://open.spotify.com/album/5oqJC5aOyKm22QgwyoBZOR"
-      },
-      "artists": [
-        {
-          "name": "Galgo Diamante",
-          "url": "https://open.spotify.com/artist/36I1EHmwcYh6yIBl57eGta"
-        },
-        {
-          "name": "TETAS FR\u00cdAS",
-          "url": "https://open.spotify.com/artist/6Lplaf8qcklV41FjuyBw8S"
-        }
-      ],
-      "duration_ms": 131125,
-      "name": "no quiero irme",
-      "url": "https://open.spotify.com/track/17OaJWKUg7PtCzsqMFwezi"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "ORAIN ETA BETI",
-        "url": "https://open.spotify.com/album/5a0fsO4ZjntLu9BFVfmyjm"
-      },
-      "artists": [
-        {
-          "name": "Aingura",
-          "url": "https://open.spotify.com/artist/1jrIwoUl4w35uVHRn1wDBm"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "Betirako negua",
-      "url": "https://open.spotify.com/track/3HvXfESQiCdOVhk1keTL6g"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "Mr. Smith",
         "url": "https://open.spotify.com/album/1GPa67jyk9HWtUvthqMDrD"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 173670,
       "name": "Mr. Smith",
       "url": "https://open.spotify.com/track/3O3ln8WSwDrBIymu08KAW4"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "ORAIN ETA BETI",
+        "url": "https://open.spotify.com/album/5a0fsO4ZjntLu9BFVfmyjm"
+      },
+      "artists": [
+        {
+          "name": "Aingura",
+          "url": "https://open.spotify.com/artist/1jrIwoUl4w35uVHRn1wDBm"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Betirako negua",
+      "url": "https://open.spotify.com/track/3HvXfESQiCdOVhk1keTL6g"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1720,9 +1720,9 @@
           "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
         }
       ],
-      "duration_ms": 170686,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
+      "duration_ms": 249719,
+      "name": "Kualkier D\u00eda",
+      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
     },
     {
       "added_at": "2026-02-01 23:01:19",

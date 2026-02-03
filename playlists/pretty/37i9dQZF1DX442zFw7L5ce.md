@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,431 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,469 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 21 | [Ladiyo](https://open.spotify.com/track/2QFFI5i22rkoF14Qpwwok3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 4:41 |
 | 22 | [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/track/0tyHtkMv3PMWIUbK0ZqOHi) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/album/5qYCzmTt8Vnw9B0Ok95HtI) | 4:59 |
 | 23 | [Evaraina Chustuntara](https://open.spotify.com/track/7vHmN4UodN2EGwQJMIvTe0) | [Smita](https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve) | [Anukokunda Oka Roju \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PiAeBEGIWDTRinfBVRqdt) | 3:15 |
-| 24 | [Ye Chilipi](https://open.spotify.com/track/3LYt0b1ljHUYoG5YL2WwWP) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl) | [Gharshana\-New](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 5:15 |
-| 25 | [Deva Raaja \(From "Baby"\)](https://open.spotify.com/track/6KUAJvrLISj8EytPvGu7Yu) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Deva Raaja \(From "Baby"\)](https://open.spotify.com/album/0aSxprg9rrJscWulKritHu) | 5:41 |
+| 24 | [Deva Raaja \(From "Baby"\)](https://open.spotify.com/track/6KUAJvrLISj8EytPvGu7Yu) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Deva Raaja \(From "Baby"\)](https://open.spotify.com/album/0aSxprg9rrJscWulKritHu) | 5:41 |
+| 25 | [Ye Chilipi](https://open.spotify.com/track/3LYt0b1ljHUYoG5YL2WwWP) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl) | [Gharshana\-New](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 5:15 |
 | 26 | [Sugar Baby \(From "Thug Life"\) \(Telugu\)](https://open.spotify.com/track/1JvPjn3wZgJvnlud83q4uU) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Alexandra Joy](https://open.spotify.com/artist/3JohY0Ur2mASWnvr1Q6x79), [Shuba](https://open.spotify.com/artist/6CeM0KkzPqfufYDUJjYpll), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Anantha Sriram](https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq) | [Sugar Baby \(From "Thug Life"\) \(Telugu\)](https://open.spotify.com/album/1RJC1EuuWWPNE2W0cUB3kl) | 3:19 |
 | 27 | [Angana](https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Angana](https://open.spotify.com/album/4cd0KliADTNGuHrdLXiOgv) | 3:40 |
 | 28 | [Idhedho Bagundhe](https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Anitha](https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 4:26 |

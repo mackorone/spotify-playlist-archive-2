@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: giuliette price",
-  "num_followers": 12721,
+  "num_followers": 12729,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,42 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
+        "name": "Reawakening",
+        "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
+      },
+      "artists": [
+        {
+          "name": "Keenan Meyer",
+          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
+        },
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        }
+      ],
+      "duration_ms": 449112,
+      "name": "A Fallist's Prayer",
+      "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "Hamba No Malume",
+        "url": "https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ"
+      },
+      "artists": [
+        {
+          "name": "Herbie Tsoaeli",
+          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
+        }
+      ],
+      "duration_ms": 298346,
+      "name": "Hamba No Malume",
+      "url": "https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
         "name": "Njia",
         "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
       },
@@ -387,42 +423,6 @@
       "duration_ms": 113750,
       "name": "Njia",
       "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "Hamba No Malume",
-        "url": "https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ"
-      },
-      "artists": [
-        {
-          "name": "Herbie Tsoaeli",
-          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
-        }
-      ],
-      "duration_ms": 298346,
-      "name": "Hamba No Malume",
-      "url": "https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "Reawakening",
-        "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
-      },
-      "artists": [
-        {
-          "name": "Keenan Meyer",
-          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
-        },
-        {
-          "name": "Muneyi",
-          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
-        }
-      ],
-      "duration_ms": 449112,
-      "name": "A Fallist's Prayer",
-      "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -775,18 +775,18 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "P (x) J",
-        "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
       },
       "artists": [
         {
-          "name": "NALEDI",
-          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
+          "name": "Lucas Senyatso",
+          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
         }
       ],
-      "duration_ms": 272120,
-      "name": "P (x) J",
-      "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
+      "duration_ms": 236202,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
+        "name": "P (x) J",
+        "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
       },
       "artists": [
         {
-          "name": "Lucas Senyatso",
-          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
+          "name": "NALEDI",
+          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
         }
       ],
-      "duration_ms": 236202,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
+      "duration_ms": 272120,
+      "name": "P (x) J",
+      "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
     },
     {
       "added_at": "2025-11-07 00:07:51",

@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Zo\u00e9",
-  "num_followers": 296277,
+  "num_followers": 296244,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
+        "name": "Un Minuto Con Vos",
+        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 245467,
+      "name": "Un Minuto Con Vos",
+      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
         "name": "T\u00fa Ya No Dices Nada",
         "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 215940,
       "name": "T\u00fa Ya No Dices Nada",
       "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
-        "name": "Un Minuto Con Vos",
-        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 245467,
-      "name": "Un Minuto Con Vos",
-      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Invulnerables",
-        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Invulnerables",
-      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "Mi Tormenta (feat. DannyLux)",
         "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 202479,
       "name": "Mi Tormenta (feat. DannyLux)",
       "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "Invulnerables",
+        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "Invulnerables",
+      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Historia de Amor",
-        "url": "https://open.spotify.com/album/4OGa3bFsQKnnbrPhHCa3lr"
-      },
-      "artists": [
-        {
-          "name": "Franno",
-          "url": "https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW"
-        }
-      ],
-      "duration_ms": 214990,
-      "name": "Vuelve con \u00c9l",
-      "url": "https://open.spotify.com/track/6J0EiR87CyBeAUnHH05yKn"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/6HeMGetB5gKBMVuYsmOn3g"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 234115,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/52j7qytl2Cp3gM811huoLr"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "Historia de Amor",
+        "url": "https://open.spotify.com/album/4OGa3bFsQKnnbrPhHCa3lr"
+      },
+      "artists": [
+        {
+          "name": "Franno",
+          "url": "https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW"
+        }
+      ],
+      "duration_ms": 214990,
+      "name": "Vuelve con \u00c9l",
+      "url": "https://open.spotify.com/track/6J0EiR87CyBeAUnHH05yKn"
     },
     {
       "added_at": "2026-01-16 05:27:49",

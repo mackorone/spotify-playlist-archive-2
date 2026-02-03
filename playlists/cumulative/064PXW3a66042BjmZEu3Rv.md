@@ -4,7 +4,7 @@
 
 > De beste Nederlandse muziek vind je hier! Met o.a\. Kensington \(cover\), Frenna, Noano, Bilal Wahib en meer
 
-126 songs - 6 hr 6 min
+127 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [I Will Go There](https://open.spotify.com/track/4k7HwknBn8gSBRgqgIMvba) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [I Will Go There](https://open.spotify.com/album/6rmoINRdaMiAsPKrAeJMlt) | 3:25 | 2025-07-04 | 2025-08-22 |
 | [I've Been Loving You Too Long](https://open.spotify.com/track/1mUIwJfnYVcekP5TmjPy5G) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [I've Been Loving You Too Long](https://open.spotify.com/album/3pED3uMrj2dxPX93RH2pEV) | 3:01 | 2025-07-04 | 2025-08-22 |
 | [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 | 2025-07-04 |  |
+| [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37) | 3:17 | 2026-02-02 |  |
 | [Ik Wil Dansen](https://open.spotify.com/track/70IUWsl6v4II26gg2iBeOi) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Ik Wil Dansen](https://open.spotify.com/album/0Ku8sIT1HY8FennikXphVF) | 3:14 | 2025-07-04 | 2025-08-22 |
 | [Ik Wil Dat Je Liegt](https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Ik Wil Dat Je Liegt](https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV) | 2:54 | 2025-08-27 |  |
 | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz) | 2:54 | 2025-07-04 |  |

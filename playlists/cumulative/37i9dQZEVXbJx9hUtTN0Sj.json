@@ -632,7 +632,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 228571,
       "name": "227kg",
       "url": "https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx"
@@ -15818,7 +15818,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 138005,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/29rkopcjI0XyhncrHOdWm0"
@@ -18664,7 +18664,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 155000,
       "name": "Harder Dan Ik Spenden Kan",
       "url": "https://open.spotify.com/track/4M5df297Jy9j5eMb5smzNz"
@@ -19166,6 +19166,32 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "album": {
+        "name": "HEAVENLY JUMPSTYLE",
+        "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
+      },
+      "artists": [
+        {
+          "name": "TWXNY",
+          "url": "https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI"
+        },
+        {
+          "name": "Sxilwix",
+          "url": "https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v"
+        },
+        {
+          "name": "INNXCENCE",
+          "url": "https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114461,
+      "name": "HEAVENLY JUMPSTYLE",
+      "url": "https://open.spotify.com/track/6kamZOSWb8ahxRkrYARPNG"
     },
     {
       "album": {
@@ -23213,6 +23239,24 @@
     },
     {
       "album": {
+        "name": "JE NE SERAI JAMAIS.",
+        "url": "https://open.spotify.com/album/7jhFTnyEI0HlSu1cztxbW5"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246186,
+      "name": "JE NE SERAI JAMAIS.",
+      "url": "https://open.spotify.com/track/7vdBAYpq0yZlntJ3zcWWHK"
+    },
+    {
+      "album": {
         "name": "Sains et saufs",
         "url": "https://open.spotify.com/album/1M3DBg5gnXZB4P80Iagl01"
       },
@@ -23906,7 +23950,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "KATYUSHA",
       "url": "https://open.spotify.com/track/05axRIbcO9nhPiuLRz2pOW"
@@ -23950,7 +23994,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 156001,
       "name": "KATYUSHA",
       "url": "https://open.spotify.com/track/5rX0dJIOu65lJTX7IPiv9h"
@@ -37280,7 +37324,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 234151,
       "name": "PUNK ROCKY",
       "url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"

@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Bounce that",
+        "url": "https://open.spotify.com/album/7flE1Q207y0if6jMh1foXX"
+      },
+      "artists": [
+        {
+          "name": "Billy Crawford",
+          "url": "https://open.spotify.com/artist/43CiK1548VVp2DT95joswS"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170738,
+      "name": "Bounce that",
+      "url": "https://open.spotify.com/track/6n96W9LX01FU9igJpSKX3O"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf"
       },
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 246346,
       "name": "Lihim",
       "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 218051,
       "name": "Palagi",
       "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
@@ -2037,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "Still_In_My_Room",
+        "url": "https://open.spotify.com/album/2LHgjQDo74QcJbVQ4xKCMB"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Still_In_My_Room",
+      "url": "https://open.spotify.com/track/0TwqT9S8k5aow0krEaWemc"
+    },
+    {
+      "album": {
         "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
         "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
       },
@@ -2048,7 +2084,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 214438,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
@@ -2168,7 +2204,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 180727,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
@@ -2208,6 +2244,24 @@
       "duration_ms": 222446,
       "name": "Tadhana",
       "url": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG"
+    },
+    {
+      "album": {
+        "name": "Tahan Na",
+        "url": "https://open.spotify.com/album/1NTG6rU6zEePxAYonxPeTU"
+      },
+      "artists": [
+        {
+          "name": "Mikee Sarmiento",
+          "url": "https://open.spotify.com/artist/48rxnfZyO2oDLWaSaqgocx"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256920,
+      "name": "Tahan Na",
+      "url": "https://open.spotify.com/track/4JFTGCfjfQsWDEXVt7M52F"
     },
     {
       "album": {
@@ -2432,7 +2486,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 224318,
       "name": "Time",
       "url": "https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF"
@@ -2533,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Tumaya",
+        "url": "https://open.spotify.com/album/3AY8kdUZXjy0AX7GA4GwwH"
+      },
+      "artists": [
+        {
+          "name": "Bert Symoun",
+          "url": "https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207661,
+      "name": "Tumaya",
+      "url": "https://open.spotify.com/track/5bXkfZuaIcNe64TsZKBQ7y"
+    },
+    {
+      "album": {
         "name": "Uhaw (Tayong Lahat)",
         "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
       },
@@ -2566,6 +2638,24 @@
       "duration_ms": 184203,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "album": {
+        "name": "WAG KA MUNANG UMUWI",
+        "url": "https://open.spotify.com/album/3H2oInIVWWImLTeXMBnAk8"
+      },
+      "artists": [
+        {
+          "name": "JAO",
+          "url": "https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "WAG KA MUNANG UMUWI",
+      "url": "https://open.spotify.com/track/6Ca0Ug48rEjQglEZ9SuBsx"
     },
     {
       "album": {

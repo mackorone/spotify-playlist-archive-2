@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: \nDIMO REX)",
-  "num_followers": 1093231,
+  "num_followers": 1093317,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-01-31 15:29:30",
       "album": {
-        "name": "Wait On Me - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "Wait On Me",
-      "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
-    },
-    {
-      "added_at": "2026-01-31 15:29:30",
-      "album": {
         "name": "4SHOBOIZ MIXTAPE",
         "url": "https://open.spotify.com/album/3XzKcbKfLPWSOG7BJbC98O"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 135000,
       "name": "Ejeh",
       "url": "https://open.spotify.com/track/0SfFCjldRnnbsIL65yqaEd"
+    },
+    {
+      "added_at": "2026-01-31 15:29:30",
+      "album": {
+        "name": "Wait On Me - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "Wait On Me",
+      "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
     },
     {
       "added_at": "2026-01-31 15:29:30",
@@ -624,7 +624,7 @@
       "added_at": "2026-01-31 15:29:30",
       "album": {
         "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 179560,
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
+      "duration_ms": 171160,
+      "name": "For Us",
+      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
     },
     {
       "added_at": "2026-01-31 15:29:30",
@@ -816,7 +816,7 @@
       "added_at": "2026-01-31 15:29:30",
       "album": {
         "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 171160,
-      "name": "For Us",
-      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
+      "duration_ms": 179560,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
     },
     {
       "added_at": "2026-01-31 15:29:30",

@@ -127665,28 +127665,6 @@
     },
     {
       "album": {
-        "name": "Ride (feat. IO) [Remix]",
-        "url": "https://open.spotify.com/album/0tszxEUKldzRspJnTACvLK"
-      },
-      "artists": [
-        {
-          "name": "SWEE",
-          "url": "https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx"
-        },
-        {
-          "name": "IO",
-          "url": "https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd"
-        }
-      ],
-      "date_added": "2026-02-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 273325,
-      "name": "Ride (feat. IO) - Remix",
-      "url": "https://open.spotify.com/track/2xowEfMazyKWkMGPUCaM72"
-    },
-    {
-      "album": {
         "name": "Ride (feat. Vela)",
         "url": "https://open.spotify.com/album/7LRx896OsrA33BROV8dMgr"
       },
@@ -127746,6 +127724,28 @@
       "duration_ms": 213243,
       "name": "Ride on you",
       "url": "https://open.spotify.com/track/6mfSGXDt227Mh7CzZSQ4T2"
+    },
+    {
+      "album": {
+        "name": "Ride Remix (feat. IO)",
+        "url": "https://open.spotify.com/album/0tszxEUKldzRspJnTACvLK"
+      },
+      "artists": [
+        {
+          "name": "SWEE",
+          "url": "https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx"
+        },
+        {
+          "name": "IO",
+          "url": "https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273325,
+      "name": "Ride Remix (feat. IO)",
+      "url": "https://open.spotify.com/track/2xowEfMazyKWkMGPUCaM72"
     },
     {
       "album": {

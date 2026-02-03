@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 롤링쿼츠 \(Rolling Quartz\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 윤하 \(Younha\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,117 songs - 2 day 19 hr 56 min
+1,119 songs - 2 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 | 2025-08-26 | 2025-10-20 |
 | [BOCA](https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:09 | 2023-07-31 | 2024-11-07 |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Lose Myself］](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2022-04-12 | 2023-08-02 |
+| [Bomb Bomb](https://open.spotify.com/track/2So5dexAv9rAS7IZLOgeJD) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [Terror Man Opening \(Original Soundtrack\)](https://open.spotify.com/album/3Utvw2Z8Tk9e2vxa4Z4yMy) | 3:19 | 2026-02-02 |  |
 | [BONVOYAGE](https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:33 | 2024-06-05 | 2024-11-07 |
 | [Bonvoyage](https://open.spotify.com/track/7qreGECwKa5YDEFbeFh1UV) | [Kim Daniel](https://open.spotify.com/artist/3lr26NDbIkMbrcgwWOTSAY), [1of1](https://open.spotify.com/artist/1sGk6wUBzohfkATUg1wDIt) | [Lost in Starlight \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6q4sOzWDO7LuVIm3UkraRn) | 4:55 | 2025-06-02 | 2025-06-21 |
 | [bow\-wow](https://open.spotify.com/track/6Dk2MbaVTSQZPj2ZIN5ZyS) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [bow\-wow](https://open.spotify.com/album/1tq9UiuOW8kT9h2fOSPMPA) | 3:17 | 2024-03-21 | 2024-05-10 |
@@ -268,7 +269,7 @@
 | [Euphoria \(Feat\. 123, Milena\)](https://open.spotify.com/track/32oDQqwLzv074PThEuBVpp) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [123](https://open.spotify.com/artist/1cy1oWKlBfDuxBvo9ZiodY), [Milena](https://open.spotify.com/artist/2DMUCQ7G60U498FYCe1lvk) | [Euphoria \(Feat\. 123, Milena\)](https://open.spotify.com/album/6r2MYiNYGJkixMSlWO9sWp) | 3:14 | 2022-05-03 | 2022-07-24 |
 | [EUROPA](https://open.spotify.com/track/4W4VAVZneeUiwApBDFFMoB) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [EUROPA](https://open.spotify.com/album/5yMQGkOurBkgYa6f1vDof9) | 2:51 | 2023-07-24 | 2023-08-18 |
 | [Evening Glow](https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM) | [Dayangsung](https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z) | [A World Full Of Paper Planes & Balloons](https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd) | 3:41 | 2022-09-30 | 2022-10-19 |
-| [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2022-04-12 |  |
+| [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2022-04-12 | 2026-02-03 |
 | [EVER](https://open.spotify.com/track/7kZDgpf6ebA3dlgt0vdRv2) | [Hebi](https://open.spotify.com/artist/0hJZEIh0mcRY6wl5LAlpDv) | [EVER](https://open.spotify.com/album/6Hd2ZOJ8Lt8ePovI7ZFpTw) | 3:21 | 2025-03-31 | 2025-04-12 |
 | [Everlasting](https://open.spotify.com/track/2WBN1JHsM6jVzEqRGsjz1z) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Everlasting](https://open.spotify.com/album/2JAijBbqdC7WGqqcpTE17D) | 4:17 | 2025-05-28 | 2025-06-23 |
 | [Everything's okay](https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [Everything's okay](https://open.spotify.com/album/5Bg8xKlw7sVy6hCLiK5S9O) | 4:15 | 2025-08-12 | 2025-09-04 |
@@ -807,6 +808,7 @@
 | [Scream](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 | 2022-04-12 | 2023-08-04 |
 | [Scream](https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:24 | 2023-07-31 | 2024-03-22 |
 | [Screen](https://open.spotify.com/track/1wLv73icHBnWJ8LgxMx5WN) | [Goat](https://open.spotify.com/artist/1f8OrSiIMAkvBfrStI8bRd) | [Fade out](https://open.spotify.com/album/08bVdRiFhfs9yzaNZwOYax) | 3:47 | 2022-04-22 | 2022-07-27 |
+| [Seasonal Crime](https://open.spotify.com/track/5texqcjmxCt08GyAb268T3) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Seasonal Crime](https://open.spotify.com/album/4yo0aF3isKwdSvRPNb75ew) | 3:42 | 2026-02-02 |  |
 | [seasons](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 4:15 | 2025-03-17 | 2026-01-23 |
 | [Secret Diary](https://open.spotify.com/track/495QLv4XTKlMgcfKXmyuwZ) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:41 | 2024-02-22 | 2024-03-28 |
 | [Seems Like I Like You](https://open.spotify.com/track/4K76C8cUPv12U81amSZ6lC) | [Cloud koh](https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs) | [Motel California OST Part.9](https://open.spotify.com/album/4qvELrEZOBSLTtGk39Sc0c) | 2:56 | 2025-02-10 | 2025-03-18 |
@@ -975,7 +977,7 @@
 | [Trippin′ \(feat\. ASH ISLAND\)](https://open.spotify.com/track/6QCzWMWJSSRk671GThuYlt) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [SUJI](https://open.spotify.com/album/3MEafRR73bc02D1xhjlBnp) | 2:31 | 2026-01-15 | 2026-01-23 |
 | [TROUBLE MAKER](https://open.spotify.com/track/05p6Ez6LMSZm6Quhb0QhLj) | [901DCOLA](https://open.spotify.com/artist/0OvaIuuU6DY7SRh0Gq9MUv) | [TROUBLE MAKER](https://open.spotify.com/album/53gExAk44UuhdZLKIc3q7l) | 3:30 | 2022-05-11 | 2022-07-02 |
 | [Tutorial](https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V) | [Fishingirls](https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI) | [Visible World](https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX) | 3:12 | 2024-03-21 | 2024-05-10 |
-| [TWICE](https://open.spotify.com/track/47zLJ4mEGvxYmZisFQ5XqO) | [TwoFour](https://open.spotify.com/artist/5tRW37747efEvmj4iS56KF) | [TWICE](https://open.spotify.com/album/5zWqWj8fwJtridV5nxj69B) | 3:00 | 2026-01-30 |  |
+| [TWICE](https://open.spotify.com/track/47zLJ4mEGvxYmZisFQ5XqO) | [TwoFour](https://open.spotify.com/artist/5tRW37747efEvmj4iS56KF) | [TWICE](https://open.spotify.com/album/5zWqWj8fwJtridV5nxj69B) | 3:00 | 2026-01-30 | 2026-02-03 |
 | [Twilight](https://open.spotify.com/track/6cVJX9UtgpKipNUCjpPJG8) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Twilight](https://open.spotify.com/album/4JMRCWEQ9RGYs1ta3YWU5c) | 4:43 | 2022-05-24 | 2022-06-14 |
 | [Unbelievable](https://open.spotify.com/track/6q4L77QLqOzilFDrLCWc5a) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSERT COIN](https://open.spotify.com/album/1IcPMPH0AAF4WKoXlMAhod) | 3:57 | 2023-02-23 | 2023-04-16 |
 | [Uncertainty Principle \(Feat\. Dawon\)](https://open.spotify.com/track/0qEt2Iw9yurShrf7fEjSut) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 31](https://open.spotify.com/album/6XqtegrzV6dqdPu35TBDtJ) | 2:49 | 2022-04-21 | 2022-07-28 |

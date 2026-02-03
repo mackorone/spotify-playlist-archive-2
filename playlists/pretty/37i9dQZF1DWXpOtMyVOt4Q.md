@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Relaxed beats to game, vibe and stay unbothered
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,842 likes - 45 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,957 likes - 45 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,42 +16,42 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 6 | [Divine](https://open.spotify.com/track/6vBQFZDHN7aVnAvFIIHexe) | [Pjor](https://open.spotify.com/artist/5ONyfDG8cTuCReEUHd9LVn) | [Divine](https://open.spotify.com/album/19vJ65AYXDgFlEQUVtKMOY) | 2:45 |
 | 7 | [Shapes & Forms](https://open.spotify.com/track/6MY9QEbJR60Ol0JuFlb3LN) | [Skolnick](https://open.spotify.com/artist/4PoidmOtSTFplZWtUC2qLt) | [Shapes & Forms](https://open.spotify.com/album/4XcnfbY3SfKYGY8bWuNzD6) | 2:25 |
 | 8 | [evolve](https://open.spotify.com/track/4hRI77Bb2TowMFo6Q6eAjx) | [bandhagen](https://open.spotify.com/artist/7efEpfTivjYIe4X8MA8CwI) | [evolve](https://open.spotify.com/album/3kosX2YV4edTgux7lFjbap) | 2:24 |
-| 9 | [Ocean Eyes](https://open.spotify.com/track/2PMZHLdLaf5WUibfsL6nIU) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Ocean Eyes](https://open.spotify.com/album/3bbovdHQD22JBvkp6kW1rm) | 2:25 |
-| 10 | [Atmosphere](https://open.spotify.com/track/10EPY9wlmI7LLRi3lTsEgk) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Atmosphere](https://open.spotify.com/album/0cNwBKREOg2PtYb5rwMVwa) | 2:49 |
-| 11 | [frsh pow](https://open.spotify.com/track/0KQvfKa48pbZRx0ZJLPoZs) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [frsh pow](https://open.spotify.com/album/4ig4XXAqt6C0RJ20eSqx2f) | 2:02 |
-| 12 | [Traveling](https://open.spotify.com/track/28HpN7HuwsdfnsSNXXEzF3) | [Axel J](https://open.spotify.com/artist/6NKPl5Tq1ohr1qJ3SswzB1) | [Traveling](https://open.spotify.com/album/1KMErx1KZFptweLCOPAIXl) | 2:13 |
-| 13 | [4U](https://open.spotify.com/track/3LPps8vSpnngb4iJfmfDmM) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [4U](https://open.spotify.com/album/0izvBvB5oOxhG3NIsOAlKJ) | 2:52 |
-| 14 | [Two weeks](https://open.spotify.com/track/4dnmlJGYnCLEBKYVN91ZD0) | [Eli Coast](https://open.spotify.com/artist/3RIH3BLArADeRmHKQpDqg0) | [Two weeks](https://open.spotify.com/album/47V4O36o1RrMphQj5nEjR4) | 2:19 |
-| 15 | [When the City Was Quiet](https://open.spotify.com/track/5AudrkLWtPGGyHb459MagI) | [Crystal Motel](https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3) | [When the City Was Quiet](https://open.spotify.com/album/7Gz7z4o1bFmp3vceUQdwfC) | 2:05 |
-| 16 | [Avocado Toast](https://open.spotify.com/track/2plFlYCQyRuzKbkoH5kTIf) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Avocado Toast](https://open.spotify.com/album/0iHjx8UAoq81Mn95RKOCOq) | 2:26 |
-| 17 | [Atlas](https://open.spotify.com/track/5l3ydjkyj3Q6QmRftWvxDU) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Atlas](https://open.spotify.com/album/6qoLOPbl1OAkFvNT4fmpZM) | 3:05 |
-| 18 | [End of Story](https://open.spotify.com/track/5EdLzVEBvZgxGgxZviMvGk) | [IBBIZ](https://open.spotify.com/artist/2NdwSYVe4Jeia8NWr2Rb14) | [End of Story](https://open.spotify.com/album/1me7BXh024dO5wsWukirT4) | 2:39 |
-| 19 | [First Juice](https://open.spotify.com/track/5LXurYxYNMyJKCSMq9dyIK) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [First Juice](https://open.spotify.com/album/6kwdmcC0pL681Yq7CvlerR) | 2:14 |
-| 20 | [Youth](https://open.spotify.com/track/3htQLQ5sBwlf8q7BwFHCyR) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Youth](https://open.spotify.com/album/7sTZ8nxCThLx23NJyXgVZY) | 2:22 |
-| 21 | [Mistline](https://open.spotify.com/track/6Tsjt5Z1rPyYHpUT0rtimv) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Mistline](https://open.spotify.com/album/5q7UFqrJAgGZ9aNrrjEX3F) | 2:10 |
-| 22 | [Powerhouse](https://open.spotify.com/track/0Ygqq5WvKENWa8BeM1gNqB) | [crayg](https://open.spotify.com/artist/2V6p3TuP6FqZBVpnbmfvHg) | [Powerhouse](https://open.spotify.com/album/1RDFTYNdYt9gi0TkFCaFRF) | 3:26 |
-| 23 | [Transmission](https://open.spotify.com/track/44RvNrpD0C0rWabbBQxXBk) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Transmission](https://open.spotify.com/album/0pUtXTBg1cfX4dwTXD61Nl) | 2:42 |
-| 24 | [Desires](https://open.spotify.com/track/74tYo3hYlBcYDDBTyvGYzy) | [Les Trouble](https://open.spotify.com/artist/0J5Be1SrvRoeVtSRLU1yvH) | [Desires](https://open.spotify.com/album/0UqiNoGpy9MPJ23CFFviDy) | 2:48 |
-| 25 | [Stay Cool](https://open.spotify.com/track/2XDhFE4NXiX7Ks3fhDnEG7) | [Niriko](https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M) | [Stay Cool](https://open.spotify.com/album/3jTKFgtbKKxWTSv5yd9CWa) | 3:03 |
-| 26 | [Arcade Lounge](https://open.spotify.com/track/3ctC0SWZpD2T2O2qfKvXPy) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Arcade Lounge](https://open.spotify.com/album/0ccC9OTqqjk07KVlLCemms) | 3:16 |
-| 27 | [Slow Orbit](https://open.spotify.com/track/3OqQMDKvkhyBblLYYEHmQR) | [Ghost in Delay](https://open.spotify.com/artist/3sCPjqofyWElqBsicU6DVh) | [Slow Orbit](https://open.spotify.com/album/5L5GUjk8wxSpWemLMBHG24) | 2:10 |
-| 28 | [Elysium Yellow](https://open.spotify.com/track/331fCeg3vW7mVp9Mhav8RL) | [Iceman Gill](https://open.spotify.com/artist/2c2fEhrfXzHrZGyvEB5sGD) | [Elysium Yellow](https://open.spotify.com/album/53g6HDLGpPueOKvVudgcib) | 4:48 |
-| 29 | [Lost in 84](https://open.spotify.com/track/0EZkhX2ROJGSxsAaD3qLxA) | [After Dark](https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k) | [Lost in 84](https://open.spotify.com/album/4OWyKPQutGfrKK4sINSvmh) | 2:34 |
-| 30 | [FALLING](https://open.spotify.com/track/0qDagm0KQUPtM0wb4aIONO) | [Zeyn Mont](https://open.spotify.com/artist/0lySKTNxvsJvalP2ByB507) | [FALLING](https://open.spotify.com/album/5DNWZP57imjuKsOtrzPjGp) | 2:41 |
-| 31 | [Sun Is Rising](https://open.spotify.com/track/7MZSPsubzlMQZmkAdS8DC0) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Sun Is Rising](https://open.spotify.com/album/22fiezlhpvZiWGehefcQLq) | 2:45 |
-| 32 | [All Good](https://open.spotify.com/track/6SNmgTxRrgIcoZGkfHefTR) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [All Good](https://open.spotify.com/album/20M62reRZt3OEtj2VHUZ28) | 2:54 |
-| 33 | [Tequila Sun](https://open.spotify.com/track/3MYrBewCA82sZt2HpFLAgJ) | [Aicnelav](https://open.spotify.com/artist/11YvJIJglT5UQVFmo5w1CR) | [Tequila Sun](https://open.spotify.com/album/2PQwsBfToS0aNx5GI4VWr0) | 2:21 |
-| 34 | [Bit of Window](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Bit of Window](https://open.spotify.com/album/0FNmtTsexTnrZApBaH9zap) | 2:01 |
-| 35 | [Sonic Crust](https://open.spotify.com/track/3PUABi6AYXExUa44lPz8s1) | [Pregotti](https://open.spotify.com/artist/61n561e59fjXTcUtwLf7G8) | [Sonic Crust](https://open.spotify.com/album/0rERDqbfo4xWs5YCwR7YuK) | 3:50 |
-| 36 | [Trivialist](https://open.spotify.com/track/7AUR7NO6muOUxyfXpgp1o0) | [Jaque D](https://open.spotify.com/artist/2KGHya3JdnknEvzsnaKEK1) | [Trivialist](https://open.spotify.com/album/0bILy3n9WNbLccuVlRQ5pM) | 2:28 |
-| 37 | [Born Fighting](https://open.spotify.com/track/55ld5zFPQG6tR9vRxFLmMx) | [Hans Blu](https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5) | [Born Fighting](https://open.spotify.com/album/2QG0q0Liq7yU0nzGsQPG8j) | 3:08 |
-| 38 | [BUTTERFLY EFFECT](https://open.spotify.com/track/5iNd2j2BsJvG27QohTUlNn) | [ANDER](https://open.spotify.com/artist/1Ih8d8wf2fpDnux2NmeU6d) | [BUTTERFLY EFFECT](https://open.spotify.com/album/5FoEBAa5jL8AJZIGWeKzaN) | 2:22 |
-| 39 | [Back South](https://open.spotify.com/track/62OIO8DSeWPaxRAXGb4VD6) | [Didi Henric](https://open.spotify.com/artist/6lV1RWdJ0XSM4OxR8QbYyk) | [Back South](https://open.spotify.com/album/1JOUblUjhKl8EmwS0LHsVS) | 2:32 |
-| 40 | [You Name It](https://open.spotify.com/track/7nZvvpkKGAOaVtURxr0eMd) | [PeachPuff](https://open.spotify.com/artist/5GSiEiqF4H8J4yr33wNbM6) | [You Name It](https://open.spotify.com/album/2lorb74Vp13J3WBm7Kgsuo) | 2:40 |
-| 41 | [Aurality](https://open.spotify.com/track/2iqp6CP9WEVCuTp9a2sJlj) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Aurality](https://open.spotify.com/album/4JXdHdxxp9HYhFHNXdWntY) | 4:31 |
-| 42 | [I Got You](https://open.spotify.com/track/1EdwWmhxpktSBKIV6J4wUJ) | [Sean Rivers](https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R) | [I Got You](https://open.spotify.com/album/0c9MPsA7YYy54S0byo7M7P) | 2:37 |
-| 43 | [Timid Space](https://open.spotify.com/track/3LXB0Akbt9dfbwlQYcBdX4) | [Yamouss](https://open.spotify.com/artist/2eJOQMKGwHuTNSArWx1pgR) | [Timid Space](https://open.spotify.com/album/5z4XT6kWqk4t7t2JyRtk9f) | 2:59 |
-| 44 | [In the Dark](https://open.spotify.com/track/2NpTkuYal66mwh3s36tHVE) | [Purple Dive](https://open.spotify.com/artist/1e8fzmX4tpKKjWoPk7tW7n) | [In the Dark](https://open.spotify.com/album/6i7CeVJanxewX9rODf7pJT) | 3:52 |
+| 9 | [Atmosphere](https://open.spotify.com/track/10EPY9wlmI7LLRi3lTsEgk) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Atmosphere](https://open.spotify.com/album/0cNwBKREOg2PtYb5rwMVwa) | 2:49 |
+| 10 | [Traveling](https://open.spotify.com/track/28HpN7HuwsdfnsSNXXEzF3) | [Axel J](https://open.spotify.com/artist/6NKPl5Tq1ohr1qJ3SswzB1) | [Traveling](https://open.spotify.com/album/1KMErx1KZFptweLCOPAIXl) | 2:13 |
+| 11 | [4U](https://open.spotify.com/track/3LPps8vSpnngb4iJfmfDmM) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [4U](https://open.spotify.com/album/0izvBvB5oOxhG3NIsOAlKJ) | 2:52 |
+| 12 | [Two weeks](https://open.spotify.com/track/4dnmlJGYnCLEBKYVN91ZD0) | [Eli Coast](https://open.spotify.com/artist/3RIH3BLArADeRmHKQpDqg0) | [Two weeks](https://open.spotify.com/album/47V4O36o1RrMphQj5nEjR4) | 2:19 |
+| 13 | [Avocado Toast](https://open.spotify.com/track/2plFlYCQyRuzKbkoH5kTIf) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Avocado Toast](https://open.spotify.com/album/0iHjx8UAoq81Mn95RKOCOq) | 2:26 |
+| 14 | [Atlas](https://open.spotify.com/track/5l3ydjkyj3Q6QmRftWvxDU) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Atlas](https://open.spotify.com/album/6qoLOPbl1OAkFvNT4fmpZM) | 3:05 |
+| 15 | [End of Story](https://open.spotify.com/track/5EdLzVEBvZgxGgxZviMvGk) | [IBBIZ](https://open.spotify.com/artist/2NdwSYVe4Jeia8NWr2Rb14) | [End of Story](https://open.spotify.com/album/1me7BXh024dO5wsWukirT4) | 2:39 |
+| 16 | [Mistline](https://open.spotify.com/track/6Tsjt5Z1rPyYHpUT0rtimv) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Mistline](https://open.spotify.com/album/5q7UFqrJAgGZ9aNrrjEX3F) | 2:10 |
+| 17 | [Powerhouse](https://open.spotify.com/track/0Ygqq5WvKENWa8BeM1gNqB) | [crayg](https://open.spotify.com/artist/2V6p3TuP6FqZBVpnbmfvHg) | [Powerhouse](https://open.spotify.com/album/1RDFTYNdYt9gi0TkFCaFRF) | 3:26 |
+| 18 | [Transmission](https://open.spotify.com/track/44RvNrpD0C0rWabbBQxXBk) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Transmission](https://open.spotify.com/album/0pUtXTBg1cfX4dwTXD61Nl) | 2:42 |
+| 19 | [Desires](https://open.spotify.com/track/74tYo3hYlBcYDDBTyvGYzy) | [Les Trouble](https://open.spotify.com/artist/0J5Be1SrvRoeVtSRLU1yvH) | [Desires](https://open.spotify.com/album/0UqiNoGpy9MPJ23CFFviDy) | 2:48 |
+| 20 | [Stay Cool](https://open.spotify.com/track/2XDhFE4NXiX7Ks3fhDnEG7) | [Niriko](https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M) | [Stay Cool](https://open.spotify.com/album/3jTKFgtbKKxWTSv5yd9CWa) | 3:03 |
+| 21 | [Arcade Lounge](https://open.spotify.com/track/3ctC0SWZpD2T2O2qfKvXPy) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Arcade Lounge](https://open.spotify.com/album/0ccC9OTqqjk07KVlLCemms) | 3:16 |
+| 22 | [Slow Orbit](https://open.spotify.com/track/3OqQMDKvkhyBblLYYEHmQR) | [Ghost in Delay](https://open.spotify.com/artist/3sCPjqofyWElqBsicU6DVh) | [Slow Orbit](https://open.spotify.com/album/5L5GUjk8wxSpWemLMBHG24) | 2:10 |
+| 23 | [Elysium Yellow](https://open.spotify.com/track/331fCeg3vW7mVp9Mhav8RL) | [Iceman Gill](https://open.spotify.com/artist/2c2fEhrfXzHrZGyvEB5sGD) | [Elysium Yellow](https://open.spotify.com/album/53g6HDLGpPueOKvVudgcib) | 4:48 |
+| 24 | [First Juice](https://open.spotify.com/track/5LXurYxYNMyJKCSMq9dyIK) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [First Juice](https://open.spotify.com/album/6kwdmcC0pL681Yq7CvlerR) | 2:14 |
+| 25 | [Lost in 84](https://open.spotify.com/track/0EZkhX2ROJGSxsAaD3qLxA) | [After Dark](https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k) | [Lost in 84](https://open.spotify.com/album/4OWyKPQutGfrKK4sINSvmh) | 2:34 |
+| 26 | [Youth](https://open.spotify.com/track/3htQLQ5sBwlf8q7BwFHCyR) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Youth](https://open.spotify.com/album/7sTZ8nxCThLx23NJyXgVZY) | 2:22 |
+| 27 | [FALLING](https://open.spotify.com/track/0qDagm0KQUPtM0wb4aIONO) | [Zeyn Mont](https://open.spotify.com/artist/0lySKTNxvsJvalP2ByB507) | [FALLING](https://open.spotify.com/album/5DNWZP57imjuKsOtrzPjGp) | 2:41 |
+| 28 | [Sun Is Rising](https://open.spotify.com/track/7MZSPsubzlMQZmkAdS8DC0) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Sun Is Rising](https://open.spotify.com/album/22fiezlhpvZiWGehefcQLq) | 2:45 |
+| 29 | [All Good](https://open.spotify.com/track/6SNmgTxRrgIcoZGkfHefTR) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [All Good](https://open.spotify.com/album/20M62reRZt3OEtj2VHUZ28) | 2:54 |
+| 30 | [When the City Was Quiet](https://open.spotify.com/track/5AudrkLWtPGGyHb459MagI) | [Crystal Motel](https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3) | [When the City Was Quiet](https://open.spotify.com/album/7Gz7z4o1bFmp3vceUQdwfC) | 2:05 |
+| 31 | [Tequila Sun](https://open.spotify.com/track/3MYrBewCA82sZt2HpFLAgJ) | [Aicnelav](https://open.spotify.com/artist/11YvJIJglT5UQVFmo5w1CR) | [Tequila Sun](https://open.spotify.com/album/2PQwsBfToS0aNx5GI4VWr0) | 2:21 |
+| 32 | [Sonic Crust](https://open.spotify.com/track/3PUABi6AYXExUa44lPz8s1) | [Pregotti](https://open.spotify.com/artist/61n561e59fjXTcUtwLf7G8) | [Sonic Crust](https://open.spotify.com/album/0rERDqbfo4xWs5YCwR7YuK) | 3:50 |
+| 33 | [Trivialist](https://open.spotify.com/track/7AUR7NO6muOUxyfXpgp1o0) | [Jaque D](https://open.spotify.com/artist/2KGHya3JdnknEvzsnaKEK1) | [Trivialist](https://open.spotify.com/album/0bILy3n9WNbLccuVlRQ5pM) | 2:28 |
+| 34 | [Born Fighting](https://open.spotify.com/track/55ld5zFPQG6tR9vRxFLmMx) | [Hans Blu](https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5) | [Born Fighting](https://open.spotify.com/album/2QG0q0Liq7yU0nzGsQPG8j) | 3:08 |
+| 35 | [BUTTERFLY EFFECT](https://open.spotify.com/track/5iNd2j2BsJvG27QohTUlNn) | [ANDER](https://open.spotify.com/artist/1Ih8d8wf2fpDnux2NmeU6d) | [BUTTERFLY EFFECT](https://open.spotify.com/album/5FoEBAa5jL8AJZIGWeKzaN) | 2:22 |
+| 36 | [frsh pow](https://open.spotify.com/track/0KQvfKa48pbZRx0ZJLPoZs) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [frsh pow](https://open.spotify.com/album/4ig4XXAqt6C0RJ20eSqx2f) | 2:02 |
+| 37 | [Back South](https://open.spotify.com/track/62OIO8DSeWPaxRAXGb4VD6) | [Didi Henric](https://open.spotify.com/artist/6lV1RWdJ0XSM4OxR8QbYyk) | [Back South](https://open.spotify.com/album/1JOUblUjhKl8EmwS0LHsVS) | 2:32 |
+| 38 | [You Name It](https://open.spotify.com/track/7nZvvpkKGAOaVtURxr0eMd) | [PeachPuff](https://open.spotify.com/artist/5GSiEiqF4H8J4yr33wNbM6) | [You Name It](https://open.spotify.com/album/2lorb74Vp13J3WBm7Kgsuo) | 2:40 |
+| 39 | [Ocean Eyes](https://open.spotify.com/track/2PMZHLdLaf5WUibfsL6nIU) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Ocean Eyes](https://open.spotify.com/album/3bbovdHQD22JBvkp6kW1rm) | 2:25 |
+| 40 | [Aurality](https://open.spotify.com/track/2iqp6CP9WEVCuTp9a2sJlj) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Aurality](https://open.spotify.com/album/4JXdHdxxp9HYhFHNXdWntY) | 4:31 |
+| 41 | [Timid Space](https://open.spotify.com/track/3LXB0Akbt9dfbwlQYcBdX4) | [Yamouss](https://open.spotify.com/artist/2eJOQMKGwHuTNSArWx1pgR) | [Timid Space](https://open.spotify.com/album/5z4XT6kWqk4t7t2JyRtk9f) | 2:59 |
+| 42 | [Bit of Window](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Bit of Window](https://open.spotify.com/album/0FNmtTsexTnrZApBaH9zap) | 2:01 |
+| 43 | [In the Dark](https://open.spotify.com/track/2NpTkuYal66mwh3s36tHVE) | [Purple Dive](https://open.spotify.com/artist/1e8fzmX4tpKKjWoPk7tW7n) | [In the Dark](https://open.spotify.com/album/6i7CeVJanxewX9rODf7pJT) | 3:52 |
+| 44 | [I Got You](https://open.spotify.com/track/1EdwWmhxpktSBKIV6J4wUJ) | [Sean Rivers](https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R) | [I Got You](https://open.spotify.com/album/0c9MPsA7YYy54S0byo7M7P) | 2:37 |
 | 45 | [Gravity](https://open.spotify.com/track/6W2Vs75yqXyLYscxl8rtY2) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Gravity](https://open.spotify.com/album/4NzihaIFhK1CyM24DQSkax) | 3:00 |
 
-Snapshot ID: `AAAAABu4xYDUJYk8jIbxerKXVi6/ocbU`
+Snapshot ID: `AAAAAAj1PQ7d/61sSeu8FwjYxGlu4ysN`

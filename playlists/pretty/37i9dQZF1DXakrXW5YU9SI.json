@@ -1,6 +1,6 @@
 {
   "description": "Daj si\u0119 otuli\u0107 ciep\u0142ym brzmieniom \u2615",
-  "num_followers": 342183,
+  "num_followers": 342170,
   "original_name": "Zimowy chill",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
+        "name": "Komu mia\u0142abym powiedzie\u0107?",
+        "url": "https://open.spotify.com/album/7qplgpgnhZdVhVhIpEaGaI"
+      },
+      "artists": [
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "Komu mia\u0142abym powiedzie\u0107?",
+      "url": "https://open.spotify.com/track/6v3aVSYMUOKOoh7Ut70gJ9"
+    },
+    {
+      "added_at": "2026-01-30 10:09:05",
+      "album": {
         "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
         "url": "https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 208461,
       "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
       "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
-    },
-    {
-      "added_at": "2026-01-30 10:09:05",
-      "album": {
-        "name": "Komu mia\u0142abym powiedzie\u0107?",
-        "url": "https://open.spotify.com/album/7qplgpgnhZdVhVhIpEaGaI"
-      },
-      "artists": [
-        {
-          "name": "Bletka",
-          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "Komu mia\u0142abym powiedzie\u0107?",
-      "url": "https://open.spotify.com/track/6v3aVSYMUOKOoh7Ut70gJ9"
     },
     {
       "added_at": "2026-01-30 10:09:05",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
-    },
-    {
-      "added_at": "2026-01-30 10:09:05",
-      "album": {
         "name": "COSMIC OPERA ACT I",
         "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 175086,
       "name": "Debris",
       "url": "https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb"
+    },
+    {
+      "added_at": "2026-01-30 10:09:05",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
     },
     {
       "added_at": "2026-01-30 10:09:05",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
+        "name": "SO MUCH HAS CHANGED",
+        "url": "https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 233287,
+      "name": "DROWN",
+      "url": "https://open.spotify.com/track/4iyzWWLC4TOn5FqoyatMxp"
+    },
+    {
+      "added_at": "2026-01-30 10:09:05",
+      "album": {
         "name": "Anio\u0142y (Pojedynek)",
         "url": "https://open.spotify.com/album/6Y1mNv6Zlfkh8U7H2jabST"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
-        "name": "SO MUCH HAS CHANGED",
-        "url": "https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 233287,
-      "name": "DROWN",
-      "url": "https://open.spotify.com/track/4iyzWWLC4TOn5FqoyatMxp"
-    },
-    {
-      "added_at": "2026-01-30 10:09:05",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/4wprqrMAFplpkWVySr4kD1"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 277816,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/3lgjvBBSBYpwNpLDY1nsmR"
-    },
-    {
-      "added_at": "2026-01-30 10:09:05",
-      "album": {
-        "name": "Death Wish",
-        "url": "https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 205238,
-      "name": "Death Wish",
-      "url": "https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc"
     },
     {
       "added_at": "2026-01-30 10:09:05",
@@ -679,6 +663,22 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
+        "name": "Death Wish",
+        "url": "https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 205238,
+      "name": "Death Wish",
+      "url": "https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc"
+    },
+    {
+      "added_at": "2026-01-30 10:09:05",
+      "album": {
         "name": "City Walls",
         "url": "https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 311960,
       "name": "City Walls",
       "url": "https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4"
-    },
-    {
-      "added_at": "2026-01-30 10:09:05",
-      "album": {
-        "name": "Blizzard",
-        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 268694,
-      "name": "When You Tie Your Hair Up",
-      "url": "https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg"
     },
     {
       "added_at": "2026-01-30 10:09:05",
@@ -727,6 +711,22 @@
       "duration_ms": 169375,
       "name": "Pierwszy raz",
       "url": "https://open.spotify.com/track/2ihiNri1NnpPqce4TbC9xE"
+    },
+    {
+      "added_at": "2026-01-30 10:09:05",
+      "album": {
+        "name": "Blizzard",
+        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 268694,
+      "name": "When You Tie Your Hair Up",
+      "url": "https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg"
     },
     {
       "added_at": "2026-01-30 10:09:05",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
-        "name": "Dream Of Mine",
-        "url": "https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8"
-      },
-      "artists": [
-        {
-          "name": "Ellur",
-          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
-        }
-      ],
-      "duration_ms": 243570,
-      "name": "Dream Of Mine",
-      "url": "https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB"
-    },
-    {
-      "added_at": "2026-01-30 10:09:05",
-      "album": {
         "name": "Pe\u0142nia",
         "url": "https://open.spotify.com/album/3y5HIfYJAm3O6nFqigjvc7"
       },
@@ -807,6 +791,42 @@
       "duration_ms": 187500,
       "name": "Pe\u0142nia",
       "url": "https://open.spotify.com/track/0Cl0eIyCH09ydNi7FvmDD3"
+    },
+    {
+      "added_at": "2026-01-30 10:09:05",
+      "album": {
+        "name": "Chc\u0119 Wi\u0119cej",
+        "url": "https://open.spotify.com/album/3uvcrwOL4rsRtW7afVCWg1"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        },
+        {
+          "name": "Maciej Musia\u0142owski",
+          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
+        }
+      ],
+      "duration_ms": 258558,
+      "name": "Chc\u0119 Wi\u0119cej",
+      "url": "https://open.spotify.com/track/3bNgslgg1BObTnZzAOBUCJ"
+    },
+    {
+      "added_at": "2026-01-30 10:09:05",
+      "album": {
+        "name": "Dream Of Mine",
+        "url": "https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8"
+      },
+      "artists": [
+        {
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+        }
+      ],
+      "duration_ms": 243570,
+      "name": "Dream Of Mine",
+      "url": "https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB"
     },
     {
       "added_at": "2026-01-30 10:09:05",
@@ -891,22 +911,18 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
-        "name": "Chc\u0119 Wi\u0119cej",
-        "url": "https://open.spotify.com/album/3uvcrwOL4rsRtW7afVCWg1"
+        "name": "Sentimental Value",
+        "url": "https://open.spotify.com/album/5OoZ2XvZIxa511ZkAmm3cO"
       },
       "artists": [
         {
-          "name": "Julia Wieniawa",
-          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
-        },
-        {
-          "name": "Maciej Musia\u0142owski",
-          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
         }
       ],
-      "duration_ms": 258558,
-      "name": "Chc\u0119 Wi\u0119cej",
-      "url": "https://open.spotify.com/track/3bNgslgg1BObTnZzAOBUCJ"
+      "duration_ms": 197672,
+      "name": "Riksarkivet",
+      "url": "https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit"
     },
     {
       "added_at": "2026-01-30 10:09:05",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
-        "name": "Sentimental Value",
-        "url": "https://open.spotify.com/album/5OoZ2XvZIxa511ZkAmm3cO"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 197672,
-      "name": "Riksarkivet",
-      "url": "https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit"
-    },
-    {
-      "added_at": "2026-01-30 10:09:05",
-      "album": {
         "name": "PRZEPRASZAM",
         "url": "https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
-        "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
-        "url": "https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        }
-      ],
-      "duration_ms": 196705,
-      "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
-      "url": "https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr"
-    },
-    {
-      "added_at": "2026-01-30 10:09:05",
-      "album": {
         "name": "Soft Spot",
         "url": "https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 242608,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs"
+    },
+    {
+      "added_at": "2026-01-30 10:09:05",
+      "album": {
+        "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
+        "url": "https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "duration_ms": 196705,
+      "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
+      "url": "https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr"
     },
     {
       "added_at": "2026-01-30 10:09:05",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
-        "name": "Landline",
-        "url": "https://open.spotify.com/album/1aQLV1BGKv2ON3PhvKNnCR"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 184174,
-      "name": "Landline",
-      "url": "https://open.spotify.com/track/6ZYd325kD9ACM0gUyZnbvL"
-    },
-    {
-      "added_at": "2026-01-30 10:09:05",
-      "album": {
         "name": "B\u0119d\u0119 twoj\u0105 Sylvi\u0105 Plath",
         "url": "https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 190655,
       "name": "B\u0119d\u0119 twoj\u0105 Sylvi\u0105 Plath",
       "url": "https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs"
+    },
+    {
+      "added_at": "2026-01-30 10:09:05",
+      "album": {
+        "name": "Landline",
+        "url": "https://open.spotify.com/album/1aQLV1BGKv2ON3PhvKNnCR"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 184174,
+      "name": "Landline",
+      "url": "https://open.spotify.com/track/6ZYd325kD9ACM0gUyZnbvL"
     },
     {
       "added_at": "2026-01-30 10:09:05",

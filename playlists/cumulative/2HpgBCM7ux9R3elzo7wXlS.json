@@ -5855,6 +5855,24 @@
     },
     {
       "album": {
+        "name": "Fighting Gold",
+        "url": "https://open.spotify.com/album/1UMwWm9cXGyMsjMCnmPxrA"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253185,
+      "name": "Fighting Gold",
+      "url": "https://open.spotify.com/track/5ycVJufpq4ad1mqA5JfNQS"
+    },
+    {
+      "album": {
         "name": "Meteora 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
       },

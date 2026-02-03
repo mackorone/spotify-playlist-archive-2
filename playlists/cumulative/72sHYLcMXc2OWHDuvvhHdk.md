@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,011 songs - 4 day 21 hr 45 min
+2,016 songs - 4 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Astern](https://open.spotify.com/track/3RqKR4APXmSAHnmpTbwf33) | [DE PASSAGE](https://open.spotify.com/artist/6hXZfoaFdxXd7UqUc745kw) | [RE//GROWTH](https://open.spotify.com/album/1uLHKxucUI5T7oI75Nh0UF) | 4:42 | 2025-11-17 |  |
 | [Astra Eterna](https://open.spotify.com/track/6vBeAzmIkUshFnIq50ulz1) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Astra Eterna](https://open.spotify.com/album/61gqy4eIai3wOp6rBySkFY) | 3:38 | 2024-10-15 | 2025-12-20 |
 | [Astrid](https://open.spotify.com/track/1FFxkwZi1PTlKhnjH44mmW) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Astrid](https://open.spotify.com/album/3VWS1oJdScvwgE0bpi5FzP) | 2:36 | 2025-10-13 |  |
+| [At the Bridge](https://open.spotify.com/track/3ZeTbwdZwAqSJa5q6doAIZ) | [Allen Dobb](https://open.spotify.com/artist/0aXd2Ov6yxnzt8rBP01wmU) | [At the Bridge](https://open.spotify.com/album/6biSX5zrHrrrGvgAIKXMjR) | 4:10 | 2026-02-02 |  |
 | [Atlas](https://open.spotify.com/track/6eITmdnZZ3DlZR2MbKbQSR) | [The Lost Trades](https://open.spotify.com/artist/2mIz3BIHfi3M9dKFKu89cA) | [Petrichor](https://open.spotify.com/album/6xoeOYOyAq9OBUHPeHK2Bc) | 3:49 | 2024-08-28 |  |
 | [AudioVisual.](https://open.spotify.com/track/3LynCuRHBmpYlbfaP3muce) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8), [Nitemoves](https://open.spotify.com/artist/2uUx46GfX05sy1TrpreIlk) | [AudioVisual.](https://open.spotify.com/album/27pbb5redO8PotzkP3vn00) | 3:26 | 2025-06-03 |  |
 | [August Nights](https://open.spotify.com/track/3JBiSHqwnV7uQiG4g0jnnQ) | [Liquid Days](https://open.spotify.com/artist/6BHO09GORbj09337HZTxeJ) | [August rose in New York](https://open.spotify.com/album/2G3f8xY25FSrAkeIiSZRGa) | 4:02 | 2025-11-07 |  |
@@ -745,6 +746,7 @@
 | [Honey Dripping \- Radio Edit](https://open.spotify.com/track/6pqohAZAYOl5QoD6rDzTlS) | [Arktik Lake](https://open.spotify.com/artist/2ajNC8HgouqCuEzlnb8Y9L) | [Honey Dripping \(Radio Edit\)](https://open.spotify.com/album/1PFgPoSM0wDQ2z85aXXNsu) | 4:02 | 2024-05-23 |  |
 | [Honey That's You](https://open.spotify.com/track/6xbDk0S7llHZRQWhkj2FyL) | [Tyler Herwig](https://open.spotify.com/artist/2xdCts7UWRYMS4Uyf6GBM5) | [Honey That's You](https://open.spotify.com/album/2ZBpeRMNIjtft9U8AZcknH) | 2:32 | 2025-07-11 |  |
 | [Honeysuckle](https://open.spotify.com/track/5qJDcnDw7hUG7bcNkrvOsh) | [lucky break](https://open.spotify.com/artist/19s67hCJgYq3lydu4aj5yq) | [Honeysuckle](https://open.spotify.com/album/6WMOWe2OgQQEuSypu0noiW) | 3:01 | 2024-05-14 |  |
+| [Hooked On Hello](https://open.spotify.com/track/5gTeoVG2VBWHuRp6wqs5k7) | [Chanteuse](https://open.spotify.com/artist/6Sj86862v5p7LNr60Pc8Bx) | [Hooked On Hello](https://open.spotify.com/album/7xQVl7cnVc3dYJ94HeqG76) | 3:35 | 2026-02-02 |  |
 | [Hope](https://open.spotify.com/track/3QoJWyJeVXM0xZMTYvjQ6J) | [Afonso](https://open.spotify.com/artist/01H25BZ63LTbniabPgRvx3) | [Hope](https://open.spotify.com/album/6mRKfh7DZuRFCOnIvSojiy) | 3:48 | 2025-10-16 |  |
 | [Hope](https://open.spotify.com/track/6YakBRU2O4ZemeJDA35KiI) | [Dynasty](https://open.spotify.com/artist/631DnnS4HA5z1pKEscnuSq) | [Hope](https://open.spotify.com/album/3yj8mmXVDj2GiYmcLaSu1i) | 3:13 | 2025-05-23 |  |
 | [Hope](https://open.spotify.com/track/5qi097yx7YsWb64lCYtUJ2) | [LUISA](https://open.spotify.com/artist/3TDCVt29CLI2ZJdyQ4Rln7), [Olya Lishchyshyn](https://open.spotify.com/artist/5IP4jVFqIIYUUb53oLAroB) | [Hope](https://open.spotify.com/album/5mdNoaofP7NU8jfg46fNmG) | 3:11 | 2025-03-10 |  |
@@ -938,6 +940,7 @@
 | [know now](https://open.spotify.com/track/2kV6hMHGSdjb9Ud8VIXP4V) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [Weslee World 2](https://open.spotify.com/album/7CG7qBkKh0c6QUbTl6ThMu) | 3:01 | 2025-06-21 |  |
 | [Kosaca](https://open.spotify.com/track/0KNrHMOCtPgItg8Vzbfjrc) | [Pancha](https://open.spotify.com/artist/1NCyHLIUPd2MDVtExBx1Xw), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Kosaca](https://open.spotify.com/album/1aXT1CwSCzqqsBIo7YqHpM) | 2:57 | 2025-07-27 |  |
 | [Kuku, The Sun God](https://open.spotify.com/track/3X8e8ubHf0PmGxGJWybpwK) | [Elephant Den](https://open.spotify.com/artist/6lHh6b5h1N8xRdlwfSy136) | [I'll Be There When I Get There](https://open.spotify.com/album/1Xi4oFFzshIXOWahlvI0Pa) | 3:42 | 2025-12-01 |  |
+| [Kumsal](https://open.spotify.com/track/07Q2b2d9KwK4Z7R2IOicuJ) | [İlhancan Rodoplu](https://open.spotify.com/artist/3KLRGKgnXcYkxgDi6U5fWp) | [Kumsal](https://open.spotify.com/album/2HWL6F5PeJODVtIQt73uC9) | 3:42 | 2026-02-02 |  |
 | [Küller Kadar](https://open.spotify.com/track/0IkfuOJj8Y8g83dIF2VSRS) | [Ricky Bendová](https://open.spotify.com/artist/1hMdAU7PB3IPucem8u0sDZ) | [Aşk vë Küllër](https://open.spotify.com/album/4taYLbGZdP6SIbeOHhMB2R) | 3:59 | 2025-09-01 |  |
 | [L'amore c'è](https://open.spotify.com/track/4bEWTVyuR1HSq5keoNWL6t) | [Marco Guardiano](https://open.spotify.com/artist/1CtnmLECMYU4DhVP59Y1CR) | [L'amore c'è](https://open.spotify.com/album/7DhIHKo4IfdVVBzfRqCudq) | 4:01 | 2025-12-26 |  |
 | [L'écho des oubliés](https://open.spotify.com/track/4apA7NWKXRPg1wHEdhLh66) | [Céphéria](https://open.spotify.com/artist/4LVg8QqMw4FTSE47yGE0TE) | [L'écho des oubliés](https://open.spotify.com/album/5MAXfz2aPc2ZZ9WLMxE8bf) | 2:29 | 2025-03-19 |  |
@@ -1335,6 +1338,7 @@
 | [promise you'll stay](https://open.spotify.com/track/2YlQpMecysTNKOla7hBZQg) | [daniyal](https://open.spotify.com/artist/3aLkcVjOGAtwYI1wcYjuoG) | [promise you'll stay](https://open.spotify.com/album/4bsQm5dT0vPABA98u0XJus) | 2:57 | 2024-08-12 |  |
 | [Proof](https://open.spotify.com/track/0ea8mQEsg6cbF5hPzZ5fKA) | [Curtis Lee](https://open.spotify.com/artist/5oPWLiR5I9BqjSNgjF7bhD) | [Proof](https://open.spotify.com/album/6Di4TL6FzDo5Pnl1V3PPgy) | 3:28 | 2025-07-24 |  |
 | [Proof of Love](https://open.spotify.com/track/67Ig6PY66hqzrKe8rSvHiD) | [Aella Moon](https://open.spotify.com/artist/3NTYDGHWKfrCl4fpJnkApo) | [Proof of Love](https://open.spotify.com/album/1B5rexLLZZ0ZAx4Om6hyxv) | 4:19 | 2026-01-10 |  |
+| [Prosciutto](https://open.spotify.com/track/2l5qT7dkSn68qkq0a4Fqqc) | [ESEHOMBRE](https://open.spotify.com/artist/1UyOWBHK9IYWq8oon0FPQo), [Matti](https://open.spotify.com/artist/6H0vuLmAlqwhYz4lDCSkwH) | [Raw Ham](https://open.spotify.com/album/4gIiGPYKzVUCVGI0AFbeQg) | 3:52 | 2026-02-02 |  |
 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 | 2025-08-22 |  |
 | [Psychedelic Summer](https://open.spotify.com/track/7MlxDaTrjoi6tpMxyxgm9j) | [Malibu Avenue](https://open.spotify.com/artist/2AJCsZKcqA4XwsJ7g5xtLb) | [Cosmic Playground](https://open.spotify.com/album/030rKE9SitSwPG5bSS6G3L) | 2:42 | 2024-04-28 |  |
 | [Puedes](https://open.spotify.com/track/3Jlj9xLoVRxZ1vspRDDhvW) | [Manuel m clouds art](https://open.spotify.com/artist/6XqHezSWhMSFtWLrzu40C0) | [Aun Queda Destino](https://open.spotify.com/album/4nEMwo4xpWoI7hmIvrqfz1) | 4:18 | 2025-09-24 |  |
@@ -1931,6 +1935,7 @@
 | [Wooden Man](https://open.spotify.com/track/19LUqip29KJhLP3AbFAm9K) | [Marlow Hall](https://open.spotify.com/artist/6lemAM8t1WrlKLqvHGjsu4) | [3D LOvE \(LaYer bY LaYer\)](https://open.spotify.com/album/7xRDGWyp5vNceOmvV2GHdq) | 3:00 | 2024-10-18 |  |
 | [Words](https://open.spotify.com/track/0oksQ44jj3kLAvEvK8M6Kf) | [Skelton](https://open.spotify.com/artist/1atVSpc9xqy2BDSoK4gN5c) | [Words](https://open.spotify.com/album/7wBJSaALEgl4J2Ti5CTjG2) | 3:56 | 2025-08-13 |  |
 | [Working Man's Son](https://open.spotify.com/track/3U0nVwa5vt6sIUErwnyrfp) | [Dan Pallotta](https://open.spotify.com/artist/2nL1ln75TY8crCDyqh5gGp) | [Working Man's Son](https://open.spotify.com/album/3I30LvFZf658ata57a0Btz) | 4:44 | 2025-05-18 |  |
+| [Worn Out Shoes](https://open.spotify.com/track/0N4MVQPqV56fY81zelvUox) | [Black River Ghost](https://open.spotify.com/artist/2judctr0NVnstByT9aSBD2) | [Worn Out Shoes](https://open.spotify.com/album/3owpi27zCdXaKIdRGp0nqc) | 4:03 | 2026-02-02 |  |
 | [Wreck My World](https://open.spotify.com/track/7HMPtbqlRF44pYwdeSq4DA) | [The Artist Mark](https://open.spotify.com/artist/24vLO476jl8RCdhZtQ4AHu) | [Wreck My World](https://open.spotify.com/album/6K296bPPFxg9cTPfLh92Is) | 2:36 | 2025-08-21 |  |
 | [Wrong Side](https://open.spotify.com/track/2LnDSbHdZ8xiWUjYUfk1Eq) | [Geoffrey Cedar](https://open.spotify.com/artist/3pAO58tLWQQ6aqWD0CAx5N) | [Wrong Side](https://open.spotify.com/album/5LdPbIVBKyDFddwQIQt8BO) | 4:17 | 2025-09-09 |  |
 | [Xao Xao](https://open.spotify.com/track/5m8DHNT0BT1YrxcaLx6PC3) | [Earcatching](https://open.spotify.com/artist/7IMF8yHoRzMUQIzMAY14tf) | [Xao Xao](https://open.spotify.com/album/7oveAL0U8wawMObbK9XWnk) | 3:04 | 2025-05-01 |  |

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Levin Liam
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,541 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,509 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [24](https://open.spotify.com/track/2KQI8OvWiO3Dc4qI11ph0h) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [24](https://open.spotify.com/album/2mwxpip46E0BT2DPXW9LVo) | 3:31 |
 | 2 | [In Nächten Wie Diesen](https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [WIR](https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd) | 3:27 |
-| 3 | [PINOCCHIO](https://open.spotify.com/track/18tyqyDTt7UqTaVSKc18Bn) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [PINOCCHIO](https://open.spotify.com/album/200tPb3IQw1l3sqqRi4jBk) | 2:42 |
-| 4 | [blinde passagiere](https://open.spotify.com/track/6hWgRtdEqiHEyYJH9qk4Fh) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [blinde passagiere](https://open.spotify.com/album/1V1ibDiBGqIhChSZ3EHONo) | 3:04 |
-| 5 | [Wenn du dann weg bist](https://open.spotify.com/track/1PK2Z9ztmQ5OftJ12Pe7ZI) | [JANKA](https://open.spotify.com/artist/2hQq5kPUjPSNnI95WB6LK2) | [Wenn du dann weg bist](https://open.spotify.com/album/5OutEJHBJdzCcvm2Wyl08H) | 3:29 |
-| 6 | [VIEL10](https://open.spotify.com/track/3rCsF9E5A7YBQXl5Y4usVh) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [VIEL10](https://open.spotify.com/album/1jgjo504dJyPyAdnruD0g3) | 3:17 |
-| 7 | [Blau](https://open.spotify.com/track/4Jln7MlCC2vIBXDAv9PxoR) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T) | [Blau](https://open.spotify.com/album/6U5gT4DduU1hP5IdZU9BZC) | 3:43 |
-| 8 | [wie ich dich seh](https://open.spotify.com/track/62frCZLAewgAgA7TnKCWPp) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [wie ich dich seh](https://open.spotify.com/album/5hPNFDOgqC7i7qTJIxhMkJ) | 2:43 |
-| 9 | [Lärm](https://open.spotify.com/track/1DT9aoFj8NaU030v0ulEqf) | [Haus F](https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R) | [Lärm](https://open.spotify.com/album/34c0s3KnxOt1kejKFHBLQZ) | 2:34 |
-| 10 | [amelie](https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [amelie](https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE) | 2:38 |
+| 3 | [blinde passagiere](https://open.spotify.com/track/6hWgRtdEqiHEyYJH9qk4Fh) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [blinde passagiere](https://open.spotify.com/album/1V1ibDiBGqIhChSZ3EHONo) | 3:04 |
+| 4 | [PINOCCHIO](https://open.spotify.com/track/18tyqyDTt7UqTaVSKc18Bn) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [PINOCCHIO](https://open.spotify.com/album/200tPb3IQw1l3sqqRi4jBk) | 2:42 |
+| 5 | [amelie](https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [amelie](https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE) | 2:38 |
+| 6 | [Blau](https://open.spotify.com/track/4Jln7MlCC2vIBXDAv9PxoR) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T) | [Blau](https://open.spotify.com/album/6U5gT4DduU1hP5IdZU9BZC) | 3:43 |
+| 7 | [Lärm](https://open.spotify.com/track/1DT9aoFj8NaU030v0ulEqf) | [Haus F](https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R) | [Lärm](https://open.spotify.com/album/34c0s3KnxOt1kejKFHBLQZ) | 2:34 |
+| 8 | [VIEL10](https://open.spotify.com/track/3rCsF9E5A7YBQXl5Y4usVh) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [VIEL10](https://open.spotify.com/album/1jgjo504dJyPyAdnruD0g3) | 3:17 |
+| 9 | [Wenn du dann weg bist](https://open.spotify.com/track/1PK2Z9ztmQ5OftJ12Pe7ZI) | [JANKA](https://open.spotify.com/artist/2hQq5kPUjPSNnI95WB6LK2) | [Wenn du dann weg bist](https://open.spotify.com/album/5OutEJHBJdzCcvm2Wyl08H) | 3:29 |
+| 10 | [wie ich dich seh](https://open.spotify.com/track/62frCZLAewgAgA7TnKCWPp) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [wie ich dich seh](https://open.spotify.com/album/5hPNFDOgqC7i7qTJIxhMkJ) | 2:43 |
 | 11 | [kleiner bruder](https://open.spotify.com/track/4U2BzEzxCLz6jVgE8PiEK8) | [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [kleiner bruder / nah](https://open.spotify.com/album/1BftOysh5tdFhdTk9i9BbA) | 2:44 |
 | 12 | [Tanz](https://open.spotify.com/track/1nkfgSVuYolXFq8OEj2Y7K) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Edb](https://open.spotify.com/artist/6HsOYlhc6djdiv6ikVfrGE) | [Tanz](https://open.spotify.com/album/6LsH8DF5BbuPUKavpdlw70) | 1:58 |
 | 13 | [Wo du bist](https://open.spotify.com/track/1hqx9CkcxR4TfQWsRCu9xs) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Wo du bist](https://open.spotify.com/album/2bzT88rPK0dvEJuCPURl6z) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Wenn du dich entfernst](https://open.spotify.com/track/6IChA2LdURD4N87VcwKrc7) | [Jaq](https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV) | [Wenn du dich entfernst](https://open.spotify.com/album/6PwvDkM35yaGj7p7lKbs2M) | 2:43 |
 | 75 | [Haifischbecken](https://open.spotify.com/track/2ppiU0ulKCsMTbA72tUa5k) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Haifischbecken](https://open.spotify.com/album/6rfaLEpqZaRoEIg1Q8JP27) | 3:12 |
 
-Snapshot ID: `AAAAAGhqG696wK4FKbclHz7DixCgoyRm`
+Snapshot ID: `AAAAANAwAL2InjeOYl9Gi0DaarxRkZmU`

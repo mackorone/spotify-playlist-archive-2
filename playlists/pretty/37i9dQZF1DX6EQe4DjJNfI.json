@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Delacruz, P\u00e9ricles",
-  "num_followers": 185278,
+  "num_followers": 185300,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "P\u00farpura Session",
+        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 200083,
+      "name": "Dona Do Mundo (P\u00farpura Session)",
+      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "Melodia&Barulho",
         "url": "https://open.spotify.com/album/1WWKBiKHbBKpuPjI6rvKYR"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 177468,
       "name": "Inoc\u00eancia",
       "url": "https://open.spotify.com/track/37s9yWpkR1G0s4U37KMxzL"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "P\u00farpura Session",
-        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 200083,
-      "name": "Dona Do Mundo (P\u00farpura Session)",
-      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -375,6 +375,26 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "Montanha Russa (Would you be mine?)",
+        "url": "https://open.spotify.com/album/7LaAeCU06NznWBVefPRG7e"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "duration_ms": 176341,
+      "name": "Montanha Russa (Would you be mine?)",
+      "url": "https://open.spotify.com/track/1jjiyRKiRkRlvFndCnZKKk"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "Antes Que A Terra Acabe",
         "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 240522,
       "name": "Outono",
       "url": "https://open.spotify.com/track/05oza8QKkRNfYg8177HKIF"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "Montanha Russa (Would you be mine?)",
-        "url": "https://open.spotify.com/album/7LaAeCU06NznWBVefPRG7e"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        }
-      ],
-      "duration_ms": 176341,
-      "name": "Montanha Russa (Would you be mine?)",
-      "url": "https://open.spotify.com/track/1jjiyRKiRkRlvFndCnZKKk"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "Ouvir Voc\u00ea (Remix)",
         "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
@@ -527,6 +543,26 @@
       "duration_ms": 273777,
       "name": "Ouvir Voc\u00ea (Remix)",
       "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "Sai do Meu Radar",
+        "url": "https://open.spotify.com/album/7tX672I4UzjyBqHobgZ8CF"
+      },
+      "artists": [
+        {
+          "name": "KAMACHO",
+          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 145078,
+      "name": "Sai do Meu Radar",
+      "url": "https://open.spotify.com/track/61WGwmVFM49KAuiMXxg6J9"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -567,26 +603,6 @@
       "duration_ms": 167341,
       "name": "Sobrenatural",
       "url": "https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "Sai do Meu Radar",
-        "url": "https://open.spotify.com/album/7tX672I4UzjyBqHobgZ8CF"
-      },
-      "artists": [
-        {
-          "name": "KAMACHO",
-          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 145078,
-      "name": "Sai do Meu Radar",
-      "url": "https://open.spotify.com/track/61WGwmVFM49KAuiMXxg6J9"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -923,22 +939,6 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "a1",
-        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 183210,
-      "name": "a1",
-      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
         "name": "Rel\u00edquia",
         "url": "https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB"
       },
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 213421,
-      "name": "risco",
-      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
         "name": "Melanina",
         "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 120000,
       "name": "Melanina",
       "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 213421,
+      "name": "risco",
+      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "t\u00f4 por voc\u00ea",
-      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
         "name": "Tudo Que Eu Sempre Quis",
         "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 153375,
       "name": "Tudo Que Eu Sempre Quis",
       "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "t\u00f4 por voc\u00ea",
+      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
     },
     {
       "added_at": "2026-01-30 14:06:41",

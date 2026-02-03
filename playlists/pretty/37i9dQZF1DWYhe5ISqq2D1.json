@@ -723,6 +723,22 @@
     {
       "added_at": "2026-01-27 16:54:45",
       "album": {
+        "name": "\u30dd\u30b1\u30c3\u30c8\u306b\u9b54\u6cd5\u3092\u5165\u308c\u3066",
+        "url": "https://open.spotify.com/album/7mCCiiOLjUb6LvmvhJZDKi"
+      },
+      "artists": [
+        {
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        }
+      ],
+      "duration_ms": 288960,
+      "name": "\u30dd\u30b1\u30c3\u30c8\u306b\u9b54\u6cd5\u3092\u5165\u308c\u3066",
+      "url": "https://open.spotify.com/track/5Zv31beSK1h3zMMHzjFLJG"
+    },
+    {
+      "added_at": "2026-01-27 16:54:45",
+      "album": {
         "name": "\u30ab\u30eb\u30c1\u30e3\u30fc",
         "url": "https://open.spotify.com/album/22yg77xzNQlpZtFsKG3vdv"
       },
@@ -735,26 +751,6 @@
       "duration_ms": 178987,
       "name": "\u30ab\u30eb\u30c1\u30e3\u30fc",
       "url": "https://open.spotify.com/track/6lM8TkGnjBwijnAcM9sJlp"
-    },
-    {
-      "added_at": "2026-01-27 16:54:45",
-      "album": {
-        "name": "\u30c7\u30b8\u30bf\u30eb\u30fb\u30e9\u30d6",
-        "url": "https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        },
-        {
-          "name": "\u306a\u3068\u308a",
-          "url": "https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "\u30af\u30e9\u30c3\u30b7\u30e5",
-      "url": "https://open.spotify.com/track/52bUzd6abRXpGBt9a3Gxc9"
     },
     {
       "added_at": "2026-01-27 16:54:45",
@@ -775,18 +771,18 @@
     {
       "added_at": "2026-01-27 16:54:45",
       "album": {
-        "name": "\u30dd\u30b1\u30c3\u30c8\u306b\u9b54\u6cd5\u3092\u5165\u308c\u3066",
-        "url": "https://open.spotify.com/album/7mCCiiOLjUb6LvmvhJZDKi"
+        "name": "BEAT",
+        "url": "https://open.spotify.com/album/6lSiYV5LPdVrw1gTXF51ww"
       },
       "artists": [
         {
-          "name": "Motohiro Hata",
-          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
         }
       ],
-      "duration_ms": 288960,
-      "name": "\u30dd\u30b1\u30c3\u30c8\u306b\u9b54\u6cd5\u3092\u5165\u308c\u3066",
-      "url": "https://open.spotify.com/track/5Zv31beSK1h3zMMHzjFLJG"
+      "duration_ms": 217548,
+      "name": "BEAT",
+      "url": "https://open.spotify.com/track/3hu0rFbcbMCC5mzdmL6JPr"
     },
     {
       "added_at": "2026-01-27 16:54:45",
@@ -823,18 +819,18 @@
     {
       "added_at": "2026-01-27 16:54:45",
       "album": {
-        "name": "BEAT",
-        "url": "https://open.spotify.com/album/6lSiYV5LPdVrw1gTXF51ww"
+        "name": "Belt of Venus",
+        "url": "https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0"
       },
       "artists": [
         {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
         }
       ],
-      "duration_ms": 217548,
-      "name": "BEAT",
-      "url": "https://open.spotify.com/track/3hu0rFbcbMCC5mzdmL6JPr"
+      "duration_ms": 329604,
+      "name": "Belt of Venus",
+      "url": "https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1"
     },
     {
       "added_at": "2026-01-27 16:54:45",
@@ -855,34 +851,22 @@
     {
       "added_at": "2026-01-27 16:54:45",
       "album": {
-        "name": "Belt of Venus",
-        "url": "https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0"
+        "name": "\u30c7\u30b8\u30bf\u30eb\u30fb\u30e9\u30d6",
+        "url": "https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG"
       },
       "artists": [
         {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 329604,
-      "name": "Belt of Venus",
-      "url": "https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1"
-    },
-    {
-      "added_at": "2026-01-27 16:54:45",
-      "album": {
-        "name": "\u30e9\u30a4\u30a2\u30fc",
-        "url": "https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf"
-      },
-      "artists": [
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        },
         {
-          "name": "Kucci",
-          "url": "https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5"
+          "name": "\u306a\u3068\u308a",
+          "url": "https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy"
         }
       ],
-      "duration_ms": 185000,
-      "name": "\u30e9\u30a4\u30a2\u30fc",
-      "url": "https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq"
+      "duration_ms": 136120,
+      "name": "\u30af\u30e9\u30c3\u30b7\u30e5",
+      "url": "https://open.spotify.com/track/52bUzd6abRXpGBt9a3Gxc9"
     },
     {
       "added_at": "2026-01-27 16:54:45",
@@ -899,6 +883,22 @@
       "duration_ms": 173333,
       "name": "GUN POWDER",
       "url": "https://open.spotify.com/track/62o2Pvdfe925hqfqB77lrv"
+    },
+    {
+      "added_at": "2026-01-27 16:54:45",
+      "album": {
+        "name": "\u30e9\u30a4\u30a2\u30fc",
+        "url": "https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf"
+      },
+      "artists": [
+        {
+          "name": "Kucci",
+          "url": "https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "\u30e9\u30a4\u30a2\u30fc",
+      "url": "https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq"
     },
     {
       "added_at": "2026-01-27 16:54:45",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-01-27 16:54:45",
       "album": {
-        "name": "\u9f8d",
-        "url": "https://open.spotify.com/album/5CTQfbFE6YMIS2rr87bv84"
+        "name": "Sonare",
+        "url": "https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA"
       },
       "artists": [
         {
-          "name": "Masaharu Fukuyama",
-          "url": "https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0"
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
         }
       ],
-      "duration_ms": 259966,
-      "name": "\u9f8d",
-      "url": "https://open.spotify.com/track/14nDDYrejbpPHhiChsI30G"
+      "duration_ms": 203712,
+      "name": "Sonare",
+      "url": "https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2"
     },
     {
       "added_at": "2026-01-27 16:54:45",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-01-27 16:54:45",
       "album": {
-        "name": "Sonare",
-        "url": "https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA"
+        "name": "\u9f8d",
+        "url": "https://open.spotify.com/album/5CTQfbFE6YMIS2rr87bv84"
       },
       "artists": [
         {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+          "name": "Masaharu Fukuyama",
+          "url": "https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0"
         }
       ],
-      "duration_ms": 203712,
-      "name": "Sonare",
-      "url": "https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2"
+      "duration_ms": 259966,
+      "name": "\u9f8d",
+      "url": "https://open.spotify.com/track/14nDDYrejbpPHhiChsI30G"
     },
     {
       "added_at": "2026-01-27 16:54:45",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-01-27 16:54:45",
       "album": {
-        "name": "Dead End",
-        "url": "https://open.spotify.com/album/3uNW0d4Jw5gXbS0hbG5NbD"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 167466,
-      "name": "Dead End",
-      "url": "https://open.spotify.com/track/2lWwupKSHPNLmCfuZ3ZHav"
-    },
-    {
-      "added_at": "2026-01-27 16:54:45",
-      "album": {
         "name": "\u3053\u306e\u30aa\u30f3\u30ac\u30af\u3068\u5171\u306b",
         "url": "https://open.spotify.com/album/3AH87XpZUKF8zknAiZAYe6"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 165155,
       "name": "\u3053\u306e\u30aa\u30f3\u30ac\u30af\u3068\u5171\u306b",
       "url": "https://open.spotify.com/track/62d3DM93Vu7STtVQ9vPRxA"
+    },
+    {
+      "added_at": "2026-01-27 16:54:45",
+      "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/3uNW0d4Jw5gXbS0hbG5NbD"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/2lWwupKSHPNLmCfuZ3ZHav"
     },
     {
       "added_at": "2026-01-27 16:54:45",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-01-27 16:54:45",
       "album": {
-        "name": "Like Gravity",
-        "url": "https://open.spotify.com/album/2prnZSlMBaKUD6NJmkZVb1"
-      },
-      "artists": [
-        {
-          "name": "BONNIE PINK",
-          "url": "https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu"
-        }
-      ],
-      "duration_ms": 184114,
-      "name": "Like Gravity",
-      "url": "https://open.spotify.com/track/7woHTrOb5btpt1k3JippcM"
-    },
-    {
-      "added_at": "2026-01-27 16:54:45",
-      "album": {
         "name": "2\u4eba\u306e\u30c9\u30e9\u30de",
         "url": "https://open.spotify.com/album/4DvueRc4WXWvWWCx60bH47"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 266741,
       "name": "Sketch",
       "url": "https://open.spotify.com/track/2HCw2hGOPVUim9RWk3wh0C"
+    },
+    {
+      "added_at": "2026-01-27 16:54:45",
+      "album": {
+        "name": "Like Gravity",
+        "url": "https://open.spotify.com/album/2prnZSlMBaKUD6NJmkZVb1"
+      },
+      "artists": [
+        {
+          "name": "BONNIE PINK",
+          "url": "https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu"
+        }
+      ],
+      "duration_ms": 184114,
+      "name": "Like Gravity",
+      "url": "https://open.spotify.com/track/7woHTrOb5btpt1k3JippcM"
     },
     {
       "added_at": "2026-01-27 16:54:45",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-01-27 16:54:45",
       "album": {
+        "name": "BIG BUG BEAR",
+        "url": "https://open.spotify.com/album/7jorTd8yPqVUjLzJbtuv51"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Quartus",
+          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
+        }
+      ],
+      "duration_ms": 226530,
+      "name": "BIG BUG BEAR",
+      "url": "https://open.spotify.com/track/7fw70aWMuI2zr9EukkGmuF"
+    },
+    {
+      "added_at": "2026-01-27 16:54:45",
+      "album": {
         "name": "\u5915\u65e5",
         "url": "https://open.spotify.com/album/43ap3DY2HKTUQ8qIUAT0ik"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 209600,
       "name": "\u5915\u65e5",
       "url": "https://open.spotify.com/track/76jsGuWtNMd3p9HBPvolIg"
-    },
-    {
-      "added_at": "2026-01-27 16:54:45",
-      "album": {
-        "name": "Eureka",
-        "url": "https://open.spotify.com/album/7kheNS3de32R6pnEW3VOdL"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Eureka",
-      "url": "https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir"
     },
     {
       "added_at": "2026-01-27 16:54:45",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-01-27 16:54:45",
       "album": {
+        "name": "Eureka",
+        "url": "https://open.spotify.com/album/7kheNS3de32R6pnEW3VOdL"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 211333,
+      "name": "Eureka",
+      "url": "https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir"
+    },
+    {
+      "added_at": "2026-01-27 16:54:45",
+      "album": {
         "name": "Wormhole / Yumi AraI",
         "url": "https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 269881,
       "name": "\u5ca9\u7901\u306e\u304d\u3089\u3081\u304d",
       "url": "https://open.spotify.com/track/1J8mhy1U7t6BmBmxqq3tiF"
-    },
-    {
-      "added_at": "2026-01-27 16:54:45",
-      "album": {
-        "name": "Quest",
-        "url": "https://open.spotify.com/album/6DmFZuLvzOdbgBOBKuRgYW"
-      },
-      "artists": [
-        {
-          "name": "Kiro Akiyama",
-          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "\u30d6\u30e9\u30f3\u30b3",
-      "url": "https://open.spotify.com/track/4vMf6s0oq35fE7rRiniFZL"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

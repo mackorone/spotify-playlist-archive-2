@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3923391,
+  "num_followers": 3923317,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-01-30 05:00:44",
       "album": {
-        "name": "Let You Know",
-        "url": "https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        },
-        {
-          "name": "Sonia Ammar",
-          "url": "https://open.spotify.com/artist/73Xyd80Zdq5fZc0xyjkQtB"
-        }
-      ],
-      "duration_ms": 219923,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
-    },
-    {
-      "added_at": "2026-01-30 05:00:44",
-      "album": {
         "name": "Another Touch",
         "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 225301,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW"
+    },
+    {
+      "added_at": "2026-01-30 05:00:44",
+      "album": {
+        "name": "Let You Know",
+        "url": "https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        },
+        {
+          "name": "Sonia Ammar",
+          "url": "https://open.spotify.com/artist/73Xyd80Zdq5fZc0xyjkQtB"
+        }
+      ],
+      "duration_ms": 219923,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
     },
     {
       "added_at": "2026-01-30 05:00:44",
@@ -1063,6 +1063,30 @@
     {
       "added_at": "2026-01-30 05:00:44",
       "album": {
+        "name": "Love Pains",
+        "url": "https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Freddie Elmberg",
+          "url": "https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md"
+        },
+        {
+          "name": "FLORES",
+          "url": "https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY"
+        }
+      ],
+      "duration_ms": 265161,
+      "name": "Love Pains",
+      "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
+    },
+    {
+      "added_at": "2026-01-30 05:00:44",
+      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
       },
@@ -1099,30 +1123,6 @@
       "duration_ms": 199450,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
-    },
-    {
-      "added_at": "2026-01-30 05:00:44",
-      "album": {
-        "name": "Love Pains",
-        "url": "https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "Freddie Elmberg",
-          "url": "https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md"
-        },
-        {
-          "name": "FLORES",
-          "url": "https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY"
-        }
-      ],
-      "duration_ms": 265161,
-      "name": "Love Pains",
-      "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
     },
     {
       "added_at": "2026-01-30 05:00:44",
@@ -1918,6 +1918,14 @@
         {
           "name": "JEWELS",
           "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+        },
+        {
+          "name": "YUMA",
+          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
         }
       ],
       "duration_ms": 302044,

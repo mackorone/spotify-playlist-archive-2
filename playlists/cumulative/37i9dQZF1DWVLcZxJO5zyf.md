@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Carol Biazin, Léo Foguete
 
-451 songs - 21 hr 26 min
+452 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 | 2022-07-22 | 2023-08-16 |
 | [desficava](https://open.spotify.com/track/3QhZwPJ2cGkS093fsQ5T0V) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [desficava](https://open.spotify.com/album/2uwvJFTttwIKSleeqtK2JX) | 2:33 | 2022-09-30 | 2023-07-15 |
 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 | 2025-07-18 | 2025-11-29 |
+| [Desmitificar](https://open.spotify.com/track/5h2S4Tob1xXcUiSxjMHb2B) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:33 | 2026-02-02 |  |
 | [desnecessário](https://open.spotify.com/track/0gAo3JbqmDIbWyv7MEWCds) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [desnecessário](https://open.spotify.com/album/5XrEONY47IB01QwIYUhWfl) | 2:40 | 2025-12-05 |  |
 | [Deu Fuga](https://open.spotify.com/track/4MBAPktG4S6jq309xDvnYA) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [Deu Fuga](https://open.spotify.com/album/2xIZo4jHK9XWdUgjQfnrGv) | 3:08 | 2025-10-31 | 2025-11-29 |
 | [DEUSA](https://open.spotify.com/track/7lwqdadTSjieUkL0l843dk) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp) | [DEUSA](https://open.spotify.com/album/63bxU6zYHWnFREUErxDeUM) | 2:26 | 2022-04-06 | 2022-05-07 |
@@ -363,7 +364,7 @@
 | [Recomeço](https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Recomeço](https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw) | 2:41 | 2024-05-31 | 2024-08-10 |
 | [relações superficiais](https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [GÊMEOS EM GÊMEOS](https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB) | 3:09 | 2025-08-22 | 2025-10-25 |
 | [Ritmo Agressivo](https://open.spotify.com/track/7ph7fCkl87MkX4i5vxIU9H) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Ritmo Agressivo](https://open.spotify.com/album/2JMewLH8ROoQkn2wZBpaX0) | 2:31 | 2022-02-04 | 2022-07-19 |
-| [Romance Em Cena](https://open.spotify.com/track/2HCwONIrygjv9WilseHpfM) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:08 | 2024-09-20 |  |
+| [Romance Em Cena](https://open.spotify.com/track/2HCwONIrygjv9WilseHpfM) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:08 | 2024-09-20 | 2026-02-03 |
 | [roubando a cena](https://open.spotify.com/track/1jdWoanP3m1glSvH7qN2aE) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:17 | 2022-05-13 | 2022-07-23 |
 | [S De Saudade \- Remix](https://open.spotify.com/track/4YKFMajucGtQfbY6poVMBP) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [S De Saudade \(Remix\)](https://open.spotify.com/album/5Fd3IVibDWZczGP6eyYqXd) | 2:47 | 2022-09-09 | 2022-10-15 |
 | [Sacode](https://open.spotify.com/track/2p2StS2NPYe7T5oTPbXf1Z) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Sacode](https://open.spotify.com/album/7KS5hWrJWVF1hJMBcutjHz) | 2:30 | 2025-08-08 | 2026-01-17 |

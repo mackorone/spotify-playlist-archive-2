@@ -1,6 +1,6 @@
 {
   "description": "The gentle sound of some of the greatest voices and instrumentalists in Jazz. Your Jazz dinner soundtrack. ",
-  "num_followers": 84486,
+  "num_followers": 84504,
   "original_name": "Dinner Jazz",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 275600,
+      "name": "Words Can't Describe",
+      "url": "https://open.spotify.com/track/2ZVo4KkwzAWImTGirpOt6P"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
         "name": "You, in the Sunlight",
         "url": "https://open.spotify.com/album/5hdG3zNAjg9lT1HZbg7ggD"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 248213,
       "name": "You Were Waiting for Me",
       "url": "https://open.spotify.com/track/0l368MH8QIJDEHAAqgtxza"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 275600,
-      "name": "Words Can't Describe",
-      "url": "https://open.spotify.com/track/2ZVo4KkwzAWImTGirpOt6P"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Du & Jag",
-        "url": "https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5ns & Dotter",
-          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
-        }
-      ],
-      "duration_ms": 182563,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Oscar Peterson Plays The George Gershwin Song Book",
         "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 183871,
       "name": "Moon Side",
       "url": "https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Du & Jag",
+        "url": "https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns & Dotter",
+          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
+        }
+      ],
+      "duration_ms": 182563,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "I Saw You Across the Room",
-        "url": "https://open.spotify.com/album/2MNqQEzYKkKBOCp9Z0gsg6"
-      },
-      "artists": [
-        {
-          "name": "Hollbeck",
-          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
-        }
-      ],
-      "duration_ms": 233393,
-      "name": "I Saw You Across the Room",
-      "url": "https://open.spotify.com/track/04Vlww85iHY4GOpHmSsSVl"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "The Art Of The Ballad",
         "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 303973,
       "name": "I'm Old Fashioned",
       "url": "https://open.spotify.com/track/2DZdof9VHreWvnCBAuhNr2"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "I Saw You Across the Room",
+        "url": "https://open.spotify.com/album/2MNqQEzYKkKBOCp9Z0gsg6"
+      },
+      "artists": [
+        {
+          "name": "Hollbeck",
+          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
+        }
+      ],
+      "duration_ms": 233393,
+      "name": "I Saw You Across the Room",
+      "url": "https://open.spotify.com/track/04Vlww85iHY4GOpHmSsSVl"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Ducks for cover",
-        "url": "https://open.spotify.com/album/4sbUuCDayRl0uaF92eUquz"
-      },
-      "artists": [
-        {
-          "name": "Reuben Plays",
-          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
-        }
-      ],
-      "duration_ms": 160589,
-      "name": "Ducks for cover",
-      "url": "https://open.spotify.com/track/4oECG5mUxW51Nh3U6iOdrc"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Once Upon A Time",
         "url": "https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/6806BOrYiaBMTYzpdDBdBR"
+        "name": "Ducks for cover",
+        "url": "https://open.spotify.com/album/4sbUuCDayRl0uaF92eUquz"
       },
       "artists": [
         {
-          "name": "Fred Hayes",
-          "url": "https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a"
+          "name": "Reuben Plays",
+          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
         }
       ],
-      "duration_ms": 204176,
-      "name": "Woodland",
-      "url": "https://open.spotify.com/track/5HydmnvQcjzE2JRf1GUtiz"
+      "duration_ms": 160589,
+      "name": "Ducks for cover",
+      "url": "https://open.spotify.com/track/4oECG5mUxW51Nh3U6iOdrc"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -871,6 +855,22 @@
       "duration_ms": 179546,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/6806BOrYiaBMTYzpdDBdBR"
+      },
+      "artists": [
+        {
+          "name": "Fred Hayes",
+          "url": "https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a"
+        }
+      ],
+      "duration_ms": 204176,
+      "name": "Woodland",
+      "url": "https://open.spotify.com/track/5HydmnvQcjzE2JRf1GUtiz"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Blue Notes in the Afternoon",
-        "url": "https://open.spotify.com/album/6EmURthZGIJ8AGIpQSPkof"
-      },
-      "artists": [
-        {
-          "name": "Red Brick Lane",
-          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
-        }
-      ],
-      "duration_ms": 185287,
-      "name": "Blue Notes in the Afternoon",
-      "url": "https://open.spotify.com/track/6A3G2dwkman6zLHncJxJGG"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "First Place Again",
         "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 331666,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Blue Notes in the Afternoon",
+        "url": "https://open.spotify.com/album/6EmURthZGIJ8AGIpQSPkof"
+      },
+      "artists": [
+        {
+          "name": "Red Brick Lane",
+          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
+        }
+      ],
+      "duration_ms": 185287,
+      "name": "Blue Notes in the Afternoon",
+      "url": "https://open.spotify.com/track/6A3G2dwkman6zLHncJxJGG"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 256386,
-      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
-      "url": "https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "For You, For Me, Forevermore",
         "url": "https://open.spotify.com/album/2I8URD6JXKYwtMByw90GVq"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 199400,
       "name": "Everything I Love",
       "url": "https://open.spotify.com/track/0oyC1bC2cla2ZKL6majqbh"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 256386,
+      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
+      "url": "https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Prismatic Patterns",
-        "url": "https://open.spotify.com/album/2KxfRZS092AuJpZPndNq2z"
-      },
-      "artists": [
-        {
-          "name": "The Belleville Band",
-          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
-        }
-      ],
-      "duration_ms": 144991,
-      "name": "Prismatic Patterns",
-      "url": "https://open.spotify.com/track/4p1JSJ4KvxfADfuskXlTgT"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Ben And \"Sweets\"",
         "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 254133,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/3LT1zcX6o7Xv2IfJrlU4f1"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Prismatic Patterns",
+        "url": "https://open.spotify.com/album/2KxfRZS092AuJpZPndNq2z"
+      },
+      "artists": [
+        {
+          "name": "The Belleville Band",
+          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+        }
+      ],
+      "duration_ms": 144991,
+      "name": "Prismatic Patterns",
+      "url": "https://open.spotify.com/track/4p1JSJ4KvxfADfuskXlTgT"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "The Amazing Bud Powell, Vol. 2 (1989 Version)",
-        "url": "https://open.spotify.com/album/49urA9QFIqnlG3XufhHhfH"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "Polka Dots And Moonbeams - Remastered 1994",
-      "url": "https://open.spotify.com/track/3Wadbk42UtsJOT5mCx9Bb0"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Conception",
         "url": "https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 199533,
       "name": "Intoit",
       "url": "https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "The Amazing Bud Powell, Vol. 2 (1989 Version)",
+        "url": "https://open.spotify.com/album/49urA9QFIqnlG3XufhHhfH"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 243773,
+      "name": "Polka Dots And Moonbeams - Remastered 1994",
+      "url": "https://open.spotify.com/track/3Wadbk42UtsJOT5mCx9Bb0"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Forever and Always",
-        "url": "https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU"
-      },
-      "artists": [
-        {
-          "name": "The Dox Band",
-          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
-        }
-      ],
-      "duration_ms": 238970,
-      "name": "Forever and Always",
-      "url": "https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/21hu6rdw1Tj3lake6poRGg"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 214236,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Forever and Always",
+        "url": "https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU"
+      },
+      "artists": [
+        {
+          "name": "The Dox Band",
+          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+        }
+      ],
+      "duration_ms": 238970,
+      "name": "Forever and Always",
+      "url": "https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Hello, Young Lovers",
-        "url": "https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU"
-      },
-      "artists": [
-        {
-          "name": "Southside Players",
-          "url": "https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh"
-        }
-      ],
-      "duration_ms": 234585,
-      "name": "Hello, Young Lovers",
-      "url": "https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Duke Ellington Meets Coleman Hawkins",
         "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 300506,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/55se4FQGLvhYMOeNxdElaS"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Hello, Young Lovers",
+        "url": "https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU"
+      },
+      "artists": [
+        {
+          "name": "Southside Players",
+          "url": "https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh"
+        }
+      ],
+      "duration_ms": 234585,
+      "name": "Hello, Young Lovers",
+      "url": "https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/3lqJF5gs2ygPZdYJqdHIlU"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
         "name": "Promenade With You",
         "url": "https://open.spotify.com/album/5JQlQVIftPyM62yCSXYDVY"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 224297,
       "name": "A Lonely Room",
       "url": "https://open.spotify.com/track/5ISolGrawI8flAsU6KftfC"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/3lqJF5gs2ygPZdYJqdHIlU"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -2039,6 +2039,26 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
+        "name": "Featuring",
+        "url": "https://open.spotify.com/album/3kXZdr9VwvxkjKqpuut6Lg"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Lucas Dubovik",
+          "url": "https://open.spotify.com/artist/0W2d3lQ65SMGGL3eHOmYVh"
+        }
+      ],
+      "duration_ms": 474320,
+      "name": "Look the Other Way",
+      "url": "https://open.spotify.com/track/4QVyrVvUvjWi8OVrQ2b4qv"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -2063,26 +2083,6 @@
       "duration_ms": 202228,
       "name": "Can't Get out of This Mood",
       "url": "https://open.spotify.com/track/3ddbXEt3W1UZUd2AOi2HhF"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
-        "name": "Featuring",
-        "url": "https://open.spotify.com/album/3kXZdr9VwvxkjKqpuut6Lg"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Lucas Dubovik",
-          "url": "https://open.spotify.com/artist/0W2d3lQ65SMGGL3eHOmYVh"
-        }
-      ],
-      "duration_ms": 474320,
-      "name": "Look the Other Way",
-      "url": "https://open.spotify.com/track/4QVyrVvUvjWi8OVrQ2b4qv"
     },
     {
       "added_at": "2025-02-04 08:46:28",

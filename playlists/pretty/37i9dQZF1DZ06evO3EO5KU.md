@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,021 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,036 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Pensé](https://open.spotify.com/track/0JkRshSOn97y3PZQSeLHrG) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Soltaron Al Diablo](https://open.spotify.com/album/2P76sQMC6lfSzcaPIr7hBH) | 2:34 |
 | 50 | [Sangre por Sangre \- En Vivo](https://open.spotify.com/track/14wUtTyH3kshtelfPQ44gd) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Una Más Desde el Llano 3ra\. Función \(En Vivo\)](https://open.spotify.com/album/5JgNsmWQD1ExhuKaH1uMvb) | 3:32 |
 
-Snapshot ID: `aX1GAAAAAACaVUkdXHekTQI6+u17/gps`
+Snapshot ID: `aX6XgAAAAABrjyWSvUWfU9VCCizGgEIt`

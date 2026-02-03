@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > Home is where the main stage is 💙 with AFROJACK, Martin Garrix, David Guetta, and Amél
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,301 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,703 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 71 | [Fire \- Official UEFA EURO 2024 Song](https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Fire \(Official UEFA EURO 2024 Song\)](https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ) | 2:48 |
 | 72 | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 |
 | 73 | [Monster](https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz) | 2:24 |
-| 74 | [Feels Like Us](https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Feels Like Us](https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk) | 3:54 |
-| 75 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 |
+| 74 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 |
+| 75 | [Feels Like Us](https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Feels Like Us](https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk) | 3:54 |
 | 76 | [Inside Our Hearts](https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Inside Our Hearts](https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh) | 3:54 |
 | 77 | [Falling In Love](https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Falling In Love](https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf) | 3:01 |
 | 78 | [Forever Yours \- Tim’s 2016 Ibiza Version](https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Forever Yours \(Tim’s 2016 Ibiza Version\)](https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371) | 3:28 |

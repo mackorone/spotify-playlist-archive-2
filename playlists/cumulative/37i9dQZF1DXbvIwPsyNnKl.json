@@ -3078,7 +3078,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 252435,
       "name": "ICE ICE",
       "url": "https://open.spotify.com/track/5a3XyJk1ubsLyVawrgGsod"
@@ -3934,6 +3934,24 @@
       "duration_ms": 163964,
       "name": "Lil Kasalanan Shortie",
       "url": "https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp"
+    },
+    {
+      "album": {
+        "name": "LOBAT",
+        "url": "https://open.spotify.com/album/4oEYd3R2Sli52WJodXtn3C"
+      },
+      "artists": [
+        {
+          "name": "Costa Cashman",
+          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100440,
+      "name": "LOBAT",
+      "url": "https://open.spotify.com/track/4Oai6CNbyktfWoRCjXU7eh"
     },
     {
       "album": {

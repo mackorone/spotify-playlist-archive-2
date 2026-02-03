@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With Joshua Lanuarii, STYXVII, Learke and more",
+  "description": "With STYXVII, Joshua Lanuarii, Learke and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 209958,
       "name": "CATASTR0PHZ1NG ALL BY URSELF",
       "url": "https://open.spotify.com/track/3OhN8qX8J6AP2aDWPiPIHa"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 172109,
       "name": "Catdelions IIS",
       "url": "https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj"
@@ -1369,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "DEM4N",
+        "url": "https://open.spotify.com/album/1miPkTtXIsfSaUc0iPtuR9"
+      },
+      "artists": [
+        {
+          "name": "bumr",
+          "url": "https://open.spotify.com/artist/1ve0ctqgqqaJYLCh7wC6yv"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379389,
+      "name": "DEM4N",
+      "url": "https://open.spotify.com/track/7H2jALyJYo6XAdl8CqNPiy"
+    },
+    {
+      "album": {
         "name": "Despair's Hand",
         "url": "https://open.spotify.com/album/7ikqZPc1F7biYIwkmaAiFl"
       },
@@ -1398,7 +1416,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 132359,
       "name": "destruction",
       "url": "https://open.spotify.com/track/6IP1eZ0wac2kgEKPDDH3Ro"
@@ -1804,7 +1822,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 176519,
       "name": "Folie \u00e0 Deux",
       "url": "https://open.spotify.com/track/3NaH9aP8PTPj3uvaKM3jLC"
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 233697,
       "name": "FUKOUNA GIRL",
       "url": "https://open.spotify.com/track/6RyCpAEHMj1nbopw1g2TsO"
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 185403,
       "name": "GET A GRIP",
       "url": "https://open.spotify.com/track/39mM3KXqR0wJbPudGacS8s"
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 428264,
       "name": "Gretel",
       "url": "https://open.spotify.com/track/5lucZSfaDtCUU98IEBaRUa"
@@ -2254,7 +2272,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 201951,
       "name": "I Need Coffee - Remix",
       "url": "https://open.spotify.com/track/10hQaGJs4fnENxawWcwkPL"
@@ -2704,7 +2722,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 128957,
       "name": "ITS NOT ME ITS YOU",
       "url": "https://open.spotify.com/track/1qoTwMDxMyj1c4RZEw2e5G"
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 166750,
       "name": "LFG",
       "url": "https://open.spotify.com/track/4v0LYAYKIfl66eNmKz6pXA"
@@ -3844,7 +3862,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 127246,
       "name": "plug me in",
       "url": "https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8"
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 334620,
       "name": "Redmageddon",
       "url": "https://open.spotify.com/track/6X9cEJrEJIlMq317Td3S8L"
@@ -4162,7 +4180,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 194693,
       "name": "rose tints",
       "url": "https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO"
@@ -4238,6 +4256,24 @@
       "duration_ms": 144699,
       "name": "Shit Yourself Violently",
       "url": "https://open.spotify.com/track/3KRIxu4nidUqvh5uCnOPLg"
+    },
+    {
+      "album": {
+        "name": "GOODNIGHT HYPNOPOMP",
+        "url": "https://open.spotify.com/album/7L1Opq0iCYuxIqJITnPTUw"
+      },
+      "artists": [
+        {
+          "name": "STOMACH BOOK",
+          "url": "https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189405,
+      "name": "SICK SICK SICK",
+      "url": "https://open.spotify.com/track/4ZDiJWfkruGIrE9VVbjj0O"
     },
     {
       "album": {
@@ -4780,7 +4816,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 130769,
       "name": "THIS ONE'S FOR THE 2000's FURRIES",
       "url": "https://open.spotify.com/track/4nrFzMzbS7FPdAZXTo0BYE"

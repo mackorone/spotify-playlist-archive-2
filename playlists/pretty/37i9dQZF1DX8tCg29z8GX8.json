@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 19263,
+  "num_followers": 19270,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,22 @@
     {
       "added_at": "2026-01-30 00:01:20",
       "album": {
-        "name": "Lord I'm Amazed",
-        "url": "https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9"
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 146776,
-      "name": "Lord I'm Amazed",
-      "url": "https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O"
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "added_at": "2026-01-30 00:01:20",
@@ -415,22 +419,18 @@
     {
       "added_at": "2026-01-30 00:01:20",
       "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+        "name": "Lord I'm Amazed",
+        "url": "https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime (Re-Up)",
-      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+      "duration_ms": 146776,
+      "name": "Lord I'm Amazed",
+      "url": "https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O"
     },
     {
       "added_at": "2026-01-30 00:01:20",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-01-30 00:01:20",
       "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
+    },
+    {
+      "added_at": "2026-01-30 00:01:20",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2026-01-30 00:01:20",
-      "album": {
-        "name": "Too Late",
-        "url": "https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR"
-      },
-      "artists": [
-        {
-          "name": "Wendy Shay",
-          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
     },
     {
       "added_at": "2026-01-30 00:01:20",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2026-01-30 00:01:20",
       "album": {
+        "name": "Dapper Diaries",
+        "url": "https://open.spotify.com/album/4Vz9qbPahSuPlcbbTDKnIb"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Boy",
+          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
+        },
+        {
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+        }
+      ],
+      "duration_ms": 140917,
+      "name": "Figure Say",
+      "url": "https://open.spotify.com/track/0FHC1TCjY49MvH1BL7cpv4"
+    },
+    {
+      "added_at": "2026-01-30 00:01:20",
+      "album": {
         "name": "Shoulder",
         "url": "https://open.spotify.com/album/04v5bEZUuDeS0orgjeaTJZ"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 215593,
       "name": "Shoulder",
       "url": "https://open.spotify.com/track/59BXqiS3Bee0Cx7gjpuJBJ"
-    },
-    {
-      "added_at": "2026-01-30 00:01:20",
-      "album": {
-        "name": "Dapper Diaries",
-        "url": "https://open.spotify.com/album/4Vz9qbPahSuPlcbbTDKnIb"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Boy",
-          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
-        },
-        {
-          "name": "DJ Boat",
-          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
-        }
-      ],
-      "duration_ms": 140917,
-      "name": "Figure Say",
-      "url": "https://open.spotify.com/track/0FHC1TCjY49MvH1BL7cpv4"
     },
     {
       "added_at": "2026-01-30 00:01:20",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2026-01-30 00:01:20",
       "album": {
-        "name": "Do You Know?",
-        "url": "https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0"
-      },
-      "artists": [
-        {
-          "name": "siicie",
-          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 145794,
-      "name": "Do You Know?",
-      "url": "https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql"
-    },
-    {
-      "added_at": "2026-01-30 00:01:20",
-      "album": {
         "name": "Ewor Me",
         "url": "https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 220927,
       "name": "Ewor Me",
       "url": "https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP"
+    },
+    {
+      "added_at": "2026-01-30 00:01:20",
+      "album": {
+        "name": "Do You Know?",
+        "url": "https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0"
+      },
+      "artists": [
+        {
+          "name": "siicie",
+          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 145794,
+      "name": "Do You Know?",
+      "url": "https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql"
     },
     {
       "added_at": "2026-01-30 00:01:20",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-01-30 00:01:20",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
-      "added_at": "2026-01-30 00:01:20",
-      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 200869,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
+    },
+    {
+      "added_at": "2026-01-30 00:01:20",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2026-01-30 00:01:20",

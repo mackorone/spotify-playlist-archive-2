@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Warren. The essential tracks, all in one playlist.",
-  "num_followers": 674,
+  "num_followers": 696,
   "original_name": "This Is Alex Warren",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAABo3fTw7lTSBXcjGT63Op27",
+  "snapshot_id": "aX6XgAAAAADmFvNfA9BQA9oQCnQvpi1p",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 183853,
-      "name": "The Outside",
-      "url": "https://open.spotify.com/track/0uaomEw1vvehttoRNBngKd"
+      "duration_ms": 161105,
+      "name": "You Can't Stop This",
+      "url": "https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 161105,
-      "name": "You Can't Stop This",
-      "url": "https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC"
+      "duration_ms": 183853,
+      "name": "The Outside",
+      "url": "https://open.spotify.com/track/0uaomEw1vvehttoRNBngKd"
     }
   ],
   "unique_name": "This Is Alex Warren",

@@ -4,7 +4,7 @@
 
 > The world deserves a better ending\. Listen to the music from Fallout, the hit video game and epic Prime Video series.
 
-116 songs - 5 hr 24 min
+117 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Lonely Hours](https://open.spotify.com/track/3rg8aRTUanJeUY7ZkCbapk) | [Gene Armstrong And His Texas Nite hawks](https://open.spotify.com/artist/0NbU6WWpmfBGoTobJLNnw9) | [Western Swing of the 50's Vol\. 1](https://open.spotify.com/album/5XciH17VsP6ur0UQWb1BQ4) | 3:03 | 2024-05-15 |  |
 | [Love Me As Though There Were No Tomorrow](https://open.spotify.com/track/1mPNQGFWnoZpE4ntPOPYt5) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Anthology](https://open.spotify.com/album/11Ur2WlNRW740VE0sUe9Bj) | 2:35 | 2024-05-15 |  |
 | [Luck Be a Lady](https://open.spotify.com/track/0UQY7yCbW4aQYkDUthm5N6) | [Robert Alda](https://open.spotify.com/artist/5FRlk5T88RH7OJEKBnI8Ca) | [Broadway, New York City](https://open.spotify.com/album/11pVxdPHrYqJqHGT3xYlZO) | 3:01 | 2026-01-14 |  |
-| [Luther Played The Boogie](https://open.spotify.com/track/1cUa62abt2K3etEavbcENS) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Get Rhythm](https://open.spotify.com/album/5TtGDs4EhglpdicnsfwwJr) | 2:05 | 2026-01-21 |  |
+| [Luther Played The Boogie](https://open.spotify.com/track/1cUa62abt2K3etEavbcENS) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Get Rhythm](https://open.spotify.com/album/5TtGDs4EhglpdicnsfwwJr) | 2:05 | 2026-01-21 | 2026-02-03 |
+| [Luther Played the Boogie](https://open.spotify.com/track/3zd1jUS9StV2HTHWeJmiMC) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:01 | 2026-02-02 |  |
 | [Make the World Go Away](https://open.spotify.com/track/6drEsDrLJEeRJwGwgPgmJU) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [My World](https://open.spotify.com/album/2AuHUprHzZOXDyJSinNdwE) | 2:41 | 2025-12-17 |  |
 | [Man Enough](https://open.spotify.com/track/5OYtkGWbYjlFhwy14cZ9S2) | [Lynda Carter](https://open.spotify.com/artist/7dinImt4nrJSPBD7Q5LDPC), [John Jarvis](https://open.spotify.com/artist/0U42bw7AY6q9kdTcCYNM5v), [Kerry Marx](https://open.spotify.com/artist/5yeO84zkSjDhZkeuGXoVCa) | [Fallout 4 \(Original Game Soundtrack\)](https://open.spotify.com/album/47C57TQNELQqnJDS22ZKj6) | 3:23 | 2024-05-15 |  |
 | [Man On the Moon](https://open.spotify.com/track/2V5Kycr8uGnAA9kHCCnogd) | [The Hourglass Effect](https://open.spotify.com/artist/2acqLrAZ1lspWmbpQzdiGE) | [The Hourglass Effect](https://open.spotify.com/album/5jdK4MmmRFVWfx64Q4NWvD) | 4:01 | 2024-05-15 | 2024-05-17 |

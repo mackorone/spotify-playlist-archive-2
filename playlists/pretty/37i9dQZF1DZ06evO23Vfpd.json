@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 62114,
+  "num_followers": 62177,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAAeBitsMDdGPyShJBMP23ET",
+  "snapshot_id": "aX6XgAAAAACM6fPlkkdwp5jCnjuYcZjo",
   "tracks": [
     {
       "added_at": null,
@@ -144,21 +144,17 @@
       "added_at": null,
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 133124,
-      "name": "Drink Don't Need No Mix (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt"
+      "duration_ms": 224264,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
     },
     {
       "added_at": null,
@@ -220,17 +216,21 @@
       "added_at": null,
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 224264,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
+      "duration_ms": 133124,
+      "name": "Drink Don't Need No Mix (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt"
     },
     {
       "added_at": null,
@@ -427,22 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+        "name": "Fire and Gasoline - A COLORS ENCORE",
+        "url": "https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v"
       },
       "artists": [
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 200243,
-      "name": "Lonely (with Shaboozey)",
-      "url": "https://open.spotify.com/track/5SA97SnIegYVy0CfEGB0iR"
+      "duration_ms": 191162,
+      "name": "Fire and Gasoline - A COLORS ENCORE",
+      "url": "https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX"
     },
     {
       "added_at": null,
@@ -463,22 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire and Gasoline - A COLORS ENCORE",
-        "url": "https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v"
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 191162,
-      "name": "Fire and Gasoline - A COLORS ENCORE",
-      "url": "https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX"
+      "duration_ms": 200243,
+      "name": "Lonely (with Shaboozey)",
+      "url": "https://open.spotify.com/track/5SA97SnIegYVy0CfEGB0iR"
     },
     {
       "added_at": null,

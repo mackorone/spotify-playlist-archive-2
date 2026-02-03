@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,263 songs - 3 day 5 hr 20 min
+1,265 songs - 3 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,6 +601,7 @@
 | [Late Night Phone Call](https://open.spotify.com/track/4B7gTTd4Tqz2jvzDzioGuv) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e) | [Late Night Phone Call](https://open.spotify.com/album/6hGszyPwV2rv9We6LlPDIo) | 3:06 | 2024-11-20 | 2024-11-23 |
 | [Lava](https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:37 | 2022-05-22 |  |
 | [Lean Beef Patty](https://open.spotify.com/track/3FsqOTQT3d7c296eStnEnl) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 1:47 | 2023-09-11 |  |
+| [LEARNING TO SWIM](https://open.spotify.com/track/0tKZl6SbC0qLaMQWhBILxg) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper \(The Extended Cut\)](https://open.spotify.com/album/3ZfqSEOlHerP9UZJfu4tSD) | 4:50 | 2026-02-03 |  |
 | [Leave Before The Lights Come On](https://open.spotify.com/track/4Du0BRUJvKybzxcRplp7HF) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 3:53 | 2021-03-23 |  |
 | [Legend](https://open.spotify.com/track/1CDVadnneswMxi6gBqJTtC) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 2:52 | 2024-05-31 |  |
 | [Legit](https://open.spotify.com/track/0N7KYoFclzCaF5COp7BIlH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 3:22 | 2022-11-15 |  |
@@ -674,6 +675,7 @@
 | [Maybe So](https://open.spotify.com/track/2K5cJfIJ5nak7BPfnM6VHP) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Entergalactic](https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68) | 3:40 | 2022-09-30 |  |
 | [Me and Your Mama](https://open.spotify.com/track/4AFsRbaLKRWo3dDtjDFA2V) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 6:19 | 2022-10-10 |  |
 | [Medicine](https://open.spotify.com/track/72cHkdabMo2Oy0MtnlHIES) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:15 | 2022-06-05 |  |
+| [MELISA](https://open.spotify.com/track/7gBXc7NLb6e6tBdb4dJPW7) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper \(The Extended Cut\)](https://open.spotify.com/album/3ZfqSEOlHerP9UZJfu4tSD) | 3:36 | 2026-02-03 |  |
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-07-29 |  |
 | [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 | 2022-11-15 |  |
 | [Midwest Indigo](https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:16 | 2024-05-23 |  |

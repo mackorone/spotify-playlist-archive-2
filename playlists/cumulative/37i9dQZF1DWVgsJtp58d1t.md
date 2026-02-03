@@ -2,9 +2,9 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> The best in Black music! Cover: <a href="spotify:artist:13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a>
+> The best in Black music! Click into the feed for more on Black History Month
 
-5,646 songs - 11 day 22 hr 25 min
+5,647 songs - 11 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2618,6 +2618,7 @@
 | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/3E0ulIRg5neojZkEgVM2B7) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/3tNvAR0dlCWi58TQmkwwBz) | 3:45 | 2024-06-21 | 2024-06-29 |
 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 | 2025-05-02 | 2025-07-12 |
 | [JUST A DREAM](https://open.spotify.com/track/1NPHrkT18ZXgM4Mq0wGjDH) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [JUST A DREAM](https://open.spotify.com/album/6HxNmblyLP8Z7QW8Ic2VCr) | 2:21 | 2025-10-03 | 2025-10-18 |
+| [Just A Drop \(feat\. Jay Electronica\)](https://open.spotify.com/track/3gxDopbcUDigbjJUiHkSRT) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 3:56 | 2026-02-02 |  |
 | [JUST ANOTHER WEEKEND](https://open.spotify.com/track/4UxrMWgE6XzmXXGhYf2mvE) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Suncore: It Never Ends](https://open.spotify.com/album/6LMutraXXvSHsEMpQt7dVb) | 2:13 | 2025-06-27 | 2025-07-05 |
 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 | 2022-07-22 | 2022-08-06 |
 | [JUST DANCE 2 \(with Jadagrace and SWIM\)](https://open.spotify.com/track/1ltQsfWcGMzAPUTH84oxap) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [JUST DANCE 2](https://open.spotify.com/album/46PM6s2Cg54QyDXIwJXL75) | 4:08 | 2025-08-08 | 2025-08-16 |
@@ -3378,7 +3379,7 @@
 | [Next 2 You \(feat\. DC The Don\)](https://open.spotify.com/track/5MnohMY7oAr70LNJkyMGGt) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Nothings Ever Good Enough II](https://open.spotify.com/album/3WHlVZN7DKKz7Oq1RkRfZy) | 2:43 | 2025-02-22 | 2025-03-01 |
 | [Next Life](https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Icarus](https://open.spotify.com/album/6dOw1Yt8emqoiDLOulwIHq) | 2:35 | 2025-07-25 | 2025-11-08 |
 | [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 | 2025-06-20 | 2025-06-28 |
-| [Niagara Falls](https://open.spotify.com/track/2v0AG62ZHtD3I4YmTb3WYM) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:37 | 2025-01-31 | 2025-02-15 |
+| [Niagara Falls](https://open.spotify.com/track/2v0AG62ZHtD3I4YmTb3WYM) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:37 | 2025-01-31 |  |
 | [Nice \(feat\. Blxst\)](https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Truth Be Told](https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs) | 3:57 | 2022-01-28 | 2022-02-26 |
 | [Nice Girl](https://open.spotify.com/track/2TylYUOGXjj0lXFqlNn6zK) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Nice Girl](https://open.spotify.com/album/4ZUYCh9U0NSUnsz3r3TRpv) | 2:40 | 2025-05-09 | 2025-05-17 |
 | [Nice n' Sweet \(feat\. MOLIY\)](https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CiCi \(Deluxe\)](https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY) | 2:39 | 2025-11-14 | 2025-11-22 |
@@ -4772,7 +4773,7 @@
 | [Sweet Tea](https://open.spotify.com/track/3fDNDxcos3RuOHpkm1Qc4N) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Sweet Tea](https://open.spotify.com/album/53IZCUuAD64yVuiqXToPO1) | 3:28 | 2025-09-12 | 2025-10-04 |
 | [Sweet Thang \(feat\. Summer Walker\)](https://open.spotify.com/track/5V7QNaunpviHGU1qustwbl) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 7:05 | 2024-05-17 | 2024-05-25 |
 | [Sweet Things Just for You](https://open.spotify.com/track/68UyOxMA7KV67b6i07QTSK) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Sweet Things Just for You](https://open.spotify.com/album/262ELeoj9M4JdbBDmWIiDG) | 2:37 | 2025-03-07 | 2025-03-29 |
-| [SWEET ★ HONEY ★ BUCKIIN'](https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:56 | 2024-03-29 | 2024-09-21 |
+| [SWEET ★ HONEY ★ BUCKIIN'](https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:56 | 2024-03-29 |  |
 | [SWEETER](https://open.spotify.com/track/3XNRfxKfbEZp332eYcVfPb) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [004DAISY](https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e) | 3:43 | 2022-09-16 | 2022-10-08 |
 | [SWEETER](https://open.spotify.com/track/7M7RRSVit64ax4cU39OlEw) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [004DAISY](https://open.spotify.com/album/40fZVfUQqIagBqSXsH5E69) | 3:43 | 2023-02-24 | 2023-03-11 |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-11 | 2022-04-02 |

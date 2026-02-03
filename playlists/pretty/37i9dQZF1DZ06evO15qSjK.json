@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 174145,
+  "num_followers": 174142,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAAHO4HTlwpg4Z04Bn4bC7sV",
+  "snapshot_id": "aX6XgAAAAADgL9KWDlWSlWNPRVwl+ywG",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2021",
-        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 179247,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/613lPhAJS6bj7VxuwkFFkS"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 200732,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/13bQmqqTXXpQt4qmHPcINr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 179247,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIDZ BOP 52",
+        "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 168433,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/7h1SAVbwCcLHy6WX4BoObc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIDZ BOP 2023",
         "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
       },
@@ -571,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 52",
-        "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
+        "name": "KIDZ BOP 2024 Vol. 2",
+        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
       },
       "artists": [
         {
@@ -580,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 168433,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/7h1SAVbwCcLHy6WX4BoObc"
+      "duration_ms": 180155,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/4uRhvzGgVOTUNC2j5uZ4tG"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
       "duration_ms": 184642,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2Td9ri2BOa2GG8aQxtz4mB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP 2024 Vol. 2",
-        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 180155,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/4uRhvzGgVOTUNC2j5uZ4tG"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+        "name": "KIDZ BOP 52",
+        "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 174208,
-      "name": "We're Taking Over",
-      "url": "https://open.spotify.com/track/45GlxNVf17LUYfHjQeuqvC"
+      "duration_ms": 175246,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/3QE2dgRy5O1LyT2MDmgIz0"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 52",
-        "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 175246,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/3QE2dgRy5O1LyT2MDmgIz0"
+      "duration_ms": 174208,
+      "name": "We're Taking Over",
+      "url": "https://open.spotify.com/track/45GlxNVf17LUYfHjQeuqvC"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIDZ BOP 52",
+        "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 188300,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/0QgfsBEUm79puHnQz8N8OT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIDZ BOP Super POP!",
         "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 219142,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/3uLjjx5YQJvFbkqLmqNz3v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP 52",
-        "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 188300,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/0QgfsBEUm79puHnQz8N8OT"
     }
   ],
   "unique_name": "This Is Kidz Bop Kids",

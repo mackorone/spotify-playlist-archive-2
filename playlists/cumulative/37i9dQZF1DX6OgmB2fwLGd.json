@@ -5819,6 +5819,24 @@
     },
     {
       "album": {
+        "name": "Double Whammy (ss3bby yaridubz)",
+        "url": "https://open.spotify.com/album/0VHSqYq1WDlmHTOky9WdDS"
+      },
+      "artists": [
+        {
+          "name": "xaviersobased",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121357,
+      "name": "Double Whammy (ss3bby yaridubz)",
+      "url": "https://open.spotify.com/track/6EKOiA6sd9pmRdSmVhijwJ"
+    },
+    {
+      "album": {
         "name": "Doubt Me (with aldn)",
         "url": "https://open.spotify.com/album/1x0XyLVKG1IekcXSY0yCrt"
       },
@@ -8238,6 +8256,28 @@
       "duration_ms": 216774,
       "name": "Give Em A Show",
       "url": "https://open.spotify.com/track/5l6eIWTmwDkadW03IDbYIe"
+    },
+    {
+      "album": {
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/3xXq7RSEaSuZm8pdjxOP7M"
+      },
+      "artists": [
+        {
+          "name": "xaviersobased",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        },
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143376,
+      "name": "Give It Up (feat. OsamaSon)",
+      "url": "https://open.spotify.com/track/2cBVS8uAoFOysL46QRaYZw"
     },
     {
       "album": {
@@ -19756,7 +19796,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 79568,
       "name": "Talking To The Sun",
       "url": "https://open.spotify.com/track/2cMcUE6wr9tlR3z84XvSQR"
@@ -21428,7 +21468,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 111177,
       "name": "VS",
       "url": "https://open.spotify.com/track/0HrbrLnFXLn2n5efpuwACS"

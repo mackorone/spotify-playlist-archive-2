@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Szlimmy",
-  "num_followers": 16237,
+  "num_followers": 16236,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "T\u00e9lbe \u00e1t",
-        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "T\u00e9lbe \u00e1t",
-      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "Az a szerelem",
         "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 293888,
       "name": "Az a szerelem",
       "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "T\u00e9lbe \u00e1t",
+        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "T\u00e9lbe \u00e1t",
+      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "hello.",
-        "url": "https://open.spotify.com/album/5USL0SYIppHoKBpX7ORwfI"
-      },
-      "artists": [
-        {
-          "name": "Waiting Room",
-          "url": "https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc"
-        }
-      ],
-      "duration_ms": 196806,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5pSkF2CHUhnYo69VZA3Ksm"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "SZ\u00d3LNI KELL",
         "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 223386,
       "name": "KICSIKE F\u00c9NY",
       "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "hello.",
+        "url": "https://open.spotify.com/album/5USL0SYIppHoKBpX7ORwfI"
+      },
+      "artists": [
+        {
+          "name": "Waiting Room",
+          "url": "https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc"
+        }
+      ],
+      "duration_ms": 196806,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5pSkF2CHUhnYo69VZA3Ksm"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "Magamat keresem",
-        "url": "https://open.spotify.com/album/1o7Xbt9VYs0VTC2T29IptW"
-      },
-      "artists": [
-        {
-          "name": "L\u00e1bas Viki",
-          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Magamat keresem",
-      "url": "https://open.spotify.com/track/4C08uOyQjflKZMzpAoxsBL"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "Szeressetek",
         "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 182000,
       "name": "Szeressetek",
       "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "Magamat keresem",
+        "url": "https://open.spotify.com/album/1o7Xbt9VYs0VTC2T29IptW"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1bas Viki",
+          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Magamat keresem",
+      "url": "https://open.spotify.com/track/4C08uOyQjflKZMzpAoxsBL"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "HIPERKARMA",
-        "url": "https://open.spotify.com/album/35jFL1Uohqn5YN1WS0ao6D"
-      },
-      "artists": [
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        },
-        {
-          "name": "\u00d3nodi Eszter",
-          "url": "https://open.spotify.com/artist/3OYm88pS2UaUjwKkHzquTr"
-        }
-      ],
-      "duration_ms": 208541,
-      "name": "HIPERKARMA",
-      "url": "https://open.spotify.com/track/0SQRVYt8i9RDWQLZftn6sK"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "vesz\u00e9lyes utc\u00e1k",
         "url": "https://open.spotify.com/album/77Dpx7WvBnF10GzPO1LPgL"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 210285,
       "name": "\u00c9n velem",
       "url": "https://open.spotify.com/track/5Zvi5IKLByksDaExqIQxi0"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "HIPERKARMA",
+        "url": "https://open.spotify.com/album/35jFL1Uohqn5YN1WS0ao6D"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        },
+        {
+          "name": "\u00d3nodi Eszter",
+          "url": "https://open.spotify.com/artist/3OYm88pS2UaUjwKkHzquTr"
+        }
+      ],
+      "duration_ms": 208541,
+      "name": "HIPERKARMA",
+      "url": "https://open.spotify.com/track/0SQRVYt8i9RDWQLZftn6sK"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "Ci\u00e1n",
-        "url": "https://open.spotify.com/album/2ZvKVx7H8EUBgRHZM6hBvL"
-      },
-      "artists": [
-        {
-          "name": "Waiting Room",
-          "url": "https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc"
-        }
-      ],
-      "duration_ms": 220368,
-      "name": "Ci\u00e1n",
-      "url": "https://open.spotify.com/track/2ZO6w6CoOSfW4d7bOB1s1c"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "Ahogy szeretn\u00e9m",
         "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 214857,
       "name": "Ahogy szeretn\u00e9m",
       "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "Ci\u00e1n",
+        "url": "https://open.spotify.com/album/2ZvKVx7H8EUBgRHZM6hBvL"
+      },
+      "artists": [
+        {
+          "name": "Waiting Room",
+          "url": "https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc"
+        }
+      ],
+      "duration_ms": 220368,
+      "name": "Ci\u00e1n",
+      "url": "https://open.spotify.com/track/2ZO6w6CoOSfW4d7bOB1s1c"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "M\u00e9g egy kedd",
-        "url": "https://open.spotify.com/album/4YuesaUvQd43akrqDFbIAT"
-      },
-      "artists": [
-        {
-          "name": "Anna and The Barbies",
-          "url": "https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV"
-        }
-      ],
-      "duration_ms": 137093,
-      "name": "M\u00e9g egy kedd",
-      "url": "https://open.spotify.com/track/1ZtvcSrcAqkOSi85bJf9GS"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "CSILLAGT\u00daRA",
         "url": "https://open.spotify.com/album/2IdXSgwU1THJ65yaSh4jTF"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 219474,
       "name": "CSILLAGT\u00daRA",
       "url": "https://open.spotify.com/track/2XpwU5EvFQNRDJqTWrajaC"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "M\u00e9g egy kedd",
+        "url": "https://open.spotify.com/album/4YuesaUvQd43akrqDFbIAT"
+      },
+      "artists": [
+        {
+          "name": "Anna and The Barbies",
+          "url": "https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV"
+        }
+      ],
+      "duration_ms": 137093,
+      "name": "M\u00e9g egy kedd",
+      "url": "https://open.spotify.com/track/1ZtvcSrcAqkOSi85bJf9GS"
     }
   ],
   "unique_name": "Nemazapop",

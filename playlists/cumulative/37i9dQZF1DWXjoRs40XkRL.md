@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-403 songs - 1 day 13 hr 10 min
+404 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Aa Vasant Rajni](https://open.spotify.com/track/2eiOOMb5V2tPY9VTmBbMME) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda) | [Aa Vasant Rajni](https://open.spotify.com/album/5KOiUoOwgiyLQdDQEwR8VW) | 4:49 | 2025-01-06 | 2025-02-10 |
 | [Aaj Rang Hai](https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z) | [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Aaj Rang Hai](https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W) | 3:25 | 2023-10-27 | 2024-07-19 |
 | [Aaj Rang Hai \- Sufi Expressions](https://open.spotify.com/track/2MZiWzBGuyaiNDdry7Sxg8) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l) | [Aaj Rang Hai \(Sufi Expressions\)](https://open.spotify.com/album/31TAjuLbbBqGGXqkzdrCZY) | 3:58 | 2024-09-20 | 2025-01-08 |
-| [Aakhiyaan Laagi](https://open.spotify.com/track/3SeyoWxJ18DVuoHRkj2Zgc) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Aakhiyaan Laagi](https://open.spotify.com/album/4blxL5lxD7ihKqoFqT9k0A) | 3:05 | 2024-03-15 |  |
+| [Aakhiyaan Laagi](https://open.spotify.com/track/3SeyoWxJ18DVuoHRkj2Zgc) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Aakhiyaan Laagi](https://open.spotify.com/album/4blxL5lxD7ihKqoFqT9k0A) | 3:05 | 2024-03-15 | 2026-02-03 |
 | [Aan Milo Sajna](https://open.spotify.com/track/3IIqpaAs6d5ZFSW8NExVN8) | [Rishabh Srivastava](https://open.spotify.com/artist/4heuryKQnH5KRfVWO6Rmjl) | [Aan Milo Sajna](https://open.spotify.com/album/2cj2Ig40zfQualDkWWI4Vj) | 3:37 | 2024-08-18 | 2024-09-21 |
 | [Aao Sajan](https://open.spotify.com/track/00SWo3RjHsRBUvvR1Sg5Us) | [Manasi Shah](https://open.spotify.com/artist/6NtTwYPmadVqUOjyIjcdLs) | [Aao Sajan](https://open.spotify.com/album/5V9VzKeL3tkW3lLy1X2Z0z) | 3:33 | 2025-06-03 | 2025-12-23 |
 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 | 2022-05-17 | 2025-12-09 |
@@ -324,6 +324,7 @@
 | [Raina Na Biti Jaye](https://open.spotify.com/track/6Rqt5TMC21YcmXNuhL53P2) | [Riaan Tambat](https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs), [Chandana Bala Kalyan](https://open.spotify.com/artist/229U8W2owEe3012apvgbwb) | [Raina Na Biti Jaye](https://open.spotify.com/album/6coCzjKmAA5piWkHWEtetv) | 4:18 | 2023-02-21 | 2025-01-07 |
 | [Rang \- E\- Ishq](https://open.spotify.com/track/46RvRRRZdmCJLzZggkKzXu) | [Bong Connection India](https://open.spotify.com/artist/3XRETBx8uBfFWU2hAmhyq5), [Priyabrata Sharma](https://open.spotify.com/artist/2IKPJRIArwfJ193AJ1JmXU), [Samriddho Bandyopadhyay](https://open.spotify.com/artist/24vxqV2iAKldtmbXSCUYag) | [Rang \- E\- Ishq](https://open.spotify.com/album/6cvDgHU3f6oqaRR4mlJMcA) | 3:26 | 2025-11-03 |  |
 | [Rang Darungi](https://open.spotify.com/track/4MfhrarwjjfTT5MlA8tsm2) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Rang Darungi](https://open.spotify.com/album/6FY0i2rc5WRpB2z3eZDeB2) | 4:31 | 2024-03-20 | 2025-01-07 |
+| [Rangi Saari](https://open.spotify.com/track/6eeGohvQ306B3TNUeSGaxQ) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf) | [Rangi Saari](https://open.spotify.com/album/4OO59v0mS6n4XPmypvb8gJ) | 3:45 | 2026-01-27 |  |
 | [Ranjhnaa](https://open.spotify.com/track/3lmGH67zH9xnmppBySuC2X) | [Shlok Chiplunkar](https://open.spotify.com/artist/6nJfc8VBAp8v30xEKDZfgR), [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U), [Jatin Devna](https://open.spotify.com/artist/0U05hikmO4LkZGkg6CumRp) | [Ranjhnaa](https://open.spotify.com/album/6NMhke7C0mrHKLqYPsZmnE) | 3:32 | 2023-04-21 | 2023-05-24 |
 | [Ras Batiya](https://open.spotify.com/track/2SdZ4JbsMSdOY67T9pIjkf) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 5:04 | 2024-02-23 | 2024-12-17 |
 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 | 2022-12-01 | 2024-03-09 |

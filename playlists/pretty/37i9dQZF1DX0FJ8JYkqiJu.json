@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 415080,
+  "num_followers": 415093,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-01-06 13:00:11",
       "album": {
-        "name": "Love Who You Love",
-        "url": "https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 239973,
-      "name": "Love Who You Love",
-      "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
-    },
-    {
-      "added_at": "2026-01-06 13:00:11",
-      "album": {
         "name": "Come With Me (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 214886,
       "name": "Come With Me (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
+    },
+    {
+      "added_at": "2026-01-06 13:00:11",
+      "album": {
+        "name": "Love Who You Love",
+        "url": "https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "Love Who You Love",
+      "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
     },
     {
       "added_at": "2026-01-06 13:00:11",
@@ -827,6 +827,26 @@
     {
       "added_at": "2026-01-06 13:00:11",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+        }
+      ],
+      "duration_ms": 230163,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
+    },
+    {
+      "added_at": "2026-01-06 13:00:11",
+      "album": {
         "name": "NO SKIN",
         "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
@@ -863,46 +883,6 @@
     {
       "added_at": "2026-01-06 13:00:11",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt"
-      },
-      "artists": [
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
-        }
-      ],
-      "duration_ms": 230163,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
-    },
-    {
-      "added_at": "2026-01-06 13:00:11",
-      "album": {
-        "name": "Old Friend (feat. CLOVES)",
-        "url": "https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 174398,
-      "name": "Old Friend (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
-    },
-    {
-      "added_at": "2026-01-06 13:00:11",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 214346,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
+    },
+    {
+      "added_at": "2026-01-06 13:00:11",
+      "album": {
+        "name": "Old Friend (feat. CLOVES)",
+        "url": "https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 174398,
+      "name": "Old Friend (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
     },
     {
       "added_at": "2026-01-06 13:00:11",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-01-06 13:00:11",
       "album": {
+        "name": "The Panorama Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 360299,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
+    },
+    {
+      "added_at": "2026-01-06 13:00:11",
+      "album": {
         "name": "MIND GAMES",
         "url": "https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2026-01-06 13:00:11",
       "album": {
-        "name": "The Panorama Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 360299,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
-    },
-    {
-      "added_at": "2026-01-06 13:00:11",
-      "album": {
         "name": "Save My Soul",
         "url": "https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674"
       },
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-01-06 13:00:11",
       "album": {
-        "name": "Kimpton",
-        "url": "https://open.spotify.com/album/4irD2QKX4eA49YhoAhUj21"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "Kimpton",
-      "url": "https://open.spotify.com/track/1wxZ9pAu1nW79Toy255OFz"
-    },
-    {
-      "added_at": "2026-01-06 13:00:11",
-      "album": {
         "name": "Grapevine",
         "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 381463,
       "name": "Grapevine",
       "url": "https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq"
+    },
+    {
+      "added_at": "2026-01-06 13:00:11",
+      "album": {
+        "name": "Kimpton",
+        "url": "https://open.spotify.com/album/4irD2QKX4eA49YhoAhUj21"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Kimpton",
+      "url": "https://open.spotify.com/track/1wxZ9pAu1nW79Toy255OFz"
     },
     {
       "added_at": "2026-01-06 13:00:11",

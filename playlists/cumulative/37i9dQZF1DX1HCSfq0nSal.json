@@ -1991,6 +1991,32 @@
     },
     {
       "album": {
+        "name": "Los Gangsters Tambien Lloran",
+        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264996,
+      "name": "Bastardo (feat. \u00d1engo Flow & Jere Klein)",
+      "url": "https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI"
+    },
+    {
+      "album": {
         "name": "BAYAM\u00d3N",
         "url": "https://open.spotify.com/album/2f8y3WiwPWPeUiPQlISFMX"
       },
@@ -3244,7 +3270,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 223128,
       "name": "CHUOS",
       "url": "https://open.spotify.com/track/479Hw7BEaM1cqOOlHtJtvj"
@@ -4954,6 +4980,28 @@
       "duration_ms": 197052,
       "name": "DILUVIO",
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
+    },
+    {
+      "album": {
+        "name": "Dios los Bendiga (feat. Tito El Bambino)",
+        "url": "https://open.spotify.com/album/75L1b4ZIIgyJdhK7FccMwI"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136956,
+      "name": "Dios los Bendiga (feat. Tito El Bambino)",
+      "url": "https://open.spotify.com/track/3vDnMJ7jpmqgNaobJBOUqW"
     },
     {
       "album": {
@@ -13988,7 +14036,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 181374,
       "name": "PINKY PROMISE 2",
       "url": "https://open.spotify.com/track/6hFzA2zbArwtGpmTQEsxnn"

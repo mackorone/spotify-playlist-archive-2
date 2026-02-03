@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,945 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,950 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 7 | [Como É Que Fala Não \- Ao Vivo em Fortaleza](https://open.spotify.com/track/7nGa1g2h11waps42jwfQPa) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [SENTIMENTO \(Ao Vivo Em Fortaleza\)](https://open.spotify.com/album/78AGsXwaEeeldx45IYQwD7) | 2:27 |
 | 8 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 | 9 | [Recairei \- Ao Vivo](https://open.spotify.com/track/2JTir3y1VuJQmexiTCMcTP) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Piseiro 2020 Ao Vivo](https://open.spotify.com/album/1xpVDIfB11DKa1P2YJDdJP) | 2:46 |
-| 10 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 |
-| 11 | [Volta Vai \- Ao Vivo](https://open.spotify.com/track/0jeFHISVpw1dgBOdM63SB3) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Bar Das Coleguinhas \(Ao Vivo\)](https://open.spotify.com/album/3yiHl6ciNPllk5qKMPkqtw) | 4:36 |
+| 10 | [Volta Vai \- Ao Vivo](https://open.spotify.com/track/0jeFHISVpw1dgBOdM63SB3) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Bar Das Coleguinhas \(Ao Vivo\)](https://open.spotify.com/album/3yiHl6ciNPllk5qKMPkqtw) | 4:36 |
+| 11 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 |
 | 12 | [Chorei na Vaquejada](https://open.spotify.com/track/6iLVE0VWAaT9LcJQsyZ9JU) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Chorei na Vaquejada](https://open.spotify.com/album/74uZDSboar6fdmC3PpI2F2) | 2:37 |
 | 13 | [Furduncinho do Rogerinho](https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n) | [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Furduncinho do Rogerinho](https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a) | 2:59 |
 | 14 | [Cabeça Voando](https://open.spotify.com/track/6wDzwmywQ2X8O0FN1IQGol) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Agora Eu Pego Mesmo](https://open.spotify.com/album/7dIuql1amYWijiQsIMps1l) | 3:03 |

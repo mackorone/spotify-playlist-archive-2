@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Hadise
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,990 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,543,150 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zor](https://open.spotify.com/track/3x4VM1rt9bXvDZYqPbbpjf) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zor](https://open.spotify.com/album/3y7xkd3xhPtBjo8KRL7qd4) | 2:48 |
 | 2 | [Gece Puslu](https://open.spotify.com/track/1lzu13s6ag3F9RaZo4aodv) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Gece Puslu](https://open.spotify.com/album/7qySLENb2zHNqTWQ3CgKTw) | 2:39 |
 | 3 | [Bi' Bilsen](https://open.spotify.com/track/1eq3J4tjs8hC5ig2WCL2pq) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Bi' Bilsen](https://open.spotify.com/album/4g9Ygza847MB663rOZjebX) | 2:31 |
-| 4 | [kötü kötü \- Tolga Şanlı Versiyon](https://open.spotify.com/track/7aU5gn0mrAlreS4o0fCZ69) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [kötü kötü \(Tolga Şanlı Versiyon\)](https://open.spotify.com/album/3gUD5dYbmlKxpRHztBrQYR) | 3:10 |
+| 4 | [kötü kötü](https://open.spotify.com/track/7aU5gn0mrAlreS4o0fCZ69) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [kötü kötü](https://open.spotify.com/album/3gUD5dYbmlKxpRHztBrQYR) | 3:10 |
 | 5 | [Nerdesin?](https://open.spotify.com/track/6O1V3vNyUCRURvCWnkbmQG) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Mest Of ArabesQ](https://open.spotify.com/album/7lRl5LmVaMAAtaK5j5Kqre) | 3:07 |
 | 6 | [Anılarla Yaşamak](https://open.spotify.com/track/2fNpDMXbvucuOwgR10R62R) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Anılarla Yaşamak](https://open.spotify.com/album/6CaxGg3QYGEc2cmNo5I4O5) | 3:28 |
 | 7 | [Ezberime](https://open.spotify.com/track/6bt1Y09ypUNbNtbSPjMjp0) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Ezberime](https://open.spotify.com/album/3jpT9JyRVtDiHrsrghAn7R) | 3:20 |

@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27469,
+  "num_followers": 27486,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -381,22 +381,6 @@
       "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "silent",
-        "url": "https://open.spotify.com/album/1zL4fVzGjGVuX6tMCUXUyg"
-      },
-      "artists": [
-        {
-          "name": "SEKAI NO OWARI",
-          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
-        }
-      ],
-      "duration_ms": 308921,
-      "name": "silent",
-      "url": "https://open.spotify.com/track/6c5k0VC9TBzlcKwtjpzFW2"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u547d\u306e\u5225\u540d",
@@ -411,6 +395,22 @@
       "duration_ms": 307400,
       "name": "\u7cf8",
       "url": "https://open.spotify.com/track/06m8KKTa6rAYJ5I6l2gZgS"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "silent",
+        "url": "https://open.spotify.com/album/1zL4fVzGjGVuX6tMCUXUyg"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "duration_ms": 308921,
+      "name": "silent",
+      "url": "https://open.spotify.com/track/6c5k0VC9TBzlcKwtjpzFW2"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/24dFX0UYYObDzUrY9Mdnqm"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "Tree",
-        "url": "https://open.spotify.com/album/1NF6OvO7LcY8f7m5rVxU1T"
-      },
-      "artists": [
-        {
-          "name": "SEKAI NO OWARI",
-          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
-        }
-      ],
-      "duration_ms": 298040,
-      "name": "\u708e\u3068\u68ee\u306e\u30ab\u30fc\u30cb\u30d0\u30eb",
-      "url": "https://open.spotify.com/track/5kDz0Wrx0UpaVRttDZ4KtI"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u5e78\u305b\u306a\u7d50\u672b",
@@ -557,22 +541,6 @@
       "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU"
-      },
-      "artists": [
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        }
-      ],
-      "duration_ms": 277426,
-      "name": "\u3059\u3066\u304d\u306a\u30db\u30ea\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo"
-    },
-    {
       "added_at": "2025-12-24 00:34:11",
       "album": {
         "name": "bestie",
@@ -587,6 +555,38 @@
       "duration_ms": 259903,
       "name": "bestie",
       "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/1NF6OvO7LcY8f7m5rVxU1T"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "duration_ms": 298040,
+      "name": "\u708e\u3068\u68ee\u306e\u30ab\u30fc\u30cb\u30d0\u30eb",
+      "url": "https://open.spotify.com/track/5kDz0Wrx0UpaVRttDZ4KtI"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "duration_ms": 277426,
+      "name": "\u3059\u3066\u304d\u306a\u30db\u30ea\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "my insecurities, not yours",
-        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "she likes spring, I prefer winter",
-      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "Kiroro\u306e\u3046\u305f \u2460",
         "url": "https://open.spotify.com/album/7evQI7Gxwto5ByAD0fiQBF"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 345086,
       "name": "\u51ac\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/13ZrdwZjgT6P1In07B4TBF"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "my insecurities, not yours",
+        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "she likes spring, I prefer winter",
+      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "WINTER SONG",
-        "url": "https://open.spotify.com/album/2gABzfAzxn46TpxOlj9sqf"
-      },
-      "artists": [
-        {
-          "name": "DREAMS COME TRUE",
-          "url": "https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "WINTER SONG (\u201c\u96ea\u306e\u30af\u30ea\u30b9\u30de\u30b9\u201d WORLDWIDE VERSION)",
-      "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u96ea\u306e\u83ef",
@@ -1043,6 +1027,22 @@
       "duration_ms": 341933,
       "name": "\u96ea\u306e\u83ef",
       "url": "https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "WINTER SONG",
+        "url": "https://open.spotify.com/album/2gABzfAzxn46TpxOlj9sqf"
+      },
+      "artists": [
+        {
+          "name": "DREAMS COME TRUE",
+          "url": "https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "WINTER SONG (\u201c\u96ea\u306e\u30af\u30ea\u30b9\u30de\u30b9\u201d WORLDWIDE VERSION)",
+      "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/4peHpL8DSQpDxblRCZEHbd"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "TEAM ROCK",
-        "url": "https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB"
-      },
-      "artists": [
-        {
-          "name": "Quruli",
-          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
-        }
-      ],
-      "duration_ms": 301106,
-      "name": "\u3070\u3089\u306e\u82b1",
-      "url": "https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "\u6cab\u96ea",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
+        "name": "TEAM ROCK",
+        "url": "https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "duration_ms": 301106,
+      "name": "\u3070\u3089\u306e\u82b1",
+      "url": "https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
         "name": "OH MY LITTLE GIRL",
         "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
       },
@@ -1351,22 +1351,6 @@
       "duration_ms": 276333,
       "name": "OH MY LITTLE GIRL",
       "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
-    },
-    {
-      "added_at": "2025-12-16 15:00:32",
-      "album": {
-        "name": "Winterboy",
-        "url": "https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA"
-      },
-      "artists": [
-        {
-          "name": "the shes gone",
-          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Winterboy",
-      "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1383,6 +1367,22 @@
       "duration_ms": 241810,
       "name": "Slow time lover",
       "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
+    },
+    {
+      "added_at": "2025-12-16 15:00:32",
+      "album": {
+        "name": "Winterboy",
+        "url": "https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA"
+      },
+      "artists": [
+        {
+          "name": "the shes gone",
+          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Winterboy",
+      "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1465,22 +1465,6 @@
       "url": "https://open.spotify.com/track/4JQS958NdP0PqfcoYFxrhV"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "BIBLE",
-        "url": "https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL"
-      },
-      "artists": [
-        {
-          "name": "Seiko Matsuda",
-          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
-        }
-      ],
-      "duration_ms": 280093,
-      "name": "\u771f\u51ac\u306e\u604b\u4eba\u305f\u3061",
-      "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u97f3\u697d\u3068\u79c1",
@@ -1495,6 +1479,22 @@
       "duration_ms": 219426,
       "name": "\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/3fNnXZJUEZU0QUvUgdMVeI"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "BIBLE",
+        "url": "https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL"
+      },
+      "artists": [
+        {
+          "name": "Seiko Matsuda",
+          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "\u771f\u51ac\u306e\u604b\u4eba\u305f\u3061",
+      "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
     },
     {
       "added_at": "2025-12-19 02:48:54",
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
     },
     {
-      "added_at": "2025-12-05 00:27:18",
-      "album": {
-        "name": "shiro",
-        "url": "https://open.spotify.com/album/6hrv5WgeX3p6ZAOibTowfS"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 221900,
-      "name": "shiro",
-      "url": "https://open.spotify.com/track/13B7xIMV9eLj9xWO4EJF6r"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "imagination",
@@ -1575,6 +1559,22 @@
       "duration_ms": 321000,
       "name": "Folklore",
       "url": "https://open.spotify.com/track/0VVYgGflTZEUbz8vr04Awo"
+    },
+    {
+      "added_at": "2025-12-05 00:27:18",
+      "album": {
+        "name": "shiro",
+        "url": "https://open.spotify.com/album/6hrv5WgeX3p6ZAOibTowfS"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "duration_ms": 221900,
+      "name": "shiro",
+      "url": "https://open.spotify.com/track/13B7xIMV9eLj9xWO4EJF6r"
     },
     {
       "added_at": "2025-03-11 22:40:18",

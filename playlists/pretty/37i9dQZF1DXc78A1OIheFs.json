@@ -719,6 +719,22 @@
     {
       "added_at": "2026-01-22 13:00:25",
       "album": {
+        "name": "Leisurevision",
+        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
+    },
+    {
+      "added_at": "2026-01-22 13:00:25",
+      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 172730,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
-    },
-    {
-      "added_at": "2026-01-22 13:00:25",
-      "album": {
-        "name": "Leisurevision",
-        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
     },
     {
       "added_at": "2026-01-22 13:00:25",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2026-01-22 13:00:25",
       "album": {
-        "name": "look what you're doing to me",
-        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
       },
       "artists": [
         {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+          "name": "Princess Chelsea",
+          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
         }
       ],
-      "duration_ms": 264289,
-      "name": "look what you're doing to me",
-      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
+      "duration_ms": 191812,
+      "name": "Forever Is A Charm",
+      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
     },
     {
       "added_at": "2026-01-22 13:00:25",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-01-22 13:00:25",
       "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
+        "name": "look what you're doing to me",
+        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
       },
       "artists": [
         {
-          "name": "Princess Chelsea",
-          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
         }
       ],
-      "duration_ms": 191812,
-      "name": "Forever Is A Charm",
-      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
+      "duration_ms": 264289,
+      "name": "look what you're doing to me",
+      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
     },
     {
       "added_at": "2026-01-22 13:00:25",

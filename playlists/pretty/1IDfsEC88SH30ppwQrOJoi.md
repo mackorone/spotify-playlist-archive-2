@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,180 likes - 100 songs - 4 hr 59 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,177 likes - 101 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 98 | [Falling Forever](https://open.spotify.com/track/3BHkirzjmCsPVi1b6HTTBH) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Falling Forever](https://open.spotify.com/album/7c78ZXT2DkAeYmvsurQl9u) | 2:38 |
 | 99 | [Ménage À Trois](https://open.spotify.com/track/2H9SdFmXgiHM5MhwLOuBm3) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Ménage À Trois](https://open.spotify.com/album/6tdzoV8uezHAmeNXoEIWrl) | 2:55 |
 | 100 | [Walk Away](https://open.spotify.com/track/54yX67G3dYvtINgHaSEoUo) | [Ricci G](https://open.spotify.com/artist/5E1YmDNAWIuRCeg7bdHsmM), [N.Jay](https://open.spotify.com/artist/1FRH4fWTg3BQiGTGYNuh70), [Robyn Hart](https://open.spotify.com/artist/1ADlZG9TPoiHrlgYCorU3a) | [Walk Away](https://open.spotify.com/album/322xrrzEO35ws2ys1KaiRR) | 2:27 |
+| 101 | [Utopia \- DJ DALI Remix](https://open.spotify.com/track/4VpFQo5uDItpzW6XsTy0UH) | [Bang La Decks](https://open.spotify.com/artist/52gTlzX6XwOavvrAz8TxEz), [DJ DALI](https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS) | [Utopia \(DJ DALI Remix\)](https://open.spotify.com/album/63RYjt6GRGyFj3ufuUqf5X) | 3:56 |
 
-Snapshot ID: `AAALCR1OcyvnHEMlepg7YQpNdfUqb9Jp`
+Snapshot ID: `AAALCv2KfyZSMMWhMox1fxON1pr5DOlS`

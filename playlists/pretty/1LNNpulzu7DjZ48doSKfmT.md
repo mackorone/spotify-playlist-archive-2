@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 456 likes - 514 songs - 1 day 2 hr 0 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 455 likes - 514 songs - 1 day 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 155 | [Cloud 9](https://open.spotify.com/track/0rVVkbkh83YFQL7i7rvtcF) | [Angelina Rose](https://open.spotify.com/artist/3vZlH2IjyBBjNgmKwkTFWc) | [Cloud 9](https://open.spotify.com/album/7Lc6KfQanXwmorJ1JVbf8Z) | 2:24 |
 | 156 | [FAKEDOPEBOYZ](https://open.spotify.com/track/4fwLZjos1dAMnG64giaSmh) | [Vanny Preem](https://open.spotify.com/artist/7hpiSgYV0dRlLAfgYQcdJc), [Hardknocks ENT](https://open.spotify.com/artist/2JN33dKvtqTIYXeFxTSIjC), [SlimYungMan](https://open.spotify.com/artist/3QaQq3u2X0mPYRitrYYaZ1) | [RAW@WAR EP](https://open.spotify.com/album/3p3oAXYY0DaFHdTDJrNzc0) | 3:22 |
 | 157 | [PRICELESS](https://open.spotify.com/track/7bNccPdTh1NXHiw7fnyrHq) | [SHZZY 8ANDO](https://open.spotify.com/artist/4cAkmrzEAqbeqK1csY6sQh), [Malik English](https://open.spotify.com/artist/3gpBRVLHl7p8aMQ0IWPbjV) | [PRICELESS](https://open.spotify.com/album/5G411erkx2QxvQTqGtIgoM) | 2:37 |
-| 158 | [Dior](https://open.spotify.com/track/6zOMszPQW4T9xGFzNHfQaq) | [COA](https://open.spotify.com/artist/0eRCLMckvcXLTWLyBfRA4n), [XELLEN7](https://open.spotify.com/artist/02VTECRZkRQd4h4FTbBVoM) | [Dior](https://open.spotify.com/album/59r8gVG29cARAewLRiv6kU) | 2:51 |
+| 158 | [Dior](https://open.spotify.com/track/6zOMszPQW4T9xGFzNHfQaq) | [COA](https://open.spotify.com/artist/0eRCLMckvcXLTWLyBfRA4n), [XELLEN7](https://open.spotify.com/artist/02VTECRZkRQd4h4FTbBVoM) | [Dior](https://open.spotify.com/album/59r8gVG29cARAewLRiv6kU) | 2:46 |
 | 159 | [I Am What I Am](https://open.spotify.com/track/5A1QWJlXfbfJ69zuuj9MXk) | [Ashtray](https://open.spotify.com/artist/57UWFYFA1WRjbnoU7T0Ljj) | [I Am What I Am](https://open.spotify.com/album/1Euds6WN5KJEEgKdBaj41S) | 2:53 |
 | 160 | [Make Me Feel](https://open.spotify.com/track/6UQcBWu42dSBXy1tc1e68Z) | [Yelé](https://open.spotify.com/artist/1Gt1NutBtpAMkUHrCB60EN) | [Make Me Feel](https://open.spotify.com/album/3mfjh6A8XLhDpv0AKPDQJO) | 3:40 |
 | 161 | [HOW TO](https://open.spotify.com/track/6tJxVsNXYZU1m70gxmZoY5) | [FIIYYAAH](https://open.spotify.com/artist/07tyi7lnlOnltFoZrOKfwh) | [HOW TO](https://open.spotify.com/album/7ztv9dHzkuJjDgNJGoWmYy) | 2:09 |

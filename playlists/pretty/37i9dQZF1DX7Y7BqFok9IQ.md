@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 ### [Modern Blues Rock](https://open.spotify.com/playlist/37i9dQZF1DX7Y7BqFok9IQ)
 
-> The best of modern blues rock\. Cover: Samantha Fish
+> The best of modern blues rock\. Cover: Robert Randolph
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,806 likes - 150 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,864 likes - 150 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pretend](https://open.spotify.com/track/0MMBjSzV3ZqCWLEuJdVqvK) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Pretend](https://open.spotify.com/album/1hFRv2fI8eSWpBQbpOMrMm) | 2:45 |
-| 2 | [Nowhere to Go](https://open.spotify.com/track/0c5eEKZW45gQyBNipU01yW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nowhere to Go](https://open.spotify.com/album/0Z8hvkNrqwuvZoKxbkNFKI) | 3:16 |
-| 3 | [Chevrolet](https://open.spotify.com/track/4VAKEOsaRTSeI2SNa9bEeN) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Chevrolet](https://open.spotify.com/album/4iNDYhHxLAUWyit4oRHMum) | 2:52 |
-| 4 | [Freedom \- Single Version](https://open.spotify.com/track/0Kdu2qRBfCRJJdWtEdKFjL) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Freedom](https://open.spotify.com/album/5XOGc9cd6GPupHK5OiC5FD) | 3:14 |
-| 5 | [YOUNG BLOOD](https://open.spotify.com/track/5wMtnzKuIyhPFD8VvGpAyN) | [True Strays](https://open.spotify.com/artist/2arsJQ0bB5uQyDJoR3MbOq) | [YOUNG BLOOD](https://open.spotify.com/album/1PjUSENItjT102cQZDZYer) | 3:22 |
-| 6 | [Dead Armadillo](https://open.spotify.com/track/2RBrx1H3wutvaWj0vdoR1R) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll \(Deluxe Edition\)](https://open.spotify.com/album/6nnECaFoybGM731B9tqXBg) | 2:57 |
-| 7 | [Everything I Need](https://open.spotify.com/track/049Im0p8yz9HJfkD6bmTJS) | [Caitlin Krisko & The Broadcast](https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY) | [Everything I Need](https://open.spotify.com/album/3BIDHTj4CA6YY6yCMehep3) | 3:26 |
-| 8 | [I Need The Fire](https://open.spotify.com/track/0FW0T4EVzp26iu4enXJF55) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4) | [Hollow Souls](https://open.spotify.com/album/5PWl5Gp5NGOGZ2E86euqpO) | 3:12 |
-| 9 | [Evel Knievel](https://open.spotify.com/track/19PsfIoaON1PgsssutUhyY) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Brothers](https://open.spotify.com/album/3IE0oOebvBDuyXAbKCkYKp) | 3:43 |
-| 10 | [Running Dry](https://open.spotify.com/track/3PTqf7JIcqYwyKCuLBKAqt) | [The Zac Schulze Gang](https://open.spotify.com/artist/3qvVjXmsWmDBEomXDVMOtS) | [Straight to It](https://open.spotify.com/album/3DnMUA3F2jMckDyHClrUjt) | 2:00 |
-| 11 | [7 Generations](https://open.spotify.com/track/3Ng6V9tduQzqGJx7ABoNRz) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Preacher Kids](https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV) | 5:56 |
+| 1 | [7 Generations](https://open.spotify.com/track/3Ng6V9tduQzqGJx7ABoNRz) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Preacher Kids](https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV) | 5:56 |
+| 2 | [Pretend](https://open.spotify.com/track/0MMBjSzV3ZqCWLEuJdVqvK) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Pretend](https://open.spotify.com/album/1hFRv2fI8eSWpBQbpOMrMm) | 2:45 |
+| 3 | [Nowhere to Go](https://open.spotify.com/track/0c5eEKZW45gQyBNipU01yW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nowhere to Go](https://open.spotify.com/album/0Z8hvkNrqwuvZoKxbkNFKI) | 3:16 |
+| 4 | [Chevrolet](https://open.spotify.com/track/4VAKEOsaRTSeI2SNa9bEeN) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Chevrolet](https://open.spotify.com/album/4iNDYhHxLAUWyit4oRHMum) | 2:52 |
+| 5 | [Freedom \- Single Version](https://open.spotify.com/track/0Kdu2qRBfCRJJdWtEdKFjL) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Freedom](https://open.spotify.com/album/5XOGc9cd6GPupHK5OiC5FD) | 3:14 |
+| 6 | [YOUNG BLOOD](https://open.spotify.com/track/5wMtnzKuIyhPFD8VvGpAyN) | [True Strays](https://open.spotify.com/artist/2arsJQ0bB5uQyDJoR3MbOq) | [YOUNG BLOOD](https://open.spotify.com/album/1PjUSENItjT102cQZDZYer) | 3:22 |
+| 7 | [Dead Armadillo](https://open.spotify.com/track/2RBrx1H3wutvaWj0vdoR1R) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll \(Deluxe Edition\)](https://open.spotify.com/album/6nnECaFoybGM731B9tqXBg) | 2:57 |
+| 8 | [Everything I Need](https://open.spotify.com/track/049Im0p8yz9HJfkD6bmTJS) | [Caitlin Krisko & The Broadcast](https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY) | [Everything I Need](https://open.spotify.com/album/3BIDHTj4CA6YY6yCMehep3) | 3:26 |
+| 9 | [I Need The Fire](https://open.spotify.com/track/0FW0T4EVzp26iu4enXJF55) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4) | [Hollow Souls](https://open.spotify.com/album/5PWl5Gp5NGOGZ2E86euqpO) | 3:12 |
+| 10 | [Evel Knievel](https://open.spotify.com/track/19PsfIoaON1PgsssutUhyY) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Brothers](https://open.spotify.com/album/3IE0oOebvBDuyXAbKCkYKp) | 3:43 |
+| 11 | [Running Dry](https://open.spotify.com/track/3PTqf7JIcqYwyKCuLBKAqt) | [The Zac Schulze Gang](https://open.spotify.com/artist/3qvVjXmsWmDBEomXDVMOtS) | [Straight to It](https://open.spotify.com/album/3DnMUA3F2jMckDyHClrUjt) | 2:00 |
 | 12 | [Trigger Finger](https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trigger Finger](https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF) | 4:04 |
 | 13 | [HIGH/LOW](https://open.spotify.com/track/6Y7tVRFyWGq2XT1sSWW5b6) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [HIGH/LOW](https://open.spotify.com/album/1PdFSe3SjJoJzy7gl8Dpf8) | 3:53 |
 | 14 | [Old Time Low](https://open.spotify.com/track/4yZH8DuH7X5ohvSB1VZG80) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Old Time Low](https://open.spotify.com/album/2WwdQXv8fzMzXOE2DdxIKf) | 3:00 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
 | 150 | [Too Much Is Never Too Much](https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI) | [Gnarfunkel](https://open.spotify.com/artist/2mwAEuKKSnlOQouag2TUe5) | [Too Much Is Never Too Much](https://open.spotify.com/album/3bSxViAwIQ38614k0DYfPa) | 3:27 |
 
-Snapshot ID: `AAAAAIw4TxS8/bcLCS2WiisCsv1tCO2x`
+Snapshot ID: `AAAAAEl03T2sPsi6U09wt4mLcKJzR/HI`

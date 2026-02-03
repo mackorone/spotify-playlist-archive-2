@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Joyce Manor
 
-9,906 songs - 23 day 12 hr 10 min
+9,907 songs - 23 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [A Love](https://open.spotify.com/track/3fPfkDNKwefwabaDKEOioY) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [A Love](https://open.spotify.com/album/0nNK36AnVwTjbNEt3vrrma) | 3:25 | 2023-07-28 | 2023-08-05 |
 | [A Man as Alive as the City](https://open.spotify.com/track/4OwryWgJS16LTvoV3llvQK) | [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5) | [A Man as Alive as the City](https://open.spotify.com/album/4ccRW9qNXcL9Iwj6YvDLcT) | 4:36 | 2024-01-19 | 2024-01-27 |
 | [A Man Will Do Wrong](https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 4:17 | 2023-01-27 | 2023-02-04 |
-| [a minute a moment](https://open.spotify.com/track/5lKxgT7JyS3nqVVrypMonw) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/5E6aswcc0puXAQvvGuzOtp) | 3:23 | 2026-01-30 |  |
+| [a minute a moment](https://open.spotify.com/track/5lKxgT7JyS3nqVVrypMonw) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/5E6aswcc0puXAQvvGuzOtp) | 3:23 | 2026-01-30 | 2026-02-03 |
+| [a minute a moment](https://open.spotify.com/track/64nEsHY3vnRwKFcUjaz6cC) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/70WuZoQSaSw3sAS9hTu5cD) | 3:23 | 2026-02-02 |  |
 | [A Moment](https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [A Moment](https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa) | 3:23 | 2025-01-17 | 2025-01-25 |
 | [A Moment in Heaven](https://open.spotify.com/track/3QINe4RcW3tNrxmTPIDCWr) | [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [A Moment in Heaven](https://open.spotify.com/album/6Q9nxEDrnSca1d5n7hcoPD) | 3:46 | 2022-03-31 | 2022-04-08 |
 | [A New Forever](https://open.spotify.com/track/21NZsK3kNvjDR1XX9EdLYE) | [alltheprettythings](https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML) | [A New Forever](https://open.spotify.com/album/0UM7wpqwrzBcHsNsgJaiN0) | 4:37 | 2024-03-01 | 2024-03-09 |

@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAANAJMbJHjCyKt3oaDeuSZDjg9Yzf1l",
+  "snapshot_id": "AAANBgE9BnKFl39log+JHuNFlnB7p95Q",
   "tracks": [
     {
       "added_at": "2025-12-11 13:51:04",
@@ -907,6 +907,106 @@
       "duration_ms": 191400,
       "name": "Over It",
       "url": "https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5"
+    },
+    {
+      "added_at": "2026-02-02 15:45:39",
+      "album": {
+        "name": "superficial bliss",
+        "url": "https://open.spotify.com/album/0L2BOFYomdaG0xhNoaoQJ4"
+      },
+      "artists": [
+        {
+          "name": "purr grief",
+          "url": "https://open.spotify.com/artist/23WsCrFd5z85zpuxX6SCQI"
+        }
+      ],
+      "duration_ms": 289955,
+      "name": "in my bones",
+      "url": "https://open.spotify.com/track/6vSNVLse9DXY8U2GUP0UgB"
+    },
+    {
+      "added_at": "2026-02-02 15:45:46",
+      "album": {
+        "name": "Toujours Avec Toi",
+        "url": "https://open.spotify.com/album/4CfUDeION0lbXMiIIWjopW"
+      },
+      "artists": [
+        {
+          "name": "MOON EATER",
+          "url": "https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB"
+        }
+      ],
+      "duration_ms": 101714,
+      "name": "Toujours Avec Toi",
+      "url": "https://open.spotify.com/track/6KCbj9D831CMCWVXSA0I5O"
+    },
+    {
+      "added_at": "2026-02-02 15:46:10",
+      "album": {
+        "name": "Pullin' Teeth (feat. Kevin Rheault)",
+        "url": "https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        },
+        {
+          "name": "Kevin Rheault",
+          "url": "https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy"
+        }
+      ],
+      "duration_ms": 254446,
+      "name": "Pullin' Teeth (feat. Kevin Rheault)",
+      "url": "https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8"
+    },
+    {
+      "added_at": "2026-02-03 00:19:49",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/3XlMJ55gOehJgsO4nVLTXK"
+      },
+      "artists": [
+        {
+          "name": "Flying Finish",
+          "url": "https://open.spotify.com/artist/335ZooC8OqPnT45ZJAbXPH"
+        }
+      ],
+      "duration_ms": 205614,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/0GQ1eZt3LUUgpJY9P5HXSQ"
+    },
+    {
+      "added_at": "2026-02-03 00:20:05",
+      "album": {
+        "name": "Blood Full of Metal",
+        "url": "https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB"
+      },
+      "artists": [
+        {
+          "name": "The PennyPound",
+          "url": "https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Blood Full of Metal",
+      "url": "https://open.spotify.com/track/248ljP84krXywsN09x4F4E"
+    },
+    {
+      "added_at": "2026-02-03 00:20:15",
+      "album": {
+        "name": "hypnotize",
+        "url": "https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ"
+      },
+      "artists": [
+        {
+          "name": "W\u0142adek Sheen",
+          "url": "https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe"
+        }
+      ],
+      "duration_ms": 175247,
+      "name": "goodbye - 2025 remastered",
+      "url": "https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

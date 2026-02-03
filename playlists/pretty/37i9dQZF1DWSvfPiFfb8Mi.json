@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 696172,
+  "num_followers": 696233,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Pull Together",
-        "url": "https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Pull Together",
-      "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
         "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 195944,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Pull Together",
+        "url": "https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Pull Together",
+      "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
+      },
+      "artists": [
+        {
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+        }
+      ],
+      "duration_ms": 180999,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
         "name": "Smalltown Boy",
         "url": "https://open.spotify.com/album/2HKO8cyIo1J4jUKMbmZLBi"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
       },
       "artists": [
         {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
         }
       ],
-      "duration_ms": 180999,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
+      "duration_ms": 220299,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1191,22 +1207,6 @@
       "duration_ms": 178000,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
-      },
-      "artists": [
-        {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
-        }
-      ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
-      },
-      "artists": [
-        {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Real Cultural Shit",
         "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 243759,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
+      },
+      "artists": [
+        {
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Inferno (No. 1)",
         "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 296453,
       "name": "Be The One (feat. Yung Bae)",
       "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
+        "name": "cabo player",
+        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "cabo player",
+      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
         "name": "Sing It Back (feat. Dana Williams)",
         "url": "https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp"
       },
@@ -2011,22 +2027,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "cabo player",
-        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "cabo player",
-      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Silky, Buttery, Smooth",
         "url": "https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ"
       },
@@ -2039,22 +2039,6 @@
       "duration_ms": 184801,
       "name": "Silky, Buttery, Smooth",
       "url": "https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
-        "name": "White Rose",
-        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
-      },
-      "artists": [
-        {
-          "name": "No Suits",
-          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "White Rose",
-      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -2103,6 +2087,22 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
+        "name": "White Rose",
+        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "White Rose",
+      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
         "name": "Bless Me (with Discrete)",
         "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
       },
@@ -2119,6 +2119,26 @@
       "duration_ms": 190384,
       "name": "Bless Me (with Discrete)",
       "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Confetti (Kraak & Smaak Remix)",
+        "url": "https://open.spotify.com/album/3oFSALQPWl6XXcBTeZLZZ9"
+      },
+      "artists": [
+        {
+          "name": "Marine Neuilly",
+          "url": "https://open.spotify.com/artist/4YwQhwRfbRMFIplXwGQezw"
+        },
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Confetti - Kraak & Smaak Remix",
+      "url": "https://open.spotify.com/track/7hlj2sZHWObIaLIEiMSd9Y"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -2163,22 +2183,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Ol\u00e9 Maca",
-        "url": "https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 279036,
-      "name": "Letras",
-      "url": "https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW"
       },
@@ -2195,6 +2199,22 @@
       "duration_ms": 230854,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Ol\u00e9 Maca",
+        "url": "https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 279036,
+      "name": "Letras",
+      "url": "https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -2259,42 +2279,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Confetti (Kraak & Smaak Remix)",
-        "url": "https://open.spotify.com/album/3oFSALQPWl6XXcBTeZLZZ9"
-      },
-      "artists": [
-        {
-          "name": "Marine Neuilly",
-          "url": "https://open.spotify.com/artist/4YwQhwRfbRMFIplXwGQezw"
-        },
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Confetti - Kraak & Smaak Remix",
-      "url": "https://open.spotify.com/track/7hlj2sZHWObIaLIEiMSd9Y"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
-        "name": "Past Life",
-        "url": "https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 237716,
-      "name": "Past Life",
-      "url": "https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Turn Up The Love (Roosevelt Remix)",
         "url": "https://open.spotify.com/album/71wq1IxTjclhzDx1PUlkU1"
       },
@@ -2339,22 +2323,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Look How Far We've Come",
-        "url": "https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y"
-      },
-      "artists": [
-        {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Look How Far We've Come",
-      "url": "https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "CAN'T GO HOME",
         "url": "https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc"
       },
@@ -2375,6 +2343,38 @@
       "duration_ms": 172160,
       "name": "CAN'T GO HOME",
       "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Look How Far We've Come",
+        "url": "https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Look How Far We've Come",
+      "url": "https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 237716,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0"
     },
     {
       "added_at": "2026-01-30 05:01:02",

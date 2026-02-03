@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 157000,
       "name": "Foresta Andante",
       "url": "https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX"
@@ -2972,6 +2972,24 @@
       "duration_ms": 160909,
       "name": "Nature's Energy",
       "url": "https://open.spotify.com/track/03kNewVwapP82UDyaYHns8"
+    },
+    {
+      "album": {
+        "name": "Naya Raasta",
+        "url": "https://open.spotify.com/album/2f2Xr2TzaZjlBAdm7vFR26"
+      },
+      "artists": [
+        {
+          "name": "Gamini Khatri",
+          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136470,
+      "name": "Naya Raasta",
+      "url": "https://open.spotify.com/track/35yOrI4w6yTsMvBzDwc3F9"
     },
     {
       "album": {

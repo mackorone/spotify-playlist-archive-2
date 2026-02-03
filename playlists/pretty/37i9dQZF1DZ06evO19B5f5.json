@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADuWUijoxwQZ0RimA88+k89",
+  "snapshot_id": "aX6XgAAAAAC7RiMDEQPlTEGnuu2eQ4dn",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "Lovers Or Liars",
-      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghost World",
         "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 192000,
       "name": "Ugly Truth",
       "url": "https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "Lovers Or Liars",
+      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All of #OneSongAWeek",
         "url": "https://open.spotify.com/album/2nHOL4iMiNN0Sl4oebNEsg"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 216000,
       "name": "Flaws & Ceilings",
       "url": "https://open.spotify.com/track/4MNTc0NKgsGQGjC4VAlDD2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If Looks Could Kill",
         "url": "https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 209896,
       "name": "If Looks Could Kill",
       "url": "https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
     },
     {
       "added_at": null,

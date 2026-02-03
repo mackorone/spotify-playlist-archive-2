@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 37919,
+  "num_followers": 37938,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADuiMNVC3pGZyO9qVVXcNQt",
+  "snapshot_id": "aX6XgAAAAADrKxSqgJ1BCOwpS5eHC6fL",
   "tracks": [
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Nueva Era de la Quebradita",
-        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
+        "name": "Lagrimas De Sangre",
+        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 193593,
-      "name": "Un Rayo de Sol",
-      "url": "https://open.spotify.com/track/5TNDSVqgDuN5pYl251Tihk"
+      "duration_ms": 161560,
+      "name": "Lagrimas de Sangre",
+      "url": "https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagrimas De Sangre",
-        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
+        "name": "La Nueva Era de la Quebradita",
+        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 161560,
-      "name": "Lagrimas de Sangre",
-      "url": "https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw"
+      "duration_ms": 193593,
+      "name": "Un Rayo de Sol",
+      "url": "https://open.spotify.com/track/5TNDSVqgDuN5pYl251Tihk"
     },
     {
       "added_at": null,

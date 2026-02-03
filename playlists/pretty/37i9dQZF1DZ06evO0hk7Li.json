@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40148,
+  "num_followers": 40151,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADvMiyxttvMQPbK+O86HCQ2",
+  "snapshot_id": "aX6XgAAAAABMsWYYpx8SZy2RfciYWVda",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 197701,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miles",
         "url": "https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 155624,
       "name": "Miles",
       "url": "https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 197701,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Éxitos Puerto Rico](https://open.spotify.com/playlist/37i9dQZF1DX1Zs6DCeRyof)
 
-> La lista donde viven los hits más grandes de la Isla del Encanto\. Cover: Clarent
+> La lista donde viven los hits más grandes de la Isla del Encanto\. Cover: Bad Bunny
 
 436 songs - 1 day 1 hr 11 min
 

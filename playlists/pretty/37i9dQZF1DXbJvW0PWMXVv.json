@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 77936,
+  "num_followers": 77932,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,26 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Do Velho Testamento",
+        "url": "https://open.spotify.com/album/48XG3OIWFse7bJXCaOIaRF"
+      },
+      "artists": [
+        {
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 169546,
       "name": "S\u00f3 Quero Ver",
       "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Do Velho Testamento",
-        "url": "https://open.spotify.com/album/48XG3OIWFse7bJXCaOIaRF"
-      },
-      "artists": [
-        {
-          "name": "Tierry",
-          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
-        },
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK"
     },
     {
       "added_at": "2025-09-17 15:00:09",

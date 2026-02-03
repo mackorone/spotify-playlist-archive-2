@@ -4,7 +4,7 @@
 
 > 808s & Melodies\. Cover: Blanco
 
-61 songs - 2 hr 55 min
+62 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Overpriced](https://open.spotify.com/track/7sV2u9PuacBt62EgwqAPFC) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Overpriced](https://open.spotify.com/album/62ZHVbE8x65GyJvztZDInF) | 2:10 | 2025-05-30 |  |
 | [Page 45](https://open.spotify.com/track/2qNaS67u1sAlUyogdFA59Y) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Page 45](https://open.spotify.com/album/4OaT9hJPepJYkrDkWTly9p) | 4:00 | 2025-05-30 |  |
 | [Platonic](https://open.spotify.com/track/7MpWkFfg0wLMCvo53ChsPF) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv) | [Platonic](https://open.spotify.com/album/6fBFIDG05ozVbtZYoMx1Bu) | 2:18 | 2025-05-30 |  |
+| [Please Stay](https://open.spotify.com/track/4Zf9wD8sScwSHyl6upO9gg) | [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Please Stay](https://open.spotify.com/album/68qEH0gbGKySNcaM9xK8aS) | 2:34 | 2025-05-30 |  |
 | [Pull Up](https://open.spotify.com/track/6h2nENjlo0GOIpVurs98EY) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [English Dubbed](https://open.spotify.com/album/0gD720TRNfVewJlAe31Kyr) | 3:30 | 2025-05-30 |  |
 | [Pushin'](https://open.spotify.com/track/0wmwAS9SA6Tg3Qoyqx9dqU) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [XVR BLCK](https://open.spotify.com/artist/7utNm67x1f8kErx7PfWb9U) | [Pushin'](https://open.spotify.com/album/65PJkEX27NgzTI8fBAeOzU) | 3:02 | 2025-05-30 |  |
 | [Question Us](https://open.spotify.com/track/2NG11shSzyFFwd3z8yJTGa) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Question Us](https://open.spotify.com/album/54NmUOZk0EwYG03X3Ppnz3) | 3:32 | 2025-05-30 |  |
@@ -62,7 +63,7 @@
 | [Talk Quiet](https://open.spotify.com/track/7sdWbnUGRzpWJmupEpXJiP) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AT LEAST WE HAVE THIS](https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr) | 3:20 | 2025-05-30 |  |
 | [Time](https://open.spotify.com/track/4eJsS3MQMHUgkGLOJONyN7) | [Brandz](https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl), [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [25/8](https://open.spotify.com/album/17RR2AT87P8UELwlelwM7b) | 3:04 | 2025-05-30 |  |
 | [Tyla](https://open.spotify.com/track/2m0nXHD3qsIjwJc6vRaNrT) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Gilberto's Son](https://open.spotify.com/album/1kGLrR4To17fbnAKxTLHVM) | 2:14 | 2025-05-30 |  |
-| [Wait A Minute](https://open.spotify.com/track/1ZI3LhSyksUfxDiHwmZdg8) | [98s](https://open.spotify.com/artist/6IzhPGZlb27v8HuOQvkiQk), [Billy Billions](https://open.spotify.com/artist/69qrun5V2jt5YOitlunPh8), [Kay\-O](https://open.spotify.com/artist/51xvY3ND0pMakkwfNJa3AN), [Alchubbino](https://open.spotify.com/artist/33oHR1Xi4O5sUl3iMo2VI4) | [Class of 98s](https://open.spotify.com/album/3fRRxwfSston1uuBEto129) | 4:01 | 2025-05-30 |  |
+| [Wait A Minute](https://open.spotify.com/track/1ZI3LhSyksUfxDiHwmZdg8) | [98s](https://open.spotify.com/artist/6IzhPGZlb27v8HuOQvkiQk), [Billy Billions](https://open.spotify.com/artist/69qrun5V2jt5YOitlunPh8), [Kay\-O](https://open.spotify.com/artist/51xvY3ND0pMakkwfNJa3AN), [Alchubbino](https://open.spotify.com/artist/33oHR1Xi4O5sUl3iMo2VI4) | [Class of 98s](https://open.spotify.com/album/3fRRxwfSston1uuBEto129) | 4:01 | 2025-05-30 | 2026-02-03 |
 | [Wasteman](https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:31 | 2025-05-30 |  |
 | [What Can I Say](https://open.spotify.com/track/6HVlPPWZcwAQOtvPbNnJMI) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [What Can I Say](https://open.spotify.com/album/3VO4UKvjQDYYseML7IyGJN) | 2:42 | 2025-05-30 |  |
 | [what it is & what it ain't](https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [what it is & what it ain't](https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD) | 2:29 | 2025-05-30 |  |

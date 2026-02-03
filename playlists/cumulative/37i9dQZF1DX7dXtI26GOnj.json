@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145882,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
+    },
+    {
+      "album": {
         "name": "ALOH ALOH",
         "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
       },
@@ -564,7 +586,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 188597,
       "name": "Amor Prestado",
       "url": "https://open.spotify.com/track/4Z3zYeaJabDAnk9zI5TaQm"
@@ -2716,7 +2738,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 190153,
       "name": "DARLE EL ALMA",
       "url": "https://open.spotify.com/track/1P6ar0VGbCya0puYupAntv"
@@ -3618,7 +3640,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
@@ -3819,6 +3841,28 @@
     },
     {
       "album": {
+        "name": "FAN\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235102,
+      "name": "FAN\u00c1TICO",
+      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
+    },
+    {
+      "album": {
         "name": "FATAL FANTASSY",
         "url": "https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn"
       },
@@ -3996,6 +4040,24 @@
       "duration_ms": 99692,
       "name": "Flores Pa Ti",
       "url": "https://open.spotify.com/track/5mM6WC9fOpYKLjLBDlRynh"
+    },
+    {
+      "album": {
+        "name": "FLOW DE REVISTA",
+        "url": "https://open.spotify.com/album/1exjzYbSUPY0DNQt2Blw9T"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157161,
+      "name": "FLOW DE REVISTA",
+      "url": "https://open.spotify.com/track/27LpKkISDV9I9YE64xHUgu"
     },
     {
       "album": {
@@ -4542,7 +4604,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 267789,
       "name": "Guatauba Remix (feat. Conep)",
       "url": "https://open.spotify.com/track/599bxbI5tNHVggffZO1btK"
@@ -5248,7 +5310,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 267016,
       "name": "La F\u00f3rmula",
       "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
@@ -6066,7 +6128,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 216980,
       "name": "Low Key (feat. Humby)",
       "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
@@ -6867,6 +6929,24 @@
     },
     {
       "album": {
+        "name": "MONOBLOCK",
+        "url": "https://open.spotify.com/album/3zQ2R9T4fK8wv2AHAqsLW1"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126352,
+      "name": "MONOBLOCK",
+      "url": "https://open.spotify.com/track/4P5gQPkLP15FZEZ0gHHM4l"
+    },
+    {
+      "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },
@@ -6904,7 +6984,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 213430,
       "name": "MONSTRUO",
       "url": "https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j"
@@ -7333,6 +7413,32 @@
     },
     {
       "album": {
+        "name": "no pa la tele",
+        "url": "https://open.spotify.com/album/4LFk3wjYbBQC8UIo9oEZB3"
+      },
+      "artists": [
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "no pa la tele",
+      "url": "https://open.spotify.com/track/2eEkKJCR24ixf0fuzOLGtY"
+    },
+    {
+      "album": {
         "name": "NO PIENSO LLAMAR",
         "url": "https://open.spotify.com/album/03VZEfV1aKrAFDWgzbx915"
       },
@@ -7755,6 +7861,24 @@
     },
     {
       "album": {
+        "name": "Bohemio",
+        "url": "https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153911,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/7fC9JbQTR20CB6gvWr1NcF"
+    },
+    {
+      "album": {
         "name": "Omega (feat. Ralphie Choo)",
         "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
       },
@@ -7942,6 +8066,32 @@
       "duration_ms": 197383,
       "name": "PANTIES Y BRASIERES",
       "url": "https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY"
+    },
+    {
+      "album": {
+        "name": "Papi Chulo x Mali",
+        "url": "https://open.spotify.com/album/3f1kIDTAWun9b7mIo1d0R8"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Lorna",
+          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+        },
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179454,
+      "name": "Papi Chulo x Mali",
+      "url": "https://open.spotify.com/track/2VkPDAZMr1QrBxW4M4IYj1"
     },
     {
       "album": {
@@ -9782,7 +9932,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 128000,
       "name": "Solita",
       "url": "https://open.spotify.com/track/3VodFXs2VvU1RZsI8l8UiN"
@@ -10672,6 +10822,28 @@
       "duration_ms": 222333,
       "name": "Trofeo",
       "url": "https://open.spotify.com/track/4ajAhp58D3zWqtpGJFG2NB"
+    },
+    {
+      "album": {
+        "name": "Troka",
+        "url": "https://open.spotify.com/album/00yl2r8v4986lCsP6rGOkv"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169622,
+      "name": "Troka",
+      "url": "https://open.spotify.com/track/5AchK5XMO4AwN99yYcDPQc"
     },
     {
       "album": {

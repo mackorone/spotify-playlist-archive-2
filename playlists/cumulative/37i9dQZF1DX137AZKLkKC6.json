@@ -278,7 +278,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 153953,
       "name": "Alch Si",
       "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
@@ -1620,6 +1620,76 @@
       "duration_ms": 213000,
       "name": "El atrevimiento",
       "url": "https://open.spotify.com/track/1OMjCkMpT8xdjIacSUq4lL"
+    },
+    {
+      "album": {
+        "name": "El Aventurero En El Cielo (feat. Jhon Alex Casta\u00f1o, Pipe Bueno, Jessi Uribe, Ciro Qui\u00f1onez, Luis Alfonso, Francy, Jhonny Rivera, Alzate, Paola Jara, Arelys Henao, El Charrito Negro, Alexis Escobar & Alan Ramirez)",
+        "url": "https://open.spotify.com/album/1rjAr2tgFavr1VIaj4Dgr9"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Ciro Qui\u00f1onez",
+          "url": "https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK"
+        },
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "Francy",
+          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
+        },
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        },
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        },
+        {
+          "name": "El Charrito Negro",
+          "url": "https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6"
+        },
+        {
+          "name": "Alexis Escobar",
+          "url": "https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98"
+        },
+        {
+          "name": "Alan Ramirez",
+          "url": "https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241153,
+      "name": "El Aventurero En El Cielo (feat. Jhon Alex Casta\u00f1o, Pipe Bueno, Jessi Uribe, Ciro Qui\u00f1onez, Luis Alfonso, Francy, Jhonny Rivera, Alzate, Paola Jara, Arelys Henao, El Charrito Negro, Alexis Escobar & Alan Ramirez)",
+      "url": "https://open.spotify.com/track/0B3P870RC9X4c2JymZJI9a"
     },
     {
       "album": {

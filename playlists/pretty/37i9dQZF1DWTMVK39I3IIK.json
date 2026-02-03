@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Rigmor",
-  "num_followers": 47069,
+  "num_followers": 47066,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-01-23 09:52:05",
       "album": {
+        "name": "S\u00e6tter Sig Fast",
+        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
+      },
+      "artists": [
+        {
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+        }
+      ],
+      "duration_ms": 176083,
+      "name": "S\u00e6tter Sig Fast",
+      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
+    },
+    {
+      "added_at": "2026-01-23 09:52:05",
+      "album": {
         "name": "Bobler",
         "url": "https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE"
       },
@@ -467,6 +483,22 @@
       "duration_ms": 161764,
       "name": "Bobler",
       "url": "https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7"
+    },
+    {
+      "added_at": "2026-01-23 09:52:05",
+      "album": {
+        "name": "Uendelighed",
+        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 173442,
+      "name": "Uendelighed",
+      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2026-01-23 09:52:05",
@@ -487,38 +519,6 @@
       "duration_ms": 199344,
       "name": "Push & Pull",
       "url": "https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi"
-    },
-    {
-      "added_at": "2026-01-23 09:52:05",
-      "album": {
-        "name": "S\u00e6tter Sig Fast",
-        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
-      },
-      "artists": [
-        {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
-        }
-      ],
-      "duration_ms": 176083,
-      "name": "S\u00e6tter Sig Fast",
-      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
-    },
-    {
-      "added_at": "2026-01-23 09:52:05",
-      "album": {
-        "name": "Uendelighed",
-        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 173442,
-      "name": "Uendelighed",
-      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2026-01-23 09:52:05",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-01-23 09:52:05",
       "album": {
+        "name": "Kun for os",
+        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        }
+      ],
+      "duration_ms": 200674,
+      "name": "Kun for os",
+      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
+    },
+    {
+      "added_at": "2026-01-23 09:52:05",
+      "album": {
         "name": "BARATO",
         "url": "https://open.spotify.com/album/3k2jX8she6s2NzgpAKWMpT"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 149771,
       "name": "BARATO",
       "url": "https://open.spotify.com/track/3iy4yl1YHHRlgZJbIKTnn0"
-    },
-    {
-      "added_at": "2026-01-23 09:52:05",
-      "album": {
-        "name": "Kun for os",
-        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
-      },
-      "artists": [
-        {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        }
-      ],
-      "duration_ms": 200674,
-      "name": "Kun for os",
-      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
     },
     {
       "added_at": "2026-01-23 09:52:05",
@@ -687,6 +687,42 @@
     {
       "added_at": "2026-01-23 09:52:05",
       "album": {
+        "name": "4CANTOS",
+        "url": "https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        }
+      ],
+      "duration_ms": 140676,
+      "name": "Ender Altid Hos Dig",
+      "url": "https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv"
+    },
+    {
+      "added_at": "2026-01-23 09:52:05",
+      "album": {
+        "name": "Jeg h\u00e5ber (feat. Mekdes)",
+        "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        },
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        }
+      ],
+      "duration_ms": 168469,
+      "name": "Jeg h\u00e5ber (feat. Mekdes)",
+      "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
+    },
+    {
+      "added_at": "2026-01-23 09:52:05",
+      "album": {
         "name": "Goodbyehouse",
         "url": "https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu"
       },
@@ -719,42 +755,6 @@
     {
       "added_at": "2026-01-23 09:52:05",
       "album": {
-        "name": "Jeg h\u00e5ber (feat. Mekdes)",
-        "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
-      },
-      "artists": [
-        {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        },
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
-        }
-      ],
-      "duration_ms": 168469,
-      "name": "Jeg h\u00e5ber (feat. Mekdes)",
-      "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
-    },
-    {
-      "added_at": "2026-01-23 09:52:05",
-      "album": {
-        "name": "4CANTOS",
-        "url": "https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "duration_ms": 140676,
-      "name": "Ender Altid Hos Dig",
-      "url": "https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv"
-    },
-    {
-      "added_at": "2026-01-23 09:52:05",
-      "album": {
         "name": "Scandalous",
         "url": "https://open.spotify.com/album/6UritbdE08G7xkNzR34SyJ"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 160914,
       "name": "Scandalous",
       "url": "https://open.spotify.com/track/26MFKVVewVd2pEWlWIroNK"
-    },
-    {
-      "added_at": "2026-01-23 09:52:05",
-      "album": {
-        "name": "What Men Do",
-        "url": "https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc"
-      },
-      "artists": [
-        {
-          "name": "Barbro",
-          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
-        }
-      ],
-      "duration_ms": 180268,
-      "name": "What Men Do",
-      "url": "https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO"
     },
     {
       "added_at": "2026-01-23 09:52:05",
@@ -803,18 +787,18 @@
     {
       "added_at": "2026-01-23 09:52:05",
       "album": {
-        "name": "affirmations",
-        "url": "https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I"
+        "name": "What Men Do",
+        "url": "https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc"
       },
       "artists": [
         {
-          "name": "Mercedess",
-          "url": "https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm"
+          "name": "Barbro",
+          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
         }
       ],
-      "duration_ms": 200000,
-      "name": "affirmations",
-      "url": "https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs"
+      "duration_ms": 180268,
+      "name": "What Men Do",
+      "url": "https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO"
     },
     {
       "added_at": "2026-01-23 09:52:05",
@@ -835,6 +819,22 @@
     {
       "added_at": "2026-01-23 09:52:05",
       "album": {
+        "name": "affirmations",
+        "url": "https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I"
+      },
+      "artists": [
+        {
+          "name": "Mercedess",
+          "url": "https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "affirmations",
+      "url": "https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs"
+    },
+    {
+      "added_at": "2026-01-23 09:52:05",
+      "album": {
         "name": "F\u00f8rhen",
         "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 199313,
       "name": "F\u00f8rhen",
       "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
+    },
+    {
+      "added_at": "2026-01-23 09:52:05",
+      "album": {
+        "name": "hot but depressive",
+        "url": "https://open.spotify.com/album/5Ay0BAktKkO9l7dUQSmTbU"
+      },
+      "artists": [
+        {
+          "name": "Elliot",
+          "url": "https://open.spotify.com/artist/1GUGqjD5UliyQ31rYo7JBd"
+        }
+      ],
+      "duration_ms": 164870,
+      "name": "hot but depressive",
+      "url": "https://open.spotify.com/track/4kRAn2ZrWPzN0bQiLmtLUq"
     },
     {
       "added_at": "2026-01-23 09:52:05",
@@ -867,18 +883,34 @@
     {
       "added_at": "2026-01-23 09:52:05",
       "album": {
-        "name": "hot but depressive",
-        "url": "https://open.spotify.com/album/5Ay0BAktKkO9l7dUQSmTbU"
+        "name": "Kommet Videre",
+        "url": "https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP"
       },
       "artists": [
         {
-          "name": "Elliot",
-          "url": "https://open.spotify.com/artist/1GUGqjD5UliyQ31rYo7JBd"
+          "name": "Laura Vejlby",
+          "url": "https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ"
         }
       ],
-      "duration_ms": 164870,
-      "name": "hot but depressive",
-      "url": "https://open.spotify.com/track/4kRAn2ZrWPzN0bQiLmtLUq"
+      "duration_ms": 141397,
+      "name": "Kommet Videre",
+      "url": "https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa"
+    },
+    {
+      "added_at": "2026-01-23 09:52:05",
+      "album": {
+        "name": "TO OM NATTEN",
+        "url": "https://open.spotify.com/album/4YugKOIaP4dq24uqXYWAtI"
+      },
+      "artists": [
+        {
+          "name": "Chukz",
+          "url": "https://open.spotify.com/artist/37rvQBNRn9rUEgPDPdOlfC"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "TO OM NATTEN",
+      "url": "https://open.spotify.com/track/42Rt9FsB03RRTfT4vR3prd"
     },
     {
       "added_at": "2026-01-23 09:52:05",
@@ -903,22 +935,6 @@
     {
       "added_at": "2026-01-23 09:52:05",
       "album": {
-        "name": "Kommet Videre",
-        "url": "https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP"
-      },
-      "artists": [
-        {
-          "name": "Laura Vejlby",
-          "url": "https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ"
-        }
-      ],
-      "duration_ms": 141397,
-      "name": "Kommet Videre",
-      "url": "https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa"
-    },
-    {
-      "added_at": "2026-01-23 09:52:05",
-      "album": {
         "name": "SIDDER FAST",
         "url": "https://open.spotify.com/album/1AzZUHmbgs54ifcIe6muYe"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 171744,
       "name": "SIDDER FAST",
       "url": "https://open.spotify.com/track/6Wrf5C5mxvkLIoFjlszAVK"
-    },
-    {
-      "added_at": "2026-01-23 09:52:05",
-      "album": {
-        "name": "TO OM NATTEN",
-        "url": "https://open.spotify.com/album/4YugKOIaP4dq24uqXYWAtI"
-      },
-      "artists": [
-        {
-          "name": "Chukz",
-          "url": "https://open.spotify.com/artist/37rvQBNRn9rUEgPDPdOlfC"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "TO OM NATTEN",
-      "url": "https://open.spotify.com/track/42Rt9FsB03RRTfT4vR3prd"
     },
     {
       "added_at": "2026-01-23 09:52:05",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-01-23 09:52:05",
       "album": {
-        "name": "Herified",
-        "url": "https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl"
-      },
-      "artists": [
-        {
-          "name": "mags",
-          "url": "https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV"
-    },
-    {
-      "added_at": "2026-01-23 09:52:05",
-      "album": {
         "name": "Barn Af Venedig",
         "url": "https://open.spotify.com/album/7md2UVqllUni4xa7373rXi"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 239000,
       "name": "Barn Af Venedig",
       "url": "https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE"
+    },
+    {
+      "added_at": "2026-01-23 09:52:05",
+      "album": {
+        "name": "Herified",
+        "url": "https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl"
+      },
+      "artists": [
+        {
+          "name": "mags",
+          "url": "https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV"
     },
     {
       "added_at": "2026-01-23 09:52:05",

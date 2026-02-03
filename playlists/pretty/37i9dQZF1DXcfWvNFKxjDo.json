@@ -1,6 +1,6 @@
 {
   "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: Funk Tribu",
-  "num_followers": 345049,
+  "num_followers": 345076,
   "original_name": "Dance Brandneu",
   "owner": {
     "name": "Spotify",
@@ -363,7 +363,7 @@
     {
       "added_at": "2026-01-29 23:00:29",
       "album": {
-        "name": "Waves of Silence",
+        "name": "Waves Of Silence",
         "url": "https://open.spotify.com/album/4TLl8qxwa6TleRRz8dXQLc"
       },
       "artists": [
@@ -1302,6 +1302,14 @@
         {
           "name": "JEWELS",
           "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+        },
+        {
+          "name": "YUMA",
+          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
         }
       ],
       "duration_ms": 302044,

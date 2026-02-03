@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 Lovvbömbing! in cover
 
-1,838 songs - 4 day 6 hr 20 min
+1,839 songs - 4 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [A Lie Is A Lie](https://open.spotify.com/track/1nWqcFW8v8TOr5hHaU2va8) | [The Scurbats](https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw) | [A Lie Is A Lie](https://open.spotify.com/album/3gyUFMjyoLcco8QG1Hnxw8) | 2:22 | 2023-04-27 | 2023-05-26 |
 | [A Luci Spente](https://open.spotify.com/track/6JLRMYtXE2rAEomsse0uns) | [Feava](https://open.spotify.com/artist/3SfiU1vN892diMx36GOJFW) | [A Luci Spente](https://open.spotify.com/album/2dQE0RL9VUoGiKtqeV0UXa) | 3:31 | 2025-11-06 | 2026-01-23 |
 | [A metà](https://open.spotify.com/track/1s6RyRMHG9wfHC1UEQ7ndJ) | [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR) | [A metà](https://open.spotify.com/album/6u254JwNZjXr1cFrAGG2Q8) | 3:53 | 2024-02-22 | 2024-04-19 |
-| [a minute a moment](https://open.spotify.com/track/5lKxgT7JyS3nqVVrypMonw) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/5E6aswcc0puXAQvvGuzOtp) | 3:23 | 2026-01-29 |  |
+| [a minute a moment](https://open.spotify.com/track/5lKxgT7JyS3nqVVrypMonw) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/5E6aswcc0puXAQvvGuzOtp) | 3:23 | 2026-01-29 | 2026-02-03 |
+| [a minute a moment](https://open.spotify.com/track/64nEsHY3vnRwKFcUjaz6cC) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/70WuZoQSaSw3sAS9hTu5cD) | 3:23 | 2026-02-02 |  |
 | [A New Light](https://open.spotify.com/track/3OU1LHgAN5jN8ACshKZAqE) | [Amarcord](https://open.spotify.com/artist/48wxf1us9rk9qOPqL6Ltcp), [Altutt](https://open.spotify.com/artist/7JHeVFGMb4p2Ayq1jU0g3p) | [A New Light](https://open.spotify.com/album/15Zt9VuEljTvIzCAQo6Ge9) | 3:35 | 2023-02-02 | 2023-04-02 |
 | [A step to lose the balance](https://open.spotify.com/track/0cncltlVleqwfPtzS1hOdy) | [Corde Oblique](https://open.spotify.com/artist/2GjsEox2Zh6hdrFGq8EbUF) | [A step to lose the balance](https://open.spotify.com/album/39LWCLOWDQSSqHYeOkhNvx) | 4:40 | 2024-11-07 | 2024-11-29 |
 | [A Symmetry Of Faith](https://open.spotify.com/track/3yf8Ey7eglWM25hpshJvsY) | [Mamuthones](https://open.spotify.com/artist/0JeuJ0H0Q54p6kTuHJSCIA) | [A Symmetry of Faith](https://open.spotify.com/album/3vxa7DAqTme0UE2D0FeKbg) | 7:19 | 2025-04-10 | 2025-05-30 |

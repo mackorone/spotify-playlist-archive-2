@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-139 songs - 8 hr 6 min
+145 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Ask Me Why](https://open.spotify.com/track/0FXqsSgfEQhk3gsLs8FKyL) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Ask Me Why](https://open.spotify.com/album/1A6vohn8A6e7Gn8mN5Ob0H) | 3:32 | 2025-11-15 | 2026-01-17 |
 | [Bacardi Love.](https://open.spotify.com/track/6P8S17uPnnLSEf2XPtDPbJ) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Bacardi Love.](https://open.spotify.com/album/4qK19G4ytKA2L8MYT6u2JQ) | 1:53 | 2025-11-07 | 2026-01-17 |
 | [Beautiful Fear](https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Beautiful Fear](https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD) | 3:52 | 2026-01-28 |  |
+| [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2026-02-03 |  |
 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-11-01 | 2026-01-17 |
 | [California \- Radio Edit](https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH) | [GCProductions](https://open.spotify.com/artist/524uMXhv7f1HWx04B6CsXj) | [California \(Radio Edit\)](https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo) | 3:24 | 2026-01-16 |  |
 | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/track/4b2xYezRYlT9jf6nKxPOwT) | [J0VANNA](https://open.spotify.com/artist/1ILEWunbo2Yr5xi6LXJtGy) | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/album/3WPYj0X3qC3jPwzyr3jekD) | 4:15 | 2025-10-17 | 2025-12-12 |
@@ -42,6 +43,7 @@
 | [Fairway](https://open.spotify.com/track/1AwmZwc3Wz0cKvhJZe9N0d) | [Ross Pond](https://open.spotify.com/artist/7EMyFndXI4hqep6zPbetVg) | [Fairway](https://open.spotify.com/album/1cdDTUPaINS3dIc06T4aFj) | 3:56 | 2026-01-06 |  |
 | [Fashion](https://open.spotify.com/track/1aoFQBQrclXuxUTCldGNYh) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Fashion](https://open.spotify.com/album/5inSPDl3eQnBxY1nJhZatm) | 2:53 | 2025-10-30 | 2025-12-12 |
 | [fate](https://open.spotify.com/track/4aP2iBOUZH4VYMebwnKs0P) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [fate](https://open.spotify.com/album/6gOaFZHjqC8dWTh4xfempC) | 2:46 | 2025-12-11 |  |
+| [Figure It Out](https://open.spotify.com/track/0GQ1eZt3LUUgpJY9P5HXSQ) | [Flying Finish](https://open.spotify.com/artist/335ZooC8OqPnT45ZJAbXPH) | [Figure It Out](https://open.spotify.com/album/3XlMJ55gOehJgsO4nVLTXK) | 3:25 | 2026-02-03 |  |
 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2025-12-26 |  |
 | [Fire](https://open.spotify.com/track/6AYMMXHitROsSNE6KxQz9I) | [Holly Wild](https://open.spotify.com/artist/1gwRWwDueKmMcxHLX5ttmC) | [Fire](https://open.spotify.com/album/1RpsbQ26lwGS3tWYCRsB1q) | 3:24 | 2025-10-24 | 2025-12-02 |
 | [Forever Blue](https://open.spotify.com/track/0HCpOV0BPeDiwzWMRdPc2F) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Forever Blue](https://open.spotify.com/album/1jPuINX9YzECKkhVibkw0V) | 4:16 | 2025-11-14 | 2026-01-17 |
@@ -50,6 +52,7 @@
 | [Give In](https://open.spotify.com/track/3rBgOuFBRFI2QbzEO7eyd9) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [Give In](https://open.spotify.com/album/4QVrhSGiHr8ThE1OT171Lq) | 3:32 | 2026-01-20 |  |
 | [Glue](https://open.spotify.com/track/4kzpEro293CHBZG3Ilx8kH) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [Glue](https://open.spotify.com/album/1SkgywYaggjQu4KO23HqG1) | 3:43 | 2026-01-06 |  |
 | [Gone by dawn](https://open.spotify.com/track/4ZBcvQ1zEk1SogN6mGEDA2) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 3:40 | 2025-12-28 |  |
+| [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2026-02-03 |  |
 | [Gravity Loop](https://open.spotify.com/track/2PLugFy81C4W9jgR7HAbHf) | [Little Less Pain](https://open.spotify.com/artist/1JLKWDQ8LN2uRAdFhUhWXJ) | [Gravity Loop](https://open.spotify.com/album/2TYl4QAwKId99BBMLzWJ6I) | 3:33 | 2026-01-05 |  |
 | [Half\-Blood](https://open.spotify.com/track/5AFcFKZCB62xZ1Tb0bV9Gr) | [Laylo](https://open.spotify.com/artist/5ENIBFuGai1t1NPOaUaqoX) | [Roots](https://open.spotify.com/album/1QiKkAgvwZVBfHKHVdta5C) | 2:49 | 2025-12-15 |  |
 | [Hamster Wheel](https://open.spotify.com/track/1HVZRpGwLyDY4VmNCGTaqY) | [seat](https://open.spotify.com/artist/2FrT1MucFCuKxmcnE5CZoM) | [Hamster Wheel](https://open.spotify.com/album/7srh7QnQEZGmN2dgtcn4O7) | 4:06 | 2025-11-04 | 2026-01-15 |
@@ -63,6 +66,7 @@
 | [i've](https://open.spotify.com/track/46CHFOn4ayNjzKQ31B7sbM) | [North Shy](https://open.spotify.com/artist/2A3nZ5WhiMaBI2NgsXa4aV) | [aftermath](https://open.spotify.com/album/3YF6DBphL3fpTWSVrIj2Og) | 3:25 | 2025-10-24 | 2025-12-02 |
 | [Icarus Waltz](https://open.spotify.com/track/37qu1BN6eNFBhLQzw5yL6H) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Icarus Waltz](https://open.spotify.com/album/1wezJ1s8GGRj9dgPHOWJD4) | 2:48 | 2025-10-23 | 2025-12-12 |
 | [Idle Stranger](https://open.spotify.com/track/11S6dH5Sklh1cE0UrmvlKl) | [Miccoli](https://open.spotify.com/artist/5k6ayjMCjG9Dyjkrnjwijv) | [Idle Stranger](https://open.spotify.com/album/1TbYvKKwBIqu9zesWejWRk) | 3:46 | 2025-10-24 | 2025-12-12 |
+| [in my bones](https://open.spotify.com/track/6vSNVLse9DXY8U2GUP0UgB) | [purr grief](https://open.spotify.com/artist/23WsCrFd5z85zpuxX6SCQI) | [superficial bliss](https://open.spotify.com/album/0L2BOFYomdaG0xhNoaoQJ4) | 4:49 | 2026-02-02 |  |
 | [It Keeps](https://open.spotify.com/track/2VJwP0nOIdaIQTTadQY8oF) | [Quarter Short](https://open.spotify.com/artist/5Bfa4fJtEIH2cZH5uu4xmv) | [It Keeps](https://open.spotify.com/album/7fF7TJmT7Q2CxN9wTmB60J) | 4:52 | 2025-10-24 | 2025-12-02 |
 | [It's Coming Soon](https://open.spotify.com/track/4ilN3buPvTXvnvgbFkAtjh) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [It's Coming Soon](https://open.spotify.com/album/08lUKyWInjb0ae5INhps8q) | 6:20 | 2026-01-12 |  |
 | [I’m Hateful, I’m Horrible, I Love You](https://open.spotify.com/track/0b1x4o4APSYGjWTmLe5eHI) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [I’m Hateful, I’m Horrible, I Love You](https://open.spotify.com/album/0QRneNwpd3eLpI5O4Gna21) | 3:14 | 2025-11-04 | 2026-01-17 |
@@ -100,6 +104,7 @@
 | [Phone Addiction](https://open.spotify.com/track/20lqNTuwAQPf2IQMBi4KYa) | [The Nouveau](https://open.spotify.com/artist/1ltzwAbvKdW4KhvTHmEvf4) | [Phone Addiction](https://open.spotify.com/album/7AMN0yf800pU8eMbC7NMmf) | 2:30 | 2025-11-13 | 2026-01-17 |
 | [Pilgrim](https://open.spotify.com/track/4Libgzg3p5CFzsVYlel1yQ) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:01 | 2026-01-06 |  |
 | [Polaroid](https://open.spotify.com/track/6EDdWIIOStvysXHsMSpIUb) | [The Dogwood](https://open.spotify.com/artist/4tTo9dVmw8bT7GFAzRNxPv) | [The Dogwood](https://open.spotify.com/album/3irhwWwqeNRizO3LaoRoWB) | 3:08 | 2025-10-24 | 2025-12-02 |
+| [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd), [Kevin Rheault](https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy) | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r) | 4:14 | 2026-02-02 |  |
 | [Rage \(Makes Me Feel Pretty\)](https://open.spotify.com/track/7AzxTnwsUBw23TfOKpGk71) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Rage \(Makes Me Feel Pretty\)](https://open.spotify.com/album/3oEjpwbZUee3pVdJ6CG7yh) | 3:35 | 2025-11-02 | 2026-01-15 |
 | [raise your glass](https://open.spotify.com/track/0W6VRjdA6e2eo5kvxAuNt1) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [raise your glass](https://open.spotify.com/album/7hg3gKYeOCxem72R3ClkKk) | 3:00 | 2026-01-03 |  |
 | [Rooted on the Road](https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip) | [CLANDESTINA](https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX) | [Rooted on the Road](https://open.spotify.com/album/1S1DoC1rXsONURycia5on5) | 2:56 | 2025-12-12 |  |
@@ -131,6 +136,7 @@
 | [These Days](https://open.spotify.com/track/2px3o5x9yKjcOH0jggvuTh) | [Talking Horses](https://open.spotify.com/artist/1IY7UHFAiPbjwHxM2lzB06) | [These Days](https://open.spotify.com/album/0YGva80Km2kPxFko2KglWD) | 4:25 | 2026-01-20 |  |
 | [Time Machine](https://open.spotify.com/track/6MYZWeZrIpeeJZHjc2fRCJ) | [MYLO BYBEE](https://open.spotify.com/artist/6NWYao9Kq1OZi1mki3yhwS) | [Time Machine](https://open.spotify.com/album/1hJzdSv338nXvopDvcgj3q) | 3:44 | 2025-11-24 | 2026-01-17 |
 | [Today's Quest](https://open.spotify.com/track/4skAncx0uLGrpKv97qS7If) | [The Kiffs](https://open.spotify.com/artist/3xZRG3IdVeo6jeVNitBYeX) | [Today's Quest](https://open.spotify.com/album/6HXzJjybyM7YvKNgTLWBwB) | 3:09 | 2025-11-15 | 2026-01-17 |
+| [Toujours Avec Toi](https://open.spotify.com/track/6KCbj9D831CMCWVXSA0I5O) | [MOON EATER](https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB) | [Toujours Avec Toi](https://open.spotify.com/album/4CfUDeION0lbXMiIIWjopW) | 1:41 | 2026-02-02 |  |
 | [Tripping](https://open.spotify.com/track/7dX84JjRtlN2M7dVWHFlei) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Can You Hear It? \(The Deluxe Edition\)](https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89) | 4:26 | 2026-01-25 |  |
 | [Truth for Lies](https://open.spotify.com/track/4HozmRQnEWTChIfyu7Aj7z) | [Remedies](https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN) | [Truth for Lies](https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh) | 3:25 | 2025-11-16 | 2026-01-17 |
 | [U Cut Ur Hair](https://open.spotify.com/track/7qDR32mmli6Ix41rsujmbZ) | [Ilona Stunz](https://open.spotify.com/artist/10IdIHd2qkAm4Q1IqfYotQ) | [These Days](https://open.spotify.com/album/1gNgWjjKfrL8tvl8MpwszK) | 2:38 | 2026-01-16 |  |

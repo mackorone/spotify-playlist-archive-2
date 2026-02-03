@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Gradur x SDM, Naza x L2B and Judith and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,321 likes - 111 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,326 likes - 111 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: Tommy Richman
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,279 likes - 165 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,271 likes - 165 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

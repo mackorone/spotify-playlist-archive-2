@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2599400,
+  "num_followers": 2599301,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 197549,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
         "name": "Apaga la luz",
         "url": "https://open.spotify.com/album/2lG9UbKlWrurlbT6GDZJCf"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 203556,
       "name": "Apaga la luz",
       "url": "https://open.spotify.com/track/45ewyxF625HzqLCKgZU0tp"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 197549,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
-        "name": "SOLANA",
-        "url": "https://open.spotify.com/album/4MsGXqVu2XqkvLScKUZ9XT"
-      },
-      "artists": [
-        {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
-        }
-      ],
-      "duration_ms": 190698,
-      "name": "SOLANA",
-      "url": "https://open.spotify.com/track/3xcf6DL9oc2botvStMUlnD"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
         "name": "Diet Coke",
         "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 155624,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
+        "name": "SOLANA",
+        "url": "https://open.spotify.com/album/4MsGXqVu2XqkvLScKUZ9XT"
+      },
+      "artists": [
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        }
+      ],
+      "duration_ms": 190698,
+      "name": "SOLANA",
+      "url": "https://open.spotify.com/track/3xcf6DL9oc2botvStMUlnD"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -1443,30 +1443,6 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/5MVi8CiWSQ3kCKs60H0Fj1"
-      },
-      "artists": [
-        {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        },
-        {
-          "name": "Arlo",
-          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
-        },
-        {
-          "name": "Allegra Miles",
-          "url": "https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu"
-        }
-      ],
-      "duration_ms": 274174,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/0aruNrdbcZlqrGynYCyEBU"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
         "name": "Greece 2000 (Max Styler Rework)",
         "url": "https://open.spotify.com/album/6waS2OtH6DmHs3uBbRpM43"
       },
@@ -1487,6 +1463,30 @@
       "duration_ms": 217674,
       "name": "Greece 2000 - Max Styler Rework",
       "url": "https://open.spotify.com/track/1rO61T3jVwbokKW9F1CWBv"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/5MVi8CiWSQ3kCKs60H0Fj1"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Arlo",
+          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
+        },
+        {
+          "name": "Allegra Miles",
+          "url": "https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu"
+        }
+      ],
+      "duration_ms": 274174,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/0aruNrdbcZlqrGynYCyEBU"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 144664,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 215930,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 144664,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -1767,6 +1767,26 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
+        "name": "It Gets Better (Chris Stussy Remix)",
+        "url": "https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "It Gets Better - Chris Stussy Remix",
+      "url": "https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/1JFKwBhIzMth2fmrq5qwSW"
       },
@@ -1787,26 +1807,6 @@
       "duration_ms": 219047,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4J1QJwbFiinUpUvsXdagBh"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
-        "name": "It Gets Better (Chris Stussy Remix)",
-        "url": "https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "It Gets Better - Chris Stussy Remix",
-      "url": "https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -2091,6 +2091,38 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
+        "name": "Turn The Lights Off (with Jaxstyle) [HILLS & Dansyn Remix]",
+        "url": "https://open.spotify.com/album/5VEPN4W4wed0acDeJQJtFD"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        },
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+        },
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        }
+      ],
+      "duration_ms": 173547,
+      "name": "Turn The Lights Off (with Jaxstyle) - HILLS & Dansyn Remix",
+      "url": "https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
         "name": "Somebody Like You",
         "url": "https://open.spotify.com/album/7vA6ciINABuYjDPMkF2dxI"
       },
@@ -2151,40 +2183,8 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
-        "name": "Turn The Lights Off (with Jaxstyle) [HILLS & Dansyn Remix]",
-        "url": "https://open.spotify.com/album/5VEPN4W4wed0acDeJQJtFD"
-      },
-      "artists": [
-        {
-          "name": "Just\u0117",
-          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
-        },
-        {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
-        },
-        {
-          "name": "Jaxstyle",
-          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
-        },
-        {
-          "name": "HILLS",
-          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
-        },
-        {
-          "name": "Dansyn",
-          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
-        }
-      ],
-      "duration_ms": 173547,
-      "name": "Turn The Lights Off (with Jaxstyle) - HILLS & Dansyn Remix",
-      "url": "https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/3CEENecoQXHFjOxgWpZVgE"
       },
       "artists": [
         {
@@ -2192,33 +2192,13 @@
           "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         },
         {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "Glowal",
+          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
         }
       ],
-      "duration_ms": 198190,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
-        "name": "the time",
-        "url": "https://open.spotify.com/album/6tG3LSQaSE9hBKylnA5Gr8"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Tabi",
-          "url": "https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn"
-        }
-      ],
-      "duration_ms": 122386,
-      "name": "the time",
-      "url": "https://open.spotify.com/track/7DECteJjqNfryTmWFgG1Q9"
+      "duration_ms": 172900,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -2275,6 +2255,26 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
+        "name": "the time",
+        "url": "https://open.spotify.com/album/6tG3LSQaSE9hBKylnA5Gr8"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Tabi",
+          "url": "https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn"
+        }
+      ],
+      "duration_ms": 122386,
+      "name": "the time",
+      "url": "https://open.spotify.com/track/7DECteJjqNfryTmWFgG1Q9"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
         "name": "collide",
         "url": "https://open.spotify.com/album/6JRhqulQNuOcumg7npM4QW"
       },
@@ -2291,8 +2291,8 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/3CEENecoQXHFjOxgWpZVgE"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
       },
       "artists": [
         {
@@ -2300,13 +2300,13 @@
           "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         },
         {
-          "name": "Glowal",
-          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 172900,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83"
+      "duration_ms": 198190,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -2387,6 +2387,26 @@
       "duration_ms": 210978,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/5D5uC8J6xBkGN66eLnqdvG"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
+        "name": "NEWORLD II",
+        "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "DONA",
+      "url": "https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -2515,26 +2535,6 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
-        "name": "Grove St. Party",
-        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
-      },
-      "artists": [
-        {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Grove St. Party",
-      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
         "name": "Dark Matter (Deluxe)",
         "url": "https://open.spotify.com/album/6PcXqjoJnFUdkhZcqRrgnm"
       },
@@ -2563,6 +2563,26 @@
       "duration_ms": 240714,
       "name": "For a Feeling (feat. RHODES) - Adam Sellouk & Y do I Remix",
       "url": "https://open.spotify.com/track/73AH0nlOJXIP366b1iJEHi"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
+        "name": "Grove St. Party",
+        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Grove St. Party",
+      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -2603,26 +2623,6 @@
       "duration_ms": 258466,
       "name": "Desolate Lands",
       "url": "https://open.spotify.com/track/0otmh5QkPkM4HtSleILAWC"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
-        "name": "NEWORLD II",
-        "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "DONA",
-      "url": "https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS"
     }
   ],
   "unique_name": "Power Hour",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,790 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,817 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 29 | [Exhale](https://open.spotify.com/track/4FJXpPTkaH5GEersVyy2zd) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Exhale](https://open.spotify.com/album/5QhRahKmC2RLWAyst08xJo) | 2:19 |
 | 30 | [Fall A Little Further](https://open.spotify.com/track/10AhHD1WQoDPicXe9WrK38) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Fall A Little Further](https://open.spotify.com/album/3rZRLZOPXIsA8hfYsm6IPj) | 2:39 |
 | 31 | [call me when it's over \- Dark Dhalia Remix](https://open.spotify.com/track/3eSsdUdz7IBN5k2ZRxS54t) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Dark Dhalia](https://open.spotify.com/artist/3oIYDwz9ylnIQ1jSg5373d) | [call me when it's over \(Dark Dhalia Remix\)](https://open.spotify.com/album/5Xa7gkLZnokZhbsTJbFciL) | 3:29 |
-| 32 | [Lakota \- LSB Remix](https://open.spotify.com/track/1cuOFKTqv183kejS7kX1tS) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Lakota \(LSB Remix\)](https://open.spotify.com/album/3lECU226QLGeyEhjhmH83D) | 4:47 |
-| 33 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |
-| 34 | [FEEL LIKE ME](https://open.spotify.com/track/7fsyvxSJi1vkTzwO5eQFMo) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [FEEL LIKE ME](https://open.spotify.com/album/3bJ63PICHastTFzJkXGHAu) | 5:13 |
-| 35 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
+| 32 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |
+| 33 | [Lakota \- LSB Remix](https://open.spotify.com/track/1cuOFKTqv183kejS7kX1tS) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Lakota \(LSB Remix\)](https://open.spotify.com/album/3lECU226QLGeyEhjhmH83D) | 4:47 |
+| 34 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
+| 35 | [FEEL LIKE ME](https://open.spotify.com/track/7fsyvxSJi1vkTzwO5eQFMo) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [FEEL LIKE ME](https://open.spotify.com/album/3bJ63PICHastTFzJkXGHAu) | 5:13 |
 | 36 | [Hidden](https://open.spotify.com/track/5jOedNHPaaA0xDW3KJMtts) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Hidden](https://open.spotify.com/album/09aNNEQS8YlhHZoBtfdSae) | 3:27 |
 | 37 | [White Flag](https://open.spotify.com/track/3UqbLM9NyeJOv57bWXQaOI) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [White Flag](https://open.spotify.com/album/4MOMPp99GoeKzxdx7KhUUk) | 4:04 |
 | 38 | [Angel](https://open.spotify.com/track/4FtJFhfo4HI2BapCYunmJs) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Timeless](https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk) | 4:58 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 46 | [Velour](https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Velour](https://open.spotify.com/album/07PcjZSnBUrQeaabtOhRDM) | 4:25 |
 | 47 | [Was It Enough](https://open.spotify.com/track/7ftbGeJEZCJTuLEpoeZl9m) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Was It Enough](https://open.spotify.com/album/7gghxoaleNauVod7MSNq1P) | 2:20 |
 | 48 | [You](https://open.spotify.com/track/1ZXuKEuTuptd2iuJXPrEF5) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [You / Someday](https://open.spotify.com/album/5x08zzrVrfGVNIfbVa8OMB) | 4:38 |
-| 49 | [Calling Out Your Name](https://open.spotify.com/track/6awyjYKGtDWPFaQXbvNu2e) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c), [Tom Wigley](https://open.spotify.com/artist/6eozTfRPyagBkpRZ3lSce2), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Calling Out Your Name \(NCS\)](https://open.spotify.com/album/0SndAxCJHSInfQFHSDbr7z) | 3:54 |
-| 50 | [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 |
+| 49 | [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 |
+| 50 | [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 |
 
 Snapshot ID: `AAAAAL4dhm/xe4Z2t5nzXomP7k6hCFT8`

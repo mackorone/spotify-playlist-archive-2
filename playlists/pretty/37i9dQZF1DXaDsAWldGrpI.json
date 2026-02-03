@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Megan Moroney",
-  "num_followers": 143165,
+  "num_followers": 143159,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -559,18 +559,18 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
-        "url": "https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7"
+        "name": "An Evening With John Denver",
+        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 237488,
-      "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
-      "url": "https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU"
+      "duration_ms": 220626,
+      "name": "Thank God I'm a Country Boy - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
+      "url": "https://open.spotify.com/track/7sVfJHBjH9cr4XsTYAwNYI"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -639,18 +639,18 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "An Evening With John Denver",
-        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
+        "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+        "url": "https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 220626,
-      "name": "Thank God I'm a Country Boy - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
-      "url": "https://open.spotify.com/track/7sVfJHBjH9cr4XsTYAwNYI"
+      "duration_ms": 237488,
+      "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+      "url": "https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "HIGH AND A(LIVE)",
-        "url": "https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL"
+        "name": "Live EP 001",
+        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
         }
       ],
-      "duration_ms": 188200,
-      "name": "You Get What You Give - Live from the HIGH AND ALIVE WORLD TOUR",
-      "url": "https://open.spotify.com/track/3G5OWChi7RlexYHqzWsn9I"
+      "duration_ms": 231634,
+      "name": "Straight and Narrow - Live",
+      "url": "https://open.spotify.com/track/0q2ZwaD697dTrD2Fq5jcvU"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -795,22 +795,6 @@
       "duration_ms": 238585,
       "name": "You'll Think Of Me - Live",
       "url": "https://open.spotify.com/track/2cvIplJWt8tF5ASde7hEvY"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
-        "name": "Live EP 001",
-        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 231634,
-      "name": "Straight and Narrow - Live",
-      "url": "https://open.spotify.com/track/0q2ZwaD697dTrD2Fq5jcvU"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -879,6 +863,22 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
+        "name": "Live EP 001",
+        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Dancing in the Sky - Live",
+      "url": "https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
         "name": "Live From Nashville",
         "url": "https://open.spotify.com/album/2WaRFVSRoYF4sW35doUmdF"
       },
@@ -899,34 +899,18 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "Live EP 001",
-        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
+        "name": "HIGH AND A(LIVE)",
+        "url": "https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL"
       },
       "artists": [
         {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Dancing in the Sky - Live",
-      "url": "https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 273826,
-      "name": "Sundown - Live at the Fillmore New York at Irving Plaza, 2010",
-      "url": "https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi"
+      "duration_ms": 188200,
+      "name": "You Get What You Give - Live from the HIGH AND ALIVE WORLD TOUR",
+      "url": "https://open.spotify.com/track/3G5OWChi7RlexYHqzWsn9I"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -943,6 +927,22 @@
       "duration_ms": 219296,
       "name": "Whiskey River - Live at Harrah's Casino, Lake Tahoe, NV - April 1978",
       "url": "https://open.spotify.com/track/2DC2kFrRHR9IVAuRdjAUQa"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 273826,
+      "name": "Sundown - Live at the Fillmore New York at Irving Plaza, 2010",
+      "url": "https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi"
     },
     {
       "added_at": "2026-01-30 05:01:11",

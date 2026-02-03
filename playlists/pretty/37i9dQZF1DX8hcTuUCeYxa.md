@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Mary Middlefield
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,783 likes - 90 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,769 likes - 90 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 26 | [Skip the Stones](https://open.spotify.com/track/6xLK6NAd7yCR4Dup5PTc3q) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Amber Skies](https://open.spotify.com/album/0NsOjvWtMD3hnWrhj32bR8) | 3:40 |
 | 27 | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 |
 | 28 | [And Angel](https://open.spotify.com/track/2qPsFrbn4G1ytL3YmBFhxf) | [HEADSEND](https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1) | [And Angel](https://open.spotify.com/album/6lOPTzfrBneSEOjPlabMn7) | 3:52 |
-| 29 | [Ich trag so viele Bilder](https://open.spotify.com/track/3zCKiiZceBP4lbIoSYztIV) | [Fortuna Ehrenfeld](https://open.spotify.com/artist/7xs1dZEBvPCk2zktBhVeKb) | [Ich trag so viele Bilder](https://open.spotify.com/album/5rDBVs9CA7IlO2pCzFwESy) | 2:26 |
+| 29 | [Ich trag so viele Bilder](https://open.spotify.com/track/3zCKiiZceBP4lbIoSYztIV) | [Fortuna Ehrenfeld](https://open.spotify.com/artist/7xs1dZEBvPCk2zktBhVeKb), [Jenny Thiele](https://open.spotify.com/artist/4puY5cD0nDMPTZNdPs73A9) | [Ich trag so viele Bilder](https://open.spotify.com/album/5rDBVs9CA7IlO2pCzFwESy) | 2:26 |
 | 30 | [Drain](https://open.spotify.com/track/1xX2EHbYKWej1pbtbOKIdy) | [JYN](https://open.spotify.com/artist/0AX2jZaUfUfEDzZnl6QCxG) | [Drain](https://open.spotify.com/album/7gmvyXSxwEaJqlxiU5gBgT) | 4:54 |
 | 31 | [Kiss&Tell](https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9) | [GUINEVERE](https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood) | [Kiss&Tell](https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR) | 3:45 |
 | 32 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 |

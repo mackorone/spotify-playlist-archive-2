@@ -3060,7 +3060,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -4666,7 +4666,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -4866,7 +4866,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 114437,
       "name": "Lost Angeles",
       "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
@@ -5752,7 +5752,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 107933,
       "name": "NO BATID\u00c3O - Slowed",
       "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
@@ -5880,7 +5880,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 180794,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/6l9rm6oaHmFO46bTtIr1ip"
@@ -8156,7 +8156,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 122193,
       "name": "theclubrock",
       "url": "https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3"
@@ -9824,7 +9824,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 176862,
       "name": "\u0411\u044b\u0442\u044c \u0431\u043e\u0433\u0430\u0442\u044b\u043c",
       "url": "https://open.spotify.com/track/3fvTuOnHeSB2OGXNqsmVnd"
@@ -12480,7 +12480,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 78960,
       "name": "\u043c\u0438\u043d\u0438\u044e\u0431\u043a\u0430",
       "url": "https://open.spotify.com/track/4c8cveMq2r70IVDbJIUwxv"
@@ -16236,7 +16236,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 105200,
       "name": "\u0423 \u0431\u0430\u0442\u0430\u0440\u0435\u0439",
       "url": "https://open.spotify.com/track/5sGKghKnKrufLzx3fwTr0i"
@@ -16816,7 +16816,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 138305,
       "name": "\u0446\u0435\u043d\u0430",
       "url": "https://open.spotify.com/track/0mXuEBzTaqYmzIovJhx20u"
@@ -17244,7 +17244,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 91875,
       "name": "\u044f \u043c\u043e\u043b\u043e\u0434\u043e\u0439 \u0432\u0430\u043c\u043f\u0438\u0440 vamp",
       "url": "https://open.spotify.com/track/6wkSonQhYvYe1LPeEswTYk"
@@ -17266,6 +17266,24 @@
       "duration_ms": 127505,
       "name": "\u044f \u043d\u0435 \u0441\u043e\u0431\u0438\u0440\u0430\u044e\u0441\u044c \u043c\u0435\u0448\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/3HuWSpAduuIwOr8Qfu1xK5"
+    },
+    {
+      "album": {
+        "name": "\u044f \u043d\u0435 \u0441\u043e\u0431\u0438\u0440\u0430\u044e\u0441\u044c \u043c\u0435\u0448\u0430\u0442\u044c",
+        "url": "https://open.spotify.com/album/39nOY3M1DptKScSoQ3T9MZ"
+      },
+      "artists": [
+        {
+          "name": "KRISTIEE",
+          "url": "https://open.spotify.com/artist/0qyv7OappGDi0OyJxcqpVt"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127505,
+      "name": "\u044f \u043d\u0435 \u0441\u043e\u0431\u0438\u0440\u0430\u044e\u0441\u044c \u043c\u0435\u0448\u0430\u0442\u044c",
+      "url": "https://open.spotify.com/track/5A6e9zwJeFxwyGO6MQCHIZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 🚀 when ur love language is bpm 🚀  Cover: Novah
 
-625 songs - 1 day 14 hr 2 min
+626 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Back To My Love](https://open.spotify.com/track/6w4Z8LfJ7aIU09mmkYADNt) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Back To My Love](https://open.spotify.com/album/26mbxEeOe1nc8tPPYZ1me0) | 3:16 | 2025-06-19 | 2025-07-04 |
 | [Back To The](https://open.spotify.com/track/4gyABb1xA4dMRcTKxnAclX) | [KELLAR](https://open.spotify.com/artist/0XpEz6rMdny9FKQ7rqxbDz) | [Back To The](https://open.spotify.com/album/0rg1yNcnFkU413om1g7JWf) | 3:46 | 2025-10-09 | 2025-10-24 |
 | [Bad Girls](https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Bad Girls](https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH) | 2:01 | 2024-02-22 |  |
-| [Bad Thoughts](https://open.spotify.com/track/2R7CPbBX9zRtzkp9tcAIXo) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06) | [Bad Thoughts](https://open.spotify.com/album/790dXl1NNHQRXvNB4MUI4y) | 2:36 | 2025-08-07 |  |
+| [Bad Thoughts](https://open.spotify.com/track/2R7CPbBX9zRtzkp9tcAIXo) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06) | [Bad Thoughts](https://open.spotify.com/album/790dXl1NNHQRXvNB4MUI4y) | 2:36 | 2025-08-07 | 2026-02-03 |
 | [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 | 2024-07-19 | 2024-12-20 |
 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 | 2023-03-10 | 2024-05-28 |
 | [Baianá](https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Baianá](https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2) | 2:22 | 2024-06-06 | 2025-01-25 |
@@ -189,6 +189,7 @@
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-06-05 | 2025-11-07 |
 | [Feel You \(Beside Me\)](https://open.spotify.com/track/2Y7TA1fnjoZWHvAhi70TUv) | [LUPA](https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo) | [Feel You \(Beside Me\)](https://open.spotify.com/album/4NvXD68wMwVrgzHSSkhQGC) | 5:29 | 2023-03-10 | 2023-04-28 |
 | [Feeling Gold](https://open.spotify.com/track/6JdUDhDszeEpzTuRVKKn0g) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Feeling Gold](https://open.spotify.com/album/4rwLTbGy5VDJXVzwfGBO1K) | 4:04 | 2024-10-10 | 2024-10-18 |
+| [Feuerzeug & Benzin](https://open.spotify.com/track/6Fd652yJx5S2oQauUFHicK) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Feuerzeug & Benzin](https://open.spotify.com/album/5RwdhxgvrDLHrK1EW9E5WR) | 3:27 | 2026-01-29 |  |
 | [Fever Dream](https://open.spotify.com/track/7tYZp2HjFtqTmf7vPnlzVF) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [Fever Dream](https://open.spotify.com/album/4nt8PE1gmjKUy5oxfGADJk) | 4:11 | 2025-08-14 | 2025-09-20 |
 | [Fight](https://open.spotify.com/track/7Gmq9uNMrZoB3QamiIm4zT) | [ADB](https://open.spotify.com/artist/12YduHZJsgoAQlzLEDdT8T) | [Fight](https://open.spotify.com/album/7IiP9ggy5PCKjfpTFIkWGx) | 4:38 | 2023-09-07 | 2023-09-13 |
 | [Fight Club](https://open.spotify.com/track/2oOUZQpxxcjlqOpgXSOgsi) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C) | [Fight Club](https://open.spotify.com/album/1KS4vA06SmccoAiFFjpyCG) | 4:08 | 2024-11-12 | 2024-12-10 |

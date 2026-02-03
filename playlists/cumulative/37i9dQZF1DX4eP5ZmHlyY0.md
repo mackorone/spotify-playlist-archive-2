@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: Stray Kids
 
-879 songs - 2 day 0 hr 9 min
+880 songs - 2 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,6 +415,7 @@
 | [LOVE TODAY](https://open.spotify.com/track/1oyuzoohgPr3SXcVa3gS4g) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [BTODAY](https://open.spotify.com/album/6zL4ZHKGmKkzQktkjGOq1K) | 3:07 | 2025-03-06 | 2025-06-02 |
 | [Love Triangle](https://open.spotify.com/track/09NZJcGT23meog6z9O7R0B) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Love Triangle](https://open.spotify.com/album/5Qm1VnWx4KqoeJGrcd2eoW) | 3:27 | 2024-06-18 | 2024-10-02 |
 | [love you](https://open.spotify.com/track/1aDjxcXgU3B85P04KBttwL) | [North Sound Signal](https://open.spotify.com/artist/3jNomgceQXS8NawlT2aDcn) | [love you](https://open.spotify.com/album/1Lz2m18o2oaR5gIzU8Fe2H) | 3:10 | 2024-01-31 | 2024-02-07 |
+| [LOVEPOCALYPSE](https://open.spotify.com/track/1iXokjFPQ3IheuITzMXmop) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [RE\-FLOW](https://open.spotify.com/album/1ttNsKgJ73ggScWDcEBHNy) | 2:49 | 2026-02-02 |  |
 | [Lovin' the Christmas](https://open.spotify.com/track/6Ws8iBdUJWu9XGsTGvQoEa) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Lovin' the Christmas](https://open.spotify.com/album/0n2rbF9KvlhkViJeW0JD8S) | 3:01 | 2025-12-15 |  |
 | [Lucky](https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Lucky](https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A) | 2:47 | 2024-07-30 | 2025-03-07 |
 | [Luminar](https://open.spotify.com/track/3NzXk5Da3FTirFCAHaHqtd) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [&Joy](https://open.spotify.com/album/4I50ZuDdnKeLnH8eXLao6m) | 3:45 | 2026-01-15 | 2026-01-30 |
@@ -582,7 +583,7 @@
 | [Rock this Party](https://open.spotify.com/track/3ca5Q1gTQI3Alaiutw2DDo) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [Rock this Party](https://open.spotify.com/album/7ImXa5wWsZP3WuFBqcYxGf) | 3:45 | 2025-03-06 | 2025-06-29 |
 | [Rocketeer](https://open.spotify.com/track/5ONAE8kbnpU9roroXScbcm) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [A \(Special Edition\)](https://open.spotify.com/album/51NB4PIC5vgboVu6RaLoa2) | 3:07 | 2023-11-23 | 2024-02-01 |
 | [Romance Number 110](https://open.spotify.com/track/1lPE1UFRuNk2NGCz575o3Q) | [Lead](https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE) | [XTLIKE](https://open.spotify.com/album/1dOvMsQgN6LOjmsuaaeVR5) | 3:10 | 2024-09-03 | 2024-09-18 |
-| [ROSES](https://open.spotify.com/track/6N4bKr0NJtNad2aPl0KAqm) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ROSES](https://open.spotify.com/album/0QqZQlP3TnrGvWpxKzOV96) | 2:21 | 2026-01-23 |  |
+| [ROSES](https://open.spotify.com/track/6N4bKr0NJtNad2aPl0KAqm) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ROSES](https://open.spotify.com/album/0QqZQlP3TnrGvWpxKzOV96) | 2:21 | 2026-01-23 | 2026-02-03 |
 | [Royal](https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Royal](https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd) | 3:42 | 2024-09-03 | 2025-03-07 |
 | [RU\-PUM PUM \- Japanese ver.](https://open.spotify.com/track/6DHzcm29i8oid8To18mMxx) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [RU\-PUM PUM \(Japanese ver.\)](https://open.spotify.com/album/5OurfkN4UO7DRPnIkfODcA) | 3:22 | 2024-03-05 | 2024-03-27 |
 | [Run It Back](https://open.spotify.com/track/2DHlMEVSmWkmffblREZazJ) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Run It Back](https://open.spotify.com/album/1r0FKtz7RlCiLJVDbwYVSk) | 2:26 | 2026-01-15 |  |

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,048 songs - 2 day 20 hr 39 min
+1,050 songs - 2 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Cross Talk I](https://open.spotify.com/track/5obg5AfnPR61YtwEewaSDu) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/5o7JAhPyjgxKUsJH0PpwwZ) | 0:22 | 2024-01-11 | 2024-01-13 |
 | [Cry Mfer](https://open.spotify.com/track/5FZc0K8y8Z2w1NJ8NIXKwc) | [My Idea](https://open.spotify.com/artist/7rfkR5Nc8l4eA34a7eazoW) | [CRY MFER](https://open.spotify.com/album/7g4M2kfMKd7bFJbYBPxWTD) | 4:14 | 2025-05-23 |  |
 | [Crying In My Sleep](https://open.spotify.com/track/7xKAS4iupiL25lxshaSgSv) | [Art Garfunkel](https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS) | [Watermark](https://open.spotify.com/album/3NJIOzTO3xQj2vwlRIyFV9) | 4:04 | 2022-07-27 |  |
+| [crying through my teeth](https://open.spotify.com/track/6nSVRWkCZ5H3gbbb92B4H6) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Ten Fold](https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3) | 2:20 | 2026-02-02 |  |
 | [CSS Suxxx](https://open.spotify.com/track/74gtCn2IdvChppm9YCdiZY) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 1:56 | 2025-04-07 |  |
 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 4:04 | 2024-01-08 |  |
 | [Dael](https://open.spotify.com/track/69qNxJaKA0lwABE6NOWf2J) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 6:39 | 2024-10-09 |  |
@@ -986,6 +987,7 @@
 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 | 2024-06-12 |  |
 | [Waiting For The Sun](https://open.spotify.com/track/4SzvlUfcualqndA5MyOcDe) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Hollywood Town Hall](https://open.spotify.com/album/5LepQubkRXKCki1YoEhCxH) | 4:20 | 2023-06-01 |  |
 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:20 | 2024-01-08 |  |
+| [wake up b\*tch](https://open.spotify.com/track/05lmssgsoHg0C4GHuXnKHo) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [do it afraid](https://open.spotify.com/album/43EgijZ2EwYb8xgRDMh8GK) | 1:52 | 2026-02-02 |  |
 | [Wakin on a Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 | 2023-01-11 | 2025-03-10 |
 | [Waking Up](https://open.spotify.com/track/6d5KjyeBSbzh6bbczubWko) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 2:57 | 2023-05-18 | 2023-05-27 |
 | [Walkman](https://open.spotify.com/track/0TpwCkpINVSDS4m4M1lf6T) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Walkman](https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY) | 2:57 | 2023-06-01 | 2023-06-02 |

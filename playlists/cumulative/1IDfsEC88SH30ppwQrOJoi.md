@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world.
 
-460 songs - 23 hr 40 min
+461 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 | 2024-11-25 | 2025-10-15 |
 | [Ur Mine](https://open.spotify.com/track/4Hbf5VN2uxsZOO9BUuCPlk) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Ur Mine](https://open.spotify.com/album/7dAvA6dUPuTvmyxlpFVeGz) | 2:16 | 2025-11-03 |  |
 | [ur so cute \(feat\. SEBii\)](https://open.spotify.com/track/00lqKT7IuN6RrDrlyO8imU) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Arkade](https://open.spotify.com/artist/1nxV2NMKSn8X42vJ9OyTn8), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [ur so cute \(feat\. SEBii\)](https://open.spotify.com/album/3eqmleRJF2beinWCLD7x5U) | 2:26 | 2024-04-26 | 2024-05-01 |
+| [Utopia \- DJ DALI Remix](https://open.spotify.com/track/4VpFQo5uDItpzW6XsTy0UH) | [Bang La Decks](https://open.spotify.com/artist/52gTlzX6XwOavvrAz8TxEz), [DJ DALI](https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS) | [Utopia \(DJ DALI Remix\)](https://open.spotify.com/album/63RYjt6GRGyFj3ufuUqf5X) | 3:56 | 2026-02-02 |  |
 | [Valerie](https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Valerie](https://open.spotify.com/album/4dYCFK8K9PQSL0SZ1DSgJD) | 2:21 | 2025-10-27 |  |
 | [Very Last Drop](https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [DnH](https://open.spotify.com/album/4yHqeYqa87qDBBDb0xwDyb) | 4:03 | 2023-07-21 | 2025-10-15 |
 | [Viva La Fiesta](https://open.spotify.com/track/4xNLZSlYnEUGzHdqp5w3we) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Supreme](https://open.spotify.com/album/6PgpnZ620yx129S0s6K23u) | 3:23 | 2024-02-09 | 2024-03-14 |

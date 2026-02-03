@@ -18170,7 +18170,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 176250,
       "name": "JAMAICANX Aftermix",
       "url": "https://open.spotify.com/track/0QVfU2dQT5r3K44kptEDug"
@@ -28832,7 +28832,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 167747,
       "name": "Palaces",
       "url": "https://open.spotify.com/track/6Asusvso8663OBJJI5BQzF"
@@ -37659,6 +37659,24 @@
     },
     {
       "album": {
+        "name": "TENGO UN FEELING TECHENGUE",
+        "url": "https://open.spotify.com/album/5QbceS9L7AD9SbJuCFfQLd"
+      },
+      "artists": [
+        {
+          "name": "Ferma DJ",
+          "url": "https://open.spotify.com/artist/2piuHrlTvuaPiORGR8KIHG"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139692,
+      "name": "TENGO UN FEELING TECHENGUE",
+      "url": "https://open.spotify.com/track/30vXSd1eQYxJiYo2qVSxWq"
+    },
+    {
+      "album": {
         "name": "Tengo Un Plan",
         "url": "https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6"
       },
@@ -40980,6 +40998,28 @@
       "duration_ms": 254664,
       "name": "Veneka",
       "url": "https://open.spotify.com/track/2nWlJ8gwkn5KPADD07zcmw"
+    },
+    {
+      "album": {
+        "name": "Gsony X la Juntada de los Artistas",
+        "url": "https://open.spotify.com/album/49jOZozM7NkfFs2oPCR7DC"
+      },
+      "artists": [
+        {
+          "name": "La Juntada De Los Artistas",
+          "url": "https://open.spotify.com/artist/7i3bAOrxjMPncmyUHRvMvN"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163777,
+      "name": "Veneno de Serpiente",
+      "url": "https://open.spotify.com/track/7wvDO5jP8t5b0N34EOcjLt"
     },
     {
       "album": {

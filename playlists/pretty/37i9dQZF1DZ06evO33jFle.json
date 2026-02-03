@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 540146,
+  "num_followers": 540226,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAC+/tGJoTw2cPRYhJfA32q/",
+  "snapshot_id": "aX6XgAAAAAABVCSLlkk6rKwkb61NCPbb",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos y Copas Desde Hollywood (En Vivo)",
-        "url": "https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE"
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 209906,
-      "name": "Juro Que Nunca Volver\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/4MQQ60Rvvm31Ecs7bAxecM"
+      "duration_ms": 178840,
+      "name": "Querida Socia",
+      "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente la Mejor",
-        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+        "name": "Besos y Copas Desde Hollywood (En Vivo)",
+        "url": "https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 178840,
-      "name": "Querida Socia",
-      "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
+      "duration_ms": 209906,
+      "name": "Juro Que Nunca Volver\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/4MQQ60Rvvm31Ecs7bAxecM"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Primer Lugar",
-        "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        },
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 278453,
-      "name": "El Destino",
-      "url": "https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Patr\u00f3n (La Victoria)",
         "url": "https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 248000,
       "name": "El Amor (feat. Jenni Rivera)",
       "url": "https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Primer Lugar",
+        "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 278453,
+      "name": "El Destino",
+      "url": "https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6"
     },
     {
       "added_at": null,

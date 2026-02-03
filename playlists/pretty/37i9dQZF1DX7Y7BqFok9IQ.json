@@ -1,13 +1,29 @@
 {
-  "description": "The best of modern blues rock. Cover: Samantha Fish",
-  "num_followers": 257806,
+  "description": "The best of modern blues rock. Cover: Robert Randolph",
+  "num_followers": 257864,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIw4TxS8/bcLCS2WiisCsv1tCO2x",
+  "snapshot_id": "AAAAAEl03T2sPsi6U09wt4mLcKJzR/HI",
   "tracks": [
+    {
+      "added_at": "2025-06-27 04:00:26",
+      "album": {
+        "name": "Preacher Kids",
+        "url": "https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph",
+          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "7 Generations",
+      "url": "https://open.spotify.com/track/3Ng6V9tduQzqGJx7ABoNRz"
+    },
     {
       "added_at": "2026-01-23 05:00:21",
       "album": {
@@ -167,22 +183,6 @@
       "duration_ms": 120994,
       "name": "Running Dry",
       "url": "https://open.spotify.com/track/3PTqf7JIcqYwyKCuLBKAqt"
-    },
-    {
-      "added_at": "2025-06-27 04:00:26",
-      "album": {
-        "name": "Preacher Kids",
-        "url": "https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph",
-          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
-        }
-      ],
-      "duration_ms": 356066,
-      "name": "7 Generations",
-      "url": "https://open.spotify.com/track/3Ng6V9tduQzqGJx7ABoNRz"
     },
     {
       "added_at": "2025-06-20 04:00:32",

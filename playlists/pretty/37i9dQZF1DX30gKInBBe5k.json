@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212304,
+  "num_followers": 212297,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Ask Me Tomorrow",
-        "url": "https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy"
-      },
-      "artists": [
-        {
-          "name": "Mojave 3",
-          "url": "https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio"
-        }
-      ],
-      "duration_ms": 348400,
-      "name": "Love Songs on the Radio",
-      "url": "https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Deathconsciousness",
         "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 338000,
       "name": "Bloodhail",
       "url": "https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Ask Me Tomorrow",
+        "url": "https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy"
+      },
+      "artists": [
+        {
+          "name": "Mojave 3",
+          "url": "https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio"
+        }
+      ],
+      "duration_ms": 348400,
+      "name": "Love Songs on the Radio",
+      "url": "https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Waves Are Universal",
-        "url": "https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY"
-      },
-      "artists": [
-        {
-          "name": "Rachel Goswell",
-          "url": "https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Save Yourself",
-      "url": "https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "i hope everything goes well",
         "url": "https://open.spotify.com/album/747L9aHFJZ6tN7rwnyNC4c"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 130798,
       "name": "glowing hands",
       "url": "https://open.spotify.com/track/4R5bWuBSkvxFLOc3SDjq3Z"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Waves Are Universal",
+        "url": "https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY"
+      },
+      "artists": [
+        {
+          "name": "Rachel Goswell",
+          "url": "https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE"
     },
     {
       "added_at": "2025-08-07 23:00:59",

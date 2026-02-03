@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,936 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,932 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 35 | [Transe](https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ) | 3:10 |
 | 36 | [sol na pele](https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq) | [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj) | [big buraco](https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN) | 3:00 |
 | 37 | [Cancionera](https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 5:36 |
-| 38 | [Só Quero Ver](https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 2:49 |
-| 39 | [Volta](https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Do Velho Testamento](https://open.spotify.com/album/48XG3OIWFse7bJXCaOIaRF) | 2:27 |
+| 38 | [Volta](https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Do Velho Testamento](https://open.spotify.com/album/48XG3OIWFse7bJXCaOIaRF) | 2:27 |
+| 39 | [Só Quero Ver](https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 2:49 |
 | 40 | [te quiero](https://open.spotify.com/track/3G00ACFE1MAfxyfbXOR8Ji) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [te quiero](https://open.spotify.com/album/23hLGSkYcppnyp3QKW8Z7B) | 3:35 |
 | 41 | [CONJUNTÃO DE TIME](https://open.spotify.com/track/3bvIkHpcpgw4vFXpAvrwZx) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MPC \(Música Popular Carioca\)](https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R) | 2:34 |
 | 42 | [A natureza das coisas](https://open.spotify.com/track/4zvqkPu8ajJc0Qglca07ZG) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Casa Coração](https://open.spotify.com/album/6vSNBpqihCHJcrCVTstJMv) | 4:01 |

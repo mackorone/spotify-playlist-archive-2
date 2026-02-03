@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,738 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,741 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [цена](https://open.spotify.com/track/0mXuEBzTaqYmzIovJhx20u) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [паранойя](https://open.spotify.com/artist/6xcOPl8sgatUgeDsUE9QQb) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 2:18 |
 | 50 | [NO BATIDÃO \- Slowed](https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj) | [ZXKAI](https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt), [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa) | [NO BATIDÃO](https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1) | 1:47 |
 
-Snapshot ID: `MRK4QAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MRQMGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

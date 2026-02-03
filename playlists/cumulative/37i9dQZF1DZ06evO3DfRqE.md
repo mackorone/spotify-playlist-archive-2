@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-114 songs - 7 hr 27 min
+115 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All You Need Is Love](https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 2:29 | 2024-01-29 |  |
 | [Aloha, E Komo Mai](https://open.spotify.com/track/6N4hfS4moia0tvA7S23VwO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:43 | 2024-01-29 |  |
 | [Arigato](https://open.spotify.com/track/6ONh5KkYlsOY6dHjNocc66) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NASHVILLE SESSIONS](https://open.spotify.com/album/6dClr5PTCr6ohbK74jipdD) | 3:02 | 2026-01-25 | 2026-02-01 |
-| [Beneath The Waves](https://open.spotify.com/track/36xDZNphTqQmOR7wrHQxdi) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Beneath The Waves](https://open.spotify.com/album/1qPXLZWbKGoaXbygOCwXBF) | 3:13 | 2025-11-01 |  |
+| [Beneath The Waves](https://open.spotify.com/track/36xDZNphTqQmOR7wrHQxdi) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Beneath The Waves](https://open.spotify.com/album/1qPXLZWbKGoaXbygOCwXBF) | 3:13 | 2025-11-01 | 2026-02-03 |
 | [Beneath The Waves Part 2](https://open.spotify.com/track/4d3ryiA37ycUVp0wcF6m6y) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Beneath The Waves Part 2](https://open.spotify.com/album/60E75bjl78vQekCfNScQ89) | 4:45 | 2026-01-24 |  |
 | [Bizarre Love Triangle](https://open.spotify.com/track/3pslJDAFDwUSOhLxvr7MPl) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [The Greatest Day](https://open.spotify.com/album/0NEElyt7JwoVWdJyKObGX2) | 4:19 | 2025-06-20 | 2025-09-13 |
 | [Bohemian Rhapsody](https://open.spotify.com/track/1FNW6pTw6US1YHi0miBlto) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 5:54 | 2024-01-29 |  |
@@ -57,6 +57,7 @@
 | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/track/1sni9s71l3179u3nW3mchX) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Learn to Let Go](https://open.spotify.com/album/6A0H4yzf2rXgtK6RTKZPMF) | 4:17 | 2025-03-15 | 2025-04-27 |
 | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/track/7HqVjdEyCn4QUyumS7Pf6f) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Walk This Road \(feat\. Mavis Staples\)](https://open.spotify.com/album/17rXAvVnX0Anzzm1iFX3d3) | 4:17 | 2025-01-25 | 2025-03-15 |
 | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK) | 4:20 | 2024-01-29 |  |
+| [Let's Go Home](https://open.spotify.com/track/5A3Csnl1sqe3zlWD7Gs3gf) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 2:21 | 2026-02-03 |  |
 | [Morning Blue](https://open.spotify.com/track/44OX5NkBwQ3UTdYrFQDozm) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live With Jake Shimabukuro](https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so) | 3:10 | 2025-02-17 | 2025-04-10 |
 | [NADA SOUSOU](https://open.spotify.com/track/5fxN3wmbv8c121QjfbZhjZ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/4N4xt7jHI0BOL8wxTfHuVg) | 3:26 | 2025-08-06 |  |
 | [NADA SOUSOU\(LIVE\)](https://open.spotify.com/track/6LMieDT7PSjRmfkyMB1Wys) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live in Japan](https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL) | 3:52 | 2024-02-25 | 2025-08-06 |

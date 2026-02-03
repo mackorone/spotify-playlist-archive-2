@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADv4jR9QgV8TKtqFNxZksEv",
+  "snapshot_id": "aX6XgAAAAAD32IMq082bk82SA3vN/xrC",
   "tracks": [
     {
       "added_at": null,
@@ -691,38 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Filha do Deputado",
-        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 371852,
-      "name": "Filha do Deputado",
-      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diz A\u00ed Qual \u00e9 o Plano?",
         "url": "https://open.spotify.com/album/0rZQI2wpjiNTxeVCSyZI0M"
       },
@@ -775,6 +743,38 @@
       "duration_ms": 703157,
       "name": "Diz A\u00ed Qual \u00e9 o Plano?",
       "url": "https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Filha do Deputado",
+        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 371852,
+      "name": "Filha do Deputado",
+      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
     },
     {
       "added_at": null,
@@ -1059,30 +1059,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oldilla",
-          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Abre O Quarto",
-      "url": "https://open.spotify.com/track/4uPDEgzF8xqGS6T1KJ8ohY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Era Rico e N\u00e3o Sabia",
         "url": "https://open.spotify.com/album/0aGMKR6Xg3vti7NIjg79sJ"
       },
@@ -1107,6 +1083,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Abre O Quarto",
+      "url": "https://open.spotify.com/track/4uPDEgzF8xqGS6T1KJ8ohY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Voando Alto",
         "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
       },
@@ -1123,38 +1123,6 @@
       "duration_ms": 137430,
       "name": "To Voando Alto",
       "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jogo do Milh\u00e3o",
-        "url": "https://open.spotify.com/album/3eMouVrdJSJgk1Joj172dL"
-      },
-      "artists": [
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 194634,
-      "name": "Desde Menorzin",
-      "url": "https://open.spotify.com/track/5XvbaX4eAeNkScND1tInpr"
     },
     {
       "added_at": null,
@@ -1199,6 +1167,38 @@
       "duration_ms": 257622,
       "name": "Seu Nome",
       "url": "https://open.spotify.com/track/5V3CmFA57izQ3cwZFEpmle"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jogo do Milh\u00e3o",
+        "url": "https://open.spotify.com/album/3eMouVrdJSJgk1Joj172dL"
+      },
+      "artists": [
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 194634,
+      "name": "Desde Menorzin",
+      "url": "https://open.spotify.com/track/5XvbaX4eAeNkScND1tInpr"
     },
     {
       "added_at": null,
@@ -1595,26 +1595,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puxando Lan\u00e7a no Barco Cheio de Piranha",
-        "url": "https://open.spotify.com/album/4l6121oWYQpNwTDUL95wuy"
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/52rjSQGfI5meOWu0YFdNsu"
       },
       "artists": [
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "DJ Alex da Baixada",
-          "url": "https://open.spotify.com/artist/3CpM0dzOVpRwngLci6OKfm"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 155611,
-      "name": "Puxando Lan\u00e7a no Barco Cheio de Piranha",
-      "url": "https://open.spotify.com/track/4X2CzIGItTPTwJpAmT32Mb"
+      "duration_ms": 142564,
+      "name": "Metflix - Remix",
+      "url": "https://open.spotify.com/track/5pCJL7iUT48OC56cAyWtuz"
     }
   ],
   "unique_name": "This Is Mc Poze do Rodo",

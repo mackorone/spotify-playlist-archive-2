@@ -1919,6 +1919,28 @@
     },
     {
       "album": {
+        "name": "CAMBIAR\u00c9",
+        "url": "https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181237,
+      "name": "CAMBIAR\u00c9",
+      "url": "https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u"
+    },
+    {
+      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/7xlPVZP989LXPe1XnYuJfm"
       },

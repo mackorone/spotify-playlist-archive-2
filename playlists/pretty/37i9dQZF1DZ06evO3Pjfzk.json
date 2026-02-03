@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 106214,
+  "num_followers": 106275,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAA3pLqPht0ZTw1urRw9ayC6",
+  "snapshot_id": "aX6XgAAAAAAUbo/p9qBUo+e39lYdiCFy",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere Over Laredo",
-        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Somewhere Over Laredo",
-      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wildflowers and Wild Horses",
         "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 216573,
       "name": "Wildflowers and Wild Horses (Single Version)",
       "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somewhere Over Laredo",
+        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Somewhere Over Laredo",
+      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
     },
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Save Me - with Lainey Wilson",
-      "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 277659,
       "name": "wait in the truck",
       "url": "https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Save Me - with Lainey Wilson",
+      "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Weak-End",
-      "url": "https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 192459,
       "name": "Nosedive (Feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Weak-End",
+      "url": "https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e"
     },
     {
       "added_at": null,
@@ -427,42 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIGH",
-        "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "GO HOME W U",
-      "url": "https://open.spotify.com/track/4NqRL2Xu4IkpE4D7zWC2M1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Call A Cowboy",
-      "url": "https://open.spotify.com/track/5KPDO23ZYI5BRlnlNoWKyg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Light of a Clear Blue Morning",
         "url": "https://open.spotify.com/album/6YExDnUZUEXINyiPGk3FMz"
       },
@@ -491,6 +455,42 @@
       "duration_ms": 227692,
       "name": "Light of a Clear Blue Morning",
       "url": "https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Call A Cowboy",
+      "url": "https://open.spotify.com/track/5KPDO23ZYI5BRlnlNoWKyg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "GO HOME W U",
+      "url": "https://open.spotify.com/track/4NqRL2Xu4IkpE4D7zWC2M1"
     },
     {
       "added_at": null,
@@ -531,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 228323,
+      "name": "Play Something Country (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/1Lvj1RFU2bF24KIi0c3Kku"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wild Woman (Lainey Wilson Version)",
         "url": "https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 212175,
       "name": "Wild Woman - Lainey Wilson Version",
       "url": "https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 228323,
-      "name": "Play Something Country (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/1Lvj1RFU2bF24KIi0c3Kku"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 239013,
-      "name": "Rolling Stone",
-      "url": "https://open.spotify.com/track/3p2brffzUnKntkWawtYQd9"
+      "duration_ms": 140413,
+      "name": "WWDD",
+      "url": "https://open.spotify.com/track/7AXmVQNJ93e9k2TLLU3ybl"
     },
     {
       "added_at": null,
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 140413,
-      "name": "WWDD",
-      "url": "https://open.spotify.com/track/7AXmVQNJ93e9k2TLLU3ybl"
+      "duration_ms": 239013,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/3p2brffzUnKntkWawtYQd9"
     },
     {
       "added_at": null,

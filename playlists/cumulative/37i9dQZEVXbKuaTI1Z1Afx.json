@@ -6520,7 +6520,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 210945,
       "name": "Au Pays du Cocaine",
       "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
@@ -7670,7 +7670,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 196382,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/06oRwfBISxd06rozMDDogR"
@@ -8642,7 +8642,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -9824,7 +9824,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 150733,
       "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
       "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
@@ -28144,7 +28144,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 197539,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
@@ -31294,7 +31294,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 299583,
       "name": "God I'm Just Grateful",
       "url": "https://open.spotify.com/track/2ggP6WjaTsloaiBxXY5JB7"
@@ -43642,6 +43642,24 @@
       "duration_ms": 438493,
       "name": "Just the Two of Us (feat. Bill Withers)",
       "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
+    },
+    {
+      "album": {
+        "name": "Star 2008",
+        "url": "https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210070,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro"
     },
     {
       "album": {
@@ -69142,7 +69160,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 231160,
       "name": "Safe With You",
       "url": "https://open.spotify.com/track/6HdtgOCa5jYBR6MI3ZZBJG"
@@ -73244,6 +73262,24 @@
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "album": {
+        "name": "Carefree, very",
+        "url": "https://open.spotify.com/album/1v9e2OX4Hq5p5OGtXnKH05"
+      },
+      "artists": [
+        {
+          "name": "Evening Elephants",
+          "url": "https://open.spotify.com/artist/4mvJqW3HQswIu7RmvcAQUy"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186070,
+      "name": "Snow on The Bluff",
+      "url": "https://open.spotify.com/track/0Jspxf6aQbVmZo0o6TSm00"
     },
     {
       "album": {
@@ -89782,7 +89818,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 434707,
       "name": "What A God - Live",
       "url": "https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE"

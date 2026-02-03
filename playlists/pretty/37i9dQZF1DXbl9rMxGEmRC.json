@@ -1,6 +1,6 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics. Cover: Behemoth",
-  "num_followers": 464067,
+  "num_followers": 464060,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Zwielicht",
-        "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
-      },
-      "artists": [
-        {
-          "name": "Mental Cruelty",
-          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
-        }
-      ],
-      "duration_ms": 307526,
-      "name": "Obsessis a Daemonio",
-      "url": "https://open.spotify.com/track/5Cfpkql6atqov7YHVG7Py7"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Manual Manic Procedures",
         "url": "https://open.spotify.com/album/2p4qPInJmmYl8QZ3uhIbDb"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 283520,
       "name": "Hands of Eternity",
       "url": "https://open.spotify.com/track/77KTNAnVYjrqbbzTbqUUCi"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Zwielicht",
+        "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
+      },
+      "artists": [
+        {
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+        }
+      ],
+      "duration_ms": 307526,
+      "name": "Obsessis a Daemonio",
+      "url": "https://open.spotify.com/track/5Cfpkql6atqov7YHVG7Py7"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
+        "name": "Muuntautuja",
+        "url": "https://open.spotify.com/album/6cRCD79pIJvu5aeKWVtskd"
+      },
+      "artists": [
+        {
+          "name": "Oranssi Pazuzu",
+          "url": "https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW"
+        }
+      ],
+      "duration_ms": 270240,
+      "name": "Muuntautuja",
+      "url": "https://open.spotify.com/track/5izEvN0Q3z5WjiYAkEfMxc"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
         "name": "Scorched Earth",
         "url": "https://open.spotify.com/album/3bPrk5eZSMIHL5uIS2ESe6"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 456495,
       "name": "Heal Me",
       "url": "https://open.spotify.com/track/36ahxTWbTA2AMIM3lLOFe7"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
-        "name": "Muuntautuja",
-        "url": "https://open.spotify.com/album/6cRCD79pIJvu5aeKWVtskd"
-      },
-      "artists": [
-        {
-          "name": "Oranssi Pazuzu",
-          "url": "https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW"
-        }
-      ],
-      "duration_ms": 270240,
-      "name": "Muuntautuja",
-      "url": "https://open.spotify.com/track/5izEvN0Q3z5WjiYAkEfMxc"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "How's The Heart?",
-        "url": "https://open.spotify.com/album/2jpIYGOmQAMdH3jmT4x7bJ"
-      },
-      "artists": [
-        {
-          "name": "Bloodred Hourglass",
-          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
-        }
-      ],
-      "duration_ms": 238760,
-      "name": "Of Course I Still Love You",
-      "url": "https://open.spotify.com/track/6R0CR57ZXuavpJ0DsOT8Nu"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Outstrider",
         "url": "https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 252066,
       "name": "Harvest Pyre",
       "url": "https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "How's The Heart?",
+        "url": "https://open.spotify.com/album/2jpIYGOmQAMdH3jmT4x7bJ"
+      },
+      "artists": [
+        {
+          "name": "Bloodred Hourglass",
+          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
+        }
+      ],
+      "duration_ms": 238760,
+      "name": "Of Course I Still Love You",
+      "url": "https://open.spotify.com/track/6R0CR57ZXuavpJ0DsOT8Nu"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Tara",
-        "url": "https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke"
-      },
-      "artists": [
-        {
-          "name": "Absu",
-          "url": "https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP"
-        }
-      ],
-      "duration_ms": 261693,
-      "name": "Pillars Of Mercy",
-      "url": "https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/788vAauAwMdVMkdlgiyzMx"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 261920,
       "name": "Loke",
       "url": "https://open.spotify.com/track/27vcwfCcgCaso2A0hifBT9"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke"
+      },
+      "artists": [
+        {
+          "name": "Absu",
+          "url": "https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "Pillars Of Mercy",
+      "url": "https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Songs Of The Dusk - EP",
-        "url": "https://open.spotify.com/album/56gvAlr6FY7iXFmF3Lx2pN"
-      },
-      "artists": [
-        {
-          "name": "Insomnium",
-          "url": "https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS"
-        }
-      ],
-      "duration_ms": 410746,
-      "name": "Stained in Red",
-      "url": "https://open.spotify.com/track/5Ypnghtx7Ezzf5x16PDpDC"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 238800,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Songs Of The Dusk - EP",
+        "url": "https://open.spotify.com/album/56gvAlr6FY7iXFmF3Lx2pN"
+      },
+      "artists": [
+        {
+          "name": "Insomnium",
+          "url": "https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS"
+        }
+      ],
+      "duration_ms": 410746,
+      "name": "Stained in Red",
+      "url": "https://open.spotify.com/track/5Ypnghtx7Ezzf5x16PDpDC"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Angels Hung from the Arches of Heaven",
-        "url": "https://open.spotify.com/album/3wkROANEE5jyoV1B1usizt"
-      },
-      "artists": [
-        {
-          "name": "Goatwhore",
-          "url": "https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI"
-        }
-      ],
-      "duration_ms": 294610,
-      "name": "Angels Hung from the Arches of Heaven",
-      "url": "https://open.spotify.com/track/2aQuwaap0qGUFx3qCt7y9F"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Hellbirds",
         "url": "https://open.spotify.com/album/3EXJcYYzCFx3m4ankVY5OY"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 274560,
       "name": "Hellbirds",
       "url": "https://open.spotify.com/track/2U72WcsoIurnXk2dPBMqKX"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Angels Hung from the Arches of Heaven",
+        "url": "https://open.spotify.com/album/3wkROANEE5jyoV1B1usizt"
+      },
+      "artists": [
+        {
+          "name": "Goatwhore",
+          "url": "https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI"
+        }
+      ],
+      "duration_ms": 294610,
+      "name": "Angels Hung from the Arches of Heaven",
+      "url": "https://open.spotify.com/track/2aQuwaap0qGUFx3qCt7y9F"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
+        "name": "Goliath",
+        "url": "https://open.spotify.com/album/0wJBlM3pHLvc2JwMYXVzPv"
+      },
+      "artists": [
+        {
+          "name": "Kataklysm",
+          "url": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
+        }
+      ],
+      "duration_ms": 293351,
+      "name": "Dark Wings of Deception",
+      "url": "https://open.spotify.com/track/5LrX5wEhuuEKrsw2EKWznq"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
         "name": "Veil of Death, Ruptured",
         "url": "https://open.spotify.com/album/2mrjtCZq2BqaJL2sojoaln"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 233626,
       "name": "I Resign",
       "url": "https://open.spotify.com/track/6s3s4DgMYB4aXtZhNa2rmf"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
-        "name": "Goliath",
-        "url": "https://open.spotify.com/album/0wJBlM3pHLvc2JwMYXVzPv"
-      },
-      "artists": [
-        {
-          "name": "Kataklysm",
-          "url": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
-        }
-      ],
-      "duration_ms": 293351,
-      "name": "Dark Wings of Deception",
-      "url": "https://open.spotify.com/track/5LrX5wEhuuEKrsw2EKWznq"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Human Scum",
-        "url": "https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        }
-      ],
-      "duration_ms": 275419,
-      "name": "Human Scum",
-      "url": "https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Lord of Ruins",
         "url": "https://open.spotify.com/album/02gKvANAOKzUvhicE1nP1p"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Virtus Asinaria - Prayer",
-        "url": "https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ"
+        "name": "Human Scum",
+        "url": "https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF"
       },
       "artists": [
         {
-          "name": "Belphegor",
-          "url": "https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM"
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
         }
       ],
-      "duration_ms": 318546,
-      "name": "Virtus Asinaria - Prayer",
-      "url": "https://open.spotify.com/track/6xzzWEFp3AWVkZLXx9HKDh"
+      "duration_ms": 275419,
+      "name": "Human Scum",
+      "url": "https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1495,6 +1479,22 @@
       "duration_ms": 231318,
       "name": "Annihilation Phenomena",
       "url": "https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Virtus Asinaria - Prayer",
+        "url": "https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ"
+      },
+      "artists": [
+        {
+          "name": "Belphegor",
+          "url": "https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM"
+        }
+      ],
+      "duration_ms": 318546,
+      "name": "Virtus Asinaria - Prayer",
+      "url": "https://open.spotify.com/track/6xzzWEFp3AWVkZLXx9HKDh"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Vengeance of Eternal Fire",
-        "url": "https://open.spotify.com/album/4MHngXy37mudMEn2H39sAg"
-      },
-      "artists": [
-        {
-          "name": "Antichrist Siege Machine",
-          "url": "https://open.spotify.com/artist/0g132bsggkLIMT0pW9aa7s"
-        }
-      ],
-      "duration_ms": 113705,
-      "name": "Sisera",
-      "url": "https://open.spotify.com/track/2nbqZzQN6FfueGRJKBQ9lG"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Oathbreaker",
         "url": "https://open.spotify.com/album/2yzK9pt0CGRKQMnMOl3m9l"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 311014,
       "name": "Oathbreaker",
       "url": "https://open.spotify.com/track/5WSvNb7xOHxlE0C1uPPpVU"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Vengeance of Eternal Fire",
+        "url": "https://open.spotify.com/album/4MHngXy37mudMEn2H39sAg"
+      },
+      "artists": [
+        {
+          "name": "Antichrist Siege Machine",
+          "url": "https://open.spotify.com/artist/0g132bsggkLIMT0pW9aa7s"
+        }
+      ],
+      "duration_ms": 113705,
+      "name": "Sisera",
+      "url": "https://open.spotify.com/track/2nbqZzQN6FfueGRJKBQ9lG"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Seed Of Death",
-        "url": "https://open.spotify.com/album/6O07o1ALpQp1pIh3rBa9MU"
-      },
-      "artists": [
-        {
-          "name": "Nervosa",
-          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
-        }
-      ],
-      "duration_ms": 267831,
-      "name": "Seed Of Death",
-      "url": "https://open.spotify.com/track/11VpcYTYemjf7Rpn4Gjjxa"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Galactic Order",
         "url": "https://open.spotify.com/album/2vOreDyZb2cDajzHWrvZAt"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 322109,
       "name": "Galactic Order",
       "url": "https://open.spotify.com/track/4fTYgx1L02Uni6fnSbi93F"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Seed Of Death",
+        "url": "https://open.spotify.com/album/6O07o1ALpQp1pIh3rBa9MU"
+      },
+      "artists": [
+        {
+          "name": "Nervosa",
+          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
+        }
+      ],
+      "duration_ms": 267831,
+      "name": "Seed Of Death",
+      "url": "https://open.spotify.com/track/11VpcYTYemjf7Rpn4Gjjxa"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Remains Of A Dead World",
-        "url": "https://open.spotify.com/album/55fcaJ1hopKffHCtOJig0j"
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/137nDzRsg8KyAuBg9MYDED"
       },
       "artists": [
         {
-          "name": "Nightrage",
-          "url": "https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3"
+          "name": "Allegaeon",
+          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
         }
       ],
-      "duration_ms": 273266,
-      "name": "Euphoria Within Chaos",
-      "url": "https://open.spotify.com/track/4tYHASDmTcl9d6zFCDPNXK"
+      "duration_ms": 173378,
+      "name": "Iridescent",
+      "url": "https://open.spotify.com/track/38guYrF0gFhiDaaWCpsAzB"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
+        "name": "Remains Of A Dead World",
+        "url": "https://open.spotify.com/album/55fcaJ1hopKffHCtOJig0j"
+      },
+      "artists": [
+        {
+          "name": "Nightrage",
+          "url": "https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3"
+        }
+      ],
+      "duration_ms": 273266,
+      "name": "Euphoria Within Chaos",
+      "url": "https://open.spotify.com/track/4tYHASDmTcl9d6zFCDPNXK"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
         "name": "In the Twilight Grey",
         "url": "https://open.spotify.com/album/2EtaPsV5q2n21XiyF8UclQ"
       },
@@ -2043,18 +2059,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/137nDzRsg8KyAuBg9MYDED"
+        "name": "Fly with Me",
+        "url": "https://open.spotify.com/album/33VKMEjDVQiytCE8sTtkGA"
       },
       "artists": [
         {
-          "name": "Allegaeon",
-          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
+          "name": "Brymir",
+          "url": "https://open.spotify.com/artist/3YDtlBGmfvE2Xw0avhHeK5"
         }
       ],
-      "duration_ms": 173378,
-      "name": "Iridescent",
-      "url": "https://open.spotify.com/track/38guYrF0gFhiDaaWCpsAzB"
+      "duration_ms": 291560,
+      "name": "Fly with Me",
+      "url": "https://open.spotify.com/track/7bdMpp3VlobHOzuqSi0GWT"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2071,22 +2087,6 @@
       "duration_ms": 319520,
       "name": "The Fortress Without Gates",
       "url": "https://open.spotify.com/track/2dYdc4xLucYmVqS4ESKKoT"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
-        "name": "Fly with Me",
-        "url": "https://open.spotify.com/album/33VKMEjDVQiytCE8sTtkGA"
-      },
-      "artists": [
-        {
-          "name": "Brymir",
-          "url": "https://open.spotify.com/artist/3YDtlBGmfvE2Xw0avhHeK5"
-        }
-      ],
-      "duration_ms": 291560,
-      "name": "Fly with Me",
-      "url": "https://open.spotify.com/track/7bdMpp3VlobHOzuqSi0GWT"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Brandish The Blade",
-        "url": "https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg"
-      },
-      "artists": [
-        {
-          "name": "Undeath",
-          "url": "https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Brandish The Blade",
-      "url": "https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Divided You'll Stand & United You'll Fall",
         "url": "https://open.spotify.com/album/0ygHMxnxuQmY8ob8WnWf7P"
       },
@@ -2219,18 +2203,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "All Is Dust",
-        "url": "https://open.spotify.com/album/6yAVfeKaGnEZ7SPWp6rnDV"
+        "name": "Brandish The Blade",
+        "url": "https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg"
       },
       "artists": [
         {
-          "name": "Neaera",
-          "url": "https://open.spotify.com/artist/66Xc7Y6aW9W5RS2r8HY6P2"
+          "name": "Undeath",
+          "url": "https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN"
         }
       ],
-      "duration_ms": 338617,
-      "name": "Pacifier",
-      "url": "https://open.spotify.com/track/4ywWva0s8MTSJmdnf8IpZd"
+      "duration_ms": 235426,
+      "name": "Brandish The Blade",
+      "url": "https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2247,6 +2231,22 @@
       "duration_ms": 455033,
       "name": "Maze of Phobetor",
       "url": "https://open.spotify.com/track/7oHVHq7BF7d9INJvJ74iYv"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "All Is Dust",
+        "url": "https://open.spotify.com/album/6yAVfeKaGnEZ7SPWp6rnDV"
+      },
+      "artists": [
+        {
+          "name": "Neaera",
+          "url": "https://open.spotify.com/artist/66Xc7Y6aW9W5RS2r8HY6P2"
+        }
+      ],
+      "duration_ms": 338617,
+      "name": "Pacifier",
+      "url": "https://open.spotify.com/track/4ywWva0s8MTSJmdnf8IpZd"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Origin of Fire",
-        "url": "https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh"
-      },
-      "artists": [
-        {
-          "name": "Mors Subita",
-          "url": "https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8"
-        }
-      ],
-      "duration_ms": 200253,
-      "name": "Fire, Walk With Me",
-      "url": "https://open.spotify.com/track/75j3ufmOnr2hnaTAUkSwCy"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "PILGRIMAGE TO OBLIVION",
         "url": "https://open.spotify.com/album/7zfTJVYMmEM5CotxG7SPuf"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 260545,
       "name": "PILGRIMAGE TO OBLIVION",
       "url": "https://open.spotify.com/track/5OK5Q6B4jgyXKIAItybyBx"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Origin of Fire",
+        "url": "https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh"
+      },
+      "artists": [
+        {
+          "name": "Mors Subita",
+          "url": "https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8"
+        }
+      ],
+      "duration_ms": 200253,
+      "name": "Fire, Walk With Me",
+      "url": "https://open.spotify.com/track/75j3ufmOnr2hnaTAUkSwCy"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Pipe Dreams",
-        "url": "https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl"
-      },
-      "artists": [
-        {
-          "name": "Konvent",
-          "url": "https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q"
-        }
-      ],
-      "duration_ms": 245897,
-      "name": "Pipe Dreams",
-      "url": "https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/0TFqMj4XV9sYni2jsdjZzN"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 237006,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/0u6RMg7TrNHaLNPsVwt9mn"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Pipe Dreams",
+        "url": "https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl"
+      },
+      "artists": [
+        {
+          "name": "Konvent",
+          "url": "https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q"
+        }
+      ],
+      "duration_ms": 245897,
+      "name": "Pipe Dreams",
+      "url": "https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y"
     }
   ],
   "unique_name": "Extreme Metal",

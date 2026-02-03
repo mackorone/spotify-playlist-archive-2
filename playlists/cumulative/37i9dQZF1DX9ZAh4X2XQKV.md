@@ -4,7 +4,7 @@
 
 > this is what's up in the world of Latin and beyond.
 
-111 songs - 6 hr 22 min
+112 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dardos](https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:03 | 2025-12-30 |  |
 | [DETRÁS DE TU ALMA](https://open.spotify.com/track/2BvPMS2XWfnCpHHvWeOyeC) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:57 | 2025-07-08 |  |
 | [DROGA](https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:42 | 2025-05-21 | 2026-01-24 |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2026-02-02 |  |
 | [DUMBAI](https://open.spotify.com/track/2Fi6RtngvStwsjskvwabVT) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:28 | 2025-05-21 | 2025-07-19 |
 | [DÓNDE](https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 3:13 | 2025-09-04 | 2026-01-24 |
 | [El Farsante](https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:53 | 2025-09-04 | 2025-10-11 |
@@ -88,7 +89,7 @@
 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 | 2025-07-08 |  |
 | [Quiero Decirte](https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Quiero Decirte](https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar) | 3:42 | 2025-11-07 |  |
 | [RAMEN PARA DOS](https://open.spotify.com/track/0vcuJjViqrFCCWUrjrZW1X) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [RAMEN PARA DOS](https://open.spotify.com/album/2InOeOytZrdWOiCeSvQFlF) | 3:51 | 2025-05-21 | 2025-08-22 |
-| [REINAA](https://open.spotify.com/track/5wu2O9uFF3tG6nM8CE6Glz) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [REINAA](https://open.spotify.com/album/6r6VRNL37I9iwMzwnOp7nc) | 4:30 | 2025-10-10 |  |
+| [REINAA](https://open.spotify.com/track/5wu2O9uFF3tG6nM8CE6Glz) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [REINAA](https://open.spotify.com/album/6r6VRNL37I9iwMzwnOp7nc) | 4:30 | 2025-10-10 | 2026-02-03 |
 | [Scat Pack](https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Scat Pack](https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx) | 4:13 | 2025-09-10 |  |
 | [SELEDA.](https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SELEDA.](https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq) | 2:11 | 2025-10-10 |  |
 | [Sex And The City](https://open.spotify.com/track/43wpRA7prYMNnmf5eOsBG5) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR) | [Porque Quise DELUXE](https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm) | 2:55 | 2025-11-07 | 2026-01-15 |

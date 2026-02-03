@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,204 songs - 3 day 1 hr 54 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,206 songs - 3 day 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1212,5 +1212,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1202 | [Two Car Garage](https://open.spotify.com/track/57ZFmLushr2mLmY1NMoZwI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Two Car Garage](https://open.spotify.com/album/35SWvZWmYD6O60FVna7sgP) | 3:02 |
 | 1203 | [Fashion](https://open.spotify.com/track/2Atkd6L9y4zwOSqrRymsSG) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 3:55 |
 | 1204 | [\- \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/68H747D2LgwsPsPlVjFZUR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 2:25 |
+| 1205 | [LEARNING TO SWIM](https://open.spotify.com/track/0tKZl6SbC0qLaMQWhBILxg) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper \(The Extended Cut\)](https://open.spotify.com/album/3ZfqSEOlHerP9UZJfu4tSD) | 4:50 |
+| 1206 | [MELISA](https://open.spotify.com/track/7gBXc7NLb6e6tBdb4dJPW7) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper \(The Extended Cut\)](https://open.spotify.com/album/3ZfqSEOlHerP9UZJfu4tSD) | 3:36 |
 
-Snapshot ID: `AAAJpr7zAs0E6JVXQ5xmdkt4Kr3+nMh4`
+Snapshot ID: `AAAJqDHDEZDSU7v7knN+mn2LZ6F43ehS`

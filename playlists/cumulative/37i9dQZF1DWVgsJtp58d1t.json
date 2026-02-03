@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The best in Black music! Cover: <a href=\"spotify:artist:13ubrt8QOOCPljQ2FL1Kca\">A$AP Rocky</a> ",
+  "description": "The best in Black music! Click into the feed for more on Black History Month",
   "name": "This Is Frequency",
   "tracks": [
     {
@@ -52281,6 +52281,28 @@
     },
     {
       "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "J A Y E L E C T R O N I C A",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236501,
+      "name": "Just A Drop (feat. Jay Electronica)",
+      "url": "https://open.spotify.com/track/3gxDopbcUDigbjJUiHkSRT"
+    },
+    {
+      "album": {
         "name": "Suncore: It Never Ends",
         "url": "https://open.spotify.com/album/6LMutraXXvSHsEMpQt7dVb"
       },
@@ -67436,7 +67458,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 277274,
       "name": "Niagara Falls",
       "url": "https://open.spotify.com/track/2v0AG62ZHtD3I4YmTb3WYM"
@@ -95448,7 +95470,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 296185,
       "name": "SWEET \u2605 HONEY \u2605 BUCKIIN'",
       "url": "https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl"

@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Blame It On Me",
+        "url": "https://open.spotify.com/album/7tWMNiHjYhhW943tF7ByEe"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181588,
+      "name": "Don\u2019t Blame It On Me",
+      "url": "https://open.spotify.com/track/5uXaxiobY7NILnt0GcbCZ4"
+    },
+    {
+      "album": {
         "name": "Down to be wrong",
         "url": "https://open.spotify.com/album/0aSLhfcnbZmgmzxuyzZjgg"
       },
@@ -2042,6 +2060,24 @@
       "duration_ms": 220500,
       "name": "The Girl in the Bubble",
       "url": "https://open.spotify.com/track/6Wxn79EwKPQvYerlctheGx"
+    },
+    {
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
     },
     {
       "album": {

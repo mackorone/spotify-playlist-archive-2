@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Mallow Blue",
+        "url": "https://open.spotify.com/album/2XP6i6ExSxqUxhIGGg3puP"
+      },
+      "artists": [
+        {
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212586,
+      "name": "Mallow Blue",
+      "url": "https://open.spotify.com/track/0qyQE3IUfeD38NkY2g6A6j"
+    },
+    {
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
       },
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 231480,
       "name": "NiGHTFALL",
       "url": "https://open.spotify.com/track/4Q4R3WUd3DntZTApoIbI4N"
@@ -2822,24 +2840,6 @@
       "duration_ms": 269453,
       "name": "\u30d5\u30ec\u30d5\u30ec!\u9752\u6625\u8cdb\u6b4c",
       "url": "https://open.spotify.com/track/2HUtzutGkRfBBY3MB59pWY"
-    },
-    {
-      "album": {
-        "name": "\u30de\u30ed\u30a6\u30d6\u30eb\u30fc",
-        "url": "https://open.spotify.com/album/2XP6i6ExSxqUxhIGGg3puP"
-      },
-      "artists": [
-        {
-          "name": "IDOLiSH7",
-          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": "2025-02-17",
-      "duration_ms": 212586,
-      "name": "\u30de\u30ed\u30a6\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/0qyQE3IUfeD38NkY2g6A6j"
     },
     {
       "album": {

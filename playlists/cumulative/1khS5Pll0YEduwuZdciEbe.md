@@ -4,7 +4,7 @@
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Bahamas
 
-284 songs - 17 hr 12 min
+285 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [When Everything Was Lost](https://open.spotify.com/track/6KpFwd5bRdGizEXTaUSoLi) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [When Everything Was Lost](https://open.spotify.com/album/4LqsBqbpTQ634UZjEcKrwj) | 4:00 | 2023-11-03 |  |
 | [When You're Outside](https://open.spotify.com/track/3NiGbCCmXsCABNi2oou9db) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [When You're Outside](https://open.spotify.com/album/1KAluoUVJfMJf6IMduhPOA) | 3:03 | 2024-05-10 | 2024-06-29 |
 | [White Male Privilege](https://open.spotify.com/track/4HGkMZR0hdU5YfuANzsCyF) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [takeaways](https://open.spotify.com/album/4VHiidABI5iOAaG3L4TW5s) | 3:49 | 2025-04-01 |  |
+| [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/track/6Qgx3mAZWONLD9wo5PYHGq) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr), [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [The Cloudmaker's Cry](https://open.spotify.com/album/45fmKJJfgk0lCYD8MXQ9GS) | 3:42 | 2026-02-02 |  |
 | [Wild Heart](https://open.spotify.com/track/133gMbnHFdb5stViV7Bepf) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Wild Heart](https://open.spotify.com/album/6uVJObcq28mcUHXLoFDOaF) | 2:39 | 2024-08-02 |  |
 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-06 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-10-25 |  |

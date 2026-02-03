@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Bruna Lipiani",
-  "num_followers": 482898,
+  "num_followers": 482920,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
-        "name": "Modo Bizay (Amor pra Recordar) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/0y7UlTtgeCOdzRyXWMvzd9"
-      },
-      "artists": [
-        {
-          "name": "Bizay",
-          "url": "https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX"
-        }
-      ],
-      "duration_ms": 168833,
-      "name": "N\u00e3o Compensa (Deus Me Livre) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4FPhA46Sk698HaP1QP5mER"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
         "name": "J\u00e1 Era",
         "url": "https://open.spotify.com/album/2UyzCFZGQClAZxS5CHmozg"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 155969,
       "name": "J\u00e1 Era",
       "url": "https://open.spotify.com/track/139GP8jhf8QyVBKm6EIw8k"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Modo Bizay (Amor pra Recordar) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0y7UlTtgeCOdzRyXWMvzd9"
+      },
+      "artists": [
+        {
+          "name": "Bizay",
+          "url": "https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX"
+        }
+      ],
+      "duration_ms": 168833,
+      "name": "N\u00e3o Compensa (Deus Me Livre) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4FPhA46Sk698HaP1QP5mER"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -99,46 +99,6 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
-        "name": "Muvuca",
-        "url": "https://open.spotify.com/album/4aby868jLOA6tA3mImwUWc"
-      },
-      "artists": [
-        {
-          "name": "Leo Balbinotti",
-          "url": "https://open.spotify.com/artist/4d6z6mxq6eHpFojPtbYIkx"
-        },
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        }
-      ],
-      "duration_ms": 150051,
-      "name": "Muvuca - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cfKvCEkH7m4itg97Mg7T6"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "Junt\u00f4 Deu Moda, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0BgGNhtdZMjNJu7RV7aATL"
-      },
-      "artists": [
-        {
-          "name": "Alex & Medina",
-          "url": "https://open.spotify.com/artist/19kz4jwLOVYjW1ReTInsNh"
-        },
-        {
-          "name": "Junt\u00f4 Deu Moda",
-          "url": "https://open.spotify.com/artist/0ErXaGpo4jhtoNv38bBWyk"
-        }
-      ],
-      "duration_ms": 157376,
-      "name": "S\u00f3 Disse que Amou - Ao Vivo",
-      "url": "https://open.spotify.com/track/2DlgzO5JQ5aCGzaCvTCfpJ"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
         "name": "Cora\u00e7\u00e3o do Bruto (Ao Vivo)",
         "url": "https://open.spotify.com/album/2sHIiUvzJf4QYCZl2BR22I"
       },
@@ -159,6 +119,42 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
+        "name": "Mo\u00e7a Do Vestido Preto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2BMNdpnrpjfTkTLi7eGHG5"
+      },
+      "artists": [
+        {
+          "name": "S\u00e2mi Rico",
+          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
+        }
+      ],
+      "duration_ms": 155496,
+      "name": "Mo\u00e7a Do Vestido Preto - Ao Vivo",
+      "url": "https://open.spotify.com/track/22RkZFkkQ6ysBPTD2wigY7"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Muvuca",
+        "url": "https://open.spotify.com/album/4aby868jLOA6tA3mImwUWc"
+      },
+      "artists": [
+        {
+          "name": "Leo Balbinotti",
+          "url": "https://open.spotify.com/artist/4d6z6mxq6eHpFojPtbYIkx"
+        },
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "duration_ms": 150051,
+      "name": "Muvuca - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cfKvCEkH7m4itg97Mg7T6"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
         "name": "Susto",
         "url": "https://open.spotify.com/album/6IQRO6htZ5FOIDQxLbvvZ0"
       },
@@ -171,6 +167,26 @@
       "duration_ms": 190513,
       "name": "Susto",
       "url": "https://open.spotify.com/track/7oExhzbEWDadIbOekXZmKB"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Junt\u00f4 Deu Moda, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0BgGNhtdZMjNJu7RV7aATL"
+      },
+      "artists": [
+        {
+          "name": "Alex & Medina",
+          "url": "https://open.spotify.com/artist/19kz4jwLOVYjW1ReTInsNh"
+        },
+        {
+          "name": "Junt\u00f4 Deu Moda",
+          "url": "https://open.spotify.com/artist/0ErXaGpo4jhtoNv38bBWyk"
+        }
+      ],
+      "duration_ms": 157376,
+      "name": "S\u00f3 Disse que Amou - Ao Vivo",
+      "url": "https://open.spotify.com/track/2DlgzO5JQ5aCGzaCvTCfpJ"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -207,22 +223,6 @@
       "duration_ms": 156443,
       "name": "Morena do Paran\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/64SGg3SpBhtI7375NbLC8q"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "Mo\u00e7a Do Vestido Preto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2BMNdpnrpjfTkTLi7eGHG5"
-      },
-      "artists": [
-        {
-          "name": "S\u00e2mi Rico",
-          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
-        }
-      ],
-      "duration_ms": 155496,
-      "name": "Mo\u00e7a Do Vestido Preto - Ao Vivo",
-      "url": "https://open.spotify.com/track/22RkZFkkQ6ysBPTD2wigY7"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -279,6 +279,26 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
+        "name": "D\u00d3I (Live)",
+        "url": "https://open.spotify.com/album/0iEi8NsFX45q42IuCHieZ4"
+      },
+      "artists": [
+        {
+          "name": "Lucca e Mateus",
+          "url": "https://open.spotify.com/artist/0410LsuDnINVvVPRBE7pOo"
+        },
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "duration_ms": 139941,
+      "name": "D\u00d3I - Live",
+      "url": "https://open.spotify.com/track/3pn2ASykvnvhmdAWRJZwlf"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
         "name": "Desce \u00c1lcool",
         "url": "https://open.spotify.com/album/3rcKvg4eioRnsf2x8ltth5"
       },
@@ -299,22 +319,42 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
-        "name": "D\u00d3I (Live)",
-        "url": "https://open.spotify.com/album/0iEi8NsFX45q42IuCHieZ4"
+        "name": "NuDoze (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CMvyQSy5EHuCKnBR8abIJ"
       },
       "artists": [
         {
-          "name": "Lucca e Mateus",
-          "url": "https://open.spotify.com/artist/0410LsuDnINVvVPRBE7pOo"
+          "name": "Fernando & Fabiano",
+          "url": "https://open.spotify.com/artist/2XsnXTymYm47yOXjQVhhEe"
         },
         {
-          "name": "Danilo e Davi",
-          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
         }
       ],
-      "duration_ms": 139941,
-      "name": "D\u00d3I - Live",
-      "url": "https://open.spotify.com/track/3pn2ASykvnvhmdAWRJZwlf"
+      "duration_ms": 189379,
+      "name": "N\u00e3o \u00e9 s\u00f3 Terminar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Kq2Ujy7r6G8aXw6ZfBrwl"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Tomara Que Caia",
+        "url": "https://open.spotify.com/album/2S46cBo0ffDBVK1WvJscGO"
+      },
+      "artists": [
+        {
+          "name": "Yan Santhiago",
+          "url": "https://open.spotify.com/artist/5AcpfQyno0Nc4hli11HHIh"
+        },
+        {
+          "name": "Alex e Leandro",
+          "url": "https://open.spotify.com/artist/53SODo3W7i8kcoDC39ubm0"
+        }
+      ],
+      "duration_ms": 150566,
+      "name": "Tomara Que Caia",
+      "url": "https://open.spotify.com/track/207DR1MYkDfA57rMslLwru"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -351,26 +391,6 @@
       "duration_ms": 151049,
       "name": "Parava De Beber - Ao Vivo",
       "url": "https://open.spotify.com/track/2Y3L8NDqMnlXpjJEenRyeW"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "NuDoze (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0CMvyQSy5EHuCKnBR8abIJ"
-      },
-      "artists": [
-        {
-          "name": "Fernando & Fabiano",
-          "url": "https://open.spotify.com/artist/2XsnXTymYm47yOXjQVhhEe"
-        },
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        }
-      ],
-      "duration_ms": 189379,
-      "name": "N\u00e3o \u00e9 s\u00f3 Terminar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Kq2Ujy7r6G8aXw6ZfBrwl"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -447,26 +467,6 @@
       "duration_ms": 170891,
       "name": "Prefiro Te Perder - 25 Anos Ao Vivo",
       "url": "https://open.spotify.com/track/5wvqUnqiXOq2v8Ap1xxqhL"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "Tomara Que Caia",
-        "url": "https://open.spotify.com/album/2S46cBo0ffDBVK1WvJscGO"
-      },
-      "artists": [
-        {
-          "name": "Yan Santhiago",
-          "url": "https://open.spotify.com/artist/5AcpfQyno0Nc4hli11HHIh"
-        },
-        {
-          "name": "Alex e Leandro",
-          "url": "https://open.spotify.com/artist/53SODo3W7i8kcoDC39ubm0"
-        }
-      ],
-      "duration_ms": 150566,
-      "name": "Tomara Que Caia",
-      "url": "https://open.spotify.com/track/207DR1MYkDfA57rMslLwru"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -579,6 +579,30 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
+        "name": "Sinal De Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1THDmWZtr9NR2CB199hLkx"
+      },
+      "artists": [
+        {
+          "name": "Vitor e Diogo",
+          "url": "https://open.spotify.com/artist/4oc7nvQf2ARkeRRoqzFjJC"
+        },
+        {
+          "name": "Luccas & Rodrigo",
+          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
+        },
+        {
+          "name": "Matheus Kennedy",
+          "url": "https://open.spotify.com/artist/5B4betFiqzVyxKPfXGlgOD"
+        }
+      ],
+      "duration_ms": 132307,
+      "name": "Sinal De Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/56x2ACF7tligu8QhveJRbE"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
         "name": "N\u00e3o Vai Seco",
         "url": "https://open.spotify.com/album/5l8VXNYRrFfLz1hY0lg8xh"
       },
@@ -611,6 +635,26 @@
       "duration_ms": 124581,
       "name": "Show de Solteiro",
       "url": "https://open.spotify.com/track/5Z1IcAAJ34h5Ha5kT2W9V8"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Subi de N\u00edvel, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7tmZX2ihcmxpiX0QtaGe4m"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9zia Pinheiro",
+          "url": "https://open.spotify.com/artist/0GazbZ6lnb0x1HgOq0MVv8"
+        },
+        {
+          "name": "Mar\u00edlia Tavares",
+          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
+        }
+      ],
+      "duration_ms": 151645,
+      "name": "Repert\u00f3rio de Desculpas - Ao Vivo",
+      "url": "https://open.spotify.com/track/4A4XvbxF6xmqp2J8MYsh79"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -651,70 +695,6 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
-        "name": "Carioca",
-        "url": "https://open.spotify.com/album/69V5hFmFuc9tC34V1491V4"
-      },
-      "artists": [
-        {
-          "name": "Guilherme e Manuel",
-          "url": "https://open.spotify.com/artist/6yyVcN4nXYQZ0RdtQ5A8qj"
-        },
-        {
-          "name": "Fiduma & Jeca",
-          "url": "https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1"
-        }
-      ],
-      "duration_ms": 175918,
-      "name": "Carioca",
-      "url": "https://open.spotify.com/track/3o4BERtAquRCu5RvYaEqjh"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "Sinal De Saudade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1THDmWZtr9NR2CB199hLkx"
-      },
-      "artists": [
-        {
-          "name": "Vitor e Diogo",
-          "url": "https://open.spotify.com/artist/4oc7nvQf2ARkeRRoqzFjJC"
-        },
-        {
-          "name": "Luccas & Rodrigo",
-          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
-        },
-        {
-          "name": "Matheus Kennedy",
-          "url": "https://open.spotify.com/artist/5B4betFiqzVyxKPfXGlgOD"
-        }
-      ],
-      "duration_ms": 132307,
-      "name": "Sinal De Saudade - Ao Vivo",
-      "url": "https://open.spotify.com/track/56x2ACF7tligu8QhveJRbE"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "Subi de N\u00edvel, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7tmZX2ihcmxpiX0QtaGe4m"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9zia Pinheiro",
-          "url": "https://open.spotify.com/artist/0GazbZ6lnb0x1HgOq0MVv8"
-        },
-        {
-          "name": "Mar\u00edlia Tavares",
-          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
-        }
-      ],
-      "duration_ms": 151645,
-      "name": "Repert\u00f3rio de Desculpas - Ao Vivo",
-      "url": "https://open.spotify.com/track/4A4XvbxF6xmqp2J8MYsh79"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
         "name": "Pulando Cal\u00e7ada",
         "url": "https://open.spotify.com/album/3YJA6VGPeFAXupSHdmpxCV"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 165280,
       "name": "Pulando Cal\u00e7ada",
       "url": "https://open.spotify.com/track/00d9W8AdEcljDyr2On5Ggn"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Carioca",
+        "url": "https://open.spotify.com/album/69V5hFmFuc9tC34V1491V4"
+      },
+      "artists": [
+        {
+          "name": "Guilherme e Manuel",
+          "url": "https://open.spotify.com/artist/6yyVcN4nXYQZ0RdtQ5A8qj"
+        },
+        {
+          "name": "Fiduma & Jeca",
+          "url": "https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1"
+        }
+      ],
+      "duration_ms": 175918,
+      "name": "Carioca",
+      "url": "https://open.spotify.com/track/3o4BERtAquRCu5RvYaEqjh"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
+        "name": "S\u00f3 Quero Sossego",
+        "url": "https://open.spotify.com/album/7cNHP25LJRI9nN3tCarDTl"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e9ria Barros",
+          "url": "https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv"
+        }
+      ],
+      "duration_ms": 172338,
+      "name": "S\u00f3 Quero Sossego",
+      "url": "https://open.spotify.com/track/6RuvcVpXzHriSfohWEANrv"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
         "name": "Nossa Ess\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/5y2BoZmayWE5wgBb5aAExa"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 160234,
       "name": "Rodeios Da Vida - Ao Vivo",
       "url": "https://open.spotify.com/track/3cvE7L04DUCTEQr9Ug1MtN"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "S\u00f3 Quero Sossego",
-        "url": "https://open.spotify.com/album/7cNHP25LJRI9nN3tCarDTl"
-      },
-      "artists": [
-        {
-          "name": "Val\u00e9ria Barros",
-          "url": "https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv"
-        }
-      ],
-      "duration_ms": 172338,
-      "name": "S\u00f3 Quero Sossego",
-      "url": "https://open.spotify.com/track/6RuvcVpXzHriSfohWEANrv"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
-        "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
-        "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
-      },
-      "artists": [
-        {
-          "name": "Murilo e Romario",
-          "url": "https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T"
-        }
-      ],
-      "duration_ms": 146613,
-      "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
-      "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
         "name": "Segunda Prioridade (Ao Vivo)",
         "url": "https://open.spotify.com/album/7GkpmXWxvJDjG8NQWbxF65"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 208235,
       "name": "Segunda Prioridade - Ao Vivo",
       "url": "https://open.spotify.com/track/0zxzWWqJcp0kIzRgkv9WiA"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
+        "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
+      },
+      "artists": [
+        {
+          "name": "Murilo e Romario",
+          "url": "https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T"
+        }
+      ],
+      "duration_ms": 146613,
+      "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
+      "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
+        "name": "Primeira L\u00e1grima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1zGNZUtaIZmHUYvuLQjXFk"
+      },
+      "artists": [
+        {
+          "name": "Arielly Dara",
+          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
+        }
+      ],
+      "duration_ms": 163448,
+      "name": "Primeira L\u00e1grima - Ao Vivo",
+      "url": "https://open.spotify.com/track/0K6l2wZRSwHIIyiQF7Ttzn"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
         "name": "Bora V\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/2yoRumu8kaWl6Wlk7RCEKG"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 186289,
       "name": "Festa Violenta - Ao Vivo",
       "url": "https://open.spotify.com/track/6lSls0O8U5DcL1yPSWxqst"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "Primeira L\u00e1grima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1zGNZUtaIZmHUYvuLQjXFk"
-      },
-      "artists": [
-        {
-          "name": "Arielly Dara",
-          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "Primeira L\u00e1grima - Ao Vivo",
-      "url": "https://open.spotify.com/track/0K6l2wZRSwHIIyiQF7Ttzn"
     },
     {
       "added_at": "2026-01-30 03:03:21",

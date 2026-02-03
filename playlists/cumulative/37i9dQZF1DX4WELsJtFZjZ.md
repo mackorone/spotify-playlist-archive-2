@@ -2,7 +2,7 @@
 
 ### [Soft 80s](https://open.spotify.com/playlist/37i9dQZF1DX4WELsJtFZjZ)
 
-> Mellow songs from the 1980s\. Cover: Luther Vandross
+> And the Grammy goes to..\. Luther Vandross
 
 330 songs - 1 day 0 hr 22 min
 

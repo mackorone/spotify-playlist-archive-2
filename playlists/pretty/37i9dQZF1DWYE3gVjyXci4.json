@@ -1,13 +1,29 @@
 {
   "description": "pink bows, spilled secrets, deep feels, and main character dreams",
-  "num_followers": 31553,
+  "num_followers": 32169,
   "original_name": "girlhood ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABdJVjQfzRJOvzfySEL5hO7i4PcR",
+  "snapshot_id": "AAAAAIQqm1XzPa+WgeTyUPIehh7c9+sn",
   "tracks": [
+    {
+      "added_at": "2026-02-02 05:02:35",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
     {
       "added_at": "2025-08-18 13:51:45",
       "album": {

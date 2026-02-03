@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 485169,
+  "num_followers": 485192,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADoAoLkF6iCE2WtxoR33KyT",
+  "snapshot_id": "aX6XgAAAAAB1SLbTzXNgZr7dk8MZPBM5",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
-        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 257280,
-      "name": "War Machine - 2022 Remastered",
-      "url": "https://open.spotify.com/track/7ETQjnmWqDVyDtNR5gYAWL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unmasked",
         "url": "https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 216866,
       "name": "Shandi",
       "url": "https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 257280,
+      "name": "War Machine - 2022 Remastered",
+      "url": "https://open.spotify.com/track/7ETQjnmWqDVyDtNR5gYAWL"
     },
     {
       "added_at": null,

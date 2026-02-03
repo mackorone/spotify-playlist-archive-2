@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60642,
+  "num_followers": 60639,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
+        "name": "isby sessions",
+        "url": "https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 162703,
+      "name": "inte tillsammans (find you) - isby sessions",
+      "url": "https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
         "name": "Ton\u00e5rsdr\u00f6m",
         "url": "https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 214179,
       "name": "Ton\u00e5rsdr\u00f6m",
       "url": "https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
-        "name": "isby sessions",
-        "url": "https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 162703,
-      "name": "inte tillsammans (find you) - isby sessions",
-      "url": "https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "Please Stay",
-        "url": "https://open.spotify.com/album/4gkI34NsJJwJHbomVO1Gz4"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Please Stay",
-      "url": "https://open.spotify.com/track/6BJOFQCCuMfxTGdcTrbscc"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
         "name": "Superhj\u00e4ltar",
         "url": "https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 144285,
       "name": "Superhj\u00e4ltar",
       "url": "https://open.spotify.com/track/6mXkroSXhGFLTX1mkOxEiO"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "Please Stay",
+        "url": "https://open.spotify.com/album/4gkI34NsJJwJHbomVO1Gz4"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Please Stay",
+      "url": "https://open.spotify.com/track/6BJOFQCCuMfxTGdcTrbscc"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
+        "name": "Greczula (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
         "name": "Som i en dr\u00f6m",
         "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "Greczula (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf"
-      },
-      "artists": [
-        {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
-        }
-      ],
-      "duration_ms": 161194,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
         "name": "I Rymden Finns Inga T\u00e5rar",
         "url": "https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "Josephine",
-        "url": "https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 135769,
-      "name": "Josephine",
-      "url": "https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
         "name": "Men du",
         "url": "https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P"
       },
@@ -803,18 +787,34 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+        "name": "Josephine",
+        "url": "https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx"
       },
       "artists": [
         {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
+      "duration_ms": 135769,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "Han vill ha dig",
+        "url": "https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "duration_ms": 208845,
+      "name": "Han vill ha dig",
+      "url": "https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -831,6 +831,22 @@
       "duration_ms": 163320,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -867,22 +883,6 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "A Place I Recognise",
-        "url": "https://open.spotify.com/album/5LsAU4Qec8ZSU9SS4bZTmS"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 211171,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/4gktEWeIYylrlrVfpfZEVr"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
         "name": "Bl\u00e5ljus",
         "url": "https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 111971,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3AYNFdQ9itV8zWFVJqfLTd"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "A Place I Recognise",
+        "url": "https://open.spotify.com/album/5LsAU4Qec8ZSU9SS4bZTmS"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 211171,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/4gktEWeIYylrlrVfpfZEVr"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -959,22 +975,6 @@
       "duration_ms": 240240,
       "name": "Heart of Glass",
       "url": "https://open.spotify.com/track/7IV4rd1NMpRdp2KEYF4bpR"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
-        "name": "Han vill ha dig",
-        "url": "https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a"
-      },
-      "artists": [
-        {
-          "name": "Emilia Pantic",
-          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
-        }
-      ],
-      "duration_ms": 208845,
-      "name": "Han vill ha dig",
-      "url": "https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
+        "name": "Nostalgi",
+        "url": "https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5"
+      },
+      "artists": [
+        {
+          "name": "KHARMA",
+          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
+        }
+      ],
+      "duration_ms": 140597,
+      "name": "Nostalgi",
+      "url": "https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
         "name": "Jag m\u00e5ste v\u00e4lja",
         "url": "https://open.spotify.com/album/3inX2cdSEUxZat1E2lcZNE"
       },
@@ -1087,38 +1103,6 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "Ain\u2019t The Feeling",
-        "url": "https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf"
-      },
-      "artists": [
-        {
-          "name": "Magnus Ferrell",
-          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
-        }
-      ],
-      "duration_ms": 165951,
-      "name": "Ain\u2019t The Feeling",
-      "url": "https://open.spotify.com/track/4nNz9daAQDV5D7UfQkwBi1"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
-        "name": "Nostalgi",
-        "url": "https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5"
-      },
-      "artists": [
-        {
-          "name": "KHARMA",
-          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
-        }
-      ],
-      "duration_ms": 140597,
-      "name": "Nostalgi",
-      "url": "https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
         "name": "Hittat hem",
         "url": "https://open.spotify.com/album/3LRL5ylunpeHB352pVmmOE"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 184315,
       "name": "Hittat hem",
       "url": "https://open.spotify.com/track/2hAHrzFTAZh28fg6Y5awC7"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "Ain\u2019t The Feeling",
+        "url": "https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ferrell",
+          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
+        }
+      ],
+      "duration_ms": 165951,
+      "name": "Ain\u2019t The Feeling",
+      "url": "https://open.spotify.com/track/4nNz9daAQDV5D7UfQkwBi1"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "sunday night",
-        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
-      },
-      "artists": [
-        {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
-        }
-      ],
-      "duration_ms": 167569,
-      "name": "sunday night",
-      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
         "name": "N\u00e4r solen g\u00e5r ner",
         "url": "https://open.spotify.com/album/00hvBlNmx8fqWKsR7L7AIQ"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 201374,
       "name": "N\u00e4r solen g\u00e5r ner",
       "url": "https://open.spotify.com/track/5ajkC6KlMFGCCuTpMTHo9E"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "sunday night",
+        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
+      },
+      "artists": [
+        {
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+        }
+      ],
+      "duration_ms": 167569,
+      "name": "sunday night",
+      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "...fifteen",
-        "url": "https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI"
-      },
-      "artists": [
-        {
-          "name": "Jackie Mere",
-          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
-        }
-      ],
-      "duration_ms": 167050,
-      "name": "...fifteen",
-      "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
         "name": "Same Old Dirt",
         "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 186893,
       "name": "Same Old Dirt",
       "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "...fifteen",
+        "url": "https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+        }
+      ],
+      "duration_ms": 167050,
+      "name": "...fifteen",
+      "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "lotion",
-        "url": "https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ"
+        "name": "Katedral Syndrom",
+        "url": "https://open.spotify.com/album/1kmftXJhfdpudW4T8gsBnD"
       },
       "artists": [
         {
-          "name": "Ingrid Witt",
-          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
         }
       ],
-      "duration_ms": 267559,
-      "name": "lotion",
-      "url": "https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT"
+      "duration_ms": 199133,
+      "name": "Katedral Syndrom",
+      "url": "https://open.spotify.com/track/3bCQiNHc31vgoHA5TwH6ZI"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -1415,34 +1415,18 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "Katedral Syndrom",
-        "url": "https://open.spotify.com/album/1kmftXJhfdpudW4T8gsBnD"
+        "name": "lotion",
+        "url": "https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ"
       },
       "artists": [
         {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+          "name": "Ingrid Witt",
+          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
         }
       ],
-      "duration_ms": 199133,
-      "name": "Katedral Syndrom",
-      "url": "https://open.spotify.com/track/3bCQiNHc31vgoHA5TwH6ZI"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
-        "name": "l.o.v.e",
-        "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "l.o.v.e",
-      "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
+      "duration_ms": 267559,
+      "name": "lotion",
+      "url": "https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -1459,6 +1443,22 @@
       "duration_ms": 182133,
       "name": "Is It Love?",
       "url": "https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "l.o.v.e",
+        "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "l.o.v.e",
+      "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
     },
     {
       "added_at": "2026-01-29 23:00:47",

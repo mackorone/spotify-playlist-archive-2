@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Sarvam Maya",
-  "num_followers": 608146,
+  "num_followers": 608787,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFLBDzVhh9no8d/OnOarKKSfe/rT",
+  "snapshot_id": "AAAAAHBd9BBmqPS/pHkAyR6KeJIj/Gt9",
   "tracks": [
     {
       "added_at": "2026-01-07 07:41:31",
@@ -83,6 +83,38 @@
       "duration_ms": 182769,
       "name": "Hope Song - From \"Sarkeet\"",
       "url": "https://open.spotify.com/track/3y7140pwsQ8wmxGj2hQhLG"
+    },
+    {
+      "added_at": "2026-02-02 04:31:00",
+      "album": {
+        "name": "Chatha Pacha Title Track (From \"Chatha Pacha: The Ring Of Rowdies\")",
+        "url": "https://open.spotify.com/album/2ESmPaEdF357xZJ7U87TIb"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+        },
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 227227,
+      "name": "Chatha Pacha Title Track (From \"Chatha Pacha: The Ring Of Rowdies\")",
+      "url": "https://open.spotify.com/track/0t0wDOb0N5BrQAJ1DzDJQJ"
     },
     {
       "added_at": "2025-12-18 05:42:30",
@@ -1051,30 +1083,6 @@
       "duration_ms": 178923,
       "name": "Pacha Parishkari",
       "url": "https://open.spotify.com/track/1AX9IVuMQ9WThp1koU7sdY"
-    },
-    {
-      "added_at": "2024-11-25 06:39:05",
-      "album": {
-        "name": "Dhurooha Manthahasame (From \"Sookshmadarshini\")",
-        "url": "https://open.spotify.com/album/39Ffgbe1WFfcZLd0wXDEmg"
-      },
-      "artists": [
-        {
-          "name": "Christo Xavier",
-          "url": "https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn"
-        },
-        {
-          "name": "Ahi Ajayan",
-          "url": "https://open.spotify.com/artist/3CPdmmOFd8yq1zXHn28UsH"
-        },
-        {
-          "name": "Mu.Ri",
-          "url": "https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm"
-        }
-      ],
-      "duration_ms": 212794,
-      "name": "Dhurooha Manthahasame - From \"Sookshmadarshini\"",
-      "url": "https://open.spotify.com/track/05EpQNTKhOlX6NBI5h8RPJ"
     },
     {
       "added_at": "2025-01-06 06:56:44",

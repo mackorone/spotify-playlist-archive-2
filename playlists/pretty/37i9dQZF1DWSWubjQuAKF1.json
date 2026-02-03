@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: NEL, Hania",
-  "num_followers": 24937,
+  "num_followers": 24935,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-01-30 08:25:38",
       "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "duration_ms": 242608,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs"
+    },
+    {
+      "added_at": "2026-01-30 08:25:38",
+      "album": {
         "name": "Avewaw",
         "url": "https://open.spotify.com/album/12wH1mQyAU1a1ExfMdGQjs"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 133687,
       "name": "Avewaw",
       "url": "https://open.spotify.com/track/6Qcuc0dxWFHMV2hRComxeP"
-    },
-    {
-      "added_at": "2026-01-30 08:25:38",
-      "album": {
-        "name": "Soft Spot",
-        "url": "https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3"
-      },
-      "artists": [
-        {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
-        }
-      ],
-      "duration_ms": 242608,
-      "name": "Soft Spot",
-      "url": "https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs"
     },
     {
       "added_at": "2026-01-30 08:25:38",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-01-30 08:25:38",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 165479,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0"
-    },
-    {
-      "added_at": "2026-01-30 08:25:38",
-      "album": {
         "name": "Cienie Przesz\u0142o\u015bci",
         "url": "https://open.spotify.com/album/5ZrpZyPmuPY9nkhTivObsX"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 166956,
       "name": "Cienie Przesz\u0142o\u015bci",
       "url": "https://open.spotify.com/track/6hoBYZ9kZiBWrwMGWrBdqo"
+    },
+    {
+      "added_at": "2026-01-30 08:25:38",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 165479,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0"
     },
     {
       "added_at": "2026-01-30 08:25:38",
@@ -671,6 +671,30 @@
     {
       "added_at": "2026-01-30 08:25:38",
       "album": {
+        "name": "Wild Child",
+        "url": "https://open.spotify.com/album/7CeQTUeuMPEKhS1R7E1PA4"
+      },
+      "artists": [
+        {
+          "name": "Anastazja",
+          "url": "https://open.spotify.com/artist/38mOAIXWQw4TmP5lRI9tbW"
+        },
+        {
+          "name": "Dizzma",
+          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
+        },
+        {
+          "name": "Mane",
+          "url": "https://open.spotify.com/artist/0ZtfEvCbEaBHeA7IYI8wNH"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/23xaqczA9HXTZaHPA9Wxp0"
+    },
+    {
+      "added_at": "2026-01-30 08:25:38",
+      "album": {
         "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
         "url": "https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd"
       },
@@ -683,6 +707,22 @@
       "duration_ms": 161129,
       "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
       "url": "https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U"
+    },
+    {
+      "added_at": "2026-01-30 08:25:38",
+      "album": {
+        "name": "Serce",
+        "url": "https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Serce",
+      "url": "https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v"
     },
     {
       "added_at": "2026-01-30 08:25:38",
@@ -703,22 +743,6 @@
       "duration_ms": 166333,
       "name": "BOJ\u0118 SI\u0118",
       "url": "https://open.spotify.com/track/08aHfnN9msWri9j7H16rYe"
-    },
-    {
-      "added_at": "2026-01-30 08:25:38",
-      "album": {
-        "name": "Serce",
-        "url": "https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi"
-      },
-      "artists": [
-        {
-          "name": "Martyna Baranowska",
-          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Serce",
-      "url": "https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v"
     },
     {
       "added_at": "2026-01-30 08:25:38",
@@ -771,26 +795,18 @@
     {
       "added_at": "2026-01-30 08:25:38",
       "album": {
-        "name": "Wild Child",
-        "url": "https://open.spotify.com/album/7CeQTUeuMPEKhS1R7E1PA4"
+        "name": "Wyjmij mnie",
+        "url": "https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj"
       },
       "artists": [
         {
-          "name": "Anastazja",
-          "url": "https://open.spotify.com/artist/38mOAIXWQw4TmP5lRI9tbW"
-        },
-        {
-          "name": "Dizzma",
-          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
-        },
-        {
-          "name": "Mane",
-          "url": "https://open.spotify.com/artist/0ZtfEvCbEaBHeA7IYI8wNH"
+          "name": "Pola Maj",
+          "url": "https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/23xaqczA9HXTZaHPA9Wxp0"
+      "duration_ms": 198882,
+      "name": "Wyjmij mnie",
+      "url": "https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc"
     },
     {
       "added_at": "2026-01-30 08:25:38",
@@ -811,18 +827,18 @@
     {
       "added_at": "2026-01-30 08:25:38",
       "album": {
-        "name": "Wyjmij mnie",
-        "url": "https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj"
+        "name": "My\u015bli",
+        "url": "https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS"
       },
       "artists": [
         {
-          "name": "Pola Maj",
-          "url": "https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T"
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
         }
       ],
-      "duration_ms": 198882,
-      "name": "Wyjmij mnie",
-      "url": "https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc"
+      "duration_ms": 159047,
+      "name": "7 nieszcz\u0119\u015b\u0107",
+      "url": "https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM"
     },
     {
       "added_at": "2026-01-30 08:25:38",
@@ -839,22 +855,6 @@
       "duration_ms": 261923,
       "name": "Czerwone ledy",
       "url": "https://open.spotify.com/track/6aKBfZoYih0qCrcU7xEJ57"
-    },
-    {
-      "added_at": "2026-01-30 08:25:38",
-      "album": {
-        "name": "My\u015bli",
-        "url": "https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS"
-      },
-      "artists": [
-        {
-          "name": "dezydery",
-          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
-        }
-      ],
-      "duration_ms": 159047,
-      "name": "7 nieszcz\u0119\u015b\u0107",
-      "url": "https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM"
     },
     {
       "added_at": "2026-01-30 08:25:38",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-01-30 08:25:38",
       "album": {
+        "name": "Ze stali",
+        "url": "https://open.spotify.com/album/5fewcblY1gdnc9tkpjPV2C"
+      },
+      "artists": [
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "duration_ms": 131866,
+      "name": "Ze stali",
+      "url": "https://open.spotify.com/track/5Zdq0ubjxhpzlIAFE6rroT"
+    },
+    {
+      "added_at": "2026-01-30 08:25:38",
+      "album": {
         "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
         "url": "https://open.spotify.com/album/6NhKBbD2p8ZxiYzYbcKwFE"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 281200,
       "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
       "url": "https://open.spotify.com/track/1UXLbKlNgAHbPvjGHDY639"
-    },
-    {
-      "added_at": "2026-01-30 08:25:38",
-      "album": {
-        "name": "Umiem kocha\u0107 Ci\u0119 tak ca\u0142kiem na powa\u017cnie",
-        "url": "https://open.spotify.com/album/3hSt7QkmnsUPgl8zkr9Pom"
-      },
-      "artists": [
-        {
-          "name": "Fida",
-          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
-        }
-      ],
-      "duration_ms": 161519,
-      "name": "Za kulisami",
-      "url": "https://open.spotify.com/track/1tlywl3igNTLsJGdZ1pTJf"
     },
     {
       "added_at": "2026-01-30 08:25:38",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-01-30 08:25:38",
       "album": {
+        "name": "Umiem kocha\u0107 Ci\u0119 tak ca\u0142kiem na powa\u017cnie",
+        "url": "https://open.spotify.com/album/3hSt7QkmnsUPgl8zkr9Pom"
+      },
+      "artists": [
+        {
+          "name": "Fida",
+          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
+        }
+      ],
+      "duration_ms": 161519,
+      "name": "Za kulisami",
+      "url": "https://open.spotify.com/track/1tlywl3igNTLsJGdZ1pTJf"
+    },
+    {
+      "added_at": "2026-01-30 08:25:38",
+      "album": {
         "name": "Rany, chyba nie daj\u0119 rady",
         "url": "https://open.spotify.com/album/3AHA96h9aCxmLQky5ci8F2"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 151038,
       "name": "Rany, chyba nie daj\u0119 rady",
       "url": "https://open.spotify.com/track/7p5U4cxuko3T7GuIG8nXx7"
-    },
-    {
-      "added_at": "2026-01-30 08:25:38",
-      "album": {
-        "name": "Ze stali",
-        "url": "https://open.spotify.com/album/5fewcblY1gdnc9tkpjPV2C"
-      },
-      "artists": [
-        {
-          "name": "Iga Jaworska",
-          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
-        }
-      ],
-      "duration_ms": 131866,
-      "name": "Ze stali",
-      "url": "https://open.spotify.com/track/5Zdq0ubjxhpzlIAFE6rroT"
     },
     {
       "added_at": "2026-01-30 08:25:38",

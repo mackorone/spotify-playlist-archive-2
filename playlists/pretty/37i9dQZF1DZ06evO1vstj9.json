@@ -1,12 +1,12 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 7731,
+  "num_followers": 7746,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAACcdDaSi+VLspmVTxj/+7fq",
+  "snapshot_id": "aX6XgAAAAAA01VizDCHVie2ASE0L3GAF",
   "tracks": [
     {
       "added_at": null,
@@ -163,18 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Against The Wind",
-        "url": "https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn"
+        "name": "Marking My Time (BADBADNOTGOOD Edit)",
+        "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
       },
       "artists": [
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 260240,
-      "name": "Cry Against The Wind",
-      "url": "https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV"
+      "duration_ms": 252503,
+      "name": "Marking My Time - BADBADNOTGOOD Edit",
+      "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
     },
     {
       "added_at": null,
@@ -195,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marking My Time (BADBADNOTGOOD Edit)",
-        "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
+        "name": "Cry Against The Wind",
+        "url": "https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn"
       },
       "artists": [
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 252503,
-      "name": "Marking My Time - BADBADNOTGOOD Edit",
-      "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
+      "duration_ms": 260240,
+      "name": "Cry Against The Wind",
+      "url": "https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV"
     },
     {
       "added_at": null,
@@ -651,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Deported",
-        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
+        "name": "DAROLD",
+        "url": "https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0"
       },
       "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 129026,
-      "name": "Grave News",
-      "url": "https://open.spotify.com/track/5TriYLMGrvgW7j1aXymdeX"
+      "duration_ms": 274400,
+      "name": "Pool (feat. Elmiene)",
+      "url": "https://open.spotify.com/track/0csHRGsK3gKsERufowurNK"
     },
     {
       "added_at": null,
@@ -683,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAROLD",
-        "url": "https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0"
+        "name": "For The Deported",
+        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
       },
       "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 274400,
-      "name": "Pool (feat. Elmiene)",
-      "url": "https://open.spotify.com/track/0csHRGsK3gKsERufowurNK"
+      "duration_ms": 129026,
+      "name": "Grave News",
+      "url": "https://open.spotify.com/track/5TriYLMGrvgW7j1aXymdeX"
     },
     {
       "added_at": null,

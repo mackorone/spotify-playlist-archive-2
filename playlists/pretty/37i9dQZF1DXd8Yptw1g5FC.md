@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Eftalya Yağcı x Tan Taşçı ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,972 likes - 151 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,976 likes - 151 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 4 | [Çukur](https://open.spotify.com/track/4kgGyOa4xEpUl2sJIYDWXY) | [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Çukur](https://open.spotify.com/album/6OupKBvHaKBYZQ9URTUxZR) | 3:24 |
 | 5 | [Ezberime](https://open.spotify.com/track/6bt1Y09ypUNbNtbSPjMjp0) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Ezberime](https://open.spotify.com/album/3jpT9JyRVtDiHrsrghAn7R) | 3:20 |
 | 6 | [vODKA BELUGA](https://open.spotify.com/track/1fWaftHNcaVI6EKW0b6MES) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [vODKA BELUGA](https://open.spotify.com/album/5SSXzQ14LA9A4g4auCKgvX) | 2:01 |
-| 7 | [kötü kötü \- Tolga Şanlı Versiyon](https://open.spotify.com/track/7aU5gn0mrAlreS4o0fCZ69) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [kötü kötü \(Tolga Şanlı Versiyon\)](https://open.spotify.com/album/3gUD5dYbmlKxpRHztBrQYR) | 3:10 |
+| 7 | [kötü kötü](https://open.spotify.com/track/7aU5gn0mrAlreS4o0fCZ69) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [kötü kötü](https://open.spotify.com/album/3gUD5dYbmlKxpRHztBrQYR) | 3:10 |
 | 8 | [STOP SMOKING](https://open.spotify.com/track/1LZdDJ0ZPxbIKP1NcvWhm5) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [STOP SMOKING](https://open.spotify.com/album/1zfzwXyOTY9LYvhkZMUxWf) | 1:37 |
 | 9 | [Olduramadım](https://open.spotify.com/track/0Yrv3tgrHxOUIClXEdh9Di) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP), [İnan](https://open.spotify.com/artist/6Wx1kbKMBgW1xi8HXijfEC) | [Olduramadım](https://open.spotify.com/album/3zwecN4LEJ9AjkCVZorjEm) | 4:14 |
 | 10 | [Kırmızı Karanfil](https://open.spotify.com/track/3w6TepxKoReKdCcprP3mKS) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Kırmızı Karanfil](https://open.spotify.com/album/6YjwUq0KbbHnMQP4WbJzfR) | 2:18 |

@@ -4,7 +4,7 @@
 
 > Samuel Welten genomineerd voor Edison Pop 2026: Nieuwkomer en Hollands 🔥
 
-113 songs - 5 hr 56 min
+114 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Gooi 'm Dicht](https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Gooi 'm Dicht](https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN) | 2:32 | 2025-06-06 |  |
 | [Haal Alles Uit Het Leven](https://open.spotify.com/track/30hbG5ooVS1Koomc6Vrp9R) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Haal Alles Uit Het Leven](https://open.spotify.com/album/74shNk1WuIu1sTqfNcUx7a) | 2:58 | 2025-06-06 |  |
 | [Hallo](https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:12 | 2025-06-06 |  |
+| [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/31kf5nGp5YIcbNgqtRTmib) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:10 | 2026-01-27 |  |
 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 | 2025-06-06 |  |
 | [Helena 2.0](https://open.spotify.com/track/2J0br43id0NFuqLt5fJDe0) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Helena 2.0](https://open.spotify.com/album/27UELHV6awvdAjsLtsh5Uf) | 3:20 | 2025-06-06 |  |
 | [Het Is Een Nacht..\. \(Levensecht\)](https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:45 | 2025-06-06 |  |
@@ -91,7 +92,7 @@
 | [Nog Geen Siësta](https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Nog Geen Siësta](https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A) | 2:39 | 2025-06-06 | 2026-01-28 |
 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 | 2025-06-06 |  |
 | [Pretty Belinda](https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA) | [Lawineboys](https://open.spotify.com/artist/4y6ycmATEW4V7Ce0Dv0Hs4), [Rocky Vosse](https://open.spotify.com/artist/5MgHd2kIXqz2naASTYJMWJ) | [Pretty Belinda](https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm) | 2:54 | 2025-06-06 |  |
-| [Pure Verleiding](https://open.spotify.com/track/0SXG52Psd7NNVpsC57DFOF) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Lekker Lekker](https://open.spotify.com/album/67AJLUypcS4R7DqtZXxdG1) | 3:23 | 2025-12-10 |  |
+| [Pure Verleiding](https://open.spotify.com/track/0SXG52Psd7NNVpsC57DFOF) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Lekker Lekker](https://open.spotify.com/album/67AJLUypcS4R7DqtZXxdG1) | 3:23 | 2025-12-10 | 2026-02-03 |
 | [Rosanne](https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa) | 2:39 | 2025-06-06 |  |
 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 | 2025-09-04 | 2026-01-15 |
 | [Schultenbräu](https://open.spotify.com/track/540BsMhL329p3KhB8ZZ7Ez) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Chantal Janzen](https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn) | [Schultenbräu](https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu) | 3:02 | 2025-06-06 | 2025-12-11 |

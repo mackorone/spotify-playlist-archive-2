@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: KiiiKiii) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: ZEROBASEONE) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -1424,6 +1424,24 @@
       "duration_ms": 241999,
       "name": "113",
       "url": "https://open.spotify.com/track/0GgJyPJa1d5k2UD1KwiBHT"
+    },
+    {
+      "album": {
+        "name": "LOVEX",
+        "url": "https://open.spotify.com/album/46u4Ky4NzAyH24GMf5qb9n"
+      },
+      "artists": [
+        {
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "119 LOVE",
+      "url": "https://open.spotify.com/track/4t9TB4YMk2OKHPladyATtk"
     },
     {
       "album": {
@@ -73889,6 +73907,24 @@
     },
     {
       "album": {
+        "name": "Day 5",
+        "url": "https://open.spotify.com/album/1vI56rynJdQnHYiRMmatfP"
+      },
+      "artists": [
+        {
+          "name": "xeom boi",
+          "url": "https://open.spotify.com/artist/5DEvwmOXx50p6LUUg32t8M"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159729,
+      "name": "Feel it Coming",
+      "url": "https://open.spotify.com/track/0NOiX0RMUleJ3TBvR6LluM"
+    },
+    {
+      "album": {
         "name": "FEEL LIKE",
         "url": "https://open.spotify.com/album/7lFsJ24DqIOWqngv92n8HL"
       },
@@ -86760,6 +86796,24 @@
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
+    },
+    {
+      "album": {
+        "name": "UNLIMIT",
+        "url": "https://open.spotify.com/album/2xqTYpN2O90wzuMTSKCpCY"
+      },
+      "artists": [
+        {
+          "name": "SUNGMIN",
+          "url": "https://open.spotify.com/artist/2O46GIp2cr4sZaVPcP0ket"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Godsaeng",
+      "url": "https://open.spotify.com/track/24A8oxjZjXIK8Hzddo4VrP"
     },
     {
       "album": {
@@ -144529,6 +144583,24 @@
     },
     {
       "album": {
+        "name": "Loved up",
+        "url": "https://open.spotify.com/album/5xCOfbAW8GHundzvmcGvSD"
+      },
+      "artists": [
+        {
+          "name": "Goopy",
+          "url": "https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203250,
+      "name": "Loved up",
+      "url": "https://open.spotify.com/track/2uADacjoH3RWFpEmNA6LFz"
+    },
+    {
+      "album": {
         "name": "Loved you",
         "url": "https://open.spotify.com/album/7ruIxC6LWTlsiTPY8h6Wrn"
       },
@@ -144732,6 +144804,24 @@
       "duration_ms": 158280,
       "name": "lovelylove",
       "url": "https://open.spotify.com/track/2QxJnNLm0rK16vTJLevoy8"
+    },
+    {
+      "album": {
+        "name": "RE-FLOW",
+        "url": "https://open.spotify.com/album/2IhQYBuoaZmcXRQJqwFGQg"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "LOVEPOCALYPSE",
+      "url": "https://open.spotify.com/track/7xbNUUy1y3zNqvp65TXaa9"
     },
     {
       "album": {
@@ -153743,6 +153833,24 @@
     },
     {
       "album": {
+        "name": "Missing You (Original Webtoon Soundtrack from Naver Webtoon \"Love Revolution Reminds\")",
+        "url": "https://open.spotify.com/album/1DGDbxPSrzvIf3tOgT4GTS"
+      },
+      "artists": [
+        {
+          "name": "ESDI",
+          "url": "https://open.spotify.com/artist/6aESUF8JmhEzx3caQ0erOW"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252379,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/69sTmIhdPhFSg6bhEQWuiu"
+    },
+    {
+      "album": {
         "name": "Bloody Heart, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2mImoUb3owQR8y2Y0A3fKk"
       },
@@ -161957,6 +162065,24 @@
     },
     {
       "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/1ZHZ4SWxcb6WevSIqzLCmn"
+      },
+      "artists": [
+        {
+          "name": "YEL",
+          "url": "https://open.spotify.com/artist/5tm31CNMTzuIL7TqVGURwj"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/5CViBbygVlKpWlJPkiNeUW"
+    },
+    {
+      "album": {
         "name": "NARIN Remake project Pt. 2 - R.P.G. Shine",
         "url": "https://open.spotify.com/album/3mdWQZqMKMXvyUbQCUVz9Y"
       },
@@ -167748,6 +167874,24 @@
       "duration_ms": 218720,
       "name": "Not That Girl",
       "url": "https://open.spotify.com/track/47aAWHl14baNRkXTVb4klI"
+    },
+    {
+      "album": {
+        "name": "A Place of Use",
+        "url": "https://open.spotify.com/album/22c6Z507yCVXzH44KRva3E"
+      },
+      "artists": [
+        {
+          "name": "CHOSNG",
+          "url": "https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254225,
+      "name": "Not to fade",
+      "url": "https://open.spotify.com/track/6mTTquypTU75v59JzzLF7N"
     },
     {
       "album": {
@@ -197703,6 +197847,32 @@
     },
     {
       "album": {
+        "name": "Same Days",
+        "url": "https://open.spotify.com/album/4lZsj3u5XyFtEv3IS3HMqg"
+      },
+      "artists": [
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z"
+        },
+        {
+          "name": "HYESUNG",
+          "url": "https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145565,
+      "name": "Same Days",
+      "url": "https://open.spotify.com/track/4Rupjlu5lEdF9pv2rt7sJa"
+    },
+    {
+      "album": {
         "name": "Same Morning",
         "url": "https://open.spotify.com/album/2N1VnlQriy5uWI8neWBqk4"
       },
@@ -200048,6 +200218,24 @@
       "duration_ms": 272153,
       "name": "Season that doesn't exist",
       "url": "https://open.spotify.com/track/1v8XwbN8dIcDfTSOondTJT"
+    },
+    {
+      "album": {
+        "name": "Seasonal Crime",
+        "url": "https://open.spotify.com/album/4yo0aF3isKwdSvRPNb75ew"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222911,
+      "name": "Seasonal Crime",
+      "url": "https://open.spotify.com/track/5texqcjmxCt08GyAb268T3"
     },
     {
       "album": {
@@ -212218,6 +212406,28 @@
       "duration_ms": 198480,
       "name": "Sorrow at my door (PROD. Rocoberry)",
       "url": "https://open.spotify.com/track/0I1iP5vt4Bid6FJQzLRnbH"
+    },
+    {
+      "album": {
+        "name": "Sorrow at my door (Prod. Rocoberry)",
+        "url": "https://open.spotify.com/album/4s9QSGCfrMmQWVm1eizWCg"
+      },
+      "artists": [
+        {
+          "name": "SLAY",
+          "url": "https://open.spotify.com/artist/0mKLeAOe2gIPTqqOdSC0UJ"
+        },
+        {
+          "name": "Nam Gyu ri",
+          "url": "https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Sorrow at my door (Prod. Rocoberry)",
+      "url": "https://open.spotify.com/track/1yZYCS93PydiSUjjijDd6Z"
     },
     {
       "album": {
@@ -279931,6 +280141,24 @@
     },
     {
       "album": {
+        "name": "\ubcc4, \uc0ac\uc774(2026)",
+        "url": "https://open.spotify.com/album/5GXWNgcRwppo8csrzEHyPy"
+      },
+      "artists": [
+        {
+          "name": "BehindtheMoon",
+          "url": "https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225434,
+      "name": "\ubcc4, \uc0ac\uc774(2026)",
+      "url": "https://open.spotify.com/track/0Vxb8VgxTidGl8jfsux5Kt"
+    },
+    {
+      "album": {
         "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt.18",
         "url": "https://open.spotify.com/album/2wPVlr6UUDhEkmVjRUJhmX"
       },
@@ -280232,6 +280460,24 @@
       "duration_ms": 183746,
       "name": "\ubd88\uaf43, \ub180\uc774",
       "url": "https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4"
+    },
+    {
+      "album": {
+        "name": "4 files",
+        "url": "https://open.spotify.com/album/4a4t6wrPPN4okS2QTpZx8R"
+      },
+      "artists": [
+        {
+          "name": "Osshun Gum",
+          "url": "https://open.spotify.com/artist/4F4rHRjTw15zhEFKvnLs7q"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220916,
+      "name": "\ubd88\uc528",
+      "url": "https://open.spotify.com/track/2Q7YLi0wCdpSkVozV0fJmJ"
     },
     {
       "album": {

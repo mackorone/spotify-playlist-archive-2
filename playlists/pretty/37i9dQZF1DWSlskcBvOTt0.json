@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 579860,
+  "num_followers": 579933,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -150,6 +150,14 @@
         {
           "name": "JEWELS",
           "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+        },
+        {
+          "name": "YUMA",
+          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
         }
       ],
       "duration_ms": 302044,
@@ -1291,26 +1299,6 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
-        "name": "take me (to the sunrise)",
-        "url": "https://open.spotify.com/album/1ePQDyfS4ajFsU8zv1HQcF"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 226829,
-      "name": "take me (to the sunrise)",
-      "url": "https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
         "name": "Keep Me Close",
         "url": "https://open.spotify.com/album/442k8gJJ7jTh4uokubtnbi"
       },
@@ -1331,6 +1319,46 @@
       "duration_ms": 197000,
       "name": "Keep Me Close",
       "url": "https://open.spotify.com/track/1xUNcHDeD5yl2RpVS85q0a"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
+        "name": "take me (to the sunrise)",
+        "url": "https://open.spotify.com/album/1ePQDyfS4ajFsU8zv1HQcF"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 226829,
+      "name": "take me (to the sunrise)",
+      "url": "https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
+        "name": "PROVENZA (Sistek Remix)",
+        "url": "https://open.spotify.com/album/2pbds46rDlZp6BjwcOi7vl"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "PROVENZA - Sistek Remix",
+      "url": "https://open.spotify.com/track/2SYfJeselsgIJ1yK0NgCto"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -1375,26 +1403,6 @@
       "duration_ms": 193278,
       "name": "Lioness - Francis Mercier Remix",
       "url": "https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
-        "name": "PROVENZA (Sistek Remix)",
-        "url": "https://open.spotify.com/album/2pbds46rDlZp6BjwcOi7vl"
-      },
-      "artists": [
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "PROVENZA - Sistek Remix",
-      "url": "https://open.spotify.com/track/2SYfJeselsgIJ1yK0NgCto"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -1587,6 +1595,22 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
+        "name": "Give It All",
+        "url": "https://open.spotify.com/album/24RTvkSb3aoYar07Ix3I9d"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
         "name": "Try",
         "url": "https://open.spotify.com/album/78gnHm6vFBc1JoJABAtOeD"
       },
@@ -1603,22 +1627,6 @@
       "duration_ms": 224385,
       "name": "Try",
       "url": "https://open.spotify.com/track/2PkcJdAVlbQCnqoZjYo8JC"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
-        "name": "Give It All",
-        "url": "https://open.spotify.com/album/24RTvkSb3aoYar07Ix3I9d"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Satie",
-          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -1939,6 +1947,26 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
+        "name": "AD02: Pans Of Death / Rounds",
+        "url": "https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL"
+      },
+      "artists": [
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 320597,
+      "name": "Pans Of Death",
+      "url": "https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
         "name": "Feel The Love",
         "url": "https://open.spotify.com/album/5n6V1LkjqA3sr4n1gz1ODx"
       },
@@ -1967,26 +1995,6 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
-        "name": "AD02: Pans Of Death / Rounds",
-        "url": "https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL"
-      },
-      "artists": [
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 320597,
-      "name": "Pans Of Death",
-      "url": "https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
         "name": "Masterclass",
         "url": "https://open.spotify.com/album/0EnaDpMlUTsWUVRPhwxPCD"
       },
@@ -2003,6 +2011,26 @@
       "duration_ms": 212000,
       "name": "Masterclass",
       "url": "https://open.spotify.com/track/043vqBDn7RzuxJ1FF35Qht"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
+        "name": "Bilmirem",
+        "url": "https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0"
+      },
+      "artists": [
+        {
+          "name": "Ilkay Sencan",
+          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
+        },
+        {
+          "name": "Metty",
+          "url": "https://open.spotify.com/artist/0vsssjIOJPKcAfG0oUjHVs"
+        }
+      ],
+      "duration_ms": 162937,
+      "name": "Bilmirem",
+      "url": "https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -2039,26 +2067,6 @@
       "duration_ms": 244000,
       "name": "Smoke (feat. Clubhouse)",
       "url": "https://open.spotify.com/track/4IMVC2fbZO6rVw9dE3piCZ"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
-        "name": "Bilmirem",
-        "url": "https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0"
-      },
-      "artists": [
-        {
-          "name": "Ilkay Sencan",
-          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
-        },
-        {
-          "name": "Metty",
-          "url": "https://open.spotify.com/artist/0vsssjIOJPKcAfG0oUjHVs"
-        }
-      ],
-      "duration_ms": 162937,
-      "name": "Bilmirem",
-      "url": "https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -2175,22 +2183,6 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL"
-      },
-      "artists": [
-        {
-          "name": "Betical",
-          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
         "name": "El Youm El Helw Dah",
         "url": "https://open.spotify.com/album/4Sq5Kpd6Nhf81dc3wWnVdZ"
       },
@@ -2211,6 +2203,22 @@
       "duration_ms": 177560,
       "name": "El Youm El Helw Dah",
       "url": "https://open.spotify.com/track/2Psyh5GwECKX8AGUNfW8BJ"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL"
+      },
+      "artists": [
+        {
+          "name": "Betical",
+          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -2275,26 +2283,6 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
-        "name": "Riga",
-        "url": "https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S"
-      },
-      "artists": [
-        {
-          "name": "Super Flu",
-          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
-        },
-        {
-          "name": "Marc Werner",
-          "url": "https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr"
-        }
-      ],
-      "duration_ms": 315371,
-      "name": "Riga",
-      "url": "https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
         "name": "Abandoned",
         "url": "https://open.spotify.com/album/4uRtT3rPcGU7qwovvVSXwo"
       },
@@ -2319,6 +2307,26 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/269aLKNdaU2S3kbh5jCHPP"
+      },
+      "artists": [
+        {
+          "name": "AV\u00d6",
+          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
+        },
+        {
+          "name": "Jawora",
+          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
+        }
+      ],
+      "duration_ms": 195371,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
         "name": "Born In Blue",
         "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
       },
@@ -2339,22 +2347,22 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
-        "name": "I Don't Know",
-        "url": "https://open.spotify.com/album/269aLKNdaU2S3kbh5jCHPP"
+        "name": "Riga",
+        "url": "https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S"
       },
       "artists": [
         {
-          "name": "AV\u00d6",
-          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
         },
         {
-          "name": "Jawora",
-          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
+          "name": "Marc Werner",
+          "url": "https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr"
         }
       ],
-      "duration_ms": 195371,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx"
+      "duration_ms": 315371,
+      "name": "Riga",
+      "url": "https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -2507,6 +2515,34 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
+        "name": "Angeke",
+        "url": "https://open.spotify.com/album/3LHxLqMXWYxG00vMPAfAg5"
+      },
+      "artists": [
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Thatohatsi",
+          "url": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
+        },
+        {
+          "name": "Kenza",
+          "url": "https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi"
+        },
+        {
+          "name": "Jnr SA",
+          "url": "https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku"
+        }
+      ],
+      "duration_ms": 352051,
+      "name": "Angeke",
+      "url": "https://open.spotify.com/track/1qWoAi5DIfUYqC7nS5aBdS"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
         "name": "Nterini 2.0",
         "url": "https://open.spotify.com/album/62NwOIsTqtPUx237AjGLNm"
       },
@@ -2575,6 +2611,22 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
+      },
+      "artists": [
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
+    },
+    {
+      "added_at": "2026-01-30 05:01:04",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh"
       },
@@ -2595,18 +2647,18 @@
     {
       "added_at": "2026-01-30 05:01:04",
       "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
+        "name": "U Ain't Lyin'",
+        "url": "https://open.spotify.com/album/0FvXnVAn397FMfYjnIviyI"
       },
       "artists": [
         {
-          "name": "Moojo",
-          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
         }
       ],
-      "duration_ms": 251803,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
+      "duration_ms": 218760,
+      "name": "U Ain't Lyin'",
+      "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
     },
     {
       "added_at": "2026-01-30 05:01:04",
@@ -2623,42 +2675,6 @@
       "duration_ms": 516815,
       "name": "Buschtaxi",
       "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
-        "name": "Rolling Thunder",
-        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Rolling Thunder",
-      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
-    },
-    {
-      "added_at": "2026-01-30 05:01:04",
-      "album": {
-        "name": "Rintintin",
-        "url": "https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73"
-      },
-      "artists": [
-        {
-          "name": "M\u00cbSTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Rintintin",
-      "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
     },
     {
       "added_at": "2026-01-30 05:01:04",

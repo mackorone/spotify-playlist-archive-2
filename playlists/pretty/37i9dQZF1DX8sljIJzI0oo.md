@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Kris R\. is bringing the heat this week\. Tap in every Thursday for a new Fuego mixtape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924,867 likes - 25 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924,758 likes - 25 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -7721,6 +7721,28 @@
     },
     {
       "album": {
+        "name": "Ithaca Suite/VI. Laertes",
+        "url": "https://open.spotify.com/album/4Pd1yN2Zk9wnjLMmv0ONmS"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257773,
+      "name": "Ithaca Suite: VI. Laertes",
+      "url": "https://open.spotify.com/track/7H5EfOnTGNwAJD1ToH98n2"
+    },
+    {
+      "album": {
         "name": "Ithaca Suite/VII. Pax Athenae",
         "url": "https://open.spotify.com/album/0UGWYSfM6oQIVcXdNYJPsh"
       },
@@ -11714,6 +11736,24 @@
       "duration_ms": 270613,
       "name": "Nuit de No\u00ebl, BV 251",
       "url": "https://open.spotify.com/track/5Vh1mO6NA0h95PG5zO9Gxn"
+    },
+    {
+      "album": {
+        "name": "Nuits",
+        "url": "https://open.spotify.com/album/22XJ15idbENSqeJ8gRhEBT"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198522,
+      "name": "Nuits",
+      "url": "https://open.spotify.com/track/3vj9Erwp1R9hptlf04DXsW"
     },
     {
       "album": {

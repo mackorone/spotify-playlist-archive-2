@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Los Chavalitos
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,574 likes - 73 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,624 likes - 73 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

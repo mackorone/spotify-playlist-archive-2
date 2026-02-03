@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 72694,
+  "num_followers": 72715,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -371,8 +371,8 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Nonpalidesenchufado",
-        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 314772,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
+      "duration_ms": 221040,
+      "name": "Tu Presencia",
+      "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -503,8 +503,8 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+        "name": "Nonpalidesenchufado",
+        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 221040,
-      "name": "Tu Presencia",
-      "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
+      "duration_ms": 314772,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Uma Brasileira",
+        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 198238,
+      "name": "Uma Brasileira",
+      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Llamado",
         "url": "https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 225431,
       "name": "Llamado",
       "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Uma Brasileira",
-        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 198238,
-      "name": "Uma Brasileira",
-      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Diablito",
+      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Loco Por Volverla a Ver",
         "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 272189,
       "name": "Loco Por Volverla a Ver",
       "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Diablito",
-      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Turbulencia o Paz",
-        "url": "https://open.spotify.com/album/49lFuZH1GlMP7jutMQ0hfi"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        }
-      ],
-      "duration_ms": 203889,
-      "name": "Turbulencia o Paz",
-      "url": "https://open.spotify.com/track/7ezZxJC2I9tMPY791GcRKZ"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Cover Me",
         "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 325124,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Turbulencia o Paz",
+        "url": "https://open.spotify.com/album/49lFuZH1GlMP7jutMQ0hfi"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        }
+      ],
+      "duration_ms": 203889,
+      "name": "Turbulencia o Paz",
+      "url": "https://open.spotify.com/track/7ezZxJC2I9tMPY791GcRKZ"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 209007,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Origen Natural",
-        "url": "https://open.spotify.com/album/1SNVNkeVZNmyxK1komzCxC"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        }
-      ],
-      "duration_ms": 197692,
-      "name": "Origen Natural",
-      "url": "https://open.spotify.com/track/3VTg7UaLie6HofBvSnOHzQ"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+        "name": "Origen Natural",
+        "url": "https://open.spotify.com/album/1SNVNkeVZNmyxK1komzCxC"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
         }
       ],
-      "duration_ms": 209007,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
+      "duration_ms": 197692,
+      "name": "Origen Natural",
+      "url": "https://open.spotify.com/track/3VTg7UaLie6HofBvSnOHzQ"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "En Vivo Teatro Caupolic\u00e1n",
-        "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 251567,
-      "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
-      "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Casita",
         "url": "https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 205059,
       "name": "Casita",
       "url": "https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "En Vivo Teatro Caupolic\u00e1n",
+        "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 251567,
+      "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
+      "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
     }
   ],
   "unique_name": "Reggae al Sur",

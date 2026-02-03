@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Namasenda✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,629 likes - 231 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,620 likes - 231 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cola](https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Cola](https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX) | 2:13 |
-| 2 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
-| 3 | [Still Sincere](https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Still Sincere](https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d) | 3:08 |
-| 4 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
-| 5 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
-| 6 | [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 |
-| 7 | [Sexistential](https://open.spotify.com/track/4OLgQczN5Watwb6QI0tXeS) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 2:20 |
-| 8 | [MONEY IN THE BANK](https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [MONEY IN THE BANK](https://open.spotify.com/album/7kWrHQb4ORQ5mRBeoVuR4a) | 2:12 |
-| 9 | [Liars Tale](https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Liars Tale](https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe) | 3:17 |
+| 1 | [MONEY IN THE BANK](https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [MONEY IN THE BANK](https://open.spotify.com/album/7kWrHQb4ORQ5mRBeoVuR4a) | 2:12 |
+| 2 | [Cola](https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Cola](https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX) | 2:13 |
+| 3 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
+| 4 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
+| 5 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
+| 6 | [Still Sincere](https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Still Sincere](https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d) | 3:08 |
+| 7 | [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 |
+| 8 | [Sexistential](https://open.spotify.com/track/4OLgQczN5Watwb6QI0tXeS) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 2:20 |
+| 9 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
 | 10 | [Prayer](https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q) | 5:26 |
-| 11 | [Pleasure’s Mine](https://open.spotify.com/track/19cgfclwwxsGGwaEbOn0B2) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:57 |
-| 12 | [This Is The Place](https://open.spotify.com/track/2CNUFN8wwtwX39rRlPD3Kk) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [This Is The Place](https://open.spotify.com/album/3XPTdlBTpXlwP4ZdU9dgMN) | 3:16 |
-| 13 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
+| 11 | [Liars Tale](https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Liars Tale](https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe) | 3:17 |
+| 12 | [Pleasure’s Mine](https://open.spotify.com/track/19cgfclwwxsGGwaEbOn0B2) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:57 |
+| 13 | [This Is The Place](https://open.spotify.com/track/2CNUFN8wwtwX39rRlPD3Kk) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [This Is The Place](https://open.spotify.com/album/3XPTdlBTpXlwP4ZdU9dgMN) | 3:16 |
 | 14 | [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:55 |
 | 15 | [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 |
 | 16 | [Poseidon](https://open.spotify.com/track/0J8qe0m52RtYRbTCzCzQ1q) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Poseidon](https://open.spotify.com/album/3skDB3NK2tTMuJ08c4js1S) | 3:16 |
@@ -240,4 +240,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 230 | [where I've been](https://open.spotify.com/track/52vZKMsSxSi2ubk4TOy8bK) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [where I've been](https://open.spotify.com/album/001b5pgV7pD9pFjglUHxtd) | 3:00 |
 | 231 | [Wish](https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Wish](https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW) | 3:19 |
 
-Snapshot ID: `AAAAAGocdn3Ba9b0U+Cpu0F/ztSLfMT4`
+Snapshot ID: `AAAAAMfvK6Bh2lRapXrVo8nnwyst2BZS`

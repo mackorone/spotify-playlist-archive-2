@@ -2,7 +2,7 @@
 
 ### [Westside](https://open.spotify.com/playlist/37i9dQZF1DWSvKsRPPnv5o)
 
-> Holdin' it down for the westside\. Cover: Larry June
+> Holdin' it down for the westside\. Cover: Kendrick Lamar
 
 1,503 songs - 2 day 21 hr 55 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Young Fatty
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,399 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,353 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 15 | [MCM](https://open.spotify.com/track/0sbgIZCm9GbVC5JwUGghxW) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [MCM](https://open.spotify.com/album/7MyctZEoVCnKVC1ysvqjAO) | 3:00 |
 | 16 | [SLOW DOWN](https://open.spotify.com/track/1nivo2UcHF92ys7H7OajbW) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [SLOW DOWN](https://open.spotify.com/album/3EFDco39Lk9FDlDf4tW7Hb) | 2:56 |
 | 17 | [Odisea](https://open.spotify.com/track/6x7zSQuEfXb75Gtbqnc979) | [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3) | [Odisea](https://open.spotify.com/album/72iLqwjprxC1M33RcDHXjX) | 3:56 |
-| 18 | [CINTURA](https://open.spotify.com/track/3QNktPNTAcPaSR1diIyVFW) | [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [CINTURA](https://open.spotify.com/album/22sqk6OeYTfJ3EAtAtMIZO) | 3:15 |
+| 18 | [CINTURA \- Republica Dominicana](https://open.spotify.com/track/3QNktPNTAcPaSR1diIyVFW) | [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [CINTURA \(Republica Dominicana\)](https://open.spotify.com/album/22sqk6OeYTfJ3EAtAtMIZO) | 3:15 |
 | 19 | [Mano al piso](https://open.spotify.com/track/5XXKhuyI8p0opNP5CVSYzD) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Mano al piso](https://open.spotify.com/album/71bgYQi8j3YmpudaJFsSwo) | 2:31 |
 | 20 | [La Boveda](https://open.spotify.com/track/35XYLpa32y2GJYgyRkGfmi) | [Noize](https://open.spotify.com/artist/2IzieP3siLRSSp0fpSArfK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [La Boveda](https://open.spotify.com/album/4BVRYEZqoybJU2W8ZfmfzI) | 3:01 |
 | 21 | [CUÉNTAME](https://open.spotify.com/track/0nGutb7xfndF7iSGmk6tBP) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Reelian](https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw) | [CUÉNTAME](https://open.spotify.com/album/32rgjVV7GGC4ixa0ZDSqPh) | 2:42 |

@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Joaquin Coronel y Marcos Villalobos en portada.",
-  "num_followers": 70030,
+  "num_followers": 70050,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "Te quiero",
+        "url": "https://open.spotify.com/album/7I6R1TefizulQxwYchpARi"
+      },
+      "artists": [
+        {
+          "name": "Jaycc",
+          "url": "https://open.spotify.com/artist/1XIz0GQC3BReKYW29Uk7yN"
+        }
+      ],
+      "duration_ms": 273999,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/5KAtz23nX31PdwgLW8SSJy"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "TUCU",
         "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 156428,
       "name": "TUCU",
       "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "Te quiero",
-        "url": "https://open.spotify.com/album/7I6R1TefizulQxwYchpARi"
-      },
-      "artists": [
-        {
-          "name": "Jaycc",
-          "url": "https://open.spotify.com/artist/1XIz0GQC3BReKYW29Uk7yN"
-        }
-      ],
-      "duration_ms": 273999,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/5KAtz23nX31PdwgLW8SSJy"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "EXTAPHORIC!",
+        "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "duration_ms": 85520,
+      "name": "THIRST FOR ME!",
+      "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "Sin Sentir",
         "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 219098,
       "name": "Sin Sentir",
       "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "EXTAPHORIC!",
-        "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
-      },
-      "artists": [
-        {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        }
-      ],
-      "duration_ms": 85520,
-      "name": "THIRST FOR ME!",
-      "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "La Diabla (Electro Remix)",
+        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "duration_ms": 136477,
+      "name": "La Diabla (Electro Remix)",
+      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "Tranki",
         "url": "https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 256000,
       "name": "Tranki",
       "url": "https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "La Diabla (Electro Remix)",
-        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
-      },
-      "artists": [
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 136477,
-      "name": "La Diabla (Electro Remix)",
-      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "me estoy volviendo loca",
+        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 139034,
+      "name": "la jefa del triple 4",
+      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "2 Da Floor",
         "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 185600,
       "name": "2 Da Floor",
       "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "me estoy volviendo loca",
-        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 139034,
-      "name": "la jefa del triple 4",
-      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "Cartagena (Sylvan Esso Edit)",
         "url": "https://open.spotify.com/album/3FVCEyoTcrA9eraksVRgC8"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 207637,
       "name": "Cartagena - Sylvan Esso Edit",
       "url": "https://open.spotify.com/track/3iBO3QO60GTlYDyQcfh9w4"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1827,22 +1827,26 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "SUSTANCIAS",
-        "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
+        "name": "Pachuco",
+        "url": "https://open.spotify.com/album/7gnCSYZGh8zZOzy5qCINDh"
       },
       "artists": [
         {
-          "name": "Happykid",
-          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
+          "name": "Broz Rodriguez",
+          "url": "https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln"
         },
         {
-          "name": "Mendoza",
-          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        },
+        {
+          "name": "Erick T",
+          "url": "https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0"
         }
       ],
-      "duration_ms": 228923,
-      "name": "SUSTANCIAS",
-      "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
+      "duration_ms": 123692,
+      "name": "Pachuco",
+      "url": "https://open.spotify.com/track/7AOTRIjLg70ALz46yeWk2h"
     }
   ],
   "unique_name": "electro mx ",

@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 132834,
       "name": "Cause I",
       "url": "https://open.spotify.com/track/4DtrA769f2GWn2lOdFIdBY"
@@ -1274,6 +1274,24 @@
       "duration_ms": 83410,
       "name": "Coffee In The Morning",
       "url": "https://open.spotify.com/track/3d1USIeQb0IGcOc8MatxAp"
+    },
+    {
+      "album": {
+        "name": "Come Apart",
+        "url": "https://open.spotify.com/album/3Hp1mcpihhbhcCiT1kGS2j"
+      },
+      "artists": [
+        {
+          "name": "october mills",
+          "url": "https://open.spotify.com/artist/04ru9wtWDyride2SXkWtLW"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Come Apart",
+      "url": "https://open.spotify.com/track/0DaTctEDQQbhoLeCQszk8V"
     },
     {
       "album": {

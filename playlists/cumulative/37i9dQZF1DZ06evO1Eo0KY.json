@@ -281,6 +281,32 @@
     },
     {
       "album": {
+        "name": "B!Tch",
+        "url": "https://open.spotify.com/album/7jeltOef5FnPWgCb9EPBBt"
+      },
+      "artists": [
+        {
+          "name": "TRAPMAT SAVIOR",
+          "url": "https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "B!Tch",
+      "url": "https://open.spotify.com/track/48Ppng6VGGGJ9WxZgI9Ksi"
+    },
+    {
+      "album": {
         "name": "Craven N",
         "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
       },
@@ -2570,7 +2596,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Simple Math",
       "url": "https://open.spotify.com/track/09UFD242DWtLC8QAexJLm5"
@@ -2790,7 +2816,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 149610,
       "name": "Symptoms",
       "url": "https://open.spotify.com/track/78PWF1prjLHho9fV7CaktP"

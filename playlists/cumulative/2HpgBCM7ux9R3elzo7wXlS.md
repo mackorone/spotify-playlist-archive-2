@@ -4,7 +4,7 @@
 
 > All of it
 
-1,119 songs - 2 day 20 hr 46 min
+1,120 songs - 2 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Fell In Luv \(feat\. Bryson Tiller\)](https://open.spotify.com/track/1s9DTymg5UQrdorZf43JQm) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:26 | 2025-06-02 |  |
 | [Field of Vision](https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Field of Vision](https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0) | 3:35 | 2025-06-02 |  |
 | [FIELD TRIP](https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [FIELD TRIP](https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK) | 2:43 | 2025-06-02 |  |
+| [Fighting Gold](https://open.spotify.com/track/5ycVJufpq4ad1mqA5JfNQS) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [Fighting Gold](https://open.spotify.com/album/1UMwWm9cXGyMsjMCnmPxrA) | 4:13 | 2026-02-02 |  |
 | [Fighting Myself](https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:21 | 2026-01-31 |  |
 | [Finale](https://open.spotify.com/track/4kNKL8kCCV3vt9U2k28Lyx) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 1:52 | 2025-06-02 |  |
 | [Fire in the belly](https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:18 | 2025-06-02 |  |

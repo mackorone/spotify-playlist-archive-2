@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,163 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,173 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 67 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\) \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR \(DELUXE\)](https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U) | 3:00 |
 | 68 | [Y Que Fue?](https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [EMDP \(The Last Album\)](https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB) | 2:43 |
 | 69 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 |
-| 70 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 |
-| 71 | [Steve's Lava Chicken](https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:34 |
+| 70 | [Steve's Lava Chicken](https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:34 |
+| 71 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 |
 | 72 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 |
 | 73 | [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 |
 | 74 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/4cCnCDJZDLGDIdnxRfOUBn) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Everything is romantic featuring caroline polachek](https://open.spotify.com/album/0ZdvmKuGdMusb7B0qqVEio) | 3:23 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 92 | [Picătura De Cerneală](https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym), [Cristian Porcari](https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7) | [Picătura De Cerneală](https://open.spotify.com/album/1dJdy2U2isiT2Wew6xfTRI) | 2:49 |
 | 93 | [Anxiety](https://open.spotify.com/track/2RMeldjCXW6xnd1ZeLycv7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/6vn4PpHr01H37q9khkzRby) | 4:09 |
 | 94 | [Mercedes](https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Mercedes](https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL) | 2:45 |
-| 95 | [Afacere](https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Afacere](https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ) | 2:27 |
-| 96 | [Doar La Ea, Ba La Ea](https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9) | [Denis Nuca](https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj), [Letty](https://open.spotify.com/artist/38W9DiKfCJQxQp5zUYyFDw) | [Doar La Ea, Ba La Ea](https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG) | 2:28 |
+| 95 | [Doar La Ea, Ba La Ea](https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9) | [Denis Nuca](https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj), [Letty](https://open.spotify.com/artist/38W9DiKfCJQxQp5zUYyFDw) | [Doar La Ea, Ba La Ea](https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG) | 2:28 |
+| 96 | [Afacere](https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Afacere](https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ) | 2:27 |
 | 97 | [Să nu uiți cât te\-am iubit](https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Să nu uiți cât te\-am iubit](https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS) | 3:16 |
 | 98 | [Brasileiro](https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Brasileiro](https://open.spotify.com/album/2gPF15vJyaU8QErbQlvki7) | 2:38 |
 | 99 | [7 Dias](https://open.spotify.com/track/4399pdqfywDAeHJ2YKv4ja) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [7 Dias](https://open.spotify.com/album/1IAgMjZ6sm4k1W9Pcab4eR) | 2:42 |

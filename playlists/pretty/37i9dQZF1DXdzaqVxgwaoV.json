@@ -1,6 +1,6 @@
 {
   "description": "Los temas que prenden las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia. Foto: Lisandro Meza",
-  "num_followers": 129434,
+  "num_followers": 129422,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "Colecci\u00f3n Oro la Sonora Dinamita (Vol. 7)",
-        "url": "https://open.spotify.com/album/5j7AAPdbkCludx1GoWeX5m"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 226184,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/0wzg9y3e8tuk0vjpqgDVM8"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
         "name": "A Pulir la Hebilla",
         "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 176746,
       "name": "Baion de Madrid",
       "url": "https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
+        "name": "Colecci\u00f3n Oro la Sonora Dinamita (Vol. 7)",
+        "url": "https://open.spotify.com/album/5j7AAPdbkCludx1GoWeX5m"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 226184,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/0wzg9y3e8tuk0vjpqgDVM8"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "A Los 30 A\u00f1os de Victor Pi\u00f1ero",
-        "url": "https://open.spotify.com/album/2LaCWLjqjIkbUlk46RGJ0G"
-      },
-      "artists": [
-        {
-          "name": "Victor Pi\u00f1ero",
-          "url": "https://open.spotify.com/artist/6O5nkHt0QsqTMNaHkWNXmx"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "El Merecumb\u00e9",
-      "url": "https://open.spotify.com/track/2qomU9CLOJrZVDjDrG1xPj"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
         "name": "La Sonora Matancera y sus voces de oro, Vol. 1 (Remastered)",
         "url": "https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "\u00c9xitos Fruko",
-        "url": "https://open.spotify.com/album/7mO8Aqals1HnVuZ8m9uyiL"
+        "name": "A Los 30 A\u00f1os de Victor Pi\u00f1ero",
+        "url": "https://open.spotify.com/album/2LaCWLjqjIkbUlk46RGJ0G"
       },
       "artists": [
         {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+          "name": "Victor Pi\u00f1ero",
+          "url": "https://open.spotify.com/artist/6O5nkHt0QsqTMNaHkWNXmx"
         }
       ],
-      "duration_ms": 297358,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/6ffaMgOcnYojSshORaBNiK"
+      "duration_ms": 155773,
+      "name": "El Merecumb\u00e9",
+      "url": "https://open.spotify.com/track/2qomU9CLOJrZVDjDrG1xPj"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -891,6 +875,22 @@
       "duration_ms": 266866,
       "name": "Amargo Y Dulce",
       "url": "https://open.spotify.com/track/5qpLb0kL7Z8NRAlN6EWjXN"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
+        "name": "\u00c9xitos Fruko",
+        "url": "https://open.spotify.com/album/7mO8Aqals1HnVuZ8m9uyiL"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        }
+      ],
+      "duration_ms": 297358,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/6ffaMgOcnYojSshORaBNiK"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
+        "name": "Para Bailar y Bailar con El Cuarteto Imperial",
+        "url": "https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Imperial",
+          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
+        }
+      ],
+      "duration_ms": 435813,
+      "name": "Mosaico de Cumbias - La Pollera Color\u00e1 / Se V\u00e1 el Caim\u00e1n / Santander de Batunga / Quiero Amanecer / 777 D\u00edas / Si Tuviera Plata Ir\u00eda a Mar de Plata / La M\u00facura / Santa Marta / La Casa Est\u00e1 Sola / Adios, Adios Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/54eQG8ZLvbbgAZ8NSUqlUA"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 287459,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
-        "name": "Para Bailar y Bailar con El Cuarteto Imperial",
-        "url": "https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Imperial",
-          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
-        }
-      ],
-      "duration_ms": 435813,
-      "name": "Mosaico de Cumbias - La Pollera Color\u00e1 / Se V\u00e1 el Caim\u00e1n / Santander de Batunga / Quiero Amanecer / 777 D\u00edas / Si Tuviera Plata Ir\u00eda a Mar de Plata / La M\u00facura / Santa Marta / La Casa Est\u00e1 Sola / Adios, Adios Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/54eQG8ZLvbbgAZ8NSUqlUA"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
+        "name": "Que Gran Relajo",
+        "url": "https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "La Banda Borracha",
+      "url": "https://open.spotify.com/track/5re4akm7ImQOsyea86iSQ3"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
         "name": "La Sabrosura Salsa",
         "url": "https://open.spotify.com/album/0JOCXB95RSqFyKENbych2Y"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 259015,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/0Mm50XeSEj5KGUZmQRuLfo"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
-        "name": "Que Gran Relajo",
-        "url": "https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gutierrez",
-          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "La Banda Borracha",
-      "url": "https://open.spotify.com/track/5re4akm7ImQOsyea86iSQ3"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
+        "name": "Que Bueno Baila Celina",
+        "url": "https://open.spotify.com/album/3WkRkz7KIkA3VY0sezqF5m"
+      },
+      "artists": [
+        {
+          "name": "Celina Y Reutilio",
+          "url": "https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD"
+        }
+      ],
+      "duration_ms": 184786,
+      "name": "La Casa De Yagua",
+      "url": "https://open.spotify.com/track/1tbePUzdnmWfcq1glFVPlc"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
         "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 212138,
       "name": "Dime Qu\u00e9 Paso",
       "url": "https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
-        "name": "Que Bueno Baila Celina",
-        "url": "https://open.spotify.com/album/3WkRkz7KIkA3VY0sezqF5m"
-      },
-      "artists": [
-        {
-          "name": "Celina Y Reutilio",
-          "url": "https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD"
-        }
-      ],
-      "duration_ms": 184786,
-      "name": "La Casa De Yagua",
-      "url": "https://open.spotify.com/track/1tbePUzdnmWfcq1glFVPlc"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
+        "name": "Cumbias Solo Cumbias",
+        "url": "https://open.spotify.com/album/7esqjVlp983ecsQ1I8DsIv"
+      },
+      "artists": [
+        {
+          "name": "Super Orquesta Cartagena",
+          "url": "https://open.spotify.com/artist/29Eu6B3m9rjWlHg3G4aWhC"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "Cumbia Sampuesana",
+      "url": "https://open.spotify.com/track/0AQ1sJgFEjYNry4aApi51A"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
         "name": "Amapola",
         "url": "https://open.spotify.com/album/5AgWLXB1XyZwu4nTh4PmxW"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 192812,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/2xJjyzN1XIanhxxeSGOBn4"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
-        "name": "Cumbias Solo Cumbias",
-        "url": "https://open.spotify.com/album/7esqjVlp983ecsQ1I8DsIv"
-      },
-      "artists": [
-        {
-          "name": "Super Orquesta Cartagena",
-          "url": "https://open.spotify.com/artist/29Eu6B3m9rjWlHg3G4aWhC"
-        }
-      ],
-      "duration_ms": 168306,
-      "name": "Cumbia Sampuesana",
-      "url": "https://open.spotify.com/track/0AQ1sJgFEjYNry4aApi51A"
     },
     {
       "added_at": "2025-12-17 19:57:52",

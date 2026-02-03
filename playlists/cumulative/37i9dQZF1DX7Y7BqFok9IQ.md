@@ -2,7 +2,7 @@
 
 ### [Modern Blues Rock](https://open.spotify.com/playlist/37i9dQZF1DX7Y7BqFok9IQ)
 
-> The best of modern blues rock\. Cover: Samantha Fish
+> The best of modern blues rock\. Cover: Robert Randolph
 
 388 songs - 1 day 1 hr 7 min
 

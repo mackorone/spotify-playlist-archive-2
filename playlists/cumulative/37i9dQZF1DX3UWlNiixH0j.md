@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: the bercedes menz
 
-2,960 songs - 7 day 17 hr 26 min
+2,961 songs - 7 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [dead and breakfast](https://open.spotify.com/track/0XMtzum82NlWZugjm3RaLp) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [DEAD AND BREAKFAST](https://open.spotify.com/album/0orGDBvpMtcFP6O5M0mS4w) | 3:42 | 2023-08-30 | 2023-09-01 |
 | [dead and breakfast](https://open.spotify.com/track/6Wq1MSFJVPsVyWBHaGImW8) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [DEAD AND BREAKFAST](https://open.spotify.com/album/7J7BgYGnKt5pZmoRTaIIbW) | 3:42 | 2023-08-29 | 2023-08-31 |
 | [Dear](https://open.spotify.com/track/7loS0JATSbmnj6k1oyxirx) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Dear e.p](https://open.spotify.com/album/7MUD0Qwu9IbElct5khHct0) | 3:26 | 2024-02-15 | 2024-03-06 |
-| [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 | 2025-10-14 |  |
+| [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 | 2025-10-14 | 2026-02-03 |
 | [Dear Preacher](https://open.spotify.com/track/4hXoRtCF2ue3bnsdGRvjPd) | [Plastic Cocoons](https://open.spotify.com/artist/6t0bVyBtGmKEaCnmcKcCMF) | [Dear Preacher](https://open.spotify.com/album/6aCxtfizSLBHqqLnFUyZTL) | 3:32 | 2025-02-18 | 2025-02-26 |
 | [Deep Inside](https://open.spotify.com/track/1jDOObnZ18kkIqZAFIv1j1) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [STRATA \(Preview\)](https://open.spotify.com/album/6qppQkSHafK4PIhHEiwetT) | 4:09 | 2023-11-07 | 2023-12-06 |
 | [Deep Water \- deep deep mix](https://open.spotify.com/track/7dc5ejq308MmhueG455wfq) | [Primula](https://open.spotify.com/artist/0fWQlD4zrGM4XTlRU3yotT), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Deep Water \(deep deep mix\)](https://open.spotify.com/album/07qxYnDczEPJ3R5YIywU23) | 3:10 | 2024-05-28 | 2024-06-05 |
@@ -734,7 +734,7 @@
 | [I Warned You](https://open.spotify.com/track/5n4AU6A3rMR26hu7DW6GPz) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [gel](https://open.spotify.com/album/4gIseD8M4C2iiX3XuOnQmg) | 4:18 | 2023-02-28 | 2023-04-05 |
 | [I was...](https://open.spotify.com/track/6UCGqwTZ85Fm7wlgMjn6Er) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [I was...](https://open.spotify.com/album/3n1foH2tPnogPeYPafLeCY) | 3:03 | 2023-03-16 | 2023-05-03 |
 | [i&i&i](https://open.spotify.com/track/1XjvcMVgiaEhbf8bwSjtfI) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [i&i&i](https://open.spotify.com/album/2cfbFrBCbM1CbxbR8l2J5j) | 4:05 | 2023-04-25 | 2023-05-12 |
-| [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 | 2025-07-29 |  |
+| [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 | 2025-07-29 | 2026-02-03 |
 | [I'm crazy about you](https://open.spotify.com/track/4pYbG8qYXru9a4y2vzsKlr) | [SAMOEDO](https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp) | [I'm crazy about you](https://open.spotify.com/album/5XHJf95RhazX1ph1wcSWVm) | 4:22 | 2023-02-14 | 2023-02-16 |
 | [I'm crazy about you](https://open.spotify.com/track/5qD51GXQmCoUy9OT2MRasz) | [SAMOEDO](https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp) | [I'm crazy about you](https://open.spotify.com/album/31sZqJvfiwzeUkiBULryld) | 4:22 | 2023-02-14 | 2023-03-08 |
 | [I'm Gone \(feat\. levi & valknee\)](https://open.spotify.com/track/2VnjNzbfiGOtWSUQUi343K) | [バイレファンキかけ子](https://open.spotify.com/artist/2WrekljFhg7b0OhtRHtz3X), [levi](https://open.spotify.com/artist/2i8z6rKtx4CoaQmajp10fP), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [DESVIO FULL THROTTLE](https://open.spotify.com/album/5PSb2ZnlElQ0CESLQDh8M5) | 2:30 | 2025-09-02 | 2025-09-17 |
@@ -913,6 +913,7 @@
 | [Lightness](https://open.spotify.com/track/0jsxoCR3pBf06LGyqaj7iH) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [Lightness](https://open.spotify.com/album/6rWOZy3GaGe9MgChrheoeo) | 4:09 | 2024-08-27 | 2024-09-02 |
 | [Lights Camera](https://open.spotify.com/track/6xwgiGHKZ8utkvITmAOOmk) | [Name the Night](https://open.spotify.com/artist/0sOXOOXjR6CAaDgtUYksBH) | [Lights Camera](https://open.spotify.com/album/18X00mHZ9e29b86AVSCkQN) | 3:05 | 2025-04-15 | 2025-04-23 |
 | [Lights Out](https://open.spotify.com/track/2HimnwGFDGe1DNE1RdkQYN) | [EASTOKLAB](https://open.spotify.com/artist/2oP86D3OWdYeX1OG2chPuu) | [Lights Out](https://open.spotify.com/album/4rDonhNZ6ckv15jHzR1cit) | 3:32 | 2023-11-14 | 2023-11-25 |
+| [Lights Out](https://open.spotify.com/track/7uSU8IsXLy8E3mJ6HTHmo8) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Lights Out](https://open.spotify.com/album/37wxS7hulvxgsrp160FyY1) | 4:38 | 2026-01-29 |  |
 | [LIKE A FIRST KISS](https://open.spotify.com/track/3Rr1fBVpgvLDpI3sWJ7gZy) | [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [LIKE A FIRST KISS](https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM) | 3:18 | 2024-12-10 | 2025-03-12 |
 | [Lily](https://open.spotify.com/track/66sSLulLtyGjwt33C4XE2n) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Lily](https://open.spotify.com/album/1elWcJyr9tqhnpt8uZXUFR) | 4:27 | 2024-04-30 | 2024-05-22 |
 | [Linda](https://open.spotify.com/track/1QcS7T8lOfPr0CC4CsyOiD) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Linda](https://open.spotify.com/album/3wSuJSoEgnr5qd30nPf9By) | 3:12 | 2024-09-17 | 2024-10-23 |
@@ -1625,7 +1626,7 @@
 | [Swans](https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Swans](https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g) | 3:05 | 2023-12-12 | 2024-02-14 |
 | [Sway](https://open.spotify.com/track/0cxHahki62Il8grUpVOymf) | [Barbara](https://open.spotify.com/artist/5L4cL58h70X4usTwKuvmQk) | [Sway](https://open.spotify.com/album/6No2MfukzpkiCBO0OWl00l) | 3:16 | 2024-04-30 | 2024-05-08 |
 | [Sway](https://open.spotify.com/track/50Opxhj5GxjF47Fc5SXoZl) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [Sway](https://open.spotify.com/album/3ZYTXFJA0ju3dk4PErgh5O) | 4:26 | 2023-02-07 | 2023-03-22 |
-| [SWEATER](https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [SWEATER](https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq) | 4:14 | 2025-11-18 | 2026-02-02 |
+| [SWEATER](https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [SWEATER](https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq) | 4:14 | 2025-11-18 |  |
 | [Sweet Cherry](https://open.spotify.com/track/50yh6IKYA8b7y6ydZypdfj) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Sweet Cherry](https://open.spotify.com/album/7vjFmZN5LluhVrNAbysold) | 4:36 | 2024-07-16 | 2024-07-24 |
 | [Sweet dream](https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [9.](https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7) | 2:56 | 2023-04-27 | 2023-06-25 |
 | [Sweet Lemon](https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON) | [Newdums](https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB) | [Left Behind](https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D) | 3:42 | 2024-02-15 | 2024-02-21 |

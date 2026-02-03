@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADCdR9JueES4KdBPQXtmZTz",
+  "snapshot_id": "aX6XgAAAAACWc6QKKT/uyo4ZVDbP/rKw",
   "tracks": [
     {
       "added_at": null,
@@ -686,11 +686,15 @@
         {
           "name": "Caracol Televisi\u00f3n",
           "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        },
+        {
+          "name": "Santiago Deluchi",
+          "url": "https://open.spotify.com/artist/4FDLd6nJ3NvbKRSORCS8yD"
         }
       ],
-      "duration_ms": 158297,
-      "name": "Caramelo - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/5rQ55a8vrrmKTIOcruNajD"
+      "duration_ms": 174259,
+      "name": "Explicaci\u00f3n (feat. Santiago Deluchi) - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/6R5PCnAowVAFAgH85Ru5vX"
     },
     {
       "added_at": null,
@@ -754,15 +758,11 @@
         {
           "name": "Caracol Televisi\u00f3n",
           "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
-        },
-        {
-          "name": "Santiago Deluchi",
-          "url": "https://open.spotify.com/artist/4FDLd6nJ3NvbKRSORCS8yD"
         }
       ],
-      "duration_ms": 174259,
-      "name": "Explicaci\u00f3n (feat. Santiago Deluchi) - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/6R5PCnAowVAFAgH85Ru5vX"
+      "duration_ms": 158297,
+      "name": "Caramelo - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/5rQ55a8vrrmKTIOcruNajD"
     },
     {
       "added_at": null,

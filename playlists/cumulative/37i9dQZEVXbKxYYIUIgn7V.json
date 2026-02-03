@@ -2516,7 +2516,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2534,7 +2534,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -16367,6 +16367,24 @@
     },
     {
       "album": {
+        "name": "FIGURED YOU OUT",
+        "url": "https://open.spotify.com/album/1vVgp9NEKp3kM3tR4h5DYX"
+      },
+      "artists": [
+        {
+          "name": "Devkota",
+          "url": "https://open.spotify.com/artist/5e48iUv2r7DgotDwhI9Ulm"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134702,
+      "name": "FIGURED YOU OUT",
+      "url": "https://open.spotify.com/track/7bLm3Wjv9zQF7Sc2PpDCvR"
+    },
+    {
+      "album": {
         "name": "Filme",
         "url": "https://open.spotify.com/album/7zBRHjJRjGQgw77xQfc8ue"
       },
@@ -24348,7 +24366,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
@@ -25724,10 +25742,28 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 210070,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/22BiNbFtHyktTOKzXBaTp3"
+    },
+    {
+      "album": {
+        "name": "Star 2008",
+        "url": "https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210070,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro"
     },
     {
       "album": {
@@ -50276,6 +50312,24 @@
     {
       "album": {
         "name": "Versatile",
+        "url": "https://open.spotify.com/album/3yIYHJ8AxYHBUX0JyXIFNI"
+      },
+      "artists": [
+        {
+          "name": "slenderpill",
+          "url": "https://open.spotify.com/artist/237rawiOSdfQRCfAhlowSx"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Versatile - Slowed & Low Honor",
+      "url": "https://open.spotify.com/track/5gl6CRuP4s81TW26rWvhlM"
+    },
+    {
+      "album": {
+        "name": "Versatile",
         "url": "https://open.spotify.com/album/05Qd4YDfvthwoQxOMhCJOK"
       },
       "artists": [
@@ -50308,7 +50362,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 132571,
       "name": "Versatile - Slower + Low Honor",
       "url": "https://open.spotify.com/track/4ZgS3TItedzN6bfykzxlnL"

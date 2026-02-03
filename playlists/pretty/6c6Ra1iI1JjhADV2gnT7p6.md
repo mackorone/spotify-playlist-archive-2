@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,660 likes - 335 songs - 18 hr 59 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,663 likes - 335 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -344,4 +344,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 334 | [Growth Machine](https://open.spotify.com/track/0RCLeg65Xq5q7IeBTKmRZy) | [Nevin](https://open.spotify.com/artist/7mv4ENpQx3G5aSOlbalvU0) | [Growth Machine](https://open.spotify.com/album/0ftFYBIEC52NIXEIdZ12n9) | 4:01 |
 | 335 | [Away](https://open.spotify.com/track/3BV7JiYHQAcWgQA1G5JNH6) | [Jo Passed](https://open.spotify.com/artist/1ONiIDqrHLLeDjVan9RRns) | [Away](https://open.spotify.com/album/2qkKaD8PVtIu8RKmHVtwNI) | 3:18 |
 
-Snapshot ID: `AAAuGXY4e3C2qcjht2ORjwlOWdJ/PQc0`
+Snapshot ID: `AAAuG/VPfvHDq3WGHubaLWhySnBotfRs`

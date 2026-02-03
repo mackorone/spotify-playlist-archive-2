@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 828546,
+  "num_followers": 828599,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAAA4+oDZQlJDs8+7EAtNcmX",
+  "snapshot_id": "aX6XgAAAAABHm+ZLaeWhyXsnNTWGR9eW",
   "tracks": [
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 250860,
-      "name": "Compliance",
-      "url": "https://open.spotify.com/track/6tpl3yuDnYHAHb6dY60p5O"
+      "duration_ms": 297962,
+      "name": "Verona",
+      "url": "https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 297962,
-      "name": "Verona",
-      "url": "https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq"
+      "duration_ms": 250860,
+      "name": "Compliance",
+      "url": "https://open.spotify.com/track/6tpl3yuDnYHAHb6dY60p5O"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Dedicata a chi non ha rischiato ed \u00e8 sempre andato al massimo  \u26a1\ufe0f",
-  "num_followers": 13154,
+  "num_followers": 13156,
   "original_name": "Sanremo: Schegge Impazzite",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFxpVRMoXkhQW7mUshlzLWQYFI7w",
+  "snapshot_id": "AAAAADAvXiz+wWnnqDJPId6vtLitQt+E",
   "tracks": [
     {
       "added_at": "2026-01-25 23:01:07",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
+        "name": "Ciao Ciao",
+        "url": "https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj"
+      },
+      "artists": [
+        {
+          "name": "La rappresentante di lista",
+          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
+        }
+      ],
+      "duration_ms": 184311,
+      "name": "Ciao Ciao",
+      "url": "https://open.spotify.com/track/0jLeyuu6mtsD384054xLah"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
         "name": "1969 - Achille Idol Rebirth",
         "url": "https://open.spotify.com/album/0zMH1I8EZPPGYAzxZ9H0gU"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 173345,
       "name": "Rolls Royce (feat. Boss Doms, Frenetik&Orang3)",
       "url": "https://open.spotify.com/track/6RrHjDbTT8ibYqSBsZbmRA"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
-        "name": "Ciao Ciao",
-        "url": "https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj"
-      },
-      "artists": [
-        {
-          "name": "La rappresentante di lista",
-          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
-        }
-      ],
-      "duration_ms": 184311,
-      "name": "Ciao Ciao",
-      "url": "https://open.spotify.com/track/0jLeyuu6mtsD384054xLah"
     },
     {
       "added_at": "2026-01-25 23:01:07",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Verso il 2000",
-        "url": "https://open.spotify.com/album/5QybZhfwjSfKnDIRkmi1h6"
-      },
-      "artists": [
-        {
-          "name": "Flavia Fortunato",
-          "url": "https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f"
-        }
-      ],
-      "duration_ms": 274156,
-      "name": "Verso il 2000",
-      "url": "https://open.spotify.com/track/2Jgl0CTX70DeULejc5XUsn"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Grigio",
         "url": "https://open.spotify.com/album/270IC3XZCJIoxK5uRPzWmY"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 254333,
       "name": "Bentivoglio Angelina",
       "url": "https://open.spotify.com/track/2EYm6XYiMF1o3jUCR0ElnW"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "Verso il 2000",
+        "url": "https://open.spotify.com/album/5QybZhfwjSfKnDIRkmi1h6"
+      },
+      "artists": [
+        {
+          "name": "Flavia Fortunato",
+          "url": "https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f"
+        }
+      ],
+      "duration_ms": 274156,
+      "name": "Verso il 2000",
+      "url": "https://open.spotify.com/track/2Jgl0CTX70DeULejc5XUsn"
     },
     {
       "added_at": "2026-01-25 23:01:07",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Righeira The 80's Hit Songs",
-        "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 229523,
-      "name": "Innamoratissimo",
-      "url": "https://open.spotify.com/track/6zFbHceSJ23viD2FKoXS06"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Rockmantic Collection",
         "url": "https://open.spotify.com/album/47UVu4TaCdXT12GFQPswt3"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 220293,
       "name": "La bottega del caffe'",
       "url": "https://open.spotify.com/track/4vgziFK1AtMxdnZllyaDnC"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "Righeira The 80's Hit Songs",
+        "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
+      },
+      "artists": [
+        {
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+        }
+      ],
+      "duration_ms": 229523,
+      "name": "Innamoratissimo",
+      "url": "https://open.spotify.com/track/6zFbHceSJ23viD2FKoXS06"
     },
     {
       "added_at": "2026-01-25 23:01:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,323 likes - 47 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,324 likes - 48 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 36 | [Mais que Refrão](https://open.spotify.com/track/5ooKkTh2xr7CEFTicN1fLK) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Bem Longe do Fim](https://open.spotify.com/album/6AzwnRF53cPihnLKlame5v) | 2:45 |
 | 37 | [Patrão](https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Patrão](https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7) | 3:38 |
 | 38 | [Me Diga](https://open.spotify.com/track/3xxutzwHSLz56J8h9MmN8h) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/7qpdsnBS3Kfbat72sb8Gab) | 3:30 |
-| 39 | [Calma Preta](https://open.spotify.com/track/1kFusHMrCFdjhbkh9gZUdf) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9) | 3:09 |
+| 39 | [Asas](https://open.spotify.com/track/0fWEScGfHtclwYwG8oKpYv) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9) | 3:22 |
 | 40 | [Só Que Não](https://open.spotify.com/track/7EFR4kfHrCvY2ByCYpM1C9) | [Caio Nunez](https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Só Que Não](https://open.spotify.com/album/1suEAb1EoLAgbsIqlahCtF) | 3:07 |
 | 41 | [Da Lama / Afrontamento](https://open.spotify.com/track/1kLZ1EeAoV6NQcHulPNTKB) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [stefanie](https://open.spotify.com/artist/2hvoOh56md5zPINWqgGFhD) | [Outra Esfera](https://open.spotify.com/album/5QxMAMf9en3jK8sSb7RLPR) | 6:26 |
 | 42 | [Try](https://open.spotify.com/track/0sXJb5D2uFWMfmc0aRCwaX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/7qpdsnBS3Kfbat72sb8Gab) | 3:33 |
-| 43 | [Asas](https://open.spotify.com/track/0fWEScGfHtclwYwG8oKpYv) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9) | 3:22 |
+| 43 | [Calma Preta](https://open.spotify.com/track/1kFusHMrCFdjhbkh9gZUdf) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9) | 3:09 |
 | 44 | [Siento Por Ciento \- Remix](https://open.spotify.com/track/3F9jxW2QPwwlbcoV9AAixI) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Siento por Ciento \(Remix\)](https://open.spotify.com/album/1AqpgAjhy5ZK7KbTUmNZS4) | 3:27 |
 | 45 | [Ouça\-Me RMX](https://open.spotify.com/track/5y4O1l96hUNN0yxs8jjhNc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/5QxMAMf9en3jK8sSb7RLPR) | 3:56 |
 | 46 | [Os Pretinho Bem](https://open.spotify.com/track/2zTphbX1ECZs792jAqYove) | [Thiago Elniño](https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Pedras, Flechas, Lanças, Espadas e Espelhos](https://open.spotify.com/album/0bpL7wxpMjqxhrrV81pKzY) | 3:25 |
 | 47 | [Pandeiro É Meu Nome \(Da Série Original Prime Video Amar É Para Os Fortes\)](https://open.spotify.com/track/3u6OOhrZrvw4PpaWx6zay7) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Pandeiro É Meu Nome \(Da Série Original Prime Video Amar É Para Os Fortes\)](https://open.spotify.com/album/2YUHNOYFpodTVzABOySL8U) | 3:57 |
+| 48 | [Bêbada de Feriado](https://open.spotify.com/track/3TXSn2cIKZJaVuJk3Q2zTV) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Próspera D+](https://open.spotify.com/album/5pcU4dZfYddVzcBrWsP6mz) | 3:54 |
 
-Snapshot ID: `aX1GAAAAAACW583K5UAXHi3RSjZJBhVb`
+Snapshot ID: `aX6XgAAAAACR2bpNtt7lqj3xxwlZw6fE`

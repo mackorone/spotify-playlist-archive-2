@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Ursaru, Gya",
+  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Ursaru, MADATORRICELLI, Arkanian, Petre Stefan, Alex Velea",
   "name": "Hot Hits Rom\u00e2nia",
   "tracks": [
     {
@@ -232,6 +232,24 @@
       "duration_ms": 154000,
       "name": "Alarmant",
       "url": "https://open.spotify.com/track/5SeviUsZ7iRQNOI7neNAvh"
+    },
+    {
+      "album": {
+        "name": "Ale ale",
+        "url": "https://open.spotify.com/album/1NCpEeNA0AMVnpgwquKaup"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147038,
+      "name": "Ale ale",
+      "url": "https://open.spotify.com/track/5pClmo7Su4lXAzDOE5MSPA"
     },
     {
       "album": {
@@ -929,6 +947,40 @@
     },
     {
       "album": {
+        "name": "B\u0103ie\u021bi de Ora\u0219 (From \"B\u0103ie\u021bi De Ora\u0219 | Golden Boyz\" The Movie)",
+        "url": "https://open.spotify.com/album/68Fxy6NY4xXvI7p13MwcFy"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        },
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        },
+        {
+          "name": "Arkanian",
+          "url": "https://open.spotify.com/artist/1LdNutYy0xoGpKCDCj2k1p"
+        },
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155250,
+      "name": "B\u0103ie\u021bi de Ora\u0219 - From \"B\u0103ie\u021bi De Ora\u0219 | Golden Boyz\" The Movie",
+      "url": "https://open.spotify.com/track/33XJD6EhI9Od8gFhLsbdGi"
+    },
+    {
+      "album": {
         "name": "CALIFORNIA",
         "url": "https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy"
       },
@@ -1248,7 +1300,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 180000,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc"
@@ -2382,7 +2434,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 139008,
       "name": "Hai tu Maria",
       "url": "https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7"
@@ -3671,6 +3723,28 @@
     },
     {
       "album": {
+        "name": "Parai",
+        "url": "https://open.spotify.com/album/6BZvDyPuyCUkSKCEg0sZq7"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        },
+        {
+          "name": "Bote",
+          "url": "https://open.spotify.com/artist/5ZysteEOAE4NFn6sbeD49c"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137045,
+      "name": "Parai",
+      "url": "https://open.spotify.com/track/0DIzZP6fBEyud8dJV10M75"
+    },
+    {
+      "album": {
         "name": "PE STRAD\u0102",
         "url": "https://open.spotify.com/album/3P1d69RRAhJxr3UIntRcvK"
       },
@@ -3858,7 +3932,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 133771,
       "name": "Porto",
       "url": "https://open.spotify.com/track/6vN06qrSQdZwnhpfJSVhNi"

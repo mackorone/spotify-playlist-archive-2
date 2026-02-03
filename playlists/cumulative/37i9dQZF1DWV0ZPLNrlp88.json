@@ -10635,6 +10635,24 @@
     },
     {
       "album": {
+        "name": "kakegae",
+        "url": "https://open.spotify.com/album/1cZkW2rDLrtM4fbfQldOpB"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229166,
+      "name": "kakegae",
+      "url": "https://open.spotify.com/track/6W8QOu3VVvoSwx2OKY8qsE"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/4oBjaVl3xzRyVXxiB3T8Yz"
       },
@@ -53898,7 +53916,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 148607,
       "name": "\u958b\u62d3\u8005",
       "url": "https://open.spotify.com/track/4HnMtiSbAOGQCWEcWcSHg0"

@@ -3789,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "Ten Fold",
+        "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140686,
+      "name": "crying through my teeth",
+      "url": "https://open.spotify.com/track/6nSVRWkCZ5H3gbbb92B4H6"
+    },
+    {
+      "album": {
         "name": "Cansei De Ser Sexy",
         "url": "https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD"
       },
@@ -18274,6 +18292,24 @@
       "duration_ms": 200666,
       "name": "Waiting On the World to Change",
       "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+    },
+    {
+      "album": {
+        "name": "do it afraid",
+        "url": "https://open.spotify.com/album/43EgijZ2EwYb8xgRDMh8GK"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112002,
+      "name": "wake up b*tch",
+      "url": "https://open.spotify.com/track/05lmssgsoHg0C4GHuXnKHo"
     },
     {
       "album": {

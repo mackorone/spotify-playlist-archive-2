@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Joyce Manor
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,414 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,391 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 30 | [Nurse Depression](https://open.spotify.com/track/5xnFYRez4P0r3xvnnleejq) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nurse Depression](https://open.spotify.com/album/6kYfN2e5eh0SHLB6mRAaF5) | 2:05 |
 | 31 | [Esquisito River](https://open.spotify.com/track/16HGLBTpgw5VKclztUUayG) | [Lovvbömbing!](https://open.spotify.com/artist/2fCM484FPEFRbjqqpU1sjt) | [PISS! PEAS! PEACE!](https://open.spotify.com/album/1JQEawqqWequOQOz2i72HZ) | 2:52 |
 | 32 | [And Angel](https://open.spotify.com/track/2qPsFrbn4G1ytL3YmBFhxf) | [HEADSEND](https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1) | [And Angel](https://open.spotify.com/album/6lOPTzfrBneSEOjPlabMn7) | 3:52 |
-| 33 | [a minute a moment](https://open.spotify.com/track/5lKxgT7JyS3nqVVrypMonw) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/5E6aswcc0puXAQvvGuzOtp) | 3:23 |
+| 33 | [a minute a moment](https://open.spotify.com/track/64nEsHY3vnRwKFcUjaz6cC) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/70WuZoQSaSw3sAS9hTu5cD) | 3:23 |
 | 34 | [Hair on Coffee](https://open.spotify.com/track/5hKBkozQZ6EykWJawhK5N0) | [Cousines like Shit](https://open.spotify.com/artist/31m36kfWrLAbE0uLkMFBLX), [Farce](https://open.spotify.com/artist/1IOefq76hrfQI27fVDDq7y) | [Hair on Coffee](https://open.spotify.com/album/0cPJmtKNsqpmh6ko412adM) | 3:21 |
 | 35 | [You Could Perhaps](https://open.spotify.com/track/7Jef4YockEbpGMCb9bIZmk) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Dream Life](https://open.spotify.com/album/39X15SMr1uG8aCugIqiHpM) | 3:04 |
 | 36 | [Frozen Lake](https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Frozen Lake](https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 99 | [SLATHER ON THE HONEY](https://open.spotify.com/track/1c4cTw79dH5vuCrVn81zeW) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [SLATHER ON THE HONEY](https://open.spotify.com/album/7om5fqirc3hJg6Wm7xVy0r) | 3:50 |
 | 100 | [007](https://open.spotify.com/track/2GikvXlSzcrm7cXXkSkhYN) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [007](https://open.spotify.com/album/4tFAsnha5JJuUYn1plJJI9) | 2:50 |
 
-Snapshot ID: `AAAAAF7CRSlCp0tZZk2okL8Egc8T0ZS9`
+Snapshot ID: `AAAAAHI49tW3o3sOLo+7bPYlg+AwEE0M`

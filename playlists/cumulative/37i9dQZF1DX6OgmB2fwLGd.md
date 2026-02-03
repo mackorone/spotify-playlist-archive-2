@@ -4,7 +4,7 @@
 
 > born on the internet\. ft\. fakemink
 
-1,168 songs - 1 day 23 hr 21 min
+1,170 songs - 1 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Doot Doot \(6 7\)](https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Doot Doot \(6 7\)](https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN) | 2:29 | 2025-02-20 | 2025-04-18 |
 | [Doot Doot \(6 7\) \(Bonus Track\)](https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Zombie Love Kensington Paradise \(Deluxe\)](https://open.spotify.com/album/7rZmKhsbVKUrqApd0GLp8T) | 2:29 | 2025-03-27 | 2026-01-31 |
 | [double whammy \(ss3bby yaridubz\)](https://open.spotify.com/track/3loZeLVTG8DjJLjMbnge2t) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [double whammy \(ss3bby yaridubz\)](https://open.spotify.com/album/0Oo0LauukZP2mXWR1n4exK) | 2:01 | 2025-01-29 | 2026-01-31 |
+| [Double Whammy \(ss3bby yaridubz\)](https://open.spotify.com/track/6EKOiA6sd9pmRdSmVhijwJ) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [Double Whammy \(ss3bby yaridubz\)](https://open.spotify.com/album/0VHSqYq1WDlmHTOky9WdDS) | 2:01 | 2026-02-02 |  |
 | [Doubt Me \(with aldn\)](https://open.spotify.com/track/4ittbqP6lNt3n8mCsLRhBm) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Doubt Me \(with aldn\)](https://open.spotify.com/album/1x0XyLVKG1IekcXSY0yCrt) | 1:51 | 2023-01-13 | 2023-02-15 |
 | [Doubted](https://open.spotify.com/track/0jgZkk2hFQqTalsAygn1UK) | [Sojabrat](https://open.spotify.com/artist/6qPOPRRZCrcNQtq4Ce44L5) | [Clone](https://open.spotify.com/album/6Oz96H6a1rpttJdrNp9hKU) | 1:51 | 2022-03-24 | 2022-04-20 |
 | [douji feva](https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [douji feva](https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5) | 1:45 | 2023-12-08 | 2024-08-06 |
@@ -428,6 +429,7 @@
 | [Ginseng Strip 2002](https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4) | 2:33 | 2023-03-22 | 2023-08-19 |
 | [Girls Cry 2!](https://open.spotify.com/track/5dQzV3qvv9XPgxSHTRyKhK) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Girls Cry 2!](https://open.spotify.com/album/0z84eQJfxKXq5ldDJmO3D6) | 2:20 | 2023-10-20 | 2023-11-04 |
 | [Give Em A Show](https://open.spotify.com/track/5l6eIWTmwDkadW03IDbYIe) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m) | [Busy Being Bad](https://open.spotify.com/album/6hVTA7m6JrrK16haH4AAwI) | 3:36 | 2023-10-20 | 2024-03-02 |
+| [Give It Up \(feat\. OsamaSon\)](https://open.spotify.com/track/2cBVS8uAoFOysL46QRaYZw) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Xavier](https://open.spotify.com/album/3xXq7RSEaSuZm8pdjxOP7M) | 2:23 | 2026-02-02 |  |
 | [Glitz](https://open.spotify.com/track/4pDZMkTyq5YQNYLIXq0xA0) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Glitz](https://open.spotify.com/album/49gvaENr5cHU0630n5GihD) | 1:31 | 2023-01-04 | 2023-02-15 |
 | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/album/47OW0oO4aSghC0y0ivflp5) | 2:27 | 2023-03-10 | 2023-05-06 |
 | [Go](https://open.spotify.com/track/0cNAaZbkK61jCej9BP1NoJ) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Go](https://open.spotify.com/album/0fas0oNoInW2Y68mdaW0Gf) | 2:12 | 2021-11-27 | 2022-02-26 |
@@ -1010,7 +1012,7 @@
 | [Talk My Shit](https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 1:44 | 2024-04-03 | 2025-03-28 |
 | [talk.](https://open.spotify.com/track/0MQ1IFCxXMXD56f5mkUPav) | [Grav3](https://open.spotify.com/artist/7sBYmhltoznb752w7tli7e) | [talk.](https://open.spotify.com/album/3ulwoPmi0kXzUbOvGuRn8l) | 2:15 | 2024-02-02 | 2024-07-31 |
 | [Talking To The Sun](https://open.spotify.com/track/76kZFNZDL3Ppxhj49OU8sw) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Talking To The Sun](https://open.spotify.com/album/0l6STd2uyi9qYltrbI94Vt) | 1:19 | 2024-05-13 | 2024-08-08 |
-| [Talking To The Sun](https://open.spotify.com/track/2cMcUE6wr9tlR3z84XvSQR) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Well Dude Here's My Thing](https://open.spotify.com/album/3fXuMDL15NMbXbuXfBJ0bN) | 1:19 | 2024-07-30 |  |
+| [Talking To The Sun](https://open.spotify.com/track/2cMcUE6wr9tlR3z84XvSQR) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Well Dude Here's My Thing](https://open.spotify.com/album/3fXuMDL15NMbXbuXfBJ0bN) | 1:19 | 2024-07-30 | 2026-02-03 |
 | [Tally \(with Denzel Curry\)](https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tally \(with Denzel Curry\)](https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq) | 2:27 | 2023-01-25 | 2023-06-02 |
 | [TAN](https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [TAN](https://open.spotify.com/album/4U6lKEILlMsNsdYjKC6erZ) | 2:31 | 2023-01-27 | 2023-05-06 |
 | [TANGO](https://open.spotify.com/track/05Q6BW1kQSEIwFLuLd5IUd) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [TANGO](https://open.spotify.com/album/75QPIPMelRS8Ahv7bbxwHh) | 1:59 | 2024-01-12 | 2024-02-24 |
@@ -1096,7 +1098,7 @@
 | [Vito / Bad Boy](https://open.spotify.com/track/6jo3Sv2PWgX7oX2gSsvbI5) | [Headband Andy](https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm) | [Vito / Bad Boy](https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy) | 2:32 | 2022-01-07 | 2022-05-14 |
 | [Vito, Pt\. 2](https://open.spotify.com/track/5lpxfI9JR5XfuMfd6A0KNs) | [Headband Andy](https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm) | [Vito, Pt\. 2](https://open.spotify.com/album/3kbhOS2Ua7lNWWNcbsFKWs) | 2:27 | 2023-04-17 | 2023-05-27 |
 | [Vroom](https://open.spotify.com/track/5DDNgyfLS1MgkWq1vnhObp) | [Li Heat](https://open.spotify.com/artist/4rpSDGfnMmQjgnMAEmhptD) | [Vroom](https://open.spotify.com/album/7p04wXOLc0yibGBs0H04Ml) | 2:01 | 2022-04-29 | 2022-06-03 |
-| [VS](https://open.spotify.com/track/0HrbrLnFXLn2n5efpuwACS) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [VS](https://open.spotify.com/album/31dXBFB1MyHkCR7TcNkTsa) | 1:51 | 2024-09-20 |  |
+| [VS](https://open.spotify.com/track/0HrbrLnFXLn2n5efpuwACS) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [VS](https://open.spotify.com/album/31dXBFB1MyHkCR7TcNkTsa) | 1:51 | 2024-09-20 | 2026-02-03 |
 | [Vulture Island](https://open.spotify.com/track/7FfFdw6GlRT2cZ06uil4Y8) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Vulture Island](https://open.spotify.com/album/4SwOxtIysNbF8N4jCkQSGR) | 2:15 | 2022-03-29 | 2022-04-02 |
 | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb) | 3:29 | 2022-04-01 | 2022-05-14 |
 | [WA\\VE](https://open.spotify.com/track/1EmCkwfm1dtz6t7nj9WT4C) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/2HOjaFJUdAbz4BuEzfeKtm) | 2:35 | 2023-08-18 | 2023-08-25 |

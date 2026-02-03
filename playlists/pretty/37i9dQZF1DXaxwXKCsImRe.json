@@ -1,12 +1,12 @@
 {
   "description": "Spotify editors pick new and exciting artists. RADAR BNLX-artist: <a href=\"spotify:artist:7a5xPqxWpIHk4tcdv7bDc6\">MICHA</a>",
-  "num_followers": 7826,
+  "num_followers": 7827,
   "original_name": "RADAR BNLX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABGaE/nVXQCfKs6Yxd8GzyD1a4T7",
+  "snapshot_id": "AAAAAPEEkxBgGmasUfvpn8TT3FhVp8m6",
   "tracks": [
     {
       "added_at": "2026-01-22 23:00:38",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-01-22 23:00:38",
       "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
-    },
-    {
-      "added_at": "2026-01-22 23:00:38",
-      "album": {
         "name": "Sit Back Baby",
         "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
       },
@@ -231,22 +215,6 @@
       "duration_ms": 234723,
       "name": "Sit Back Baby",
       "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
-    },
-    {
-      "added_at": "2026-01-22 23:00:38",
-      "album": {
-        "name": "The Dog",
-        "url": "https://open.spotify.com/album/5mQuWMrCe9NeiwhgFBsuad"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 301788,
-      "name": "The Dog",
-      "url": "https://open.spotify.com/track/0nULVYvO6l97udJH6dlOrm"
     },
     {
       "added_at": "2026-01-22 23:00:38",

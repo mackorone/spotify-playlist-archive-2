@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 ### [Island Time](https://open.spotify.com/playlist/37i9dQZF1DX2HC3xQbIKZ8)
 
-> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
+> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Josh Tatofi
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,405 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,420 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 25 | [Still the One](https://open.spotify.com/track/5kt8ukMn43YK7eMYeD2tP8) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Still the One](https://open.spotify.com/album/1dp1GNZaZFwCoqerFgVIA2) | 2:19 |
 | 26 | [Ms\. Beautiful](https://open.spotify.com/track/2OHHEGVzYWjvpDdC57kGg2) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [4 The People](https://open.spotify.com/album/3Rm9pkenoLVhmMMolEN4bd) | 3:43 |
 | 27 | [Don’t Forget Your Roots](https://open.spotify.com/track/5mUiad5pDU1wFvIbtKgJKB) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Six60](https://open.spotify.com/album/2y5lgKfEm5B1pi8qrifGD5) | 3:52 |
-| 28 | [Movin' About My Ways](https://open.spotify.com/track/5rBqEivSXbm8lFsX9rXMFs) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz), [DAK](https://open.spotify.com/artist/3In2BOfcdF10w1epRfkudd) | [Line Em Up](https://open.spotify.com/album/1cYJWFHmRfEz9MOAreN1C6) | 4:49 |
-| 29 | [Higher Than the Clouds](https://open.spotify.com/track/10FYvZSZLste16zITxpQND) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:43 |
+| 28 | [Higher Than the Clouds](https://open.spotify.com/track/10FYvZSZLste16zITxpQND) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:43 |
+| 29 | [Movin' About My Ways](https://open.spotify.com/track/5rBqEivSXbm8lFsX9rXMFs) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz), [DAK](https://open.spotify.com/artist/3In2BOfcdF10w1epRfkudd) | [Line Em Up](https://open.spotify.com/album/1cYJWFHmRfEz9MOAreN1C6) | 4:49 |
 | 30 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |
 | 31 | [Heart of a Lion](https://open.spotify.com/track/1tF5oLj3khkYMa65szhPBB) | [Brutha Rodz](https://open.spotify.com/artist/7etGJzSv1g7S8RxZinqkdS), [Wiz Tokelau](https://open.spotify.com/artist/5ShiAPEQ5yAKJkcFcD6fBG) | [Heart of a Lion](https://open.spotify.com/album/4Hhzv9tY3RKq7RWHkztSXX) | 3:25 |
 | 32 | [So True](https://open.spotify.com/track/5gAHSJPdHqz2MHc5WsfXnD) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY) | [On the Sun](https://open.spotify.com/album/6bB9QEMR57Ce6HBAADpvQv) | 3:54 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 50 | [Take It Away](https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Take It Away](https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL) | 3:32 |
 | 51 | [If Tomorrow Never Comes](https://open.spotify.com/track/1ixqQJZ8vsFWuSvAJwjNDK) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Lucky Man](https://open.spotify.com/album/5IO8kfqsccFaycfAMe16ZG) | 3:50 |
 | 52 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 |
-| 53 | [One Night Dance](https://open.spotify.com/track/4AxBpENBK3iT3uLiKTkm8D) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [One Night Dance](https://open.spotify.com/album/4ChcRmEy1d7Nq0OOEDM0hP) | 3:14 |
-| 54 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 |
+| 53 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 |
+| 54 | [One Night Dance](https://open.spotify.com/track/4AxBpENBK3iT3uLiKTkm8D) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [One Night Dance](https://open.spotify.com/album/4ChcRmEy1d7Nq0OOEDM0hP) | 3:14 |
 | 55 | [Souljah Feeling](https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:24 |
 | 56 | [Coming Home](https://open.spotify.com/track/1U5RZIFFdCSGC3M66Hfz7C) | [PAUA](https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD) | [Paua](https://open.spotify.com/album/53Fwh7HQpRAdnjjMFVVzj1) | 5:32 |
 | 57 | [Roady](https://open.spotify.com/track/2qSQ3ecDCuhp3NiY6Jc8Mh) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 7:09 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 71 | [Summertime In Aotearoa](https://open.spotify.com/track/0ovU4fKL5J7V80YNwuqUYg) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Summertime In Aotearoa](https://open.spotify.com/album/6G4gwoemNI7fz9j1l79qVu) | 3:57 |
 | 72 | [Screems from Da Old Plantation](https://open.spotify.com/track/1DPMqbabMHKm8bN04arwK8) | [King Kapisi](https://open.spotify.com/artist/4f3x4YITcuzveAflxCB8Hd) | [Savage Thoughts](https://open.spotify.com/album/6CmbniAwT57Wrg51lAzXL1) | 4:46 |
 | 73 | [Milk & Honey](https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Milk & Honey](https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2) | 4:20 |
-| 74 | [Fill up](https://open.spotify.com/track/2UsNajkLbFnlv5W66kye1c) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN), [High Watah](https://open.spotify.com/artist/2DbSnI45Eg3JrxL9L307hi) | [Fill up](https://open.spotify.com/album/66OW4rYGHM6ZtugV4FIiBL) | 2:55 |
-| 75 | [Golden Touch](https://open.spotify.com/track/3Bl1qnkuAmKGatG4EE14BI) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [Golden Touch](https://open.spotify.com/album/3uaq36eqrJBts8r3Hu2HUi) | 3:26 |
+| 74 | [Golden Touch](https://open.spotify.com/track/3Bl1qnkuAmKGatG4EE14BI) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [Golden Touch](https://open.spotify.com/album/3uaq36eqrJBts8r3Hu2HUi) | 3:26 |
+| 75 | [Fill up](https://open.spotify.com/track/2UsNajkLbFnlv5W66kye1c) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN), [High Watah](https://open.spotify.com/artist/2DbSnI45Eg3JrxL9L307hi) | [Fill up](https://open.spotify.com/album/66OW4rYGHM6ZtugV4FIiBL) | 2:55 |
 
 Snapshot ID: `AAAAABND1UdSRT4J7y1aGtWEmdRnxSXE`

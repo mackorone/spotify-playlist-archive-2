@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 163125,
       "name": "Ain't Just a Game",
       "url": "https://open.spotify.com/track/767X07pxPQM1N9mtjzEdbQ"
@@ -692,6 +692,24 @@
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
+    },
+    {
+      "album": {
+        "name": "Fabulous",
+        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
+      },
+      "artists": [
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153351,
+      "name": "Fabulous",
+      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
     },
     {
       "album": {
@@ -1882,7 +1900,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 140309,
       "name": "Pretty Boys",
       "url": "https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN"
@@ -2506,6 +2524,24 @@
       "duration_ms": 192613,
       "name": "Wishing Girl",
       "url": "https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D"
+    },
+    {
+      "album": {
+        "name": "Jamie MacDonald",
+        "url": "https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189593,
+      "name": "Won't Let Go",
+      "url": "https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4"
     },
     {
       "album": {

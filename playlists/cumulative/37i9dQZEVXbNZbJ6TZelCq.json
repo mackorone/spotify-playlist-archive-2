@@ -872,7 +872,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 158332,
       "name": "7 zile",
       "url": "https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 147773,
       "name": "Afacere",
       "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
@@ -4030,7 +4030,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 151200,
       "name": "Bal \u021bambal",
       "url": "https://open.spotify.com/track/2QeA97SF2tplaeenUQOqYq"
@@ -4450,7 +4450,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 170632,
       "name": "Barbatul Vip",
       "url": "https://open.spotify.com/track/6EAprd0r6Ovm81XCn0qIlF"
@@ -6254,7 +6254,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 158400,
       "name": "Brasileiro",
       "url": "https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN"
@@ -7310,7 +7310,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 148453,
       "name": "CAND VINE NOAPTEA",
       "url": "https://open.spotify.com/track/6yCcirPq6fJkF1fUlBNvgY"
@@ -7752,7 +7752,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 126937,
       "name": "Ce Motor",
       "url": "https://open.spotify.com/track/0D5akM6cy8rXkd0BLSiJAA"
@@ -10272,7 +10272,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 201558,
       "name": "Daca Iubesti O Tiganca",
       "url": "https://open.spotify.com/track/2bLKqViiiOcKrI8msQKoJr"
@@ -14886,7 +14886,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 174375,
       "name": "FATA DIN FAVELA",
       "url": "https://open.spotify.com/track/6nj14fIUcALDS3EadVnQHC"
@@ -15752,7 +15752,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 227021,
       "name": "Foca",
       "url": "https://open.spotify.com/track/3plHE4mbRjz3uOQ9P6MOMG"
@@ -20764,6 +20764,28 @@
       "duration_ms": 174545,
       "name": "In Locul Meu",
       "url": "https://open.spotify.com/track/1fcvoQ9Z7JNT9B13QUfkA4"
+    },
+    {
+      "album": {
+        "name": "IN MINTEA TA",
+        "url": "https://open.spotify.com/album/3t0AvTCDwk2mJF8TUgrGTy"
+      },
+      "artists": [
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        },
+        {
+          "name": "Marrio Nadal",
+          "url": "https://open.spotify.com/artist/27yMeJYLmDll0Cc3URZlyK"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "IN MINTEA TA",
+      "url": "https://open.spotify.com/track/1Kkhr9ga7twQHj6fMmccrt"
     },
     {
       "album": {
@@ -28593,6 +28615,28 @@
     },
     {
       "album": {
+        "name": "MAFIA GITANA 2000",
+        "url": "https://open.spotify.com/album/674HtELuJ5hUg9sKL3BRJB"
+      },
+      "artists": [
+        {
+          "name": "YS3",
+          "url": "https://open.spotify.com/artist/0sCj2QO2EhzESiq79EBcX1"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179477,
+      "name": "NEW YORK",
+      "url": "https://open.spotify.com/track/1izIwskWBBffJJK9NqV6JD"
+    },
+    {
+      "album": {
         "name": "Z CLASS",
         "url": "https://open.spotify.com/album/1RIkS7qJEXc9po7PQ664nf"
       },
@@ -28802,7 +28846,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 198720,
       "name": "Nikki beach - Live",
       "url": "https://open.spotify.com/track/3gH3LMIJc33Ti95LZgESa6"
@@ -34590,7 +34634,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 160000,
       "name": "Regele - From Buzz House: The Movie 2",
       "url": "https://open.spotify.com/track/7rfgRNyDknkGKvy0Oih7Fk"
@@ -37998,7 +38042,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 158437,
       "name": "SLABICIUNEA MEA",
       "url": "https://open.spotify.com/track/6tAU3VBu82Yu1FG2TXuYJM"
@@ -40168,7 +40212,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 188418,
       "name": "Sunt Cu Tzanca Intrun Club Inconjurat De Gagici",
       "url": "https://open.spotify.com/track/4dmFtc69vlPRm6zsDqhtWu"

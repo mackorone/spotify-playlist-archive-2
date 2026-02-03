@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,167 likes - 56 songs - 3 hr 23 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,167 likes - 62 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,11 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 54 | [Beautiful Fear](https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Beautiful Fear](https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD) | 3:52 |
 | 55 | [The Way It Makes Me Feel](https://open.spotify.com/track/3oBUdNLtPspoHjr4mMlQkk) | [Penelope](https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN) | [The Way It Makes Me Feel](https://open.spotify.com/album/6LxSvGxZ6Csn5ijB3QtVcZ) | 3:33 |
 | 56 | [Over It](https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Over It](https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI) | 3:11 |
+| 57 | [in my bones](https://open.spotify.com/track/6vSNVLse9DXY8U2GUP0UgB) | [purr grief](https://open.spotify.com/artist/23WsCrFd5z85zpuxX6SCQI) | [superficial bliss](https://open.spotify.com/album/0L2BOFYomdaG0xhNoaoQJ4) | 4:49 |
+| 58 | [Toujours Avec Toi](https://open.spotify.com/track/6KCbj9D831CMCWVXSA0I5O) | [MOON EATER](https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB) | [Toujours Avec Toi](https://open.spotify.com/album/4CfUDeION0lbXMiIIWjopW) | 1:41 |
+| 59 | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd), [Kevin Rheault](https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy) | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r) | 4:14 |
+| 60 | [Figure It Out](https://open.spotify.com/track/0GQ1eZt3LUUgpJY9P5HXSQ) | [Flying Finish](https://open.spotify.com/artist/335ZooC8OqPnT45ZJAbXPH) | [Figure It Out](https://open.spotify.com/album/3XlMJ55gOehJgsO4nVLTXK) | 3:25 |
+| 61 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 |
+| 62 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 |
 
-Snapshot ID: `AAANAJMbJHjCyKt3oaDeuSZDjg9Yzf1l`
+Snapshot ID: `AAANBgE9BnKFl39log+JHuNFlnB7p95Q`

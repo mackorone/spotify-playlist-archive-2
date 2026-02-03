@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: 辻井くぬえ
 
-1,133 songs - 2 day 23 hr 25 min
+1,134 songs - 2 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [beat up](https://open.spotify.com/track/0Qf8NxhLakZn0UtUzpAKYr) | [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [beat up](https://open.spotify.com/album/6kp2Nv24kf6nWdpm92EUVL) | 2:53 | 2025-09-30 | 2025-12-04 |
 | [Believe It](https://open.spotify.com/track/6swXNfuOM0rp3WecD55izx) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Believe It](https://open.spotify.com/album/0u8xDjoZouDECRUb9ijn4m) | 3:10 | 2024-12-03 | 2024-12-11 |
 | [Belt of Venus](https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Belt of Venus](https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0) | 5:29 | 2025-10-21 |  |
+| [BIG BUG BEAR](https://open.spotify.com/track/7fw70aWMuI2zr9EukkGmuF) | [Jeremy Quartus](https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy) | [BIG BUG BEAR](https://open.spotify.com/album/7jorTd8yPqVUjLzJbtuv51) | 3:46 | 2026-01-27 |  |
 | [BILLIE](https://open.spotify.com/track/1xWY4vdMMjXgiEsQSi8krp) | [Kazumi Nikaido](https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I) | [BILLIE](https://open.spotify.com/album/55JLbSgp21qzXwKlulo1Rc) | 3:51 | 2025-12-16 | 2025-12-24 |
 | [Blank Map](https://open.spotify.com/track/2qfaJzMbHr4fOBCnyVfQh9) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [Blank Map](https://open.spotify.com/album/5DeXns7O9kdY6q4lx6I8u9) | 5:02 | 2025-02-11 | 2025-02-26 |
 | [BLESS](https://open.spotify.com/track/0pSnidX6DW8FhHvBDLz81Z) | [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [BLESS](https://open.spotify.com/album/0dGKPWll1u8wFLNPoUZyFg) | 3:08 | 2025-10-08 | 2025-10-15 |
@@ -761,7 +762,7 @@
 | [フリト](https://open.spotify.com/track/51eyPGyUaNEAwc4ylrJTqq) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [フリト](https://open.spotify.com/album/1zX1b34j3LyyOlRvJy7PS9) | 3:45 | 2024-09-24 | 2024-10-02 |
 | [フレンチブルドッグ](https://open.spotify.com/track/4CYEpzZCWyCy9Q17e2cNGu) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ) | [LABORATORY](https://open.spotify.com/album/682O3F15Glc5HYZDJUxmuE) | 4:13 | 2024-09-17 | 2024-10-02 |
 | [ブラックペッパーと栗](https://open.spotify.com/track/5gPpJ3aANHH5WMlxOjLp0V) | [けんいち](https://open.spotify.com/artist/7vWvnr62C2YXNAXZMq7Nl8) | [ブラックペッパーと栗](https://open.spotify.com/album/4cDraxvuEwMAchN4k4R0Sj) | 3:58 | 2024-12-10 | 2024-12-18 |
-| [ブランコ](https://open.spotify.com/track/4vMf6s0oq35fE7rRiniFZL) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Quest](https://open.spotify.com/album/6DmFZuLvzOdbgBOBKuRgYW) | 3:05 | 2025-11-11 |  |
+| [ブランコ](https://open.spotify.com/track/4vMf6s0oq35fE7rRiniFZL) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Quest](https://open.spotify.com/album/6DmFZuLvzOdbgBOBKuRgYW) | 3:05 | 2025-11-11 | 2026-02-03 |
 | [プリズム](https://open.spotify.com/track/3GIu1zfZLJVCLgSMSDnb7r) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [プリズム](https://open.spotify.com/album/2w0tnpsFPf0Ynq88etjSga) | 3:30 | 2024-11-13 | 2025-05-29 |
 | [プリズム](https://open.spotify.com/track/3ZmPiQD04rkkjwJi2hGi9I) | [小野雄大](https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr) | [SPECTRUM](https://open.spotify.com/album/3OHWs70vxkZdFpktjonQhH) | 4:48 | 2024-12-03 | 2024-12-11 |
 | [プレデター](https://open.spotify.com/track/3RHlC1GYvsgr5Z0wiRznEP) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [プレデター](https://open.spotify.com/album/1BxSDCPFXkAGtq45RC72vI) | 3:36 | 2025-05-13 | 2025-07-23 |

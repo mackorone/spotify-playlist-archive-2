@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Bem",
       "url": "https://open.spotify.com/track/0wZZRJNv6bwSjAHVRf97ND"
@@ -11478,7 +11478,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 238442,
       "name": "Palma Da M\u00e3o",
       "url": "https://open.spotify.com/track/6JblLomEXnhyjW9fW2NIGW"
@@ -14877,6 +14877,32 @@
     },
     {
       "album": {
+        "name": "Tantos Mares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qpIR86WhNYZzkwNo56x1P"
+      },
+      "artists": [
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Gabriella Stehling",
+          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
+        },
+        {
+          "name": "Ventania",
+          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283406,
+      "name": "Tantos Mares - Ao Vivo",
+      "url": "https://open.spotify.com/track/7FOPTUmEJ3ByYW9ag9cZJ3"
+    },
+    {
+      "album": {
         "name": "Tara",
         "url": "https://open.spotify.com/album/3JAi6aRzjiIKMFg4YrpOkG"
       },
@@ -17054,7 +17080,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 148838,
       "name": "Vir\u00e1",
       "url": "https://open.spotify.com/track/3aG2xzddFstxfy7sYNCsa2"

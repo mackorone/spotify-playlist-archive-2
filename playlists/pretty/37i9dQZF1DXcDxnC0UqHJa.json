@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: The Brudi Brothers",
-  "num_followers": 446417,
+  "num_followers": 446371,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Time After Time (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 219648,
-      "name": "Time After Time - Spotify Singles",
-      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
+        "name": "Time After Time (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 219648,
+      "name": "Time After Time - Spotify Singles",
+      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
         "name": "To Love Somebody (Expanded Edition)",
         "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
       },
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "9 Lives",
-        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 149659,
-      "name": "Depression & Obsession",
-      "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Pink Strat",
         "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 155240,
       "name": "Whole Wide World",
       "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 149659,
+      "name": "Depression & Obsession",
+      "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 223576,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Genuine Negro Jig",
         "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 237890,
       "name": "Hit 'Em up Style",
       "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 223576,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -631,8 +631,8 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "A Complete Unknown (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4"
+        "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
         }
       ],
-      "duration_ms": 202640,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF"
+      "duration_ms": 184546,
+      "name": "A Hard Rain's A-Gonna Fall",
+      "url": "https://open.spotify.com/track/3F544tk9EjPIxsSCyNW1KQ"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -711,8 +711,8 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
+        "name": "A Complete Unknown (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
         }
       ],
-      "duration_ms": 184546,
-      "name": "A Hard Rain's A-Gonna Fall",
-      "url": "https://open.spotify.com/track/3F544tk9EjPIxsSCyNW1KQ"
+      "duration_ms": 202640,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Mr. Brightside",
         "url": "https://open.spotify.com/album/4E6AdW52gcw1Lj7P77b3pY"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 267602,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/1InkpT1DTMlYcCEV2HU0L1"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
+        "name": "Turn! Turn! Turn!",
+        "url": "https://open.spotify.com/album/1txZgoOwuTev3fr2tyISmC"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 177025,
+      "name": "Turn! Turn! Turn!",
+      "url": "https://open.spotify.com/track/4o0FifCtMZSnY8nwkbS5yp"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1855,34 +1871,18 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Turn! Turn! Turn!",
-        "url": "https://open.spotify.com/album/1txZgoOwuTev3fr2tyISmC"
+        "name": "Minnesota Beatle Project, Vol. 5",
+        "url": "https://open.spotify.com/album/2nMvFsZ2L6Svr8tOMg4XiC"
       },
       "artists": [
         {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
         }
       ],
-      "duration_ms": 177025,
-      "name": "Turn! Turn! Turn!",
-      "url": "https://open.spotify.com/track/4o0FifCtMZSnY8nwkbS5yp"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
-        "name": "Cover to Cover",
-        "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/6FYoE2PUzG3ydfp63ByTCa"
+      "duration_ms": 145546,
+      "name": "This Boy",
+      "url": "https://open.spotify.com/track/5qeCOqTsPfj0TzLt9JMelA"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Minnesota Beatle Project, Vol. 5",
-        "url": "https://open.spotify.com/album/2nMvFsZ2L6Svr8tOMg4XiC"
+        "name": "Cover to Cover",
+        "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
       },
       "artists": [
         {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
         }
       ],
-      "duration_ms": 145546,
-      "name": "This Boy",
-      "url": "https://open.spotify.com/track/5qeCOqTsPfj0TzLt9JMelA"
+      "duration_ms": 183453,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/6FYoE2PUzG3ydfp63ByTCa"
     },
     {
       "added_at": "2026-01-23 15:42:24",

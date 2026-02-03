@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 260219,
+  "num_followers": 260221,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADYT2LyWqzwvH6/VQ4zk7Bn",
+  "snapshot_id": "aX6XgAAAAAAsJYhqo/TlyBqQ6f/Pzo5/",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chrome Smoke & BBQ: The ZZ Top Box",
-        "url": "https://open.spotify.com/album/21XjbuoMaBrSjokj63ekw9"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 283533,
-      "name": "Viva Las Vegas - 2003 Remaster",
-      "url": "https://open.spotify.com/track/7hB5TG3xxRBvBxX4ROayVL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Loco",
         "url": "https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 244826,
       "name": "Pearl Necklace",
       "url": "https://open.spotify.com/track/5ZgnPqNvtMFeLpahZUuLf3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chrome Smoke & BBQ: The ZZ Top Box",
+        "url": "https://open.spotify.com/album/21XjbuoMaBrSjokj63ekw9"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 283533,
+      "name": "Viva Las Vegas - 2003 Remaster",
+      "url": "https://open.spotify.com/track/7hB5TG3xxRBvBxX4ROayVL"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Baddest",
-        "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 211773,
-      "name": "Gimme All Your Lovin'",
-      "url": "https://open.spotify.com/track/08Yy8YGHv1lSDiKZzVPuTn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sixteen Tons (feat. Jeff Beck) [Live From London]",
         "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 197734,
       "name": "Sixteen Tons (feat. Jeff Beck) - Live from London",
       "url": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Baddest",
+        "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 211773,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/08Yy8YGHv1lSDiKZzVPuTn"
     }
   ],
   "unique_name": "This Is ZZ Top",

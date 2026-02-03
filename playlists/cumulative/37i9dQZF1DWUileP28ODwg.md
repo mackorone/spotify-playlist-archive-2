@@ -2,7 +2,7 @@
 
 ### [Top Contemporary Christian](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
-> Tune in here for new and current hits in Contemporary Christian music! Cover: Dan Bremnes
+> Tune in here for new and current hits in Contemporary Christian music! Cover: Brandon Lake and Jelly Roll
 
 667 songs - 1 day 17 hr 2 min
 

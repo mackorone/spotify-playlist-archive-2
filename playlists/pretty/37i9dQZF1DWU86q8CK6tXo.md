@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Samara Cyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,761 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,763 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 19 | [cul\-de\-sac](https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1) | [Maya J'an](https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0) | [cul\-de\-sac](https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP) | 3:16 |
 | 20 | [Go Girl \(with Latto & Doja Cat\)](https://open.spotify.com/track/4YctSqQRw3MzQshfk72cej) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Finally Over It \(The Afterparty\)](https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q) | 3:50 |
 | 21 | [Tell Me It's Over](https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Tell Me It's Over](https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP) | 2:56 |
-| 22 | [The Devil's Not In Hell](https://open.spotify.com/track/3dKVfdf7d7iB90YfCPBLGw) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [The Devil's Not In Hell](https://open.spotify.com/album/2WZtNmAoengyn0T0fIILek) | 2:58 |
-| 23 | [Like Me Better](https://open.spotify.com/track/6GfNpMaBdEEDUoABk9Wusw) | [Evelyn Cormier](https://open.spotify.com/artist/6oOuy3kZ9Sk07JEER1C7En) | [Like Me Better](https://open.spotify.com/album/70PqdcEjKsEb4ARQzOXC1L) | 2:32 |
+| 22 | [Like Me Better](https://open.spotify.com/track/6GfNpMaBdEEDUoABk9Wusw) | [Evelyn Cormier](https://open.spotify.com/artist/6oOuy3kZ9Sk07JEER1C7En) | [Like Me Better](https://open.spotify.com/album/70PqdcEjKsEb4ARQzOXC1L) | 2:32 |
+| 23 | [The Devil's Not In Hell](https://open.spotify.com/track/3dKVfdf7d7iB90YfCPBLGw) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [The Devil's Not In Hell](https://open.spotify.com/album/2WZtNmAoengyn0T0fIILek) | 2:58 |
 | 24 | [Move & Flow](https://open.spotify.com/track/7vfwYnc46GCiyAxozMvJFz) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Move & Flow](https://open.spotify.com/album/2ZsVDjE6FeHur0KCQLvIUK) | 3:56 |
 | 25 | [Call Me Baby](https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:31 |
 | 26 | [Nice n' Sweet \(feat\. MOLIY\)](https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CiCi \(Deluxe\)](https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY) | 2:39 |

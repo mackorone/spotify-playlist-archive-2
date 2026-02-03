@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-375 songs - 22 hr 37 min
+376 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ain't nobody like me](https://open.spotify.com/track/4MzstnWuONzS5gYlBTnVBc) | [Bendik Brænne](https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1) | [Ain't nobody like me](https://open.spotify.com/album/7I7MDoKMtJdFzwQBe8LVh3) | 3:25 | 2021-12-02 | 2022-07-29 |
 | [Ain't Nobody Like Me](https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe) | [Bendik Brænne](https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1), [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [The Last Great Country Swindle](https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ) | 3:23 | 2022-07-14 | 2023-04-30 |
 | [Alaska](https://open.spotify.com/track/6qaUubfgvfZU9OUK7L57Ap) | [Tina Refsnes](https://open.spotify.com/artist/4k4ZCaLoprf7qfc8DSWaKL) | [Alaska](https://open.spotify.com/album/1EmBIWpPRn6MNe311hh8VA) | 3:54 | 2021-12-02 | 2022-07-26 |
+| [Aldri Mer](https://open.spotify.com/track/5SGQVo26MlPWDK5WUwGz6T) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Aslaksen](https://open.spotify.com/album/07LPZP2ZbUOILRQ4yOUCn0) | 4:11 | 2026-01-30 |  |
 | [Alibi](https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Alibi](https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr) | 3:33 | 2025-08-28 |  |
 | [All for You](https://open.spotify.com/track/2AvJ8tgkykPP8gwd80ZA8P) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [All for You](https://open.spotify.com/album/7D3j4WXZ5PqbG7fov9oyNb) | 3:57 | 2024-04-18 | 2025-04-18 |
 | [All My Life](https://open.spotify.com/track/1uAYzAogqtmB63DDrikfQE) | [Claudia Scott](https://open.spotify.com/artist/777v7gGGlGEYyqqvinQ481), [Casino Steel](https://open.spotify.com/artist/58kOvhIZpOMFKjNND4ucuj) | [All My Life](https://open.spotify.com/album/6J4FJ08uYXTNQ4Tfz3086J) | 5:26 | 2021-12-02 | 2022-10-14 |
@@ -148,7 +149,7 @@
 | [Halsmandlar](https://open.spotify.com/track/5fDkO5m4hWKR623AFCCrbE) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Halsmandlar](https://open.spotify.com/album/4nbvdV7aLwIoD2U3FhfWbk) | 2:50 | 2022-05-05 | 2022-07-29 |
 | [Hand On Your Heart \- Live](https://open.spotify.com/track/2xHyXRgqnWSeGOvEBKzzfw) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Hand On Your Heart \(Live\)](https://open.spotify.com/album/7lcxYl1rVLsT7N262xQ9A6) | 3:25 | 2023-09-21 | 2023-11-28 |
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-25 | 2025-09-11 |
-| [Hav mot strand](https://open.spotify.com/track/1yrP9fz8noZrp2stygkrKU) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 3:46 | 2022-06-09 |  |
+| [Hav mot strand](https://open.spotify.com/track/1yrP9fz8noZrp2stygkrKU) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 3:46 | 2022-06-09 | 2026-02-03 |
 | [Have This Dance](https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Have This Dance](https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5) | 3:34 | 2024-02-01 | 2025-03-22 |
 | [Heights](https://open.spotify.com/track/2YSNNFTzq9vWHCyAZIW6xw) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Heights](https://open.spotify.com/album/1bu1eXnsPH9H98wEtt4d22) | 2:51 | 2025-03-20 |  |
 | [Here Comes The Sun](https://open.spotify.com/track/3qDlYd3hhaWo1xg6AgbzhQ) | [Hush Forever](https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv) | [Here Comes The Sun](https://open.spotify.com/album/1Uqnmck9tbT6OSQMrW5Stw) | 3:12 | 2023-12-21 | 2024-05-24 |

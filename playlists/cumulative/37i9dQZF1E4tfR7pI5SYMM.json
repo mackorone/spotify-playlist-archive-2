@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "(Don`t Wait For) The Next Call - Feat Sixxkiller",
       "url": "https://open.spotify.com/track/6rORsjerzCWPwCawd8T76m"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 308360,
       "name": "Below the Leaves",
       "url": "https://open.spotify.com/track/0KpRF7xfd4Cy9z7AvoXQNR"
@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Melodies That Made Me",
+        "url": "https://open.spotify.com/album/2L7h4FkhHza1cXMr2OIJa7"
+      },
+      "artists": [
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247223,
+      "name": "Careless",
+      "url": "https://open.spotify.com/track/6nr512gZ8BkCD9S5OexaOv"
+    },
+    {
+      "album": {
         "name": "Black Smoke",
         "url": "https://open.spotify.com/album/3XnOuYd6ePzO6Np9r4XLpZ"
       },
@@ -816,7 +834,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 159840,
       "name": "Conquistadors",
       "url": "https://open.spotify.com/track/1d2tQJAXBUUhZiiLMuPBWf"
@@ -906,7 +924,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 252579,
       "name": "Dal Buio alla Luce",
       "url": "https://open.spotify.com/track/77E7FfMbi3EJKUUuLbHN3j"
@@ -1177,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Melodies That Made Me",
+        "url": "https://open.spotify.com/album/2L7h4FkhHza1cXMr2OIJa7"
+      },
+      "artists": [
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251850,
+      "name": "Don't Cry For Me Argentina",
+      "url": "https://open.spotify.com/track/6OU8Mz2WWrRi2ZPSdUQaXo"
+    },
+    {
+      "album": {
         "name": "Second Life",
         "url": "https://open.spotify.com/album/0whA75k6eeuNc9yDcqdfCa"
       },
@@ -1314,7 +1350,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 387600,
       "name": "Dukkha (Good Old Wine)",
       "url": "https://open.spotify.com/track/0Pl1Celco5onaXWQ4SjioI"
@@ -1494,7 +1530,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 299888,
       "name": "Estamos Firmes",
       "url": "https://open.spotify.com/track/50ZMgt81G5mMOAOBQzeSZI"
@@ -1606,7 +1642,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 135600,
       "name": "Ez a gyertya \u00c9rted \u00e9g",
       "url": "https://open.spotify.com/track/7siRurfSaIm2WPd5eRgWLR"
@@ -1978,6 +2014,24 @@
       "duration_ms": 266360,
       "name": "Heart of the Hollow",
       "url": "https://open.spotify.com/track/05crVam93rPKcSz77NVzE7"
+    },
+    {
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/0r21MXse85e5FEY4Q5Lunq"
+      },
+      "artists": [
+        {
+          "name": "Dystopian X Vision",
+          "url": "https://open.spotify.com/artist/4dzYz9IgWJQApnTmbBiGQM"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214861,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/1DUOdHbokLSzPRb2NunQf2"
     },
     {
       "album": {
@@ -2540,7 +2594,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -3002,7 +3056,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 200377,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/6jIKNLyG16eIHXnCtthNoU"
@@ -3164,7 +3218,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 340409,
       "name": "Mental Health (MIK\u2019s Miasma)",
       "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
@@ -3341,6 +3395,24 @@
     },
     {
       "album": {
+        "name": "The Beginning's",
+        "url": "https://open.spotify.com/album/6LQpRzos6JE5Ph2M2oKmoB"
+      },
+      "artists": [
+        {
+          "name": "C.Hanson",
+          "url": "https://open.spotify.com/artist/6q5dAbelQzOYnXXRPrUYdj"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276633,
+      "name": "My Aurora (2023 Remastered)",
+      "url": "https://open.spotify.com/track/3LB56oc6adNgHJbe79HU58"
+    },
+    {
+      "album": {
         "name": "My Love Fits You Like A Glove",
         "url": "https://open.spotify.com/album/0iunX1byq12wToqMJb6i6z"
       },
@@ -3500,7 +3572,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 272125,
       "name": "No One's Embrace",
       "url": "https://open.spotify.com/track/0Ja46KKDb4MpntMADfEWPm"
@@ -3724,7 +3796,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 207000,
       "name": "O Vento",
       "url": "https://open.spotify.com/track/2YvZmZh4b4haPGU3G3404J"
@@ -3814,7 +3886,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 230008,
       "name": "Ophelia Knows",
       "url": "https://open.spotify.com/track/0uTQ8UL3YrcpIPRv8HbUEP"
@@ -3904,7 +3976,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 209986,
       "name": "Pav",
       "url": "https://open.spotify.com/track/1HHBk3iIoFmwSH7CE6DmfD"
@@ -3969,6 +4041,28 @@
     },
     {
       "album": {
+        "name": "Polar Night",
+        "url": "https://open.spotify.com/album/5QpK7G1YTLNIZkR6P82gWf"
+      },
+      "artists": [
+        {
+          "name": "Mikko Teittinen",
+          "url": "https://open.spotify.com/artist/4VGmFNI3QNwRd4SVYwNb5S"
+        },
+        {
+          "name": "Mikko Nurminen",
+          "url": "https://open.spotify.com/artist/5oh8B8e779POLwulBKGgeO"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209864,
+      "name": "Polar Night",
+      "url": "https://open.spotify.com/track/2Cz0WG2TBEERqEpz5DEJBh"
+    },
+    {
+      "album": {
         "name": "Blame Donny",
         "url": "https://open.spotify.com/album/1rBAYcVHr19xKz1lSDtjZy"
       },
@@ -3980,7 +4074,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 147278,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/7hund5bivOghcZsQu1PdNp"
@@ -3998,7 +4092,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 203941,
       "name": "Prisionero del Amor",
       "url": "https://open.spotify.com/track/1RXVsrMTccnIYso9Da4WQM"
@@ -4196,7 +4290,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 230710,
       "name": "Roots and Canopy",
       "url": "https://open.spotify.com/track/1T81lZqu2C7zhZOBJy3fHV"
@@ -4366,7 +4460,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 239187,
       "name": "Shadowdance (Beautiful Creatures of the Night)",
       "url": "https://open.spotify.com/track/0Q4mtNHLGWZ0m0ehCitd56"
@@ -4438,7 +4532,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 242946,
       "name": "Skuggorna p\u00e5 v\u00e4gen hem",
       "url": "https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG"
@@ -4932,7 +5026,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 313253,
       "name": "Swithen",
       "url": "https://open.spotify.com/track/1cqjwYM3BX69vy8hQ6Ug16"
@@ -5098,7 +5192,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -5332,7 +5426,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -5506,7 +5600,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 175081,
       "name": "Three woman in jail",
       "url": "https://open.spotify.com/track/47Hbxy6DYS21ZjwcujRtMh"
@@ -5708,7 +5802,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 253374,
       "name": "Turn Me on (Flag and the Wind)",
       "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
@@ -5834,7 +5928,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -6126,7 +6220,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 187409,
       "name": "Whisper in Storms",
       "url": "https://open.spotify.com/track/2GLCWPkJT5eL2Zg6TCyi5J"

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Season Five
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: ASIA7, ปลาย กนกพร
 
-230 songs - 13 hr 49 min
+231 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [กลัวความเสียใจ](https://open.spotify.com/track/52ijTzD9HujnkPswlVPGrF) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [Pearpilincys](https://open.spotify.com/artist/3Htj1ew5zqwv3nJNNFfXxP) | [กลัวความเสียใจ](https://open.spotify.com/album/1q2TDtJfts6Q393yMdgGXU) | 4:51 | 2025-12-18 |  |
 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 | 2025-04-18 |  |
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-06-20 | 2024-12-06 |
-| [กุหลาบ](https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [กุหลาบ](https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V) | 3:55 | 2025-02-27 |  |
+| [กุหลาบ](https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [กุหลาบ](https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V) | 3:55 | 2025-02-27 | 2026-02-03 |
 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 | 2024-06-20 | 2024-10-31 |
 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 | 2025-11-21 |  |
 | [ขอโทษที่ติดต่อไป](https://open.spotify.com/track/1EPvxPb6ToC6LHzmHik4ZJ) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [Nap The Nap](https://open.spotify.com/artist/12uTsbd2SoA8dRXfbI9rfd) | [ขอโทษที่ติดต่อไป \- Single](https://open.spotify.com/album/2yPNK8VRicVSkfUBy4KDJ1) | 4:18 | 2025-01-23 | 2025-02-28 |
@@ -220,6 +220,7 @@
 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 | 2025-06-13 |  |
 | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/album/3TssDAhHAEuj5IIoLjLJ5U) | 3:59 | 2024-06-20 | 2025-02-22 |
 | [เพลงรัก](https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เพลงรัก \- Single](https://open.spotify.com/album/1COyEuHbhIOqwDlOybk74Z) | 4:29 | 2024-11-22 |  |
+| [เพื่อนสนิท \(Platonic Love\) \[feat\. PEEMWASU OF BUS\]](https://open.spotify.com/track/11ZywXk23xC8T7VOpKAbKI) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [PEEMWASU OF BUS](https://open.spotify.com/artist/5Iol3bIHuguW8mLb3KwHvE) | [เพื่อนสนิท \(Platonic Love\) \[feat\. PEEMWASU OF BUS\]](https://open.spotify.com/album/26P69L852w82osraPlizaB) | 3:08 | 2026-02-02 |  |
 | [เมื่อไหร่จะบอก](https://open.spotify.com/track/2ATz55UP6o2ZANEa84dx1H) | [ETC.](https://open.spotify.com/artist/1qz5HLBHOge1yHlMVAZ9hO), [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [เมื่อไหร่จะบอก](https://open.spotify.com/album/6MbFdp0fjE8BDufYY38FOv) | 4:30 | 2025-08-22 |  |
 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 | 2024-07-11 | 2024-09-14 |
 | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/track/4gHm2mJ5WC9nPomTXuwg3c) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H) | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/album/3ebPLvyB2Xtpkbw4dyg1qy) | 3:48 | 2026-01-15 |  |

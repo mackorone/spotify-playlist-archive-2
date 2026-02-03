@@ -1,12 +1,12 @@
 {
   "description": "This is Thursday. The essential tracks, all in one playlist.",
-  "num_followers": 5293,
+  "num_followers": 5294,
   "original_name": "This Is Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAABKsmqQ/YQIhXBSjV0LNscM",
+  "snapshot_id": "aX6XgAAAAAAry+gyugpUqtWKpT8WEhll",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 272400,
-      "name": "War All The Time",
-      "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
+      "duration_ms": 196426,
+      "name": "For The Workforce, Drowning",
+      "url": "https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 196426,
-      "name": "For The Workforce, Drowning",
-      "url": "https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX"
+      "duration_ms": 272400,
+      "name": "War All The Time",
+      "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 226333,
-      "name": "Asleep In The Chapel",
-      "url": "https://open.spotify.com/track/4tKjOaJ6994Fj1DcJGKriC"
+      "duration_ms": 254893,
+      "name": "Division St.",
+      "url": "https://open.spotify.com/track/3CzZpfMmfvB8ybUkqAYqvD"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 254893,
-      "name": "Division St.",
-      "url": "https://open.spotify.com/track/3CzZpfMmfvB8ybUkqAYqvD"
+      "duration_ms": 226333,
+      "name": "Asleep In The Chapel",
+      "url": "https://open.spotify.com/track/4tKjOaJ6994Fj1DcJGKriC"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "This Side of Brightness",
-      "url": "https://open.spotify.com/track/5gOlzxxl94eXariShwCikl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Devoluci\u00f3n",
         "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 221440,
       "name": "Magnets Caught in a Metal Heart",
       "url": "https://open.spotify.com/track/3Z2WgsYnfMGztp5NuMNj2M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "This Side of Brightness",
+      "url": "https://open.spotify.com/track/5gOlzxxl94eXariShwCikl"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 266653,
-      "name": "Streaks in the Sky",
-      "url": "https://open.spotify.com/track/6gHLLRQFPezsdsDieIVbJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Devoluci\u00f3n",
         "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 293973,
       "name": "Turnpike Divides",
       "url": "https://open.spotify.com/track/1FgPKrJkqR16RSdDUMBUSA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 266653,
+      "name": "Streaks in the Sky",
+      "url": "https://open.spotify.com/track/6gHLLRQFPezsdsDieIVbJ5"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "Dying in New Brunswick",
-      "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Devoluci\u00f3n",
         "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 285226,
       "name": "Sparks Against the Sun",
       "url": "https://open.spotify.com/track/3Z6YLC5MoKWjqepMsH7k6k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 242066,
+      "name": "Dying in New Brunswick",
+      "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 276760,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/0FvQmcMVyGBBVjI81CvEbh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Devoluci\u00f3n",
         "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 292573,
       "name": "No Answers",
       "url": "https://open.spotify.com/track/1bOU4Dk4iw4N2XXP3JRm0P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 276760,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/0FvQmcMVyGBBVjI81CvEbh"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 223480,
-      "name": "Ian Curtis",
-      "url": "https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Devoluci\u00f3n",
         "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 219653,
       "name": "A Darker Forest",
       "url": "https://open.spotify.com/track/52rlffXbQz0acv4hYV3YDr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 223480,
+      "name": "Ian Curtis",
+      "url": "https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO"
     },
     {
       "added_at": null,

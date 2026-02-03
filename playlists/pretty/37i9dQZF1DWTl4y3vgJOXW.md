@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Joel Embiid
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,851,801 likes - 98 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,852,143 likes - 98 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

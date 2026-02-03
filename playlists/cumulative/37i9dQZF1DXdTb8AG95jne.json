@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: JEONG HYO BEAN (\uc815\ud6a8\ube48)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: CHOSNG(\ucd08\uc2b9)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -5915,6 +5915,24 @@
     },
     {
       "album": {
+        "name": "Day 5",
+        "url": "https://open.spotify.com/album/1vI56rynJdQnHYiRMmatfP"
+      },
+      "artists": [
+        {
+          "name": "xeom boi",
+          "url": "https://open.spotify.com/artist/5DEvwmOXx50p6LUUg32t8M"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159729,
+      "name": "Feel it Coming",
+      "url": "https://open.spotify.com/track/0NOiX0RMUleJ3TBvR6LluM"
+    },
+    {
+      "album": {
         "name": "Feeling You",
         "url": "https://open.spotify.com/album/0l1XFnHjuGUgWQd3ELfi6c"
       },
@@ -8932,6 +8950,24 @@
       "duration_ms": 149142,
       "name": "I Thought I Was An Adult \uc5b4\ub978\uc778 \uc904 \uc54c\uc558\uc5b4",
       "url": "https://open.spotify.com/track/4JuldopgBVxrFgROeBU8y6"
+    },
+    {
+      "album": {
+        "name": "i wanna believe something",
+        "url": "https://open.spotify.com/album/4oZ2V5zfK2tyvQFdVhTpBM"
+      },
+      "artists": [
+        {
+          "name": "untell",
+          "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "i wanna believe something",
+      "url": "https://open.spotify.com/track/2Kx1TevXau92x9faOQcW9Y"
     },
     {
       "album": {
@@ -12487,6 +12523,24 @@
     },
     {
       "album": {
+        "name": "Missing You (Original Webtoon Soundtrack from Naver Webtoon \"Love Revolution Reminds\")",
+        "url": "https://open.spotify.com/album/1DGDbxPSrzvIf3tOgT4GTS"
+      },
+      "artists": [
+        {
+          "name": "ESDI",
+          "url": "https://open.spotify.com/artist/6aESUF8JmhEzx3caQ0erOW"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252379,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/69sTmIhdPhFSg6bhEQWuiu"
+    },
+    {
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/5UUtfxQNNJknc3HwxZRQTO"
       },
@@ -13282,7 +13336,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 250689,
       "name": "Night air",
       "url": "https://open.spotify.com/track/2QExkZJmZYblotcvmoCYy4"
@@ -13732,7 +13786,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 252000,
       "name": "Not a Dream",
       "url": "https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54"
@@ -13772,6 +13826,24 @@
       "duration_ms": 218720,
       "name": "Not That Girl",
       "url": "https://open.spotify.com/track/47aAWHl14baNRkXTVb4klI"
+    },
+    {
+      "album": {
+        "name": "A Place of Use",
+        "url": "https://open.spotify.com/album/22c6Z507yCVXzH44KRva3E"
+      },
+      "artists": [
+        {
+          "name": "CHOSNG",
+          "url": "https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254225,
+      "name": "Not to fade",
+      "url": "https://open.spotify.com/track/6mTTquypTU75v59JzzLF7N"
     },
     {
       "album": {
@@ -16352,7 +16424,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 194000,
       "name": "She",
       "url": "https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8"
@@ -20258,7 +20330,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 188000,
       "name": "unsaid",
       "url": "https://open.spotify.com/track/52KCHvo4qZRGqiu3W7hk17"
@@ -20706,7 +20778,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 253586,
       "name": "Warmhearted",
       "url": "https://open.spotify.com/track/5MZNGxnfhoOro2mvPjtVlA"
@@ -22708,6 +22780,24 @@
       "duration_ms": 200333,
       "name": "\ubc29\ub791\uc790",
       "url": "https://open.spotify.com/track/6h7VcJXkym9NGISDIYlmch"
+    },
+    {
+      "album": {
+        "name": "\ubcc4, \uc0ac\uc774(2026)",
+        "url": "https://open.spotify.com/album/5GXWNgcRwppo8csrzEHyPy"
+      },
+      "artists": [
+        {
+          "name": "BehindtheMoon",
+          "url": "https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225434,
+      "name": "\ubcc4, \uc0ac\uc774(2026)",
+      "url": "https://open.spotify.com/track/0Vxb8VgxTidGl8jfsux5Kt"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 75901,
+  "num_followers": 75969,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADcU+asncR5f1EpiAe+Ivmx",
+  "snapshot_id": "aX6XgAAAAABhKYLEVjcCI9gjc5+Ba4mq",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE (DELUXE)",
-        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 124480,
-      "name": "Life of a Boss",
-      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Someone: Texas Population",
         "url": "https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi"
       },
@@ -687,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Run It",
-        "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
       },
       "artists": [
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        },
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 163626,
-      "name": "Who Run It",
-      "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
+      "duration_ms": 124480,
+      "name": "Life of a Boss",
+      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
     },
     {
       "added_at": null,
@@ -723,6 +703,26 @@
       "duration_ms": 185000,
       "name": "I Hope You're Happy (feat. Darius Rucker)",
       "url": "https://open.spotify.com/track/3FPOy3zOKPMf8pRWg2ukXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Run It",
+        "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Who Run It",
+      "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 143266,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/4CkbpelT92r4dVkceDX9g1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recess",
         "url": "https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 168041,
       "name": "U and Me (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 143266,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/4CkbpelT92r4dVkceDX9g1"
     },
     {
       "added_at": null,

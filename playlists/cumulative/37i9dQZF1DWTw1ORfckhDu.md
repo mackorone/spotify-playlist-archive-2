@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,105 songs - 2 day 4 hr 30 min
+1,106 songs - 2 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 | 2025-09-04 | 2025-11-28 |
 | [Aika](https://open.spotify.com/track/0xSNT5tzHBTshf8I1dZ79y) | [Miika](https://open.spotify.com/artist/7aY4XP3cJx7pFPYHMaF8pi), [IKE](https://open.spotify.com/artist/500XRZuraMV66diV7kAagq) | [Aika](https://open.spotify.com/album/40AIobzeFACNFGhWPgiWpr) | 3:29 | 2023-11-30 | 2023-12-08 |
 | [Aika Jättää](https://open.spotify.com/track/6Y3OtijfBvbWSNU90apBTn) | [Opaali](https://open.spotify.com/artist/1dk4PjZTvrWlSPhBFXy7VM) | [Aika Jättää](https://open.spotify.com/album/2u6Yjs16KJFBKQooZAJxha) | 3:04 | 2024-07-02 | 2024-07-12 |
+| [Aikuinen mies](https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:05 | 2026-01-29 |  |
 | [Aina](https://open.spotify.com/track/2FIRyQLaMWaatb3ASfldXC) | [Gabri](https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c), [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Aina](https://open.spotify.com/album/5KZrAcRWwTAZ4BGTpiYQJS) | 2:54 | 2024-10-24 | 2025-04-18 |
 | [AINA](https://open.spotify.com/track/7EjyrRhPCsUHfq1odGNajx) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [AINA](https://open.spotify.com/album/6SMovWc6E3Q8LdKk0fVKZh) | 2:45 | 2023-11-02 | 2023-12-01 |
 | [Aina](https://open.spotify.com/track/2zBiB79GNoVXY6cLB8AMKE) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Aina](https://open.spotify.com/album/0ZHz8msY0KGTSk7VXxKFoL) | 2:12 | 2024-04-25 | 2024-07-05 |
@@ -658,7 +659,7 @@
 | [NEW ERA](https://open.spotify.com/track/7FobILk5tZ0W4H0N4AJPMZ) | [Bojos](https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM) | [NEW ERA / HENNYY](https://open.spotify.com/album/5mJNJondouJEkd8yaVMkGD) | 2:26 | 2024-02-01 | 2024-02-16 |
 | [Next Up Scandinavia \- S1\-E3](https://open.spotify.com/track/4hKcEl6qOBW9F0NAZSgIzX) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Scandinavia \- S1\-E3](https://open.spotify.com/album/3GCYEHcmjsJieXwnjN0KPQ) | 2:56 | 2024-01-11 | 2024-02-02 |
 | [Next Up Scandinavia \- S1\-E8](https://open.spotify.com/track/2tERDWZ6mWbxpfLhzczJVN) | [Slani](https://open.spotify.com/artist/10IOGgDlKbNWPitsbWSfU4), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Scandinavia \- S1\-E8](https://open.spotify.com/album/2mh1Xdf6NpTtTPcyCjdbxw) | 2:28 | 2024-02-22 | 2024-03-22 |
-| [Niille joil on paha olla \- Unitas Sigma](https://open.spotify.com/track/2W1xOqSzZ5cbMdB3nV6Zjd) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:46 | 2025-12-05 |  |
+| [Niille joil on paha olla \- Unitas Sigma](https://open.spotify.com/track/2W1xOqSzZ5cbMdB3nV6Zjd) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:46 | 2025-12-05 | 2026-02-03 |
 | [NIIN ETTÄ TUNTUU](https://open.spotify.com/track/0GnveAUohzsJaX6XxwyeVA) | [Bojos](https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM) | [NIIN ETTÄ TUNTUU](https://open.spotify.com/album/0Dn53cKRwQuUOVSuT80lwN) | 3:20 | 2024-06-13 | 2024-08-02 |
 | [Niin kuin sä](https://open.spotify.com/track/5diuAWvCyN25sI25FqyfTW) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Niin kuin sä](https://open.spotify.com/album/217oYwUFstr8G8Q0UpKBI1) | 2:45 | 2024-11-21 | 2025-01-03 |
 | [Niinku Ennen Tehtiin](https://open.spotify.com/track/5LKu3UuIECUPeOaiwc5vie) | [Sere](https://open.spotify.com/artist/0NzbQWVKdJjF1X8WfJLF7N), [Kriso](https://open.spotify.com/artist/5IQo6uI8DE3yq8WwBYeMBD), [Jam\-A\-Holics](https://open.spotify.com/artist/5lgbii1UXi0MVMM9kjyOWg) | [Niinku Ennen Tehtiin](https://open.spotify.com/album/397PXFINFbwopqXgY7kpDN) | 3:52 | 2023-09-21 | 2023-09-29 |

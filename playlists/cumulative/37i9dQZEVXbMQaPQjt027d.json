@@ -572,7 +572,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 191142,
       "name": "AI",
       "url": "https://open.spotify.com/track/6KJndywGirkvLOBm2QCBDR"
@@ -1496,6 +1496,28 @@
       "duration_ms": 167647,
       "name": "Bienderen",
       "url": "https://open.spotify.com/track/37qT7EYqoTjDNH5hVUzWsR"
+    },
+    {
+      "album": {
+        "name": "Bier Bij Het Ontbijt",
+        "url": "https://open.spotify.com/album/1G655PM19hqrZ47uRpn5nt"
+      },
+      "artists": [
+        {
+          "name": "CV de Deurzuipers",
+          "url": "https://open.spotify.com/artist/37MrwSTPljoxmHBbZGAU2u"
+        },
+        {
+          "name": "Huijbke",
+          "url": "https://open.spotify.com/artist/7zAmbAzyrAlMKo3AjXUbNr"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155307,
+      "name": "Bier Bij Het Ontbijt",
+      "url": "https://open.spotify.com/track/1O8nNGkr4wd9U8XcFYIljg"
     },
     {
       "album": {
@@ -6740,6 +6762,24 @@
       "duration_ms": 192635,
       "name": "Ik wil praten..",
       "url": "https://open.spotify.com/track/6XMGS64tneEJ1CdchExqUv"
+    },
+    {
+      "album": {
+        "name": "Ik Wooj Nie Gaon",
+        "url": "https://open.spotify.com/album/42s9jiuLkFq5UHIRmYCrz7"
+      },
+      "artists": [
+        {
+          "name": "Van Lieshout en Arts",
+          "url": "https://open.spotify.com/artist/54YBcnUDJ7VtG9kbhxoRQb"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204821,
+      "name": "Ik Wooj Nie Gaon",
+      "url": "https://open.spotify.com/track/36xEkavf3iEhdjdy8fzcvZ"
     },
     {
       "album": {
@@ -13216,7 +13256,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 134138,
       "name": "This is my house",
       "url": "https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71"

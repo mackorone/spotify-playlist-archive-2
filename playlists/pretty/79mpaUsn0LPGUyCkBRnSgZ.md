@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 664 songs - 1 day 19 hr 28 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 666 songs - 1 day 19 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -672,5 +672,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 662 | [Court and Spark](https://open.spotify.com/track/2l8kERLPqgP7p94Duj9nqH) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:46 |
 | 663 | [How the Shadow Is Clear \- Remastered](https://open.spotify.com/track/4dJV7QQkkqE8o6UrWp6poO) | [Oidopuaa Vladimir Oiun](https://open.spotify.com/artist/11D12wFV7ZA7kc83fO23Fv) | [Divine Music from Jail](https://open.spotify.com/album/1EfMnzM9K8lIXG394evveZ) | 2:06 |
 | 664 | [Morning Morgantown](https://open.spotify.com/track/6jhvDPA1wPvyZgt4Sd0jV2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:13 |
+| 665 | [wake up b\*tch](https://open.spotify.com/track/05lmssgsoHg0C4GHuXnKHo) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [do it afraid](https://open.spotify.com/album/43EgijZ2EwYb8xgRDMh8GK) | 1:52 |
+| 666 | [crying through my teeth](https://open.spotify.com/track/6nSVRWkCZ5H3gbbb92B4H6) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Ten Fold](https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3) | 2:20 |
 
-Snapshot ID: `AAAIi8+Va9kTj9wUbx51FRWecF5rmmfH`
+Snapshot ID: `AAAIjamLJM9+9ZWHEFuGXc2hwqy/pfHx`

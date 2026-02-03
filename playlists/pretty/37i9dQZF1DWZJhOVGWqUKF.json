@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Papa Roach",
-  "num_followers": 340443,
+  "num_followers": 340418,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,26 @@
     {
       "added_at": "2026-01-30 08:20:41",
       "album": {
+        "name": "Hand That Feeds (From the Film Ballerina)",
+        "url": "https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Amy Lee",
+          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
+        }
+      ],
+      "duration_ms": 186033,
+      "name": "Hand That Feeds - From the Film Ballerina",
+      "url": "https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N"
+    },
+    {
+      "added_at": "2026-01-30 08:20:41",
+      "album": {
         "name": "INERTIA",
         "url": "https://open.spotify.com/album/5WQ2aXsGMKlakBEoHFyOqk"
       },
@@ -1019,26 +1039,6 @@
     {
       "added_at": "2026-01-30 08:20:41",
       "album": {
-        "name": "Hand That Feeds (From the Film Ballerina)",
-        "url": "https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "Amy Lee",
-          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
-        }
-      ],
-      "duration_ms": 186033,
-      "name": "Hand That Feeds - From the Film Ballerina",
-      "url": "https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N"
-    },
-    {
-      "added_at": "2026-01-30 08:20:41",
-      "album": {
         "name": "Lachryma",
         "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 276400,
       "name": "Lachryma",
       "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
-    },
-    {
-      "added_at": "2026-01-30 08:20:41",
-      "album": {
-        "name": "lost americana",
-        "url": "https://open.spotify.com/album/30aIA1FrouOX9kHxP4dEr6"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 302897,
-      "name": "outlaw overture",
-      "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
     },
     {
       "added_at": "2026-01-30 08:20:41",
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2026-01-30 08:20:41",
       "album": {
-        "name": "Heathen Days",
-        "url": "https://open.spotify.com/album/26yuduRZqt1jG6UQ953rQP"
+        "name": "lost americana",
+        "url": "https://open.spotify.com/album/30aIA1FrouOX9kHxP4dEr6"
       },
       "artists": [
         {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 137853,
-      "name": "Heathen Days",
-      "url": "https://open.spotify.com/track/1LaemmWc1Cl2McmJy8dtfb"
+      "duration_ms": 302897,
+      "name": "outlaw overture",
+      "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
     },
     {
       "added_at": "2026-01-30 08:20:41",
@@ -1115,6 +1099,22 @@
       "duration_ms": 242346,
       "name": "Crawl Back To My Coffin",
       "url": "https://open.spotify.com/track/2p50qhRb0mnj9H8fLoQRf1"
+    },
+    {
+      "added_at": "2026-01-30 08:20:41",
+      "album": {
+        "name": "Heathen Days",
+        "url": "https://open.spotify.com/album/26yuduRZqt1jG6UQ953rQP"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 137853,
+      "name": "Heathen Days",
+      "url": "https://open.spotify.com/track/1LaemmWc1Cl2McmJy8dtfb"
     },
     {
       "added_at": "2026-01-30 08:20:41",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-01-30 08:20:41",
       "album": {
-        "name": "My Only Angel",
-        "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 255818,
-      "name": "My Only Angel",
-      "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
-    },
-    {
-      "added_at": "2026-01-30 08:20:41",
-      "album": {
         "name": "Into Hell",
         "url": "https://open.spotify.com/album/6AxUaiBdDS6y50kkvjnOrS"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 292058,
       "name": "I Will Not Break",
       "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
+    },
+    {
+      "added_at": "2026-01-30 08:20:41",
+      "album": {
+        "name": "My Only Angel",
+        "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 255818,
+      "name": "My Only Angel",
+      "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
     },
     {
       "added_at": "2026-01-30 08:20:41",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-01-30 08:20:41",
       "album": {
-        "name": "The Weather",
-        "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "The Weather",
-      "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
-    },
-    {
-      "added_at": "2026-01-30 08:20:41",
-      "album": {
         "name": "Gasoline (All Rage Still Only Numb)",
         "url": "https://open.spotify.com/album/3e6DAPGeNe2rwiwBOmvqVR"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 179220,
       "name": "Gasoline (All Rage Still Only Numb)",
       "url": "https://open.spotify.com/track/2HOOOhhR7w9gaN5v9kpgHQ"
+    },
+    {
+      "added_at": "2026-01-30 08:20:41",
+      "album": {
+        "name": "The Weather",
+        "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "The Weather",
+      "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
     },
     {
       "added_at": "2026-01-30 08:20:41",
@@ -1607,6 +1607,38 @@
     {
       "added_at": "2026-01-30 08:20:41",
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/5Vkg8LIEAj31OeoV66YEN5"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "duration_ms": 205963,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/4cImz6ALStITqRds60YUmF"
+    },
+    {
+      "added_at": "2026-01-30 08:20:41",
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 262195,
+      "name": "Like A Woman Can",
+      "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
+    },
+    {
+      "added_at": "2026-01-30 08:20:41",
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS"
       },
@@ -1623,22 +1655,6 @@
       "duration_ms": 215200,
       "name": "Wild Woman",
       "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"
-    },
-    {
-      "added_at": "2026-01-30 08:20:41",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/5Vkg8LIEAj31OeoV66YEN5"
-      },
-      "artists": [
-        {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
-        }
-      ],
-      "duration_ms": 205963,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/4cImz6ALStITqRds60YUmF"
     },
     {
       "added_at": "2026-01-30 08:20:41",
@@ -1667,22 +1683,6 @@
       "duration_ms": 182132,
       "name": "GETCHA! (with Nic Cester, Jet & Chad Smith) - prod. Tom Morello",
       "url": "https://open.spotify.com/track/6ObOQwjP7hycMhlYbSJuvk"
-    },
-    {
-      "added_at": "2026-01-30 08:20:41",
-      "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 262195,
-      "name": "Like A Woman Can",
-      "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
     }
   ],
   "unique_name": "Rock Rotation",

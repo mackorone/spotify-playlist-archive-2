@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [25](https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [25](https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt) | 3:18 | 2024-09-12 | 2026-01-24 |
+| [25](https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [25](https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt) | 3:18 | 2024-09-12 |  |
 | [25 bare fem år til](https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [25 bare fem år til](https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L) | 2:45 | 2024-10-03 | 2025-09-03 |
 | [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2024-07-04 | 2025-10-30 |
 | [A Little Too Lost Sometimes](https://open.spotify.com/track/5T5sOXwBzka5WAdy6jahsV) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [A Little Too Lost Sometimes](https://open.spotify.com/album/1hgILChVJdx3d1s6CqUUnb) | 3:48 | 2025-10-16 | 2025-11-02 |
@@ -184,7 +184,7 @@
 | [Milk and Honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and Honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 | 2024-10-31 |  |
 | [Min](https://open.spotify.com/track/36lRSnUiM2e2pNqPOEhgZg) | [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo) | [Hold ut](https://open.spotify.com/album/0SlOVlA86frJaQXSMi75YQ) | 2:25 | 2025-09-11 | 2025-11-07 |
 | [Min for en kveld](https://open.spotify.com/track/7aI28hcZEtBkP0IsX8uE3e) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Min for en kveld](https://open.spotify.com/album/3wMlCNk871zgqen0FTWD2g) | 2:33 | 2024-09-05 | 2025-01-25 |
-| [Mira](https://open.spotify.com/track/3xbSexiVMsTaqlWW2tyt8s) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Mira](https://open.spotify.com/album/2OBxw92JrtGREndgAnWkCz) | 3:43 | 2025-10-09 |  |
+| [Mira](https://open.spotify.com/track/3xbSexiVMsTaqlWW2tyt8s) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Mira](https://open.spotify.com/album/2OBxw92JrtGREndgAnWkCz) | 3:43 | 2025-10-09 | 2026-02-03 |
 | [Miste huet](https://open.spotify.com/track/2se3rw5jBytcnk2xDCW2Jb) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU), [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [Miste huet](https://open.spotify.com/album/3XKZriJLIHInSAQQEW5Ut1) | 2:57 | 2025-07-17 | 2026-01-16 |
 | [Modern Romance](https://open.spotify.com/track/3XvpJRDF9ZPkoEWIkTDVoy) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/4DWCqsBcxkgusUELGVytAT) | 3:34 | 2025-04-17 | 2025-06-13 |
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2024-06-27 | 2025-05-03 |

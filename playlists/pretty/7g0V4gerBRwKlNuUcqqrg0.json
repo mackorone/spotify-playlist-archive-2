@@ -1,12 +1,12 @@
 {
   "description": "Fijne muziek voor een rustige dag. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer",
-  "num_followers": 158545,
+  "num_followers": 158527,
   "original_name": "Lazy Days | Easy Music ",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAAvlQi1TvjvWYQx1/qh3Kl1uFsXrIv8",
+  "snapshot_id": "AAAvmLJs3q/vgRD6e8sG32oR28VgcCIX",
   "tracks": [
     {
       "added_at": "2026-01-23 10:35:01",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
+      "added_at": "2026-02-02 09:29:14",
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+    },
+    {
       "added_at": "2026-01-23 10:35:01",
       "album": {
         "name": "Son Of Spergy",
@@ -41,10 +57,10 @@
       "url": "https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd"
     },
     {
-      "added_at": "2026-01-23 10:35:01",
+      "added_at": "2026-02-02 09:04:13",
       "album": {
-        "name": "Too Far",
-        "url": "https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4"
+        "name": "Don\u2019t Blame It On Me",
+        "url": "https://open.spotify.com/album/7tWMNiHjYhhW943tF7ByEe"
       },
       "artists": [
         {
@@ -52,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
         }
       ],
-      "duration_ms": 180159,
-      "name": "Too Far",
-      "url": "https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg"
+      "duration_ms": 181588,
+      "name": "Don\u2019t Blame It On Me",
+      "url": "https://open.spotify.com/track/5uXaxiobY7NILnt0GcbCZ4"
     },
     {
       "added_at": "2026-01-28 18:10:54",
@@ -603,6 +619,22 @@
       "duration_ms": 201284,
       "name": "The Little Mess You Made",
       "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
+    },
+    {
+      "added_at": "2026-01-23 10:35:01",
+      "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "duration_ms": 180159,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg"
     },
     {
       "added_at": "2026-01-23 10:35:01",

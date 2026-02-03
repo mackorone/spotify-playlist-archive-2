@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: Haku.
+> Meet the future of music around the world\. Cover: Danyl
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,223 likes - 24 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,246 likes - 24 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 14 | [Un Cri Dans Le Métro](https://open.spotify.com/track/2hWWHIXzcexn3QjpsBWsJP) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Un Cri Dans Le Métro](https://open.spotify.com/album/6fQKbdeZ74qspEkX5MnuPS) | 3:22 |
 | 15 | [Je ne l'ai jamais dit à personne](https://open.spotify.com/track/10YFRCEbeCjWBJCr8DpfEz) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Je ne l'ai jamais dit à personne](https://open.spotify.com/album/2zvY1mdV7980cw5d9HCGDF) | 4:19 |
 | 16 | [Little Things](https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Little Things](https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ) | 3:29 |
-| 17 | [Be Me](https://open.spotify.com/track/24tokRChZL5vKAYJHC3ZxJ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Be Me](https://open.spotify.com/album/3UXg4BQBhMrPNhkB0YQhn7) | 2:20 |
-| 18 | [Mere Qareeb](https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Mere Qareeb](https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K) | 3:44 |
+| 17 | [Mere Qareeb](https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Mere Qareeb](https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K) | 3:44 |
+| 18 | [Be Me](https://open.spotify.com/track/24tokRChZL5vKAYJHC3ZxJ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Be Me](https://open.spotify.com/album/3UXg4BQBhMrPNhkB0YQhn7) | 2:20 |
 | 19 | [それしか言えない](https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [それしか言えない](https://open.spotify.com/album/479WTy9v0d0wWC960eTawU) | 4:24 |
 | 20 | [Nasha](https://open.spotify.com/track/0TrIoJaqN8QBmCViEeHMzt) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Nasha](https://open.spotify.com/album/5uBmD75BsRBBdsT5WIiEEG) | 2:25 |
 | 21 | [Excès](https://open.spotify.com/track/2KPoXjRpo2BRvfUwmkq2WE) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Softboy Actif 2](https://open.spotify.com/album/5GqYqD32BN1tPAH7GMN1CF) | 3:02 |

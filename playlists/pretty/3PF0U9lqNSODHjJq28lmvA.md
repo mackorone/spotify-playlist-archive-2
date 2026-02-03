@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,571 likes - 30 songs - 1 hr 48 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,572 likes - 30 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 17 | [Need Someone Like You](https://open.spotify.com/track/0NWS4jhwHdyRoe9pGhVyuW) | [Thosebricks](https://open.spotify.com/artist/2KYlV0PM7k2AJdA6hVMoqj) | [Need Someone Like You](https://open.spotify.com/album/0ve4tY1yvNLC78HEJgkkUn) | 3:39 |
 | 18 | [Fly High](https://open.spotify.com/track/35y84ffg06a5GPzGUjbQji) | [I](https://open.spotify.com/artist/1kf0WXsxgwQRoAkpn2DIrJ) | [Fly High](https://open.spotify.com/album/55QhNrruUi4EgrO18hfolr) | 5:02 |
 | 19 | [Gelme](https://open.spotify.com/track/0DNGZXjKdVUbbyAaR8PRGH) | [Koray Volkan](https://open.spotify.com/artist/7xa1Ud95VAvGKpoLxjXUM1) | [02:17](https://open.spotify.com/album/26VEBEZEFGRF4Kf1tsNMvE) | 2:14 |
-| 20 | [Universal Death Heat](https://open.spotify.com/track/1zqZJcimNsRwBt9R4f2mz6) | [Indica Blues](https://open.spotify.com/artist/2jsHZkaW6a0jhYbDs5FdHG) | [Universal Heat Death](https://open.spotify.com/album/10Jf8aV13C8YiYHB7giRUJ) | 3:36 |
+| 20 | [Universal Heat Death](https://open.spotify.com/track/1zqZJcimNsRwBt9R4f2mz6) | [Indica Blues](https://open.spotify.com/artist/2jsHZkaW6a0jhYbDs5FdHG) | [Universal Heat Death](https://open.spotify.com/album/10Jf8aV13C8YiYHB7giRUJ) | 3:36 |
 | 21 | [Roots of Whybe](https://open.spotify.com/track/2NJipozQgfzZ6vr8eM0zZ3) | [Ondřej Urban](https://open.spotify.com/artist/0OJqmhqhMjDCYcqezve177), [Andre The Sun](https://open.spotify.com/artist/6uXRimFckTsyuyJfH6Kboz) | [Roots of Whybe](https://open.spotify.com/album/2dS3kMIe5N88ZcUCsjJNx5) | 3:03 |
 | 22 | [Grind](https://open.spotify.com/track/6yt2xi22qYZWD7crufU1mT) | [Peyts](https://open.spotify.com/artist/4ztNXmZODqywL1IRlhgMV9) | [Grind](https://open.spotify.com/album/0eyuk8rA1tXNTVZUJUR10v) | 2:50 |
 | 23 | [Mother Death](https://open.spotify.com/track/7gPXh8Q3e9dtZR53aXNa5Y) | [Nihilsvm](https://open.spotify.com/artist/3z0NYC8Zh49uZPFRCZKVdx) | [Mother Death](https://open.spotify.com/album/0Jni0QnaIgHyn3SsxhNwBM) | 5:34 |

@@ -7969,6 +7969,24 @@
     },
     {
       "album": {
+        "name": "Stupid Love",
+        "url": "https://open.spotify.com/album/6c4haH9o8Rss7VdErplr7K"
+      },
+      "artists": [
+        {
+          "name": "Daniele Polge",
+          "url": "https://open.spotify.com/artist/5VW0vABbPzjpG5B81MfyiZ"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262272,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/3JIo2eOLK87AaZ8Y4sNOoF"
+    },
+    {
+      "album": {
         "name": "Sueltate",
         "url": "https://open.spotify.com/album/7gsKayaP9XMyAaLF3RGArF"
       },

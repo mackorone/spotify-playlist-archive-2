@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 ### [Top Contemporary Christian](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
-> Tune in here for new and current hits in Contemporary Christian music! Cover: Dan Bremnes
+> Tune in here for new and current hits in Contemporary Christian music! Cover: Brandon Lake and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,940 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,274 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reaching For The Light](https://open.spotify.com/track/4WNSoMT4yAw4O6qRFKHU3h) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [The Hero & The Villain](https://open.spotify.com/album/4hTbkRnaRb9DDgwRZ4gYHz) | 3:19 |
 | 2 | [Won't Let Go](https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 3:09 |
-| 3 | [Lord of the Dance](https://open.spotify.com/track/4j18e9RtZIctujKELsaSKD) | [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [The Great Adventure: A Tribute to Steven Curtis Chapman](https://open.spotify.com/album/7dmmwgOIlByeSUHL4sposx) | 4:11 |
-| 4 | [Hard Fought Hallelujah \(with Jon Batiste & Jelly Roll\)](https://open.spotify.com/track/1RSBlcNeG579dFOfEB8hYy) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Hard Fought Hallelujah \(with Jon Batiste & Jelly Roll\)](https://open.spotify.com/album/5WXIrCrFe92GUyV0lF55fh) | 6:33 |
+| 3 | [Hard Fought Hallelujah \(with Jon Batiste & Jelly Roll\)](https://open.spotify.com/track/1RSBlcNeG579dFOfEB8hYy) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Hard Fought Hallelujah \(with Jon Batiste & Jelly Roll\)](https://open.spotify.com/album/5WXIrCrFe92GUyV0lF55fh) | 6:33 |
+| 4 | [Lord of the Dance](https://open.spotify.com/track/4j18e9RtZIctujKELsaSKD) | [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [The Great Adventure: A Tribute to Steven Curtis Chapman](https://open.spotify.com/album/7dmmwgOIlByeSUHL4sposx) | 4:11 |
 | 5 | [Wait For Me](https://open.spotify.com/track/2rB7wo5WpVwCY1Ewcr1kc6) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wait For Me](https://open.spotify.com/album/21WbEejZ6Bp1mlAbd4qzdq) | 3:30 |
 | 6 | [Dusty Bibles](https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:10 |
 | 7 | [Dear Jesus](https://open.spotify.com/track/669PG7je3XBT9PP7POGGiW) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dear Jesus](https://open.spotify.com/album/32xd5BR4HpHJhlyJ4OfENw) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 79 | [The Reminder](https://open.spotify.com/track/6INilJMURz2ptArultdEDl) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [The Reminder](https://open.spotify.com/album/3x29opvwVFDFXpxRzNzgYp) | 4:02 |
 | 80 | [Something You Can Be Proud Of](https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Something You Can Be Proud Of](https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD) | 3:28 |
 
-Snapshot ID: `AAAAAFaoQ42Qj0XfoE4uqWrUpcIh6Pt4`
+Snapshot ID: `AAAAAKxEOipdrSdmPP1OkHMMTgfMvk6v`

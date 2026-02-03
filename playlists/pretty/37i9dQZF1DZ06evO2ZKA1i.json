@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 300999,
+  "num_followers": 301003,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAD3Q0mhppn9h1w1M2kNlxNL",
+  "snapshot_id": "aX6XgAAAAAD3m0j3IFraY97F4PaTpvv8",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 602066,
+      "name": "Son Of Alerik",
+      "url": "https://open.spotify.com/track/2dNaODA8kNiR6oAJnDs6wM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 280466,
       "name": "Might Just Take Your Life - Remastered 2004",
       "url": "https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "Nobody's Home",
-      "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "Nobody's Home",
+      "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 260466,
       "name": "Lay Down, Stay Down - Remastered 2004",
       "url": "https://open.spotify.com/track/1oFprMb1Z5ngadqfFeWgjZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 602066,
-      "name": "Son Of Alerik",
-      "url": "https://open.spotify.com/track/2dNaODA8kNiR6oAJnDs6wM"
     },
     {
       "added_at": null,

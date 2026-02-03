@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw"
+      },
+      "artists": [
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Ambassade",
+      "url": "https://open.spotify.com/track/3YoaeRrMo9u4jDWcBDyUJu"
+    },
+    {
+      "album": {
         "name": "Ammoniak & Hazes",
         "url": "https://open.spotify.com/album/6ufE1h11FnJESW0lR6m37e"
       },
@@ -5463,6 +5481,28 @@
     },
     {
       "album": {
+        "name": "BNT Vol. 1",
+        "url": "https://open.spotify.com/album/2hRFLumetrIxEE4py3GnJE"
+      },
+      "artists": [
+        {
+          "name": "Boufi",
+          "url": "https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK"
+        },
+        {
+          "name": "Curved",
+          "url": "https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142209,
+      "name": "Ofzo",
+      "url": "https://open.spotify.com/track/6iDg9jyqam3WC6znZnZHtO"
+    },
+    {
+      "album": {
         "name": "Oh Damn",
         "url": "https://open.spotify.com/album/1Z5G8vtHA6A2ks4Xdo1EcJ"
       },
@@ -6054,6 +6094,24 @@
       "duration_ms": 132784,
       "name": "Probleem",
       "url": "https://open.spotify.com/track/3djhoyCQQP4Tv5zErWGskZ"
+    },
+    {
+      "album": {
+        "name": "Make Agga Great Again",
+        "url": "https://open.spotify.com/album/5DmSdGpWlqRUE638dK1jar"
+      },
+      "artists": [
+        {
+          "name": "Noah Ysp",
+          "url": "https://open.spotify.com/artist/6EXdAUuol3xlQgad9NEy9u"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Rappen Trappen Ballie",
+      "url": "https://open.spotify.com/track/5gE3j4UuecqDG6N8dHxH6F"
     },
     {
       "album": {
@@ -7117,6 +7175,24 @@
     },
     {
       "album": {
+        "name": "Traumatized",
+        "url": "https://open.spotify.com/album/6tRMmUJX175AdKJgI2Zbyp"
+      },
+      "artists": [
+        {
+          "name": "AangenaamBK",
+          "url": "https://open.spotify.com/artist/6KOuWujrKYQYnxrY3BwoCb"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Traumatized",
+      "url": "https://open.spotify.com/track/6CvhcbW0krT8ysiSG9EQOH"
+    },
+    {
+      "album": {
         "name": "Trenches",
         "url": "https://open.spotify.com/album/1MEqUhx1oixOQ4tC06K25q"
       },
@@ -7344,6 +7420,24 @@
       "duration_ms": 148500,
       "name": "VERT3LLEN",
       "url": "https://open.spotify.com/track/0BrRABx6pnEqoSQ1Tkmqw4"
+    },
+    {
+      "album": {
+        "name": "Vertrek 3",
+        "url": "https://open.spotify.com/album/08EgIDBQf24QqbNktr0J7d"
+      },
+      "artists": [
+        {
+          "name": "SKEEKS",
+          "url": "https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149138,
+      "name": "Vertrek 3",
+      "url": "https://open.spotify.com/track/31Q5H6Mue5WfP30A0usBId"
     },
     {
       "album": {

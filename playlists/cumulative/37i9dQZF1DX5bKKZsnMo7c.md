@@ -2,9 +2,9 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Feeling dramatic? All eyes on you\. Cover: Haute & Freddy
+> Feeling dramatic? All eyes on you\. Cover: Lady Gaga and Chappell Roan
 
-543 songs - 1 day 5 hr 30 min
+545 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Can Of Worms](https://open.spotify.com/track/26SjJ9wLMF5fzvJQark2M5) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [A Can Of Worms](https://open.spotify.com/album/0yfBTLhr4uZtrQccVhVEGg) | 3:38 | 2025-07-25 | 2025-08-16 |
 | [A TV Show Called Earth](https://open.spotify.com/track/0htdbSx3Z3dRU6GcaQrNBD) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [A TV Show Called Earth](https://open.spotify.com/album/6ISLeFSTZIVxxKrPY3DGq7) | 3:22 | 2023-05-05 | 2024-01-23 |
 | [Above the Neck](https://open.spotify.com/track/1QOjSg4LVUTFtLJba1SWha) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Above the Neck](https://open.spotify.com/album/6BWdPb06mk9wATgUUaUDrf) | 3:45 | 2025-12-05 |  |
+| [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 | 2026-02-02 |  |
 | [Afraid of Quiet](https://open.spotify.com/track/2hETlIC41ua0yYcPyE5WLI) | [Lydia the Bard](https://open.spotify.com/artist/4dYuygkzjqrehCNZMTjkNJ), [Ben Tomalin](https://open.spotify.com/artist/19kzH2dKYDamaNJ1e0OO4X) | [Afraid of Quiet](https://open.spotify.com/album/44ozYQu5laX3TgKDDTalpc) | 3:03 | 2024-05-29 | 2024-08-10 |
 | [After You](https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [After You](https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL) | 3:23 | 2023-12-08 | 2024-01-27 |
 | [Against the Kitchen Floor \- Live in Charlotte, NC](https://open.spotify.com/track/5iSHEe6K8pmrcWWy2kPvZE) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [IN CASE I DIE \(Live\)](https://open.spotify.com/album/7jGDcKK1aVh9vxDXV6RGmb) | 5:20 | 2023-01-13 | 2023-01-19 |
@@ -484,6 +485,7 @@
 | [The Show Must Go On](https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 4:26 | 2023-07-21 | 2024-03-02 |
 | [The Show Must Go On](https://open.spotify.com/track/1lZOPMQ1USWQjysL3LOctf) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Show Must Go On](https://open.spotify.com/album/5ewGXWIoaRLgpiOcyO8hjT) | 4:26 | 2023-07-21 | 2023-09-02 |
 | [the simlish song](https://open.spotify.com/track/70moTZaHJ0CHtG2YbQPXST) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [the simlish song](https://open.spotify.com/album/3bNCCGuJGEtCFZ5H7htePd) | 3:19 | 2025-10-03 |  |
+| [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2026-02-02 |  |
 | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/track/3E4gPkcqnyaAnv1nrdukwp) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP), [Henry D'Arthenay](https://open.spotify.com/artist/25Dx0mB7FWXFxNjsYVfcCL) | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj) | 3:50 | 2022-05-27 | 2022-06-11 |
 | [The Watchers](https://open.spotify.com/track/5oItzo1j9q9aDRBUsiGmj9) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [The Watchers](https://open.spotify.com/album/3p2Cyk0nyayrEaM97mhMde) | 2:20 | 2024-10-04 | 2025-04-01 |
 | [The Water Is Fine](https://open.spotify.com/track/3gS0VrWH2NyPGXYiFmcagd) | [Chloe Ament](https://open.spotify.com/artist/3bAJYz1UylrqS4DgaU9aOu) | [Daisies](https://open.spotify.com/album/2pXEKAY1DxmPGSc6k6Gb1P) | 4:00 | 2025-08-18 |  |

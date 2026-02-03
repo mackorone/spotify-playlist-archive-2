@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 62152,
+  "num_followers": 62156,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADW5GuZAHme2BvavP0KIS3v",
+  "snapshot_id": "aX6XgAAAAAA9gWebLmmCF/2s+3B2rO+b",
   "tracks": [
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 218040,
-      "name": "Fruko y Sus Presos (2.018)",
-      "url": "https://open.spotify.com/track/0TrH7tQ2qIhsGFs4fDUVBj"
+      "duration_ms": 210466,
+      "name": "N.A.D.A.",
+      "url": "https://open.spotify.com/track/4YP3mC222xnszWgVHwqUwI"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
+        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
+        "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 210466,
-      "name": "N.A.D.A.",
-      "url": "https://open.spotify.com/track/4YP3mC222xnszWgVHwqUwI"
+      "duration_ms": 218040,
+      "name": "Fruko y Sus Presos (2.018)",
+      "url": "https://open.spotify.com/track/0TrH7tQ2qIhsGFs4fDUVBj"
     },
     {
       "added_at": null,
@@ -423,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
+        "name": "Los Legendarios",
+        "url": "https://open.spotify.com/album/3VZrEkrw9y9rGuPhRTmZTM"
       },
       "artists": [
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
         }
       ],
-      "duration_ms": 240608,
-      "name": "No Est\u00e1 en Venta",
-      "url": "https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf"
+      "duration_ms": 285365,
+      "name": "Los Legendarios",
+      "url": "https://open.spotify.com/track/1yRTwaaXGh2YAOhSMnmQLN"
     },
     {
       "added_at": null,
@@ -455,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Legendarios",
-        "url": "https://open.spotify.com/album/3VZrEkrw9y9rGuPhRTmZTM"
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
       },
       "artists": [
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
         }
       ],
-      "duration_ms": 285365,
-      "name": "Los Legendarios",
-      "url": "https://open.spotify.com/track/1yRTwaaXGh2YAOhSMnmQLN"
+      "duration_ms": 240608,
+      "name": "No Est\u00e1 en Venta",
+      "url": "https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf"
     },
     {
       "added_at": null,

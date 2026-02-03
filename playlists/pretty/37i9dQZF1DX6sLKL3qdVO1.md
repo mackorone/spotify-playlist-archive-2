@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Tokischa en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,754 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,719 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 7 | [Medallo](https://open.spotify.com/track/6Lt2L5aZOPglacvJAbqi14) | [Scarcuchi](https://open.spotify.com/artist/4KRouLb6akxSbAwn6GAX9e), [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [Omarcito Glock](https://open.spotify.com/artist/5hanOusf1zrEPAXTWJtvMD), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Medallo](https://open.spotify.com/album/4VMss2dr85417mYoo45afD) | 2:48 |
 | 8 | [Botellita De Champagne](https://open.spotify.com/track/1qUwfQjdSq3Jta580WvsI3) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [LAS FILTRADAS](https://open.spotify.com/album/4AL3l5qn3kF1FMBUoW5AKq) | 2:37 |
 | 9 | [FANÁTICO](https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [FANÁTICO](https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z) | 3:55 |
-| 10 | [CINTURA](https://open.spotify.com/track/3QNktPNTAcPaSR1diIyVFW) | [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [CINTURA](https://open.spotify.com/album/22sqk6OeYTfJ3EAtAtMIZO) | 3:15 |
+| 10 | [CINTURA \- Republica Dominicana](https://open.spotify.com/track/3QNktPNTAcPaSR1diIyVFW) | [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [CINTURA \(Republica Dominicana\)](https://open.spotify.com/album/22sqk6OeYTfJ3EAtAtMIZO) | 3:15 |
 | 11 | [RÁPIDOS Y FURIOSOS 11](https://open.spotify.com/track/0OxD1r7oeCFCTqf50HHbk5) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [30 AÑOS](https://open.spotify.com/album/2Pcg1GcsIVmfnpeVwPvL2w) | 2:37 |
 | 12 | [Sin Vergüenza](https://open.spotify.com/track/7pW6jlnkG7IVSlhhEI7P58) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Infinito](https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68) | 2:49 |
 | 13 | [CUÉNTAME](https://open.spotify.com/track/0nGutb7xfndF7iSGmk6tBP) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Reelian](https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw) | [CUÉNTAME](https://open.spotify.com/album/32rgjVV7GGC4ixa0ZDSqPh) | 2:42 |

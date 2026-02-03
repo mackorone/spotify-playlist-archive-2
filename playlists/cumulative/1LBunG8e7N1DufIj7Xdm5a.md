@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,006 songs - 8 day 20 hr 35 min
+4,009 songs - 8 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Again](https://open.spotify.com/track/0gknBCQzPY6sbKTrCApt1Z) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Addictive Pop](https://open.spotify.com/album/31BLqQI2Fuq0nTlBzmDUx4) | 2:34 | 2025-07-25 |  |
 | [Again \(another\)](https://open.spotify.com/track/1EqoecJn6aHFm5xIaDALgp) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Addictive Pop](https://open.spotify.com/album/31BLqQI2Fuq0nTlBzmDUx4) | 1:34 | 2025-09-18 |  |
 | [Again and Again](https://open.spotify.com/track/6Xvgsq7v1lmqpnLA5RgnR6) | [Devil's Degree](https://open.spotify.com/artist/0zGOAhPOYhMCw7er97nMer) | [19Hz](https://open.spotify.com/album/7gOO3LABrfDSW9P1OAXqop) | 5:09 | 2025-06-05 |  |
+| [Age](https://open.spotify.com/track/5YuXgPOiFQlrigJ2YyPs5Y) | [TREY](https://open.spotify.com/artist/470ybp8PJGZYDx8DqGwwDH) | [Age](https://open.spotify.com/album/24Qo8vHy0ksjOwLtPNQCGB) | 2:50 | 2026-02-02 |  |
 | [Agosto](https://open.spotify.com/track/1B6lLZVGPkFEO4NwHQCRYw) | [Eraclea](https://open.spotify.com/artist/1wGQi0sO3do5LGZChXMs2t) | [Toboga](https://open.spotify.com/album/4d6Ta0jnT8fnmM8QHSgZlj) | 3:02 | 2025-07-23 |  |
 | [Agujas](https://open.spotify.com/track/4E4xgatRQurGBlsXaKfp1z) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 3:45 | 2025-10-16 |  |
 | [Ahora puedo mirarte oh Dios](https://open.spotify.com/track/3Knv0521JrAhkZQyhoePu2) | [A su voz creadora](https://open.spotify.com/artist/1hN5zcgDGT6IVPoskkglvl) | [Ahora puedo mirarte oh Dios](https://open.spotify.com/album/1WcRZBAB7IXHVjwXxwIrrS) | 5:04 | 2026-01-04 |  |
@@ -3235,6 +3236,7 @@
 | [Spend It \- Sped Up](https://open.spotify.com/track/205JvvegsTtSFhbqV0rBvH) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [POV \(Sped Up Versions\)](https://open.spotify.com/album/0UT0BKBC4wdQbj5Bx5xxuJ) | 2:21 | 2025-06-23 |  |
 | [Spendo x i vizi](https://open.spotify.com/track/5uILl1tjLtWnaI3tl330Te) | [Franklean](https://open.spotify.com/artist/2MtWGMvoJZPkfCtHipSDhg), [Maradò](https://open.spotify.com/artist/17KV9lzX5mkFv70ts7vlFi) | [Spendo x i vizi](https://open.spotify.com/album/2u3VytqpniLVDustEz02v4) | 2:55 | 2025-06-05 |  |
 | [Sphinx](https://open.spotify.com/track/1LTs0l4VWslDurokRJV2aL) | [Monashee](https://open.spotify.com/artist/3aRQ4wIrd9wOGqAY9dJMkI) | [Sphinx](https://open.spotify.com/album/3abIn07BJ2iEEsvKMuvIor) | 4:08 | 2025-07-31 |  |
+| [Spider Lily](https://open.spotify.com/track/2i4E0bXODdm6iiEw66AcVs) | [Don't Tell Iris](https://open.spotify.com/artist/0MqMcX6FlTLOR4YtqiAJui) | [Spider Lily](https://open.spotify.com/album/5sq9k6lbecxoMlyuDpzLKe) | 3:01 | 2026-02-02 |  |
 | [Spikes and Surges](https://open.spotify.com/track/4qO6n9JI3KdGE7LhIalQvn) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Spikes and Surges](https://open.spotify.com/album/6C7NQgx0lPU80jdVDhR7sh) | 4:21 | 2025-11-05 |  |
 | [Spirito](https://open.spotify.com/track/02TjmGXQJlFWIjMZHIirkM) | [Bekruud](https://open.spotify.com/artist/5chx6Kbsyug2xjG91C6eay) | [Progressioni](https://open.spotify.com/album/0dGmrzc0FxXhl5PuDPT4sf) | 3:51 | 2025-05-27 |  |
 | [Sports](https://open.spotify.com/track/5aLD8CPaEu3Cj9ZcAqWWA6) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:57 | 2025-11-05 |  |
@@ -3636,6 +3638,7 @@
 | [Un secondo](https://open.spotify.com/track/57dBr1lAYrkV5FOlhMhw5N) | [Enrico Gal](https://open.spotify.com/artist/06pwYuKE1xa1fZloj2uK6b) | [Un secondo](https://open.spotify.com/album/39J3hMrYrR4wpJ5Ec6MRqt) | 3:22 | 2025-06-25 |  |
 | [Un Solo Segundo](https://open.spotify.com/track/0I0m9UYzULy8gMBkY05QMa) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:21 | 2025-07-29 |  |
 | [Un' onda](https://open.spotify.com/track/3UmS2HUoeK4JGGUOMMFapJ) | [Sono](https://open.spotify.com/artist/4I9E7P0A63ze5UdhH43gpK) | [Un' onda](https://open.spotify.com/album/60HBMqhAwyWOs81RK7YafS) | 4:38 | 2025-05-27 |  |
+| [Una Canción de Lo Que Hablan Todas las Canciones Siempre \- Anacondo Dance Version](https://open.spotify.com/track/5wOQK4Du8KrwQn0NKpVZXB) | [enBlanco](https://open.spotify.com/artist/17gjfzO56AehoTInqXDxeP), [Anacondo](https://open.spotify.com/artist/6x9hfw0qWBeMIe3mJ9u16d) | [Una Canción de Lo Que Hablan Todas las Canciones Siempre \(Anacondo Dance Version\)](https://open.spotify.com/album/7A26kjscDVyLRkchQ8c9Ol) | 4:14 | 2026-02-02 |  |
 | [Una Canzone Senza Nome](https://open.spotify.com/track/7wUxJIQ940hZVE0aUL7MFC) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [ЯEWIND](https://open.spotify.com/album/47XFlQXQtC3meDw6qDEV85) | 2:17 | 2025-10-23 |  |
 | [una luce dentro me](https://open.spotify.com/track/3bACK6FuhWg4suuJWRNoH6) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:52 | 2025-12-10 |  |
 | [Una Panda Maledetta](https://open.spotify.com/track/3YSr6ntqay8mKYTx7csFbv) | [Half Artificial](https://open.spotify.com/artist/7aBDAeoamWn8l2FAE9wNLN) | [Italian Song 1](https://open.spotify.com/album/2hdtBcVr28dJZuSNtJRMNk) | 3:44 | 2025-08-08 |  |

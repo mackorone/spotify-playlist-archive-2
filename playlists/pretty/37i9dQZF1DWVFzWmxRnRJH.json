@@ -1,6 +1,6 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 352189,
+  "num_followers": 352248,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Watching You",
-      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Ultimate Alabama 20 # 1 Hits",
         "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 218613,
       "name": "Mountain Music",
       "url": "https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Watching You",
+      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
+        "name": "Buy Me a Boat",
+        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 179077,
+      "name": "Buy Me a Boat",
+      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 249360,
       "name": "Don't Take The Girl",
       "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 179077,
-      "name": "Buy Me a Boat",
-      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Teach Your Children",
-      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Here For The Party",
         "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 221333,
       "name": "Redneck Woman",
       "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Teach Your Children",
+      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Tanya Tucker / Super Hits",
-        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Delta Dawn",
-      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "The Incredible Machine",
         "url": "https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Major Moves",
-        "url": "https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn"
+        "name": "Tanya Tucker / Super Hits",
+        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 178840,
-      "name": "All My Rowdy Friends Are Coming Over Tonight",
-      "url": "https://open.spotify.com/track/7h7XMOl4r8WzehsUlHyuO1"
+      "duration_ms": 175200,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
+        "name": "Major Moves",
+        "url": "https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "All My Rowdy Friends Are Coming Over Tonight",
+      "url": "https://open.spotify.com/track/7h7XMOl4r8WzehsUlHyuO1"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
         "name": "When I Call Your Name",
         "url": "https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Good Hearted Woman",
-        "url": "https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 183789,
-      "name": "Good Hearted Woman",
-      "url": "https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "If I Could Make a Living",
         "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 133853,
       "name": "If I Could Make a Living",
       "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Good Hearted Woman",
+        "url": "https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 183789,
+      "name": "Good Hearted Woman",
+      "url": "https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53"
     },
     {
       "added_at": "2025-10-08 18:26:31",

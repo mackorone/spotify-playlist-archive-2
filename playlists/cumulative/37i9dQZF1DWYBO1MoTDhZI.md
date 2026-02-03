@@ -2,7 +2,7 @@
 
 ### [Good Vibes](https://open.spotify.com/playlist/37i9dQZF1DWYBO1MoTDhZI)
 
-> Just good vibes all day long
+> Olivia Dean keeps the good vibes going all day long
 
 1,040 songs - 2 day 8 hr 0 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,703 likes - 50 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,727 likes - 50 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 47 | [Body and Soul](https://open.spotify.com/track/26bnmztmGcY03sO1uWmoTd) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane's Sound](https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja) | 5:37 |
 | 48 | [Tenor Madness \- Rudy Van Gelder Remastered 2006 / Shared ISRC](https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 12:13 |
 | 49 | [Cousin Mary \- Mono](https://open.spotify.com/track/6I1pxB8X2Fu4HFjo5Bgwor) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 5:50 |
-| 50 | [A Love Supreme, Pt\. IV \- Psalm](https://open.spotify.com/track/5FLQmLjjeNIuC8U5mDnXC8) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:02 |
+| 50 | [Moment's Notice \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/3TnqliDSJY2iWjL6F38ocE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 9:10 |
 
-Snapshot ID: `aX1GAAAAAADR+lBJgxdZWX/DNcymblEb`
+Snapshot ID: `aX6XgAAAAAD8Z169Ijk0vU0djCTwX8qV`

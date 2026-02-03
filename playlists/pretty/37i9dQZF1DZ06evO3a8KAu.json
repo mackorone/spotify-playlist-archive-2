@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50196,
+  "num_followers": 50202,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAAEjd5v2oo0Tym/Pw703wDY",
+  "snapshot_id": "aX6XgAAAAAANylBGLGfYis2YXbzzMVd0",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que La Quieran (Que La Cuiden)",
-        "url": "https://open.spotify.com/album/4pLO8dVJIBjoxiRjIM2KRG"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 194797,
-      "name": "Que La Quieran (Que La Cuiden)",
-      "url": "https://open.spotify.com/track/1axqKw987jqGeTfjm9tOuv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 198582,
       "name": "C\u00f3mo Los Vaqueros",
       "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que La Quieran (Que La Cuiden)",
+        "url": "https://open.spotify.com/album/4pLO8dVJIBjoxiRjIM2KRG"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 194797,
+      "name": "Que La Quieran (Que La Cuiden)",
+      "url": "https://open.spotify.com/track/1axqKw987jqGeTfjm9tOuv"
     },
     {
       "added_at": null,

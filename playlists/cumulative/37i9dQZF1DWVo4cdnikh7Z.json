@@ -2111,6 +2111,28 @@
     },
     {
       "album": {
+        "name": "Karuppu Pulsar",
+        "url": "https://open.spotify.com/album/2qiSfYU9yEf9q8j3rI0gus"
+      },
+      "artists": [
+        {
+          "name": "Gana Bala",
+          "url": "https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg"
+        },
+        {
+          "name": "Inbaraj Rajendran",
+          "url": "https://open.spotify.com/artist/66XIpVT4VmscyfSrPNFkaJ"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210467,
+      "name": "Adida Molatha",
+      "url": "https://open.spotify.com/track/0NqviLz2nVZrAlMEzFIolD"
+    },
+    {
+      "album": {
         "name": "Adikira Pondaati (From \"Glassmates\")",
         "url": "https://open.spotify.com/album/7LobAgxYcPB9ZwVvTj9hV6"
       },
@@ -4048,6 +4070,32 @@
       "duration_ms": 239416,
       "name": "Anthem Of Martin (From \"Martin\") (Tamil)",
       "url": "https://open.spotify.com/track/4WswDqv2Y53VBrNux4EaF1"
+    },
+    {
+      "album": {
+        "name": "Thalaivar Thambi Thalaimaiyil",
+        "url": "https://open.spotify.com/album/2dBxtPWsA7jkI9YUtHvLb5"
+      },
+      "artists": [
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182948,
+      "name": "Apaayam",
+      "url": "https://open.spotify.com/track/0vEcByDhvxBORoKbjjnV9Y"
     },
     {
       "album": {
@@ -12010,7 +12058,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 253133,
       "name": "Enna Nee - From \"Maanbumigu Parai\"",
       "url": "https://open.spotify.com/track/15HRJYGPgprvsv17q9HISI"
@@ -16626,6 +16674,32 @@
       "duration_ms": 260333,
       "name": "Jallikattu Kale Mama - From \"Gethule\"",
       "url": "https://open.spotify.com/track/0Kj67iwAkyzaedkiX1pmDM"
+    },
+    {
+      "album": {
+        "name": "Karuppu Pulsar",
+        "url": "https://open.spotify.com/album/2qiSfYU9yEf9q8j3rI0gus"
+      },
+      "artists": [
+        {
+          "name": "Velmurugan",
+          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
+        },
+        {
+          "name": "Inbaraj Rajendran",
+          "url": "https://open.spotify.com/artist/66XIpVT4VmscyfSrPNFkaJ"
+        },
+        {
+          "name": "Thirukuvalai Akhilan",
+          "url": "https://open.spotify.com/artist/6mgWijc82cK7dUKsbduxpS"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187689,
+      "name": "Jallikattu Vanthuduchi",
+      "url": "https://open.spotify.com/track/4f1X4n1w5nKrIGiYjhksUD"
     },
     {
       "album": {
@@ -44280,7 +44354,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 213599,
       "name": "Thaaye Thaaye - From \"Peter - Tamil\"",
       "url": "https://open.spotify.com/track/1lrDDvBl4rxNGPnIa4epNz"
@@ -51704,7 +51778,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 182624,
       "name": "vanna vanna kanavu - From \"Mylanji\"",
       "url": "https://open.spotify.com/track/4i0cGBaQy0gvSOUguOBXxR"

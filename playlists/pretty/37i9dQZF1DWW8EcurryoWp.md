@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 
 > The best new Irish alternative sounds\. Cover: Big Sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,615 likes - 78 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,617 likes - 78 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

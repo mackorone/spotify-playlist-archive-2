@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 29820,
+  "num_followers": 29821,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADTDNaNSeC9CwJLyipzVNbM",
+  "snapshot_id": "aX6XgAAAAABqrkwiy0PD6l/Adsvo6Wcu",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 202213,
-      "name": "True Brew",
-      "url": "https://open.spotify.com/track/2Yj1mVu6ONbiz4zaxDq4PH"
+      "duration_ms": 167533,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/1Dsb0L3HuBIn11cO5MauJE"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 167533,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/1Dsb0L3HuBIn11cO5MauJE"
+      "duration_ms": 202213,
+      "name": "True Brew",
+      "url": "https://open.spotify.com/track/2Yj1mVu6ONbiz4zaxDq4PH"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 168808,
-      "name": "Yanny & Laurel",
-      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
+      "duration_ms": 166093,
+      "name": "For Yesterday",
+      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 166093,
-      "name": "For Yesterday",
-      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
+      "duration_ms": 168808,
+      "name": "Yanny & Laurel",
+      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
     }
   ],
   "unique_name": "This Is Millencolin",

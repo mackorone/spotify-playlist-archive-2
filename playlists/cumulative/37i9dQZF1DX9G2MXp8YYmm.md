@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Siyam
 
-489 songs - 1 day 0 hr 38 min
+490 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Bil Ki](https://open.spotify.com/track/0QXwA2k5hAD6nWeAzcwjTJ) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Sende De Benden Var](https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP) | 3:18 | 2025-09-25 |  |
 | [Bilsen De](https://open.spotify.com/track/3vfPPNNAOPteFWU9xIwT1R) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Bilsen De](https://open.spotify.com/album/0qol5uBtarWXta5lVvDc5h) | 2:40 | 2025-12-11 |  |
 | [Bir Başıma](https://open.spotify.com/track/591vD59s3EeTxLFH9K5OWk) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bir Başıma](https://open.spotify.com/album/3eW6cRPWUdzifoxcHAar8g) | 6:13 | 2025-11-20 |  |
-| [Bir Gün Gideceğim Buradan](https://open.spotify.com/track/6xkSI48AJlIRQwffd0and4) | [Demet Sağıroğlu](https://open.spotify.com/artist/1JezmRKWjau6fQtfotfhZY), [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Bir Gün Gideceğim Buradan](https://open.spotify.com/album/2xtEDraGpjQwsGv6rqGSwX) | 5:12 | 2026-01-01 |  |
+| [Bir Gün Gideceğim Buradan](https://open.spotify.com/track/6xkSI48AJlIRQwffd0and4) | [Demet Sağıroğlu](https://open.spotify.com/artist/1JezmRKWjau6fQtfotfhZY), [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Bir Gün Gideceğim Buradan](https://open.spotify.com/album/2xtEDraGpjQwsGv6rqGSwX) | 5:12 | 2026-01-01 | 2026-02-03 |
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2024-06-27 | 2025-07-18 |
 | [Bir Gün Ölürsem](https://open.spotify.com/track/5dotbwu3G11fvSwpwltLGy) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Gün Ölürsem](https://open.spotify.com/album/0IESWsxuJ693yBZ3ZRf075) | 2:36 | 2024-12-19 | 2025-05-26 |
 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 | 2024-06-27 | 2025-08-01 |
@@ -176,6 +176,7 @@
 | [Ey Aşk](https://open.spotify.com/track/5rElOY8KtcQFqlSZ7hgEuC) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 4:07 | 2025-06-26 |  |
 | [Eylül](https://open.spotify.com/track/26Jhjfmce2DvYttkfFdA8s) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Eylül](https://open.spotify.com/album/42LDVOTbeJ1vUJXGGk0vyJ) | 2:54 | 2025-02-20 | 2025-06-20 |
 | [Eyvahlar Olsun](https://open.spotify.com/track/5tRX2KvG4P3vOmUGF72G4W) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Eyvahlar Olsun](https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk) | 2:56 | 2025-12-25 | 2026-01-15 |
+| [Ezberime](https://open.spotify.com/track/6bt1Y09ypUNbNtbSPjMjp0) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Ezberime](https://open.spotify.com/album/3jpT9JyRVtDiHrsrghAn7R) | 3:20 | 2026-01-29 |  |
 | [Farkındaydın](https://open.spotify.com/track/1OUuYxtMnyNS4etNDpto3A) | [Sura İskenderli](https://open.spotify.com/artist/1B0fCkXH620aujSMm3wIKS), [Lil Orxan](https://open.spotify.com/artist/4se0Sn6hGwzmytn5VYtc6d) | [Farkındaydın](https://open.spotify.com/album/60T9anGFIN7i4zAYEJ7hfU) | 2:56 | 2025-07-31 | 2025-08-09 |
 | [Felaket](https://open.spotify.com/track/3oFew1USP4dXQxDsivrTO0) | [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx), [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [Felaket](https://open.spotify.com/album/6BD9aDBrdBRnJ88a5bnInr) | 2:21 | 2025-05-22 | 2025-06-27 |
 | [Fırtınam](https://open.spotify.com/track/5xbVWh4zxwzUfi8dnhgAfz) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Fırtınam](https://open.spotify.com/album/5ZAihw7AqO2Q0Yu0AWQqT5) | 3:12 | 2025-02-20 | 2025-05-26 |

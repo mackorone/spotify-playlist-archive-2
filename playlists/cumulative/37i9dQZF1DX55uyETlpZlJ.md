@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Swarathma
 
-615 songs - 1 day 11 hr 5 min
+616 songs - 1 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [Mouna](https://open.spotify.com/track/6dG12cvw63gOIxoTFBpSQI) | [Sanjay Purohit](https://open.spotify.com/artist/2hT9BPXOfxIpkHvyQjro4i), [Samuel Narendra](https://open.spotify.com/artist/0mlMH3WO33o79nD5Z1kHgh), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Mouna](https://open.spotify.com/album/1sJRxkAhSj7VhukFLbcvBU) | 3:31 | 2023-03-13 | 2023-06-20 |
 | [Mouna](https://open.spotify.com/track/2xcr3940RdJ14giBjK0BU8) | [VishwxsMUZiK](https://open.spotify.com/artist/5klwYQTdqW2U8RTVvykN5Y) | [Mouna](https://open.spotify.com/album/3e9jEq84RxkgooadKTjQgY) | 2:23 | 2025-04-17 | 2025-10-10 |
 | [Move Shawty](https://open.spotify.com/track/4YPHF1rdgGnMSSL9tp5qxr) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Move Shawty](https://open.spotify.com/album/3OFC5ZwSnLdXPa1iOrgOsO) | 2:09 | 2023-04-28 | 2023-09-05 |
-| [Mudukana Maduvi Aagaka Yesthu Thagondidi Nee Rokka](https://open.spotify.com/track/2wWIuK2EbLxbDZ2xSuAg4L) | [Viswa Dj](https://open.spotify.com/artist/4RhEXejarOIdgpir6bW7E1) | [Mudukana Maduvi Aagaka Yesthu Thagondidi Nee Rokka](https://open.spotify.com/album/6VD1ogeF8MsNX6FAXSnBCI) | 3:11 | 2025-09-06 |  |
+| [Mudukana Maduvi Aagaka Yesthu Thagondidi Nee Rokka](https://open.spotify.com/track/2wWIuK2EbLxbDZ2xSuAg4L) | [Viswa Dj](https://open.spotify.com/artist/4RhEXejarOIdgpir6bW7E1) | [Mudukana Maduvi Aagaka Yesthu Thagondidi Nee Rokka](https://open.spotify.com/album/6VD1ogeF8MsNX6FAXSnBCI) | 3:11 | 2025-09-06 | 2026-02-03 |
 | [Mugile](https://open.spotify.com/track/4pzOZiFpauKynFuOfjs94g) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [VJSH](https://open.spotify.com/artist/0mR1GgJfsTdVgclygjlXtT), [Carnival Crooks](https://open.spotify.com/artist/4wm3ZRKCCxFf9g4Vd5IN2q) | [Mugile](https://open.spotify.com/album/3A1Sa3slUaD2eP2CVmK1IY) | 2:41 | 2023-12-14 | 2024-04-13 |
 | [Mugiyada Pallavi \(From "Love In October"\)](https://open.spotify.com/track/4swU9rA8aiRSNZzQi052kU) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Manas Manu](https://open.spotify.com/artist/5yRAtgcz1OzhdI14a9Rdml), [Apsara Raghu](https://open.spotify.com/artist/3dd4sPBqGVfUnXGZ6J5YVI) | [Love In October](https://open.spotify.com/album/0yz0tqSrF2xLTiT0A23gHM) | 3:40 | 2025-11-10 |  |
 | [Munjaneya](https://open.spotify.com/track/44karZEYKnZwsLXtsB0T8n) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Munjaneya](https://open.spotify.com/album/1IzIrAqGBd58GjkaL6l4e9) | 3:09 | 2023-06-22 | 2023-07-09 |
@@ -587,6 +587,7 @@
 | [Top Dawg \(Red Bull 64 Bars\)](https://open.spotify.com/track/1h1yNag53gicTawGrxDa1v) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Top Dawg \(Red Bull 64 Bars\)](https://open.spotify.com/album/7Gk6KYpt7X296a85MtW7if) | 3:01 | 2023-03-28 | 2023-09-01 |
 | [TREND](https://open.spotify.com/track/5ut34Yyos8zwVq6W3zawBH) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [TREND](https://open.spotify.com/album/2UVXFI5A5bByktScsx0sTR) | 3:11 | 2023-12-08 | 2024-04-19 |
 | [TREND](https://open.spotify.com/track/7g60e8xOB8DKFoLf9HIi4C) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [TREND](https://open.spotify.com/album/7bhoaQXLpTvu5sagNExL1k) | 3:11 | 2023-12-08 | 2024-05-21 |
+| [Tulasi](https://open.spotify.com/track/1CQ7sRQeHw1xIzLSOkGXHn) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Sumant Shridhar](https://open.spotify.com/artist/7GA0Xau5hmFnis85SKwPHX) | [Tulasi](https://open.spotify.com/album/7GGxSS970fIcIubWl4TwXI) | 3:33 | 2026-02-02 |  |
 | [Udupi Anthem](https://open.spotify.com/track/7faGHJ7itPYUuDA0YCxK7K) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re) | [Udupi Anthem](https://open.spotify.com/album/4eqOEB6xL6Tds5obPP4YRA) | 3:48 | 2024-05-13 | 2024-05-15 |
 | [UKKAARU](https://open.spotify.com/track/4KYwXJhLFwFLn4f2aanTjO) | [Darshikan](https://open.spotify.com/artist/2QznH02fqwtDUfaLpCMd2R) | [UKKAARU](https://open.spotify.com/album/6C7gJsHME5yAcXVKpz66jq) | 2:22 | 2024-08-07 | 2025-02-01 |
 | [Usira Olage](https://open.spotify.com/track/7wYCvC8zWp3rcCoj0seOQY) | [S K Parth](https://open.spotify.com/artist/20dOeJHWEcApptyMznAnT3) | [Usira Olage](https://open.spotify.com/album/2XOVDh8ZulNCfm0WgAyD0K) | 1:27 | 2023-09-16 | 2024-01-07 |

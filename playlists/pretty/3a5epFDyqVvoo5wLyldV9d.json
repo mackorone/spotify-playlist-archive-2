@@ -6,7 +6,7 @@
     "name": "Ryan Gards",
     "url": "https://open.spotify.com/user/1230953186"
   },
-  "snapshot_id": "AAAD+v2ZKfQFbzVT7iPj8WEmIBaJV3/i",
+  "snapshot_id": "AAAD/j1g+HT6mSOE+q1tPB+A5VH9ri9u",
   "tracks": [
     {
       "added_at": "2020-11-30 17:26:34",
@@ -14851,6 +14851,74 @@
       "duration_ms": 312820,
       "name": "SICKO MODE",
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
+    },
+    {
+      "added_at": "2026-02-02 19:01:59",
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/4LgX603BC6uJYcveklZ6DE"
+      },
+      "artists": [
+        {
+          "name": "Marcos",
+          "url": "https://open.spotify.com/artist/6LqUuMCyfYcsJgz0HmjLXS"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "Na Mundo Deos Quita Manda",
+      "url": "https://open.spotify.com/track/6e3VqBbHE9eTeq0qYWd3Jc"
+    },
+    {
+      "added_at": "2026-02-02 19:02:42",
+      "album": {
+        "name": "Verve Jazz Masters 9: Astrud Gilberto",
+        "url": "https://open.spotify.com/album/7b0D5FLZbkGMZM3sjohGFg"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 395666,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/4uC7IrfS1oQuRCVzqj1EJV"
+    },
+    {
+      "added_at": "2026-02-02 19:02:46",
+      "album": {
+        "name": "Que Vida \u00c9 Essa (Que Pega, Pega no P\u00e9) / Fantasia - Single",
+        "url": "https://open.spotify.com/album/3DyugC0G0Igmx9QObQ9Akv"
+      },
+      "artists": [
+        {
+          "name": "Wal Santana",
+          "url": "https://open.spotify.com/artist/2ec2IpzvB45BnfS1YngWOK"
+        }
+      ],
+      "duration_ms": 172880,
+      "name": "Que Vida \u00c9 Essa (Que Pega, Pega no P\u00e9)",
+      "url": "https://open.spotify.com/track/4OMTBdFlUA7TO0vcHpAs4e"
+    },
+    {
+      "added_at": "2026-02-02 19:02:46",
+      "album": {
+        "name": "A Tua Presenca",
+        "url": "https://open.spotify.com/album/6s2cYOIP5PPIuUJDqvMJEk"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        },
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "Mano Caetano",
+      "url": "https://open.spotify.com/track/1tOvvwdSeyS0gnjCQ6PhI7"
     }
   ],
   "unique_name": "Worldly",

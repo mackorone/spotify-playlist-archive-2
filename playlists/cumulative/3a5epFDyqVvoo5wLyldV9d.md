@@ -4,7 +4,7 @@
 
 > 
 
-894 songs - 2 day 22 hr 11 min
+898 songs - 2 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Mam Pe'ela Su'ure](https://open.spotify.com/track/6UONPrPGoFlTMm74cjBQkx) | [Florence Adooni](https://open.spotify.com/artist/4804FMh4N7pndfmQsS904u) | [Mam Pe'ela Su'ure](https://open.spotify.com/album/4aD1N49PqHfqVd7gCK7008) | 3:49 | 2021-06-16 |  |
 | [Mandinga](https://open.spotify.com/track/4NLWlxYCPrw2PhfJvfxRWI) | [Ruben Gonzalez](https://open.spotify.com/artist/00n4Vljc6N9pvJ26SKPphh) | [Introducing](https://open.spotify.com/album/0ZMTdzojG71NWrPevltSLq) | 8:27 | 2021-11-29 |  |
 | [Manhã](https://open.spotify.com/track/6Pr8fOfppj8C6qpkAYDDzE) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azimüth](https://open.spotify.com/album/1q5loxqHL3JmsQ9zxBTw6f) | 3:45 | 2020-12-22 |  |
+| [Mano Caetano](https://open.spotify.com/track/1tOvvwdSeyS0gnjCQ6PhI7) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tua Presenca](https://open.spotify.com/album/6s2cYOIP5PPIuUJDqvMJEk) | 2:31 | 2026-02-02 |  |
 | [Mano Dayak](https://open.spotify.com/track/75rfPRAYaXRbHSSXHsUyQk) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman](https://open.spotify.com/album/5H1S9LkOFl1t9yaJFVVAek) | 5:43 | 2024-03-23 |  |
 | [Maracatu Atômico](https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Nightingale](https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4) | 4:24 | 2021-01-16 |  |
 | [Maraka](https://open.spotify.com/track/5EPxW77cRAlHiDdDinpg4F) | [May East](https://open.spotify.com/artist/4tPADgxkTIWBBASUlhJG0V) | [Outro Tempo II](https://open.spotify.com/album/3TsqpDsx9fHKR2dk9Y26zg) | 4:18 | 2021-05-26 |  |
@@ -520,6 +521,7 @@
 | [My Country](https://open.spotify.com/track/2ahWD5RUT7SIwDII6Z9lAO) | [Américo Brito](https://open.spotify.com/artist/7qPxIkKHTXFtFuTV4urY0Q) | [Sintado Na Pracinha \(Sodad Serie 4 \- Vol\. 3\)](https://open.spotify.com/album/2yU729Nwsv7jUqbdqlIyCt) | 5:15 | 2023-02-23 |  |
 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 | 2024-11-12 |  |
 | [Na boca do sol](https://open.spotify.com/track/5oiueCPkJCU9wCmQO5HDTj) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Arthur Verocai](https://open.spotify.com/album/4yv17Q486G8QoqM001kFKO) | 2:59 | 2018-01-04 |  |
+| [Na Mundo Deos Quita Manda](https://open.spotify.com/track/6e3VqBbHE9eTeq0qYWd3Jc) | [Marcos](https://open.spotify.com/artist/6LqUuMCyfYcsJgz0HmjLXS) | [Saudade](https://open.spotify.com/album/4LgX603BC6uJYcveklZ6DE) | 4:41 | 2026-02-02 |  |
 | [Na Real Sekele Fo'Ya](https://open.spotify.com/track/1fReqnUh1Rcatgk8YfZUN7) | [Pasteur Lappe](https://open.spotify.com/artist/3RDxL9p4jBPGdoaKVcD2Ff) | [African Funk Experimentals \(1979 to 1981\)](https://open.spotify.com/album/4PEeoZc8Qar7mNvgL01Nnm) | 6:20 | 2021-02-26 |  |
 | [Nabarlek](https://open.spotify.com/track/6ebqWyNhpx1n6h2Hm1CsKq) | [Black Rock Band](https://open.spotify.com/artist/4HxoPeQX9fDkKiT7QgDUNW) | [Identity](https://open.spotify.com/album/5khXp3MooTl5CyguJHr59l) | 3:37 | 2021-03-14 |  |
 | [Nan Ye Likan](https://open.spotify.com/track/64kFUlJZ0sXhnG7aWZIKPj) | [Mac Gregor](https://open.spotify.com/artist/5nfjVTwowegoBQpTqWDNU7) | [In Abidjan](https://open.spotify.com/album/1wPgLkrgetWogWiQwxe6fQ) | 4:44 | 2021-02-26 |  |
@@ -647,6 +649,7 @@
 | [Que Pasa / Me No Pop I](https://open.spotify.com/track/1jjR7zUdFQXEu9TgIp064U) | [Coati Mundi](https://open.spotify.com/artist/2f004LA28GdQvyPHRC6l3g) | [Mutant Disco, Vol\. 2](https://open.spotify.com/album/3Nk2z5nKWwHq5tDQ7gephA) | 6:25 | 2021-05-17 |  |
 | [Que Se Sepa](https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 5](https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS) | 3:16 | 2025-12-15 |  |
 | [Que tal America](https://open.spotify.com/track/4PKeXkiWmitCiiBzvO3Tfa) | [Two Man Sound](https://open.spotify.com/artist/1fVkoaWNbsSwb7KAG2fboU) | [Samba Megamix](https://open.spotify.com/album/1lEvq3ewf4pHTgk4aqe7Nl) | 4:48 | 2020-10-02 |  |
+| [Que Vida É Essa \(Que Pega, Pega no Pé\)](https://open.spotify.com/track/4OMTBdFlUA7TO0vcHpAs4e) | [Wal Santana](https://open.spotify.com/artist/2ec2IpzvB45BnfS1YngWOK) | [Que Vida É Essa \(Que Pega, Pega no Pé\) / Fantasia \- Single](https://open.spotify.com/album/3DyugC0G0Igmx9QObQ9Akv) | 2:52 | 2026-02-02 |  |
 | [Que viene el maní](https://open.spotify.com/track/3stLqZRsfSpxqpmnzR9TrQ) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Un Poquito Quema'o](https://open.spotify.com/album/5lKRqbA399Txwzk1IBVx3W) | 4:48 | 2023-12-04 |  |
 | [Queixa](https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Cores, Nomes](https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm) | 4:23 | 2022-09-14 |  |
 | [Quelle Drôle De Vie \(Remix\)](https://open.spotify.com/track/0jqNCUw1eDTtCJO8ckCCE2) | [Leo Basel](https://open.spotify.com/artist/22z7h9kTVlxhAv83bX23lR), [Marc Bellaiche](https://open.spotify.com/artist/5h24N20GMbAxwpO7gxUnyQ) | [Quelle Drôle De Vie](https://open.spotify.com/album/6JqS4XWZRI3jmzZavSJFW8) | 6:37 | 2024-04-29 |  |
@@ -768,6 +771,7 @@
 | [Tezeta \(Nostalgia\)](https://open.spotify.com/track/414J8tKHbtF16XOiHGBEso) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 6:16 | 2021-10-30 |  |
 | [The Angels](https://open.spotify.com/track/70D6ZilGAHVtzqo44cUXpK) | [Dom Um Romao](https://open.spotify.com/artist/0Dl3XjPU1zPX1dYLCsZ742) | [Complete Muse Sessions](https://open.spotify.com/album/2BYzWKdNMJxODz2bdIBmd9) | 4:03 | 2021-05-11 |  |
 | [The E Medley: Azteca Mozambique / Ah Ah / Cueros \- Live](https://open.spotify.com/track/5rOABYXOb0XfJXjHOMULZ4) | [Pete Escovedo](https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ) | [Whatcha Gonna Do](https://open.spotify.com/album/660Q8reWp0pwGuHpF9BHWc) | 10:05 | 2024-11-09 |  |
+| [The Girl From Ipanema](https://open.spotify.com/track/4uC7IrfS1oQuRCVzqj1EJV) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Verve Jazz Masters 9: Astrud Gilberto](https://open.spotify.com/album/7b0D5FLZbkGMZM3sjohGFg) | 6:35 | 2026-02-02 |  |
 | [The Sweetest Sounds \(From the Broadway Musical "No Strings"\)](https://open.spotify.com/track/56JPieDKOrE4EOM7aF3acg) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Rodgers](https://open.spotify.com/artist/14qYrdOH4kenwOhr3riF4C) | [Bossa Cafe Songs](https://open.spotify.com/album/0UxOTliANKgdhhLmLy0pxz) | 2:23 | 2022-12-16 |  |
 | [Titina](https://open.spotify.com/track/4RTPsRTCHW8vCVfDVJ9Tvu) | [Broda](https://open.spotify.com/artist/5WF4J06QZLyIfUpYtVwjLq) | [Serie Sodad, Vol\. 8 \(Cape Verde\)](https://open.spotify.com/album/38Y0G4Jn6yE4UeLmuwch9L) | 3:18 | 2023-02-23 |  |
 | [To Woo Lady Kong](https://open.spotify.com/track/2hqOakw6UuboE6aBZJmkDZ) | [Chaz Jankel](https://open.spotify.com/artist/3TV7tssuSl8x7ARqsTvIyM) | [My Occupation 'The Music Of Chaz Jankel'](https://open.spotify.com/album/6V6RQy0Zvb5jKDw5pOLmJI) | 6:09 | 2023-07-06 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 21832,
+  "num_followers": 21836,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -607,38 +607,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "The Roots Of Tango - Milonga Sentimental",
-        "url": "https://open.spotify.com/album/2Rwg8FpWYzn8GD9vN5JIhw"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Simone",
-          "url": "https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W"
-        }
-      ],
-      "duration_ms": 158842,
-      "name": "Milonga Sentimental",
-      "url": "https://open.spotify.com/track/2kxlAkGkl4gptyF2yQI0CU"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Temas Pendientes",
-        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
-      },
-      "artists": [
-        {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "Mu\u00f1eca Brava",
-      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Patio De Tango",
         "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
@@ -675,6 +643,38 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Temas Pendientes",
+        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
+      },
+      "artists": [
+        {
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+        }
+      ],
+      "duration_ms": 165546,
+      "name": "Mu\u00f1eca Brava",
+      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "The Roots Of Tango - Milonga Sentimental",
+        "url": "https://open.spotify.com/album/2Rwg8FpWYzn8GD9vN5JIhw"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Simone",
+          "url": "https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W"
+        }
+      ],
+      "duration_ms": 158842,
+      "name": "Milonga Sentimental",
+      "url": "https://open.spotify.com/track/2kxlAkGkl4gptyF2yQI0CU"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
         "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 231373,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Pu\u00f1al de Sombra",
+        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        }
+      ],
+      "duration_ms": 213476,
+      "name": "Mano a Mano",
+      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -751,22 +767,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Pu\u00f1al de Sombra",
-        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        }
-      ],
-      "duration_ms": 213476,
-      "name": "Mano a Mano",
-      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Virginia Luque Interpreta a Disc\u00e9polo",
         "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/0GqkkGEdfWT7ah9pWWpygr"
-      },
-      "artists": [
-        {
-          "name": "Agustina Cirulnik",
-          "url": "https://open.spotify.com/artist/2osnonnqTrIhJQVWRZ4J7u"
-        }
-      ],
-      "duration_ms": 176879,
-      "name": "Baldosa floja",
-      "url": "https://open.spotify.com/track/3clM50Tz1GwVDXY3zqLaGl"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Tangos Famosos Cantados",
         "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 198693,
       "name": "Sur",
       "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/0GqkkGEdfWT7ah9pWWpygr"
+      },
+      "artists": [
+        {
+          "name": "Agustina Cirulnik",
+          "url": "https://open.spotify.com/artist/2osnonnqTrIhJQVWRZ4J7u"
+        }
+      ],
+      "duration_ms": 176879,
+      "name": "Baldosa floja",
+      "url": "https://open.spotify.com/track/3clM50Tz1GwVDXY3zqLaGl"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Esa Mujer: Buenos Aires",
+        "url": "https://open.spotify.com/album/7LCIu4GIUhomUsjUvgiGUF"
+      },
+      "artists": [
+        {
+          "name": "Marisa V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/3r4t0BUOYq2f098liUbtKR"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Madrugada y Soledad",
+      "url": "https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Plebeyas (Ellas, Yo y Superellas)",
         "url": "https://open.spotify.com/album/3PxWFYnFej0Uhb1DKCvkUI"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 132540,
       "name": "India de Tango",
       "url": "https://open.spotify.com/track/6Gw79GdafladbPqbXPW2A9"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Esa Mujer: Buenos Aires",
-        "url": "https://open.spotify.com/album/7LCIu4GIUhomUsjUvgiGUF"
-      },
-      "artists": [
-        {
-          "name": "Marisa V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/3r4t0BUOYq2f098liUbtKR"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Madrugada y Soledad",
-      "url": "https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Mujeres del Tango",
+        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
+      },
+      "artists": [
+        {
+          "name": "Las Del Abasto",
+          "url": "https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Quejas de Bandone\u00f3n",
+      "url": "https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Mi Buenos Aires Querido",
         "url": "https://open.spotify.com/album/5ToOxGt228WpFbX6TOyY3n"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 223255,
       "name": "Mi Buenos Aires Querido",
       "url": "https://open.spotify.com/track/7I81caW5uhQUdQUDHLDMj1"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Mujeres del Tango",
-        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
-      },
-      "artists": [
-        {
-          "name": "Las Del Abasto",
-          "url": "https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Quejas de Bandone\u00f3n",
-      "url": "https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ"
     }
   ],
   "unique_name": "Mujeres del Tango",

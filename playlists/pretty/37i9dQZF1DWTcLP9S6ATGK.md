@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover:  Calvin Jeremy, Rio Febrian
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,521 likes - 112 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,546 likes - 112 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,15 +1,15 @@
 {
   "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Trannos",
-  "num_followers": 285948,
+  "num_followers": 285945,
   "original_name": "Hot Hits Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVfUmAldlX9i5XfzCMAKT/KLvyT",
+  "snapshot_id": "AAAAAI6QyGn8mdc/oXK+lSZXrZdrNv06",
   "tracks": [
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
         "name": "WHY ALWAYS ME?",
         "url": "https://open.spotify.com/album/0hkVhoK0vtaJhRoxBQ6Xca"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/6AICejWzqrCsNSi6vBabb5"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
         "name": "DIO KARDIES",
         "url": "https://open.spotify.com/album/6IhmTZhE9F91ozgvQULr6Z"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6aWGBnKRmgH7pBpEhRMnPy"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
         "name": "Logariasmos",
         "url": "https://open.spotify.com/album/0Mesq5mYk1HClW7ecjungg"
@@ -73,23 +73,63 @@
       "url": "https://open.spotify.com/track/6qShG16XTy1emd18WVPZlh"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4PzGHLAWauBPBPfJx9ZAbk"
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/2a0hMD2XGea5eYLL7lOlYv"
       },
       "artists": [
         {
-          "name": "Manos",
-          "url": "https://open.spotify.com/artist/1f1rxFbyGZ77El3CNyxeV6"
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
         }
       ],
-      "duration_ms": 192486,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/7tRutCwvwteHMWaxtHUKsj"
+      "duration_ms": 156097,
+      "name": "TE QUIERO",
+      "url": "https://open.spotify.com/track/3vw2KhRx62NVY8cMPTLVsl"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "PES KAI THA RTHW",
+        "url": "https://open.spotify.com/album/2LArog9P5cIveHydpRkcHv"
+      },
+      "artists": [
+        {
+          "name": "\u03a7\u03c1\u03c5\u03c3\u03b7\u03af\u03b4\u03b1 \u0393\u03ba\u03b1\u03b3\u03ba\u03bf\u03cd\u03c4\u03b7",
+          "url": "https://open.spotify.com/artist/3xDWs10E9We9lyVOZoZY4J"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "PES KAI THA RTHW",
+      "url": "https://open.spotify.com/track/0K6yas608Uqs2odowPedYS"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
       "album": {
         "name": "Hey Shawty",
         "url": "https://open.spotify.com/album/183mB58gA6j6qUdoFBOHcC"
@@ -113,91 +153,7 @@
       "url": "https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/2a0hMD2XGea5eYLL7lOlYv"
-      },
-      "artists": [
-        {
-          "name": "Likeboss",
-          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
-        },
-        {
-          "name": "Echo",
-          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
-        }
-      ],
-      "duration_ms": 156097,
-      "name": "TE QUIERO",
-      "url": "https://open.spotify.com/track/3vw2KhRx62NVY8cMPTLVsl"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "Lete Lete",
-        "url": "https://open.spotify.com/album/0GAUs5okKyONukvSDhXSjS"
-      },
-      "artists": [
-        {
-          "name": "SNIK",
-          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
-        },
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
-          "name": "Fy",
-          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
-        }
-      ],
-      "duration_ms": 213120,
-      "name": "Lete Lete",
-      "url": "https://open.spotify.com/track/676OyMHIOfootgShTPbJgC"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "CAPO DEI CAPI (Deluxe)",
-        "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Destiny",
-          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
-        }
-      ],
-      "duration_ms": 157100,
-      "name": "RAMBO",
-      "url": "https://open.spotify.com/track/1FmrVwzwIBnd2DEcWL9XkW"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "Margarita",
-        "url": "https://open.spotify.com/album/5fcZGl6OLbQGTIoroV6PbZ"
-      },
-      "artists": [
-        {
-          "name": "Christos Mastoras",
-          "url": "https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu"
-        },
-        {
-          "name": "ARCADE",
-          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Margarita",
-      "url": "https://open.spotify.com/track/1n80QsVmclzh7ETsMO03FR"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
         "name": "CHOCO FRESH",
         "url": "https://open.spotify.com/album/0KiLceIAWD6fFxbU2c0BNv"
@@ -221,107 +177,67 @@
       "url": "https://open.spotify.com/track/7Ku2O5h0e3NH1qGcuZvGWT"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+        "name": "Gonzales",
+        "url": "https://open.spotify.com/album/73pvJNkXU5AeqOTQJPFup4"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
         },
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
         }
       ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+      "duration_ms": 160000,
+      "name": "Gonzales",
+      "url": "https://open.spotify.com/track/2ObmJkj2BemrXxrpH0yDmZ"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "GYALINOS KOSMOS",
-        "url": "https://open.spotify.com/album/6l9neRDoThD9loGS7iwBDJ"
+        "name": "CAPO DEI CAPI (Deluxe)",
+        "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
       },
       "artists": [
         {
-          "name": "XRS",
-          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
         },
         {
-          "name": "Night Grind",
-          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
-        },
-        {
-          "name": "RICTA",
-          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
         }
       ],
-      "duration_ms": 247058,
-      "name": "KATHE FORA POU TON HLIO PIANO",
-      "url": "https://open.spotify.com/track/42Nz6Td19soH4iG6objKdm"
+      "duration_ms": 157100,
+      "name": "RAMBO",
+      "url": "https://open.spotify.com/track/1FmrVwzwIBnd2DEcWL9XkW"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "Ntolia",
-        "url": "https://open.spotify.com/album/6cH39Zi7CawLCDlxRd8GFs"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4PzGHLAWauBPBPfJx9ZAbk"
       },
       "artists": [
         {
-          "name": "Roi 6/12",
-          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+          "name": "Manos",
+          "url": "https://open.spotify.com/artist/1f1rxFbyGZ77El3CNyxeV6"
         }
       ],
-      "duration_ms": 214736,
-      "name": "Ntolia",
-      "url": "https://open.spotify.com/track/74VIwjiUa111jjrDesaq5l"
+      "duration_ms": 192486,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7tRutCwvwteHMWaxtHUKsj"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "PALI",
-        "url": "https://open.spotify.com/album/3FDTzSFy37xMGR7VgYPRaa"
-      },
-      "artists": [
-        {
-          "name": "Kareem Kalokoh",
-          "url": "https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb"
-        }
-      ],
-      "duration_ms": 167251,
-      "name": "PALI",
-      "url": "https://open.spotify.com/track/48tcwflLj2v1mDsPQnjxN7"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "90th FLOOR",
-        "url": "https://open.spotify.com/album/37cgHuOdcftkybzls2h1Sq"
-      },
-      "artists": [
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        },
-        {
-          "name": "SNIK",
-          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
-        },
-        {
-          "name": "BLVD",
-          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
-        }
-      ],
-      "duration_ms": 155530,
-      "name": "90th FLOOR",
-      "url": "https://open.spotify.com/track/7wnD6XeAzdJXshrdTeuTis"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
         "name": "Tetrada",
         "url": "https://open.spotify.com/album/1QZfnnTwgXjkiny0LpiBeq"
@@ -345,27 +261,83 @@
       "url": "https://open.spotify.com/track/5SlXa2m9Tk4Iv0wqNmIrdV"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "CPR",
-        "url": "https://open.spotify.com/album/4fZZTVcjxiFfBxz3uXPRUL"
+        "name": "PALI",
+        "url": "https://open.spotify.com/album/3FDTzSFy37xMGR7VgYPRaa"
       },
       "artists": [
         {
-          "name": "YungKapa",
-          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+          "name": "Kareem Kalokoh",
+          "url": "https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb"
+        }
+      ],
+      "duration_ms": 167251,
+      "name": "PALI",
+      "url": "https://open.spotify.com/track/48tcwflLj2v1mDsPQnjxN7"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "90th FLOOR",
+        "url": "https://open.spotify.com/album/37cgHuOdcftkybzls2h1Sq"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
         },
         {
           "name": "BLVD",
           "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         }
       ],
-      "duration_ms": 164571,
-      "name": "CPR",
-      "url": "https://open.spotify.com/track/2nMUwsXvnKJBd1NB073nrp"
+      "duration_ms": 155530,
+      "name": "90th FLOOR",
+      "url": "https://open.spotify.com/track/7wnD6XeAzdJXshrdTeuTis"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "MONO ESY",
+        "url": "https://open.spotify.com/album/3gJ7HsKlhfaChj2TK86ZQM"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "MONO ESY",
+      "url": "https://open.spotify.com/track/23OOJ61oprS8Kcaj6WmUgJ"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "CAPO DEI CAPI (Deluxe)",
+        "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        }
+      ],
+      "duration_ms": 184966,
+      "name": "FIDIA",
+      "url": "https://open.spotify.com/track/0ZqNMrrAz4BgkUpF9iERib"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
       "album": {
         "name": "SUPERSTAR",
         "url": "https://open.spotify.com/album/0H0yH3OAMyV7ukvJu9iWLE"
@@ -385,103 +357,147 @@
       "url": "https://open.spotify.com/track/4oT1BiDu0b2P4dDWng62VB"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "KSANTHIA",
-        "url": "https://open.spotify.com/album/2rqnONdnq9qrYU3FPSHRZH"
+        "name": "Lete Lete",
+        "url": "https://open.spotify.com/album/0GAUs5okKyONukvSDhXSjS"
       },
       "artists": [
         {
-          "name": "orsalios",
-          "url": "https://open.spotify.com/artist/1UYMry4sG98L2NMlq8nPsb"
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
         },
         {
-          "name": "IKSANTHIA",
-          "url": "https://open.spotify.com/artist/39dcjIgLZArSqskYFXJMi4"
-        }
-      ],
-      "duration_ms": 112744,
-      "name": "KSANTHIA",
-      "url": "https://open.spotify.com/track/7xvPDojWymRUdPqQQsVEYC"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "3REE",
-        "url": "https://open.spotify.com/album/5Y4tdyHQsBDqjAqYUfUEBb"
-      },
-      "artists": [
-        {
-          "name": "Ivan Greko",
-          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
         },
         {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
         }
       ],
-      "duration_ms": 159428,
-      "name": "3REE",
-      "url": "https://open.spotify.com/track/014dwyKWiCUjInYCQQTXNG"
+      "duration_ms": 213120,
+      "name": "Lete Lete",
+      "url": "https://open.spotify.com/track/676OyMHIOfootgShTPbJgC"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "Alkoolikes I Nihtes",
-        "url": "https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4"
+        "name": "LV",
+        "url": "https://open.spotify.com/album/6v55MSxVFw4Rx1P6FPggSt"
       },
       "artists": [
         {
-          "name": "Pantelis Pantelidis",
-          "url": "https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3"
-        }
-      ],
-      "duration_ms": 184598,
-      "name": "Isos Isoun Kiria",
-      "url": "https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "BRO X3",
-        "url": "https://open.spotify.com/album/5IdbiH01dKi84gpquKXvA4"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
         },
         {
-          "name": "DAIMA",
-          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
-        },
-        {
-          "name": "Arab",
-          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
         }
       ],
-      "duration_ms": 202800,
-      "name": "BRO X3",
-      "url": "https://open.spotify.com/track/77VGUR3e39LMnXDbRTEmIB"
+      "duration_ms": 217942,
+      "name": "LV",
+      "url": "https://open.spotify.com/track/5iXO4PqcC4d8joAhMTM2De"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "MONO ESY",
-        "url": "https://open.spotify.com/album/3gJ7HsKlhfaChj2TK86ZQM"
+        "name": "INEBONUS",
+        "url": "https://open.spotify.com/album/7dgZbBtC1lPFYyTW0liY1R"
       },
       "artists": [
         {
-          "name": "YungKapa",
-          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
         }
       ],
-      "duration_ms": 150360,
-      "name": "MONO ESY",
-      "url": "https://open.spotify.com/track/23OOJ61oprS8Kcaj6WmUgJ"
+      "duration_ms": 159047,
+      "name": "INEBONUS",
+      "url": "https://open.spotify.com/track/0FKY8MHOsg7pY8pRP4M8ma"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "Eipes",
+        "url": "https://open.spotify.com/album/0MrlOOB8R7ACMmnTjlVEAB"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "duration_ms": 243936,
+      "name": "Eipes",
+      "url": "https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "GYALINOS KOSMOS",
+        "url": "https://open.spotify.com/album/6l9neRDoThD9loGS7iwBDJ"
+      },
+      "artists": [
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "duration_ms": 247058,
+      "name": "KATHE FORA POU TON HLIO PIANO",
+      "url": "https://open.spotify.com/track/42Nz6Td19soH4iG6objKdm"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "Margarita",
+        "url": "https://open.spotify.com/album/5fcZGl6OLbQGTIoroV6PbZ"
+      },
+      "artists": [
+        {
+          "name": "Christos Mastoras",
+          "url": "https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/1n80QsVmclzh7ETsMO03FR"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "Exigiste Mou",
+        "url": "https://open.spotify.com/album/5wZG3GidgJwTxeNFMIse8S"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 173308,
+      "name": "Exigiste Mou",
+      "url": "https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
       "album": {
         "name": "APOTIPOMATA",
         "url": "https://open.spotify.com/album/13fA1U9jizHnA17kxIOhtX"
@@ -505,39 +521,115 @@
       "url": "https://open.spotify.com/track/39rpODqvEPrixgNfsZtNVT"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "PES KAI THA RTHW",
-        "url": "https://open.spotify.com/album/2LArog9P5cIveHydpRkcHv"
+        "name": "3REE",
+        "url": "https://open.spotify.com/album/5Y4tdyHQsBDqjAqYUfUEBb"
       },
       "artists": [
         {
-          "name": "\u03a7\u03c1\u03c5\u03c3\u03b7\u03af\u03b4\u03b1 \u0393\u03ba\u03b1\u03b3\u03ba\u03bf\u03cd\u03c4\u03b7",
-          "url": "https://open.spotify.com/artist/3xDWs10E9We9lyVOZoZY4J"
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
         }
       ],
-      "duration_ms": 140733,
-      "name": "PES KAI THA RTHW",
-      "url": "https://open.spotify.com/track/0K6yas608Uqs2odowPedYS"
+      "duration_ms": 159428,
+      "name": "3REE",
+      "url": "https://open.spotify.com/track/014dwyKWiCUjInYCQQTXNG"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "Eipes",
-        "url": "https://open.spotify.com/album/0MrlOOB8R7ACMmnTjlVEAB"
+        "name": "COMERCIO",
+        "url": "https://open.spotify.com/album/4GnNeMtDe5LLSs0kYwZyXI"
       },
       "artists": [
         {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
         }
       ],
-      "duration_ms": 243936,
-      "name": "Eipes",
-      "url": "https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA"
+      "duration_ms": 140906,
+      "name": "TAKEOVER",
+      "url": "https://open.spotify.com/track/5yaBUyYf6ZRn3SngG0qyBu"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "HOME ALONE",
+        "url": "https://open.spotify.com/album/6d59OazyuQRkHOzjWNukCa"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/659T8eNSfEb4bPBKiTn4ww"
+        }
+      ],
+      "duration_ms": 155422,
+      "name": "K9",
+      "url": "https://open.spotify.com/track/3E65jZP7aoEUhyKrKFEdHi"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "KSANTHIA",
+        "url": "https://open.spotify.com/album/2rqnONdnq9qrYU3FPSHRZH"
+      },
+      "artists": [
+        {
+          "name": "orsalios",
+          "url": "https://open.spotify.com/artist/1UYMry4sG98L2NMlq8nPsb"
+        },
+        {
+          "name": "IKSANTHIA",
+          "url": "https://open.spotify.com/artist/39dcjIgLZArSqskYFXJMi4"
+        }
+      ],
+      "duration_ms": 112744,
+      "name": "KSANTHIA",
+      "url": "https://open.spotify.com/track/7xvPDojWymRUdPqQQsVEYC"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "CPR",
+        "url": "https://open.spotify.com/album/4fZZTVcjxiFfBxz3uXPRUL"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "CPR",
+      "url": "https://open.spotify.com/track/2nMUwsXvnKJBd1NB073nrp"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
       "album": {
         "name": "HOME ALONE",
         "url": "https://open.spotify.com/album/6d59OazyuQRkHOzjWNukCa"
@@ -565,75 +657,43 @@
       "url": "https://open.spotify.com/track/11dvIukD3Xmk1WbDuisL82"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "BABA",
-        "url": "https://open.spotify.com/album/5xf1dRIxVDVBeFIJfSj2fu"
+        "name": "Anadysi",
+        "url": "https://open.spotify.com/album/4WMjUCjgNJx3JuumWbkiLI"
       },
       "artists": [
         {
-          "name": "Dirty Harry",
-          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
+          "name": "Anser",
+          "url": "https://open.spotify.com/artist/3peCLl6eMLh8lJyRUt4jc8"
         },
         {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
-          "name": "Tr4cer",
-          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+          "name": "Eversor",
+          "url": "https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX"
         }
       ],
-      "duration_ms": 144000,
-      "name": "BABA",
-      "url": "https://open.spotify.com/track/1UXaMpCNb3fCNVShUeILSC"
+      "duration_ms": 178500,
+      "name": "Mia Kiriaki Vrocheri",
+      "url": "https://open.spotify.com/track/01e243XEQnw8yL6s0JtjmU"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "Prezi",
-        "url": "https://open.spotify.com/album/25W0wFI9LqcziSkZob1Smn"
+        "name": "Ntolia",
+        "url": "https://open.spotify.com/album/6cH39Zi7CawLCDlxRd8GFs"
       },
       "artists": [
         {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        },
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        },
-        {
-          "name": "Mike G",
-          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
         }
       ],
-      "duration_ms": 169811,
-      "name": "Prezi",
-      "url": "https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd"
+      "duration_ms": 214736,
+      "name": "Ntolia",
+      "url": "https://open.spotify.com/track/74VIwjiUa111jjrDesaq5l"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "CAPO DEI CAPI (Deluxe)",
-        "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Mad Clip",
-          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
-        }
-      ],
-      "duration_ms": 184966,
-      "name": "FIDIA",
-      "url": "https://open.spotify.com/track/0ZqNMrrAz4BgkUpF9iERib"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
         "name": "Non Stop",
         "url": "https://open.spotify.com/album/3oMrx0MbZAI3J7zF2DxqlL"
@@ -657,27 +717,27 @@
       "url": "https://open.spotify.com/track/2yy5z25y213U4NiSrCs0tW"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "OLA GYRNANE",
-        "url": "https://open.spotify.com/album/0q6aT0ze14Va7UuTDSI82I"
+        "name": "PANW MOU",
+        "url": "https://open.spotify.com/album/51JcjN99mn92eLhTwcVdcq"
       },
       "artists": [
         {
-          "name": "Strat",
-          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
         },
         {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         }
       ],
-      "duration_ms": 167538,
-      "name": "OLA GYRNANE",
-      "url": "https://open.spotify.com/track/5BVgJNCCdehaMG51MC7xme"
+      "duration_ms": 118548,
+      "name": "PANW MOU",
+      "url": "https://open.spotify.com/track/4Qa689Cg9mB9iaO9PT5cIO"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
         "name": "ICE C.R.E.A.M.",
         "url": "https://open.spotify.com/album/2kdQSVWNpmSFk1y4g2DQDl"
@@ -697,7 +757,199 @@
       "url": "https://open.spotify.com/track/24lFkOGD335Gqix1VDFHYH"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "GHOSTBUSTERS",
+        "url": "https://open.spotify.com/album/4iDMzmEMKz6eM2Y4UfC3k3"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "duration_ms": 162233,
+      "name": "GHOSTBUSTERS",
+      "url": "https://open.spotify.com/track/4Z3ey55mT83QaU0wGXJ9OJ"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "OLA GYRNANE",
+        "url": "https://open.spotify.com/album/0q6aT0ze14Va7UuTDSI82I"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "duration_ms": 167538,
+      "name": "OLA GYRNANE",
+      "url": "https://open.spotify.com/track/5BVgJNCCdehaMG51MC7xme"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "Alleluia",
+        "url": "https://open.spotify.com/album/7oE6M8hUkUlze17Ygx4eA5"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        }
+      ],
+      "duration_ms": 228387,
+      "name": "Alleluia",
+      "url": "https://open.spotify.com/track/0qToKOjoIshAsxGuSJ7DhY"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "EGEFALIKO",
+        "url": "https://open.spotify.com/album/2P8Wse74JI6ohaxhKdaKcp"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "EGEFALIKO",
+      "url": "https://open.spotify.com/track/6jhNVmFLWD5LPGrpLfCw67"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "G.T.K.",
+        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 218647,
+      "name": "Xeiroteri Genia",
+      "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "Prezi",
+        "url": "https://open.spotify.com/album/25W0wFI9LqcziSkZob1Smn"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Prezi",
+      "url": "https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "Alkoolikes I Nihtes",
+        "url": "https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4"
+      },
+      "artists": [
+        {
+          "name": "Pantelis Pantelidis",
+          "url": "https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3"
+        }
+      ],
+      "duration_ms": 184598,
+      "name": "Isos Isoun Kiria",
+      "url": "https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
+        "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 305263,
+      "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
+      "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "PEP TALK",
+        "url": "https://open.spotify.com/album/2O45RCak2BNFtEi402p0RC"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        }
+      ],
+      "duration_ms": 244363,
+      "name": "PEP TALK",
+      "url": "https://open.spotify.com/track/7d0gRGbTVISrcNNazqcpxZ"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "SOSA",
+        "url": "https://open.spotify.com/album/6810zgdbl1djlk13WXQOFx"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "duration_ms": 168428,
+      "name": "SOSA",
+      "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
       "album": {
         "name": "PARADISO",
         "url": "https://open.spotify.com/album/0K9I0a6MdMq7wvJUWfOY5B"
@@ -729,47 +981,47 @@
       "url": "https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
       "album": {
-        "name": "GHOSTBUSTERS",
-        "url": "https://open.spotify.com/album/4iDMzmEMKz6eM2Y4UfC3k3"
+        "name": "BABA",
+        "url": "https://open.spotify.com/album/5xf1dRIxVDVBeFIJfSj2fu"
       },
       "artists": [
         {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
         },
         {
-          "name": "Noizy",
-          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
-        }
-      ],
-      "duration_ms": 162233,
-      "name": "GHOSTBUSTERS",
-      "url": "https://open.spotify.com/track/4Z3ey55mT83QaU0wGXJ9OJ"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "INEBONUS",
-        "url": "https://open.spotify.com/album/7dgZbBtC1lPFYyTW0liY1R"
-      },
-      "artists": [
-        {
-          "name": "HermesHermes",
-          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
         },
         {
           "name": "Tr4cer",
           "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
         }
       ],
-      "duration_ms": 159047,
-      "name": "INEBONUS",
-      "url": "https://open.spotify.com/track/0FKY8MHOsg7pY8pRP4M8ma"
+      "duration_ms": 144000,
+      "name": "BABA",
+      "url": "https://open.spotify.com/track/1UXaMpCNb3fCNVShUeILSC"
     },
     {
-      "added_at": "2026-01-29 22:00:46",
+      "added_at": "2026-02-02 14:42:22",
+      "album": {
+        "name": "BAD BOY 3",
+        "url": "https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "MANDELA EFFECT",
+      "url": "https://open.spotify.com/track/00Kgg0HjZyeIDTWGWHw3kp"
+    },
+    {
+      "added_at": "2026-02-02 14:42:22",
       "album": {
         "name": "XWRA TOU POTE",
         "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
@@ -787,258 +1039,6 @@
       "duration_ms": 154705,
       "name": "KOUKLA",
       "url": "https://open.spotify.com/track/2OtlJi8vzajxp51W9gYwCO"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "PANW MOU",
-        "url": "https://open.spotify.com/album/51JcjN99mn92eLhTwcVdcq"
-      },
-      "artists": [
-        {
-          "name": "Donn",
-          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
-        },
-        {
-          "name": "BLVD",
-          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
-        }
-      ],
-      "duration_ms": 118548,
-      "name": "PANW MOU",
-      "url": "https://open.spotify.com/track/4Qa689Cg9mB9iaO9PT5cIO"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "COMERCIO",
-        "url": "https://open.spotify.com/album/4GnNeMtDe5LLSs0kYwZyXI"
-      },
-      "artists": [
-        {
-          "name": "SKEZ",
-          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
-        },
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
-          "name": "Stanley",
-          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
-        }
-      ],
-      "duration_ms": 140906,
-      "name": "TAKEOVER",
-      "url": "https://open.spotify.com/track/5yaBUyYf6ZRn3SngG0qyBu"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "HOME ALONE",
-        "url": "https://open.spotify.com/album/6d59OazyuQRkHOzjWNukCa"
-      },
-      "artists": [
-        {
-          "name": "Ivan Greko",
-          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
-        },
-        {
-          "name": "HermesHermes",
-          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
-        },
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/659T8eNSfEb4bPBKiTn4ww"
-        }
-      ],
-      "duration_ms": 155422,
-      "name": "K9",
-      "url": "https://open.spotify.com/track/3E65jZP7aoEUhyKrKFEdHi"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "Alleluia",
-        "url": "https://open.spotify.com/album/7oE6M8hUkUlze17Ygx4eA5"
-      },
-      "artists": [
-        {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        },
-        {
-          "name": "ARCADE",
-          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
-        }
-      ],
-      "duration_ms": 228387,
-      "name": "Alleluia",
-      "url": "https://open.spotify.com/track/0qToKOjoIshAsxGuSJ7DhY"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "PEP TALK",
-        "url": "https://open.spotify.com/album/2O45RCak2BNFtEi402p0RC"
-      },
-      "artists": [
-        {
-          "name": "Immune",
-          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
-        },
-        {
-          "name": "Night Grind",
-          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
-        }
-      ],
-      "duration_ms": 244363,
-      "name": "PEP TALK",
-      "url": "https://open.spotify.com/track/7d0gRGbTVISrcNNazqcpxZ"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "KAKO",
-        "url": "https://open.spotify.com/album/6BKBBxMICtMDMsER47ZjXe"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        },
-        {
-          "name": "ObieDaz",
-          "url": "https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "KAKO",
-      "url": "https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "5 AM",
-        "url": "https://open.spotify.com/album/18LPhQUpQbp4QkoX27LyfZ"
-      },
-      "artists": [
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        }
-      ],
-      "duration_ms": 195345,
-      "name": "5 AM",
-      "url": "https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "Fthina Tricks 3",
-        "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
-      },
-      "artists": [
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        },
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Aeroplana",
-      "url": "https://open.spotify.com/track/3lS1r65AbkPdljhDrRQEyV"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "SOSA",
-        "url": "https://open.spotify.com/album/6810zgdbl1djlk13WXQOFx"
-      },
-      "artists": [
-        {
-          "name": "SNIK",
-          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
-        }
-      ],
-      "duration_ms": 168428,
-      "name": "SOSA",
-      "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "G.T.K.",
-        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
-        },
-        {
-          "name": "Dof Twogee",
-          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
-        }
-      ],
-      "duration_ms": 218647,
-      "name": "Xeiroteri Genia",
-      "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
-        "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
-      },
-      "artists": [
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 305263,
-      "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
-      "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "BAD BOY 3",
-        "url": "https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "MANDELA EFFECT",
-      "url": "https://open.spotify.com/track/00Kgg0HjZyeIDTWGWHw3kp"
-    },
-    {
-      "added_at": "2026-01-29 22:00:46",
-      "album": {
-        "name": "EGEFALIKO",
-        "url": "https://open.spotify.com/album/2P8Wse74JI6ohaxhKdaKcp"
-      },
-      "artists": [
-        {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        },
-        {
-          "name": "BLVD",
-          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "EGEFALIKO",
-      "url": "https://open.spotify.com/track/6jhNVmFLWD5LPGrpLfCw67"
     }
   ],
   "unique_name": "Hot Hits Greece",

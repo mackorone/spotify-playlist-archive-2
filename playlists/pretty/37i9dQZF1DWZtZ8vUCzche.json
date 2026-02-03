@@ -1,6 +1,6 @@
 {
   "description": "Put your speakers to the test with this eclectic collection of legendary tracks.",
-  "num_followers": 1526198,
+  "num_followers": 1526558,
   "original_name": "Songs to Test Speakers With",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 440466,
-      "name": "No Ordinary Love",
-      "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
         "name": "Dance, No One's Watching",
         "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 262306,
       "name": "No One's Watching Me (feat. Olivia Dean)",
       "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 440466,
+      "name": "No Ordinary Love",
+      "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 357041,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
         "name": "Mezzanine",
         "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 330773,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 357041,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 269813,
-      "name": "The Chain - 2004 Remaster",
-      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
         "name": "What Kinda Music",
         "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 249427,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/4Goj7amQLl2PiPYaiB0VlV"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 269813,
+      "name": "The Chain - 2004 Remaster",
+      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 551786,
+      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+      "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
         "name": "A Real Hero EP",
         "url": "https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 267859,
       "name": "A Real Hero",
       "url": "https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
-        "name": "Couldn't Stand The Weather (Legacy Edition)",
-        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 551786,
-      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
-      "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
+        "name": "Ten New Songs",
+        "url": "https://open.spotify.com/album/0AMbk6F6ZJ57OqlpB214gV"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 295171,
+      "name": "In My Secret Life",
+      "url": "https://open.spotify.com/track/31TADh49q4s4jm6lGDeIrd"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
         "name": "Dare!",
         "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 252255,
       "name": "Two Thousand and Seventeen",
       "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
-        "name": "Ten New Songs",
-        "url": "https://open.spotify.com/album/0AMbk6F6ZJ57OqlpB214gV"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 295171,
-      "name": "In My Secret Life",
-      "url": "https://open.spotify.com/track/31TADh49q4s4jm6lGDeIrd"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/2FpXNwmewH9F2bytZMevuS"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 324680,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/1hVXZoSAkZ3P5Lp6fKOcgx"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
         "name": "The Road To Hell Is Paved With Good Intentions",
         "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 174579,
       "name": "Turn Me Inside",
       "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/2FpXNwmewH9F2bytZMevuS"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 324680,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/1hVXZoSAkZ3P5Lp6fKOcgx"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Colma",
-        "url": "https://open.spotify.com/album/0LBQdWnuV0CAXyPIngb0UX"
-      },
-      "artists": [
-        {
-          "name": "Buckethead",
-          "url": "https://open.spotify.com/artist/0fDF0jjmdouCIeWhNnblwV"
-        }
-      ],
-      "duration_ms": 73253,
-      "name": "Big Sur Moon",
-      "url": "https://open.spotify.com/track/3F7Z3u2gMiTFff8UoUSaFw"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
         "name": "Sea Change",
         "url": "https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 337640,
       "name": "Lonesome Tears",
       "url": "https://open.spotify.com/track/67mU5cleylyJ0QBP0hlmuG"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
+        "name": "Colma",
+        "url": "https://open.spotify.com/album/0LBQdWnuV0CAXyPIngb0UX"
+      },
+      "artists": [
+        {
+          "name": "Buckethead",
+          "url": "https://open.spotify.com/artist/0fDF0jjmdouCIeWhNnblwV"
+        }
+      ],
+      "duration_ms": 73253,
+      "name": "Big Sur Moon",
+      "url": "https://open.spotify.com/track/3F7Z3u2gMiTFff8UoUSaFw"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Untrue",
-        "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq"
+        "name": "Rickie Lee Jones",
+        "url": "https://open.spotify.com/album/6IzMnrSzyRykaltIvnlNuk"
       },
       "artists": [
         {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
         }
       ],
-      "duration_ms": 240426,
-      "name": "Archangel",
-      "url": "https://open.spotify.com/track/6evpAJCR5GeeHDGgv3aXb3"
+      "duration_ms": 199240,
+      "name": "Easy Money",
+      "url": "https://open.spotify.com/track/0bd8pwa4ckVgfktLHx9AWw"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Rickie Lee Jones",
-        "url": "https://open.spotify.com/album/6IzMnrSzyRykaltIvnlNuk"
+        "name": "Untrue",
+        "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq"
       },
       "artists": [
         {
-          "name": "Rickie Lee Jones",
-          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
         }
       ],
-      "duration_ms": 199240,
-      "name": "Easy Money",
-      "url": "https://open.spotify.com/track/0bd8pwa4ckVgfktLHx9AWw"
+      "duration_ms": 240426,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/6evpAJCR5GeeHDGgv3aXb3"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -2747,22 +2747,6 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Sailing To Philadelphia",
-        "url": "https://open.spotify.com/album/7oIBSEe5L89s2UXK0I8tYg"
-      },
-      "artists": [
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Speedway At Nazareth",
-      "url": "https://open.spotify.com/track/59w9KJpA4DKvTyuxmTGIIP"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/6nNz4MJrANqjJrUCVJ9Nfs"
       },
@@ -2775,6 +2759,22 @@
       "duration_ms": 1018773,
       "name": "Music for Mallet Instruments, Voices and Organ",
       "url": "https://open.spotify.com/track/4lxunSFYkcTdsbxwg2Vpzx"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
+        "name": "Sailing To Philadelphia",
+        "url": "https://open.spotify.com/album/7oIBSEe5L89s2UXK0I8tYg"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Speedway At Nazareth",
+      "url": "https://open.spotify.com/track/59w9KJpA4DKvTyuxmTGIIP"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -3259,6 +3259,38 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
+        "name": "Psychic",
+        "url": "https://open.spotify.com/album/7jqNrm1l4wSxNYSjgK7tmF"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 289840,
+      "name": "Paper Trails",
+      "url": "https://open.spotify.com/track/6rqONVHOT73QecUdJ5HVHy"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 480466,
+      "name": "Aja",
+      "url": "https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
         "name": "SOAR",
         "url": "https://open.spotify.com/album/4EYDGs1XVGoNaL9vSA246G"
       },
@@ -3311,22 +3343,6 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Psychic",
-        "url": "https://open.spotify.com/album/7jqNrm1l4wSxNYSjgK7tmF"
-      },
-      "artists": [
-        {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
-        }
-      ],
-      "duration_ms": 289840,
-      "name": "Paper Trails",
-      "url": "https://open.spotify.com/track/6rqONVHOT73QecUdJ5HVHy"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
         "name": "Grace (Legacy Edition)",
         "url": "https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD"
       },
@@ -3371,22 +3387,6 @@
       "duration_ms": 270960,
       "name": "The Rip",
       "url": "https://open.spotify.com/track/4kOy7M6eT5kYJCZxh0c6Lh"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
-        "name": "The Fragile",
-        "url": "https://open.spotify.com/album/2aGSUmPQtxxPqr07llIBIU"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Into The Void",
-      "url": "https://open.spotify.com/track/3w1x8BZ8zkDqt5pt3IWuEx"
     }
   ],
   "unique_name": "Songs to Test Speakers With",

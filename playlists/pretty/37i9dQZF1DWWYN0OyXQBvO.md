@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYN0OyXQBvO.md) - [plain]
 
 > The world deserves a better ending\. Listen to the music from Fallout, the hit video game and epic Prime Video series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,407 likes - 112 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,341 likes - 112 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYN0OyXQBvO.md) - [plain]
 | 12 | [Piano Nellie](https://open.spotify.com/track/6AxYigFmdDadTXUB8GmFYU) | [Bobby Brant](https://open.spotify.com/artist/3MyFGeY1UDCJSVdrWdznSh) | [Piano Nellie](https://open.spotify.com/album/2eD826mFXxPJAaGzzIvb8Z) | 2:12 |
 | 13 | [Uranium Fever](https://open.spotify.com/track/7IPzEPRs8Y3j0hieZ4wdYf) | [Elton Britt](https://open.spotify.com/artist/0KpEAwp8zARUw37m0Jtdei) | [Presenting Elton Britt](https://open.spotify.com/album/016arGrAjGeta09FWpXwsl) | 2:19 |
 | 14 | [Draggin' The River](https://open.spotify.com/track/0Ym2azWtRJhCWozdKc0d9t) | [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Vintage Collections](https://open.spotify.com/album/2S9czi8B6ThrmMyQTFMu65) | 2:08 |
-| 15 | [Luther Played The Boogie](https://open.spotify.com/track/1cUa62abt2K3etEavbcENS) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Get Rhythm](https://open.spotify.com/album/5TtGDs4EhglpdicnsfwwJr) | 2:05 |
+| 15 | [Luther Played the Boogie](https://open.spotify.com/track/3zd1jUS9StV2HTHWeJmiMC) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:01 |
 | 16 | [Rags to Riches](https://open.spotify.com/track/4BH8EuPAxeFAh1rSWtnGdD) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Columbia Singles, Vol\. 2](https://open.spotify.com/album/69MC1P86JXGPPfRDOgicPO) | 2:48 |
 | 17 | [Luck Be a Lady](https://open.spotify.com/track/0UQY7yCbW4aQYkDUthm5N6) | [Robert Alda](https://open.spotify.com/artist/5FRlk5T88RH7OJEKBnI8Ca) | [Broadway, New York City](https://open.spotify.com/album/11pVxdPHrYqJqHGT3xYlZO) | 3:01 |
 | 18 | [You Always Hurt The One You Love](https://open.spotify.com/track/42og107RMzQPsQUIJBSUbD) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Anthology: 1931 \- 1968](https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo) | 3:09 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYN0OyXQBvO.md) - [plain]
 | 111 | [Good Rockin Tonight](https://open.spotify.com/track/08PeZeBDU73vHT23bkeydm) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Good Rockin Tonight](https://open.spotify.com/album/62jk2SPFLwhsFOdsUwPzMT) | 3:36 |
 | 112 | [They're Hanging Me Tonight](https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:04 |
 
-Snapshot ID: `AAAAAGTn5GqjTzsFxfF/U7dB2vVxBAoP`
+Snapshot ID: `AAAAAAuiwCtWHdmzckOi9HYbjI0OdeY4`

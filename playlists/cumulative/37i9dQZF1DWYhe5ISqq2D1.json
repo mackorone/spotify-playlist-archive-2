@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "BIG BUG BEAR",
+        "url": "https://open.spotify.com/album/7jorTd8yPqVUjLzJbtuv51"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Quartus",
+          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226530,
+      "name": "BIG BUG BEAR",
+      "url": "https://open.spotify.com/track/7fw70aWMuI2zr9EukkGmuF"
+    },
+    {
+      "album": {
         "name": "BILLIE",
         "url": "https://open.spotify.com/album/55JLbSgp21qzXwKlulo1Rc"
       },
@@ -13722,7 +13740,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 185106,
       "name": "\u30d6\u30e9\u30f3\u30b3",
       "url": "https://open.spotify.com/track/4vMf6s0oq35fE7rRiniFZL"

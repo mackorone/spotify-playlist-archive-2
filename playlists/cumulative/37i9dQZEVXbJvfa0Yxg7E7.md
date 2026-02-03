@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,511 songs - 5 day 11 hr 15 min
+2,513 songs - 5 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,7 +642,7 @@
 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 | 2023-05-15 | 2023-05-19 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-05-11 | 2024-06-02 |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2024-03-11 | 2024-09-18 |
-| [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2025-12-30 |  |
+| [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2025-12-30 | 2026-02-03 |
 | [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 | 2021-06-13 | 2021-06-20 |
 | [Evig kvile](https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Evig kvile](https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq) | 3:09 | 2023-01-03 | 2023-01-17 |
 | [evig og alltid \(med Emma Steinbakken\)](https://open.spotify.com/track/7BUb5sLSVC8xIE54NN8Vx1) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [tanker blir ting](https://open.spotify.com/album/5YPHiDi5V5r4a8QVK8nCVX) | 3:04 | 2023-05-13 | 2023-06-10 |
@@ -943,6 +943,7 @@
 | [Himmelen Og Helvete](https://open.spotify.com/track/2xV8E6JUiSTAgrFra3b762) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Enten Går Det Bra...](https://open.spotify.com/album/3hWNz4z3mOcjj3JMbNFNRx) | 2:52 | 2022-02-26 | 2022-03-13 |
 | [himmelen åpner seg](https://open.spotify.com/track/4s6y1u7yyfN1V8KCeAbSq0) | [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [det er mindre ensomt alene](https://open.spotify.com/album/78pLqJwUxMeqtkwwItADPX) | 2:32 | 2024-04-08 | 2024-04-10 |
 | [History](https://open.spotify.com/track/4xX4zOMh1krABkrzuOyF2u) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [History](https://open.spotify.com/album/2XOLERtBwcmk76QKo44ojz) | 2:44 | 2021-05-09 | 2021-05-10 |
+| [Hjemme](https://open.spotify.com/track/30gpIXZVjVWgWUf5pSpu2Y) | [Espen Lind](https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hjemme](https://open.spotify.com/album/5uFNTjy4lyCAxJ7hnVOT1S) | 3:59 | 2026-02-02 |  |
 | [Hjemme](https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Hjemme](https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr) | 3:56 | 2025-06-28 | 2025-07-07 |
 | [Hjemme for meg](https://open.spotify.com/track/7JTcRjQ2dXXuCWCBWQdrvF) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Hjemme for meg](https://open.spotify.com/album/719up99DviL8hUvJIUNbxk) | 2:22 | 2023-11-11 | 2023-12-31 |
 | [HJEMMESLAY](https://open.spotify.com/track/1E4KY1yKSCnYpAguixncQZ) | [EIGHT](https://open.spotify.com/artist/189SU7GvkTPNe95eyblBpz), [PHUNK](https://open.spotify.com/artist/6lwGFUhh49s5W0amMSTPqW) | [HJEMMESLAY](https://open.spotify.com/album/7LSibvrLepHxzCLmid9N6U) | 3:26 | 2024-01-05 | 2024-01-14 |
@@ -1400,6 +1401,7 @@
 | [Lux Æterna](https://open.spotify.com/track/0QfZ8OHFnFzLe66iFBww2U) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/4nQohOCgjIAlnRmqUVYaSv) | 3:25 | 2022-11-30 | 2022-12-02 |
 | [LYDEN AV BYEN](https://open.spotify.com/track/7LdJjrjfic5eH0lrOqZMoP) | [Rakkere](https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25) | [LYDEN AV BYEN](https://open.spotify.com/album/3Vf1LvrYnFhn9RnvJWIXzA) | 2:26 | 2025-10-18 | 2025-10-20 |
 | [Lykke te](https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Lykke te](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) | 2:44 | 2022-05-28 | 2022-08-09 |
+| [Lykke til pappa](https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Lykke til pappa](https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU) | 2:39 | 2026-02-02 |  |
 | [Lykkelig uten meg](https://open.spotify.com/track/3w03UCzYa9dsykfl0Ag3Jh) | [Sebastian Zalo](https://open.spotify.com/artist/5CGn9wJhdFhjB3DoU7LHX0) | [Lykkelig uten meg](https://open.spotify.com/album/2GSgIdppEVCoIGLs5YBA3q) | 3:30 | 2022-05-07 | 2022-05-22 |
 | [Lys Levende](https://open.spotify.com/track/1mTnJlYhJn44ZjcfMYHdQb) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Blueprint](https://open.spotify.com/album/4UaZUfKJmUsKLzX1Jiy4Kv) | 2:52 | 2025-10-11 | 2025-11-04 |
 | [Løsningsorienterte](https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Løsningsorienterte](https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf) | 2:53 | 2023-11-17 | 2023-11-26 |
@@ -2093,7 +2095,7 @@
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-26 |
 | [Strawberry Dream](https://open.spotify.com/track/42xfKgPqHliD8NU1RoixWu) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Strawberry Dream](https://open.spotify.com/album/3UOjrlS5jSsp8ioDi29J5v) | 3:11 | 2024-04-13 | 2024-04-19 |
 | [Strawberry Dream](https://open.spotify.com/track/4IvZvCRIZ38fFL5kAPjeOB) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Strawberry Dream](https://open.spotify.com/album/7CQX6aejSNeztkuDRmkRhV) | 3:11 | 2024-04-18 | 2024-04-21 |
-| [Streets of Minneapolis](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:35 | 2026-01-30 |  |
+| [Streets of Minneapolis](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:35 | 2026-01-30 | 2026-02-03 |
 | [Strongest](https://open.spotify.com/track/7nW7RLKOCwcVVCbmc1LQ54) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Strongest](https://open.spotify.com/album/62DTmx7xvlkFEMvVfVtlzT) | 2:52 | 2025-01-06 | 2025-01-12 |
 | [STUDIO 23](https://open.spotify.com/track/1dBfRwPwKEqyKuC6lBQcRz) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [The Pøssy Project](https://open.spotify.com/artist/6L3XsdwSNcPAPxHq9KuyxT) | [STUDIO 23](https://open.spotify.com/album/6F6f044sDb1z92mzFIKBOI) | 2:30 | 2023-04-22 | 2023-05-21 |
 | [Style \(Taylor's Version\)](https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-11-02 |

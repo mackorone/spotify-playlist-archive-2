@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,816 likes - 181 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,807 likes - 181 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [WE DEM BOYS](https://open.spotify.com/track/1upwt8H6j9YG5rX3GN5XtJ) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [WE DEM BOYS](https://open.spotify.com/album/7BmmTrU0UjPwEMHRKv35jm) | 2:12 |
+| 1 | [GiFT](https://open.spotify.com/track/7DnZAX8jPQvphSdoJUJqd9) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [GiFT](https://open.spotify.com/album/6ORHR8FKQUs3Bfi0LzB4C5) | 2:56 |
 | 2 | [Veta](https://open.spotify.com/track/3eNMd72YbZu21cVPsiWFPd) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Mellan Graven & Grammis](https://open.spotify.com/album/3qA9Zr5EmAReL1jisHo3u2) | 2:44 |
-| 3 | [GiFT](https://open.spotify.com/track/7DnZAX8jPQvphSdoJUJqd9) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [GiFT](https://open.spotify.com/album/6ORHR8FKQUs3Bfi0LzB4C5) | 2:56 |
+| 3 | [WE DEM BOYS](https://open.spotify.com/track/1upwt8H6j9YG5rX3GN5XtJ) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [WE DEM BOYS](https://open.spotify.com/album/7BmmTrU0UjPwEMHRKv35jm) | 2:12 |
 | 4 | [GOODFELLAS](https://open.spotify.com/track/11FGk5KemhNamjhtpZ5DK3) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [GOODFELLAS](https://open.spotify.com/album/1PYDc9NA5d7ZSHOsPlCvCk) | 2:31 |
-| 5 | [Min](https://open.spotify.com/track/4hWN8ltynwP6Vt6GpuAa4d) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Min](https://open.spotify.com/album/7BRLovL0UUeRCG5v3vrXSx) | 2:27 |
-| 6 | [Annan Galax](https://open.spotify.com/track/1Ww5ki6FR0Ym3edCsfaKhy) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Annan Galax](https://open.spotify.com/album/7ET0GMBEhmYYdNrzXz0u1z) | 2:35 |
+| 5 | [Annan Galax](https://open.spotify.com/track/1Ww5ki6FR0Ym3edCsfaKhy) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Annan Galax](https://open.spotify.com/album/7ET0GMBEhmYYdNrzXz0u1z) | 2:35 |
+| 6 | [Min](https://open.spotify.com/track/4hWN8ltynwP6Vt6GpuAa4d) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Min](https://open.spotify.com/album/7BRLovL0UUeRCG5v3vrXSx) | 2:27 |
 | 7 | [Kalla Sidan](https://open.spotify.com/track/6uX1f6PP0g4GXA4Ic0jPal) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Kalla Sidan](https://open.spotify.com/album/3YQnSJqOXH9RFu3JbrVPkm) | 2:25 |
 | 8 | [NICHOLAS CAGE](https://open.spotify.com/track/7EvAo4mAZkA3WP5fIcYmEI) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Under Tiden 4](https://open.spotify.com/album/2oLX3MCSlBWGWpPyuoMxFG) | 2:52 |
-| 9 | [Bad gyals & Bacardi](https://open.spotify.com/track/76vihN1O8ukirH94sX0lwS) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Bad gyals & Bacardi](https://open.spotify.com/album/6VcBGrQACj7a9GXhWzp6Fj) | 2:10 |
-| 10 | [Omerta](https://open.spotify.com/track/4Etlo3kxRw41oMpQb0Q02a) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Omerta](https://open.spotify.com/album/6x5hOSvftVUcCHEOxrOkY8) | 2:42 |
-| 11 | [P.T.H](https://open.spotify.com/track/4N8XCwUZOhXnc4HBNimPFQ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Guld Utav Sand 2](https://open.spotify.com/album/2BNPX89yccIcZBuClfeYZz) | 2:31 |
+| 9 | [Omerta](https://open.spotify.com/track/4Etlo3kxRw41oMpQb0Q02a) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Omerta](https://open.spotify.com/album/6x5hOSvftVUcCHEOxrOkY8) | 2:42 |
+| 10 | [P.T.H](https://open.spotify.com/track/4N8XCwUZOhXnc4HBNimPFQ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Guld Utav Sand 2](https://open.spotify.com/album/2BNPX89yccIcZBuClfeYZz) | 2:31 |
+| 11 | [Djungeln](https://open.spotify.com/track/3zbchvO0xHJrNT45yWsfqG) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [Djungeln](https://open.spotify.com/album/0okoUDQ07EGZ6u3MZfWSUZ) | 2:26 |
 | 12 | [Mercedes](https://open.spotify.com/track/2ujnWvQCnK2ePZIBqsJTSZ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mercedes](https://open.spotify.com/album/18BVEUTH9Efxkx8qdOlsly) | 2:14 |
-| 13 | [Aurora](https://open.spotify.com/track/6NGAEcYdCO14uH4oVDZgrE) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [Aurora](https://open.spotify.com/album/3hXDGCWq9Pb6FurIzJmx50) | 2:01 |
-| 14 | [TERAPI](https://open.spotify.com/track/69GARmi1BM4FCccBEmlqJk) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [TERAPI](https://open.spotify.com/album/5ZI7gjZgkvidiOAj5AOzNj) | 2:38 |
-| 15 | [Djungeln](https://open.spotify.com/track/3zbchvO0xHJrNT45yWsfqG) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [Djungeln](https://open.spotify.com/album/0okoUDQ07EGZ6u3MZfWSUZ) | 2:26 |
-| 16 | [Hem \(Firawii Remix\)](https://open.spotify.com/track/1ZHliy9lZHDntId0a8WOuq) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Firawii](https://open.spotify.com/artist/4brOAaYRExjmIo0GZm7h1W) | [Hem \(Firawii Remix\)](https://open.spotify.com/album/1oE0wb1RvtsDEijyqv4NAe) | 2:02 |
-| 17 | [En fråga](https://open.spotify.com/track/2nr9aglFsuWYBFXPZJQxyE) | [X2](https://open.spotify.com/artist/27A1QaGC3RbUWoQkRTss6V) | [En fråga](https://open.spotify.com/album/1pxyLP9LtM6NYTJDd1J6Ax) | 2:15 |
-| 18 | [Dont Stop](https://open.spotify.com/track/43cKERe8r48weKSswLFm6L) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Dont Stop](https://open.spotify.com/album/0TZevyx9qW3q4k6qg4IKA2) | 2:14 |
-| 19 | [STHLM STATE OF MIND](https://open.spotify.com/track/5rUutdkNQmw1HB3jo0tX0W) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [STHLM STATE OF MIND](https://open.spotify.com/album/6LTBLe37Few0ie14dRGbZz) | 2:45 |
-| 20 | [Hate It Or Love It](https://open.spotify.com/track/0qOWobnSctPWwJglniXLvI) | [AT](https://open.spotify.com/artist/4ZuN2iutz7mhiic0fNYej4) | [Hate It Or Love It](https://open.spotify.com/album/5kihASM78O9NZxsSHrpaVi) | 2:15 |
+| 13 | [Bad gyals & Bacardi](https://open.spotify.com/track/76vihN1O8ukirH94sX0lwS) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Bad gyals & Bacardi](https://open.spotify.com/album/6VcBGrQACj7a9GXhWzp6Fj) | 2:10 |
+| 14 | [Hate It Or Love It](https://open.spotify.com/track/0qOWobnSctPWwJglniXLvI) | [AT](https://open.spotify.com/artist/4ZuN2iutz7mhiic0fNYej4) | [Hate It Or Love It](https://open.spotify.com/album/5kihASM78O9NZxsSHrpaVi) | 2:15 |
+| 15 | [TERAPI](https://open.spotify.com/track/69GARmi1BM4FCccBEmlqJk) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [TERAPI](https://open.spotify.com/album/5ZI7gjZgkvidiOAj5AOzNj) | 2:38 |
+| 16 | [En fråga](https://open.spotify.com/track/2nr9aglFsuWYBFXPZJQxyE) | [X2](https://open.spotify.com/artist/27A1QaGC3RbUWoQkRTss6V) | [En fråga](https://open.spotify.com/album/1pxyLP9LtM6NYTJDd1J6Ax) | 2:15 |
+| 17 | [Hem \(Firawii Remix\)](https://open.spotify.com/track/1ZHliy9lZHDntId0a8WOuq) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Firawii](https://open.spotify.com/artist/4brOAaYRExjmIo0GZm7h1W) | [Hem \(Firawii Remix\)](https://open.spotify.com/album/1oE0wb1RvtsDEijyqv4NAe) | 2:02 |
+| 18 | [Aurora](https://open.spotify.com/track/6NGAEcYdCO14uH4oVDZgrE) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [Aurora](https://open.spotify.com/album/3hXDGCWq9Pb6FurIzJmx50) | 2:01 |
+| 19 | [Dont Stop](https://open.spotify.com/track/43cKERe8r48weKSswLFm6L) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Dont Stop](https://open.spotify.com/album/0TZevyx9qW3q4k6qg4IKA2) | 2:14 |
+| 20 | [STHLM STATE OF MIND](https://open.spotify.com/track/5rUutdkNQmw1HB3jo0tX0W) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [STHLM STATE OF MIND](https://open.spotify.com/album/6LTBLe37Few0ie14dRGbZz) | 2:45 |
 | 21 | [TOKYO DRIFT](https://open.spotify.com/track/0bVun5N1QhG4Ajxgo854Y1) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [TOKYO DRIFT](https://open.spotify.com/album/4qALmspCM0jvI4bj1XEFsr) | 3:08 |
 | 22 | [12345](https://open.spotify.com/track/7wO7OImdTw5LykPtcjDlbL) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4) | [12345](https://open.spotify.com/album/0EbtLrLNo4hECE9up04FT6) | 2:39 |
 | 23 | [Jealousy](https://open.spotify.com/track/3B5bAiWFFbLmBkJ5mlzoyF) | [Saikz](https://open.spotify.com/artist/3YAxYI6L8lRRh1eYqDMd4A) | [Jealousy](https://open.spotify.com/album/3ppgsENpejo61jazC2MTNl) | 2:05 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 180 | [Vinnande Koncept](https://open.spotify.com/track/1oI0ZeW94TruyBLA7CJUPE) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Nya Skolans Ledare](https://open.spotify.com/album/1ptguIZWJepEbkOFyZ05SJ) | 2:11 |
 | 181 | [Tragiskt](https://open.spotify.com/track/1P2xQUXFfI0wFPiCOfFmQu) | [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv), [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs) | [Tragiskt](https://open.spotify.com/album/7qe775N3IIC6b9gLEWQYos) | 2:19 |
 
-Snapshot ID: `AAAAADhgpCHsRP9lCGgaZYc6Che0IhjH`
+Snapshot ID: `AAAAAHk62FPC8PcN8tuvFSdVwJK6FqWe`

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,500 songs - 7 day 2 hr 58 min
+4,501 songs - 7 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,6 +620,7 @@
 | [Cancale](https://open.spotify.com/track/0MmQzRUzTAG6hWySfko9pO) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Aphrodisiac](https://open.spotify.com/album/2RBHvs5zfFuqAVPMF5fd4z) | 2:28 | 2022-04-28 | 2022-06-10 |
 | [Candle Lights](https://open.spotify.com/track/0Tqc3QEPejVYY2w6GNqkqH) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF) | [Candle Lights](https://open.spotify.com/album/4LyeyvNZMplRnDebCwdlFU) | 2:33 | 2021-03-14 | 2021-07-16 |
 | [Canned Stop](https://open.spotify.com/track/0vma0SpgVxGj9bSgtP5MHV) | [Elènne](https://open.spotify.com/artist/5bv2uGb0NPkGoYRa5m82Wv) | [Canned Stop](https://open.spotify.com/album/0443ubyK2C41lwqA47Hpfb) | 3:16 | 2021-05-21 | 2021-06-18 |
+| [canvas](https://open.spotify.com/track/3CrwuTDI5YwuPJhUZrG6vg) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ), [Kylan](https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp) | [canvas](https://open.spotify.com/album/2APuLlyBNRY1GAuo4Iyog9) | 2:17 | 2026-01-30 |  |
 | [Caps](https://open.spotify.com/track/1VvJrVBlqNrBxXdy1akslD) | [YAYA](https://open.spotify.com/artist/1WYSFpEEWRZa2U8XV04Nid) | [Caps](https://open.spotify.com/album/3YlOo4BHFmr9QqB0YOoLo2) | 2:31 | 2019-07-26 | 2019-12-20 |
 | [Capybara Spa](https://open.spotify.com/track/5kSpG7KnpcN3aSvpJ82ydo) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Capybara Spa](https://open.spotify.com/album/4N28xaQ7I9q115v9znKzmk) | 1:58 | 2024-04-18 | 2024-09-17 |
 | [carambola](https://open.spotify.com/track/2kq7JiyNzRVOwTHXvTnzAt) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [old fruits](https://open.spotify.com/album/2FDaNo35JXwJe46dqZzxuL) | 1:40 | 2021-09-03 | 2021-10-16 |
@@ -1143,7 +1144,7 @@
 | [Emotion](https://open.spotify.com/track/1JaNoCffP5F0Y7fXKI3Y6P) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Emotion](https://open.spotify.com/album/2C79415Ov5NyRr2yeQO5tC) | 2:05 | 2020-05-22 | 2020-07-31 |
 | [Emotion](https://open.spotify.com/track/3bDOZNlk6IVPQ5mWTQsM1W) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [Emotion EP](https://open.spotify.com/album/78lllAwn1bwdyYDubGS6zr) | 2:19 | 2023-09-21 | 2024-01-27 |
 | [Emotions](https://open.spotify.com/track/4Eh4y4YTJo2alVC69ABOzi) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Emotions](https://open.spotify.com/album/5WGiR40zDyUIorCnDGndFM) | 1:38 | 2020-09-18 | 2021-02-12 |
-| [Emotions](https://open.spotify.com/track/2iq7cTcwCbPXwjQ969MZ63) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Emotions](https://open.spotify.com/album/62cmR42ComAoovd8lep0sc) | 2:04 | 2023-12-14 |  |
+| [Emotions](https://open.spotify.com/track/2iq7cTcwCbPXwjQ969MZ63) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Emotions](https://open.spotify.com/album/62cmR42ComAoovd8lep0sc) | 2:04 | 2023-12-14 | 2026-02-03 |
 | [Emperor's Coffee](https://open.spotify.com/track/4vsCCdbZ9o80Z4xeMVfsAd) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY) | [Emperor's Coffee](https://open.spotify.com/album/4VYwIk4Os4RAcA3gNtv1R3) | 2:27 | 2022-02-17 | 2022-03-11 |
 | [Empty Glass](https://open.spotify.com/track/5sCwBoZMMfooOx4eGYtN2a) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Empty Glass](https://open.spotify.com/album/46MnfoSu0VfVrdhGOexH0W) | 1:32 | 2023-10-19 | 2026-01-24 |
 | [Empty Page](https://open.spotify.com/track/48GPg87rHza9mo7KipOalc) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ), [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME) | [Empty Page](https://open.spotify.com/album/5DJbCWzFjGUn08X7xsD4Vr) | 2:20 | 2021-05-22 | 2021-06-25 |

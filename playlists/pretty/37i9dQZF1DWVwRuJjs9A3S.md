@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Division 7 &  Thomas Stenström.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,761 likes - 191 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,763 likes - 191 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ) | [Division 7](https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/album/5snT9oFQy7RVPfsYxrsdRN) | 4:03 |
+| 1 | [Ett varv till](https://open.spotify.com/track/3QIcx4ASUFPNnJLdzMEy0D) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Ett varv till](https://open.spotify.com/album/0VDVseaKn0Lq8D2zKz0V00) | 2:57 |
 | 2 | [groby](https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [embraced for a second as we die](https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt) | 3:37 |
 | 3 | [Kiss&Tell](https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9) | [GUINEVERE](https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood) | [Kiss&Tell](https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR) | 3:45 |
-| 4 | [Ett varv till](https://open.spotify.com/track/3QIcx4ASUFPNnJLdzMEy0D) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Ett varv till](https://open.spotify.com/album/0VDVseaKn0Lq8D2zKz0V00) | 2:57 |
+| 4 | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ) | [Division 7](https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/album/5snT9oFQy7RVPfsYxrsdRN) | 4:03 |
 | 5 | [Naked](https://open.spotify.com/track/2mbLW5bfq7kwwGJfU8Zd6c) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Naked](https://open.spotify.com/album/5uQ7wGkeiE2czGZ9YirI0z) | 3:12 |
 | 6 | [pianoboy](https://open.spotify.com/track/7J4ZVJuGIKZDIEml0zl6x9) | [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [pianoboy](https://open.spotify.com/album/7ENlSvR5BE6aFmdDAeTvG8) | 2:28 |
 | 7 | [You Could Have It](https://open.spotify.com/track/2ndh30vZhrfL0Zpq8wRbvl) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [You Could Have It](https://open.spotify.com/album/3QYStaiTa85i7UOFQEst2f) | 2:47 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 190 | [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:23 |
 | 191 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
 
-Snapshot ID: `AAAAANN/JrTAoHRnJtK8zSBHurW20DXD`
+Snapshot ID: `AAAAAOW6YA1kVhnDhBULyutf3iowNqDV`

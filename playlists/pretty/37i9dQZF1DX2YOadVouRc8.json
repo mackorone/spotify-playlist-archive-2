@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 44992,
+  "num_followers": 45038,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,30 @@
     {
       "added_at": "2026-01-30 00:01:19",
       "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        }
+      ],
+      "duration_ms": 155753,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
+    },
+    {
+      "added_at": "2026-01-30 00:01:19",
+      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -299,26 +323,6 @@
       "duration_ms": 171000,
       "name": "Mademoiselle (feat. ODUMODUBLVCK, Shallipopi, Theodora, Zeina)",
       "url": "https://open.spotify.com/track/1iYBlO1RGEFeDnG3AH4gUE"
-    },
-    {
-      "added_at": "2026-01-30 00:01:19",
-      "album": {
-        "name": "HIM",
-        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 202547,
-      "name": "HIM (feat. Gunna)",
-      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
     },
     {
       "added_at": "2026-01-30 00:01:19",
@@ -363,26 +367,22 @@
     {
       "added_at": "2026-01-30 00:01:19",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d"
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
       },
       "artists": [
         {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Steel Banglez",
-          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 155753,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
+      "duration_ms": 202547,
+      "name": "HIM (feat. Gunna)",
+      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
     },
     {
       "added_at": "2026-01-30 00:01:19",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-01-30 00:01:19",
       "album": {
-        "name": "Blue Disco",
-        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 120612,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/0puZ9jsTXM1fTlo16lNh2n"
-    },
-    {
-      "added_at": "2026-01-30 00:01:19",
-      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 158712,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "added_at": "2026-01-30 00:01:19",
+      "album": {
+        "name": "Blue Disco",
+        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 120612,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/0puZ9jsTXM1fTlo16lNh2n"
     },
     {
       "added_at": "2026-01-30 00:01:19",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-01-30 00:01:19",
       "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
+    },
+    {
+      "added_at": "2026-01-30 00:01:19",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2026-01-30 00:01:19",
-      "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2026-01-30 00:01:19",
@@ -1063,8 +1063,8 @@
     {
       "added_at": "2026-01-30 00:01:19",
       "album": {
-        "name": "US III",
-        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
+        "name": "US",
+        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
       },
       "artists": [
         {
@@ -1072,13 +1072,13 @@
           "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
         },
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
         }
       ],
-      "duration_ms": 156190,
-      "name": "US III",
-      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
+      "duration_ms": 139047,
+      "name": "US",
+      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
     },
     {
       "added_at": "2026-01-30 00:01:19",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2026-01-30 00:01:19",
       "album": {
-        "name": "US",
-        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
+        "name": "US III",
+        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
       },
       "artists": [
         {
@@ -1164,13 +1164,13 @@
           "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
         },
         {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 139047,
-      "name": "US",
-      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
+      "duration_ms": 156190,
+      "name": "US III",
+      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
     },
     {
       "added_at": "2026-01-30 00:01:19",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-01-30 00:01:19",
       "album": {
+        "name": "Verily",
+        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 195816,
+      "name": "Verily",
+      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
+    },
+    {
+      "added_at": "2026-01-30 00:01:19",
+      "album": {
         "name": "AFRIKA MAGIK",
         "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 196471,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
-    },
-    {
-      "added_at": "2026-01-30 00:01:19",
-      "album": {
-        "name": "Verily",
-        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 195816,
-      "name": "Verily",
-      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
     },
     {
       "added_at": "2026-01-30 00:01:19",

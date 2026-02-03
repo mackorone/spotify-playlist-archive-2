@@ -1,6 +1,6 @@
 {
   "description": "30 tips voor LL25 van de Spotify curators \u00e9n de Lowlands klassiekers!",
-  "num_followers": 36681,
+  "num_followers": 36680,
   "original_name": "Best of Lowlands",
   "owner": {
     "name": "Spotify",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2025-08-13 17:36:16",
       "album": {
-        "name": "For Lack Of A Better Name",
-        "url": "https://open.spotify.com/album/6WJvrBlL3zgu4mVoKyvMkl"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Rob Swire",
-          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
-        }
-      ],
-      "duration_ms": 328253,
-      "name": "Ghosts 'n' Stuff",
-      "url": "https://open.spotify.com/track/4ua0IepBEISCWwF8dTJvcU"
-    },
-    {
-      "added_at": "2025-08-13 17:36:16",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 255493,
       "name": "Indigo Night",
       "url": "https://open.spotify.com/track/62DFvt3IhKq2i8wyigqeFO"
+    },
+    {
+      "added_at": "2025-08-13 17:36:16",
+      "album": {
+        "name": "For Lack Of A Better Name",
+        "url": "https://open.spotify.com/album/6WJvrBlL3zgu4mVoKyvMkl"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Rob Swire",
+          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
+        }
+      ],
+      "duration_ms": 328253,
+      "name": "Ghosts 'n' Stuff",
+      "url": "https://open.spotify.com/track/4ua0IepBEISCWwF8dTJvcU"
     },
     {
       "added_at": "2025-08-13 17:36:16",

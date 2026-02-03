@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388757,
+  "num_followers": 388762,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-01-29 23:00:34",
       "album": {
-        "name": "Essex Honey",
-        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 262335,
-      "name": "Vivid Light",
-      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
-    },
-    {
-      "added_at": "2026-01-29 23:00:34",
-      "album": {
         "name": "Red Moon",
         "url": "https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 212483,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
+    },
+    {
+      "added_at": "2026-01-29 23:00:34",
+      "album": {
+        "name": "Essex Honey",
+        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 262335,
+      "name": "Vivid Light",
+      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
     },
     {
       "added_at": "2026-01-29 23:00:34",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-01-29 23:00:34",
       "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
-    },
-    {
-      "added_at": "2026-01-29 23:00:34",
-      "album": {
         "name": "Against The Current",
         "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 216426,
       "name": "Against The Current",
       "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
+    },
+    {
+      "added_at": "2026-01-29 23:00:34",
+      "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-01-29 23:00:34",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-01-29 23:00:34",
       "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        }
-      ],
-      "duration_ms": 223443,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
-    },
-    {
-      "added_at": "2026-01-29 23:00:34",
-      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 185939,
       "name": "**GOLIATH**",
       "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
+    },
+    {
+      "added_at": "2026-01-29 23:00:34",
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "duration_ms": 223443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
       "added_at": "2026-01-29 23:00:34",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-01-29 23:00:34",
       "album": {
-        "name": "you chose this",
-        "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 158546,
-      "name": "you chose this",
-      "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
-    },
-    {
-      "added_at": "2026-01-29 23:00:34",
-      "album": {
         "name": "Riverside",
         "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 283066,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
+    },
+    {
+      "added_at": "2026-01-29 23:00:34",
+      "album": {
+        "name": "you chose this",
+        "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 158546,
+      "name": "you chose this",
+      "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
     },
     {
       "added_at": "2026-01-29 23:00:34",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-01-29 23:00:34",
       "album": {
+        "name": "Welcome to the Mood / Sundown",
+        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 135866,
+      "name": "Welcome to the Mood",
+      "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
+    },
+    {
+      "added_at": "2026-01-29 23:00:34",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 119140,
       "name": "Home",
       "url": "https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq"
-    },
-    {
-      "added_at": "2026-01-29 23:00:34",
-      "album": {
-        "name": "Welcome to the Mood / Sundown",
-        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 135866,
-      "name": "Welcome to the Mood",
-      "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
     },
     {
       "added_at": "2026-01-29 23:00:34",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-01-29 23:00:34",
       "album": {
-        "name": "Hoagy's Place",
-        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Hoagy's Place",
-      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
-    },
-    {
-      "added_at": "2026-01-29 23:00:34",
-      "album": {
         "name": "Slow Steps in the Snow",
         "url": "https://open.spotify.com/album/5Q5CFyu9wtBeBEErBLGbrg"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 213263,
       "name": "Slow Steps in the Snow",
       "url": "https://open.spotify.com/track/5OlRXnce75LJjS29TGnY3Z"
+    },
+    {
+      "added_at": "2026-01-29 23:00:34",
+      "album": {
+        "name": "Hoagy's Place",
+        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Hoagy's Place",
+      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
     },
     {
       "added_at": "2026-01-29 23:00:34",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-01-29 23:00:34",
       "album": {
-        "name": "The Long Way Round (Deluxe)",
-        "url": "https://open.spotify.com/album/0dnzHJaJXNEEgpBvpe4J0A"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 211844,
-      "name": "I Love You, But",
-      "url": "https://open.spotify.com/track/4JXugjlzGFW1TALHNfTqOp"
-    },
-    {
-      "added_at": "2026-01-29 23:00:34",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/39JRixi3qOjhXvEWjvigfT"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 218962,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4XMjBid32yY7UsphrpJevX"
+    },
+    {
+      "added_at": "2026-01-29 23:00:34",
+      "album": {
+        "name": "The Long Way Round (Deluxe)",
+        "url": "https://open.spotify.com/album/0dnzHJaJXNEEgpBvpe4J0A"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 211844,
+      "name": "I Love You, But",
+      "url": "https://open.spotify.com/track/4JXugjlzGFW1TALHNfTqOp"
     },
     {
       "added_at": "2026-01-29 23:00:34",

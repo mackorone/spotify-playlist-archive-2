@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Calvert Tay\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,066 likes - 97 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,065 likes - 97 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

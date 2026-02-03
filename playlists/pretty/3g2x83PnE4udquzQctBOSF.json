@@ -6,8 +6,24 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARV9CyaTpqwOHEtNFJd1clPM4TBHkj",
+  "snapshot_id": "AAARWKduDhy/L17G02+Z2CGHnSHlcAFZ",
   "tracks": [
+    {
+      "added_at": "2026-02-02 12:37:29",
+      "album": {
+        "name": "Stupid Love",
+        "url": "https://open.spotify.com/album/6c4haH9o8Rss7VdErplr7K"
+      },
+      "artists": [
+        {
+          "name": "Daniele Polge",
+          "url": "https://open.spotify.com/artist/5VW0vABbPzjpG5B81MfyiZ"
+        }
+      ],
+      "duration_ms": 262272,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/3JIo2eOLK87AaZ8Y4sNOoF"
+    },
     {
       "added_at": "2026-02-01 10:54:20",
       "album": {

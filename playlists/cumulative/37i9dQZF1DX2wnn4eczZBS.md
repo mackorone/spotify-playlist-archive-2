@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Elmer
 
-285 songs - 14 hr 51 min
+286 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Disco Zwemmen](https://open.spotify.com/track/7cQnfJZHGlvyCnA2DbSquv) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje](https://open.spotify.com/album/4AHIczLAURZM2gYzCD2KoY) | 2:52 | 2024-06-26 | 2024-10-12 |
 | [Discozwemmen](https://open.spotify.com/track/0VlQjCCBWiU6IbGDfKcF7u) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Unity](https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk) | 2:45 | 2025-02-20 | 2025-11-08 |
 | [Doe Eens Raar](https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Doe Eens Raar](https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg) | 3:47 | 2024-09-13 | 2025-02-21 |
-| [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:21 | 2025-05-16 | 2026-02-01 |
+| [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:21 | 2025-05-16 |  |
 | [Dokter Phil](https://open.spotify.com/track/7maIOPhJPKi28mGgoD8S00) | [Ratel](https://open.spotify.com/artist/1qpgdHDd1l4SgW6VHKmijd) | [Dokter Phil](https://open.spotify.com/album/0aqDfhsbJSCYBPJiS4YHNO) | 3:25 | 2024-06-26 | 2024-10-25 |
 | [Drijfzand](https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [Drijfzand](https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc) | 3:39 | 2025-05-08 | 2025-12-19 |
 | [Drijfzand](https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Drijfzand](https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC) | 2:58 | 2024-10-24 | 2025-06-27 |
@@ -122,7 +122,7 @@
 | [Ik Weet Het](https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Ik Weet Het](https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt) | 4:01 | 2024-10-09 | 2025-04-12 |
 | [Ik Weet Hoe Het Werkt](https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W) | [Kaat Van Stralen](https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF) | [Ik Weet Hoe Het Werkt](https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV) | 2:21 | 2025-12-18 |  |
 | [Ik Zet De Toon](https://open.spotify.com/track/474F96iGzUsZnx5KcWfR1U) | [\(...\) Centraal](https://open.spotify.com/artist/4qMeDxDec29mBmicnpyiq2) | [Ik Zet De Toon](https://open.spotify.com/album/77wFpa6zVyGbMFDcJesvmF) | 3:27 | 2024-06-26 | 2024-09-13 |
-| [In De Steek](https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [In De Steek](https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw) | 2:48 | 2025-12-01 |  |
+| [In De Steek](https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [In De Steek](https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw) | 2:48 | 2025-12-01 | 2026-02-03 |
 | [In Dit Huis](https://open.spotify.com/track/03oSvQ8rmgc8ex4iFZZDOq) | [Luminar](https://open.spotify.com/artist/4XVWcEp6zOQScLQZl4fCsT) | [In Dit Huis](https://open.spotify.com/album/5wbhjYGbfNoXI36vX7MYkX) | 3:18 | 2024-06-26 | 2024-11-15 |
 | [Interessant](https://open.spotify.com/track/2en7wZ9UHVa2tlZeb8itZi) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Interessant](https://open.spotify.com/album/05KQqX6QcSxntWgHpfYG6d) | 2:16 | 2024-06-26 | 2024-09-13 |
 | [Intergeneratie \- Single Edit](https://open.spotify.com/track/21JMJOw8TTaUkiBjTXuMLo) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Intergeneratie](https://open.spotify.com/album/5D5UDX6XptnLPrzfDZx29w) | 2:42 | 2026-01-26 |  |
@@ -176,7 +176,7 @@
 | [Nacht Apotheker](https://open.spotify.com/track/2kxmQtPX7XccmrRsnXBTTd) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nacht Apotheker](https://open.spotify.com/album/2VoxUYuf8QQ9a8QZVGjtd0) | 2:55 | 2025-04-24 | 2025-05-28 |
 | [Nachtblind](https://open.spotify.com/track/0LaaB5VXlXHKOQhwsm2PP3) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/0kt0qZG6FOggm8MN9Zbc40) | 2:00 | 2024-10-22 | 2025-02-21 |
 | [Nachttarief](https://open.spotify.com/track/2zQMVuZqeNhWcjI8sIUNSn) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachttarief](https://open.spotify.com/album/7AgqovNQYhxzDxp9k4B6wS) | 2:53 | 2025-10-21 | 2025-11-09 |
-| [narcose](https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [narcose](https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa) | 2:53 | 2025-05-26 |  |
+| [narcose](https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [narcose](https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa) | 2:53 | 2025-05-26 | 2026-02-03 |
 | [NEEM ER EEN BIJ MEID](https://open.spotify.com/track/6vdctqis5ixBZewv7oC08f) | [Boter bij de Vis](https://open.spotify.com/artist/7tuinFXD42LyO2UDBb5LEy) | [MAR & AR VAN BOTER BIJ DE VIS](https://open.spotify.com/album/7bAO1sGEqCU6iIj0xRpJdM) | 2:50 | 2024-06-27 | 2024-07-27 |
 | [Neem Het Dan Terug](https://open.spotify.com/track/4wUlyyKkDIFiqWnAMt9nob) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Neem Het Dan Terug](https://open.spotify.com/album/2IDr4joV1YC6rivjvCACtg) | 2:50 | 2025-04-17 | 2025-09-27 |
 | [Niemand](https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Niemand](https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE) | 2:24 | 2025-08-29 |  |
@@ -267,6 +267,7 @@
 | [Wauw](https://open.spotify.com/track/2Pqh5BrKly0mN6uvavP6Xm) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Diep In De Nacht \(Original Soundtrack\)](https://open.spotify.com/album/1Alx3D8sFOF2APdvn2XMHu) | 1:54 | 2025-03-28 | 2025-09-16 |
 | [We Doen Er Allemaal Aan Mee](https://open.spotify.com/track/6bOIf6PY3dHknq5RzWxSbe) | [SIM—OJ](https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [We Doen Er Allemaal Aan Mee](https://open.spotify.com/album/6pu4TsYK4brCRRwTWkiN4z) | 2:51 | 2024-06-26 | 2024-10-10 |
 | [We Hebben De Tijd](https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:32 | 2024-06-26 | 2024-10-23 |
+| [We Slapen In De Lucht](https://open.spotify.com/track/5DAmgJJfetkfuKNwque4J0) | [Igor](https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq) | [We Slapen In De Lucht](https://open.spotify.com/album/2W7h1XL3czf36B0jL8QKpN) | 2:44 | 2026-01-30 |  |
 | [Weekenden](https://open.spotify.com/track/4oEvC47XYKLzUbcTnSMmcN) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Weekenden](https://open.spotify.com/album/5wedLTydN0F4SW2Q26wlqX) | 3:44 | 2024-08-01 | 2025-02-28 |
 | [Weer Verliefd](https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Weer Verliefd](https://open.spotify.com/album/6Ip4bbABf0n2qieViUxktD) | 3:21 | 2025-02-26 | 2025-06-27 |
 | [Wie Ben Ik](https://open.spotify.com/track/0QxgUIFrbSj8lafbpZ3boa) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Wie Ben Ik](https://open.spotify.com/album/6MruR6SwhHc3q3nlxu4hDR) | 2:49 | 2024-06-26 | 2024-07-19 |

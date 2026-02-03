@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 341266,
+  "num_followers": 341304,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-10-03 16:58:21",
       "album": {
-        "name": "Gigaton",
-        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 322306,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
-    },
-    {
-      "added_at": "2025-10-03 16:58:21",
-      "album": {
         "name": "Ac\u00fastico (Live)",
         "url": "https://open.spotify.com/album/7ATBrzHUgIN21MkSh8KpTr"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 256720,
       "name": "Caleidosc\u00f3pio - Ao Vivo",
       "url": "https://open.spotify.com/track/2gOhhHSjm3iw4NFY43carm"
+    },
+    {
+      "added_at": "2025-10-03 16:58:21",
+      "album": {
+        "name": "Gigaton",
+        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
     },
     {
       "added_at": "2025-10-03 16:58:21",

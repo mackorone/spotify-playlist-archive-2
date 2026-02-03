@@ -1,13 +1,49 @@
 {
-  "description": "Stockholm to L.A. in my feelings. \ud83c\uddf8\ud83c\uddea\ud83c\uddfa\ud83c\uddf8",
-  "num_followers": 2094619,
+  "description": "(Wo)man's best friend",
+  "num_followers": 2096739,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEayyyu2vOag9LVcxQHOw57IUsxY",
+  "snapshot_id": "AAAAAKW63d0L1HllscJj5oggV/j+DfvO",
   "tracks": [
+    {
+      "added_at": "2026-02-02 04:21:56",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2026-02-02 04:21:56",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
     {
       "added_at": "2026-01-16 05:00:46",
       "album": {

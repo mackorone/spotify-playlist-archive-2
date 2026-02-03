@@ -2,7 +2,7 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: Sasha Keable
+> Where R&B lives\. Cover: Kehlani
 
 767 songs - 1 day 18 hr 43 min
 

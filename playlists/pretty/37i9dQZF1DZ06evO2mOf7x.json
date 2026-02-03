@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47036,
+  "num_followers": 47041,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAABRqrUewPkd3sW7DZmqNCNI",
+  "snapshot_id": "aX6XgAAAAADA7QTHjKk54QyjTGjtMDKT",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos Robados",
-        "url": "https://open.spotify.com/album/2JeR32SGEMdyK2G7q8hCXn"
+        "name": "Te Metiste",
+        "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
       },
       "artists": [
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 157920,
-      "name": "Besos Robados",
-      "url": "https://open.spotify.com/track/4NuxmtOILyAJARALn4jkY7"
+      "duration_ms": 224160,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
     },
     {
       "added_at": null,
@@ -631,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Metiste",
-        "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
+        "name": "Besos Robados",
+        "url": "https://open.spotify.com/album/2JeR32SGEMdyK2G7q8hCXn"
       },
       "artists": [
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
+      "duration_ms": 157920,
+      "name": "Besos Robados",
+      "url": "https://open.spotify.com/track/4NuxmtOILyAJARALn4jkY7"
     },
     {
       "added_at": null,

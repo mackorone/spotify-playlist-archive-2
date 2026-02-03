@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 242031,
+  "num_followers": 242047,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "I Should Coco (20th Anniversary Collector's Edition)",
-        "url": "https://open.spotify.com/album/1MXoLMlKeGGVKdwARUuWRa"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Alright - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05ajrG3EAcIe3j7NuqRV9B"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "I Should Coco (20th Anniversary Collector's Edition)",
+        "url": "https://open.spotify.com/album/1MXoLMlKeGGVKdwARUuWRa"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Alright - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05ajrG3EAcIe3j7NuqRV9B"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Our Love",
-        "url": "https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Can't Do Without You",
-      "url": "https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Mahal",
         "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Our Love",
+        "url": "https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Can't Do Without You",
+      "url": "https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 235045,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "WHY",
         "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Who Let The Dogs Out",
-        "url": "https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV"
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
       },
       "artists": [
         {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 138533,
-      "name": "Cuntology 101",
-      "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO"
+      "duration_ms": 235045,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1439,6 +1423,22 @@
       "duration_ms": 189655,
       "name": "Chase The Sun",
       "url": "https://open.spotify.com/track/7kE5SGVpogBX5VXiTgYiRg"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Who Let The Dogs Out",
+        "url": "https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "Cuntology 101",
+      "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Their Satanic Majesties' Second Request",
-        "url": "https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 334466,
-      "name": "Anemone",
-      "url": "https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Labour of Lust",
         "url": "https://open.spotify.com/album/1gej2up6QoCmt1GeQSlKx5"
       },
@@ -1707,22 +1691,6 @@
       "duration_ms": 210131,
       "name": "Cruel to Be Kind",
       "url": "https://open.spotify.com/track/6k2cLXLnrAnFFqt3W6sjT8"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Family Only",
-        "url": "https://open.spotify.com/album/1dcia5MJRh9FBJRxxMFlhk"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "No Excuses",
-      "url": "https://open.spotify.com/track/4vhkCppuT8ep5JneFswhgc"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1759,6 +1727,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Family Only",
+        "url": "https://open.spotify.com/album/1dcia5MJRh9FBJRxxMFlhk"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "No Excuses",
+      "url": "https://open.spotify.com/track/4vhkCppuT8ep5JneFswhgc"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Promised Heights",
         "url": "https://open.spotify.com/album/5MgSinqOBEYk9VFrtHU2bA"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 251400,
       "name": "Brothers On The Slide",
       "url": "https://open.spotify.com/track/6OKDxL7flqg9Rv7CbHaxmz"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Their Satanic Majesties' Second Request",
+        "url": "https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 334466,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Tongues And Tails",
-        "url": "https://open.spotify.com/album/0uv0eA8q8HCfCytsAtZSch"
-      },
-      "artists": [
-        {
-          "name": "Sophie B. Hawkins",
-          "url": "https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC"
-        }
-      ],
-      "duration_ms": 323266,
-      "name": "Damn I Wish I Was Your Lover",
-      "url": "https://open.spotify.com/track/7kmfQ2QHwGqRCxVHDv5mzo"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Marcus Garvey",
         "url": "https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 207000,
       "name": "Marcus Garvey",
       "url": "https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Tongues And Tails",
+        "url": "https://open.spotify.com/album/0uv0eA8q8HCfCytsAtZSch"
+      },
+      "artists": [
+        {
+          "name": "Sophie B. Hawkins",
+          "url": "https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC"
+        }
+      ],
+      "duration_ms": 323266,
+      "name": "Damn I Wish I Was Your Lover",
+      "url": "https://open.spotify.com/track/7kmfQ2QHwGqRCxVHDv5mzo"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 161960,
       "name": "Mountain Banjo",
       "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "TANZPARTEI II (Mixtape)",
         "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 229480,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/33LfsAZ4kCfD90A3Zwp4sk"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Humble As The Sun",
-        "url": "https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 199643,
-      "name": "Makes Me Violent",
-      "url": "https://open.spotify.com/track/0qu6cJbPDnwaWZSPqQbuId"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "I'm Your Mama",
         "url": "https://open.spotify.com/album/0NJV0HLBF9A373sMVcf6g0"
       },
@@ -2607,18 +2591,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0"
+        "name": "Humble As The Sun",
+        "url": "https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh"
       },
       "artists": [
         {
-          "name": "Katy J Pearson",
-          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
         }
       ],
-      "duration_ms": 196253,
-      "name": "Beautiful Soul",
-      "url": "https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx"
+      "duration_ms": 199643,
+      "name": "Makes Me Violent",
+      "url": "https://open.spotify.com/track/0qu6cJbPDnwaWZSPqQbuId"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2635,6 +2619,22 @@
       "duration_ms": 186065,
       "name": "The World\u2019s Biggest Paving Slab",
       "url": "https://open.spotify.com/track/0QZwfrjDdVGKjKfIzopBfL"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0"
+      },
+      "artists": [
+        {
+          "name": "Katy J Pearson",
+          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "Beautiful Soul",
+      "url": "https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx"
     },
     {
       "added_at": "2025-06-27 23:00:28",

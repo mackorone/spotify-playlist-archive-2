@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Franco Masciarelli y Sofia Macchi.",
-  "num_followers": 192907,
+  "num_followers": 192911,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 295160,
+      "name": "Un Pacto - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 295160,
-      "name": "Un Pacto - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 267866,
       "name": "Fanky - Live",
       "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Un Osito de Peluche de Taiwan (Cover)",
         "url": "https://open.spotify.com/album/4CYd1OyvHro22MEuh0PhMm"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 223096,
       "name": "Lo Que Perd\u00ed",
       "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "BIG BANG",
-        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 183131,
-      "name": "BIG BANG",
-      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Cantamos en mi terraza? #2",
         "url": "https://open.spotify.com/album/3xpuGIWdVJqCFcFSzdYHD3"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 274407,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/1Iaz0c3Of0zD5G0IgbWucx"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "BIG BANG",
+        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 183131,
+      "name": "BIG BANG",
+      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Como Te Voy A Olvidar",
-        "url": "https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq"
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
       "artists": [
         {
-          "name": "Aurelia Goldspark",
-          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 186750,
-      "name": "Como Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu"
+      "duration_ms": 245373,
+      "name": "Love Song - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4tDpOMKNX8oX2iQkwSnRHH"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+        "name": "Como Te Voy A Olvidar",
+        "url": "https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq"
       },
       "artists": [
         {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
         }
       ],
-      "duration_ms": 245373,
-      "name": "Love Song - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4tDpOMKNX8oX2iQkwSnRHH"
+      "duration_ms": 186750,
+      "name": "Como Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "\u00danico y Nuestro",
-        "url": "https://open.spotify.com/album/1pWO58Hg05C5nhlgKEcxdH"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "Nada Nadie 2",
-      "url": "https://open.spotify.com/track/2DSLKFcXqCm8peMsWsiSCn"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "La G\u00e9nesis",
         "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 225373,
       "name": "Viento Dile a la Lluvia",
       "url": "https://open.spotify.com/track/5YdXKg8juylmVbtCMheEtl"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "\u00danico y Nuestro",
+        "url": "https://open.spotify.com/album/1pWO58Hg05C5nhlgKEcxdH"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "Nada Nadie 2",
+      "url": "https://open.spotify.com/track/2DSLKFcXqCm8peMsWsiSCn"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1719,22 +1719,18 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "El Astronauta (Wagon Unplugged)",
-        "url": "https://open.spotify.com/album/36wX6UTQVQiKD36VhfQUFN"
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/1Zm0YPGtmxhTfDjU0It8pB"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        },
-        {
-          "name": "Wagon Sessions",
-          "url": "https://open.spotify.com/artist/4DshoKr8IgTQWxRSZQ2FoM"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 195832,
-      "name": "El Astronauta (Wagon Unplugged)",
-      "url": "https://open.spotify.com/track/4XrqkG0Eqijzg1OWI0PC82"
+      "duration_ms": 369000,
+      "name": "Sonhos",
+      "url": "https://open.spotify.com/track/16zNapwhCye9uCg4sTEZ7I"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

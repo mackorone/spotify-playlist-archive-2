@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 168846,
+  "num_followers": 168853,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAC2RvAEM8Qc7T/HotnAqa+v",
+  "snapshot_id": "aX6XgAAAAACuVROOMFbtncWBwt+WmOH1",
   "tracks": [
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 259048,
-      "name": "We Go To War",
-      "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
+      "duration_ms": 291533,
+      "name": "See Who I Am",
+      "url": "https://open.spotify.com/track/5KRuT1HU5BtXELm6zXKhfQ"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 291533,
-      "name": "See Who I Am",
-      "url": "https://open.spotify.com/track/5KRuT1HU5BtXELm6zXKhfQ"
+      "duration_ms": 259048,
+      "name": "We Go To War",
+      "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hydra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 331240,
-      "name": "Let Us Burn",
-      "url": "https://open.spotify.com/track/5ZMZrIPhlf5oMHwzw6RMre"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Silent Force",
         "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 253506,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hydra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 331240,
+      "name": "Let Us Burn",
+      "url": "https://open.spotify.com/track/5ZMZrIPhlf5oMHwzw6RMre"
     },
     {
       "added_at": null,

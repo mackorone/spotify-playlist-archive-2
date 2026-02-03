@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 553657,
+  "num_followers": 553656,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
+        "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 254615,
+      "name": "Bye Bye Beautiful",
+      "url": "https://open.spotify.com/track/6uwjUM0Y0NfPmLBKVAbUXW"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 216280,
       "name": "Bang Ya Head (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/6eoXUi0mNXFd2yhqH1sxJK"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
-        "name": "Dark Passion Play",
-        "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 254615,
-      "name": "Bye Bye Beautiful",
-      "url": "https://open.spotify.com/track/6uwjUM0Y0NfPmLBKVAbUXW"
     },
     {
       "added_at": "2025-11-05 11:45:24",

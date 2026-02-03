@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 282146,
+  "num_followers": 282223,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 235702,
       "name": "Flown",
       "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "WHERE DOES THE NIGHT GO?",
-        "url": "https://open.spotify.com/album/3Zs6evwQuF7WUsciJIsbGN"
-      },
-      "artists": [
-        {
-          "name": "Mokado",
-          "url": "https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw"
-        }
-      ],
-      "duration_ms": 260293,
-      "name": "THE PARK // 6:42AM",
-      "url": "https://open.spotify.com/track/4Vtg7EGZTQdIvOXWxn8lf0"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
         "name": "Crooks & Lovers",
         "url": "https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 262813,
       "name": "Trade Winds, White Heat",
       "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "WHERE DOES THE NIGHT GO?",
+        "url": "https://open.spotify.com/album/3Zs6evwQuF7WUsciJIsbGN"
+      },
+      "artists": [
+        {
+          "name": "Mokado",
+          "url": "https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw"
+        }
+      ],
+      "duration_ms": 260293,
+      "name": "THE PARK // 6:42AM",
+      "url": "https://open.spotify.com/track/4Vtg7EGZTQdIvOXWxn8lf0"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Views/Octopus EP",
-        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
         "name": "Karma & Desire",
         "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 250383,
       "name": "Walking Flames",
       "url": "https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "Views/Octopus EP",
+        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
+        "name": "Saw You for the First Time",
+        "url": "https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 404630,
+      "name": "Saw You for the First Time",
+      "url": "https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
         "name": "Slowdive",
         "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 236260,
       "name": "Call",
       "url": "https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
-        "name": "Saw You for the First Time",
-        "url": "https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 404630,
-      "name": "Saw You for the First Time",
-      "url": "https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j"
     },
     {
       "added_at": "2026-01-16 05:00:24",

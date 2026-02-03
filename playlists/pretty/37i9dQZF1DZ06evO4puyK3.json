@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 166315,
+  "num_followers": 166320,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAABuI3Xg6zGKXJpqWFBswYnd",
+  "snapshot_id": "aX6XgAAAAACLZtLjYC/jB4djQkqBhXwA",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
-        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 175682,
-      "name": "Linguagem Do Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/53kDrN4RX10QxscfM9lk8Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deve ser horr\u00edvel dormir sem mim",
         "url": "https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 155052,
       "name": "Deve ser horr\u00edvel dormir sem mim",
       "url": "https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 175682,
+      "name": "Linguagem Do Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/53kDrN4RX10QxscfM9lk8Z"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coisa Boa",
+        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serenata da GG, Vol. 2 - Ao Vivo",
         "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 305657,
       "name": "Quem De N\u00f3s Dois / Encostar Na Tua - Ao Vivo",
       "url": "https://open.spotify.com/track/1o7TjGkJHqFmnT9ZOQlDfp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coisa Boa",
-        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Coisa Boa",
-      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
     },
     {
       "added_at": null,
@@ -591,26 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO FLUXO",
-        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+        "name": "ALEGORIA",
+        "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
       },
       "artists": [
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 165111,
-      "name": "DA BRABA",
-      "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
+      "duration_ms": 145979,
+      "name": "MIL GRAU",
+      "url": "https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ"
     },
     {
       "added_at": null,
@@ -635,18 +627,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALEGORIA",
-        "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
       "artists": [
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 145979,
-      "name": "MIL GRAU",
-      "url": "https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ"
+      "duration_ms": 165111,
+      "name": "DA BRABA",
+      "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 176709,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/3t7CeMsyZJ8Jnt4MwJRDgX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "085 RMX",
         "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 163102,
       "name": "085 RMX",
       "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 176709,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/3t7CeMsyZJ8Jnt4MwJRDgX"
     },
     {
       "added_at": null,

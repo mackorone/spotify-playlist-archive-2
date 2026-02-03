@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8559,
+  "num_followers": 8563,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAACB+pkn6NY8Qyxw2VSjn+pK",
+  "snapshot_id": "aX6XgAAAAABjAMdTY3gaiSL5DUMCl205",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
+        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb - \u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0jiLI2Bh6Rc3uLapCjwMhX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ukulele Disney",
+        "url": "https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Aloha, E Komo Mai",
+      "url": "https://open.spotify.com/track/6N4hfS4moia0tvA7S23VwO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hope in the Ashes",
         "url": "https://open.spotify.com/album/373OIvXeyphGoVfggcCdcr"
       },
@@ -359,38 +391,6 @@
       "duration_ms": 154713,
       "name": "Hope in the Ashes",
       "url": "https://open.spotify.com/track/1RoNkSXNMMbBVLmApfVlMs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ukulele Disney",
-        "url": "https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Aloha, E Komo Mai",
-      "url": "https://open.spotify.com/track/6N4hfS4moia0tvA7S23VwO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
-        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb - \u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/0jiLI2Bh6Rc3uLapCjwMhX"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beneath The Waves Part 2",
-        "url": "https://open.spotify.com/album/60E75bjl78vQekCfNScQ89"
+        "name": "Calm Seas",
+        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 285493,
-      "name": "Beneath The Waves Part 2",
-      "url": "https://open.spotify.com/track/4d3ryiA37ycUVp0wcF6m6y"
+      "duration_ms": 175173,
+      "name": "Wailau",
+      "url": "https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh"
     },
     {
       "added_at": null,
@@ -703,6 +703,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beneath The Waves Part 2",
+        "url": "https://open.spotify.com/album/60E75bjl78vQekCfNScQ89"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 285493,
+      "name": "Beneath The Waves Part 2",
+      "url": "https://open.spotify.com/track/4d3ryiA37ycUVp0wcF6m6y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calm Seas",
+        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 116706,
+      "name": "The Stars Are Out",
+      "url": "https://open.spotify.com/track/4tXp7gM12sZMRd6ylWbceg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HandPicked",
         "url": "https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn"
       },
@@ -719,6 +751,22 @@
       "duration_ms": 485586,
       "name": "Hotel California (Duet with Jake Shimabukuro)",
       "url": "https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP"
     },
     {
       "added_at": null,
@@ -743,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Calm Seas",
+        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/00Qj11ClumxCZEvfT7ZXnI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace Love Ukulele",
         "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
       },
@@ -755,38 +819,6 @@
       "duration_ms": 266053,
       "name": "143 (Kelly's Song)",
       "url": "https://open.spotify.com/track/1PEgEkILapXe8e33pkJv7u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Calm Seas",
-        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "Wailau",
-      "url": "https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh"
     },
     {
       "added_at": null,
@@ -804,25 +836,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 249706,
-      "name": "\u6e1a",
-      "url": "https://open.spotify.com/track/27wzJWgo11uq4mTUGX2Eob"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/4N4xt7jHI0BOL8wxTfHuVg"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "NADA SOUSOU",
-      "url": "https://open.spotify.com/track/5fxN3wmbv8c121QjfbZhjZ"
+      "duration_ms": 329053,
+      "name": "IN MY LIFE",
+      "url": "https://open.spotify.com/track/3aBKiNFM1LHdl1zwoiu7ro"
     },
     {
       "added_at": null,
@@ -852,9 +868,25 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 116706,
-      "name": "The Stars Are Out",
-      "url": "https://open.spotify.com/track/4tXp7gM12sZMRd6ylWbceg"
+      "duration_ms": 141933,
+      "name": "Let's Go Home",
+      "url": "https://open.spotify.com/track/5A3Csnl1sqe3zlWD7Gs3gf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/4N4xt7jHI0BOL8wxTfHuVg"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "NADA SOUSOU",
+      "url": "https://open.spotify.com/track/5fxN3wmbv8c121QjfbZhjZ"
     },
     {
       "added_at": null,
@@ -872,9 +904,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 329053,
-      "name": "IN MY LIFE",
-      "url": "https://open.spotify.com/track/3aBKiNFM1LHdl1zwoiu7ro"
+      "duration_ms": 249706,
+      "name": "\u6e1a",
+      "url": "https://open.spotify.com/track/27wzJWgo11uq4mTUGX2Eob"
     },
     {
       "added_at": null,
@@ -891,38 +923,6 @@
       "duration_ms": 222266,
       "name": "\u30b9\u30ed\u30fc\u30fb\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beneath The Waves",
-        "url": "https://open.spotify.com/album/1qPXLZWbKGoaXbygOCwXBF"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Beneath The Waves",
-      "url": "https://open.spotify.com/track/36xDZNphTqQmOR7wrHQxdi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Calm Seas",
-        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 188186,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/00Qj11ClumxCZEvfT7ZXnI"
     }
   ],
   "unique_name": "This Is Jake Shimabukuro",

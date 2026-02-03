@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAIi8+Va9kTj9wUbx51FRWecF5rmmfH",
+  "snapshot_id": "AAAIjamLJM9+9ZWHEFuGXc2hwqy/pfHx",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -11075,6 +11075,38 @@
       "duration_ms": 193666,
       "name": "Morning Morgantown",
       "url": "https://open.spotify.com/track/6jhvDPA1wPvyZgt4Sd0jV2"
+    },
+    {
+      "added_at": "2026-02-02 23:36:46",
+      "album": {
+        "name": "do it afraid",
+        "url": "https://open.spotify.com/album/43EgijZ2EwYb8xgRDMh8GK"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 112002,
+      "name": "wake up b*tch",
+      "url": "https://open.spotify.com/track/05lmssgsoHg0C4GHuXnKHo"
+    },
+    {
+      "added_at": "2026-02-02 23:37:42",
+      "album": {
+        "name": "Ten Fold",
+        "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 140686,
+      "name": "crying through my teeth",
+      "url": "https://open.spotify.com/track/6nSVRWkCZ5H3gbbb92B4H6"
     }
   ],
   "unique_name": "Zacklog",

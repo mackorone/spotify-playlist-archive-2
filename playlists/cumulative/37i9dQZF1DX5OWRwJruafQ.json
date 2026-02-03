@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Atlantic",
+        "url": "https://open.spotify.com/album/5yndjxISPLCu2dBtbdLtVQ"
+      },
+      "artists": [
+        {
+          "name": "Vikram",
+          "url": "https://open.spotify.com/artist/1hP2OKkJ24oEkW8nNpQLX7"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144004,
+      "name": "Atlantic",
+      "url": "https://open.spotify.com/track/7B3n75ZSSr6G6VCEI2huOz"
+    },
+    {
+      "album": {
         "name": "Att",
         "url": "https://open.spotify.com/album/7vIksV0AHUeZNYWasymdPw"
       },
@@ -1450,6 +1468,28 @@
       "duration_ms": 224510,
       "name": "Badberry",
       "url": "https://open.spotify.com/track/5pswO9oQUB8uJtvpmxbeTV"
+    },
+    {
+      "album": {
+        "name": "Badmash (From \"Dsp Dev 2\")",
+        "url": "https://open.spotify.com/album/0rGtX0aiBfOahc0VDJhkPQ"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Rass",
+          "url": "https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150638,
+      "name": "Badmash - From \"Dsp Dev 2\"",
+      "url": "https://open.spotify.com/track/2A2vDULe18wwg8E7AmYU0o"
     },
     {
       "album": {
@@ -2604,7 +2644,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 165143,
       "name": "Cali Cali",
       "url": "https://open.spotify.com/track/6Ng65JPuU6MEKABmRkuw8D"
@@ -3646,7 +3686,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 187869,
       "name": "Dapper Dan",
       "url": "https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ"
@@ -5903,7 +5943,7 @@
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 146086,
+      "duration_ms": 144130,
       "name": "Godfather",
       "url": "https://open.spotify.com/track/2R2YRJh5wYtQ2npGZlcXP4"
     },
@@ -6476,7 +6516,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 213308,
       "name": "Hero (From \"Badnaam\")",
       "url": "https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV"
@@ -8166,7 +8206,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 231503,
       "name": "Kaale Angoor",
       "url": "https://open.spotify.com/track/5HUq5gDxWR1VW0hb37NjOw"
@@ -13188,7 +13228,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 251917,
       "name": "Rubicon",
       "url": "https://open.spotify.com/track/3xsUWTwx4m4cYgpueIPOWi"

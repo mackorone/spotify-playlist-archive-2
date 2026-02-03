@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 95728,
       "name": "Bad Bitches Luisteren Def",
       "url": "https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9"
@@ -8142,7 +8142,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 159399,
       "name": "FU & UF",
       "url": "https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu"
@@ -11233,6 +11233,24 @@
     },
     {
       "album": {
+        "name": "In De Olie",
+        "url": "https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134364,
+      "name": "In De Olie",
+      "url": "https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy"
+    },
+    {
+      "album": {
         "name": "in love with us",
         "url": "https://open.spotify.com/album/0IlLTDo99PpMqQKMnvLN3f"
       },
@@ -14154,7 +14172,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 190443,
       "name": "Meisje Uit De Klas",
       "url": "https://open.spotify.com/track/03Grq5CXpufuCb15u4gAe5"
@@ -17774,7 +17792,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 146000,
       "name": "Que Pasa",
       "url": "https://open.spotify.com/track/0Py8IrDCJMTeor03YPe1ln"
@@ -21419,6 +21437,24 @@
     },
     {
       "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
@@ -24958,6 +24994,24 @@
       "duration_ms": 144000,
       "name": "Zij Wil Mij",
       "url": "https://open.spotify.com/track/0UBHy0chqmMoShrhc3F2f4"
+    },
+    {
+      "album": {
+        "name": "Zijn Probleem",
+        "url": "https://open.spotify.com/album/5QmQVkCS2ESWm4wWl12DML"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171023,
+      "name": "Zijn Probleem",
+      "url": "https://open.spotify.com/track/7FJo5nWEp80SJsJ4ibkkof"
     },
     {
       "album": {

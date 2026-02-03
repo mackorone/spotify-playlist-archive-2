@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105712,
+  "num_followers": 105711,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
         "name": "Jogodo",
         "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 188861,
       "name": "Jogodo",
       "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
-        "name": "White Keys",
-        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 144101,
-      "name": "White Keys",
-      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "Gut Punch",
-        "url": "https://open.spotify.com/album/7EPAooBQphOBWLEnYrljAn"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Gut Punch",
-      "url": "https://open.spotify.com/track/0kG4t24uQCfcC1aZL3LyFu"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 243667,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "Gut Punch",
+        "url": "https://open.spotify.com/album/7EPAooBQphOBWLEnYrljAn"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Gut Punch",
+      "url": "https://open.spotify.com/track/0kG4t24uQCfcC1aZL3LyFu"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "BACK WHEN YOU WERE MINE",
-        "url": "https://open.spotify.com/album/7fMHdU1j2w6HL2YhWoLU7k"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 161346,
-      "name": "BACK WHEN YOU WERE MINE",
-      "url": "https://open.spotify.com/track/2RsXDEF05f7Ji6p5cbYaqT"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
         "name": "Death of Love",
         "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 206028,
       "name": "Death of Love",
       "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "BACK WHEN YOU WERE MINE",
+        "url": "https://open.spotify.com/album/7fMHdU1j2w6HL2YhWoLU7k"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 161346,
+      "name": "BACK WHEN YOU WERE MINE",
+      "url": "https://open.spotify.com/track/2RsXDEF05f7Ji6p5cbYaqT"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
+        "name": "2SIDED",
+        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "2SIDED",
+      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
         "name": "have to.",
         "url": "https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 187826,
       "name": "A PERFECT WORLD",
       "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
-        "name": "2SIDED",
-        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "2SIDED",
-      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "Thinking \u2018bout You",
-        "url": "https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 140586,
-      "name": "Thinking \u2018bout You",
-      "url": "https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
         "name": "If u kno u kno",
         "url": "https://open.spotify.com/album/4dQO15Lp6hWvl2BhW6gvCx"
       },
@@ -983,42 +967,18 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "Beto\u2019s Horns (fred remix)",
-        "url": "https://open.spotify.com/album/4CC0Q6wTtZ15OWHtNTGvnU"
+        "name": "Thinking \u2018bout You",
+        "url": "https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
         }
       ],
-      "duration_ms": 226222,
-      "name": "Beto\u2019s Horns - fred remix",
-      "url": "https://open.spotify.com/track/53rDh4kB1LJyLgnxm8K6Np"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        },
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Over (feat. Tom Odell)",
-      "url": "https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4"
+      "duration_ms": 140586,
+      "name": "Thinking \u2018bout You",
+      "url": "https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -1043,6 +1003,78 @@
       "duration_ms": 150613,
       "name": "I Did This To Myself",
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Over (feat. Tom Odell)",
+      "url": "https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "Beto\u2019s Horns (fred remix)",
+        "url": "https://open.spotify.com/album/4CC0Q6wTtZ15OWHtNTGvnU"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "duration_ms": 226222,
+      "name": "Beto\u2019s Horns - fred remix",
+      "url": "https://open.spotify.com/track/53rDh4kB1LJyLgnxm8K6Np"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "COSMIC OPERA ACT I",
+        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 175086,
+      "name": "Debris",
+      "url": "https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
+        "name": "professional heartbreaker",
+        "url": "https://open.spotify.com/album/2X5QpEX5O4DFQMLhr9iXx7"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 175328,
+      "name": "professional heartbreaker",
+      "url": "https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -1103,22 +1135,6 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "COSMIC OPERA ACT I",
-        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 175086,
-      "name": "Debris",
-      "url": "https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
         "name": "L.U.C.K.Y",
         "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
-        "name": "professional heartbreaker",
-        "url": "https://open.spotify.com/album/2X5QpEX5O4DFQMLhr9iXx7"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 175328,
-      "name": "professional heartbreaker",
-      "url": "https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
         "name": "From The Pyre",
         "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 238930,
       "name": "Count The Ways",
       "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
-        "name": "TO MAKE PEOPLE HAPPY",
-        "url": "https://open.spotify.com/album/5hBLIA2KYKkHLJWWS1K1tq"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "WAY YOU SMILE",
-      "url": "https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+        "name": "TO MAKE PEOPLE HAPPY",
+        "url": "https://open.spotify.com/album/5hBLIA2KYKkHLJWWS1K1tq"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
+      "duration_ms": 202500,
+      "name": "WAY YOU SMILE",
+      "url": "https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
+        "name": "Natural Disaster",
+        "url": "https://open.spotify.com/album/1SqQrfSJRJZKRFi2gSoYDK"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Natural Disaster",
+      "url": "https://open.spotify.com/track/1GzENjFiUZL7O6jreawkQE"
+    },
+    {
+      "added_at": "2026-01-29 23:00:47",
+      "album": {
         "name": "Nyhavn (feat. Ella Augusta)",
         "url": "https://open.spotify.com/album/1XQzJCS5yuvSJ2ByPqnv2F"
       },
@@ -1291,30 +1307,6 @@
       "duration_ms": 174750,
       "name": "Nyhavn (feat. Ella Augusta)",
       "url": "https://open.spotify.com/track/1IcCUdRb9sHuJUd7jsC8Vd"
-    },
-    {
-      "added_at": "2026-01-29 23:00:47",
-      "album": {
-        "name": "Reposado Remix",
-        "url": "https://open.spotify.com/album/10aDemoWWIXpitsGIuSXXp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
-        },
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 191011,
-      "name": "Reposado Remix",
-      "url": "https://open.spotify.com/track/52Ka7bj14YpxHfSy5fnH1F"
     },
     {
       "added_at": "2026-01-29 23:00:47",
@@ -1339,18 +1331,26 @@
     {
       "added_at": "2026-01-29 23:00:47",
       "album": {
-        "name": "Natural Disaster",
-        "url": "https://open.spotify.com/album/1SqQrfSJRJZKRFi2gSoYDK"
+        "name": "Reposado Remix",
+        "url": "https://open.spotify.com/album/10aDemoWWIXpitsGIuSXXp"
       },
       "artists": [
         {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Natural Disaster",
-      "url": "https://open.spotify.com/track/1GzENjFiUZL7O6jreawkQE"
+      "duration_ms": 191011,
+      "name": "Reposado Remix",
+      "url": "https://open.spotify.com/track/52Ka7bj14YpxHfSy5fnH1F"
     },
     {
       "added_at": "2026-01-29 23:00:47",

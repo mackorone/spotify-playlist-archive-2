@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,575 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,575 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [メディアノーチェ](https://open.spotify.com/track/0da1IJi7awMHj2O4ZzGFWj) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [メディアノーチェ](https://open.spotify.com/album/243VUqXWPKavxwE9ll1Vyo) | 3:49 |
 | 2 | [TOGE TOGE](https://open.spotify.com/track/3VZkUsi9dvriDVM0y6earF) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [TOGE TOGE](https://open.spotify.com/album/6CpM9vme3baJvIG0oWP4dc) | 3:55 |
-| 3 | [開拓者](https://open.spotify.com/track/4HnMtiSbAOGQCWEcWcSHg0) | [影ぼう](https://open.spotify.com/artist/1wdEjqn5ZnNhnxOMRDPc9r) | [開拓者](https://open.spotify.com/album/7r199jCbRN8heNkKQV1LUs) | 2:28 |
-| 4 | [ZENZEN わかってない](https://open.spotify.com/track/7nDI714YzM0yCSzEzLKaNB) | [Klang Ruler](https://open.spotify.com/artist/7dGWpqSL5xaZjWbo3UWXyU) | [ZENZEN わかってない](https://open.spotify.com/album/73fyGFe2PY5j4F2J7ACY4G) | 3:08 |
-| 5 | [tape of nothing](https://open.spotify.com/track/38gctvCEgcp8dzpXcHSuuq) | [ラッコかもしれない](https://open.spotify.com/artist/3zIGYtEpYeNLEp8xLESWLk) | [それは今日かもしれない](https://open.spotify.com/album/3MSM93TM4tSPezOSAQxu8K) | 2:33 |
-| 6 | [プレイリスト](https://open.spotify.com/track/11eTBGr2EAYq9hPr26oKpb) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [GALAXY DRIVE 水金地火木土天海冥ver](https://open.spotify.com/album/2Qc1D0NYliWRJCZLNpC6kY) | 3:38 |
-| 7 | [blur](https://open.spotify.com/track/3t0deDmp5UbzZYWtjFm6Uu) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [blur](https://open.spotify.com/album/73yXRETUZgZCTHypIRDmIK) | 2:44 |
+| 3 | [ZENZEN わかってない](https://open.spotify.com/track/7nDI714YzM0yCSzEzLKaNB) | [Klang Ruler](https://open.spotify.com/artist/7dGWpqSL5xaZjWbo3UWXyU) | [ZENZEN わかってない](https://open.spotify.com/album/73fyGFe2PY5j4F2J7ACY4G) | 3:08 |
+| 4 | [tape of nothing](https://open.spotify.com/track/38gctvCEgcp8dzpXcHSuuq) | [ラッコかもしれない](https://open.spotify.com/artist/3zIGYtEpYeNLEp8xLESWLk) | [それは今日かもしれない](https://open.spotify.com/album/3MSM93TM4tSPezOSAQxu8K) | 2:33 |
+| 5 | [プレイリスト](https://open.spotify.com/track/11eTBGr2EAYq9hPr26oKpb) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [GALAXY DRIVE 水金地火木土天海冥ver](https://open.spotify.com/album/2Qc1D0NYliWRJCZLNpC6kY) | 3:38 |
+| 6 | [blur](https://open.spotify.com/track/3t0deDmp5UbzZYWtjFm6Uu) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [blur](https://open.spotify.com/album/73yXRETUZgZCTHypIRDmIK) | 2:44 |
+| 7 | [kakegae](https://open.spotify.com/track/6W8QOu3VVvoSwx2OKY8qsE) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [kakegae](https://open.spotify.com/album/1cZkW2rDLrtM4fbfQldOpB) | 3:49 |
 | 8 | [sidelove](https://open.spotify.com/track/5uQASwe07cciATjQVJa5UC) | [Un](https://open.spotify.com/artist/3DnGnVRStq2PIGInj1pGyS) | [sidelove](https://open.spotify.com/album/12XQo7Vint4cTDpoNYbJwX) | 2:39 |
 | 9 | [ここで暮らしてるよ](https://open.spotify.com/track/21odCi9hKYKfH1E8FxKeSL) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [ここで暮らしてるよ](https://open.spotify.com/album/2raHH1CfeyniaxizTHzh9L) | 3:40 |
 | 10 | [スクールゾーン](https://open.spotify.com/track/59XRBvuAp9v0UqoQoH43sv) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [スクールゾーン](https://open.spotify.com/album/3W6j1GCfOmFBlCK5sUh2JU) | 3:31 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 39 | [うそつきマカロン \(feat\. 重音テト\)](https://open.spotify.com/track/1qHn38paFvzaDJmML1rQbV) | [暴飲暴食P](https://open.spotify.com/artist/5bT9WQ6QLrbabzdzvC63EN), [Teto Kasane](https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR) | [うそつきマカロン \(feat\. 重音テト\)](https://open.spotify.com/album/1EmUXxvwuLzDaaHvrhRZKd) | 2:49 |
 | 40 | [Life Goes On](https://open.spotify.com/track/74939IdqTymGTo5bmFqrh0) | [Ami Sakaguchi](https://open.spotify.com/artist/4aJOCsyxr9bOooJDwmXUwX) | [名前](https://open.spotify.com/album/67BrIBaT09C8rajzo4OQOA) | 3:08 |
 
-Snapshot ID: `AAAAAGsNgjkj/+8aA/JtCXYmAkifnlp4`
+Snapshot ID: `AAAAAHiumT13sZjBOX22uhUKjMdpC6m0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Best of South Asian Music. Cover: Hasan Raheem",
+  "description": "Best of South Asian Music. Cover: Jasleen Royal",
   "name": "Desi Hits",
   "tracks": [
     {
@@ -5711,6 +5711,28 @@
     },
     {
       "album": {
+        "name": "Koi Naam",
+        "url": "https://open.spotify.com/album/0yEvTMsYDemfZ75FmcB6hY"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Aditya Sharma",
+          "url": "https://open.spotify.com/artist/2V3QpcHI40ZRGMUhr3bHsl"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228795,
+      "name": "Koi Naam",
+      "url": "https://open.spotify.com/track/0vRgu0FsgI5AP1MJ9GupIR"
+    },
+    {
+      "album": {
         "name": "Koi Si",
         "url": "https://open.spotify.com/album/4HYXhgflBVtGl3cYL2eJIm"
       },
@@ -8044,7 +8066,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 240960,
       "name": "Panwadi (From \"Sunny Sanskari Ki Tulsi Kumari\")",
       "url": "https://open.spotify.com/track/6aMoxZbGxqRkyNKAlkzIpP"

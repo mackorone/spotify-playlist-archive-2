@@ -2,20 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 ### [RADAR Creators Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0thgoTntV114tkxYkGwI1t">Só pod ser história</a>
+> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:5uQPyd1dYqB4Oepgk8HqMM">obra aberta</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,891 likes - 9 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,899 likes - 11 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Só Pod 40 \- As relações que não valem meu próximo ano](https://open.spotify.com/episode/1EqrBTPOPdAheGZHshSOSQ) | [Só Pod Ser História • Podcast](https://open.spotify.com/show/0thgoTntV114tkxYkGwI1t) | [Só Pod Ser História • Podcast](https://open.spotify.com/album/0thgoTntV114tkxYkGwI1t) | 17:54 |
-| 2 | [Piores do Ano](https://open.spotify.com/episode/0Jsll7DlGjf7tiMnkzP7JS) | [Irrisório Show](https://open.spotify.com/show/6tm0VBIICzSjddzmSN7BmS) | [Irrisório Show](https://open.spotify.com/album/6tm0VBIICzSjddzmSN7BmS) | 51:14 |
-| 3 | [como a música muda nossa história ](https://open.spotify.com/episode/3NqHIVLY4nAnDOYxCmYkkl) | [MONÓLOGOS ♡](https://open.spotify.com/show/3Z980PbVrz8cf0StzZTFU4) | [MONÓLOGOS ♡](https://open.spotify.com/album/3Z980PbVrz8cf0StzZTFU4) | 55:08 |
-| 4 | [você precisa mudar de tipo](https://open.spotify.com/episode/7lO7dhMyQJKrMIaLLMhwWE) | [Tira Essa Brisa](https://open.spotify.com/show/6ic6GUo8AVIRLHee4iEOLg) | [Tira Essa Brisa](https://open.spotify.com/album/6ic6GUo8AVIRLHee4iEOLg) | 11:35 |
-| 5 | [\#64 \- a vida nao atrasa \- ela espera voce estar pronto](https://open.spotify.com/episode/3HrmItbZuyNlQbsDxIfImk) | [Para que Não Percais os Miolos](https://open.spotify.com/show/4dPjkPqNuC118hCi8HPocv) | [Para que Não Percais os Miolos](https://open.spotify.com/album/4dPjkPqNuC118hCi8HPocv) | 12:51 |
-| 6 | [RETROSPECTIVA AMOROSA DE 2025 \(bônus\)](https://open.spotify.com/episode/5YXxmOw5r4mQ6dUVikghGJ) | [Estavu Show](https://open.spotify.com/show/1QrMXzBqJt5WAlzCsUmHNu) | [Estavu Show](https://open.spotify.com/album/1QrMXzBqJt5WAlzCsUmHNu) | 11:18 |
-| 7 | [DON SUPER ESPECIAL! 1 ANO E 100 EPISÓDIOS! 🎉🥳 – DON \#100](https://open.spotify.com/episode/7FLwciUBfekjAjEyEV7JPa) | [Don Podcast](https://open.spotify.com/show/0ilOR20NgwNiwJXM9Uwd4p) | [Don Podcast](https://open.spotify.com/album/0ilOR20NgwNiwJXM9Uwd4p) | 2:49:04 |
-| 8 | [quero ser mais presente ](https://open.spotify.com/episode/7BkCS0XmuuvMemFBxXlj7l) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 18:09 |
-| 9 | [\#195\. Comemorações póstumas](https://open.spotify.com/episode/4ll5X1d6E6ItyVftPzbt9k) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 1:16:44 |
+| 1 | [autenticidade virou estética? \#13](https://open.spotify.com/episode/0mC7Lq3U6qesaAubU0moHa) | [obra aberta](https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM) | [obra aberta](https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM) | 21:48 |
+| 2 | [Só Pod 47 \- Minha mãe sempre precisa roubar o que é meu](https://open.spotify.com/episode/0u1YPHcR6S3o2INFOaTN0X) | [Só Pod Ser História • Podcast](https://open.spotify.com/show/0thgoTntV114tkxYkGwI1t) | [Só Pod Ser História • Podcast](https://open.spotify.com/album/0thgoTntV114tkxYkGwI1t) | 18:28 |
+| 3 | [Salvando Vidas \#29 \- Amante Estratégica](https://open.spotify.com/episode/23TLwbNTsIXvhurfhqqCE8) | [Irrisório Show](https://open.spotify.com/show/6tm0VBIICzSjddzmSN7BmS) | [Irrisório Show](https://open.spotify.com/album/6tm0VBIICzSjddzmSN7BmS) | 44:27 |
+| 4 | [\#67 \- Será que você é capaz de amar de novo?](https://open.spotify.com/episode/3B0ivjIEtKbxntFYNFqGUF) | [Para que Não Percais os Miolos](https://open.spotify.com/show/4dPjkPqNuC118hCi8HPocv) | [Para que Não Percais os Miolos](https://open.spotify.com/album/4dPjkPqNuC118hCi8HPocv) | 25:29 |
+| 5 | [esse homi vai te sabotar](https://open.spotify.com/episode/6P4TTrVVzORBajP8fxpXGm) | [Tira Essa Brisa](https://open.spotify.com/show/6ic6GUo8AVIRLHee4iEOLg) | [Tira Essa Brisa](https://open.spotify.com/album/6ic6GUo8AVIRLHee4iEOLg) | 11:44 |
+| 6 | [QUANDO EU VOMITEI NA FRENTE DE TODO MUNDO \| Abrindo Parênteses \#014](https://open.spotify.com/episode/3KpbrsLwXVFtWWjLFUvTHo) | [Aquele Podcast da Beta](https://open.spotify.com/show/1w7QLlSXZcUrvF6djRawtg) | [Aquele Podcast da Beta](https://open.spotify.com/album/1w7QLlSXZcUrvF6djRawtg) | 36:57 |
+| 7 | [MEU NAMORADO ME TRAIU NO ROBLOX \(PROIBIDÃO\) \#58](https://open.spotify.com/episode/02ZavJB8jSepXNUZ82t5Dh) | [Estavu Show](https://open.spotify.com/show/1QrMXzBqJt5WAlzCsUmHNu) | [Estavu Show](https://open.spotify.com/album/1QrMXzBqJt5WAlzCsUmHNu) | 33:49 |
+| 8 | [O FUTURO DE DRAGON BALL 🐉 – DON \#108](https://open.spotify.com/episode/5S8xsH3D5J2p7pEAeXhzA7) | [Don Podcast](https://open.spotify.com/show/0ilOR20NgwNiwJXM9Uwd4p) | [Don Podcast](https://open.spotify.com/album/0ilOR20NgwNiwJXM9Uwd4p) | 2:17:06 |
+| 9 | [\#84 A epidemia de piscose causada pela I.A.](https://open.spotify.com/episode/1vpAULqPatN2vQRJRsBNBA) | [Turno da Noite](https://open.spotify.com/show/6gt6D5EyS6DRo3X4KuNhz5) | [Turno da Noite](https://open.spotify.com/album/6gt6D5EyS6DRo3X4KuNhz5) | 32:47 |
+| 10 | [pra quem tenta controlar tudo ](https://open.spotify.com/episode/3oyqQnV1Tu44Z92hXdPwg7) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 24:14 |
+| 11 | [\#203\. Bebê da mamãe](https://open.spotify.com/episode/5Qk3Gd1ERTYd67lWQ8IcRl) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 37:47 |
 
-Snapshot ID: `AAAAAMsMEMephtNW9UzNb7vMLrXM1O0f`
+Snapshot ID: `AAAAAAftvsf44+0HELkz7FP1Xj7xLkBU`

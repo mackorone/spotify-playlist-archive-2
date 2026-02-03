@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 15519,
+  "num_followers": 15523,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Heroin and Helicopters",
-        "url": "https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1"
-      },
-      "artists": [
-        {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Caribbean Skies",
-      "url": "https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 231000,
       "name": "Vaporize",
       "url": "https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "Heroin and Helicopters",
+        "url": "https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1"
+      },
+      "artists": [
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Caribbean Skies",
+      "url": "https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -707,38 +707,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Nation of Truth",
-        "url": "https://open.spotify.com/album/4OmqPZxOg43jtP8un2twB2"
-      },
-      "artists": [
-        {
-          "name": "Dustin Thomas",
-          "url": "https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "Nation of Truth",
-      "url": "https://open.spotify.com/track/0EJFzeHiwdTdJxi4aQY1c8"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "Rebel Frequency",
-        "url": "https://open.spotify.com/album/0Fy6vW3LC71qxPSw421IMR"
-      },
-      "artists": [
-        {
-          "name": "Nattali Rize",
-          "url": "https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "One People",
-      "url": "https://open.spotify.com/track/35zXxNUgVHw5qy4N9YdVxv"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/01I7NXp9kAgyrpvxrrVfzm"
       },
@@ -775,6 +743,38 @@
       "duration_ms": 274093,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/5toBuWuHXCsausMXQcQkLR"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "Nation of Truth",
+        "url": "https://open.spotify.com/album/4OmqPZxOg43jtP8un2twB2"
+      },
+      "artists": [
+        {
+          "name": "Dustin Thomas",
+          "url": "https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK"
+        }
+      ],
+      "duration_ms": 220186,
+      "name": "Nation of Truth",
+      "url": "https://open.spotify.com/track/0EJFzeHiwdTdJxi4aQY1c8"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "Rebel Frequency",
+        "url": "https://open.spotify.com/album/0Fy6vW3LC71qxPSw421IMR"
+      },
+      "artists": [
+        {
+          "name": "Nattali Rize",
+          "url": "https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "One People",
+      "url": "https://open.spotify.com/track/35zXxNUgVHw5qy4N9YdVxv"
     },
     {
       "added_at": "2024-03-25 16:49:10",

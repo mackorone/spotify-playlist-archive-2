@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 12617,
+  "num_followers": 12640,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAACvwv5tviXjTFMjSdfO7AoI",
+  "snapshot_id": "aX6XgAAAAAAy/FAWltnh1x2tcV2btvP3",
   "tracks": [
     {
       "added_at": null,
@@ -231,30 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEMR\u00c9H (FINAL SPRINT)",
-        "url": "https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9"
-      },
-      "artists": [
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "Eles Me Odeiam",
-      "url": "https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE BOX MEDLEY 12",
         "url": "https://open.spotify.com/album/1UAvKSK9Mc7Euv0HwVej1C"
       },
@@ -299,6 +275,30 @@
       "duration_ms": 352951,
       "name": "THE BOX MEDLEY 12",
       "url": "https://open.spotify.com/track/6TmtNB90rBnhIiJeJuEyWu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEMR\u00c9H (FINAL SPRINT)",
+        "url": "https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "Eles Me Odeiam",
+      "url": "https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W"
     },
     {
       "added_at": null,

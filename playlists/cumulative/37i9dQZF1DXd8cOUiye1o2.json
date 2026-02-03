@@ -1769,6 +1769,32 @@
     },
     {
       "album": {
+        "name": "Bheegi Bheegi",
+        "url": "https://open.spotify.com/album/3gSamGzuaJypB6V9z6CvrX"
+      },
+      "artists": [
+        {
+          "name": "A. R. Ameen",
+          "url": "https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219818,
+      "name": "Bheegi Bheegi",
+      "url": "https://open.spotify.com/track/3KYbbE5Yje5IcqJmNNbbkS"
+    },
+    {
+      "album": {
         "name": "Bheegi Saree (From \"Param Sundari\")",
         "url": "https://open.spotify.com/album/0taz3pe3vgfJL8yFw42pEC"
       },
@@ -6534,7 +6560,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 186868,
       "name": "Kore Kaagaz",
       "url": "https://open.spotify.com/track/1Zix6b3leS2yor5yRX8jk9"
@@ -7108,6 +7134,32 @@
       "duration_ms": 225882,
       "name": "Malang",
       "url": "https://open.spotify.com/track/573FXi2UCwO4k2InFxI4LQ"
+    },
+    {
+      "album": {
+        "name": "Manjogi (\"From \"Bhabiji Ghar Par Hain- Fun On The Run\")",
+        "url": "https://open.spotify.com/album/4ZcZi3wiXxm1HRLl7NU933"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Vishal Shelke",
+          "url": "https://open.spotify.com/artist/6yoZ3sfnKmeMLGuDUaeRnQ"
+        },
+        {
+          "name": "Ghulam Mohd. Khavar",
+          "url": "https://open.spotify.com/artist/1nLiJepEouLeaMr1YGOhIY"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183777,
+      "name": "Manjogi - \"From \"Bhabiji Ghar Par Hain- Fun On The Run\"",
+      "url": "https://open.spotify.com/track/07AGh7CnrasJUS1BXhT0Es"
     },
     {
       "album": {
@@ -7824,7 +7876,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 282391,
       "name": "Mudh Ja Raahiye",
       "url": "https://open.spotify.com/track/0BsMNlxWX42sw9ThOCSeey"
@@ -8316,7 +8368,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 182009,
       "name": "Noor",
       "url": "https://open.spotify.com/track/6oQY0jelRjBvf3zl1PMlrd"
@@ -11692,6 +11744,24 @@
       "duration_ms": 215103,
       "name": "Tu Hi Saahiba",
       "url": "https://open.spotify.com/track/3gSmBRi2j4zQ3pcidsK1P3"
+    },
+    {
+      "album": {
+        "name": "Tu Jaane Hai Kahan",
+        "url": "https://open.spotify.com/album/7lc1T9K43NHibF0obXhmJD"
+      },
+      "artists": [
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246043,
+      "name": "Tu Jaane Hai Kahan",
+      "url": "https://open.spotify.com/track/4zZlZgX3sleF4h8XTnxY14"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Paris Paloma",
-  "num_followers": 323789,
+  "num_followers": 323816,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
         "name": "Old Time Feeling",
         "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 234800,
       "name": "Where Have All the Flowers Gone",
       "url": "https://open.spotify.com/track/1WMMzf0o1gD5dyyYhJ46fO"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "A Southern Gothic",
-        "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
+        "name": "Not Dark Yet",
+        "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
       },
       "artists": [
         {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        },
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
         }
       ],
-      "duration_ms": 209546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
+      "duration_ms": 259917,
+      "name": "Not Dark Yet",
+      "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1263,22 +1267,18 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Not Dark Yet",
-        "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
+        "name": "A Southern Gothic",
+        "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
       },
       "artists": [
         {
-          "name": "Shelby Lynne",
-          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
-        },
-        {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
         }
       ],
-      "duration_ms": 259917,
-      "name": "Not Dark Yet",
-      "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
+      "duration_ms": 209546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Lookaftering",
-        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 125293,
-      "name": "Here Before",
-      "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 215869,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
+        "name": "Lookaftering",
+        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 125293,
+      "name": "Here Before",
+      "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "I Will Not Be Afraid",
-        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Blood on Your Bootheels",
-      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 139800,
       "name": "Universal Soldier",
       "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
+        "name": "I Will Not Be Afraid",
+        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Blood on Your Bootheels",
+      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl"
+        "name": "Home Plate (2008 Remaster)",
+        "url": "https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX"
       },
       "artists": [
         {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/4R7m6ZnA6GpuVikRKj2DGY"
+      "duration_ms": 167200,
+      "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
+      "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Home Plate (2008 Remaster)",
-        "url": "https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX"
+        "name": "Circles And Arrows",
+        "url": "https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Cheryl Wheeler",
+          "url": "https://open.spotify.com/artist/4bvWv6KDmnNNJCfElUEgsZ"
         }
       ],
-      "duration_ms": 167200,
-      "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
-      "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"
+      "duration_ms": 226000,
+      "name": "Northern Girl",
+      "url": "https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Circles And Arrows",
-        "url": "https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo"
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl"
       },
       "artists": [
         {
-          "name": "Cheryl Wheeler",
-          "url": "https://open.spotify.com/artist/4bvWv6KDmnNNJCfElUEgsZ"
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Northern Girl",
-      "url": "https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7"
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/4R7m6ZnA6GpuVikRKj2DGY"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1687,6 +1687,38 @@
       "duration_ms": 313405,
       "name": "Heads Gonna Roll",
       "url": "https://open.spotify.com/track/3JEQn0WheNcipQmxNxrxII"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
+        "name": "Want",
+        "url": "https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW"
+      },
+      "artists": [
+        {
+          "name": "Esther Rose",
+          "url": "https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs"
+        }
+      ],
+      "duration_ms": 298400,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/4j5Eu90OYhNnvZRB0lVWjM"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
+        "name": "Little May",
+        "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "duration_ms": 195735,
+      "name": "Boardwalks",
+      "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1719,38 +1751,6 @@
       "duration_ms": 194306,
       "name": "Too Late to Write a Love Song",
       "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
-        "name": "Little May",
-        "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 195735,
-      "name": "Boardwalks",
-      "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
-        "name": "Want",
-        "url": "https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW"
-      },
-      "artists": [
-        {
-          "name": "Esther Rose",
-          "url": "https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs"
-        }
-      ],
-      "duration_ms": 298400,
-      "name": "Want",
-      "url": "https://open.spotify.com/track/4j5Eu90OYhNnvZRB0lVWjM"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "One Step Ahead",
-        "url": "https://open.spotify.com/album/6ycDawGWCxbT5dk860MWOE"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Kentucky Borderline",
-      "url": "https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
       },
@@ -1851,6 +1835,22 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
+        "name": "One Step Ahead",
+        "url": "https://open.spotify.com/album/6ycDawGWCxbT5dk860MWOE"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Kentucky Borderline",
+      "url": "https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
         "name": "Violet Light",
         "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
       },
@@ -1863,22 +1863,6 @@
       "duration_ms": 173077,
       "name": "How Bad I Wanna Live",
       "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
-        "name": "Earthstar",
-        "url": "https://open.spotify.com/album/2bxcJhoKxnmm8qiNtUCa75"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 243455,
-      "name": "Earthstar",
-      "url": "https://open.spotify.com/track/12HfxXiDIpdYiD1h2AqHCX"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1923,6 +1907,22 @@
       "duration_ms": 186320,
       "name": "Fire, Water, Earth And Air",
       "url": "https://open.spotify.com/track/08HfNqZtFpypCW5luKg0uX"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/2bxcJhoKxnmm8qiNtUCa75"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/12HfxXiDIpdYiD1h2AqHCX"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Letting Me Down",
-      "url": "https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
         "name": "Would You Mind Please Pulling Me Close?",
         "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 243925,
       "name": "Would You Mind Please Pulling Me Close?",
       "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Letting Me Down",
+      "url": "https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -2367,34 +2367,18 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Teeth Marks",
-        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
+        "name": "Plain Letters (Reimagined)",
+        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 217130,
-      "name": "Teeth Marks",
-      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
-        "name": "I'm Not Around",
-        "url": "https://open.spotify.com/album/542qwbhNepiJqh4gt4WzId"
-      },
-      "artists": [
-        {
-          "name": "Angela Autumn",
-          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
-        }
-      ],
-      "duration_ms": 205384,
-      "name": "Faeries",
-      "url": "https://open.spotify.com/track/7vrvRfRl59esYrrL6Rg9Z8"
+      "duration_ms": 273150,
+      "name": "Plain Letters - Reimagined",
+      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -2415,18 +2399,18 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Plain Letters (Reimagined)",
-        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
+        "name": "Teeth Marks",
+        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
         }
       ],
-      "duration_ms": 273150,
-      "name": "Plain Letters - Reimagined",
-      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
+      "duration_ms": 217130,
+      "name": "Teeth Marks",
+      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -2463,18 +2447,18 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Mudroom",
-        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+        "name": "I'm Not Around",
+        "url": "https://open.spotify.com/album/542qwbhNepiJqh4gt4WzId"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
         }
       ],
-      "duration_ms": 239895,
-      "name": "Mudroom",
-      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
+      "duration_ms": 205384,
+      "name": "Faeries",
+      "url": "https://open.spotify.com/track/7vrvRfRl59esYrrL6Rg9Z8"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -2491,6 +2475,22 @@
       "duration_ms": 201936,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
+        "name": "Mudroom",
+        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 239895,
+      "name": "Mudroom",
+      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
     },
     {
       "added_at": "2025-05-02 17:33:18",

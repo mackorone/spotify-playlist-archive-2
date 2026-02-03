@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 234272,
+  "num_followers": 234290,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAAgh8njhJ9hImnAXKC4LuD7",
+  "snapshot_id": "aX6XgAAAAAANKo8SX8OKBJaj9CyM53Mr",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 133466,
-      "name": "El Katch",
-      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cazador",
         "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
@@ -431,28 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Reyes Del Movimiento Alterado",
-        "url": "https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct"
-      },
-      "artists": [
-        {
-          "name": "Buknas De Culiacan",
-          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 168146,
-      "name": "Orden Exigido",
-      "url": "https://open.spotify.com/track/5AqS1GDzzD2qkKAduFca3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
       },
       "artists": [
         {
@@ -460,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 126563,
-      "name": "Siempre Que Me Emborracho",
-      "url": "https://open.spotify.com/track/66b3krwHwKrKwVOOHkZXXv"
+      "duration_ms": 133466,
+      "name": "El Katch",
+      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
     },
     {
       "added_at": null,
@@ -483,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 126563,
+      "name": "Siempre Que Me Emborracho",
+      "url": "https://open.spotify.com/track/66b3krwHwKrKwVOOHkZXXv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cazador",
         "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 167499,
       "name": "Toquezones de Cannabis",
       "url": "https://open.spotify.com/track/1BFlRcER6IYupiiEVaYvMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Reyes Del Movimiento Alterado",
+        "url": "https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct"
+      },
+      "artists": [
+        {
+          "name": "Buknas De Culiacan",
+          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Orden Exigido",
+      "url": "https://open.spotify.com/track/5AqS1GDzzD2qkKAduFca3f"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 232881,
-      "name": "La Mafia Se Sienta En La Mesa",
-      "url": "https://open.spotify.com/track/4E3AyaHnGNCBstvVc9GVCL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cazador",
         "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 170125,
       "name": "Leyenda M1",
       "url": "https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 232881,
+      "name": "La Mafia Se Sienta En La Mesa",
+      "url": "https://open.spotify.com/track/4E3AyaHnGNCBstvVc9GVCL"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Zapopan (En Vivo)",
-        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 229982,
-      "name": "Me Gustas Mucho - En Vivo",
-      "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cazador",
         "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 195303,
       "name": "Soy de Rancho",
       "url": "https://open.spotify.com/track/0FwUglqH6FtXpI41kBLTfI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Zapopan (En Vivo)",
+        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 229982,
+      "name": "Me Gustas Mucho - En Vivo",
+      "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
     },
     {
       "added_at": null,

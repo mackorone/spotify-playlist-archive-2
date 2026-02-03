@@ -1,6 +1,6 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 306030,
+  "num_followers": 306041,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-01-09 05:00:33",
       "album": {
-        "name": "Pure Country",
-        "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 138160,
-      "name": "Heartland - Pure Country/Soundtrack Version",
-      "url": "https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8"
-    },
-    {
-      "added_at": "2026-01-09 05:00:33",
-      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s"
+    },
+    {
+      "added_at": "2026-01-09 05:00:33",
+      "album": {
+        "name": "Pure Country",
+        "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 138160,
+      "name": "Heartland - Pure Country/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8"
     },
     {
       "added_at": "2026-01-09 05:00:33",

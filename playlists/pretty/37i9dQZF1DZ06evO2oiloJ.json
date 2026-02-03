@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 247996,
+  "num_followers": 248041,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAABHtHPSWojVOwtibGItAjfU",
+  "snapshot_id": "aX6XgAAAAAD0SRJUEuuHykBN5GpYp+F/",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feed the Streets",
+        "url": "https://open.spotify.com/album/3aw4rnv0BLiiEqFbYZHBdN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Feed the Streets",
+      "url": "https://open.spotify.com/track/35Gc7ihva3XEo5gw8gazRa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHAM (Extended Version)",
         "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
@@ -763,42 +779,6 @@
       "duration_ms": 188160,
       "name": "Sinners",
       "url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feed the Streets",
-        "url": "https://open.spotify.com/album/3aw4rnv0BLiiEqFbYZHBdN"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Feed the Streets",
-      "url": "https://open.spotify.com/track/35Gc7ihva3XEo5gw8gazRa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voicemail (feat. Rod Wave)",
-        "url": "https://open.spotify.com/album/1lxBTSaU3PS7NqFuN5cIA6"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 272785,
-      "name": "Voicemail (feat. Rod Wave)",
-      "url": "https://open.spotify.com/track/4ROfJ7JAeConXVWe6S3Iyv"
     }
   ],
   "unique_name": "This Is Rod Wave",

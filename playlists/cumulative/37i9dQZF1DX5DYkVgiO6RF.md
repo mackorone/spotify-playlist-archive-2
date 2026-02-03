@@ -4,7 +4,7 @@
 
 > all cruise, no breaks
 
-161 songs - 10 hr 4 min
+162 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Bassically](https://open.spotify.com/track/0jGayco2vDiq3kMpPFN2bI) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR) | 4:51 | 2022-05-05 | 2023-09-06 |
 | [Bennington \(2007\)](https://open.spotify.com/track/2PG26cmJdlT9xNAhdiHaaJ) | [John Maus](https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u) | [A Collection of Rarities and Previously Unreleased Material](https://open.spotify.com/album/3f7Aco3znOBzGY9DfEk9wi) | 3:13 | 2022-05-05 | 2023-09-06 |
 | [Beware](https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 3:55 | 2023-09-05 | 2023-09-30 |
-| [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-07 |  |
+| [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-07 | 2026-02-03 |
 | [Bodies \(BNYX® Mix\) \[feat\. JID, Drowning Pool & BNYX®\)](https://open.spotify.com/track/3QOZzMwbyCNVaDgUXdvu8Y) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [KIARI:OFFSET](https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6) | 3:13 | 2025-09-27 |  |
 | [Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:49 | 2023-09-05 |  |
 | [Break from Toronto](https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 1:39 | 2023-09-05 |  |
@@ -141,6 +141,7 @@
 | [Stargirl Interlude](https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 1:51 | 2023-09-05 |  |
 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 | 2023-09-05 | 2024-10-06 |
 | [Sucker / Psycho](https://open.spotify.com/track/0YrU5rnOXUWyik38YDVwQw) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Sucker / Psycho](https://open.spotify.com/album/4lGR8tzDw0OeWGiKZksDFY) | 3:39 | 2025-09-27 | 2025-10-21 |
+| [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 | 2026-02-02 |  |
 | [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 | 2023-03-29 | 2023-08-25 |
 | [Swallowed By The Ocean](https://open.spotify.com/track/6ukCPd1kbqTzMXJeh0Jrwi) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Afterlife](https://open.spotify.com/album/0TfLNPaI76u8QwRNDiowSt) | 4:25 | 2023-02-28 | 2023-09-06 |
 | [São Paulo \(feat\. Anitta\) \- Single Version](https://open.spotify.com/track/2HXQL06smXD4evuW7MLY4X) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/28TLpNqlJzeOqm9N4OY3BS) | 2:28 | 2025-09-19 |  |

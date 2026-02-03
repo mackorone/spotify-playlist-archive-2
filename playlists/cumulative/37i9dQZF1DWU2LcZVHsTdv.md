@@ -2,9 +2,9 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
-> The country way of testifying.
+> The country way of testifying\. Cover: Jelly Roll
 
-293 songs - 17 hr 47 min
+294 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [He Got a Hold of Me](https://open.spotify.com/track/6TzjdXiUn6iPBX6LcyyoFP) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [He Got a Hold of Me](https://open.spotify.com/album/5IWDeyHcJ6CR6Y0bQxuRdN) | 3:40 | 2023-09-15 | 2025-06-30 |
 | [He Touched Me / Something Beautiful](https://open.spotify.com/track/08r7I8bTMrjQL8KWWy4W4o) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Susie McEntire](https://open.spotify.com/artist/2eCSPBCgOoSo97Uy7zTI6U), [Sonya Isaacs](https://open.spotify.com/artist/4weums6IzU9u5hNt7lR31b), [Becky Isaacs](https://open.spotify.com/artist/3rxvs0DJZWRwAtdhg3bEDC) | [He Touched Me / Something Beautiful](https://open.spotify.com/album/0aDye7Hbc6IkmxyN1pUsqh) | 3:35 | 2023-08-04 | 2024-12-14 |
 | [Heart of God](https://open.spotify.com/track/6BhXU6XZMOZ4wz3tUcgkai) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Heart of God](https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS) | 3:53 | 2022-07-29 | 2025-06-30 |
+| [Heart of Stone](https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:01 | 2026-02-02 |  |
 | [Heaven By Then](https://open.spotify.com/track/4GVVc4W9u4ZXemCmru5orO) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [So Help Me God](https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL) | 3:02 | 2023-06-09 |  |
 | [Heaven Down Here](https://open.spotify.com/track/0XWNEv2MhiUqfdyVlQabIi) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Heaven Down Here](https://open.spotify.com/album/4XMV3levyftRwrDmyxJBzD) | 3:33 | 2021-12-10 |  |
 | [Heaven Was Needing A Hero](https://open.spotify.com/track/1ZORIAAPFg3akZMeiPaXCO) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Unmistakable Inspiration](https://open.spotify.com/album/4TyigJCY5sR7QXp7xo1MJ1) | 4:24 | 2022-03-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 458553,
+  "num_followers": 458695,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADFluZ1Yka7vwGS9uQOO8fY",
+  "snapshot_id": "aX6XgAAAAAA0TBzftCwOSfDOAkh9UL1J",
   "tracks": [
     {
       "added_at": null,
@@ -83,18 +83,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
+        "name": "About A Woman (Deluxe)",
+        "url": "https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6"
       },
       "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 175081,
-      "name": "Devil in a Dress",
-      "url": "https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8"
+      "duration_ms": 207794,
+      "name": "Somethin' 'Bout A Woman",
+      "url": "https://open.spotify.com/track/15JqWJoyG7WNJi9qrAYT86"
     },
     {
       "added_at": null,
@@ -115,22 +119,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "About A Woman (Deluxe)",
-        "url": "https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6"
+        "name": "Sleep is Exhausting",
+        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
       },
       "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 207794,
-      "name": "Somethin' 'Bout A Woman",
-      "url": "https://open.spotify.com/track/15JqWJoyG7WNJi9qrAYT86"
+      "duration_ms": 175081,
+      "name": "Devil in a Dress",
+      "url": "https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lose Control (Alt. Versions)",
-        "url": "https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Lose Control - Piano Version",
-      "url": "https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You've Got Another Thing Coming (From the Netflix Series \"Nobody Wants This\" Season 2)",
         "url": "https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 179086,
       "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lose Control (Alt. Versions)",
+        "url": "https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Lose Control - Piano Version",
+      "url": "https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unlearning",
+        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 188795,
+      "name": "Til I Change Your Mind",
+      "url": "https://open.spotify.com/track/0SBsdYSakN6BViHUPMzXwN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only Love Can Hurt Like This (feat. Teddy Swims) [Remix]",
         "url": "https://open.spotify.com/album/2jAnutEJgLvYaO73RBRKiJ"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 232153,
       "name": "Only Love Can Hurt Like This (feat. Teddy Swims) - Remix",
       "url": "https://open.spotify.com/track/0LCkj8JSa3pahuphDXiOwZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unlearning",
-        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 188795,
-      "name": "Til I Change Your Mind",
-      "url": "https://open.spotify.com/track/0SBsdYSakN6BViHUPMzXwN"
     },
     {
       "added_at": null,

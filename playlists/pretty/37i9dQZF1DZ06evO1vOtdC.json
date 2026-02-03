@@ -1,12 +1,12 @@
 {
   "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
-  "num_followers": 469359,
+  "num_followers": 469338,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAADBgGD1SYAjhox4qvO0dDZ",
+  "snapshot_id": "aX6XgAAAAADaLpc5rq9Q8Cpnl4AIshE7",
   "tracks": [
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Right",
+        "url": "https://open.spotify.com/album/426RnvYSHgtWcBwyXeZ5L4"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 176664,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/1TnHtrxIEhzanaRWoxbPVb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Double Vision (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK"
       },
@@ -947,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Right",
-        "url": "https://open.spotify.com/album/426RnvYSHgtWcBwyXeZ5L4"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 157265,
-      "name": "Get Right - Joel Corry VIP Mix",
-      "url": "https://open.spotify.com/track/5XYX6qohHM4zIdCZU3o9Dn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -991,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marry Me (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 157130,
-      "name": "Marry Me - Kat & Bastian Duet",
-      "url": "https://open.spotify.com/track/7wCqBjOdJ9Gk0OtNVnRB0W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 272733,
       "name": "Hold You Down (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/6ltJj4qDkAQFI4zsMwQWoq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marry Me (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 157130,
+      "name": "Marry Me - Kat & Bastian Duet",
+      "url": "https://open.spotify.com/track/7wCqBjOdJ9Gk0OtNVnRB0W"
     },
     {
       "added_at": null,

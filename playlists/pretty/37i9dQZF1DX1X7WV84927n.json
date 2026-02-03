@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: From Ashes to New",
-  "num_followers": 438638,
+  "num_followers": 438695,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "Let There Be Shred",
-        "url": "https://open.spotify.com/album/5ccNJ8oSnyKPgTwK0ntWHz"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 238276,
-      "name": "Let There Be Shred",
-      "url": "https://open.spotify.com/track/18HAI5WUpc0f18ZpCDrPa0"
-    },
-    {
-      "added_at": "2026-01-30 05:01:13",
-      "album": {
         "name": "Lonely God",
         "url": "https://open.spotify.com/album/2Xxkietvt0COre6jAvs6OW"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 206229,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/53ricdihmEjTUBtBGRWK5b"
+    },
+    {
+      "added_at": "2026-01-30 05:01:13",
+      "album": {
+        "name": "Let There Be Shred",
+        "url": "https://open.spotify.com/album/5ccNJ8oSnyKPgTwK0ntWHz"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 238276,
+      "name": "Let There Be Shred",
+      "url": "https://open.spotify.com/track/18HAI5WUpc0f18ZpCDrPa0"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "Alienation",
-        "url": "https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 211262,
-      "name": "Don't Wanna Go Home Tonight",
-      "url": "https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ"
-    },
-    {
-      "added_at": "2026-01-30 05:01:13",
-      "album": {
         "name": "SLEEP WHEN I\u2019M DEAD / HELLBOUND",
         "url": "https://open.spotify.com/album/7sjnUsvvEHwqhyob2YHtlt"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 216716,
       "name": "SLEEP WHEN I\u2019M DEAD",
       "url": "https://open.spotify.com/track/4ExLy31ilDb3T7xBCK46hG"
+    },
+    {
+      "added_at": "2026-01-30 05:01:13",
+      "album": {
+        "name": "Alienation",
+        "url": "https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 211262,
+      "name": "Don't Wanna Go Home Tonight",
+      "url": "https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "Three Six Five / Dance, Kid, Dance",
-        "url": "https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 212113,
-      "name": "Dance, Kid, Dance",
-      "url": "https://open.spotify.com/track/3FZUR5UnfKK1q5gqbouBeW"
-    },
-    {
-      "added_at": "2026-01-30 05:01:13",
-      "album": {
         "name": "Things Are Different Now",
         "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
       },
@@ -1399,22 +1383,18 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "The End (feat. BABYMETAL) [2025 VERSION]",
-        "url": "https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO"
+        "name": "Three Six Five / Dance, Kid, Dance",
+        "url": "https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        },
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 222500,
-      "name": "The End (feat. BABYMETAL) - 2025 VERSION",
-      "url": "https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85"
+      "duration_ms": 212113,
+      "name": "Dance, Kid, Dance",
+      "url": "https://open.spotify.com/track/3FZUR5UnfKK1q5gqbouBeW"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -1431,6 +1411,26 @@
       "duration_ms": 181344,
       "name": "Lil Crush",
       "url": "https://open.spotify.com/track/6CBZ7e4CQyPucgTfxveg7x"
+    },
+    {
+      "added_at": "2026-01-30 05:01:13",
+      "album": {
+        "name": "The End (feat. BABYMETAL) [2025 VERSION]",
+        "url": "https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "The End (feat. BABYMETAL) - 2025 VERSION",
+      "url": "https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
+        "name": "I Will Not Break",
+        "url": "https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 292058,
+      "name": "I Will Not Break",
+      "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
+    },
+    {
+      "added_at": "2026-01-30 05:01:13",
+      "album": {
         "name": "My Only Angel",
         "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 255818,
       "name": "My Only Angel",
       "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
-    },
-    {
-      "added_at": "2026-01-30 05:01:13",
-      "album": {
-        "name": "I Will Not Break",
-        "url": "https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 292058,
-      "name": "I Will Not Break",
-      "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "Feel Something, Great.",
-        "url": "https://open.spotify.com/album/1s63AbCuvbrYCcPAm358Cq"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 201787,
-      "name": "Feel Something, Great.",
-      "url": "https://open.spotify.com/track/7twRJwGWZC147R6QkE4s7f"
-    },
-    {
-      "added_at": "2026-01-30 05:01:13",
-      "album": {
         "name": "NINE LIVES",
         "url": "https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 120504,
       "name": "DERELICT (feat. Spencer Charnas from Ice Nine Kills)",
       "url": "https://open.spotify.com/track/4nzNLOMboszyXjoHeeEcbW"
+    },
+    {
+      "added_at": "2026-01-30 05:01:13",
+      "album": {
+        "name": "Feel Something, Great.",
+        "url": "https://open.spotify.com/album/1s63AbCuvbrYCcPAm358Cq"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 201787,
+      "name": "Feel Something, Great.",
+      "url": "https://open.spotify.com/track/7twRJwGWZC147R6QkE4s7f"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 172759,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
-    },
-    {
-      "added_at": "2026-01-30 05:01:13",
-      "album": {
         "name": "You Got This",
         "url": "https://open.spotify.com/album/4RLOgw937LloMOHDQpE2mW"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 217463,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/5i220DkgLvh0TW1FpR0ugv"
+    },
+    {
+      "added_at": "2026-01-30 05:01:13",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 172759,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -1935,18 +1935,18 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "See You On The Other Side (20th Anniversary Edition - Remastered)",
-        "url": "https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5"
+        "name": "human props",
+        "url": "https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
         }
       ],
-      "duration_ms": 314071,
-      "name": "Last Legal Drug",
-      "url": "https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB"
+      "duration_ms": 236273,
+      "name": "human props",
+      "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "human props",
-        "url": "https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0"
-      },
-      "artists": [
-        {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
-        }
-      ],
-      "duration_ms": 236273,
-      "name": "human props",
-      "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
-    },
-    {
-      "added_at": "2026-01-30 05:01:13",
-      "album": {
         "name": "The Real You",
         "url": "https://open.spotify.com/album/6RVPnpptZoMHjubHk3VjBX"
       },
@@ -1999,18 +1983,18 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "Playing Aces",
-        "url": "https://open.spotify.com/album/5AnND0iv1nJeZUnqwzqqOl"
+        "name": "See You On The Other Side (20th Anniversary Edition - Remastered)",
+        "url": "https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5"
       },
       "artists": [
         {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 244183,
-      "name": "Playing Aces",
-      "url": "https://open.spotify.com/track/7mEFQ2zsu27VkVB9ncNRB2"
+      "duration_ms": 314071,
+      "name": "Last Legal Drug",
+      "url": "https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -2071,22 +2055,18 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS"
+        "name": "Playing Aces",
+        "url": "https://open.spotify.com/album/5AnND0iv1nJeZUnqwzqqOl"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Wild Woman",
-      "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"
+      "duration_ms": 244183,
+      "name": "Playing Aces",
+      "url": "https://open.spotify.com/track/7mEFQ2zsu27VkVB9ncNRB2"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -2123,6 +2103,26 @@
       "duration_ms": 262195,
       "name": "Like A Woman Can",
       "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
+    },
+    {
+      "added_at": "2026-01-30 05:01:13",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -2211,22 +2211,18 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "Bad Dreams (feat. Of Virtue)",
-        "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
+        "name": "Darkness Always Wins",
+        "url": "https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr"
       },
       "artists": [
         {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        },
-        {
-          "name": "Of Virtue",
-          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 220866,
-      "name": "Bad Dreams (feat. Of Virtue)",
-      "url": "https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY"
+      "duration_ms": 290309,
+      "name": "Darkness Always Wins",
+      "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -2247,18 +2243,22 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "Darkness Always Wins",
-        "url": "https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr"
+        "name": "Bad Dreams (feat. Of Virtue)",
+        "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
       },
       "artists": [
         {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        },
+        {
+          "name": "Of Virtue",
+          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
         }
       ],
-      "duration_ms": 290309,
-      "name": "Darkness Always Wins",
-      "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
+      "duration_ms": 220866,
+      "name": "Bad Dreams (feat. Of Virtue)",
+      "url": "https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "GUTSY",
-        "url": "https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ"
-      },
-      "artists": [
-        {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
-        }
-      ],
-      "duration_ms": 281124,
-      "name": "GUTSY",
-      "url": "https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i"
-    },
-    {
-      "added_at": "2026-01-30 05:01:13",
-      "album": {
         "name": "Pullin' Teeth (feat. Kevin Rheault)",
         "url": "https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r"
       },
@@ -2335,6 +2319,22 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
+        "name": "GUTSY",
+        "url": "https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 281124,
+      "name": "GUTSY",
+      "url": "https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i"
+    },
+    {
+      "added_at": "2026-01-30 05:01:13",
+      "album": {
         "name": "said and done",
         "url": "https://open.spotify.com/album/5y256Ukp4qBoclIgifo6HY"
       },
@@ -2347,22 +2347,6 @@
       "duration_ms": 206916,
       "name": "said and done",
       "url": "https://open.spotify.com/track/1Wj6SS4J8pMpad7CgCjgIH"
-    },
-    {
-      "added_at": "2026-01-30 05:01:13",
-      "album": {
-        "name": "What Lies Within",
-        "url": "https://open.spotify.com/album/5kefxoE4MBRf6L5yp6RoLY"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 306418,
-      "name": "What Lies Within",
-      "url": "https://open.spotify.com/track/3noiVDFbXAcHvzuabCo109"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -2383,22 +2367,34 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "They Were Always Here",
-        "url": "https://open.spotify.com/album/6qL50fXDRthHQTp9O24say"
+        "name": "What Lies Within",
+        "url": "https://open.spotify.com/album/5kefxoE4MBRf6L5yp6RoLY"
       },
       "artists": [
         {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        },
-        {
-          "name": "No Love For The Middle Child",
-          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
         }
       ],
-      "duration_ms": 190428,
-      "name": "Make a Mess",
-      "url": "https://open.spotify.com/track/0crhkNZJhowGwML5s7TYGp"
+      "duration_ms": 306418,
+      "name": "What Lies Within",
+      "url": "https://open.spotify.com/track/3noiVDFbXAcHvzuabCo109"
+    },
+    {
+      "added_at": "2026-01-30 05:01:13",
+      "album": {
+        "name": "The Only Heaven You'll Know",
+        "url": "https://open.spotify.com/album/7rBKkQ3Vz9D6jbPwoEWRnI"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "The Only Heaven You'll Know",
+      "url": "https://open.spotify.com/track/4w1kRlzCTYQKXKXX2UULcK"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -2423,18 +2419,22 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "The Only Heaven You'll Know",
-        "url": "https://open.spotify.com/album/7rBKkQ3Vz9D6jbPwoEWRnI"
+        "name": "They Were Always Here",
+        "url": "https://open.spotify.com/album/6qL50fXDRthHQTp9O24say"
       },
       "artists": [
         {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        },
+        {
+          "name": "No Love For The Middle Child",
+          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
         }
       ],
-      "duration_ms": 223000,
-      "name": "The Only Heaven You'll Know",
-      "url": "https://open.spotify.com/track/4w1kRlzCTYQKXKXX2UULcK"
+      "duration_ms": 190428,
+      "name": "Make a Mess",
+      "url": "https://open.spotify.com/track/0crhkNZJhowGwML5s7TYGp"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "Sulfur",
-        "url": "https://open.spotify.com/album/3bC6nllU11wU2jTw7vmQcS"
-      },
-      "artists": [
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 206180,
-      "name": "Sulfur",
-      "url": "https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8"
-    },
-    {
-      "added_at": "2026-01-30 05:01:13",
-      "album": {
         "name": "Sacred",
         "url": "https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ"
       },
@@ -2503,18 +2487,18 @@
     {
       "added_at": "2026-01-30 05:01:13",
       "album": {
-        "name": "Family Heirlooms",
-        "url": "https://open.spotify.com/album/2lOR718rLgfu2fMG779AfA"
+        "name": "Sulfur",
+        "url": "https://open.spotify.com/album/3bC6nllU11wU2jTw7vmQcS"
       },
       "artists": [
         {
-          "name": "Citizen Soldier",
-          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
         }
       ],
-      "duration_ms": 262736,
-      "name": "It Ends With Me",
-      "url": "https://open.spotify.com/track/73GxPslknOLpvGG3dMdPeV"
+      "duration_ms": 206180,
+      "name": "Sulfur",
+      "url": "https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8"
     },
     {
       "added_at": "2026-01-30 05:01:13",
@@ -2531,6 +2515,22 @@
       "duration_ms": 169133,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
+    },
+    {
+      "added_at": "2026-01-30 05:01:13",
+      "album": {
+        "name": "Family Heirlooms",
+        "url": "https://open.spotify.com/album/2lOR718rLgfu2fMG779AfA"
+      },
+      "artists": [
+        {
+          "name": "Citizen Soldier",
+          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
+        }
+      ],
+      "duration_ms": 262736,
+      "name": "It Ends With Me",
+      "url": "https://open.spotify.com/track/73GxPslknOLpvGG3dMdPeV"
     }
   ],
   "unique_name": "Hard Rock",

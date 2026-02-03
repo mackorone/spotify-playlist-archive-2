@@ -2,9 +2,9 @@
 
 ### [State of Mind](https://open.spotify.com/playlist/37i9dQZF1DX1YPTAhwehsC)
 
-> Up and down I\-95\. Cover: A$AP Rocky
+> Up and down I\-95\. Cover: Clipse and Pharrell
 
-1,918 songs - 3 day 15 hr 0 min
+1,919 songs - 3 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ) | [Girll Codee](https://open.spotify.com/artist/2yNSw1444IAEFmZBDr9saO), [HoodCelebrityy](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/album/4tXiLGssJW4PCETKkVmW5v) | 3:05 | 2022-05-31 | 2022-07-09 |
 | [Chain of Command](https://open.spotify.com/track/3TsHZSMdRyb8dPcOJi37bz) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Lavish Misery](https://open.spotify.com/album/73VpGECa5lE0BM4t0YvVsV) | 2:40 | 2024-03-08 | 2024-03-16 |
 | [Chain Smokin](https://open.spotify.com/track/13gGKDBFKilZ6lFFjYhUmK) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Chain Smokin](https://open.spotify.com/album/7xM4CGrLZPwLVRkxkc5RVC) | 2:07 | 2024-02-09 | 2024-07-06 |
+| [Chains & Whips](https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 4:03 | 2026-02-02 |  |
 | [Chains & Whips](https://open.spotify.com/track/3VnyPMhsK5UnDDdrScvx3W) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/1avMe325Hmi1taC1fiwOnp) | 4:04 | 2025-07-12 | 2025-07-19 |
 | [Champion](https://open.spotify.com/track/5H3HQBarGLpqf6Yo3rm60Y) | [OT7 Quanny](https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L) | [Champion](https://open.spotify.com/album/71G29e4a6gXauDVqznI6wg) | 1:09 | 2025-03-07 | 2025-03-22 |
 | [Chanel Boy](https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Chanel Boy](https://open.spotify.com/album/5Qewgozib9h3rk6lFnCsND) | 2:37 | 2025-11-28 | 2025-12-06 |

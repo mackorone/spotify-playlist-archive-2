@@ -7292,7 +7292,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 264996,
       "name": "Bastardo (feat. \u00d1engo Flow & Jere Klein)",
       "url": "https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI"
@@ -22152,7 +22152,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 269960,
       "name": "Eres la herida m\u00e1s bonita",
       "url": "https://open.spotify.com/track/516E1cUXyiGvy2xAOmwLln"
@@ -24348,6 +24348,24 @@
       "duration_ms": 185241,
       "name": "FLECHAZO EN EL CENTRO",
       "url": "https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE"
+    },
+    {
+      "album": {
+        "name": "Flor De Lirio",
+        "url": "https://open.spotify.com/album/7iOQTJfhn3e8JitkuGz4zb"
+      },
+      "artists": [
+        {
+          "name": "Dionn G",
+          "url": "https://open.spotify.com/artist/266WR1sHIrpHbj5NuaWuE0"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Flor De Lirio",
+      "url": "https://open.spotify.com/track/3Ae0GU2O4uG2GmygW54imr"
     },
     {
       "album": {
@@ -33027,6 +33045,28 @@
     },
     {
       "album": {
+        "name": "La Droga e Mala",
+        "url": "https://open.spotify.com/album/72om5buCuLamQOlCdV5jQL"
+      },
+      "artists": [
+        {
+          "name": "Rony Alca",
+          "url": "https://open.spotify.com/artist/6f9dqXCJ5pB3tSOMnim6Qp"
+        },
+        {
+          "name": "TOLO DESAPARECELO",
+          "url": "https://open.spotify.com/artist/3hdC1HhetO3UW1N1RYQIp5"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82694,
+      "name": "La Droga e Mala",
+      "url": "https://open.spotify.com/track/6BT6nPdCFh3t4hgKVV0zHQ"
+    },
+    {
+      "album": {
         "name": "La Emotiza",
         "url": "https://open.spotify.com/album/2UhuYvMJe2b3nxLfXQhWDR"
       },
@@ -38224,7 +38264,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 144300,
       "name": "MAMAXITA",
       "url": "https://open.spotify.com/track/3UJN0IUZIeXnrmo48e6XXx"
@@ -43596,7 +43636,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 147319,
       "name": "M\u00e1s caf\u00e9 y menos estr\u00e9s",
       "url": "https://open.spotify.com/track/5QeyrUznSqT9wnMhtNaygH"

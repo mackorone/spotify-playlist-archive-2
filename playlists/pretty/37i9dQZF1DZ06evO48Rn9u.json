@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 151030,
+  "num_followers": 151027,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAACuXOnyn5/MZUWJ1mRa5vP4",
+  "snapshot_id": "aX6XgAAAAAADQxYKs5OekaeZtwZLeKal",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "She's Like Texas",
-        "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
       "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        },
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Oh, Tonight (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/35DciiuaU8Lut9EkrlP4wR"
+      "duration_ms": 196040,
+      "name": "Keep It To Yourself",
+      "url": "https://open.spotify.com/track/2fG23IIy7rYN8eMNbAHcS2"
     },
     {
       "added_at": null,
@@ -603,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+        "name": "She's Like Texas",
+        "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
       },
       "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 196040,
-      "name": "Keep It To Yourself",
-      "url": "https://open.spotify.com/track/2fG23IIy7rYN8eMNbAHcS2"
+      "duration_ms": 205506,
+      "name": "Oh, Tonight (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/35DciiuaU8Lut9EkrlP4wR"
     },
     {
       "added_at": null,
@@ -835,22 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+        "name": "Eternal Reach",
+        "url": "https://open.spotify.com/album/1PB9Z5JcnmNMssRegx6K61"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "The Brummies",
+          "url": "https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA"
         },
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Perfection (feat. Tiny Habits)",
-      "url": "https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt"
+      "duration_ms": 274325,
+      "name": "Drive Away",
+      "url": "https://open.spotify.com/track/5tw8ebBDTShqoCDzfIpZEo"
     },
     {
       "added_at": null,
@@ -871,22 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Reach",
-        "url": "https://open.spotify.com/album/1PB9Z5JcnmNMssRegx6K61"
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
       },
       "artists": [
         {
-          "name": "The Brummies",
-          "url": "https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA"
-        },
-        {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 274325,
-      "name": "Drive Away",
-      "url": "https://open.spotify.com/track/5tw8ebBDTShqoCDzfIpZEo"
+      "duration_ms": 176160,
+      "name": "Perfection (feat. Tiny Habits)",
+      "url": "https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAABKeZApjHuoTLOlORmF1XBs",
+  "snapshot_id": "aX6XgAAAAACiBJSbDU3L6QKLbdin0Son",
   "tracks": [
     {
       "added_at": null,
@@ -654,15 +654,11 @@
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 190962,
-      "name": "ROTTEN (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/15jg4vt123axobdGleLugn"
+      "duration_ms": 152991,
+      "name": "WALK IN THE PARK",
+      "url": "https://open.spotify.com/track/0XOKietGW4PXK4hs4jyfpO"
     },
     {
       "added_at": null,
@@ -726,11 +722,15 @@
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 152991,
-      "name": "WALK IN THE PARK",
-      "url": "https://open.spotify.com/track/0XOKietGW4PXK4hs4jyfpO"
+      "duration_ms": 190962,
+      "name": "ROTTEN (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/15jg4vt123axobdGleLugn"
     },
     {
       "added_at": null,

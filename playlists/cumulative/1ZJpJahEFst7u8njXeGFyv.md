@@ -4,7 +4,7 @@
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-922 songs - 2 day 8 hr 25 min
+924 songs - 2 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Italian Rêverie](https://open.spotify.com/track/3GY8tgmS8X3ZwYcRqSJ6Zq) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Italian Rêverie](https://open.spotify.com/album/0yZwMgMV5BzTluFxCJXBW3) | 3:34 | 2024-08-13 | 2025-03-15 |
 | [Ithaca Suite: IV\. Penelopeia](https://open.spotify.com/track/6Qw6T3l4tyQReC1CkvAhql) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ithaca Suite/IV\. Penelopeia](https://open.spotify.com/album/0F5yKT6K8NbuXm1KPnPfnC) | 3:48 | 2025-09-19 |  |
 | [Ithaca Suite: V\. Eurycleia](https://open.spotify.com/track/6QOe54H6ZLrjT6zUSismrz) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB) | [Ithaca Suite/V\. Eurycleia](https://open.spotify.com/album/5NIriEKIMOvDNAHYUNk8cS) | 3:09 | 2025-11-07 |  |
+| [Ithaca Suite: VI\. Laertes](https://open.spotify.com/track/7H5EfOnTGNwAJD1ToH98n2) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Ithaca Suite/VI\. Laertes](https://open.spotify.com/album/4Pd1yN2Zk9wnjLMmv0ONmS) | 4:17 | 2026-02-02 |  |
 | [Ithaca Suite: VII\. Pax Athenae](https://open.spotify.com/track/0nvJPiORjBCDWrrejARm2r) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe) | [Ithaca Suite/VII\. Pax Athenae](https://open.spotify.com/album/0UGWYSfM6oQIVcXdNYJPsh) | 4:20 | 2025-10-17 |  |
 | [IV\. Finale\. Prestissimo](https://open.spotify.com/track/5aSOkQAH5r6fs5ENaX9dKC) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Emanuel Ax](https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5), [Leonidas Kavakos](https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn) | [Piano Trio No\. 3 in C Minor, Op\. 1, No\. 3/IV\. Finale\. Prestissimo](https://open.spotify.com/album/5pe5SY6UsqtBfkVX8r1P4V) | 8:34 | 2022-10-24 | 2022-11-30 |
 | [IX\. Serenade](https://open.spotify.com/track/0SRigmImBiUL3k3Wvm9dy8) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Poetic Tone Pictures, Op.85/IX\. Serenade](https://open.spotify.com/album/36qLB0biVdPu8ULEOdDsi3) | 5:16 | 2022-09-25 | 2023-01-04 |
@@ -538,6 +539,7 @@
 | [Nuage for a Fading Sky \(Piano Solo\)](https://open.spotify.com/track/0YyAhWnjjtYsPnJks1EvE1) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Nuage for a Fading Sky \(Piano Solo\)](https://open.spotify.com/album/5fLoBu01KXkGAWGfuTzNg7) | 3:18 | 2025-06-20 |  |
 | [Nuit de Noël, BV 251](https://open.spotify.com/track/08W8ycrzrMhEPz38qMIkdH) | [Ferruccio Busoni](https://open.spotify.com/artist/7xH3VOMwOjnqGu7NERNUx1), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Fantasia](https://open.spotify.com/album/2V8cMstD77Xc9d7kyMbdBu) | 4:30 | 2023-09-29 | 2024-02-24 |
 | [Nuit de Noël, BV 251](https://open.spotify.com/track/5Vh1mO6NA0h95PG5zO9Gxn) | [Ferruccio Busoni](https://open.spotify.com/artist/7xH3VOMwOjnqGu7NERNUx1), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Nuit de Noël, BV 251](https://open.spotify.com/album/7GgD5LxXBeMHI37q1XsANN) | 4:30 | 2023-11-24 | 2024-01-16 |
+| [Nuits](https://open.spotify.com/track/3vj9Erwp1R9hptlf04DXsW) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Nuits](https://open.spotify.com/album/22XJ15idbENSqeJ8gRhEBT) | 3:18 | 2026-02-02 |  |
 | [Numb](https://open.spotify.com/track/2lo09dwPgpngw5TxvzUww3) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Numb](https://open.spotify.com/album/2p6Pgk2NeihEzZs7Qza2mi) | 3:07 | 2022-09-25 | 2023-01-04 |
 | [O Holy Night](https://open.spotify.com/track/4wps5wZL1C1ye4lzxgGA5P) | [Adolphe Adam](https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Home](https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1) | 3:09 | 2022-12-16 | 2023-01-04 |
 | [O Holy Night](https://open.spotify.com/track/71Gm9SQksFzIYDM1p5RpOt) | [Adolphe Adam](https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 3:11 | 2023-12-08 | 2024-01-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by BK & More
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,566 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,579 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 32 | [Hollow Point](https://open.spotify.com/track/4P2Yc0lk4YnOmnppqI1V2i) | [Azaad](https://open.spotify.com/artist/5Tz0mXyP1G7npqZ23vSzbr) | [Hollow Point](https://open.spotify.com/album/3hkKFunGFEpm5czOdnZpLr) | 2:49 |
 | 33 | [Mindset](https://open.spotify.com/track/6IuPxPZw2gKBU6ZJKNlHCn) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [6 pe 6](https://open.spotify.com/album/0QFdrYn3iAu2Jl0UOl34nL) | 2:53 |
 | 34 | [STAR](https://open.spotify.com/track/1i7zE89EI6ti9lEUNBFSJM) | [WNA](https://open.spotify.com/artist/2lIYuhZ00ra3njSpP015r8), [GV13](https://open.spotify.com/artist/4W1ntfnymfSRN09SBNjKZw), [Piyush Khanna](https://open.spotify.com/artist/5OEf3ue07LZD0XcQ7hvlnP) | [STAR](https://open.spotify.com/album/0ilXCU6ToCou2qEyCg6QIv) | 3:00 |
-| 35 | [Niri Agg](https://open.spotify.com/track/0paTaAAxGD66pPuabVXxNw) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Andy Grewal](https://open.spotify.com/artist/5PCB0eH1q1vRmI70ibdTeh) | [Niri Agg](https://open.spotify.com/album/3DTcSDnLLnyblffia3XOUW) | 2:53 |
+| 35 | [Niri Agg](https://open.spotify.com/track/0paTaAAxGD66pPuabVXxNw) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Rahul bector](https://open.spotify.com/artist/6Pgd43FqL2UsugIn9HplHg), [Andy Grewal](https://open.spotify.com/artist/5PCB0eH1q1vRmI70ibdTeh) | [Niri Agg](https://open.spotify.com/album/3DTcSDnLLnyblffia3XOUW) | 2:53 |
 | 36 | [1911](https://open.spotify.com/track/0SBI2P0sOKIBnr6cPcojbH) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Yung4eva](https://open.spotify.com/artist/3M2xmMHRCGlqdfQm8WsrgC) | [1911](https://open.spotify.com/album/78mvG4GhJ0fjAtTM5ySbJJ) | 2:30 |
 | 37 | [Rooted](https://open.spotify.com/track/2vQMywHV0qAvtmDFUXVuq2) | [Zorawar](https://open.spotify.com/artist/1eET3Nee8gjlQV2h8x5ugO), [Bhown](https://open.spotify.com/artist/1Ve2Ei9t9IXVyipd0erAAw), [Sajan SP](https://open.spotify.com/artist/4SFLO7PTa9V9ZjtyEwWiJc) | [Rooted](https://open.spotify.com/album/06G2OYW9noPkXhviIhnU8Q) | 2:46 |
 | 38 | [Kaala Chamba](https://open.spotify.com/track/1etqM5m3XEg9fXxvteejWN) | [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ) | [HOOD MADE](https://open.spotify.com/album/1sRu4g2nPbN0cxZF5N8ekB) | 2:54 |

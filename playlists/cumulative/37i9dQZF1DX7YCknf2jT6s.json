@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Joel Ross",
+  "description": "New jazz for open minds. Cover: Nate Smith",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -7950,6 +7950,32 @@
       "duration_ms": 134346,
       "name": "COSMIC INTERCOURSE (Pt. II) (feat. Chris Dave)",
       "url": "https://open.spotify.com/track/22ZVHkx4dhqks7OYF4eOd6"
+    },
+    {
+      "album": {
+        "name": "LIVE-ACTION",
+        "url": "https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262832,
+      "name": "COUGH DROP",
+      "url": "https://open.spotify.com/track/5sacf57OnsUGuIdVO8WrT2"
     },
     {
       "album": {
@@ -38688,7 +38714,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 202270,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl"

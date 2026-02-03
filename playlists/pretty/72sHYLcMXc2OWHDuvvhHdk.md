@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,257 songs - 5 day 12 hr 2 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,262 songs - 5 day 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2265,5 +2265,10 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2255 | [Universal Cowboy](https://open.spotify.com/track/3E1Xd1dU70XoR3RDSLJVpH) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Universal Cowboy](https://open.spotify.com/album/4rOErxwAu1auXgapFpo84E) | 4:23 |
 | 2256 | [Better Days](https://open.spotify.com/track/6YJuEaomrMXR7MY3VcRt6p) | [Kattavi](https://open.spotify.com/artist/43jRPx8NAXECI9Jyvo8Sz9) | [Better Days](https://open.spotify.com/album/0ZKUW5KYtZpljKh4wvSkZg) | 2:40 |
 | 2257 | [When You Walked In](https://open.spotify.com/track/5BrEu5rJQcWtCw1A3Llucn) | [Tyler Herwig](https://open.spotify.com/artist/2xdCts7UWRYMS4Uyf6GBM5) | [When You Walked In](https://open.spotify.com/album/1YLyRxUAXoW4y5Ai4CVYFT) | 3:01 |
+| 2258 | [Prosciutto](https://open.spotify.com/track/2l5qT7dkSn68qkq0a4Fqqc) | [ESEHOMBRE](https://open.spotify.com/artist/1UyOWBHK9IYWq8oon0FPQo), [Matti](https://open.spotify.com/artist/6H0vuLmAlqwhYz4lDCSkwH) | [Raw Ham](https://open.spotify.com/album/4gIiGPYKzVUCVGI0AFbeQg) | 3:52 |
+| 2259 | [Worn Out Shoes](https://open.spotify.com/track/0N4MVQPqV56fY81zelvUox) | [Black River Ghost](https://open.spotify.com/artist/2judctr0NVnstByT9aSBD2) | [Worn Out Shoes](https://open.spotify.com/album/3owpi27zCdXaKIdRGp0nqc) | 4:03 |
+| 2260 | [Hooked On Hello](https://open.spotify.com/track/5gTeoVG2VBWHuRp6wqs5k7) | [Chanteuse](https://open.spotify.com/artist/6Sj86862v5p7LNr60Pc8Bx) | [Hooked On Hello](https://open.spotify.com/album/7xQVl7cnVc3dYJ94HeqG76) | 3:35 |
+| 2261 | [Kumsal](https://open.spotify.com/track/07Q2b2d9KwK4Z7R2IOicuJ) | [İlhancan Rodoplu](https://open.spotify.com/artist/3KLRGKgnXcYkxgDi6U5fWp) | [Kumsal](https://open.spotify.com/album/2HWL6F5PeJODVtIQt73uC9) | 3:42 |
+| 2262 | [At the Bridge](https://open.spotify.com/track/3ZeTbwdZwAqSJa5q6doAIZ) | [Allen Dobb](https://open.spotify.com/artist/0aXd2Ov6yxnzt8rBP01wmU) | [At the Bridge](https://open.spotify.com/album/6biSX5zrHrrrGvgAIKXMjR) | 4:10 |
 
-Snapshot ID: `AAAJaEDD8GfDWb23Lo1vOOkpb7IYnJic`
+Snapshot ID: `AAAJbQkGP8pkuT22YrzpXg7VZcOX6O4a`

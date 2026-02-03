@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116800,
+  "num_followers": 116803,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-01-29 23:00:28",
       "album": {
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
+      },
+      "artists": [
+        {
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+    },
+    {
+      "added_at": "2026-01-29 23:00:28",
+      "album": {
         "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
         "url": "https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 160000,
       "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
       "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
-    },
-    {
-      "added_at": "2026-01-29 23:00:28",
-      "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2026-01-29 23:00:28",
@@ -571,22 +571,18 @@
     {
       "added_at": "2026-01-29 23:00:28",
       "album": {
-        "name": "Ryker p\u00e5'a igjen",
-        "url": "https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf"
+        "name": "Singel til jeg d\u00f8r",
+        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
       },
       "artists": [
         {
           "name": "Staysman",
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 145111,
-      "name": "Ryker p\u00e5'a igjen",
-      "url": "https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr"
+      "duration_ms": 142620,
+      "name": "Singel til jeg d\u00f8r",
+      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
     },
     {
       "added_at": "2026-01-29 23:00:28",
@@ -667,18 +663,22 @@
     {
       "added_at": "2026-01-29 23:00:28",
       "album": {
-        "name": "Singel til jeg d\u00f8r",
-        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
+        "name": "Ryker p\u00e5'a igjen",
+        "url": "https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf"
       },
       "artists": [
         {
           "name": "Staysman",
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 142620,
-      "name": "Singel til jeg d\u00f8r",
-      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
+      "duration_ms": 145111,
+      "name": "Ryker p\u00e5'a igjen",
+      "url": "https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr"
     },
     {
       "added_at": "2026-01-29 23:00:28",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-01-29 23:00:28",
       "album": {
-        "name": "Dama Di",
-        "url": "https://open.spotify.com/album/4HvHh0nUSfRVqY3TPj6xKS"
-      },
-      "artists": [
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        }
-      ],
-      "duration_ms": 171627,
-      "name": "Dama Di",
-      "url": "https://open.spotify.com/track/2LiM9cz809PkmUp5j97Vfa"
-    },
-    {
-      "added_at": "2026-01-29 23:00:28",
-      "album": {
         "name": "Polisen",
         "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 145645,
       "name": "Polisen",
       "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
+    },
+    {
+      "added_at": "2026-01-29 23:00:28",
+      "album": {
+        "name": "Dama Di",
+        "url": "https://open.spotify.com/album/4HvHh0nUSfRVqY3TPj6xKS"
+      },
+      "artists": [
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "Dama Di",
+      "url": "https://open.spotify.com/track/2LiM9cz809PkmUp5j97Vfa"
     },
     {
       "added_at": "2026-01-29 23:00:28",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-01-29 23:00:28",
       "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
-      },
-      "artists": [
-        {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
-        }
-      ],
-      "duration_ms": 193374,
-      "name": "Tr\u00f8bbel",
-      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
-    },
-    {
-      "added_at": "2026-01-29 23:00:28",
-      "album": {
         "name": "Bara vara med dig",
         "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 161267,
       "name": "Bara vara med dig",
       "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+    },
+    {
+      "added_at": "2026-01-29 23:00:28",
+      "album": {
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
+      },
+      "artists": [
+        {
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+        }
+      ],
+      "duration_ms": 193374,
+      "name": "Tr\u00f8bbel",
+      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
     },
     {
       "added_at": "2026-01-29 23:00:28",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-01-29 23:00:28",
       "album": {
-        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
-    },
-    {
-      "added_at": "2026-01-29 23:00:28",
-      "album": {
         "name": "GUT OG KAR",
         "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 187206,
       "name": "GUT OG KAR",
       "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
+    },
+    {
+      "added_at": "2026-01-29 23:00:28",
+      "album": {
+        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
     },
     {
       "added_at": "2026-01-29 23:00:28",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-01-29 23:00:28",
       "album": {
+        "name": "HJEM",
+        "url": "https://open.spotify.com/album/3GWLj6KdiZx1qDb1d2fqBM"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        }
+      ],
+      "duration_ms": 151332,
+      "name": "HJEM",
+      "url": "https://open.spotify.com/track/04iXrACbPfc111pClbzXRk"
+    },
+    {
+      "added_at": "2026-01-29 23:00:28",
+      "album": {
         "name": "Baksetefylla",
         "url": "https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 111282,
       "name": "Dagsfylla",
       "url": "https://open.spotify.com/track/09FoTcU7J5K2jpzzUwhij7"
-    },
-    {
-      "added_at": "2026-01-29 23:00:28",
-      "album": {
-        "name": "HJEM",
-        "url": "https://open.spotify.com/album/3GWLj6KdiZx1qDb1d2fqBM"
-      },
-      "artists": [
-        {
-          "name": "ZadeKing",
-          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
-        }
-      ],
-      "duration_ms": 151332,
-      "name": "HJEM",
-      "url": "https://open.spotify.com/track/04iXrACbPfc111pClbzXRk"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: レトロリロン \*👉 <a href="https://spice.eplus.jp/articles/343624">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,784 likes - 92 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,775 likes - 92 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 27 | [和の心](https://open.spotify.com/track/6rqWchZ2fSzz8f6yqMa1na) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [ケツノポリス14](https://open.spotify.com/album/1EOcxt2yswEHbAY67pslrX) | 4:13 |
 | 28 | [ハニカミ](https://open.spotify.com/track/1x5c3sHbCtKomxFrMS5Kmh) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [ハニカミ](https://open.spotify.com/album/3pOoGsquWbIEb4vBDNqhwh) | 4:19 |
 | 29 | [ミッドナイト明治通り/Wayny Wang, Che Wayny Comandante](https://open.spotify.com/track/1mkEGbX5VRNutJUnYZyLMI) | [WAYNYS](https://open.spotify.com/artist/03SftY6vwKPSwjG9EiSeuG) | [ミッドナイト明治通り](https://open.spotify.com/album/2j9avU1lIZo7T2ZD8Wp6Wk) | 3:06 |
-| 30 | [Ride \(feat\. IO\) \- Remix](https://open.spotify.com/track/2xowEfMazyKWkMGPUCaM72) | [SWEE](https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Ride \(feat\. IO\) \[Remix\]](https://open.spotify.com/album/0tszxEUKldzRspJnTACvLK) | 4:33 |
+| 30 | [Ride Remix \(feat\. IO\)](https://open.spotify.com/track/2xowEfMazyKWkMGPUCaM72) | [SWEE](https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Ride Remix \(feat\. IO\)](https://open.spotify.com/album/0tszxEUKldzRspJnTACvLK) | 4:33 |
 | 31 | [Late Night step \(feat\. BIM\)](https://open.spotify.com/track/2yabxW9OpHSgXmgo434gpU) | [JuggrixhSentana](https://open.spotify.com/artist/3ijoOXa68U7MRSFIw3JnVP), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Late Night step \(feat\. BIM\)](https://open.spotify.com/album/2ZlNUEojjt77OwZhpos3HE) | 2:44 |
 | 32 | [Rookies](https://open.spotify.com/track/3a6OZDaosgpHJaKDn5fBJU) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Rookies](https://open.spotify.com/album/1yS8JPw8shuUuc1hTMeB8u) | 3:26 |
 | 33 | [\(The rise of\) Offline Souls](https://open.spotify.com/track/705xW70NjUcaxH9qO7BDXp) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Lyrical Tattoo](https://open.spotify.com/album/5kAPZ0pMrADrCSQEZ8LWov) | 3:28 |

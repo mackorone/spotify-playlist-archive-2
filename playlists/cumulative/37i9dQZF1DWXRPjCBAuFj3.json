@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184803,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/0O5KcmgOeEgublW6ySQ6Vc"
+    },
+    {
+      "album": {
         "name": "AMEN",
         "url": "https://open.spotify.com/album/098CzUov15FoAHLYWJh7yV"
       },
@@ -18870,6 +18888,24 @@
       "duration_ms": 105600,
       "name": "TRICKIN'",
       "url": "https://open.spotify.com/track/1jBMZDuirIUrnXyhS2ExfB"
+    },
+    {
+      "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217593,
+      "name": "Tristano e Isotta",
+      "url": "https://open.spotify.com/track/7dFfkSJrAHnUdKM5jaUOLt"
     },
     {
       "album": {

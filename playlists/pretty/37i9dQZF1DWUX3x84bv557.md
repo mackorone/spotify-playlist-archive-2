@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Shary\-An
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,994 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,983 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Voelen Dat Ik Leef](https://open.spotify.com/track/3Zg0fHvU7UOcEyprrLt0Oq) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Op Mijn Tijd](https://open.spotify.com/album/2ohhVb62V6ziohblWtSiaE) | 2:44 |
 | 2 | [We Leven Nu](https://open.spotify.com/track/6iwZINFNsfDcfKZFarAsTn) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [We Leven Nu](https://open.spotify.com/album/5C3EV0dEs7nycg5r0zTxhS) | 3:10 |
-| 3 | [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 |
-| 4 | [Zonder Jou](https://open.spotify.com/track/1amdcqzkjFf3eVuoIKyNDh) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Zonder Jou](https://open.spotify.com/album/6OVERok5uMuuQG0yckDokq) | 2:55 |
+| 3 | [Zonder Jou](https://open.spotify.com/track/1amdcqzkjFf3eVuoIKyNDh) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Zonder Jou](https://open.spotify.com/album/6OVERok5uMuuQG0yckDokq) | 2:55 |
+| 4 | [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 |
 | 5 | [Dansvloer Dilemma](https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Dansvloer Dilemma](https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF) | 2:08 |
 | 6 | [Zijn Probleem](https://open.spotify.com/track/7FJo5nWEp80SJsJ4ibkkof) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Zijn Probleem](https://open.spotify.com/album/5QmQVkCS2ESWm4wWl12DML) | 2:51 |
-| 7 | [Waar Ik Ben](https://open.spotify.com/track/5f8CxfFjYKpbZMPGenQMbG) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Waar Ik Ben](https://open.spotify.com/album/6LLdzMTrHM0sez2nUM8rqo) | 3:37 |
-| 8 | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37) | 3:17 |
+| 7 | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37) | 3:17 |
+| 8 | [Waar Ik Ben](https://open.spotify.com/track/5f8CxfFjYKpbZMPGenQMbG) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Waar Ik Ben](https://open.spotify.com/album/6LLdzMTrHM0sez2nUM8rqo) | 3:37 |
 | 9 | [Jouw Moment](https://open.spotify.com/track/04CMjdiQKsS1EKuYkmE9YD) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Jouw Moment](https://open.spotify.com/album/2u6GbyN0hmKZW9QrbUnyq5) | 2:40 |
 | 10 | [Droom](https://open.spotify.com/track/5eAudbQPYwHtyNom3Pl5sf) | [Tellem](https://open.spotify.com/artist/0S19RorEJ6KAg48DNRDGrV) | [Droom](https://open.spotify.com/album/694SG9TFeP3TiLUmYQk6eb) | 3:22 |
 | 11 | [Echt Zo](https://open.spotify.com/track/5RiNPHQmTZeLHiVPZFg0jn) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Echt Zo](https://open.spotify.com/album/6EzKHgwuGTPMPcFOkOPN2K) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Het Komt Allemaal Wel Goed](https://open.spotify.com/track/5jF44uotGASfqzEVxIhtKN) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Het Komt Allemaal Wel Goed](https://open.spotify.com/album/4k8tlqTYPSKV2DSB7GQf6L) | 3:02 |
 | 80 | [Dat Hadden Wij Kunnen Zijn](https://open.spotify.com/track/114RXaeIfU4y9IeErk0Cn7) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg), [Emma Luca](https://open.spotify.com/artist/3ijcW9QMa7wkBs1ACGpdcs) | [Dat Hadden Wij Kunnen Zijn](https://open.spotify.com/album/3lkVeYl7uTkxBnfN1hC5PV) | 3:05 |
 
-Snapshot ID: `AAAAAGWT2s3F2uUlLsSweAub1QNU2t+k`
+Snapshot ID: `AAAAAOLssMSwpgYmVsltfjyfUop37669`

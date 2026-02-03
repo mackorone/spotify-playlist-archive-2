@@ -4,7 +4,7 @@
 
 > The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross
 
-405 songs - 22 hr 7 min
+407 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ain't Enough Road](https://open.spotify.com/track/0froGQFzaDPiXzxxk0LuOi) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:59 | 2025-08-15 | 2025-10-11 |
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-06-17 | 2025-11-22 |
 | [Ain't The One](https://open.spotify.com/track/1DMKxugJjRgFjEzUb6Sd62) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't The One](https://open.spotify.com/album/6mgEILhlga6pdEns5qahoU) | 3:05 | 2023-11-03 | 2024-01-13 |
+| [Alabama Beauty Queen](https://open.spotify.com/track/7rg80OVCvZN76iCjMaH5g8) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Act I](https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R) | 3:43 | 2026-02-02 |  |
 | [Alimony](https://open.spotify.com/track/7Lkb8cyy1iLuLCUhfMOpJJ) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Alimony](https://open.spotify.com/album/75PVKU0GHALIqPZ92fpTvf) | 3:15 | 2024-07-26 | 2024-09-21 |
 | [American Girl](https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [American Girl](https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin) | 3:03 | 2024-03-01 | 2024-10-05 |
 | [American Trail](https://open.spotify.com/track/7JkuiX3FkJXUhGgLrJRYE3) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [American Trail](https://open.spotify.com/album/5dSsYiQTgjXPRhF4D0IvFX) | 4:15 | 2025-05-02 |  |
@@ -108,7 +109,7 @@
 | [Drive You Out Of My Mind](https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind](https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv) | 3:32 | 2023-11-03 | 2024-05-11 |
 | [Drunk and Hungover](https://open.spotify.com/track/6mFw6OhoyHsEdRFCCNY8LP) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 3:04 | 2023-11-03 | 2024-04-13 |
 | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV) | 3:18 | 2025-06-02 | 2025-11-22 |
-| [Easy Man](https://open.spotify.com/track/4PlLk1253CbpRzsdytzEWF) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Easy Man](https://open.spotify.com/album/5CYzJyJn3mc2qyhUdUdK6g) | 2:41 | 2025-04-25 |  |
+| [Easy Man](https://open.spotify.com/track/4PlLk1253CbpRzsdytzEWF) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Easy Man](https://open.spotify.com/album/5CYzJyJn3mc2qyhUdUdK6g) | 2:41 | 2025-04-25 | 2026-02-03 |
 | [Everything I Love](https://open.spotify.com/track/0cv6mTbrqr8vxGC31NjKtM) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/4N7bPFJ4g18KAzwtjW1mg8) | 3:07 | 2023-11-03 | 2024-02-24 |
 | [Everything Is Changing](https://open.spotify.com/track/7eNQKjmWn5AbYGpIStUQvX) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Everything Is Changing](https://open.spotify.com/album/6sqrVFMjhsCWg62luCxNS1) | 3:03 | 2024-06-17 | 2024-08-25 |
 | [Everything She Ain’t](https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Everything She Ain’t](https://open.spotify.com/album/761yinsOXW3p74dFBge4c7) | 2:31 | 2023-11-03 | 2024-01-13 |
@@ -186,7 +187,7 @@
 | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 | 2023-11-03 | 2024-05-18 |
 | [In My Head Again](https://open.spotify.com/track/4zgrxZPjYlIpvvZYY3xnO5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In My Head Again](https://open.spotify.com/album/43YBR5WHLqimx95qVDXquE) | 4:12 | 2024-02-23 | 2024-04-06 |
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-26 | 2024-10-05 |
-| [It Ain’t The Whiskey](https://open.spotify.com/track/0AsrOS8HktHe9TaB1i9W3v) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [It Ain’t The Whiskey](https://open.spotify.com/album/7ItxZgvgYMcyvGODShsiup) | 3:03 | 2025-04-25 |  |
+| [It Ain’t The Whiskey](https://open.spotify.com/track/0AsrOS8HktHe9TaB1i9W3v) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [It Ain’t The Whiskey](https://open.spotify.com/album/7ItxZgvgYMcyvGODShsiup) | 3:03 | 2025-04-25 | 2026-02-03 |
 | [IYKYK](https://open.spotify.com/track/13I2ADgSEWeA5sS4UZ7E8i) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Broken Branches \(Extended\)](https://open.spotify.com/album/2OBSAgRDYsKDjd7MPxaKWt) | 2:40 | 2025-10-03 | 2026-01-25 |
 | [Jenni](https://open.spotify.com/track/4kI5LZmzlDyRgURUueKZ63) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Jenni](https://open.spotify.com/album/7yAh8gTk7oykUml3DThvdc) | 3:29 | 2025-01-26 | 2025-04-26 |
 | [Jesus Saves](https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:52 | 2024-04-12 | 2024-07-30 |
@@ -283,6 +284,7 @@
 | [Rally Around](https://open.spotify.com/track/7tH9XCkn5VJVtEsKli7GPt) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Rally Around](https://open.spotify.com/album/7Lamznt9F1wvIzbOGvIrf0) | 2:39 | 2025-11-21 |  |
 | [Rather Be](https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Rather Be](https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4) | 2:51 | 2024-07-26 | 2024-10-19 |
 | [reason to be](https://open.spotify.com/track/5ouPuhOx1c3BJcejzchGNO) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [pretty girls don’t cry](https://open.spotify.com/album/4soi8ZgqNC0NxPdtbfn3T7) | 3:13 | 2024-05-17 | 2024-08-03 |
+| [Redneck And You Know It](https://open.spotify.com/track/2ut2AuaXbCHXqvROJjy5lB) | [Dalton Davis](https://open.spotify.com/artist/6J9RN4Pef3aGhMaIPt4d6B) | [Redneck And You Know It](https://open.spotify.com/album/34sjQt45YVKzaA5qdUh3Z9) | 2:42 | 2026-02-02 |  |
 | [Reel Problems](https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:17 | 2024-10-18 | 2024-11-26 |
 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 | 2023-11-03 | 2024-06-09 |
 | [Remember Me Well](https://open.spotify.com/track/1Eii2r1Y6Whb6U5URN1Ydm) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Remember Me Well](https://open.spotify.com/album/5lLxk2C7m4VjYFG1jmzd4c) | 3:49 | 2023-11-03 | 2024-03-02 |

@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop & R&B for Kids](https://open.spotify.com/playlist/37i9dQZF1DWX16Q183eyvd)
 
-> Push play on the coolest playlist around, and get ready to jump around\. Cover: Ice Spice
+> Push play on the coolest playlist around, and get ready to jump around\. Cover: Fyütch & Aura V
 
 185 songs - 8 hr 26 min
 

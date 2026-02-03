@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including AYLIVA, Lo & Leduc, Naza and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,196 likes - 96 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,193 likes - 96 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Renn](https://open.spotify.com/track/3uKAPZDXq6yE8Zqfhjbpp6) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Renn](https://open.spotify.com/album/6Kb7RsCVhNArBtaJkLOflg) | 2:46 |
+| 1 | [Renn!](https://open.spotify.com/track/3uKAPZDXq6yE8Zqfhjbpp6) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Renn!](https://open.spotify.com/album/6Kb7RsCVhNArBtaJkLOflg) | 2:46 |
 | 2 | [Atemnot](https://open.spotify.com/track/6UhgRaImXqsKLZUOkyzFyx) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Atemnot](https://open.spotify.com/album/4gCWVd9F5dMXaIDLxWYmXa) | 2:15 |
 | 3 | [FLICKE](https://open.spotify.com/track/0bC9gVYAEa4mBdzc82pi7A) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [FLICKE](https://open.spotify.com/album/2eIyOzvEsRT9sDKE9uvIdb) | 2:41 |
 | 4 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 |

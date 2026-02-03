@@ -2,7 +2,7 @@
 
 ### [Women of Latin](https://open.spotify.com/playlist/37i9dQZF1DXb1fcDuOYLYU)
 
-> These are the talented women of Latin music\. Cover: Paloma Morphy
+> These are the talented women of Latin music\. Cover: Gloria Estefan & KAROL G
 
 411 songs - 21 hr 45 min
 

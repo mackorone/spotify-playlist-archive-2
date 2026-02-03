@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: Quanzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,038 likes - 119 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,034 likes - 119 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

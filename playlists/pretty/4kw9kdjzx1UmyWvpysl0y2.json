@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124396,
+  "num_followers": 124388,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVEQiVpaUHPLqiEL5ESAmdicc0YpQB",
+  "snapshot_id": "AAAVEuRNFsS+M+vF38t0aOnxtk0vyMwt",
   "tracks": [
+    {
+      "added_at": "2026-02-02 17:19:35",
+      "album": {
+        "name": "Next Track",
+        "url": "https://open.spotify.com/album/0qbXadH2YjcRp7cDt81i3s"
+      },
+      "artists": [
+        {
+          "name": "Dodge & Fuski",
+          "url": "https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Next Track",
+      "url": "https://open.spotify.com/track/46vXJTbShRHqARyE8gcgYC"
+    },
     {
       "added_at": "2026-01-30 17:04:52",
       "album": {

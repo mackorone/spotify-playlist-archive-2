@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!
 
-1,075 songs - 2 day 8 hr 26 min
+1,076 songs - 2 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Just Feels Tight](https://open.spotify.com/track/7wT85929YTgiyb2cQDe2fb) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/0hETamGnqdcM4TuUDqV378) | 3:17 | 2021-07-31 | 2021-09-04 |
 | [Just for the Times](https://open.spotify.com/track/67LyilCFvsLvoC7zEBPcKK) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Just for the Times](https://open.spotify.com/album/3NPApmy06Q3QMZ5Es2SpBe) | 3:25 | 2021-04-13 | 2021-07-04 |
 | [Just Like That](https://open.spotify.com/track/7zGn1iaa1x91UqPguAr1JJ) | [Dangerous Dan](https://open.spotify.com/artist/0f0OIT19WzbQdDMo1Z7RbC), [Moanique](https://open.spotify.com/artist/5FvVEHpEaY6jJMhxDJzhHS) | [Just Like That](https://open.spotify.com/album/1A6XiRwKiokX3Ns9Ve0Jef) | 4:11 | 2023-05-29 | 2023-07-22 |
+| [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 | 2026-02-02 |  |
 | [Keep It Comin](https://open.spotify.com/track/3tyw03CsA7n00xC5hnvjuX) | [Mr Gray](https://open.spotify.com/artist/1cSOF44doCI1YNC1f7rb6w), [Zoë Badwi](https://open.spotify.com/artist/16Mje1BDQmN1DWp4a94YOC) | [Keep It Comin](https://open.spotify.com/album/2TZmCMQegg86vKegAlkZZI) | 3:03 | 2022-06-24 | 2022-08-06 |
 | [Keep It Exciting](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Keep It Exciting](https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL) | 2:19 | 2024-11-28 | 2025-08-22 |
 | [Ki\-Ki](https://open.spotify.com/track/35REVjW2vGqWclKAtI1PqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Ki\-Ki](https://open.spotify.com/album/0t8GA7Bcs9mmlp3gqakWDX) | 2:20 | 2023-01-06 | 2023-03-10 |

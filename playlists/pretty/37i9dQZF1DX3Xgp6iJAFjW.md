@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,218 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,214 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 38 | [Navidad en Mi Barrio](https://open.spotify.com/track/2p4NQR05RqzwHsUVXRTNeB) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Navidad a Mi Estilo](https://open.spotify.com/album/4ieRHjOfukQ0LNk7NNtzeE) | 5:18 |
 | 39 | [Aires Navideños](https://open.spotify.com/track/5aXFP07TGvWno27s3YNSS1) | [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7) | [Pa' mi Gente](https://open.spotify.com/album/4h29hT64GDgOUwoNbaJTsp) | 4:45 |
 | 40 | [Navidad para el pueblo](https://open.spotify.com/track/0NMKMatww8aQFrGTI88QOa) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Toño en America](https://open.spotify.com/album/3vBuyDnFfXcMORQsi1yMJe) | 4:19 |
-| 41 | [El Arbolito](https://open.spotify.com/track/4dPDyWW4jv1DCwf54a0Oql) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [It's Christmas Time! \(Original Recordings\)](https://open.spotify.com/album/5WlU0sbzRWMlYWwSJobc7I) | 4:09 |
-| 42 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 |
+| 41 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 |
+| 42 | [El Arbolito](https://open.spotify.com/track/4dPDyWW4jv1DCwf54a0Oql) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [It's Christmas Time! \(Original Recordings\)](https://open.spotify.com/album/5WlU0sbzRWMlYWwSJobc7I) | 4:09 |
 | 43 | [Me Quede Puyu](https://open.spotify.com/track/01W0fOluLxLPivIUbOtGWr) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Me Quede Puyu](https://open.spotify.com/album/5LIWtFgFrFZNf0girb1SSx) | 4:35 |
 | 44 | [Esta Navidad](https://open.spotify.com/track/3NvDk88G0njN98HkUg6Y7e) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [Con Tanto Cache](https://open.spotify.com/album/4VEo435ch0afkFTpXwg64Z) | 4:33 |
 | 45 | [Cascabel](https://open.spotify.com/track/1O2daHtwKYTOU2X7v92hZJ) | [Felix Del Rosario](https://open.spotify.com/artist/4MhqOdhxf64xRZSTOB8RoE) | [Navidad En Las Antillas](https://open.spotify.com/album/59gbexqT23ruDHkV1uy5qg) | 2:36 |
-| 46 | [Desenfunda](https://open.spotify.com/track/74HY0BF0ZJ9Ebey62P1xw1) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 3:55 |
-| 47 | [Arbolito](https://open.spotify.com/track/0tCZl9jBqwfqo2n9s1qbAI) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Navidad en Borínquen](https://open.spotify.com/album/4aepF49pb9dljNnzXgisO0) | 4:43 |
+| 46 | [Arbolito](https://open.spotify.com/track/0tCZl9jBqwfqo2n9s1qbAI) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Navidad en Borínquen](https://open.spotify.com/album/4aepF49pb9dljNnzXgisO0) | 4:43 |
+| 47 | [Desenfunda](https://open.spotify.com/track/74HY0BF0ZJ9Ebey62P1xw1) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 3:55 |
 | 48 | [El Rondon](https://open.spotify.com/track/2XlAZpyqugi43VWnT0GnUb) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Merenboom Vol\. 4](https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI) | 4:34 |
 | 49 | [Navidad Con Mi Gente](https://open.spotify.com/track/4wHHRsP2Ifxnj0AhsjEyNQ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Navidad Con Mi Gente](https://open.spotify.com/album/0hnilJiSbfzm9EoTgeZQjl) | 3:45 |
 | 50 | [Dame la mano paloma](https://open.spotify.com/track/2s1vPf9pwdF6HApyRAna2J) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [El burrito de belen / Dame la mano paloma](https://open.spotify.com/album/1S4fT6NsFY4AzFViDpg69w) | 3:39 |

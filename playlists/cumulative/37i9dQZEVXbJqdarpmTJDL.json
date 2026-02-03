@@ -3188,7 +3188,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 228387,
       "name": "Alleluia",
       "url": "https://open.spotify.com/track/039IH9LjGyZnyXx7xIi6Xb"
@@ -3394,7 +3394,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 120000,
       "name": "Alo",
       "url": "https://open.spotify.com/track/1L8KUoyAkVUyjrOFds519l"
@@ -6718,7 +6718,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -11360,7 +11360,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 127058,
       "name": "DD",
       "url": "https://open.spotify.com/track/7tBWL5bqABYPWtK1457YUc"
@@ -12640,6 +12640,24 @@
       "duration_ms": 165124,
       "name": "Diva",
       "url": "https://open.spotify.com/track/2bDZ9Hya1LDcUdF3co1X2u"
+    },
+    {
+      "album": {
+        "name": "To Diko Mou DNA",
+        "url": "https://open.spotify.com/album/1MdLoUTIjsLZNghSQeNnXg"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189444,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/6KQZYPbwcH6GDGUAvd8FcS"
     },
     {
       "album": {
@@ -22718,7 +22736,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 159047,
       "name": "INEBONUS",
       "url": "https://open.spotify.com/track/0FKY8MHOsg7pY8pRP4M8ma"
@@ -22736,7 +22754,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 211363,
       "name": "Inopnevma Ftino",
       "url": "https://open.spotify.com/track/62sRtKxGqaK0Nxy4LlWO47"
@@ -23866,7 +23884,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 186947,
       "name": "KAKO",
       "url": "https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu"
@@ -26206,7 +26224,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -29628,7 +29646,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 195000,
       "name": "MANDELA EFFECT",
       "url": "https://open.spotify.com/track/00Kgg0HjZyeIDTWGWHw3kp"
@@ -36168,7 +36186,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 244922,
       "name": "Oneiro Tha 'Nai Ksana (Kounia)",
       "url": "https://open.spotify.com/track/6Y03wDRXpTE4km8x4KXSXG"
@@ -36478,7 +36496,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 269314,
       "name": "Ores Mikres",
       "url": "https://open.spotify.com/track/4URIs3gEDgakPiGq8bhe1G"
@@ -38894,7 +38912,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 257647,
       "name": "Peta Ta",
       "url": "https://open.spotify.com/track/0UFPiis9uHJcYbTVp0hmkB"
@@ -45186,7 +45204,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 168428,
       "name": "SOSA",
       "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
@@ -47622,7 +47640,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 248672,
       "name": "Teleia - Unplugged",
       "url": "https://open.spotify.com/track/6fktt8XwBNjhoCU2V5aP7l"
@@ -48714,7 +48732,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 196453,
       "name": "Ti Kaname...",
       "url": "https://open.spotify.com/track/1N2nsQjWX4Jg3rrZDZLnbS"

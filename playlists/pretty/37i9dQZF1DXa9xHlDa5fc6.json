@@ -1,6 +1,6 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 482142,
+  "num_followers": 482183,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
-      },
-      "artists": [
-        {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
-        }
-      ],
-      "duration_ms": 354360,
-      "name": "Lazy Eye",
-      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "High In Low Places",
         "url": "https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Sharon Van Etten & The Attachment Theory",
-        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
         }
       ],
-      "duration_ms": 250409,
-      "name": "Idiot Box",
-      "url": "https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5"
+      "duration_ms": 354360,
+      "name": "Lazy Eye",
+      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -939,6 +923,22 @@
       "duration_ms": 201808,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "Sharon Van Etten & The Attachment Theory",
+        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 250409,
+      "name": "Idiot Box",
+      "url": "https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Nearer My God",
-        "url": "https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8"
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
       "artists": [
         {
-          "name": "Foxing",
-          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "duration_ms": 215693,
-      "name": "Nearer My God",
-      "url": "https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc"
+      "duration_ms": 226680,
+      "name": "What Now",
+      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+        "name": "Nearer My God",
+        "url": "https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
         }
       ],
-      "duration_ms": 226680,
-      "name": "What Now",
-      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
+      "duration_ms": 215693,
+      "name": "Nearer My God",
+      "url": "https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Trouble With This Bed",
-        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 226884,
-      "name": "Trouble With This Bed",
-      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Scared",
         "url": "https://open.spotify.com/album/5jMvIY27hzHwpHIjA7fYeT"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 153746,
       "name": "Scared",
       "url": "https://open.spotify.com/track/0pyoALipqEy5mQ0RN4UAsI"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "Trouble With This Bed",
+        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 226884,
+      "name": "Trouble With This Bed",
+      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "How It Ends",
-        "url": "https://open.spotify.com/album/1moZ22n6w8zWMkWHdHyjSE"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Flake",
-      "url": "https://open.spotify.com/track/0VWV373XFV4xpX2s6bQS9n"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Ain't Scared",
         "url": "https://open.spotify.com/album/2YTCtKjAHW0Vefyv3KmGIw"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 260333,
       "name": "Ain't Scared",
       "url": "https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "How It Ends",
+        "url": "https://open.spotify.com/album/1moZ22n6w8zWMkWHdHyjSE"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Flake",
+      "url": "https://open.spotify.com/track/0VWV373XFV4xpX2s6bQS9n"
     },
     {
       "added_at": "2025-02-07 05:35:29",

@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1306334,
+  "num_followers": 1306311,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAADskSiTxsZl5earE4FAAehU",
+  "snapshot_id": "aX6XgAAAAAB9ERwQRaUrToCXkZkti+jH",
   "tracks": [
     {
       "added_at": null,
@@ -327,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reci\u00e9n Soltera",
-        "url": "https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D"
+        "name": "Party (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 183856,
-      "name": "Reci\u00e9n Soltera",
-      "url": "https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV"
+      "duration_ms": 210315,
+      "name": "Party (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5PDoWY5Av2Ba3rWIdY9Ij0"
     },
     {
       "added_at": null,
@@ -359,22 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Party (feat. A Boogie Wit da Hoodie)",
-        "url": "https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV"
+        "name": "Reci\u00e9n Soltera",
+        "url": "https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 210315,
-      "name": "Party (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/5PDoWY5Av2Ba3rWIdY9Ij0"
+      "duration_ms": 183856,
+      "name": "Reci\u00e9n Soltera",
+      "url": "https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Itamambuca",
-        "url": "https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 243793,
-      "name": "Itamambuca",
-      "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -823,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VERSUS",
         "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
       },
@@ -839,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
+        "name": "Itamambuca",
+        "url": "https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 185217,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
+      "duration_ms": 243793,
+      "name": "Itamambuca",
+      "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
     },
     {
       "added_at": null,

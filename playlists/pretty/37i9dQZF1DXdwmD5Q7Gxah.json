@@ -1,12 +1,12 @@
 {
-  "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/25-year-end-reflections-from-turnstile?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">read our Substack here :) </a>  The Mar\u00edas on the cover \ud83e\udee7",
-  "num_followers": 1185716,
+  "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/25-year-end-reflections-from-turnstile?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">read our Substack here! </a>  Cover: Lola Young \u2606",
+  "num_followers": 1186171,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH02PyaWZbuNoBGI9/KtF0Ey+ugD",
+  "snapshot_id": "AAAAAN49V9156iiZqvLv4/RdGze79MtY",
   "tracks": [
     {
       "added_at": "2026-01-16 05:00:43",
@@ -57,20 +57,20 @@
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
     },
     {
-      "added_at": "2026-01-30 05:01:16",
+      "added_at": "2026-02-02 03:39:34",
       "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
       "added_at": "2026-01-30 05:01:16",
@@ -267,6 +267,22 @@
       "duration_ms": 233666,
       "name": "overagain",
       "url": "https://open.spotify.com/track/4bmCEkb0d0zUmPWpQktGqe"
+    },
+    {
+      "added_at": "2026-01-30 05:01:16",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
       "added_at": "2026-01-05 17:05:04",

@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 342141,
+  "num_followers": 342240,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
-        "name": "One Million",
-        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "LOTTEN",
-          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
-        }
-      ],
-      "duration_ms": 187741,
-      "name": "One Million",
-      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
-    },
-    {
-      "added_at": "2025-12-12 03:03:06",
-      "album": {
         "name": "Doin Nottin",
         "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 146538,
       "name": "Doin Nottin",
       "url": "https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK"
+    },
+    {
+      "added_at": "2025-12-12 03:03:06",
+      "album": {
+        "name": "One Million",
+        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "LOTTEN",
+          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "One Million",
+      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
     },
     {
       "added_at": "2025-12-12 03:03:06",
@@ -999,30 +999,22 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
-        "name": "Atomic Bomb (feat. Juan Alcasar)",
-        "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
+        "name": "079",
+        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
       },
       "artists": [
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
         },
         {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        },
-        {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
-        },
-        {
-          "name": "Juan Alcasar",
-          "url": "https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY"
+          "name": "Block Notice",
+          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Atomic Bomb (feat. Juan Alcasar)",
-      "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
+      "duration_ms": 168200,
+      "name": "079",
+      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
     },
     {
       "added_at": "2025-12-12 03:03:06",
@@ -1051,22 +1043,22 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
-        "name": "079",
-        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
+        "name": "Adrenalina (Minha Gasolina)",
+        "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
       },
       "artists": [
         {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         },
         {
-          "name": "Block Notice",
-          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
         }
       ],
-      "duration_ms": 168200,
-      "name": "079",
-      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
+      "duration_ms": 180845,
+      "name": "Adrenalina (Minha Gasolina)",
+      "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

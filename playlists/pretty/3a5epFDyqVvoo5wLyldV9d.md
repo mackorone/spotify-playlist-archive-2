@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 47 likes - 892 songs - 2 day 21 hr 50 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 47 likes - 896 songs - 2 day 22 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -900,5 +900,9 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 890 | [Wenu Wenu](https://open.spotify.com/track/7kzhdwCg36NR0WphxVkorA) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Wenu Wenu](https://open.spotify.com/album/3E2DQ7tVjC1zcgiCSTIoaC) | 7:00 |
 | 891 | [Blu Terra](https://open.spotify.com/track/1QoKnVHsM4tIqE648q8RB1) | [Carlos Maria Trindade](https://open.spotify.com/artist/2VPM4BnWrRFThgDLuwZR3Q), [Nuno Canavarro](https://open.spotify.com/artist/1Af916mBj2FbJyBEB3U13b) | [Mr\. Wollogallu](https://open.spotify.com/album/1qPQqjttjO9TbixGDQKNHK) | 7:05 |
 | 892 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 |
+| 893 | [Na Mundo Deos Quita Manda](https://open.spotify.com/track/6e3VqBbHE9eTeq0qYWd3Jc) | [Marcos](https://open.spotify.com/artist/6LqUuMCyfYcsJgz0HmjLXS) | [Saudade](https://open.spotify.com/album/4LgX603BC6uJYcveklZ6DE) | 4:41 |
+| 894 | [The Girl From Ipanema](https://open.spotify.com/track/4uC7IrfS1oQuRCVzqj1EJV) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Verve Jazz Masters 9: Astrud Gilberto](https://open.spotify.com/album/7b0D5FLZbkGMZM3sjohGFg) | 6:35 |
+| 895 | [Que Vida É Essa \(Que Pega, Pega no Pé\)](https://open.spotify.com/track/4OMTBdFlUA7TO0vcHpAs4e) | [Wal Santana](https://open.spotify.com/artist/2ec2IpzvB45BnfS1YngWOK) | [Que Vida É Essa \(Que Pega, Pega no Pé\) / Fantasia \- Single](https://open.spotify.com/album/3DyugC0G0Igmx9QObQ9Akv) | 2:52 |
+| 896 | [Mano Caetano](https://open.spotify.com/track/1tOvvwdSeyS0gnjCQ6PhI7) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tua Presenca](https://open.spotify.com/album/6s2cYOIP5PPIuUJDqvMJEk) | 2:31 |
 
-Snapshot ID: `AAAD+v2ZKfQFbzVT7iPj8WEmIBaJV3/i`
+Snapshot ID: `AAAD/j1g+HT6mSOE+q1tPB+A5VH9ri9u`

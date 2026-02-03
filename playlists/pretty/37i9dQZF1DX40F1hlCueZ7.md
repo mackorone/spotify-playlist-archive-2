@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain]
 
 > Lo mejor del año  del mundo indie y alternativo, como Amaia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,853 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,885 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain]
 | 2 | [M.A.P.S.](https://open.spotify.com/track/1pq0FftIW2CicKumE3cRqo) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Si Abro Los Ojos No Es Real](https://open.spotify.com/album/5hdd9BcMltcCZpAgcjXtCT) | 2:36 |
 | 3 | [Bajo Presión](https://open.spotify.com/track/5fsTdOUNUZIuygWZvIjYlv) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Gigante](https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO) | 4:19 |
 | 4 | [Volverte a Ver](https://open.spotify.com/track/2PeWjwwAzxrJfpdVpAc44o) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Santa Trinidad \(Edición Deluxe\)](https://open.spotify.com/album/5hQTs3KdLxOizj5QtQAp43) | 5:25 |
-| 5 | [Nunca la primera](https://open.spotify.com/track/6uEDmB3du2C5VgnCSmCshV) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8) | [Nunca la primera](https://open.spotify.com/album/2i1sJQGlTS5lmcWp4mgZBz) | 3:20 |
+| 5 | [Nunca la primera \(feat\. Veintiuno\)](https://open.spotify.com/track/6uEDmB3du2C5VgnCSmCshV) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8) | [Nunca la primera \(feat\. Veintiuno\)](https://open.spotify.com/album/2i1sJQGlTS5lmcWp4mgZBz) | 3:20 |
 | 6 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 7 | [Comerte La Boca](https://open.spotify.com/track/08ByGCwtPp8ejKqZ9tfR2g) | [Javi Chapela](https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk) | [Comerte La Boca](https://open.spotify.com/album/5muf375xh1FcuEI2BgvfMb) | 4:09 |
 | 8 | [Apego Feroz](https://open.spotify.com/track/65U9pQOevYsGxkQhON6Kih) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Apego Feroz](https://open.spotify.com/album/1exv6shV24K0HCbStt1Rt9) | 2:52 |

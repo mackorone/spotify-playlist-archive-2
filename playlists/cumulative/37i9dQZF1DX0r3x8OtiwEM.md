@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-763 songs - 2 day 23 hr 45 min
+764 songs - 2 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Avalon](https://open.spotify.com/track/2gExUhy2b4KYPjkgZnCm0q) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Avalon](https://open.spotify.com/album/7DMnPnaIG9N3IpUK4RXlfg) | 4:26 | 2021-06-25 | 2021-06-26 |
 | [Awake](https://open.spotify.com/track/1CORvfu9nzmwexzWLsCK5S) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf), [Jaden Raxel](https://open.spotify.com/artist/4D2Bvkpg8HKd75UrjX2KpK), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Awake](https://open.spotify.com/album/3K4EB0TNDOKxeChoCb7rLn) | 7:02 | 2021-03-06 | 2022-07-29 |
 | [Awakenings](https://open.spotify.com/track/26tSh4o3NKwBKVl7nFRNuR) | [DJ Clipps](https://open.spotify.com/artist/2Le4H0DnhGgI8EGhx1kEUQ), [Bthelick](https://open.spotify.com/artist/2UYyL9j9Rrdy0qF9U8jOdI), [9Ts](https://open.spotify.com/artist/3sBq2rREGEiDBAjqJ0lUgl) | [I Am High](https://open.spotify.com/album/1FBv8CVnAqMcelZTRKyL7c) | 4:17 | 2020-01-19 | 2020-01-30 |
+| [Baby Run](https://open.spotify.com/track/44COSTXHkxPVGfeyA038Qq) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Baby Run](https://open.spotify.com/album/7FFjxOPlJ3RZe5omgkKTpc) | 4:47 | 2026-01-30 |  |
 | [Baharat](https://open.spotify.com/track/6iuW3TfMShUo5FTi6NNsRC) | [Jerome Isma\-Ae](https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA) | [Baharat](https://open.spotify.com/album/4nDtzWgOouNi3e09jNUwJa) | 4:01 | 2021-04-08 | 2022-07-25 |
 | [Balloons \- Made in Paris Remix](https://open.spotify.com/track/6sHBpR20gmPQmsAiqhbhJe) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Made in Paris](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N) | [Once in a Blue Moon \(Remixes\)](https://open.spotify.com/album/2eghyUE7oGVnvdlHZhcbN6) | 5:46 | 2021-05-07 | 2022-06-10 |
 | [Be Patient](https://open.spotify.com/track/2d9QvDQS5ijgMBynTnYMa3) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Be Patient](https://open.spotify.com/album/3xjRJcTxSTvP4QeR8EX1vj) | 3:08 | 2022-04-15 | 2022-04-20 |
@@ -84,7 +85,7 @@
 | [Boavista](https://open.spotify.com/track/5XWtnEDX7CJC9yK6F7KeK6) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Boavista](https://open.spotify.com/album/2v2BidodVf5z07M6Pofhx3) | 7:37 | 2021-10-11 | 2022-07-28 |
 | [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 | 2025-10-24 |  |
 | [Boundaries](https://open.spotify.com/track/4hJyUjsqSPN9WedW4J6S5p) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Should Have Seen It Coming EP](https://open.spotify.com/album/0vg4zAM1cS40kkCxfINEey) | 4:11 | 2021-02-20 | 2022-07-16 |
-| [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-04 |  |
+| [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-04 | 2026-02-03 |
 | [Boys & Girls](https://open.spotify.com/track/4JWXOAxHSA6BQFHWvMwMcM) | [Nightwhisper](https://open.spotify.com/artist/01CKNofaWoejTw9J0WMkOa) | [Boys & Girls](https://open.spotify.com/album/212D606rlOMsRWxOV6s0jW) | 2:32 | 2020-11-28 | 2022-04-24 |
 | [Brama Wodna](https://open.spotify.com/track/3dA8Km8HoDQ4l5IwOwZinF) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Brama Wodna](https://open.spotify.com/album/3WGhH7gwbyL1Hxy33cK8Nx) | 6:20 | 2022-02-01 | 2022-05-04 |
 | [Braunkehlchen](https://open.spotify.com/track/56mGMAQHrQgiUGcNcJhCI0) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Braunkehlchen](https://open.spotify.com/album/67pxrtI3BA3cvaMJHgIc2P) | 11:11 | 2022-04-04 | 2022-07-21 |

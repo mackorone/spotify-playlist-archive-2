@@ -4,7 +4,7 @@
 
 > Nuovi brani di Kid Yugi, Ditonellapiaga, Ermal Meta, Melanie Martinez e tanti altri.
 
-7,747 songs - 16 day 7 hr 7 min
+7,748 songs - 16 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [A me mi piace](https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [A me mi piace](https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ) | 2:20 | 2025-05-08 | 2025-05-16 |
 | [a me piace \#249 \(feat\. LILCR\)](https://open.spotify.com/track/78Wk5K5YOrpyaRxgWmh7qN) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [TORINO SANGUINA](https://open.spotify.com/album/38dpyXQ8dnqHjKNxOqst2S) | 2:31 | 2025-10-16 | 2025-10-24 |
 | [A MI HIJA VITTORIA](https://open.spotify.com/track/39CQEsM6CjOgHm7UYHGgTJ) | [Muriel](https://open.spotify.com/artist/1H4RtXeHusPL9XHlsiQHuf) | [MOMI](https://open.spotify.com/album/6H1siWVIJoAaSd6SVE16hq) | 2:32 | 2025-04-17 | 2025-04-25 |
-| [a minute a moment](https://open.spotify.com/track/5lKxgT7JyS3nqVVrypMonw) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/5E6aswcc0puXAQvvGuzOtp) | 3:23 | 2026-01-30 |  |
+| [a minute a moment](https://open.spotify.com/track/5lKxgT7JyS3nqVVrypMonw) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/5E6aswcc0puXAQvvGuzOtp) | 3:23 | 2026-01-30 | 2026-02-03 |
+| [a minute a moment](https://open.spotify.com/track/64nEsHY3vnRwKFcUjaz6cC) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/70WuZoQSaSw3sAS9hTu5cD) | 3:23 | 2026-02-02 |  |
 | [A modo mio](https://open.spotify.com/track/4YhnUZNIPRIDZvAXEji5E1) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [A modo mio](https://open.spotify.com/album/2MISCtS4EfXDEE9PyJYx7D) | 2:15 | 2025-06-12 | 2025-06-20 |
 | [A night in DMT \- feat\. Boss Doms & Dunkan](https://open.spotify.com/track/1gBA3Zeu3XLJeDpWkR8NcR) | [Mattia Trani](https://open.spotify.com/artist/0eQjVfBtEcSZ16oAq0V4mk), [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Dunkan](https://open.spotify.com/artist/6P9VaNZCHkUT18kxHx1uky) | [Breakcore Nexus LP](https://open.spotify.com/album/0KYEOz4jqWSbMBTGLsWzmT) | 2:06 | 2024-08-01 | 2024-08-09 |
 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 | 2025-11-20 | 2025-11-28 |

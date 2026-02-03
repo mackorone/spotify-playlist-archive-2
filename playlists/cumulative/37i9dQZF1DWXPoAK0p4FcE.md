@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: YEW
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: เรนิษรา
 
-156 songs - 10 hr 50 min
+158 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All I Know](https://open.spotify.com/track/1MFPsvn1WORn6oSbStc93A) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [All I Know](https://open.spotify.com/album/4leadtIteS968V9L0Hn1g3) | 3:54 | 2024-12-20 | 2025-02-22 |
 | [Back Off !!!](https://open.spotify.com/track/5mULQOKHEFBgmC6cfFFqZz) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [Back Off !!!](https://open.spotify.com/album/6Ui4GRKdLp0CVT7SODjyHr) | 4:27 | 2025-08-08 | 2025-09-06 |
 | [badbye](https://open.spotify.com/track/5td3kJel4JdbqLx5PqgVUA) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [badbye](https://open.spotify.com/album/3DpfRjFl8wgXdhkWO3GjEv) | 3:56 | 2024-07-19 | 2025-04-05 |
-| [Birdsong](https://open.spotify.com/track/2NW2wj8mEZMRJ8bmbJSIHk) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Birdsong](https://open.spotify.com/album/6hiEIwdDdUda0qm4fpX96l) | 4:12 | 2024-11-28 |  |
+| [Birdsong](https://open.spotify.com/track/2NW2wj8mEZMRJ8bmbJSIHk) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Birdsong](https://open.spotify.com/album/6hiEIwdDdUda0qm4fpX96l) | 4:12 | 2024-11-28 | 2026-02-03 |
 | [Destiny](https://open.spotify.com/track/58Jm9WlrD6smHP4SLS0Wdp) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [BLACKBEANS](https://open.spotify.com/album/7zwzgZ4Z81rXLAbR24aJSZ) | 4:02 | 2024-07-05 | 2025-05-31 |
 | [do you?](https://open.spotify.com/track/21bRopAfENk7IQKRGvz8Ce) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [do you?](https://open.spotify.com/album/5gybSiiYBGY1eJgcadloaR) | 3:54 | 2024-06-27 | 2024-09-28 |
 | [Gaslighting](https://open.spotify.com/track/5a1XP82wLiIUleq52ODrex) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Gaslighting](https://open.spotify.com/album/6Zhy9NBqu2PHIDFH1iBnzA) | 4:47 | 2025-02-28 | 2025-07-05 |
@@ -35,6 +35,7 @@
 | [การรอคอย \( THE WAIT8 \)](https://open.spotify.com/track/6uYSkSc8dQInSNCLTZibeC) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [การรอคอย \( THE WAIT8 \)](https://open.spotify.com/album/1ggZWaDDCyOt3pkPJ9vhUY) | 5:09 | 2025-03-21 | 2025-05-02 |
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-06-27 | 2025-02-01 |
 | [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-28 | 2025-03-22 |
+| [ขอบคุณ \(Analog\)](https://open.spotify.com/track/6rkUJtKAIsZsxEaUHZiTYY) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [ขอบคุณ \(Analog\)](https://open.spotify.com/album/34AZJVTpAAmWJlg0NkhFQw) | 3:30 | 2026-02-02 |  |
 | [ขอบคุณที่เราเคยบอกรักและบอกลา](https://open.spotify.com/track/0vVgJd9x0lBhfF0ku9FPmd) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ขอบคุณที่เราเคยบอกรักและบอกลา \- Single](https://open.spotify.com/album/5i3HN2uud8KJakTV1MDG4x) | 3:24 | 2024-07-26 | 2024-11-23 |
 | [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/track/5cRnsaIIJzFVj882jAFN1S) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/album/4PJVgb3BYqTTsB5Jl5OsXM) | 4:04 | 2025-12-26 |  |
 | [ขอโทษที่](https://open.spotify.com/track/2QYSZIbv7zNnqoJtP4maig) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ขอโทษที่](https://open.spotify.com/album/0txy8irs9JN1y1UcQNnC1w) | 4:12 | 2025-05-01 |  |
@@ -143,9 +144,10 @@
 | [แด่ทุกความหวัง](https://open.spotify.com/track/0vnuqB3psAS2HImfo0C3BD) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [แด่ทุกความหวัง](https://open.spotify.com/album/332NqRo6dLl5YgjpYfN96P) | 3:53 | 2024-10-18 | 2025-03-01 |
 | [แบบที่ฉันเคยทำ](https://open.spotify.com/track/3lR3TCz0rBkXxL9XTpBMNB) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [แบบที่ฉันเคยทำ](https://open.spotify.com/album/4obX6QrYrEGPI2LgVVWnoL) | 4:16 | 2024-06-27 | 2025-05-02 |
 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 | 2024-06-27 | 2024-07-27 |
-| [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/track/3MDBApR4v7NT9EbbY7UY7R) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/album/2DaeSbOfpJzSQseoQnDTjt) | 3:30 | 2025-11-21 |  |
+| [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/track/3MDBApR4v7NT9EbbY7UY7R) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/album/2DaeSbOfpJzSQseoQnDTjt) | 3:30 | 2025-11-21 | 2026-02-03 |
 | [แม้ว่าจะเหลือแค่เพียงน้ำตา \( Tears \)](https://open.spotify.com/track/7DCeytp6V1Pp7U5sMfE7qb) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [แม้ว่าจะเหลือแค่เพียงน้ำตา \( Tears \)](https://open.spotify.com/album/3RZJaIhAUcjQLa61I0tPZM) | 4:23 | 2025-11-21 |  |
 | [แอบหวัง](https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK) | 3:55 | 2024-06-27 | 2024-10-12 |
+| [โทรศัพท์หาคนบนฟ้า](https://open.spotify.com/track/3x48XhiGJb4z77U84VNGTK) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [โทรศัพท์หาคนบนฟ้า](https://open.spotify.com/album/6CpcMEDGbHpyiqHfVN2Pos) | 5:06 | 2026-02-02 |  |
 | [โปรดออกไปจากฝัน \(sweet nightmare\)](https://open.spotify.com/track/5oWSGGdlWExRTL0PEMlJTU) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [Second Hand Store](https://open.spotify.com/album/4ehCfNCFuND4oRScDH4mH1) | 3:14 | 2025-09-05 |  |
 | [โลก \(Missing\)](https://open.spotify.com/track/2mYDnxshyoh6TW2dkjHhh7) | [tinn](https://open.spotify.com/artist/1zDqtVjZrcKpg4xwaGdKlC) | [Bitter Sweet Things](https://open.spotify.com/album/0ZLJC25IXJetxllm9Z9tyO) | 2:58 | 2024-11-01 | 2025-01-24 |
 | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/album/3zeCl9WvCuGll12kRI3D4a) | 4:17 | 2025-02-21 | 2025-10-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,579 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,868 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Northeast](https://open.spotify.com/track/0K1X5e2Rc851vP4WLnBzti) | [Matt Duncan](https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl) | [Northeast](https://open.spotify.com/album/53zANEuf1AA2i28x5gxK9G) | 3:40 |
 | 100 | [Going Down](https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Self/Less](https://open.spotify.com/album/6ufptISTWnxr9Zqm2mS1QP) | 3:11 |
 
-Snapshot ID: `AAAAACCJnk/JtjCuHHMi2rUAb2MxCaHY`
+Snapshot ID: `AAAAAHn/iXIbeFTh1BYVx71MWju7w1dj`

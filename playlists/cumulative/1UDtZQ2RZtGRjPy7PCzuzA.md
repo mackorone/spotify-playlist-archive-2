@@ -4,7 +4,7 @@
 
 > 
 
-1,236 songs - 2 day 22 hr 20 min
+1,238 songs - 2 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,6 +574,7 @@
 | [John Wayne](https://open.spotify.com/track/1gdoYFRpgKNeG0y2m61DIA) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/4OHcXYbEbip8iTE6WPU0XK) | 4:18 | 2025-07-10 |  |
 | [Journey to the Past](https://open.spotify.com/track/5bVNYvkjRZuaQnKKdAGuq5) | [Christy Altomare](https://open.spotify.com/artist/789FjOfgnmP40E4Zdyj7F4) | [Anastasia \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI) | 3:16 | 2025-10-11 |  |
 | [JUGGERNAUT \(feat\. Lil Uzi Vert & Pharrell Williams\)](https://open.spotify.com/track/5Jue6vup8nHUgXFUGMk478) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:26 | 2025-05-10 |  |
+| [JULY](https://open.spotify.com/track/4sTDD6cM6iQPaLjP9s69iq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 2:39 | 2026-02-02 |  |
 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 | 2024-04-06 |  |
 | [Jump Then Fall](https://open.spotify.com/track/6WWvcA62QlnRguluWAk6bv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Platinum Edition\)](https://open.spotify.com/album/2gP2LMVcIFgVczSJqn340t) | 3:57 | 2025-05-31 |  |
 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-08-22 |  |
@@ -810,6 +811,7 @@
 | [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 | 2024-03-30 |  |
 | [pretty isn’t pretty](https://open.spotify.com/track/6W9l02gRsXVxzIuQC1oc1X) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:19 | 2024-03-30 |  |
 | [prfct](https://open.spotify.com/track/75wU86jr8iIiBVfD3kU3cU) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:46 | 2025-01-19 |  |
+| [PRIVATE](https://open.spotify.com/track/2NxsPbmbLr6Dw7yYnMGJdo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 2:44 | 2026-02-02 |  |
 | [Prologue: Once Upon a December](https://open.spotify.com/track/2gQRGwlgkcDxgtSEO0s0FU) | [Nicole Scimeca](https://open.spotify.com/artist/0gu8OtxgcaG68RmqcddPVZ), [Mary Beth Peil](https://open.spotify.com/artist/2QQcdCmfjnTkoKVrEpERZT) | [Anastasia \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI) | 1:45 | 2025-10-11 |  |
 | [Promises](https://open.spotify.com/track/2bwpVCOZAlZRYMWAOISXkv) | [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Reeve Carney](https://open.spotify.com/artist/7qDUWeBzKcDnh15yhYBf2U), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 2:43 | 2025-07-27 |  |
 | [prove it](https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:27 | 2024-03-23 | 2026-01-05 |

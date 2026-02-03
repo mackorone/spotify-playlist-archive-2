@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 229064,
       "name": "Besos Moja2",
       "url": "https://open.spotify.com/track/3XIIcuVsJbSj5tNNu46JF8"
@@ -9348,6 +9348,36 @@
       "duration_ms": 159386,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
+    },
+    {
+      "album": {
+        "name": "Simancongo",
+        "url": "https://open.spotify.com/album/1u7tTBpvuRBC21fpC11ocO"
+      },
+      "artists": [
+        {
+          "name": "Zapapaya",
+          "url": "https://open.spotify.com/artist/2qDwLZAEADFu1KEpO3y126"
+        },
+        {
+          "name": "Son Palenque",
+          "url": "https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w"
+        },
+        {
+          "name": "KSPR",
+          "url": "https://open.spotify.com/artist/16VP7T1aDDIbSmVYxonevJ"
+        },
+        {
+          "name": "Montaigne",
+          "url": "https://open.spotify.com/artist/6kzjCLv7yCjBOxwHTX9p47"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186104,
+      "name": "Simancongo",
+      "url": "https://open.spotify.com/track/1Wj1kChsSgwQp0DXq4ursv"
     },
     {
       "album": {

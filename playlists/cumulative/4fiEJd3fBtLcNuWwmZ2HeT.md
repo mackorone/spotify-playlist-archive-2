@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-441 songs - 1 day 1 hr 37 min
+443 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Magical Doctor](https://open.spotify.com/track/0tLcKkZqfylGoG5JcXOXvL) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 3:40 | 2026-01-17 |  |
 | [Marionette](https://open.spotify.com/track/6yrpCHRQ3ToeqhuT9L1il9) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [Nocturne](https://open.spotify.com/album/3qnEQEn785VdJmtJcWA1Iw) | 3:53 | 2025-09-04 |  |
 | [Mass Destruction \-Reload\-](https://open.spotify.com/track/3m058FygvgfkxiUcLIDXKK) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/0ou89XjahTvTUm8mJu8go6) | 3:05 | 2024-04-11 |  |
+| [Medianoche](https://open.spotify.com/track/4frNQ6DvaOl96cemtTgW7q) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [Medianoche](https://open.spotify.com/album/5zi9SzPGFgLazFD7C9ICym) | 3:49 | 2026-02-03 |  |
 | [Mellow mellow Lily](https://open.spotify.com/track/68GkZrkZVZQlv9eXZofLL0) | [ジミー](https://open.spotify.com/artist/4ABfGQhx7kTXCFbxvlLtlO) | [ヤリチン☆ビッチ部 キャラクターソングシリーズ「いちご味」](https://open.spotify.com/album/5JiJPMzj7fN1UZzzWmghml) | 3:28 | 2024-12-24 |  |
 | [Memento mori](https://open.spotify.com/track/7oiupGD4I9Qq3d9fvWq3iq) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [GOTHIC\(A\-type\)](https://open.spotify.com/album/1pruXAHSYCW3bSCEC6DSHT) | 5:30 | 2025-09-04 |  |
 | [Memories of You \-Reload\-](https://open.spotify.com/track/3R0XM0PaKh2R7WYF8UJYe0) | [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 6:39 | 2024-06-03 |  |
@@ -239,6 +240,7 @@
 | [Snooze](https://open.spotify.com/track/1Ht0sIJf1IYEiBW9XDLKnF) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [Snooze](https://open.spotify.com/album/0GrWylaTP2A3nDLDIklvWM) | 2:58 | 2025-09-15 |  |
 | [Something more awesome than a ghost](https://open.spotify.com/track/47f3tIWTiD6wHB2AaCmkkp) | [null](https://open.spotify.com/artist/2uunASYD2lq4NEKTWE0O6V), [warabe](https://open.spotify.com/artist/6o7QGeizvqvNU5Aq2Okw13) | [Something more awesome than a ghost](https://open.spotify.com/album/49TixC2pbSlrKHpGZBntp1) | 3:10 | 2025-08-04 |  |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-09-14 |  |
+| [Spot Late](https://open.spotify.com/track/6FqWBvjXuDOI0wK7E2dPE3) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [Spot Late](https://open.spotify.com/album/6kRUDQ0A6l0pMGMO8cDdKE) | 3:03 | 2026-02-03 |  |
 | [Spotlight \(feat\. WaMi\)](https://open.spotify.com/track/2GwDA6KvANMLYETLsBj9SE) | [MOTTO MUSIC](https://open.spotify.com/artist/69eIvKHcfYigWsgnBSv1jW), [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks), [WaMi](https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol) | [Sweets.](https://open.spotify.com/album/2AoDCCx6szbKJp8yrZPzdL) | 4:04 | 2024-08-12 |  |
 | [Stick Candy \(feat\. Ado\)](https://open.spotify.com/track/4UxpuTRGpbqUouLUQ0G0jY) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stick Candy \(feat\. Ado\)](https://open.spotify.com/album/54qjvu2FrHsLXR1YIb6SUv) | 1:41 | 2023-11-29 |  |
 | [Still, Still, Still\. \- IVUDOT version](https://open.spotify.com/track/2AsMepFqeVigg7Fbp6clXx) | [BOKUTACHI WA YONAYONA](https://open.spotify.com/artist/3k53XmqUT3nfyRSNjM6dtL) | [Still, Still, Still\. \(IVUDOT version\)](https://open.spotify.com/album/1B6SNGzBOdQuNBw8AmTZKV) | 2:18 | 2025-12-16 |  |

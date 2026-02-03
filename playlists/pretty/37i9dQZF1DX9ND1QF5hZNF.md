@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,111 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,127 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 12 | [HONEY](https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [HONEY](https://open.spotify.com/album/2PCSMP8JYKfYvBv2AZ4SaN) | 2:42 |
 | 13 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 |
 | 14 | [Sous Le Soleil](https://open.spotify.com/track/2yrQw5WdgYXfH78fy19lNj) | [Maone](https://open.spotify.com/artist/3lHCbPkaSUJPiqQ9ZJLEOj) | [Sous Le Soleil](https://open.spotify.com/album/7yqLKgijW7cANwozEqx9rD) | 2:24 |
-| 15 | [Waves Of Silence](https://open.spotify.com/track/4x5Qpwgl85O8k7YHecpFYM) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Waves of Silence](https://open.spotify.com/album/4TLl8qxwa6TleRRz8dXQLc) | 3:46 |
+| 15 | [Waves Of Silence](https://open.spotify.com/track/4x5Qpwgl85O8k7YHecpFYM) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Waves Of Silence](https://open.spotify.com/album/4TLl8qxwa6TleRRz8dXQLc) | 3:46 |
 | 16 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
 | 17 | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR) | 3:32 |
 | 18 | [All I Want, All I Need](https://open.spotify.com/track/7qhsvyBkKidKY1p1ibktmE) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY), [Lily Denning](https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX) | [Nothing Hurts Like Everything](https://open.spotify.com/album/5iaZRcOBVbibd8FpnPoAy1) | 3:21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YEW",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 252000,
       "name": "Birdsong",
       "url": "https://open.spotify.com/track/2NW2wj8mEZMRJ8bmbJSIHk"
@@ -516,6 +516,28 @@
       "duration_ms": 246817,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e25\u0e32\u0e25\u0e31\u0e1a\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13 (Analog)",
+        "url": "https://open.spotify.com/album/34AZJVTpAAmWJlg0NkhFQw"
+      },
+      "artists": [
+        {
+          "name": "SCRUBB",
+          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+        },
+        {
+          "name": "gorn",
+          "url": "https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13 (Analog)",
+      "url": "https://open.spotify.com/track/6rkUJtKAIsZsxEaUHZiTYY"
     },
     {
       "album": {
@@ -2502,7 +2524,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 210000,
       "name": "\u0e41\u0e1e\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e43\u0e19\u0e2b\u0e31\u0e27 (Hello There)",
       "url": "https://open.spotify.com/track/3MDBApR4v7NT9EbbY7UY7R"
@@ -2542,6 +2564,24 @@
       "duration_ms": 235058,
       "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
       "url": "https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e17\u0e23\u0e28\u0e31\u0e1e\u0e17\u0e4c\u0e2b\u0e32\u0e04\u0e19\u0e1a\u0e19\u0e1f\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/6CpcMEDGbHpyiqHfVN2Pos"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306716,
+      "name": "\u0e42\u0e17\u0e23\u0e28\u0e31\u0e1e\u0e17\u0e4c\u0e2b\u0e32\u0e04\u0e19\u0e1a\u0e19\u0e1f\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/3x48XhiGJb4z77U84VNGTK"
     },
     {
       "album": {

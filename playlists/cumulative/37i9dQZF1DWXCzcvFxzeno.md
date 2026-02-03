@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry + Shlømo
 
-342 songs - 23 hr 38 min
+343 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [GOLDEN SZN](https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [Nyctonian](https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp) | [GOLDEN SZN](https://open.spotify.com/album/3qXVu7ROSjZ5YEdOwsK1FN) | 4:54 | 2024-04-09 | 2025-08-23 |
 | [Gravitational Wave](https://open.spotify.com/track/6QVkUrkSC3IMWmbCEbkP7p) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Gravitational Wave EP](https://open.spotify.com/album/7EFsVyrCWzjXPfGNZ3UPql) | 5:45 | 2025-03-19 | 2025-11-28 |
 | [Half Faces \(Lacchesi Remix\)](https://open.spotify.com/track/0yy7fr4DlmoEEWN82vfwli) | [Baraka](https://open.spotify.com/artist/6EjnvgTO514mUFDlwZtUu7), [Lacchesi](https://open.spotify.com/artist/5o4fYRhRy7bjAnroRtj5Qs) | [Half Faces \(Remixes\)](https://open.spotify.com/album/5CoyBDHyYJI4CrllwYE5kY) | 5:40 | 2024-04-09 | 2024-11-19 |
+| [Hard Is Our Way Of Life](https://open.spotify.com/track/2NL5rY2hCEwMW8mEIvzoGJ) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Hard Is Our Way Of Life](https://open.spotify.com/album/4DbaJQEEWQeWVm7Bmgq7D4) | 3:26 | 2026-01-29 |  |
 | [Hard Kicks Cheap Thrills](https://open.spotify.com/track/4iSh4ydsRjWuM5B6Gq8vkK) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Hard Kicks Cheap Thrills](https://open.spotify.com/album/6yszF8HOJA3jlfl0b0CvjL) | 4:24 | 2024-04-09 | 2024-11-29 |
 | [Havana Bounce](https://open.spotify.com/track/3yDlsbUiSWvViojyF0244u) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Havana Bounce](https://open.spotify.com/album/78f1sQGjkzuQbS7boCVv8w) | 4:31 | 2025-08-15 |  |
 | [HEAR THE NOISE](https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [HEAR THE NOISE](https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye) | 2:46 | 2024-04-09 | 2025-08-26 |
@@ -217,7 +218,7 @@
 | [Murdock](https://open.spotify.com/track/7nN21YXSaGR5mygpLIk76a) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [AXL](https://open.spotify.com/artist/3HvGktIqgqALPusQhtRtno), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Murdock](https://open.spotify.com/album/399a0712lFkePRqeJUANNY) | 5:15 | 2024-04-09 | 2024-05-23 |
 | [My Gasoline \- Hard Edit](https://open.spotify.com/track/2pmk8xGNKwmKrmQBK9Vwgf) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline \(Hard Edit\)](https://open.spotify.com/album/4spbKALzJWO1dHSz9k7P7P) | 4:03 | 2024-04-09 |  |
 | [Mystic Blast](https://open.spotify.com/track/6X24jDDs8Hx1PuuGounCth) | [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX), [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [TM002](https://open.spotify.com/album/27d7ZMLhcyuaALVrjYK6rF) | 5:34 | 2024-06-14 | 2024-08-09 |
-| [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 | 2025-04-25 |  |
+| [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 | 2025-04-25 | 2026-02-03 |
 | [Naked Light \- Sara Landry Remix](https://open.spotify.com/track/0nVoVGIJd5EXGxy45MymFS) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Naked Light RMX](https://open.spotify.com/album/3ioBPxlY7vGOzgIOA3yjPu) | 5:18 | 2024-12-13 | 2025-02-10 |
 | [Never Enough](https://open.spotify.com/track/0g1UEsa2bqif2D0hlmxUfI) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR) | [Never Enough](https://open.spotify.com/album/301BTyjA0xlkTu8gDm3ToF) | 5:27 | 2024-04-09 | 2025-04-22 |
 | [Never Let Me Down](https://open.spotify.com/track/38MD66rssmeYXu3xwB36k5) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi), [∏EVER](https://open.spotify.com/artist/7hxEgJocKQ6HDMlpDYXPYf) | [Never Let Me Down](https://open.spotify.com/album/4OE2XbdrJb9q9cUflbOSv2) | 3:01 | 2024-05-03 | 2024-06-22 |

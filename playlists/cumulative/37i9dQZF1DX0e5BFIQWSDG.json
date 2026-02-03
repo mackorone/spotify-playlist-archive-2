@@ -192,7 +192,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 195345,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 210000,
       "name": "Aeroplana",
       "url": "https://open.spotify.com/track/3lS1r65AbkPdljhDrRQEyV"
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 202800,
       "name": "BRO X3",
       "url": "https://open.spotify.com/track/77VGUR3e39LMnXDbRTEmIB"
@@ -2951,6 +2951,24 @@
     },
     {
       "album": {
+        "name": "Exigiste Mou",
+        "url": "https://open.spotify.com/album/5wZG3GidgJwTxeNFMIse8S"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173308,
+      "name": "Exigiste Mou",
+      "url": "https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R"
+    },
+    {
+      "album": {
         "name": "FANTA",
         "url": "https://open.spotify.com/album/28Z5ChSUUkD9xuUjy9xuBq"
       },
@@ -3625,6 +3643,32 @@
     },
     {
       "album": {
+        "name": "Gonzales",
+        "url": "https://open.spotify.com/album/73pvJNkXU5AeqOTQJPFup4"
+      },
+      "artists": [
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Gonzales",
+      "url": "https://open.spotify.com/track/2ObmJkj2BemrXxrpH0yDmZ"
+    },
+    {
+      "album": {
         "name": "Grace Kelly",
         "url": "https://open.spotify.com/album/6U8AYnGwm4ZiJxp9Un8Ms0"
       },
@@ -4232,7 +4276,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 186947,
       "name": "KAKO",
       "url": "https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu"
@@ -5082,6 +5126,28 @@
     {
       "album": {
         "name": "LV",
+        "url": "https://open.spotify.com/album/6v55MSxVFw4Rx1P6FPggSt"
+      },
+      "artists": [
+        {
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
+        },
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217942,
+      "name": "LV",
+      "url": "https://open.spotify.com/track/5iXO4PqcC4d8joAhMTM2De"
+    },
+    {
+      "album": {
+        "name": "LV",
         "url": "https://open.spotify.com/album/6bPFRDMVItr8507RKDZq2r"
       },
       "artists": [
@@ -5444,6 +5510,28 @@
       "duration_ms": 192515,
       "name": "Messy",
       "url": "https://open.spotify.com/track/5CqO0vPgia1781FOP2CjdE"
+    },
+    {
+      "album": {
+        "name": "Anadysi",
+        "url": "https://open.spotify.com/album/4WMjUCjgNJx3JuumWbkiLI"
+      },
+      "artists": [
+        {
+          "name": "Anser",
+          "url": "https://open.spotify.com/artist/3peCLl6eMLh8lJyRUt4jc8"
+        },
+        {
+          "name": "Eversor",
+          "url": "https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Mia Kiriaki Vrocheri",
+      "url": "https://open.spotify.com/track/01e243XEQnw8yL6s0JtjmU"
     },
     {
       "album": {

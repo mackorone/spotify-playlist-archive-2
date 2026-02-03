@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,104 likes - 103 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,201 likes - 103 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 96 | [OBaba Ngiyabonga \- Hymn](https://open.spotify.com/track/5D84YAm3LkR9kNTwHXqx1M) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [OBaba Ngiyabonga \(Hymn\)](https://open.spotify.com/album/75Bk0Vq6SdVD4Wzeyaskee) | 6:28 |
 | 97 | [Khona Manje \- Live](https://open.spotify.com/track/0cFHMKhfyX4z2ke0VebYgk) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Khona Manje \(Live\)](https://open.spotify.com/album/65da7LjChvizDlebOaZnvw) | 4:33 |
 | 98 | [Singabantwana \- Live at Isibaya Casino](https://open.spotify.com/track/4aY18WykQoaNIJPqYB4qga) | [Ndumiso Zungu](https://open.spotify.com/artist/4rFahmjoVZtKLEn95KHpzH) | [Singabantwana \(Live at Isibaya Casino\)](https://open.spotify.com/album/49hkVpI50FfeWHeqeLKpSg) | 7:27 |
-| 99 | [Izindela Zakhe \- Live at The Playhouse](https://open.spotify.com/track/3rOm6rtALrqKEoBjwhY9Rr) | [Ntokozo Ngongoma](https://open.spotify.com/artist/5IGR73moHopegctzMOpM10) | [Izindela Zakhe \(Live at The Playhouse\)](https://open.spotify.com/album/44qTX6pyLy6y5TNrhy3SzW) | 6:28 |
+| 99 | [Izindlela Zakhe \- Live at The Playhouse](https://open.spotify.com/track/3rOm6rtALrqKEoBjwhY9Rr) | [Ntokozo Ngongoma](https://open.spotify.com/artist/5IGR73moHopegctzMOpM10) | [Izindlela Zakhe \(Live at The Playhouse\)](https://open.spotify.com/album/44qTX6pyLy6y5TNrhy3SzW) | 6:28 |
 | 100 | [Glorious God](https://open.spotify.com/track/3Rsqw0tq93oezGbCeb7qCq) | [5 Fold Worship](https://open.spotify.com/artist/5g9jOwxRVYqWHwXPM5ZUZD), [Sophie Malete](https://open.spotify.com/artist/3oMXp3en0H6rwOO32ifA3T) | [Glorious God](https://open.spotify.com/album/3Iv8nu7OTtzgEnH2eM8Uxj) | 7:54 |
 | 101 | [Ndiyakudinga Njalo](https://open.spotify.com/track/5zfrwU2SH4pERwcyrUKXsX) | [Ntlantla Swana](https://open.spotify.com/artist/4b7hSBgPfwDMdZ1GH1zULM) | [Trust + Belief](https://open.spotify.com/album/0ZmglpH2rEtXX8h3k99Qzw) | 6:43 |
 | 102 | [Phakade NeNkosi](https://open.spotify.com/track/7DVHzYbVAPiNsS6CEMxB4J) | [Londiwe Sphe Nxumalo](https://open.spotify.com/artist/0T1PttE74glDfZNF0LA8yi), [Dr Timothy Myeni](https://open.spotify.com/artist/7jxNgwuFkEfLwANCfVauW5) | [Phakade NeNkosi](https://open.spotify.com/album/34EHQHyVfTIAPuW2hvzyPE) | 6:16 |

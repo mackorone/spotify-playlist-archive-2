@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 12687,
+  "num_followers": 12688,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAABq270eOZb1M9/gc96MmxN",
+  "snapshot_id": "aX6XgAAAAAAX+L+a4iOP9yI/V5rwJYzd",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 259613,
-      "name": "There Will Be Love",
-      "url": "https://open.spotify.com/track/2KjSNIlOeI6bHG9KaWIf3V"
+      "duration_ms": 233146,
+      "name": "One Life to Live",
+      "url": "https://open.spotify.com/track/7K5oM0YifHysADifGna69g"
     },
     {
       "added_at": null,
@@ -316,25 +316,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 233146,
-      "name": "One Life to Live",
-      "url": "https://open.spotify.com/track/7K5oM0YifHysADifGna69g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
-        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
-      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
+      "duration_ms": 259613,
+      "name": "There Will Be Love",
+      "url": "https://open.spotify.com/track/2KjSNIlOeI6bHG9KaWIf3V"
     },
     {
       "added_at": null,
@@ -351,6 +335,22 @@
       "duration_ms": 267400,
       "name": "You've Made Me So Very Happy",
       "url": "https://open.spotify.com/track/4KClNuFZIA0Tqjk3eTnEUt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
+        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
+      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "This Song Will Last Forever",
-      "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brotherman!: Lou Rawls Sings His Hits",
         "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 154333,
       "name": "The Letter",
       "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "This Song Will Last Forever",
+      "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sit Down and Talk to Me",
-        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 278946,
-      "name": "Ain't That Loving You (For More Reasons Than One)",
-      "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stormy Monday",
         "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 357040,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sit Down and Talk to Me",
+        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 278946,
+      "name": "Ain't That Loving You (For More Reasons Than One)",
+      "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sit Down and Talk to Me",
-        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 291173,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tobacco Road",
         "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 199573,
       "name": "Georgia On My Mind - Remastered 2006",
       "url": "https://open.spotify.com/track/1v0PObRGQRpv6foapH9F35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sit Down and Talk to Me",
+        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 291173,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw"
     },
     {
       "added_at": null,

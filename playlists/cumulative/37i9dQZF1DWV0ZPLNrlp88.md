@@ -4,7 +4,7 @@
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-2,997 songs - 7 day 10 hr 37 min
+2,998 songs - 7 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [Just Another Day](https://open.spotify.com/track/6LNfxO2Yuw8gc6GnEqcHT3) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Just Another Day](https://open.spotify.com/album/3PSDb2DIcuOjStPUC8r9Gl) | 2:51 | 2025-02-15 | 2025-02-22 |
 | [Just Because](https://open.spotify.com/track/3bbWE0Z4rAt1YVyAuiyvBU) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Just Because](https://open.spotify.com/album/5rSxLJ1qkZP1V5fwQKcvRi) | 2:48 | 2024-04-12 | 2024-04-20 |
 | [Just like me](https://open.spotify.com/track/6yX4Q9y3ehu8iJ5PHQX0f7) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Sangyo](https://open.spotify.com/album/2RoYeLGxsRsiS1V7CvNg9q) | 3:20 | 2024-04-05 | 2024-04-13 |
+| [kakegae](https://open.spotify.com/track/6W8QOu3VVvoSwx2OKY8qsE) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [kakegae](https://open.spotify.com/album/1cZkW2rDLrtM4fbfQldOpB) | 3:49 | 2026-02-02 |  |
 | [Kaleidoscope](https://open.spotify.com/track/4Dmz6KqXiNdYYv8tcTyNdU) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Kaleidoscope](https://open.spotify.com/album/4oBjaVl3xzRyVXxiB3T8Yz) | 3:28 | 2023-12-22 | 2024-01-13 |
 | [Kanashikunaiyo](https://open.spotify.com/track/1QBET5TgEioubUhDwWf3XY) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Kanashikunaiyo](https://open.spotify.com/album/0QuZsgf6q7Q9ZcnYjlagig) | 3:48 | 2023-12-15 | 2024-01-13 |
 | [KATATOKI](https://open.spotify.com/track/3glLtPjGGpTXPk5CSJ2MVJ) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY), [J.I.D](https://open.spotify.com/artist/7bTn84XuezOf5kzCED8UCK) | [WONDER BOY'S AKUMU CLUB](https://open.spotify.com/album/3VnHOAsrH9dBq8TbVmHkGL) | 3:32 | 2024-09-28 | 2024-10-05 |
@@ -2917,7 +2918,7 @@
 | [閃光花火](https://open.spotify.com/track/4B90oJSkzednQapRvo1fk4) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [閃光花火](https://open.spotify.com/album/4wi1kawLBKMyBGNEmmxjLa) | 3:57 | 2024-06-08 | 2024-06-18 |
 | [閃光配信](https://open.spotify.com/track/3agn9FdMlV6Ecl2MOsTl5U) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [閃光配信](https://open.spotify.com/album/1a39oxRKgYRZ4A3iE78OqL) | 2:17 | 2024-04-26 | 2024-05-11 |
 | [閉じた光](https://open.spotify.com/track/6uYuxVl3EuOR6Vc9cJXbIP) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 3 ～無人島に持っていき忘れた一枚～](https://open.spotify.com/album/5StzS3H3g6BwP5rpW4o49f) | 4:27 | 2024-03-15 | 2024-03-23 |
-| [開拓者](https://open.spotify.com/track/4HnMtiSbAOGQCWEcWcSHg0) | [影ぼう](https://open.spotify.com/artist/1wdEjqn5ZnNhnxOMRDPc9r) | [開拓者](https://open.spotify.com/album/7r199jCbRN8heNkKQV1LUs) | 2:28 | 2026-01-30 |  |
+| [開拓者](https://open.spotify.com/track/4HnMtiSbAOGQCWEcWcSHg0) | [影ぼう](https://open.spotify.com/artist/1wdEjqn5ZnNhnxOMRDPc9r) | [開拓者](https://open.spotify.com/album/7r199jCbRN8heNkKQV1LUs) | 2:28 | 2026-01-30 | 2026-02-03 |
 | [間違ってないyes！future！！](https://open.spotify.com/track/5DeWKZ6KyHrL5XqiiFWTU5) | [my fav](https://open.spotify.com/artist/6gqgXfDQhYXU2yqH4zBL53) | [間違ってないyes！future！！](https://open.spotify.com/album/58SFHTm5b4qSbrJmX9B1vM) | 4:38 | 2024-08-30 | 2024-09-07 |
 | [関白宣言](https://open.spotify.com/track/4YgexbemM5qPT6nAoj3HOw) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [関白宣言](https://open.spotify.com/album/3dbiKFAG35VcAH4Eb8QocJ) | 3:05 | 2025-04-25 | 2025-05-24 |
 | [陽](https://open.spotify.com/track/4MWaFZrqK80ubcDm6JJI1L) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8), [谷口鮪](https://open.spotify.com/artist/50Uf3hYnlJhqQwCMGEtsCX) | [もうすぐ着くから待っててね](https://open.spotify.com/album/0NgRXnWAZhQIhcE1dMohZS) | 4:13 | 2023-12-15 | 2023-12-23 |

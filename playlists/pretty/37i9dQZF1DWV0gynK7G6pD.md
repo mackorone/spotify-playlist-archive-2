@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Olivia Belli
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,873 likes - 76 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,869 likes - 76 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 536096,
+  "num_followers": 536251,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Wonderful World Of Sam Cooke",
-        "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 128786,
-      "name": "(What A) Wonderful World - Mono",
-      "url": "https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 173866,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Wonderful World Of Sam Cooke",
+        "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 128786,
+      "name": "(What A) Wonderful World - Mono",
+      "url": "https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Oogum Boogum",
@@ -587,6 +571,22 @@
       "duration_ms": 163302,
       "name": "I Like The Way You Love Me",
       "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
-        "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
+        "name": "The Never Ending Impressions",
+        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
         }
       ],
-      "duration_ms": 182573,
-      "name": "Mad About The Boy",
-      "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
+      "duration_ms": 171506,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Never Ending Impressions",
-        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
+        "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
+        "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
       },
       "artists": [
         {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 171506,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
+      "duration_ms": 182573,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "In Dreams",
-        "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Gary Puckett & The Union Gap Featuring \"Young Girl\"",
         "url": "https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 190480,
       "name": "What the World Needs Now Is Love",
       "url": "https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "In Dreams",
+        "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-05-03 14:52:34",
       "album": {
+        "name": "Oh, What A Night! / The Great Ballads",
+        "url": "https://open.spotify.com/album/5IjlGKFY636wmz3eqE7V1N"
+      },
+      "artists": [
+        {
+          "name": "The Dells",
+          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Oh, What A Night",
+      "url": "https://open.spotify.com/track/2ht21Rlf8L6cPLBkYmhpcs"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
         "name": "A Love So Beautiful: Roy Orbison & The Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/0OY480YYBT6oEuTQbxR3kK"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 180213,
       "name": "Crying",
       "url": "https://open.spotify.com/track/56SVBTiWKPVwqNxiNkCpKS"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Oh, What A Night! / The Great Ballads",
-        "url": "https://open.spotify.com/album/5IjlGKFY636wmz3eqE7V1N"
-      },
-      "artists": [
-        {
-          "name": "The Dells",
-          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Oh, What A Night",
-      "url": "https://open.spotify.com/track/2ht21Rlf8L6cPLBkYmhpcs"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2231,18 +2231,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF"
+        "name": "Wish It Would Rain",
+        "url": "https://open.spotify.com/album/5HSjEEA5qggoxsLJzxtQty"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 173306,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH"
+      "duration_ms": 162706,
+      "name": "I Wish It Would Rain",
+      "url": "https://open.spotify.com/track/6ePg7Gsej17RfQQKjsY0rf"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2259,6 +2259,22 @@
       "duration_ms": 145573,
       "name": "Massachusetts (2008 Remastered LP Version)",
       "url": "https://open.spotify.com/track/1mBPlknQe00PCd7R9g34ix"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2283,22 +2299,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Ain't That Good News (Remastered)",
-        "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Strangers In The Night (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
       },
@@ -2311,6 +2311,22 @@
       "duration_ms": 157866,
       "name": "Strangers In The Night",
       "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Ain't That Good News (Remastered)",
+        "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2359,22 +2375,6 @@
       "duration_ms": 241106,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7KkmPCj7Eh9tCD7bF5H2yh"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Wish It Would Rain",
-        "url": "https://open.spotify.com/album/5HSjEEA5qggoxsLJzxtQty"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 162706,
-      "name": "I Wish It Would Rain",
-      "url": "https://open.spotify.com/track/6ePg7Gsej17RfQQKjsY0rf"
     },
     {
       "added_at": "2022-05-30 13:00:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,872 likes - 29 songs - 2 hr 0 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,878 likes - 46 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,26 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 23 | [Dance](https://open.spotify.com/track/3idjeb4oia9I59Dql0aPkD) | [Duncan Troast](https://open.spotify.com/artist/0Qrm0co28DmwqKD2HrWHzR), [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [music for 2 pianos](https://open.spotify.com/album/77A0GbCVkBQZFC4iB5yByx) | 1:05 |
 | 24 | [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 |
 | 25 | [Extraordinary Machine](https://open.spotify.com/track/5h9Iek7Hp9wayRt7fBp7Ab) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 3:43 |
-| 26 | [You Ain't Got A Hold On Me](https://open.spotify.com/track/6nzFEEsgaXRzlSZmlR4MwM) | [Mark Kozelek](https://open.spotify.com/artist/0qt6QSruHshcWT9QOzyfZp) | [Rock 'N' Roll Singer](https://open.spotify.com/album/5866J94MCDJmX5d7in000y) | 3:14 |
-| 27 | [23](https://open.spotify.com/track/2BP54vmLS8Xdw294EuiH67) | [Torus](https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW) | [Dandelion1](https://open.spotify.com/album/3hXubcAnVll5tpxNMjURn9) | 2:22 |
-| 28 | [Born On The Cusp](https://open.spotify.com/track/3Tc2Q1KlWcgSd4Fm4T41i8) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Set Free](https://open.spotify.com/album/20A3l4TcQUxmiISp0txH8y) | 3:28 |
-| 29 | [Cross Bones Style](https://open.spotify.com/track/5Qhy5MYSkAMRVgTrABOlp7) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:32 |
+| 26 | [Get Him Back](https://open.spotify.com/track/1mr6isK6JrhrE5TS0JV8Ne) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 5:24 |
+| 27 | [Better Version Of Me](https://open.spotify.com/track/44tKNi9TEVbu31QlBkXSvG) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 2:59 |
+| 28 | [Tymps \(The Sick in the Head Song\)](https://open.spotify.com/track/2zjUGfh1MqYNfYrQ6Fbu0o) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 4:03 |
+| 29 | [Parting Gift](https://open.spotify.com/track/58rxpgox81Lb5kw3NO0Sq7) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 3:34 |
+| 30 | [Red Red Red](https://open.spotify.com/track/7oQcqeb9FTPAkW6uVtHWeZ) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 4:08 |
+| 31 | [Waltz \(Better Than Fine\)](https://open.spotify.com/track/7neXV046ou4CNN9wyFAED6) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 3:46 |
+| 32 | [Every Single Night](https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 3:29 |
+| 33 | [Jonathan](https://open.spotify.com/track/1xq9GyfTbElPmxFMcKHNiI) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 5:03 |
+| 34 | [Left Alone](https://open.spotify.com/track/18U67rsYOw5X0rY7LJzZQD) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 4:50 |
+| 35 | [Werewolf](https://open.spotify.com/track/5exHP9IYyaFSeQ5Y4OtbKb) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 3:12 |
+| 36 | [Periphery](https://open.spotify.com/track/2cf3Yj51sQZXmK2Kra0m7p) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 4:58 |
+| 37 | [Largo](https://open.spotify.com/track/12C2Fd7NeDucehWCstk83l) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 2:38 |
+| 38 | [You Ain't Got A Hold On Me](https://open.spotify.com/track/6nzFEEsgaXRzlSZmlR4MwM) | [Mark Kozelek](https://open.spotify.com/artist/0qt6QSruHshcWT9QOzyfZp) | [Rock 'N' Roll Singer](https://open.spotify.com/album/5866J94MCDJmX5d7in000y) | 3:14 |
+| 39 | [23](https://open.spotify.com/track/2BP54vmLS8Xdw294EuiH67) | [Torus](https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW) | [Dandelion1](https://open.spotify.com/album/3hXubcAnVll5tpxNMjURn9) | 2:22 |
+| 40 | [Born On The Cusp](https://open.spotify.com/track/3Tc2Q1KlWcgSd4Fm4T41i8) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Set Free](https://open.spotify.com/album/20A3l4TcQUxmiISp0txH8y) | 3:28 |
+| 41 | [Cross Bones Style](https://open.spotify.com/track/5Qhy5MYSkAMRVgTrABOlp7) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:32 |
+| 42 | [Peace & Happiness](https://open.spotify.com/track/4ExURFwm46W9mgB9ZZFixL) | [Ted Hawkins](https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU) | [Watch Your Step](https://open.spotify.com/album/3XnHTwogsnLUFhC7nZ983d) | 2:32 |
+| 43 | [Sorry You're Sick](https://open.spotify.com/track/0bQfDEGIkkjrrbGkK4JLmF) | [Ted Hawkins](https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU) | [Watch Your Step](https://open.spotify.com/album/3XnHTwogsnLUFhC7nZ983d) | 2:10 |
+| 44 | [Stay Close To Me](https://open.spotify.com/track/7pWym8pTfolrPCsb7eFPqc) | [Ted Hawkins](https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU) | [Watch Your Step](https://open.spotify.com/album/3XnHTwogsnLUFhC7nZ983d) | 3:15 |
+| 45 | [Tandem Jump](https://open.spotify.com/track/328C68l9DNlBQgU8VtRahY) | [Jonathan Richman](https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5) | [I, Jonathan](https://open.spotify.com/album/2RtcqYl0VAhDw9DPMEqWF5) | 2:14 |
+| 46 | [Our Love](https://open.spotify.com/track/6t4ihYlGLq3qp6VlBfYaT2) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Grace & Danger](https://open.spotify.com/album/05FPn66m4Ry59KRrKFCg3Q) | 3:57 |
 
-Snapshot ID: `AAAN0AYJb0sPeL6trpW6/884e/RaEahT`
+Snapshot ID: `AAAN2v/kxiMaOsKlLiEddfVSBj3nmXIE`

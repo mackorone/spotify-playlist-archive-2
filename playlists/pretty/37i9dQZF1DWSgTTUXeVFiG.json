@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 32450,
+  "num_followers": 32456,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Grupo Niche (En Vivo)",
-        "url": "https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3"
+        "name": "45 Aniversario",
+        "url": "https://open.spotify.com/album/5T5SzOvy6RDvdKOQre31BR"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
         }
       ],
-      "duration_ms": 335680,
-      "name": "Nuestro Sue\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw"
+      "duration_ms": 812973,
+      "name": "Boranda",
+      "url": "https://open.spotify.com/track/029UVd2kWFQVuCJZ7ekuNX"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "45 Aniversario",
-        "url": "https://open.spotify.com/album/5T5SzOvy6RDvdKOQre31BR"
+        "name": "Grupo Niche (En Vivo)",
+        "url": "https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3"
       },
       "artists": [
         {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 812973,
-      "name": "Boranda",
-      "url": "https://open.spotify.com/track/029UVd2kWFQVuCJZ7ekuNX"
+      "duration_ms": 335680,
+      "name": "Nuestro Sue\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "Eddie Santiago (En Vivo)",
+        "url": "https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 373400,
+      "name": "Lluvia - En Vivo",
+      "url": "https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "40 Aniversario: EN VIVO",
         "url": "https://open.spotify.com/album/3y6psCkk0iiyHW9RsZd1OU"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Eddie Santiago (En Vivo)",
-        "url": "https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 373400,
-      "name": "Lluvia - En Vivo",
-      "url": "https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "50 Aniversario, Vol.2",
         "url": "https://open.spotify.com/album/7ftFj2k39BuPU2jpiVAvkt"
       },
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "duration_ms": 303586,
+      "name": "Anacaona - Live Version",
+      "url": "https://open.spotify.com/track/2NVpzFcSsWsWPuyH1X6IXG"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
         "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 238813,
       "name": "Me Voy Pa' Cali - Live",
       "url": "https://open.spotify.com/track/3URgs3mIvNlsHEnfj6ZaQS"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        }
-      ],
-      "duration_ms": 303586,
-      "name": "Anacaona - Live Version",
-      "url": "https://open.spotify.com/track/2NVpzFcSsWsWPuyH1X6IXG"
     }
   ],
   "unique_name": "Vivo de Salsa",

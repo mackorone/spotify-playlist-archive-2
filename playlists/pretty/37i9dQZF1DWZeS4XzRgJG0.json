@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 42181,
+  "num_followers": 42190,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-12-18 11:26:05",
       "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "Lost Boy",
-      "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
-    },
-    {
-      "added_at": "2025-12-18 11:26:05",
-      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "added_at": "2025-12-18 11:26:05",
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 276066,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
     },
     {
       "added_at": "2025-12-18 11:26:05",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-12-18 11:26:05",
       "album": {
-        "name": "I Won't Give Up",
-        "url": "https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 240165,
-      "name": "I Won't Give Up",
-      "url": "https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT"
-    },
-    {
-      "added_at": "2025-12-18 11:26:05",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 197893,
       "name": "Sober",
       "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
+    },
+    {
+      "added_at": "2025-12-18 11:26:05",
+      "album": {
+        "name": "I Won't Give Up",
+        "url": "https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 240165,
+      "name": "I Won't Give Up",
+      "url": "https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT"
     },
     {
       "added_at": "2025-12-18 11:26:05",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-12-18 11:26:05",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 247842,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2"
-    },
-    {
-      "added_at": "2025-12-18 11:26:05",
-      "album": {
         "name": "april",
         "url": "https://open.spotify.com/album/6qJIriPhREpx7cSdgGAtFL"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 141748,
       "name": "april",
       "url": "https://open.spotify.com/track/7xba9o02EQR0YMrBOZ4d10"
+    },
+    {
+      "added_at": "2025-12-18 11:26:05",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 247842,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2"
     },
     {
       "added_at": "2025-12-18 11:26:05",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2025-12-18 11:26:05",
       "album": {
-        "name": "Happiest Year",
-        "url": "https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 228442,
-      "name": "Happiest Year",
-      "url": "https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh"
-    },
-    {
-      "added_at": "2025-12-18 11:26:05",
-      "album": {
         "name": "hopeless fountain kingdom (Deluxe)",
         "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 290900,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl"
+    },
+    {
+      "added_at": "2025-12-18 11:26:05",
+      "album": {
+        "name": "Happiest Year",
+        "url": "https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 228442,
+      "name": "Happiest Year",
+      "url": "https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh"
     },
     {
       "added_at": "2025-12-18 11:26:05",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2025-12-18 11:26:05",
       "album": {
+        "name": "In A Perfect World",
+        "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
+    },
+    {
+      "added_at": "2025-12-18 11:26:05",
+      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
-    },
-    {
-      "added_at": "2025-12-18 11:26:05",
-      "album": {
-        "name": "In A Perfect World",
-        "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 305746,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
     },
     {
       "added_at": "2025-12-18 11:26:05",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2025-12-18 11:26:05",
       "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj"
+    },
+    {
+      "added_at": "2025-12-18 11:26:05",
+      "album": {
         "name": "Feline (Deluxe)",
         "url": "https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 222041,
       "name": "Nothing Really Matters",
       "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
-    },
-    {
-      "added_at": "2025-12-18 11:26:05",
-      "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Purpose",
-      "url": "https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj"
     },
     {
       "added_at": "2025-12-18 11:26:05",

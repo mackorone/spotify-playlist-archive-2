@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 377111,
+  "num_followers": 377186,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "urban lounge",
-        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
-      },
-      "artists": [
-        {
-          "name": "Young Disciples",
-          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Apparently Nothin' - Edit",
-      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "In the Hand of the Inevitable",
         "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 294240,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "urban lounge",
+        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
+      },
+      "artists": [
+        {
+          "name": "Young Disciples",
+          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Apparently Nothin' - Edit",
+      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Culture of Fear",
-        "url": "https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "Web of Deception",
-      "url": "https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY"
-    },
-    {
       "added_at": "2022-07-18 17:17:22",
       "album": {
         "name": "Playing my piano",
@@ -1423,6 +1407,22 @@
       "duration_ms": 381594,
       "name": "Playing my piano",
       "url": "https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Culture of Fear",
+        "url": "https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "Web of Deception",
+      "url": "https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY"
     },
     {
       "added_at": "2022-07-14 19:24:43",

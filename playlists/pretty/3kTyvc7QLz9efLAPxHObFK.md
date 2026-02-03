@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,815 songs - 6 day 1 hr 57 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,825 songs - 6 day 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2823,5 +2823,15 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2813 | [UwU](https://open.spotify.com/track/1VuKkCYSgPnOXQRGUrHTaX) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [UwU](https://open.spotify.com/album/0jHp6fH7kjS1STG0Bw7mse) | 2:27 |
 | 2814 | [666](https://open.spotify.com/track/3RCHJgOwnqbnvkrK8LgFO3) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX) | [666](https://open.spotify.com/album/1jiGIv2z3VGxFG8wAOcOOG) | 3:25 |
 | 2815 | [RECKLESS](https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [RECKLESS](https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE) | 2:40 |
+| 2816 | [Bubblegum](https://open.spotify.com/track/2kDKIEy3SuuHXtiS2IhdOM) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [Bubblegum](https://open.spotify.com/album/6gPGWEs9Ra9w2scdX1JUiF) | 3:10 |
+| 2817 | [BAILANDO](https://open.spotify.com/track/55nQmyF48kkqGrMwGiEQVO) | [Unicorn On Ketamine](https://open.spotify.com/artist/3NoAERCAeMG0EOGpbpdYLm), [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [BAILANDO](https://open.spotify.com/album/3EliWo6ryzVTj0NCJPWc9X) | 3:10 |
+| 2818 | [Time Is Ticking \- Zak Conner Hardtekk Remix](https://open.spotify.com/track/078i3TL9T3cp49nlLziZnX) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l), [Zak Conner](https://open.spotify.com/artist/6X7NJAJFXDHkU6tIV1QmZB), [Frozen Frog](https://open.spotify.com/artist/4p1LK0iXwOpL02Q1ZBGzKF) | [Time Is Ticking Remixes](https://open.spotify.com/album/16lNo521VE757GfcFjquZE) | 1:39 |
+| 2819 | [One Time](https://open.spotify.com/track/0AxnFsAfqpoZf8hh9R4q6n) | [Refold](https://open.spotify.com/artist/02oOp0dwF69I6v2scWE7uY), [Resilience](https://open.spotify.com/artist/0X9om6vPJIjlqDCaNvPNF1) | [One Time](https://open.spotify.com/album/1wPNd2lxPCHfxc8RycHHI8) | 2:45 |
+| 2820 | [WHY U RUNNIN](https://open.spotify.com/track/3U379vGwjV3peZ6E6sIp1C) | [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8) | [WHY U RUNNIN](https://open.spotify.com/album/3hfrkfA3oxtvE7qwoO0Q6K) | 2:22 |
+| 2821 | [Miracle](https://open.spotify.com/track/5SDLJ6MTeclcu5eLkJVeE9) | [Knitter&Fetze](https://open.spotify.com/artist/4x1uU1O0MFSLOct2ZyzFYJ) | [Miracle](https://open.spotify.com/album/3iJy2IvmLhWL6EpE1u6Row) | 2:40 |
+| 2822 | [Bass Go Boom](https://open.spotify.com/track/7Iy0uVPtplh8WsntcIXP0J) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Bass Go Boom](https://open.spotify.com/album/7h3i3y44K4yQDUgCxt9CKk) | 2:40 |
+| 2823 | [BATTLE](https://open.spotify.com/track/3zscopCeIVV8yMLJxq0hxI) | [SL Complex](https://open.spotify.com/artist/1K24lyixWU3NZMhevM0UQW) | [BATTLE](https://open.spotify.com/album/4ZOTVLztiBXM588Nuw7VJK) | 3:25 |
+| 2824 | [Jackpot Killah](https://open.spotify.com/track/09iyKXX1dreXl6FYwbMbe7) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Jackpot Killah](https://open.spotify.com/album/0ZQhWfxL3wxl5Acu2SPDz0) | 2:36 |
+| 2825 | [THE RAW POWER OF TECHNO](https://open.spotify.com/track/6hiRRfSWXxpVbz52WQwvgs) | [Redhot](https://open.spotify.com/artist/3YnnRFY9QQ9F91WEnvTILG) | [THE RAW POWER OF TECHNO EP](https://open.spotify.com/album/61JhHyNGuzuHDlQD6ApyDW) | 3:55 |
 
-Snapshot ID: `AAALUNaxUsw59cRLzsI1fX0JKWkwx+OR`
+Snapshot ID: `AAALWgmYRqe/JVn1bFd7gCvJh0SAai1y`

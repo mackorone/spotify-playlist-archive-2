@@ -1687,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "Ah Yar",
+        "url": "https://open.spotify.com/album/4mwo62Bd37GCXFST365dwI"
+      },
+      "artists": [
+        {
+          "name": "Demet \u00d6zdemir",
+          "url": "https://open.spotify.com/artist/5RT8kelYwxEFA2udosMx6Q"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131854,
+      "name": "Ah Yar",
+      "url": "https://open.spotify.com/track/2bO2ECvjWpbCy64fOpIDTc"
+    },
+    {
+      "album": {
         "name": "Don't Tread On Me",
         "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
       },
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 215858,
       "name": "AIZO",
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
@@ -9785,6 +9803,24 @@
     },
     {
       "album": {
+        "name": "Dreaming in Motion",
+        "url": "https://open.spotify.com/album/1ia9qEv3fqsmxx0brVUqAv"
+      },
+      "artists": [
+        {
+          "name": "AURENZA",
+          "url": "https://open.spotify.com/artist/4osA1DTtVEc75xSK2GWZXz"
+        }
+      ],
+      "date_added": "2026-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219007,
+      "name": "Dreaming in Motion",
+      "url": "https://open.spotify.com/track/5ZKqm8BPJbzjfoACCLRyuO"
+    },
+    {
+      "album": {
         "name": "DRIP",
         "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
       },
@@ -14476,7 +14512,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 114461,
       "name": "HEAVENLY JUMPSTYLE",
       "url": "https://open.spotify.com/track/6kamZOSWb8ahxRkrYARPNG"
@@ -15524,7 +15560,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 171605,
       "name": "Hyperbaiter Disstrack",
       "url": "https://open.spotify.com/track/06CttevDpM1a8FLAb90s5i"
@@ -16154,7 +16190,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
@@ -16284,7 +16320,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 214119,
       "name": "I'm a Woman",
       "url": "https://open.spotify.com/track/2tXTaMGNkSd9fdVBALoP36"
@@ -24380,7 +24416,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 211913,
       "name": "Nigga Santa",
       "url": "https://open.spotify.com/track/3FHh6qQ0Gm32HMnQK7U2aN"
@@ -27664,7 +27700,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 521866,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
@@ -42344,7 +42380,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-03",
       "duration_ms": 159153,
       "name": "\u041a\u0430\u043a",
       "url": "https://open.spotify.com/track/3uc1DReHmVCxjHHhvavajk"

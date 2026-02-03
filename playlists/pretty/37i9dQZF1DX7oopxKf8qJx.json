@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 132913,
+  "num_followers": 132958,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAADW8AefmHjGhsBPNFOtseYT56haV",
   "tracks": [
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "With Compliments",
-        "url": "https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 184520,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2"
-    },
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 163573,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "With Compliments",
+        "url": "https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 184520,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "My Way Of Music",
-        "url": "https://open.spotify.com/album/2v8Cn4xBjEKiMh4k3qHdXG"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Popp",
-          "url": "https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Les papillons",
-      "url": "https://open.spotify.com/track/4ny6NpcalvyvXgCHJGRTTB"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Blue Midnight (Remastered)",
         "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 153626,
       "name": "Three O'Clock In The Morning",
       "url": "https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "My Way Of Music",
+        "url": "https://open.spotify.com/album/2v8Cn4xBjEKiMh4k3qHdXG"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Popp",
+          "url": "https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Les papillons",
+      "url": "https://open.spotify.com/track/4ny6NpcalvyvXgCHJGRTTB"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Music For Romancing",
-        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
-      },
-      "artists": [
-        {
-          "name": "Paul Weston",
-          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Poor Butterfly",
-      "url": "https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Paris When It Sizzles",
         "url": "https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 166706,
       "name": "Gabrielle",
       "url": "https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Music For Romancing",
+        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
+      },
+      "artists": [
+        {
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Poor Butterfly",
+      "url": "https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "Strings Latino",
+        "url": "https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn"
+      },
+      "artists": [
+        {
+          "name": "Edmundo Ros & His Orchestra",
+          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "A Felicidade",
+      "url": "https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "The Many Moods Of Murry Wilson",
         "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 147506,
       "name": "Marylin",
       "url": "https://open.spotify.com/track/4mMky7LwvVButfAckz3upW"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Strings Latino",
-        "url": "https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn"
-      },
-      "artists": [
-        {
-          "name": "Edmundo Ros & His Orchestra",
-          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "A Felicidade",
-      "url": "https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Music For Her (Expanded Edition)",
-        "url": "https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "You're My Everything",
-      "url": "https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "The Joy Of Living",
         "url": "https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 169160,
       "name": "The Joy Of Living",
       "url": "https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Music For Her (Expanded Edition)",
+        "url": "https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "You're My Everything",
+      "url": "https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -931,8 +931,8 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Lovely Lady",
-        "url": "https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy"
+        "name": "West of Sunset",
+        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
       },
       "artists": [
         {
@@ -940,25 +940,9 @@
           "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
         }
       ],
-      "duration_ms": 210517,
-      "name": "A Lovely Way To Spend An Evening",
-      "url": "https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Around the World, Vol. 2",
-        "url": "https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield Orchestra",
-          "url": "https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi"
-        }
-      ],
-      "duration_ms": 148053,
-      "name": "Majorcan Holiday",
-      "url": "https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE"
+      "duration_ms": 190480,
+      "name": "Capri Serenade",
+      "url": "https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -975,6 +959,22 @@
       "duration_ms": 217306,
       "name": "You And The Night And The Music",
       "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Around the World, Vol. 2",
+        "url": "https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield Orchestra",
+          "url": "https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi"
+        }
+      ],
+      "duration_ms": 148053,
+      "name": "Majorcan Holiday",
+      "url": "https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -1011,8 +1011,8 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "West of Sunset",
-        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
+        "name": "Lovely Lady",
+        "url": "https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy"
       },
       "artists": [
         {
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
         }
       ],
-      "duration_ms": 190480,
-      "name": "Capri Serenade",
-      "url": "https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB"
+      "duration_ms": 210517,
+      "name": "A Lovely Way To Spend An Evening",
+      "url": "https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT"
     },
     {
       "added_at": "2024-07-17 14:53:29",

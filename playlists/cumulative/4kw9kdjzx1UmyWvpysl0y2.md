@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,165 songs - 2 day 17 hr 9 min
+1,166 songs - 2 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,6 +698,7 @@
 | [New World Order](https://open.spotify.com/track/5H46tW4a41Bc4RqrGppFwY) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [IM30](https://open.spotify.com/album/5uOOwtb5uScJECDz1fqZ9b) | 6:15 | 2026-01-30 |  |
 | [New Worlds](https://open.spotify.com/track/5qZCfREGHqnQzurCDucvCE) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [New Worlds](https://open.spotify.com/album/6QRMRuL9Bumhv3mholG3iw) | 3:12 | 2023-03-22 | 2023-06-15 |
 | [NEXT LVL](https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [NEXT LVL](https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o) | 2:35 | 2024-03-08 | 2024-06-01 |
+| [Next Track](https://open.spotify.com/track/46vXJTbShRHqARyE8gcgYC) | [Dodge & Fuski](https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m) | [Next Track](https://open.spotify.com/album/0qbXadH2YjcRp7cDt81i3s) | 2:14 | 2026-02-02 |  |
 | [Nibbana](https://open.spotify.com/track/4GmreCkjHdkuX9S1LipRvS) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nibbana](https://open.spotify.com/album/5tlAhQ2zVsth5w1KpRIRkS) | 4:20 | 2022-01-14 | 2022-03-24 |
 | [Nibbana \- Volen Sentir's Pink Sky Retouch](https://open.spotify.com/track/2g1kcSv6wz70zl7lhWpJzx) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Nibbana \(Volen Sentir's Pink Sky Retouch\)](https://open.spotify.com/album/6XHnLNEb1ZJNcnrT8kaLRq) | 4:01 | 2022-12-10 | 2023-03-14 |
 | [NIGHT](https://open.spotify.com/track/6MvLdr8EU0ROnLBIydewaD) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [NIGHT](https://open.spotify.com/album/4SnyGwyZNSkBCIbzJWEbyB) | 4:19 | 2023-05-03 | 2023-07-29 |

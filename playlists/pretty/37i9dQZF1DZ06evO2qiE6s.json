@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 127697,
+  "num_followers": 127700,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAABiLIyGu0fL/P7Pf5XL0kuS",
+  "snapshot_id": "aX6XgAAAAAC+WExNvHxNeBOi3i5qNnr2",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
+        "name": "At The Movies",
+        "url": "https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK"
       },
       "artists": [
         {
           "name": "Dean Martin",
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 145800,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
+      "duration_ms": 147293,
+      "name": "Ain't That A Kick In The Head - Remastered 1997",
+      "url": "https://open.spotify.com/track/4qQ8sToR3GNossXlwSlyKz"
     },
     {
       "added_at": null,
@@ -499,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 185396,
-      "name": "Fools Rush In",
-      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleep Warm",
         "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
       },
@@ -527,6 +507,22 @@
       "duration_ms": 171600,
       "name": "Hit The Road To Dreamland",
       "url": "https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 185396,
+      "name": "Fools Rush In",
+      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
     },
     {
       "added_at": null,

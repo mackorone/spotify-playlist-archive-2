@@ -2,7 +2,7 @@
 
 ### [Jasmine](https://open.spotify.com/playlist/37i9dQZF1DX5IOhx43PGIa)
 
-> Illuminating Asian artists everywhere\. Cover: STUTS, Julia Wu & Phum Viphurit
+> Illuminating Asian artists everywhere\. Cover: Audrey Nuna, EJAE and REI AMI
 
 1,287 songs - 2 day 18 hr 54 min
 

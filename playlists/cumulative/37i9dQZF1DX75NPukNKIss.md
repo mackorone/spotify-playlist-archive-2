@@ -2,7 +2,7 @@
 
 ### [Sexy Drill](https://open.spotify.com/playlist/37i9dQZF1DX75NPukNKIss)
 
-> Way 2 Slizzy\. Cover: Cash Cobain
+> Way 2 Slizzy\. Cover: Don Toliver
 
 158 songs - 7 hr 18 min
 

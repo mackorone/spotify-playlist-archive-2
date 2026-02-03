@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Lovvbömbing! in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,130 likes - 105 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,127 likes - 105 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 6 | [Daydreaming](https://open.spotify.com/track/7o3F7Q0AHlWZdrjpmsUg6P) | [Motel Cecil](https://open.spotify.com/artist/5AaaaiuLFShXMWKTw0KpSL) | [Daydreaming](https://open.spotify.com/album/6pGxD33snYWGuKhNgWeuH5) | 2:25 |
 | 7 | [Some Days](https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh), [Fenne Kuppens](https://open.spotify.com/artist/60iEGApcgcq0nTdHVFptU3) | [Dream Life](https://open.spotify.com/album/39X15SMr1uG8aCugIqiHpM) | 4:17 |
 | 8 | [Tornado](https://open.spotify.com/track/2UdcbdDZQrQclwJTblATFa) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Anime Storte](https://open.spotify.com/album/4O8zCrvouHUXmHLoRUNZAo) | 3:29 |
-| 9 | [a minute a moment](https://open.spotify.com/track/5lKxgT7JyS3nqVVrypMonw) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/5E6aswcc0puXAQvvGuzOtp) | 3:23 |
+| 9 | [a minute a moment](https://open.spotify.com/track/64nEsHY3vnRwKFcUjaz6cC) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/70WuZoQSaSw3sAS9hTu5cD) | 3:23 |
 | 10 | [Favola](https://open.spotify.com/track/4hibXjoxoVQueVeBY3b3NU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Favola](https://open.spotify.com/album/00JtOxPVWh6DtrBYUIZeT8) | 2:37 |
 | 11 | [Hold Me Tight](https://open.spotify.com/track/0eB4BW6dwcA5gX4RXtUmXE) | [Grigio Scarlatto](https://open.spotify.com/artist/1tck0JaVzfb6UtiriTB6zJ) | [Hold Me Tight](https://open.spotify.com/album/1gLjDGEA4KghlJN1m06hUu) | 3:29 |
 | 12 | [Immagina se](https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Dementia](https://open.spotify.com/album/445XfcmnCUeCnBYL5sdlyw) | 4:16 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 104 | [Workaholica](https://open.spotify.com/track/2GlzeqRjGgXm11AQrSNNTL) | [Krano](https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw) | [Workaholica](https://open.spotify.com/album/2YXvKMBKpBnayRPGIF83Fm) | 3:16 |
 | 105 | [Intanto](https://open.spotify.com/track/15TePy6cQan8RcDpg3abxX) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Temporale](https://open.spotify.com/album/3YvK53OYLxnvacEkwJ4yP4) | 2:53 |
 
-Snapshot ID: `AAAAAL/rFD1NmMSio6BU2gugecT6NXdc`
+Snapshot ID: `AAAAANNp6YpfU0McI/Tk8X3OdW6DNkGB`

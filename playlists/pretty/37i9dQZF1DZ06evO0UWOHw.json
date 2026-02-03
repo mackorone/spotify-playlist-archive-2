@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 15763,
+  "num_followers": 15774,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX1GAAAAAAABa2hWQwZzTedLX6rF1/07",
+  "snapshot_id": "aX6XgAAAAAATpGvoNJLost7h+beCum+4",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "5ive",
-        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
       },
       "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
         }
       ],
-      "duration_ms": 227950,
-      "name": "Holy Water (feat. Victony & Musa Keys)",
-      "url": "https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP"
+      "duration_ms": 175000,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/6OeHAhsVn22nStOm1XRHLQ"
     },
     {
       "added_at": null,
@@ -499,22 +495,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
+        "name": "5ive",
+        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
       "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "KTIZO",
-          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/6OeHAhsVn22nStOm1XRHLQ"
+      "duration_ms": 227950,
+      "name": "Holy Water (feat. Victony & Musa Keys)",
+      "url": "https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP"
     },
     {
       "added_at": null,
