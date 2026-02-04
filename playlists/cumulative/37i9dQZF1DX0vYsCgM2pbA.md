@@ -4,7 +4,7 @@
 
 > Electronic music from AUS + NZ
 
-316 songs - 19 hr 21 min
+317 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 | 2025-02-05 | 2025-04-09 |
 | [Dance Machine](https://open.spotify.com/track/3GvWBH9g9FNW1rAmvFFDzR) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Dance Machine](https://open.spotify.com/album/5Gcp9tzpJvXtG0E55i4ZQq) | 3:28 | 2025-12-18 |  |
 | [Dancing On My Own](https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dancing On My Own](https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee) | 3:59 | 2025-01-09 | 2025-04-05 |
-| [Day Dreams of Beaches](https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [After Five EP](https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA) | 7:49 | 2025-02-05 |  |
+| [Day Dreams of Beaches](https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [After Five EP](https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA) | 7:49 | 2025-02-05 | 2026-02-04 |
 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 | 2023-09-28 |  |
 | [Deep Diving](https://open.spotify.com/track/4iajAy0CggbXfCU947akZB) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Deep Diving](https://open.spotify.com/album/1zYIz2hjjGjKX2LH1m2voV) | 2:12 | 2024-08-22 | 2024-10-25 |
 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 | 2025-10-09 |  |
@@ -122,6 +122,7 @@
 | [Get What You Want \- Vintage Culture Remix](https://open.spotify.com/track/0MikGbA8bt5Fo07NVW6HQ7) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Get What You Want \(Vintage Culture Remix\)](https://open.spotify.com/album/54DJoT0IkExQ6druq7hQ57) | 3:43 | 2022-12-15 | 2023-01-13 |
 | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I) | 3:45 | 2023-10-12 |  |
 | [Girl](https://open.spotify.com/track/07DapAVEtfc5KvHVpORuUn) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Girl](https://open.spotify.com/album/4qROVm5bhCJAhkM4AW7pNt) | 3:32 | 2025-03-04 | 2025-05-07 |
+| [Go Crimson](https://open.spotify.com/track/3zBGFS2yX2WaXGEf4GDh1B) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Go Crimson](https://open.spotify.com/album/1rWHFGR6kaDDQX22HOE5NY) | 4:34 | 2026-01-01 |  |
 | [Going Home](https://open.spotify.com/track/2ww0OC7q3oYWbsgRoDdZp2) | [MorningMaxwell](https://open.spotify.com/artist/0kvwtYUiypCDaaKKhTD2Pp), [Jade Alice](https://open.spotify.com/artist/3RtGhwOeishzd1HIceHzrp) | [Going Home](https://open.spotify.com/album/6MzuyHiVXgtXnHzMeGsuqP) | 4:00 | 2023-03-31 | 2023-07-14 |
 | [Going On](https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [MC DT](https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6) | [Going On](https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P) | 2:38 | 2024-12-17 | 2025-11-27 |
 | [Good Catch](https://open.spotify.com/track/7jBNPcLfFjZce1ORVtqB5s) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Good Catch](https://open.spotify.com/album/0yzk4au9oIVf4p2m0ICOli) | 3:40 | 2023-07-27 | 2023-08-25 |

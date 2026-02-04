@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain](/playlists/plain/37i9dQZF1DX4yeSNLFx6qI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4yeSNLFx6qI)
 
-### [sad latino](https://open.spotify.com/playlist/37i9dQZF1DX4yeSNLFx6qI)
+### [canciones tristes que me recuerdan a ti](https://open.spotify.com/playlist/37i9dQZF1DX4yeSNLFx6qI)
 
-> Sad songs 4 sad days.
+> sad songs 4 sad days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,696,772 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,696,496 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 49 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
 | 50 | [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 |
 
-Snapshot ID: `AAAAAASc+SE8Mvm+36/09pgR5ngTCehR`
+Snapshot ID: `AAAAABfI16U+PKuFZFl8DiEeqQCrxzU3`

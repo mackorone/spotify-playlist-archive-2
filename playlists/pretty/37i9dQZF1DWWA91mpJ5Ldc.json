@@ -1,6 +1,6 @@
 {
   "description": "'t\u00e1 na rua? traz salsinha?' (eternamente)",
-  "num_followers": 137758,
+  "num_followers": 137744,
   "original_name": "Cozinhando a Ceia",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Improviso",
-        "url": "https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 231989,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/4ElEPqphxDORaD5Ov08hSp"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Areia Fina",
         "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 211200,
       "name": "Areia Fina",
       "url": "https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Improviso",
+        "url": "https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 231989,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/4ElEPqphxDORaD5Ov08hSp"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Mar\u00e9",
-        "url": "https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Seu Pensamento",
-      "url": "https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "SalDoce",
         "url": "https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 181992,
       "name": "Bem ou Mal",
       "url": "https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Mar\u00e9",
+        "url": "https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Seu Pensamento",
+      "url": "https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv"
     },
     {
       "added_at": "2025-12-05 19:00:22",

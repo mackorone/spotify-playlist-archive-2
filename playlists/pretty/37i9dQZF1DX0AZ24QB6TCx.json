@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 332466,
+  "num_followers": 332493,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 371859,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Ghost (Fejk\u00e1 Remix)",
         "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 283106,
       "name": "Ghost - Fejk\u00e1 Remix",
       "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 371859,
-      "name": "Movement",
-      "url": "https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Purified Fragments Vi",
-        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
-      },
-      "artists": [
-        {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Firmoral",
-      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Cloudline (Parra for Cuva Reimagination)",
         "url": "https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 296981,
       "name": "Cloudline (Parra for Cuva Reimagination)",
       "url": "https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Purified Fragments Vi",
+        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Firmoral",
+      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Miyanosawa",
+        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "Miyanosawa",
+      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 259039,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Miyanosawa",
-        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "Miyanosawa",
-      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -939,6 +939,30 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Need To Feel Loved (Nils Hoffmann Remix)",
+        "url": "https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "LVNDSCAPE",
+          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
+        },
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 224467,
+      "name": "Need To Feel Loved - Nils Hoffmann Remix",
+      "url": "https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Downfall",
         "url": "https://open.spotify.com/album/2ts9b0wTzLd7EQoNUrGGWi"
       },
@@ -983,30 +1007,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Need To Feel Loved (Nils Hoffmann Remix)",
-        "url": "https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        },
-        {
-          "name": "LVNDSCAPE",
-          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
-        },
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 224467,
-      "name": "Need To Feel Loved - Nils Hoffmann Remix",
-      "url": "https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Forelsket",
         "url": "https://open.spotify.com/album/4jTwsVQan0LMDtyH4Ko0N7"
       },
@@ -1039,26 +1039,6 @@
       "duration_ms": 277608,
       "name": "Harlem River",
       "url": "https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "What If I",
-        "url": "https://open.spotify.com/album/0OrRBSXrvdMEpwrx0S5TU0"
-      },
-      "artists": [
-        {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 354889,
-      "name": "What If I",
-      "url": "https://open.spotify.com/track/5bGqDdq1N19rshIU3WXAcr"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1099,6 +1079,26 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "What If I",
+        "url": "https://open.spotify.com/album/0OrRBSXrvdMEpwrx0S5TU0"
+      },
+      "artists": [
+        {
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 354889,
+      "name": "What If I",
+      "url": "https://open.spotify.com/track/5bGqDdq1N19rshIU3WXAcr"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Pinie (S\u00e9bastien L\u00e9ger Remix)",
         "url": "https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 268434,
       "name": "Silence & Secrets",
       "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Eyes Alive",
-        "url": "https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5"
-      },
-      "artists": [
-        {
-          "name": "HVOB",
-          "url": "https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa"
-        }
-      ],
-      "duration_ms": 365069,
-      "name": "Eyes Alive",
-      "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1199,6 +1183,22 @@
       "duration_ms": 397740,
       "name": "Shades of You (feat. Henry Green) - Tim Engelhardt Remix",
       "url": "https://open.spotify.com/track/0YXbPIuXsDyRFpA7rLwz3m"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Eyes Alive",
+        "url": "https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5"
+      },
+      "artists": [
+        {
+          "name": "HVOB",
+          "url": "https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa"
+        }
+      ],
+      "duration_ms": 365069,
+      "name": "Eyes Alive",
+      "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
     },
     {
       "added_at": "2024-08-09 18:28:29",

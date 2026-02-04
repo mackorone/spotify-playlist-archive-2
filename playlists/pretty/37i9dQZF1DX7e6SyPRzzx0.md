@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Playboi Carti
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,579 likes - 65 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,690 likes - 65 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 44 | [DIE LIKE THIS](https://open.spotify.com/track/34f1xSx9IGTqTAFRfDBAth) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [trompe l’oeil](https://open.spotify.com/album/4jP2kCdzLbEinmhFjDOZNK) | 2:45 |
 | 45 | [GEEK TIMË](https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:50 |
 | 46 | [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 |
-| 47 | [VENUS](https://open.spotify.com/track/3z1qBYHxWyJiwbTupk194R) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [REBIRTH](https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G) | 3:16 |
+| 47 | [VENUS](https://open.spotify.com/track/3z1qBYHxWyJiwbTupk194R) | [DC THE DON](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [REBIRTH](https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G) | 3:16 |
 | 48 | [New Cash](https://open.spotify.com/track/4NNyZ9w119c7FJLn6FoRJg) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [New Cash](https://open.spotify.com/album/25ZcUBzPwZxKVBk40kNzXu) | 2:24 |
 | 49 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 |
 | 50 | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 |

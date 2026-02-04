@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BWP9AaQS6w.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ampexclusive/">AMP</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,836 likes - 59 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,835 likes - 59 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BWP9AaQS6w.md) - [plain]
 | 29 | [Plastic \(feat\. Icewear Vezzo & Rio Da Yung OG\)](https://open.spotify.com/track/5FB2K046vOg47pGvtUmmJ7) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Michigan Boy Boat](https://open.spotify.com/album/1WELnoLbD0VAAg1HvI3VbC) | 3:33 |
 | 30 | [You Rock My World](https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 5:38 |
 | 31 | [How Much She Needs Me](https://open.spotify.com/track/7c5LfHEYbBkbTJIlBG7I59) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [The Extravagant Collection](https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq) | 2:36 |
-| 32 | [Stop Hating](https://open.spotify.com/track/47h7mEYiGuvzM1o8yhMPIW) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Stop Hating](https://open.spotify.com/album/36peheD1XXO8YHbJEQlTmZ) | 2:32 |
+| 32 | [Stop Hating](https://open.spotify.com/track/47h7mEYiGuvzM1o8yhMPIW) | [DC THE DON](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Stop Hating](https://open.spotify.com/album/36peheD1XXO8YHbJEQlTmZ) | 2:32 |
 | 33 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 |
 | 34 | [TELEKINESIS \(feat\. SZA & Future\)](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 |
 | 35 | [SEDA](https://open.spotify.com/track/1YnChEM51BVZ5dRhbVFEMl) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:10 |

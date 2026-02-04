@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Lil Baby
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,999 likes - 100 songs - 4 hr 53 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,997 likes - 101 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,6 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 98 | [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 |
 | 99 | [U and Me \(feat\. BigXthaPlug\)](https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 2:48 |
 | 100 | [GHOST\. \(feat\. Samara Cyn\)](https://open.spotify.com/track/1RukMhDhOQ1lsAWfriPZB0) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [GHOST.](https://open.spotify.com/album/5ef38pXWigK1RHZ4SHEjyP) | 2:10 |
+| 101 | [The Market](https://open.spotify.com/track/1RLj2wSCWUemxpldfjaDWn) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [One Helluvalife](https://open.spotify.com/album/2X4l2SB9tPIYZlOS9gXx76) | 3:10 |
 
-Snapshot ID: `AAAkD2nddeZE6o4nUTNbiOnfugAtMVxm`
+Snapshot ID: `AAAkEEXuAO/d+2ghYdalHkXHMgiNEEuG`

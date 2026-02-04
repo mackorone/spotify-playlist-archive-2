@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Dust Of Glory",
+        "url": "https://open.spotify.com/album/5OBHybQPFVyfj5xK8LlHKV"
+      },
+      "artists": [
+        {
+          "name": "Freakstorm",
+          "url": "https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228484,
+      "name": "Dr. Hammer",
+      "url": "https://open.spotify.com/track/78cRNDeAkjxeTg7rHoU76r"
+    },
+    {
+      "album": {
         "name": "El Arte de Perderse",
         "url": "https://open.spotify.com/album/1feLfZkAWelzbUVsaoyux2"
       },
@@ -1140,6 +1158,24 @@
       "duration_ms": 266933,
       "name": "I'm A Shooter",
       "url": "https://open.spotify.com/track/6e20H9h5Sq5mJ3IHxsF1GW"
+    },
+    {
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/5naCmg7cIFEsG4tuHeaKll"
+      },
+      "artists": [
+        {
+          "name": "On-Off",
+          "url": "https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221160,
+      "name": "I'm Dead, I'm Dead",
+      "url": "https://open.spotify.com/track/4aUVFBtIx6JA44arzHCwn1"
     },
     {
       "album": {
@@ -2304,6 +2340,24 @@
       "duration_ms": 129625,
       "name": "Television War",
       "url": "https://open.spotify.com/track/4YvWj5XMgtHAqORatyJuVP"
+    },
+    {
+      "album": {
+        "name": "Tell Me No Lies",
+        "url": "https://open.spotify.com/album/7GmE3yytXkkcwCEm3u4q5O"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/4qd6GkWRx6aEuNDqVQ8Vxw"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214842,
+      "name": "Tell Me No Lies - Single Edit",
+      "url": "https://open.spotify.com/track/6CbrodR7Czvh2gOSzlheTw"
     },
     {
       "album": {

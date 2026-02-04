@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "A New Day Has Come",
+        "url": "https://open.spotify.com/album/79BUFCc813MsPvj9cpbmVN"
+      },
+      "artists": [
+        {
+          "name": "Mason Trent",
+          "url": "https://open.spotify.com/artist/3WUYZKTcRPPFXTpmwILTxM"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151457,
+      "name": "A New Day Has Come",
+      "url": "https://open.spotify.com/track/4ZoRyM7IyuPcfGFwORVNsi"
+    },
+    {
+      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -674,7 +692,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -838,6 +856,28 @@
       "duration_ms": 183199,
       "name": "Als het je niet bevalt, ga dan! (Anti-AZC) - Hardcore Mix",
       "url": "https://open.spotify.com/track/6JUmSZYDwrmAapdWW2d8WV"
+    },
+    {
+      "album": {
+        "name": "Als ik er morgen niet meer ben",
+        "url": "https://open.spotify.com/album/34RReB3sOtBFEnxWSi82gy"
+      },
+      "artists": [
+        {
+          "name": "Dean Saunders",
+          "url": "https://open.spotify.com/artist/6TBzLFNJfgT63BNFn0ZK2t"
+        },
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214749,
+      "name": "Als ik er morgen niet meer ben",
+      "url": "https://open.spotify.com/track/1SWs18KGeBVypCfK78XsBX"
     },
     {
       "album": {
@@ -1514,10 +1554,28 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 155307,
       "name": "Bier Bij Het Ontbijt",
       "url": "https://open.spotify.com/track/1O8nNGkr4wd9U8XcFYIljg"
+    },
+    {
+      "album": {
+        "name": "Bietje Stoken",
+        "url": "https://open.spotify.com/album/33MlkmIpcJijkNB36wbfd7"
+      },
+      "artists": [
+        {
+          "name": "CV DE KETELS",
+          "url": "https://open.spotify.com/artist/5sdiwAGnNmHR5rpE3cCoQM"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189396,
+      "name": "Bietje Stoken",
+      "url": "https://open.spotify.com/track/0IUrzfDYkeY0WVc6LHE9rz"
     },
     {
       "album": {
@@ -2201,6 +2259,28 @@
     },
     {
       "album": {
+        "name": "Carnaval 2026",
+        "url": "https://open.spotify.com/album/4EZHstyxDiD0Awcpp7Qfhx"
+      },
+      "artists": [
+        {
+          "name": "Lanterfantje",
+          "url": "https://open.spotify.com/artist/3q6u7Aifk5DkiIMR7KtIT8"
+        },
+        {
+          "name": "Henk Westbroek",
+          "url": "https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162656,
+      "name": "Carnaval, Wie Viert Het Niet?!",
+      "url": "https://open.spotify.com/track/1TJTqQHtHQcgUuKBXA0ajT"
+    },
+    {
+      "album": {
         "name": "Carnaval, Wie Viert Het Niet?!",
         "url": "https://open.spotify.com/album/05ZXrIVYiaf0Zbkx2kLIWK"
       },
@@ -2216,7 +2296,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 162656,
       "name": "Carnaval, Wie Viert Het Niet?!",
       "url": "https://open.spotify.com/track/6t8GQXMBsYrHYHsyIH4zCR"
@@ -2238,6 +2318,28 @@
       "duration_ms": 172819,
       "name": "Carolien (Nee, Ik Blijf Wel Hier)",
       "url": "https://open.spotify.com/track/5qAqwsdfnb0E9uETWqPKAY"
+    },
+    {
+      "album": {
+        "name": "CD van mij",
+        "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170453,
+      "name": "CD van mij",
+      "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
     },
     {
       "album": {
@@ -2507,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "ChatGPT",
+        "url": "https://open.spotify.com/album/7Kb6J35gIMTaT1nmet8sjO"
+      },
+      "artists": [
+        {
+          "name": "Turbo-Team",
+          "url": "https://open.spotify.com/artist/2X0SK4BoWKVDIcCsiniOct"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199870,
+      "name": "ChatGPT",
+      "url": "https://open.spotify.com/track/27QO1TzSIwkMTQfdfhZsx1"
+    },
+    {
+      "album": {
         "name": "cheap talks",
         "url": "https://open.spotify.com/album/3l9rsUbLD9Q1tAz6drApCx"
       },
@@ -2580,10 +2700,28 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 144079,
       "name": "Classified vs Overdrive Tool",
       "url": "https://open.spotify.com/track/0TOr0L0t6H67WJvLQ6AtxE"
+    },
+    {
+      "album": {
+        "name": "Classified vs Overdrive Tool",
+        "url": "https://open.spotify.com/album/2RRGlLNl2Iy631Sgp7ECga"
+      },
+      "artists": [
+        {
+          "name": "Revealer",
+          "url": "https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108837,
+      "name": "Classified vs Overdrive Tool",
+      "url": "https://open.spotify.com/track/3eP1UpBU5PS3scclohbJP7"
     },
     {
       "album": {
@@ -2908,6 +3046,24 @@
       "duration_ms": 384666,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
+    },
+    {
+      "album": {
+        "name": "Da zien we morge dan wel weer",
+        "url": "https://open.spotify.com/album/3UXMFJh7uNfOBJtq1pLajz"
+      },
+      "artists": [
+        {
+          "name": "Mosterd Na De Maaltijd",
+          "url": "https://open.spotify.com/artist/2QFy07GCrxvtIc9Cfi5NIF"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148402,
+      "name": "Da zien we morge dan wel weer",
+      "url": "https://open.spotify.com/track/7CmGfrtoPYSWXzUR803e2N"
     },
     {
       "album": {
@@ -3968,7 +4124,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -5386,7 +5542,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 155000,
       "name": "Harder Dan Ik Spenden Kan",
       "url": "https://open.spotify.com/track/4M5df297Jy9j5eMb5smzNz"
@@ -5492,6 +5648,32 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "album": {
+        "name": "HEFTIG MAN",
+        "url": "https://open.spotify.com/album/5ApqGTnAo2h1dLHPpHa8YY"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145092,
+      "name": "HEFTIG MAN",
+      "url": "https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c"
     },
     {
       "album": {
@@ -6574,7 +6756,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 169960,
       "name": "I'm Not What Happened To Me",
       "url": "https://open.spotify.com/track/5uP6vSMmfpqx2hYdeRGprt"
@@ -6776,7 +6958,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 204821,
       "name": "Ik Wooj Nie Gaon",
       "url": "https://open.spotify.com/track/36xEkavf3iEhdjdy8fzcvZ"
@@ -7278,14 +7460,14 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 210070,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/22BiNbFtHyktTOKzXBaTp3"
     },
     {
       "album": {
-        "name": "Star 2008",
+        "name": "Star",
         "url": "https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX"
       },
       "artists": [
@@ -7296,9 +7478,9 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 210070,
-      "name": "Just The Way You Are",
+      "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro"
     },
     {
@@ -7596,7 +7778,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 166942,
       "name": "Kusje Hier Kusje Daar",
       "url": "https://open.spotify.com/track/3DToXXH3aYS9ddqQ9SzBFl"
@@ -9066,7 +9248,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 209879,
       "name": "Mirror To Magic",
       "url": "https://open.spotify.com/track/3wsSqW2b0YqqyNJEUZ4rzc"
@@ -9234,6 +9416,24 @@
       "duration_ms": 87816,
       "name": "Montagem Supersonic",
       "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
+    },
+    {
+      "album": {
+        "name": "SHOT CALLERS",
+        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208495,
+      "name": "Moonwalkin'",
+      "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
     },
     {
       "album": {
@@ -9658,7 +9858,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 151580,
       "name": "news update 3",
       "url": "https://open.spotify.com/track/3zV09MTNSrSlxo6oRdoBBb"
@@ -9906,7 +10106,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 186438,
       "name": "NO DAYS OFF",
       "url": "https://open.spotify.com/track/7D4U91guqMZJ8QIvR1Wl2m"
@@ -12222,7 +12422,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 183809,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/4k95xD9yCyyABh7CDG4U1X"
@@ -12480,7 +12680,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -12502,6 +12702,28 @@
       "duration_ms": 185942,
       "name": "stay",
       "url": "https://open.spotify.com/track/56PS9rUrkwa1TYG6l1Vb0v"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346093,
+      "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
     },
     {
       "album": {
@@ -12574,7 +12796,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 119345,
       "name": "Straf",
       "url": "https://open.spotify.com/track/78WPtoNB7gvWk8UUxzsEg0"
@@ -13224,6 +13446,24 @@
       "duration_ms": 140586,
       "name": "Thinking 'bout You",
       "url": "https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s"
+    },
+    {
+      "album": {
+        "name": "This Is All I'll Be",
+        "url": "https://open.spotify.com/album/5ElZ82ll0Q0d1dFUdzEopC"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190117,
+      "name": "This Is All I'll Be",
+      "url": "https://open.spotify.com/track/0szz1ZU7v1NkYfMDQX7HeF"
     },
     {
       "album": {
@@ -14290,7 +14530,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 213414,
       "name": "Verr\u00e8ktes gooje zin",
       "url": "https://open.spotify.com/track/3exJNhGuDokcpNOnbMYSJs"
@@ -14396,6 +14636,24 @@
       "duration_ms": 176822,
       "name": "Vierde klas",
       "url": "https://open.spotify.com/track/5xtL2H2CSsUQ6FDi3YuRNG"
+    },
+    {
+      "album": {
+        "name": "Vierentwintigdelig Noodpakket",
+        "url": "https://open.spotify.com/album/3pI4Bz6qfgRzYrI60ntcXG"
+      },
+      "artists": [
+        {
+          "name": "Lamme Frans",
+          "url": "https://open.spotify.com/artist/3VTVxM9FFSMMrnO3nOh9Si"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189793,
+      "name": "Vierentwintigdelig Noodpakket",
+      "url": "https://open.spotify.com/track/0CrFZWIu08NUW2eDkAEygd"
     },
     {
       "album": {
@@ -14564,6 +14822,24 @@
       "duration_ms": 120807,
       "name": "Waar Ben Jij Nou",
       "url": "https://open.spotify.com/track/2WLYxHx1WeKeUf8Vjk6uSl"
+    },
+    {
+      "album": {
+        "name": "Waar Was Je?",
+        "url": "https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "Waar Was Je?",
+      "url": "https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf"
     },
     {
       "album": {
@@ -14940,7 +15216,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 156140,
       "name": "What I Like (with Moliy, Ayetian, & Tyga)",
       "url": "https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB"
@@ -15633,6 +15909,28 @@
     },
     {
       "album": {
+        "name": "Wintersessie 2026 | AMG Met Matje",
+        "url": "https://open.spotify.com/album/7aEFpKyUsmkrLotgmgdJZU"
+      },
+      "artists": [
+        {
+          "name": "RunTheBag",
+          "url": "https://open.spotify.com/artist/7GCxJSegrGDPGGGvM88ZvS"
+        },
+        {
+          "name": "Qlas & GP",
+          "url": "https://open.spotify.com/artist/5QFc3EaUJLnV1XQ4BLmP5n"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120029,
+      "name": "Wintersessie 2026 | AMG Met Matje",
+      "url": "https://open.spotify.com/track/5QSnNdrUT5meHrbeb71Dru"
+    },
+    {
+      "album": {
         "name": "Wish (Audiomack Trap Symphony Version)",
         "url": "https://open.spotify.com/album/2nnbbGH98X1gyvbCaCmz3a"
       },
@@ -16089,6 +16387,24 @@
     },
     {
       "album": {
+        "name": "Zeg Eens AAA!",
+        "url": "https://open.spotify.com/album/5QkXq5ztvv4a4MDAAUL5WR"
+      },
+      "artists": [
+        {
+          "name": "CV De W\u00e8ggooiers",
+          "url": "https://open.spotify.com/artist/2pXq4tP6lC5FmBYeUyjgwS"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185273,
+      "name": "Zeg Eens AAA!",
+      "url": "https://open.spotify.com/track/3ExJPD7Xwv89wM510ShJzI"
+    },
+    {
+      "album": {
         "name": "zeg minder",
         "url": "https://open.spotify.com/album/0aC4QrydXN6NVtRaglk9r0"
       },
@@ -16164,6 +16480,24 @@
       "duration_ms": 141494,
       "name": "Zie De Maan Schijnt Door De Bomen",
       "url": "https://open.spotify.com/track/3FDhVCkzAihurjgkAknd4E"
+    },
+    {
+      "album": {
+        "name": "Zij is voor mij",
+        "url": "https://open.spotify.com/album/6d7QP92PjS3Y3Z4bVhlBgm"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208477,
+      "name": "Zij is voor mij",
+      "url": "https://open.spotify.com/track/1TvSpaz6QZnepK4J0k9C5i"
     },
     {
       "album": {

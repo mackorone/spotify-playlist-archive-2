@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,296 likes - 43 songs - 2 hr 46 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,296 likes - 44 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 41 | [A Blast From The Past](https://open.spotify.com/track/3eDJVt2Rlhns5HIwBE8iLu) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Anemoia Vol.1](https://open.spotify.com/album/4jOEyatX7JUT0PikYwVInY) | 3:17 |
 | 42 | [Jump](https://open.spotify.com/track/4UM6wTL92CDDHpN3dzaVBu) | [Monkey The Dog](https://open.spotify.com/artist/1la7SQE26l6ZhwpOLx5QiC) | [Jump](https://open.spotify.com/album/6ZMr3nj1g6MKbNmexo4KcB) | 3:17 |
 | 43 | [Sei qualcosa di più](https://open.spotify.com/track/0AMRBYq1MSMhHfPrbfzizr) | [DREANN](https://open.spotify.com/artist/0F1JM34Bsg9sH9sPyh7hFX) | [Rumori di Felicità](https://open.spotify.com/album/6IylMld0SUGYQpBtCwna1f) | 3:23 |
+| 44 | [True North](https://open.spotify.com/track/092Z1yGLAFCEBtqmRtpWaX) | [MEERKEIME](https://open.spotify.com/artist/1jDLEyYY7Y17UFRFixE0vT) | [Unmoored](https://open.spotify.com/album/7seOQf6Fwg0G8K4n1ceQo4) | 4:03 |
 
-Snapshot ID: `AAAj4bVh7lu4or3y/dRV72jVZwyLqxrL`
+Snapshot ID: `AAAj4hXF3FMRR6yMa5GGCYyRCCaaOWLr`

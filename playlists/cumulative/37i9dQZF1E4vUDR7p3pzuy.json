@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, Rob Harrowven, Splitter Conspiracy and more",
+  "description": "With Evil Level Live, JUST LIZZY, Rob Harrowven and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -616,7 +616,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "Blood - Radio Edit",
       "url": "https://open.spotify.com/track/2NTHjHIodalPbclcnN3uUi"
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 231231,
       "name": "Deliria",
       "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 192000,
       "name": "Discipline",
       "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Everything and Nothing",
+        "url": "https://open.spotify.com/album/2R7Jq3K0Tq0DOC2xXN4Qap"
+      },
+      "artists": [
+        {
+          "name": "Fishbowl",
+          "url": "https://open.spotify.com/artist/229COQirOtnUPhSCIfDJpc"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203357,
+      "name": "Everything and Nothing",
+      "url": "https://open.spotify.com/track/20ONfwjSKbNy0lHiUtCEjQ"
+    },
+    {
+      "album": {
         "name": "Time's Arrow Remixed",
         "url": "https://open.spotify.com/album/4qzbywOlrAzr5HKeHipS6u"
       },
@@ -1632,6 +1650,24 @@
       "duration_ms": 152128,
       "name": "Father Is Dead",
       "url": "https://open.spotify.com/track/6IbgXsrJcjD5GWOF3YSNQA"
+    },
+    {
+      "album": {
+        "name": "Feeding the Fear",
+        "url": "https://open.spotify.com/album/38SWBAmzCSwLEYVuRaDcEF"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00e1 Cro\u00ed",
+          "url": "https://open.spotify.com/artist/2anCI3ygSVSXfGMTDWhkbx"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254166,
+      "name": "Feeding the Fear",
+      "url": "https://open.spotify.com/track/6nnzCIGfHbrWlqIwy4xNOX"
     },
     {
       "album": {
@@ -1892,7 +1928,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 338250,
       "name": "give up",
       "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
@@ -2178,7 +2214,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 240953,
       "name": "Heroes + Legends",
       "url": "https://open.spotify.com/track/4G0ocrIIcqnYYpnCoeIsEZ"
@@ -2398,7 +2434,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 387527,
       "name": "I Got It Bad",
       "url": "https://open.spotify.com/track/2vwG74jskPYPrZaKu24XAy"
@@ -2452,7 +2488,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 201600,
       "name": "I Never Had The Chance - Instrumental",
       "url": "https://open.spotify.com/track/1u5nNIXufOky5fASaMu81b"
@@ -3026,7 +3062,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Lena",
       "url": "https://open.spotify.com/track/1GP8hd4auBi1Uvg5q0Ng9h"
@@ -3294,6 +3330,24 @@
       "duration_ms": 238031,
       "name": "Men Putting Words in the Mouths of Gods - Judas and the Pilot Remix",
       "url": "https://open.spotify.com/track/6dCBGKMZpkoPb79gBwFRcy"
+    },
+    {
+      "album": {
+        "name": "Mental Health (MIK\u2019s Miasma)",
+        "url": "https://open.spotify.com/album/5gfoeaTbvC2fB0ggE1FiKm"
+      },
+      "artists": [
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340409,
+      "name": "Mental Health (MIK\u2019s Miasma)",
+      "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
     },
     {
       "album": {
@@ -3741,6 +3795,24 @@
     },
     {
       "album": {
+        "name": "Over And Over",
+        "url": "https://open.spotify.com/album/1k7wRWRQTrmebfuIdSiPi3"
+      },
+      "artists": [
+        {
+          "name": "Block",
+          "url": "https://open.spotify.com/artist/4ahnCwEbQDGnP8SjGj7xWW"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226250,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/7C4z139quGQZOqcYx81SsS"
+    },
+    {
+      "album": {
         "name": "Paid Holiday",
         "url": "https://open.spotify.com/album/7F9VLJgtMr8QSNaP6zFLO9"
       },
@@ -3948,7 +4020,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 206462,
       "name": "POV",
       "url": "https://open.spotify.com/track/2OWvD5JeW5USo607C4GK60"
@@ -5005,6 +5077,28 @@
     },
     {
       "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/3k3dT06QrtYEx74M13uwEk"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "Valv",
+          "url": "https://open.spotify.com/artist/6xtlNbk0EV6DzHC5ZifdAU"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162692,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/7MKiPnh557rhQK9FTJAGBr"
+    },
+    {
+      "album": {
         "name": "Take on me",
         "url": "https://open.spotify.com/album/27WiBAO7LZTAV6Vn18olKP"
       },
@@ -5158,7 +5252,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 394174,
       "name": "The Grift That Keeps Grifting",
       "url": "https://open.spotify.com/track/7gcY52fTTSXx0G5KdeBHEz"
@@ -5216,6 +5310,28 @@
       "duration_ms": 201104,
       "name": "The Passengers",
       "url": "https://open.spotify.com/track/68rIFfMmZCP75TXUPbZe5B"
+    },
+    {
+      "album": {
+        "name": "The Secret of the Future",
+        "url": "https://open.spotify.com/album/53nLmnwxPkI7oXJ4SwNix8"
+      },
+      "artists": [
+        {
+          "name": "Nadine de Macedo",
+          "url": "https://open.spotify.com/artist/2MQpH8AXFy2FyqFJdEMEum"
+        },
+        {
+          "name": "Sonia Hutchinson",
+          "url": "https://open.spotify.com/artist/5PSm7O6NSq9idPoBNzMKZn"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173338,
+      "name": "The Secret of the Future",
+      "url": "https://open.spotify.com/track/7uuwXkk4WloEcCsB4DsUFZ"
     },
     {
       "album": {
@@ -5320,7 +5436,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 234320,
       "name": "Things Have Changed - Radio Edit",
       "url": "https://open.spotify.com/track/0LmikJOYvaLdWcQCZWNHUU"
@@ -5378,7 +5494,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 190955,
       "name": "Through The Looking Glass",
       "url": "https://open.spotify.com/track/2VChgOUgrKcZ7poZHsQTqe"
@@ -5526,7 +5642,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 204000,
       "name": "Tr\u00e4nen Aus Blut",
       "url": "https://open.spotify.com/track/0sXugNYXjDsLXzc5X8bpQi"
@@ -5700,7 +5816,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 266853,
       "name": "Wait for a Day",
       "url": "https://open.spotify.com/track/79WwDikRFMbWwdYiW8uvzk"
@@ -5964,7 +6080,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"
@@ -6000,7 +6116,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 300187,
       "name": "Will i rise to breathe again?",
       "url": "https://open.spotify.com/track/0We2Xmni2KwxmJ3m4EYww4"

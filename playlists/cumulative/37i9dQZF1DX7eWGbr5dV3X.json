@@ -816,7 +816,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 221248,
       "name": "I'm Not Afraid",
       "url": "https://open.spotify.com/track/3mPH0blHMOPAjSkEKOUQd2"
@@ -1454,28 +1454,6 @@
     {
       "album": {
         "name": "Open up Babe (Perry twins remix)",
-        "url": "https://open.spotify.com/album/3gRtkDFfm9vNXknawgocnI"
-      },
-      "artists": [
-        {
-          "name": "Wils",
-          "url": "https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn"
-        },
-        {
-          "name": "Perry Twins",
-          "url": "https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K"
-        }
-      ],
-      "date_added": "2021-06-04",
-      "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
-      "duration_ms": 267000,
-      "name": "Open up Babe - Perry twins remix",
-      "url": "https://open.spotify.com/track/1S1Bg9s61Q4NDl8g6VWmOk"
-    },
-    {
-      "album": {
-        "name": "Open up Babe (Perry twins remix)",
         "url": "https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx"
       },
       "artists": [
@@ -1494,6 +1472,28 @@
       "duration_ms": 267000,
       "name": "Open up Babe - Perry twins remix",
       "url": "https://open.spotify.com/track/64juiILJDA5pLdP2nV0Dvz"
+    },
+    {
+      "album": {
+        "name": "Open up Babe (Perry twins remix)",
+        "url": "https://open.spotify.com/album/3gRtkDFfm9vNXknawgocnI"
+      },
+      "artists": [
+        {
+          "name": "Wils",
+          "url": "https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn"
+        },
+        {
+          "name": "The Perry Twins",
+          "url": "https://open.spotify.com/artist/0PEbvB61hJbfCA92u5kxGM"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Open up Babe - Perry twins remix",
+      "url": "https://open.spotify.com/track/1S1Bg9s61Q4NDl8g6VWmOk"
     },
     {
       "album": {

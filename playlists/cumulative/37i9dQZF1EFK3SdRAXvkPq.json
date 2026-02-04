@@ -178,10 +178,40 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 255600,
       "name": "AMG - Remix",
       "url": "https://open.spotify.com/track/2pWsP2b8BvGNTLKQ53IzTL"
+    },
+    {
+      "album": {
+        "name": "LUV ALLERGIC RELOADED",
+        "url": "https://open.spotify.com/album/1mhvhcx6q4oielwunOs122"
+      },
+      "artists": [
+        {
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+        },
+        {
+          "name": "Rios",
+          "url": "https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU"
+        },
+        {
+          "name": "Jovaan",
+          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
+        },
+        {
+          "name": "Debians",
+          "url": "https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255600,
+      "name": "AMG - Remix",
+      "url": "https://open.spotify.com/track/3qVf1V0Bf4LC8BOVQoMBRp"
     },
     {
       "album": {

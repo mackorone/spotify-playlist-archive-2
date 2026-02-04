@@ -864,7 +864,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 236669,
       "name": "Tabla Music",
       "url": "https://open.spotify.com/track/4WVSDMP0lEEDf2dy6FTzs6"
@@ -886,6 +886,24 @@
       "duration_ms": 380995,
       "name": "Tabla Music for Meditation",
       "url": "https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN"
+    },
+    {
+      "album": {
+        "name": "Tabla Solo (Live in Ludhiana)",
+        "url": "https://open.spotify.com/album/1Ysp566MdBCB3jHyUayBjj"
+      },
+      "artists": [
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Tabla Solo (Live in Ludhiana)",
+      "url": "https://open.spotify.com/track/2wpQLzF4qBLBSSkctvykeP"
     },
     {
       "album": {

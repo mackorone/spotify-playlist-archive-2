@@ -2,9 +2,9 @@
 
 ### [She Rocks](https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2)
 
-> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 文藝天国
+> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Cö shu Nie
 
-1,988 songs - 5 day 3 hr 8 min
+1,989 songs - 5 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Aoihonoo](https://open.spotify.com/track/4BfW34U1yJail0vgm0mMLp) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [Aoihonoo](https://open.spotify.com/album/2tdb1fHEFZiEHSHarnKtrK) | 2:20 | 2022-11-08 | 2022-12-14 |
 | [Aoku Aoku Hikaru feat\. ACANE, nulut](https://open.spotify.com/track/0UGnaxImsUffoaSkND3ueq) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [ACANE](https://open.spotify.com/artist/57G0EZUE9b480atssSdR9D), [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC](https://open.spotify.com/album/6AZiQVTRwnR9UQmUfmMIJz) | 3:47 | 2022-12-08 | 2023-01-18 |
 | [Artificial Vampire](https://open.spotify.com/track/62VZ9hmPM9mFzfReeNl48O) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Artificial Vampire](https://open.spotify.com/album/0sJNblhCzxakRxEy7zPaD5) | 3:05 | 2024-03-12 | 2024-04-24 |
-| [Aru ryuseigun](https://open.spotify.com/track/3uhm4bZRlimOth54MzjCQK) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [nude](https://open.spotify.com/album/44s4eyKJJmyJ3vWfZVXHqg) | 3:38 | 2026-01-27 |  |
+| [Aru ryuseigun](https://open.spotify.com/track/3uhm4bZRlimOth54MzjCQK) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [nude](https://open.spotify.com/album/44s4eyKJJmyJ3vWfZVXHqg) | 3:38 | 2026-01-27 | 2026-02-04 |
 | [Ashiato](https://open.spotify.com/track/1iAylyNZ2LkBl0zzSS8oig) | [Boundary](https://open.spotify.com/artist/7EYH7GNNmSQu0MqLFBupH9) | [Ashiato](https://open.spotify.com/album/5ZJ1hxvXXQFrD1Ry32429t) | 3:35 | 2023-07-11 | 2023-08-23 |
 | [At the End of the Live](https://open.spotify.com/track/5f789mmiPS5TCKixFZ2U8y) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [At the End of the Live](https://open.spotify.com/album/09vz9pVxdpUF6LraBsUSbM) | 4:31 | 2023-08-08 | 2023-08-23 |
 | [AUGHOST](https://open.spotify.com/track/3CIC4Hhu4OTH8o5Qx3BB7b) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [koizumi kyoko](https://open.spotify.com/artist/3eNfif7D047aRloRtNn4sL) | [i ai ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6hvYxf47rTGD9q1FFlAp89) | 4:37 | 2024-03-07 | 2024-03-20 |
@@ -381,6 +381,7 @@
 | [HIKARI](https://open.spotify.com/track/3rkAi7PFvZHLoTH9IF1nha) | [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [Momoko Hayashi](https://open.spotify.com/artist/5vvuay91t1WlmMwMEFsTsI) | [HIKARI](https://open.spotify.com/album/5vv2AAaGX5y9faA6xXVHJT) | 4:05 | 2023-09-21 | 2023-09-27 |
 | [HIKARI](https://open.spotify.com/track/2l5GfXSjWnHKok1hTPiwpS) | [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [林萌々子](https://open.spotify.com/artist/5Cz8mBR1lvRbv7nuBTcDHa) | [HIKARI](https://open.spotify.com/album/29tJh9itrfOwP6bQWcAiSU) | 4:05 | 2023-09-21 | 2023-09-23 |
 | [Hirune no Kuni](https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Hirune no Kuni](https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5) | 3:06 | 2023-05-31 | 2023-09-01 |
+| [Hollow](https://open.spotify.com/track/3ywfR2tUoo1We4dgnVXEmz) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Hollow](https://open.spotify.com/album/0RdAutXGrAeWaEGBlr9hEn) | 3:34 | 2026-02-03 |  |
 | [HOME](https://open.spotify.com/track/0XpmARPe6ogeB3QlKcot6R) | [室田夏海](https://open.spotify.com/artist/6ztutPVgQQELxy0clZEGKF) | [HOME](https://open.spotify.com/album/1hqlSmgJUwG5tc60o33zwF) | 3:20 | 2022-06-02 | 2022-06-08 |
 | [Home away from home](https://open.spotify.com/track/078aRKG1uIz2W2Vf6Brncl) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/1QPo9D2cCyLWtBEdAjzdmg) | 4:07 | 2023-02-28 | 2023-03-02 |
 | [Home away from home](https://open.spotify.com/track/0Gq2WKpmU7eKwK8dUcckv2) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/3QjYyRaZJAGvFQksUdrWqW) | 4:07 | 2023-02-28 | 2023-03-15 |
@@ -412,7 +413,7 @@
 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 | 2025-07-08 |  |
 | [IMPLOSION](https://open.spotify.com/track/19160f74RVyQt9vNi93n7p) | [COLLAPSE](https://open.spotify.com/artist/3aLpODUWftL6JfrOed62f5) | [IMPLOSION](https://open.spotify.com/album/084RA5tsqFHyRe8eHytxaC) | 3:09 | 2022-05-26 | 2022-06-22 |
 | [IN MY ROOM](https://open.spotify.com/track/5o84Xk1e6YCHNLsxy1arHT) | [THE TOMBOYS](https://open.spotify.com/artist/0BxA6yATaPwCIvbvXxyGAy) | [IN MY ROOM](https://open.spotify.com/album/1z1i2xeIZwvDH24kkU4ow4) | 3:53 | 2022-11-23 | 2022-12-07 |
-| [Incarnation](https://open.spotify.com/track/2pg1TkWWTFUALftksUZ0ND) | [NELKE](https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG) | [Incarnation](https://open.spotify.com/album/09LOUe1UXiYyBUctfTBR6o) | 4:36 | 2024-10-01 | 2026-01-28 |
+| [Incarnation](https://open.spotify.com/track/2pg1TkWWTFUALftksUZ0ND) | [NELKE](https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG) | [Incarnation](https://open.spotify.com/album/09LOUe1UXiYyBUctfTBR6o) | 4:36 | 2024-10-01 |  |
 | [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 | 2022-09-20 | 2023-03-22 |
 | [influencer](https://open.spotify.com/track/5notliDFZDp6H5m95UmQve) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/3X1Y5nukifVvhjmyAcsZ6o) | 3:23 | 2022-09-20 | 2022-09-22 |
 | [innocent arrogance](https://open.spotify.com/track/7JgBlEV4AbeHVhaTczGdTg) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [innocent arrogance](https://open.spotify.com/album/1VoA8bMAIB5BRjSMqaFQkP) | 3:31 | 2023-04-04 | 2024-10-02 |
@@ -1811,7 +1812,7 @@
 | [獅子奮迅フルスイング](https://open.spotify.com/track/6VW6j5OaLv9IOLvmq52DFh) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [獅子奮迅フルスイング](https://open.spotify.com/album/3KJXFbHkKqwW1qSdaYOVlp) | 3:41 | 2022-07-14 | 2022-07-19 |
 | [獏](https://open.spotify.com/track/3lf1IxAJzs5G9trfg7UHON) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [ukabubaku](https://open.spotify.com/album/2XjVj0NDX1FJIJKDS2sFDM) | 3:40 | 2022-12-07 | 2022-12-14 |
 | [獣の理](https://open.spotify.com/track/0pUQH30znBxboQoTtmh9Oe) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 2:56 | 2022-05-31 | 2022-07-15 |
-| [甘々吟味](https://open.spotify.com/track/5dWGDuwERNJJdLdRo4nmYy) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [甘々吟味](https://open.spotify.com/album/2vX4yji8UPr3R1xrAEZfFA) | 3:12 | 2026-01-13 |  |
+| [甘々吟味](https://open.spotify.com/track/5dWGDuwERNJJdLdRo4nmYy) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [甘々吟味](https://open.spotify.com/album/2vX4yji8UPr3R1xrAEZfFA) | 3:12 | 2026-01-13 | 2026-02-04 |
 | [甘い渇き](https://open.spotify.com/track/09bJEKD6myZ8kxUkDiWeox) | [梅星えあ](https://open.spotify.com/artist/69jZ4CN29BP2IsNdGh6ULF) | [甘い渇き](https://open.spotify.com/album/1M5b05Y2eiVcKI2CIscBFs) | 4:22 | 2022-07-12 | 2022-07-15 |
 | [甘苦](https://open.spotify.com/track/4MsGmQ8FRsRNId31oK8U3n) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [甘苦](https://open.spotify.com/album/7DdXwpnmX1RIr6bBx0Kc4V) | 3:51 | 2022-05-26 | 2022-07-29 |
 | [生きてしぬ](https://open.spotify.com/track/2wjakZC9Np8hdcgqNKc1Vp) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [最終兵器は自由](https://open.spotify.com/album/539F5Y2n3e7QsdQtQM6BOp) | 3:11 | 2022-09-13 | 2022-09-21 |

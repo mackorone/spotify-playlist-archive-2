@@ -2,7 +2,7 @@
 
 ### [The WISHLIST](https://open.spotify.com/playlist/37i9dQZF1DXdMR9DIC5ADT)
 
-> 来日希望！ライブで観たい注目の海外アーティストを特集。cover: James Blake
+> 来日希望！ライブで観たい注目の海外アーティストを特集。cover: Melanie Martinez
 
 750 songs - 1 day 17 hr 37 min
 

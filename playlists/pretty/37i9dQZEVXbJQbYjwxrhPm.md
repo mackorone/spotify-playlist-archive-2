@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,432 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,437 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 50 | [Ministarat Na Veselieto](https://open.spotify.com/track/653RTe2vklxgMHS2yfYWqo) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD), [Lora Karajova](https://open.spotify.com/artist/5io8vM6q4wMK12XmOdEYIt), [Bobo](https://open.spotify.com/artist/6r0YcUb4D28iZMWUKPlBWf) | [Ministarat Na Veselieto](https://open.spotify.com/album/2UDNAQc1BPelhkcRxCCyHO) | 3:26 |
 
-Snapshot ID: `MRQJwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MRVbQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

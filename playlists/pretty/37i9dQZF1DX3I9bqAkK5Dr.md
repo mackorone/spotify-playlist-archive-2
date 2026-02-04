@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Ritesh G Rao
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,223 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,228 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pagale Jaabili](https://open.spotify.com/track/476UKv6WOa3LCIZ05FhgmN) | [Ritesh G Rao](https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz), [Nimshi Zacchaeus](https://open.spotify.com/artist/0YQIokZUhvSY7WtIDgTrcz) | [Pagale Jaabili](https://open.spotify.com/album/133QK7uuXdOB8jXw5AG3qS) | 3:56 |
 | 2 | [Ready Ready](https://open.spotify.com/track/0htgEicUUITUJndHBEjZTi) | [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6), [Tharun Bhascker Dhaassyam](https://open.spotify.com/artist/3ApNcz5T4SC3zgyxClqk3q) | [Ready Ready](https://open.spotify.com/album/7oiU0yLOrjACJOKiIEVAu4) | 3:45 |
 | 3 | [Dhoola Maya](https://open.spotify.com/track/1u8fCJz0quPl7Pnxbi49Q9) | [C Shor](https://open.spotify.com/artist/1yUQaaxSIq7Pkms4iMvWmR) | [Dhoola Maya](https://open.spotify.com/album/75O9mOTF1nmTzuCRaVClzz) | 3:08 |
-| 4 | [DID IT MYSELF](https://open.spotify.com/track/48J1pICcJWFySBfghCgfty) | [Ronn](https://open.spotify.com/artist/6LW1EbzNVeFXwLX3CTAu2U), [GRK](https://open.spotify.com/artist/6BoSxQn5WJeF5pR9miiLkg), [ChunkyKid](https://open.spotify.com/artist/2eGB1flJjXLebuak8qkj1x) | [DID IT MYSELF](https://open.spotify.com/album/3tacMS9yYn4ATJqsXa5VLC) | 2:13 |
+| 4 | [DID IT MYSELF](https://open.spotify.com/track/48J1pICcJWFySBfghCgfty) | [Ronn](https://open.spotify.com/artist/6LW1EbzNVeFXwLX3CTAu2U), [GRK](https://open.spotify.com/artist/6BoSxQn5WJeF5pR9miiLkg) | [DID IT MYSELF](https://open.spotify.com/album/3tacMS9yYn4ATJqsXa5VLC) | 2:13 |
 | 5 | [Vasanthakaalam](https://open.spotify.com/track/4uG8FKVfBaZ7AqK7z3gmEu) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Vasanthakaalam](https://open.spotify.com/album/05wa7qBhZKhOU1hEqUILeY) | 3:15 |
 | 6 | [Cheliya Choodave](https://open.spotify.com/track/714hV4u9N5EAmHrssrweuv) | [Fleep & Arin](https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl) | [Cheliya Choodave](https://open.spotify.com/album/4XCnaErpM5mfWqq8W5dGo0) | 3:21 |
 | 7 | [Tuneega Tuneega](https://open.spotify.com/track/46dcXainXvcAaiC2FZdrOD) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L), [Sanare](https://open.spotify.com/artist/5OBBWXv2u5ZODe8odcEHbl) | [Tuneega Tuneega](https://open.spotify.com/album/525yLGp80QvTZGjydWCBvD) | 4:38 |

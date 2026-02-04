@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Hallgasd teljes hanger\u0151vel ezeket a k\u00edv\u00e1l\u00f3 n\u0151i el\u0151ad\u00f3kat. Cover: girlhood\n",
+  "description": "Hallgasd teljes hanger\u0151vel ezeket a k\u00edv\u00e1l\u00f3 n\u0151i el\u0151ad\u00f3kat. A lej\u00e1tsz\u00e1si list\u00e1t r\u00e9szben a girlhood k\u00e9sz\u00edtette! ",
   "name": "EQUAL Hungary",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 205440,
       "name": "Aludn\u00e9k (de nem lehet)",
       "url": "https://open.spotify.com/track/2dzXReX02R9l2UYBJbKfPF"
@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Before I Leave",
+        "url": "https://open.spotify.com/album/7oWlBJQUrnnxa22T4EuLzF"
+      },
+      "artists": [
+        {
+          "name": "NANANA",
+          "url": "https://open.spotify.com/artist/7x1xJXCsNpTaY64edrLzbs"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163003,
+      "name": "Before I Leave",
+      "url": "https://open.spotify.com/track/4I17rEiax41MWojGiSi3H4"
+    },
+    {
+      "album": {
         "name": "Begy\u00fajtom",
         "url": "https://open.spotify.com/album/5bjZ0XTqHcwgf0ikIvWay7"
       },
@@ -652,6 +670,24 @@
       "duration_ms": 152000,
       "name": "BITCHCRAFT!",
       "url": "https://open.spotify.com/track/3KPzllJ175HwgL0MHsVq21"
+    },
+    {
+      "album": {
+        "name": "SISTEMATIIK",
+        "url": "https://open.spotify.com/album/6CcJ0tlUO67gkvcRQtqluI"
+      },
+      "artists": [
+        {
+          "name": "Sisi",
+          "url": "https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260143,
+      "name": "BLAHA",
+      "url": "https://open.spotify.com/track/2ueuKm1mrRvUypRmI0ATvD"
     },
     {
       "album": {
@@ -995,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "CTRL+ALT+DREAM (Alternate Reality)",
+        "url": "https://open.spotify.com/album/4Ls6U8EL2k5i4Ih5lFqG7Q"
+      },
+      "artists": [
+        {
+          "name": "Girl in the mirror",
+          "url": "https://open.spotify.com/artist/2mQTU8dOo4PEJF1stERHUe"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "CTRL+ALT+DREAM - Alternate Reality",
+      "url": "https://open.spotify.com/track/7Fn18HnFsldjz9m9hNaPyy"
+    },
+    {
+      "album": {
         "name": "c\u00e9klav\u00e9r",
         "url": "https://open.spotify.com/album/6fYfirvEkjSUap6A18eRv1"
       },
@@ -1194,7 +1248,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 156705,
       "name": "disposable",
       "url": "https://open.spotify.com/track/6vUys32HHMu5PEBvP30pcM"
@@ -1342,7 +1396,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 183052,
       "name": "Elad\u00f3",
       "url": "https://open.spotify.com/track/7oQcyNQaGCIcNNaAi5rPEg"
@@ -1620,7 +1674,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 187951,
       "name": "Fels\u00fct\u00f6tt a napsug\u00e1ra",
       "url": "https://open.spotify.com/track/71NlwzHDI64UVqenLz5CMW"
@@ -1863,6 +1917,28 @@
     },
     {
       "album": {
+        "name": "N\u00e1rcisz",
+        "url": "https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK"
+      },
+      "artists": [
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+        },
+        {
+          "name": "Blaize",
+          "url": "https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153005,
+      "name": "F\u00fcgg\u0151h\u00edd",
+      "url": "https://open.spotify.com/track/4wfkAtYRIHJ1uy6UtpyME9"
+    },
+    {
+      "album": {
         "name": "F\u00fcgg\u0151h\u00edd",
         "url": "https://open.spotify.com/album/1cQmne6wI1HME5NMqu7MoG"
       },
@@ -1900,7 +1976,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 243428,
       "name": "Galambok Olaj\u00e1gon",
       "url": "https://open.spotify.com/track/6YYchKVIv3YNUs4d6DhMZO"
@@ -2159,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "Szobapop",
+        "url": "https://open.spotify.com/album/0hgHppj2ucTjeN5OOOf8oi"
+      },
+      "artists": [
+        {
+          "name": "laurie.",
+          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113500,
+      "name": "Happy Hippo",
+      "url": "https://open.spotify.com/track/5zO3Yz9iCM6fGvJh0YAHRR"
+    },
+    {
+      "album": {
         "name": "Harmat lenn\u00e9k",
         "url": "https://open.spotify.com/album/3y9izY9vm4guNobuz1qynU"
       },
@@ -2170,7 +2264,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 172571,
       "name": "Harmat lenn\u00e9k",
       "url": "https://open.spotify.com/track/5AZOc3g6cTPZ98qbh2Ekj7"
@@ -2333,6 +2427,24 @@
     },
     {
       "album": {
+        "name": "H\u00f3",
+        "url": "https://open.spotify.com/album/7tAgOSE7CHyCEgG31bvLqK"
+      },
+      "artists": [
+        {
+          "name": "Petrita",
+          "url": "https://open.spotify.com/artist/5UMFawtaY8x71iJbz2zN3p"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126967,
+      "name": "H\u00f3",
+      "url": "https://open.spotify.com/track/6OykQdL7dWrIcHJHse1cU5"
+    },
+    {
+      "album": {
         "name": "h\u00fclyegyerek",
         "url": "https://open.spotify.com/album/1HjDa6GLkX5KQS2WocwZK5"
       },
@@ -2402,7 +2514,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 129845,
       "name": "Igaz-Hamis",
       "url": "https://open.spotify.com/track/78AN6stv60uHGYUVqfQq6s"
@@ -2629,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/0PvSScFzrItgMlJ5d3lAG2"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Jupiter I.",
+      "url": "https://open.spotify.com/track/2LL417EDW1SXdoSxOidASR"
+    },
+    {
+      "album": {
         "name": "J\u00e1ratlan",
         "url": "https://open.spotify.com/album/6ND8Ft1X16BRRQxGLpTtKY"
       },
@@ -2850,7 +2980,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 285999,
       "name": "Kis Kece",
       "url": "https://open.spotify.com/track/62MujMMhnGOJB1gGTYbCAC"
@@ -2991,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "K\u00e9s\u0151 m\u00e1r",
+        "url": "https://open.spotify.com/album/34sAEqe1mF5cSbDXRgxSyy"
+      },
+      "artists": [
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129830,
+      "name": "K\u00e9s\u0151 m\u00e1r",
+      "url": "https://open.spotify.com/track/1mq4V7v43QWPcJBXWe1PZf"
+    },
+    {
+      "album": {
         "name": "K\u00edgy\u00f3",
         "url": "https://open.spotify.com/album/2jLhGPCFmcxane4Qq5oQbd"
       },
@@ -3038,7 +3186,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 179636,
       "name": "k\u00f6z\u00f6ny",
       "url": "https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq"
@@ -3056,10 +3204,28 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 205090,
       "name": "Lass\u00edts Kicsit",
       "url": "https://open.spotify.com/track/1LpsuSWXOhXoKbHjFLPO4m"
+    },
+    {
+      "album": {
+        "name": "Last Straw",
+        "url": "https://open.spotify.com/album/4QUXijAcjWhYrfPBBAU5oD"
+      },
+      "artists": [
+        {
+          "name": "Zs\u00fcd",
+          "url": "https://open.spotify.com/artist/0FudzuU6qWqcT7CUbKbVWZ"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Last Straw",
+      "url": "https://open.spotify.com/track/32lL3qA9iWUXgqVGkxkKwN"
     },
     {
       "album": {
@@ -3331,6 +3497,24 @@
     },
     {
       "album": {
+        "name": "L\u00e9lekl\u00e9nyek",
+        "url": "https://open.spotify.com/album/0FUiG29qBCDPYbk3J50K4m"
+      },
+      "artists": [
+        {
+          "name": "Vill\u0151",
+          "url": "https://open.spotify.com/artist/5qlX0ApNWukXe5g6Gb7cmJ"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "L\u00e9lekl\u00e9nyek",
+      "url": "https://open.spotify.com/track/56PV3ULVBTyTCRny1UyKhX"
+    },
+    {
+      "album": {
         "name": "Magam ut\u00e1n",
         "url": "https://open.spotify.com/album/1U4gP2lWnkQfqzfC3ytqCf"
       },
@@ -3400,6 +3584,24 @@
       "duration_ms": 165230,
       "name": "majdnem nem haragszom r\u00e1d",
       "url": "https://open.spotify.com/track/31k2SlcjUNExHVqsc2FS2f"
+    },
+    {
+      "album": {
+        "name": "csendh\u00e1bor\u00edt\u00e1s?!",
+        "url": "https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "majdnem nem haragszom r\u00e1d",
+      "url": "https://open.spotify.com/track/5dRq6qtSFEDlVLytZ6IV3G"
     },
     {
       "album": {
@@ -3583,6 +3785,28 @@
     },
     {
       "album": {
+        "name": "mindig szomor\u00fa",
+        "url": "https://open.spotify.com/album/55JbMGfwZBDXVTU73vA2V7"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        },
+        {
+          "name": "Bark\u00f3czi No\u00e9mi",
+          "url": "https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "mindig szomor\u00fa",
+      "url": "https://open.spotify.com/track/1SiknHrLImQSDrI8wskLva"
+    },
+    {
+      "album": {
         "name": "Mire voltam j\u00f3?",
         "url": "https://open.spotify.com/album/5NKvAAW66iwjabAG5tMeIw"
       },
@@ -3724,6 +3948,24 @@
       "duration_ms": 148800,
       "name": "mother luna",
       "url": "https://open.spotify.com/track/3uuWCd2nI2TxaRoMEMFe67"
+    },
+    {
+      "album": {
+        "name": "My way",
+        "url": "https://open.spotify.com/album/53V59SWhZEsgOYqV57BI9X"
+      },
+      "artists": [
+        {
+          "name": "Fluidia",
+          "url": "https://open.spotify.com/artist/6ORKVNt3KGpnWTVV71BKa8"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252413,
+      "name": "My way",
+      "url": "https://open.spotify.com/track/6KxWRjwt4APJkwJsYTqHdX"
     },
     {
       "album": {
@@ -4013,6 +4255,28 @@
     },
     {
       "album": {
+        "name": "nem alszom",
+        "url": "https://open.spotify.com/album/258GaKa4V1RRx0R5FHPU3G"
+      },
+      "artists": [
+        {
+          "name": "fannisza",
+          "url": "https://open.spotify.com/artist/6tO7A1RuaqhmuVHgQIUcFD"
+        },
+        {
+          "name": "Feh\u00e9r Holl\u00f3",
+          "url": "https://open.spotify.com/artist/33cCO3dLvdBacUrXaEckU1"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145617,
+      "name": "nem alszom",
+      "url": "https://open.spotify.com/track/0eDn9HWi5sDwqluGz6ScbM"
+    },
+    {
+      "album": {
         "name": "NEM B\u00cdRN\u00c1L VELEM",
         "url": "https://open.spotify.com/album/6eWJKqIVXtDChfdtqA95ZT"
       },
@@ -4158,7 +4422,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 138125,
       "name": "Nem Vagy Val\u00f3 nekem",
       "url": "https://open.spotify.com/track/6AR02NaBEaYJl5pl5ecssK"
@@ -4248,7 +4512,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 159230,
       "name": "NIAGARA",
       "url": "https://open.spotify.com/track/734FaHD2p9wkwiyoSC8spJ"
@@ -4647,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "Pontokon",
+        "url": "https://open.spotify.com/album/4wQO6EJPtlCAJtclapDC0X"
+      },
+      "artists": [
+        {
+          "name": "Blansch",
+          "url": "https://open.spotify.com/artist/3ayr9hpwhjojhJ4wuqVQED"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138714,
+      "name": "Pontokon",
+      "url": "https://open.spotify.com/track/2l1Tj93awsX3kAsmkz63TB"
+    },
+    {
+      "album": {
         "name": "Porcel\u00e1n",
         "url": "https://open.spotify.com/album/2v3htnlSlW2pOebjmzgwAy"
       },
@@ -4684,7 +4966,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 176727,
       "name": "Pornstar Martini",
       "url": "https://open.spotify.com/track/6qMkDo84rCzTP9qW6Dz1s9"
@@ -4947,6 +5229,24 @@
     },
     {
       "album": {
+        "name": "Hol Marad Az \u00c9n T\u00f6rt\u00e9netem",
+        "url": "https://open.spotify.com/album/4KOVVYnA1U3cTz5kvyITA8"
+      },
+      "artists": [
+        {
+          "name": "Margaret Island",
+          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Senki Nem Felel",
+      "url": "https://open.spotify.com/track/6AWHi7UqhYqdi5arQ7b3Ah"
+    },
+    {
+      "album": {
         "name": "She And I",
         "url": "https://open.spotify.com/album/2d1upXILaVDajJjd0aT6xT"
       },
@@ -5179,6 +5479,28 @@
     },
     {
       "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/7pk1pykXp7eCtGyiCKaBP4"
+      },
+      "artists": [
+        {
+          "name": "Dominiqa Savah",
+          "url": "https://open.spotify.com/artist/3DXHAKW3i5rcqE1KBp6Bac"
+        },
+        {
+          "name": "ReQuest",
+          "url": "https://open.spotify.com/artist/51zO82VF2DiQ7z3LFrRaZi"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199935,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/1wAiQNMUtR2bDZZ8ZRP7na"
+    },
+    {
+      "album": {
         "name": "Stoned In Love (Remix)",
         "url": "https://open.spotify.com/album/65GXpHegCDpXCmdXuewrUm"
       },
@@ -5346,6 +5668,24 @@
       "duration_ms": 160064,
       "name": "Szex",
       "url": "https://open.spotify.com/track/3049QcCJ593nYs2r49uV71"
+    },
+    {
+      "album": {
+        "name": "Sziget",
+        "url": "https://open.spotify.com/album/6WME0nB9Emu7DShP7i2p5b"
+      },
+      "artists": [
+        {
+          "name": "RIMOCZI",
+          "url": "https://open.spotify.com/artist/2d7tzCT0WUlk1IpnQdMNAV"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Sziget",
+      "url": "https://open.spotify.com/track/130oDreOP90oEiZyLJb9b8"
     },
     {
       "album": {
@@ -5602,7 +5942,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "S\u00d6RSEGG\u0170 L\u00c1NY",
       "url": "https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s"
@@ -5931,6 +6271,24 @@
     },
     {
       "album": {
+        "name": "Hol vannak a l\u00e1nyok?",
+        "url": "https://open.spotify.com/album/5vPsVLF8fvaatBZqz7MjXq"
+      },
+      "artists": [
+        {
+          "name": "Janet Gruber",
+          "url": "https://open.spotify.com/artist/1w1Vul16gCdAB5NQADBrWG"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187142,
+      "name": "T\u00f6bb milli\u00e1rd ember",
+      "url": "https://open.spotify.com/track/5ME2VZ8X0sy9VkrxjpZ4NE"
+    },
+    {
+      "album": {
         "name": "T\u00fal nagy a zaj",
         "url": "https://open.spotify.com/album/1W9YW4a89J1ylIKQb2pI77"
       },
@@ -5982,7 +6340,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 131904,
       "name": "T\u00fasz",
       "url": "https://open.spotify.com/track/5RMitIKfOtk5HAYIHA8n25"
@@ -6230,6 +6588,24 @@
       "duration_ms": 184748,
       "name": "Varacskos \u00c1lmok",
       "url": "https://open.spotify.com/track/4IHsZsWinOHs7nR4KgWYJX"
+    },
+    {
+      "album": {
+        "name": "vesz\u00e9lyes utc\u00e1k",
+        "url": "https://open.spotify.com/album/77Dpx7WvBnF10GzPO1LPgL"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "vesz\u00e9lyes utc\u00e1k",
+      "url": "https://open.spotify.com/track/1tBuxxLlbZ7YXV4PcxfKQJ"
     },
     {
       "album": {
@@ -6650,7 +7026,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 166115,
       "name": "\u00dagy sz\u00e9p",
       "url": "https://open.spotify.com/track/2kWoJME3WgpBzZMlhk26zK"
@@ -6690,6 +7066,28 @@
       "duration_ms": 130063,
       "name": "\u00daj Reni",
       "url": "https://open.spotify.com/track/6XJQIFP1uDTCnDBKSJz3Ie"
+    },
+    {
+      "album": {
+        "name": "Tegnapr\u00f3l",
+        "url": "https://open.spotify.com/album/3VzA5HgPg0K40vanfTIOCQ"
+      },
+      "artists": [
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179580,
+      "name": "\u00dct\u00f6tt kopott",
+      "url": "https://open.spotify.com/track/2iF0jIPxbWCe0KstpEYgt5"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 142209,
+  "num_followers": 142211,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-01-30 05:01:52",
       "album": {
-        "name": "The Good Part",
-        "url": "https://open.spotify.com/album/5Un6QRQcTrPlf9HvcZ4Xd1"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "The Good Part",
-      "url": "https://open.spotify.com/track/7cCscSBdKzNWalP42xkNUM"
-    },
-    {
-      "added_at": "2026-01-30 05:01:52",
-      "album": {
         "name": "Unessential Oils",
         "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 265880,
       "name": "Solutions to My Gloom",
       "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
+    },
+    {
+      "added_at": "2026-01-30 05:01:52",
+      "album": {
+        "name": "The Good Part",
+        "url": "https://open.spotify.com/album/5Un6QRQcTrPlf9HvcZ4Xd1"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/7cCscSBdKzNWalP42xkNUM"
     },
     {
       "added_at": "2026-01-30 05:01:52",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-01-30 05:01:52",
       "album": {
-        "name": "Tu reviendras",
-        "url": "https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 134581,
-      "name": "Tu reviendras",
-      "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
-    },
-    {
-      "added_at": "2026-01-30 05:01:52",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2026-01-30 05:01:52",
       "album": {
-        "name": "\u00c0 toi",
-        "url": "https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1"
+        "name": "Tu reviendras",
+        "url": "https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 264580,
-      "name": "\u00c0 toi",
-      "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
+      "duration_ms": 134581,
+      "name": "Tu reviendras",
+      "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
     },
     {
       "added_at": "2026-01-30 05:01:52",
@@ -723,18 +707,34 @@
     {
       "added_at": "2026-01-30 05:01:52",
       "album": {
-        "name": "Good Call",
-        "url": "https://open.spotify.com/album/5xJOjW6bjyAZ0NxHX6thdV"
+        "name": "\u00c0 toi",
+        "url": "https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1"
       },
       "artists": [
         {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 241653,
-      "name": "Good Call",
-      "url": "https://open.spotify.com/track/0JOLwH0Gk7ZydWzAVo2gjU"
+      "duration_ms": 264580,
+      "name": "\u00c0 toi",
+      "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
+    },
+    {
+      "added_at": "2026-01-30 05:01:52",
+      "album": {
+        "name": "La lumi\u00e8re",
+        "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "duration_ms": 240485,
+      "name": "La lumi\u00e8re",
+      "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
     },
     {
       "added_at": "2026-01-30 05:01:52",
@@ -791,18 +791,18 @@
     {
       "added_at": "2026-01-30 05:01:52",
       "album": {
-        "name": "La lumi\u00e8re",
-        "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
+        "name": "Good Call",
+        "url": "https://open.spotify.com/album/5xJOjW6bjyAZ0NxHX6thdV"
       },
       "artists": [
         {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
         }
       ],
-      "duration_ms": 240485,
-      "name": "La lumi\u00e8re",
-      "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
+      "duration_ms": 241653,
+      "name": "Good Call",
+      "url": "https://open.spotify.com/track/0JOLwH0Gk7ZydWzAVo2gjU"
     },
     {
       "added_at": "2026-01-30 05:01:52",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-01-30 05:01:52",
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/0hOMPuxUuYcyn2o75G1uzj"
+      },
+      "artists": [
+        {
+          "name": "Libby Ember",
+          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
+        }
+      ],
+      "duration_ms": 249170,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/3DJJXRfe9dsPI0kKOV1wTm"
+    },
+    {
+      "added_at": "2026-01-30 05:01:52",
+      "album": {
         "name": "Les joailliers (piano, voix)",
         "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 197111,
       "name": "Les joailliers (piano, voix)",
       "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
-    },
-    {
-      "added_at": "2026-01-30 05:01:52",
-      "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2026-01-30 05:01:52",
@@ -1115,22 +1115,18 @@
     {
       "added_at": "2026-01-30 05:01:52",
       "album": {
-        "name": "First Recordings",
-        "url": "https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U"
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
       "artists": [
         {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        },
-        {
-          "name": "Yves Desrosiers",
-          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 218200,
-      "name": "Los Peces",
-      "url": "https://open.spotify.com/track/6j0KzFyCDDt4Mhkje36qts"
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2026-01-30 05:01:52",
@@ -1151,22 +1147,6 @@
     {
       "added_at": "2026-01-30 05:01:52",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/0hOMPuxUuYcyn2o75G1uzj"
-      },
-      "artists": [
-        {
-          "name": "Libby Ember",
-          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
-        }
-      ],
-      "duration_ms": 249170,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/3DJJXRfe9dsPI0kKOV1wTm"
-    },
-    {
-      "added_at": "2026-01-30 05:01:52",
-      "album": {
         "name": "Quand je pleure, je suis content",
         "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 217773,
       "name": "Quand je pleure, je suis content",
       "url": "https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC"
+    },
+    {
+      "added_at": "2026-01-30 05:01:52",
+      "album": {
+        "name": "First Recordings",
+        "url": "https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        },
+        {
+          "name": "Yves Desrosiers",
+          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "Los Peces",
+      "url": "https://open.spotify.com/track/6j0KzFyCDDt4Mhkje36qts"
     },
     {
       "added_at": "2026-01-30 05:01:52",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-01-30 05:01:52",
       "album": {
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+    },
+    {
+      "added_at": "2026-01-30 05:01:52",
+      "album": {
         "name": "AVALANCHE (n.f.)",
         "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2026-01-30 05:01:52",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
-    },
-    {
-      "added_at": "2026-01-30 05:01:52",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-01-30 05:01:52",
       "album": {
-        "name": "On Part en Vacances",
-        "url": "https://open.spotify.com/album/0SbnyJhzHmt63cZgjXUV2J"
-      },
-      "artists": [
-        {
-          "name": "le.Panda",
-          "url": "https://open.spotify.com/artist/2sObweidtH0abGLq6BXqkn"
-        }
-      ],
-      "duration_ms": 233709,
-      "name": "Comme un Train",
-      "url": "https://open.spotify.com/track/0JTGupsaWlcOHyI41Xn7Xk"
-    },
-    {
-      "added_at": "2026-01-30 05:01:52",
-      "album": {
         "name": "Jacques",
         "url": "https://open.spotify.com/album/5b5RqSv24AjrlpuN2fank9"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 207795,
       "name": "Jacques",
       "url": "https://open.spotify.com/track/2i5z6ihicdsAVVfa9ieGj8"
+    },
+    {
+      "added_at": "2026-01-30 05:01:52",
+      "album": {
+        "name": "On Part en Vacances",
+        "url": "https://open.spotify.com/album/0SbnyJhzHmt63cZgjXUV2J"
+      },
+      "artists": [
+        {
+          "name": "le.Panda",
+          "url": "https://open.spotify.com/artist/2sObweidtH0abGLq6BXqkn"
+        }
+      ],
+      "duration_ms": 233709,
+      "name": "Comme un Train",
+      "url": "https://open.spotify.com/track/0JTGupsaWlcOHyI41Xn7Xk"
     },
     {
       "added_at": "2026-01-30 05:01:52",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-01-30 05:01:52",
       "album": {
-        "name": "monsieur Quan",
-        "url": "https://open.spotify.com/album/0qiMtfdSUDzTDOkwgn6ZSM"
-      },
-      "artists": [
-        {
-          "name": "Alphonse Bisaillon",
-          "url": "https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt"
-        }
-      ],
-      "duration_ms": 317520,
-      "name": "monsieur Quan",
-      "url": "https://open.spotify.com/track/5JvgShGpd6azGj7JO9XpxY"
-    },
-    {
-      "added_at": "2026-01-30 05:01:52",
-      "album": {
         "name": "Vendredi",
         "url": "https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2026-01-30 05:01:52",
       "album": {
+        "name": "monsieur Quan",
+        "url": "https://open.spotify.com/album/0qiMtfdSUDzTDOkwgn6ZSM"
+      },
+      "artists": [
+        {
+          "name": "Alphonse Bisaillon",
+          "url": "https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt"
+        }
+      ],
+      "duration_ms": 317520,
+      "name": "monsieur Quan",
+      "url": "https://open.spotify.com/track/5JvgShGpd6azGj7JO9XpxY"
+    },
+    {
+      "added_at": "2026-01-30 05:01:52",
+      "album": {
         "name": "Du temps",
         "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 222586,
       "name": "Du temps",
       "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
+    },
+    {
+      "added_at": "2026-01-30 05:01:52",
+      "album": {
+        "name": "Demain",
+        "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
+      },
+      "artists": [
+        {
+          "name": "Zach Boileau",
+          "url": "https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO"
+        }
+      ],
+      "duration_ms": 229047,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
     },
     {
       "added_at": "2026-01-30 05:01:52",
@@ -1515,22 +1531,6 @@
       "duration_ms": 202823,
       "name": "A Brand New Color",
       "url": "https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV"
-    },
-    {
-      "added_at": "2026-01-30 05:01:52",
-      "album": {
-        "name": "Demain",
-        "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
-      },
-      "artists": [
-        {
-          "name": "Zach Boileau",
-          "url": "https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO"
-        }
-      ],
-      "duration_ms": 229047,
-      "name": "Demain",
-      "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
     },
     {
       "added_at": "2026-01-30 05:01:52",

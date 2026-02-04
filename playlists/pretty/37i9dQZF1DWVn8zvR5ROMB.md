@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring HARDY, Morgan Wallen, Eric Church, Tim McGraw and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,261 likes - 61 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,331 likes - 61 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 18 | [Livin' In the Country](https://open.spotify.com/track/2DgeO3sekVYwUzCu1grkms) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Livin' In the Country](https://open.spotify.com/album/0lgpRtSXgyCBe2dvvepxJk) | 3:34 |
 | 19 | [Money Runs Out](https://open.spotify.com/track/3tG5dPymOzfjKvMyJy5bzc) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [Money Runs Out](https://open.spotify.com/album/6kYKL5DGxtwwkk6CVd2eZ4) | 3:03 |
 | 20 | [The Dirt](https://open.spotify.com/track/4l50UADUto0q3zsDed1d8W) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX), [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Horseback \(Deluxe\)](https://open.spotify.com/album/1JJ6zRzAazUYfQfPmRNZkQ) | 2:57 |
-| 21 | [Written by a Woman](https://open.spotify.com/track/34E3kmbItdwGI3QG0uEncO) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Written by a Woman](https://open.spotify.com/album/5I5p6F69BHjRxfhCsZlX52) | 3:18 |
+| 21 | [Written By A Woman](https://open.spotify.com/track/34E3kmbItdwGI3QG0uEncO) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Written By A Woman](https://open.spotify.com/album/5I5p6F69BHjRxfhCsZlX52) | 3:18 |
 | 22 | [Circling Around It](https://open.spotify.com/track/3Onnpde2UuriBUVPZdnQaz) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Circling Around It](https://open.spotify.com/album/4y8AqRhk8iSZe8E37f5osX) | 5:02 |
 | 23 | [Mama's Boy](https://open.spotify.com/track/0FHsveAOOhA0cS76enU5X3) | [Cody Webb](https://open.spotify.com/artist/6vuwhnCHdyyNbMFWWZ1hNs) | [Mama's Boy](https://open.spotify.com/album/1FZ4g4xG4OVNRQeRnlDg4O) | 3:46 |
 | 24 | [Never Been Better](https://open.spotify.com/track/6ftQAEHXWlAwioSe9tsxrm) | [Myles Morgan](https://open.spotify.com/artist/1lzPWhUDpLSVDwK02Mz0Eo) | [Never Been Better](https://open.spotify.com/album/1GX9MBIHSr7dBMKt7o2qBS) | 4:41 |

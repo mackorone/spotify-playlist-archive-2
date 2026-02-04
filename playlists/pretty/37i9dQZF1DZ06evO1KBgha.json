@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 373741,
+  "num_followers": 373753,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAAD55IiO1dnN4jJ7t0Ke/h9d",
+  "snapshot_id": "aX/pAAAAAABgvCaP+QSAc/o0A/fF739p",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 157138,
-      "name": "Big Bang",
-      "url": "https://open.spotify.com/track/7dxrSzsK1bouobJiY5fIcD"
+      "duration_ms": 180372,
+      "name": "Ojo X Ojo",
+      "url": "https://open.spotify.com/track/3OGOwjwdae1OulCD4DK1ic"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 180372,
-      "name": "Ojo X Ojo",
-      "url": "https://open.spotify.com/track/3OGOwjwdae1OulCD4DK1ic"
+      "duration_ms": 157138,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/7dxrSzsK1bouobJiY5fIcD"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6qKPrh8dQ6jVqR3TiyMM8J"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 166418,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/1jBxLoNgHtZnY3ykT9MDyl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siempre Que Lo Beso",
         "url": "https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 153674,
       "name": "Siempre Que Lo Beso",
       "url": "https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6qKPrh8dQ6jVqR3TiyMM8J"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 166418,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/1jBxLoNgHtZnY3ykT9MDyl"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kenia Roast Yourself",
+        "url": "https://open.spotify.com/album/5nYnZHaiMCk9HohPwPG779"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 236288,
+      "name": "Kenia Roast Yourself",
+      "url": "https://open.spotify.com/track/3Z3cDIMrnPhIv0iCuhOqhY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joder",
         "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 149300,
       "name": "Joder",
       "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kenia Roast Yourself",
-        "url": "https://open.spotify.com/album/5nYnZHaiMCk9HohPwPG779"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 236288,
-      "name": "Kenia Roast Yourself",
-      "url": "https://open.spotify.com/track/3Z3cDIMrnPhIv0iCuhOqhY"
     },
     {
       "added_at": null,

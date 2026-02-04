@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0qc4BFxcwRFZfevTck4fOi">Fakemink</a>
 
-2,685 songs - 4 day 22 hr 37 min
+2,686 songs - 4 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -861,7 +861,7 @@
 | [Frenzy](https://open.spotify.com/track/3PsnfhVFH0oTAUoOAomNlD) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Frenzy](https://open.spotify.com/album/3fQBWEl9ZczvIT6Zrxec3A) | 2:48 | 2024-06-24 | 2024-07-13 |
 | [Fried Chicken](https://open.spotify.com/track/5guUl9Zfbu128QHqEiEosf) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Fried Chicken](https://open.spotify.com/album/6rKaUAPbKevOKhoKA7b3oF) | 2:40 | 2025-10-10 | 2025-10-25 |
 | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/track/1HmpFowQR9dq4wzNdfzmnY) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/album/6tKVKWZYZ9zqwUC6qBU8r5) | 2:51 | 2025-09-05 |  |
-| [From The Back](https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Is Bankroll?](https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap) | 2:11 | 2025-12-05 |  |
+| [From The Back](https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Is Bankroll?](https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap) | 2:11 | 2025-12-05 | 2026-02-04 |
 | [From The Bottom](https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 2:02 | 2025-11-21 |  |
 | [Frozen](https://open.spotify.com/track/4TZxTK5bGS8dxjLTjcQsxx) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Frozen](https://open.spotify.com/album/0Qql7tnjwxJ4Lpmy8H3Uwl) | 2:45 | 2022-08-05 | 2022-08-20 |
 | [Fruit Loop](https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fruit Loop](https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg) | 2:17 | 2023-07-28 | 2023-09-09 |
@@ -2447,6 +2447,7 @@
 | [Tweet Bird \(Never Broke Again feat\. YoungBoy Never Broke Again, Rojay MLP, Meechy Baby, P Yungin, Rjae\)](https://open.spotify.com/track/6UZWeRythuGsvnqrwgcj2v) | [Never Broke Again](https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rojay MLP](https://open.spotify.com/artist/555MqZGSQCqBmLLLFUjsPl), [Meechy Baby](https://open.spotify.com/artist/6QtIrsfiHbIToOfsCllNxv), [P Yungin](https://open.spotify.com/artist/2kxNIMdmDtVtHDAWluq0eN), [Rjae](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Tweet Bird \(Never Broke Again feat.YoungBoy Never Broke Again, Rojay MLP, Meechy Baby, P Yungin, Rjae\)](https://open.spotify.com/album/4YdoHez1RJ5NPlSgRraKfz) | 3:20 | 2021-11-19 | 2022-02-05 |
 | [Twerkin Wit Ya Friends](https://open.spotify.com/track/1SMzMtlnawoUV6ssFd7rZ7) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ) | [Twerkin Wit Ya Friends](https://open.spotify.com/album/1pXzPq1OwY2mIw1pvDvIt0) | 2:40 | 2025-01-21 | 2025-05-03 |
 | [Twice](https://open.spotify.com/track/1U3yhXFRHwA26jOsjFT6s3) | [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [Still Goin the Ep](https://open.spotify.com/album/5813mvSLIjJy3Edczrxe6O) | 2:14 | 2025-11-07 |  |
+| [twin towers](https://open.spotify.com/track/0Kyrgo5KTDVNx05iGkwz0Q) | [TopOppGen](https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye) | [kalon](https://open.spotify.com/album/7fjFbF6nXSnGszGPrEpPE4) | 3:44 | 2026-02-03 |  |
 | [Twisting Fingers \(with Moneybagg Yo\)](https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:06 | 2024-03-01 | 2025-03-22 |
 | [Typa](https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Typa](https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY) | 2:04 | 2025-06-06 | 2025-12-06 |
 | [Type A N\*\*\*a](https://open.spotify.com/track/2E5JwQRxlWVKs7OjRbMyFQ) | [Nino Breeze](https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Type A N\*\*\*a](https://open.spotify.com/album/7ixz0AWnSc5jyadYwmebkU) | 4:06 | 2024-09-20 | 2025-03-01 |

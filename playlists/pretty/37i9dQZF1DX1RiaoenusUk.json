@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 34462,
+  "num_followers": 34476,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-01-16 03:00:26",
       "album": {
+        "name": "Groovin' Bohemia",
+        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
+      },
+      "artists": [
+        {
+          "name": "Groovin' Bohemia",
+          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
+        }
+      ],
+      "duration_ms": 445089,
+      "name": "Ameba",
+      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
+    },
+    {
+      "added_at": "2026-01-16 03:00:26",
+      "album": {
         "name": "El Jard\u00edn de los Siguientes",
         "url": "https://open.spotify.com/album/2hCERihqGjGe0gz68WxI2D"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 220752,
       "name": "Vos No",
       "url": "https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol"
-    },
-    {
-      "added_at": "2026-01-16 03:00:26",
-      "album": {
-        "name": "Groovin' Bohemia",
-        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
-      },
-      "artists": [
-        {
-          "name": "Groovin' Bohemia",
-          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
-        }
-      ],
-      "duration_ms": 445089,
-      "name": "Ameba",
-      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
     },
     {
       "added_at": "2026-01-16 03:00:26",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-01-16 03:00:26",
       "album": {
-        "name": "Peluche Peligroso",
-        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
-      },
-      "artists": [
-        {
-          "name": "Acus",
-          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
-        },
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
-        }
-      ],
-      "duration_ms": 227221,
-      "name": "La Buena Vida",
-      "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
-    },
-    {
-      "added_at": "2026-01-16 03:00:26",
-      "album": {
         "name": "Baba",
         "url": "https://open.spotify.com/album/3fyQsRwHWt4G4Tx8VTa3SN"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 235836,
       "name": "Baba",
       "url": "https://open.spotify.com/track/3pvpIE1dcLrYhYex0CUKxA"
+    },
+    {
+      "added_at": "2026-01-16 03:00:26",
+      "album": {
+        "name": "Peluche Peligroso",
+        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
+      },
+      "artists": [
+        {
+          "name": "Acus",
+          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
+        },
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+        }
+      ],
+      "duration_ms": 227221,
+      "name": "La Buena Vida",
+      "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
     },
     {
       "added_at": "2026-01-16 03:00:26",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-01-16 03:00:26",
       "album": {
-        "name": "Puerta Abierta",
-        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
-      },
-      "artists": [
-        {
-          "name": "DARUMAS",
-          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
-        }
-      ],
-      "duration_ms": 171788,
-      "name": "Puerta Abierta",
-      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
-    },
-    {
-      "added_at": "2026-01-16 03:00:26",
-      "album": {
         "name": "Bienvenidos al Presente",
         "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 259880,
       "name": "Bienvenidos al Presente",
       "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
+    },
+    {
+      "added_at": "2026-01-16 03:00:26",
+      "album": {
+        "name": "Puerta Abierta",
+        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 171788,
+      "name": "Puerta Abierta",
+      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
     },
     {
       "added_at": "2026-01-16 03:00:26",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-01-16 03:00:26",
       "album": {
+        "name": "Aeronave",
+        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
+      },
+      "artists": [
+        {
+          "name": "Aeronave",
+          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "Aeronave",
+      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
+    },
+    {
+      "added_at": "2026-01-16 03:00:26",
+      "album": {
         "name": "Peluche Peligroso",
         "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 266203,
       "name": "Mi Propio Para\u00edso",
       "url": "https://open.spotify.com/track/3JYUCQOHCkbvnZLZjpRQxc"
-    },
-    {
-      "added_at": "2026-01-16 03:00:26",
-      "album": {
-        "name": "Aeronave",
-        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
-      },
-      "artists": [
-        {
-          "name": "Aeronave",
-          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "Aeronave",
-      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
     },
     {
       "added_at": "2026-01-16 03:00:26",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-01-16 03:00:26",
       "album": {
-        "name": "Espacios",
-        "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
-      },
-      "artists": [
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        },
-        {
-          "name": "Dinast\u00eda",
-          "url": "https://open.spotify.com/artist/3WwVo2fYI0tf6G32a0qQFF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Debilidad",
-      "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
-    },
-    {
-      "added_at": "2026-01-16 03:00:26",
-      "album": {
         "name": "Entr\u00e9gate",
         "url": "https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 223038,
       "name": "Entr\u00e9gate",
       "url": "https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY"
+    },
+    {
+      "added_at": "2026-01-16 03:00:26",
+      "album": {
+        "name": "Espacios",
+        "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
+      },
+      "artists": [
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        },
+        {
+          "name": "Dinast\u00eda",
+          "url": "https://open.spotify.com/artist/3WwVo2fYI0tf6G32a0qQFF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Debilidad",
+      "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
     },
     {
       "added_at": "2026-01-16 03:00:26",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-01-16 03:00:26",
       "album": {
-        "name": "Get Porn",
-        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
-      },
-      "artists": [
-        {
-          "name": "Free Anguila",
-          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
-        }
-      ],
-      "duration_ms": 343362,
-      "name": "Get Porn",
-      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
-    },
-    {
-      "added_at": "2026-01-16 03:00:26",
-      "album": {
         "name": "Nada Ser\u00eda Igual",
         "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 203056,
       "name": "Nada Ser\u00eda Igual",
       "url": "https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0"
+    },
+    {
+      "added_at": "2026-01-16 03:00:26",
+      "album": {
+        "name": "Get Porn",
+        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
+      },
+      "artists": [
+        {
+          "name": "Free Anguila",
+          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
+        }
+      ],
+      "duration_ms": 343362,
+      "name": "Get Porn",
+      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
     },
     {
       "added_at": "2026-01-16 03:00:26",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-01-16 03:00:26",
       "album": {
-        "name": "SuperActivo",
-        "url": "https://open.spotify.com/album/5svWSbY01Vl1THBqEIeJu8"
-      },
-      "artists": [
-        {
-          "name": "Papanegro",
-          "url": "https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm"
-        }
-      ],
-      "duration_ms": 195186,
-      "name": "Cortentrete",
-      "url": "https://open.spotify.com/track/76feuT8zpM7EA0C6l8ZEVp"
-    },
-    {
-      "added_at": "2026-01-16 03:00:26",
-      "album": {
         "name": "Fiestas en las Nubes",
         "url": "https://open.spotify.com/album/0Tiz6OfXDDjzRoGxvjKa9A"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 162624,
       "name": "Fiestas en las Nubes",
       "url": "https://open.spotify.com/track/0so8JhqmYKVsUufgewIASn"
+    },
+    {
+      "added_at": "2026-01-16 03:00:26",
+      "album": {
+        "name": "SuperActivo",
+        "url": "https://open.spotify.com/album/5svWSbY01Vl1THBqEIeJu8"
+      },
+      "artists": [
+        {
+          "name": "Papanegro",
+          "url": "https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm"
+        }
+      ],
+      "duration_ms": 195186,
+      "name": "Cortentrete",
+      "url": "https://open.spotify.com/track/76feuT8zpM7EA0C6l8ZEVp"
     },
     {
       "added_at": "2026-01-16 03:00:26",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-01-16 03:00:26",
       "album": {
-        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
-        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
-      },
-      "artists": [
-        {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
-        }
-      ],
-      "duration_ms": 261613,
-      "name": "Funkybar\u00edtico",
-      "url": "https://open.spotify.com/track/76XBnA6HsX3L4tGrx8ZBrE"
-    },
-    {
-      "added_at": "2026-01-16 03:00:26",
-      "album": {
         "name": "7 Am",
         "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 239387,
       "name": "7 Am",
       "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
+    },
+    {
+      "added_at": "2026-01-16 03:00:26",
+      "album": {
+        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
+        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
+      },
+      "artists": [
+        {
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+        }
+      ],
+      "duration_ms": 261613,
+      "name": "Funkybar\u00edtico",
+      "url": "https://open.spotify.com/track/76XBnA6HsX3L4tGrx8ZBrE"
     },
     {
       "added_at": "2026-01-16 03:00:26",

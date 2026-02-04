@@ -4,7 +4,7 @@
 
 > Playlist
 
-629 songs - 1 day 13 hr 17 min
+630 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [Who Woulda Thought, Pt\. II](https://open.spotify.com/track/5UqVfjbQyKdgco2YA9LjfK) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 3:31 | 2023-10-25 |  |
 | [Why Are You Crying?](https://open.spotify.com/track/3ACWcSWj1F0FwRZBuUxUWy) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA) | [Caramel](https://open.spotify.com/album/1TD2nV7Pp2xwLNE2W413CS) | 5:24 | 2023-12-11 |  |
 | [Why Don't You Come Right Here](https://open.spotify.com/track/7szOP4eu6Kq0bBiGfVMo5l) | [Echo Frame](https://open.spotify.com/artist/0GmTtKJyLs8HQitzFWXlOi) | [Why Don't You Come Right Here](https://open.spotify.com/album/47AKvbtUHDa14JU26QiQHa) | 3:22 | 2023-10-25 |  |
+| [Window](https://open.spotify.com/track/6aEkKd66Ik1zyVEBSMomK2) | [DNCR](https://open.spotify.com/artist/5vtbcOgk8iFe6LF2paSK2u) | [Window](https://open.spotify.com/album/1q1GEYLNeJzXBXzINilLhh) | 2:59 | 2026-02-03 |  |
 | [Window](https://open.spotify.com/track/3ssZ8nSYS4eAuqeZWXBvHC) | [Dook Walt Jr.](https://open.spotify.com/artist/3FdI5s1SLRNYNNS7yO3vMV) | [15Th Floor](https://open.spotify.com/album/3uc2UzR3TBTkZGthcr2Zke) | 4:00 | 2023-10-25 |  |
 | [Wisteria](https://open.spotify.com/track/4jczbQWvjNpABOXLG4qDYy) | [Fellini Félin](https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh) | [Wisteria](https://open.spotify.com/album/6HJ7eRxH80V65lZlIcKyEc) | 5:55 | 2023-10-25 |  |
 | [Withorwithout](https://open.spotify.com/track/1Avnd5xLg7HmaNofmYk7RQ) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:25 | 2023-10-25 |  |

@@ -950,7 +950,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 480000,
       "name": "7ELMET ADO 7",
       "url": "https://open.spotify.com/track/4DyKrsE5szRRY1RI5RPnNu"
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 175390,
       "name": "Atiteha l'amour \u0639\u0637\u064a\u062a\u0647\u0627",
       "url": "https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz"
@@ -4242,7 +4242,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 159661,
       "name": "Belbala",
       "url": "https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855"
@@ -4834,7 +4834,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "boh\u00e8me",
       "url": "https://open.spotify.com/track/2cUoF6XU7X7pXVYJ8bHaxX"
@@ -10426,7 +10426,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 186502,
       "name": "D\u00e9sert",
       "url": "https://open.spotify.com/track/2cbgw1iPeK7dMbOnhD9e8y"
@@ -16232,7 +16232,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 182535,
       "name": "Jedi ou Jedek",
       "url": "https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE"
@@ -32547,6 +32547,24 @@
     },
     {
       "album": {
+        "name": "SILENT BATTLES",
+        "url": "https://open.spotify.com/album/4YYVqtKRTFNA5ORSC9tRmY"
+      },
+      "artists": [
+        {
+          "name": "ELHAFIDY",
+          "url": "https://open.spotify.com/artist/3GJvh5FBiMYYwvQW28SWng"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "T3EQDNA",
+      "url": "https://open.spotify.com/track/5FXzuIVsWsm1etUoohqXNc"
+    },
+    {
+      "album": {
         "name": "Ta7t Jna7i",
         "url": "https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN"
       },
@@ -34136,7 +34154,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 205846,
       "name": "Trap Roumi V2",
       "url": "https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9"

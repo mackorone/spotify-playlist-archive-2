@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124388,
+  "num_followers": 124381,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVEuRNFsS+M+vF38t0aOnxtk0vyMwt",
+  "snapshot_id": "AAAVFN3bEEvFwXh+cVReDtPludKxOsmr",
   "tracks": [
+    {
+      "added_at": "2026-02-03 14:49:19",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/24fQQNYmY6vjksnejWtLVg"
+      },
+      "artists": [
+        {
+          "name": "Grafine",
+          "url": "https://open.spotify.com/artist/7shbsWIKV1TD2NSKbwVIyV"
+        }
+      ],
+      "duration_ms": 162781,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/75Y2PGippgYU4SzuPhiM9v"
+    },
     {
       "added_at": "2026-02-02 17:19:35",
       "album": {
@@ -1095,118 +1111,6 @@
       "duration_ms": 199374,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1Las5DREvBQtqeoYdfgtk3"
-    },
-    {
-      "added_at": "2025-11-03 16:56:39",
-      "album": {
-        "name": "Don't Let Me Down (Remixes)",
-        "url": "https://open.spotify.com/album/6KDoxtsp3kGaBUoBylyvwY"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Julienne By",
-          "url": "https://open.spotify.com/artist/4aUyfJwzLfhVjBUIYmGsg5"
-        },
-        {
-          "name": "Synergy",
-          "url": "https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK"
-        }
-      ],
-      "duration_ms": 160010,
-      "name": "Don't Let Me Down - Synergy Remix",
-      "url": "https://open.spotify.com/track/3G3jt43udnltHDL3Tksc3P"
-    },
-    {
-      "added_at": "2025-10-31 16:38:47",
-      "album": {
-        "name": "Reaper",
-        "url": "https://open.spotify.com/album/5cj5DvPTrjmyUdEAjP7ncs"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Andrea Botez",
-          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
-        }
-      ],
-      "duration_ms": 134709,
-      "name": "Reaper",
-      "url": "https://open.spotify.com/track/3ZnCyiqwAl363opX2higcX"
-    },
-    {
-      "added_at": "2025-10-30 12:59:52",
-      "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/5EiAG62doKVGzLr0s6HF3T"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/3uvVRyy1yGLn7j3b5IzF1P"
-    },
-    {
-      "added_at": "2025-10-29 15:39:48",
-      "album": {
-        "name": "On Lock",
-        "url": "https://open.spotify.com/album/1WBMCfa1zj68UBeWS6DLLq"
-      },
-      "artists": [
-        {
-          "name": "Dirtyphonics",
-          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
-        },
-        {
-          "name": "IVORY",
-          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "On Lock",
-      "url": "https://open.spotify.com/track/62YgrGZTw1c20Juoy7kFUZ"
-    },
-    {
-      "added_at": "2025-10-28 14:17:25",
-      "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/3RFCEn1aEh75UvlNpM9CXX"
-      },
-      "artists": [
-        {
-          "name": "Stendahl",
-          "url": "https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo"
-        }
-      ],
-      "duration_ms": 153936,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/2bbjDrZw5OsRy3wtqmfO1N"
-    },
-    {
-      "added_at": "2025-10-27 14:45:00",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/16zfXqBtQUAursvZliH6y0"
-      },
-      "artists": [
-        {
-          "name": "F.O.O.L",
-          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
-        }
-      ],
-      "duration_ms": 262971,
-      "name": "The Future",
-      "url": "https://open.spotify.com/track/6k7pq4LF7pLq7rgAqwgYGt"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

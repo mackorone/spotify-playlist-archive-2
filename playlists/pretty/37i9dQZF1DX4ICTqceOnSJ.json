@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 413449,
+  "num_followers": 413459,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
         }
       ],
-      "duration_ms": 337453,
-      "name": "All\u00ed donde sol\u00edamos gritar",
-      "url": "https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv"
+      "duration_ms": 231160,
+      "name": "Club de fans de John Boy",
+      "url": "https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
         }
       ],
-      "duration_ms": 231160,
-      "name": "Club de fans de John Boy",
-      "url": "https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ"
+      "duration_ms": 337453,
+      "name": "All\u00ed donde sol\u00edamos gritar",
+      "url": "https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
-        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Tijuana Sound Machine",
-      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Santacruz",
         "url": "https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 286920,
       "name": "De las Dudas Infinitas",
       "url": "https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
+        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Tijuana Sound Machine",
+      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "El Fin del Mundo",
-        "url": "https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN"
-      },
-      "artists": [
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        },
-        {
-          "name": "Axolotes Mexicanos",
-          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "El Fin del Mundo",
-      "url": "https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "LA FORMA DE TUS HUESOS",
         "url": "https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 203796,
       "name": "Qu\u00e9 Vida Tan Dura",
       "url": "https://open.spotify.com/track/6G64bXQenyGECXByr6V0jC"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "El Fin del Mundo",
+        "url": "https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN"
+      },
+      "artists": [
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        },
+        {
+          "name": "Axolotes Mexicanos",
+          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "El Fin del Mundo",
+      "url": "https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Teoria Espacial",
-        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 230833,
-      "name": "Teoria Espacial",
-      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Rebeldes",
         "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 261066,
       "name": "Como puedes vivir contigo mismo",
       "url": "https://open.spotify.com/track/5YZCCj6u01kiuRFZWu0Pjk"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Teoria Espacial",
+        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 230833,
+      "name": "Teoria Espacial",
+      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "O Marineros",
+        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 222242,
+      "name": "El Lado Oscuro de Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4i2Yg55oDJdPLZtg01nwRi"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 268280,
       "name": "Adelante",
       "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "O Marineros",
-        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 222242,
-      "name": "El Lado Oscuro de Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4i2Yg55oDJdPLZtg01nwRi"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+        "name": "ENCHASTRE",
+        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
         }
       ],
-      "duration_ms": 295800,
-      "name": "Pesadilla",
-      "url": "https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM"
+      "duration_ms": 209226,
+      "name": "PUEDE SER",
+      "url": "https://open.spotify.com/track/71bO0OsW7odKFhbjrHwM8C"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "ENCHASTRE",
-        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
       "artists": [
         {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 209226,
-      "name": "PUEDE SER",
-      "url": "https://open.spotify.com/track/71bO0OsW7odKFhbjrHwM8C"
+      "duration_ms": 295800,
+      "name": "Pesadilla",
+      "url": "https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Mtv Unplugged",
-        "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 230346,
-      "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
-      "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Cuesti\u00f3n De Suerte",
         "url": "https://open.spotify.com/album/7J8jJvOHBMGDHeOT7Lc15t"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 193787,
       "name": "Cuesti\u00f3n De Suerte",
       "url": "https://open.spotify.com/track/6TRRirUyyil4IbMcZLFQff"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Mtv Unplugged",
+        "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 230346,
+      "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
+      "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Calidosound",
-        "url": "https://open.spotify.com/album/02jSWAxa0OgylMZkHApDyj"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        }
-      ],
-      "duration_ms": 226880,
-      "name": "Te Lastim\u00e9",
-      "url": "https://open.spotify.com/track/29ewalVPcrRF03aTtWvD9z"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Mediocre [Edici\u00f3n Especial]",
         "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
@@ -1663,18 +1647,38 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Who Me?",
-        "url": "https://open.spotify.com/album/03AalHNXM2fBTryvQGw8lA"
+        "name": "Franco (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1KwfATAKqo1JKJtlflgkGj"
       },
       "artists": [
         {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        },
+        {
+          "name": "Adrian Dargelos",
+          "url": "https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg"
         }
       ],
-      "duration_ms": 156563,
-      "name": "Todo Termin\u00f3",
-      "url": "https://open.spotify.com/track/5BeLLbwf4RUDccIVdzjuIh"
+      "duration_ms": 204888,
+      "name": "El Destino",
+      "url": "https://open.spotify.com/track/7deEXsuLC8Teu0MHiwr3V0"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Calidosound",
+        "url": "https://open.spotify.com/album/02jSWAxa0OgylMZkHApDyj"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        }
+      ],
+      "duration_ms": 226880,
+      "name": "Te Lastim\u00e9",
+      "url": "https://open.spotify.com/track/29ewalVPcrRF03aTtWvD9z"
     }
   ],
   "unique_name": "Lo Mejor del Indie Latino  ",

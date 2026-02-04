@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,182 likes - 196 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,347 likes - 196 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 3 | [Give Me Everything \- Stripped](https://open.spotify.com/track/5OSCWSmHCaVD8KpMDRsMzX) | [Archer Marsh](https://open.spotify.com/artist/74rnJF4h8ScpbyEhLholBg) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 2:12 |
 | 4 | [Espresso](https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Espresso](https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx) | 2:55 |
 | 5 | [BIRDS OF A FEATHER](https://open.spotify.com/track/19PMNa4BwoSyZu8EUvxafW) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Portraits \(Popular Songs for Cello\)](https://open.spotify.com/album/5bOwnUAh0rvfcsgCeEYsmw) | 4:29 |
-| 6 | [DJ Got Us Falling In Love](https://open.spotify.com/track/2EOTuQRTwNaqzyg9CAhzZr) | [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 3:22 |
+| 6 | [DJ Got US Fallin’ In Love](https://open.spotify.com/track/2EOTuQRTwNaqzyg9CAhzZr) | [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 3:22 |
 | 7 | [Die With A Smile \(Arr\. Stephan Moccio for Piano\)](https://open.spotify.com/track/2YnBcjJQgyUs7rxFPybRdw) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Die With A Smile](https://open.spotify.com/album/6YBuNOlcydkYgIclXuu4YF) | 5:06 |
 | 8 | [What Was I Made For? \(from "Barbie"\)](https://open.spotify.com/track/2BaHD2OcWV9R8Lz4v7t8N7) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [What Was I Made For? \(from "Barbie"\)](https://open.spotify.com/album/7whqDx4K2CC2wB3WnThTyT) | 3:44 |
 | 9 | [Defying Gravity \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/2z1Ei4i5Oub3L9xLFViN3h) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [Defying Gravity \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/3F4Uiv9uOdJaRKgzH6B9Z1) | 2:46 |

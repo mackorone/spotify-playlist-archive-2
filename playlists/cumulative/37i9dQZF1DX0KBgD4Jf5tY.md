@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:5FqDKPJK3RSwGTW4rlBJFM">GIIN</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:6b31ELclyhNhTZH2plrLYI">Noah Baine</a> in cover.
 
-2,081 songs - 4 day 7 hr 16 min
+2,087 songs - 4 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [\(Bi\)sogno](https://open.spotify.com/track/38imCWBw4ljDG5zLRSuJQY) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [\(Bi\)sogno](https://open.spotify.com/album/7mN3GysRao07bFE9RRWH5i) | 2:06 | 2024-05-23 | 2024-06-19 |
 | [\(Tocco La\) Ruggine](https://open.spotify.com/track/0zNFH1uK1ziif3Kg0CRO0u) | [RADICEDIDUE](https://open.spotify.com/artist/3a5hMHdMdc3iBI4xG1Kyyh), [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [\(Tocco La\) Ruggine](https://open.spotify.com/album/7a4JIxInSl65H3jWWFGvGu) | 2:36 | 2023-05-24 | 2023-06-15 |
 | [+ Gatto ␥](https://open.spotify.com/track/6EURiUwW3f08bpSSiQRFUO) | [Alberi Alti](https://open.spotify.com/artist/1I7RPyc2iQvqwHX1XDymUf) | [Mi Prometti Che Starai Bene ? ⍋](https://open.spotify.com/album/2KZnJoFc8hoPCBEfdABsA5) | 2:40 | 2024-03-20 | 2024-04-24 |
+| [+++rotto](https://open.spotify.com/track/0lIuPM1AANeqa0KE8lSf0T) | [GIMA](https://open.spotify.com/artist/2mWd2GZ0OtmKom3LSqvjcH) | [+++rotto](https://open.spotify.com/album/5Q7hFzq7Vl4CVSbl1ovsaZ) | 3:49 | 2026-02-03 |  |
 | [..\. per chi non muore](https://open.spotify.com/track/74BGv8M4947ugt1xcQtYsK) | [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [..\. per chi non muore](https://open.spotify.com/album/5XAffghy7rYiBe0zosXeim) | 3:23 | 2023-03-16 | 2023-04-19 |
 | [.cenere](https://open.spotify.com/track/4VhfCuUVbNOS9zpLMCUv7Y) | [.ANAMIRTA](https://open.spotify.com/artist/152NNCTZGUSRhS2geGSN4n) | [.cenere](https://open.spotify.com/album/4J1KwARJ9A7sioJiQyXBiO) | 2:47 | 2022-05-19 | 2022-07-08 |
 | [.individui](https://open.spotify.com/track/3t2LvOTmxM5ap16sBQh4Jj) | [.ANAMIRTA](https://open.spotify.com/artist/152NNCTZGUSRhS2geGSN4n) | [.individui](https://open.spotify.com/album/4sbMMOMDjIXT46Vtuu4vVK) | 2:50 | 2023-10-10 | 2023-11-08 |
@@ -129,6 +130,7 @@
 | [ALTA INTENSITÀ](https://open.spotify.com/track/2O0lKlqnE8am2qWAa2V1Za) | [Miscela](https://open.spotify.com/artist/03w7n56YXEN6iFKtwLPwBN) | [ALTA INTENSITÀ](https://open.spotify.com/album/1Zuabgu1aYiuckEtyJbAFm) | 2:41 | 2025-11-18 | 2025-12-17 |
 | [ALTALENA](https://open.spotify.com/track/5DMuQ5oYNrcIGSEodNJKMU) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq) | [ALTALENA](https://open.spotify.com/album/3TaZgJGHC0w8fHnhrR94Ya) | 2:24 | 2024-01-24 | 2024-02-22 |
 | [Altar of Love](https://open.spotify.com/track/3cBrcj7y4bxf28L248hchQ) | [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Altar of Love](https://open.spotify.com/album/0sNyVY1V8HcZCIp4MIQ5Fr) | 4:20 | 2022-05-19 | 2022-06-03 |
+| [Altomare](https://open.spotify.com/track/7KECrE85Ki9lcUGNU3Uvd4) | [Salomèe](https://open.spotify.com/artist/1KlD1JXtUV44n7tdzmiXit) | [Altomare](https://open.spotify.com/album/3WNRX5w4wzDdVhr4UTZXly) | 2:46 | 2026-02-03 |  |
 | [ALTROVE](https://open.spotify.com/track/6yexMl833gdlaT6sYCDkGq) | [BUGIE](https://open.spotify.com/artist/1L8dgysW2H5AID6gM6Ygpy), [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [ALTROVE](https://open.spotify.com/album/24DL4QUNKs94VrcKCGVDQK) | 3:09 | 2025-12-02 | 2026-01-15 |
 | [Ama Dee \(luna piena\)](https://open.spotify.com/track/3s8PNbBju5JbOS7cHiFgw3) | [Ama Dee](https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y) | [Ama Dee \(luna piena\)](https://open.spotify.com/album/6EvtGIGPJp23dy4PX5IO48) | 3:01 | 2025-09-30 | 2025-11-05 |
 | [Amarena](https://open.spotify.com/track/1ZYOIvvDNX37rRpLpGYgJv) | [Ehua](https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50) | [Amarena](https://open.spotify.com/album/7KDKo5tOEVJGsDvaMptE1e) | 3:45 | 2025-04-22 | 2025-06-25 |
@@ -605,6 +607,7 @@
 | [ESAGERO EMOZIONI](https://open.spotify.com/track/4LwFRgfMW5LCStueaVtGh8) | [FDP](https://open.spotify.com/artist/5vX1tbFG6NuGSbwWO420JO), [Zerbo](https://open.spotify.com/artist/3cxzA1W08BBDKlAtVG09Zg) | [ESAGERO EMOZIONI](https://open.spotify.com/album/5PPlMx6qAuRLiIm8IEYpqJ) | 3:30 | 2022-05-19 | 2022-06-03 |
 | [Eschimesi](https://open.spotify.com/track/5G3T5ETovffghUBQJPptEr) | [Serepocaiontas](https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2) | [Eschimesi](https://open.spotify.com/album/30gRbR1k9vGXG83zoNYBQD) | 3:45 | 2022-11-08 | 2022-12-01 |
 | [Esisto Ancora](https://open.spotify.com/track/468bWQm81GJ1vvjnsrR2US) | [Barberini](https://open.spotify.com/artist/2jOreV30iFYcXc8qEzt9yH) | [Esisto Ancora](https://open.spotify.com/album/1YdHQQlkZNTh5z7AiNo2Ns) | 3:35 | 2023-11-14 | 2024-01-25 |
+| [Esquisito River](https://open.spotify.com/track/16HGLBTpgw5VKclztUUayG) | [Lovvbömbing!](https://open.spotify.com/artist/2fCM484FPEFRbjqqpU1sjt) | [PISS! PEAS! PEACE!](https://open.spotify.com/album/1JQEawqqWequOQOz2i72HZ) | 2:52 | 2026-02-03 |  |
 | [Essenza](https://open.spotify.com/track/5xADrSIePmpyiyAhY2zJBF) | [Rome in Reverse](https://open.spotify.com/artist/0un9O9ADCaIEERGvcZLoxM), [INTOTHEVOID](https://open.spotify.com/artist/4FYLVQGKQn5RIycdpzZtlj) | [Essenza](https://open.spotify.com/album/66CkQ2LrTlnXo452FPESx3) | 5:14 | 2023-07-12 | 2023-08-16 |
 | [Essenza blu](https://open.spotify.com/track/0x9XvxqYX6fE9AX7lFLH9J) | [Giulia Malavasi](https://open.spotify.com/artist/0Hx96SC5Ez0TKdTJy5WT5L) | [Essenza blu](https://open.spotify.com/album/1NEuRvZyIBEf1A39CDe0GX) | 2:35 | 2023-01-26 | 2023-03-03 |
 | [Essenziale](https://open.spotify.com/track/572k0Y1k4tN1sr7RqWEyFK) | [Ttima](https://open.spotify.com/artist/7dAvuVlOZueJ2V8dwuBy6I) | [Essenziale](https://open.spotify.com/album/3hQ1KkmPwUYbJWg6vYttBw) | 1:17 | 2024-04-23 | 2024-05-24 |
@@ -942,6 +945,7 @@
 | [La fine del mondo](https://open.spotify.com/track/4LYJ2qEmtKjKfrmHzXylgT) | [ioemeg](https://open.spotify.com/artist/1iAww5f7OY85PWZiYGgYxE) | [La fine del mondo](https://open.spotify.com/album/6k7hUTVX0iXDIn0aks8tOj) | 2:57 | 2024-03-20 | 2024-04-24 |
 | [La fine di un'estate](https://open.spotify.com/track/5vUOIgQoBerlb2IoHVE5fI) | [Serepocaiontas](https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2) | [La fine di un'estate](https://open.spotify.com/album/0Jhs4ybM2uvyo7Y7SC4HAy) | 2:51 | 2024-01-24 | 2024-02-22 |
 | [La forma mutevole della perfezione](https://open.spotify.com/track/2A66Vkewxh46W3uCCN9XF9) | [Malmö](https://open.spotify.com/artist/6dHFhxw5uxV8SJtOmwbb3q) | [La forma mutevole della perfezione](https://open.spotify.com/album/3ia1ux1iRA3LPjfUKNMScf) | 3:02 | 2024-06-18 | 2024-07-19 |
+| [La Luna e Saturno](https://open.spotify.com/track/3VG7q4z6Ou7AR1hK1FTzta) | [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Stella \| La Luna e Saturno](https://open.spotify.com/album/1Opi9oTsKLVZi4Svo4S4yE) | 3:16 | 2026-02-03 |  |
 | [La Mappa](https://open.spotify.com/track/36fOYS1iO2L1iKkq4zVgaG) | [Leo Fulcro](https://open.spotify.com/artist/2DNRcOVx4Av8wuZsLGp9Wj) | [La Mappa](https://open.spotify.com/album/5f9ng5e24rrBZPEIxYCiXp) | 3:31 | 2023-03-16 | 2023-05-03 |
 | [La mia rotta](https://open.spotify.com/track/2ppLw5WuekuWJdIF50QwgS) | [letteredistrada](https://open.spotify.com/artist/3kTQPUH3D8Deb9OM9GerEG) | [La mia rotta](https://open.spotify.com/album/3AQeqScxxa2TrRUNvtGR01) | 3:02 | 2024-06-18 | 2024-07-19 |
 | [LA MIRA](https://open.spotify.com/track/6NR40cS5yIB6opWZxE100K) | [emilianoakario](https://open.spotify.com/artist/6FAlvEp5DpXRSGN9GOe8l1) | [LA MIRA](https://open.spotify.com/album/6pfHdC2BDZ0ejnngLCs6No) | 3:06 | 2025-06-10 | 2025-07-02 |
@@ -1616,6 +1620,7 @@
 | [salotto](https://open.spotify.com/track/2WEryN0GzAwGdwbr2Fb3rO) | [Mariangela Tria](https://open.spotify.com/artist/1cNCpk5ae58rvv9lhGqotR) | [salotto](https://open.spotify.com/album/4rRug7Wi12XXlxP8TJb9WX) | 3:13 | 2022-10-14 | 2022-11-11 |
 | [Salto Nel Vuoto](https://open.spotify.com/track/74vDsrQLOSFYovmEdMpev5) | [NUBIARSE](https://open.spotify.com/artist/7KYEK9g2ajKzn9n0tWCxSl) | [Salto Nel Vuoto](https://open.spotify.com/album/3sHDDGwI0pgkFtvRJLl4ZG) | 3:26 | 2023-10-24 | 2023-11-23 |
 | [Salvami 2 Volte, Perfavore](https://open.spotify.com/track/2h6dGXeYgnDN3z3geWtm3L) | [Kuzu](https://open.spotify.com/artist/5uhwzozeBApn2zTs4FzDJW), [Rumo](https://open.spotify.com/artist/2N1CTTnG03y2w0XV29tS3m) | [Salvami 2 Volte, Perfavore](https://open.spotify.com/album/4fe2fMpmdcPsTJ8rZ1iqA1) | 2:51 | 2025-07-08 | 2025-08-27 |
+| [Samba Distrutta](https://open.spotify.com/track/3857YkuUSAKDQgIh2hKowM) | [Arden](https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI) | [Samba Distrutta](https://open.spotify.com/album/4qNeJL1sBFhkkyCXP6q9AA) | 2:31 | 2026-02-03 |  |
 | [San martino](https://open.spotify.com/track/3npWHMF0TxorbX74e3cL6B) | [Neemo](https://open.spotify.com/artist/3YOr6AD6fTRbSqG7Acys0B) | [San martino](https://open.spotify.com/album/2lXUeEEdQCNoALm7872kJ4) | 2:49 | 2023-01-05 | 2023-01-20 |
 | [Sangue Amaro](https://open.spotify.com/track/02FIr9g30oCZSU2q8OuFZ1) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [Sangue Amaro](https://open.spotify.com/album/3y9hd1w6S3PzmX93mmFP4U) | 2:37 | 2022-10-14 | 2022-12-01 |
 | [SANGUE E BENZINA](https://open.spotify.com/track/2qDizh5fGwpevQ2H88gJr3) | [Richardx](https://open.spotify.com/artist/5mEycRqxYyASYgZnaqcW9S) | [SANGUE E BENZINA](https://open.spotify.com/album/4z5kLmbVaaqwZvM5T8A7Nv) | 2:15 | 2025-07-08 | 2025-08-27 |
@@ -1655,6 +1660,7 @@
 | [Scusa se ti amo \(ma\)](https://open.spotify.com/track/5T3GUt6ef0QCE598DPwt41) | [Seltsam](https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V) | [Scusa se ti amo \(ma\)](https://open.spotify.com/album/76HBLdyKIDZQOpyJeLsscB) | 3:05 | 2023-04-18 | 2023-05-18 |
 | [Scuse](https://open.spotify.com/track/23If7giarQ3qk3Rx0AYSq6) | [44Moca](https://open.spotify.com/artist/5mE5vxk4MlRxhcAHgbPKpQ), [Nelson](https://open.spotify.com/artist/4GvQ2vmzbBgRXhjGlgYeYR) | [Scuse](https://open.spotify.com/album/6CmdaqnNkVBijCoYNveXRK) | 2:35 | 2022-04-19 | 2022-06-10 |
 | [SDM](https://open.spotify.com/track/7BwfxhDgqinbsVqeZ7wEqn) | [Keyra](https://open.spotify.com/artist/5Y0hkP4UJmxdajANUr1IoC) | [SDM](https://open.spotify.com/album/1l5TOZqVMgUtjzEgy0OFv3) | 2:20 | 2024-07-18 | 2024-08-21 |
+| [se ancora / come fai](https://open.spotify.com/track/5HBp01dVDnDZs7QvnhgDdp) | [Emanuele Malfatti](https://open.spotify.com/artist/44OosFssfvuPHChnMtNQY4) | [dalla finestra di un cortile interno](https://open.spotify.com/album/5rWnzPKI1gqENWSbiVrIvr) | 2:39 | 2026-02-03 |  |
 | [Se continuavamo così](https://open.spotify.com/track/2yppWHzqsKOPmUhtxjAMST) | [Bastian Contrario](https://open.spotify.com/artist/4EQaVYUnYZzI2x8myUbXxO) | [Se continuavamo così](https://open.spotify.com/album/7nTxzKBKA6hM5Nanv85U8S) | 4:21 | 2022-09-29 | 2022-10-15 |
 | [Se fisso il cielo](https://open.spotify.com/track/3eVAh4cZEN14nMEHrW833Y) | [Ermete Diara](https://open.spotify.com/artist/08FcAnDdDvSActXSqUbVOQ) | [Se fisso il cielo](https://open.spotify.com/album/0KYGBRR9vGwBiGOqmRiV6U) | 3:16 | 2022-05-27 | 2022-07-01 |
 | [Se le va](https://open.spotify.com/track/30C4RVLnTRYVWz56OnehPW) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Se le va](https://open.spotify.com/album/0ApqTGqCSJ4UVpxlv10Hh7) | 2:59 | 2026-01-13 |  |

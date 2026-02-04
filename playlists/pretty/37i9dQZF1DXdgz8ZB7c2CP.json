@@ -1,12 +1,12 @@
 {
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>. Featuring Kenta204.",
-  "num_followers": 841758,
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \u2728 featuring Kenta204",
+  "num_followers": 841789,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACUuKftltyauaEMll2mDa0pdZuzN",
+  "snapshot_id": "AAAAAMA+XzZvPWwiVdoTVeRTzyKnN9fJ",
   "tracks": [
     {
       "added_at": "2026-01-30 05:01:12",
@@ -175,6 +175,22 @@
       "duration_ms": 138857,
       "name": "Helium",
       "url": "https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz"
+    },
+    {
+      "added_at": "2026-02-04 02:41:11",
+      "album": {
+        "name": "Vandal EP",
+        "url": "https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX"
+      },
+      "artists": [
+        {
+          "name": "MARTHA",
+          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
+        }
+      ],
+      "duration_ms": 245273,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"
     },
     {
       "added_at": "2026-01-23 05:00:35",
@@ -349,6 +365,26 @@
       "url": "https://open.spotify.com/track/4EVJkMkeEXOpvHBRe3JO6E"
     },
     {
+      "added_at": "2026-02-04 02:41:11",
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/63rJsCyiamPWx9GoA7lpGJ"
+      },
+      "artists": [
+        {
+          "name": "HIFEELINGS",
+          "url": "https://open.spotify.com/artist/4jGVWGtlgC4jbbE0H4hLQg"
+        },
+        {
+          "name": "Wossjo",
+          "url": "https://open.spotify.com/artist/5CBv2a7eEhR5u7g4v95sgH"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/4tEqzZgjRMT7HSoIAUCynd"
+    },
+    {
       "added_at": "2026-01-16 19:10:38",
       "album": {
         "name": "HYPERMOTION",
@@ -395,6 +431,22 @@
       "duration_ms": 211200,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/4h6pqrJOddCuUzethG6MxJ"
+    },
+    {
+      "added_at": "2026-02-04 01:52:33",
+      "album": {
+        "name": "The Nightmare",
+        "url": "https://open.spotify.com/album/3OrloT39YEeutOFc0thors"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/6sORyYbJvcELvbR9qIpsOH"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -479,6 +531,22 @@
       "duration_ms": 231643,
       "name": "CARBONE",
       "url": "https://open.spotify.com/track/7MSzSzgKJYOT5YP0QkugAB"
+    },
+    {
+      "added_at": "2026-02-04 02:41:11",
+      "album": {
+        "name": "Vandal EP",
+        "url": "https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX"
+      },
+      "artists": [
+        {
+          "name": "MARTHA",
+          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
+        }
+      ],
+      "duration_ms": 262298,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/14IGqM6Pyekb2rG5me83kS"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -1103,26 +1171,6 @@
     {
       "added_at": "2026-01-16 19:10:38",
       "album": {
-        "name": "MOONBEAM",
-        "url": "https://open.spotify.com/album/3vzEthUUO82kXap15njZ9D"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "Ehiorobo",
-          "url": "https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "MOONBEAM",
-      "url": "https://open.spotify.com/track/30Irgh4fNw6HZ1iybA8H0R"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
         "name": "Pressure Point",
         "url": "https://open.spotify.com/album/6BRVXl68iVLOQWHRhTs5ar"
       },
@@ -1151,30 +1199,6 @@
       "duration_ms": 226522,
       "name": "Burn The River",
       "url": "https://open.spotify.com/track/7MNuKAnwwXu0GqEZV8TYCf"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
-        "name": "Your Mind",
-        "url": "https://open.spotify.com/album/2n8p61Ro0BVU2wCOTAhg6D"
-      },
-      "artists": [
-        {
-          "name": "Atura",
-          "url": "https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei"
-        },
-        {
-          "name": "Oscar Wallyn",
-          "url": "https://open.spotify.com/artist/7J0KMSIGpJYscqTGc6L1oN"
-        },
-        {
-          "name": "Viiq",
-          "url": "https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ"
-        }
-      ],
-      "duration_ms": 182189,
-      "name": "Your Mind",
-      "url": "https://open.spotify.com/track/2crEwjCQ4DMwvKEjIDslkj"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -1383,22 +1407,6 @@
     {
       "added_at": "2026-01-16 19:10:38",
       "album": {
-        "name": "WHAT YOU RUNNING FROM",
-        "url": "https://open.spotify.com/album/1pusgjpBUfWjH2xZj9pWdt"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "WHAT YOU RUNNING FROM",
-      "url": "https://open.spotify.com/track/0HRIt7wfVPpKIvtl5IcEKg"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
         "name": "ABOVE*GROUND",
         "url": "https://open.spotify.com/album/3upNBuKfrkhkCXPjcomuau"
       },
@@ -1603,22 +1611,6 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
-        "name": "all my exes live in brooklyn",
-        "url": "https://open.spotify.com/album/7ogj05xh3Hjh5A6cwtQXK9"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 161586,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb"
     },
     {
       "added_at": "2026-01-16 19:10:38",

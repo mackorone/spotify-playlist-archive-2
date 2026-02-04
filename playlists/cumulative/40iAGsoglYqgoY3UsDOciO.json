@@ -6501,6 +6501,24 @@
     },
     {
       "album": {
+        "name": "Purple Demons",
+        "url": "https://open.spotify.com/album/3J2T9AMIWWOHsCF7Fg1Wmg"
+      },
+      "artists": [
+        {
+          "name": "GRGP TY",
+          "url": "https://open.spotify.com/artist/1ILNmtz0YGwcyaiTpVfQn7"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126820,
+      "name": "Purple Demons",
+      "url": "https://open.spotify.com/track/2ghxwM1pORJkiivLTDIV0e"
+    },
+    {
+      "album": {
         "name": "Anestesiado",
         "url": "https://open.spotify.com/album/454t6vYuZfs6PXmzKFmMLv"
       },
@@ -8544,6 +8562,24 @@
       "duration_ms": 248866,
       "name": "Trojan Horse",
       "url": "https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2"
+    },
+    {
+      "album": {
+        "name": "True Friends",
+        "url": "https://open.spotify.com/album/6ChEwlwzpOMTLUcqjtQnQx"
+      },
+      "artists": [
+        {
+          "name": "Donkey Shots",
+          "url": "https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226250,
+      "name": "True Friends",
+      "url": "https://open.spotify.com/track/2eqtXSBIO0mya5fipLROhu"
     },
     {
       "album": {

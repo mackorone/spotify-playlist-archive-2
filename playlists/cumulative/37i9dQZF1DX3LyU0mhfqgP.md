@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Katie Tupper
+> Songs from LGBTQIA+ artists\. Cover: SENZA CRI
 
 1,687 songs - 3 day 19 hr 25 min
 

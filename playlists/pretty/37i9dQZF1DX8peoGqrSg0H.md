@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: JAOKHUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,148 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,163 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
 | 2 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 |
-| 3 | [อยู่คนเดียวยังไงไหว \(Our Time\)](https://open.spotify.com/track/7ryl96WbiU10WXCJHVQkHx) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [อยู่คนเดียวยังไงไหว \(Our Time\)](https://open.spotify.com/album/4tF1Mxe1WyMNpRmETeJz2P) | 2:55 |
+| 3 | [อยู่คนเดียวยังไงไหว \(OUR TIME\)](https://open.spotify.com/track/7ryl96WbiU10WXCJHVQkHx) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [อยู่คนเดียวยังไงไหว \(OUR TIME\)](https://open.spotify.com/album/4tF1Mxe1WyMNpRmETeJz2P) | 2:55 |
 | 4 | [แสนวิเศษ \(Gifted\) \(feat\. BLVCKHEART\)](https://open.spotify.com/track/3Xm4DmLWJ2M8btMdcW1mIJ) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [แสนวิเศษ \(Gifted\) \(feat\. BLVCKHEART\)](https://open.spotify.com/album/3b6QBlJNSCAf3MR5jEX9Wj) | 3:46 |
 | 5 | [สรุปเอาไง \(Tell Me\)](https://open.spotify.com/track/7rlvduhtbVyb4NIW7VJrtQ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [สรุปเอาไง \(Tell Me\)](https://open.spotify.com/album/4OjAL4nwyqR4k4NYnyfOsX) | 2:59 |
 | 6 | [Yours](https://open.spotify.com/track/2nhMQ5sGCQvBVlvXbaJmiH) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [Yours](https://open.spotify.com/album/5YqPF2b3Yy43HpgowDgpUx) | 3:21 |

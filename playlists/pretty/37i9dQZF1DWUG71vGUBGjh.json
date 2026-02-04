@@ -1,6 +1,6 @@
 {
   "description": "Plug your brain into a modular synthesizer analog loop.",
-  "num_followers": 124590,
+  "num_followers": 124620,
   "original_name": "MoogTube",
   "owner": {
     "name": "Spotify",
@@ -327,18 +327,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Country Moog / Nashville Gold",
-        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
+        "name": "The Unexplained",
+        "url": "https://open.spotify.com/album/5CYVndFVBDUo22RBVUXxAn"
       },
       "artists": [
         {
-          "name": "Gil Trythall",
-          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
+          "name": "Ataraxia",
+          "url": "https://open.spotify.com/artist/5kn8t9YN76msojqGv6hgIz"
+        },
+        {
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
         }
       ],
-      "duration_ms": 171546,
-      "name": "Wichita Lineman",
-      "url": "https://open.spotify.com/track/3YO2qFdxBctCfkzb5dkqCH"
+      "duration_ms": 188165,
+      "name": "The Unexplained",
+      "url": "https://open.spotify.com/track/015Sda0FAkjTY5p9ftx7qo"
     },
     {
       "added_at": "2024-06-18 16:38:44",
@@ -375,22 +379,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The Unexplained",
-        "url": "https://open.spotify.com/album/5CYVndFVBDUo22RBVUXxAn"
+        "name": "Country Moog / Nashville Gold",
+        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
       },
       "artists": [
         {
-          "name": "Ataraxia",
-          "url": "https://open.spotify.com/artist/5kn8t9YN76msojqGv6hgIz"
-        },
-        {
-          "name": "Mort Garson",
-          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+          "name": "Gil Trythall",
+          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
         }
       ],
-      "duration_ms": 188165,
-      "name": "The Unexplained",
-      "url": "https://open.spotify.com/track/015Sda0FAkjTY5p9ftx7qo"
+      "duration_ms": 171546,
+      "name": "Wichita Lineman",
+      "url": "https://open.spotify.com/track/3YO2qFdxBctCfkzb5dkqCH"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -689,20 +689,20 @@
       "url": "https://open.spotify.com/track/6l3iWMWq52eEa6sxdzSsAw"
     },
     {
-      "added_at": "2021-08-17 02:11:46",
+      "added_at": "2022-02-25 02:39:31",
       "album": {
-        "name": "Moog: The Electric Eclectics Of Dick Hyman",
-        "url": "https://open.spotify.com/album/2euTcNzWkbega5PDShQxaY"
+        "name": "The Miracles Of The Seven Dances",
+        "url": "https://open.spotify.com/album/1KyFBCRPYSggqq1IQVCkKq"
       },
       "artists": [
         {
-          "name": "Dick Hyman",
-          "url": "https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT"
+          "name": "Hany Mehanna",
+          "url": "https://open.spotify.com/artist/3h9X1RMf1TfyNGntWJZdJ2"
         }
       ],
-      "duration_ms": 185666,
-      "name": "Topless Dancers Of Corfu",
-      "url": "https://open.spotify.com/track/0Wh5Dveo8blNIfgio1Wfe7"
+      "duration_ms": 267171,
+      "name": "Badaouiah",
+      "url": "https://open.spotify.com/track/1Eu3mluKxqsUyLNmQeUi1r"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -721,36 +721,20 @@
       "url": "https://open.spotify.com/track/40gZr472mFyg9YCk8nrzwm"
     },
     {
-      "added_at": "2022-02-25 02:39:31",
+      "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The Miracles Of The Seven Dances",
-        "url": "https://open.spotify.com/album/1KyFBCRPYSggqq1IQVCkKq"
+        "name": "Moog: The Electric Eclectics Of Dick Hyman",
+        "url": "https://open.spotify.com/album/2euTcNzWkbega5PDShQxaY"
       },
       "artists": [
         {
-          "name": "Hany Mehanna",
-          "url": "https://open.spotify.com/artist/3h9X1RMf1TfyNGntWJZdJ2"
+          "name": "Dick Hyman",
+          "url": "https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT"
         }
       ],
-      "duration_ms": 267171,
-      "name": "Badaouiah",
-      "url": "https://open.spotify.com/track/1Eu3mluKxqsUyLNmQeUi1r"
-    },
-    {
-      "added_at": "2023-12-20 05:07:47",
-      "album": {
-        "name": "Available Forms",
-        "url": "https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko"
-      },
-      "artists": [
-        {
-          "name": "Tobor Experiment",
-          "url": "https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd"
-        }
-      ],
-      "duration_ms": 329870,
-      "name": "Lowpass Risotto",
-      "url": "https://open.spotify.com/track/3YA3uJEowHQbyrMzam91jJ"
+      "duration_ms": 185666,
+      "name": "Topless Dancers Of Corfu",
+      "url": "https://open.spotify.com/track/0Wh5Dveo8blNIfgio1Wfe7"
     },
     {
       "added_at": "2022-04-28 22:14:58",
@@ -767,6 +751,22 @@
       "duration_ms": 144625,
       "name": "Pencerenin Perdesini",
       "url": "https://open.spotify.com/track/614QR7JNfM0DxmHqxsufK4"
+    },
+    {
+      "added_at": "2023-12-20 05:07:47",
+      "album": {
+        "name": "Available Forms",
+        "url": "https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko"
+      },
+      "artists": [
+        {
+          "name": "Tobor Experiment",
+          "url": "https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd"
+        }
+      ],
+      "duration_ms": 329870,
+      "name": "Lowpass Risotto",
+      "url": "https://open.spotify.com/track/3YA3uJEowHQbyrMzam91jJ"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -787,6 +787,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Moog (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
+      },
+      "artists": [
+        {
+          "name": "The Moog Cookbook",
+          "url": "https://open.spotify.com/artist/6gSjljVm0yuKul0N4fgBbG"
+        }
+      ],
+      "duration_ms": 311653,
+      "name": "Bob's Funk",
+      "url": "https://open.spotify.com/track/187OL8IkLAceM1zalrCZ5Q"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "Electronic Music",
         "url": "https://open.spotify.com/album/74KIAMbeiTQcR9P49Mw0NU"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 166533,
       "name": "Song of the Second Moon",
       "url": "https://open.spotify.com/track/569fTEN94rQETqvMgOuQwU"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Moog (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
-      },
-      "artists": [
-        {
-          "name": "The Moog Cookbook",
-          "url": "https://open.spotify.com/artist/6gSjljVm0yuKul0N4fgBbG"
-        }
-      ],
-      "duration_ms": 311653,
-      "name": "Bob's Funk",
-      "url": "https://open.spotify.com/track/187OL8IkLAceM1zalrCZ5Q"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/59m5IVfKeV9f0oLiCULviI"
     },
     {
-      "added_at": "2023-12-20 05:07:47",
-      "album": {
-        "name": "Available Forms",
-        "url": "https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko"
-      },
-      "artists": [
-        {
-          "name": "Tobor Experiment",
-          "url": "https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd"
-        }
-      ],
-      "duration_ms": 465128,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/5W86tGQznqxaODJnZeIfnf"
-    },
-    {
       "added_at": "2021-08-17 02:11:46",
       "album": {
         "name": "Ye Olde Space Bande Plays The Classic Rock Hits",
@@ -903,6 +887,22 @@
       "duration_ms": 255920,
       "name": "Born to Be Wild",
       "url": "https://open.spotify.com/track/4v33u82NZavg0ji35Cu4Vq"
+    },
+    {
+      "added_at": "2023-12-20 05:07:47",
+      "album": {
+        "name": "Available Forms",
+        "url": "https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko"
+      },
+      "artists": [
+        {
+          "name": "Tobor Experiment",
+          "url": "https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd"
+        }
+      ],
+      "duration_ms": 465128,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/5W86tGQznqxaODJnZeIfnf"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog Power",
-        "url": "https://open.spotify.com/album/66PzcvhyMJwlp9062pIGiX"
-      },
-      "artists": [
-        {
-          "name": "Hugo Montenegro",
-          "url": "https://open.spotify.com/artist/0JBc7Jztn7EdEVjyMCN6Wi"
-        }
-      ],
-      "duration_ms": 174786,
-      "name": "Moog Power",
-      "url": "https://open.spotify.com/track/3r6cHXQQt0BUVC6vEUUzh2"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Kpm 1000 Series: Atmospheres",
         "url": "https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 124197,
       "name": "March Of The Martians",
       "url": "https://open.spotify.com/track/4rF8nv1j7zum3p0R5ExkkT"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog Power",
+        "url": "https://open.spotify.com/album/66PzcvhyMJwlp9062pIGiX"
+      },
+      "artists": [
+        {
+          "name": "Hugo Montenegro",
+          "url": "https://open.spotify.com/artist/0JBc7Jztn7EdEVjyMCN6Wi"
+        }
+      ],
+      "duration_ms": 174786,
+      "name": "Moog Power",
+      "url": "https://open.spotify.com/track/3r6cHXQQt0BUVC6vEUUzh2"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Celestial Scenery: Breezing Universe, Volume 6",
-        "url": "https://open.spotify.com/album/01VXCpKgHrgOVO3Ld7k2u5"
-      },
-      "artists": [
-        {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
-        }
-      ],
-      "duration_ms": 482026,
-      "name": "A Passage Of Life",
-      "url": "https://open.spotify.com/track/6OG2clL6ASDaddoBySTkvX"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "The Happy Moog",
         "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 124494,
       "name": "Saturn Ski Jump",
       "url": "https://open.spotify.com/track/4Arau0rDs3eVb8hwAhWliz"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Celestial Scenery: Breezing Universe, Volume 6",
+        "url": "https://open.spotify.com/album/01VXCpKgHrgOVO3Ld7k2u5"
+      },
+      "artists": [
+        {
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+        }
+      ],
+      "duration_ms": 482026,
+      "name": "A Passage Of Life",
+      "url": "https://open.spotify.com/track/6OG2clL6ASDaddoBySTkvX"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
-      },
-      "artists": [
-        {
-          "name": "Psilonaut",
-          "url": "https://open.spotify.com/artist/3cNUP3BBHBZs7363ufwtIF"
-        }
-      ],
-      "duration_ms": 364013,
-      "name": "The Sentinel",
-      "url": "https://open.spotify.com/track/4B96dYBk5Mh3ls0TDVJWtR"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "The Happy Moog",
         "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 115480,
       "name": "Paris 2079",
       "url": "https://open.spotify.com/track/1ECyj4HTmkIivTif7IHFaq"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
+      },
+      "artists": [
+        {
+          "name": "Psilonaut",
+          "url": "https://open.spotify.com/artist/3cNUP3BBHBZs7363ufwtIF"
+        }
+      ],
+      "duration_ms": 364013,
+      "name": "The Sentinel",
+      "url": "https://open.spotify.com/track/4B96dYBk5Mh3ls0TDVJWtR"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Tropical Cosmic Sounds from Space (Compiled by El Palmas)",
-        "url": "https://open.spotify.com/album/24rDI2007s2dKov1MT5xiZ"
-      },
-      "artists": [
-        {
-          "name": "Angel Rada",
-          "url": "https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7"
-        },
-        {
-          "name": "El Palmas",
-          "url": "https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y"
-        }
-      ],
-      "duration_ms": 259246,
-      "name": "Video Game",
-      "url": "https://open.spotify.com/track/0ZrZl6LGxKipa6JSJPnKQB"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "The Happy Moog",
         "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
       },
@@ -1327,22 +1307,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Kpm 1000 Series: Out of the Dark",
-        "url": "https://open.spotify.com/album/4JQLnqdzkgSkhEIpphMVtI"
-      },
-      "artists": [
-        {
-          "name": "Dave Vorhaus",
-          "url": "https://open.spotify.com/artist/3XTB6cGYrQ1ebr4HO7UvAQ"
-        }
-      ],
-      "duration_ms": 62114,
-      "name": "The DIY Machine (A)",
-      "url": "https://open.spotify.com/track/4Zb3DvXQSEm9IxPMiuGWwH"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Mind Games",
         "url": "https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD"
       },
@@ -1359,18 +1323,38 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+        "name": "Tropical Cosmic Sounds from Space (Compiled by El Palmas)",
+        "url": "https://open.spotify.com/album/24rDI2007s2dKov1MT5xiZ"
       },
       "artists": [
         {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+          "name": "Angel Rada",
+          "url": "https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7"
+        },
+        {
+          "name": "El Palmas",
+          "url": "https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y"
         }
       ],
-      "duration_ms": 228289,
-      "name": "Fol-de-rol",
-      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
+      "duration_ms": 259246,
+      "name": "Video Game",
+      "url": "https://open.spotify.com/track/0ZrZl6LGxKipa6JSJPnKQB"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Kpm 1000 Series: Out of the Dark",
+        "url": "https://open.spotify.com/album/4JQLnqdzkgSkhEIpphMVtI"
+      },
+      "artists": [
+        {
+          "name": "Dave Vorhaus",
+          "url": "https://open.spotify.com/artist/3XTB6cGYrQ1ebr4HO7UvAQ"
+        }
+      ],
+      "duration_ms": 62114,
+      "name": "The DIY Machine (A)",
+      "url": "https://open.spotify.com/track/4Zb3DvXQSEm9IxPMiuGWwH"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 228289,
+      "name": "Fol-de-rol",
+      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "Moog (Original Film Soundtrack)",
         "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Variation One",
-      "url": "https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Kpm 1000 Series: Industry Volume 1",
         "url": "https://open.spotify.com/album/3mdyB0sCvKMoBPEgGVjHoC"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 70680,
       "name": "The Sausage Machine",
       "url": "https://open.spotify.com/track/11kli4YSqMTdr54UcsuoWJ"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 241280,
+      "name": "Variation One",
+      "url": "https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
-      },
-      "artists": [
-        {
-          "name": "Roger O'Donnell",
-          "url": "https://open.spotify.com/artist/7uPA6aEnbQYWtCQcXTgg88"
-        }
-      ],
-      "duration_ms": 329173,
-      "name": "Another Year Away",
-      "url": "https://open.spotify.com/track/4hxa6XR72iGXD3DBEEbIu8"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Continuvm",
         "url": "https://open.spotify.com/album/62WiMKx0FxZFTKSzEEbmzK"
       },
@@ -1569,6 +1553,22 @@
       "url": "https://open.spotify.com/track/2EGhZHcUJu59pQ8MhcuKAP"
     },
     {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
+      },
+      "artists": [
+        {
+          "name": "Roger O'Donnell",
+          "url": "https://open.spotify.com/artist/7uPA6aEnbQYWtCQcXTgg88"
+        }
+      ],
+      "duration_ms": 329173,
+      "name": "Another Year Away",
+      "url": "https://open.spotify.com/track/4hxa6XR72iGXD3DBEEbIu8"
+    },
+    {
       "added_at": "2024-08-21 02:31:59",
       "album": {
         "name": "San Francisco Moog: 1968-72 Vol. 1",
@@ -1580,9 +1580,9 @@
           "url": "https://open.spotify.com/artist/53evbBBnL1sc3uHXLhjW1D"
         }
       ],
-      "duration_ms": 511000,
-      "name": "The First Exploration @ SF Radical Laboratories, 1968",
-      "url": "https://open.spotify.com/track/0oHtVQyBQY08BqadsturBJ"
+      "duration_ms": 263986,
+      "name": "Meditation Moog 1968",
+      "url": "https://open.spotify.com/track/1UPHzns78VMAJtUtpvkw5B"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Sounds in Space. a Very Unusual Collection of Space Influenced Music.",
-        "url": "https://open.spotify.com/album/4A64TR1UmFtiLv2FXJr6lm"
-      },
-      "artists": [
-        {
-          "name": "Colonel Elliott & The Lunatics",
-          "url": "https://open.spotify.com/artist/4ntYHeXkHdaw8dH6Fsv7lj"
-        }
-      ],
-      "duration_ms": 159634,
-      "name": "Cosmic Bust",
-      "url": "https://open.spotify.com/track/0BufJVMmsjjrL0MdwIS0Md"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Moog (Original Film Soundtrack)",
         "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
       },
@@ -1649,6 +1633,22 @@
       "url": "https://open.spotify.com/track/27gmgvQ1KMiqTwpIVeQx9u"
     },
     {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Sounds in Space. a Very Unusual Collection of Space Influenced Music.",
+        "url": "https://open.spotify.com/album/4A64TR1UmFtiLv2FXJr6lm"
+      },
+      "artists": [
+        {
+          "name": "Colonel Elliott & The Lunatics",
+          "url": "https://open.spotify.com/artist/4ntYHeXkHdaw8dH6Fsv7lj"
+        }
+      ],
+      "duration_ms": 159634,
+      "name": "Cosmic Bust",
+      "url": "https://open.spotify.com/track/0BufJVMmsjjrL0MdwIS0Md"
+    },
+    {
       "added_at": "2024-08-21 02:31:59",
       "album": {
         "name": "San Francisco Moog: 1968-72 Vol. 1",
@@ -1660,9 +1660,9 @@
           "url": "https://open.spotify.com/artist/53evbBBnL1sc3uHXLhjW1D"
         }
       ],
-      "duration_ms": 263986,
-      "name": "Meditation Moog 1968",
-      "url": "https://open.spotify.com/track/1UPHzns78VMAJtUtpvkw5B"
+      "duration_ms": 511000,
+      "name": "The First Exploration @ SF Radical Laboratories, 1968",
+      "url": "https://open.spotify.com/track/0oHtVQyBQY08BqadsturBJ"
     },
     {
       "added_at": "2021-08-17 02:11:46",

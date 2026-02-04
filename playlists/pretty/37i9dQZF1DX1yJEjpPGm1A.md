@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yJEjpPGm1A.md) - [plain]
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,728 likes - 89 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,745 likes - 89 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yJEjpPGm1A.md) - [plain]
 | 15 | [Gravity of You](https://open.spotify.com/track/2kbxOrQUGHjDzuFpIs8Hev) | [Shin Seung Hun](https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw) | [SINCERELY MELODIES](https://open.spotify.com/album/3TxzTHwIDN6XFVtIVDDA3o) | 3:33 |
 | 16 | [I meet you who are infinitely beautiful](https://open.spotify.com/track/2XiDJ5LIke4IeosYWZk8rZ) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [I meet you who are infinitely beautiful](https://open.spotify.com/album/4tO82fvns6ThsiQvZ1AKNO) | 4:07 |
 | 17 | [End of a Day, You](https://open.spotify.com/track/7Duak2HtivO27BYZwtySxh) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [End of a Day, You \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/2q9PZG2z894mvnAMSzYdik) | 4:31 |
-| 18 | [Daily confession](https://open.spotify.com/track/0MJqWFARd7JwuYOIAhIX9V) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Daily confession](https://open.spotify.com/album/1PD73S3rXG09xdi3XuquVb) | 3:24 |
+| 18 | [Daily confession](https://open.spotify.com/track/0MJqWFARd7JwuYOIAhIX9V) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Daily confession](https://open.spotify.com/album/1PD73S3rXG09xdi3XuquVb) | 3:24 |
 | 19 | [Trust in me](https://open.spotify.com/track/4zCcKPm03kHARVAiyzlDX8) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Mr\. Trot WINNER SONG](https://open.spotify.com/album/2FulfDIqpydc4Q4vNlkk5g) | 4:02 |
 | 20 | [of course](https://open.spotify.com/track/1S3Qtj2QGy4KQKbtOZZQ7d) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Voice Of Heaven](https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY) | 3:57 |
 | 21 | [Beauty of my life](https://open.spotify.com/track/2nuYQ6OTqjwzHw34SJiaF8) | [Kim Young Geun](https://open.spotify.com/artist/2gYn9xPkHXRkKnVnzRc4RZ) | [Beauty of my life](https://open.spotify.com/album/5XQTrStexFPEdhcCSLGvKe) | 4:28 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yJEjpPGm1A.md) - [plain]
 | 27 | [Confession Is Not Flashy](https://open.spotify.com/track/584hTOO20B2WKK8PjPB1Gw) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2D5vry1OpxezOMaUEkCGd3) | 3:48 |
 | 28 | [Love will find a way](https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv) | 3:43 |
 | 29 | [look at me](https://open.spotify.com/track/06ZjtFrSVuESKVe9bnZrNp) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [look at me](https://open.spotify.com/album/4CuUCkN2O08r4kkHTPZG06) | 4:11 |
-| 30 | [Eternal Sunshine](https://open.spotify.com/track/6x54eQF63AZ6deVSsaL5a2) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:28 |
+| 30 | [Eternal Sunshine](https://open.spotify.com/track/6x54eQF63AZ6deVSsaL5a2) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:28 |
 | 31 | [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/track/5pjvvATx7UKmp2k7Vh5y7j) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/album/4O9mh9UvVDrl2PCA1V6QEL) | 5:00 |
 | 32 | [Marry me](https://open.spotify.com/track/22sx5e3qU4B6n7ZpLFinZe) | [기태](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6), [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Marry me](https://open.spotify.com/album/0mqPlCFmBFcAMF2hOA8wUL) | 4:27 |
 | 33 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 |

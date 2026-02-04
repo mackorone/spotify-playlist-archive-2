@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 578800,
+  "num_followers": 578780,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-02-02 13:42:46",
       "album": {
+        "name": "tila tala",
+        "url": "https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP"
+      },
+      "artists": [
+        {
+          "name": "syd hartha",
+          "url": "https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C"
+        }
+      ],
+      "duration_ms": 281296,
+      "name": "tila tala",
+      "url": "https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2"
+    },
+    {
+      "added_at": "2026-02-02 13:42:46",
+      "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 260000,
       "name": "Gusto feat. Al James",
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
-    },
-    {
-      "added_at": "2026-02-02 13:42:46",
-      "album": {
-        "name": "tila tala",
-        "url": "https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP"
-      },
-      "artists": [
-        {
-          "name": "syd hartha",
-          "url": "https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C"
-        }
-      ],
-      "duration_ms": 281296,
-      "name": "tila tala",
-      "url": "https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2"
     },
     {
       "added_at": "2026-02-02 13:42:46",

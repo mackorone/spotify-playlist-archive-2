@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De beste Nederlandse liedjes. Cover: FLEMMING & Metejoor",
+  "description": "De beste Nederlandse liedjes. Cover: Ronnie Flex, Acda en de Munnik",
   "name": "Beste van NL",
   "tracks": [
     {
@@ -1451,6 +1451,28 @@
     },
     {
       "album": {
+        "name": "CD van mij",
+        "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170453,
+      "name": "CD van mij",
+      "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
+    },
+    {
+      "album": {
         "name": "Champions League",
         "url": "https://open.spotify.com/album/4hbnlDx7CSVBLrrXVpjyFo"
       },
@@ -2824,7 +2846,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 154666,
       "name": "Hard Hout",
       "url": "https://open.spotify.com/track/4d3lKZ5YOnt3pWSp9yUTG9"
@@ -4206,7 +4228,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 206071,
       "name": "Jij Verdient Het",
       "url": "https://open.spotify.com/track/3hdpd8ckhODO2HpExzp1vA"
@@ -4264,6 +4286,24 @@
       "duration_ms": 221432,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/295hepw2obbNmOfPOu56td"
+    },
+    {
+      "album": {
+        "name": "Juni",
+        "url": "https://open.spotify.com/album/4FNF4URZHjvsGrFcjYfY0f"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179461,
+      "name": "Juni",
+      "url": "https://open.spotify.com/track/4JNvQ3AjUfZ1qNmneqP2Ur"
     },
     {
       "album": {
@@ -7440,7 +7480,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 200520,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z"
@@ -8622,6 +8662,24 @@
       "duration_ms": 145866,
       "name": "Zij Is Van Mij",
       "url": "https://open.spotify.com/track/5ElK7HPvWfRYOzz6F6ICId"
+    },
+    {
+      "album": {
+        "name": "Zij is voor mij",
+        "url": "https://open.spotify.com/album/6d7QP92PjS3Y3Z4bVhlBgm"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208477,
+      "name": "Zij is voor mij",
+      "url": "https://open.spotify.com/track/1TvSpaz6QZnepK4J0k9C5i"
     },
     {
       "album": {

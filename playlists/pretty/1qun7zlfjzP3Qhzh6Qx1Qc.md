@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 ### [Country Smash Hits](https://open.spotify.com/playlist/1qun7zlfjzP3Qhzh6Qx1Qc)
 
-> All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.
+> All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Ella Langley.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 33,929 likes - 100 songs - 5 hr 34 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 33,926 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 99 | [enabling](https://open.spotify.com/track/0qYEfg6RftcrQoSVQn4fKw) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [enabling](https://open.spotify.com/album/2wUsvgaVMbVWJulBNAROWC) | 3:18 |
 | 100 | [Always Be The One](https://open.spotify.com/track/6e9QzC16F6Lq2dXtpbf5ml) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Always Be The One](https://open.spotify.com/album/4lr4Mosc7nogwInirByGPG) | 3:06 |
 
-Snapshot ID: `AAANxW+61UAcnBy0NUh0rNWPVePJAX/n`
+Snapshot ID: `AAANxpaQ0tSYsa9VsQjc+8KRRxAcflGq`

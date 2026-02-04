@@ -3434,7 +3434,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 161139,
       "name": "Geri Geldim",
       "url": "https://open.spotify.com/track/1b6A4DXr8neL3mpgB18Jq6"
@@ -6036,6 +6036,24 @@
       "duration_ms": 232965,
       "name": "Nerdesin",
       "url": "https://open.spotify.com/track/0oPMxe6anF4Kw2SYEUpKDl"
+    },
+    {
+      "album": {
+        "name": "Mest Of ArabesQ",
+        "url": "https://open.spotify.com/album/7lRl5LmVaMAAtaK5j5Kqre"
+      },
+      "artists": [
+        {
+          "name": "Kurtulu\u015f Ku\u015f",
+          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187680,
+      "name": "Nerdesin?",
+      "url": "https://open.spotify.com/track/6O1V3vNyUCRURvCWnkbmQG"
     },
     {
       "album": {

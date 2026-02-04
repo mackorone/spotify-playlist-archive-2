@@ -4,7 +4,7 @@
 
 > 
 
-2,832 songs - 6 day 2 hr 50 min
+2,834 songs - 6 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,6 +943,7 @@
 | [FREAKSHOW](https://open.spotify.com/track/1dm2RSzrFVDBgQDvJFBBZl) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [FREAKSHOW](https://open.spotify.com/album/6XDI0v0mfddr3Pr2vQdZD6) | 2:42 | 2024-10-24 |  |
 | [Freaky Boy](https://open.spotify.com/track/0tole2T6k9IZQOrHYXUJjX) | [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [Freaky Boy](https://open.spotify.com/album/3VX183SSIxltAqqIZv34IA) | 2:37 | 2024-05-03 |  |
 | [Free](https://open.spotify.com/track/26qpbsb011LuFTGWAQ7vYq) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e), [MT](https://open.spotify.com/artist/2lVgxPwJtg4sKTsscQIb1C) | [Free](https://open.spotify.com/album/544TkpxIfPy7IdusRU296E) | 3:03 | 2025-11-30 |  |
+| [Free](https://open.spotify.com/track/3slPidaHkTiVnYaNlm38eR) | [Karina Rosee](https://open.spotify.com/artist/2KKMGsBiuclMbd5PoREDEI) | [Free](https://open.spotify.com/album/2hV3I36DrOkhtmL8h6LlMG) | 2:40 | 2026-02-03 |  |
 | [Free Falling](https://open.spotify.com/track/6wzC0zt2kaljgveoPh6b2J) | [Eufeion](https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B), [247 Hardcore](https://open.spotify.com/artist/27aPBTT6OvnVFFLshqrUET) | [Free Falling](https://open.spotify.com/album/7Chhv46gQYvPoc5to0IY8p) | 2:56 | 2025-04-13 |  |
 | [Free To Fly](https://open.spotify.com/track/4atzHpbNPrr1fheYMoF2VX) | [Jade Key](https://open.spotify.com/artist/3gbNZrDSnpKK7PZ1x3i4hb), [Charmae](https://open.spotify.com/artist/6YwsIfJahtVO1AUlVumEs8) | [Free To Fly](https://open.spotify.com/album/5ZKF5IHJdvfZnucWmk906y) | 3:16 | 2022-02-14 |  |
 | [FREE YOUR MIND](https://open.spotify.com/track/0w7JbHxSw9d665gSID8Iwy) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [FREE YOUR MIND](https://open.spotify.com/album/35H7GvoK81gzlkSIcfIRyC) | 3:19 | 2023-03-21 |  |
@@ -1987,6 +1988,7 @@
 | [Pump The Party](https://open.spotify.com/track/1kRnSIjXQHiTGSzXyXSLzu) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [TOO FAST](https://open.spotify.com/album/4AnDQnvSjUu2KFJ6M3egdF) | 2:49 | 2023-06-30 |  |
 | [Pump This Party](https://open.spotify.com/track/3qyHsb6YR26Axy1t7CVZ2Y) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Pump This Party](https://open.spotify.com/album/5wDwcM0kr1cXnnmpo27o82) | 2:25 | 2023-09-22 |  |
 | [Pump This Shit](https://open.spotify.com/track/3rqVnU32pirimeS17djaED) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Music Is My Refuge](https://open.spotify.com/album/4HVfpXfJeQIPNxQfE3thsS) | 2:27 | 2022-12-26 |  |
+| [Pump Up The Stereo](https://open.spotify.com/track/5cG5XBeu1zknhmgTmXjpGG) | [Mistofz](https://open.spotify.com/artist/0aaw9Xe6eZvjGAzW30MEhF), [Missy](https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9) | [Pump Up The Stereo](https://open.spotify.com/album/7ze5ijAQWMlip4kNtuinHB) | 2:53 | 2026-02-03 |  |
 | [Pump Ya Fist \- Jimmy Twin Remix](https://open.spotify.com/track/646WgRqEtJQMSP8alopIQO) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Jimmy Twin](https://open.spotify.com/artist/15OWASOrseAyOcuD2ZykB6) | [Run It Up](https://open.spotify.com/album/6zkzaq0rhlqHbtKH6QnWe7) | 2:13 | 2022-10-05 |  |
 | [Punani](https://open.spotify.com/track/2YcDr8r0AhfTaJ8CVXuuM0) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Punani](https://open.spotify.com/album/3YNpYDjtPYJY3iVbBRsq7l) | 2:14 | 2025-03-30 |  |
 | [Pure Energy](https://open.spotify.com/track/6BQzzPMjxFl2XKJC8Xz35M) | [JEEX](https://open.spotify.com/artist/2yyaQ5rBXKUgEo8unwNQIS), [Twiic](https://open.spotify.com/artist/7c8HE4UShCpCnUp2xn7jyV) | [Pure Energy](https://open.spotify.com/album/1sZ4BmLQkLlco96oBWGF3N) | 2:24 | 2024-07-19 |  |

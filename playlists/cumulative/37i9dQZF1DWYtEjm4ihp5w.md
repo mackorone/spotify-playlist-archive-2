@@ -4,7 +4,7 @@
 
 > Cover: Stormy
 
-479 songs - 1 day 1 hr 3 min
+481 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [bohème](https://open.spotify.com/track/2cUoF6XU7X7pXVYJ8bHaxX) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [bohème](https://open.spotify.com/album/6jsBeOOVVhPyGhph1KngmS) | 2:54 | 2026-01-23 |  |
 | [Bombonera](https://open.spotify.com/track/4xxNysr35mMhcRpfw6v1Fu) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alha9i9a \(الحقيقة\)](https://open.spotify.com/album/4ChviB4GBxtlmGtDk4Z81M) | 3:31 | 2025-06-05 | 2025-07-29 |
 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-07-01 |  |
+| [BONBON](https://open.spotify.com/track/7MUp0Ou3sUGc7g2oVOwgjn) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [BONBON](https://open.spotify.com/album/7bzRjNW2OX8KaHbUD17rTM) | 3:19 | 2026-02-03 |  |
 | [Bondagani](https://open.spotify.com/track/0f442OjFSbQ5gpbBlvaJTI) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Bondagani](https://open.spotify.com/album/3Wy4j63JGo378KN31SdPgb) | 2:14 | 2023-06-22 | 2023-08-31 |
 | [BOOM](https://open.spotify.com/track/61HBQ151SsOvfYq383oK7T) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [BOOM](https://open.spotify.com/album/7InGVZYEVFzVHMVKaKXWlw) | 2:05 | 2025-10-22 | 2025-11-22 |
 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 | 2025-12-19 |  |
@@ -345,7 +346,7 @@
 | [Problems](https://open.spotify.com/track/2xEL0trcV0pHf7CA2tnwRH) | [Wolf Trapzilla](https://open.spotify.com/artist/4SSbv9vJGY0iLY9GZ0bUTm) | [Problems](https://open.spotify.com/album/1sDRbTvpaLtUcDOcpbljIe) | 3:37 | 2023-01-10 | 2023-01-16 |
 | [Pyramid](https://open.spotify.com/track/7xTEBwt68HK6rTa59gTXRZ) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [X TAPE CHROMOSOME](https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF) | 2:59 | 2023-07-27 | 2023-11-11 |
 | [Qader](https://open.spotify.com/track/4rysZbYRckVcxnrK9vsHyq) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Qader](https://open.spotify.com/album/1Z8pry6BfVllxxBdijTzuD) | 3:16 | 2024-10-13 | 2024-10-18 |
-| [quaresma](https://open.spotify.com/track/2ZndzyEbUyyiAf9vqODjAv) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [quaresma](https://open.spotify.com/album/1zTXWB5TiYjejFrE4Bk5wu) | 2:19 | 2025-12-20 |  |
+| [quaresma](https://open.spotify.com/track/2ZndzyEbUyyiAf9vqODjAv) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [quaresma](https://open.spotify.com/album/1zTXWB5TiYjejFrE4Bk5wu) | 2:19 | 2025-12-20 | 2026-02-04 |
 | [QUI JE SUIS](https://open.spotify.com/track/296koeCGH32O1BhWxfIAdT) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [QUI JE SUIS](https://open.spotify.com/album/4Qws6G66bCX0T7jq96oUE0) | 3:16 | 2024-01-05 | 2024-02-16 |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-02-12 | 2023-07-14 |
 | [QUOI](https://open.spotify.com/track/5TGXVF3hzDFk2DrzuDGsxU) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be) | [QUOI](https://open.spotify.com/album/14sFi8BX171to508jDPDR7) | 3:29 | 2024-07-12 | 2024-07-23 |
@@ -432,6 +433,7 @@
 | [trap roumi v4](https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [trap roumi v4](https://open.spotify.com/album/2Q5AFjt3zvBLf5TR32oJfm) | 4:26 | 2022-12-31 | 2023-07-14 |
 | [TRAP ROUMI V5](https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V5](https://open.spotify.com/album/0pMUVXedchr9B1aGmXruEj) | 4:04 | 2024-01-23 | 2024-08-23 |
 | [TRAUMA](https://open.spotify.com/track/4c3wYPl65eHyt3oicxlJqJ) | [HB BOSS](https://open.spotify.com/artist/75kSwvCfQ095CKfPCd07sj), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [TRAUMA](https://open.spotify.com/album/2A7jeOCRQ9xbklAosed2eg) | 3:35 | 2025-02-17 | 2025-05-31 |
+| [Trop tard](https://open.spotify.com/track/1IAZPiKUsXLK7NT9RUrXrR) | [Nezar](https://open.spotify.com/artist/3sUn8nsotkqOARVLiqofNu) | [Trop tard](https://open.spotify.com/album/49Mmv9BwGV57MtMVmWrApw) | 2:58 | 2026-02-03 |  |
 | [Tsali Hna](https://open.spotify.com/track/6fbulsCLH3xzVQV3rIOKg1) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Tsali Hna](https://open.spotify.com/album/2cHLj5YOFFqZ0hi0pKslPt) | 2:40 | 2024-02-09 | 2024-02-17 |
 | [TU SAIS DEJA](https://open.spotify.com/track/5aEqH3jmxYadMW6IeA6G0W) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [TU SAIS DEJA](https://open.spotify.com/album/4Aw22griAVsPwxRv0wD8Cz) | 2:57 | 2023-11-24 | 2023-12-08 |
 | [Twam Mafyouzi](https://open.spotify.com/track/5m0WDhOtaCO4yCoy8bqOy7) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Twam Mafyouzi](https://open.spotify.com/album/4eqDkabbyPAMkojyo9OYHQ) | 2:06 | 2025-06-15 | 2026-02-01 |
@@ -440,7 +442,7 @@
 | [Unique](https://open.spotify.com/track/4SIEgCDS7h90gFP5MEU4ai) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Unique](https://open.spotify.com/album/0iVvvnQXwwLBQhiwX3WFQ8) | 3:03 | 2024-03-01 | 2024-08-11 |
 | [Uno Dos Tres](https://open.spotify.com/track/36qTNWXDs4ky3BfNilyltW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [X TAPE CHROMOSOME](https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF) | 3:18 | 2023-07-27 | 2023-07-29 |
 | [Unplugged \- Spotify Singles](https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Unplugged \(Spotify Singles\)](https://open.spotify.com/album/157sF3l27tLvkrIJzqFUeg) | 2:56 | 2023-12-07 | 2024-02-23 |
-| [Uzi](https://open.spotify.com/track/6FErwXfXiw17nstW4jB3Iq) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Uzi](https://open.spotify.com/album/6PxNmbCPWua17T2TJpJcBk) | 3:30 | 2025-12-19 |  |
+| [Uzi](https://open.spotify.com/track/6FErwXfXiw17nstW4jB3Iq) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Uzi](https://open.spotify.com/album/6PxNmbCPWua17T2TJpJcBk) | 3:30 | 2025-12-19 | 2026-02-04 |
 | [Valluminati](https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Valluminati](https://open.spotify.com/album/6elabSMRw648ju19QYg55P) | 2:20 | 2025-10-23 | 2025-12-11 |
 | [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 | 2024-11-13 | 2025-01-30 |
 | [VFC](https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [VFC](https://open.spotify.com/album/4qfeUdzNGUE6CcyQksttim) | 3:29 | 2025-08-08 |  |

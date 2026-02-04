@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 467 likes - 62 songs - 3 hr 37 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 477 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 60 | [Thief in the Night](https://open.spotify.com/track/5kNpVgzAsiNlzTbjJeAD7n) | [Airdale](https://open.spotify.com/artist/0Ce0wrt8dMmQKvHRsCeOYf), [MAGESTICALIZM](https://open.spotify.com/artist/3fNZeTlZA1jeADwTEd9ORS) | [IRIS](https://open.spotify.com/album/4lx3bZivBk1NjJHwYqZ8aO) | 5:14 |
 | 61 | [HERO](https://open.spotify.com/track/6qhp3xbHvTOars63ilniHO) | [YOUR PERSONAL VENDETTA](https://open.spotify.com/artist/2PpRod27I2pxzn70VkdDJn) | [HERO](https://open.spotify.com/album/2menXSxj3dacUu08KPRyIT) | 4:02 |
 | 62 | [Crazy Horse](https://open.spotify.com/track/638G4U3oabQAQHKi43XbUj) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Crazy Horse](https://open.spotify.com/album/5zgycbyhmN5ROkDD6CXMRZ) | 4:52 |
+| 63 | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Riccardo Morello](https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3) | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM) | 4:18 |
+| 64 | [La Ciudad de las Estrellas](https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [La Ciudad de las Estrellas](https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE) | 3:48 |
+| 65 | [Sombra](https://open.spotify.com/track/5BMFCvyN2LsLyiZTk1yFWj) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto III](https://open.spotify.com/album/3CwO3k5yLQmvPr6wXfY8xq) | 5:14 |
 
-Snapshot ID: `AAAChf8WGJslo1mJisItJgUYSKJ/bWG/`
+Snapshot ID: `AAACiG6vnXrGOpTmTDYbd9pPDQDbCMyV`

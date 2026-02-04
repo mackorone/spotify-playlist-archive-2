@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,125 likes - 36 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,132 likes - 36 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 35 | [Quando \(feat\. Neri Per Caso\)](https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d), [Neri Per Caso](https://open.spotify.com/artist/0LiO8GSrYuUjCWMpM0M28q) | [Quando \(feat\. Neri Per Caso\)](https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz) | 3:21 |
 | 36 | [Tutto il resto è noia \(feat\. Tony Effe\)](https://open.spotify.com/track/2PmuzC0gr5Za1ubhKV5r0d) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Nostalgia](https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6) | 2:21 |
 
-Snapshot ID: `AAAAAJDF8Cxo3iyz8FmBUN3vmDZRyCsB`
+Snapshot ID: `AAAAAE/b5sTXcs+vvjNwoYqNsanMsmkT`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Nimrat Khaira
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,876 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,891 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sheesha](https://open.spotify.com/track/6oyMFlglGxhB5o8JMUYrzT) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Forever](https://open.spotify.com/album/3eOgLmDciOYgHrX60jnN9y) | 3:08 |
 | 2 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 |
 | 3 | [OMG](https://open.spotify.com/track/0yNVNZIGFH8sx6sdticsiA) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [N Vee](https://open.spotify.com/artist/4O58hOXQfK7tmXXhg5i1BL) | [OMG](https://open.spotify.com/album/52dK7gHiMtNksMerWBRq3Z) | 2:20 |
-| 4 | [Dangeyaa \- Dangeyaa](https://open.spotify.com/track/2cznhWoWHi1LGTi7aJM6NX) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Pannu Maan](https://open.spotify.com/artist/6Uahqqf56uJl0XXAxGC74p) | [Dangeyaa](https://open.spotify.com/album/02oTFRfvda71AUB3lHiekJ) | 2:47 |
+| 4 | [Dangeyaa](https://open.spotify.com/track/2cznhWoWHi1LGTi7aJM6NX) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Pannu Maan](https://open.spotify.com/artist/6Uahqqf56uJl0XXAxGC74p) | [Dangeyaa](https://open.spotify.com/album/02oTFRfvda71AUB3lHiekJ) | 2:47 |
 | 5 | [Sukoon](https://open.spotify.com/track/6L7dfCKQ3aiLxO1LhbXxux) | [Sakshi Ratti](https://open.spotify.com/artist/0hiYQJ7bFeqV3IJuF6fG7Y) | [Sukoon](https://open.spotify.com/album/11bcNhD31YIICMMmUQZd4s) | 2:53 |
 | 6 | [Jee Nai Lagda](https://open.spotify.com/track/2QPay4gj3nUMs5L3tFe97E) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Jee Nai Lagda](https://open.spotify.com/album/3vR4DUl5hgrqpa4WtnFSfF) | 2:43 |
 | 7 | [Dilbar](https://open.spotify.com/track/0wuyoeqWCA0CEyGb4FprEV) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Dilbar](https://open.spotify.com/album/5Inem7yitJIVsgHDPDvny9) | 2:34 |

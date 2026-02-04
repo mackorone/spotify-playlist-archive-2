@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-639 songs - 1 day 13 hr 24 min
+640 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [Letting Go](https://open.spotify.com/track/17mK2SoypJm9tEiuD2Ngki) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Letting Go](https://open.spotify.com/album/0BbleXiZyv90RtecWWhcyE) | 4:14 | 2024-09-13 | 2024-12-28 |
 | [life gets hard \- Edit](https://open.spotify.com/track/1vQTyLGbpA2zXejuDC9b9t) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [life gets hard \(Edit\)](https://open.spotify.com/album/6PuhXI5QuoTTgQNP88XCcs) | 2:35 | 2024-01-12 | 2024-09-22 |
 | [Life Has Changed](https://open.spotify.com/track/3d7qfqljzgSwWJ3t2cneVw) | [They Call Me Steve](https://open.spotify.com/artist/3sMOsgdJl7e2l6nueIl4Se) | [Life Has Changed](https://open.spotify.com/album/0IPg9cYNoOwMo0Qyy8mpa0) | 4:32 | 2025-05-09 | 2025-05-24 |
-| [Light](https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Light](https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW) | 2:49 | 2024-03-29 |  |
+| [Light](https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Light](https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW) | 2:49 | 2024-03-29 | 2026-02-04 |
 | [Lights Out](https://open.spotify.com/track/1hmZn7QqS0QxnrsYEj0Wkw) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Glacier Baby](https://open.spotify.com/artist/3UcsmXGGJfwT7F8VgWF7ES) | [Lights Out](https://open.spotify.com/album/04cV0p4Xr9zX6jY3tlUQU2) | 3:29 | 2025-06-20 | 2025-08-30 |
 | [Lights Out](https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Lights Out](https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5) | 3:27 | 2024-05-03 |  |
 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 | 2022-06-10 | 2022-09-03 |
@@ -538,6 +538,7 @@
 | [Stuck In The Middle](https://open.spotify.com/track/7g7eqjBT36hZ6VsVk4lWRy) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij), [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [Stuck In The Middle](https://open.spotify.com/album/3T6IEMgVsALaosMwK4V7bc) | 3:57 | 2024-09-20 | 2024-10-05 |
 | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \- Cedric Gervais Remix](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Summertime Sadness \[Lana Del Rey vs\. Cedric Gervais\] \(Cedric Gervais Remix\)](https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv) | 3:34 | 2021-04-02 | 2024-02-17 |
 | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \- Cedric Gervais Remix](https://open.spotify.com/track/7MYX0Vu0uMjVLCiy804sdX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Summertime Sadness \[Lana Del Rey vs\. Cedric Gervais\] \(Cedric Gervais Remix\)](https://open.spotify.com/album/2vFyRm6ZrYI7ravDNolYsr) | 3:34 | 2021-04-02 | 2022-04-21 |
+| [Sunrise Underwater](https://open.spotify.com/track/1rRscKv9OiK64AgQQWez5m) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ), [Jazara](https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag) | [Sunrise Underwater](https://open.spotify.com/album/3d9q6YpSzGxna0ju3xUwEc) | 3:34 | 2026-01-30 |  |
 | [Surrender To The Feeling](https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Surrender To The Feeling](https://open.spotify.com/album/7KhCchcBtE9dTmbwf52LUo) | 3:27 | 2023-08-25 | 2025-02-22 |
 | [Take Me Away](https://open.spotify.com/track/48p9jvjqbUQyb8GsNvTaJC) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [bankr](https://open.spotify.com/artist/1yeRfHskcp7ujLZNmabEpp) | [Take Me Away](https://open.spotify.com/album/2yoPkKdnOSZGvBvSwjQdmB) | 2:20 | 2025-07-18 | 2025-10-16 |
 | [take me by the hand \- Aaron Hibell remix](https://open.spotify.com/track/6wtzU740nPNrISiUyFjLyc) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [take me by the hand \(Aaron Hibell remix\)](https://open.spotify.com/album/3XVJ9mW3dKjoXrMDpT9r1m) | 4:30 | 2025-06-27 | 2025-08-17 |

@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 185999,
+  "num_followers": 186000,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
         "name": "Cold Little Heart (Radio Edit)",
         "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 210299,
       "name": "Cold Little Heart - Radio Edit",
       "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
         "name": "The Happy Dictator (feat. Sparks)",
         "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "Warhaus",
-        "url": "https://open.spotify.com/album/0v7z6pf34VKMECP0Bmbxi3"
-      },
-      "artists": [
-        {
-          "name": "Warhaus",
-          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
-        }
-      ],
-      "duration_ms": 206685,
-      "name": "Love's a Stranger",
-      "url": "https://open.spotify.com/track/279LczresTWVkCsdLwgJSZ"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 263228,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
+        "name": "Warhaus",
+        "url": "https://open.spotify.com/album/0v7z6pf34VKMECP0Bmbxi3"
+      },
+      "artists": [
+        {
+          "name": "Warhaus",
+          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+        }
+      ],
+      "duration_ms": 206685,
+      "name": "Love's a Stranger",
+      "url": "https://open.spotify.com/track/279LczresTWVkCsdLwgJSZ"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
         "name": "Gran Paradiso",
         "url": "https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
         "name": "uplifters",
         "url": "https://open.spotify.com/album/0afPcz0gfOOyLB3yffX7m9"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 219880,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -1111,6 +1095,22 @@
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
+        "name": "CHROME HEARTS",
+        "url": "https://open.spotify.com/album/4eQ5NtSJ6luic1PuXBDDFq"
+      },
+      "artists": [
+        {
+          "name": "SHADESOFBLUE",
+          "url": "https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6"
+        }
+      ],
+      "duration_ms": 144398,
+      "name": "CHROME HEARTS",
+      "url": "https://open.spotify.com/track/6zaygXBpwRVwRkHcCB1AKY"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
         "name": "Blue Summer",
         "url": "https://open.spotify.com/album/1Rdsc0SBiK6RpNrhAfJM18"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 220533,
       "name": "Blue Summer",
       "url": "https://open.spotify.com/track/2STdCfjSC4CB9TakulkWFD"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
-        "name": "CHROME HEARTS",
-        "url": "https://open.spotify.com/album/4eQ5NtSJ6luic1PuXBDDFq"
-      },
-      "artists": [
-        {
-          "name": "SHADESOFBLUE",
-          "url": "https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6"
-        }
-      ],
-      "duration_ms": 144398,
-      "name": "CHROME HEARTS",
-      "url": "https://open.spotify.com/track/6zaygXBpwRVwRkHcCB1AKY"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
+        "name": "l'a\u00e9roport",
+        "url": "https://open.spotify.com/album/5yjNvkDFAQcFRTwVrHDilF"
+      },
+      "artists": [
+        {
+          "name": "Spider ZED",
+          "url": "https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I"
+        }
+      ],
+      "duration_ms": 144799,
+      "name": "l'a\u00e9roport",
+      "url": "https://open.spotify.com/track/4EFbN1gvoa0GDVBKmnzr1c"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
         "name": "Livin Alright",
         "url": "https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP"
       },
@@ -1683,42 +1699,18 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/5Gbo4sOeenmqYTRolOGmZt"
+        "name": "Wind Says Low",
+        "url": "https://open.spotify.com/album/3oUFqERiot1k7yXiv3GiL0"
       },
       "artists": [
         {
-          "name": "Tonique & Man",
-          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
-        },
-        {
-          "name": "Jean Tonique",
-          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
-        },
-        {
-          "name": "Mi Man",
-          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
         }
       ],
-      "duration_ms": 253466,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/4lgq1xbQyT2vsMQNOreCij"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 249069,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
+      "duration_ms": 168000,
+      "name": "Wind Says Low",
+      "url": "https://open.spotify.com/track/4kKyZT2eiGWjcp5bqenDXv"
     }
   ],
   "unique_name": "D\u00eener entre amis",

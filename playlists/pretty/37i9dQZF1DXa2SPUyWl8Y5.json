@@ -1,6 +1,6 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 556137,
+  "num_followers": 556213,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,22 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
+        "name": "June (Mees Salom\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ"
       },
       "artists": [
         {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+          "name": "Amy Root",
+          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
+        },
+        {
+          "name": "Mees Salom\u00e9",
+          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
         }
       ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
+      "duration_ms": 448770,
+      "name": "June - Mees Salom\u00e9 Remix",
+      "url": "https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -431,22 +435,18 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "June (Mees Salom\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
       },
       "artists": [
         {
-          "name": "Amy Root",
-          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
-        },
-        {
-          "name": "Mees Salom\u00e9",
-          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
         }
       ],
-      "duration_ms": 448770,
-      "name": "June - Mees Salom\u00e9 Remix",
-      "url": "https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt"
+      "duration_ms": 479075,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -551,18 +551,18 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Dea Dia",
-        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
       },
       "artists": [
         {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
         }
       ],
-      "duration_ms": 530979,
-      "name": "Dea Dia",
-      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
+      "duration_ms": 257903,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -583,18 +583,18 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
+        "name": "Dea Dia",
+        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
       },
       "artists": [
         {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
         }
       ],
-      "duration_ms": 257903,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
+      "duration_ms": 530979,
+      "name": "Dea Dia",
+      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
         "name": "Purple Days & Purple Nights",
         "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Songs of Silence",
-        "url": "https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi"
-      },
-      "artists": [
-        {
-          "name": "Vince Clarke",
-          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
-        }
-      ],
-      "duration_ms": 227033,
-      "name": "Scarper",
-      "url": "https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
         "name": "Piano & Electronic Ensemble Op. 1",
         "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
+        "name": "Songs of Silence",
+        "url": "https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi"
       },
       "artists": [
         {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+          "name": "Vince Clarke",
+          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
         }
       ],
-      "duration_ms": 240020,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
+      "duration_ms": 227033,
+      "name": "Scarper",
+      "url": "https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
         "name": "Cliff (Einmusik Remix)",
         "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 444816,
       "name": "Cliff - Einmusik Remix",
       "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
-      },
-      "artists": [
-        {
-          "name": "Green Lake Project",
-          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
-        }
-      ],
-      "duration_ms": 389092,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Solid",
-        "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
-      },
-      "artists": [
-        {
-          "name": "Benzsoul",
-          "url": "https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf"
-        }
-      ],
-      "duration_ms": 404532,
-      "name": "Solid",
-      "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
         "name": "End of Line",
         "url": "https://open.spotify.com/album/1oCc3IUr6zHLkVKwHaRcA3"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 240000,
       "name": "End of Line",
       "url": "https://open.spotify.com/track/4zOmTlimKLOZ7a5p57ADoB"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
+      },
+      "artists": [
+        {
+          "name": "Benzsoul",
+          "url": "https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf"
+        }
+      ],
+      "duration_ms": 404532,
+      "name": "Solid",
+      "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Revolt",
-        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
-      },
-      "artists": [
-        {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
-        }
-      ],
-      "duration_ms": 284187,
-      "name": "Revolt",
-      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/2Z4AECuC9nl6nA3V5XMWDm"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 445881,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
+      },
+      "artists": [
+        {
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+        }
+      ],
+      "duration_ms": 284187,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
     },
     {
       "added_at": "2026-01-23 15:53:43",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-01-23 15:53:43",
       "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
-      },
-      "artists": [
-        {
-          "name": "AKZENTH",
-          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
-    },
-    {
-      "added_at": "2026-01-23 15:53:43",
-      "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 435238,
       "name": "Housefly",
       "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
+    },
+    {
+      "added_at": "2026-01-23 15:53:43",
+      "album": {
+        "name": "Night",
+        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
+      },
+      "artists": [
+        {
+          "name": "AKZENTH",
+          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
     },
     {
       "added_at": "2026-01-23 15:53:43",

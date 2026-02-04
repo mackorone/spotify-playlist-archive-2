@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 143125,
+  "num_followers": 143107,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-11-03 08:50:06",
       "album": {
-        "name": "Brain Drain",
-        "url": "https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei"
-    },
-    {
-      "added_at": "2025-11-03 08:50:06",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 189213,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0ThaVtdQ5zuAYLjvoT342v"
+    },
+    {
+      "added_at": "2025-11-03 08:50:06",
+      "album": {
+        "name": "Brain Drain",
+        "url": "https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei"
     },
     {
       "added_at": "2025-11-03 08:50:06",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-11-03 08:50:06",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Dead Man's Bones",
-      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
-    },
-    {
-      "added_at": "2025-11-03 08:50:06",
-      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 213333,
       "name": "Halloween Parade",
       "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
+    },
+    {
+      "added_at": "2025-11-03 08:50:06",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Dead Man's Bones",
+      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
     },
     {
       "added_at": "2025-11-03 08:50:06",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-11-03 08:50:06",
       "album": {
-        "name": "Introducing The Sonics",
-        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
-    },
-    {
-      "added_at": "2025-11-03 08:50:06",
-      "album": {
         "name": "Evil Urges",
         "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 184893,
       "name": "Highly Suspicious",
       "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
+    },
+    {
+      "added_at": "2025-11-03 08:50:06",
+      "album": {
+        "name": "Introducing The Sonics",
+        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
+      },
+      "artists": [
+        {
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
     },
     {
       "added_at": "2025-11-03 08:50:06",

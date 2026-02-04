@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,825 songs - 6 day 2 hr 26 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,827 songs - 6 day 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2833,5 +2833,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2823 | [BATTLE](https://open.spotify.com/track/3zscopCeIVV8yMLJxq0hxI) | [SL Complex](https://open.spotify.com/artist/1K24lyixWU3NZMhevM0UQW) | [BATTLE](https://open.spotify.com/album/4ZOTVLztiBXM588Nuw7VJK) | 3:25 |
 | 2824 | [Jackpot Killah](https://open.spotify.com/track/09iyKXX1dreXl6FYwbMbe7) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Jackpot Killah](https://open.spotify.com/album/0ZQhWfxL3wxl5Acu2SPDz0) | 2:36 |
 | 2825 | [THE RAW POWER OF TECHNO](https://open.spotify.com/track/6hiRRfSWXxpVbz52WQwvgs) | [Redhot](https://open.spotify.com/artist/3YnnRFY9QQ9F91WEnvTILG) | [THE RAW POWER OF TECHNO EP](https://open.spotify.com/album/61JhHyNGuzuHDlQD6ApyDW) | 3:55 |
+| 2826 | [Free](https://open.spotify.com/track/3slPidaHkTiVnYaNlm38eR) | [Karina Rosee](https://open.spotify.com/artist/2KKMGsBiuclMbd5PoREDEI) | [Free](https://open.spotify.com/album/2hV3I36DrOkhtmL8h6LlMG) | 2:40 |
+| 2827 | [Pump Up The Stereo](https://open.spotify.com/track/5cG5XBeu1zknhmgTmXjpGG) | [Mistofz](https://open.spotify.com/artist/0aaw9Xe6eZvjGAzW30MEhF), [Missy](https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9) | [Pump Up The Stereo](https://open.spotify.com/album/7ze5ijAQWMlip4kNtuinHB) | 2:53 |
 
-Snapshot ID: `AAALWgmYRqe/JVn1bFd7gCvJh0SAai1y`
+Snapshot ID: `AAALXI5gEzhCZgJE6aO3WNYOls3QPte6`

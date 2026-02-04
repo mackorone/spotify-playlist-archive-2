@@ -2578,10 +2578,32 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 108235,
       "name": "t\u00e2m",
       "url": "https://open.spotify.com/track/0mT2YgsN7ib5vaBaYdpUaN"
+    },
+    {
+      "album": {
+        "name": "T\u00e2m (orchestra version)",
+        "url": "https://open.spotify.com/album/33iDw12qZI8Cwab6ojqjXO"
+      },
+      "artists": [
+        {
+          "name": "Mer",
+          "url": "https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5"
+        },
+        {
+          "name": "Hoan Le",
+          "url": "https://open.spotify.com/artist/6ayVTh1gQU8SlkF0WkBdR9"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242308,
+      "name": "T\u00e2m - orchestra version",
+      "url": "https://open.spotify.com/track/5JAfQRZ7dDpe3ErCojW4xX"
     },
     {
       "album": {

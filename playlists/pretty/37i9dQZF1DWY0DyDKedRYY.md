@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Neton Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,327 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,326 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 49 | [You Can't Take My Song](https://open.spotify.com/track/4qaIk1oubKaR6rD1G7GTX7) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [You Can't Take My Song](https://open.spotify.com/album/2JCOYf1pNuxtUwtXio4TMA) | 2:59 |
 | 50 | [idols](https://open.spotify.com/track/6gJj2m1SMEywchE08sNY5h) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [idols](https://open.spotify.com/album/5UayLEXFF7eInzLYtalNZh) | 2:48 |
 
-Snapshot ID: `AAAAAA9lZjjpAirgKaOcT+be4AhVcVDx`
+Snapshot ID: `AAAAAH27JtM1o7WMxh3Y9+Uzv1N1UdU2`

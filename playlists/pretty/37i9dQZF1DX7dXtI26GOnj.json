@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Mau y Rick, Lu\u00edsa Sonza, Big One",
-  "num_followers": 238768,
+  "num_followers": 238788,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-02-02 13:20:39",
       "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144957,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF"
-    },
-    {
-      "added_at": "2026-02-02 13:20:39",
-      "album": {
         "name": "BELLAKEO",
         "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+    },
+    {
+      "added_at": "2026-02-02 13:20:39",
+      "album": {
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144957,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF"
     },
     {
       "added_at": "2026-02-02 13:20:39",
@@ -771,22 +771,22 @@
     {
       "added_at": "2026-02-02 13:20:39",
       "album": {
-        "name": "Desesperados",
-        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
         },
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+      "duration_ms": 145882,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
     },
     {
       "added_at": "2026-02-02 13:20:39",
@@ -811,6 +811,46 @@
       "duration_ms": 150618,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
+    },
+    {
+      "added_at": "2026-02-02 13:20:39",
+      "album": {
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+    },
+    {
+      "added_at": "2026-02-02 13:20:39",
+      "album": {
+        "name": "FAN\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "FAN\u00c1TICO",
+      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
     },
     {
       "added_at": "2026-02-02 13:20:39",
@@ -879,26 +919,6 @@
     {
       "added_at": "2026-02-02 13:20:39",
       "album": {
-        "name": "FAN\u00c1TICO",
-        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "FAN\u00c1TICO",
-      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
-    },
-    {
-      "added_at": "2026-02-02 13:20:39",
-      "album": {
         "name": "ASTRO",
         "url": "https://open.spotify.com/album/2HCiLvEdZuHb8iDweMZwDG"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 132727,
       "name": "PERVERSA",
       "url": "https://open.spotify.com/track/3lkv8itXt58NC98Fq0EGEB"
-    },
-    {
-      "added_at": "2026-02-02 13:20:39",
-      "album": {
-        "name": "ALO",
-        "url": "https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy"
-      },
-      "artists": [
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
-        }
-      ],
-      "duration_ms": 145882,
-      "name": "ALO",
-      "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
     },
     {
       "added_at": "2026-02-02 13:20:39",
@@ -1275,6 +1275,30 @@
     {
       "added_at": "2026-02-02 13:20:39",
       "album": {
+        "name": "Papi Chulo x Mali",
+        "url": "https://open.spotify.com/album/3f1kIDTAWun9b7mIo1d0R8"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Lorna",
+          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+        },
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        }
+      ],
+      "duration_ms": 179454,
+      "name": "Papi Chulo x Mali",
+      "url": "https://open.spotify.com/track/2VkPDAZMr1QrBxW4M4IYj1"
+    },
+    {
+      "added_at": "2026-02-02 13:20:39",
+      "album": {
         "name": "Bate",
         "url": "https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr"
       },
@@ -1315,30 +1339,6 @@
     {
       "added_at": "2026-02-02 13:20:39",
       "album": {
-        "name": "Papi Chulo x Mali",
-        "url": "https://open.spotify.com/album/3f1kIDTAWun9b7mIo1d0R8"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Lorna",
-          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
-        },
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
-        }
-      ],
-      "duration_ms": 179454,
-      "name": "Papi Chulo x Mali",
-      "url": "https://open.spotify.com/track/2VkPDAZMr1QrBxW4M4IYj1"
-    },
-    {
-      "added_at": "2026-02-02 13:20:39",
-      "album": {
         "name": "69",
         "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-02-02 13:20:39",
       "album": {
-        "name": "MONOBLOCK",
-        "url": "https://open.spotify.com/album/3zQ2R9T4fK8wv2AHAqsLW1"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 126352,
-      "name": "MONOBLOCK",
-      "url": "https://open.spotify.com/track/4P5gQPkLP15FZEZ0gHHM4l"
-    },
-    {
-      "added_at": "2026-02-02 13:20:39",
-      "album": {
         "name": "Troka",
         "url": "https://open.spotify.com/album/00yl2r8v4986lCsP6rGOkv"
       },
@@ -1391,6 +1375,46 @@
       "duration_ms": 169622,
       "name": "Troka",
       "url": "https://open.spotify.com/track/5AchK5XMO4AwN99yYcDPQc"
+    },
+    {
+      "added_at": "2026-02-02 13:20:39",
+      "album": {
+        "name": "MONOBLOCK",
+        "url": "https://open.spotify.com/album/3zQ2R9T4fK8wv2AHAqsLW1"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 126352,
+      "name": "MONOBLOCK",
+      "url": "https://open.spotify.com/track/4P5gQPkLP15FZEZ0gHHM4l"
+    },
+    {
+      "added_at": "2026-02-02 13:20:39",
+      "album": {
+        "name": "no pa la tele",
+        "url": "https://open.spotify.com/album/4LFk3wjYbBQC8UIo9oEZB3"
+      },
+      "artists": [
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "no pa la tele",
+      "url": "https://open.spotify.com/track/2eEkKJCR24ixf0fuzOLGtY"
     },
     {
       "added_at": "2026-02-02 13:20:39",
@@ -1419,30 +1443,6 @@
       "duration_ms": 192727,
       "name": "Parado No Bail\u00e3o - Mundial",
       "url": "https://open.spotify.com/track/7w60587yqlGryxSt9mAoo0"
-    },
-    {
-      "added_at": "2026-02-02 13:20:39",
-      "album": {
-        "name": "no pa la tele",
-        "url": "https://open.spotify.com/album/4LFk3wjYbBQC8UIo9oEZB3"
-      },
-      "artists": [
-        {
-          "name": "Fran C",
-          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
-        },
-        {
-          "name": "Tobal Mj",
-          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "no pa la tele",
-      "url": "https://open.spotify.com/track/2eEkKJCR24ixf0fuzOLGtY"
     },
     {
       "added_at": "2026-02-02 13:20:39",

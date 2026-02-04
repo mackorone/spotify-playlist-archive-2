@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : NV Vigneshwer Karthik",
-  "num_followers": 18284,
+  "num_followers": 18296,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMYtzGK0v7lc4pWyIwcMy6TWm70K",
+  "snapshot_id": "AAAAAAg7BXckZtNp48wJGEHn8tCs/krd",
   "tracks": [
     {
       "added_at": "2026-01-09 19:30:11",
@@ -62,6 +62,10 @@
         {
           "name": "Sublahshini",
           "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Adesh Krishna",
+          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
         }
       ],
       "duration_ms": 192984,
@@ -153,6 +157,26 @@
       "url": "https://open.spotify.com/track/1quyCIz5SauoZn6PV16YxN"
     },
     {
+      "added_at": "2026-02-03 11:36:19",
+      "album": {
+        "name": "Vagalaadi - Tamil",
+        "url": "https://open.spotify.com/album/5HkCjTzsacKfRGTrbuiNcV"
+      },
+      "artists": [
+        {
+          "name": "Nitish John",
+          "url": "https://open.spotify.com/artist/6LctAOI9qvl3ix1PRfzbSF"
+        },
+        {
+          "name": "Shreya Krish",
+          "url": "https://open.spotify.com/artist/1wVstRtBPtkRsQ1zusLfW0"
+        }
+      ],
+      "duration_ms": 292482,
+      "name": "Vagalaadi - Tamil",
+      "url": "https://open.spotify.com/track/5eOOrz9evmVfB8gdlxeQDA"
+    },
+    {
       "added_at": "2026-01-28 08:18:18",
       "album": {
         "name": "Hold On",
@@ -215,6 +239,34 @@
       "duration_ms": 172225,
       "name": "Pesa Koodadho",
       "url": "https://open.spotify.com/track/4NR1O8WvE23KUB0tCFhp4r"
+    },
+    {
+      "added_at": "2026-02-03 11:36:19",
+      "album": {
+        "name": "20 to 80 (Swan IndieTunes)",
+        "url": "https://open.spotify.com/album/6hwapwnC2XmVf44Tnyqg11"
+      },
+      "artists": [
+        {
+          "name": "Keerthan",
+          "url": "https://open.spotify.com/artist/2LfvnRw9qJWb1Hr6ZxBOM1"
+        },
+        {
+          "name": "Renjith Unni",
+          "url": "https://open.spotify.com/artist/0gwiu2YjENIc80Dw6iaswA"
+        },
+        {
+          "name": "Kiran Param",
+          "url": "https://open.spotify.com/artist/37UhhDepd4wilphlY3J7dh"
+        },
+        {
+          "name": "R. Lavarathan",
+          "url": "https://open.spotify.com/artist/3mbSPREHu8TuRgZfiT6I4Q"
+        }
+      ],
+      "duration_ms": 204201,
+      "name": "20 to 80 (Swan IndieTunes)",
+      "url": "https://open.spotify.com/track/4EWzs0QjsVai4DKGX6we4z"
     },
     {
       "added_at": "2026-01-30 08:35:32",
@@ -1527,38 +1579,6 @@
       "duration_ms": 332673,
       "name": "Yammadi Kathirundhen",
       "url": "https://open.spotify.com/track/6DTJ8nHnM9kBdHqYm5OVE3"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Kadhal Idhu Thana (2.0)",
-        "url": "https://open.spotify.com/album/4cyfURIh52RTyptB7Tc7kr"
-      },
-      "artists": [
-        {
-          "name": "nichesluck",
-          "url": "https://open.spotify.com/artist/5o0U7xMRW1IxdOuwJ5z8ln"
-        }
-      ],
-      "duration_ms": 284586,
-      "name": "Kadhal Idhu Thana - 2.0",
-      "url": "https://open.spotify.com/track/69CRLyHOTcmBYAgO9WropC"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Vaalillaa Kaathadi",
-        "url": "https://open.spotify.com/album/5sknjzg4E5p7ipCmH7b9gd"
-      },
-      "artists": [
-        {
-          "name": "Gaana Achu",
-          "url": "https://open.spotify.com/artist/1GCnpwVBabVq5UUEsbbexN"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Vaalillaa Kaathadi",
-      "url": "https://open.spotify.com/track/3x3OznaZYBUvediyQPcgkK"
     },
     {
       "added_at": "2026-01-09 19:30:11",

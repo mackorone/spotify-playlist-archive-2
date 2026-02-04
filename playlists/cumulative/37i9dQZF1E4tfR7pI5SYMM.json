@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, MIK's Reaction, Organoclorados and more",
+  "description": "With Jon Drake, Jyri Kannisto, AlligatorX and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/7CMzjb69JKk0dPiBfI0LXQ"
+      },
+      "artists": [
+        {
+          "name": "pMad",
+          "url": "https://open.spotify.com/artist/3Aa4yRuvDQBCj7o0uip3fW"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Blood - Radio Edit",
+      "url": "https://open.spotify.com/track/2NTHjHIodalPbclcnN3uUi"
+    },
+    {
+      "album": {
         "name": "Born Enemies",
         "url": "https://open.spotify.com/album/2ntqefoYRrwBT9iuG0Nxwv"
       },
@@ -672,7 +690,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 247223,
       "name": "Careless",
       "url": "https://open.spotify.com/track/6nr512gZ8BkCD9S5OexaOv"
@@ -942,7 +960,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 226568,
       "name": "Dance On My Grave",
       "url": "https://open.spotify.com/track/04kcDf6whIoJebDQ6vZh8R"
@@ -960,7 +978,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Discipline",
       "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -1206,7 +1224,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 251850,
       "name": "Don't Cry For Me Argentina",
       "url": "https://open.spotify.com/track/6OU8Mz2WWrRi2ZPSdUQaXo"
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 128062,
       "name": "Everything Is Possible",
       "url": "https://open.spotify.com/track/2Z8CuQgPHHEeuIymMDLebF"
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 227200,
       "name": "Have you got nothing left to Say",
       "url": "https://open.spotify.com/track/1OcLvOt48oLJqkhSTljR6b"
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 214861,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/1DUOdHbokLSzPRb2NunQf2"
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 200377,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/6jIKNLyG16eIHXnCtthNoU"
@@ -3092,7 +3110,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Mancave",
       "url": "https://open.spotify.com/track/0MKA9fLN5P3tzTFgQqQ4Wf"
@@ -3218,7 +3236,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 340409,
       "name": "Mental Health (MIK\u2019s Miasma)",
       "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
@@ -3370,7 +3388,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 351000,
       "name": "Mr. Record Man",
       "url": "https://open.spotify.com/track/1DXOaD84OMVvwL2oaTuGiM"
@@ -3406,7 +3424,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 276633,
       "name": "My Aurora (2023 Remastered)",
       "url": "https://open.spotify.com/track/3LB56oc6adNgHJbe79HU58"
@@ -3464,7 +3482,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 125261,
       "name": "Never the Same (Orchestral Part 2)",
       "url": "https://open.spotify.com/track/2sfc7RKi9OQlg4nFSiJbIv"
@@ -3886,7 +3904,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 230008,
       "name": "Ophelia Knows",
       "url": "https://open.spotify.com/track/0uTQ8UL3YrcpIPRv8HbUEP"
@@ -3976,7 +3994,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 209986,
       "name": "Pav",
       "url": "https://open.spotify.com/track/1HHBk3iIoFmwSH7CE6DmfD"
@@ -3998,7 +4016,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 173500,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/0xIqTXXmN9xyR7SVFwVrnj"
@@ -4056,7 +4074,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 209864,
       "name": "Polar Night",
       "url": "https://open.spotify.com/track/2Cz0WG2TBEERqEpz5DEJBh"
@@ -4092,7 +4110,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 203941,
       "name": "Prisionero del Amor",
       "url": "https://open.spotify.com/track/1RXVsrMTccnIYso9Da4WQM"
@@ -4110,7 +4128,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "Prohibition",
       "url": "https://open.spotify.com/track/2wzREpiY1XCECOrVtfA194"
@@ -4290,7 +4308,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 230710,
       "name": "Roots and Canopy",
       "url": "https://open.spotify.com/track/1T81lZqu2C7zhZOBJy3fHV"
@@ -4374,6 +4392,24 @@
       "duration_ms": 246750,
       "name": "Savour the Moment",
       "url": "https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc"
+    },
+    {
+      "album": {
+        "name": "The Life You Save May Be Your Own",
+        "url": "https://open.spotify.com/album/3LST1Hibp1Xm7JltvUOapb"
+      },
+      "artists": [
+        {
+          "name": "Larusta & The Dead Dogs",
+          "url": "https://open.spotify.com/artist/4ZDcngYq6sUaAdHD4TB9iF"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253749,
+      "name": "Scattered",
+      "url": "https://open.spotify.com/track/1s8AjlifKNmy3MYeT1wKgl"
     },
     {
       "album": {
@@ -4694,7 +4730,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 161036,
       "name": "Song For The Hanged Man - 2023 Remaster",
       "url": "https://open.spotify.com/track/4SN0uYAxfgbKyruepzAvEs"
@@ -4712,7 +4748,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 216864,
       "name": "Sons of Aeeth",
       "url": "https://open.spotify.com/track/4hGuteKLpeM13iVnhkwWlg"
@@ -5026,7 +5062,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 313253,
       "name": "Swithen",
       "url": "https://open.spotify.com/track/1cqjwYM3BX69vy8hQ6Ug16"
@@ -5300,7 +5336,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 230991,
       "name": "The Key Is You",
       "url": "https://open.spotify.com/track/6FsO938pNcZGUn8P3uJSWE"
@@ -5318,7 +5354,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 266000,
       "name": "The Labyrinth",
       "url": "https://open.spotify.com/track/0dZXSaT4CAE5oK70gOcIrg"
@@ -5578,7 +5614,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 264877,
       "name": "This World\u2019s For Sharing",
       "url": "https://open.spotify.com/track/0JuMG668Xof1s2ApVkABAm"
@@ -5716,6 +5752,24 @@
       "duration_ms": 314170,
       "name": "Toten Danse",
       "url": "https://open.spotify.com/track/7HYNdk8WB0XwP3zCT0gW6e"
+    },
+    {
+      "album": {
+        "name": "Tragic Form (Acoustic)",
+        "url": "https://open.spotify.com/album/4dHD8NKJxRrL15SfPz3vId"
+      },
+      "artists": [
+        {
+          "name": "Tragic Forms",
+          "url": "https://open.spotify.com/artist/0dRs4nJZxlHiiKfMDu9Puo"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362961,
+      "name": "Tragic Form - Acoustic",
+      "url": "https://open.spotify.com/track/6KeACDdiKaaowWHGhP0qLH"
     },
     {
       "album": {
@@ -5982,7 +6036,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -6004,6 +6058,32 @@
       "duration_ms": 286750,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/4f2s8tjc9RB3yDkLnyWdbG"
+    },
+    {
+      "album": {
+        "name": "Vyftigers Tune",
+        "url": "https://open.spotify.com/album/6SouopbZ2XPm78qmJZKZPi"
+      },
+      "artists": [
+        {
+          "name": "Neil Sandilands",
+          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
+        },
+        {
+          "name": "Abel Kraamsaal",
+          "url": "https://open.spotify.com/artist/07hjymHCdk5OGi3gu65NoG"
+        },
+        {
+          "name": "Gian Groen",
+          "url": "https://open.spotify.com/artist/1AUYjVNNS9NRuu6wHeXSqg"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130146,
+      "name": "Vyftigers Tune",
+      "url": "https://open.spotify.com/track/6dk9R3ra6KqchohUszVqXL"
     },
     {
       "album": {
@@ -6220,7 +6300,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 187409,
       "name": "Whisper in Storms",
       "url": "https://open.spotify.com/track/2GLCWPkJT5eL2Zg6TCyi5J"

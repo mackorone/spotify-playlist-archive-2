@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > peach is an indie pop playlist 🩷<br/>cover: MARO
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,549 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,548 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 50 | [Home Depot](https://open.spotify.com/track/5lkSqkCNFdAfFVsimBQBea) | [Christian Cherry](https://open.spotify.com/artist/6rmnezB7LuaNkZ8OKeB3tK) | [Home Depot](https://open.spotify.com/album/0uhE6GVGaoVuxcuOrUuGRa) | 2:36 |
 | 51 | [Thirst Trap](https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 3:05 |
 | 52 | [Edge of the Earth](https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Edge of the Earth](https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN) | 3:40 |
-| 53 | [gravity](https://open.spotify.com/track/42a5Wum0aYV3rzu2iZR4BU) | [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj), [Lev](https://open.spotify.com/artist/0HCX1MS5B6aR0rcO027tjC) | [tape 3 with friends](https://open.spotify.com/album/17hF0VocgrtoS9Kcx8sUd8) | 2:47 |
+| 53 | [gravity](https://open.spotify.com/track/42a5Wum0aYV3rzu2iZR4BU) | [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj), [Lev](https://open.spotify.com/artist/4yJNWesVPxT8aoyMt4nlPi) | [tape 3 with friends](https://open.spotify.com/album/17hF0VocgrtoS9Kcx8sUd8) | 2:47 |
 | 54 | [Chill Girl](https://open.spotify.com/track/4rWfVqBQTKvvnL4TMdKob5) | [Bea Stewart](https://open.spotify.com/artist/1HjCjNkTNeBFF3aqqf6kli) | [Wish It Was You](https://open.spotify.com/album/46rRgNfPAPJcqCFNbNH1eo) | 3:17 |
 | 55 | [Call Me](https://open.spotify.com/track/4VuQDgGCITUEMT5NWKvWFK) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Call Me](https://open.spotify.com/album/1MQRxIVZfu0T2UM5Z5x8Sz) | 3:48 |
 | 56 | [Best Joke](https://open.spotify.com/track/7ICHGwp1a1cqf7jAB18gF4) | [Gabrielle Grace](https://open.spotify.com/artist/04I7vAN53FF1W4I3c0kdnS) | [Best Joke](https://open.spotify.com/album/2GfMh0ELlVLSiFQPc9X0Rv) | 3:23 |

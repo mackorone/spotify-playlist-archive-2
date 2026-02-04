@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-284 songs - 16 hr 41 min
+285 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bittersweet](https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl) | [Rich McFeather](https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm) | [Bittersweet](https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb) | 3:35 | 2023-03-16 | 2024-06-28 |
 | [Black Train](https://open.spotify.com/track/689ik4NbmpQeVmm99AjJq2) | [A Murder in Mississippi](https://open.spotify.com/artist/3iuF2R8o2xej4ZdbWdiNom) | [Black Train](https://open.spotify.com/album/4CZkAnPYSzhYa1eAVNpKt3) | 3:57 | 2024-11-08 | 2025-01-29 |
 | [Bottom of a Bottle](https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Bottom of a Bottle](https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6) | 3:56 | 2025-04-17 | 2026-01-05 |
+| [BP Love](https://open.spotify.com/track/7mDbzMJplzWKZxrula4ddy) | [Jessica Allossery](https://open.spotify.com/artist/40GxtoOMHs0ux7Wfs3C8Ob), [The Butterfly Room](https://open.spotify.com/artist/6iPsFW8Vx81G68wYEaioQA) | [BP Love](https://open.spotify.com/album/2DZbccCK8sWid5r8GCwtS2) | 2:06 | 2026-01-29 |  |
 | [Breathless](https://open.spotify.com/track/2NCTklsgFuF3A02OZ8HwRe) | [INA ROSE](https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA) | [The Reins](https://open.spotify.com/album/2K9DzxhjXaYVZeVvMaGXhX) | 3:24 | 2025-03-20 | 2025-04-18 |
 | [Buckle Down](https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Buckle Down](https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2) | 2:46 | 2025-07-10 |  |
 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 | 2023-02-23 | 2024-09-13 |
@@ -69,7 +70,7 @@
 | [Desert Bride](https://open.spotify.com/track/2ZEjpmYFQmKnkIcy5oChgW) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Desert Bride](https://open.spotify.com/album/36j7voqMKyHKDaKIIqVfWW) | 4:15 | 2024-07-04 | 2025-01-17 |
 | [Desire](https://open.spotify.com/track/5vuOY89Toj7pBC2YhLG8rX) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [Desire](https://open.spotify.com/album/351qO6P8FcABXFsYPUfdDf) | 4:58 | 2023-02-23 | 2023-03-31 |
 | [DNA](https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [DNA](https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY) | 3:14 | 2023-09-07 | 2025-05-20 |
-| [Don't Wanna Be Nervous](https://open.spotify.com/track/437n4zz3tJe3ZIltuGy4Sk) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Don't Wanna Be Nervous](https://open.spotify.com/album/2wJcgrBwI5dFwWEQDEXUfW) | 3:00 | 2025-10-23 |  |
+| [Don't Wanna Be Nervous](https://open.spotify.com/track/437n4zz3tJe3ZIltuGy4Sk) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Don't Wanna Be Nervous](https://open.spotify.com/album/2wJcgrBwI5dFwWEQDEXUfW) | 3:00 | 2025-10-23 | 2026-02-04 |
 | [Dreamer](https://open.spotify.com/track/4YQubPuAYJpL7oXYCDvw0L) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dreamer](https://open.spotify.com/album/1GKEaevMrPeFx6EbUkw9Sg) | 2:53 | 2023-02-23 | 2023-09-01 |
 | [Driving Like A Dream Car Should](https://open.spotify.com/track/5yeaDXxrodUEbYGxfDXZej) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Driving Like A Dream Car Should](https://open.spotify.com/album/0PUtR0ic8SMHYtj6CF77cQ) | 3:07 | 2023-04-27 | 2024-06-14 |
 | [Drowning in the Dark](https://open.spotify.com/track/2AAm5EYrQt2i7VUNgkGFIl) | [Leanne Serena](https://open.spotify.com/artist/2rYx1os7rYtwAHinxxtPuW) | [Drowning in the Dark](https://open.spotify.com/album/393liDotKoRriPUxGDsvb2) | 3:35 | 2024-08-29 | 2025-01-17 |

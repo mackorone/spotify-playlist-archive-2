@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Santamarea in cover + tutto il meglio delle novità indie 🌊
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,529 likes - 126 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,528 likes - 126 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,61 +1,13 @@
 {
   "description": "OffAxisGigs.com | Indie | Folk | Electro | Rock | Pop ",
-  "num_followers": 1358,
+  "num_followers": 1356,
   "original_name": "Off Axis Gigs . com",
   "owner": {
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AABw+YzCvmimND7K0d3+/bW6+sUt84AS",
+  "snapshot_id": "AABw/C//wd4+mcVRmsmyv5AKQRjXSQvQ",
   "tracks": [
-    {
-      "added_at": "2026-01-31 12:53:37",
-      "album": {
-        "name": "Sunday feelin blue",
-        "url": "https://open.spotify.com/album/2LRE6xZXyyl89ycUp7Nepf"
-      },
-      "artists": [
-        {
-          "name": "The Shine",
-          "url": "https://open.spotify.com/artist/0hI3GGqvOL7dGXATVv9PDL"
-        }
-      ],
-      "duration_ms": 162516,
-      "name": "Sunday feelin blue",
-      "url": "https://open.spotify.com/track/5HxpA82MBhLlzrB46cqeGk"
-    },
-    {
-      "added_at": "2026-02-02 16:29:44",
-      "album": {
-        "name": "unrequited",
-        "url": "https://open.spotify.com/album/3QSuOtz5r0f6XpTrh7ps2y"
-      },
-      "artists": [
-        {
-          "name": "Bri Suarez",
-          "url": "https://open.spotify.com/artist/6YIifNHowmkIvsOwOlrUXq"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "closure",
-      "url": "https://open.spotify.com/track/7u7h9iVQx5CUb7gljzDSU1"
-    },
-    {
-      "added_at": "2026-02-02 16:32:02",
-      "album": {
-        "name": "Shiver",
-        "url": "https://open.spotify.com/album/3B57Qv6jReWQPiNJ9BhIeD"
-      },
-      "artists": [
-        {
-          "name": "Tidal Rave",
-          "url": "https://open.spotify.com/artist/1cLwEvonj7L34lEucivmLv"
-        }
-      ],
-      "duration_ms": 136727,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/0HVvVxGh2gMKpJRgeSYmYp"
-    },
     {
       "added_at": "2026-02-02 17:24:52",
       "album": {
@@ -2555,6 +2507,38 @@
       "duration_ms": 189677,
       "name": "Cool Story Bro",
       "url": "https://open.spotify.com/track/5GvWYBiKovK3KWGjmCi9wX"
+    },
+    {
+      "added_at": "2026-02-02 16:29:44",
+      "album": {
+        "name": "unrequited",
+        "url": "https://open.spotify.com/album/3QSuOtz5r0f6XpTrh7ps2y"
+      },
+      "artists": [
+        {
+          "name": "Bri Suarez",
+          "url": "https://open.spotify.com/artist/6YIifNHowmkIvsOwOlrUXq"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/7u7h9iVQx5CUb7gljzDSU1"
+    },
+    {
+      "added_at": "2026-02-02 16:32:02",
+      "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/3B57Qv6jReWQPiNJ9BhIeD"
+      },
+      "artists": [
+        {
+          "name": "Tidal Rave",
+          "url": "https://open.spotify.com/artist/1cLwEvonj7L34lEucivmLv"
+        }
+      ],
+      "duration_ms": 136727,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/0HVvVxGh2gMKpJRgeSYmYp"
     }
   ],
   "unique_name": "Off Axis Gigs . com",

@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 257741,
       "name": "Cabo de Guerra - Ao Vivo",
       "url": "https://open.spotify.com/track/2XFdV3cyde4ontEM9VuBZr"
@@ -15664,6 +15664,36 @@
       "duration_ms": 199986,
       "name": "Seu Particular",
       "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
+    },
+    {
+      "album": {
+        "name": "Sexo Hot 2",
+        "url": "https://open.spotify.com/album/1GiHRtZrCsAVQYOS5rfLqI"
+      },
+      "artists": [
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Bia Soull",
+          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
+        },
+        {
+          "name": "YORI",
+          "url": "https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172856,
+      "name": "Sexo Hot 2",
+      "url": "https://open.spotify.com/track/4qc9XsRd0x2Gdw3AzvUnhA"
     },
     {
       "album": {

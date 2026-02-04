@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u8309\u3072\u308b Mahiru",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: Furui Riho",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -4486,7 +4486,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 197600,
       "name": "BITTERSWEET",
       "url": "https://open.spotify.com/track/0LHBidxCBlOCzsCe2VICZx"
@@ -6035,6 +6035,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Myuk",
+          "url": "https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/2JFSvkUw0TIPBajbi84UcZ"
+    },
+    {
+      "album": {
         "name": "De-CODE",
         "url": "https://open.spotify.com/album/1qebMfe6qGw9cbE3GqA4GF"
       },
@@ -7302,7 +7320,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 304280,
       "name": "Cry High Fly",
       "url": "https://open.spotify.com/track/02qW4cKwqcCpOHrCrxQcPI"
@@ -7650,6 +7668,24 @@
       "duration_ms": 243000,
       "name": "Dancing Womer",
       "url": "https://open.spotify.com/track/1gnwP3EsVfF9ZNB9ILG5Bq"
+    },
+    {
+      "album": {
+        "name": "DARK GAME",
+        "url": "https://open.spotify.com/album/7KUSqIZLZE7YxCpgvUqTc5"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212959,
+      "name": "DARK GAME",
+      "url": "https://open.spotify.com/track/06yH03bQeE3qYbeD2lmNoG"
     },
     {
       "album": {
@@ -8460,7 +8496,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 153642,
       "name": "Ding-dong",
       "url": "https://open.spotify.com/track/7w0okOAHEpB4kJjUFIZbu0"
@@ -9410,7 +9446,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 230833,
       "name": "echo",
       "url": "https://open.spotify.com/track/1jSAiZwc8bVKSogXmfBSXt"
@@ -12849,6 +12885,24 @@
     },
     {
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/6BU0qSVqbO9apuhrrYBCB0"
+      },
+      "artists": [
+        {
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336106,
+      "name": "Hanamaru",
+      "url": "https://open.spotify.com/track/3Ykl8Lia4OvQMC2YZxVMru"
+    },
+    {
+      "album": {
         "name": "hanataba",
         "url": "https://open.spotify.com/album/36zDYE8DjvghcwUSAHNind"
       },
@@ -13146,6 +13200,28 @@
       "duration_ms": 311400,
       "name": "Harajuku Boy",
       "url": "https://open.spotify.com/track/1542ftkCri5kDj7xKUC4OL"
+    },
+    {
+      "album": {
+        "name": "HARD MODE",
+        "url": "https://open.spotify.com/album/0P9dHTIuTUDWE6QlSJJT8d"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "knoak",
+          "url": "https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231580,
+      "name": "HARD MODE",
+      "url": "https://open.spotify.com/track/1zgudvNqBtxLBnBNbRuuuG"
     },
     {
       "album": {
@@ -14287,6 +14363,24 @@
     },
     {
       "album": {
+        "name": "HITSUJI",
+        "url": "https://open.spotify.com/album/38udARm3saUU5IhbVyDR9W"
+      },
+      "artists": [
+        {
+          "name": "\u3093oon",
+          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "HITSUJI",
+      "url": "https://open.spotify.com/track/6lxBbKee8B57prmzPDu5aO"
+    },
+    {
+      "album": {
         "name": "Hiya!",
         "url": "https://open.spotify.com/album/3EOd3QnAd2yT4H0CkT75zS"
       },
@@ -14324,6 +14418,24 @@
       "duration_ms": 194673,
       "name": "Hold on",
       "url": "https://open.spotify.com/track/1YknjFiCnMnJVz12GdXqN7"
+    },
+    {
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/0RdAutXGrAeWaEGBlr9hEn"
+      },
+      "artists": [
+        {
+          "name": "C\u00f6 shu Nie",
+          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214756,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/3ywfR2tUoo1We4dgnVXEmz"
     },
     {
       "album": {
@@ -15262,6 +15374,24 @@
       "duration_ms": 223029,
       "name": "I may",
       "url": "https://open.spotify.com/track/4fhQg66S6O88LxIJhkUTcf"
+    },
+    {
+      "album": {
+        "name": "KAMINA",
+        "url": "https://open.spotify.com/album/7MDGxRkQ06saG4NCIQ6ca8"
+      },
+      "artists": [
+        {
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "I MISS YOU",
+      "url": "https://open.spotify.com/track/5PPNmEGNefeNsnCahZcmDB"
     },
     {
       "album": {
@@ -17106,7 +17236,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 158372,
       "name": "JUICE",
       "url": "https://open.spotify.com/track/4ToFLAivGYBiYkfBpLqqGw"
@@ -17484,7 +17614,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 179264,
       "name": "KARAOKE",
       "url": "https://open.spotify.com/track/2Q69G1nCkz3R3JGY0OYc7b"
@@ -18088,7 +18218,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 315333,
       "name": "knit",
       "url": "https://open.spotify.com/track/2NV3wVoE6FsCdtO5cK0SZO"
@@ -18832,7 +18962,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 282000,
       "name": "Le matin",
       "url": "https://open.spotify.com/track/5DquUPumZSaUc0d7xOutT2"
@@ -19546,6 +19676,24 @@
       "duration_ms": 219986,
       "name": "little star (2022 Illumination ver.)",
       "url": "https://open.spotify.com/track/6nnCXOMLQz0NhRMYmHKs98"
+    },
+    {
+      "album": {
+        "name": "Living",
+        "url": "https://open.spotify.com/album/4H52JSvG8qKypi82WlJ7Oa"
+      },
+      "artists": [
+        {
+          "name": "Rokudenashi",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201912,
+      "name": "Living",
+      "url": "https://open.spotify.com/track/45wy7O4gllBWPaySxkRDIZ"
     },
     {
       "album": {
@@ -24198,6 +24346,24 @@
       "duration_ms": 167058,
       "name": "noonoonoon",
       "url": "https://open.spotify.com/track/09Tsaaq09p1t5FXTAOoB58"
+    },
+    {
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206493,
+      "name": "Not a Goodbye",
+      "url": "https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E"
     },
     {
       "album": {
@@ -35648,7 +35814,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 198424,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/61BKVZCNFySRO9vvakKJBr"
@@ -44694,7 +44860,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 209808,
       "name": "\u30a2\u30a4\u30a8\u30ca\u30e9\u30a8 feat. \u8a69\u7fbd",
       "url": "https://open.spotify.com/track/3I6nrxDD1OqDmu57qbMYzu"
@@ -48076,7 +48242,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 195733,
       "name": "\u30be\u30fc\u30f330",
       "url": "https://open.spotify.com/track/67P1Qbqb14tD6MmGsuv0eh"
@@ -50652,6 +50818,24 @@
       "duration_ms": 175369,
       "name": "\u30e1\u30a4\u30c7\u30f3",
       "url": "https://open.spotify.com/track/5n4hfQXhSc1nXYoKTAS2xb"
+    },
+    {
+      "album": {
+        "name": "\u30e1\u30c7\u30a3\u30a2\u30ce\u30fc\u30c1\u30a7",
+        "url": "https://open.spotify.com/album/243VUqXWPKavxwE9ll1Vyo"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229600,
+      "name": "\u30e1\u30c7\u30a3\u30a2\u30ce\u30fc\u30c1\u30a7",
+      "url": "https://open.spotify.com/track/0da1IJi7awMHj2O4ZzGFWj"
     },
     {
       "album": {
@@ -54592,7 +54776,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 132642,
       "name": "\u541b\u3068\u96e8",
       "url": "https://open.spotify.com/track/4hyNsZKK28RPQVlXWup5wV"
@@ -55716,6 +55900,24 @@
       "duration_ms": 193187,
       "name": "\u591c\u306e\u9b54\u7269",
       "url": "https://open.spotify.com/track/1clpIi0TBP2DduJGa5m0F4"
+    },
+    {
+      "album": {
+        "name": "DEBUT",
+        "url": "https://open.spotify.com/album/4s9NnOKqJ7MkiXilulQYEp"
+      },
+      "artists": [
+        {
+          "name": "OKAME",
+          "url": "https://open.spotify.com/artist/3eFiQtxtuoUrj9rjlsWw00"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "\u591c\u306f\u304d\u3089\u3044",
+      "url": "https://open.spotify.com/track/5wngKDzVSyiCoDhiTPmIr8"
     },
     {
       "album": {
@@ -57222,6 +57424,24 @@
       "duration_ms": 248000,
       "name": "\u5e7d\u970a\u3068\u4f5c\u5bb6",
       "url": "https://open.spotify.com/track/3zESg1rg07bQfeCygpwXLt"
+    },
+    {
+      "album": {
+        "name": "utas",
+        "url": "https://open.spotify.com/album/0zcxntmRM4l8MCPd9zYEWP"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252634,
+      "name": "\u5e7d\u970a\u306b\u306a\u3063\u3066\u3082\u7f8e\u3057\u3044",
+      "url": "https://open.spotify.com/track/7ziRc53RRPcJUXdM2TTynr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,663 likes - 335 songs - 18 hr 59 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,664 likes - 335 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,9 +159,9 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 149 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 |
 | 150 | [Winter Hat](https://open.spotify.com/track/1RhMRGtAwqdLKR4zembdN9) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Winter Hat](https://open.spotify.com/album/3F5Wd8RB1tll3qQn7f1zYx) | 2:54 |
 | 151 | [Existentialism](https://open.spotify.com/track/4CTKBASw681XLH5ksIdrG4) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Adult Romantix](https://open.spotify.com/album/3QhaKVItgP8GQ5RQiz25FM) | 2:08 |
-| 152 | [Jesus and I](https://open.spotify.com/track/4wy2dOSgQdHFLbZr8j0DAg) | [Swan Pool](https://open.spotify.com/artist/3lIUKzXMQZfWrDZwzkIQlS) | [Jesus and I](https://open.spotify.com/album/3hEoSaTKi9vHrIz2bFnJow) | 3:15 |
-| 153 | [i will get my sleet](https://open.spotify.com/track/0v7A4RrUc1B61FxOeZzT0g) | [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [i will get my sleet](https://open.spotify.com/album/5wbVtGSXEGRNBl1CbRXxov) | 3:10 |
-| 154 | [Have You Lost Your Mind?](https://open.spotify.com/track/38c04ngtXRVl6PyW4qITT1) | [Test Subjects](https://open.spotify.com/artist/7jfAwO9YczGpEUuUlo3btB) | [Have You Lost Your Mind?](https://open.spotify.com/album/1lFfTpZD67p1SAltVY8C40) | 2:17 |
+| 152 | [Have You Lost Your Mind?](https://open.spotify.com/track/38c04ngtXRVl6PyW4qITT1) | [Test Subjects](https://open.spotify.com/artist/7jfAwO9YczGpEUuUlo3btB) | [Have You Lost Your Mind?](https://open.spotify.com/album/1lFfTpZD67p1SAltVY8C40) | 2:17 |
+| 153 | [Jesus and I](https://open.spotify.com/track/4wy2dOSgQdHFLbZr8j0DAg) | [Swan Pool](https://open.spotify.com/artist/3lIUKzXMQZfWrDZwzkIQlS) | [Jesus and I](https://open.spotify.com/album/3hEoSaTKi9vHrIz2bFnJow) | 3:15 |
+| 154 | [i will get my sleet](https://open.spotify.com/track/0v7A4RrUc1B61FxOeZzT0g) | [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [i will get my sleet](https://open.spotify.com/album/5wbVtGSXEGRNBl1CbRXxov) | 3:10 |
 | 155 | [Mania](https://open.spotify.com/track/5ssXBAdkn62RFd2bpfw8oR) | [Lloyd.](https://open.spotify.com/artist/2i4N93L7d2JpME9IZRzrvR) | [Mania](https://open.spotify.com/album/1JKbOCfQeaMIH6PHelmzlH) | 1:06 |
 | 156 | [seventeen](https://open.spotify.com/track/7JrieGto4Jeb6AE5uEWNY8) | [Not For Tears](https://open.spotify.com/artist/3UrgoIaPi2TLG2EH1chWs6) | [seventeen](https://open.spotify.com/album/5HqoUSNdrl85xYixToSxYq) | 2:46 |
 | 157 | [Blankets](https://open.spotify.com/track/0EwMMSlcXXBa6M9w8uzKdR) | [Boxwell](https://open.spotify.com/artist/22ODxCZ6qo5fyDnweWQ2YD) | [In Circles](https://open.spotify.com/album/6UnF6yvBvMYrStkICiMmVc) | 3:49 |
@@ -194,14 +194,14 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 184 | [Annihilation](https://open.spotify.com/track/5G4n81RaAm00AZxFpp3gQl) | [SLEEP CLUB](https://open.spotify.com/artist/0NBe4HGx3FYEnU5fGt1I9L) | [Annihilation](https://open.spotify.com/album/5kaHo7jaNzIrQgsGRNw3Ls) | 4:24 |
 | 185 | [Can't You See](https://open.spotify.com/track/3ObCwHxlyUfRnCPzHsQkv5) | [Garage Sale](https://open.spotify.com/artist/5mKieFMfRUdzfTKG1FtOXu) | [Any Day Now](https://open.spotify.com/album/3gwUL03L7rksTKNwvy1Od3) | 2:50 |
 | 186 | [Give It A Try](https://open.spotify.com/track/6cP2ktCQF27D3qGm2DZ58a) | [Roast Apple](https://open.spotify.com/artist/2wIevVqraquXke9DpklHJD) | [Give It A Try](https://open.spotify.com/album/0muEIUADeWzYfR0czajvJ2) | 3:29 |
-| 187 | [all this time](https://open.spotify.com/track/77qkViLbpBXQ9wpYjPPZFK) | [Yasu Cub](https://open.spotify.com/artist/01q4aGaA44cHbbv3bY8P1i) | [all this time](https://open.spotify.com/album/1aboKvq3elYD0fxArRWqkD) | 3:30 |
-| 188 | [Arlo](https://open.spotify.com/track/73rhPhSSVrJqjItUfqpAu9) | [Tertia](https://open.spotify.com/artist/78n58OVpIaQ1orE1y2YoRF) | [Fieldwork](https://open.spotify.com/album/4kEIy2XAtbUECAZ9sWjuel) | 2:47 |
-| 189 | [Teeth](https://open.spotify.com/track/0SgeFrGAaE1akh1j309dth) | [Glom](https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H) | [Teeth](https://open.spotify.com/album/5eDnMqaei7DLThcdUgsL3k) | 2:29 |
-| 190 | [Middle Child](https://open.spotify.com/track/6jBaQrw30BwBiQltRNS5tN) | [Qozy](https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh) | [Middle Child](https://open.spotify.com/album/2hs6fSeVsAmyIZ85omiv6J) | 2:35 |
-| 191 | [fantasy](https://open.spotify.com/track/3LachMmF7BoTsJyA3p0bKk) | [Sports Coach](https://open.spotify.com/artist/00bLFPoTuEnzgSQZyjw0gU) | [fantasy](https://open.spotify.com/album/4grq5pt6Tbyp8CmmEj6Frr) | 3:39 |
-| 192 | [Undersea Adventure](https://open.spotify.com/track/39pWpDy7HleDOc3MebIlCU) | [HOTT MT](https://open.spotify.com/artist/7s8woKsl1IGhU7G7cNUki7) | [Undersea Adventure](https://open.spotify.com/album/3rCe4F82BkgRYeXqQMpQZX) | 5:16 |
-| 193 | [The Burden of Desire](https://open.spotify.com/track/3sInw7gGLLExuGObZyvdtV) | [voyeur](https://open.spotify.com/artist/3NvIlmrQdMib4ST6sbd58n) | [The Burden of Desire](https://open.spotify.com/album/40dF51nViKQ8CIOGDodPpp) | 3:34 |
-| 194 | [+1](https://open.spotify.com/track/4o69Ej46n8qTk8Iys7u2Kn) | [B.Miles](https://open.spotify.com/artist/3rB3PZ6d1hAkNFD4PhLgQk) | [Time Doesn't Heal\. It Hides.](https://open.spotify.com/album/1RItMse8dZeJr7EB5HEhw7) | 3:35 |
+| 187 | [+1](https://open.spotify.com/track/4o69Ej46n8qTk8Iys7u2Kn) | [B.Miles](https://open.spotify.com/artist/3rB3PZ6d1hAkNFD4PhLgQk) | [Time Doesn't Heal\. It Hides.](https://open.spotify.com/album/1RItMse8dZeJr7EB5HEhw7) | 3:35 |
+| 188 | [all this time](https://open.spotify.com/track/77qkViLbpBXQ9wpYjPPZFK) | [Yasu Cub](https://open.spotify.com/artist/01q4aGaA44cHbbv3bY8P1i) | [all this time](https://open.spotify.com/album/1aboKvq3elYD0fxArRWqkD) | 3:30 |
+| 189 | [Arlo](https://open.spotify.com/track/73rhPhSSVrJqjItUfqpAu9) | [Tertia](https://open.spotify.com/artist/78n58OVpIaQ1orE1y2YoRF) | [Fieldwork](https://open.spotify.com/album/4kEIy2XAtbUECAZ9sWjuel) | 2:47 |
+| 190 | [Teeth](https://open.spotify.com/track/0SgeFrGAaE1akh1j309dth) | [Glom](https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H) | [Teeth](https://open.spotify.com/album/5eDnMqaei7DLThcdUgsL3k) | 2:29 |
+| 191 | [Middle Child](https://open.spotify.com/track/6jBaQrw30BwBiQltRNS5tN) | [Qozy](https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh) | [Middle Child](https://open.spotify.com/album/2hs6fSeVsAmyIZ85omiv6J) | 2:35 |
+| 192 | [fantasy](https://open.spotify.com/track/3LachMmF7BoTsJyA3p0bKk) | [Sports Coach](https://open.spotify.com/artist/00bLFPoTuEnzgSQZyjw0gU) | [fantasy](https://open.spotify.com/album/4grq5pt6Tbyp8CmmEj6Frr) | 3:39 |
+| 193 | [Undersea Adventure](https://open.spotify.com/track/39pWpDy7HleDOc3MebIlCU) | [HOTT MT](https://open.spotify.com/artist/7s8woKsl1IGhU7G7cNUki7) | [Undersea Adventure](https://open.spotify.com/album/3rCe4F82BkgRYeXqQMpQZX) | 5:16 |
+| 194 | [The Burden of Desire](https://open.spotify.com/track/3sInw7gGLLExuGObZyvdtV) | [voyeur](https://open.spotify.com/artist/3NvIlmrQdMib4ST6sbd58n) | [The Burden of Desire](https://open.spotify.com/album/40dF51nViKQ8CIOGDodPpp) | 3:34 |
 | 195 | [DESK JOB](https://open.spotify.com/track/3fkO4mY8kjtfyTWvhTt7UJ) | [RAGEFLOWER](https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG) | [INFINITE HIGHS, END OF TIMES](https://open.spotify.com/album/1rPssyCdLdC9UwGVLB5f6j) | 2:23 |
 | 196 | [Somewhere](https://open.spotify.com/track/6sJdjpk3dPOWCdZrUKxe0Z) | [Chelsea Hodson](https://open.spotify.com/artist/3LZiWKGKJRmZ9iQZxKj4TQ) | [Somewhere](https://open.spotify.com/album/0QGHcrMb1obSZaDBaThjq8) | 4:18 |
 | 197 | [a love song](https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Go Outside And Hug A Tree](https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x) | 2:43 |
@@ -234,11 +234,11 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 224 | [Please](https://open.spotify.com/track/7wtU8CEcIELlWhmvC0hqZx) | [Otracami](https://open.spotify.com/artist/6VZhV0nHzh64xErbe4OHZs) | [Please](https://open.spotify.com/album/1yn8sAYRP3l4F624E2mwy8) | 3:33 |
 | 225 | [Angel Cupid](https://open.spotify.com/track/707LchQf1EpIpfAXY6gw1n) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Angel Cupid](https://open.spotify.com/album/7kgslCwcG3I4RDkZVR5Gdj) | 3:29 |
 | 226 | [Hollywood](https://open.spotify.com/track/2zpO7sqaRqXcRDuEIz6kl7) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Hollywood](https://open.spotify.com/album/6qfmR9od4hRVjLkvjsjkWe) | 3:28 |
-| 227 | [Poseidon](https://open.spotify.com/track/2TtdmLjhjXrVt0IbCGpO3f) | [Revenge Wife](https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT) | [Poseidon](https://open.spotify.com/album/157eVdEzNqe4ynrmkx3SdB) | 3:20 |
-| 228 | [Another Twilight](https://open.spotify.com/track/6a4c7glnUM9T8AbcFnZQCV) | [Hannah Lew](https://open.spotify.com/artist/40ZrXbMB5FFIxtzatM8Wol) | [Another Twilight](https://open.spotify.com/album/5IW08GdffCb0rLtAe0iuhL) | 3:50 |
-| 229 | [Centralia](https://open.spotify.com/track/253g0G4Hvl2xVvmlsjkRV5) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Centralia](https://open.spotify.com/album/0ovV2Ev2jH4e5MuBgA0XBE) | 3:08 |
-| 230 | [Finger Driver](https://open.spotify.com/track/2TurbLC423Lsl37ciP9ITY) | [MAKEUP](https://open.spotify.com/artist/0WtAdekiVjVPltE1vSm6w1) | [Finger Driver](https://open.spotify.com/album/4Ouftk2qY1OcTgIryWzgqo) | 5:42 |
-| 231 | [Boy](https://open.spotify.com/track/3i3niN4RmRaFs9nMQYoml2) | [Catherine Moan](https://open.spotify.com/artist/1j3eSDACLPhrEDYDkHYF9I) | [Boy](https://open.spotify.com/album/0nQfk1r3QU8uKsMpdQMP8D) | 2:58 |
+| 227 | [Boy](https://open.spotify.com/track/3i3niN4RmRaFs9nMQYoml2) | [Catherine Moan](https://open.spotify.com/artist/1j3eSDACLPhrEDYDkHYF9I) | [Boy](https://open.spotify.com/album/0nQfk1r3QU8uKsMpdQMP8D) | 2:58 |
+| 228 | [Poseidon](https://open.spotify.com/track/2TtdmLjhjXrVt0IbCGpO3f) | [Revenge Wife](https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT) | [Poseidon](https://open.spotify.com/album/157eVdEzNqe4ynrmkx3SdB) | 3:20 |
+| 229 | [Another Twilight](https://open.spotify.com/track/6a4c7glnUM9T8AbcFnZQCV) | [Hannah Lew](https://open.spotify.com/artist/40ZrXbMB5FFIxtzatM8Wol) | [Another Twilight](https://open.spotify.com/album/5IW08GdffCb0rLtAe0iuhL) | 3:50 |
+| 230 | [Centralia](https://open.spotify.com/track/253g0G4Hvl2xVvmlsjkRV5) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Centralia](https://open.spotify.com/album/0ovV2Ev2jH4e5MuBgA0XBE) | 3:08 |
+| 231 | [Finger Driver](https://open.spotify.com/track/2TurbLC423Lsl37ciP9ITY) | [MAKEUP](https://open.spotify.com/artist/0WtAdekiVjVPltE1vSm6w1) | [Finger Driver](https://open.spotify.com/album/4Ouftk2qY1OcTgIryWzgqo) | 5:42 |
 | 232 | [Honey](https://open.spotify.com/track/4N8tXiCWwtkpODvTKQs41X) | [Ora Cogan](https://open.spotify.com/artist/0zZHy0tQvwi4L5HNvNq0QY) | [Honey](https://open.spotify.com/album/65dNgCcUIGxicIscPVnzkI) | 4:26 |
 | 233 | [In the New](https://open.spotify.com/track/5xyar9CID2f7YDlWEww0iA) | [Kate de Rosset](https://open.spotify.com/artist/6fjMGsreKJjcyJdJHtF0oU) | [It Will Burn](https://open.spotify.com/album/5IlNKRiCpO4cNNqhzDVwYl) | 5:24 |
 | 234 | [Louie](https://open.spotify.com/track/5Q3XkGkAmV2m2KF2gCySx6) | [Makthaverskan](https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E) | [Louie](https://open.spotify.com/album/5DaIOFF0XT6sWm8aJv2u2k) | 3:09 |
@@ -344,4 +344,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 334 | [Growth Machine](https://open.spotify.com/track/0RCLeg65Xq5q7IeBTKmRZy) | [Nevin](https://open.spotify.com/artist/7mv4ENpQx3G5aSOlbalvU0) | [Growth Machine](https://open.spotify.com/album/0ftFYBIEC52NIXEIdZ12n9) | 4:01 |
 | 335 | [Away](https://open.spotify.com/track/3BV7JiYHQAcWgQA1G5JNH6) | [Jo Passed](https://open.spotify.com/artist/1ONiIDqrHLLeDjVan9RRns) | [Away](https://open.spotify.com/album/2qkKaD8PVtIu8RKmHVtwNI) | 3:18 |
 
-Snapshot ID: `AAAuG/VPfvHDq3WGHubaLWhySnBotfRs`
+Snapshot ID: `AAAuIMBGTSDCGx0N72BP+K0zcQkPLTdg`

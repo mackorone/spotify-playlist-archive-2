@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 42 | [A Cor](https://open.spotify.com/track/6Tbydatdx7bzFqJ4wa72GC) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 4:41 |
 | 43 | [Sinal](https://open.spotify.com/track/2csmOLd8b5smgDpDypNExQ) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 4:21 |
 | 44 | [Mexa\-Se](https://open.spotify.com/track/0OrL8VmEZp74eCDYJUMtl1) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 3:50 |
-| 45 | [Saúde Mental](https://open.spotify.com/track/6XjtPOR2hpu5VIPuGszncV) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/6sBuYTZVabHAN4cP2a548C) | 4:11 |
-| 46 | [Posso Fugir](https://open.spotify.com/track/6iE8yBEyCOzbEhcjcEoAZz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/6sBuYTZVabHAN4cP2a548C) | 4:53 |
+| 45 | [Posso Fugir](https://open.spotify.com/track/6iE8yBEyCOzbEhcjcEoAZz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/6sBuYTZVabHAN4cP2a548C) | 4:53 |
+| 46 | [Saúde Mental](https://open.spotify.com/track/6XjtPOR2hpu5VIPuGszncV) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/6sBuYTZVabHAN4cP2a548C) | 4:11 |
 | 47 | [Bate Moleque](https://open.spotify.com/track/1v0FytK6XpAPIO5d6Ak6lZ) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/6sBuYTZVabHAN4cP2a548C) | 4:02 |
 | 48 | [O Trem da Vida](https://open.spotify.com/track/5UhXExY2kOFrOuDhpzzNdA) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 4:31 |
 | 49 | [Corpo Fechado](https://open.spotify.com/track/1By5QSD1AYrrOHG5a31IX3) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/6sBuYTZVabHAN4cP2a548C) | 3:00 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 58 | [Vítima](https://open.spotify.com/track/3evRYeoBMqhJt3oDNojlps) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 4:10 |
 | 59 | [Rasta Commander](https://open.spotify.com/track/5a6pFkwgYuw7SgJ2QanIJG) | [Luiz de Assis](https://open.spotify.com/artist/6GsSCLHySnPTdaS82mgMir), [Cedric Myton](https://open.spotify.com/artist/0WYnbwHtJwlgq4kZ8wv5Y3), [Átila Santana](https://open.spotify.com/artist/3xZplycz3ZHKYoIUM9wwnS) | [Rasta Commander](https://open.spotify.com/album/3aGP9FKhuvuqnbkUuFISnC) | 4:20 |
 
-Snapshot ID: `AcIoHgAAAAAWOmoZ+27FuC/kgSwaIutI`
+Snapshot ID: `AcItggAAAADlwvN2wBxWPtrPAIwH8Ieq`

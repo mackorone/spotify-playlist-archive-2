@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: D\-Block & S\-te\-Fan
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,599 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,670 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 3 | [Awaken The Titan](https://open.spotify.com/track/5gXl0Y2xZpgcvhDpcU8owc) | [Titan](https://open.spotify.com/artist/0FfiqpPNuyhma9Sc4nF3U5) | [Awaken The Titan](https://open.spotify.com/album/5vtJwtPls0GNLK8Lq7LXgn) | 3:06 |
 | 4 | [RECKLESS](https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [RECKLESS](https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE) | 2:40 |
 | 5 | [Journey Through Sound](https://open.spotify.com/track/2SZLJfxcEzwtahQmvVoi7V) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Journey Through Sound](https://open.spotify.com/album/7gkZOkyID0R09lwlp9ri0i) | 3:42 |
-| 6 | [Our Legacy](https://open.spotify.com/track/3gauZI8yKDUCDVZDrm0tOz) | [DÂVINØ](https://open.spotify.com/artist/5S7oiAcfKX87nwd1kqgvfh) | [Our Legacy](https://open.spotify.com/album/7nXSxV1ggfDmjHmP8wfO2Q) | 3:10 |
-| 7 | [Una Hora Más \- Dimitri K & The Dark Horror Remix](https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Una Hora Más \(Dimitri K & The Dark Horror Remix\)](https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL) | 3:36 |
-| 8 | [Thunder](https://open.spotify.com/track/61FDBTmciFHAX2N7qkezim) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Thunder](https://open.spotify.com/album/2tcKKWhpEpA5v6R4toUIB1) | 3:00 |
+| 6 | [Una Hora Más \- Dimitri K & The Dark Horror Remix](https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Una Hora Más \(Dimitri K & The Dark Horror Remix\)](https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL) | 3:36 |
+| 7 | [Thunder](https://open.spotify.com/track/61FDBTmciFHAX2N7qkezim) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Thunder](https://open.spotify.com/album/2tcKKWhpEpA5v6R4toUIB1) | 3:00 |
+| 8 | [Our Legacy](https://open.spotify.com/track/3gauZI8yKDUCDVZDrm0tOz) | [DÂVINØ](https://open.spotify.com/artist/5S7oiAcfKX87nwd1kqgvfh) | [Our Legacy](https://open.spotify.com/album/7nXSxV1ggfDmjHmP8wfO2Q) | 3:10 |
 | 9 | [United In Strength](https://open.spotify.com/track/6zD3HJhLDN7KGvZv4wi6zr) | [Deepack](https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev) | [United In Strength](https://open.spotify.com/album/3Po9vNFpJ5udQ3eb6cXTGu) | 3:06 |
 | 10 | [Never Coming Down](https://open.spotify.com/track/4SHkx6ZqqWYFYFJHemDLKK) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Never Coming Down](https://open.spotify.com/album/7ABAY9YdESYg7WWYkPwzuH) | 3:03 |
 | 11 | [Hold Me](https://open.spotify.com/track/1qfR0wPkVbRS60kJEC5xu0) | [Nightcraft](https://open.spotify.com/artist/4IQIMZPSBfizEPPGdCmsXV), [Jason Payne](https://open.spotify.com/artist/7zNgBJI5ddd3GanVxVq6bW) | [Hold Me](https://open.spotify.com/album/0jTJGZ4OyWDAC69dFB9q83) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Up In Flames](https://open.spotify.com/track/3afBhAnP5NBrG8sdXSUDXO) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Up In Flames](https://open.spotify.com/album/4YfIl21LibHPsHQYfdZSyj) | 2:52 |
 | 100 | [Legacy](https://open.spotify.com/track/4aJh1izMvbKRXW4lYT1zbU) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO), [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e) | [Legacy](https://open.spotify.com/album/6gCXczP4Xq1BsIwqtIqDOx) | 2:43 |
 
-Snapshot ID: `AAAAAAEFaU3uPrrQm4/OQ56BOyjrlLlU`
+Snapshot ID: `AAAAAEjx5OPvS4IN9dvJh8DPIjBmO4cW`

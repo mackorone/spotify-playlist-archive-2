@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 77932,
+  "num_followers": 77929,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "A Maior Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ILheZBIdfuSt6cjQRsWiB"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        }
-      ],
-      "duration_ms": 468953,
-      "name": "Quem \u00c9 Esse? - Ao Vivo",
-      "url": "https://open.spotify.com/track/035Q417M83JnP3wvSlyFEK"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Coisas Naturais",
         "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 239779,
       "name": "Coisas Naturais",
       "url": "https://open.spotify.com/track/0MAc9pefRKSDEjq8Q85Mky"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "A Maior Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ILheZBIdfuSt6cjQRsWiB"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        }
+      ],
+      "duration_ms": 468953,
+      "name": "Quem \u00c9 Esse? - Ao Vivo",
+      "url": "https://open.spotify.com/track/035Q417M83JnP3wvSlyFEK"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "BOGOT\u00c1",
-        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 195730,
-      "name": "Bogot\u00e1",
-      "url": "https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Palabra De To's (Seca)",
         "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 112848,
       "name": "Ah\u00ed Estabas T\u00fa",
       "url": "https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "BOGOT\u00c1",
+        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 195730,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "big buraco",
-        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
-      },
-      "artists": [
-        {
-          "name": "Jadsa",
-          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
-        }
-      ],
-      "duration_ms": 180185,
-      "name": "sol na pele",
-      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Cancionera",
         "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 336005,
       "name": "Cancionera",
       "url": "https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "big buraco",
+        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
+      },
+      "artists": [
+        {
+          "name": "Jadsa",
+          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
+        }
+      ],
+      "duration_ms": 180185,
+      "name": "sol na pele",
+      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -671,30 +671,6 @@
       "duration_ms": 147826,
       "name": "Volta",
       "url": "https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
-        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "S\u00f3 Quero Ver",
-      "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -739,6 +715,30 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+        }
+      ],
+      "duration_ms": 169546,
+      "name": "S\u00f3 Quero Ver",
+      "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Casa Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6vSNBpqihCHJcrCVTstJMv"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 266737,
-      "name": "CAJU",
-      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Onde Guardamos as Flores?",
         "url": "https://open.spotify.com/album/0lIYF35w3Bkiw8zKx3lG6z"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 287487,
       "name": "N\u00e3o Sou Mais Eu",
       "url": "https://open.spotify.com/track/5FbprHnY0bdQuslqVkUCdK"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 266737,
+      "name": "CAJU",
+      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Transespacial",
+        "url": "https://open.spotify.com/album/5ad60ItCkVWina53xajH4n"
+      },
+      "artists": [
+        {
+          "name": "Fitti",
+          "url": "https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk"
+        }
+      ],
+      "duration_ms": 175053,
+      "name": "Feliz e Triste",
+      "url": "https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Jos\u00e9 & Durval",
         "url": "https://open.spotify.com/album/5mrMvvBNCmK4VWvmTDYzmu"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 265055,
       "name": "Romance de Filme",
       "url": "https://open.spotify.com/track/3CIBtDrCnomSWt4m9ucv3m"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Transespacial",
-        "url": "https://open.spotify.com/album/5ad60ItCkVWina53xajH4n"
-      },
-      "artists": [
-        {
-          "name": "Fitti",
-          "url": "https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk"
-        }
-      ],
-      "duration_ms": 175053,
-      "name": "Feliz e Triste",
-      "url": "https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A"
     },
     {
       "added_at": "2025-09-17 15:00:09",

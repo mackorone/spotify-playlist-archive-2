@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1116084,
+  "num_followers": 1116127,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAABtwa9xhApc4SJaRVehGa8L",
+  "snapshot_id": "aX/pAAAAAAATqiu7QyOwQ44ZxlpCpxrm",
   "tracks": [
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 203306,
-      "name": "Miraron Llorar a un Hombre",
-      "url": "https://open.spotify.com/track/2FkpqyehpuEhvkEMsOEg69"
+      "duration_ms": 178440,
+      "name": "Los Mandados",
+      "url": "https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM"
     },
     {
       "added_at": null,
@@ -748,25 +748,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 178440,
-      "name": "Los Mandados",
-      "url": "https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Hijo Del Pueblo",
-        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "La Ley de la Vida",
-      "url": "https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr"
+      "duration_ms": 203306,
+      "name": "Miraron Llorar a un Hombre",
+      "url": "https://open.spotify.com/track/2FkpqyehpuEhvkEMsOEg69"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 154733,
       "name": "Ella",
       "url": "https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "La Ley de la Vida",
+      "url": "https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr"
     },
     {
       "added_at": null,

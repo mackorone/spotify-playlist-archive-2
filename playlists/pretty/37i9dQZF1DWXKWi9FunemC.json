@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 393177,
+  "num_followers": 393213,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Cold Of The Night",
+        "url": "https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV"
+      },
+      "artists": [
+        {
+          "name": "Ivan Castro",
+          "url": "https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14"
+        }
+      ],
+      "duration_ms": 223858,
+      "name": "Cold Of The Night",
+      "url": "https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "The King Is Coming (Reimagined)",
         "url": "https://open.spotify.com/album/5ICnnanXjdEOP2tHzAlqkH"
       },
@@ -599,38 +615,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Cold Of The Night",
-        "url": "https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV"
-      },
-      "artists": [
-        {
-          "name": "Ivan Castro",
-          "url": "https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14"
-        }
-      ],
-      "duration_ms": 223858,
-      "name": "Cold Of The Night",
-      "url": "https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Standing Tall",
-        "url": "https://open.spotify.com/album/2zvfb567grDEsVSfO5R9Iw"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Standing Tall",
-      "url": "https://open.spotify.com/track/5gdW2FJUYLBeWv8mtOIp3m"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "The Sacrifice",
         "url": "https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 228215,
       "name": "The Sacrifice",
       "url": "https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Standing Tall",
+        "url": "https://open.spotify.com/album/2zvfb567grDEsVSfO5R9Iw"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Standing Tall",
+      "url": "https://open.spotify.com/track/5gdW2FJUYLBeWv8mtOIp3m"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Calling Me Home",
+        "url": "https://open.spotify.com/album/1Q8ZPBPyPK1Kz3jDVb04Ru"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 180015,
+      "name": "Calling Me Home",
+      "url": "https://open.spotify.com/track/6M31tD9sFCe7Myvo3iQHJZ"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "At The Table",
         "url": "https://open.spotify.com/album/4V1Evh0o7deYLAKbKbuWn3"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 94783,
       "name": "At The Table",
       "url": "https://open.spotify.com/track/0bKJZa5lv1KsL6UKiDAdJK"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Calling Me Home",
-        "url": "https://open.spotify.com/album/1Q8ZPBPyPK1Kz3jDVb04Ru"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 180015,
-      "name": "Calling Me Home",
-      "url": "https://open.spotify.com/track/6M31tD9sFCe7Myvo3iQHJZ"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Es\u00e9",
-        "url": "https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 194602,
-      "name": "Es\u00e9",
-      "url": "https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Falling For You",
         "url": "https://open.spotify.com/album/6BWnjFtlkr5qPpFxQiQcXw"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 187994,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/2D4g5r9CzCmHuDPKfgqmcr"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Es\u00e9",
+        "url": "https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 194602,
+      "name": "Es\u00e9",
+      "url": "https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/4k07IjVvBgN8RUdTKZlKkY"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        },
-        {
-          "name": "Kings Kaleidoscope Hymns",
-          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/76LGi5nwlRwu6ixb1VxtJr"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Found in You",
         "url": "https://open.spotify.com/album/4jmDf4lrzi1fHKIbWIplxe"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 241800,
       "name": "All That I Am",
       "url": "https://open.spotify.com/track/1cmSJaNKWE4lJ1Eqiaiyyh"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/4k07IjVvBgN8RUdTKZlKkY"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        },
+        {
+          "name": "Kings Kaleidoscope Hymns",
+          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/76LGi5nwlRwu6ixb1VxtJr"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "i love You",
-        "url": "https://open.spotify.com/album/67GpvgOPbnO9MA0emsa4RI"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        },
-        {
-          "name": "Olivia Stern",
-          "url": "https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu"
-        }
-      ],
-      "duration_ms": 188463,
-      "name": "i love You",
-      "url": "https://open.spotify.com/track/6FNPc4wx2qyz3AGrJKepNO"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "STRENGTH AND SONG",
         "url": "https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw"
       },
@@ -1063,22 +1043,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Brittle",
-        "url": "https://open.spotify.com/album/3YmTVAkCqL5498MHbOlB9J"
+        "name": "i love You",
+        "url": "https://open.spotify.com/album/67GpvgOPbnO9MA0emsa4RI"
       },
       "artists": [
         {
-          "name": "Tekoa",
-          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
         },
         {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+          "name": "Olivia Stern",
+          "url": "https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu"
         }
       ],
-      "duration_ms": 212103,
-      "name": "Brittle",
-      "url": "https://open.spotify.com/track/1TfhnviXtcjpfXi6nINyDg"
+      "duration_ms": 188463,
+      "name": "i love You",
+      "url": "https://open.spotify.com/track/6FNPc4wx2qyz3AGrJKepNO"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1099,6 +1079,26 @@
       "duration_ms": 233129,
       "name": "Happily Hidden (with John Mark McMillan)",
       "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Brittle",
+        "url": "https://open.spotify.com/album/3YmTVAkCqL5498MHbOlB9J"
+      },
+      "artists": [
+        {
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        },
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 212103,
+      "name": "Brittle",
+      "url": "https://open.spotify.com/track/1TfhnviXtcjpfXi6nINyDg"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Take Over Me",
+        "url": "https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 191979,
+      "name": "Take Over Me",
+      "url": "https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 143947,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Take Over Me",
-        "url": "https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 191979,
-      "name": "Take Over Me",
-      "url": "https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Every Now & Then",
-        "url": "https://open.spotify.com/album/1gTRX2lDj1pVZvaIS6TSuy"
-      },
-      "artists": [
-        {
-          "name": "Ethan Nathaniel",
-          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
-        }
-      ],
-      "duration_ms": 149298,
-      "name": "Every Now & Then",
-      "url": "https://open.spotify.com/track/7aEVTVSrder389tC4hkkYN"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Light of Heaven",
         "url": "https://open.spotify.com/album/09kgncLTX6pFf77R1bHOZx"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 230965,
       "name": "Light of Heaven",
       "url": "https://open.spotify.com/track/6USsf7jYhhvclACQuK4JPF"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Every Now & Then",
+        "url": "https://open.spotify.com/album/1gTRX2lDj1pVZvaIS6TSuy"
+      },
+      "artists": [
+        {
+          "name": "Ethan Nathaniel",
+          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
+        }
+      ],
+      "duration_ms": 149298,
+      "name": "Every Now & Then",
+      "url": "https://open.spotify.com/track/7aEVTVSrder389tC4hkkYN"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1643,42 +1643,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Better Plan",
-        "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
-      },
-      "artists": [
-        {
-          "name": "eightFour",
-          "url": "https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs"
-        },
-        {
-          "name": "Calah Mikal",
-          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
-        }
-      ],
-      "duration_ms": 238152,
-      "name": "Better Plan",
-      "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Sweet By and By Goodbye",
-        "url": "https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD"
-      },
-      "artists": [
-        {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
-        }
-      ],
-      "duration_ms": 219955,
-      "name": "Sweet By and By Goodbye",
-      "url": "https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Taste And See",
         "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
       },
@@ -1699,6 +1663,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Sweet By and By Goodbye",
+        "url": "https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        }
+      ],
+      "duration_ms": 219955,
+      "name": "Sweet By and By Goodbye",
+      "url": "https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/769783yoELFpFOSUNmv5St"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 184839,
       "name": "Water",
       "url": "https://open.spotify.com/track/2XYipR92BgIvtWuXiaIK8C"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Better Plan",
+        "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
+      },
+      "artists": [
+        {
+          "name": "eightFour",
+          "url": "https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs"
+        },
+        {
+          "name": "Calah Mikal",
+          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
+        }
+      ],
+      "duration_ms": 238152,
+      "name": "Better Plan",
+      "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "fair weather!",
+        "url": "https://open.spotify.com/album/7iTYcdADt1MfsskWi1WACq"
+      },
+      "artists": [
+        {
+          "name": "Praise Lubangu",
+          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
+        }
+      ],
+      "duration_ms": 184247,
+      "name": "fair weather!",
+      "url": "https://open.spotify.com/track/3ZIsd95wl3EGSYGt9lGpp2"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/0ghQs4vR2dJgflZckBUWV0"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 133928,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5eI2j2KKFJaUntBVt4Ukel"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "fair weather!",
-        "url": "https://open.spotify.com/album/7iTYcdADt1MfsskWi1WACq"
-      },
-      "artists": [
-        {
-          "name": "Praise Lubangu",
-          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
-        }
-      ],
-      "duration_ms": 184247,
-      "name": "fair weather!",
-      "url": "https://open.spotify.com/track/3ZIsd95wl3EGSYGt9lGpp2"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Shepherd",
-        "url": "https://open.spotify.com/album/5P3mOe2SPlO7FZGtV7WvAD"
-      },
-      "artists": [
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        }
-      ],
-      "duration_ms": 135272,
-      "name": "Shepherd",
-      "url": "https://open.spotify.com/track/6uqJDM00DgCXTSWuvzZuxb"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Teach Us That One Song",
         "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Shepherd",
+        "url": "https://open.spotify.com/album/5P3mOe2SPlO7FZGtV7WvAD"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 135272,
+      "name": "Shepherd",
+      "url": "https://open.spotify.com/track/6uqJDM00DgCXTSWuvzZuxb"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 189292,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Foolish & Ruined",
         "url": "https://open.spotify.com/album/1VTMJQrkPyGoAguXMSc3nK"
       },
@@ -2227,18 +2243,18 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
+        "name": "Jesus the Vine",
+        "url": "https://open.spotify.com/album/2Hq4Kz9rt7p1UGSPU4lvwR"
       },
       "artists": [
         {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+          "name": "Michael Gabriel Monroe",
+          "url": "https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75"
         }
       ],
-      "duration_ms": 189292,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
+      "duration_ms": 270740,
+      "name": "Jesus the Vine",
+      "url": "https://open.spotify.com/track/43iJlRfGPVZrFEahCuw0GR"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2255,22 +2271,6 @@
       "duration_ms": 127105,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/0ylLF0TJgAQun5TCG10CeT"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Jesus the Vine",
-        "url": "https://open.spotify.com/album/2Hq4Kz9rt7p1UGSPU4lvwR"
-      },
-      "artists": [
-        {
-          "name": "Michael Gabriel Monroe",
-          "url": "https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75"
-        }
-      ],
-      "duration_ms": 270740,
-      "name": "Jesus the Vine",
-      "url": "https://open.spotify.com/track/43iJlRfGPVZrFEahCuw0GR"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "It Goes Both Ways",
+        "url": "https://open.spotify.com/album/0oK55mBAQglpapd3cEjKh8"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 222992,
+      "name": "It Goes Both Ways",
+      "url": "https://open.spotify.com/track/61agJFeawepC25zhwZgP5Y"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Savior More Than Life",
         "url": "https://open.spotify.com/album/2cdrRPuiOLwCgIc0kOV2UJ"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 220821,
       "name": "Savior More Than Life",
       "url": "https://open.spotify.com/track/7AdCYNyx0N3QAUVifInB0s"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "It Goes Both Ways",
-        "url": "https://open.spotify.com/album/0oK55mBAQglpapd3cEjKh8"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 222992,
-      "name": "It Goes Both Ways",
-      "url": "https://open.spotify.com/track/61agJFeawepC25zhwZgP5Y"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2607,6 +2607,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Livin' To Learn",
+        "url": "https://open.spotify.com/album/6Ilwp3o5p0nuYlB42uGyoe"
+      },
+      "artists": [
+        {
+          "name": "Alex Jude",
+          "url": "https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6"
+        }
+      ],
+      "duration_ms": 147178,
+      "name": "Livin' To Learn",
+      "url": "https://open.spotify.com/track/47Hf9LNwkxnQK7BtzyFtp1"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "24/3",
         "url": "https://open.spotify.com/album/1FIhgPfQqOvDhsy0NBar0T"
       },
@@ -2623,22 +2639,6 @@
       "duration_ms": 228165,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/5Gw9pGxKswaBAe7NCzxJ1q"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Livin' To Learn",
-        "url": "https://open.spotify.com/album/6Ilwp3o5p0nuYlB42uGyoe"
-      },
-      "artists": [
-        {
-          "name": "Alex Jude",
-          "url": "https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6"
-        }
-      ],
-      "duration_ms": 147178,
-      "name": "Livin' To Learn",
-      "url": "https://open.spotify.com/track/47Hf9LNwkxnQK7BtzyFtp1"
     },
     {
       "added_at": "2025-12-12 22:29:55",

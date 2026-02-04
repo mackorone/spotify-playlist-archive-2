@@ -884,7 +884,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 172540,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
@@ -3848,10 +3848,28 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 227472,
       "name": "Locked Away",
       "url": "https://open.spotify.com/track/1tmtNTFj5e1lOZ5FF5D1uD"
+    },
+    {
+      "album": {
+        "name": "Billboard Best Hit Pop 60 - \uc560\ub2c8\uba54\uc774\uc158 \uc601\ud654, \ub4dc\ub77c\ub9c8\uc5d0 \ub098\uc624\ub294 \ube4c\ubcf4\ub4dc \ud31d\uc1a1 \ubca0\uc2a4\ud2b8",
+        "url": "https://open.spotify.com/album/5XiAUIFxvHd5WwDHAKNYoh"
+      },
+      "artists": [
+        {
+          "name": "Movie Pop Stars",
+          "url": "https://open.spotify.com/artist/3uPTKCN827rWcuEcOKtkxU"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227526,
+      "name": "Locked Away (by. Adam Levine & R.City)",
+      "url": "https://open.spotify.com/track/4dTaAsxAOFzWVFtUzj6R89"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-180 songs - 11 hr 6 min
+181 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Despacito \- Remix](https://open.spotify.com/track/1vnnXMrBeEWiRg3YCMCjQq) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:50 | 2023-03-09 |  |
 | [Despacito x Shape Of You](https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 3:18 | 2023-03-09 |  |
 | [Dimelo Mi Amor](https://open.spotify.com/track/1WUmROl7NnLXEK6l4XM2eE) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:35 | 2023-03-09 | 2024-05-02 |
+| [Don't Give Up](https://open.spotify.com/track/6ARXRdPercoOClawyz2hOi) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [The Sunshine State](https://open.spotify.com/album/5vkfBiDEnpWdpNqIW7AY37) | 4:14 | 2026-02-03 |  |
 | [Donde \(Xeque\-Mate\)](https://open.spotify.com/track/314hiE2Yr06A9gDHNg7Pyr) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Donde \(Xeque\-Mate\)](https://open.spotify.com/album/06ZepOfHjDSp99jAECXmjW) | 3:26 | 2023-03-09 |  |
 | [Donde \- Remix](https://open.spotify.com/track/2TKx2VX1WS8SakXQcYNG0v) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Donde \(Remix\)](https://open.spotify.com/album/3SUCEzZG84ZDXRJfemBHzV) | 3:30 | 2023-03-09 |  |
 | [Dueña De Mis Ojos \(Remix\)](https://open.spotify.com/track/2vPmivEKAgdBY9WiOeKBIi) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Me Gusta](https://open.spotify.com/album/1eYDmaDVd5ZcIgbKh4pLOT) | 3:54 | 2025-12-06 |  |

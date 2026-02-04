@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX74ozWuOfjjm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX74ozWuOfjjm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX74ozWuOfjjm)
 
-### [EQUAL AU & NZ 2025](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
+### [EQUAL AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
 
 > Listen to women at full volume\. Cover: Holly Hebe, Chloe Parché
 

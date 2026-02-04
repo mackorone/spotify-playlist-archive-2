@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 650800,
+  "num_followers": 650902,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Happy Face",
-        "url": "https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 202219,
-      "name": "Happy Face",
-      "url": "https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "Ain't Doin' Jack",
         "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 160680,
       "name": "Ain't Doin' Jack",
       "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "Happy Face",
+        "url": "https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 202219,
+      "name": "Happy Face",
+      "url": "https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -919,18 +919,22 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF"
+        "name": "Whiskey Lullaby",
+        "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
       },
       "artists": [
         {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+          "name": "Drew Jacobs",
+          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
+        },
+        {
+          "name": "Caitlynne Curtis",
+          "url": "https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf"
         }
       ],
-      "duration_ms": 288121,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
+      "duration_ms": 269594,
+      "name": "Whiskey Lullaby",
+      "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -951,22 +955,18 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Whiskey Lullaby",
-        "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF"
       },
       "artists": [
         {
-          "name": "Drew Jacobs",
-          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
-        },
-        {
-          "name": "Caitlynne Curtis",
-          "url": "https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf"
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
         }
       ],
-      "duration_ms": 269594,
-      "name": "Whiskey Lullaby",
-      "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
+      "duration_ms": 288121,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "THE WAY (Deluxe)",
-        "url": "https://open.spotify.com/album/6dvrpWZMYRBtFiYHMisNgD"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 249612,
-      "name": "ELEVATE",
-      "url": "https://open.spotify.com/track/2JFdwYlUkWYnZOer20BcHu"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 187899,
       "name": "5AM",
       "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "THE WAY (Deluxe)",
+        "url": "https://open.spotify.com/album/6dvrpWZMYRBtFiYHMisNgD"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 249612,
+      "name": "ELEVATE",
+      "url": "https://open.spotify.com/track/2JFdwYlUkWYnZOer20BcHu"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Old News",
-        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
+        "name": "Black Powder Soul",
+        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
       "artists": [
         {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+          "name": "Taylor McCall",
+          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
         }
       ],
-      "duration_ms": 251498,
-      "name": "All of These Years",
-      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
+      "duration_ms": 216153,
+      "name": "Black Powder Soul",
+      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Black Powder Soul",
-        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
+        "name": "Old News",
+        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
       },
       "artists": [
         {
-          "name": "Taylor McCall",
-          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
         }
       ],
-      "duration_ms": 216153,
-      "name": "Black Powder Soul",
-      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
+      "duration_ms": 251498,
+      "name": "All of These Years",
+      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
     },
     {
       "added_at": "2026-01-16 05:00:44",

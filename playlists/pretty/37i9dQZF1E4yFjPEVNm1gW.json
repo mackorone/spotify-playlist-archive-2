@@ -27,6 +27,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/5sdEGZfppT2PxH9tSyRYEY"
+      },
+      "artists": [
+        {
+          "name": "PUNISHA",
+          "url": "https://open.spotify.com/artist/3A5EcOZe9K1toLk6v4541Q"
+        }
+      ],
+      "duration_ms": 127346,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/7HVYOhVD0wOlA09qoKFxSI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "yit.mp3",
+        "url": "https://open.spotify.com/album/0GQgKhXbtJ3jJ8DnwfxKXj"
+      },
+      "artists": [
+        {
+          "name": "yit",
+          "url": "https://open.spotify.com/artist/5WEPWwmJRjDOub8mfEs08r"
+        },
+        {
+          "name": "M71KE",
+          "url": "https://open.spotify.com/artist/12TuXufr9APcDNTQ1SsCYu"
+        }
+      ],
+      "duration_ms": 163158,
+      "name": "i want",
+      "url": "https://open.spotify.com/track/1y1f64rhNHqhxHf4b6t3iO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slimebeezy 3",
         "url": "https://open.spotify.com/album/0g8gja4ZdfXMVK2fWSCbWc"
       },
@@ -67,22 +103,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "yit.mp3",
-        "url": "https://open.spotify.com/album/0GQgKhXbtJ3jJ8DnwfxKXj"
+        "name": "not enn a diss",
+        "url": "https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL"
       },
       "artists": [
         {
-          "name": "yit",
-          "url": "https://open.spotify.com/artist/5WEPWwmJRjDOub8mfEs08r"
-        },
-        {
-          "name": "M71KE",
-          "url": "https://open.spotify.com/artist/12TuXufr9APcDNTQ1SsCYu"
+          "name": "Taewitdak",
+          "url": "https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF"
         }
       ],
-      "duration_ms": 163158,
-      "name": "i want",
-      "url": "https://open.spotify.com/track/1y1f64rhNHqhxHf4b6t3iO"
+      "duration_ms": 81176,
+      "name": "not enn a diss",
+      "url": "https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO"
     },
     {
       "added_at": null,
@@ -99,22 +131,6 @@
       "duration_ms": 130422,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "not enn a diss",
-        "url": "https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL"
-      },
-      "artists": [
-        {
-          "name": "Taewitdak",
-          "url": "https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF"
-        }
-      ],
-      "duration_ms": 81176,
-      "name": "not enn a diss",
-      "url": "https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO"
     },
     {
       "added_at": null,
@@ -219,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LYFE !N GREEN",
+        "url": "https://open.spotify.com/album/2N31HRXVry26aE5r1T5ECq"
+      },
+      "artists": [
+        {
+          "name": "JimiSAG",
+          "url": "https://open.spotify.com/artist/7wE6uom6u4lFCqkvZgBVV9"
+        }
+      ],
+      "duration_ms": 116494,
+      "name": "BUTTERCUP",
+      "url": "https://open.spotify.com/track/5CZnd1cnvccvT0dJVsqdF0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Great Chaos",
         "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
@@ -231,22 +263,6 @@
       "duration_ms": 182791,
       "name": "Nightcore 2",
       "url": "https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden Child, Chapter 3",
-        "url": "https://open.spotify.com/album/6vxo1Nywp8r7B0p9avT0SM"
-      },
-      "artists": [
-        {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "Still the Same",
-      "url": "https://open.spotify.com/track/5dTmaw1TwugkUZk1SHqStE"
     },
     {
       "added_at": null,
@@ -267,18 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LYFE !N GREEN",
-        "url": "https://open.spotify.com/album/2N31HRXVry26aE5r1T5ECq"
+        "name": "Golden Child, Chapter 3",
+        "url": "https://open.spotify.com/album/6vxo1Nywp8r7B0p9avT0SM"
       },
       "artists": [
         {
-          "name": "JimiSAG",
-          "url": "https://open.spotify.com/artist/7wE6uom6u4lFCqkvZgBVV9"
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
         }
       ],
-      "duration_ms": 116494,
-      "name": "BUTTERCUP",
-      "url": "https://open.spotify.com/track/5CZnd1cnvccvT0dJVsqdF0"
+      "duration_ms": 125217,
+      "name": "Still the Same",
+      "url": "https://open.spotify.com/track/5dTmaw1TwugkUZk1SHqStE"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "imposter",
-        "url": "https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m"
-      },
-      "artists": [
-        {
-          "name": "boolymon",
-          "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
-        }
-      ],
-      "duration_ms": 108437,
-      "name": "imposter",
-      "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LO NE LY",
         "url": "https://open.spotify.com/album/5hkZLRDPs9Npdp70zZH5wS"
       },
@@ -455,30 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spanglish",
-        "url": "https://open.spotify.com/album/0rOykZHoTWuBpRhdh3Bb8h"
-      },
-      "artists": [
-        {
-          "name": "novanitys",
-          "url": "https://open.spotify.com/artist/0qsn1uqtRSXT8IsBYysLBP"
-        },
-        {
-          "name": "wonder",
-          "url": "https://open.spotify.com/artist/4egc04cPnCS54Cp5Hz3IuE"
-        },
-        {
-          "name": "Saltyngget",
-          "url": "https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Spanglish",
-      "url": "https://open.spotify.com/track/5uTlnTxi8kQv6EuMvR725n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scarecrow",
         "url": "https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h"
       },
@@ -511,6 +487,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spanglish",
+        "url": "https://open.spotify.com/album/0rOykZHoTWuBpRhdh3Bb8h"
+      },
+      "artists": [
+        {
+          "name": "novanitys",
+          "url": "https://open.spotify.com/artist/0qsn1uqtRSXT8IsBYysLBP"
+        },
+        {
+          "name": "wonder",
+          "url": "https://open.spotify.com/artist/4egc04cPnCS54Cp5Hz3IuE"
+        },
+        {
+          "name": "Saltyngget",
+          "url": "https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy"
+        }
+      ],
+      "duration_ms": 222876,
+      "name": "Spanglish",
+      "url": "https://open.spotify.com/track/5uTlnTxi8kQv6EuMvR725n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "imposter",
+        "url": "https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m"
+      },
+      "artists": [
+        {
+          "name": "boolymon",
+          "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
+        }
+      ],
+      "duration_ms": 108437,
+      "name": "imposter",
+      "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Live, I Die, I Live Again (Resurrected)",
         "url": "https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "cigarettes at church",
-        "url": "https://open.spotify.com/album/79zvm5nHc16DmNFiSoJcPK"
-      },
-      "artists": [
-        {
-          "name": "Rob Apollo",
-          "url": "https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V"
-        }
-      ],
-      "duration_ms": 137703,
-      "name": "chophouse",
-      "url": "https://open.spotify.com/track/2jzNitUC5W9R31c8PlLgIw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intervals",
         "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
       },
@@ -555,6 +555,26 @@
       "duration_ms": 143775,
       "name": "Intervals",
       "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WAKE UP LUCKI",
+        "url": "https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "F1LTHY",
+          "url": "https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC"
+        }
+      ],
+      "duration_ms": 202520,
+      "name": "OUTRO",
+      "url": "https://open.spotify.com/track/0VIkfu39eJ3BBmmHvt6bQ5"
     },
     {
       "added_at": null,
@@ -611,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "POETRY",
+        "url": "https://open.spotify.com/album/15vdbHHoAC9ouX5LzCr5Tz"
+      },
+      "artists": [
+        {
+          "name": "Lord Simmy",
+          "url": "https://open.spotify.com/artist/1x56BjunhKrTqDZSXvOgFt"
+        }
+      ],
+      "duration_ms": 132293,
+      "name": "POETRY",
+      "url": "https://open.spotify.com/track/7ynWM21CmrgpzyllPO4Rw3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rubbin Of The Pain x New Flesh",
         "url": "https://open.spotify.com/album/3m7FCXWXfa8RgFdUxHNPEG"
       },
@@ -627,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WAKE UP LUCKI",
-        "url": "https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG"
+        "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
+        "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
       },
       "artists": [
         {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        },
-        {
-          "name": "F1LTHY",
-          "url": "https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 202520,
-      "name": "OUTRO",
-      "url": "https://open.spotify.com/track/0VIkfu39eJ3BBmmHvt6bQ5"
+      "duration_ms": 152893,
+      "name": "Hat\u00ebr",
+      "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
     },
     {
       "added_at": null,
@@ -671,94 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "POETRY",
-        "url": "https://open.spotify.com/album/15vdbHHoAC9ouX5LzCr5Tz"
+        "name": "cigarettes at church",
+        "url": "https://open.spotify.com/album/79zvm5nHc16DmNFiSoJcPK"
       },
       "artists": [
         {
-          "name": "Lord Simmy",
-          "url": "https://open.spotify.com/artist/1x56BjunhKrTqDZSXvOgFt"
+          "name": "Rob Apollo",
+          "url": "https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V"
         }
       ],
-      "duration_ms": 132293,
-      "name": "POETRY",
-      "url": "https://open.spotify.com/track/7ynWM21CmrgpzyllPO4Rw3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
-        "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Hat\u00ebr",
-      "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "fivestarcrete",
-        "url": "https://open.spotify.com/album/69R6d0gYngpEFplw3ticpl"
-      },
-      "artists": [
-        {
-          "name": "Plaqueboymax",
-          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
-        },
-        {
-          "name": "Concrete Boys",
-          "url": "https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Camo!",
-          "url": "https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b"
-        },
-        {
-          "name": "Dc2trill",
-          "url": "https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI"
-        },
-        {
-          "name": "Draft Day",
-          "url": "https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L"
-        }
-      ],
-      "duration_ms": 152611,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/0L4J3hS3u7IQBtmA4w0Fuh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ME MILLIONTH DOLLAR // CLARINET",
-        "url": "https://open.spotify.com/album/5UAziaXOwMZJaPtPOMFGLO"
-      },
-      "artists": [
-        {
-          "name": "Kash Krabs",
-          "url": "https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP"
-        },
-        {
-          "name": "Oddwin",
-          "url": "https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa"
-        },
-        {
-          "name": "Sauceward",
-          "url": "https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "CLARINET",
-      "url": "https://open.spotify.com/track/6Asdj5WezdZgaVYDgQskjg"
+      "duration_ms": 137703,
+      "name": "chophouse",
+      "url": "https://open.spotify.com/track/2jzNitUC5W9R31c8PlLgIw"
     },
     {
       "added_at": null,
@@ -855,6 +811,66 @@
     {
       "added_at": null,
       "album": {
+        "name": "ME MILLIONTH DOLLAR // CLARINET",
+        "url": "https://open.spotify.com/album/5UAziaXOwMZJaPtPOMFGLO"
+      },
+      "artists": [
+        {
+          "name": "Kash Krabs",
+          "url": "https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP"
+        },
+        {
+          "name": "Oddwin",
+          "url": "https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa"
+        },
+        {
+          "name": "Sauceward",
+          "url": "https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "CLARINET",
+      "url": "https://open.spotify.com/track/6Asdj5WezdZgaVYDgQskjg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "fivestarcrete",
+        "url": "https://open.spotify.com/album/69R6d0gYngpEFplw3ticpl"
+      },
+      "artists": [
+        {
+          "name": "Plaqueboymax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        },
+        {
+          "name": "Concrete Boys",
+          "url": "https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Camo!",
+          "url": "https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b"
+        },
+        {
+          "name": "Dc2trill",
+          "url": "https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI"
+        },
+        {
+          "name": "Draft Day",
+          "url": "https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L"
+        }
+      ],
+      "duration_ms": 152611,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/0L4J3hS3u7IQBtmA4w0Fuh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIG 3",
         "url": "https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu"
       },
@@ -879,34 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Verano En Nueva York",
-        "url": "https://open.spotify.com/album/7iUE0seUdcsU6o1XJZXPf6"
+        "name": "Why??",
+        "url": "https://open.spotify.com/album/6fqdCF4J8w8plMLjPMT3hh"
       },
       "artists": [
         {
-          "name": "BashfortheWorld",
-          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+          "name": "cb",
+          "url": "https://open.spotify.com/artist/5EAMEZrRLkhyG5pYaqedpC"
         }
       ],
-      "duration_ms": 136062,
-      "name": "Moe Texas",
-      "url": "https://open.spotify.com/track/4Q2ZgILbVW5bViFhaRwmnT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "heartpacing",
-        "url": "https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z"
-      },
-      "artists": [
-        {
-          "name": "jaydes",
-          "url": "https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv"
-        }
-      ],
-      "duration_ms": 102738,
-      "name": "drama queen",
-      "url": "https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh"
+      "duration_ms": 128505,
+      "name": "Why??",
+      "url": "https://open.spotify.com/track/0dBMRQ78EYbUMjjxOH38yw"
     }
   ],
   "unique_name": "Taewitdak Radio",

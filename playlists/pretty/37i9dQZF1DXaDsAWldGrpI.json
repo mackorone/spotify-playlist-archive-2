@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Megan Moroney",
-  "num_followers": 143159,
+  "num_followers": 143156,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "Knives Of New Orleans (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
-        "url": "https://open.spotify.com/album/2lN838yEt48mCd38i5uPGP"
+        "name": "Give Me Back My Hometown (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
+        "url": "https://open.spotify.com/album/1qWZKZcyDnh4dYB2wjUFNa"
       },
       "artists": [
         {
@@ -1176,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 315346,
-      "name": "Knives Of New Orleans - Live At The Pinnacle, Nashville, TN / May 24, 2025",
-      "url": "https://open.spotify.com/track/4pcdKxD2GPku26pdCYEHKt"
+      "duration_ms": 278266,
+      "name": "Give Me Back My Hometown - Live At The Pinnacle, Nashville, TN / May 24, 2025",
+      "url": "https://open.spotify.com/track/1tTbiX1bOzHPKtkOYW4kV9"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
+        "name": "Live from the 717",
+        "url": "https://open.spotify.com/album/4uZUIVFWNUjpImruvXfdiI"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 311280,
+      "name": "Pretty Little Poison - Live from the 717",
+      "url": "https://open.spotify.com/track/1ykQRCGrdVjkfXC8bSWYUs"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
         "name": "For The Last Time",
         "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
       },
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "'Til Summer Comes Around (Live from the HIGH AND ALIVE WORLD TOUR)",
-        "url": "https://open.spotify.com/album/4DmJUI72ELT5onfqL33ACL"
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 409900,
-      "name": "'Til Summer Comes Around - Live from the HIGH AND ALIVE WORLD TOUR",
-      "url": "https://open.spotify.com/track/0kLHY89ffK21WimdpkvDwc"
+      "duration_ms": 173280,
+      "name": "Check Yes Or No - Live",
+      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1723,38 +1739,18 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+        "name": "'Til Summer Comes Around (Live from the HIGH AND ALIVE WORLD TOUR)",
+        "url": "https://open.spotify.com/album/4DmJUI72ELT5onfqL33ACL"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 173280,
-      "name": "Check Yes Or No - Live",
-      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
-        "name": "Simple Man (Live)",
-        "url": "https://open.spotify.com/album/6ISYrJtuC4lFObXlXw4lm1"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        },
-        {
-          "name": "Brent Smith",
-          "url": "https://open.spotify.com/artist/72WcGKyczmErhVnMOUi0aR"
-        }
-      ],
-      "duration_ms": 423605,
-      "name": "Simple Man - Live",
-      "url": "https://open.spotify.com/track/0cASCmwoKomXJVSb7XSGrp"
+      "duration_ms": 409900,
+      "name": "'Til Summer Comes Around - Live from the HIGH AND ALIVE WORLD TOUR",
+      "url": "https://open.spotify.com/track/0kLHY89ffK21WimdpkvDwc"
     }
   ],
   "unique_name": "Country Live",

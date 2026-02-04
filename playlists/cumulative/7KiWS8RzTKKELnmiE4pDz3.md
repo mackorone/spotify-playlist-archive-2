@@ -4,7 +4,7 @@
 
 > 
 
-1,329 songs - 2 day 22 hr 2 min
+1,330 songs - 2 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1045,6 +1045,7 @@
 | [Since When](https://open.spotify.com/track/7otyA9osfGfIjMdrTWOstT) | [Cunninlynguists](https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa) | [A Piece Of Strange](https://open.spotify.com/album/03tgCJ19ar8hr39aRSfUIA) | 4:01 | 2023-10-03 | 2024-04-24 |
 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 | 2025-04-14 | 2025-05-21 |
 | [Skidoo](https://open.spotify.com/track/5AZMFwVqoTIcx1mMSUZLXl) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Skidoo](https://open.spotify.com/album/2TFJlX6hLheRvmO1u4LW7R) | 3:09 | 2024-03-16 | 2024-04-24 |
+| [Skills](https://open.spotify.com/track/18RzOVoUefUG47NviEiX8A) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [The Ownerz](https://open.spotify.com/album/6U2LlflINhafc0e9vhs0lp) | 3:20 | 2026-02-04 |  |
 | [Skip To My Lou](https://open.spotify.com/track/6ydsNkOuBMJcliNUAHdaVZ) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Kingstarlight](https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [Baw Baw Black Sheep](https://open.spotify.com/album/4jzPkTmj9MaYR07IndEjNy) | 3:16 | 2025-03-04 |  |
 | [Skurrr](https://open.spotify.com/track/5Uo8fStwMyYbNTtkz2EVXm) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Pinball](https://open.spotify.com/album/5gHqM8u3IclJ1ZV6q309OW) | 1:47 | 2024-03-06 | 2024-04-24 |
 | [Sky's the Limit \(feat\. 112\) \[Radio Edit\] \- 2014 Remaster](https://open.spotify.com/track/6rqJLgdS42Z0bp2mCAQEQS) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Life After Death \(25th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/6gW08XWRBd2Wnszyo5ZI6l) | 4:13 | 2026-01-24 |  |

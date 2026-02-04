@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Undercover Miss Hong \(언더커버 미쓰홍\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,723,911 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,723,843 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Shape of Memories](https://open.spotify.com/track/2R2wug3uKoJ636aSUpTiF4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Undercover Miss Hong OST Part.1](https://open.spotify.com/album/3DjVm5kGJZu3yiMPFQle5q) | 4:12 |
 | 2 | [Still In Time](https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Spring Fever, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW) | 2:53 |
-| 3 | [Love Language](https://open.spotify.com/track/6w9SgpKIzB54R2xHml1UPP) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Can This Love Be Translated? \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd) | 3:05 |
+| 3 | [Love Language](https://open.spotify.com/track/6w9SgpKIzB54R2xHml1UPP) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Can This Love Be Translated? \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd) | 3:05 |
 | 4 | [Seen the Scene](https://open.spotify.com/track/2ZnRfvoWohat4nrdkTz5Da) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [To My Beloved Thief, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/7hYH2EhcKNNEmp1nSz7ml6) | 3:17 |
 | 5 | [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 |
 | 6 | [Something Feels Wrong](https://open.spotify.com/track/3smVG3fNKHoO4Di5CWB3Wm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [To My Beloved Thief, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/73xC19YQk363A7KxR142sW) | 2:51 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 33 | [Brand New Me](https://open.spotify.com/track/3Bo7FP0yGyz4Xu8RvXGEUE) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Don't Call Me Ma'am \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0ne4TGoximQd099boOQNmv) | 3:06 |
 | 34 | [Prayer](https://open.spotify.com/track/4H2LzU0FcdA3MrIkk4RSRD) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [Moon River OST Part.2](https://open.spotify.com/album/2vogYzQBCeCNHxECx5e9l7) | 4:12 |
 | 35 | [Boyhood](https://open.spotify.com/track/64z7OGUhjNmxBQgTi9zdBW) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dream Life of Mr.Kim \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2aWpK6WI51iz1Kna4vAwKT) | 3:10 |
-| 36 | [Fall in Love](https://open.spotify.com/track/7HZDivP7DsDu4LOnW6CB7C) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fall in Love \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/14WALclMzy0HTdTHyxnzsu) | 3:18 |
+| 36 | [Fall in Love](https://open.spotify.com/track/7HZDivP7DsDu4LOnW6CB7C) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fall in Love \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/14WALclMzy0HTdTHyxnzsu) | 3:18 |
 | 37 | [A Day](https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [EXchange4, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI) | 2:57 |
 | 38 | [All In, Do or Die](https://open.spotify.com/track/4yQmiUKbs8GooduZH0GbZg) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Nice to Not Meet You \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/76N1c7Aj4p0pJRl2baYDRD) | 2:57 |
 | 39 | [If you love me let me know \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/1ZjHeeIWYqAuAsuTta1b9S) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Would You Marry Me?, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7gi0kRiZQicfrD97qWyJv6) | 3:00 |

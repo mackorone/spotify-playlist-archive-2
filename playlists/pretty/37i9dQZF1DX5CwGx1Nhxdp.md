@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CwGx1Nhxdp.md) - [plain]
 
 > Memoirs and biographies of Black artists whose lives and music have shaped culture and sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 86 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAJiYnN1I3oVZAzwUtXiYoC4i6TFo`
+Snapshot ID: `AAAAAPJGBRR76sUVPqKqWBoSwe4cQbkQ`

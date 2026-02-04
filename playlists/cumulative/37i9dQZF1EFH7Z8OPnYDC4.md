@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-382 songs - 22 hr 31 min
+383 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [It Feels Good](https://open.spotify.com/track/7CaRG77e3nxoMixd5b4zbS) | [Lilli Cooper](https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp) | [R&H Goes Pop!](https://open.spotify.com/album/6zf0YjLPz8wY6hE6RrmwkI) | 3:18 | 2024-07-26 |  |
 | [It Might As Well Be Spring](https://open.spotify.com/track/6Xdd7X7d7U3NSvsPlmgpC6) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 6:04 | 2025-06-05 | 2025-06-13 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/2ErJ9mgDw6dh8IOT1Ovd0a) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 6:05 | 2024-07-26 | 2025-06-06 |
-| [It Might As Well Be Spring \- Remastered 2025](https://open.spotify.com/track/4qC5KUDETGZ4AuxZrpd5df) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \(Remastered 2025\)](https://open.spotify.com/album/1qls3z8DYxSbFlJzvL8GFa) | 6:05 | 2025-06-12 |  |
+| [It Might as Well Be Spring](https://open.spotify.com/track/6xzQ9phLCPuT5vpi6zMVrk) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Pogline](https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH) | [Featuring](https://open.spotify.com/album/3kXZdr9VwvxkjKqpuut6Lg) | 4:52 | 2026-02-03 |  |
+| [It Might As Well Be Spring \- Remastered 2025](https://open.spotify.com/track/4qC5KUDETGZ4AuxZrpd5df) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \(Remastered 2025\)](https://open.spotify.com/album/1qls3z8DYxSbFlJzvL8GFa) | 6:05 | 2025-06-12 | 2026-02-04 |
 | [It Never Entered My Mind](https://open.spotify.com/track/6QlkHjQmo2YncQN5MQXgPZ) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin' With The Miles Davis Quintet](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 5:23 | 2024-07-26 |  |
 | [It's Got To Be Love](https://open.spotify.com/track/5J9OZfEsV36dvpTnta6UBE) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [The Rodgers & Hart Songbook](https://open.spotify.com/album/67YwQrGAJI0oAkp7Lq0oLh) | 2:24 | 2024-07-26 |  |
 | [Johnny One Note](https://open.spotify.com/track/6acWzOulmtyL9UT5EANEm0) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:12 | 2024-07-26 |  |
@@ -379,7 +380,7 @@
 | [You Took Advantage Of Me \- Remastered](https://open.spotify.com/track/25lrKinv3HY7jqMYGMHjtx) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [This Is June Christy](https://open.spotify.com/album/0r274gvTVTQlx7MwUeWDEC) | 2:29 | 2025-06-20 |  |
 | [You Took Advantage of Me \- Remastered](https://open.spotify.com/track/7AIcoEEaAvlpOoC1kWqeRe) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Rosie Solves the Swinging Riddle](https://open.spotify.com/album/03hz9YvV6vbKkjZVzGkHPV) | 2:59 | 2024-07-26 | 2025-06-21 |
 | [You Took Advantage of Me / Do I Hear You Saying ''I Love You'' \- From the Musical ''Present Arms''](https://open.spotify.com/track/3ewJOBNYDB8utP7crgHr5g) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Deane Janis](https://open.spotify.com/artist/6kJih1Kejtd8n7KShKto1T) | [Smash Song Hits by Rodgers & Hart](https://open.spotify.com/album/2wvr5n6mleHMPmiXkGDCv2) | 2:59 | 2024-07-26 |  |
-| [You'll Never Walk Alone \- Stereo; 1997 Remaster](https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [How Do You Like It? \[Mono And Stereo Version\]](https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2) | 2:44 | 2024-07-26 | 2026-02-02 |
+| [You'll Never Walk Alone \- Stereo; 1997 Remaster](https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [How Do You Like It? \[Mono And Stereo Version\]](https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2) | 2:44 | 2024-07-26 |  |
 | [You're A Queer One, Julie Jordan](https://open.spotify.com/track/0qWFfmu78XFDGlKghWKWpw) | [Barbara Ruick](https://open.spotify.com/artist/3hlVtWfnDNqQUVFmLq0hkK), [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok) | [Carousel \( 1956 Film Score\)](https://open.spotify.com/album/1kVq56y4ijrH7nFwR6tS9w) | 1:23 | 2024-07-26 |  |
 | [You're Nearer](https://open.spotify.com/track/42IvbPaWb7VZjXT3CiXJcK) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Here's To Life](https://open.spotify.com/album/2wGW87aOvooeJ5r8eTYg4W) | 3:31 | 2024-07-26 |  |
 | [You're What I Need](https://open.spotify.com/track/54w6Uvh6Bs93bwFFSFdDF6) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Celebrates Rodgers & Hart](https://open.spotify.com/album/08pUGyS4rVWwbskaXdANx8) | 2:01 | 2024-07-26 |  |

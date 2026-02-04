@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 123398,
+  "num_followers": 123441,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-01-23 15:04:38",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2026-01-23 15:04:38",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 188210,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
+    },
+    {
+      "added_at": "2026-01-23 15:04:38",
+      "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2026-01-23 15:04:38",
@@ -599,18 +599,22 @@
     {
       "added_at": "2026-01-23 15:04:38",
       "album": {
-        "name": "Te Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
+        "name": "SalDoce",
+        "url": "https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3"
       },
       "artists": [
         {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 158478,
-      "name": "Te Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v"
+      "duration_ms": 181992,
+      "name": "Bem ou Mal",
+      "url": "https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz"
     },
     {
       "added_at": "2026-01-23 15:04:38",
@@ -651,22 +655,18 @@
     {
       "added_at": "2026-01-23 15:04:38",
       "album": {
-        "name": "SalDoce",
-        "url": "https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3"
+        "name": "Te Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
       },
       "artists": [
         {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
         }
       ],
-      "duration_ms": 181992,
-      "name": "Bem ou Mal",
-      "url": "https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz"
+      "duration_ms": 158478,
+      "name": "Te Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v"
     },
     {
       "added_at": "2026-01-23 15:04:38",
@@ -879,22 +879,18 @@
     {
       "added_at": "2026-01-23 15:04:38",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+        "name": "Te Levar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
         }
       ],
-      "duration_ms": 223765,
-      "name": "Gr\u00e3o de Areia",
-      "url": "https://open.spotify.com/track/0MEQNyNQA8huagTIfAnqGC"
+      "duration_ms": 173397,
+      "name": "Te Levar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
     },
     {
       "added_at": "2026-01-23 15:04:38",
@@ -919,22 +915,6 @@
     {
       "added_at": "2026-01-23 15:04:38",
       "album": {
-        "name": "Te Levar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        }
-      ],
-      "duration_ms": 173397,
-      "name": "Te Levar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
-    },
-    {
-      "added_at": "2026-01-23 15:04:38",
-      "album": {
         "name": "Tem Dias",
         "url": "https://open.spotify.com/album/7H13dgfnX4i8qC04THpGLC"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 209775,
       "name": "Tem Dias",
       "url": "https://open.spotify.com/track/4q7PtChUEX8iXUsTw4eQkl"
+    },
+    {
+      "added_at": "2026-01-23 15:04:38",
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 223765,
+      "name": "Gr\u00e3o de Areia",
+      "url": "https://open.spotify.com/track/0MEQNyNQA8huagTIfAnqGC"
     },
     {
       "added_at": "2026-01-23 15:04:38",

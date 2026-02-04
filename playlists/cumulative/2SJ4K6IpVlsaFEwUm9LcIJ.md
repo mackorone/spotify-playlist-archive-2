@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-910 songs - 2 day 6 hr 46 min
+911 songs - 2 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -776,6 +776,7 @@
 | [The Farmer](https://open.spotify.com/track/540dXWvRAQjXmg4gvhjxET) | [The Good Ones](https://open.spotify.com/artist/7rIF4gQrWPRDL020SG2eKD) | [RWANDA, you should be loved](https://open.spotify.com/album/35TaKsgwSCeVEH7Zq8fsfG) | 2:43 | 2024-02-27 | 2024-03-10 |
 | [The Fashion Focus](https://open.spotify.com/track/26Aw0QpMFdxghsuyRsPwGA) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [The Fashion Focus](https://open.spotify.com/album/76Rz3IYqdw3QXTagF14gB6) | 3:16 | 2024-06-03 | 2024-07-12 |
 | [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 | 2026-01-08 |  |
+| [The Golden Flower](https://open.spotify.com/track/5DIft0NqGBXTy3myTZ3VoF) | [The Apples In Stereo](https://open.spotify.com/artist/5KIrQe9pb7tn8y775PsoAP) | [Electronic Projects for Musicians](https://open.spotify.com/album/6aPzHrtvdApqzp2EUNhp9N) | 3:05 | 2026-02-03 |  |
 | [The Good Humor Man He Sees Everything Like This \- 2015 Remaster](https://open.spotify.com/track/6LhWdm4JRfsL2L6twjhjaG) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:08 | 2024-10-02 | 2024-11-14 |
 | [The Hand That I Put Down](https://open.spotify.com/track/2zivb1ctJJWO72i4fttutV) | [Starcleaner Reunion](https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM) | [The Hand That I Put Down](https://open.spotify.com/album/66GIzOZ0fYkob5SrQVYTEB) | 3:42 | 2024-09-07 | 2024-11-14 |
 | [The Homecoming Queen's Got a Gun](https://open.spotify.com/track/2scmuBEKCDn4ofQrckKTrh) | [Julie Brown](https://open.spotify.com/artist/6xsaL4XT1Xn7QScR6LxPiv) | [Trapped In The Body Of A White Girl](https://open.spotify.com/album/3bzU0DnGcEbvORXPeGi3Z2) | 4:38 | 2024-11-15 | 2025-01-12 |

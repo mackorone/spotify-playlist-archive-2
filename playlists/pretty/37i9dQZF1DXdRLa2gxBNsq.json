@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 114413,
+  "num_followers": 114437,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -160,20 +160,16 @@
           "url": "https://open.spotify.com/artist/01n0og8D2QrWb7fWhxwYZS"
         },
         {
-          "name": "Scila",
-          "url": "https://open.spotify.com/artist/4xYWwmYOOQLNfkvk4ll3Gg"
-        },
-        {
           "name": "Def Con Dos",
           "url": "https://open.spotify.com/artist/1O4hqQz2nV0jrlF9VEFBNK"
         },
         {
-          "name": "Sons of Aguirre",
-          "url": "https://open.spotify.com/artist/6yAMRosx47X5w8mgH5qymJ"
-        },
-        {
           "name": "XpresidentX",
           "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
+        },
+        {
+          "name": "Edu Guerrero",
+          "url": "https://open.spotify.com/artist/4IJ3ztSKWieURfcgV5kCrU"
         }
       ],
       "duration_ms": 267890,
@@ -799,6 +795,22 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
+        "name": "Bienvenidos a Occidente",
+        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
+      },
+      "artists": [
+        {
+          "name": "Disidencia",
+          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
+        }
+      ],
+      "duration_ms": 254946,
+      "name": "Prefiero Caminar",
+      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
         "name": "Rayo ke no cesa",
         "url": "https://open.spotify.com/album/0NnbF8YiKNGAmde0I8yRpw"
       },
@@ -819,42 +831,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Bienvenidos a Occidente",
-        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
-      },
-      "artists": [
-        {
-          "name": "Disidencia",
-          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
-        }
-      ],
-      "duration_ms": 254946,
-      "name": "Prefiero Caminar",
-      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
-        "name": "Drogoindependiente",
-        "url": "https://open.spotify.com/album/3LzsUXKyMhebFf1dTBiJZk"
-      },
-      "artists": [
-        {
-          "name": "XpresidentX",
-          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
-        },
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Drogoindependiente",
-      "url": "https://open.spotify.com/track/4VVkpP7kyLv2Aby6kUDsxc"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "J\u00f3venes Promesas de la Delincuencia",
         "url": "https://open.spotify.com/album/6IRgFasohZEQPq4O9KPRQz"
       },
@@ -867,6 +843,22 @@
       "duration_ms": 171005,
       "name": "J\u00f3venes Promesas de la Delincuencia",
       "url": "https://open.spotify.com/track/5TJt3gSmt1X1h9HkxwNpHJ"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "Quiero que sepas",
+        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 170662,
+      "name": "Quiero que sepas",
+      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -891,38 +883,22 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Quiero que sepas",
-        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
+        "name": "Drogoindependiente",
+        "url": "https://open.spotify.com/album/3LzsUXKyMhebFf1dTBiJZk"
       },
       "artists": [
         {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 170662,
-      "name": "Quiero que sepas",
-      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
-        "name": "Una y Mil Veces",
-        "url": "https://open.spotify.com/album/6CHz9QHJw6gRsaqCIrUbSM"
-      },
-      "artists": [
-        {
-          "name": "Detrapo",
-          "url": "https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60"
+          "name": "XpresidentX",
+          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
         },
         {
-          "name": "Sinaia",
-          "url": "https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG"
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
         }
       ],
-      "duration_ms": 266698,
-      "name": "Una y Mil Veces",
-      "url": "https://open.spotify.com/track/38ynrtrPa6laWTufKuW7vK"
+      "duration_ms": 186600,
+      "name": "Drogoindependiente",
+      "url": "https://open.spotify.com/track/4VVkpP7kyLv2Aby6kUDsxc"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -947,26 +923,22 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Prohibido Prohibir",
-        "url": "https://open.spotify.com/album/3PvwXmZiRPAyYSq1IbBW12"
+        "name": "Una y Mil Veces",
+        "url": "https://open.spotify.com/album/6CHz9QHJw6gRsaqCIrUbSM"
       },
       "artists": [
         {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+          "name": "Detrapo",
+          "url": "https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60"
         },
         {
-          "name": "Fernando Reincidentes",
-          "url": "https://open.spotify.com/artist/4189x5Md7w8lVuQPOFi1K5"
-        },
-        {
-          "name": "Reincidentes",
-          "url": "https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX"
+          "name": "Sinaia",
+          "url": "https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG"
         }
       ],
-      "duration_ms": 221480,
-      "name": "Prohibido Prohibir",
-      "url": "https://open.spotify.com/track/28EOznAk1sIbb1C82N52BQ"
+      "duration_ms": 266698,
+      "name": "Una y Mil Veces",
+      "url": "https://open.spotify.com/track/38ynrtrPa6laWTufKuW7vK"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1003,8 +975,32 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Esperando a Mi Enemigo",
-        "url": "https://open.spotify.com/album/6lqFTzBGCIBHlsVHMSU8cY"
+        "name": "Prohibido Prohibir",
+        "url": "https://open.spotify.com/album/3PvwXmZiRPAyYSq1IbBW12"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        },
+        {
+          "name": "Fernando Reincidentes",
+          "url": "https://open.spotify.com/artist/4189x5Md7w8lVuQPOFi1K5"
+        },
+        {
+          "name": "Reincidentes",
+          "url": "https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX"
+        }
+      ],
+      "duration_ms": 221480,
+      "name": "Prohibido Prohibir",
+      "url": "https://open.spotify.com/track/28EOznAk1sIbb1C82N52BQ"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "Putos Nazis",
+        "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
       },
       "artists": [
         {
@@ -1012,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
         }
       ],
-      "duration_ms": 196405,
-      "name": "Esperando a Mi Enemigo",
-      "url": "https://open.spotify.com/track/28Hrxc3DjI3GxszzvYZLxz"
+      "duration_ms": 137963,
+      "name": "Putos Nazis",
+      "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1119,8 +1115,8 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Putos Nazis",
-        "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
+        "name": "Esperando a Mi Enemigo",
+        "url": "https://open.spotify.com/album/6lqFTzBGCIBHlsVHMSU8cY"
       },
       "artists": [
         {
@@ -1128,9 +1124,9 @@
           "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
         }
       ],
-      "duration_ms": 137963,
-      "name": "Putos Nazis",
-      "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
+      "duration_ms": 196405,
+      "name": "Esperando a Mi Enemigo",
+      "url": "https://open.spotify.com/track/28Hrxc3DjI3GxszzvYZLxz"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1255,22 +1251,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Revi\u00e9ntales",
-        "url": "https://open.spotify.com/album/0ONeQsEFJhLNopVqTbddsL"
-      },
-      "artists": [
-        {
-          "name": "Guillotina Punk Rock",
-          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Revi\u00e9ntales",
-      "url": "https://open.spotify.com/track/1PQwitLud555xFVIQnyj2t"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "Punk Latino Vol. 1",
         "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
       },
@@ -1287,18 +1267,18 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+        "name": "Revi\u00e9ntales",
+        "url": "https://open.spotify.com/album/0ONeQsEFJhLNopVqTbddsL"
       },
       "artists": [
         {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+          "name": "Guillotina Punk Rock",
+          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
         }
       ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+      "duration_ms": 209333,
+      "name": "Revi\u00e9ntales",
+      "url": "https://open.spotify.com/track/1PQwitLud555xFVIQnyj2t"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1315,6 +1295,22 @@
       "duration_ms": 205696,
       "name": "Rico deprimido - XX5",
       "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1447,6 +1443,22 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
+        "name": "La Mejor Opci\u00f3n",
+        "url": "https://open.spotify.com/album/3MlJPEOuDovfV8z8MLbuYu"
+      },
+      "artists": [
+        {
+          "name": "La L\u00ednea Roja",
+          "url": "https://open.spotify.com/artist/0yooxBZxMUx0d0XqMM3dKM"
+        }
+      ],
+      "duration_ms": 178821,
+      "name": "La Mejor Opci\u00f3n",
+      "url": "https://open.spotify.com/track/64AlFt6yd0L5Mes9heUi5I"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
         "name": "Vuelvo",
         "url": "https://open.spotify.com/album/5nRDzsLm2kQBApYFP7miCf"
       },
@@ -1463,22 +1475,6 @@
       "duration_ms": 176481,
       "name": "Vuelvo",
       "url": "https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
-        "name": "La Mejor Opci\u00f3n",
-        "url": "https://open.spotify.com/album/3MlJPEOuDovfV8z8MLbuYu"
-      },
-      "artists": [
-        {
-          "name": "La L\u00ednea Roja",
-          "url": "https://open.spotify.com/artist/0yooxBZxMUx0d0XqMM3dKM"
-        }
-      ],
-      "duration_ms": 178821,
-      "name": "La Mejor Opci\u00f3n",
-      "url": "https://open.spotify.com/track/64AlFt6yd0L5Mes9heUi5I"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1583,22 +1579,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
-      },
-      "artists": [
-        {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Mierda De Ciudad",
-      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "Soy un NiNi",
         "url": "https://open.spotify.com/album/6YkhUv4O9fiwOFP8w0QNnD"
       },
@@ -1611,6 +1591,22 @@
       "duration_ms": 183100,
       "name": "Soy un NiNi",
       "url": "https://open.spotify.com/track/0nh9Rz7btDM3J4VptkpVoK"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+      },
+      "artists": [
+        {
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Mierda De Ciudad",
+      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
     },
     {
       "added_at": "2026-02-01 23:01:19",

@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 77123,
+  "num_followers": 77154,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAACfB0fguVFTTxu2KwfMBQT8",
+  "snapshot_id": "aX/pAAAAAAB8T8tY1olfM+Jn3D4XytEU",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Polo Norte",
-        "url": "https://open.spotify.com/album/7qYPjrdtdB54ebJ4te332h"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 203206,
-      "name": "Cita Con Un Invento",
-      "url": "https://open.spotify.com/track/43hfVtk1xpbbG0AXa9Chji"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Concedeme",
         "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 142866,
       "name": "Mi Ranchito",
       "url": "https://open.spotify.com/track/2rPbkr5Y83bR3WPscwJU2O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Polo Norte",
+        "url": "https://open.spotify.com/album/7qYPjrdtdB54ebJ4te332h"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 203206,
+      "name": "Cita Con Un Invento",
+      "url": "https://open.spotify.com/track/43hfVtk1xpbbG0AXa9Chji"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 193933,
-      "name": "Sufro",
-      "url": "https://open.spotify.com/track/2Kf5AQerl18JGFq5MQDhSD"
+      "duration_ms": 142026,
+      "name": "Qu\u00e9 Casualidad",
+      "url": "https://open.spotify.com/track/0AFkOMz5UWiDQUMswNqT42"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 142026,
-      "name": "Qu\u00e9 Casualidad",
-      "url": "https://open.spotify.com/track/0AFkOMz5UWiDQUMswNqT42"
+      "duration_ms": 193933,
+      "name": "Sufro",
+      "url": "https://open.spotify.com/track/2Kf5AQerl18JGFq5MQDhSD"
     },
     {
       "added_at": null,

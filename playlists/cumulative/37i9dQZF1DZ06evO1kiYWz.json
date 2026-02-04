@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 307466,
       "name": "Ecos De La Noche",
       "url": "https://open.spotify.com/track/5AbeaaNXyUj2o9WciFfAxc"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 283657,
       "name": "Esa Noche",
       "url": "https://open.spotify.com/track/6eXTUe8osVWW0L3P1jjOhR"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 233414,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/7F7au7a9ZDSeu2f3fFAW7w"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 175580,
       "name": "Mal",
       "url": "https://open.spotify.com/track/6Wb0C7FiDZ2xAHJaJkQaX0"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 312780,
       "name": "Noche De Verano",
       "url": "https://open.spotify.com/track/3ey3hsL4xucvqZl6KI5lRq"
@@ -978,6 +978,24 @@
       "duration_ms": 161853,
       "name": "Otra Tarde",
       "url": "https://open.spotify.com/track/0iLwRAM4YXI76Mtzwwg20t"
+    },
+    {
+      "album": {
+        "name": "Viaje En Espiral",
+        "url": "https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228144,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/5H1H426cqJ5IekT0NDrLhG"
     },
     {
       "album": {

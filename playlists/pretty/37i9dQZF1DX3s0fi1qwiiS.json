@@ -1,6 +1,6 @@
 {
   "description": "The Detty December anthems over the years ",
-  "num_followers": 7859,
+  "num_followers": 7858,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
+        "name": "Amanfuor Girls",
+        "url": "https://open.spotify.com/album/1NU6M9KwNpddbZGa1xqlBi"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 193515,
+      "name": "Amanfuor Girls",
+      "url": "https://open.spotify.com/track/01q9VZfRk6bCEe2jgx64tN"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
         "name": "Double Trouble (feat. King Promise & Sarkodie)",
         "url": "https://open.spotify.com/album/7fyUYO50TXvcsbVQa4kcC9"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 263131,
       "name": "Double Trouble (feat. King Promise & Sarkodie)",
       "url": "https://open.spotify.com/track/024Si0VrgGuslpbud96tnX"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
-        "name": "Amanfuor Girls",
-        "url": "https://open.spotify.com/album/1NU6M9KwNpddbZGa1xqlBi"
-      },
-      "artists": [
-        {
-          "name": "Quamina Mp",
-          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 193515,
-      "name": "Amanfuor Girls",
-      "url": "https://open.spotify.com/track/01q9VZfRk6bCEe2jgx64tN"
     },
     {
       "added_at": "2025-12-23 16:53:12",

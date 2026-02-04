@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: giuliette price",
-  "num_followers": 12729,
+  "num_followers": 12732,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -399,34 +399,6 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "Njia",
-        "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
-      },
-      "artists": [
-        {
-          "name": "Shane Cooper",
-          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
-        },
-        {
-          "name": "Jonno Sweetman",
-          "url": "https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW"
-        },
-        {
-          "name": "Gontse Makhene",
-          "url": "https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD"
-        },
-        {
-          "name": "Micca Manganye",
-          "url": "https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae"
-        }
-      ],
-      "duration_ms": 113750,
-      "name": "Njia",
-      "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
         "name": "Our People",
         "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
       },
@@ -439,22 +411,6 @@
       "duration_ms": 199480,
       "name": "Our People",
       "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "Ransome",
-        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 322073,
-      "name": "Ransome, Pt. 1",
-      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -479,6 +435,50 @@
       "duration_ms": 244278,
       "name": "Water from an Ancient Well - Single Edit",
       "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "Ransome",
+        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "duration_ms": 322073,
+      "name": "Ransome, Pt. 1",
+      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "Njia",
+        "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
+      },
+      "artists": [
+        {
+          "name": "Shane Cooper",
+          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
+        },
+        {
+          "name": "Jonno Sweetman",
+          "url": "https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW"
+        },
+        {
+          "name": "Gontse Makhene",
+          "url": "https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD"
+        },
+        {
+          "name": "Micca Manganye",
+          "url": "https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae"
+        }
+      ],
+      "duration_ms": 113750,
+      "name": "Njia",
+      "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
-      },
-      "artists": [
-        {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "H.O.P.E",
-      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
         "name": "MaBrrrrrrrrr",
         "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 296678,
       "name": "MaBrrrrrrrrr",
       "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "H.O.P.E (Holding On to Positive Expectations)",
+        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+      },
+      "artists": [
+        {
+          "name": "Ofentse Moses Sebula",
+          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+        }
+      ],
+      "duration_ms": 365000,
+      "name": "H.O.P.E",
+      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -923,18 +923,18 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+        "name": "Sinamanga (uMagebhula)",
+        "url": "https://open.spotify.com/album/3YPdyUJ9F9TJBA9Njlmkjl"
       },
       "artists": [
         {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+          "name": "Letta Mbulu",
+          "url": "https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0"
         }
       ],
-      "duration_ms": 349750,
-      "name": "Journey of Gratitude",
-      "url": "https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL"
+      "duration_ms": 245546,
+      "name": "Sinamanga (uMagebhula)",
+      "url": "https://open.spotify.com/track/4fZe1x4UfOPqNIZcmtzrAC"
     }
   ],
   "unique_name": "Jazz NXT",

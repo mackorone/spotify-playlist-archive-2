@@ -1643,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Way to Your Heart",
+        "url": "https://open.spotify.com/album/5kIb1ZDkv9a1Bty1IyjGYy"
+      },
+      "artists": [
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249186,
+      "name": "Hanggang Ngayon",
+      "url": "https://open.spotify.com/track/1iOnvUO5VCeuxH7VwzclrQ"
+    },
+    {
+      "album": {
         "name": "Hangin",
         "url": "https://open.spotify.com/album/7CwjUB296r3lpbcvC8h7cj"
       },
@@ -4120,7 +4138,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 232500,
       "name": "Sagip",
       "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"

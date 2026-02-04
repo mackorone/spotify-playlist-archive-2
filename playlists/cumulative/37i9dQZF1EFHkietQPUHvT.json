@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152506,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3yklxY8pm64CJ3BJSSjvEL"
+    },
+    {
+      "album": {
         "name": "Those Were the Days",
         "url": "https://open.spotify.com/album/22f6PrUj5bGs2JFNkabso5"
       },

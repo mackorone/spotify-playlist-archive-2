@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 
 > Rustig aan, ff ademen jij.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,522 likes - 40 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,538 likes - 40 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yolo](https://open.spotify.com/track/3nwPqKLNPaPmEu3KLEdzpH) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Most Hated](https://open.spotify.com/album/0A9Tl2UXFxbCwMMcFoNN8g) | 3:24 |
-| 2 | [Nardo RS](https://open.spotify.com/track/0nJz0YOgj4iXWayoewi6F8) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [Nardo RS](https://open.spotify.com/album/0mdF7CR6FPfSxS0LZdoXDu) | 2:17 |
-| 3 | [Noord Africano](https://open.spotify.com/track/0l1sQbnwbLIWzGcSVAgmPO) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Noord Africano](https://open.spotify.com/album/0QlNKFqSnmpdzcuqBYY4x0) | 2:47 |
-| 4 | [Ff Ademen Jij](https://open.spotify.com/track/5yPIA6mDRsj6OcxTSQiXbG) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Ff Ademen Jij](https://open.spotify.com/album/2Otz8y5xUmSqZEFy48xliH) | 2:42 |
+| 1 | [Ff Ademen Jij](https://open.spotify.com/track/5yPIA6mDRsj6OcxTSQiXbG) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Ff Ademen Jij](https://open.spotify.com/album/2Otz8y5xUmSqZEFy48xliH) | 2:42 |
+| 2 | [Yolo](https://open.spotify.com/track/3nwPqKLNPaPmEu3KLEdzpH) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Most Hated](https://open.spotify.com/album/0A9Tl2UXFxbCwMMcFoNN8g) | 3:24 |
+| 3 | [Nardo RS](https://open.spotify.com/track/0nJz0YOgj4iXWayoewi6F8) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [Nardo RS](https://open.spotify.com/album/0mdF7CR6FPfSxS0LZdoXDu) | 2:17 |
+| 4 | [Noord Africano](https://open.spotify.com/track/0l1sQbnwbLIWzGcSVAgmPO) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Noord Africano](https://open.spotify.com/album/0QlNKFqSnmpdzcuqBYY4x0) | 2:47 |
 | 5 | [WHAT THE HELLY](https://open.spotify.com/track/3PrlxQtFCyAlKFC0uZwSXf) | [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT), [YG24](https://open.spotify.com/artist/3A16zm3oPSNnetOrwp0TU6) | [WHAT THE HELLY](https://open.spotify.com/album/5ESn5GFLsSdYanFcoBxwQl) | 2:10 |
 | 6 | [SUPREME](https://open.spotify.com/track/5quw3QXbs7SPmC1bUkHzp7) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [SUPREME](https://open.spotify.com/album/1h4e2OXH9T9Hb2cHLvC4E7) | 2:12 |
 | 7 | [Predator](https://open.spotify.com/track/0GIjjiXik7G0QuLmweZboU) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [Predator](https://open.spotify.com/album/10M07vhXJQjwntUT6N7Fhi) | 2:22 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 | 39 | [Op De Strip](https://open.spotify.com/track/3rXvuORfigmA83I00PWbBQ) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Op De Strip](https://open.spotify.com/album/6X74hQtHRyQURvw3Jl5DkY) | 2:34 |
 | 40 | [Accepteren](https://open.spotify.com/track/6X2PJ1oPEf4GUcmyBuPOwm) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Levensles](https://open.spotify.com/album/4sBPiyibzraYzKn7MwPm2p) | 3:20 |
 
-Snapshot ID: `AAAAANZZ52yOurE9mNDa2gmPnZNqpWJ8`
+Snapshot ID: `AAAAALjHCctbfwK73S582tfq/oSqOSxT`

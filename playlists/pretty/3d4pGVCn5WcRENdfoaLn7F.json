@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 467,
+  "num_followers": 477,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAChf8WGJslo1mJisItJgUYSKJ/bWG/",
+  "snapshot_id": "AAACiG6vnXrGOpTmTDYbd9pPDQDbCMyV",
   "tracks": [
     {
       "added_at": "2026-01-29 03:49:29",
@@ -1007,6 +1007,58 @@
       "duration_ms": 292444,
       "name": "Crazy Horse",
       "url": "https://open.spotify.com/track/638G4U3oabQAQHKi43XbUj"
+    },
+    {
+      "added_at": "2026-02-04 01:20:57",
+      "album": {
+        "name": "Come Out Lazarus 1 - Life Is Over",
+        "url": "https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM"
+      },
+      "artists": [
+        {
+          "name": "Andrea Pizzo",
+          "url": "https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q"
+        },
+        {
+          "name": "Riccardo Morello",
+          "url": "https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3"
+        }
+      ],
+      "duration_ms": 258896,
+      "name": "Come Out Lazarus 1 - Life Is Over",
+      "url": "https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b"
+    },
+    {
+      "added_at": "2026-02-04 01:56:36",
+      "album": {
+        "name": "La Ciudad de las Estrellas",
+        "url": "https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE"
+      },
+      "artists": [
+        {
+          "name": "Pablopatodo",
+          "url": "https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA"
+        }
+      ],
+      "duration_ms": 228178,
+      "name": "La Ciudad de las Estrellas",
+      "url": "https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4"
+    },
+    {
+      "added_at": "2026-02-04 02:03:59",
+      "album": {
+        "name": "Acto III",
+        "url": "https://open.spotify.com/album/3CwO3k5yLQmvPr6wXfY8xq"
+      },
+      "artists": [
+        {
+          "name": "\u00abnila\u00bb",
+          "url": "https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L"
+        }
+      ],
+      "duration_ms": 314919,
+      "name": "Sombra",
+      "url": "https://open.spotify.com/track/5BMFCvyN2LsLyiZTk1yFWj"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: Gabriela Bee
 
-2,521 songs - 5 day 15 hr 48 min
+2,522 songs - 5 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1807,7 +1807,7 @@
 | [running in place](https://open.spotify.com/track/3hRD7U3XdIgbtNDnkjjZD4) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [running in place](https://open.spotify.com/album/58cat50oNLtyzugNTRQMUe) | 2:45 | 2021-04-24 | 2021-06-12 |
 | [running shoes](https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [so it goes...](https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu) | 2:40 | 2023-03-24 | 2023-07-29 |
 | [RUNTIME](https://open.spotify.com/track/1gc3eSzVrZQ5Km7CSVrNib) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2) | [RUNTIME](https://open.spotify.com/album/54grq3z3PVJmPtXMHFh8on) | 2:36 | 2025-05-30 | 2025-07-12 |
-| [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 | 2025-11-07 |  |
+| [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 | 2025-11-07 | 2026-02-04 |
 | [Ryder](https://open.spotify.com/track/2rBFMlKf43Ddo82b2WWYNN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 4:06 | 2023-09-15 | 2024-02-10 |
 | [Sacred](https://open.spotify.com/track/2JYLqft0L5nz3tmks9Y6oL) | [Ewan J Phillips](https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N), [NIKKITA](https://open.spotify.com/artist/26bFRCmBwf1WG7gkuozf31) | [Sacred](https://open.spotify.com/album/4dFYfLn6rM5xQc0Q4i6j9P) | 4:18 | 2020-11-27 | 2021-02-19 |
 | [Sacrifice Tomorrow](https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Sacrifice Tomorrow](https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu) | 2:25 | 2024-05-03 | 2024-05-18 |
@@ -2192,6 +2192,7 @@
 | [The Price](https://open.spotify.com/track/62EGmGmjAzX23NzkpIn00c) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Price](https://open.spotify.com/album/2OJcl3GrTfXg8hOXs99YJP) | 3:09 | 2025-12-12 |  |
 | [The Problem](https://open.spotify.com/track/1Fi7uWkIRqqhQDYhikP4lk) | [Adam Turley](https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF), [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [The Problem](https://open.spotify.com/album/3YbdZfUltFTmiUBFzKvP0m) | 3:23 | 2020-04-26\* | 2020-09-11 |
 | [The Promise](https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [The Promise](https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM) | 2:58 | 2025-06-24 | 2025-09-20 |
+| [The Rain Isn't Over](https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [The Rain Isn't Over](https://open.spotify.com/album/2gRUZi7aXJUVt7COu8CMtB) | 3:02 | 2026-02-03 |  |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-07-07 | 2024-03-16 |
 | [The Same](https://open.spotify.com/track/4x7OnXtzFvsPIqdmQq2Pao) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:53 | 2021-02-19 | 2021-04-03 |
 | [The scientist](https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [The scientist](https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN) | 4:27 | 2024-12-06 | 2025-02-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Al Xapo, Benzoo, Eeque
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,675 likes - 55 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,722 likes - 55 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

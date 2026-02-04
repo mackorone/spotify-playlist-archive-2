@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > born on the internet\. ft\. fakemink
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,364,557 likes - 100 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,364,484 likes - 100 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 75 | [Escape](https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Escape](https://open.spotify.com/album/7htW5qv2yBt0dH7be0zMbc) | 2:08 |
 | 76 | [Precision](https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Precision](https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe) | 2:38 |
 | 77 | [OMG XD](https://open.spotify.com/track/4Lk7ZslBj20EgyMlC6VJph) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [OMG XD](https://open.spotify.com/album/7DgcZ9qyCA51DHvyYlG5GK) | 2:03 |
-| 78 | [VENUS](https://open.spotify.com/track/2uozsmBhvnNaRIFNgOB0E0) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [VENUS](https://open.spotify.com/album/47A08e2HHoLNPnC80nxTae) | 3:16 |
+| 78 | [VENUS](https://open.spotify.com/track/2uozsmBhvnNaRIFNgOB0E0) | [DC THE DON](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [VENUS](https://open.spotify.com/album/47A08e2HHoLNPnC80nxTae) | 3:16 |
 | 79 | [Beckham](https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Kai Swervo](https://open.spotify.com/artist/1frmN1C7BmO6wKo7iQhar2), [KJ Swervo](https://open.spotify.com/artist/3VzzWMyEQci155HpLwKVZc), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Beckham](https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw) | 2:04 |
 | 80 | [The Viper](https://open.spotify.com/track/2JapCT0xikq6Fy1PQiJz1C) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Viper](https://open.spotify.com/album/3cQR7hyzZEbwAESuPEu8qR) | 2:30 |
 | 81 | [HILARIOUS \(feat\. Cochise\)](https://open.spotify.com/track/0hVzJm5oOVNp57EPcJ3IY6) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [HILARIOUS \(feat\. Cochise\)](https://open.spotify.com/album/2O3Ucp3isxbLXo87AQkmLl) | 2:11 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Về quê ăn Tết mọi người ơi, Bùi Công Nam said
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,368 likes - 75 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,374 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [tâm](https://open.spotify.com/track/0mT2YgsN7ib5vaBaYdpUaN) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [sinh](https://open.spotify.com/album/31q14MVtjZbcMlg5a3U33a) | 1:48 |
-| 2 | [Tết Này Con Sẽ Về](https://open.spotify.com/track/3xRwKsEaxuxKtS3n9ZrWJ1) | [Bùi Công Nam](https://open.spotify.com/artist/6oqtpFuvCTISMPeGv6P2sj) | [Tuyển Tập Nhạc Tết Bùi Công Nam \- 2024](https://open.spotify.com/album/1NcOgL91afDyHrjDPFWCz2) | 3:16 |
+| 1 | [Tết Này Con Sẽ Về](https://open.spotify.com/track/3xRwKsEaxuxKtS3n9ZrWJ1) | [Bùi Công Nam](https://open.spotify.com/artist/6oqtpFuvCTISMPeGv6P2sj) | [Tuyển Tập Nhạc Tết Bùi Công Nam \- 2024](https://open.spotify.com/album/1NcOgL91afDyHrjDPFWCz2) | 3:16 |
+| 2 | [Tâm \- orchestra version](https://open.spotify.com/track/5JAfQRZ7dDpe3ErCojW4xX) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Hoan Le](https://open.spotify.com/artist/6ayVTh1gQU8SlkF0WkBdR9) | [Tâm \(orchestra version\)](https://open.spotify.com/album/33iDw12qZI8Cwab6ojqjXO) | 4:02 |
 | 3 | [Đất Trời Bạc Liêu](https://open.spotify.com/track/3gk4IDkOi4IKvwBmXXzdXV) | [Đình Văn](https://open.spotify.com/artist/1gmlQgEQyq1beDMA8I4uNJ), [Mai Yen Chi](https://open.spotify.com/artist/6lpRi8Gi9xLSI9YpeMbe6V) | [Đất Trời Bạc Liêu](https://open.spotify.com/album/5w0Jvag4gSdxf0bLRVJ3m5) | 4:39 |
 | 4 | [Phà Tình Lênh Đênh](https://open.spotify.com/track/0HNew99OSfsEI8RL1uhV4Q) | [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj), [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Phà Tình Lênh Đênh](https://open.spotify.com/album/20BsBisFsVGM6dHFQqwNjB) | 5:17 |
 | 5 | [Tình Em Miền Tây](https://open.spotify.com/track/3P9qy39rwGGfQay9XVp9tz) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Tình Quê](https://open.spotify.com/album/6I13W8uGVplirDjOJrOoq2) | 4:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Hương Tình Bến Tre](https://open.spotify.com/track/6UN7JNZ1d9ITE2Y9qF0J0a) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Hương Tình Bến Tre](https://open.spotify.com/album/42jLgyRJ3ULOERjCDSpAwo) | 5:28 |
 | 75 | [Bài Ngợi Ca Quê Hương](https://open.spotify.com/track/7JR6CUPNRIYh686NZ2dTP5) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM), [Sơn Ca](https://open.spotify.com/artist/4GAXVGD4GV2fX8xVnSHgea) | [Nỗi Buồn Hoa Phượng \- Tình Khúc Thanh Sơn](https://open.spotify.com/album/6o13lLHOOyBCGRlNQbHXHb) | 3:45 |
 
-Snapshot ID: `AAAAAB2X/I/tdb4y/K8OtKS/UJT+/P3n`
+Snapshot ID: `AAAAAB4uHf7d6svBnj6wVmHyxtudrKnf`

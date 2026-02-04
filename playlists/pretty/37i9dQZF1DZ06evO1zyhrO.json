@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104004,
+  "num_followers": 104010,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAAC194kzuT7QaY6Nji8WX2H2",
+  "snapshot_id": "aX/pAAAAAAAgg3QSzAjlVBr+r3LtQSZ4",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Following My Intuition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Ain't Giving Up",
+      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ishq Hai (This is Love) [From \"Mismatched, Season 3\"]",
         "url": "https://open.spotify.com/album/24zM8Ez9aPPiDScXVXSH5K"
       },
@@ -627,42 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Following My Intuition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Ain't Giving Up",
-      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "2 Steps Back",
-      "url": "https://open.spotify.com/track/4nvhutyXHvt96jqwHwIgR7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/6effz36583EebaQcS3ZOrM"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 280893,
+      "name": "What's Changed",
+      "url": "https://open.spotify.com/track/59Em8UEb9sEluju4PKVPWv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nothing Like This",
         "url": "https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 183645,
       "name": "Nothing Like This",
       "url": "https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 280893,
-      "name": "What's Changed",
-      "url": "https://open.spotify.com/track/59Em8UEb9sEluju4PKVPWv"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "2 Steps Back",
+      "url": "https://open.spotify.com/track/4nvhutyXHvt96jqwHwIgR7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Story Goes...",
         "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 242173,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 303400,
-      "name": "Spanish",
-      "url": "https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ"
     },
     {
       "added_at": null,
@@ -859,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 303400,
+      "name": "Spanish",
+      "url": "https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Signed Sealed Delivered",
         "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
       },
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 (Deluxe)",
-        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Duvall",
-          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "My Heart's Been Waiting for You - feat. Duvall",
-      "url": "https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trust Me",
         "url": "https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 250146,
       "name": "This Is the Girl (with Kano)",
       "url": "https://open.spotify.com/track/1vKTU8e7tC851a8tMzc8NY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22 (Deluxe)",
+        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Duvall",
+          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "My Heart's Been Waiting for You - feat. Duvall",
+      "url": "https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs"
     },
     {
       "added_at": null,

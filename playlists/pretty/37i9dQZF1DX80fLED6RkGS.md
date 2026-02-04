@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Sailors 254
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,345 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,353 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 54 | [Tujibambe](https://open.spotify.com/track/2G5V9YRpUFzpMKxq4woTBY) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY) | [Tujibambe](https://open.spotify.com/album/1nAjIOux8N0q1c7VahhGCx) | 2:19 |
 | 55 | [Medulla](https://open.spotify.com/track/3MPAZ9ivo0QExkN2n9BqOR) | [Soundkraft](https://open.spotify.com/artist/7q6x6F9d2R2skEPjnllspk), [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [Mr Berry](https://open.spotify.com/artist/5rDNEJncmWolPfJxvc1b9A) | [Medulla](https://open.spotify.com/album/0xCvaYWYyJBlPepc9m0tbr) | 3:09 |
 | 56 | [Statue \(feat\. Ssaru & Motif\)](https://open.spotify.com/track/6kOXL6VlMP9IWfFqd3N82h) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [SEAN MMG](https://open.spotify.com/artist/3XNm5VibIYc1xUEDURP1kw), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW), [Motif](https://open.spotify.com/artist/75HPCnXYZwiA7r3fnezrAG) | [Statue \(feat\. Ssaru & Motif\)](https://open.spotify.com/album/4ARauunzSv8sHdu2L4rLZV) | 2:34 |
-| 57 | [Pretty Girls Twerk](https://open.spotify.com/track/6RwL8bUFS3sCfJRNHUaLkt) | [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP) | [Pretty Girls Twerk](https://open.spotify.com/album/0w2Zc0AAXFJfk81787eMCO) | 2:19 |
+| 57 | [Pretty Girls Twerk](https://open.spotify.com/track/6RwL8bUFS3sCfJRNHUaLkt) | [Ndovu Kuu](https://open.spotify.com/artist/66JyjIT1belyeCAVmjcdh8) | [Pretty Girls Twerk](https://open.spotify.com/album/0w2Zc0AAXFJfk81787eMCO) | 2:19 |
 | 58 | [Bad Gyal](https://open.spotify.com/track/7CTNLehVKLNLXLthemIe1J) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Bad Gyal](https://open.spotify.com/album/6YFg7APzLlwPiCDnRnmVNF) | 3:41 |
 | 59 | [AMNESIA](https://open.spotify.com/track/041wy0S6SixlgqgOVe95na) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [AMNESIA](https://open.spotify.com/album/5Mtv1pGRGUIEf7HNSoGZS1) | 3:16 |
 | 60 | [DIGII IV](https://open.spotify.com/track/0GGqTWIIMuFydHBlGatynR) | [Mr.Tee](https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Tenorboy](https://open.spotify.com/artist/6g7RjmpJx5DrhSS7zmZQ9l) | [DIGII IV](https://open.spotify.com/album/2BFaAGweJRWbkrY196XwYj) | 2:25 |

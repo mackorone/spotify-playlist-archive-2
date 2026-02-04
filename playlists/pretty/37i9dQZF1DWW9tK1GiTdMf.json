@@ -1,12 +1,12 @@
 {
   "description": "musica per un inverno non proprio felice (fasma in cover)",
-  "num_followers": 39947,
+  "num_followers": 39944,
   "original_name": "sanguegiovane \ud83e\ude78",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPKNRqH0DDhNoXpR7CxMTZjcVHhk",
+  "snapshot_id": "AAAAAKD6v6AgToc+6CPk6sRnD7LSYYFO",
   "tracks": [
     {
       "added_at": "2026-01-29 23:01:32",
@@ -163,6 +163,22 @@
       "duration_ms": 177341,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/1YN28T5aXKcbQT54ICPiVx"
+    },
+    {
+      "added_at": "2026-02-03 10:36:13",
+      "album": {
+        "name": "Call It",
+        "url": "https://open.spotify.com/album/4O70lhCshqUwQmxUVixf34"
+      },
+      "artists": [
+        {
+          "name": "SOLEROY",
+          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
+        }
+      ],
+      "duration_ms": 173080,
+      "name": "Call It",
+      "url": "https://open.spotify.com/track/34SP3oNVR7C4fGdKdWlgd9"
     },
     {
       "added_at": "2026-01-29 23:01:32",
@@ -399,22 +415,6 @@
     {
       "added_at": "2026-01-29 23:01:32",
       "album": {
-        "name": "VESPE",
-        "url": "https://open.spotify.com/album/2baDA6luY6HD9lEEQLFKZ7"
-      },
-      "artists": [
-        {
-          "name": "Decrow",
-          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "VESPE",
-      "url": "https://open.spotify.com/track/1sPV5avz4Og5dwY7xlu4TB"
-    },
-    {
-      "added_at": "2026-01-29 23:01:32",
-      "album": {
         "name": "DIY",
         "url": "https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq"
       },
@@ -483,38 +483,6 @@
     {
       "added_at": "2026-01-29 23:01:32",
       "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/17MGLrfOkmlNFk1aXkv6mp"
-      },
-      "artists": [
-        {
-          "name": "151515!",
-          "url": "https://open.spotify.com/artist/2Yi3CLx7EWKwzPnkDFz0GL"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Via d'Uscita",
-      "url": "https://open.spotify.com/track/3Qiw6L0zotXnqYDL3ZJJG0"
-    },
-    {
-      "added_at": "2026-01-29 23:01:32",
-      "album": {
-        "name": "xxxvederti piangere",
-        "url": "https://open.spotify.com/album/5DOhktCkZJnYKxPH7mLOXy"
-      },
-      "artists": [
-        {
-          "name": "d!base",
-          "url": "https://open.spotify.com/artist/7CU478r5PRlwQLFN8Sg5ao"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "xxxvederti piangere",
-      "url": "https://open.spotify.com/track/4ZnM7OA8QqbUkdwQYzZWxJ"
-    },
-    {
-      "added_at": "2026-01-29 23:01:32",
-      "album": {
         "name": "RAVE, ECLISSI",
         "url": "https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I"
       },
@@ -527,6 +495,22 @@
       "duration_ms": 177580,
       "name": "RAVE, ECLISSI",
       "url": "https://open.spotify.com/track/0GuO6UjrzW2F0d2z0aOjmV"
+    },
+    {
+      "added_at": "2026-01-29 23:01:32",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2026-01-29 23:01:32",
@@ -615,22 +599,6 @@
       "duration_ms": 191871,
       "name": "via lattea",
       "url": "https://open.spotify.com/track/5CaOMx5BqJmaSDiT5dYUwe"
-    },
-    {
-      "added_at": "2026-01-29 23:01:32",
-      "album": {
-        "name": "Duemila Volte",
-        "url": "https://open.spotify.com/album/0m6nCoxYMijyNHejdnFCYF"
-      },
-      "artists": [
-        {
-          "name": "PATRIK",
-          "url": "https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca"
-        }
-      ],
-      "duration_ms": 150274,
-      "name": "Duemila Volte",
-      "url": "https://open.spotify.com/track/4PGZ6lRx8dFhaJdPdeS5rh"
     },
     {
       "added_at": "2026-01-29 23:01:32",
@@ -1483,22 +1451,6 @@
       "duration_ms": 152484,
       "name": "OLOGRAMMA (feat. 18K)",
       "url": "https://open.spotify.com/track/5qU4xzfQ2OZmMtRBaKLSev"
-    },
-    {
-      "added_at": "2026-01-29 23:01:32",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2026-01-29 23:01:32",

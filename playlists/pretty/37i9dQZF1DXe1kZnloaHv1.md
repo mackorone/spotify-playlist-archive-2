@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,329 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,333 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 | 47 | [집에 가자](https://open.spotify.com/track/3X9sF773dNepwR2E08HWzJ) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Stairs](https://open.spotify.com/album/5NegqDbGVQWj9H4Nn6bh1k) | 3:53 |
 | 48 | [let me go home](https://open.spotify.com/track/7zPB6iYhUSKiIJxAAUTlyo) | [Pre'Melo](https://open.spotify.com/artist/59jyRPrPkL8QIR0wfaJMWl) | [let me go home](https://open.spotify.com/album/2Mm6tTaPrNhdmadp0qTUEm) | 2:48 |
 | 49 | [No worries, I'm good](https://open.spotify.com/track/0m4QIgom2N3cN0sQflx9aS) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [NOW NOW](https://open.spotify.com/album/7zvJRzVY3xALSzV4NOENp9) | 2:49 |
-| 50 | [Myself](https://open.spotify.com/track/08GrGvZfn5yHsfSjyP5Jal) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Myself](https://open.spotify.com/album/29izPD2H1NDTySqBFuLBzH) | 3:18 |
+| 50 | [Myself](https://open.spotify.com/track/08GrGvZfn5yHsfSjyP5Jal) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Myself](https://open.spotify.com/album/29izPD2H1NDTySqBFuLBzH) | 3:18 |
 | 51 | [나인데](https://open.spotify.com/track/03a3V3WdtWcNCvFr8S2i26) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [나인데](https://open.spotify.com/album/6EhGT1web7FrTH942QvH1B) | 2:41 |
 | 52 | [When do I get that chicken?](https://open.spotify.com/track/2qeNam9eMMKZ5TuFjbDMkF) | [OFF THE TOWN](https://open.spotify.com/artist/51BaBbyJMybOQKMUSYhi0z) | [When do I get that chicken?](https://open.spotify.com/album/3gio8FNEYMEB9CwKyzOtjI) | 3:16 |
 | 53 | [놀래! Whatever!](https://open.spotify.com/track/7i7UcFcEpbY3Ihzv1KZBi7) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 August](https://open.spotify.com/album/3ElTy5eVezQCNrgAbTii5m) | 3:16 |

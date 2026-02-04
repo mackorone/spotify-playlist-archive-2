@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2676,
+  "num_followers": 2677,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARWKduDhy/L17G02+Z2CGHnSHlcAFZ",
+  "snapshot_id": "AAARWbfw9CVxIUkEncNtUo0UVfJ0z8Du",
   "tracks": [
+    {
+      "added_at": "2026-02-03 10:53:11",
+      "album": {
+        "name": "Triky Moment",
+        "url": "https://open.spotify.com/album/39jvciHJ6qXimS2Vhmiuam"
+      },
+      "artists": [
+        {
+          "name": "DJ Esse",
+          "url": "https://open.spotify.com/artist/5eXb8rgQwq17mWwmotpgQc"
+        }
+      ],
+      "duration_ms": 332625,
+      "name": "Triky Moment",
+      "url": "https://open.spotify.com/track/4NM9hQgxiSBuyB6e04JVsX"
+    },
     {
       "added_at": "2026-02-02 12:37:29",
       "album": {

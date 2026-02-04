@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4yeSNLFx6qI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4yeSNLFx6qI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4yeSNLFx6qI)
 
-### [sad latino](https://open.spotify.com/playlist/37i9dQZF1DX4yeSNLFx6qI)
+### [canciones tristes que me recuerdan a ti](https://open.spotify.com/playlist/37i9dQZF1DX4yeSNLFx6qI)
 
-> Sad songs 4 sad days.
+> sad songs 4 sad days.
 
 304 songs - 17 hr 20 min
 

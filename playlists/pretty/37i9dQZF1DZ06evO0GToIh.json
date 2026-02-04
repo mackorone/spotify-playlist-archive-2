@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 339333,
+  "num_followers": 339517,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAABV+MDY6m1Y3UHnh37mseAP",
+  "snapshot_id": "aX/pAAAAAABiMatJHGRNVIaC1nIKG86v",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
+        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 243503,
+      "name": "Si Te Pudiera Mentir - En Vivo",
+      "url": "https://open.spotify.com/track/4QmzK1fWkPU8h23ZTf5dOH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde Que Llegaste (con Eden Mu\u00f1oz)",
         "url": "https://open.spotify.com/album/6CDrZFBVkrxaaYOoiP3iLW"
       },
@@ -399,38 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
-        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 243503,
-      "name": "Si Te Pudiera Mentir - En Vivo",
-      "url": "https://open.spotify.com/track/4QmzK1fWkPU8h23ZTf5dOH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Primer D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 190876,
-      "name": "Mi Primer D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eden Vol. II",
         "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 268331,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/0vQtxhm39aWCD3rcK00OZA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Primer D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 190876,
+      "name": "Mi Primer D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 177058,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/5ALh1nWcNmSEOe3y0D1aVE"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 240561,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/274qOOTUIIZTgccG1xlbm9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 177058,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
     },
     {
       "added_at": null,
@@ -799,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Nos Falt\u00f3 Decir",
-        "url": "https://open.spotify.com/album/5LdhTgOjLoLxIR03KbN0RB"
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
       "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 236746,
-      "name": "Nunca Deja De Llover",
-      "url": "https://open.spotify.com/track/7DWjWBdsLX2c1m4l01rO2P"
+      "duration_ms": 222571,
+      "name": "MX - MAD",
+      "url": "https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX"
     },
     {
       "added_at": null,
@@ -839,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 222571,
-      "name": "MX - MAD",
-      "url": "https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Reca\u00edda en Los Excesos",
         "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 183724,
       "name": "Mi Reca\u00edda en Los Excesos",
       "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Nos Falt\u00f3 Decir",
+        "url": "https://open.spotify.com/album/5LdhTgOjLoLxIR03KbN0RB"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Nunca Deja De Llover",
+      "url": "https://open.spotify.com/track/7DWjWBdsLX2c1m4l01rO2P"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Dan + Shay",
-  "num_followers": 135559,
+  "num_followers": 135566,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,38 @@
     {
       "added_at": "2025-12-19 05:00:32",
       "album": {
+        "name": "No More Tears (live from the let go letters tour)",
+        "url": "https://open.spotify.com/album/7rdYGgrRJCTTMRestLOWhL"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 231155,
+      "name": "No More Tears - live from the let go letters tour",
+      "url": "https://open.spotify.com/track/7yZ5o8UjP08LkmhpJgLHCe"
+    },
+    {
+      "added_at": "2025-12-19 05:00:32",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/0xbmMCxRyQtswaJnCcLLbL"
+      },
+      "artists": [
+        {
+          "name": "Gareth",
+          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
+        }
+      ],
+      "duration_ms": 204078,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/6XtCRiSN5qHIa32aundC6Y"
+    },
+    {
+      "added_at": "2025-12-19 05:00:32",
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -663,38 +695,6 @@
       "duration_ms": 131949,
       "name": "BLACKBIIRD",
       "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
-    },
-    {
-      "added_at": "2025-12-19 05:00:32",
-      "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/0xbmMCxRyQtswaJnCcLLbL"
-      },
-      "artists": [
-        {
-          "name": "Gareth",
-          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
-        }
-      ],
-      "duration_ms": 204078,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/6XtCRiSN5qHIa32aundC6Y"
-    },
-    {
-      "added_at": "2025-12-19 05:00:32",
-      "album": {
-        "name": "No More Tears (live from the let go letters tour)",
-        "url": "https://open.spotify.com/album/7rdYGgrRJCTTMRestLOWhL"
-      },
-      "artists": [
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 231155,
-      "name": "No More Tears - live from the let go letters tour",
-      "url": "https://open.spotify.com/track/7yZ5o8UjP08LkmhpJgLHCe"
     },
     {
       "added_at": "2025-12-19 05:00:32",
@@ -847,22 +847,22 @@
     {
       "added_at": "2025-12-19 05:00:32",
       "album": {
-        "name": "Acoustic Covers (Deluxe)",
-        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
+        "name": "Reba Duets",
+        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         },
         {
-          "name": "Craig Campbell",
-          "url": "https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 232250,
-      "name": "Outskirts of Heaven (feat. Craig Campbell)",
-      "url": "https://open.spotify.com/track/2BzVAwyvy5yHbPkMUGhRRH"
+      "duration_ms": 223746,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
     },
     {
       "added_at": "2025-12-19 05:00:32",
@@ -883,22 +883,22 @@
     {
       "added_at": "2025-12-19 05:00:32",
       "album": {
-        "name": "Reba Duets",
-        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
+        "name": "Acoustic Covers (Deluxe)",
+        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         },
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Craig Campbell",
+          "url": "https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
+      "duration_ms": 232250,
+      "name": "Outskirts of Heaven (feat. Craig Campbell)",
+      "url": "https://open.spotify.com/track/2BzVAwyvy5yHbPkMUGhRRH"
     },
     {
       "added_at": "2025-12-19 05:00:32",

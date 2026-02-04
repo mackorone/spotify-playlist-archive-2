@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New stunning releases in modern soul. Cover: Steven Charlot",
-  "name": "Next Wave Soul",
+  "description": "Hand-picked releases from the new wave in soul. Cover: EASY FREAK",
+  "name": "Soul Currents",
   "tracks": [
     {
       "album": {
@@ -232,6 +232,24 @@
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
+    },
+    {
+      "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/7sOimIUM5jqiDGAQ0WOR8n"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221228,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/4PUwcojfOWPrGvEcPw1MOy"
     },
     {
       "album": {
@@ -1615,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "Can't Wait to Meet You",
+        "url": "https://open.spotify.com/album/4sABeJQnfb3vdx2ONTWSqu"
+      },
+      "artists": [
+        {
+          "name": "GeeJay",
+          "url": "https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Can't Wait to Meet You",
+      "url": "https://open.spotify.com/track/4Btm2bOAkyMFxSRSrpnasS"
+    },
+    {
+      "album": {
         "name": "Candy Drip",
         "url": "https://open.spotify.com/album/2exRXecgdBcKjTGG3PUgnV"
       },
@@ -2486,7 +2522,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 183918,
       "name": "Deep Dive (feat. Candy Dulfer)",
       "url": "https://open.spotify.com/track/1vUIfW9ZucBz0DZAMW5Suj"
@@ -3495,6 +3531,28 @@
     },
     {
       "album": {
+        "name": "Crush Culture",
+        "url": "https://open.spotify.com/album/5JzM7K49l1hHgw0iDDenWi"
+      },
+      "artists": [
+        {
+          "name": "Robyn Florence",
+          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
+        },
+        {
+          "name": "DAVIES",
+          "url": "https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175750,
+      "name": "Get Away From It",
+      "url": "https://open.spotify.com/track/2r4cKBorqcpsCUG1J09NFD"
+    },
+    {
+      "album": {
         "name": "Starfruit",
         "url": "https://open.spotify.com/album/6BX8c95i5dRgynP9sIzy6K"
       },
@@ -4080,6 +4138,28 @@
       "duration_ms": 256853,
       "name": "Heal",
       "url": "https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk"
+    },
+    {
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/4skxVlSEuG1dsgfoChLzfc"
+      },
+      "artists": [
+        {
+          "name": "Stirmouth",
+          "url": "https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W"
+        },
+        {
+          "name": "evi",
+          "url": "https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168791,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/2sFhb5wOheqeUU3vAa5Nmt"
     },
     {
       "album": {
@@ -4694,7 +4774,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 129776,
       "name": "Hush",
       "url": "https://open.spotify.com/track/6zgZQ0Txc4cpF03TAjnEMJ"
@@ -4960,6 +5040,32 @@
       "duration_ms": 208741,
       "name": "If I Stay",
       "url": "https://open.spotify.com/track/09Ib2XztcUmNGD2iNPiQTg"
+    },
+    {
+      "album": {
+        "name": "If The Walls Could Talk",
+        "url": "https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx"
+      },
+      "artists": [
+        {
+          "name": "Lizzy",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        },
+        {
+          "name": "Maydien",
+          "url": "https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y"
+        },
+        {
+          "name": "Mitchell Yard",
+          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "If The Walls Could Talk",
+      "url": "https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi"
     },
     {
       "album": {
@@ -5634,7 +5740,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 202800,
       "name": "Lacuna",
       "url": "https://open.spotify.com/track/0apf5s4dsNMkUSwzISx3lz"
@@ -5718,7 +5824,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 168833,
       "name": "Leave It Up To You",
       "url": "https://open.spotify.com/track/6L9mT3g89Nl8JVWMy5DAPf"
@@ -5974,7 +6080,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 181921,
       "name": "Lil' Obsession",
       "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
@@ -6088,6 +6194,24 @@
       "duration_ms": 312727,
       "name": "Look What You've Done",
       "url": "https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U"
+    },
+    {
+      "album": {
+        "name": "Lookalike",
+        "url": "https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Lookalike",
+      "url": "https://open.spotify.com/track/1MSSCIOpcASLtHvb2idZIo"
     },
     {
       "album": {
@@ -6784,7 +6908,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 169148,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/7c10abZ9Gihc9vkJB3ltcw"
@@ -7154,7 +7278,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 199426,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/2nwrnSPwGVMuU2pAbw9m58"
@@ -7304,7 +7428,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 257923,
       "name": "Never Change",
       "url": "https://open.spotify.com/track/1TLfO5QFvaKhvOovKD8ayn"
@@ -7548,7 +7672,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 107333,
       "name": "One Call Away",
       "url": "https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO"
@@ -7628,6 +7752,28 @@
       "duration_ms": 217056,
       "name": "Open Hearts",
       "url": "https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn"
+    },
+    {
+      "album": {
+        "name": "Orange Wine",
+        "url": "https://open.spotify.com/album/2AGeeGiuL9Sxs3ZWpnq9o1"
+      },
+      "artists": [
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        },
+        {
+          "name": "Lynden",
+          "url": "https://open.spotify.com/artist/5q6iGOspbddquMKyvxKQYv"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190458,
+      "name": "Orange Wine",
+      "url": "https://open.spotify.com/track/7gZWypmpJYDJB7DV8p0Vjk"
     },
     {
       "album": {
@@ -8235,6 +8381,24 @@
     },
     {
       "album": {
+        "name": "raindance",
+        "url": "https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218918,
+      "name": "raindance",
+      "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
+    },
+    {
+      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/4U4m7pO3EBcUqmeNWthFii"
       },
@@ -8458,6 +8622,32 @@
       "duration_ms": 164493,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
+    },
+    {
+      "album": {
+        "name": "Rich",
+        "url": "https://open.spotify.com/album/7aNfY3tTMBkw8A7uK6tfNE"
+      },
+      "artists": [
+        {
+          "name": "Tera K\u00f2r\u00e1",
+          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
+        },
+        {
+          "name": "abrahamblue",
+          "url": "https://open.spotify.com/artist/2TzrsJxlKAgMqEY2dSPJ9g"
+        },
+        {
+          "name": "Le Modo",
+          "url": "https://open.spotify.com/artist/5e717AzUl7w8jTjKyUY0om"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173543,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/6XdUQ6ipN5btwCWzA1AvC2"
     },
     {
       "album": {
@@ -11681,6 +11871,28 @@
     },
     {
       "album": {
+        "name": "Waiting For You (feat. Reggie Dartey)",
+        "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198894,
+      "name": "Waiting For You (feat. Reggie Dartey)",
+      "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
+    },
+    {
+      "album": {
         "name": "edbl & friends - James Berkeley",
         "url": "https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C"
       },
@@ -11718,7 +11930,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 178879,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/0q615BBGWJGoh9MOujJYNc"
@@ -11772,7 +11984,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 263850,
       "name": "Watch You Leave",
       "url": "https://open.spotify.com/track/71H62uTyeyqMwIvtCispPT"
@@ -11962,6 +12174,24 @@
       "duration_ms": 168571,
       "name": "wHIP",
       "url": "https://open.spotify.com/track/6iaLsNI1ht2Z2fSFqvESx0"
+    },
+    {
+      "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/4I3eWUXAc2jS6a3ZiORnRn"
+      },
+      "artists": [
+        {
+          "name": "Lee Lewis",
+          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196510,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/15ogUxj5nlIwXqq6h54fiH"
     },
     {
       "album": {

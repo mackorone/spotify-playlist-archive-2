@@ -2,9 +2,9 @@
 
 ### [Hot Hits Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX0MD19TXm0aV)
 
-> Switzerland's biggest hits right now\. Cover: PinkPantheress, Zara Larsson
+> Switzerland's biggest hits right now\. Cover: RnBoi, Nono La Grinta
 
-335 songs - 16 hr 40 min
+337 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Ate dite](https://open.spotify.com/track/3i1ySkILXibxXQNga1Lfui) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [Ate dite](https://open.spotify.com/album/4xmuaXPi23HxrqpeLg86f1) | 3:16 | 2025-11-06 |  |
 | [Atrevida](https://open.spotify.com/track/64OxHhBENKumkBYeYmgZji) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Atrevida](https://open.spotify.com/album/2SswfCbWKnAAkGf9SUqlpM) | 2:50 | 2024-07-02 | 2025-04-17 |
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-07-02 | 2024-09-04 |
+| [AVEC MOI](https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [AVEC MOI](https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA) | 3:02 | 2026-02-03 |  |
 | [Aye](https://open.spotify.com/track/6DbfhN2HIColQgffTlInqh) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [OnTouRage \- EP](https://open.spotify.com/album/4aYXzIUkoPjX7bY07Bk2xL) | 3:02 | 2025-04-08 | 2025-04-24 |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-03 | 2026-01-15 |
 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 | 2025-03-18 | 2025-07-31 |
@@ -247,6 +248,7 @@
 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 | 2024-07-02 | 2024-07-27 |
 | [RAP](https://open.spotify.com/track/6LS8P88Zcp1Xy8VGavEYV2) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [RAP](https://open.spotify.com/album/6TvePwd4cA426ysyVUUCtD) | 2:35 | 2025-04-08 | 2025-04-30 |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-18 | 2025-04-03 |
+| [Renn!](https://open.spotify.com/track/3uKAPZDXq6yE8Zqfhjbpp6) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Renn!](https://open.spotify.com/album/6Kb7RsCVhNArBtaJkLOflg) | 2:46 | 2026-02-03 |  |
 | [Rote Flaggen](https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [ROTE FLAGGEN](https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa) | 3:44 | 2024-09-17 | 2025-02-05 |
 | [RUINART](https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [7/7 : 24/24](https://open.spotify.com/album/0u2KFP9XvLHwQshJy1wDTM) | 2:54 | 2025-07-09 | 2025-08-07 |
 | [Rumba \(feat\. Bausa\)](https://open.spotify.com/track/44YUIwl4laOQvUSMVeiyQJ) | [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [DHURATA](https://open.spotify.com/album/1BaQKcXBkeFVnyo6W2tWY2) | 2:15 | 2024-12-17 | 2025-01-29 |
@@ -277,7 +279,7 @@
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-01-21 |  |
 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 | 2024-08-27 | 2024-09-18 |
 | [Stäffisburg](https://open.spotify.com/track/50rtbFg8mURiWLHrddBc1K) | [Patent Ochsner](https://open.spotify.com/artist/4Cfx9c45o8GigUIYzDie9B) | [Stäffisburg](https://open.spotify.com/album/5uU2oneRjOxbus8C48tuLF) | 4:17 | 2025-02-04 | 2025-03-05 |
-| [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 | 2025-09-23 |  |
+| [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 | 2025-09-23 | 2026-02-04 |
 | [Summer Baby](https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb) | [Summer Baby](https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG) | 2:23 | 2025-07-01 | 2025-07-24 |
 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-06-26 | 2025-08-20 |
 | [Syt](https://open.spotify.com/track/4UxVPXznavq6dwRv9bro7G) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Playboys im AMG](https://open.spotify.com/album/352ocuWsww6xXPgUDmXFqq) | 2:33 | 2025-09-23 | 2025-10-29 |
@@ -337,7 +339,7 @@
 | [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi Malua](https://open.spotify.com/artist/4i3FpW16bE9c9TxNvvDs82) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 | 2025-07-30 | 2025-09-04 |
 | [Wunder](https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Wunder](https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa) | 2:56 | 2024-07-02 | 2024-08-03 |
 | [Yakuza](https://open.spotify.com/track/034XOtgCAsB9IGp7K9QomB) | [Don Xhoni](https://open.spotify.com/artist/2z6t0UGq0WAM8X6zDeXKXj) | [Yakuza](https://open.spotify.com/album/5yoAfNK7m0bKj5VXp8U0CM) | 3:23 | 2024-12-17 | 2025-02-12 |
-| [YAMA](https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [YAMA](https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5) | 2:39 | 2025-10-22 |  |
+| [YAMA](https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [YAMA](https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5) | 2:39 | 2025-10-22 | 2026-02-04 |
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-25 | 2024-10-17 |
 | [ZEIT, DASS SICH WAS DREHT](https://open.spotify.com/track/1NifMX1JqCz9caJowG8dxq) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [ZEIT, DASS SICH WAS DREHT](https://open.spotify.com/album/3kGCNaXI68tIspcsuWQ1yy) | 2:33 | 2024-07-02 | 2024-10-17 |
 | [Zemër Ty](https://open.spotify.com/track/08Z12GLQZkdgFJoAWaUf1j) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ) | [Zemër Ty](https://open.spotify.com/album/0mawjlzvnEtDAHZKlftR1N) | 2:27 | 2025-04-29 | 2025-06-04 |

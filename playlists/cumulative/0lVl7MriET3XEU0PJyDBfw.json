@@ -2849,6 +2849,28 @@
     },
     {
       "album": {
+        "name": "Truesoul Presents: 2025 (Extended Mix)",
+        "url": "https://open.spotify.com/album/0rpGs30bVlyKlDbKieLei5"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "Equin\u00f8x",
+          "url": "https://open.spotify.com/artist/5Pfc3lrQ5LtFXRcGhNs3cH"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320220,
+      "name": "Chemistry - Extended Mix",
+      "url": "https://open.spotify.com/track/6ouoSmyW4mUgGUv3vDNMHz"
+    },
+    {
+      "album": {
         "name": "Chip Tune",
         "url": "https://open.spotify.com/album/3feSyCPkqIHNhq3Cfo7dFh"
       },
@@ -5010,6 +5032,32 @@
       "duration_ms": 156218,
       "name": "Everything You Have Done - Meduza Edit",
       "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
+    },
+    {
+      "album": {
+        "name": "Evil Twin",
+        "url": "https://open.spotify.com/album/1iPQCOAE9UGkc2kQFELnso"
+      },
+      "artists": [
+        {
+          "name": "Front Row",
+          "url": "https://open.spotify.com/artist/6NkYiKN8kMmwVNfk1nCLpp"
+        },
+        {
+          "name": "Jordan Burns",
+          "url": "https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS"
+        },
+        {
+          "name": "Ned Kelly",
+          "url": "https://open.spotify.com/artist/5gYU9SSmuwP6miLWgOK8Ht"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187619,
+      "name": "Evil Twin",
+      "url": "https://open.spotify.com/track/4c7V3mhbHfXNksK2JhOLsb"
     },
     {
       "album": {

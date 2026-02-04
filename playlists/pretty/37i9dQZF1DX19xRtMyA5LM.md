@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Eves Laurent
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,285 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,271 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 3 | [Waar Was Je?](https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Waar Was Je?](https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC) | 2:28 |
 | 4 | [Could Never Be Me](https://open.spotify.com/track/0O6zjn3poV3Jqr4xPX4n1p) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Drechter](https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj) | [Could Never Be Me](https://open.spotify.com/album/2IFbABRQjVo1INaEv4Gio2) | 3:09 |
 | 5 | [Vage Gozer](https://open.spotify.com/track/0lIwbiNPr1wHVa2UfZSUMR) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Vage Gozer](https://open.spotify.com/album/71YgosnEaSCYHQX1T9EZyo) | 2:55 |
-| 6 | [Beeldspraak](https://open.spotify.com/track/7gNMzb2QugWttXBA63EGM0) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 3:27 |
+| 6 | [Ambassade](https://open.spotify.com/track/3YoaeRrMo9u4jDWcBDyUJu) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 3:09 |
 | 7 | [De Laatste Sprint](https://open.spotify.com/track/2lV0iWyn789HzZX28uqfgO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [De Laatste Sprint](https://open.spotify.com/album/1EzVpVYDBYqs5yBtyeJuMe) | 3:31 |
 | 8 | [POWER \(feat\. 3robi\)](https://open.spotify.com/track/61ELn4rQSVCcb07Vt6eBJZ) | [KLM](https://open.spotify.com/artist/51IIEUubMmZPCLqgGCSvgn), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [POWER \(feat\. 3robi\)](https://open.spotify.com/album/5AnCuBRHVkE4SwLsrDxDYv) | 2:58 |
 | 9 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Millionaire](https://open.spotify.com/track/19q5YMgBKrM8DuWuJoFEey) | [LILO](https://open.spotify.com/artist/4bpz1DmU9tB2FDq2tPgAFC), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [Millionaire](https://open.spotify.com/album/3GtXinuaQVhgEnrFVnGfmW) | 2:36 |
 | 60 | [Deed 2 \(D2\)](https://open.spotify.com/track/47qbH7DYanEf9c8GYaXoJT) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [IliassOpDeBeat](https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw) | [Deed 2 \(D2\)](https://open.spotify.com/album/6yPoIF95idX6uAOM4gQgQ0) | 2:52 |
 
-Snapshot ID: `AAAAAGPhW8QN4iSYvKPW2dUxASHhc8lv`
+Snapshot ID: `AAAAAMOHegRzz0wOuuBq4KkSitezLsir`

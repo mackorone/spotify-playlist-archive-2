@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > The Magna Carta was a royal charter issued in 1215 that established that the king was not above the law
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,785 likes - 135 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,872 likes - 135 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 93 | [Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn) | [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Expression On Your Face](https://open.spotify.com/album/0SylYxgzz1dgwuN4ItVB3u) | 2:53 |
 | 94 | [MILF](https://open.spotify.com/track/5d2OldvCLCLssaPFtafz9j) | [RIZHA](https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI) | [GOD LOVES LATINAS](https://open.spotify.com/album/0XtueVYOVJmYqOeNM6Fd6p) | 2:49 |
 | 95 | [2NITEE](https://open.spotify.com/track/2QCsOTuZFLqrNrQ21OREdk) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [2NITEE / GONE](https://open.spotify.com/album/0PJu9ZzT3wXY5EEOAMnEAa) | 2:54 |
-| 96 | [OMG !](https://open.spotify.com/track/6no8Q77VOtCvd0KnJUI8x4) | [STACY OUTRAGEOUS](https://open.spotify.com/artist/2SCaiLKNpndcf4FYvoortL) | [OMG !](https://open.spotify.com/album/5gyQRdEm5rwHPWot30Rc6P) | 2:17 |
+| 96 | [OMG !](https://open.spotify.com/track/6no8Q77VOtCvd0KnJUI8x4) | [STACY OUTRAGEOUS](https://open.spotify.com/artist/2SCaiLKNpndcf4FYvoortL), [ECO CULT](https://open.spotify.com/artist/25L2VkBkXosNj1VfVk3fzR) | [OMG !](https://open.spotify.com/album/5gyQRdEm5rwHPWot30Rc6P) | 2:17 |
 | 97 | [Appalachia](https://open.spotify.com/track/1eh7N11Wxib2KZ5w8eKJ94) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Appalachia](https://open.spotify.com/album/3yTGd142wMD28wd17gzdpO) | 2:18 |
 | 98 | [everywhere<3](https://open.spotify.com/track/0x3iQHDSInr7mrFcfYIlYJ) | [TEO.x3](https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH), [Christian Cherry](https://open.spotify.com/artist/6rmnezB7LuaNkZ8OKeB3tK) | [everywhere<3](https://open.spotify.com/album/01TqDuPEdX1W40TYDMAZkA) | 2:46 |
 | 99 | [What a shame i love you too](https://open.spotify.com/track/6VP6nTZ2QBf0kQj8RdAnuZ) | [Mayvi](https://open.spotify.com/artist/40OnC1gducPfu1ZvA0pwa8), [shyne](https://open.spotify.com/artist/5D969XImVbOJf5LpXWUEAq) | [What a shame i love you too](https://open.spotify.com/album/1bS44dS9SlaeSycgZNHg63) | 1:47 |

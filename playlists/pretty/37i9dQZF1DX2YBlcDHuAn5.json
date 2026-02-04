@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33842,
+  "num_followers": 33851,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-01-29 23:00:30",
       "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
-    },
-    {
-      "added_at": "2026-01-29 23:00:30",
-      "album": {
         "name": "I WANT MY LOVED ONES TO GO WITH ME",
         "url": "https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 169026,
       "name": "Way Of The World (feat. Ella Langley)",
       "url": "https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy"
+    },
+    {
+      "added_at": "2026-01-29 23:00:30",
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "added_at": "2026-01-29 23:00:30",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-01-29 23:00:30",
       "album": {
+        "name": "A Beautiful Life",
+        "url": "https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 196304,
+      "name": "A Beautiful Life",
+      "url": "https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ"
+    },
+    {
+      "added_at": "2026-01-29 23:00:30",
+      "album": {
         "name": "Sugar in the Tank",
         "url": "https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 222654,
       "name": "Sugar in the Tank",
       "url": "https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj"
-    },
-    {
-      "added_at": "2026-01-29 23:00:30",
-      "album": {
-        "name": "A Beautiful Life",
-        "url": "https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 196304,
-      "name": "A Beautiful Life",
-      "url": "https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ"
     },
     {
       "added_at": "2026-01-29 23:00:30",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-01-29 23:00:30",
       "album": {
-        "name": "Can't Take My Story Away",
-        "url": "https://open.spotify.com/album/54HjJF318NtJtvz7FIwmLI"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 251566,
-      "name": "Can't Take My Story Away",
-      "url": "https://open.spotify.com/track/6q55IN85ubuUeVu1tFEFWM"
-    },
-    {
-      "added_at": "2026-01-29 23:00:30",
-      "album": {
         "name": "Stone Cold Sober",
         "url": "https://open.spotify.com/album/5aCaC8P8Oq7Oyszu1NWiK5"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 167586,
       "name": "Stone Cold Sober",
       "url": "https://open.spotify.com/track/17E2m2bMA0Su7F2OioKA8H"
+    },
+    {
+      "added_at": "2026-01-29 23:00:30",
+      "album": {
+        "name": "Can't Take My Story Away",
+        "url": "https://open.spotify.com/album/54HjJF318NtJtvz7FIwmLI"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 251566,
+      "name": "Can't Take My Story Away",
+      "url": "https://open.spotify.com/track/6q55IN85ubuUeVu1tFEFWM"
     },
     {
       "added_at": "2026-01-29 23:00:30",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-01-29 23:00:30",
       "album": {
-        "name": "All Behind",
-        "url": "https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 245567,
-      "name": "All Behind",
-      "url": "https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E"
-    },
-    {
-      "added_at": "2026-01-29 23:00:30",
-      "album": {
         "name": "For Once",
         "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 237467,
       "name": "For Once",
       "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
+    },
+    {
+      "added_at": "2026-01-29 23:00:30",
+      "album": {
+        "name": "All Behind",
+        "url": "https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 245567,
+      "name": "All Behind",
+      "url": "https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E"
     },
     {
       "added_at": "2026-01-29 23:00:30",
@@ -835,6 +835,26 @@
     {
       "added_at": "2026-01-29 23:00:30",
       "album": {
+        "name": "BP Love",
+        "url": "https://open.spotify.com/album/2DZbccCK8sWid5r8GCwtS2"
+      },
+      "artists": [
+        {
+          "name": "Jessica Allossery",
+          "url": "https://open.spotify.com/artist/40GxtoOMHs0ux7Wfs3C8Ob"
+        },
+        {
+          "name": "The Butterfly Room",
+          "url": "https://open.spotify.com/artist/6iPsFW8Vx81G68wYEaioQA"
+        }
+      ],
+      "duration_ms": 126750,
+      "name": "BP Love",
+      "url": "https://open.spotify.com/track/7mDbzMJplzWKZxrula4ddy"
+    },
+    {
+      "added_at": "2026-01-29 23:00:30",
+      "album": {
         "name": "Eye of the Storm",
         "url": "https://open.spotify.com/album/72Z5kQ51FyrRIeXHa4wMLp"
       },
@@ -867,22 +887,6 @@
       "duration_ms": 177205,
       "name": "Frozen - Live from Best of Pop",
       "url": "https://open.spotify.com/track/2ALhSY3Su4JB7vXJUORY34"
-    },
-    {
-      "added_at": "2026-01-29 23:00:30",
-      "album": {
-        "name": "Don't Wanna Be Nervous",
-        "url": "https://open.spotify.com/album/2wJcgrBwI5dFwWEQDEXUfW"
-      },
-      "artists": [
-        {
-          "name": "MISTER & MRS",
-          "url": "https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS"
-        }
-      ],
-      "duration_ms": 180784,
-      "name": "Don't Wanna Be Nervous",
-      "url": "https://open.spotify.com/track/437n4zz3tJe3ZIltuGy4Sk"
     }
   ],
   "unique_name": "Country & Americana",

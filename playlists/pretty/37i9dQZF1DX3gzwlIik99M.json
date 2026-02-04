@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 204498,
+  "num_followers": 204501,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,22 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "El Llamado de la Hembra",
-        "url": "https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa"
+        "name": "El Nuevo Camino del Hombre",
+        "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
       "artists": [
         {
-          "name": "Transmetal",
-          "url": "https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT"
+          "name": "A.N.I.M.A.L.",
+          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
+        },
+        {
+          "name": "Mario Altamirano and A.N.I.M.A.L.",
+          "url": "https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m"
         }
       ],
-      "duration_ms": 275435,
-      "name": "El Infierno de Dante",
-      "url": "https://open.spotify.com/track/0vjTp23Jg2cAZSq9x5GlxK"
+      "duration_ms": 209373,
+      "name": "El nuevo camino del hombre",
+      "url": "https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -207,22 +211,18 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "El Nuevo Camino del Hombre",
-        "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
+        "name": "El Llamado de la Hembra",
+        "url": "https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa"
       },
       "artists": [
         {
-          "name": "A.N.I.M.A.L.",
-          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
-        },
-        {
-          "name": "Mario Altamirano and A.N.I.M.A.L.",
-          "url": "https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m"
+          "name": "Transmetal",
+          "url": "https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT"
         }
       ],
-      "duration_ms": 209373,
-      "name": "El nuevo camino del hombre",
-      "url": "https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y"
+      "duration_ms": 275435,
+      "name": "El Infierno de Dante",
+      "url": "https://open.spotify.com/track/0vjTp23Jg2cAZSq9x5GlxK"
     },
     {
       "added_at": "2025-09-18 22:01:59",

@@ -8635,6 +8635,24 @@
     },
     {
       "album": {
+        "name": "Triky Moment",
+        "url": "https://open.spotify.com/album/39jvciHJ6qXimS2Vhmiuam"
+      },
+      "artists": [
+        {
+          "name": "DJ Esse",
+          "url": "https://open.spotify.com/artist/5eXb8rgQwq17mWwmotpgQc"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332625,
+      "name": "Triky Moment",
+      "url": "https://open.spotify.com/track/4NM9hQgxiSBuyB6e04JVsX"
+    },
+    {
+      "album": {
         "name": "Tuci Taci",
         "url": "https://open.spotify.com/album/7w7DYreWyk8sJ3iQiSMEid"
       },

@@ -495,6 +495,28 @@
     },
     {
       "album": {
+        "name": "only me",
+        "url": "https://open.spotify.com/album/0iFRaaqEcEECluhl0UdjR0"
+      },
+      "artists": [
+        {
+          "name": "Jake The Snake",
+          "url": "https://open.spotify.com/artist/6WeH5ssIPZ0KmBSYu8u30V"
+        },
+        {
+          "name": "Easton Fitz",
+          "url": "https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160872,
+      "name": "only me",
+      "url": "https://open.spotify.com/track/75CQb3vXfiah8MOyXqio8t"
+    },
+    {
+      "album": {
         "name": "The Melodic Blue (Deluxe)",
         "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Shary\-An
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,983 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,970 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 5 | [Dansvloer Dilemma](https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Dansvloer Dilemma](https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF) | 2:08 |
 | 6 | [Zijn Probleem](https://open.spotify.com/track/7FJo5nWEp80SJsJ4ibkkof) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Zijn Probleem](https://open.spotify.com/album/5QmQVkCS2ESWm4wWl12DML) | 2:51 |
 | 7 | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37) | 3:17 |
-| 8 | [Waar Ik Ben](https://open.spotify.com/track/5f8CxfFjYKpbZMPGenQMbG) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Waar Ik Ben](https://open.spotify.com/album/6LLdzMTrHM0sez2nUM8rqo) | 3:37 |
-| 9 | [Jouw Moment](https://open.spotify.com/track/04CMjdiQKsS1EKuYkmE9YD) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Jouw Moment](https://open.spotify.com/album/2u6GbyN0hmKZW9QrbUnyq5) | 2:40 |
+| 8 | [Jouw Moment](https://open.spotify.com/track/04CMjdiQKsS1EKuYkmE9YD) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Jouw Moment](https://open.spotify.com/album/2u6GbyN0hmKZW9QrbUnyq5) | 2:40 |
+| 9 | [Waar Ik Ben](https://open.spotify.com/track/5f8CxfFjYKpbZMPGenQMbG) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Waar Ik Ben](https://open.spotify.com/album/6LLdzMTrHM0sez2nUM8rqo) | 3:37 |
 | 10 | [Droom](https://open.spotify.com/track/5eAudbQPYwHtyNom3Pl5sf) | [Tellem](https://open.spotify.com/artist/0S19RorEJ6KAg48DNRDGrV) | [Droom](https://open.spotify.com/album/694SG9TFeP3TiLUmYQk6eb) | 3:22 |
 | 11 | [Echt Zo](https://open.spotify.com/track/5RiNPHQmTZeLHiVPZFg0jn) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Echt Zo](https://open.spotify.com/album/6EzKHgwuGTPMPcFOkOPN2K) | 3:14 |
 | 12 | [Vergeven](https://open.spotify.com/track/7n2GoIkriYMco6mk7udtoK) | [Elaine](https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l) | [Vergeven](https://open.spotify.com/album/0Bz0eVRzFsgf805DMW2WOW) | 3:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Het Komt Allemaal Wel Goed](https://open.spotify.com/track/5jF44uotGASfqzEVxIhtKN) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Het Komt Allemaal Wel Goed](https://open.spotify.com/album/4k8tlqTYPSKV2DSB7GQf6L) | 3:02 |
 | 80 | [Dat Hadden Wij Kunnen Zijn](https://open.spotify.com/track/114RXaeIfU4y9IeErk0Cn7) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg), [Emma Luca](https://open.spotify.com/artist/3ijcW9QMa7wkBs1ACGpdcs) | [Dat Hadden Wij Kunnen Zijn](https://open.spotify.com/album/3lkVeYl7uTkxBnfN1hC5PV) | 3:05 |
 
-Snapshot ID: `AAAAAOLssMSwpgYmVsltfjyfUop37669`
+Snapshot ID: `AAAAAFOGn2A32I45NbDC9uPcdcRZgUJs`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe tijdloze muziek. Cover: Ilse DeLange",
+  "description": "Nieuwe tijdloze muziek. Cover: Bruce Springsteen",
   "name": "Altijd Goed",
   "tracks": [
     {
@@ -3139,6 +3139,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Be Silly",
+        "url": "https://open.spotify.com/album/0V64voJRjQ3zboCinONl2c"
+      },
+      "artists": [
+        {
+          "name": "Wodan Boys",
+          "url": "https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr"
+        },
+        {
+          "name": "Barry Hay",
+          "url": "https://open.spotify.com/artist/48ys6hjOjK51qyn2W0QN2y"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166810,
+      "name": "Don\u2019t Be Silly",
+      "url": "https://open.spotify.com/track/5HjaxbPAq0UYRjAY9gZEcx"
+    },
+    {
+      "album": {
         "name": "Down Down Down Down",
         "url": "https://open.spotify.com/album/4dggVrjDYcUArNkVpqdHKU"
       },
@@ -3746,6 +3768,28 @@
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "Flowers In The Water",
+        "url": "https://open.spotify.com/album/0aSClnSnwkJQUmJupW4fpe"
+      },
+      "artists": [
+        {
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239397,
+      "name": "Flowers In The Water",
+      "url": "https://open.spotify.com/track/50WogEBOCXkA5vEV1Es58S"
     },
     {
       "album": {
@@ -4800,6 +4844,24 @@
       "duration_ms": 196220,
       "name": "Head Held High",
       "url": "https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e"
+    },
+    {
+      "album": {
+        "name": "Dressed Like Boys",
+        "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215486,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6C7S3LAPokFppY2ttt6VSi"
     },
     {
       "album": {
@@ -7686,7 +7748,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -9031,6 +9093,28 @@
     },
     {
       "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259495,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB"
+    },
+    {
+      "album": {
         "name": "Over & Over",
         "url": "https://open.spotify.com/album/2qEYH8GP5nPmdpsoksgaWw"
       },
@@ -9320,7 +9404,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 222756,
       "name": "Pinnacles",
       "url": "https://open.spotify.com/track/74kAlb3OrVl15ZKgfWdxhy"
@@ -10900,7 +10984,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 259160,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/1E568TomvGi3FW7NvePXvp"
@@ -11434,6 +11518,24 @@
       "duration_ms": 189136,
       "name": "Streets of London",
       "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
+    },
+    {
+      "album": {
+        "name": "Streets of Minneapolis",
+        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275831,
+      "name": "Streets of Minneapolis",
+      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
     },
     {
       "album": {
@@ -12034,6 +12136,24 @@
       "duration_ms": 226253,
       "name": "That Is You",
       "url": "https://open.spotify.com/track/7BBfnVKkoE5LwkcWqh8ixg"
+    },
+    {
+      "album": {
+        "name": "Took You To The Movies",
+        "url": "https://open.spotify.com/album/2fPOitbfCwNkWd7sJcZxO2"
+      },
+      "artists": [
+        {
+          "name": "Marlon Pichel",
+          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223893,
+      "name": "That's What I Call Love",
+      "url": "https://open.spotify.com/track/4XelJWzJswwdO5tXsr2QFA"
     },
     {
       "album": {
@@ -14639,6 +14759,24 @@
     },
     {
       "album": {
+        "name": "You'll Never Know",
+        "url": "https://open.spotify.com/album/2y2qUwMUYN9t0j3vQVwZlI"
+      },
+      "artists": [
+        {
+          "name": "Michelle David & The True-tones",
+          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "You'll Never Know",
+      "url": "https://open.spotify.com/track/0YriJZjnapM8wks4KZsPix"
+    },
+    {
+      "album": {
         "name": "You're All I Got / So Long",
         "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
       },
@@ -14690,6 +14828,24 @@
       "duration_ms": 179086,
       "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
+    },
+    {
+      "album": {
+        "name": "Youman",
+        "url": "https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216128,
+      "name": "Youman",
+      "url": "https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu"
     },
     {
       "album": {

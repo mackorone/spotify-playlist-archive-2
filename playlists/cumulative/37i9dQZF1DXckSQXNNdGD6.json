@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La banda sonora de tu orgullo. Foto: Luna Ki.",
+  "description": "La banda sonora de tu orgullo. Foto: Marlon Collins.",
   "name": "Glow Espa\u00f1a",
   "tracks": [
     {
@@ -2882,7 +2882,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 138428,
       "name": "LL\u00c1MAME",
       "url": "https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw"
@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 193412,
       "name": "LOKADEM\u00c1S",
       "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
@@ -4387,6 +4387,24 @@
     },
     {
       "album": {
+        "name": "CABALLO NEGRO",
+        "url": "https://open.spotify.com/album/0QBgvCtVa4h7GJ4om5ai5Q"
+      },
+      "artists": [
+        {
+          "name": "Marlon Collins",
+          "url": "https://open.spotify.com/artist/5ek3qzAl6qGKWK7IuMmZRY"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192396,
+      "name": "PUTO CON DIAMANTES",
+      "url": "https://open.spotify.com/track/3O1iC6KHB3iySfPDHZuSbN"
+    },
+    {
+      "album": {
         "name": "Verbenera",
         "url": "https://open.spotify.com/album/0yuUDWK1vVKMzT3ttG4BZh"
       },
@@ -4616,7 +4634,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 177680,
       "name": "Reset",
       "url": "https://open.spotify.com/track/77CM7X0G61viIVZ4Wbfpo8"
@@ -5181,6 +5199,24 @@
     },
     {
       "album": {
+        "name": "TKM CNT XFA",
+        "url": "https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q"
+      },
+      "artists": [
+        {
+          "name": "Ladilla Rusa",
+          "url": "https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212411,
+      "name": "TKM CNT XFA",
+      "url": "https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA"
+    },
+    {
+      "album": {
         "name": "TODOS LOS D\u00cdAS",
         "url": "https://open.spotify.com/album/0enhgiXd8aZwycKfwxQszf"
       },
@@ -5218,6 +5254,24 @@
       "duration_ms": 147222,
       "name": "Todos Miran",
       "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
+    },
+    {
+      "album": {
+        "name": "TONTO",
+        "url": "https://open.spotify.com/album/52D92moSlvosJjb2StIvMY"
+      },
+      "artists": [
+        {
+          "name": "TRONKAS!",
+          "url": "https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233220,
+      "name": "TONTO",
+      "url": "https://open.spotify.com/track/34VKUP2Z3OsgH1MG1tZzvn"
     },
     {
       "album": {

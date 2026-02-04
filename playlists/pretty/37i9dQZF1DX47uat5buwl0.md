@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > Miloolaathetlukken genomineerd voor Edison Pop 2026: Nieuwkomer\. HDP 🔥🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,090 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,086 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HDP](https://open.spotify.com/track/3t85nUPCmSq3O4bJXK0qhT) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [OMG YES](https://open.spotify.com/album/5KibFCQ6DTeayb6N11EUSc) | 2:34 |
 | 2 | [In De Olie](https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [In De Olie](https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn) | 2:14 |
-| 3 | [Vonken](https://open.spotify.com/track/1pPegMRuTHfVgdgXtfnFxz) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Tot Het Eind Van Mij](https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU) | 2:18 |
-| 4 | [Ode To The Bouncer](https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer](https://open.spotify.com/album/1wQns64m9xxJPe6b9kp3fF) | 2:27 |
-| 5 | [Sneuvelnation](https://open.spotify.com/track/0z0aaDPZewba8t48p2zt9A) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sneuvelnation](https://open.spotify.com/album/6OMovJWgCIvOQWdGvOUm9q) | 2:25 |
-| 6 | [Ruggengraat](https://open.spotify.com/track/0bY43tNRq1G03VoWMWIapS) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [Ruggengraat](https://open.spotify.com/album/3zgxV46zAmDeRTCq6dOvaj) | 2:14 |
-| 7 | [Dansvloer Dilemma](https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Dansvloer Dilemma](https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF) | 2:08 |
-| 8 | [Lichten Gaan Aan](https://open.spotify.com/track/5en449sQuxUQh3PBH2O4Iq) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Lichten Gaan Aan](https://open.spotify.com/album/7JTrHqAGyO7Rtx0z0K7UVw) | 2:09 |
-| 9 | [Lijntje](https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Lijntje](https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX) | 2:51 |
+| 3 | [Lijntje](https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Lijntje](https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX) | 2:51 |
+| 4 | [Vonken](https://open.spotify.com/track/1pPegMRuTHfVgdgXtfnFxz) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Tot Het Eind Van Mij](https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU) | 2:18 |
+| 5 | [Ode To The Bouncer](https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer](https://open.spotify.com/album/1wQns64m9xxJPe6b9kp3fF) | 2:27 |
+| 6 | [Sneuvelnation](https://open.spotify.com/track/0z0aaDPZewba8t48p2zt9A) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sneuvelnation](https://open.spotify.com/album/6OMovJWgCIvOQWdGvOUm9q) | 2:25 |
+| 7 | [Ruggengraat](https://open.spotify.com/track/0bY43tNRq1G03VoWMWIapS) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [Ruggengraat](https://open.spotify.com/album/3zgxV46zAmDeRTCq6dOvaj) | 2:14 |
+| 8 | [Dansvloer Dilemma](https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Dansvloer Dilemma](https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF) | 2:08 |
+| 9 | [Lichten Gaan Aan](https://open.spotify.com/track/5en449sQuxUQh3PBH2O4Iq) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Lichten Gaan Aan](https://open.spotify.com/album/7JTrHqAGyO7Rtx0z0K7UVw) | 2:09 |
 | 10 | [This is my house](https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71) | [Ninochello](https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF) | [This is my house](https://open.spotify.com/album/0zGJRSvG0TdKTDqqC7KzI3) | 2:14 |
 | 11 | [Y Que Fue?](https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Y Que Fue?](https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw) | 2:43 |
 | 12 | [Stiekem Gedanst](https://open.spotify.com/track/7hIR9M1Gz5COo3UQGfM0sy) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [Stiekem Dansen](https://open.spotify.com/album/5mAosSoggHR0G5mNXYo1Ci) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 74 | [Delft](https://open.spotify.com/track/06vj9ZjYauBpT1hQHMjidL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Delft](https://open.spotify.com/album/1STHINScS6iZUrTthqhsVW) | 2:02 |
 | 75 | [Rock That Body \- Kris McTwain Remix Edit](https://open.spotify.com/track/7jaUp76e4cZTYhEhO2uYoC) | [Orangez](https://open.spotify.com/artist/21nZXorOWuzEXVa5LwK1ET), [Kristijan Popovic](https://open.spotify.com/artist/3eCx2tLdYCh7yhdF2hPlNB) | [Rock That Body](https://open.spotify.com/album/46VxdVl4H12VerlexfpiuG) | 3:01 |
 
-Snapshot ID: `AAAAAE+15jXfAp+YzshJJnwnUIrOKTrq`
+Snapshot ID: `AAAAADJx4NzN+IzzQh0SHtCEE4KqpGOP`

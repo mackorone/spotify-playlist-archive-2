@@ -4,7 +4,7 @@
 
 > A\*Teens return to save the world 🌟
 
-1,563 songs - 3 day 6 hr 17 min
+1,564 songs - 3 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -793,7 +793,7 @@
 | [Kiss Me Better](https://open.spotify.com/track/2ihC2xsLpIMpd4JDEGUovU) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Kiss Me Better](https://open.spotify.com/album/5tBvkoPa587mib4j4SuUFy) | 2:40 | 2024-03-01 | 2024-06-01 |
 | [Kiss Me Right Now](https://open.spotify.com/track/6YgSKX15auxiOAkCSpbdX8) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/7DTsjf0nnG22p9P7pZLrfI) | 4:00 | 2022-04-29 | 2022-08-06 |
 | [Kiss of Death](https://open.spotify.com/track/4vjqNrPZZrS3EYFYhGXYig) | [Sadye](https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf) | [Kiss of Death](https://open.spotify.com/album/799VG06ZcAo2BQtVLQLXlo) | 2:28 | 2024-10-04 | 2025-05-03 |
-| [Kissin My Friends](https://open.spotify.com/track/28FqRQFfbGrwGu9CmY4K9X) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Kissin My Friends](https://open.spotify.com/album/6O0smLjs9vs8cgm2kh8jbp) | 2:17 | 2025-12-05 |  |
+| [Kissin My Friends](https://open.spotify.com/track/28FqRQFfbGrwGu9CmY4K9X) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Kissin My Friends](https://open.spotify.com/album/6O0smLjs9vs8cgm2kh8jbp) | 2:17 | 2025-12-05 | 2026-02-04 |
 | [Kissing In the Cold](https://open.spotify.com/track/1hCo51EshXlxroXjvczKgB) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Kissing In the Cold](https://open.spotify.com/album/1FxQgKsnvnA1zdrwaXmyPA) | 3:54 | 2024-04-19 | 2024-06-22 |
 | [Kissing It](https://open.spotify.com/track/3abL5Xh5bP0dz8RreFFsXJ) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [Kissing It](https://open.spotify.com/album/1iNgXieGf8CeHRzrqSSO8K) | 2:51 | 2025-07-11 | 2025-08-16 |
 | [KITTY](https://open.spotify.com/track/07V9IpmgI7kaKwoMyaldiH) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [KITTY](https://open.spotify.com/album/5elwfe8kBov1FNLAZmIZfl) | 1:45 | 2023-10-20 | 2024-06-22 |
@@ -1498,6 +1498,7 @@
 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2022-05-06 | 2022-07-02 |
 | [Wet & Wild](https://open.spotify.com/track/7bumwccn1j5e52UmdYZ7fG) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Wet & Wild](https://open.spotify.com/album/5ZPDn7ez0CHHEQGaqQFDuH) | 3:02 | 2024-11-08 | 2024-12-07 |
 | [WET DREAM](https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [WET DREAM](https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb) | 2:30 | 2024-03-15 | 2024-09-21 |
+| [What Could Possibly Go Wrong?](https://open.spotify.com/track/4keyW2cRIHic8OvfSVNB5N) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [What Could Possibly Go Wrong?](https://open.spotify.com/album/60JtNoLU1MDm3XrzwzywJO) | 3:27 | 2026-02-03 |  |
 | [What Do Girls Do?](https://open.spotify.com/track/5jumvbWz3xNsJOdH2dd29x) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [What Do Girls Do?](https://open.spotify.com/album/77vLvAKcNHpgcvn4h5SUp7) | 2:46 | 2025-01-10 | 2025-06-14 |
 | [What Have You Done For Me Lately](https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [What Have You Done For Me Lately](https://open.spotify.com/album/3C3GRRLeywAuS8ms3uFvbr) | 3:29 | 2025-01-03 | 2025-02-15 |
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2022-06-24 | 2022-10-15 |

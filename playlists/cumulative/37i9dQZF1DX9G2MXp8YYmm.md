@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Siyam
 
-490 songs - 1 day 0 hr 42 min
+491 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 | 2025-10-09 |  |
 | [Gelsen Ölür müsün?](https://open.spotify.com/track/0bsGav7YJae1SRnNKCOVxh) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Hanao](https://open.spotify.com/artist/4GGm4WCSO8lXb4Z3YvoneL) | [Gelsen Ölür müsün?](https://open.spotify.com/album/7D2ZK58DhumOgvxo3pwIFV) | 3:23 | 2025-09-04 | 2025-12-08 |
 | [Gemiler \- Ozan Bayraşa](https://open.spotify.com/track/33Zta5czbTRQS8SIRu3vLN) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 2:57 | 2025-06-26 | 2025-10-24 |
-| [Geri Geldim](https://open.spotify.com/track/1b6A4DXr8neL3mpgB18Jq6) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Geri Geldim](https://open.spotify.com/album/4E6CfKCzbLKk3WpQAosnvd) | 2:41 | 2025-12-25 |  |
+| [Geri Geldim](https://open.spotify.com/track/1b6A4DXr8neL3mpgB18Jq6) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Geri Geldim](https://open.spotify.com/album/4E6CfKCzbLKk3WpQAosnvd) | 2:41 | 2025-12-25 | 2026-02-04 |
 | [Geçemiyorum](https://open.spotify.com/track/5ILB4hWjDB5d7VGY9WcEUh) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Geçemiyorum](https://open.spotify.com/album/7hLoIbPzPKQEbzkceTqgDk) | 3:20 | 2025-12-11 | 2026-01-15 |
 | [Geçiyor Zaman](https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:38 | 2024-08-08 | 2025-08-01 |
 | [Geçsin Yıllar](https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Geçsin Yıllar](https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx) | 3:27 | 2025-05-09 | 2025-08-01 |
@@ -325,6 +325,7 @@
 | [Ne Söylesen İnanırım](https://open.spotify.com/track/2NdMTdrTf7bnIWfL8ta4ZT) | [Hande Mehan](https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Ne Söylesen İnanırım](https://open.spotify.com/album/3Q7tmZdoymmh4ODa4rG024) | 3:33 | 2025-10-23 | 2025-12-20 |
 | [Neden Anlamadın Beni?](https://open.spotify.com/track/2Ai8HBSGn3KYyYFBemhf51) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Neden Anlamadın Beni?](https://open.spotify.com/album/2coCoZ06wAwafV4lUeJ8QO) | 2:16 | 2024-08-01 | 2024-09-06 |
 | [Nerdesin](https://open.spotify.com/track/0oPMxe6anF4Kw2SYEUpKDl) | [Etem](https://open.spotify.com/artist/7f9vInea1FeKnX1pCTHn1d), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Nerdesin](https://open.spotify.com/album/7pxOEGLoCaNNbnaJjOEtWM) | 3:52 | 2024-10-10 | 2024-11-10 |
+| [Nerdesin?](https://open.spotify.com/track/6O1V3vNyUCRURvCWnkbmQG) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Mest Of ArabesQ](https://open.spotify.com/album/7lRl5LmVaMAAtaK5j5Kqre) | 3:07 | 2026-01-29 |  |
 | [NERDEYDİN DE](https://open.spotify.com/track/60y3mXqJxzdUzeBxTdujnb) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si) | [NERDEYDİN DE](https://open.spotify.com/album/2mhL2Xts85wt0O8mLnYXSV) | 3:10 | 2025-09-04 |  |
 | [Nereye Kadar](https://open.spotify.com/track/0u3u0mGeWYU0h8tWin4ZCa) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Nereye Kadar](https://open.spotify.com/album/5PYBFjQAwPNuvrsyBKNyrT) | 2:55 | 2024-06-27 | 2024-07-12 |
 | [Neye Yarar](https://open.spotify.com/track/4V93LhhOGcTqjngbQJPrjl) | [Hazar Altın](https://open.spotify.com/artist/63N38NNRbX8bafUq5SjVpQ) | [Neye Yarar](https://open.spotify.com/album/51h9GUSsDMFF3J9EfAPWmS) | 2:50 | 2025-12-11 | 2025-12-19 |

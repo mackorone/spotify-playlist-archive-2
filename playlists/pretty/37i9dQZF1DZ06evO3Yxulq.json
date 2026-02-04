@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41588,
+  "num_followers": 41591,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAABbfO7u6w9jqZv0cAuEp2RG",
+  "snapshot_id": "aX/pAAAAAAAzBlYRiHLKK/0KeG6/WstZ",
   "tracks": [
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus People",
-        "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 245621,
-      "name": "Cristo Es Necesario",
-      "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Novia",
         "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 267326,
       "name": "Ruge",
       "url": "https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus People",
+        "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 245621,
+      "name": "Cristo Es Necesario",
+      "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
     },
     {
       "added_at": null,

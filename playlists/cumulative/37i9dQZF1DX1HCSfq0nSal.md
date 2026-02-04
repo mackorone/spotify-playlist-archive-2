@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Clarent
 
-911 songs - 2 day 2 hr 18 min
+912 songs - 2 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,7 +643,7 @@
 | [Porsche Carrera](https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 4:14 | 2024-09-09 | 2024-09-26 |
 | [Portate Bonito](https://open.spotify.com/track/4XGFya44QyFTbB1pBT1TLi) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Portate Bonito](https://open.spotify.com/album/2guCMLk57vsbqr0jQbY0Zm) | 3:29 | 2025-08-25 | 2025-09-02 |
 | [PPC](https://open.spotify.com/track/30ga1gIdpg6M6ZshWo7YgC) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [PPC](https://open.spotify.com/album/4V5HyefyVSF15kOhuy11up) | 4:00 | 2025-11-03 | 2025-12-20 |
-| [Prettygyal](https://open.spotify.com/track/0nw0be0MBaUCvsIwkEddfB) | [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez), [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N) | [Prettygyal](https://open.spotify.com/album/4przS4l6ACDWIPCSsolWaG) | 2:23 | 2025-07-08 |  |
+| [Prettygyal](https://open.spotify.com/track/0nw0be0MBaUCvsIwkEddfB) | [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez), [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N) | [Prettygyal](https://open.spotify.com/album/4przS4l6ACDWIPCSsolWaG) | 2:23 | 2025-07-08 | 2026-02-04 |
 | [PREÑÁ](https://open.spotify.com/track/454b0WL1k7vQ8MX1wRNRuS) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [GIO](https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH) | [PREÑÁ](https://open.spotify.com/album/7brEChjNyiCa6aEi4VtMU6) | 3:28 | 2025-08-11 | 2025-11-25 |
 | [Primer Lugar](https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Primer Lugar](https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe) | 4:05 | 2025-07-28 | 2025-12-05 |
 | [Princesa](https://open.spotify.com/track/0CyZIh9olFTztxvyHJ4LwP) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Princesa](https://open.spotify.com/album/5Kr3hR7TsGPf8uetmcRNYV) | 3:08 | 2025-10-06 | 2025-10-21 |
@@ -736,6 +736,7 @@
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-03-10 | 2022-07-27 |
 | [SERIO CON ESE Q](https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [SERIO CON ESE Q](https://open.spotify.com/album/3zo7zq13zlZS9rVG6MQbdf) | 4:07 | 2024-07-31 | 2024-11-26 |
 | [SETEADORA](https://open.spotify.com/track/7DprNQSiwC4jBV7bwY761J) | [LAJA](https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb) | [SETEADORA](https://open.spotify.com/album/52NbDHSGAaS67ows7hTgaq) | 2:17 | 2025-08-11 | 2025-11-25 |
+| [SETEADORA REMIX \(with JC Reyes\)](https://open.spotify.com/track/55ZSaezLr7fNrkLL0WCpOD) | [LAJA](https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [SETEADORA REMIX \(with JC Reyes\)](https://open.spotify.com/album/0bvKMOZuhOUU0cbxfcmqEl) | 2:01 | 2026-02-03 |  |
 | [SexeSexy](https://open.spotify.com/track/5YfGs3ieDe7tYnI0yOajp9) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexeSexy](https://open.spotify.com/album/4enqG7rEC8J7vwzgSgrwrN) | 3:52 | 2024-04-01 | 2024-04-12 |
 | [Shampoo de Coco](https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Shampoo de Coco](https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ) | 4:00 | 2024-08-30 | 2024-09-03 |
 | [SHE TELLS ME](https://open.spotify.com/track/1srH58DEczLtwZL7vp6Inr) | [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz), [RIFISOUL](https://open.spotify.com/artist/45bEt8NEILygekiRTbsBhz) | [SHE TELLS ME](https://open.spotify.com/album/1jIZdx4Gk1UrsnDNerYqFb) | 2:40 | 2024-04-25 | 2024-04-30 |

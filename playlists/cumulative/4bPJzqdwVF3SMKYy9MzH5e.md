@@ -4,7 +4,7 @@
 
 > 
 
-2,342 songs - 5 day 5 hr 49 min
+2,344 songs - 5 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Barracuda](https://open.spotify.com/track/1SGfDkWeya5TIBhuHPgcMW) | [SARCOMA HORROR](https://open.spotify.com/artist/1DH5gB0AVs87Vg3webgJAV) | [Error 404](https://open.spotify.com/album/5aqPadDUgNwDnYWgR7ojbK) | 2:28 | 2024-11-26 |  |
 | [Basta Ya](https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:56 | 2021-08-05 |  |
 | [Batsu Forever](https://open.spotify.com/track/40b648tmm8eB92nB3AovHt) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [U\-Void Synthesizer](https://open.spotify.com/album/2Hao6BBoElsB9A3JFeSo9n) | 3:51 | 2023-05-02 |  |
+| [BB](https://open.spotify.com/track/5LbZrfWzafeYlwzbHtpAqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [BB](https://open.spotify.com/album/4P1xQUR8dEHCvHkYvtfd2I) | 2:46 | 2026-02-03 |  |
 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:59 | 2022-02-04 |  |
 | [Beach Life\-In\-Death](https://open.spotify.com/track/2riZAvd3GGUp0Wm9cJZD4r) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy \(Mirror To Mirror\)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI) | 12:10 | 2021-11-14 | 2024-05-26 |
 | [Beaches](https://open.spotify.com/track/42VTmF0VpIx8r0O995aNdA) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Written & Directed](https://open.spotify.com/album/6hODMaWCw1sz39hkaSWgMW) | 3:00 | 2021-08-05 |  |
@@ -2316,6 +2317,7 @@
 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 | 2025-01-02 |  |
 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 | 2024-08-15 |  |
 | [Yo soy mal](https://open.spotify.com/track/7kwhETMFW3m2FW83Cp0kbX) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [H4bits](https://open.spotify.com/album/07vYjdM26vVfAhqoGhPYpF) | 2:10 | 2025-10-17 |  |
+| [YOLO](https://open.spotify.com/track/34ZNVmPISt18mxi0V5uHyk) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [What The Feng](https://open.spotify.com/album/5asi6xhIro5qMzaEojet0l) | 1:43 | 2026-02-03 |  |
 | [Yonkers](https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:09 | 2021-11-14 |  |
 | [You Are My Music](https://open.spotify.com/track/4NXTg4Wzw1u7E0wErQxdhr) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [Sushi \(4004\)](https://open.spotify.com/album/4hpBGLRgpvJhGO3mzpKsAY) | 5:16 | 2022-11-06 |  |
 | [you arent all cool and edgy just cuz you like lain](https://open.spotify.com/track/760Y4cz8AyJjCcJpHDbHA1) | [snafu](https://open.spotify.com/artist/6D9QrghftPFUTOPkxAJfSp) | [songs about self hatred](https://open.spotify.com/album/13itaA5Koqxnrqkyb3lPIN) | 1:16 | 2023-01-15 |  |

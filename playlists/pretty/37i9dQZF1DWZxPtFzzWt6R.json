@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 108956,
+  "num_followers": 108994,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-01-30 13:04:26",
       "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 284505,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
+    },
+    {
+      "added_at": "2026-01-30 13:04:26",
+      "album": {
         "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
         "url": "https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh"
       },
@@ -335,38 +351,6 @@
     {
       "added_at": "2026-01-30 13:04:26",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 284505,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
-    },
-    {
-      "added_at": "2026-01-30 13:04:26",
-      "album": {
-        "name": "Estou Contigo",
-        "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 249344,
-      "name": "Estou Contigo",
-      "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
-    },
-    {
-      "added_at": "2026-01-30 13:04:26",
-      "album": {
         "name": "A Esperan\u00e7a Que Restou",
         "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 281941,
       "name": "A Esperan\u00e7a Que Restou",
       "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
+    },
+    {
+      "added_at": "2026-01-30 13:04:26",
+      "album": {
+        "name": "Estou Contigo",
+        "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 249344,
+      "name": "Estou Contigo",
+      "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
     },
     {
       "added_at": "2026-01-30 13:04:26",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-30 13:04:26",
       "album": {
-        "name": "Vai Ter Recompensa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
-      },
-      "artists": [
-        {
-          "name": "Samuel Sabinno",
-          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
-        }
-      ],
-      "duration_ms": 307721,
-      "name": "Vai Ter Recompensa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
-    },
-    {
-      "added_at": "2026-01-30 13:04:26",
-      "album": {
         "name": "Quem Foi Que Me Tocou",
         "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 281002,
       "name": "Quem Foi Que Me Tocou",
       "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
+    },
+    {
+      "added_at": "2026-01-30 13:04:26",
+      "album": {
+        "name": "Vai Ter Recompensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sabinno",
+          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
+        }
+      ],
+      "duration_ms": 307721,
+      "name": "Vai Ter Recompensa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
     },
     {
       "added_at": "2026-01-30 13:04:26",
@@ -691,6 +691,26 @@
     {
       "added_at": "2026-01-30 13:04:26",
       "album": {
+        "name": "Fora do Normal (Majestade) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        },
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 225365,
+      "name": "Fora do Normal (Majestade) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
+    },
+    {
+      "added_at": "2026-01-30 13:04:26",
+      "album": {
         "name": "De Volta \u00e0 Inoc\u00eancia",
         "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 288012,
       "name": "De Volta \u00e0 Inoc\u00eancia",
       "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
-    },
-    {
-      "added_at": "2026-01-30 13:04:26",
-      "album": {
-        "name": "Do Meu Jeito (Majestade)",
-        "url": "https://open.spotify.com/album/5Aqk6aOH8lylUt76YTxxQW"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        },
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        }
-      ],
-      "duration_ms": 253909,
-      "name": "Do Meu Jeito (Majestade)",
-      "url": "https://open.spotify.com/track/1YmcVZ5ouRracWldy5TqmL"
     },
     {
       "added_at": "2026-01-30 13:04:26",
@@ -779,6 +779,26 @@
     {
       "added_at": "2026-01-30 13:04:26",
       "album": {
+        "name": "Do Meu Jeito (Majestade)",
+        "url": "https://open.spotify.com/album/5Aqk6aOH8lylUt76YTxxQW"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        },
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 253909,
+      "name": "Do Meu Jeito (Majestade)",
+      "url": "https://open.spotify.com/track/1YmcVZ5ouRracWldy5TqmL"
+    },
+    {
+      "added_at": "2026-01-30 13:04:26",
+      "album": {
         "name": "Lugar Secreto",
         "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
       },
@@ -791,22 +811,6 @@
       "duration_ms": 226269,
       "name": "Lugar Secreto",
       "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
-    },
-    {
-      "added_at": "2026-01-30 13:04:26",
-      "album": {
-        "name": "Eu Quero Ir pro C\u00e9u",
-        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 273913,
-      "name": "Eu Quero Ir pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
     },
     {
       "added_at": "2026-01-30 13:04:26",
@@ -915,22 +919,18 @@
     {
       "added_at": "2026-01-30 13:04:26",
       "album": {
-        "name": "Fora do Normal (Majestade) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK"
+        "name": "Eu Quero Ir pro C\u00e9u",
+        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
       },
       "artists": [
         {
           "name": "Marcos e Matteus",
           "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        },
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         }
       ],
-      "duration_ms": 225365,
-      "name": "Fora do Normal (Majestade) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
+      "duration_ms": 273913,
+      "name": "Eu Quero Ir pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
     },
     {
       "added_at": "2026-01-30 13:04:26",

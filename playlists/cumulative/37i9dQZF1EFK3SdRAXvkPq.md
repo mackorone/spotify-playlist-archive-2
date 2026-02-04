@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-146 songs - 7 hr 28 min
+147 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/track/5S6t8dvq3kL4V4FmuMQi32) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/album/6qTXCgKXlmxCP4a2ed1R71) | 2:48 | 2025-11-07 |  |
 | [Ahí Ahí](https://open.spotify.com/track/6v5jSEetH68Ash0GNLuO87) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Santo Niño](https://open.spotify.com/album/1m3Ynzb5HhBBuTlVJhFcvd) | 2:46 | 2025-11-07 |  |
 | [Amantes](https://open.spotify.com/track/7ijXNy4CSDMFqSecPANn5p) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [GOTTI B](https://open.spotify.com/album/4ACfWcYe7nU8HbeJth17ms) | 2:04 | 2026-01-29 |  |
-| [AMG \- Remix](https://open.spotify.com/track/2pWsP2b8BvGNTLKQ53IzTL) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [LUV ALLERGIC RELOADED](https://open.spotify.com/album/6a9zlY2WK2J97xaLxSjrhc) | 4:15 | 2025-11-20 |  |
+| [AMG \- Remix](https://open.spotify.com/track/2pWsP2b8BvGNTLKQ53IzTL) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [LUV ALLERGIC RELOADED](https://open.spotify.com/album/6a9zlY2WK2J97xaLxSjrhc) | 4:15 | 2025-11-20 | 2026-02-04 |
+| [AMG \- Remix](https://open.spotify.com/track/3qVf1V0Bf4LC8BOVQoMBRp) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [LUV ALLERGIC RELOADED](https://open.spotify.com/album/1mhvhcx6q4oielwunOs122) | 4:15 | 2026-02-03 |  |
 | [Amiga Mía](https://open.spotify.com/track/1tTEcJKC5uAtIoPrWCkmXZ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:44 | 2025-11-07 |  |
 | [Anoche](https://open.spotify.com/track/0ETWLLoRd6Z4r97h3740C1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:24 | 2026-02-01 |  |
 | [ANTES](https://open.spotify.com/track/18z0oXWIOBLT3qruaegt5o) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:14 | 2025-11-07 |  |

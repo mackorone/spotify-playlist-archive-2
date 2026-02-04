@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto:  Filipe Ret
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,355 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,504 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 59 | [Ibiza](https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Ibiza](https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7) | 2:30 |
 | 60 | [Equação](https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Equação](https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC) | 3:02 |
 | 61 | [Melhor Lugar](https://open.spotify.com/track/3NvJOofNuM9TmYgxCfavsN) | [LUE](https://open.spotify.com/artist/50VHfozsQsmTf1R18RcuEN), [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Melhor Lugar](https://open.spotify.com/album/3dQpyO7nTetpK38phGBa0B) | 2:48 |
-| 62 | [Já Vou](https://open.spotify.com/track/6k64bJBuP0ae5jFcHn8DD7) | [Cortesia Da Casa](https://open.spotify.com/artist/2qaEm3AL7SXWxjOtVdQiFk), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TerrorDosBeats](https://open.spotify.com/artist/5KZEX3xlsX1x21execwD6t) | [Já Vou](https://open.spotify.com/album/0wvlDy1UI32sSZ8xullKwo) | 2:57 |
+| 62 | [Já Vou](https://open.spotify.com/track/6k64bJBuP0ae5jFcHn8DD7) | [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Já Vou](https://open.spotify.com/album/0wvlDy1UI32sSZ8xullKwo) | 2:57 |
 | 63 | [Perfume](https://open.spotify.com/track/4ZREaPhlA5mqZMFTSQBfzw) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Perfume](https://open.spotify.com/album/5WDimSewWqftfbYKtKcWiU) | 3:24 |
 | 64 | [MINHA CURA](https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:34 |
 | 65 | [Tão Jovens](https://open.spotify.com/track/3JWBRbBQLktAYsVevUbWc4) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Acorde E Fique Rico](https://open.spotify.com/album/334WQ9azGCDDnMmc9DvXRY) | 6:27 |

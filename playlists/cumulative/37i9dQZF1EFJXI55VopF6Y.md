@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-63 songs - 2 hr 50 min
+64 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [December Back 2 June](https://open.spotify.com/track/05DCz0eIhcGAb6YpNiwdbv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Santa Baby](https://open.spotify.com/album/5ichhxPbZc7s1azvGRrNsO) | 2:43 | 2024-03-22 |  |
 | [Dive](https://open.spotify.com/track/512JeaMcrXJK2eKzu2VOHG) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Dive](https://open.spotify.com/album/0wBh4uyMd0R0r6g75AMYPg) | 2:41 | 2024-09-15 | 2025-04-08 |
 | [Dive](https://open.spotify.com/track/6QziVTOnpWNHVpgCOPsABH) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/4AWaV9nH0uOfhl4hqB2fsZ) | 2:41 | 2025-04-07 |  |
-| [Downtown](https://open.spotify.com/track/1FkXVtAp8pkRwJC5dDluGS) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/3PCZx0TcwxK6iT409tDUn8) | 2:11 | 2024-09-12 |  |
+| [Downtown](https://open.spotify.com/track/1FkXVtAp8pkRwJC5dDluGS) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/3PCZx0TcwxK6iT409tDUn8) | 2:11 | 2024-09-12 | 2026-02-04 |
 | [Downtown](https://open.spotify.com/track/1agzjKir1PVW91rkCbiXks) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/1QRMi6OGmvL3PR7uctgSa7) | 2:11 | 2024-03-22 | 2024-09-13 |
+| [Downtown](https://open.spotify.com/track/7HC2wmjJiRWTafCVJ51fzF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/79lxZaUXKearOjAgMsW295) | 2:11 | 2026-02-03 |  |
 | [ENTRE NOUS](https://open.spotify.com/track/1G8mKTEwyrVc1OB0z7VSOu) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [POUR DE VRAI](https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5) | 2:40 | 2024-12-15 |  |
 | [ENTRE NOUS](https://open.spotify.com/track/5tmk7NK4zkVrqj9FGtrYqI) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [ENTRE NOUS](https://open.spotify.com/album/69yCwirEtVkNaqBzviiLQc) | 2:40 | 2024-03-30 | 2024-12-16 |
 | [fallin](https://open.spotify.com/track/7ioPcSn8Egs0zasmMlV75J) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [fallin](https://open.spotify.com/album/2DxAqjiMArz5OH7qCKrfVg) | 3:18 | 2025-09-12 |  |

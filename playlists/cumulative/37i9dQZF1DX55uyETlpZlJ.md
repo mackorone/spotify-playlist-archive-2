@@ -2,9 +2,9 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Swarathma
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sumedh K
 
-616 songs - 1 day 11 hr 8 min
+617 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Bellavi Shaale Mugive Ee Kaiya \(From "Bellavi Shaale"\)](https://open.spotify.com/track/4LoiLZFuYbqjrHFHCbULGH) | [Samarth Desai](https://open.spotify.com/artist/0GjFXeu7FwaS5KVldRtKw4), [Nagesh Prasanna Sathanur](https://open.spotify.com/artist/2QFWHnnx9u7BYVJvncCHzp), [Aagama Shastry](https://open.spotify.com/artist/5NGfMIo4Cpv6yl9qNaiEed) | [Bellavi Shaale Mugive Ee Kaiya \(From "Bellavi Shaale"\)](https://open.spotify.com/album/0PU2pfpLeUnCC1vvASclJZ) | 3:52 | 2025-09-06 | 2025-09-09 |
 | [Belongaluru](https://open.spotify.com/track/3Ccj32rFvv6NZa9l6nv7fc) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Belongaluru](https://open.spotify.com/album/4lXfPiqT2mAvbIxVTyhyu5) | 3:55 | 2025-11-10 |  |
 | [Bengaluru Kambala Theme Song](https://open.spotify.com/track/4d6yVH3lLLABq5evQ3P2LJ) | [Guru Kiran](https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0), [V\. Manohar](https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN) | [Bengaluru Kambala Theme Song](https://open.spotify.com/album/1ScN9PVrjBoNYikbwRrSYc) | 2:25 | 2023-11-20 | 2023-12-14 |
-| [Bengaluru Se](https://open.spotify.com/track/6XVtHThrwOwX36yutfzjld) | [Mohith Gowda](https://open.spotify.com/artist/2DAJsSSNE1YOAW5GB42RuJ), [Yxung Miller](https://open.spotify.com/artist/2j2wfGvDhaAR8RVqjzlLpS) | [Bengaluru Se](https://open.spotify.com/album/2E2fshg6kYpywM6hRfiDog) | 2:22 | 2025-10-06 |  |
+| [Bengaluru Se](https://open.spotify.com/track/6XVtHThrwOwX36yutfzjld) | [Mohith Gowda](https://open.spotify.com/artist/2DAJsSSNE1YOAW5GB42RuJ), [Yxung Miller](https://open.spotify.com/artist/2j2wfGvDhaAR8RVqjzlLpS) | [Bengaluru Se](https://open.spotify.com/album/2E2fshg6kYpywM6hRfiDog) | 2:22 | 2025-10-06 | 2026-02-04 |
 | [Bere Bedave](https://open.spotify.com/track/6GsrwALDUgLZZFXtZml9AZ) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Vishwaji](https://open.spotify.com/artist/2rkYVUbHuNz9wmqWX8JgJ1) | [Bere Bedave](https://open.spotify.com/album/7wM3pxxyjN2iVaLlVvkcGt) | 2:24 | 2024-07-08 | 2024-12-13 |
 | [Bere Tara](https://open.spotify.com/track/0vJEVSiskeXisMVWkOU0c5) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [Hithu Dwen](https://open.spotify.com/artist/6J6cHK9I4q6C54trkBmLqn) | [Bere Tara](https://open.spotify.com/album/27j66PCM7ImKFHUcU1I5f1) | 4:50 | 2023-11-20 | 2024-04-19 |
 | [Bere Tara](https://open.spotify.com/track/1CLxYQF70NuP76EYphQztG) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [Hithu Dwen](https://open.spotify.com/artist/6J6cHK9I4q6C54trkBmLqn) | [Bere Tara](https://open.spotify.com/album/5A3MVaOMPmTcfkidhK9Vu2) | 4:50 | 2023-11-20 | 2024-06-11 |
@@ -565,6 +565,7 @@
 | [Sundari](https://open.spotify.com/track/7oI2ZmyMSqwDP9Kzxb6S39) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sundari](https://open.spotify.com/album/5JslBdBMzBts4MAd4RzafE) | 3:15 | 2024-11-05 | 2025-03-26 |
 | [Sutta Mutta Fake](https://open.spotify.com/track/2knMkLeGVyUo4veV8c89Po) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Sutta Mutta Fake](https://open.spotify.com/album/0Csh20Wjh4dn1l54d8zkSc) | 1:22 | 2023-07-10 | 2023-07-29 |
 | [Sword of Betrayal](https://open.spotify.com/track/7LA81aLtQNsl9HArKZruZz) | [M S Vikram](https://open.spotify.com/artist/1P5xT9GQiGoLq3ImHOP2QZ) | [Sword of Betrayal](https://open.spotify.com/album/0sOSMoUxmpFLvnkG8DjN6H) | 1:51 | 2026-01-20 |  |
+| [Taare](https://open.spotify.com/track/3Djy0T9KXRU1qISYUMhb9e) | [Nishada](https://open.spotify.com/artist/7qK4oglXTmjgWuZQOowdnI), [Prinson Monthero](https://open.spotify.com/artist/1CoXgwrfT8V2fJwMwnuXd1), [Padani Tales](https://open.spotify.com/artist/60jAGG92GWc2lCjX2SYIw3) | [Taare](https://open.spotify.com/album/5RuYzy62dLsXOwHHgqi1hk) | 2:33 | 2026-02-03 |  |
 | [Taare Bindigeya](https://open.spotify.com/track/6NeG6Gx3fJCdMc12CgD5z6) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Taare Bindigeya](https://open.spotify.com/album/6rMTWIMSp2EEu9e5w6ytOL) | 5:06 | 2025-10-15 |  |
 | [Taayi](https://open.spotify.com/track/0tqrpeWvarPFl78oJrsuNF) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Taayi](https://open.spotify.com/album/6lqNjsuD4cM4be2aXziu6j) | 3:54 | 2023-05-15 | 2023-06-08 |
 | [Tandanaa](https://open.spotify.com/track/58RaH4opeDLaPRzxARGzfA) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Tandanaa](https://open.spotify.com/album/08geveRHblH8RA5NoLq0q6) | 2:32 | 2025-04-23 | 2025-10-14 |

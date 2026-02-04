@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-109 songs - 5 hr 11 min
+110 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Vida Rockstar](https://open.spotify.com/track/3HJdVteZQwALBdlr0VFlBZ) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 3:26 | 2024-10-22 |  |
 | [VIP](https://open.spotify.com/track/5oDwlD8r5zNlVOE6i34tjH) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 1:46 | 2024-04-05 |  |
 | [Volverás](https://open.spotify.com/track/7e7jwhhF97ivaOrqXa7dju) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Volverás](https://open.spotify.com/album/5VhDef51qADRAeqqLZdIL4) | 2:44 | 2024-04-05 |  |
+| [Wells Fargo](https://open.spotify.com/track/2tXx1UWEjtZNOak94m7R8g) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Sr\. Santos II Sueños de Grandeza](https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9) | 4:53 | 2026-02-03 |  |
 | [XKITTLEZ](https://open.spotify.com/track/34xwrlGOKbe09IxtdnPHmV) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [XKITTLEZ](https://open.spotify.com/album/2cy31kZE0h37TABVT21pKl) | 3:53 | 2024-04-05 |  |
 | [Xplicit Content](https://open.spotify.com/track/36ohb6o1C589APsOXrxYek) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Xplicit Content](https://open.spotify.com/album/2iV5pcGbjFdQnHLzcYWyuW) | 2:24 | 2024-04-05 |  |
 | [YO LE LLEGO](https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:09 | 2024-04-05 |  |

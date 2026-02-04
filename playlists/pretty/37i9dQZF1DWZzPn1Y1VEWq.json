@@ -1,6 +1,6 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 389480,
+  "num_followers": 389514,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 260371,
       "name": "Nunca quise",
       "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Vicentico",
-        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Algo Contigo",
-      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 199933,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/2kB1rqoTaZ3j6ChtIWGurm"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Anoche",
-        "url": "https://open.spotify.com/album/15eHesyZJpvolTrSUJgoDX"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 149573,
-      "name": "Yegua",
-      "url": "https://open.spotify.com/track/571PVMWxL6aEwyOOfRFXPF"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 248600,
       "name": "Esta Saliendo El Sol",
       "url": "https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Anoche",
+        "url": "https://open.spotify.com/album/15eHesyZJpvolTrSUJgoDX"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 149573,
+      "name": "Yegua",
+      "url": "https://open.spotify.com/track/571PVMWxL6aEwyOOfRFXPF"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Esp\u00edritu",
         "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 202360,
       "name": "Chino",
       "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 225050,
       "name": "Rub\u00ed",
       "url": "https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "SHOC",
+        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 255851,
+      "name": "Solo voy",
+      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
         "name": "Sin Remedio",
         "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 299426,
       "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
       "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "SHOC",
-        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 255851,
-      "name": "Solo voy",
-      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Operacion Damas Gratis",
-        "url": "https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Quieren bajarme",
-      "url": "https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Corazon de Papel (Edicion Especial Remasterizada)",
         "url": "https://open.spotify.com/album/3cAjRkxhlPdzmK7jhPT2XU"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 196306,
       "name": "Amores Como el Nuestro",
       "url": "https://open.spotify.com/track/0D5AiwyGN6UdrGNThCQgC3"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Operacion Damas Gratis",
+        "url": "https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Quieren bajarme",
+      "url": "https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Fabulosos Calavera",
-        "url": "https://open.spotify.com/album/7FKr6OHxY05uURhgQ86fm4"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "Calaveras Y Diablitos - Versi\u00f3n Remasterizada 2008",
-      "url": "https://open.spotify.com/track/2lDcq6gFN9W5yXHk0NU7ve"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Antihumano",
         "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 248386,
       "name": "Western",
       "url": "https://open.spotify.com/track/2UVXBlqRLUJD60L3unaMyS"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Fabulosos Calavera",
+        "url": "https://open.spotify.com/album/7FKr6OHxY05uURhgQ86fm4"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "Calaveras Y Diablitos - Versi\u00f3n Remasterizada 2008",
+      "url": "https://open.spotify.com/track/2lDcq6gFN9W5yXHk0NU7ve"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
+        "name": "Cuarto Creciente",
+        "url": "https://open.spotify.com/album/23f7vw1xTj95F2gmhly8n8"
+      },
+      "artists": [
+        {
+          "name": "Leo Garc\u00eda",
+          "url": "https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb"
+        }
+      ],
+      "duration_ms": 290946,
+      "name": "Tesoro",
+      "url": "https://open.spotify.com/track/4Lo9osdsopemnKIfgi6IqW"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
         "name": "Rock And Roll Yo",
         "url": "https://open.spotify.com/album/3qPPzWHpuvFT0xHMyDrvS4"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 269186,
       "name": "Entero O A Pedazos",
       "url": "https://open.spotify.com/track/2jiSAy0MSiODKpQupYLnTY"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Cuarto Creciente",
-        "url": "https://open.spotify.com/album/23f7vw1xTj95F2gmhly8n8"
-      },
-      "artists": [
-        {
-          "name": "Leo Garc\u00eda",
-          "url": "https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb"
-        }
-      ],
-      "duration_ms": 290946,
-      "name": "Tesoro",
-      "url": "https://open.spotify.com/track/4Lo9osdsopemnKIfgi6IqW"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
+        "name": "Naturaleza Sangre",
+        "url": "https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "Volver a M\u00ed",
+      "url": "https://open.spotify.com/track/5vWgQ5tRPZ7enuuqBDDniZ"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 181560,
       "name": "Eso Vive",
       "url": "https://open.spotify.com/track/6JMUqW6dwWduaPPqGCkcgk"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Naturaleza Sangre",
-        "url": "https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Volver a M\u00ed",
-      "url": "https://open.spotify.com/track/5vWgQ5tRPZ7enuuqBDDniZ"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
+        "name": "Naturaleza Sangre",
+        "url": "https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 141013,
+      "name": "Bello Abril",
+      "url": "https://open.spotify.com/track/1lSxelMI6IzcuUNXZdMrK3"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
         "name": "De Culo",
         "url": "https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 130481,
       "name": "Naty Bum Bum",
       "url": "https://open.spotify.com/track/6b1cUW3hBwjlXrermDMkn5"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Hija del Rigor",
-        "url": "https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Una Tregua",
-      "url": "https://open.spotify.com/track/7bZ8erPLv4zulyDVL66dJQ"
     }
   ],
   "unique_name": "Los 2000 Argentina",

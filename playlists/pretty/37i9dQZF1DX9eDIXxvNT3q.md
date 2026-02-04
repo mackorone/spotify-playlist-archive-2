@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9eDIXxvNT3q.md) - [plain]
 
 > Stories, strategies, and insights from Black leaders shaping the future of business.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAJPZ7lNpmBdCYj7sw5U03UuRLI9m`
+Snapshot ID: `AAAAAI5Tl4GlP5TiecJwHlf8ouIy3YtK`

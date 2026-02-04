@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Happy New Year 2026! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 Christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,459 likes - 167 songs - 15 hr 3 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,453 likes - 167 songs - 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Who He Is](https://open.spotify.com/track/5gn9wcB1UYSOlwMJOCkE2B) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 3:34 |
-| 2 | [Breathe On It](https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/38CH2161JgsV17KaROhaDe) | 4:00 |
-| 3 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
+| 1 | [Breathe On It](https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/38CH2161JgsV17KaROhaDe) | 4:00 |
+| 2 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
+| 3 | [Who He Is](https://open.spotify.com/track/5gn9wcB1UYSOlwMJOCkE2B) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 3:34 |
 | 4 | [Who Else](https://open.spotify.com/track/0dsfLqH0drcuOXjTBqsHJU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [Who Else](https://open.spotify.com/album/6AX5qyyK9YVldRkZzGCKLo) | 5:15 |
 | 5 | [Still The King](https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:46 |
 | 6 | [Holy Forever](https://open.spotify.com/track/1jnU6ZJXnSSwxfmjGGed2J) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 5:08 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 166 | [Approach, My Soul \- Live](https://open.spotify.com/track/3jME2qiOyKUkWo6GTSj827) | [Jordan Kauflin](https://open.spotify.com/artist/693dfM3T8ebvdxPrqLAjqt), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Sing! Songs of the Bible \- Live At The Getty Music Worship Conference](https://open.spotify.com/album/2usUfbrN8pqkH5u1g6B9rG) | 3:52 |
 | 167 | [In You \(Acoustic\) \[Live at Albert St\]](https://open.spotify.com/track/3JjkgECEmDpSidE7wPNxMa) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Jessie\-Rose Rayner](https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP) | [In You \(Acoustic\) \[Live at Albert St\]](https://open.spotify.com/album/0lj6YLFAwfr6fXGbN8TRLr) | 4:44 |
 
-Snapshot ID: `AAAhGUcbl+f7H0o/EotLpGw6PZz67w/0`
+Snapshot ID: `AAAhGiNfQau1PnFRK5lCK29c/Kwb12Kv`

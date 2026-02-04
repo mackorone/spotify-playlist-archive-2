@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-298 songs - 18 hr 22 min
+299 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Echoes of Forever](https://open.spotify.com/track/5R8ZWNR0hltUBTVwMIIS9P) | [Uby](https://open.spotify.com/artist/10LBfcS3SRojvj2bYyXUf9) | [Echoes of Forever](https://open.spotify.com/album/7b2lYFFbdywzGzNbtPeHL4) | 5:00 | 2025-10-02 | 2025-12-17 |
 | [Echos in Reverse](https://open.spotify.com/track/4X7u2YyQAddBuysCljzlTv) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Echos in Reverse](https://open.spotify.com/album/6R3iwi2gajC46Jy1ZcQAgQ) | 4:02 | 2025-10-06 | 2025-11-28 |
 | [Ecstasy](https://open.spotify.com/track/3MeFzHAPF4iRxQqReIgXHV) | [never mind the world](https://open.spotify.com/artist/33GYHfjMu2Coh9fFUaLooN) | [Ecstasy](https://open.spotify.com/album/0HkjLJ5pWZg2qIbHPTpR4C) | 3:20 | 2025-12-06 |  |
+| [EL CONGELADOR](https://open.spotify.com/track/1Lnuym6raYt4j61Lqlb6qE) | [VicenticoMusic](https://open.spotify.com/artist/3ejOmbwBSMeVpvtt29yr3K) | [EL CONGELADOR](https://open.spotify.com/album/1sq0bzeQMr8etlaCrXa8pQ) | 3:56 | 2026-02-03 |  |
 | [El Dilema](https://open.spotify.com/track/4agirhYgist2lFc31siLMJ) | [Jules Daud](https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI) | [El Dilema](https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen) | 2:34 | 2025-11-22 | 2025-12-17 |
 | [El Rock No Esta En Tu Ropa](https://open.spotify.com/track/3DGdbW7SbmdwT9P3tLfhAb) | [Todo Podrido](https://open.spotify.com/artist/4jVIYvQsjLqSJgR9ePsJRQ) | [Encantados](https://open.spotify.com/album/6vGyGiCIjk9FecwFAfXmhp) | 2:54 | 2025-09-29 | 2025-12-17 |
 | [Empiezo a Creer](https://open.spotify.com/track/1lzwwRYzUb3BotVYxuoQ2z) | [Coto privado](https://open.spotify.com/artist/1TmFxjLLIPQFgmha4yIXh8) | [Escrito en el Lavabo](https://open.spotify.com/album/6khlI7NYlitPiEALNeqoVE) | 4:34 | 2025-10-29 | 2025-12-17 |

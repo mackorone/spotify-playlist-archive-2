@@ -2105,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Covenant",
+        "url": "https://open.spotify.com/album/2M9EF4AdUt5ybVzaGJ0DXA"
+      },
+      "artists": [
+        {
+          "name": "Kristina Lynn",
+          "url": "https://open.spotify.com/artist/1EDIKX5hJdPKg4RhNLTIwK"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257393,
+      "name": "Covenant",
+      "url": "https://open.spotify.com/track/1BHqn3D5VSRVyNOXwMkmtw"
+    },
+    {
+      "album": {
         "name": "Crash Out",
         "url": "https://open.spotify.com/album/1JbvNRdQMbIdaOOyTwF3oA"
       },
@@ -3011,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "Feelings - Acoustic",
+        "url": "https://open.spotify.com/album/3AlPU5aQcaz4aqleFmDSeS"
+      },
+      "artists": [
+        {
+          "name": "Xellay",
+          "url": "https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224433,
+      "name": "Feelings - Acoustic",
+      "url": "https://open.spotify.com/track/10h1rVHnLalm93CqAvkZue"
+    },
+    {
+      "album": {
         "name": "Felina",
         "url": "https://open.spotify.com/album/3VXDCADyu2hCbcR1XTgZ6G"
       },
@@ -3210,6 +3246,24 @@
       "duration_ms": 242872,
       "name": "Fumble",
       "url": "https://open.spotify.com/track/1SQufToTrFMKonHw9xmfFy"
+    },
+    {
+      "album": {
+        "name": "Gangster Shit",
+        "url": "https://open.spotify.com/album/0x2247BmfODK2ubsG0QLTs"
+      },
+      "artists": [
+        {
+          "name": "Lance Mitchell",
+          "url": "https://open.spotify.com/artist/42tYt31wuq2tI0umoOwsC4"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114846,
+      "name": "Gangster Shit",
+      "url": "https://open.spotify.com/track/3D6rVmlwFJnTYHzeC1pF3o"
     },
     {
       "album": {
@@ -3894,6 +3948,24 @@
       "duration_ms": 216407,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/7aGZ7Vk2d3k1Nme5DEAC23"
+    },
+    {
+      "album": {
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/4g9E1R8MCCsiisYAjQ7t4q"
+      },
+      "artists": [
+        {
+          "name": "Brian Grey",
+          "url": "https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163428,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/7c4xH2X2ht6LN26G7TRa3S"
     },
     {
       "album": {
@@ -4959,6 +5031,24 @@
     },
     {
       "album": {
+        "name": "Le lapin en papier",
+        "url": "https://open.spotify.com/album/2qbusVyyuwhqNnXMVBnPrY"
+      },
+      "artists": [
+        {
+          "name": "Inyha",
+          "url": "https://open.spotify.com/artist/0KxFoSTWNluwDJ5NRJHfs2"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256795,
+      "name": "Le lapin en papier",
+      "url": "https://open.spotify.com/track/0GB6KV4GD9Pdi2ZCVJxpcA"
+    },
+    {
+      "album": {
         "name": "Le moi d'autrefois",
         "url": "https://open.spotify.com/album/4RBJIuW9MoQYewURJp0epK"
       },
@@ -5170,6 +5260,36 @@
       "duration_ms": 291238,
       "name": "Lola L'ammazzasette (alt. Vers)",
       "url": "https://open.spotify.com/track/5wKRAY1W3ZAfs8dm06BydE"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/1hZdhASC93ZnXSjx6abGrN"
+      },
+      "artists": [
+        {
+          "name": "Chucky Cat",
+          "url": "https://open.spotify.com/artist/3cEyhRbqLRp5Xhb7t9pzvL"
+        },
+        {
+          "name": "Lil Innocent",
+          "url": "https://open.spotify.com/artist/4f4elwDrvecNEfivB6fKS7"
+        },
+        {
+          "name": "Crisisbeatzz",
+          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
+        },
+        {
+          "name": "RoBeats",
+          "url": "https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192339,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5PK3kBmEfUPJ4Ht1Nb8czJ"
     },
     {
       "album": {
@@ -6197,6 +6317,28 @@
     },
     {
       "album": {
+        "name": "Musafir",
+        "url": "https://open.spotify.com/album/29QIZN5Dx4BSHnHZzkCTBX"
+      },
+      "artists": [
+        {
+          "name": "Baawe",
+          "url": "https://open.spotify.com/artist/2GgyvJa8OrQBqm9zkJJ0dC"
+        },
+        {
+          "name": "Akshat Kamavisdar",
+          "url": "https://open.spotify.com/artist/5Gs8LuJnXKsRXYfq0CZJnB"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182210,
+      "name": "Musafir",
+      "url": "https://open.spotify.com/track/0CjpJpNgB6HxTNeCuNVAK5"
+    },
+    {
+      "album": {
         "name": "My Black Cat",
         "url": "https://open.spotify.com/album/49uQEZJ4QJxkN5dUQ49AZ2"
       },
@@ -6498,6 +6640,24 @@
       "duration_ms": 160000,
       "name": "Nfs",
       "url": "https://open.spotify.com/track/5AWeIqorfxJeSe5VOJhWx1"
+    },
+    {
+      "album": {
+        "name": "Night and Day",
+        "url": "https://open.spotify.com/album/109cM7NLTGd4BKiVT0OksP"
+      },
+      "artists": [
+        {
+          "name": "Echo Boulevard",
+          "url": "https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163977,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/59YMT6C7n6l52qUIhN0SpU"
     },
     {
       "album": {

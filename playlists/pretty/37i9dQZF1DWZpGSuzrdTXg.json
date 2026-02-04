@@ -1,13 +1,69 @@
 {
   "description": "Rustig aan doen op zondag met deze zachte popliedjes.",
-  "num_followers": 280921,
+  "num_followers": 280901,
   "original_name": "Easy On Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGlA+e1MVn359vCeqFBrnU30qPSi",
+  "snapshot_id": "AAAAALCosB2lYfUpZnJex8ZN1Re2HQ8k",
   "tracks": [
+    {
+      "added_at": "2026-01-30 11:00:03",
+      "album": {
+        "name": "Portland, Maine (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 210915,
+      "name": "Portland, Maine (feat. Jordan Davis)",
+      "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
+    },
+    {
+      "added_at": "2026-01-30 11:00:03",
+      "album": {
+        "name": "Too Good To Be True (feat. Merrick Winter)",
+        "url": "https://open.spotify.com/album/3MifL1uttV2mS2snSADT6X"
+      },
+      "artists": [
+        {
+          "name": "Melle",
+          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
+        },
+        {
+          "name": "Merrick Winter",
+          "url": "https://open.spotify.com/artist/5saJxCU9CGqagElzzIXgfI"
+        }
+      ],
+      "duration_ms": 197693,
+      "name": "Too Good To Be True (feat. Merrick Winter)",
+      "url": "https://open.spotify.com/track/5VD2s6ASgUPXunzA7vVra3"
+    },
+    {
+      "added_at": "2026-01-30 11:00:03",
+      "album": {
+        "name": "Heartbreak & Roses",
+        "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
+      },
+      "artists": [
+        {
+          "name": "Marlon Pichel",
+          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
+        }
+      ],
+      "duration_ms": 354760,
+      "name": "Heartbreak & Roses",
+      "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
+    },
     {
       "added_at": "2026-01-30 11:00:03",
       "album": {
@@ -79,6 +135,22 @@
     {
       "added_at": "2026-01-30 11:00:03",
       "album": {
+        "name": "Until My Last Breath",
+        "url": "https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "duration_ms": 177813,
+      "name": "Until My Last Breath",
+      "url": "https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1"
+    },
+    {
+      "added_at": "2026-01-30 11:00:03",
+      "album": {
         "name": "Panacea",
         "url": "https://open.spotify.com/album/5tCSkZXGKuVYl6jRKGAnjy"
       },
@@ -91,26 +163,6 @@
       "duration_ms": 282235,
       "name": "Panacea",
       "url": "https://open.spotify.com/track/3Lw0P6202eEN0KG3rdRhxu"
-    },
-    {
-      "added_at": "2026-01-30 11:00:03",
-      "album": {
-        "name": "Portland, Maine (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        },
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 210915,
-      "name": "Portland, Maine (feat. Jordan Davis)",
-      "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
     },
     {
       "added_at": "2026-01-30 11:00:03",
@@ -131,42 +183,6 @@
     {
       "added_at": "2026-01-30 11:00:03",
       "album": {
-        "name": "Too Good To Be True (feat. Merrick Winter)",
-        "url": "https://open.spotify.com/album/3MifL1uttV2mS2snSADT6X"
-      },
-      "artists": [
-        {
-          "name": "Melle",
-          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
-        },
-        {
-          "name": "Merrick Winter",
-          "url": "https://open.spotify.com/artist/5saJxCU9CGqagElzzIXgfI"
-        }
-      ],
-      "duration_ms": 197693,
-      "name": "Too Good To Be True (feat. Merrick Winter)",
-      "url": "https://open.spotify.com/track/5VD2s6ASgUPXunzA7vVra3"
-    },
-    {
-      "added_at": "2026-01-30 11:00:03",
-      "album": {
-        "name": "Heartbreak & Roses",
-        "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
-      },
-      "artists": [
-        {
-          "name": "Marlon Pichel",
-          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
-        }
-      ],
-      "duration_ms": 354760,
-      "name": "Heartbreak & Roses",
-      "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
-    },
-    {
-      "added_at": "2026-01-30 11:00:03",
-      "album": {
         "name": "I Know (A Little)",
         "url": "https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 220200,
       "name": "I Know (A Little)",
       "url": "https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU"
-    },
-    {
-      "added_at": "2026-01-30 11:00:03",
-      "album": {
-        "name": "Until My Last Breath",
-        "url": "https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT"
-      },
-      "artists": [
-        {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
-        }
-      ],
-      "duration_ms": 177813,
-      "name": "Until My Last Breath",
-      "url": "https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1"
     },
     {
       "added_at": "2026-01-30 11:00:03",

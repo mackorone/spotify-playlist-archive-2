@@ -14173,6 +14173,24 @@
     },
     {
       "album": {
+        "name": "Electronic Projects for Musicians",
+        "url": "https://open.spotify.com/album/6aPzHrtvdApqzp2EUNhp9N"
+      },
+      "artists": [
+        {
+          "name": "The Apples In Stereo",
+          "url": "https://open.spotify.com/artist/5KIrQe9pb7tn8y775PsoAP"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "The Golden Flower",
+      "url": "https://open.spotify.com/track/5DIft0NqGBXTy3myTZ3VoF"
+    },
+    {
+      "album": {
         "name": "Forever Changes (2015 Remaster)",
         "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
       },

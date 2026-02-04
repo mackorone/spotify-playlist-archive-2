@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,032 likes - 97 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,121 likes - 97 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Convo](https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:16 |
 | 2 | [Thinking](https://open.spotify.com/track/33R3qS9Gsq6ig289ZxiHFx) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [Thinking](https://open.spotify.com/album/2i5azk8pvUowCWqhRN1t4X) | 2:40 |
 | 3 | [Get at Me](https://open.spotify.com/track/6z47zAU8QJudmMAWQNC6ag) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Flex Singh](https://open.spotify.com/artist/2iEbXi1JTSaJh7bxi1qTI2) | [Get at Me](https://open.spotify.com/album/6eK0qFis78BGBFrqQnzowI) | 4:08 |
-| 4 | [Atlantic](https://open.spotify.com/track/7B3n75ZSSr6G6VCEI2huOz) | [Vikram](https://open.spotify.com/artist/1hP2OKkJ24oEkW8nNpQLX7) | [Atlantic](https://open.spotify.com/album/5yndjxISPLCu2dBtbdLtVQ) | 2:24 |
+| 4 | [Atlantic](https://open.spotify.com/track/7B3n75ZSSr6G6VCEI2huOz) | [Vikram](https://open.spotify.com/artist/68fwTdCJ7n9zupEDEPNt2l) | [Atlantic](https://open.spotify.com/album/5yndjxISPLCu2dBtbdLtVQ) | 2:24 |
 | 5 | [Badmash \- From "Dsp Dev 2"](https://open.spotify.com/track/2A2vDULe18wwg8E7AmYU0o) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Badmash \(From "Dsp Dev 2"\)](https://open.spotify.com/album/0rGtX0aiBfOahc0VDJhkPQ) | 2:30 |
 | 6 | [Old Money](https://open.spotify.com/track/6R5LyPX1PTsaq8K9zCFd1l) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Old Money](https://open.spotify.com/album/425207ZDHo7DOp22qzIDmh) | 3:39 |
 | 7 | [Mafioso](https://open.spotify.com/track/1Ec9ciDObX8du129uqDT56) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP) | [Mafioso](https://open.spotify.com/album/1L93dBOnHTETKq8GGtQ5Vl) | 2:29 |

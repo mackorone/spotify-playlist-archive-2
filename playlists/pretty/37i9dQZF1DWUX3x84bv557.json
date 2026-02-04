@@ -1,12 +1,12 @@
 {
   "description": "Frisse Nederlandse pop. Cover: Shary-An",
-  "num_followers": 246983,
+  "num_followers": 246970,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOLssMSwpgYmVsltfjyfUop37669",
+  "snapshot_id": "AAAAAFOGn2A32I45NbDC9uPcdcRZgUJs",
   "tracks": [
     {
       "added_at": "2026-01-29 23:00:43",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-01-29 23:00:43",
       "album": {
-        "name": "Waar Ik Ben",
-        "url": "https://open.spotify.com/album/6LLdzMTrHM0sez2nUM8rqo"
-      },
-      "artists": [
-        {
-          "name": "Hiigo",
-          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
-        }
-      ],
-      "duration_ms": 217467,
-      "name": "Waar Ik Ben",
-      "url": "https://open.spotify.com/track/5f8CxfFjYKpbZMPGenQMbG"
-    },
-    {
-      "added_at": "2026-01-29 23:00:43",
-      "album": {
         "name": "Jouw Moment",
         "url": "https://open.spotify.com/album/2u6GbyN0hmKZW9QrbUnyq5"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 160481,
       "name": "Jouw Moment",
       "url": "https://open.spotify.com/track/04CMjdiQKsS1EKuYkmE9YD"
+    },
+    {
+      "added_at": "2026-01-29 23:00:43",
+      "album": {
+        "name": "Waar Ik Ben",
+        "url": "https://open.spotify.com/album/6LLdzMTrHM0sez2nUM8rqo"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "duration_ms": 217467,
+      "name": "Waar Ik Ben",
+      "url": "https://open.spotify.com/track/5f8CxfFjYKpbZMPGenQMbG"
     },
     {
       "added_at": "2026-01-29 23:00:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: Quanzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,034 likes - 119 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,036 likes - 119 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 23 | [兜風](https://open.spotify.com/track/12fOjmcxfo6XCnmiY9vMTZ) | [史東 Ston](https://open.spotify.com/artist/3jv9GrmlWtMoClHw1kBFqT) | [兜風](https://open.spotify.com/album/0iUZM4b2uukcFSaO926w4k) | 4:22 |
 | 24 | [第七根菸](https://open.spotify.com/track/0WIWIplgpguNe0uZdjqjuf) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [曾柏鈞](https://open.spotify.com/artist/1A6qrb6qglTwq3rtzQ3L7L) | [第七根菸](https://open.spotify.com/album/4NjYnOHVPgUjqGnLKAKRdT) | 2:54 |
 | 25 | [平凡日子](https://open.spotify.com/track/5YhHImesRcFB7M3BXanDl8) | [GIN 莫竣琋](https://open.spotify.com/artist/2jKSQaGye85579shswHzcC) | [平凡日子](https://open.spotify.com/album/0Lm6B6c50bw6z8sSSUe4QW) | 3:41 |
-| 26 | [一半一半](https://open.spotify.com/track/3zXN0Dnki7BM6xWlNwbQaJ) | [CHOCKEY有三](https://open.spotify.com/artist/3Y85maXeZunYuZ1oedNUtD), [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa) | [一半一半](https://open.spotify.com/album/7smTgSsIGmYkCXP8GD0bdW) | 4:20 |
+| 26 | [一半一半](https://open.spotify.com/track/3zXN0Dnki7BM6xWlNwbQaJ) | [CHOCKEY有三](https://open.spotify.com/artist/3Y85maXeZunYuZ1oedNUtD), [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa) | [一半一半](https://open.spotify.com/album/7smTgSsIGmYkCXP8GD0bdW) | 3:44 |
 | 27 | [我只想躺平](https://open.spotify.com/track/7kda8Xr1MDEaGELA1UVCVm) | [康玉蘭](https://open.spotify.com/artist/1S7X2AuDpHUFVU1RqURNvV) | [請勿打擾模式](https://open.spotify.com/album/31DreE8BdE0z2Ar6tPWWLU) | 3:34 |
 | 28 | [在不著邊際的太空漫遊](https://open.spotify.com/track/0DQSaKEzM27fo1OmsfXQod) | [JH華喬](https://open.spotify.com/artist/1amL9kw91xoclZaT2PGGb4) | [在不著邊際的太空漫遊](https://open.spotify.com/album/7hOqhOJ9Wvqli6ZoZchSQ7) | 3:26 |
 | 29 | [MAKE A MOVE](https://open.spotify.com/track/1OIIDuVRasDLNuMusBGnXS) | [Raelyn Chen](https://open.spotify.com/artist/5f8j9XWy7cGlPSVedpEMem) | [MAKE A MOVE](https://open.spotify.com/album/18pZ0MnBzT7f3Cw8fF7r6w) | 3:39 |

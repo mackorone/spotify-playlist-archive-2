@@ -2651,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Love A Good",
+        "url": "https://open.spotify.com/album/6dr5B4L0fdzKdvTDGjg9ip"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214822,
+      "name": "Love A Good",
+      "url": "https://open.spotify.com/track/7Kug4Y5pkvOXIsJRONpwTg"
+    },
+    {
+      "album": {
         "name": "In A World We Don't Belong (Pt.1)",
         "url": "https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6"
       },

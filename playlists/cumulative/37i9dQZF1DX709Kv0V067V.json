@@ -1659,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Echomare",
+        "url": "https://open.spotify.com/album/2xVyPsqh8kZEag8fvC7Imu"
+      },
+      "artists": [
+        {
+          "name": "Watersoothes",
+          "url": "https://open.spotify.com/artist/7uPByPwENUy0Xn3TKBZBHG"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137250,
+      "name": "Echomare",
+      "url": "https://open.spotify.com/track/02v3iqE7seorNepl7UJUsg"
+    },
+    {
+      "album": {
         "name": "Echovault",
         "url": "https://open.spotify.com/album/7sTeyq0yvZfyJKgCVZJc0E"
       },
@@ -4136,7 +4154,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 159373,
       "name": "Red Maple",
       "url": "https://open.spotify.com/track/4EXKRSVZzk6Wcq66SnbVc1"

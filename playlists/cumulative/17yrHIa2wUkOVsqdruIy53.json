@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 04.2026 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 05.2026 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -158,7 +158,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 154746,
       "name": "1999 Pt. III",
       "url": "https://open.spotify.com/track/0VOoFMLU692oDIDlMxSOH9"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 155821,
       "name": "Allein",
       "url": "https://open.spotify.com/track/1Vc194PxxzbxlSOdDi6EXu"
@@ -662,6 +662,24 @@
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
       "album": {
@@ -934,7 +952,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 156463,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN"
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 134854,
       "name": "Bitch (feat. Ikkimel)",
       "url": "https://open.spotify.com/track/47SANiKPFr9ahY9rublsio"
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 125933,
       "name": "BRICKS",
       "url": "https://open.spotify.com/track/3pozlN91kf9wlWJCJHvWc0"
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 132857,
       "name": "Damals",
       "url": "https://open.spotify.com/track/3ZgG3ACSbipGeToRvoSDtW"
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 170196,
       "name": "Dein Schutz",
       "url": "https://open.spotify.com/track/3TrV2LgulYBCYaMeOFbtoh"
@@ -2465,6 +2483,28 @@
     },
     {
       "album": {
+        "name": "Erkl\u00e4re mir die Liebe",
+        "url": "https://open.spotify.com/album/0jtSnVkqL6WRPKjpG5wKQI"
+      },
+      "artists": [
+        {
+          "name": "Chrissyjeey",
+          "url": "https://open.spotify.com/artist/4t1OwXCd8p5VD9DEqsbOjJ"
+        },
+        {
+          "name": "Lea Marie",
+          "url": "https://open.spotify.com/artist/5XIF2l3hXty0qWMNR58Bqk"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Erkl\u00e4re mir die Liebe",
+      "url": "https://open.spotify.com/track/2kGMz4gdfrAmZ1H6jR2li8"
+    },
+    {
+      "album": {
         "name": "Erlk\u00f6nig",
         "url": "https://open.spotify.com/album/0eYMNcQ8Ngg5Yc9v4k0Fdu"
       },
@@ -2792,7 +2832,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 163501,
       "name": "Fremder Mann",
       "url": "https://open.spotify.com/track/5Mduvr7sXDbkXh5rBDLBZg"
@@ -3343,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "Haus im Meer (Intro)",
+        "url": "https://open.spotify.com/album/2qRCEFQ8ouwfT8ZAGMvQ47"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240012,
+      "name": "Haus im Meer (Intro)",
+      "url": "https://open.spotify.com/track/0jPvdBmAkaHUjKcZmNgVdX"
+    },
+    {
+      "album": {
         "name": "HELICOPTER",
         "url": "https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf"
       },
@@ -3354,7 +3412,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 165288,
       "name": "HELICOPTER",
       "url": "https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn"
@@ -4041,6 +4099,24 @@
     },
     {
       "album": {
+        "name": "Karnevalsmaus",
+        "url": "https://open.spotify.com/album/3zcpKbbvL4zzg5qqb3rkvm"
+      },
+      "artists": [
+        {
+          "name": "Druckluft",
+          "url": "https://open.spotify.com/artist/0frz3O8M5bimsfjqGKcAL9"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193884,
+      "name": "Karnevalsmaus",
+      "url": "https://open.spotify.com/track/3cW1KZxs5d8TJFlosoLwVs"
+    },
+    {
+      "album": {
         "name": "Alles oder Nix",
         "url": "https://open.spotify.com/album/2Ka6ZgzImEXyFSUh5tY1kg"
       },
@@ -4078,7 +4154,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 156176,
       "name": "KNUTSCHFLECK",
       "url": "https://open.spotify.com/track/4cfqkdJ1CdSnwmM4UdfPiY"
@@ -4406,7 +4482,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
@@ -4490,6 +4566,24 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "album": {
+        "name": "LOVE U ANYWAY",
+        "url": "https://open.spotify.com/album/5Uw07d96DTHv2p5oW5ZCGL"
+      },
+      "artists": [
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154745,
+      "name": "LOVE U ANYWAY",
+      "url": "https://open.spotify.com/track/7zirvOKv5Yi0WsXuq8f7xi"
     },
     {
       "album": {
@@ -5219,6 +5313,24 @@
     },
     {
       "album": {
+        "name": "Niemand ist wie du",
+        "url": "https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143026,
+      "name": "Niemand ist wie du",
+      "url": "https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y"
+    },
+    {
+      "album": {
         "name": "NO BATID\u00c3O",
         "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
       },
@@ -5525,6 +5637,24 @@
     },
     {
       "album": {
+        "name": "racine carr\u00e9e",
+        "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232146,
+      "name": "Papaoutai",
+      "url": "https://open.spotify.com/track/34dx8DACTJsc3rsJdaEIQw"
+    },
+    {
+      "album": {
         "name": "Papaoutai (Afro Soul)",
         "url": "https://open.spotify.com/album/4AbRuVeZzYwgCezKhO9ol0"
       },
@@ -5762,7 +5892,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 521866,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
@@ -5846,6 +5976,28 @@
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "album": {
+        "name": "Rakete (Party Edit)",
+        "url": "https://open.spotify.com/album/2YP8W81DKC5crHKWHaLKM3"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4tropolis",
+          "url": "https://open.spotify.com/artist/7iYhDa5Ucrs8Ucsi0Vv1uG"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188187,
+      "name": "Rakete - Party Edit",
+      "url": "https://open.spotify.com/track/1bPPGrKv9D6z4RSwYm76QY"
     },
     {
       "album": {
@@ -6014,7 +6166,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
@@ -6068,7 +6220,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 157700,
       "name": "Roller",
       "url": "https://open.spotify.com/track/6hw1Sy9wZ8UCxYGdpKrU6M"
@@ -6630,7 +6782,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj"
@@ -6666,7 +6818,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -6756,7 +6908,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 137142,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/7xnUtPSxQjHItrcNs0OwOa"
@@ -6782,6 +6934,28 @@
       "duration_ms": 126538,
       "name": "Sonne Geht Auf",
       "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
+    },
+    {
+      "album": {
+        "name": "SORRY",
+        "url": "https://open.spotify.com/album/1qK7NSHpKctGkPEzaAErnt"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        },
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/13fqYuVUbWit7EtYOL6eca"
     },
     {
       "album": {
@@ -7496,7 +7670,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -7983,6 +8157,36 @@
     },
     {
       "album": {
+        "name": "UPPER CLASS",
+        "url": "https://open.spotify.com/album/1g5qbFLy3b6tVBW2vJ7gBt"
+      },
+      "artists": [
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        },
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        },
+        {
+          "name": "Bobbyezz",
+          "url": "https://open.spotify.com/artist/5hV6TRKQwmvIWKTlsob1z8"
+        },
+        {
+          "name": "danielslump",
+          "url": "https://open.spotify.com/artist/6aCnsDwUUiBSNDdsmtuSRb"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288510,
+      "name": "UPPER CLASS",
+      "url": "https://open.spotify.com/track/37e3QAVb4r9m77tehiRfuu"
+    },
+    {
+      "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
@@ -8187,6 +8391,24 @@
     },
     {
       "album": {
+        "name": "Walking On A Dream (Special Edition)",
+        "url": "https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267354,
+      "name": "We Are The People",
+      "url": "https://open.spotify.com/track/57RHMnLMQx8Qz5V6c0E8dF"
+    },
+    {
+      "album": {
         "name": "We Are The World",
         "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
       },
@@ -8278,6 +8500,28 @@
       "duration_ms": 176571,
       "name": "Wenn ich tot bin, fang ich wieder an",
       "url": "https://open.spotify.com/track/6IxHTDUOlZpozmf2HkSpKi"
+    },
+    {
+      "album": {
+        "name": "wgft (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/5LgGFj0CG4iJ1MynD791hi"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184440,
+      "name": "wgft (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4kCkgD1ITALBjzBwGsf6tW"
     },
     {
       "album": {

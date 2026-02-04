@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAKhiIjQJiuWqiYMC7DsDpY/cjXhrqN",
+  "snapshot_id": "AAAKiPjB/RWc5JhdkMg7FjoUKhzUbJOK",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -83215,22 +83215,6 @@
     {
       "added_at": "2025-01-15 00:16:42",
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 159669,
-      "name": "Heart On Ice",
-      "url": "https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6"
-    },
-    {
-      "added_at": "2025-01-15 00:16:42",
-      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
       },
@@ -145019,6 +145003,22 @@
       "duration_ms": 292648,
       "name": "glimpse of you",
       "url": "https://open.spotify.com/track/1Mk3UttPL673cDTAy1uwe2"
+    },
+    {
+      "added_at": "2026-02-03 07:58:20",
+      "album": {
+        "name": "Tadashii Itsuwarikarano Kishou",
+        "url": "https://open.spotify.com/album/6nmn6P50KHM6BZgoyHejs7"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/6zafxiHm5C24EJzlV9Rupa"
     }
   ],
   "unique_name": "Purge",

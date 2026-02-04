@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/52cKwQBHdpKHYYbrnqKJtX">GRACEY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-73 songs - 3 hr 39 min
+74 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Don't Talk To Me \(feat\. Riton & Faangs\) \(feat\. Riton\)](https://open.spotify.com/track/79FvMvQ0xcV2wDdP059HDX) | [N.F.I](https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1) | [Don't Talk To Me \(feat\. Riton\)](https://open.spotify.com/album/1hCnjga20wV5fuqvzHfewg) | 3:25 | 2024-05-01 |  |
 | [Don’t Need Love \(with GRACEY\)](https://open.spotify.com/track/7uBaKZZVK0OZ6cqFGpGRXI) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Don't Need Love](https://open.spotify.com/album/46iHvXJt4ZEMwwpZC8cBzN) | 3:15 | 2024-05-01 |  |
 | [Don’t You Feel It](https://open.spotify.com/track/1kW0EhrR7VdrXRexVIDIiB) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Don't You Feel It](https://open.spotify.com/album/0RkIZtap4bsBP2rEb3tJUQ) | 3:27 | 2024-05-01 |  |
+| [Dopamine \(feat\. Malou\)](https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dopamine \(feat\. Malou\)](https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn) | 2:03 | 2026-02-03 |  |
 | [Easy For You](https://open.spotify.com/track/3f5kqJzwjCjMTxVprKhqt8) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Easy For You](https://open.spotify.com/album/6q67t3gz2gVAzdq1zPQJrB) | 3:04 | 2024-05-01 |  |
 | [Elastic](https://open.spotify.com/track/5wYjxSORL66y2Ect1UpFrL) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Elastic](https://open.spotify.com/album/2ZaSkE7jnQ9dtbVDYzZKn6) | 2:56 | 2025-12-17 |  |
 | [Empty Love](https://open.spotify.com/track/2iqIjiKVQ6p7zdp9pqAeUL) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:27 | 2024-05-01 |  |

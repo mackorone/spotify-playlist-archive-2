@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1Fj9OrNfyVGXF5.md) - [plain]
 
 > Listen to the soundtrack and selections from WORLD OF STREET WOMAN FIGHTER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,231 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,228 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1Fj9OrNfyVGXF5.md) - [plain]
 | 5 | [Flip Flop \(Prod\. Padi\)](https://open.spotify.com/track/6RZMwZQkoTLoPkwkA9rurA) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:59 |
 | 6 | [CHAMPION \(Prod\. THE HUB\)](https://open.spotify.com/track/436iPWnOsW8l3JApUJFttv) | [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4GYvM3EbRUpbeen0zCIGaK) | 2:33 |
 | 7 | [SASS \(Prod\. THE HUB\)](https://open.spotify.com/track/3i4uRxBpIrI6xb6CHLvh9p) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4GYvM3EbRUpbeen0zCIGaK) | 2:51 |
-| 8 | [Talk to the Moon \(Prod\. THE HUB\)](https://open.spotify.com/track/0rnByIXYWmKQyB3wWinKlG) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4GYvM3EbRUpbeen0zCIGaK) | 3:30 |
+| 8 | [Talk to the Moon \(Prod\. THE HUB\)](https://open.spotify.com/track/0rnByIXYWmKQyB3wWinKlG) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4GYvM3EbRUpbeen0zCIGaK) | 3:30 |
 | 9 | [Always a Good Time \(Prod\. THE HUB\)](https://open.spotify.com/track/5qPb6NHs4nX6LKBWo390mx) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4GYvM3EbRUpbeen0zCIGaK) | 2:46 |
 | 10 | [All In AUS \(AG SQUAD Crew\)](https://open.spotify.com/track/1OnzygpognvtYjQz9VwAu9) | [WORLD OF STREET WOMAN FIGHTER \(WSWF\)](https://open.spotify.com/artist/5NzvDUeOc9JCP5yMnEInIX) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.0 \(Cheering Theme\)](https://open.spotify.com/album/33kKKW2JYwI9bRDxIPR4Md) | 0:46 |
 | 11 | [Crown′s Up \(ROYAL FAMILY Crew\)](https://open.spotify.com/track/5N4HbDFDIU1Kp8EIvHtXrI) | [WORLD OF STREET WOMAN FIGHTER \(WSWF\)](https://open.spotify.com/artist/5NzvDUeOc9JCP5yMnEInIX) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.0 \(Cheering Theme\)](https://open.spotify.com/album/33kKKW2JYwI9bRDxIPR4Md) | 0:45 |

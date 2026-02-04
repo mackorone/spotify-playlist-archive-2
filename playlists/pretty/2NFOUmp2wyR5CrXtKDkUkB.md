@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NFOUmp2wyR5CrXtKDkUkB.md) - [plain]
 
 > Those were the days, this was the music...
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,190 likes - 67 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,189 likes - 67 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

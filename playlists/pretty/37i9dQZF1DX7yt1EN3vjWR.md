@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 2026年4月3日\(金\)\~4月5日\(日\)に幕張メッセ国際展示場1\~6ホールで開催されるヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>の公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,360 likes - 113 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,371 likes - 113 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 20 | [Pull Up](https://open.spotify.com/track/2sT9opGdkzq1rKE9toXJTb) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Pull Up](https://open.spotify.com/album/5xsIGUBxkvpStINwCNl8CW) | 2:30 |
 | 21 | [Hey phone](https://open.spotify.com/track/20zVdoq8LXUkW7eEiH363E) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [yo,](https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB) | 3:23 |
 | 22 | [Flight To Mumbai](https://open.spotify.com/track/1FY8wkNzyoL0yXN2o3qbS9) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Jeter](https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm), [Y ohtrixpointnever](https://open.spotify.com/artist/4zba7coFdHgCPeGTxZn1LQ) | [Flight To Mumbai](https://open.spotify.com/album/5ljcCgXanxkJMV24viniyp) | 2:25 |
-| 23 | [REVENGE](https://open.spotify.com/track/4f3oJsO48iDBTqyJTzYMmn) | [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie) | [The Claimant/REVENGE](https://open.spotify.com/album/6o80a6KkyZc7E8JmYI4bjh) | 2:48 |
+| 23 | [REVENGE](https://open.spotify.com/track/4f3oJsO48iDBTqyJTzYMmn) | [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie) | [The Claimant / REVENGE](https://open.spotify.com/album/6o80a6KkyZc7E8JmYI4bjh) | 2:48 |
 | 24 | [SCAR](https://open.spotify.com/track/6X4yjQUedTysOxv0R18eTH) | [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie) | [SCAR](https://open.spotify.com/album/6Vls2N2jVxxPigSKT9ecZb) | 2:52 |
 | 25 | [ADRENALINE 2](https://open.spotify.com/track/7usxmBJKLLXTLpeDrCxaot) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [TIGHTBOOTH](https://open.spotify.com/artist/5g5LuXhTK5GfYyWpg46f9Y) | [ADRENALINE 2](https://open.spotify.com/album/7GYt5b7sTh5OS1SW5IYE46) | 2:44 |
 | 26 | [親子星](https://open.spotify.com/track/1N1pxp0oEh3N9JXCpvb5x3) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [親子星 \(Deluxe\)](https://open.spotify.com/album/3hCyx8xnpqoVpXeqE3VbGu) | 2:55 |

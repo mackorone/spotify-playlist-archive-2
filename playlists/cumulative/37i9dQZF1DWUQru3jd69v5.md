@@ -4,7 +4,7 @@
 
 > Low\-Red in cover della playlist con il futuro del rap italiano 📈
 
-2,241 songs - 3 day 22 hr 44 min
+2,242 songs - 3 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1565,7 +1565,7 @@
 | [PEZZO JAZZ](https://open.spotify.com/track/0NjUHwbpvEf4NevrKY72eZ) | [Fuckgize](https://open.spotify.com/artist/0ozkOT9TtjSuroh0f4fCvE), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [GIGI E FRIENDS](https://open.spotify.com/album/3jmmti2GCbmJn0LSXavgiY) | 2:14 | 2025-08-07 | 2025-10-10 |
 | [PIACERE FRANCESCO](https://open.spotify.com/track/7rbsHurbo79lcr954mwjyw) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [PIACERE FRANCESCO](https://open.spotify.com/album/0vaYb9C3HxAFGwPJvIypgR) | 2:41 | 2022-05-10 | 2022-05-27 |
 | [Piani](https://open.spotify.com/track/7vW0AJr24dhKscPD4tQsQP) | [Blocage](https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk) | [Piani](https://open.spotify.com/album/2xxn8LbFhS6mNdVdl3Nq8h) | 2:25 | 2024-12-12 | 2025-01-10 |
-| [PIANO DI FUGA](https://open.spotify.com/track/0Noij5zsAy0u3gUJGlHmpL) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [PIANO DI FUGA](https://open.spotify.com/album/4XMR4oKi1KlrjujVv4Ac1o) | 2:14 | 2025-10-30 |  |
+| [PIANO DI FUGA](https://open.spotify.com/track/0Noij5zsAy0u3gUJGlHmpL) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [PIANO DI FUGA](https://open.spotify.com/album/4XMR4oKi1KlrjujVv4Ac1o) | 2:14 | 2025-10-30 | 2026-02-04 |
 | [PIAZZA AFFARI \(EHYEHYEHYEHY\)](https://open.spotify.com/track/4Yve3S6OlYxS2CxABwNCzH) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [PIAZZA AFFARI \(EHYEHYEHYEHY\)](https://open.spotify.com/album/66oNCK9DX3OPj3jARfbIzq) | 2:17 | 2025-06-26 | 2025-07-11 |
 | [Piazzale Europa 2](https://open.spotify.com/track/0JIxYm2jBmaklYiqFJJwr7) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz) | [Piazzale Europa 2](https://open.spotify.com/album/5YOilIdNL5np8G1K3GNalY) | 2:07 | 2024-11-28 | 2025-01-17 |
 | [PICCOLI](https://open.spotify.com/track/1FcxGXTJDdTTtkWXT9mVVc) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Arden](https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI) | [PICCOLI](https://open.spotify.com/album/552cO0pQzMzCNVkwLKkV8N) | 2:43 | 2022-05-10 | 2022-07-01 |
@@ -2125,6 +2125,7 @@
 | [Uzi](https://open.spotify.com/track/5OAa4e22LQglEWHvV5BjvZ) | [Trap God](https://open.spotify.com/artist/39yVrqHlEzhfH3juNpSRvz), [Sghenny Madattak](https://open.spotify.com/artist/7BvgAL2eNaLZ4S3XkwqE0u) | [Uzi](https://open.spotify.com/album/7HUaGiOfqxeHHSI84DUWGX) | 1:38 | 2022-09-08 | 2022-09-23 |
 | [Va Bene](https://open.spotify.com/track/5w4wqUJgNGfKUYueXO8kCb) | [LOKI](https://open.spotify.com/artist/4kD5wLdwyIuYfcAJIHYbaQ), [Mitch](https://open.spotify.com/artist/2KmZCKrcq6twZoa1NrKUnw) | [Va Bene](https://open.spotify.com/album/0PFEZ3EBR8Qmyut1QGHfIS) | 1:53 | 2023-03-30 | 2023-04-14 |
 | [Vada come vada](https://open.spotify.com/track/5bJKrpclp5ZwxHjgMHQD9O) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Vada come vada](https://open.spotify.com/album/1uiCVnEYRbmcRACX7cfq8S) | 2:27 | 2023-03-23 | 2023-06-23 |
+| [VADEMECUM](https://open.spotify.com/track/3hEaGY9gTsGf2DqEOnHqfr) | [Ramzes](https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR) | [VADEMECUM](https://open.spotify.com/album/1LWytZ3CoyXl1h3GF8o0Yd) | 2:52 | 2026-02-03 |  |
 | [VAI DISA!](https://open.spotify.com/track/3YX9eZcubS44Cd2LnsykUk) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [VAI DISA!](https://open.spotify.com/album/1z7NSmgTQGpdwWsulZAAmi) | 2:15 | 2022-08-18 | 2022-09-16 |
 | [Valentino Rossi](https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Valentino Rossi](https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ) | 1:59 | 2023-11-02 | 2024-02-23 |
 | [VaLiGeTTa GiaLLa](https://open.spotify.com/track/2lECWjznGStq7RHLM2DvBs) | [Yandie Gotam](https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [VaLiGeTTa GiaLLa](https://open.spotify.com/album/0qfK3MEYGMhm0sNm8urGeI) | 2:03 | 2024-08-08 | 2024-09-06 |

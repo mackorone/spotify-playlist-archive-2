@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "3RDCT",
+        "url": "https://open.spotify.com/album/06cZIYhec3kDLbQaaFXxiP"
+      },
+      "artists": [
+        {
+          "name": "Raman Brar",
+          "url": "https://open.spotify.com/artist/2rQtudwQbw6YDJCZbWj3Hl"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116922,
+      "name": "3RDCT",
+      "url": "https://open.spotify.com/track/5ZMVdn74iCDfCbQTQM8Jgu"
+    },
+    {
+      "album": {
         "name": "4 AM in...",
         "url": "https://open.spotify.com/album/40wJP5v5W4BXcSJzOZVxrS"
       },
@@ -1839,6 +1857,28 @@
     },
     {
       "album": {
+        "name": "Budh Singh",
+        "url": "https://open.spotify.com/album/1Mw6h0BzVoTfc8v9XkDFUr"
+      },
+      "artists": [
+        {
+          "name": "Devenderpal Singh",
+          "url": "https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T"
+        },
+        {
+          "name": "Ravi Inder Sheen",
+          "url": "https://open.spotify.com/artist/2aMvYjNErkg5b2H9bEekqd"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129250,
+      "name": "Aukha E",
+      "url": "https://open.spotify.com/track/7zBR0OIftLFbzNsLPpaz38"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/4lEvoqUSWUx9TfjP9vK9sY"
       },
@@ -2940,7 +2980,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 188780,
       "name": "Black & White",
       "url": "https://open.spotify.com/track/5r7mDmA3VHkGIJ02hTmIyw"
@@ -3160,7 +3200,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 150661,
       "name": "Booser",
       "url": "https://open.spotify.com/track/40Fe8keYcyMPc1axhSy9Fc"
@@ -3334,6 +3374,24 @@
       "duration_ms": 173286,
       "name": "Broken Dreams",
       "url": "https://open.spotify.com/track/4pWWdpUShpU9bVD4wXGNMQ"
+    },
+    {
+      "album": {
+        "name": "Brood",
+        "url": "https://open.spotify.com/album/52k2D03997wu6MxEsnTlfA"
+      },
+      "artists": [
+        {
+          "name": "Nav K",
+          "url": "https://open.spotify.com/artist/1vt6zRlHD0Ismnq5bhNyhW"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Brood",
+      "url": "https://open.spotify.com/track/3PNQDdowwXd2Ny1tOsCddq"
     },
     {
       "album": {
@@ -8974,7 +9032,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 136421,
       "name": "I'M JUST SAYIN",
       "url": "https://open.spotify.com/track/5wIuUCZsBqT4Gpzrm0hJUH"
@@ -13000,7 +13058,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 167441,
       "name": "No Escape",
       "url": "https://open.spotify.com/track/3VgB3FwRYut1y1m7pB1VTL"
@@ -14102,6 +14160,24 @@
       "duration_ms": 184303,
       "name": "Paagal",
       "url": "https://open.spotify.com/track/5zzjRxWVspz0DdpKcbDtWK"
+    },
+    {
+      "album": {
+        "name": "Paisa",
+        "url": "https://open.spotify.com/album/5ky3Mq99CWgL8jXHScSGQK"
+      },
+      "artists": [
+        {
+          "name": "Pavvy Virk",
+          "url": "https://open.spotify.com/artist/1AQZgGdnLJOu37cxZzIkxX"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122461,
+      "name": "Paisa",
+      "url": "https://open.spotify.com/track/65Vzr3Tt2sJacpvlrgnn5a"
     },
     {
       "album": {

@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 459661,
       "name": "Khetha",
       "url": "https://open.spotify.com/track/55Ksyvd4sNgRarIlq1u9r6"
@@ -2118,6 +2118,28 @@
       "duration_ms": 415081,
       "name": "See That",
       "url": "https://open.spotify.com/track/4wYwe4DGpBdyDNf2xTCPar"
+    },
+    {
+      "album": {
+        "name": "September 31st",
+        "url": "https://open.spotify.com/album/7ufC3doGHGTVT5CJSLDKVq"
+      },
+      "artists": [
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "M\u00e1ximo",
+          "url": "https://open.spotify.com/artist/6vBFZrcAJhzNdO3h4wdSgX"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279344,
+      "name": "September 31st",
+      "url": "https://open.spotify.com/track/5r1cTCi0jtzJeiMPPDQLLM"
     },
     {
       "album": {

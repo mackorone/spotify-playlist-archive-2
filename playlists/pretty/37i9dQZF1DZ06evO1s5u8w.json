@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 200548,
+  "num_followers": 200572,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAABFA+XaYox/yCjvfVidfI31",
+  "snapshot_id": "aX/pAAAAAAB7BxgOYxEQdGRYxocqYbnq",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads: 77 (Super Deluxe Edition) [2024 Remaster]",
-        "url": "https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan"
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
       },
       "artists": [
         {
           "name": "Talking Heads",
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        },
-        {
-          "name": "Arthur Russell",
-          "url": "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
         }
       ],
-      "duration_ms": 257685,
-      "name": "Psycho Killer (Acoustic Version) [feat. Arthur Russell] - 2024 Remaster",
-      "url": "https://open.spotify.com/track/6KrIQLaIYptiYdB9GwAlpv"
+      "duration_ms": 189266,
+      "name": "New Feeling",
+      "url": "https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R"
     },
     {
       "added_at": null,
@@ -431,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+        "name": "Talking Heads: 77 (Super Deluxe Edition) [2024 Remaster]",
+        "url": "https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan"
       },
       "artists": [
         {
           "name": "Talking Heads",
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        },
+        {
+          "name": "Arthur Russell",
+          "url": "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
         }
       ],
-      "duration_ms": 189266,
-      "name": "New Feeling",
-      "url": "https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R"
+      "duration_ms": 257685,
+      "name": "Psycho Killer (Acoustic Version) [feat. Arthur Russell] - 2024 Remaster",
+      "url": "https://open.spotify.com/track/6KrIQLaIYptiYdB9GwAlpv"
     },
     {
       "added_at": null,

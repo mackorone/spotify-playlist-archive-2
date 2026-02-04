@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 592 likes - 476 songs - 23 hr 5 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 593 likes - 478 songs - 23 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -484,5 +484,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 474 | [D in da A](https://open.spotify.com/track/2N8YelMa5lSCBycq1hhuZK) | [D.loading](https://open.spotify.com/artist/5ogOlBGV3hK3AD8ZJXOpl9) | [D in Da A](https://open.spotify.com/album/09EFjsbE4gXYn6I8qgTc2r) | 2:37 |
 | 475 | [Minding My Business](https://open.spotify.com/track/1AYKrxVWjGxkUdcOxadqzw) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Minding My Business](https://open.spotify.com/album/5XZYS9zWdncFogtSThtheL) | 1:39 |
 | 476 | [Outside \- Remix](https://open.spotify.com/track/2hVI1Fl7b4sbDeAa8IPeSI) | [J.Bu$h](https://open.spotify.com/artist/1xlDwQxeDDFKygaztpIMX1), [Lane Shuler](https://open.spotify.com/artist/01Wu4arSj8hLulToXCdO8J) | [Outside \(Remix\)](https://open.spotify.com/album/7ujpsRpFcStgeCFmAtge2H) | 2:54 |
+| 477 | [Purple Demons](https://open.spotify.com/track/2ghxwM1pORJkiivLTDIV0e) | [GRGP TY](https://open.spotify.com/artist/1ILNmtz0YGwcyaiTpVfQn7) | [Purple Demons](https://open.spotify.com/album/3J2T9AMIWWOHsCF7Fg1Wmg) | 2:06 |
+| 478 | [True Friends](https://open.spotify.com/track/2eqtXSBIO0mya5fipLROhu) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [True Friends](https://open.spotify.com/album/6ChEwlwzpOMTLUcqjtQnQx) | 3:46 |
 
-Snapshot ID: `AAABfAxVwu6jwurgaTfUpGW6L/tzlq9a`
+Snapshot ID: `AAABfnKtYI7WJE6ZOaH8FcXusc6VokRB`

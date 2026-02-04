@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 333266,
+  "num_followers": 333246,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
+        "name": "Neighborhoods (Deluxe Explicit Version)",
+        "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Ghost On The Dance Floor",
+      "url": "https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
         "name": "Punks And Demons",
         "url": "https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 112426,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
-        "name": "Neighborhoods (Deluxe Explicit Version)",
-        "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "Ghost On The Dance Floor",
-      "url": "https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d"
     },
     {
       "added_at": "2025-10-27 20:26:25",

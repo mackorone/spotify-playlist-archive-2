@@ -1326,10 +1326,28 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 204605,
       "name": "Merry Bitchmas",
       "url": "https://open.spotify.com/track/34rNbRykHwMbKHxI87O03w"
+    },
+    {
+      "album": {
+        "name": "Merry Bitchmas",
+        "url": "https://open.spotify.com/album/7jbt7HV8zmCJcQI4HgcSgW"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204605,
+      "name": "Merry Bitchmas",
+      "url": "https://open.spotify.com/track/4yryO4jfyCAl8mfVS4C66r"
     },
     {
       "album": {

@@ -6526,7 +6526,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 169528,
       "name": "Light",
       "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
@@ -10906,6 +10906,28 @@
       "duration_ms": 214912,
       "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
       "url": "https://open.spotify.com/track/7MYX0Vu0uMjVLCiy804sdX"
+    },
+    {
+      "album": {
+        "name": "Sunrise Underwater",
+        "url": "https://open.spotify.com/album/3d9q6YpSzGxna0ju3xUwEc"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        },
+        {
+          "name": "Jazara",
+          "url": "https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214766,
+      "name": "Sunrise Underwater",
+      "url": "https://open.spotify.com/track/1rRscKv9OiK64AgQQWez5m"
     },
     {
       "album": {

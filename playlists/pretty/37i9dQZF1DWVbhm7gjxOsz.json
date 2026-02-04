@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 127309,
+  "num_followers": 127345,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Baby, I'm For Real",
-        "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
-      },
-      "artists": [
-        {
-          "name": "The Originals",
-          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Baby, I'm For Real",
-      "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Baby You Got It",
         "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Thin Line Between Love & Hate: Golden Classics",
-        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
+        "name": "Baby, I'm For Real",
+        "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
       },
       "artists": [
         {
-          "name": "The Persuaders",
-          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
         }
       ],
-      "duration_ms": 207653,
-      "name": "Thin Line Between Love and Hate",
-      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
+      "duration_ms": 201866,
+      "name": "Baby, I'm For Real",
+      "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -583,6 +567,22 @@
       "duration_ms": 255173,
       "name": "Float On - Single Version",
       "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Thin Line Between Love & Hate: Golden Classics",
+        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
+      },
+      "artists": [
+        {
+          "name": "The Persuaders",
+          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Thin Line Between Love and Hate",
+      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
-      },
-      "artists": [
-        {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Earth Angel (Will You Be Mine)",
-      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Why Can't We Be Friends?",
         "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 240866,
       "name": "Don't Let No One Get You Down",
       "url": "https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "The Best Of The Penguins",
+        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Earth Angel (Will You Be Mine)",
+      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Show and Tell: The Best of Al Wilson",
-        "url": "https://open.spotify.com/album/63NKHtOychyEccShIws1KA"
+        "name": "I'm On The Outside (Looking In)",
+        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
       },
       "artists": [
         {
-          "name": "Al Wilson",
-          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
         }
       ],
-      "duration_ms": 207986,
-      "name": "Show and Tell",
-      "url": "https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o"
+      "duration_ms": 192066,
+      "name": "I'm On The Outside (Looking In)",
+      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+        "name": "Show and Tell: The Best of Al Wilson",
+        "url": "https://open.spotify.com/album/63NKHtOychyEccShIws1KA"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "Al Wilson",
+          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
         }
       ],
-      "duration_ms": 151626,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
+      "duration_ms": 207986,
+      "name": "Show and Tell",
+      "url": "https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "I'm On The Outside (Looking In)",
-        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
       "artists": [
         {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 192066,
-      "name": "I'm On The Outside (Looking In)",
-      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
+      "duration_ms": 151626,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Grazin'",
-        "url": "https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw"
-      },
-      "artists": [
-        {
-          "name": "The Friends Of Distinction",
-          "url": "https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu"
-        }
-      ],
-      "duration_ms": 252280,
-      "name": "Going In Circles",
-      "url": "https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Greatest Slow Jams",
         "url": "https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 198946,
       "name": "The Town I Live In",
       "url": "https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Grazin'",
+        "url": "https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw"
+      },
+      "artists": [
+        {
+          "name": "The Friends Of Distinction",
+          "url": "https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu"
+        }
+      ],
+      "duration_ms": 252280,
+      "name": "Going In Circles",
+      "url": "https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The Best Of Dee Dee Sharp 1962-1966",
-        "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
+        "name": "Somebody Please (Stereo Mix 2019)",
+        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
       },
       "artists": [
         {
-          "name": "Dee Dee Sharp",
-          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
+          "name": "The Vanguards",
+          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
         }
       ],
-      "duration_ms": 168773,
-      "name": "I Really Love You",
-      "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
+      "duration_ms": 231825,
+      "name": "Somebody Please (Stereo Mix 2019)",
+      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Somebody Please (Stereo Mix 2019)",
-        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
+        "name": "The Best Of Dee Dee Sharp 1962-1966",
+        "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
       },
       "artists": [
         {
-          "name": "The Vanguards",
-          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
+          "name": "Dee Dee Sharp",
+          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
         }
       ],
-      "duration_ms": 231825,
-      "name": "Somebody Please (Stereo Mix 2019)",
-      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
+      "duration_ms": 168773,
+      "name": "I Really Love You",
+      "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Two Lovers",
-        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 170439,
-      "name": "Laughing Boy",
-      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Dreams Of Contentment (Special Deluxe Collection)",
         "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 176493,
       "name": "Oh What A Nite",
       "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Two Lovers",
+        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 170439,
+      "name": "Laughing Boy",
+      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Looking Back 1961-1964",
-        "url": "https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "What Love Has Joined Together - Single Version",
-      "url": "https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Talk to Me",
         "url": "https://open.spotify.com/album/58KDtRZBc0rtcIAMamtrnT"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 167400,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/5JHwqC86I4RA1cPEBEJRDz"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Looking Back 1961-1964",
+        "url": "https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "What Love Has Joined Together - Single Version",
+      "url": "https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Super Slow Jams Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/6oW2SrZ4ZQHby7KOxiPa5i"
-      },
-      "artists": [
-        {
-          "name": "Sly, Slick & Wicked",
-          "url": "https://open.spotify.com/artist/1OXS79e5AMBp2DKWcCbOUp"
-        }
-      ],
-      "duration_ms": 414333,
-      "name": "Confessin a Feeling",
-      "url": "https://open.spotify.com/track/07UmYkMtFFDzvAaEHrmpis"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Smash Hits Of '62",
         "url": "https://open.spotify.com/album/1SGTPYNrkXswEcQTuuVQKh"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 143546,
       "name": "The One Who Really Loves You - Album Version / Mono",
       "url": "https://open.spotify.com/track/3NmHNVe0vfbkmD6a8OlxEr"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Super Slow Jams Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/6oW2SrZ4ZQHby7KOxiPa5i"
+      },
+      "artists": [
+        {
+          "name": "Sly, Slick & Wicked",
+          "url": "https://open.spotify.com/artist/1OXS79e5AMBp2DKWcCbOUp"
+        }
+      ],
+      "duration_ms": 414333,
+      "name": "Confessin a Feeling",
+      "url": "https://open.spotify.com/track/07UmYkMtFFDzvAaEHrmpis"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "Between The Sheets",
+        "url": "https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 338133,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Float On",
         "url": "https://open.spotify.com/album/3myYvqFdL0jHBzO97TFJuH"
       },
@@ -2403,22 +2419,6 @@
       "duration_ms": 163813,
       "name": "Earth Angel - Stereo",
       "url": "https://open.spotify.com/track/7DSnCTcHoQPfCbaaQuyhhP"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Between The Sheets",
-        "url": "https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 338133,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX"
     },
     {
       "added_at": "2025-05-23 07:54:59",

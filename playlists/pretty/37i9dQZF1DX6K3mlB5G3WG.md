@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Ditonellapiaga in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,005 likes - 125 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,001 likes - 125 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 66 | [16 ANNI](https://open.spotify.com/track/1Wenaz8dPS0oMEkkCOXCFS) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [16 ANNI](https://open.spotify.com/album/5FrL7UoJGs5hHKLKE3BSze) | 2:15 |
 | 67 | [CAMBIARÉ](https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CAMBIARÉ](https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU) | 3:01 |
 | 68 | [Sexy For Me](https://open.spotify.com/track/6b9OaVk0TxWsHMH0OjWLMO) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [The Last Dance \(Part 1\)](https://open.spotify.com/album/4A8p57Z5KJmqigJJey7xrO) | 2:08 |
-| 69 | [Amore business](https://open.spotify.com/track/4T9g9ZASR56Q8w7TlZHstX) | [Beatrice Quinta](https://open.spotify.com/artist/3Jk1Qjo5P7yOQIBVkqUzet) | [Amore Business](https://open.spotify.com/album/65txRPk81RrlkP5SNaxE2Y) | 2:46 |
+| 69 | [Amore Business](https://open.spotify.com/track/4T9g9ZASR56Q8w7TlZHstX) | [Beatrice Quinta](https://open.spotify.com/artist/3Jk1Qjo5P7yOQIBVkqUzet) | [Amore Business](https://open.spotify.com/album/65txRPk81RrlkP5SNaxE2Y) | 2:46 |
 | 70 | [A Light That Waits](https://open.spotify.com/track/58gVmfPYnafwxolIaPPqDo) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/6KCQ2KCGBL9dByWTy4Qdh6) | 3:23 |
 | 71 | [Excuses For Love](https://open.spotify.com/track/41VCg3t4H2X5jDX6wRO36j) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Hyperlove](https://open.spotify.com/album/2h6YTeHoozQEaXrxMXcpBT) | 3:04 |
 | 72 | [Funeral](https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Funeral](https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm) | 4:03 |

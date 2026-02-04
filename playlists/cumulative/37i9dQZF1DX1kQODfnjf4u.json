@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: 13Many",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Mat213, Franta Pracha\u0159, Anna Mercedes",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -508,7 +508,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 192533,
       "name": "Body to body",
       "url": "https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE"
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 172000,
       "name": "FANCY",
       "url": "https://open.spotify.com/track/6RXu4x7xRO1CpJbHCjguET"
@@ -1977,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
       },
@@ -2064,7 +2082,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 153230,
       "name": "M\u011b Nedostanou",
       "url": "https://open.spotify.com/track/0OZ9KaHagV90vvlhNUYdh7"
@@ -2336,6 +2354,32 @@
       "duration_ms": 169811,
       "name": "NENI STRE$S",
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
+    },
+    {
+      "album": {
+        "name": "NEPO",
+        "url": "https://open.spotify.com/album/1HDyLGZFh5kyvZHV5JtIez"
+      },
+      "artists": [
+        {
+          "name": "Mat213",
+          "url": "https://open.spotify.com/artist/3VIkv3HNIvPNwdQIatB5Rx"
+        },
+        {
+          "name": "Franta Pracha\u0159",
+          "url": "https://open.spotify.com/artist/0nKDQIY2quMNZLKHGHXUGU"
+        },
+        {
+          "name": "Anna Mercedes",
+          "url": "https://open.spotify.com/artist/5pvi5tAogKLPvk9yBQxWTt"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "NEPO",
+      "url": "https://open.spotify.com/track/2nRBoOgeS2P8dO5ZUX1CyV"
     },
     {
       "album": {
@@ -3658,6 +3702,24 @@
       "duration_ms": 124186,
       "name": "Vandr",
       "url": "https://open.spotify.com/track/1xw2t2f0nqbSjHmMSb6ipY"
+    },
+    {
+      "album": {
+        "name": "Vlajka",
+        "url": "https://open.spotify.com/album/062oTWHWCeDsWvaXn5zuJ2"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129750,
+      "name": "Vlajka",
+      "url": "https://open.spotify.com/track/1dFkFkXOe5o9frpTi4vR17"
     },
     {
       "album": {

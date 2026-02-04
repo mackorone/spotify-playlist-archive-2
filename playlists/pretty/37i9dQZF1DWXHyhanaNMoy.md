@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Lil Kleine & Miloolaathetlukken
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,287 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,276 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lijntje](https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Lijntje](https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX) | 2:51 |
-| 2 | [Bare Minimum \(Starboy\)](https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Bare Minimum \(Starboy\)](https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j) | 2:26 |
-| 3 | [Nobody Body](https://open.spotify.com/track/0aLbuEhqwyLbnrGhXlsBki) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Nobody Body](https://open.spotify.com/album/437hMxL5ixi7nuWEls1ZRy) | 3:11 |
-| 4 | [HEFTIG MAN](https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [HEFTIG MAN](https://open.spotify.com/album/5ApqGTnAo2h1dLHPpHa8YY) | 2:25 |
-| 5 | [Go Down](https://open.spotify.com/track/0q7uVgjdJUZ49PTmu40Wsq) | [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Basta Lion](https://open.spotify.com/artist/0QhsKMpgJqVMX95TI4yvFE), [HOMEALONE](https://open.spotify.com/artist/5OwdJ7FeVm83YizFGLk9md) | [Go Down](https://open.spotify.com/album/61LQsxXF1knJIzNu4UNLjK) | 2:06 |
+| 2 | [Go Down](https://open.spotify.com/track/0q7uVgjdJUZ49PTmu40Wsq) | [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Basta Lion](https://open.spotify.com/artist/0QhsKMpgJqVMX95TI4yvFE), [HOMEALONE](https://open.spotify.com/artist/5OwdJ7FeVm83YizFGLk9md) | [Go Down](https://open.spotify.com/album/61LQsxXF1knJIzNu4UNLjK) | 2:06 |
+| 3 | [Bare Minimum \(Starboy\)](https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Bare Minimum \(Starboy\)](https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j) | 2:26 |
+| 4 | [Nobody Body](https://open.spotify.com/track/0aLbuEhqwyLbnrGhXlsBki) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Nobody Body](https://open.spotify.com/album/437hMxL5ixi7nuWEls1ZRy) | 3:11 |
+| 5 | [HEFTIG MAN](https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [HEFTIG MAN](https://open.spotify.com/album/5ApqGTnAo2h1dLHPpHa8YY) | 2:25 |
 | 6 | [LONDON](https://open.spotify.com/track/0i8xNA5Gpo9t50J6TeNXE7) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [LONDON](https://open.spotify.com/album/6nExdJHSEkx8AUo5ObaQf3) | 3:11 |
 | 7 | [Bella](https://open.spotify.com/track/06dSzmXW7o2j2ik8sg8fsE) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci) | [Bella](https://open.spotify.com/album/3BPr9LlezWLVq47htUccHp) | 2:23 |
 | 8 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 69 | [Awesome/Poolside](https://open.spotify.com/track/3nkZMDmPu43kkWNXkdaZ0W) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ) | [Sunflower](https://open.spotify.com/album/2uxqcqNZXfaAwU0iOBZMnq) | 2:45 |
 | 70 | [Chop Money](https://open.spotify.com/track/0roy3FevQ4MK3fsmP7AwYC) | [Figo Gang](https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Chop Money](https://open.spotify.com/album/11LYpSHcbzB9icd1LdQx07) | 2:49 |
 
-Snapshot ID: `AAAAAD5hNxJ5q1e5Kzvhffm4eR/dlupW`
+Snapshot ID: `AAAAAN7XgOi/kwVKZ19aJZ+G/7c1CMRL`

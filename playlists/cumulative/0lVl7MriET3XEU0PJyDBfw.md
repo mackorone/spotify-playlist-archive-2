@@ -4,7 +4,7 @@
 
 > House Music\. Period.
 
-908 songs - 2 day 0 hr 5 min
+910 songs - 2 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Celebrate](https://open.spotify.com/track/71TRHJxxUIWK0otGFSar5Y) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Celebrate](https://open.spotify.com/album/61rwhJ79PDCwzj42Xckbu5) | 3:37 | 2025-01-29 | 2025-04-06 |
 | [Certified](https://open.spotify.com/track/0IoD88QDxy5GPip9IzlzyI) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [Certified](https://open.spotify.com/album/5B20rR3NRmnSIRQm0d0zMz) | 3:36 | 2024-08-19 | 2024-09-05 |
 | [Cheap Thrills](https://open.spotify.com/track/1MFSuqSBKU0U8GsmXFPwm4) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Cheap Thrills](https://open.spotify.com/album/13HipGrp0IGY9gBMGwdLqb) | 3:37 | 2025-07-27 | 2025-10-05 |
+| [Chemistry \- Extended Mix](https://open.spotify.com/track/6ouoSmyW4mUgGUv3vDNMHz) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Equinøx](https://open.spotify.com/artist/5Pfc3lrQ5LtFXRcGhNs3cH) | [Truesoul Presents: 2025 \(Extended Mix\)](https://open.spotify.com/album/0rpGs30bVlyKlDbKieLei5) | 5:20 | 2026-02-03 |  |
 | [Chip Tune](https://open.spotify.com/track/5E1JuHlKiVVVUHLX6QMKFo) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Chip Tune](https://open.spotify.com/album/3feSyCPkqIHNhq3Cfo7dFh) | 2:53 | 2025-02-09 | 2025-04-20 |
 | [Choose Life](https://open.spotify.com/track/2OkOgmVzRjhph4kawX1MHF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Choose Life](https://open.spotify.com/album/2KzcNZkZJ7tbBMcizN3e5x) | 3:34 | 2025-04-27 | 2025-07-13 |
 | [Choose Violence](https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Choose Violence](https://open.spotify.com/album/368luZ7PPbXoBMuJmoKxrr) | 3:15 | 2025-03-16 | 2025-05-19 |
@@ -252,6 +253,7 @@
 | [Everybody's Got to Learn Sometime](https://open.spotify.com/track/50ixUxOy4WLhdcUITYOyXo) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Everybody's Got to Learn Sometime](https://open.spotify.com/album/5233HXvjmNEuh5bwyOkzlt) | 3:13 | 2024-09-27 | 2024-11-12 |
 | [Everyone’s Your Friend](https://open.spotify.com/track/19jUiyqdFejIPFxyNHgMoy) | [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [Everyone’s Your Friend](https://open.spotify.com/album/1CSIShfP9nNSJFXn84v1bz) | 2:32 | 2025-08-30 | 2025-10-07 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-12-31 | 2024-01-09 |
+| [Evil Twin](https://open.spotify.com/track/4c7V3mhbHfXNksK2JhOLsb) | [Front Row](https://open.spotify.com/artist/6NkYiKN8kMmwVNfk1nCLpp), [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS), [Ned Kelly](https://open.spotify.com/artist/5gYU9SSmuwP6miLWgOK8Ht) | [Evil Twin](https://open.spotify.com/album/1iPQCOAE9UGkc2kQFELnso) | 3:07 | 2026-02-03 |  |
 | [Eyes \- Extended Mix](https://open.spotify.com/track/0HPn99iZ03leVyrw3byv3s) | [Ufberg](https://open.spotify.com/artist/1FrmK4hWRiW2jMddzENLRR) | [Eyes](https://open.spotify.com/album/2Nfxmra0uqsFe7YncEvbYz) | 5:01 | 2025-05-18 | 2025-08-17 |
 | [Eyes On Me](https://open.spotify.com/track/3p4p8CUXlXF0LVbHbpfjgQ) | [RDGO](https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c) | [Eyes On Me](https://open.spotify.com/album/4cwhyVpGVDqVpHrWyWJzbG) | 2:35 | 2024-01-29 | 2024-06-24 |
 | [F\*CK THAT](https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [F\*CK THAT](https://open.spotify.com/album/5myUJEhXSJHBKL4SfZPdX9) | 3:11 | 2025-03-09 | 2025-05-11 |

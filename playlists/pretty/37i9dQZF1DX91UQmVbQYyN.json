@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: AURORA",
-  "num_followers": 625190,
+  "num_followers": 625236,
   "original_name": "Women of Indie",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": ":)",
-        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 180568,
-      "name": ":)",
-      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 353732,
       "name": "Movies",
       "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
+        "name": ":)",
+        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 180568,
+      "name": ":)",
+      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
+        "name": "I could",
+        "url": "https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "I could",
+      "url": "https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 182335,
       "name": "If I Get To Meet You",
       "url": "https://open.spotify.com/track/14rNxRzrnsyqDZ8PRfV1k3"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
-        "name": "I could",
-        "url": "https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "I could",
-      "url": "https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "Sharon Van Etten & The Attachment Theory",
-        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 300045,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/56nsBD9bmnuW7V5wHlyVCx"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
         "name": "i wanna be your right hand",
         "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky"
+        "name": "Sharon Van Etten & The Attachment Theory",
+        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 148326,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
+      "duration_ms": 300045,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/56nsBD9bmnuW7V5wHlyVCx"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 148326,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
         "name": "Animaru",
         "url": "https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
         "name": "MASSEDUCTION",
         "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 197426,
       "name": "Masseduction",
       "url": "https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS"
     }
   ],
   "unique_name": "Women of Indie",

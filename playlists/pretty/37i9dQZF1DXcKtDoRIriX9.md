@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,864 likes - 56 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,871 likes - 56 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 55 | [Air \- Chloé Remix](https://open.spotify.com/track/7FUg2UPYNd4cVXzcgSeuIF) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq), [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK), [Vassilena Serafimova](https://open.spotify.com/artist/6rwhb59UuFvOrgaUPvdEXv) | [Bach Mirror \(Extended Edition\)](https://open.spotify.com/album/09b7urkTsgBSxLvdgZrfha) | 4:25 |
 | 56 | [Volt District](https://open.spotify.com/track/2DTHOLnokgI0VeaTijKgpc) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Electro Chemical Mind](https://open.spotify.com/album/7rBzbXM2aD8veaxD0yXf1p) | 6:27 |
 
-Snapshot ID: `AAAAAF1MOxX3ejyug8gMEFBx/awm0nOI`
+Snapshot ID: `AAAAAGh/1dHldYNo/H13ZzYtLTdJWwqF`

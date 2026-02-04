@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD?si=rOsD9n\_bRimpuY4QfXxhyw"> Toxic Lyrikali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,018 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,034 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

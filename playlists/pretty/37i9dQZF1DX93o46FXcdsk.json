@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 49704,
+  "num_followers": 49711,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -627,18 +627,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "De Stilte Voorbij",
-        "url": "https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2"
+        "name": "Blijf Bij Mij",
+        "url": "https://open.spotify.com/album/0Mkh5WW9ANje9bRegoK3B5"
       },
       "artists": [
         {
-          "name": "Abel",
-          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        },
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
         }
       ],
-      "duration_ms": 189986,
-      "name": "Onderweg",
-      "url": "https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6"
+      "duration_ms": 241946,
+      "name": "Blijf Bij Mij",
+      "url": "https://open.spotify.com/track/0yIzbIUyiJnTkByb2ryhtv"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -659,22 +663,18 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Blijf Bij Mij",
-        "url": "https://open.spotify.com/album/0Mkh5WW9ANje9bRegoK3B5"
+        "name": "De Stilte Voorbij",
+        "url": "https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2"
       },
       "artists": [
         {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        },
-        {
-          "name": "Gerard Joling",
-          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
         }
       ],
-      "duration_ms": 241946,
-      "name": "Blijf Bij Mij",
-      "url": "https://open.spotify.com/track/0yIzbIUyiJnTkByb2ryhtv"
+      "duration_ms": 189986,
+      "name": "Onderweg",
+      "url": "https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6"
     },
     {
       "added_at": "2020-02-10 14:27:21",

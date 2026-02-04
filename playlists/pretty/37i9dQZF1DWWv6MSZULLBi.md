@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Luca Fogale
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,228 likes - 142 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,225 likes - 142 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

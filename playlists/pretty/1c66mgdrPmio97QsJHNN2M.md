@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,959 likes - 248 songs - 13 hr 49 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,966 likes - 259 songs - 14 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -256,5 +256,16 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 246 | [Four Nights](https://open.spotify.com/track/3NcYCFuJXhTfL6CxzP8ZQG) | [Heliotropio](https://open.spotify.com/artist/7iRtyr64XKlK7EIEPdODYw) | [Four nights](https://open.spotify.com/album/3Xz79IVdUqhgb80MXlvXDX) | 5:10 |
 | 247 | [Fast Cars, Slow Sundays](https://open.spotify.com/track/6QyfVoio2Z9jCJ6pMSCq1l) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Fast Cars, Slow Sundays](https://open.spotify.com/album/02zs50q2oHG5KjMhbGR7fl) | 3:07 |
 | 248 | [Heads They Win, Tails You Lose](https://open.spotify.com/track/4MpSdS7jrDQBUkRYY1b2xY) | [Metal Fog](https://open.spotify.com/artist/1zx9gh6Cn7VJ9YaWc4sCH2) | [Heads They Win, Tails You Lose](https://open.spotify.com/album/6Bs8TFZaEQflRKJpsmtQIn) | 6:04 |
+| 249 | [Love Through Time](https://open.spotify.com/track/4xqyGcVKVNa6TbpUKu7kge) | [RawGrow](https://open.spotify.com/artist/5Q0kT0kscaMSJ56bRv1VAF) | [Love Through Time](https://open.spotify.com/album/5svHFSRUjCTuOEBNKOZ8f4) | 3:29 |
+| 250 | [searching](https://open.spotify.com/track/6uRsYM7aOQc1JCrD0SoErT) | [Summeroa](https://open.spotify.com/artist/4euB35OkEHEvPLi0TKdGEt), [junesflowers](https://open.spotify.com/artist/71DjMxbUi5J9j5M4bLJtoy), [Quin Kokotas](https://open.spotify.com/artist/2MewjSG5fShMFEKWXUzmgQ) | [searching](https://open.spotify.com/album/66GwuYH8UCIbq976JPIAx5) | 2:06 |
+| 251 | [Ten Years Later](https://open.spotify.com/track/14JWcVFEn5m7HlDPQP78d5) | [Lexand](https://open.spotify.com/artist/55PCKX3UrrK7LIgR1eOYB7) | [Ten Years Later](https://open.spotify.com/album/5OOKfUwlsTDh6AnYSMx5i2) | 2:34 |
+| 252 | [Superfly](https://open.spotify.com/track/23kuIeQMEAQU0fceESy4As) | [Guzper](https://open.spotify.com/artist/3uNTaOyHiRGuTRtjMpqoeF), [Aurelia](https://open.spotify.com/artist/5e0skSJzbasPikB9dk4WSy) | [Superfly](https://open.spotify.com/album/2cX9hw9umugLYbkqcRk2bY) | 3:21 |
+| 253 | [Ich gegen mich](https://open.spotify.com/track/3wv5HK5JD0P36E3VKrbEKH) | [Srila](https://open.spotify.com/artist/7CJ9BUJHlOGUjp1RkpOVLl) | [Ich gegen mich](https://open.spotify.com/album/7J8ZnD0YaEronkMWTtrjn7) | 3:02 |
+| 254 | [Digital Affair](https://open.spotify.com/track/4gHK00oTFiQVKTIDyl60wN) | [Electric Monday](https://open.spotify.com/artist/6eXClfddZLIoxMJe7gQpt1) | [Digital Affair](https://open.spotify.com/album/6ZTREV9kNhhvhjhFY8BMRz) | 3:08 |
+| 255 | [Body](https://open.spotify.com/track/62IKx3R9stwBimFMDRAkGn) | [Blake Schmitz](https://open.spotify.com/artist/6C5UsZ26MzmcbxIZM6geL4) | [Body](https://open.spotify.com/album/53N1pCCbbS3vCiZ3pXkKPa) | 2:27 |
+| 256 | [Good Looking Boys](https://open.spotify.com/track/6LqHfSXXu7vHHR0n2ZwbTs) | [Maciek Maciek](https://open.spotify.com/artist/1ojrPkDGIcOqsLXAyBTz2d) | [Good Looking Boys](https://open.spotify.com/album/3dzFhxpAe1Ycwlj7szVAU5) | 2:08 |
+| 257 | [James](https://open.spotify.com/track/27auLUTUz5zzFjkuffOEAN) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [James](https://open.spotify.com/album/03LbkbBHfZ90TWp9uUXl3R) | 2:25 |
+| 258 | [Wires or Vines](https://open.spotify.com/track/0jWQZIM76N5ZRDcZfvNvEz) | [Zerofuturism](https://open.spotify.com/artist/3oqi1ZyC6VVTzORLojLRiy) | [Soundgarden II](https://open.spotify.com/album/2SP3YOEI5q4dEdoRFnPcYA) | 9:30 |
+| 259 | [Just Us Two \- Radio Edit](https://open.spotify.com/track/6un2VVHBZn5g1JeUaBeKBk) | [Riot Hype](https://open.spotify.com/artist/6AkTxR6fyVtmtsXJ6IBMeK) | [Just Us Two \(Radio Edit\)](https://open.spotify.com/album/56OA0rwvbjzqGPflLcijPl) | 3:48 |
 
-Snapshot ID: `AAA0KNW/MEta7WZG71GTwwb8QtyYObzY`
+Snapshot ID: `AAA0M1F9preYR19Awj52V4TLzr1uALYc`

@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 86715,
+  "num_followers": 86724,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAAC+CnZeWBDpuoKovLr0uD2A",
+  "snapshot_id": "aX/pAAAAAAB/a70TLeOsd6Z8nCnPXdSK",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Going Nowhere",
-      "url": "https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId"
+      "duration_ms": 137800,
+      "name": "Whatever (Folk Song in C)",
+      "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 137800,
-      "name": "Whatever (Folk Song in C)",
-      "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
+      "duration_ms": 231560,
+      "name": "Going Nowhere",
+      "url": "https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId"
     },
     {
       "added_at": null,

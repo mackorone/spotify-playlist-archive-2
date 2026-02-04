@@ -12237,6 +12237,24 @@
     },
     {
       "album": {
+        "name": "EXTRA",
+        "url": "https://open.spotify.com/album/13FMnv9Aie8twSGQjAKcnb"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "EXTRA",
+      "url": "https://open.spotify.com/track/0qNG7Xho5AxpHQGTYz2AY3"
+    },
+    {
+      "album": {
         "name": "Guld & gr\u00f6na skogar",
         "url": "https://open.spotify.com/album/6dB6m1XuheaQyBg2BKwcNn"
       },

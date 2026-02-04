@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 15774,
+  "num_followers": 15786,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAAATpGvoNJLost7h+beCum+4",
+  "snapshot_id": "aX/pAAAAAAC94iP7Ge+3ujLjLPjlWpxX",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Sunday School",
+      "url": "https://open.spotify.com/track/0wpQP0UhO1KkvAIB0jYlT5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Symbol of Hope",
         "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 153560,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/1agUOP9cocY7h4gY9t1tYh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Sunday School",
-      "url": "https://open.spotify.com/track/0wpQP0UhO1KkvAIB0jYlT5"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+        }
+      ],
+      "duration_ms": 158833,
+      "name": "Pier 46",
+      "url": "https://open.spotify.com/track/6EUg3wVnfrqwDzOqLFWovl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Milli II (feat Jungeli & Victony)",
         "url": "https://open.spotify.com/album/3c7Kdj6zgDkzKfCsBs0YzN"
       },
@@ -727,22 +747,6 @@
       "duration_ms": 182276,
       "name": "Milli II (feat Jungeli & Victony)",
       "url": "https://open.spotify.com/track/7IV54IDpMOJ3N0yta5VJx9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Ba$Tard, Don't Be Silly",
-      "url": "https://open.spotify.com/track/2gf8dPfeIdXHqugQvfaCf3"
     },
     {
       "added_at": null,
@@ -859,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypertension",
-        "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 168504,
-      "name": "No Other",
-      "url": "https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selema (Po Po) [Remix]",
         "url": "https://open.spotify.com/album/4i88bfyHm8i2rgepa4kcrp"
       },
@@ -899,6 +883,26 @@
       "duration_ms": 331349,
       "name": "Selema (Po Po) - Remix",
       "url": "https://open.spotify.com/track/4etb2MbOkYa90Rvf08kMVf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hypertension",
+        "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 168504,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv"
     },
     {
       "added_at": null,

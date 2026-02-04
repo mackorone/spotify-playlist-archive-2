@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "BONBON",
+        "url": "https://open.spotify.com/album/7bzRjNW2OX8KaHbUD17rTM"
+      },
+      "artists": [
+        {
+          "name": "Loun",
+          "url": "https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "BONBON",
+      "url": "https://open.spotify.com/track/7MUp0Ou3sUGc7g2oVOwgjn"
+    },
+    {
+      "album": {
         "name": "Bondagani",
         "url": "https://open.spotify.com/album/3Wy4j63JGo378KN31SdPgb"
       },
@@ -6646,7 +6664,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 139636,
       "name": "quaresma",
       "url": "https://open.spotify.com/track/2ZndzyEbUyyiAf9vqODjAv"
@@ -8317,6 +8335,24 @@
     },
     {
       "album": {
+        "name": "Trop tard",
+        "url": "https://open.spotify.com/album/49Mmv9BwGV57MtMVmWrApw"
+      },
+      "artists": [
+        {
+          "name": "Nezar",
+          "url": "https://open.spotify.com/artist/3sUn8nsotkqOARVLiqofNu"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178235,
+      "name": "Trop tard",
+      "url": "https://open.spotify.com/track/1IAZPiKUsXLK7NT9RUrXrR"
+    },
+    {
+      "album": {
         "name": "Tsali Hna",
         "url": "https://open.spotify.com/album/2cHLj5YOFFqZ0hi0pKslPt"
       },
@@ -8480,7 +8516,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 210265,
       "name": "Uzi",
       "url": "https://open.spotify.com/track/6FErwXfXiw17nstW4jB3Iq"

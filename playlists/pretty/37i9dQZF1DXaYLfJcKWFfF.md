@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Babble Hume
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,302 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,314 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 18 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
 | 19 | [nothing but air](https://open.spotify.com/track/0mgZnJzLIMsRL0di2TrPiM) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [nothing but air](https://open.spotify.com/album/3sppZ5tEw0ztbiD9jLIRtM) | 3:52 |
 | 20 | [Panic Island](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 |
-| 21 | [In My Heart \(The Rent is Free\)](https://open.spotify.com/track/51dLHrDvojeebhJQglTEpe) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/5H1A6BJ9XyBMD3OgWzsfiB) | 4:33 |
+| 21 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
 | 22 | [Sugar Rush \(Known Stranger Remix\)](https://open.spotify.com/track/2Fd89VLZHCfbWrW9ypgxbg) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549), [Known Stranger](https://open.spotify.com/artist/4Vh0tmi9CRcWj1mqvFqb8G) | [Sugar Rush \(Known Stranger Remix\)](https://open.spotify.com/album/4JlRNNuUdKGGy1IW6QoG70) | 3:22 |
-| 23 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
-| 24 | [Faya](https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Faya](https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk) | 3:56 |
+| 23 | [Faya](https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Faya](https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk) | 3:56 |
+| 24 | [In My Heart \(The Rent is Free\)](https://open.spotify.com/track/51dLHrDvojeebhJQglTEpe) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/5H1A6BJ9XyBMD3OgWzsfiB) | 4:33 |
 | 25 | [mood\~](https://open.spotify.com/track/0SEZkVlCxeBnDIf1attnNj) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [you're the last thing on my mind](https://open.spotify.com/album/1oyHVYuY8ulvQRoW9d3lZ7) | 2:01 |
 | 26 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |
 | 27 | [OKAY!](https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [OKAY!](https://open.spotify.com/album/329L2mns4w0MAQTmxg00v8) | 2:57 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 53 | [take it & leave](https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [take it & leave](https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc) | 4:08 |
 | 54 | [Salty Chips](https://open.spotify.com/track/4jveq3HIgawbJsjjvNQA2A) | [Juney Luv](https://open.spotify.com/artist/1iBaEWkXNbRPVQDaSdXvhI) | [Salty Chips](https://open.spotify.com/album/4DTFPl5XlUy5rZDOgUCll1) | 2:28 |
 | 55 | [Goodbyes](https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT) | 3:38 |
-| 56 | [My Hide & Seek](https://open.spotify.com/track/62Tq7Z6jCYfUBp19eaHhFI) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [My Hide & Seek](https://open.spotify.com/album/3Qr51I7jQ14yMwRYrb58rg) | 3:37 |
+| 56 | [something new](https://open.spotify.com/track/15UK95JS3f9VvW3raRHADk) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [something new](https://open.spotify.com/album/5KG7J4OfVqAnxqO830MFZ0) | 2:05 |
 | 57 | [The Coffee Song](https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [The Coffee Song](https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN) | 2:21 |
-| 58 | [Broda Kevwe](https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Detox](https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z) | 4:12 |
-| 59 | [something new](https://open.spotify.com/track/15UK95JS3f9VvW3raRHADk) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [something new](https://open.spotify.com/album/5KG7J4OfVqAnxqO830MFZ0) | 2:05 |
+| 58 | [My Hide & Seek](https://open.spotify.com/track/62Tq7Z6jCYfUBp19eaHhFI) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [My Hide & Seek](https://open.spotify.com/album/3Qr51I7jQ14yMwRYrb58rg) | 3:37 |
+| 59 | [Broda Kevwe](https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Detox](https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z) | 4:12 |
 | 60 | [LAGOS](https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [LAGOS](https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn) | 3:00 |
 | 61 | [If I'm Honest](https://open.spotify.com/track/0tD9T9R7BiDk2kCTfQhhBm) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [If I'm Honest](https://open.spotify.com/album/0Ip4W5tgCDkTWkBJnDH41q) | 2:48 |
 | 62 | [Sunwalker \- Remastered](https://open.spotify.com/track/5gn1dFn9chomYpLPsy22QY) | [Card On Spokes](https://open.spotify.com/artist/0U3iJFP70s9Z8cswLdiCIv), [Bonj](https://open.spotify.com/artist/69SzBlSnGFv8Fuz8JHBHfT) | [Sunwalker \(Remastered\)](https://open.spotify.com/album/2qJDjhMZXviVzxKSA4o1cS) | 4:41 |

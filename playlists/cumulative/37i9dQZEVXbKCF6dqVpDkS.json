@@ -11680,7 +11680,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -20807,6 +20807,36 @@
     },
     {
       "album": {
+        "name": "New Wave",
+        "url": "https://open.spotify.com/album/11YiKYULtpVKbNGdpKjaj0"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177339,
+      "name": "Investeren In De Liefde",
+      "url": "https://open.spotify.com/track/2wLap85rkCeiacx6QhXdF7"
+    },
+    {
+      "album": {
         "name": "Stay with You",
         "url": "https://open.spotify.com/album/7ttozw5DWCdQaqfzCMevPc"
       },
@@ -21220,7 +21250,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 148571,
       "name": "Januari",
       "url": "https://open.spotify.com/track/6bEUzaKcHiKH5B9L1eH9Rc"
@@ -21362,6 +21392,24 @@
       "duration_ms": 173629,
       "name": "Je Wilde Alleen Maar Prada",
       "url": "https://open.spotify.com/track/2YIsKRTXxzQXnwkabiUjf9"
+    },
+    {
+      "album": {
+        "name": "New Wave",
+        "url": "https://open.spotify.com/album/11YiKYULtpVKbNGdpKjaj0"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179011,
+      "name": "Jij Kan Chillen Met Mij",
+      "url": "https://open.spotify.com/track/22qdIrcPpOrZV04MLaGUrp"
     },
     {
       "album": {
@@ -24588,7 +24636,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -28222,7 +28270,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
@@ -30248,7 +30296,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -45564,7 +45612,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 154062,
       "name": "ZAAZAA",
       "url": "https://open.spotify.com/track/0hVWE4YILwwpN4F1P9nxva"

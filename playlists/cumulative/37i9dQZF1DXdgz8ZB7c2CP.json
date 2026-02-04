@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>. Featuring Kenta204.",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \u2728 featuring Kenta204",
   "name": "creamy",
   "tracks": [
     {
@@ -7547,6 +7547,24 @@
     },
     {
       "album": {
+        "name": "Vandal EP",
+        "url": "https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX"
+      },
+      "artists": [
+        {
+          "name": "MARTHA",
+          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262298,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/14IGqM6Pyekb2rG5me83kS"
+    },
+    {
+      "album": {
         "name": "Figure This Out (feat. San Holo)",
         "url": "https://open.spotify.com/album/6ilPiCiw8i9y3szG0fAvQN"
       },
@@ -8020,6 +8038,24 @@
       "duration_ms": 201000,
       "name": "Foghorn Dance",
       "url": "https://open.spotify.com/track/5BOAsW3gREQNn9KQFLxziL"
+    },
+    {
+      "album": {
+        "name": "The Nightmare",
+        "url": "https://open.spotify.com/album/3OrloT39YEeutOFc0thors"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/6sORyYbJvcELvbR9qIpsOH"
     },
     {
       "album": {
@@ -14784,7 +14820,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 179076,
       "name": "MOONBEAM",
       "url": "https://open.spotify.com/track/30Irgh4fNw6HZ1iybA8H0R"
@@ -17100,7 +17136,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 161586,
       "name": "pressure",
       "url": "https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb"
@@ -21147,6 +21183,28 @@
     },
     {
       "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/63rJsCyiamPWx9GoA7lpGJ"
+      },
+      "artists": [
+        {
+          "name": "HIFEELINGS",
+          "url": "https://open.spotify.com/artist/4jGVWGtlgC4jbbE0H4hLQg"
+        },
+        {
+          "name": "Wossjo",
+          "url": "https://open.spotify.com/artist/5CBv2a7eEhR5u7g4v95sgH"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/4tEqzZgjRMT7HSoIAUCynd"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2sxjxlfl64UgJP7i9HRbbZ"
       },
@@ -24119,6 +24177,24 @@
     },
     {
       "album": {
+        "name": "Vandal EP",
+        "url": "https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX"
+      },
+      "artists": [
+        {
+          "name": "MARTHA",
+          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245273,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"
+    },
+    {
+      "album": {
         "name": "Vanish",
         "url": "https://open.spotify.com/album/4zHlnYWeHDfLja3Vsef3av"
       },
@@ -25428,7 +25504,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 147000,
       "name": "WHAT YOU RUNNING FROM",
       "url": "https://open.spotify.com/track/0HRIt7wfVPpKIvtl5IcEKg"
@@ -26368,7 +26444,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 182189,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/2crEwjCQ4DMwvKEjIDslkj"

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,509 songs - 3 day 6 hr 29 min
+1,510 songs - 3 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-10-02 | 2022-01-22 |
 | [Bored](https://open.spotify.com/track/6aIfPfQrAmgLnZOutU247J) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Bored](https://open.spotify.com/album/3yZNHcx9NsFD7CCv2KwpXa) | 2:39 | 2021-03-27 | 2021-06-05 |
 | [bored&blind](https://open.spotify.com/track/5aNWkMWnXjJGMTj16ikdRd) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [bored&blind](https://open.spotify.com/album/5VSnAIWBRl8sHSoDlZOiC6) | 3:41 | 2021-03-06 | 2021-06-05 |
+| [born again](https://open.spotify.com/track/0kmvfRC2gEKen8EE8D5AcN) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [born again](https://open.spotify.com/album/1bkadmlLyocUpGNSSYbkC5) | 1:56 | 2026-01-30 |  |
 | [Born With A Broken Heart](https://open.spotify.com/track/3quB6M8hbdv8pBPQfNINjb) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Born With A Broken Heart](https://open.spotify.com/album/65d2MQ4LBrpWBwK6GdYWus) | 3:50 | 2021-10-30 | 2021-12-11 |
 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/7fjNxhYa8qXGhrrJhY3hZL) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Bound \(with Blood Orange\)](https://open.spotify.com/album/1j3PtWvJUNpsU6tYkjD3FX) | 3:40 | 2021-10-23 | 2022-02-19 |
 | [Boy In A Billion](https://open.spotify.com/track/6DMWwt5XEJKlWYhw2EK76h) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Boy In A Billion](https://open.spotify.com/album/4V32yx2U7pEJpTjcpaRRI0) | 3:27 | 2021-07-04 | 2021-07-10 |

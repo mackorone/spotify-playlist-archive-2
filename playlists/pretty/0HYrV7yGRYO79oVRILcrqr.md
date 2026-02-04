@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,687 likes - 120 songs - 7 hr 40 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,688 likes - 121 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,5 +128,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 118 | [GIVE ME A LITTLE SOMETHING](https://open.spotify.com/track/31g6LI5FcZIg8qtwJu9adO) | [Whiskey South](https://open.spotify.com/artist/3FW9jdn2u4rDfo73WkfLsk) | [GIVE ME A LITTLE SOMETHING](https://open.spotify.com/album/3EQVs1LxN2BAc1rSHHp9iB) | 2:49 |
 | 119 | [Make Love](https://open.spotify.com/track/3ijoP1G48nhRcBY2QB2y4o) | [CLARASCHEIN](https://open.spotify.com/artist/3G6VR0fzmyjvNSxZx6480w), [Vittorio Longobardi](https://open.spotify.com/artist/06qOVeNb3n8mq1UhbWG3TE) | [Make Love](https://open.spotify.com/album/0kJwIehJg21K07TgHVzCcS) | 2:37 |
 | 120 | [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 |
+| 121 | [EL CONGELADOR](https://open.spotify.com/track/1Lnuym6raYt4j61Lqlb6qE) | [VicenticoMusic](https://open.spotify.com/artist/3ejOmbwBSMeVpvtt29yr3K) | [EL CONGELADOR](https://open.spotify.com/album/1sq0bzeQMr8etlaCrXa8pQ) | 3:56 |
 
-Snapshot ID: `AAAKimZvkG3U3PP6l9Bo6N0PFVu8sl80`
+Snapshot ID: `AAAKi92iCk9chd5cHl0OdYXglBedce6S`

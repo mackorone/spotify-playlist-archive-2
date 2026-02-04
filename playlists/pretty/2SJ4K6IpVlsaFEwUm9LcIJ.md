@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,878 likes - 46 songs - 3 hr 2 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,887 likes - 47 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 44 | [Stay Close To Me](https://open.spotify.com/track/7pWym8pTfolrPCsb7eFPqc) | [Ted Hawkins](https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU) | [Watch Your Step](https://open.spotify.com/album/3XnHTwogsnLUFhC7nZ983d) | 3:15 |
 | 45 | [Tandem Jump](https://open.spotify.com/track/328C68l9DNlBQgU8VtRahY) | [Jonathan Richman](https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5) | [I, Jonathan](https://open.spotify.com/album/2RtcqYl0VAhDw9DPMEqWF5) | 2:14 |
 | 46 | [Our Love](https://open.spotify.com/track/6t4ihYlGLq3qp6VlBfYaT2) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Grace & Danger](https://open.spotify.com/album/05FPn66m4Ry59KRrKFCg3Q) | 3:57 |
+| 47 | [The Golden Flower](https://open.spotify.com/track/5DIft0NqGBXTy3myTZ3VoF) | [The Apples In Stereo](https://open.spotify.com/artist/5KIrQe9pb7tn8y775PsoAP) | [Electronic Projects for Musicians](https://open.spotify.com/album/6aPzHrtvdApqzp2EUNhp9N) | 3:05 |
 
-Snapshot ID: `AAAN2v/kxiMaOsKlLiEddfVSBj3nmXIE`
+Snapshot ID: `AAAN26EHHeJVU3LOta299MKwmpa7tD59`

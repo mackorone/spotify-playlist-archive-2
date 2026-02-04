@@ -1,13 +1,29 @@
 {
   "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Bahamas",
-  "num_followers": 8400,
+  "num_followers": 8399,
   "original_name": "Chill Indie Music",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAcMHNLwebK0Q58PT9VXuIYEK38it2B",
+  "snapshot_id": "AAAcMk6ADNpl2/PAz/CAtLFz0ckB1g+M",
   "tracks": [
+    {
+      "added_at": "2026-02-03 18:14:05",
+      "album": {
+        "name": "Not Around Anymore",
+        "url": "https://open.spotify.com/album/42FFfnhcdCPEz4cvpfORSl"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Not Around Anymore",
+      "url": "https://open.spotify.com/track/1kPZab1lC7DztnzVSgQ9VX"
+    },
     {
       "added_at": "2026-02-02 19:31:11",
       "album": {

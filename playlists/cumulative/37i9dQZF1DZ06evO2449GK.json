@@ -106,10 +106,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 234000,
       "name": "Aranjuez",
       "url": "https://open.spotify.com/track/6lJNdg9MAxvyvcGQU4mg4L"
+    },
+    {
+      "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Aranjuez",
+      "url": "https://open.spotify.com/track/6p7AcEaN1Dy3Pjo4SJdzMM"
     },
     {
       "album": {

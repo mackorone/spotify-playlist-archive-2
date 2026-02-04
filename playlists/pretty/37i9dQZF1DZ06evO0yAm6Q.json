@@ -1,12 +1,12 @@
 {
   "description": "This is PJ Harvey. The essential tracks, all in one playlist.",
-  "num_followers": 51676,
+  "num_followers": 51680,
   "original_name": "This Is PJ Harvey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAAATttMkGrjSdFIYuPNF8VhJ",
+  "snapshot_id": "aX/pAAAAAACGaqbmJ7QCP+wQvNwO3NmF",
   "tracks": [
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Chalk",
-        "url": "https://open.spotify.com/album/4IeJySFMS6reB6BeYzMp5j"
+        "name": "To Bring You My Love",
+        "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 142400,
-      "name": "When Under Ether",
-      "url": "https://open.spotify.com/track/6T74sWvcHvSAO5prlk5dDw"
+      "duration_ms": 331600,
+      "name": "To Bring You My Love",
+      "url": "https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5"
     },
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Bring You My Love",
-        "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
+        "name": "White Chalk",
+        "url": "https://open.spotify.com/album/4IeJySFMS6reB6BeYzMp5j"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 331600,
-      "name": "To Bring You My Love",
-      "url": "https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5"
+      "duration_ms": 142400,
+      "name": "When Under Ether",
+      "url": "https://open.spotify.com/track/6T74sWvcHvSAO5prlk5dDw"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 225840,
-      "name": "The Words That Maketh Murder",
-      "url": "https://open.spotify.com/track/64EePXuDYpMZMvaTT7k8vi"
+      "duration_ms": 179546,
+      "name": "In The Dark Places",
+      "url": "https://open.spotify.com/track/0fAoPbcLqVYS11D3Eds7J7"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 179546,
-      "name": "In The Dark Places",
-      "url": "https://open.spotify.com/track/0fAoPbcLqVYS11D3Eds7J7"
+      "duration_ms": 225840,
+      "name": "The Words That Maketh Murder",
+      "url": "https://open.spotify.com/track/64EePXuDYpMZMvaTT7k8vi"
     },
     {
       "added_at": null,

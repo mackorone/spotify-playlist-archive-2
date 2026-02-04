@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 566 songs - 1 day 11 hr 48 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 565 songs - 1 day 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -565,14 +565,13 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 555 | [Mercy Mercy Me \(The Ecology\) \- You Only Live Once B\-Side](https://open.spotify.com/track/49jMdoagrgo0PUc6DkVaZV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [You Only Live Once/Mercy Mercy Me](https://open.spotify.com/album/7jbQIpfQZTVBn8J7FzMyaF) | 2:37 |
 | 556 | [Soma](https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 2:33 |
 | 557 | [Reach](https://open.spotify.com/track/1xUwUFgcNIN5PjroCkkOol) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Kill The Lights](https://open.spotify.com/album/07YRYrOVpy3S6kTnd3A2zO) | 2:55 |
-| 558 | [Oscillate Wildly \- 2011 Remaster](https://open.spotify.com/track/5v98XLkj6tkKy0D06umqDe) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 3:28 |
-| 559 | [I Still Remember](https://open.spotify.com/track/4pN5iBtBAjDzxtXum40oNj) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:21 |
-| 560 | [Saturnine](https://open.spotify.com/track/5GGP2S487OmXSQ8Vp2sJHb) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Curve Of The Earth](https://open.spotify.com/album/5gdWHfwu68jqPbxXxMDyL6) | 6:21 |
-| 561 | [Little Thoughts](https://open.spotify.com/track/6col06dC7iossljlQQ1Xx2) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:27 |
-| 562 | [King of Carrot Flowers Pt\. 1](https://open.spotify.com/track/5CU1bbfY1wUPm7fU255Dhf) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 2:00 |
-| 563 | [Posthumous Forgiveness](https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:06 |
-| 564 | [Death of a Disco Dancer \- 2011 Remaster](https://open.spotify.com/track/1Nov3Bi6sKCDnnuhjPJTCY) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 5:26 |
-| 565 | [Need](https://open.spotify.com/track/1CUAF34ktaB7s4DMJhO0qB) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [C'est la Vie](https://open.spotify.com/album/6Dms2f0cxv9GB5qh2q607A) | 3:27 |
-| 566 | [A Baby for Pree](https://open.spotify.com/track/7jsB8ovYSc43dWSDFRrpku) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 1:21 |
+| 558 | [I Still Remember](https://open.spotify.com/track/4pN5iBtBAjDzxtXum40oNj) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:21 |
+| 559 | [Saturnine](https://open.spotify.com/track/5GGP2S487OmXSQ8Vp2sJHb) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Curve Of The Earth](https://open.spotify.com/album/5gdWHfwu68jqPbxXxMDyL6) | 6:21 |
+| 560 | [Little Thoughts](https://open.spotify.com/track/6col06dC7iossljlQQ1Xx2) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:27 |
+| 561 | [King of Carrot Flowers Pt\. 1](https://open.spotify.com/track/5CU1bbfY1wUPm7fU255Dhf) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 2:00 |
+| 562 | [Posthumous Forgiveness](https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:06 |
+| 563 | [Death of a Disco Dancer \- 2011 Remaster](https://open.spotify.com/track/1Nov3Bi6sKCDnnuhjPJTCY) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 5:26 |
+| 564 | [Need](https://open.spotify.com/track/1CUAF34ktaB7s4DMJhO0qB) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [C'est la Vie](https://open.spotify.com/album/6Dms2f0cxv9GB5qh2q607A) | 3:27 |
+| 565 | [A Baby for Pree](https://open.spotify.com/track/7jsB8ovYSc43dWSDFRrpku) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 1:21 |
 
-Snapshot ID: `AAAagYdQoLlZdoLl8pJCym8NSV+7E+SN`
+Snapshot ID: `AAAagvd3r1hLr415af+9IH+uLTcsL0s5`

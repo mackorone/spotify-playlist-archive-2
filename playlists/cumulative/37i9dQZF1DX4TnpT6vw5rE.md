@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-401 songs - 22 hr 16 min
+402 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [long lost](https://open.spotify.com/track/7L2ofInqnrSisKJxVPGE6K) | [eternal](https://open.spotify.com/artist/4wGMrwZjdj39HPuCm3Ui6U) | [long lost](https://open.spotify.com/album/2gQ3teUEg1TVZVubUji8Bn) | 2:08 | 2025-07-15 |  |
 | [Looking at the Stars](https://open.spotify.com/track/0oEsb9pPuLAa1pUagDv4BH) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Beauty and Truth](https://open.spotify.com/album/4ZczqJuCVIdZ2JOWDbR5Ie) | 3:13 | 2020-12-08\* | 2021-07-15 |
 | [Lost In Thought](https://open.spotify.com/track/0BSJ1iQEmGibLCPMHGtdo7) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 6:16 | 2020-12-08\* | 2021-05-27 |
-| [Lotus Blume](https://open.spotify.com/track/2XGO8m5DqJVMF80D4SxiXE) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Lotus Blume](https://open.spotify.com/album/4ZTUFGj3sOMUG2Feb4MIcy) | 3:12 | 2022-09-13 |  |
+| [Lotus Blume](https://open.spotify.com/track/2XGO8m5DqJVMF80D4SxiXE) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Lotus Blume](https://open.spotify.com/album/4ZTUFGj3sOMUG2Feb4MIcy) | 3:12 | 2022-09-13 | 2026-02-04 |
 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 | 2021-10-28 | 2025-09-04 |
 | [Lätt](https://open.spotify.com/track/22uuXDOeqbH5auwVCX0yL3) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Lätt](https://open.spotify.com/album/6x0JCRqBVdm68Mt7dAk1cf) | 2:10 | 2022-07-15 | 2025-10-02 |
 | [Magnificent](https://open.spotify.com/track/1ALMjj7yJFnVgnUV5494JQ) | [The Bay Man](https://open.spotify.com/artist/4XUwkDFoOHIN6YnWBxE5Om) | [Magnificent](https://open.spotify.com/album/5zl8JcdBS1PQfinEkgmQIS) | 2:53 | 2021-06-16 | 2025-01-15 |
@@ -344,6 +344,7 @@
 | [Summarizing Sunrises](https://open.spotify.com/track/4RPxFFNwl0awElXJIRnxSQ) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Summarizing Sunrises](https://open.spotify.com/album/4ZEaUN5EcjTzJBHS2eBNjm) | 3:49 | 2021-09-17 | 2025-04-14 |
 | [Sunyata](https://open.spotify.com/track/5sL1zebMXrBymyK6STo7n6) | [Sureborn](https://open.spotify.com/artist/6pEkJOAdhn8zjYFNH7uZ8g) | [Sunyata](https://open.spotify.com/album/1bXMt1obmoWbDteFpp1DY5) | 4:13 | 2020-12-08\* | 2021-05-27 |
 | [Surface](https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK) | [Lerone Gios](https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52) | [Surface](https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6) | 2:06 | 2021-04-15 | 2025-11-16 |
+| [Swept Away](https://open.spotify.com/track/4CoI3DqVYCDGZIEY7ukEnU) | [Anas discors](https://open.spotify.com/artist/1btt73BhuA2lFZD05peAWD) | [Swept Away](https://open.spotify.com/album/6wgYwidPuval4o3MqeEpj0) | 3:09 | 2025-12-10 |  |
 | [Tetrial](https://open.spotify.com/track/3RKdfJKiVlFEYkHy95Wipt) | [Isaïe Limbila](https://open.spotify.com/artist/1Xyby5XAIEpGvYZzIz9f8r) | [Tetrial](https://open.spotify.com/album/0s1etM9N31dg0pmY4Ijurv) | 3:15 | 2023-10-02 |  |
 | [The Beach \- Beatless](https://open.spotify.com/track/3vM7pu2T1rSdUyFM7qyULV) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Beatless EP](https://open.spotify.com/album/6ojWTPCROs4UBqmKKc9K7B) | 4:01 | 2023-01-13 | 2024-03-24 |
 | [The Beach \- Beatless](https://open.spotify.com/track/6Er28KITtqA7MNOLz7M2pg) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [The Beach \(Beatless\)](https://open.spotify.com/album/55uT0xyvRnHEO4EtfbccVk) | 4:01 | 2022-11-22 | 2023-01-14 |

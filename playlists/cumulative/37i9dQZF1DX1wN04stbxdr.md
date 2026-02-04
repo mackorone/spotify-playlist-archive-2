@@ -4,10 +4,11 @@
 
 > Hør årets tolkninger her!
 
-127 songs - 6 hr 24 min
+128 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [25 år](https://open.spotify.com/track/2XIfnIohuthimGgJs6UKTn) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [25 år](https://open.spotify.com/album/3RAU7r3uyUHaktQuaRWASd) | 2:59 | 2026-02-03 |  |
 | [555](https://open.spotify.com/track/4d6W8hgX7Iyu3OUogH6OxL) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [555](https://open.spotify.com/album/3Z1oqJEL9YE5jqXgDozPhL) | 3:13 | 2025-02-06 |  |
 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 | 2025-01-09 |  |
 | [aldri mer dans](https://open.spotify.com/track/5S4d63mlykQLIHo52gKyGI) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [aldri mer dans](https://open.spotify.com/album/7atYKU4YBHxUfDkIIxjYzp) | 2:29 | 2024-06-18 | 2025-01-03 |

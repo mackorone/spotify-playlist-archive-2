@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain](/playlists/plain/37i9dQZF1DX74ozWuOfjjm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX74ozWuOfjjm)
 
-### [EQUAL AU & NZ 2025](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
+### [EQUAL AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
 
 > Listen to women at full volume\. Cover: Holly Hebe, Chloe Parché
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,519 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,517 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 59 | [need u worse](https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [need u worse](https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM) | 3:45 |
 | 60 | [Matisses Garden](https://open.spotify.com/track/0UrGBqyFGWd02fkVLfoJDJ) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Heavenly Hell of Mine](https://open.spotify.com/album/5wSbwauDyRLmuha5YxLuNR) | 2:55 |
 
-Snapshot ID: `AAAAAPCVQj0+IybIaVkX9RQhDuprqfcL`
+Snapshot ID: `AAAAADfVvfrQr3uUs7bkEVEJTDROvWhP`

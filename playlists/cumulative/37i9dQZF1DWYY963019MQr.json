@@ -556,7 +556,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 136250,
       "name": "Eye of the Beholder",
       "url": "https://open.spotify.com/track/1YzAdjRV5vZFLkCqPS86I5"
@@ -730,6 +730,24 @@
       "duration_ms": 163920,
       "name": "Golden Slumbers",
       "url": "https://open.spotify.com/track/553aXMKRk0Kh41QpvbuuFt"
+    },
+    {
+      "album": {
+        "name": "Haley's Comet",
+        "url": "https://open.spotify.com/album/6wVjnR2KDv2pzNKN3g7HTe"
+      },
+      "artists": [
+        {
+          "name": "Lukas Auer",
+          "url": "https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Haley's Comet",
+      "url": "https://open.spotify.com/track/6l5ugDTNaJpzROfC1OLEIJ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1435372,
+  "num_followers": 1435393,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAADJgkJNGxYQk1EHTi709v0A",
+  "snapshot_id": "aX/pAAAAAAAMUpKtRCF0cpJALhP8/ztZ",
   "tracks": [
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 246816,
-      "name": "ON (Feat. Sia)",
-      "url": "https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Again",
         "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 193333,
       "name": "Bang My Head (feat. Sia & Fetty Wap)",
       "url": "https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 246816,
+      "name": "ON (Feat. Sia)",
+      "url": "https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9"
     },
     {
       "added_at": null,

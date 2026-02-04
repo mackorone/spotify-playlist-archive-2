@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women who open up the pit. Cover: Courtney LaPlante of Spiritbox",
-  "num_followers": 767353,
+  "num_followers": 767449,
   "original_name": "Women of Metal",
   "owner": {
     "name": "Spotify",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
+        "name": "Thorn In My Side",
+        "url": "https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh"
+      },
+      "artists": [
+        {
+          "name": "Harper",
+          "url": "https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3"
+        }
+      ],
+      "duration_ms": 225901,
+      "name": "Thorn In My Side",
+      "url": "https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF"
+    },
+    {
+      "added_at": "2025-04-25 04:00:54",
+      "album": {
         "name": "Bang Ya Head",
         "url": "https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 268039,
       "name": "Weeping Willow",
       "url": "https://open.spotify.com/track/3d0l1isydFqQz7TNWx9wtR"
-    },
-    {
-      "added_at": "2025-04-25 04:00:54",
-      "album": {
-        "name": "Thorn In My Side",
-        "url": "https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh"
-      },
-      "artists": [
-        {
-          "name": "Harper",
-          "url": "https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3"
-        }
-      ],
-      "duration_ms": 225901,
-      "name": "Thorn In My Side",
-      "url": "https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF"
     },
     {
       "added_at": "2025-04-25 04:00:54",
@@ -1567,8 +1567,8 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
-        "name": "Freedom - The Wolves Within",
-        "url": "https://open.spotify.com/album/3MVad7SlfyPymJjJ1g6yk9"
+        "name": "T.I.M.E.",
+        "url": "https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY"
       },
       "artists": [
         {
@@ -1576,9 +1576,9 @@
           "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
         }
       ],
-      "duration_ms": 337058,
-      "name": "Freedom - The Wolves Within-",
-      "url": "https://open.spotify.com/track/5hSnN8wtaGNRgdERMeQIx1"
+      "duration_ms": 238407,
+      "name": "T.I.M.E.",
+      "url": "https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa"
     },
     {
       "added_at": "2025-04-25 04:00:54",

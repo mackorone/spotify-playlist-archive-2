@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 211560,
+  "num_followers": 211555,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/5g3sbCVGQajMNL5wiEx8lt"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 204942,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/0Mq64VYAfJIczXcguLLHKs"
-    },
-    {
-      "added_at": "2026-01-08 23:00:06",
-      "album": {
         "name": "Oslo",
         "url": "https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 159672,
       "name": "Se P\u00e5 Meg",
       "url": "https://open.spotify.com/track/5ZoZDdZUCvSSzMDZYrK9EH"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/5g3sbCVGQajMNL5wiEx8lt"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 204942,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/0Mq64VYAfJIczXcguLLHKs"
     },
     {
       "added_at": "2026-01-08 23:00:06",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Sjarm\u00f8r (Beepolar)",
-        "url": "https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD"
-      },
-      "artists": [
-        {
-          "name": "Problembarn",
-          "url": "https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx"
-        }
-      ],
-      "duration_ms": 163070,
-      "name": "Sjarm\u00f8r (Beepolar)",
-      "url": "https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13"
-    },
-    {
-      "added_at": "2026-01-08 23:00:06",
-      "album": {
         "name": "Kaster Penger",
         "url": "https://open.spotify.com/album/6wG3xK0qg4Q1qOU2wpabVN"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Gettin' Away With It",
-        "url": "https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ"
+        "name": "Sjarm\u00f8r (Beepolar)",
+        "url": "https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD"
       },
       "artists": [
         {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+          "name": "Problembarn",
+          "url": "https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx"
         }
       ],
-      "duration_ms": 193133,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC"
+      "duration_ms": 163070,
+      "name": "Sjarm\u00f8r (Beepolar)",
+      "url": "https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13"
     },
     {
       "added_at": "2026-01-08 23:00:06",
@@ -627,6 +611,22 @@
       "duration_ms": 169263,
       "name": "Ambassad\u00f8r",
       "url": "https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Gettin' Away With It",
+        "url": "https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC"
     },
     {
       "added_at": "2026-01-08 23:00:06",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Memoarer",
-        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Memoarer",
-      "url": "https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ"
-    },
-    {
-      "added_at": "2026-01-08 23:00:06",
-      "album": {
         "name": "Sjonglerer",
         "url": "https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 174793,
       "name": "Sjonglerer",
       "url": "https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Memoarer",
+        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "Memoarer",
+      "url": "https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ"
     },
     {
       "added_at": "2026-01-08 23:00:06",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Tenke Sj\u00e6l",
-      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
-    },
-    {
-      "added_at": "2026-01-08 23:00:06",
-      "album": {
         "name": "En Vakker Dag",
         "url": "https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 150000,
       "name": "En Vakker Dag",
       "url": "https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Tenke Sj\u00e6l",
+      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
     },
     {
       "added_at": "2026-01-08 23:00:06",

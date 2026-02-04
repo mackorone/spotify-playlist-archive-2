@@ -1,6 +1,6 @@
 {
   "description": "The biggest crossover songs from the islands and the diaspora. Cover: Mahalia",
-  "num_followers": 644374,
+  "num_followers": 644386,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2025-08-29 14:45:24",
       "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 219949,
+      "name": "F o r C e r t a i n",
+      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
+    },
+    {
+      "added_at": "2025-08-29 14:45:24",
+      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2025-08-29 14:45:24",
-      "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 219949,
-      "name": "F o r C e r t a i n",
-      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
     },
     {
       "added_at": "2025-08-29 14:45:24",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-08-29 14:45:24",
       "album": {
-        "name": "Is This Love",
-        "url": "https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw"
-      },
-      "artists": [
-        {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
-        }
-      ],
-      "duration_ms": 136318,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF"
-    },
-    {
-      "added_at": "2025-08-29 14:45:24",
-      "album": {
         "name": "Out Of This World",
         "url": "https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 176666,
       "name": "Out Of This World",
       "url": "https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X"
+    },
+    {
+      "added_at": "2025-08-29 14:45:24",
+      "album": {
+        "name": "Is This Love",
+        "url": "https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "duration_ms": 136318,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF"
     },
     {
       "added_at": "2025-08-29 14:45:24",

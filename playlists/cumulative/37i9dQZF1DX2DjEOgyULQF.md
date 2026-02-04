@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-328 songs - 15 hr 42 min
+329 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Backwood Recline](https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8) | [Pia Singh](https://open.spotify.com/artist/2ZwBCFyYPefWuccMWR34ZE) | [Backwood Recline](https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4) | 3:49 | 2023-04-28 | 2025-05-22 |
 | [Berolige](https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Berolige](https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF) | 2:36 | 2024-04-01 |  |
 | [Bird Bath Opus](https://open.spotify.com/track/0JdkqE8WG3f638p5SRHhZ2) | [Infam Enn](https://open.spotify.com/artist/23AEFnMnAxHi3UfuJlR9R6) | [Bird Bath Opus](https://open.spotify.com/album/1LhDh8ViMClWffkyg1Gd0e) | 3:00 | 2025-05-21 | 2026-01-15 |
-| [Blissed Out](https://open.spotify.com/track/2f87y9hlltwy95cG6FrTle) | [Soul Editor](https://open.spotify.com/artist/6ha711zIsbNRtnnoUF3rTU) | [Blissed Out](https://open.spotify.com/album/3Jy207hzZVAYlhiOskbDrD) | 2:32 | 2026-01-08 |  |
+| [Blissed Out](https://open.spotify.com/track/2f87y9hlltwy95cG6FrTle) | [Soul Editor](https://open.spotify.com/artist/6ha711zIsbNRtnnoUF3rTU) | [Blissed Out](https://open.spotify.com/album/3Jy207hzZVAYlhiOskbDrD) | 2:32 | 2026-01-08 | 2026-02-04 |
 | [Blurred Valley](https://open.spotify.com/track/57f9MmWo5Vy8nUT4Hhwd4O) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Blurred Valley](https://open.spotify.com/album/6X2xsKywJbeV3Y2EWIUOIZ) | 2:31 | 2025-09-10 |  |
 | [Breath Of The Wilderness](https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Breath Of The Wilderness](https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK) | 3:15 | 2023-04-28 | 2025-05-22 |
 | [Breathing Slowly](https://open.spotify.com/track/3vdAXA3yfAGyjp8PwYkBsl) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 3:05 | 2023-06-09 | 2025-10-16 |
@@ -144,6 +144,7 @@
 | [Handwritten](https://open.spotify.com/track/5E3Ix0osEIpZIf8c9wDUZ7) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Handwritten](https://open.spotify.com/album/27IHCp4m0XW8XoRJsk4bYl) | 2:10 | 2025-05-21 |  |
 | [Healing gaze](https://open.spotify.com/track/1X8EmDgWvn6AImYPrtDqI9) | [Estra Blue](https://open.spotify.com/artist/2RAV1xltflSfWELSJuAB1S) | [Healing gaze](https://open.spotify.com/album/2hWybEwWNFXc4gauwKkt1h) | 2:40 | 2025-10-15 |  |
 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 | 2023-04-28 | 2025-05-22 |
+| [Hidden Stream](https://open.spotify.com/track/48fwIMWuDupqBDonvDiQRZ) | [Emerald Haze](https://open.spotify.com/artist/1ZAxYNJ7InAWRbooQVWtoD) | [Hidden Stream](https://open.spotify.com/album/0Gsbxch2HWzWjuOqZ5Luuf) | 2:03 | 2026-01-28 |  |
 | [Hidden Trees](https://open.spotify.com/track/2GLVEiLymzuOsa1aNrR3bk) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Hidden Trees](https://open.spotify.com/album/6QIi1rJNZqhG58JorCQNZG) | 2:56 | 2026-01-28 |  |
 | [Horizon](https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV) | [Cosmo Strings](https://open.spotify.com/artist/7FEeRD2uPEsGElexmXe3lc) | [Horizon](https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp) | 3:17 | 2023-04-28 | 2025-05-22 |
 | [Humidity](https://open.spotify.com/track/0gUbV5WnXb30Uul9WjKkbo) | [Constant Future](https://open.spotify.com/artist/0MhUXfJGaHfNudsEeha6iA) | [Humidity](https://open.spotify.com/album/2eFMxe5w2MRBOvsonQLK7g) | 2:42 | 2025-01-08 |  |

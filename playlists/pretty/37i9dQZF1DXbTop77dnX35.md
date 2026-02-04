@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ckay, Moses Bliss, Sia, Camidoh, DaBaby, DJ Maphorisa and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,612 likes - 56 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,672 likes - 56 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 31 | [Born To Survive](https://open.spotify.com/track/5cblTjZXvGQN02VpNE9C4K) | [Pumpy](https://open.spotify.com/artist/6FvGMGiDrF7yldruwJXe5a), [Wizka](https://open.spotify.com/artist/40hEx3rIZ1wgqGO8KjdEG7) | [Born To Survive](https://open.spotify.com/album/1xkorfTJnhfqWcHuIVTF4B) | 3:10 |
 | 32 | [Ego](https://open.spotify.com/track/0x9DSRaIm6TL93uDE68uKN) | [Zyno TopBoy](https://open.spotify.com/artist/0Wid10rZ0QPQdFpmbldjNL) | [Ego](https://open.spotify.com/album/6YwMUz8LhOl4yyQj2vTex0) | 2:50 |
 | 33 | [Na Me Run Am](https://open.spotify.com/track/15mCuAI6VS6E0gE1sMTmTD) | [London Jay](https://open.spotify.com/artist/41fen6xrgS2AX4hrjTQ7Ey), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [Na Me Run Am](https://open.spotify.com/album/4qAZgt4UsUjHQwMDXF909v) | 2:19 |
-| 34 | [Info](https://open.spotify.com/track/716WIhl6r5SBE1BMyAhfVd) | [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS), [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [SISU](https://open.spotify.com/album/7m080doGEza8nSfpQVihr2) | 2:51 |
+| 34 | [Info \(feat\. DJ Kas\)](https://open.spotify.com/track/716WIhl6r5SBE1BMyAhfVd) | [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS), [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb), [DJ Kas](https://open.spotify.com/artist/4L8CheDFALlOzgUygvWblJ) | [SISU](https://open.spotify.com/album/7m080doGEza8nSfpQVihr2) | 2:51 |
 | 35 | [Fokinfo cruise beat](https://open.spotify.com/track/4oA8XKbIvPRxejP6yrbaII) | [Isa chairman](https://open.spotify.com/artist/5iE3rD3X8RbbeKM0KTwzoB), [Dj Shaolin Temple](https://open.spotify.com/artist/1PjDUzQ1MOqXioCHoJ3cTC) | [Fokinfo cruise beat](https://open.spotify.com/album/7vXaAYFAGfs2WSQdbJdc45) | 1:48 |
 | 36 | [Wetin Concern Me](https://open.spotify.com/track/1t24rzZusv1kr9IS268gxp) | [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [VAR1](https://open.spotify.com/artist/05TqhaJ6y6uMmhzX8TDikY), [Damare YK](https://open.spotify.com/artist/4elUk2W9Rax90tFNC9TUDz) | [Wetin Concern Me](https://open.spotify.com/album/3DbR2hjEXkQocU5L3u4JYE) | 1:50 |
 | 37 | [Have That Love](https://open.spotify.com/track/6p9N449djwtND5vS5hCRy7) | [Efue](https://open.spotify.com/artist/1ADatv0IywY3a3HW6Wy43x) | [Have That Love](https://open.spotify.com/album/6oA3Qy6OrZNAovJ7ZyULQQ) | 2:54 |

@@ -2,9 +2,9 @@
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 3li¥en
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: OKAME
 
-1,433 songs - 3 day 12 hr 3 min
+1,435 songs - 3 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Combo](https://open.spotify.com/track/0iCmSyV9r0FZDq0Dhw6hZZ) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [COMBO](https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P) | 2:45 | 2024-06-20 | 2024-07-05 |
 | [Come & Go](https://open.spotify.com/track/7oxOQFKukTiYvbk5NKmaj2) | [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Come & Go](https://open.spotify.com/album/3Sfs3Wn8mEGlu9PQDWkLzm) | 2:15 | 2022-02-01 | 2022-03-08 |
 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 | 2025-01-17 | 2025-12-04 |
-| [Coming\-of\-age Story](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 3:36 | 2025-12-03 |  |
+| [Coming\-of\-age Story](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 3:36 | 2025-12-03 | 2026-02-04 |
 | [Comme des Garçons \(Like The Boys\)](https://open.spotify.com/track/2ECuq7NAthE5xFrOAiYtzx) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/6ijADQARGsV0sWAVHN4imN) | 3:01 | 2022-02-01 | 2022-03-08 |
 | [CONMAN](https://open.spotify.com/track/3A4xPOxlnfb4QfaNSLzEMv) | [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI), [Sumire](https://open.spotify.com/artist/3ie7Kl4oUITfThdgrDSHFS) | [CONMAN](https://open.spotify.com/album/3K9mZFUwEV5ABwo93sDjK3) | 3:12 | 2022-05-31 | 2022-07-06 |
 | [Corner of the garden](https://open.spotify.com/track/0fiU4aOwTzBlQ3YV4K7IwC) | [Moeka Giga](https://open.spotify.com/artist/4XJ2D1hGea6WmjvkShHOp5) | [Corner of the garden](https://open.spotify.com/album/4bJEGk7X6mkDsSEmQZHMu5) | 4:06 | 2023-01-03 | 2024-04-19 |
@@ -267,6 +267,7 @@
 | [FLAG](https://open.spotify.com/track/0QPnC6MGzx01j5VlgDpr5A) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/2mLrmtSEmIWLO6sLAq4lNH) | 4:36 | 2025-12-03 |  |
 | [FLAG](https://open.spotify.com/track/20oj6Cd5kS3ULhCUGtaxql) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:36 | 2025-04-01 | 2025-12-04 |
 | [FLAME](https://open.spotify.com/track/2uTMHATwwqd5AFGtg7EjRM) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Saru jr.fool](https://open.spotify.com/artist/7ydxirAQJSZbNHoGJPOrXR), [taisyov](https://open.spotify.com/artist/7GOnq578vzDJDcDCdxwhTf) | [FLAME](https://open.spotify.com/album/7vr3RkXfIuzJ2AHpKLuRSo) | 3:16 | 2022-08-02 | 2023-03-01 |
+| [FLIP FLAP](https://open.spotify.com/track/1UnjUCSGYDOLSYHC7d7sJd) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FLIP FLAP](https://open.spotify.com/album/69QaS9hTqUs9Cdwooo13g5) | 2:29 | 2026-02-03 |  |
 | [Flower](https://open.spotify.com/track/5DZomUYgJ6AabMgn7V4mQN) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Flower](https://open.spotify.com/album/4ItIxRLdNDoG4Z7hPk5rqC) | 2:42 | 2024-11-27 | 2024-12-05 |
 | [Flower In The Dark](https://open.spotify.com/track/468bxGU7VdCGhE9vuvKSlY) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming](https://open.spotify.com/album/5UHP0I0vneauLWydADc2jb) | 4:08 | 2024-02-06 | 2024-03-06 |
 | [Flower In The Dark \- Synthesized](https://open.spotify.com/track/2CwCFiP0e7pMifbg8LwYkr) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming: Synthesized Symphony](https://open.spotify.com/album/0G4dt3QAptKXnpru2yEioj) | 3:17 | 2023-02-01 | 2023-03-01 |
@@ -678,7 +679,7 @@
 | [Out of the Race](https://open.spotify.com/track/2SY1oH2Q6edfYgZQLiTmdn) | [A.Y.A](https://open.spotify.com/artist/4OZ4FDPU8MWXKAZgmijgML) | [Out of the Race](https://open.spotify.com/album/1ssGCVagwRCAsIejdZb0eL) | 1:49 | 2021-11-30 | 2022-01-05 |
 | [O・La](https://open.spotify.com/track/0fG9lay0PuGHNFiAqsOVKO) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [O・La](https://open.spotify.com/album/3O8XfocJyV7jqHH32cfNaO) | 4:04 | 2022-05-31 | 2022-07-06 |
 | [PaBodance](https://open.spotify.com/track/2eRVlfWFfFGpP5cD5B8QBG) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [PaBodance](https://open.spotify.com/album/2f51s4uASsODPGA8AfUXJ8) | 2:54 | 2021-11-30 | 2022-01-05 |
-| [PAIN IS BEAUTY](https://open.spotify.com/track/7Bc96fVAoMggWutAjjb1fG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:55 | 2025-01-30 |  |
+| [PAIN IS BEAUTY](https://open.spotify.com/track/7Bc96fVAoMggWutAjjb1fG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:55 | 2025-01-30 | 2026-02-04 |
 | [Pakara!](https://open.spotify.com/track/1BV15jLRBn2yVl3BD4cmI6) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [PLAYBACK SUMMER ver.1.3](https://open.spotify.com/album/0WKDX7uZoAcd6K1Q7mAmpx) | 3:17 | 2022-09-06 | 2022-10-05 |
 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 | 2022-07-05 | 2022-08-03 |
 | [PARADISE](https://open.spotify.com/track/6JM7bl5UCaKeVujyjcdOBy) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [sheidA](https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ) | [PARADISE](https://open.spotify.com/album/0X51jKoJxe1oh1HxVcboHR) | 3:05 | 2025-03-04 | 2025-04-23 |
@@ -1295,6 +1296,7 @@
 | [夕日](https://open.spotify.com/track/51WHAvBpS5wduvi7vDxp5q) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [ぼちぼち銀河](https://open.spotify.com/album/0RRXWd6gJfKy34WF8RCkfs) | 3:52 | 2023-01-03 | 2023-02-02 |
 | [夜のむし](https://open.spotify.com/track/5EThYzDjcG4WZeQtNz6nnw) | [四丁目のアンナ](https://open.spotify.com/artist/3kUVYHr7GudbKRQPT4lMLj) | [夜のむし](https://open.spotify.com/album/4nmGcnHp3MDrYhxFtgKFLh) | 4:21 | 2022-11-08 | 2022-12-07 |
 | [夜の公園](https://open.spotify.com/track/2FzLfVta0Sunv6EYkWz8Ua) | [AKAIKO\-EN](https://open.spotify.com/artist/5ztM0WRyJguGFiLusqTBKs) | [THE PARK](https://open.spotify.com/album/34okRKOZCEG51afdkL9xLP) | 4:53 | 2022-03-07 | 2022-04-06 |
+| [夜はきらい](https://open.spotify.com/track/5wngKDzVSyiCoDhiTPmIr8) | [OKAME](https://open.spotify.com/artist/3eFiQtxtuoUrj9rjlsWw00) | [DEBUT](https://open.spotify.com/album/4s9NnOKqJ7MkiXilulQYEp) | 4:26 | 2026-02-03 |  |
 | [夜をループ](https://open.spotify.com/track/0bubyBUGwfBudA9owgmCES) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [BUTTERFLY EFFECT](https://open.spotify.com/album/3jMsXyruxQMw80CVCQPmas) | 4:26 | 2023-09-05 | 2024-01-10 |
 | [夜を越えて](https://open.spotify.com/track/7kFUTFdKT0DadohO39Da9A) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [you love](https://open.spotify.com/album/7N1tYjZ22IGKQYDdqvKefO) | 5:09 | 2021-11-30 | 2022-01-05 |
 | [夜見人知らず](https://open.spotify.com/track/5jEHOs3k9Ojk1FDNJ3kOXZ) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [夜見人知らず](https://open.spotify.com/album/28zhwvHUHdV4ApkUE0KBwD) | 3:19 | 2022-01-04 | 2022-02-02 |

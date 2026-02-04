@@ -3947,6 +3947,28 @@
     },
     {
       "album": {
+        "name": "Hey Raasathi",
+        "url": "https://open.spotify.com/album/2zWzaoEJ7ciF4rZ6xFxlpV"
+      },
+      "artists": [
+        {
+          "name": "Samson P Moses",
+          "url": "https://open.spotify.com/artist/0B8HwZtfjJyqF8WiQJRUu1"
+        },
+        {
+          "name": "Sam Vishal",
+          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269268,
+      "name": "Hey Raasathi",
+      "url": "https://open.spotify.com/track/4ASsUoVKSrwVtvPRwbRwJ5"
+    },
+    {
+      "album": {
         "name": "Hey Sagiye",
         "url": "https://open.spotify.com/album/1B0xbRHabbOWaPfQDw7eOc"
       },
@@ -16446,7 +16468,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 105600,
       "name": "YEDA YUNG (Tamil Remix)",
       "url": "https://open.spotify.com/track/3jlfA88tVVL8TOe6AvV0oH"

@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 413831,
+  "num_followers": 413908,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
+        "name": "Linhas De Cerol",
+        "url": "https://open.spotify.com/album/2FlRmhRPrCrTBBAEylGdtE"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 193122,
+      "name": "Um Sonho Na Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/265ohdKNZslRdcjgaWNOhj"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
         "name": "Meu Jeito de Ser",
         "url": "https://open.spotify.com/album/3ZaDi5SgfZY6tJcQQVI61N"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 176470,
       "name": "Meu Jeito de Ser",
       "url": "https://open.spotify.com/track/6g29kMXoD1vkx7HE8B6kuK"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
-        "name": "Linhas De Cerol",
-        "url": "https://open.spotify.com/album/2FlRmhRPrCrTBBAEylGdtE"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 193122,
-      "name": "Um Sonho Na Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/265ohdKNZslRdcjgaWNOhj"
     },
     {
       "added_at": "2026-01-09 03:01:26",

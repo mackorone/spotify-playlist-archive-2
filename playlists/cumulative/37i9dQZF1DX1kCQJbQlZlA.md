@@ -4,7 +4,7 @@
 
 > Về quê ăn Tết mọi người ơi, Bùi Công Nam said
 
-188 songs - 15 hr 29 min
+189 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Tát Nước Đầu Đình](https://open.spotify.com/track/121yxFWXB5N4tKlvH82ujT) | [Sơn Tuyền](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Tình Là Gì](https://open.spotify.com/album/4L8IWrNxt0QeXoQlZrMAdJ) | 5:02 | 2024-02-23 | 2024-04-19 |
 | [Tát Nước Đầu Đình](https://open.spotify.com/track/4lW0zwt8ldnR6Y6cDLNihS) | [Sơn Tuyền](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Tình Là Gì](https://open.spotify.com/album/79pLdkBrst1icsDhBCBNqV) | 5:02 | 2022-07-15 | 2024-02-27 |
 | [Tát Nước Đầu Đình](https://open.spotify.com/track/4EsFje6KwIcdm1lfuTDEdp) | [Sơn Tuyền](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Thà Trắng Thà Đen](https://open.spotify.com/album/1VywfbWfieh83tyZfkmSxx) | 5:02 | 2022-05-12 | 2026-02-01 |
-| [tâm](https://open.spotify.com/track/0mT2YgsN7ib5vaBaYdpUaN) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [sinh](https://open.spotify.com/album/31q14MVtjZbcMlg5a3U33a) | 1:48 | 2026-01-31 |  |
+| [tâm](https://open.spotify.com/track/0mT2YgsN7ib5vaBaYdpUaN) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [sinh](https://open.spotify.com/album/31q14MVtjZbcMlg5a3U33a) | 1:48 | 2026-01-31 | 2026-02-04 |
+| [Tâm \- orchestra version](https://open.spotify.com/track/5JAfQRZ7dDpe3ErCojW4xX) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Hoan Le](https://open.spotify.com/artist/6ayVTh1gQU8SlkF0WkBdR9) | [Tâm \(orchestra version\)](https://open.spotify.com/album/33iDw12qZI8Cwab6ojqjXO) | 4:02 | 2026-02-03 |  |
 | [Tân Khúc Lý Cô Ba](https://open.spotify.com/track/6TRpFn93kffx16XZUE8k1C) | [NSND Bach Tuyet](https://open.spotify.com/artist/6BLc7t4KaJGJXuRlUgUNgx), [Nal](https://open.spotify.com/artist/3hHKSLqpEWNAsCjbvVb1te) | [Tân Khúc Lý Cô Ba](https://open.spotify.com/album/5UYisJuXkNCUvlafiK5Stj) | 4:20 | 2024-01-25 |  |
 | [Tình Em Miền Tây](https://open.spotify.com/track/3P9qy39rwGGfQay9XVp9tz) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Tình Quê](https://open.spotify.com/album/6I13W8uGVplirDjOJrOoq2) | 4:38 | 2024-12-01 |  |
 | [Tình Em Tháp Mười](https://open.spotify.com/track/5TH4GnJk57CxXtD0GfTj5Q) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tuyển Tập Album Dân Ca Lưu Ánh Loan](https://open.spotify.com/album/0mo1TNk5MaMOtIKU8XjaSp) | 4:08 | 2025-02-18 |  |

@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 177473,
       "name": "Jaat",
       "url": "https://open.spotify.com/track/7ukOVopzKs1CFGZgZRTOMo"
@@ -1928,6 +1928,28 @@
       "duration_ms": 153272,
       "name": "Jaat Anthem",
       "url": "https://open.spotify.com/track/3XcyzvbdfkXaXyFSEwUfUq"
+    },
+    {
+      "album": {
+        "name": "ROAR",
+        "url": "https://open.spotify.com/album/30WIZPazpfNErodEi7fulf"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        },
+        {
+          "name": "Dj Sky",
+          "url": "https://open.spotify.com/artist/0Y2IOTveRF8n7j99WXxgmK"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189032,
+      "name": "Jaat Bagdo",
+      "url": "https://open.spotify.com/track/5Ru5rYJwwQuj1iHEL0OWDK"
     },
     {
       "album": {

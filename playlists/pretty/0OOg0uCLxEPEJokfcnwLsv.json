@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 667,
+  "num_followers": 671,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEuc9p9ccOA/7a386SVTETfTVTG26Z",
+  "snapshot_id": "AAAEyMNB0Nuaw4MuOuDwaPVCDvrUBViu",
   "tracks": [
     {
       "added_at": "2026-01-29 01:31:47",
@@ -153,70 +153,6 @@
       "url": "https://open.spotify.com/track/0Rx5hdjmYdBeaYDvSsCOeR"
     },
     {
-      "added_at": "2025-11-21 12:32:05",
-      "album": {
-        "name": "Timelapse",
-        "url": "https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE"
-      },
-      "artists": [
-        {
-          "name": "Theo Ford",
-          "url": "https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S"
-        }
-      ],
-      "duration_ms": 354151,
-      "name": "This Must Be the Place",
-      "url": "https://open.spotify.com/track/4eqKratMzpnemwh6pcjfbW"
-    },
-    {
-      "added_at": "2025-11-15 14:18:08",
-      "album": {
-        "name": "Cigarette",
-        "url": "https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt"
-      },
-      "artists": [
-        {
-          "name": "sullivan grace band",
-          "url": "https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd"
-        }
-      ],
-      "duration_ms": 143289,
-      "name": "Cigarette",
-      "url": "https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny"
-    },
-    {
-      "added_at": "2025-12-30 15:17:18",
-      "album": {
-        "name": "Furniture",
-        "url": "https://open.spotify.com/album/3njCKYLIGVRpN3Ys448Smq"
-      },
-      "artists": [
-        {
-          "name": "Cormac O Caoimh",
-          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
-        }
-      ],
-      "duration_ms": 247261,
-      "name": "Furniture",
-      "url": "https://open.spotify.com/track/0aLWoinlTtoPj47vmM03BD"
-    },
-    {
-      "added_at": "2025-11-01 13:10:58",
-      "album": {
-        "name": "Haga Street Revisited",
-        "url": "https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC"
-      },
-      "artists": [
-        {
-          "name": "Nic Li",
-          "url": "https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Take me home",
-      "url": "https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO"
-    },
-    {
       "added_at": "2025-10-06 12:12:34",
       "album": {
         "name": "Phantom Heart",
@@ -231,22 +167,6 @@
       "duration_ms": 350545,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov"
-    },
-    {
-      "added_at": "2025-10-30 23:56:30",
-      "album": {
-        "name": "Cut It Out!",
-        "url": "https://open.spotify.com/album/5c0HNhPuGroOZnioWziNuk"
-      },
-      "artists": [
-        {
-          "name": "moberod",
-          "url": "https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd"
-        }
-      ],
-      "duration_ms": 177919,
-      "name": "Cut It Out!",
-      "url": "https://open.spotify.com/track/2Hyalx0ms1xibr1QTZebGm"
     },
     {
       "added_at": "2025-10-17 15:17:54",
@@ -279,22 +199,6 @@
       "duration_ms": 187778,
       "name": "Sign Of The Horns",
       "url": "https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9"
-    },
-    {
-      "added_at": "2025-10-18 21:27:30",
-      "album": {
-        "name": "Break Up Bangs",
-        "url": "https://open.spotify.com/album/4NxSKL2Xd1unpYhN3ElgEQ"
-      },
-      "artists": [
-        {
-          "name": "Lucia Dostal",
-          "url": "https://open.spotify.com/artist/2Y5Zd5cSEdZ57lCr4lkGVr"
-        }
-      ],
-      "duration_ms": 156208,
-      "name": "Break Up Bangs",
-      "url": "https://open.spotify.com/track/4kVAjnV2duer0Sa81i6sX4"
     },
     {
       "added_at": "2025-09-11 22:57:57",
@@ -349,22 +253,6 @@
       "url": "https://open.spotify.com/track/7zbLzzH7GOOAKcNtnr3hcR"
     },
     {
-      "added_at": "2025-11-09 13:57:43",
-      "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF"
-      },
-      "artists": [
-        {
-          "name": "Paranoize",
-          "url": "https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS"
-        }
-      ],
-      "duration_ms": 133520,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ"
-    },
-    {
       "added_at": "2025-09-17 12:57:16",
       "album": {
         "name": "Pop Punk Was Dead",
@@ -379,22 +267,6 @@
       "duration_ms": 212426,
       "name": "Pop Punk Was Dead",
       "url": "https://open.spotify.com/track/18cYjNMNy2KDjiCTvl2XY8"
-    },
-    {
-      "added_at": "2025-08-19 14:41:14",
-      "album": {
-        "name": "No Future",
-        "url": "https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g"
-      },
-      "artists": [
-        {
-          "name": "Vagabond",
-          "url": "https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK"
-        }
-      ],
-      "duration_ms": 192085,
-      "name": "Saville",
-      "url": "https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww"
     },
     {
       "added_at": "2025-10-18 20:14:13",
@@ -509,22 +381,6 @@
       "url": "https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH"
     },
     {
-      "added_at": "2026-01-03 01:04:41",
-      "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/4AsC6gnDD0rAQnWmgVe7dv"
-      },
-      "artists": [
-        {
-          "name": "Josiah Lee",
-          "url": "https://open.spotify.com/artist/5JzpGMc1evn1FQqFSN5ba0"
-        }
-      ],
-      "duration_ms": 251040,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/6M2aKsUboctabwZD4BnIpZ"
-    },
-    {
       "added_at": "2026-01-11 00:08:51",
       "album": {
         "name": "Seven Thirty Three",
@@ -539,70 +395,6 @@
       "duration_ms": 158197,
       "name": "Seven Thirty Three",
       "url": "https://open.spotify.com/track/1RXEc04j5kUp9DuNv2Vw4r"
-    },
-    {
-      "added_at": "2026-01-11 00:39:50",
-      "album": {
-        "name": "Lo que cuentan las aceras",
-        "url": "https://open.spotify.com/album/2iJvyNUu7kiIpLz8WxmFaX"
-      },
-      "artists": [
-        {
-          "name": "EnRockecidos",
-          "url": "https://open.spotify.com/artist/6j4BNmLmFMCkyszhxBDdnr"
-        }
-      ],
-      "duration_ms": 209568,
-      "name": "Estrellas",
-      "url": "https://open.spotify.com/track/1u6yb30nxGeF32KRImj1Hz"
-    },
-    {
-      "added_at": "2026-01-11 19:28:03",
-      "album": {
-        "name": "Amaroamore",
-        "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
-      },
-      "artists": [
-        {
-          "name": "Cristian Nevola",
-          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
-        }
-      ],
-      "duration_ms": 187974,
-      "name": "Dove potremmo volare",
-      "url": "https://open.spotify.com/track/6E5inIWTfbmyqz9JM2CpHo"
-    },
-    {
-      "added_at": "2026-01-11 20:13:48",
-      "album": {
-        "name": "Geister",
-        "url": "https://open.spotify.com/album/4lgWWLPTSCyNn6zS73Y5KX"
-      },
-      "artists": [
-        {
-          "name": "Elektrosauna",
-          "url": "https://open.spotify.com/artist/031hMoHlvGjXfQusuM62pi"
-        }
-      ],
-      "duration_ms": 370475,
-      "name": "Geister",
-      "url": "https://open.spotify.com/track/2tT3k5a3U87GPpKgbWptRT"
-    },
-    {
-      "added_at": "2026-01-11 21:16:34",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/1boe137xgCDHPos7RCNFXy"
-      },
-      "artists": [
-        {
-          "name": "SATVRNO",
-          "url": "https://open.spotify.com/artist/6NjxPRyyG0teb1WB0DGvCn"
-        }
-      ],
-      "duration_ms": 221914,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/5Zn0k9u2eiNpmXsB3ifoqn"
     },
     {
       "added_at": "2026-01-12 02:39:10",
@@ -1327,6 +1119,38 @@
       "duration_ms": 272307,
       "name": "Girl in the sky",
       "url": "https://open.spotify.com/track/1cG8dKgKpi4q51qYPkUfIW"
+    },
+    {
+      "added_at": "2026-02-04 00:16:41",
+      "album": {
+        "name": "hypnotize",
+        "url": "https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ"
+      },
+      "artists": [
+        {
+          "name": "W\u0142adek Sheen",
+          "url": "https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe"
+        }
+      ],
+      "duration_ms": 175247,
+      "name": "goodbye - 2025 remastered",
+      "url": "https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0"
+    },
+    {
+      "added_at": "2026-02-04 00:39:15",
+      "album": {
+        "name": "LOS BIOLOGOS",
+        "url": "https://open.spotify.com/album/4prHVEmsCxLHDTsV6zSsuM"
+      },
+      "artists": [
+        {
+          "name": "Elisa Cano Elgarresta",
+          "url": "https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6"
+        }
+      ],
+      "duration_ms": 251374,
+      "name": "LOS BIOLOGOS",
+      "url": "https://open.spotify.com/track/5nMIzJ0vCnt1efHf5k0IpU"
     }
   ],
   "unique_name": "Unsigned Rock",

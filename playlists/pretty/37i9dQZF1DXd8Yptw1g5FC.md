@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Eftalya Yağcı x Tan Taşçı ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,976 likes - 151 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,972 likes - 151 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 44 | [rain forest](https://open.spotify.com/track/7e2Rz2HbQ9go38SpUWt86i) | [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk), [Calmcatt](https://open.spotify.com/artist/477WD4sRn90MpIfxYix5AM) | [Lo\-Fi Treasures Vol.2: Calm Waters](https://open.spotify.com/album/2mPEmTQFWTGeg9GP5arRF7) | 2:36 |
 | 45 | [Benden](https://open.spotify.com/track/4P6PcM1vttsoVNVHWoOmWo) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Benden](https://open.spotify.com/album/2JOgfWTfzkbhFPRucXUdZS) | 3:02 |
 | 46 | [Sahte Gül Pazarı](https://open.spotify.com/track/4cqbObbQf9sSnDr0apOpea) | [Bahadır Sağlam](https://open.spotify.com/artist/60MyIKYA3yY1lGNroaZIgT) | [Sahte Gül Pazarı](https://open.spotify.com/album/5KQ2yqBqjo8j3KRKpEAqNw) | 3:10 |
-| 47 | [ISTANBUL GECELER](https://open.spotify.com/track/6xByJXKzOqBUOGomD79fzL) | [cudi](https://open.spotify.com/artist/4PDG3CE9biFcxBuugZZEZP), [Bvtu](https://open.spotify.com/artist/7uL6XgZAMWiZ9Mf4tzA8eI) | [ISTANBUL GECELER](https://open.spotify.com/album/3sieaBnGRorGV723aFeKU7) | 2:03 |
+| 47 | [ISTANBUL GECELER](https://open.spotify.com/track/6xByJXKzOqBUOGomD79fzL) | [cudi](https://open.spotify.com/artist/4PDG3CE9biFcxBuugZZEZP), [Bvtu](https://open.spotify.com/artist/7uL6XgZAMWiZ9Mf4tzA8eI), [Glock61](https://open.spotify.com/artist/3ogTD3qWdVEw78o5eHYKEc) | [ISTANBUL GECELER](https://open.spotify.com/album/3sieaBnGRorGV723aFeKU7) | 2:03 |
 | 48 | [Yakacaklar](https://open.spotify.com/track/6qi8j7EHzYcDvG61Co3CCC) | [ZEDİ](https://open.spotify.com/artist/3FzjRFPl2VuRcDP0lH6sR8) | [Yakacaklar](https://open.spotify.com/album/0TnrnucBzUIAuMKxP3iZ06) | 2:43 |
 | 49 | [Good Girl](https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Girl](https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE) | 4:23 |
 | 50 | [Kafama Göre](https://open.spotify.com/track/6Wt6ALwgxXbGq7aCBprL4L) | [Gamze Ökten](https://open.spotify.com/artist/2iJt3X1D7T8o8goowQjHRi), [ATOON](https://open.spotify.com/artist/5o3784TwK63ILtcaaycHpe) | [Kafama Göre](https://open.spotify.com/album/0bcR3Dv30t2uPcZMp3WBjC) | 2:18 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 116 | [Hatırası Var](https://open.spotify.com/track/7qsQUYxFoXDETTs7UTu5zt) | [Kadir Çetin](https://open.spotify.com/artist/2CFAA4JZeobv7ApBB4X7a8) | [Hatırası Var](https://open.spotify.com/album/0dUasO2G31La6unGpgvF2Z) | 4:18 |
 | 117 | [YERALTI GÜNEŞ KOKAR](https://open.spotify.com/track/2VCKaKrlSnLhGAlH7mZkY4) | [Görkem Karabudak](https://open.spotify.com/artist/1oAAtiC1OuS6dxE1DIkUUp) | [YERALTI GÜNEŞ KOKAR](https://open.spotify.com/album/3eUpEgQn7EILb7Wd7lKCtC) | 3:45 |
 | 118 | [Hayranınım](https://open.spotify.com/track/3AxuuxAvLyCwLnEM7pIOuA) | [Rıza Sarıtaş](https://open.spotify.com/artist/7MUr26eqFK3BCP4y6A1mJw) | [Hayranınım](https://open.spotify.com/album/79Lr3VwU1OjlZ8nVXcp2Ju) | 2:57 |
-| 119 | [dönemem](https://open.spotify.com/track/0nTOEZ4sIY2blIr4abRk9B) | [KERRO](https://open.spotify.com/artist/1ZXFJIuat5q44XhbhXB1Ml) | [dönemem](https://open.spotify.com/album/6mqrspfteGqQsfDYqS76A2) | 2:39 |
+| 119 | [dönemem](https://open.spotify.com/track/0nTOEZ4sIY2blIr4abRk9B) | [KERRO](https://open.spotify.com/artist/1ZXFJIuat5q44XhbhXB1Ml), [Glock61](https://open.spotify.com/artist/3ogTD3qWdVEw78o5eHYKEc) | [dönemem](https://open.spotify.com/album/6mqrspfteGqQsfDYqS76A2) | 2:39 |
 | 120 | [PRENSES](https://open.spotify.com/track/7eiim2NeJRhjlghBIRKfXD) | [UZ4Y](https://open.spotify.com/artist/6u01CCedMmzWrjTyeup4mf) | [PRENSES](https://open.spotify.com/album/52iXiIn8rmba238cZ3YSDX) | 2:35 |
 | 121 | [NAZAR](https://open.spotify.com/track/3Jky9hwoWUAcnXQNoa2ZeH) | [Bilici](https://open.spotify.com/artist/5282wFSMKx3QgLufnnaVLB) | [NAZAR](https://open.spotify.com/album/3egwOauCZ5rTrU1ClFHkZU) | 2:09 |
 | 122 | [disko topu](https://open.spotify.com/track/0ged3sTwrrbXKtc94ook2j) | [FERN](https://open.spotify.com/artist/6eqg7Syu31ikeEwy5bxTb4) | [disko topu](https://open.spotify.com/album/30LIeaUzMfbtzxQ2EnR3JR) | 4:22 |

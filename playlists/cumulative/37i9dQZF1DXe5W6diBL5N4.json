@@ -5664,7 +5664,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 206000,
       "name": "A Flying Butterfly",
       "url": "https://open.spotify.com/track/0NOb7nTkWns3JBQiFG8rQm"
@@ -18201,6 +18201,24 @@
     },
     {
       "album": {
+        "name": "latency",
+        "url": "https://open.spotify.com/album/2rjA4rO2TtcWuyj3Wuk30N"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSIS THERAPY",
+          "url": "https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335916,
+      "name": "axis_0_\u3147",
+      "url": "https://open.spotify.com/track/1kWBxXv0NpSyqCVFBJYDxA"
+    },
+    {
+      "album": {
         "name": "Ay-Yo - The 4th Album Repackage",
         "url": "https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ"
       },
@@ -24278,7 +24296,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 191000,
       "name": "Become",
       "url": "https://open.spotify.com/track/6sYTLmB7IjjUC8GxGGBn3T"
@@ -32106,7 +32124,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 147179,
       "name": "BRB",
       "url": "https://open.spotify.com/track/2sAneKlNxEDvc8etodYWpA"
@@ -36956,7 +36974,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 190000,
       "name": "CALL ME BACK",
       "url": "https://open.spotify.com/track/7EaR2YLNoIDFgmEBdTh1NS"
@@ -47627,7 +47645,7 @@
       "artists": [
         {
           "name": "Kim Min Seok (MeloMance)",
-          "url": "https://open.spotify.com/artist/45L3afdB7MgheLyaAjRV8t"
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
         }
       ],
       "date_added": "2026-02-01",
@@ -66386,7 +66404,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 180000,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR"
@@ -78678,7 +78696,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 209250,
       "name": "FOOL FOR YOU",
       "url": "https://open.spotify.com/track/7JyBsepDr7NTZsAjgQ2Cvc"
@@ -105326,7 +105344,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 275125,
       "name": "I don\u2019t care I like u",
       "url": "https://open.spotify.com/track/2mbjfGSPSFCIxoauRghoB0"
@@ -105460,7 +105478,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 258500,
       "name": "I Dream",
       "url": "https://open.spotify.com/track/3YRjTd3WIOXIMD8gj3Y6vT"
@@ -110942,7 +110960,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 228802,
       "name": "I wonder",
       "url": "https://open.spotify.com/track/6eD6vxYmarjBHMvh7H16Sj"
@@ -130912,7 +130930,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 166000,
       "name": "Let It Die",
       "url": "https://open.spotify.com/track/2xlq5zxIdrgSI33sPL7kZs"
@@ -135548,7 +135566,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 165517,
       "name": "Lines For Today",
       "url": "https://open.spotify.com/track/51JY7adOGiJuEYuydofe12"
@@ -137562,6 +137580,24 @@
       "duration_ms": 204605,
       "name": "Look At Me Look At Me",
       "url": "https://open.spotify.com/track/5t2XHhWwKqgE3ZRmj8vVJ7"
+    },
+    {
+      "album": {
+        "name": "Honour, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3kXpT5HyNggLUvX9kQM4Yy"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Look at My Heels",
+      "url": "https://open.spotify.com/track/024BiEjiJ8Xsb2TcecHbAg"
     },
     {
       "album": {
@@ -141618,7 +141654,7 @@
       },
       "artists": [
         {
-          "name": "Kim MinSeok",
+          "name": "Kim Min Seok (MeloMance)",
           "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
         }
       ],
@@ -143910,6 +143946,24 @@
       "duration_ms": 229000,
       "name": "Love you again",
       "url": "https://open.spotify.com/track/3tt4jUdcPx7ZRNrXcP58x2"
+    },
+    {
+      "album": {
+        "name": "Spring Fever, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5jqqQhTujHEUIHATQ4LDg9"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Love you like a Fool",
+      "url": "https://open.spotify.com/track/2RNAIcJixTEHe2k33auTg6"
     },
     {
       "album": {
@@ -163558,7 +163612,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 186000,
       "name": "New Babe",
       "url": "https://open.spotify.com/track/2XHO4Qu3rfqt8WgPulBwCu"
@@ -169930,7 +169984,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 185031,
       "name": "Offline",
       "url": "https://open.spotify.com/track/3qAjyDCaDglrYCOka8J2Jx"
@@ -176961,6 +177015,24 @@
     },
     {
       "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/7KIrdVNTVtm309OHv2n93Z"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124707,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/5NFKUNRPcWGaLfAPaofT5v"
+    },
+    {
+      "album": {
         "name": "OVER",
         "url": "https://open.spotify.com/album/6bXYyIOdahDUTYwBUnlE3z"
       },
@@ -177052,7 +177124,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 155500,
       "name": "Over It",
       "url": "https://open.spotify.com/track/2rzlyStZ55yL0oryPdLb7I"
@@ -178830,6 +178902,24 @@
       "duration_ms": 222824,
       "name": "Parrot",
       "url": "https://open.spotify.com/track/63RS97i4vGWc0Cp4APrQmC"
+    },
+    {
+      "album": {
+        "name": "Parrot",
+        "url": "https://open.spotify.com/album/2bfVsf22jGTekWukB9fh9p"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Parrot",
+      "url": "https://open.spotify.com/track/443u0pdNj2Jqb4OMKkdXlc"
     },
     {
       "album": {
@@ -190668,7 +190758,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 176448,
       "name": "Reindeer",
       "url": "https://open.spotify.com/track/0iIHXYkpm43m3Q64TzeAGl"
@@ -198540,6 +198630,24 @@
       "duration_ms": 207853,
       "name": "SAVE IT",
       "url": "https://open.spotify.com/track/18Y1CMscDEV1hhuM7HntTM"
+    },
+    {
+      "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/1MARlNcmM2jaUKMXsGWH4O"
+      },
+      "artists": [
+        {
+          "name": "Cha Woo Joo",
+          "url": "https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187169,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/0Dl9zaQa98CBI888R8KGEh"
     },
     {
       "album": {
@@ -216683,6 +216791,24 @@
     },
     {
       "album": {
+        "name": "23:24",
+        "url": "https://open.spotify.com/album/1PkVc76oCPzENE5KdoXTzX"
+      },
+      "artists": [
+        {
+          "name": "SYA",
+          "url": "https://open.spotify.com/artist/0ZnVurWMAuzhxM08hVkCtb"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/5MUrTMQyThyBydQ9KZclIv"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju"
       },
@@ -224984,7 +225110,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 191278,
       "name": "sway",
       "url": "https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ"
@@ -249530,7 +249656,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 153936,
       "name": "valentine baby",
       "url": "https://open.spotify.com/track/6w3mCFGArzDKDtr4y1QSHQ"
@@ -261368,7 +261494,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 210000,
       "name": "white spring",
       "url": "https://open.spotify.com/track/3eNaNlSXrOg7aOwtIwtxZk"
@@ -265396,7 +265522,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 98500,
       "name": "Withdrawals",
       "url": "https://open.spotify.com/track/6UNjHv340PjCwsyZeTLZTk"
@@ -267458,6 +267584,24 @@
       "duration_ms": 195000,
       "name": "X",
       "url": "https://open.spotify.com/track/2oZ2EKWo51eXQsn83pjNvj"
+    },
+    {
+      "album": {
+        "name": "Lovers\u2032",
+        "url": "https://open.spotify.com/album/00S0eXUgPh0dza0rDxuTXd"
+      },
+      "artists": [
+        {
+          "name": "Hoons",
+          "url": "https://open.spotify.com/artist/3X2dokSZmyl37QiosBQ6cR"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134285,
+      "name": "X",
+      "url": "https://open.spotify.com/track/0uhYRIg1aVmQpFBkCA1CN1"
     },
     {
       "album": {
@@ -273654,7 +273798,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 269385,
       "name": "You\u2019re Not There",
       "url": "https://open.spotify.com/track/4XdDcanYZZRWokedVL3ziO"
@@ -286968,7 +287112,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 187031,
       "name": "\ud070\uac70\uc628\ub2e4 Something Big is Coming",
       "url": "https://open.spotify.com/track/2cS89oSMshz9MHLsI0XmFN"

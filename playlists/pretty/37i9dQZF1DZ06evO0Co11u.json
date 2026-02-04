@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 196732,
+  "num_followers": 196737,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAAAfXTP/kKe1uezYNggMGgje",
+  "snapshot_id": "aX/pAAAAAAAs6aLltQOs94lvh/paBKDj",
   "tracks": [
     {
       "added_at": null,
@@ -811,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essence of Armstrong",
-        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
+        "name": "Satchmo In Style (Expanded Edition)",
+        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Gordon Jenkins Orchestra And Choir",
+          "url": "https://open.spotify.com/artist/4DFtmixDoblcLyzmQK0Y2I"
         }
       ],
-      "duration_ms": 199893,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
+      "duration_ms": 182506,
+      "name": "That Lucky Old Sun (Just Rolls Around Heaven All Day) - Single Version",
+      "url": "https://open.spotify.com/track/2qioTZNYxZawZMTuL5TEXv"
     },
     {
       "added_at": null,
@@ -847,22 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo In Style (Expanded Edition)",
-        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
+        "name": "Essence of Armstrong",
+        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Gordon Jenkins Orchestra And Choir",
-          "url": "https://open.spotify.com/artist/4DFtmixDoblcLyzmQK0Y2I"
         }
       ],
-      "duration_ms": 182506,
-      "name": "That Lucky Old Sun (Just Rolls Around Heaven All Day) - Single Version",
-      "url": "https://open.spotify.com/track/2qioTZNYxZawZMTuL5TEXv"
+      "duration_ms": 199893,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
     },
     {
       "added_at": null,

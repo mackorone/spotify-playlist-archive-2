@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-174 songs - 8 hr 32 min
+175 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,8 +93,9 @@
 | [Inaam](https://open.spotify.com/track/6sR651uGpEJxhZqqnLdYRh) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Inaam](https://open.spotify.com/album/2XtzyKgKRtm3PcVS01l2zz) | 3:04 | 2024-04-17 | 2025-02-28 |
 | [Intro](https://open.spotify.com/track/4doPskLCTEmR9az9gwiQKj) | [Happie](https://open.spotify.com/artist/1eGqvRKEMYXmbXzOLPVnB8), [Sihag Muzik](https://open.spotify.com/artist/04XbdTO8fkae4s1ExLeYyC) | [Intro](https://open.spotify.com/album/51YgKSHDHcjJIIsA3eUOn9) | 2:42 | 2025-04-18 | 2025-09-25 |
 | [Jaat](https://open.spotify.com/track/7JGrjPpKep3LJdiEHQ4N0K) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Jaat](https://open.spotify.com/album/290kPIm8AJR2pAZXiiH4PZ) | 2:57 | 2023-07-24 | 2024-04-19 |
-| [Jaat](https://open.spotify.com/track/7ukOVopzKs1CFGZgZRTOMo) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Ghanu Music](https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T) | [Jaat](https://open.spotify.com/album/1T3kwFgMDCxWqQzfU61use) | 2:57 | 2024-04-17 |  |
+| [Jaat](https://open.spotify.com/track/7ukOVopzKs1CFGZgZRTOMo) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Ghanu Music](https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T) | [Jaat](https://open.spotify.com/album/1T3kwFgMDCxWqQzfU61use) | 2:57 | 2024-04-17 | 2026-02-04 |
 | [Jaat Anthem](https://open.spotify.com/track/3XcyzvbdfkXaXyFSEwUfUq) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Kajal Saraswat](https://open.spotify.com/artist/4lCRPDIGHWbey0EkWI9lF9), [Sumit Kajla](https://open.spotify.com/artist/3Hvf7S9LHmpan3CzIUGaRq) | [Jaat Anthem](https://open.spotify.com/album/1SlzsALoJIh9X8RQC67ScO) | 2:33 | 2023-07-31 |  |
+| [Jaat Bagdo](https://open.spotify.com/track/5Ru5rYJwwQuj1iHEL0OWDK) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Dj Sky](https://open.spotify.com/artist/0Y2IOTveRF8n7j99WXxgmK) | [ROAR](https://open.spotify.com/album/30WIZPazpfNErodEi7fulf) | 3:09 | 2026-01-30 |  |
 | [Jaat Flex](https://open.spotify.com/track/65aIf0BmkmnSbC0g7n3vfh) | [Sukh Deswal](https://open.spotify.com/artist/45YUQZr5AoXTOlVLBX07NF), [Samvee](https://open.spotify.com/artist/6RazaIkItMMHgNvl1s6TMj), [Gold E Gill](https://open.spotify.com/artist/1nReJyCgrkUDk0VfCGXpQ4) | [Jaat Flex](https://open.spotify.com/album/58sI7XUY0I9l0bSaeOfF7W) | 2:04 | 2025-09-12 | 2026-01-22 |
 | [Jail \(feat\. Pranjal Dahiya\)](https://open.spotify.com/track/5RwdPoK7ZjVNbdxdOqUBUb) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Jail \(feat\. Pranjal Dahiya\)](https://open.spotify.com/album/0WXwgIAdyIW0rkuUTf3pFo) | 3:26 | 2026-01-20 |  |
 | [Jalya Na Karo](https://open.spotify.com/track/2ja8pqhYArF0DmH3JmrCRV) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Jalya Na Karo](https://open.spotify.com/album/2tFI8HNfDtsfses9rm7jQP) | 3:42 | 2023-07-24 | 2024-03-27 |

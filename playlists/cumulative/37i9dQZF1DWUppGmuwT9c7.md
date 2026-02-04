@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-143 songs - 6 hr 55 min
+145 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [De Stad](https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [De Stad](https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO) | 2:38 | 2025-07-14 |  |
 | [De Tent Moet Op Z'n Kop](https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [De Tent Moet Op Z'n Kop](https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ) | 2:37 | 2025-10-14 |  |
 | [De Tent Moet Op Z’n Kop](https://open.spotify.com/track/5EkiXdCiQ8mkSyNop0p8Nr) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Kerremuskrakers 2025](https://open.spotify.com/album/2o6j823Nvogl0iVxfiSfcK) | 2:37 | 2025-10-07 | 2025-10-15 |
+| [De Tijger van de Kroeg](https://open.spotify.com/track/2pKg0EKeCyQbVgHoSStxfq) | [Mike Versteeg](https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB), [Martijn Leopardi](https://open.spotify.com/artist/0dNvb29pd5miS7r3ti22OO) | [De Tijger Van De Kroeg](https://open.spotify.com/album/20w8yUkTuJDK1SG2Au2HQq) | 3:12 | 2026-02-03 |  |
 | [De Toreador](https://open.spotify.com/track/59ZhqrmXub9nSwNGfOzg1N) | [Opgeblazen](https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng), [Wilbert Pigmans](https://open.spotify.com/artist/29ERE79ETWvm8bbINAW7Ix) | [De Toreador](https://open.spotify.com/album/57KGy1iD6DAAcPxw2I9B9Y) | 3:50 | 2025-07-14 |  |
 | [Dichtbij Me \(M'n Desire\)](https://open.spotify.com/track/70gBIf8EkbC8ZctAPOa7hZ) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Dichtbij Me \(M'n Desire\)](https://open.spotify.com/album/1nbik2GVFVuwkgIceDyBc2) | 2:47 | 2025-07-14 | 2025-08-28 |
 | [Doe Je Dansie](https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Doe Je Dansie](https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv) | 2:28 | 2025-07-14 | 2025-11-14 |
@@ -44,6 +45,7 @@
 | [Droom Jij Over Mij Vannacht](https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Droom Jij Over Mij Vannacht](https://open.spotify.com/album/7F3QzxZYm1dXmhjHctzsDy) | 3:10 | 2026-01-13 |  |
 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 | 2025-07-14 |  |
 | [Een bom](https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Een bom](https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C) | 3:24 | 2025-07-14 |  |
+| [Eigen Schuld](https://open.spotify.com/track/1AHGfEp4zcjYK9cjj6W1vT) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Eigen Schuld](https://open.spotify.com/album/61Qr7dTzKj6UJkDcgv1vG7) | 2:47 | 2026-02-03 |  |
 | [Engelbewaarder](https://open.spotify.com/track/3bqza6yXHT7b6JqbeyWpFD) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder](https://open.spotify.com/album/7zGrwd5rwbfQiLfuFtkTh4) | 3:16 | 2025-07-14 |  |
 | [Feest In De Tent](https://open.spotify.com/track/6rvwaPKrw99V8G7DoGSMvz) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Feest In De Tent](https://open.spotify.com/album/63A6NjvBZNYGbS2XcQ1fQh) | 3:20 | 2025-07-14 |  |
 | [Ferry de Roze Flamingo](https://open.spotify.com/track/5CQoqXdZsczvoX7anShh1l) | [Barry Fest](https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY), [Tim Schalkx](https://open.spotify.com/artist/1QW14VwiXvCTlCqqbnOSpG) | [Ferry de Roze Flamingo](https://open.spotify.com/album/4Kc5we1zceYF8XYHB9TESc) | 2:51 | 2025-07-14 |  |

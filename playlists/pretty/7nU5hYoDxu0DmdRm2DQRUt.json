@@ -1,13 +1,181 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 7859,
+  "num_followers": 7856,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAOom4Atf26IfPb2BkSAEXo6y3FoVPK",
+  "snapshot_id": "AAAOr0FpVndHN8M0hSExMXXYF/UH5XK0",
   "tracks": [
+    {
+      "added_at": "2026-02-03 14:49:06",
+      "album": {
+        "name": "Rachael",
+        "url": "https://open.spotify.com/album/4jdUf0aukv3DkLtICHHvpw"
+      },
+      "artists": [
+        {
+          "name": "Neue Grafik",
+          "url": "https://open.spotify.com/artist/0bffwHN6W2tHACqXcYSxJB"
+        },
+        {
+          "name": "Jerome Thomas",
+          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Bold",
+      "url": "https://open.spotify.com/track/1k5apHhk7tg5EPB52dZRVF"
+    },
+    {
+      "added_at": "2026-02-03 14:56:46",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/38dBhlUNmiwFYUKkZ3oLxr"
+      },
+      "artists": [
+        {
+          "name": "Natural Magic",
+          "url": "https://open.spotify.com/artist/2SDoHDOXo8wbrUEwGICYvv"
+        }
+      ],
+      "duration_ms": 462375,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/3QtPAtXM55ThFL0AYDyorn"
+    },
+    {
+      "added_at": "2026-02-03 14:56:23",
+      "album": {
+        "name": "Magic Roads",
+        "url": "https://open.spotify.com/album/34cxnCVF2w9jgVaKW0s25r"
+      },
+      "artists": [
+        {
+          "name": "Niju",
+          "url": "https://open.spotify.com/artist/52gcfKJpAGFdUkSVS6jSV4"
+        },
+        {
+          "name": "Ninze",
+          "url": "https://open.spotify.com/artist/09OTgUi5zNHlpAVZIqTKwp"
+        },
+        {
+          "name": "Raz Ohara",
+          "url": "https://open.spotify.com/artist/2FMUJIX6cW1Pby7my21xBO"
+        },
+        {
+          "name": "Ringo Chambre",
+          "url": "https://open.spotify.com/artist/5hrCF2QbkE7IHtddDiqntj"
+        }
+      ],
+      "duration_ms": 354774,
+      "name": "Moglis Song",
+      "url": "https://open.spotify.com/track/1Jk3u7FH714aAdNb8c7Yax"
+    },
+    {
+      "added_at": "2026-02-03 14:49:59",
+      "album": {
+        "name": "Anchor Songs",
+        "url": "https://open.spotify.com/album/25V9EwThcJmExQHojvnxvI"
+      },
+      "artists": [
+        {
+          "name": "Shakarchi & Stran\u00e9us",
+          "url": "https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H"
+        }
+      ],
+      "duration_ms": 387383,
+      "name": "Emerald Hill",
+      "url": "https://open.spotify.com/track/2WGGuwdoTGIBmUhRtQweCk"
+    },
+    {
+      "added_at": "2026-02-03 14:53:14",
+      "album": {
+        "name": "4T20M",
+        "url": "https://open.spotify.com/album/2pB0ujeQIyZ3Og8mT0QTqP"
+      },
+      "artists": [
+        {
+          "name": "Raxon",
+          "url": "https://open.spotify.com/artist/6gp9WP1OleU89x2gF9w2ID"
+        }
+      ],
+      "duration_ms": 346406,
+      "name": "Basick Beat",
+      "url": "https://open.spotify.com/track/73AVtmE8Kh2kL04geqKLXe"
+    },
+    {
+      "added_at": "2026-02-03 14:50:31",
+      "album": {
+        "name": "The Emergency",
+        "url": "https://open.spotify.com/album/0rXSbbSoBQJ3YMsRX5pft5"
+      },
+      "artists": [
+        {
+          "name": "Endrik Schroeder",
+          "url": "https://open.spotify.com/artist/36iWQyhQMf8sGugNrftuxl"
+        },
+        {
+          "name": "The Hacker",
+          "url": "https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp"
+        },
+        {
+          "name": "Back From The Wave",
+          "url": "https://open.spotify.com/artist/6oeoC9knF2qOtGG7lXEvms"
+        }
+      ],
+      "duration_ms": 345822,
+      "name": "The Emergency - Back From The Wave Breaky Remix",
+      "url": "https://open.spotify.com/track/0QnCpNNfaMnLo4KnM7hMHj"
+    },
+    {
+      "added_at": "2026-02-03 14:50:59",
+      "album": {
+        "name": "Explorations 03",
+        "url": "https://open.spotify.com/album/000oPjiKxNQRgGPl9tjXPT"
+      },
+      "artists": [
+        {
+          "name": "Sam Goku",
+          "url": "https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l"
+        }
+      ],
+      "duration_ms": 453967,
+      "name": "x-plor09 (much to give)",
+      "url": "https://open.spotify.com/track/6jHyMqxqLPU38LWoTITsti"
+    },
+    {
+      "added_at": "2026-02-03 14:51:40",
+      "album": {
+        "name": "Broken Glass Arch",
+        "url": "https://open.spotify.com/album/0tyB8npbjWEBf4lA9uR5XI"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Showreel, Pt. 1",
+      "url": "https://open.spotify.com/track/6EWWNKaCgZKHAGFFFkTPdi"
+    },
+    {
+      "added_at": "2026-02-03 14:52:33",
+      "album": {
+        "name": "Dispo",
+        "url": "https://open.spotify.com/album/2pyxM7SqhgBpx5tEq0sI2U"
+      },
+      "artists": [
+        {
+          "name": "Snad",
+          "url": "https://open.spotify.com/artist/3k40eJYuQantobcZHdKwZe"
+        }
+      ],
+      "duration_ms": 876331,
+      "name": "Dispo",
+      "url": "https://open.spotify.com/track/7AYPJw9HYPtYZGQP2Fw5jF"
+    },
     {
       "added_at": "2026-01-26 14:51:08",
       "album": {

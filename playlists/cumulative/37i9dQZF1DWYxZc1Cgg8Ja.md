@@ -2,9 +2,9 @@
 
 ### [Vibra Chill](https://open.spotify.com/playlist/37i9dQZF1DWYxZc1Cgg8Ja)
 
-> Sonidos latinos para relajarse a cualquier hora del día\. Foto: De La Ghetto, Ñengo Flow
+> Sonidos latinos para relajarse a cualquier hora del día\. Foto: ARIA VEGA
 
-204 songs - 10 hr 25 min
+205 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Casino](https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:01 | 2023-07-21 | 2025-08-23 |
 | [Chalala](https://open.spotify.com/track/4K918dPB4zViUAr9gHqTab) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Chalala](https://open.spotify.com/album/3Cqpeb59ZINiYhL9lhyroH) | 2:37 | 2025-02-21 | 2025-05-31 |
 | [Chimba De Día](https://open.spotify.com/track/0BAw066Ofh17UrdxHtsG2K) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Chimba De Día](https://open.spotify.com/album/3omHKTA33nV3VY0z3JO50Y) | 2:40 | 2024-06-21 | 2024-08-06 |
+| [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50) | 3:09 | 2026-02-03 |  |
 | [Clito \(feat\. Lenny Tavárez, Dalex & Brray\)](https://open.spotify.com/track/5p9p6Z7WfvbztQ7eQa3qr0) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [The Love & Sex Tape \(Deluxe Edition\)](https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT) | 3:25 | 2023-07-21 | 2023-11-11 |
 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 | 2023-07-21 | 2025-06-21 |
 | [Comerte a Besos \- Remix](https://open.spotify.com/track/5jsDh2866hUFi7Dhks4Dvn) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [elkno](https://open.spotify.com/artist/7Hk8R7m0IdaLY5Hy70BhIq), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Comerte a Besos \(Remix\)](https://open.spotify.com/album/46F1esWc3cNxz3aYveumej) | 4:00 | 2024-12-12 | 2025-06-14 |

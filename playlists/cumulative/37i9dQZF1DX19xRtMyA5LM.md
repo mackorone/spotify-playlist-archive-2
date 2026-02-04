@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Eves Laurent
 
-304 songs - 13 hr 50 min
+305 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Alcantara](https://open.spotify.com/track/6PBgiQ0JVfHBBidyIBQHMe) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Alcantara](https://open.spotify.com/album/4w79VeLMd0PpNWE4Q66zfR) | 3:47 | 2025-10-16 |  |
 | [Alleen](https://open.spotify.com/track/5IpWXgU0tQOVoSIRee6gAh) | [Ismo](https://open.spotify.com/artist/2vRJ1xr5DT4PdBnM63DBJZ) | [Alleen](https://open.spotify.com/album/45MzQHCdPvlwNawqMof424) | 2:29 | 2025-09-04 | 2025-09-19 |
 | [Alles of Niks](https://open.spotify.com/track/2wyqjUBjFMAqS2ACYmQA9F) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [THEZ](https://open.spotify.com/artist/5Eo75LPyKw1VknEGpMrcO6) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 3:06 | 2026-01-22 | 2026-01-27 |
+| [Ambassade](https://open.spotify.com/track/3YoaeRrMo9u4jDWcBDyUJu) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 3:09 | 2026-02-03 |  |
 | [Annie](https://open.spotify.com/track/61zWhf6RKGGXcIONwtmMsK) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Annie](https://open.spotify.com/album/4ib2gF1REV9lhSSRsfUA6E) | 1:57 | 2025-08-28 | 2025-09-26 |
 | [Archives](https://open.spotify.com/track/7qqMHnEtc7uH0YpKDortUU) | [HIGH SOCIETY](https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk), [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk) | [Springplank 2](https://open.spotify.com/album/5RBDnynhE6JzqTX7crUAXd) | 3:15 | 2025-07-17 | 2025-08-08 |
 | [AUDI](https://open.spotify.com/track/2z4aCFqMlVPR4mFRLBYQsI) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [AUDI](https://open.spotify.com/album/5eqqiWRn7PWdM02BBbVqNM) | 2:06 | 2025-10-21 | 2025-12-05 |
@@ -41,7 +42,7 @@
 | [Ballie](https://open.spotify.com/track/66rXMEm5GJsAXEbhuLks50) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [Ballie](https://open.spotify.com/album/55umMdwSFkqtjvJfktDi8K) | 2:53 | 2025-09-25 | 2025-12-05 |
 | [Bandz](https://open.spotify.com/track/0X7knxXVCAIt08kX8LWVC6) | [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD), [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [RpBeats](https://open.spotify.com/artist/5KycryP0jIKEwY9sl1Fpq9) | [Bandz](https://open.spotify.com/album/799RMHsa3qm6sBzu0CP8KS) | 2:10 | 2025-07-17 | 2025-07-25 |
 | [Banlieue](https://open.spotify.com/track/1GNQaqjUla0JLBM8bLxdL7) | [Shep500](https://open.spotify.com/artist/2L1iisFuoQkvqAxNv1RdpU) | [Banlieue](https://open.spotify.com/album/45tSyBs3b6fJhCG4qjWsPe) | 2:41 | 2025-07-17 | 2025-08-05 |
-| [Beeldspraak](https://open.spotify.com/track/7gNMzb2QugWttXBA63EGM0) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 3:27 | 2026-01-22 |  |
+| [Beeldspraak](https://open.spotify.com/track/7gNMzb2QugWttXBA63EGM0) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 3:27 | 2026-01-22 | 2026-02-04 |
 | [Beemsterstraat](https://open.spotify.com/track/41htoqaciyMHG4NELcoI6h) | [SKEEKS](https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa) | [Beemsterstraat](https://open.spotify.com/album/4fIC1wHhQghmmJZS5QmFJT) | 2:20 | 2025-12-04 | 2026-01-15 |
 | [Before The Hype](https://open.spotify.com/track/6Xl8SV2MuJgXtytiJwX5Vz) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Before The Hype](https://open.spotify.com/album/5DrNm3Tp7PpS2zNHas1uLR) | 2:30 | 2026-01-29 |  |
 | [BEHIND ENEMY LINES](https://open.spotify.com/track/7K7z4QPD7bAIAlKsHAAhqz) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [BEHIND ENEMY LINES](https://open.spotify.com/album/6p8htScfXLAi98BHQfmPTX) | 2:13 | 2026-01-15 |  |

@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-108 songs - 5 hr 50 min
+109 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Down by the riverside](https://open.spotify.com/track/52jLngTSe3hZaI7Trl4DXX) | [Manja Sjögren](https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl) | [Down by the riverside](https://open.spotify.com/album/2gyTnIkpU9KKalqSP9PLz8) | 2:28 | 2025-01-14 |  |
 | [Embrace](https://open.spotify.com/track/1gfNQ4y447h6OM7yIJWOd3) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Embrace](https://open.spotify.com/album/0gRl4YwIyEXtG8wo40Fm7G) | 2:30 | 2023-02-23 |  |
 | [Etude](https://open.spotify.com/track/4qIluUXW2uoi0tafnAtQUb) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 2:27 | 2022-10-13 |  |
-| [Eye of the Beholder](https://open.spotify.com/track/1YzAdjRV5vZFLkCqPS86I5) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Eye of the Beholder](https://open.spotify.com/album/6UexEudGbmVE1YjxSXwjhH) | 2:16 | 2024-09-09 |  |
+| [Eye of the Beholder](https://open.spotify.com/track/1YzAdjRV5vZFLkCqPS86I5) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Eye of the Beholder](https://open.spotify.com/album/6UexEudGbmVE1YjxSXwjhH) | 2:16 | 2024-09-09 | 2026-02-04 |
 | [Fading Dreams](https://open.spotify.com/track/7xCCrULuI3kbxF5bzYo80f) | [Carl Antaine](https://open.spotify.com/artist/5KXf7KzCn3CFeB3hRvHvqc) | [The Insider](https://open.spotify.com/album/791J5RIlG4Eptun25ffYtX) | 2:04 | 2022-10-13 |  |
 | [Father Time](https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Slava Grigoryan](https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG) | [Travel Guide](https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua) | 4:37 | 2022-10-13 |  |
 | [Floating Upstreams](https://open.spotify.com/track/5vhAoUrsxJZfiHQK8Tpx1y) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 2:51 | 2022-10-13 |  |
@@ -48,6 +48,7 @@
 | [From The Mountains](https://open.spotify.com/track/2vrav3XxztyyB5jnvg3IEH) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/65WGqUztAtgLA6KLy9rcwJ) | 8:20 | 2023-10-26 | 2024-04-19 |
 | [From The Mountains](https://open.spotify.com/track/7evvPuIQkcJEPki0t5nkxd) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [From The Mountains](https://open.spotify.com/album/6eSbOxKBVFiUUF8iKSs9aB) | 8:20 | 2023-04-13 | 2025-11-15 |
 | [Golden Slumbers](https://open.spotify.com/track/553aXMKRk0Kh41QpvbuuFt) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6) | [Plays McCartney](https://open.spotify.com/album/7Fo8n4zfC54z0Yjgv8qVKY) | 2:43 | 2022-10-13 |  |
+| [Haley's Comet](https://open.spotify.com/track/6l5ugDTNaJpzROfC1OLEIJ) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Haley's Comet](https://open.spotify.com/album/6wVjnR2KDv2pzNKN3g7HTe) | 2:40 | 2026-02-03 |  |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/0FzscnPl4utP0vONzitk5J) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [Have You Met Miss Jones?](https://open.spotify.com/album/6xpcssp9Q6hcgyC7upWVFo) | 2:24 | 2023-02-23 |  |
 | [Hazy](https://open.spotify.com/track/687knmd9df9s6TRLzRVEOZ) | [Gina Wahler](https://open.spotify.com/artist/2qYWM0svFgRslCfVj36xcC) | [Hazy](https://open.spotify.com/album/45XVtdfgbmjIOEl3lLZhc2) | 3:04 | 2022-10-13 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/2DNS7kGX6HZY4L64nStAld) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or) | [Cabin Fever](https://open.spotify.com/album/4OFna3RHjT4D2xgsrQBbXe) | 6:30 | 2022-10-13 |  |

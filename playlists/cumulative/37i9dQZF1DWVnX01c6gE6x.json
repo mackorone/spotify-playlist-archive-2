@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Creadores que necesitas tener en el RADAR. En la portada: <a href=\"spotify:show:3dbajnsA1YJq9SS64Aoey4\">Campechanas Podcast</a>",
+  "description": "Creadores que necesitas tener en el RADAR. En la portada: <a href=\"spotify:show:0us1YJIMLmRSwTmm3Z1jAF\">El Sindicato de Inexpertos</a>",
   "name": "RADAR Creadores M\u00e9xico",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 3567273,
       "name": "CAMILA NO NOS INVIT\u00d3 A SU FIESTA \ud83d\ude21 Ep.37 [Cumplea\u00f1os] \ud83e\udd73 - El Grupito de Atr\u00e1s \ud83d\udde3\ufe0f",
       "url": "https://open.spotify.com/episode/0DsXB1RBGZOwb66SEY0IOL"
@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Kayko",
+        "url": "https://open.spotify.com/album/0W6FJj0o0IhuIUluVYviEf"
+      },
+      "artists": [
+        {
+          "name": "Kayko",
+          "url": "https://open.spotify.com/show/0W6FJj0o0IhuIUluVYviEf"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3343603,
+      "name": "Como nos vemos en el 2026",
+      "url": "https://open.spotify.com/episode/7LYYWY7efGWVyaRfImlZSK"
+    },
+    {
+      "album": {
         "name": "Se Regalan Sustos",
         "url": "https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb"
       },
@@ -556,7 +574,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 2077333,
       "name": "Cuerpos de verano | Ep. 19",
       "url": "https://open.spotify.com/episode/25DFPF2bz3YFOV8vPA7EfG"
@@ -671,6 +689,60 @@
     },
     {
       "album": {
+        "name": "El Sindicato de Inexpertos",
+        "url": "https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF"
+      },
+      "artists": [
+        {
+          "name": "El Sindicato de Inexpertos",
+          "url": "https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7769642,
+      "name": "EP27: IA nos carg\u00f3 el payaso: El lado oscuro de la IA",
+      "url": "https://open.spotify.com/episode/5NH0f3858s4Fz2smpWFbmm"
+    },
+    {
+      "album": {
+        "name": "El Sindicato de Inexpertos",
+        "url": "https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF"
+      },
+      "artists": [
+        {
+          "name": "El Sindicato de Inexpertos",
+          "url": "https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4167701,
+      "name": "EP32: \u00bfPensamos distinto seg\u00fan nuestra cultura?",
+      "url": "https://open.spotify.com/episode/2nBSmjwj3QOpcFR6JfcbsF"
+    },
+    {
+      "album": {
+        "name": "El Sindicato de Inexpertos",
+        "url": "https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF"
+      },
+      "artists": [
+        {
+          "name": "El Sindicato de Inexpertos",
+          "url": "https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4674474,
+      "name": "EP34: Cuando Me\u0301xico bebio\u0301 leche radiactiva en los an\u0303os 80",
+      "url": "https://open.spotify.com/episode/177dzOFPIr8GduoHckHnQn"
+    },
+    {
+      "album": {
         "name": "Buz\u00f3n de quejas",
         "url": "https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa"
       },
@@ -682,7 +754,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 3812991,
       "name": "Episodio #211 / \u00bfSe separa Pacas?",
       "url": "https://open.spotify.com/episode/4PDMR9Bx9o0qW1Ccg9rUFn"
@@ -700,7 +772,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 4169642,
       "name": "Episodio #212 / Desviv\u00ed a mi gallina con Jaro Hern\u00e1ndez",
       "url": "https://open.spotify.com/episode/6XdxILDttLO1HKZZC2qd6D"
@@ -1085,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Cachorritas Podcast",
+        "url": "https://open.spotify.com/album/33otctvlvENqmean7uvNWH"
+      },
+      "artists": [
+        {
+          "name": "Cachorritas Podcast",
+          "url": "https://open.spotify.com/show/33otctvlvENqmean7uvNWH"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2018278,
+      "name": "Los de pueblo tambi\u00e9n podemos so\u00f1ar en grande| Cachorritas Podcast| Ep 23",
+      "url": "https://open.spotify.com/episode/5mePPlJgkz9HkKz5KV4xkZ"
+    },
+    {
+      "album": {
         "name": "Se Regalan Sustos",
         "url": "https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb"
       },
@@ -1132,7 +1222,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 3999785,
       "name": "me enamor\u00e9 de mi psiquiatra, el caso de amy bradley + trisha paytas fangirling | campechanas ep16",
       "url": "https://open.spotify.com/episode/3KUUMhOhz4Kj14ogHBw348"
@@ -1211,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Cachorritas Podcast",
+        "url": "https://open.spotify.com/album/33otctvlvENqmean7uvNWH"
+      },
+      "artists": [
+        {
+          "name": "Cachorritas Podcast",
+          "url": "https://open.spotify.com/show/33otctvlvENqmean7uvNWH"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1796017,
+      "name": "Noviazgos de Pueblo | Cachorritas Podcast | Ep 02",
+      "url": "https://open.spotify.com/episode/6fM5cok1ukGOOWUX06KQe3"
+    },
+    {
+      "album": {
         "name": "Chisme Corporativo",
         "url": "https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf"
       },
@@ -1240,7 +1348,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 4734164,
       "name": "opiniones impopulares: body positivity t\u00f3xica, la crianza respetuosa y m\u00e1s | campechanas ep15",
       "url": "https://open.spotify.com/episode/77tjzy1HJQnL2hyq0CEhdN"
@@ -1298,6 +1406,24 @@
       "duration_ms": 4941738,
       "name": "Practicas Paranormales y Mi Experiencia con el Catolicismo Ft Mariana Maus",
       "url": "https://open.spotify.com/episode/6kFZV8QvIW750mUbYRftSc"
+    },
+    {
+      "album": {
+        "name": "Cachorritas Podcast",
+        "url": "https://open.spotify.com/album/33otctvlvENqmean7uvNWH"
+      },
+      "artists": [
+        {
+          "name": "Cachorritas Podcast",
+          "url": "https://open.spotify.com/show/33otctvlvENqmean7uvNWH"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2644126,
+      "name": "Privilegios \u00bfSon los mismos para todos?| Cachorritas Podcast| Ep 14",
+      "url": "https://open.spotify.com/episode/3iBz68NFj1DRi4TdW7WYDH"
     },
     {
       "album": {
@@ -1384,7 +1510,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 2788373,
       "name": "Ser gorda en la industria de la moda | Ep. 16",
       "url": "https://open.spotify.com/episode/2D2c8y3pjOU8cZHCVb4dQH"
@@ -1402,7 +1528,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 3612180,
       "name": "SOMOS TEAM \u00c1NGELA AGUILAR Y FLORINDA MEZA \ud83d\udc4a\ud83c\udffc Ep.38 [Villanos] \ud83d\udc7a - El Grupito de Atr\u00e1s \ud83d\udde3\ufe0f",
       "url": "https://open.spotify.com/episode/2lbCjntcuFY7SFpa2J45N8"
@@ -1589,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Kayko",
+        "url": "https://open.spotify.com/album/0W6FJj0o0IhuIUluVYviEf"
+      },
+      "artists": [
+        {
+          "name": "Kayko",
+          "url": "https://open.spotify.com/show/0W6FJj0o0IhuIUluVYviEf"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3082100,
+      "name": "Tipos de EXES ",
+      "url": "https://open.spotify.com/episode/65S0G99slFUVN9T7L2BMic"
+    },
+    {
+      "album": {
         "name": "Se Regalan Sustos",
         "url": "https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb"
       },
@@ -1604,6 +1748,24 @@
       "duration_ms": 4114295,
       "name": "Verdades Siniestras en Pel\u00edculas de Terror | Camino Hacia el Terror",
       "url": "https://open.spotify.com/episode/6L9g4aJMJ6gDz5cv3fk6jC"
+    },
+    {
+      "album": {
+        "name": "Kayko",
+        "url": "https://open.spotify.com/album/0W6FJj0o0IhuIUluVYviEf"
+      },
+      "artists": [
+        {
+          "name": "Kayko",
+          "url": "https://open.spotify.com/show/0W6FJj0o0IhuIUluVYviEf"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3508674,
+      "name": "Y si nunca encuentro el amor",
+      "url": "https://open.spotify.com/episode/4n6ru8jPT97x4tPKKQpnVh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVnX01c6gE6x"

@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Nonpalidece & Tippy I-Grade",
-  "num_followers": 1175162,
+  "num_followers": 1175084,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Ll\u00e9vame (Cultura Remix)",
+        "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 264913,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 238986,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Ll\u00e9vame (Cultura Remix)",
-        "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 264913,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Nonpalidesenchufado",
-        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 314772,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 276904,
       "name": "ME TENGO QUE IR",
       "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Nonpalidesenchufado",
+        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 314772,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Volando",
-        "url": "https://open.spotify.com/album/7v9HxzEvMgfrrWznESp8xB"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 190761,
-      "name": "Volando",
-      "url": "https://open.spotify.com/track/0wxpeuCoSkPpbviobSt54E"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Forever Together !",
         "url": "https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 299972,
       "name": "Todo vuelve a su lugar",
       "url": "https://open.spotify.com/track/3DOOQAScRTa3oTszGN3XZg"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Volando",
+        "url": "https://open.spotify.com/album/7v9HxzEvMgfrrWznESp8xB"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 190761,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/0wxpeuCoSkPpbviobSt54E"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "\u00daltimos D\u00edas",
-        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 319933,
-      "name": "\u00daltimos D\u00edas",
-      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "7 Vidas",
         "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 201347,
       "name": "7 Vidas",
       "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "\u00daltimos D\u00edas",
+        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 319933,
+      "name": "\u00daltimos D\u00edas",
+      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Obvio S\u00ed",
+        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
+      },
+      "artists": [
+        {
+          "name": "Rastacuando",
+          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
+        }
+      ],
+      "duration_ms": 177536,
+      "name": "El Seis",
+      "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Liberarme",
         "url": "https://open.spotify.com/album/0dJKk73j5rN2tu7hK8HRMu"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 184408,
       "name": "Liberarme",
       "url": "https://open.spotify.com/track/31W2QU9RX9jJiJ0n3UtQS4"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Obvio S\u00ed",
-        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
-      },
-      "artists": [
-        {
-          "name": "Rastacuando",
-          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
-        }
-      ],
-      "duration_ms": 177536,
-      "name": "El Seis",
-      "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Baile de Miradas",
-        "url": "https://open.spotify.com/album/7zmGLX2n4p6lch8AJyAJTu"
-      },
-      "artists": [
-        {
-          "name": "Los Afro Brothers",
-          "url": "https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq"
-        }
-      ],
-      "duration_ms": 217717,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Long Time Ago",
         "url": "https://open.spotify.com/album/3qoUdqO3KEgw5hoEAWIsPv"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 131739,
       "name": "Long Time Ago",
       "url": "https://open.spotify.com/track/7lyuYzBOtv2lhark08WlTw"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Baile de Miradas",
+        "url": "https://open.spotify.com/album/7zmGLX2n4p6lch8AJyAJTu"
+      },
+      "artists": [
+        {
+          "name": "Los Afro Brothers",
+          "url": "https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq"
+        }
+      ],
+      "duration_ms": 217717,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "En La Tormenta",
+        "url": "https://open.spotify.com/album/2PbL7fuZ1qYZXlJBBhJUZC"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 203665,
+      "name": "En La Tormenta",
+      "url": "https://open.spotify.com/track/7vqjWxhicufwoXsc6fBokL"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Llegaste A M\u00ed",
         "url": "https://open.spotify.com/album/29bASZaLBI3n4wfIh9dren"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 212342,
       "name": "Llegaste A M\u00ed",
       "url": "https://open.spotify.com/track/5grcUqpWzP1TPr4cmTGGnR"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "En La Tormenta",
-        "url": "https://open.spotify.com/album/2PbL7fuZ1qYZXlJBBhJUZC"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 203665,
-      "name": "En La Tormenta",
-      "url": "https://open.spotify.com/track/7vqjWxhicufwoXsc6fBokL"
     }
   ],
   "unique_name": "Reggae en Espa\u00f1ol",

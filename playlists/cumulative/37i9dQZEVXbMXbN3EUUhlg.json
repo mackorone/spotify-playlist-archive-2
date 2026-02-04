@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 250453,
       "name": "12 Horas / Pra Voc\u00ea Acreditar - Ao Vivo",
       "url": "https://open.spotify.com/track/2j7IPPMZt5nE5R4r2AbKZ8"
@@ -7074,7 +7074,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 314880,
       "name": "Chat\u00e3o",
       "url": "https://open.spotify.com/track/5jXXQY6LLlEtEWMDL6XcaP"
@@ -9258,7 +9258,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 150442,
       "name": "Desocupa",
       "url": "https://open.spotify.com/track/473DqaeIno75pBbp0bNrkT"
@@ -11508,7 +11508,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 157358,
       "name": "Errado o Triplo (\u00d4h Perigo) - Ao Vivo",
       "url": "https://open.spotify.com/track/4TvVqX9HOMTvDJXYHxHbq7"
@@ -25138,7 +25138,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 140487,
       "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
@@ -28164,7 +28164,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 178526,
       "name": "Quarto 67 - Ao Vivo",
       "url": "https://open.spotify.com/track/1FoV9rUsKIecaQpSap2YLn"
@@ -28848,7 +28848,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 185984,
       "name": "Retrovisor",
       "url": "https://open.spotify.com/track/4QZqSqxdcgAbtZle4MS4ph"
@@ -31040,6 +31040,56 @@
       "duration_ms": 294418,
       "name": "Sereia",
       "url": "https://open.spotify.com/track/5geU4byUA1hnQofQPOsPDS"
+    },
+    {
+      "album": {
+        "name": "SET DJ YURI PEDRADA - TRAVA CHIP",
+        "url": "https://open.spotify.com/album/1sLXpSh9ol5lle83QZyJTI"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        },
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "MC GDL",
+          "url": "https://open.spotify.com/artist/65uZqk8hbCuVjZa3l9WWt1"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487384,
+      "name": "SET DJ YURI PEDRADA - TRAVA CHIP",
+      "url": "https://open.spotify.com/track/65O1EyYSg0Leyf0li6Vzah"
     },
     {
       "album": {

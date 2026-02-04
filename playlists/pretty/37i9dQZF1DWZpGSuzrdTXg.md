@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,921 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,901 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Prizefighter](https://open.spotify.com/track/2Wp6mnhsFbqECf90ZgfpaC) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [The Lighthouse](https://open.spotify.com/album/6yZlmaOAjcmKiGRkxaogrO) | 4:23 |
-| 2 | [Who Knows](https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:46 |
-| 3 | [Till the Morning \- Symphonic Version](https://open.spotify.com/track/0p2myH6LY0j7vIMq0WW9Eu) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Till the Morning \(Symphonic Version\)](https://open.spotify.com/album/5E3kipqq7kqOhN6uMTNYlk) | 4:28 |
-| 4 | [april](https://open.spotify.com/track/7xba9o02EQR0YMrBOZ4d10) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [april](https://open.spotify.com/album/6qJIriPhREpx7cSdgGAtFL) | 2:21 |
-| 5 | [Panacea](https://open.spotify.com/track/3Lw0P6202eEN0KG3rdRhxu) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Panacea](https://open.spotify.com/album/5tCSkZXGKuVYl6jRKGAnjy) | 4:42 |
-| 6 | [Portland, Maine \(feat\. Jordan Davis\)](https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Portland, Maine \(10th Anniversary Edition\)](https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov) | 3:30 |
-| 7 | [Fade Into You](https://open.spotify.com/track/1e1eEwrEB10AS63wLn5GQ9) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Fade Into You](https://open.spotify.com/album/3c9SQJHK76DoMQ7xSdwBIj) | 3:16 |
-| 8 | [Too Good To Be True \(feat\. Merrick Winter\)](https://open.spotify.com/track/5VD2s6ASgUPXunzA7vVra3) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [Merrick Winter](https://open.spotify.com/artist/5saJxCU9CGqagElzzIXgfI) | [Too Good To Be True \(feat\. Merrick Winter\)](https://open.spotify.com/album/3MifL1uttV2mS2snSADT6X) | 3:17 |
-| 9 | [Heartbreak & Roses](https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Heartbreak & Roses](https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3) | 5:54 |
-| 10 | [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 |
-| 11 | [Until My Last Breath](https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Until My Last Breath](https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT) | 2:57 |
+| 1 | [Portland, Maine \(feat\. Jordan Davis\)](https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Portland, Maine \(10th Anniversary Edition\)](https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov) | 3:30 |
+| 2 | [Too Good To Be True \(feat\. Merrick Winter\)](https://open.spotify.com/track/5VD2s6ASgUPXunzA7vVra3) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [Merrick Winter](https://open.spotify.com/artist/5saJxCU9CGqagElzzIXgfI) | [Too Good To Be True \(feat\. Merrick Winter\)](https://open.spotify.com/album/3MifL1uttV2mS2snSADT6X) | 3:17 |
+| 3 | [Heartbreak & Roses](https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Heartbreak & Roses](https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3) | 5:54 |
+| 4 | [Prizefighter](https://open.spotify.com/track/2Wp6mnhsFbqECf90ZgfpaC) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [The Lighthouse](https://open.spotify.com/album/6yZlmaOAjcmKiGRkxaogrO) | 4:23 |
+| 5 | [Who Knows](https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:46 |
+| 6 | [Till the Morning \- Symphonic Version](https://open.spotify.com/track/0p2myH6LY0j7vIMq0WW9Eu) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Till the Morning \(Symphonic Version\)](https://open.spotify.com/album/5E3kipqq7kqOhN6uMTNYlk) | 4:28 |
+| 7 | [april](https://open.spotify.com/track/7xba9o02EQR0YMrBOZ4d10) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [april](https://open.spotify.com/album/6qJIriPhREpx7cSdgGAtFL) | 2:21 |
+| 8 | [Until My Last Breath](https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Until My Last Breath](https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT) | 2:57 |
+| 9 | [Panacea](https://open.spotify.com/track/3Lw0P6202eEN0KG3rdRhxu) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Panacea](https://open.spotify.com/album/5tCSkZXGKuVYl6jRKGAnjy) | 4:42 |
+| 10 | [Fade Into You](https://open.spotify.com/track/1e1eEwrEB10AS63wLn5GQ9) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Fade Into You](https://open.spotify.com/album/3c9SQJHK76DoMQ7xSdwBIj) | 3:16 |
+| 11 | [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 |
 | 12 | [I see your eyes everywhere \- Remastered](https://open.spotify.com/track/0QARrDwdhLC0kcAUrJ5i1J) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [I see your eyes everywhere \(Remastered\)](https://open.spotify.com/album/6Is6XStZbO3OxwDLx5OYdG) | 2:56 |
 | 13 | [The Ocean](https://open.spotify.com/track/2L3yAc4GOgoDJb50YKVqxw) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [The Ocean](https://open.spotify.com/album/6ab2amp1PfPLEklhyIKqf3) | 1:03 |
 | 14 | [Lies \- Acoustic Piano](https://open.spotify.com/track/19tlQPgqiFl964Vuz5tOGB) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Lies \(Acoustic Piano\)](https://open.spotify.com/album/5itEPqoXNem3qWRtPiRC2V) | 4:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [Best Day Of My Life](https://open.spotify.com/track/45tIEhTXA50v2MQ4yazpxF) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [Best Day of My Life](https://open.spotify.com/album/6dEsYPAyaDPGSFj4gmJuHL) | 3:44 |
 | 100 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
 
-Snapshot ID: `AAAAAGlA+e1MVn359vCeqFBrnU30qPSi`
+Snapshot ID: `AAAAALCosB2lYfUpZnJex8ZN1Re2HQ8k`

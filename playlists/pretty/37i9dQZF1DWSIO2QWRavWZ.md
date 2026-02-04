@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Bellah
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,509 likes - 146 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,551 likes - 146 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

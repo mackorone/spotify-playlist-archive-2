@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > Unmask your true love\. Listen to the music from Bridgerton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,633,951 likes - 114 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638,770 likes - 114 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Life In Technicolor](https://open.spotify.com/track/0L9mQWPKNFRyaiIUCd9O3x) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 2:56 |
-| 2 | [DJ Got Us Falling In Love](https://open.spotify.com/track/2EOTuQRTwNaqzyg9CAhzZr) | [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 3:22 |
+| 2 | [DJ Got US Fallin’ In Love](https://open.spotify.com/track/2EOTuQRTwNaqzyg9CAhzZr) | [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 3:22 |
 | 3 | [Never Let You Go](https://open.spotify.com/track/5chAAj8QNNl2dMHlZh4Sjy) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 3:31 |
 | 4 | [Enchanted](https://open.spotify.com/track/296XTKncz9ZLktJWUM2Xsh) | [Joseph William Morgan](https://open.spotify.com/artist/3iZ86mYR1dGoTWIHFMoT03) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 3:55 |
 | 5 | [All I Wanted](https://open.spotify.com/track/7kENWNGw5C2v3HfBsEdWxi) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 3:20 |

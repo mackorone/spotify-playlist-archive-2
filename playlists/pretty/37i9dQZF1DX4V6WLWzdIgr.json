@@ -1,13 +1,77 @@
 {
   "description": "\"Aku pancen ora sempurna, gampang terluka...\" \ud83d\udc94",
-  "num_followers": 237810,
+  "num_followers": 237821,
   "original_name": "Ambyar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFyYtNcfcKu6DHerhZ2CEeIENfE+",
+  "snapshot_id": "AAAAACtJhbEdytEoZh47y8yrq/FjkaZ+",
   "tracks": [
+    {
+      "added_at": "2026-02-03 08:12:26",
+      "album": {
+        "name": "Ropang (NDX A.K.A Version)",
+        "url": "https://open.spotify.com/album/5l2hjtoFAUeUYqVOoguj2A"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "duration_ms": 234946,
+      "name": "Ropang - NDX A.K.A Version",
+      "url": "https://open.spotify.com/track/5l6mQ6QOhmwPmPjUxkDTta"
+    },
+    {
+      "added_at": "2026-02-03 08:12:26",
+      "album": {
+        "name": "Aku Tetep Bali",
+        "url": "https://open.spotify.com/album/5QfBk6Y3qSYYrE9cnVAQR9"
+      },
+      "artists": [
+        {
+          "name": "Vadesta",
+          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Aku Tetep Bali",
+      "url": "https://open.spotify.com/track/1J9IHbIfkabPZSxZt3LoWG"
+    },
+    {
+      "added_at": "2026-02-03 08:12:26",
+      "album": {
+        "name": "Atiku Ajur",
+        "url": "https://open.spotify.com/album/1axIrJ3djL3B1tbDwzlN3H"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "duration_ms": 472000,
+      "name": "Atiku Ajur",
+      "url": "https://open.spotify.com/track/730ZF1fdxa1Ule8TNVFeA7"
+    },
+    {
+      "added_at": "2026-02-03 08:12:26",
+      "album": {
+        "name": "Ajur",
+        "url": "https://open.spotify.com/album/2xj30sMia50aGitejKMDPy"
+      },
+      "artists": [
+        {
+          "name": "Sleman Receh",
+          "url": "https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Ajur",
+      "url": "https://open.spotify.com/track/3xKvaef3MTIy1HLiARUCa4"
+    },
     {
       "added_at": "2025-11-05 03:08:59",
       "album": {
@@ -61,6 +125,22 @@
       "url": "https://open.spotify.com/track/6i6r1Z2Bl7vdZbIfYtHnIu"
     },
     {
+      "added_at": "2026-02-03 08:12:26",
+      "album": {
+        "name": "Sewates Gandrung",
+        "url": "https://open.spotify.com/album/5P2jxvTbCeXpP2207z7IZT"
+      },
+      "artists": [
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        }
+      ],
+      "duration_ms": 262372,
+      "name": "Sewates Gandrung",
+      "url": "https://open.spotify.com/track/6uvS6ZHcvNaI1zo6cWHhbT"
+    },
+    {
       "added_at": "2025-11-06 20:47:40",
       "album": {
         "name": "Cidera Serius",
@@ -99,6 +179,26 @@
       "duration_ms": 259200,
       "name": "Asing",
       "url": "https://open.spotify.com/track/6G0NSuLgeigUIqpwC69ac4"
+    },
+    {
+      "added_at": "2026-02-03 08:12:26",
+      "album": {
+        "name": "NDX A.K.A. FAMILIA",
+        "url": "https://open.spotify.com/album/3ZoeNQiKCsbCP5cY1O6yus"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        },
+        {
+          "name": "PJR",
+          "url": "https://open.spotify.com/artist/6bD3YWzWbah6b66U3jLkQK"
+        }
+      ],
+      "duration_ms": 200974,
+      "name": "Kelingan Mantan",
+      "url": "https://open.spotify.com/track/6hdIeCcyyiaktYIH8DvJhU"
     },
     {
       "added_at": "2025-11-05 03:08:59",
@@ -915,38 +1015,6 @@
     {
       "added_at": "2025-11-05 03:08:59",
       "album": {
-        "name": "Jejantunging Kalbu",
-        "url": "https://open.spotify.com/album/2ynImb4jWZArEaeN5MbM1Y"
-      },
-      "artists": [
-        {
-          "name": "Woro Widowati",
-          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
-        }
-      ],
-      "duration_ms": 269032,
-      "name": "Jejantunging Kalbu",
-      "url": "https://open.spotify.com/track/3ZnKGBeVyJrs4gFVtsEJmD"
-    },
-    {
-      "added_at": "2025-11-05 03:08:59",
-      "album": {
-        "name": "Rindu Tapi Jauh",
-        "url": "https://open.spotify.com/album/6eJl7AILdiuhn6Ur8qE4Zh"
-      },
-      "artists": [
-        {
-          "name": "Mala Agatha",
-          "url": "https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB"
-        }
-      ],
-      "duration_ms": 244038,
-      "name": "Rindu Tapi Jauh",
-      "url": "https://open.spotify.com/track/3SbYOFXV6n6C7FxJVWISY9"
-    },
-    {
-      "added_at": "2025-11-05 03:08:59",
-      "album": {
         "name": "Ora Ngemis Bali",
         "url": "https://open.spotify.com/album/2QZRcFHFmmZW0CZDdezMCB"
       },
@@ -1291,22 +1359,6 @@
       "duration_ms": 274879,
       "name": "Nemen HipHop Dangdut Version",
       "url": "https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS"
-    },
-    {
-      "added_at": "2025-11-05 03:08:59",
-      "album": {
-        "name": "Dadi Siji",
-        "url": "https://open.spotify.com/album/6bnn3gvenkbop8CsSE7PkE"
-      },
-      "artists": [
-        {
-          "name": "Woro Widowati",
-          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
-        }
-      ],
-      "duration_ms": 226942,
-      "name": "Dadi Siji",
-      "url": "https://open.spotify.com/track/7vJffOmu35UgVjAasLGSts"
     },
     {
       "added_at": "2025-11-05 03:08:59",

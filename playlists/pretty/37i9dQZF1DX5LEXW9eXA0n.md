@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: 김민석 \(Kim Min seok\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,138 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,175 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 |
-| 2 | [Countdown to Three like a Habit](https://open.spotify.com/track/6EbVa7DkMT0Uy7zs3Hj9lQ) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/45L3afdB7MgheLyaAjRV8t) | [Countdown to Three like a Habit : Wish+ Ep\. 02](https://open.spotify.com/album/1b0vlTAlYnDzKYDPPKxyt5) | 5:48 |
+| 2 | [Countdown to Three like a Habit](https://open.spotify.com/track/6EbVa7DkMT0Uy7zs3Hj9lQ) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Countdown to Three like a Habit : Wish+ Ep\. 02](https://open.spotify.com/album/1b0vlTAlYnDzKYDPPKxyt5) | 5:48 |
 | 3 | [Words I Never Said](https://open.spotify.com/track/0y0iug6LnWXJzDlW8inP8N) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [To My Beloved Thief, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/44WRSzIf5J3ccuvdym0aCY) | 3:58 |
 | 4 | [Rough](https://open.spotify.com/track/1g4e8dKDarkiCkfMQWPOUS) | [SWAN](https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g) | [Movie ‘Our Sweet Home’ Special Track\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/3GZGjJqOAZrkD1tB71e39M) | 3:00 |
 | 5 | [Last Love\(feat\. LEE Mujin\)](https://open.spotify.com/track/43mBIaKq0WKjyb5c4C5p94) | [Lee Ye Ji](https://open.spotify.com/artist/7lxQNSuiUoDOW1sIb5MgdB), [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ballad of Us Radio Episode 4](https://open.spotify.com/album/2tqfzPKvQ5ThV8yVyRH3PA) | 4:10 |

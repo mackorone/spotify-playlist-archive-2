@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,223 likes - 124 songs - 7 hr 1 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,232 likes - 132 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,13 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 122 | [The Feeling Is Real](https://open.spotify.com/track/1mqZtnhJeteblSxTYcGTM9) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [The Feeling Is Real](https://open.spotify.com/album/5gDECg1qeADvbsfxOY3OpB) | 3:07 |
 | 123 | [Lessons](https://open.spotify.com/track/5xwV5BbXH0s2S9UrlW9plH) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Lessons](https://open.spotify.com/album/73UchtLkbvSqu1a4M4y9ca) | 3:08 |
 | 124 | [Mai Chahun](https://open.spotify.com/track/7ehLGnxY9tOngRWuawpuTt) | [Krutika Mishra](https://open.spotify.com/artist/2H9xYvYvGLjuTWkCmWgj9Z) | [Mai Chahun](https://open.spotify.com/album/0kWa6Rylv05RfmhGbWEaSH) | 3:18 |
+| 125 | [Gangster Shit](https://open.spotify.com/track/3D6rVmlwFJnTYHzeC1pF3o) | [Lance Mitchell](https://open.spotify.com/artist/42tYt31wuq2tI0umoOwsC4) | [Gangster Shit](https://open.spotify.com/album/0x2247BmfODK2ubsG0QLTs) | 1:54 |
+| 126 | [Feelings \- Acoustic](https://open.spotify.com/track/10h1rVHnLalm93CqAvkZue) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Feelings \- Acoustic](https://open.spotify.com/album/3AlPU5aQcaz4aqleFmDSeS) | 3:44 |
+| 127 | [I Feel Good](https://open.spotify.com/track/7c4xH2X2ht6LN26G7TRa3S) | [Brian Grey](https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2) | [I Feel Good](https://open.spotify.com/album/4g9E1R8MCCsiisYAjQ7t4q) | 2:43 |
+| 128 | [Covenant](https://open.spotify.com/track/1BHqn3D5VSRVyNOXwMkmtw) | [Kristina Lynn](https://open.spotify.com/artist/1EDIKX5hJdPKg4RhNLTIwK) | [Covenant](https://open.spotify.com/album/2M9EF4AdUt5ybVzaGJ0DXA) | 4:17 |
+| 129 | [Lost](https://open.spotify.com/track/5PK3kBmEfUPJ4Ht1Nb8czJ) | [Chucky Cat](https://open.spotify.com/artist/3cEyhRbqLRp5Xhb7t9pzvL), [Lil Innocent](https://open.spotify.com/artist/4f4elwDrvecNEfivB6fKS7), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [RoBeats](https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge) | [Lost](https://open.spotify.com/album/1hZdhASC93ZnXSjx6abGrN) | 3:12 |
+| 130 | [Night and Day](https://open.spotify.com/track/59YMT6C7n6l52qUIhN0SpU) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Night and Day](https://open.spotify.com/album/109cM7NLTGd4BKiVT0OksP) | 2:43 |
+| 131 | [Musafir](https://open.spotify.com/track/0CjpJpNgB6HxTNeCuNVAK5) | [Baawe](https://open.spotify.com/artist/2GgyvJa8OrQBqm9zkJJ0dC), [Akshat Kamavisdar](https://open.spotify.com/artist/5Gs8LuJnXKsRXYfq0CZJnB) | [Musafir](https://open.spotify.com/album/29QIZN5Dx4BSHnHZzkCTBX) | 3:02 |
+| 132 | [Le lapin en papier](https://open.spotify.com/track/0GB6KV4GD9Pdi2ZCVJxpcA) | [Inyha](https://open.spotify.com/artist/0KxFoSTWNluwDJ5NRJHfs2) | [Le lapin en papier](https://open.spotify.com/album/2qbusVyyuwhqNnXMVBnPrY) | 4:16 |
 
-Snapshot ID: `AAAQK5BHZL8LZhnhE0lXW3NF0V466yBy`
+Snapshot ID: `AAAQM3nAPlKBfHKItdk/kknZz4jV36/M`

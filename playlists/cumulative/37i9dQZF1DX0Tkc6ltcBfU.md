@@ -4,7 +4,7 @@
 
 > The hottest out the South\. Cover: DaBaby
 
-2,524 songs - 4 day 21 hr 54 min
+2,525 songs - 4 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [23](https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [23](https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf) | 4:20 | 2023-01-20 | 2023-03-28 |
 | [240](https://open.spotify.com/track/1Gkfa13jkovb93iQcgbfrl) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [Still Stuntin](https://open.spotify.com/album/52QL2dmfC7a39FpAtZBE6u) | 2:42 | 2024-07-27 | 2024-08-17 |
 | [247](https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [247](https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z) | 2:43 | 2022-10-21 | 2022-11-12 |
+| [24Hrs](https://open.spotify.com/track/0AlTIOiF5u0sHdsEvBU2av) | [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [B4EM](https://open.spotify.com/album/76KktSsWxhgtpasWmW5WZn) | 3:13 | 2026-02-03 |  |
 | [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 | 2024-10-25 | 2025-04-05 |
 | [285 \(feat\. Monaleo\)](https://open.spotify.com/track/6twVbeb9EzKRWqU6lGM0zU) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Grady Baby](https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8) | 1:58 | 2025-07-25 | 2025-12-20 |
 | [29 \(Freestyle\)](https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [29 \(Freestyle\)](https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf) | 2:22 | 2022-07-08 | 2022-07-30 |

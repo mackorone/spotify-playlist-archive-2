@@ -4098,7 +4098,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 177960,
       "name": "EASY",
       "url": "https://open.spotify.com/track/6w60YlYpRUFr0XrZ1bNt9D"
@@ -10810,6 +10810,24 @@
       "duration_ms": 193333,
       "name": "Mas Altas Que Bajadas",
       "url": "https://open.spotify.com/track/4Zx0yrZwW4uNpd1FhIrOV5"
+    },
+    {
+      "album": {
+        "name": "GAD",
+        "url": "https://open.spotify.com/album/3BhIIm6DEgqUXGc5np42a0"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189753,
+      "name": "MAYBE",
+      "url": "https://open.spotify.com/track/7DmKAXii1NFObsmBWSNO0M"
     },
     {
       "album": {

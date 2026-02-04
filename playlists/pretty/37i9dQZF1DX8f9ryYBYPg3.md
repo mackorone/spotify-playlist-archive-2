@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. © King Record Co., Ltd\. All rights reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,436 likes - 224 songs - 1 day 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,434 likes - 224 songs - 1 day 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [木村昴 Voice COMMENT](https://open.spotify.com/track/7fqcr2zC9R32ZYdrxvyuo6) | [ヒプノシスマイク \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/0Q4b3goxiGXuYGFVLWpzhg) | [木村昴 Voice COMMENT](https://open.spotify.com/album/593kfLNun1JX0QTlAWsNcl) | 0:42 |
+| 1 | [Go the Route](https://open.spotify.com/track/4nZNsG6aqOhlS0v9G6js7t) | [QUARTET NIGHT](https://open.spotify.com/artist/4LIyWqZilclgel6xxo6TAZ), [ヒプノシスマイク \-D.R.B\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY) | [Go the Route](https://open.spotify.com/album/0yUFJkG6cI5VKbAgxsvEAE) | 4:39 |
 | 2 | [ヒプノシスマイク \-Division Rap Battle\- FINAL](https://open.spotify.com/track/7km7kd0ftXtzSSWlS2UQQi) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [MIC AS ONE](https://open.spotify.com/album/0DLj1x3o2ly2SywQ9AYYc4) | 8:59 |
 | 3 | [ヒプノシスマイク \-Division Battle Anthem\-+](https://open.spotify.com/track/6JNPwGITkT7cW4dgWXtz0J) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [MIC AS ONE](https://open.spotify.com/album/0DLj1x3o2ly2SywQ9AYYc4) | 7:01 |
 | 4 | [Out of Harmony](https://open.spotify.com/track/5sXCamoiSDkxcxqoWVD62H) | [ヒプノシスマイク \-D.R.B\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY) | [MIC AS ONE](https://open.spotify.com/album/0DLj1x3o2ly2SywQ9AYYc4) | 4:11 |
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 223 | [\#32 イケブクロ・ディビジョン“Buster Bros!!!”のメンバー全員が登場！](https://open.spotify.com/episode/21yquYFuzoyhbDpUekhOZQ) | [Spotify HYPNOSIS WAVE original edition](https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za) | [Spotify HYPNOSIS WAVE original edition](https://open.spotify.com/album/21pTe4AXstuRqQERhZN5za) | 23:18 |
 | 224 | [\#33 ディビジョン総集編 ＜１＞ 麻天狼、どついたれ本舗、Bad Ass Templeのメンバー全員が登場](https://open.spotify.com/episode/5VsStglpggAZkq80N5E7U3) | [Spotify HYPNOSIS WAVE original edition](https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za) | [Spotify HYPNOSIS WAVE original edition](https://open.spotify.com/album/21pTe4AXstuRqQERhZN5za) | 22:48 |
 
-Snapshot ID: `AAAAAH+eIbB8Ra42zUf9jTfg34qMgKQE`
+Snapshot ID: `AAAAAB1zldrvtyI2472COQti/PI4+c8X`

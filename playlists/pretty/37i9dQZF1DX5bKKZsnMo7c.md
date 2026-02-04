@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Feeling dramatic? All eyes on you\. Cover: Lady Gaga and Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,161 likes - 77 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,052 likes - 77 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 25 | [Scared of the Dark](https://open.spotify.com/track/3JloRKvG8iL5aM5db1FltQ) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Scared of the Dark](https://open.spotify.com/album/5F5COpyRILui6to85KGDGr) | 2:57 |
 | 26 | [Wishing For Wounds](https://open.spotify.com/track/0Gc6TtPtWmq47Y8psEDFxD) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Wishing For Wounds](https://open.spotify.com/album/6t730CtJHxx2ykmDTwvZfy) | 4:19 |
 | 27 | [the simlish song](https://open.spotify.com/track/70moTZaHJ0CHtG2YbQPXST) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [the simlish song](https://open.spotify.com/album/3bNCCGuJGEtCFZ5H7htePd) | 3:19 |
-| 28 | [Velcro](https://open.spotify.com/track/54K4WsM7uRhK0z57aoVmNr) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [A Thousand Songs About It All: Act 1](https://open.spotify.com/album/10zjvlSmwTfjc491s3eVUQ) | 1:53 |
+| 28 | [Velcro](https://open.spotify.com/track/54K4WsM7uRhK0z57aoVmNr) | [Elio Mei](https://open.spotify.com/artist/7AKr8dsSDwwcoB8T5AcG4q) | [A Thousand Songs About It All: Act 1](https://open.spotify.com/album/10zjvlSmwTfjc491s3eVUQ) | 1:53 |
 | 29 | [Hot Goblin](https://open.spotify.com/track/1AQlvpcPh79BKnoKe1E6Nw) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Hot Goblin](https://open.spotify.com/album/3ehPg84etRc980Up4eqY93) | 2:38 |
 | 30 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |
 | 31 | [Aphrodite](https://open.spotify.com/track/17gt5nugQdTDH5niCCg1NQ) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [Aphrodite](https://open.spotify.com/album/6LIHhgIJEBHu7jeoNXllp3) | 3:53 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 43 | [25 Metres](https://open.spotify.com/track/0vEty4cjnxyYJVv9Gsoqjy) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [Dogs In Heaven](https://open.spotify.com/album/1FKbZv8ZPuDt8ufBnyFiH0) | 2:39 |
 | 44 | [Clockwork](https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:30 |
 | 45 | [Bread Butter Tea Sugar](https://open.spotify.com/track/32cXaJseha1gHpL0YAF828) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:28 |
-| 46 | [One Man Circus](https://open.spotify.com/track/6hgBTpKs8Ac8a8owmUIwba) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [One Man Circus](https://open.spotify.com/album/6vFpCve8ucdIFqWy13uUHN) | 4:40 |
+| 46 | [One Man Circus](https://open.spotify.com/track/6hgBTpKs8Ac8a8owmUIwba) | [Elio Mei](https://open.spotify.com/artist/7AKr8dsSDwwcoB8T5AcG4q) | [One Man Circus](https://open.spotify.com/album/6vFpCve8ucdIFqWy13uUHN) | 4:40 |
 | 47 | [TALK SHIT!](https://open.spotify.com/track/0pv5rs5Bsq3wY2xz9g66y9) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh), [Thomas Sanders](https://open.spotify.com/artist/2HFEmkJdJwdaSxJbxJpFPs) | [TALK SHIT!](https://open.spotify.com/album/6k3PqczkdzXWh4HQMbAEJe) | 2:59 |
 | 48 | [Suzy Loves Sam](https://open.spotify.com/track/25DVLJE4mZkLLcaGZAaGXE) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Suzy Loves Sam](https://open.spotify.com/album/3b6c71BkZifMY0jhDVnaoE) | 2:45 |
 | 49 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |

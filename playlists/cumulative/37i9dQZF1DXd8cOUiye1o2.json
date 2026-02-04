@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 185000,
       "name": "Befikri",
       "url": "https://open.spotify.com/track/5vZ3ZxFy1IcmGlXQBBD9Ux"
@@ -4994,6 +4994,32 @@
       "duration_ms": 250860,
       "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/7d5TUdbJumBuBoaH33jyfo"
+    },
+    {
+      "album": {
+        "name": "Ishq Ka Fever (From \"O' Romeo\")",
+        "url": "https://open.spotify.com/album/3WjoJ5WQ8Jq0qXxkISufVa"
+      },
+      "artists": [
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205142,
+      "name": "Ishq Ka Fever (From \"O' Romeo\")",
+      "url": "https://open.spotify.com/track/2dvk0m6XYaZ4FTzx64HkB3"
     },
     {
       "album": {
@@ -9017,6 +9043,32 @@
     },
     {
       "album": {
+        "name": "Pyar Se",
+        "url": "https://open.spotify.com/album/1RpjHqJ8iU602vplOTYxMA"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Tanishka Bahl",
+          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162845,
+      "name": "Pyar Se",
+      "url": "https://open.spotify.com/track/6Pe0vVB8zA7ZMRDSWhNxaD"
+    },
+    {
+      "album": {
         "name": "Qayde Se (From \"Metro ... In Dino\")",
         "url": "https://open.spotify.com/album/0n6vwaRFABSyqtdaJafZW5"
       },
@@ -11740,7 +11792,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 215103,
       "name": "Tu Hi Saahiba",
       "url": "https://open.spotify.com/track/3gSmBRi2j4zQ3pcidsK1P3"

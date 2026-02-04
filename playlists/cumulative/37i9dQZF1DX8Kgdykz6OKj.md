@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-509 songs - 1 day 4 hr 7 min
+510 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Sega](https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Sega](https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1) | 1:45 | 2024-06-14 | 2025-05-24 |
 | [Sensitive](https://open.spotify.com/track/2AsKMzGCLp5tZvrX0zzLlR) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [Close Distance](https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1) | 2:42 | 2022-12-15 | 2023-12-20 |
 | [Sensitive](https://open.spotify.com/track/4pvwoXc9ylYSfqHCHoPpfj) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [Sensitive](https://open.spotify.com/album/0T1rKKJj6h7elJdI6iTAdI) | 2:42 | 2022-05-13 | 2022-07-29 |
+| [Seraphim for Sale](https://open.spotify.com/track/5Ni2AkQOKfGocZBCmef4Qe) | [Quantacious](https://open.spotify.com/artist/6wkeHn7TQuwK1xABTOi939) | [Seraphim for Sale](https://open.spotify.com/album/6a2MqDYQR9GEBenv2wKoDF) | 1:46 | 2026-01-30 |  |
 | [Shameful Game, Pt\. 2](https://open.spotify.com/track/0WCKUJ180VjZYtLqrGYNci) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Shameful Game, Pt\. 2](https://open.spotify.com/album/5Z6Ia5OGj1PJnLLLZMwTO5) | 2:22 | 2025-05-23 | 2026-01-17 |
 | [Shine Thru](https://open.spotify.com/track/4QXkUqCzWJMU9znu821Kky) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [Speakthru \(Bonus Tracks Version\)](https://open.spotify.com/album/4yMBcIwa2gx9Rrfln7sqvB) | 3:07 | 2022-07-28 | 2022-11-20 |
 | [Shine Thru](https://open.spotify.com/track/7ip0rJavHfZVwJ99xLkKHH) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [Speakthru](https://open.spotify.com/album/3jVHR9FP4GdQnvWiZ4LFsD) | 3:07 | 2022-04-11 | 2022-04-21 |
@@ -494,7 +495,7 @@
 | [Wassup](https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe) | [RAIZA BIZA](https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo) | [Day & Night](https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG) | 4:03 | 2022-07-28 | 2024-03-30 |
 | [Wassup](https://open.spotify.com/track/1kC9YSjpDSMN8RMGotdxbg) | [RAIZA BIZA](https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo) | [Day & Night \- EP](https://open.spotify.com/album/4vz7eqgGR4yOwJdoy2Qe7R) | 4:03 | 2022-01-13 | 2022-06-12 |
 | [Watching You](https://open.spotify.com/track/5nNKzoQ842OmIuyvTgRgX9) | [Godfather Don](https://open.spotify.com/artist/7j91LXmuyKBXTykkvYfrQ2), [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve) | [Osmosis \(Deluxe Edition\)](https://open.spotify.com/album/3SijTYVL4RJqAPvff3ZXZH) | 3:27 | 2021-12-16 | 2022-11-20 |
-| [We Do It \(Jazz Spastiks Remix\)](https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Jazz Spastiks](https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S) | [We Do It Remixes](https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah) | 3:07 | 2021-12-16 |  |
+| [We Do It \(Jazz Spastiks Remix\)](https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Jazz Spastiks](https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S) | [We Do It Remixes](https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah) | 3:07 | 2021-12-16 | 2026-02-04 |
 | [What Am I to Do?](https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [What Am I to Do?](https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N) | 4:04 | 2021-12-16 |  |
 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 4:02 | 2021-12-16 | 2024-06-01 |
 | [WHAT NOW](https://open.spotify.com/track/4bTI0UF71ma665vPMtssMs) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [WHAT NOW](https://open.spotify.com/album/0aJ1HTYuGtwa9AJXBKXR5d) | 3:10 | 2025-02-28 | 2025-03-19 |

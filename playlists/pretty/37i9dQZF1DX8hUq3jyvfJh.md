@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Julia Mestre e mais mulheres incríveis no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,616 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,620 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 28 | [Venha Comigo](https://open.spotify.com/track/1wDEZqedy42frd4VVaY19k) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [PIQUE](https://open.spotify.com/album/3MI3xJpbJSXDMk4qmkwSul) | 3:45 |
 | 29 | [Matar Saudade](https://open.spotify.com/track/63avrzRhhhKz0yrRKb6SKn) | [alici](https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX) | [Souvenir](https://open.spotify.com/album/1OBfikgKBcqn6pv5A0u0Pn) | 2:20 |
 | 30 | [Mil e uma Noites](https://open.spotify.com/track/2tWJnn5FPV7K9zAxjaHrVf) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Mil e uma Noites](https://open.spotify.com/album/3yU72PPiAtFrH1J0aEeOyx) | 3:06 |
-| 31 | [Meu Jeitinho](https://open.spotify.com/track/3WoloDzKRT7MRyG9zsrJDQ) | [Lavínia](https://open.spotify.com/artist/7jSbvI1XOWHkA17Ffo0DuR), [Tulipa Ruiz](https://open.spotify.com/artist/7GRkcltLRmVi6EMrtcPs4U) | [Meu Jeitinho](https://open.spotify.com/album/4zSCdIMdFp2rwYpEhJJ6db) | 2:30 |
-| 32 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
+| 31 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
+| 32 | [Meu Jeitinho](https://open.spotify.com/track/3WoloDzKRT7MRyG9zsrJDQ) | [Lavínia](https://open.spotify.com/artist/7jSbvI1XOWHkA17Ffo0DuR), [Tulipa Ruiz](https://open.spotify.com/artist/7GRkcltLRmVi6EMrtcPs4U) | [Meu Jeitinho](https://open.spotify.com/album/4zSCdIMdFp2rwYpEhJJ6db) | 2:30 |
 | 33 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |
 | 34 | [FALTA](https://open.spotify.com/track/0egGW1NkNCfcXUhZaBCiyY) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BEM VINDOS DE VOLTA](https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr) | 4:11 |
 | 35 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 44 | [ME AJUDE A SALVAR OS DOMINGOS](https://open.spotify.com/track/7ELT2o6bfErbCLpC16WOsd) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 7:17 |
 | 45 | [Imagem](https://open.spotify.com/track/2eDz2aRZ7OZPNsKRCURhWW) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:35 |
 | 46 | [Duas Cabeças](https://open.spotify.com/track/5XTJj856y52C4DPoYDjnzr) | [Alulu Paranhos](https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW) | [Põe Esperança Nisso](https://open.spotify.com/album/6CC7VWHHDS4sPvo9f60zNA) | 3:35 |
-| 47 | [Do Jeito Que Tá](https://open.spotify.com/track/28U2BaYuJwKAJCXkHFY9gg) | [Ludom](https://open.spotify.com/artist/48eDQufEItjoNyPgM9OqQ0) | [Ludom](https://open.spotify.com/album/26IYcGfNDKIlDboihQ6XOn) | 3:41 |
-| 48 | [Tropical do Brasil](https://open.spotify.com/track/6xxQg0AaTIJXWkaQXczGFv) | [LEOA](https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Tropical do Brasil](https://open.spotify.com/album/55Rp2BlzyUGOCLsWlVJW37) | 3:13 |
+| 47 | [Tropical do Brasil](https://open.spotify.com/track/6xxQg0AaTIJXWkaQXczGFv) | [LEOA](https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Tropical do Brasil](https://open.spotify.com/album/55Rp2BlzyUGOCLsWlVJW37) | 3:13 |
+| 48 | [Do Jeito Que Tá](https://open.spotify.com/track/28U2BaYuJwKAJCXkHFY9gg) | [Ludom](https://open.spotify.com/artist/48eDQufEItjoNyPgM9OqQ0) | [Ludom](https://open.spotify.com/album/26IYcGfNDKIlDboihQ6XOn) | 3:41 |
 | 49 | [Vampira](https://open.spotify.com/track/0w3KFqdcXySctT6Ps9p7or) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [MARAVILHOSAMENTE BEM](https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY) | 3:40 |
 | 50 | [Voltei](https://open.spotify.com/track/6mPPoDXnKWGTXz5e7VI0s7) | [Alulu Paranhos](https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW) | [Põe Esperança Nisso](https://open.spotify.com/album/6CC7VWHHDS4sPvo9f60zNA) | 2:09 |
 

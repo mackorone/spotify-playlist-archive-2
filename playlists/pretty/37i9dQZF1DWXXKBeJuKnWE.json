@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Static Dress",
-  "num_followers": 495584,
+  "num_followers": 495559,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -441,20 +441,20 @@
       "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
-      "added_at": "2026-01-23 13:26:41",
+      "added_at": "2026-01-30 10:32:38",
       "album": {
-        "name": "Tipping Point",
-        "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
+        "name": "Wake Up Calling",
+        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 268828,
-      "name": "Tipping Point",
-      "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
+      "duration_ms": 229977,
+      "name": "Wake Up Calling",
+      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
     },
     {
       "added_at": "2026-01-23 13:26:41",
@@ -473,20 +473,20 @@
       "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
-      "added_at": "2026-01-30 10:32:38",
+      "added_at": "2026-01-23 13:26:41",
       "album": {
-        "name": "Wake Up Calling",
-        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
+        "name": "Tipping Point",
+        "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 229977,
-      "name": "Wake Up Calling",
-      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
+      "duration_ms": 268828,
+      "name": "Tipping Point",
+      "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
     },
     {
       "added_at": "2026-01-30 10:32:38",
@@ -519,6 +519,22 @@
       "duration_ms": 138651,
       "name": "DULL",
       "url": "https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs"
+    },
+    {
+      "added_at": "2026-01-30 10:32:38",
+      "album": {
+        "name": "WE ARE EMPIRE",
+        "url": "https://open.spotify.com/album/4GtAnZ58WCp80acUpwM50P"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 360216,
+      "name": "WE ARE EMPIRE",
+      "url": "https://open.spotify.com/track/6ose7JySKEZszL4eisoFhM"
     },
     {
       "added_at": "2026-01-23 13:26:41",
@@ -557,22 +573,6 @@
       "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
     },
     {
-      "added_at": "2026-01-23 16:48:05",
-      "album": {
-        "name": "Puppet Parade",
-        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 280924,
-      "name": "Puppet Parade",
-      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
-    },
-    {
       "added_at": "2026-01-30 10:32:38",
       "album": {
         "name": "Eat My Dust!",
@@ -589,20 +589,20 @@
       "url": "https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl"
     },
     {
-      "added_at": "2026-01-30 10:32:38",
+      "added_at": "2026-01-23 16:48:05",
       "album": {
-        "name": "WE ARE EMPIRE",
-        "url": "https://open.spotify.com/album/4GtAnZ58WCp80acUpwM50P"
+        "name": "Puppet Parade",
+        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
       },
       "artists": [
         {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 360216,
-      "name": "WE ARE EMPIRE",
-      "url": "https://open.spotify.com/track/6ose7JySKEZszL4eisoFhM"
+      "duration_ms": 280924,
+      "name": "Puppet Parade",
+      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
     },
     {
       "added_at": "2026-01-23 13:26:41",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-01-23 13:26:41",
       "album": {
-        "name": "METAL FORTH",
-        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 200698,
-      "name": "My Queen (feat. Spiritbox)",
-      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
-    },
-    {
-      "added_at": "2026-01-23 13:26:41",
-      "album": {
         "name": "War Pigs (Charity Version)",
         "url": "https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf"
       },
@@ -723,6 +703,22 @@
     {
       "added_at": "2026-01-23 13:26:41",
       "album": {
+        "name": "Big Ole Album Vol. 1",
+        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 188607,
+      "name": "Make It Make Sense",
+      "url": "https://open.spotify.com/track/28sv9hTNi7Cxv71zJ0qJA1"
+    },
+    {
+      "added_at": "2026-01-23 13:26:41",
+      "album": {
         "name": "King Of Terrors",
         "url": "https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t"
       },
@@ -739,6 +735,26 @@
     {
       "added_at": "2026-01-23 13:26:41",
       "album": {
+        "name": "METAL FORTH",
+        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 200698,
+      "name": "My Queen (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
+    },
+    {
+      "added_at": "2026-01-23 13:26:41",
+      "album": {
         "name": "Gifted Every Strength",
         "url": "https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 370111,
       "name": "Gifted Every Strength",
       "url": "https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG"
-    },
-    {
-      "added_at": "2026-01-23 13:26:41",
-      "album": {
-        "name": "Big Ole Album Vol. 1",
-        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 188607,
-      "name": "Make It Make Sense",
-      "url": "https://open.spotify.com/track/28sv9hTNi7Cxv71zJ0qJA1"
     },
     {
       "added_at": "2026-01-23 13:26:41",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/1fyHEYD5nCPYILDtsuOre9"
     },
     {
+      "added_at": "2026-01-30 10:32:38",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 132476,
+      "name": "Ego Death",
+      "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
+    },
+    {
       "added_at": "2026-01-23 13:26:41",
       "album": {
         "name": "Feed (feat. DeathbyRomy)",
@@ -951,22 +967,6 @@
       "duration_ms": 215266,
       "name": "Feed (feat. DeathbyRomy)",
       "url": "https://open.spotify.com/track/6E07yIbMpOaZFisNCajNk4"
-    },
-    {
-      "added_at": "2026-01-23 13:26:41",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 172759,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
     },
     {
       "added_at": "2026-01-23 13:26:41",
@@ -1021,20 +1021,20 @@
       "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
     },
     {
-      "added_at": "2026-01-30 10:32:38",
+      "added_at": "2026-01-23 13:26:41",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
         }
       ],
-      "duration_ms": 132476,
-      "name": "Ego Death",
-      "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
+      "duration_ms": 172759,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
     },
     {
       "added_at": "2026-01-23 13:26:41",
@@ -1051,22 +1051,6 @@
       "duration_ms": 238813,
       "name": "Demonic Depression",
       "url": "https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V"
-    },
-    {
-      "added_at": "2026-01-23 13:26:41",
-      "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 179083,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
     },
     {
       "added_at": "2026-01-23 13:26:41",
@@ -1139,22 +1123,6 @@
     {
       "added_at": "2026-01-23 13:26:41",
       "album": {
-        "name": "We Were Never The Same",
-        "url": "https://open.spotify.com/album/53yI8BS9n5ujuSs7A7vMJM"
-      },
-      "artists": [
-        {
-          "name": "Converge",
-          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
-        }
-      ],
-      "duration_ms": 253169,
-      "name": "We Were Never the Same",
-      "url": "https://open.spotify.com/track/7z37xqq3y94KyVl7VWB88x"
-    },
-    {
-      "added_at": "2026-01-23 13:26:41",
-      "album": {
         "name": "All That I Remember",
         "url": "https://open.spotify.com/album/4ngLHfUxdQ555esOkn4rng"
       },
@@ -1171,6 +1139,38 @@
     {
       "added_at": "2026-01-23 13:26:41",
       "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 179083,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
+    },
+    {
+      "added_at": "2026-01-23 13:26:41",
+      "album": {
+        "name": "We Were Never The Same",
+        "url": "https://open.spotify.com/album/53yI8BS9n5ujuSs7A7vMJM"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "duration_ms": 253169,
+      "name": "We Were Never the Same",
+      "url": "https://open.spotify.com/track/7z37xqq3y94KyVl7VWB88x"
+    },
+    {
+      "added_at": "2026-01-23 13:26:41",
+      "album": {
         "name": "Big Ole Album Vol. 1",
         "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 177429,
       "name": "To The Death",
       "url": "https://open.spotify.com/track/6yapE54zUo0JTT2o6hJOTp"
+    },
+    {
+      "added_at": "2026-01-23 13:26:41",
+      "album": {
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
     },
     {
       "added_at": "2026-01-30 10:32:38",
@@ -1247,22 +1263,6 @@
       "duration_ms": 204773,
       "name": "Thoroughbreds",
       "url": "https://open.spotify.com/track/1c4Oq2SYTnRzt1gg4zCl9q"
-    },
-    {
-      "added_at": "2026-01-23 13:26:41",
-      "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
     },
     {
       "added_at": "2026-01-23 13:26:41",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-01-23 13:26:41",
       "album": {
-        "name": "Silent Divide",
-        "url": "https://open.spotify.com/album/1tLqFsA3Cjx6gzC9vageGW"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 303832,
-      "name": "Silent Divide",
-      "url": "https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC"
-    },
-    {
-      "added_at": "2026-01-23 13:26:41",
-      "album": {
         "name": "Bad Dreams (feat. Of Virtue)",
         "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 220866,
       "name": "Bad Dreams (feat. Of Virtue)",
       "url": "https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY"
+    },
+    {
+      "added_at": "2026-01-23 13:26:41",
+      "album": {
+        "name": "Silent Divide",
+        "url": "https://open.spotify.com/album/1tLqFsA3Cjx6gzC9vageGW"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 303832,
+      "name": "Silent Divide",
+      "url": "https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC"
     },
     {
       "added_at": "2026-01-23 13:26:41",
@@ -1453,6 +1453,22 @@
       "url": "https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i"
     },
     {
+      "added_at": "2026-01-30 10:32:38",
+      "album": {
+        "name": "This Is The Sound",
+        "url": "https://open.spotify.com/album/37Ixky407QDvoGFDx1vmrC"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "This Is The Sound",
+      "url": "https://open.spotify.com/track/5u3LQf7tg1eS2AEGyguDPa"
+    },
+    {
       "added_at": "2026-01-23 13:26:41",
       "album": {
         "name": "Nerve",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2026-01-23 13:26:41",
       "album": {
-        "name": "The Father of Make Believe",
-        "url": "https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 256028,
-      "name": "Goodbye, Sunshine",
-      "url": "https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm"
-    },
-    {
-      "added_at": "2026-01-23 13:26:41",
-      "album": {
         "name": "Sacred",
         "url": "https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ"
       },
@@ -1533,20 +1533,20 @@
       "url": "https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM"
     },
     {
-      "added_at": "2026-01-30 10:32:38",
+      "added_at": "2026-01-23 13:26:41",
       "album": {
-        "name": "This Is The Sound",
-        "url": "https://open.spotify.com/album/37Ixky407QDvoGFDx1vmrC"
+        "name": "The Father of Make Believe",
+        "url": "https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH"
       },
       "artists": [
         {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
         }
       ],
-      "duration_ms": 177333,
-      "name": "This Is The Sound",
-      "url": "https://open.spotify.com/track/5u3LQf7tg1eS2AEGyguDPa"
+      "duration_ms": 256028,
+      "name": "Goodbye, Sunshine",
+      "url": "https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm"
     },
     {
       "added_at": "2026-01-23 13:26:41",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-01-23 13:26:41",
       "album": {
+        "name": "Hannibal",
+        "url": "https://open.spotify.com/album/6D9jatmN9XKjaw3inpzfFv"
+      },
+      "artists": [
+        {
+          "name": "trauma ray",
+          "url": "https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1"
+        }
+      ],
+      "duration_ms": 308576,
+      "name": "Hannibal",
+      "url": "https://open.spotify.com/track/2xZWwL80vahHzQ0GmfCdPW"
+    },
+    {
+      "added_at": "2026-01-23 13:26:41",
+      "album": {
         "name": "Even If I Never Get There",
         "url": "https://open.spotify.com/album/37tK6EVQs3NQIx3MqTghaL"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 218975,
       "name": "Laugh It Off",
       "url": "https://open.spotify.com/track/4EJ0Rp1LO31LOUcZkU4sUB"
-    },
-    {
-      "added_at": "2026-01-23 13:26:41",
-      "album": {
-        "name": "Hannibal",
-        "url": "https://open.spotify.com/album/6D9jatmN9XKjaw3inpzfFv"
-      },
-      "artists": [
-        {
-          "name": "trauma ray",
-          "url": "https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1"
-        }
-      ],
-      "duration_ms": 308576,
-      "name": "Hannibal",
-      "url": "https://open.spotify.com/track/2xZWwL80vahHzQ0GmfCdPW"
     },
     {
       "added_at": "2026-01-23 13:26:41",

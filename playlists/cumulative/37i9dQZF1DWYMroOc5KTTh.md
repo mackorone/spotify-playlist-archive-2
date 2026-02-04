@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-583 songs - 1 day 14 hr 33 min
+584 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Free My People \(feat\. Simmy & Kid Cruise\) \- The Streets Remix](https://open.spotify.com/track/6qFbRXLt0IN3M1HE5d7YPu) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Free My People \(The Streets Remix\)](https://open.spotify.com/album/3tsrF1lrccDppgj0mMi0HK) | 3:16 | 2021-12-03 | 2022-01-04 |
 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 | 2022-09-05 | 2023-11-17 |
 | [Freefall](https://open.spotify.com/track/7u0xzxkw82UQrNJtYqXsa3) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Freefall](https://open.spotify.com/album/3lZwvKGTGhCxIVEd86S8uF) | 3:38 | 2022-04-06 | 2022-04-08 |
-| [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 | 2024-10-03 |  |
+| [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 | 2024-10-03 | 2026-02-04 |
 | [Friends](https://open.spotify.com/track/281msnqvknsXwGvEzrrDd5) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Friends](https://open.spotify.com/album/1dHV230S6HuUq6jLe7Lwl2) | 2:39 | 2024-06-07 | 2024-09-13 |
 | [Fruit Punch](https://open.spotify.com/track/5OKuigqDZttO0FSkKVF3tB) | [Jay Faded](https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ) | [Fruit Punch](https://open.spotify.com/album/7GedFW6ha4qFhf7JELVK8e) | 2:50 | 2021-12-03 | 2022-07-21 |
 | [Full Attention](https://open.spotify.com/track/1kSJQOaDfJZk8ZL4D5ysBd) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Full Attention](https://open.spotify.com/album/39FzFnodvbF1nGkXcYepQg) | 4:33 | 2022-01-14 | 2022-07-12 |
@@ -429,6 +429,7 @@
 | [Pretty Slick](https://open.spotify.com/track/0yI3CQlUABw6ZH8g6Dg0Uu) | [Oya Paya](https://open.spotify.com/artist/4HHt0NMWW2JEUosUiiPVNz) | [Pretty Slick](https://open.spotify.com/album/33poKu2pJAyrUfO7Ni3ncW) | 2:45 | 2022-01-14 | 2022-05-25 |
 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 | 2022-04-15 | 2022-04-20 |
 | [Promises](https://open.spotify.com/track/6e9QdWYdMbVAZVDpG8apU3) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Promises](https://open.spotify.com/album/4IOamu4brK3tYLkXIaPsZK) | 2:43 | 2025-04-10 | 2025-09-12 |
+| [Pullin'](https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Pullin'](https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em) | 3:40 | 2026-01-23 |  |
 | [Pure Shores](https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Pure Shores](https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2) | 3:59 | 2025-06-19 | 2025-06-25 |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-05-22 |  |
 | [Rainbow](https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Rainbow](https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1) | 2:56 | 2024-05-10 | 2024-11-05 |

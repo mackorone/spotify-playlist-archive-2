@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Fred again...
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,873 likes - 39 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,891 likes - 39 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 29 | [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 |
 | 30 | [Sentry](https://open.spotify.com/track/5SFwml6SjVbEvDWm0gh2me) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 3:54 |
 | 31 | [Name the Band](https://open.spotify.com/track/4Lw1vRz87nTpJ3Pb9RpQvN) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Name the Band](https://open.spotify.com/album/4bkmysvsFtwNJ77tsuKAdQ) | 1:32 |
-| 32 | [Come Find Me \(with Clementine Douglas\) \- Danny L Harle Remix](https://open.spotify.com/track/7sXBFCN5U9BlwKfQqY0tyj) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Come Find Me \(with Clementine Douglas\) \[Danny L Harle Remix\]](https://open.spotify.com/album/67PTtH3IDyV8YRckiNAwLE) | 4:22 |
-| 33 | [King\-Ka \- Radio Mix](https://open.spotify.com/track/5ytMXX85Be1uP3NF5T2tx8) | [J\. Park](https://open.spotify.com/artist/6tJF1JwgKXKldyr82s6Jjd) | [King Konglish EP](https://open.spotify.com/album/66oMw0xrzuS7K5sw9VOiQ7) | 3:45 |
+| 32 | [King\-Ka \- Radio Mix](https://open.spotify.com/track/5ytMXX85Be1uP3NF5T2tx8) | [J\. Park](https://open.spotify.com/artist/6tJF1JwgKXKldyr82s6Jjd) | [King Konglish EP](https://open.spotify.com/album/66oMw0xrzuS7K5sw9VOiQ7) | 3:45 |
+| 33 | [Come Find Me \(with Clementine Douglas\) \- Danny L Harle Remix](https://open.spotify.com/track/7sXBFCN5U9BlwKfQqY0tyj) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Come Find Me \(with Clementine Douglas\) \[Danny L Harle Remix\]](https://open.spotify.com/album/67PTtH3IDyV8YRckiNAwLE) | 4:22 |
 | 34 | [Bear Trap](https://open.spotify.com/track/2eI39ZcdcjFiPvLQvJ1COb) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Bear Trap](https://open.spotify.com/album/0ckGmkDxDZeVpHZ8sP5G8P) | 2:50 |
 | 35 | [OUT THERE: Strollin’ \- Live at Sony Hall/ 2025](https://open.spotify.com/track/0l7f5hYdm8sncxpXsNfOfN) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [OUT THERE: Strollin’ \(Live at Sony Hall/ 2025\)](https://open.spotify.com/album/1PCMSPVvxzHD5o51IgEvSL) | 7:28 |
 | 36 | [Always Open \(Falle's Roots\) \- Photay Remix](https://open.spotify.com/track/7kjuobbMnMNalFaxOpt2jB) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Always Open \(Falle's Roots\) \(Photay Remix\)](https://open.spotify.com/album/1eLV4mVr4QI0JFVXhSlt0n) | 6:00 |

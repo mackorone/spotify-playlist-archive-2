@@ -1,12 +1,12 @@
 {
   "description": "This is Violent Soho. The essential tracks, all in one playlist.",
-  "num_followers": 6799,
+  "num_followers": 6800,
   "original_name": "This Is Violent Soho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAACoJFCq+VAKDPmfqtBl/0ik",
+  "snapshot_id": "aX/pAAAAAADdGPad9WXWt/W/eW5wIZQi",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 185346,
-      "name": "Love Is A Heavy Word",
-      "url": "https://open.spotify.com/track/2iWQrd8LABqESP9gC4jfYW"
+      "duration_ms": 194880,
+      "name": "Here Be Dragons",
+      "url": "https://open.spotify.com/track/5VeV8aExj7SSgNDXr5bdJK"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violent Soho (Australia Version)",
-        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
-      },
-      "artists": [
-        {
-          "name": "Violent Soho",
-          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
-        }
-      ],
-      "duration_ms": 189573,
-      "name": "Bombs Over Broadway",
-      "url": "https://open.spotify.com/track/7LdStk1dbQmtLGTbkk1Vv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Domestic La La",
         "url": "https://open.spotify.com/album/7N342aITKYsIB8P6vK3em3"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Violent Soho (Australia Version)",
+        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "duration_ms": 189573,
+      "name": "Bombs Over Broadway",
+      "url": "https://open.spotify.com/track/7LdStk1dbQmtLGTbkk1Vv2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Violent Soho",
         "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
       },
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 194880,
-      "name": "Here Be Dragons",
-      "url": "https://open.spotify.com/track/5VeV8aExj7SSgNDXr5bdJK"
+      "duration_ms": 185346,
+      "name": "Love Is A Heavy Word",
+      "url": "https://open.spotify.com/track/2iWQrd8LABqESP9gC4jfYW"
     },
     {
       "added_at": null,

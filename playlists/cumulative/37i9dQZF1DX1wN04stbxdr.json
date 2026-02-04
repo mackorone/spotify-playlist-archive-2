@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "25 \u00e5r",
+        "url": "https://open.spotify.com/album/3RAU7r3uyUHaktQuaRWASd"
+      },
+      "artists": [
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179165,
+      "name": "25 \u00e5r",
+      "url": "https://open.spotify.com/track/2XIfnIohuthimGgJs6UKTn"
+    },
+    {
+      "album": {
         "name": "555",
         "url": "https://open.spotify.com/album/3Z1oqJEL9YE5jqXgDozPhL"
       },

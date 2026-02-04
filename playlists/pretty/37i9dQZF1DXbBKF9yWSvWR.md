@@ -9,9 +9,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cold](https://open.spotify.com/track/2mvK0PyeLd2KXy13Wq7QTE) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Cold](https://open.spotify.com/album/0esHbIarakR9uJcZ1UetOk) | 3:54 |
-| 2 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 |
-| 3 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
-| 4 | [The Void \(The Room\)](https://open.spotify.com/track/2n4CiuSkOp0DMMG0t32Nki) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [The Void \(The Room\)](https://open.spotify.com/album/36yBhLSyBoMIvUFYaHPuZd) | 4:02 |
+| 2 | [The Void \(The Room\)](https://open.spotify.com/track/2n4CiuSkOp0DMMG0t32Nki) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [The Void \(The Room\)](https://open.spotify.com/album/36yBhLSyBoMIvUFYaHPuZd) | 4:02 |
+| 3 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 |
+| 4 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
 | 5 | [Sisters With Me](https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Sisters With Me](https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP) | 4:04 |
 | 6 | [Magneten](https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Magneten](https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw) | 3:10 |
 | 7 | [Orgulho](https://open.spotify.com/track/76VKddiLu5mIxtjsImvxVH) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Orgulho](https://open.spotify.com/album/0ihdWB6qIJ2IJdLvbh6c1Y) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Reveries](https://open.spotify.com/track/10Y3zhdKoyqn5GvCS0Cxwn) | [som som](https://open.spotify.com/artist/5QsyNOmpemZtsGIjTcufjN) | [Reveries](https://open.spotify.com/album/21rhyQD8ms44AwrnHDq2Gf) | 3:36 |
 | 100 | [Nimbus](https://open.spotify.com/track/2IxYJxvLfuy3xTQHuemltU) | [Elis Floreen](https://open.spotify.com/artist/299Jzr4T2YvOOue2DiJ0AL) | [Nimbus](https://open.spotify.com/album/0lLv7KcbtbkRSDpvlv2cxo) | 3:59 |
 
-Snapshot ID: `AAAAAN35o1xkCLxGwvtg5Wo9ApCNh7w7`
+Snapshot ID: `AAAAAM8fSI/crsduEzZVxWcZxZaB+pwG`

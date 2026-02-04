@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1612,
+  "num_followers": 1613,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Bikole",
+        "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
+      },
+      "artists": [
+        {
+          "name": "Martha Mukisa",
+          "url": "https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6"
+        },
+        {
+          "name": "Oma Afrikana",
+          "url": "https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Bikole",
+      "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Getting Better",
         "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
       },
@@ -551,46 +571,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Bikole",
-        "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
-      },
-      "artists": [
-        {
-          "name": "Martha Mukisa",
-          "url": "https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6"
-        },
-        {
-          "name": "Oma Afrikana",
-          "url": "https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Bikole",
-      "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Misege",
-        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
-      },
-      "artists": [
-        {
-          "name": "Dax Vibez",
-          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
-        },
-        {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "Misege",
-      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Sikyegomba",
         "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 210364,
       "name": "Sikyegomba",
       "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Misege",
+        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
+      },
+      "artists": [
+        {
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
+        },
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "Misege",
+      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
     },
     {
       "added_at": "2024-03-01 12:07:08",

@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11189,
+  "num_followers": 11188,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-01-30 10:04:46",
       "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 174352,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
-    },
-    {
-      "added_at": "2026-01-30 10:04:46",
-      "album": {
         "name": "Magneten",
         "url": "https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 190704,
       "name": "Magneten",
       "url": "https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD"
+    },
+    {
+      "added_at": "2026-01-30 10:04:46",
+      "album": {
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 174352,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
     },
     {
       "added_at": "2026-01-30 10:04:46",
@@ -399,8 +399,8 @@
     {
       "added_at": "2026-01-30 10:04:46",
       "album": {
-        "name": "Aerobics",
-        "url": "https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM"
+        "name": "Ik Weet Hoe Het Werkt",
+        "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
         }
       ],
-      "duration_ms": 167901,
-      "name": "Aerobics",
-      "url": "https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta"
+      "duration_ms": 141051,
+      "name": "Ik Weet Hoe Het Werkt",
+      "url": "https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W"
     },
     {
       "added_at": "2026-01-30 10:04:46",
@@ -499,8 +499,8 @@
     {
       "added_at": "2026-01-30 10:04:46",
       "album": {
-        "name": "Ik Weet Hoe Het Werkt",
-        "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
+        "name": "Aerobics",
+        "url": "https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
         }
       ],
-      "duration_ms": 141051,
-      "name": "Ik Weet Hoe Het Werkt",
-      "url": "https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W"
+      "duration_ms": 167901,
+      "name": "Aerobics",
+      "url": "https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta"
     },
     {
       "added_at": "2026-01-30 10:04:46",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-01-30 10:04:46",
       "album": {
-        "name": "Normaal Toen",
-        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
-      },
-      "artists": [
-        {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
-        }
-      ],
-      "duration_ms": 194454,
-      "name": "Normaal Toen",
-      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
-    },
-    {
-      "added_at": "2026-01-30 10:04:46",
-      "album": {
         "name": "Ik Geloof Dat Wij Iets Delen",
         "url": "https://open.spotify.com/album/2li4Roi5D0L2W5AhADHfwR"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 165872,
       "name": "Ik Geloof Dat Wij Iets Delen",
       "url": "https://open.spotify.com/track/5RydxLGNvlzrHfhxUQUoI9"
+    },
+    {
+      "added_at": "2026-01-30 10:04:46",
+      "album": {
+        "name": "Normaal Toen",
+        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 194454,
+      "name": "Normaal Toen",
+      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
     },
     {
       "added_at": "2026-01-30 10:04:46",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-01-30 10:04:46",
       "album": {
-        "name": "Niemand",
-        "url": "https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE"
+        "name": "Ruimtepak",
+        "url": "https://open.spotify.com/album/2iFQCeI3lRBcVOSJRErJda"
       },
       "artists": [
         {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+          "name": "Eva van Manen",
+          "url": "https://open.spotify.com/artist/39fsjaOkLW4Gq6X6URiWRj"
         }
       ],
-      "duration_ms": 144782,
-      "name": "Niemand",
-      "url": "https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9"
+      "duration_ms": 221922,
+      "name": "Ruimtepak",
+      "url": "https://open.spotify.com/track/358hNGOO2Iu1kwX7fM18eI"
     },
     {
       "added_at": "2026-01-30 10:04:46",
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-01-30 10:04:46",
       "album": {
-        "name": "Ruimtepak",
-        "url": "https://open.spotify.com/album/2iFQCeI3lRBcVOSJRErJda"
+        "name": "We Slapen In De Lucht",
+        "url": "https://open.spotify.com/album/2W7h1XL3czf36B0jL8QKpN"
       },
       "artists": [
         {
-          "name": "Eva van Manen",
-          "url": "https://open.spotify.com/artist/39fsjaOkLW4Gq6X6URiWRj"
+          "name": "Igor",
+          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
         }
       ],
-      "duration_ms": 221922,
-      "name": "Ruimtepak",
-      "url": "https://open.spotify.com/track/358hNGOO2Iu1kwX7fM18eI"
+      "duration_ms": 164043,
+      "name": "We Slapen In De Lucht",
+      "url": "https://open.spotify.com/track/5DAmgJJfetkfuKNwque4J0"
     },
     {
       "added_at": "2026-01-30 10:04:46",
@@ -775,6 +775,22 @@
       "duration_ms": 166852,
       "name": "Normale gevoelens",
       "url": "https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov"
+    },
+    {
+      "added_at": "2026-01-30 10:04:46",
+      "album": {
+        "name": "Niemand",
+        "url": "https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 144782,
+      "name": "Niemand",
+      "url": "https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9"
     },
     {
       "added_at": "2026-01-30 10:04:46",
@@ -815,22 +831,6 @@
     {
       "added_at": "2026-01-30 10:04:46",
       "album": {
-        "name": "We Slapen In De Lucht",
-        "url": "https://open.spotify.com/album/2W7h1XL3czf36B0jL8QKpN"
-      },
-      "artists": [
-        {
-          "name": "Igor",
-          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
-        }
-      ],
-      "duration_ms": 164043,
-      "name": "We Slapen In De Lucht",
-      "url": "https://open.spotify.com/track/5DAmgJJfetkfuKNwque4J0"
-    },
-    {
-      "added_at": "2026-01-30 10:04:46",
-      "album": {
         "name": "Doe Het Voor Het Geld",
         "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-01-30 10:04:46",
       "album": {
-        "name": "God Los",
-        "url": "https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS"
+        "name": "narcose",
+        "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
       },
       "artists": [
         {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
         }
       ],
-      "duration_ms": 223013,
-      "name": "God Los",
-      "url": "https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R"
+      "duration_ms": 173816,
+      "name": "narcose",
+      "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
     }
   ],
   "unique_name": "indie.nl",

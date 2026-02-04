@@ -4,7 +4,7 @@
 
 > It's giving those vibes\. Cover: Yxng Le
 
-225 songs - 10 hr 19 min
+226 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Alleen Bij Jou](https://open.spotify.com/track/6GL3NkWMeNaOJRPIKSqc4H) | [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw) | [Alleen Bij Jou](https://open.spotify.com/album/7MBrdKC7YVRB4XgMT7D7Of) | 2:13 | 2025-12-18 |  |
 | [Alleen zijn \- Mi so](https://open.spotify.com/track/7vZTWSALHXno2j0wp8EGxe) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [Alleen zijn \(Mi so\)](https://open.spotify.com/album/6UYzH0uuj4XLvpMeh6CmuR) | 2:56 | 2025-11-28 |  |
 | [Alles Over](https://open.spotify.com/track/30uHOuSV1gIkSOoD9rxtRR) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Drayson Gashi](https://open.spotify.com/artist/6qZEFrMeWSuCwtZBPRvhIR), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB) | [Kempi x Drayson Gashi](https://open.spotify.com/album/1vIOU9EgoYUYkizrPBUCMx) | 2:32 | 2025-07-17 | 2025-11-21 |
-| [Anything](https://open.spotify.com/track/3cfAU26S3unXxHX7Pu0171) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR) | [Anything](https://open.spotify.com/album/3GsMcFluyo0t8Bt7godgzV) | 2:53 | 2025-09-18 |  |
+| [Anything](https://open.spotify.com/track/3cfAU26S3unXxHX7Pu0171) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR) | [Anything](https://open.spotify.com/album/3GsMcFluyo0t8Bt7godgzV) | 2:53 | 2025-09-18 | 2026-02-04 |
 | [AVEC MOI](https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [AVEC MOI](https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA) | 3:02 | 2026-01-22 | 2026-01-30 |
 | [Ayo Amor](https://open.spotify.com/track/6syJbyeoDZOJF1gSquyZpB) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [Ayo Amor](https://open.spotify.com/album/6Js5y0q9VMRlwHRvlHjP78) | 2:41 | 2025-12-18 |  |
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-07-17 | 2025-08-05 |
@@ -159,6 +159,7 @@
 | [Piepen In Me Mind](https://open.spotify.com/track/2nZUxI5qcJms95xjtaSxS9) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Piepen In Me Mind](https://open.spotify.com/album/4cIPBTeADtNTPKn5l8vcuQ) | 2:17 | 2025-10-02 |  |
 | [Pity \(feat\. Tanya Stephens\)](https://open.spotify.com/track/7v92RvFSd3yqp5wUUYVcNH) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Luvergirl](https://open.spotify.com/album/61eozJ5NzcOYxA41Zi3wuF) | 2:05 | 2025-08-26 |  |
 | [Play Pretend](https://open.spotify.com/track/78yqcuHhYFVW5gxWBnAGqz) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Play Pretend](https://open.spotify.com/album/5NaPDvpeTuutTavpkRo5Ez) | 2:40 | 2025-08-07 | 2025-12-19 |
+| [Playdoh](https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Playdoh](https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1) | 2:18 | 2026-02-03 |  |
 | [Pressure](https://open.spotify.com/track/3aF2kDtJzDQvu91r2pluDP) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:46 | 2025-07-17 | 2025-12-19 |
 | [Pressure](https://open.spotify.com/track/5cA5J7fzgU1U78ldDQ3UHn) | [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Chay](https://open.spotify.com/artist/2swT9y92QBNtQzSRTy8VDZ) | [Pressure](https://open.spotify.com/album/0Juevc2vKCvDyecLUFPCad) | 2:53 | 2026-01-08 |  |
 | [Probleem](https://open.spotify.com/track/3X17kfmIMxS7wdS52mh4Hw) | [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Probleem](https://open.spotify.com/album/5EhT6yEZVYh8QF70VP1Cl9) | 2:43 | 2025-12-11 |  |

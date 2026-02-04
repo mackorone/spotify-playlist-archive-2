@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 99594,
+  "num_followers": 99679,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAACXYliUt2S4904oh8xOFSrb",
+  "snapshot_id": "aX/pAAAAAAAq4zKoxaZSncG9eJElT1F+",
   "tracks": [
     {
       "added_at": null,
@@ -460,13 +460,21 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+          "name": "OPhael",
+          "url": "https://open.spotify.com/artist/4Qzr7WNNoEnt9Dgv4taxdf"
+        },
+        {
+          "name": "PHANE",
+          "url": "https://open.spotify.com/artist/6pnSMysu1Ryk2rTmyaadSm"
+        },
+        {
+          "name": "MSE",
+          "url": "https://open.spotify.com/artist/00e8h3bLUKM05k9bBnnTPh"
         }
       ],
-      "duration_ms": 143477,
-      "name": "Bonde Passando",
-      "url": "https://open.spotify.com/track/1IvqtJaqnGlIoWaQmz2bsZ"
+      "duration_ms": 170192,
+      "name": "Por A\u00ed",
+      "url": "https://open.spotify.com/track/0HdWS8OLFeAQTntk2jBoMj"
     },
     {
       "added_at": null,
@@ -592,21 +600,13 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "OPhael",
-          "url": "https://open.spotify.com/artist/4Qzr7WNNoEnt9Dgv4taxdf"
-        },
-        {
-          "name": "PHANE",
-          "url": "https://open.spotify.com/artist/6pnSMysu1Ryk2rTmyaadSm"
-        },
-        {
-          "name": "MSE",
-          "url": "https://open.spotify.com/artist/00e8h3bLUKM05k9bBnnTPh"
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
         }
       ],
-      "duration_ms": 170192,
-      "name": "Por A\u00ed",
-      "url": "https://open.spotify.com/track/0HdWS8OLFeAQTntk2jBoMj"
+      "duration_ms": 143477,
+      "name": "Bonde Passando",
+      "url": "https://open.spotify.com/track/1IvqtJaqnGlIoWaQmz2bsZ"
     },
     {
       "added_at": null,

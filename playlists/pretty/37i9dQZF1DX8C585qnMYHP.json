@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:2gSV6FsMxBBH01LLNgx6HU\">Babau</a> on cover. Artwork by Thami Nabil, photo by Stefania Zanetti",
-  "num_followers": 192168,
+  "num_followers": 192175,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
-        "name": "My Goddess",
-        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
-      },
-      "artists": [
-        {
-          "name": "Etyen",
-          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
-        }
-      ],
-      "duration_ms": 250209,
-      "name": "My Goddess",
-      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
-    },
-    {
-      "added_at": "2026-01-30 10:18:54",
-      "album": {
         "name": "compliments & hoopla .mp3",
         "url": "https://open.spotify.com/album/32MidnXoYcImqc6ZfBMCOC"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 95085,
       "name": "compliments & hoopla .mp3",
       "url": "https://open.spotify.com/track/71fzZRtyKoRjWHWR811PTe"
+    },
+    {
+      "added_at": "2026-01-30 10:18:54",
+      "album": {
+        "name": "My Goddess",
+        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
+      },
+      "artists": [
+        {
+          "name": "Etyen",
+          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
+        }
+      ],
+      "duration_ms": 250209,
+      "name": "My Goddess",
+      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
     },
     {
       "added_at": "2026-01-30 10:18:54",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
-      },
-      "artists": [
-        {
-          "name": "NTsKi",
-          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
-        }
-      ],
-      "duration_ms": 255996,
-      "name": "K",
-      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
-    },
-    {
-      "added_at": "2026-01-30 10:18:54",
-      "album": {
         "name": "Cosplayer (export per Guido)",
         "url": "https://open.spotify.com/album/3vx7q5z7zSCyZt6ghyAYiO"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 238652,
       "name": "Cosplayer (export per Guido)",
       "url": "https://open.spotify.com/track/0C0VnUtQ9OMDyp9pt1bZf3"
+    },
+    {
+      "added_at": "2026-01-30 10:18:54",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
+      },
+      "artists": [
+        {
+          "name": "NTsKi",
+          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
+        }
+      ],
+      "duration_ms": 255996,
+      "name": "K",
+      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
     },
     {
       "added_at": "2026-01-30 10:18:54",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
-        "name": "Blue Veil",
-        "url": "https://open.spotify.com/album/63DNAWFmg6nfeAPghfyhu0"
-      },
-      "artists": [
-        {
-          "name": "Lucy Railton",
-          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
-        }
-      ],
-      "duration_ms": 259402,
-      "name": "Phase I",
-      "url": "https://open.spotify.com/track/7IF1ZThmxTNO14g0omrkdM"
-    },
-    {
-      "added_at": "2026-01-30 10:18:54",
-      "album": {
         "name": "TIDE/TIED",
         "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 343545,
       "name": "I am here now",
       "url": "https://open.spotify.com/track/6Bar5d1K7Rd2w2lB7FRaXd"
+    },
+    {
+      "added_at": "2026-01-30 10:18:54",
+      "album": {
+        "name": "Blue Veil",
+        "url": "https://open.spotify.com/album/63DNAWFmg6nfeAPghfyhu0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Railton",
+          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
+        }
+      ],
+      "duration_ms": 259402,
+      "name": "Phase I",
+      "url": "https://open.spotify.com/track/7IF1ZThmxTNO14g0omrkdM"
     },
     {
       "added_at": "2026-01-30 10:18:54",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
+        "name": "Rememberer",
+        "url": "https://open.spotify.com/album/3upV2lrm2jUWJUkEr0kKzd"
+      },
+      "artists": [
+        {
+          "name": "Radio Anorak",
+          "url": "https://open.spotify.com/artist/7DI8lla9rOD2GxmKprt2yl"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "King of England",
+      "url": "https://open.spotify.com/track/6g7p4fERQRnAPHtfDfqbWL"
+    },
+    {
+      "added_at": "2026-01-30 10:18:54",
+      "album": {
         "name": "In Space",
         "url": "https://open.spotify.com/album/32Akdj56jKKGz6bHsGGjZl"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
-        "name": "Rememberer",
-        "url": "https://open.spotify.com/album/3upV2lrm2jUWJUkEr0kKzd"
+        "name": "Bessing",
+        "url": "https://open.spotify.com/album/4cH0Hi8lerqMIbV13twAID"
       },
       "artists": [
         {
-          "name": "Radio Anorak",
-          "url": "https://open.spotify.com/artist/7DI8lla9rOD2GxmKprt2yl"
+          "name": "KUNTARI",
+          "url": "https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY"
         }
       ],
-      "duration_ms": 208917,
-      "name": "King of England",
-      "url": "https://open.spotify.com/track/6g7p4fERQRnAPHtfDfqbWL"
+      "duration_ms": 313256,
+      "name": "Bessing",
+      "url": "https://open.spotify.com/track/12uBMQKWXmxvzxHQv1xhUm"
     },
     {
       "added_at": "2026-01-30 10:18:54",
@@ -967,22 +983,6 @@
       "duration_ms": 211933,
       "name": "Gosamour",
       "url": "https://open.spotify.com/track/7fpvQXLR1umwJVmPRcyFcs"
-    },
-    {
-      "added_at": "2026-01-30 10:18:54",
-      "album": {
-        "name": "Bessing",
-        "url": "https://open.spotify.com/album/4cH0Hi8lerqMIbV13twAID"
-      },
-      "artists": [
-        {
-          "name": "KUNTARI",
-          "url": "https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY"
-        }
-      ],
-      "duration_ms": 313256,
-      "name": "Bessing",
-      "url": "https://open.spotify.com/track/12uBMQKWXmxvzxHQv1xhUm"
     },
     {
       "added_at": "2026-01-30 10:18:54",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
-        "name": "SCORPIO FALLING",
-        "url": "https://open.spotify.com/album/24Q9MlJDWfjif0Qaos88ub"
-      },
-      "artists": [
-        {
-          "name": "Kelman Duran",
-          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
-        }
-      ],
-      "duration_ms": 126267,
-      "name": "Ghost Ryder",
-      "url": "https://open.spotify.com/track/1fd3A5zfvQFtbQR46wa9P3"
-    },
-    {
-      "added_at": "2026-01-30 10:18:54",
-      "album": {
         "name": "TIDE/TIED",
         "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
+        "name": "SCORPIO FALLING",
+        "url": "https://open.spotify.com/album/24Q9MlJDWfjif0Qaos88ub"
+      },
+      "artists": [
+        {
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+        }
+      ],
+      "duration_ms": 126267,
+      "name": "Ghost Ryder",
+      "url": "https://open.spotify.com/track/1fd3A5zfvQFtbQR46wa9P3"
+    },
+    {
+      "added_at": "2026-01-30 10:18:54",
+      "album": {
         "name": "Thinking about you",
         "url": "https://open.spotify.com/album/72gqbn4daD7B6rCmT3U6mG"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
-        "name": "F\u00fcr Therese",
-        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 262945,
-      "name": "F\u00fcr Therese",
-      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
-    },
-    {
-      "added_at": "2026-01-30 10:18:54",
-      "album": {
         "name": "Scintille",
         "url": "https://open.spotify.com/album/32TzqEeSbMwM3QhrYtnmfz"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 299786,
       "name": "Scintille",
       "url": "https://open.spotify.com/track/1TVL0GMb5jryOaAbkutpPc"
+    },
+    {
+      "added_at": "2026-01-30 10:18:54",
+      "album": {
+        "name": "F\u00fcr Therese",
+        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 262945,
+      "name": "F\u00fcr Therese",
+      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
     },
     {
       "added_at": "2026-01-30 10:18:54",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
-        "name": "Wanted To Show You",
-        "url": "https://open.spotify.com/album/7auwpvWqguoC2QAlebNpka"
-      },
-      "artists": [
-        {
-          "name": "Lipsticism",
-          "url": "https://open.spotify.com/artist/3yZVhblOfQUomJFGUKdOf2"
-        }
-      ],
-      "duration_ms": 190738,
-      "name": "Feeling Why Do You Follow",
-      "url": "https://open.spotify.com/track/5MGeZ5lMzPlgdfcwVmVCzr"
-    },
-    {
-      "added_at": "2026-01-30 10:18:54",
-      "album": {
         "name": "Body Roll",
         "url": "https://open.spotify.com/album/5BzvKV2NobLTNcy3b15VNl"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 215826,
       "name": "Body Roll",
       "url": "https://open.spotify.com/track/5ELkW9AejyHpKzRDDAgNvh"
+    },
+    {
+      "added_at": "2026-01-30 10:18:54",
+      "album": {
+        "name": "Wanted To Show You",
+        "url": "https://open.spotify.com/album/7auwpvWqguoC2QAlebNpka"
+      },
+      "artists": [
+        {
+          "name": "Lipsticism",
+          "url": "https://open.spotify.com/artist/3yZVhblOfQUomJFGUKdOf2"
+        }
+      ],
+      "duration_ms": 190738,
+      "name": "Feeling Why Do You Follow",
+      "url": "https://open.spotify.com/track/5MGeZ5lMzPlgdfcwVmVCzr"
     },
     {
       "added_at": "2026-01-30 10:18:54",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
-        "name": "Kampana - Vibration, trembling",
-        "url": "https://open.spotify.com/album/4PKFMgHF91f8bSZUb4VsfG"
-      },
-      "artists": [
-        {
-          "name": "Jan Kadereit",
-          "url": "https://open.spotify.com/artist/7471nwLmVL3nQLysLfeGFV"
-        },
-        {
-          "name": "Gamelan Salukat",
-          "url": "https://open.spotify.com/artist/2pciUK7qPMybdj0Bp6lpkL"
-        }
-      ],
-      "duration_ms": 390959,
-      "name": "Kampana - Vibration, trembling",
-      "url": "https://open.spotify.com/track/0mqCMl0iihyYf4yhnYWReV"
-    },
-    {
-      "added_at": "2026-01-30 10:18:54",
-      "album": {
         "name": "Tessalonica",
         "url": "https://open.spotify.com/album/0FaZwDS0LjD5lHocxuuxtW"
       },
@@ -1459,18 +1439,22 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
-        "name": ",,, as long as i long to memorise your sky ,,,",
-        "url": "https://open.spotify.com/album/7bxK9dMmBNb2hAdW5Us5KU"
+        "name": "Kampana - Vibration, trembling",
+        "url": "https://open.spotify.com/album/4PKFMgHF91f8bSZUb4VsfG"
       },
       "artists": [
         {
-          "name": "elijah jamal asani",
-          "url": "https://open.spotify.com/artist/0IuS5J6QzarmBEOnCvjmSl"
+          "name": "Jan Kadereit",
+          "url": "https://open.spotify.com/artist/7471nwLmVL3nQLysLfeGFV"
+        },
+        {
+          "name": "Gamelan Salukat",
+          "url": "https://open.spotify.com/artist/2pciUK7qPMybdj0Bp6lpkL"
         }
       ],
-      "duration_ms": 194455,
-      "name": "~~~littleriverhypothesis\u2022\u2022",
-      "url": "https://open.spotify.com/track/3WfU1PNZuuYDGgvtOxg4od"
+      "duration_ms": 390959,
+      "name": "Kampana - Vibration, trembling",
+      "url": "https://open.spotify.com/track/0mqCMl0iihyYf4yhnYWReV"
     },
     {
       "added_at": "2026-01-30 10:18:54",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
+        "name": ",,, as long as i long to memorise your sky ,,,",
+        "url": "https://open.spotify.com/album/7bxK9dMmBNb2hAdW5Us5KU"
+      },
+      "artists": [
+        {
+          "name": "elijah jamal asani",
+          "url": "https://open.spotify.com/artist/0IuS5J6QzarmBEOnCvjmSl"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "~~~littleriverhypothesis\u2022\u2022",
+      "url": "https://open.spotify.com/track/3WfU1PNZuuYDGgvtOxg4od"
+    },
+    {
+      "added_at": "2026-01-30 10:18:54",
+      "album": {
         "name": "The Scrollkeeper",
         "url": "https://open.spotify.com/album/4KQRc2xhNQzRj05N2EPwKh"
       },
@@ -1519,42 +1519,6 @@
       "duration_ms": 285738,
       "name": "The Scrollkeeper",
       "url": "https://open.spotify.com/track/108HXrZvKUAlXaWrozGj3L"
-    },
-    {
-      "added_at": "2026-01-30 10:18:54",
-      "album": {
-        "name": "Manast\u0131r",
-        "url": "https://open.spotify.com/album/2qjpmeQBHMGDLpQ0vL4A1G"
-      },
-      "artists": [
-        {
-          "name": "Ahmet Ali Arslan",
-          "url": "https://open.spotify.com/artist/2fyKy2t7OhlAGDzFSBTxC9"
-        },
-        {
-          "name": "Volkan \u0130nc\u00fcvez",
-          "url": "https://open.spotify.com/artist/0XKSYLqJTg6qcWsak8A4Ja"
-        }
-      ],
-      "duration_ms": 195876,
-      "name": "Demircidere",
-      "url": "https://open.spotify.com/track/5MeOMMwWOkhDHUCFFJBtHF"
-    },
-    {
-      "added_at": "2026-01-30 10:18:54",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/2TpixP6RhxoNA0LtKm0p2z"
-      },
-      "artists": [
-        {
-          "name": "JASSS",
-          "url": "https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV"
-        }
-      ],
-      "duration_ms": 294250,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/4rhaL2Iy5N60QVkdRfBill"
     },
     {
       "added_at": "2026-01-30 10:18:54",
@@ -1595,38 +1559,6 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
-        "name": "M29",
-        "url": "https://open.spotify.com/album/0mp2d3TTvyqhyiciUqx7Ja"
-      },
-      "artists": [
-        {
-          "name": "The Delay in the Universal Loop",
-          "url": "https://open.spotify.com/artist/1gGgZFg6XipWjLJ1fdfdeG"
-        }
-      ],
-      "duration_ms": 188615,
-      "name": "M29",
-      "url": "https://open.spotify.com/track/2Qs0YnwrRRHoggAqR0LxCR"
-    },
-    {
-      "added_at": "2026-01-30 10:18:54",
-      "album": {
-        "name": "Distratta",
-        "url": "https://open.spotify.com/album/0LC582TtftOkHG7J5KvFlJ"
-      },
-      "artists": [
-        {
-          "name": "Silvia Tarozzi",
-          "url": "https://open.spotify.com/artist/3QXW4xSGmwli3mbaKTgFxb"
-        }
-      ],
-      "duration_ms": 169775,
-      "name": "Distratta",
-      "url": "https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i"
-    },
-    {
-      "added_at": "2026-01-30 10:18:54",
-      "album": {
         "name": "Neptune Anteater",
         "url": "https://open.spotify.com/album/4N23iLAHXRJ0uq4NL84kfU"
       },
@@ -1643,6 +1575,58 @@
     {
       "added_at": "2026-01-30 10:18:54",
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/2TpixP6RhxoNA0LtKm0p2z"
+      },
+      "artists": [
+        {
+          "name": "JASSS",
+          "url": "https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/4rhaL2Iy5N60QVkdRfBill"
+    },
+    {
+      "added_at": "2026-01-30 10:18:54",
+      "album": {
+        "name": "Manast\u0131r",
+        "url": "https://open.spotify.com/album/2qjpmeQBHMGDLpQ0vL4A1G"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Ali Arslan",
+          "url": "https://open.spotify.com/artist/2fyKy2t7OhlAGDzFSBTxC9"
+        },
+        {
+          "name": "Volkan \u0130nc\u00fcvez",
+          "url": "https://open.spotify.com/artist/0XKSYLqJTg6qcWsak8A4Ja"
+        }
+      ],
+      "duration_ms": 195876,
+      "name": "Demircidere",
+      "url": "https://open.spotify.com/track/5MeOMMwWOkhDHUCFFJBtHF"
+    },
+    {
+      "added_at": "2026-01-30 10:18:54",
+      "album": {
+        "name": "M29",
+        "url": "https://open.spotify.com/album/0mp2d3TTvyqhyiciUqx7Ja"
+      },
+      "artists": [
+        {
+          "name": "The Delay in the Universal Loop",
+          "url": "https://open.spotify.com/artist/1gGgZFg6XipWjLJ1fdfdeG"
+        }
+      ],
+      "duration_ms": 188615,
+      "name": "M29",
+      "url": "https://open.spotify.com/track/2Qs0YnwrRRHoggAqR0LxCR"
+    },
+    {
+      "added_at": "2026-01-30 10:18:54",
+      "album": {
         "name": "Hold the Edges",
         "url": "https://open.spotify.com/album/6DLJ126k5YfhEzHp3uLM3c"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 213160,
       "name": "Hold the Edges",
       "url": "https://open.spotify.com/track/3xScwoXWtndJkA4h1Nsh1S"
+    },
+    {
+      "added_at": "2026-01-30 10:18:54",
+      "album": {
+        "name": "Distratta",
+        "url": "https://open.spotify.com/album/0LC582TtftOkHG7J5KvFlJ"
+      },
+      "artists": [
+        {
+          "name": "Silvia Tarozzi",
+          "url": "https://open.spotify.com/artist/3QXW4xSGmwli3mbaKTgFxb"
+        }
+      ],
+      "duration_ms": 169775,
+      "name": "Distratta",
+      "url": "https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i"
     },
     {
       "added_at": "2026-01-30 10:18:54",

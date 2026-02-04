@@ -628,7 +628,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 102738,
       "name": "drama queen",
       "url": "https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 136062,
       "name": "Moe Texas",
       "url": "https://open.spotify.com/track/4Q2ZgILbVW5bViFhaRwmnT"
@@ -2373,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "Why??",
+        "url": "https://open.spotify.com/album/6fqdCF4J8w8plMLjPMT3hh"
+      },
+      "artists": [
+        {
+          "name": "cb",
+          "url": "https://open.spotify.com/artist/5EAMEZrRLkhyG5pYaqedpC"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128505,
+      "name": "Why??",
+      "url": "https://open.spotify.com/track/0dBMRQ78EYbUMjjxOH38yw"
+    },
+    {
+      "album": {
         "name": "Wish Wash",
         "url": "https://open.spotify.com/album/3xg47ag1tVBQ6RZz9ZdOfw"
       },
@@ -2388,6 +2406,24 @@
       "duration_ms": 112106,
       "name": "Wish Wash",
       "url": "https://open.spotify.com/track/4iJi7gi85QzVBolEpCChyf"
+    },
+    {
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/5sdEGZfppT2PxH9tSyRYEY"
+      },
+      "artists": [
+        {
+          "name": "PUNISHA",
+          "url": "https://open.spotify.com/artist/3A5EcOZe9K1toLk6v4541Q"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/7HVYOhVD0wOlA09qoKFxSI"
     },
     {
       "album": {

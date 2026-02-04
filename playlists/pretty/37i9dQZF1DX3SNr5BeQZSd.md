@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,677 likes - 100 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,697 likes - 100 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 67 | [cold blue](https://open.spotify.com/track/5rt8MEeh45RIWFNMI18I0e) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc), [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [cold blue](https://open.spotify.com/album/5zjdEKXngK6TTPuAKdlS3R) | 1:53 |
 | 68 | [Drifted](https://open.spotify.com/track/7kupYE9bCyygIXH4bcnnfF) | [Koalres](https://open.spotify.com/artist/1yraXwXFQ7TWljCiHGsA3s) | [Drifted](https://open.spotify.com/album/2CwBK3xznMS88b9LdxYKg1) | 1:50 |
 | 69 | [Playing at the Quiet Hour](https://open.spotify.com/track/590o8NliZmWfGVyGwoiJ5b) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Time Lapse](https://open.spotify.com/album/5d8ao8OQLV1WRGBydWN0LI) | 2:59 |
-| 70 | [Loom](https://open.spotify.com/track/3ub6fJTpAlhNiZNVR6Uyrb) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Loom](https://open.spotify.com/album/1439GFqOXW9Hk3BqGRowbt) | 1:54 |
+| 70 | [Loom](https://open.spotify.com/track/3ub6fJTpAlhNiZNVR6Uyrb) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Oiyo](https://open.spotify.com/artist/5HIjruR5eBns42y5P0r2aD) | [Loom](https://open.spotify.com/album/1439GFqOXW9Hk3BqGRowbt) | 1:54 |
 | 71 | [new start](https://open.spotify.com/track/6yKSziUfTDwcJNbqEAnGOs) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [new start](https://open.spotify.com/album/7kuQqdzD12ZsRY9TK9Xjmb) | 2:21 |
 | 72 | [Marigold](https://open.spotify.com/track/4jmy83rM8j9ld8yU2kcIEe) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [rabson beats](https://open.spotify.com/artist/3VzEgExSrnP1wtVR9i841V) | [Marigold](https://open.spotify.com/album/5s9HWjsgAuuSvhE4em6409) | 1:46 |
 | 73 | [Wasting Time](https://open.spotify.com/track/3SUh9Xy50Qf2V2LogMEWQG) | [moonboy](https://open.spotify.com/artist/4UkR948lZ7yLKOpfBClKUS), [Langston](https://open.spotify.com/artist/4PT0WPDrchM47JRRojzjhA), [Tama](https://open.spotify.com/artist/76SQufIPbADbhnxyLsDbyJ) | [Wasting Time](https://open.spotify.com/album/1JGVeV3YrPCw8DJRx9gixK) | 2:39 |

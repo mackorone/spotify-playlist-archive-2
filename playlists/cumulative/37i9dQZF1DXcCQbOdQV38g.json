@@ -803,6 +803,36 @@
     },
     {
       "album": {
+        "name": "Meisje",
+        "url": "https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        },
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128014,
+      "name": "Meisje",
+      "url": "https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF"
+    },
+    {
+      "album": {
         "name": "Missen Zou",
         "url": "https://open.spotify.com/album/5LeUosB70aEFHeCGO9bdRE"
       },
@@ -1022,7 +1052,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 198000,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/7BGLmRLEfZC58QPAPAikIb"
@@ -1247,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200520,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z"
+    },
+    {
+      "album": {
         "name": "Golven",
         "url": "https://open.spotify.com/album/6Z4IOHGEP8RsMxjgCAwgZO"
       },
@@ -1306,7 +1354,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 172385,
       "name": "Un Chance",
       "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"

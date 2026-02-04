@@ -173,6 +173,28 @@
     },
     {
       "album": {
+        "name": "CONNECT:COMMUNE",
+        "url": "https://open.spotify.com/album/51VcoriIXA2x8vi4H8CBAm"
+      },
+      "artists": [
+        {
+          "name": "FLAVOR FOLEY",
+          "url": "https://open.spotify.com/artist/2f5AcZbndYPEd7W5EfsZjY"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229230,
+      "name": "CONNECT:COMMUNE (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6TDFrR26d6kOv6ieyCgVpu"
+    },
+    {
+      "album": {
         "name": "iceQuarium -Cotton Candy-",
         "url": "https://open.spotify.com/album/5MNe2kFZuP8pkj7IYbf0Ce"
       },
@@ -1610,7 +1632,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 269360,
       "name": "UNLYRICAL ANALYSIS",
       "url": "https://open.spotify.com/track/1Shms2ZWX2Jjhrs18VVlsB"
@@ -2079,6 +2101,28 @@
     },
     {
       "album": {
+        "name": "\u305f\u3073\u3060\u3061\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/3pKpB03sbYNtMptfJpjCae"
+      },
+      "artists": [
+        {
+          "name": "\u70cf\u5c4b\u8336\u623f",
+          "url": "https://open.spotify.com/artist/0B47xY6dxvEFMB6Rx2qCy6"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "\u305f\u3073\u3060\u3061\u306e\u3046\u305f (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7szhYsCx1lqZ7p3mCqqGYq"
+    },
+    {
+      "album": {
         "name": "\u3061\u3063\u307d\u3051\u82f1\u96c4\u8b5a",
         "url": "https://open.spotify.com/album/2SzsGijEXusZeGGcBmjKKG"
       },
@@ -2120,6 +2164,24 @@
       "duration_ms": 161250,
       "name": "\u3061\u3085\u304d\u3061\u3085\u304d\u30dd\u30b3\u30dd\u30b3\u30dd\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/10uuhDZM2Vefqy7r7wRjwq"
+    },
+    {
+      "album": {
+        "name": "\u3064\u308b\u307f\u79c1\u66f8\u7bb1",
+        "url": "https://open.spotify.com/album/7jMKXat4lzCKlNOwUIOcwN"
+      },
+      "artists": [
+        {
+          "name": "Sohbana",
+          "url": "https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199436,
+      "name": "\u3064\u308b\u307f\u79c1\u66f8\u7bb1",
+      "url": "https://open.spotify.com/track/0csqswZQz0dGGt4lScG0hq"
     },
     {
       "album": {
@@ -2432,6 +2494,28 @@
       "duration_ms": 160000,
       "name": "\u3077\u3077\u3077\u3077 (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/5eUUjBOzcRMOu6FZsa8h1E"
+    },
+    {
+      "album": {
+        "name": "\u307c\u304f\u306f\u305d\u308c\u3067\u59d4\u54e1\u4f1a!",
+        "url": "https://open.spotify.com/album/455sEWFpRcOtohEGF0Y7E0"
+      },
+      "artists": [
+        {
+          "name": "\u8584\u5869\u6307\u6570",
+          "url": "https://open.spotify.com/artist/6W7cJRHAi6IqLw2vCp6jAR"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147032,
+      "name": "\u307c\u304f\u306f\u305d\u308c\u3067\u59d4\u54e1\u4f1a! (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/7oS40HF5bm6MnlaDeMd9wr"
     },
     {
       "album": {
@@ -3218,7 +3302,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 183642,
       "name": "\u30a8\u30ec\u30d9\u30fc\u30bf\u30fc\u30af\u30e9\u30d6\uff16\uff17 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2K20cVeH5IddBoCYe1xFLv"
@@ -3306,7 +3390,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 214963,
       "name": "\u30aa\u30eb\u30ec\u30a2\u30f3\u306e\u5c11\u5973 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0CzIQUFc78hTwgUDVOoQvz"
@@ -3346,7 +3430,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 151752,
       "name": "\u30ab\u30a4\u30b3",
       "url": "https://open.spotify.com/track/6Srgvq9ryPxhr2coAYl7RZ"
@@ -8563,6 +8647,24 @@
     },
     {
       "album": {
+        "name": "\u88cf\u590f\u5b9f\u9a13",
+        "url": "https://open.spotify.com/album/11r16nZkB2ZYe0JXzvWlBI"
+      },
+      "artists": [
+        {
+          "name": "\u7531\u672b\u30a4\u30ea",
+          "url": "https://open.spotify.com/artist/1rHy3uxDsp5pvrLQooiJJ9"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140270,
+      "name": "\u88cf\u590f\u5b9f\u9a13",
+      "url": "https://open.spotify.com/track/05jYY5DINgjUL5jAgjXhX4"
+    },
+    {
+      "album": {
         "name": "In:Side",
         "url": "https://open.spotify.com/album/4WgWsRFDqTRuTBKnIE76n0"
       },
@@ -8640,7 +8742,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 226000,
       "name": "\u8d85\u3055\u3044\u304d\u3087\u3046\u2606\u30c1\u30a2\u30c0\u30f3\u30b9 (feat. \u97f3\u8857\u30a6\u30ca)",
       "url": "https://open.spotify.com/track/07YoDX3eW7q4rRq342k2xw"

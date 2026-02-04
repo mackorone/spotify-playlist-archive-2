@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Bruno X Spacc",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: VZS, JOJO, KKevin",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -486,6 +486,28 @@
       "duration_ms": 163636,
       "name": "Brazil F\u00e1nk",
       "url": "https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr"
+    },
+    {
+      "album": {
+        "name": "BULLSHIT",
+        "url": "https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        },
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "BULLSHIT",
+      "url": "https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT"
     },
     {
       "album": {
@@ -1500,7 +1522,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 194746,
       "name": "kif.lee",
       "url": "https://open.spotify.com/track/27ku2bPgLSoGNyaCORu2NK"
@@ -1678,6 +1700,24 @@
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "album": {
@@ -2380,7 +2420,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 157852,
       "name": "PRESSO",
       "url": "https://open.spotify.com/track/0D5QHyA6zijVjWqcTn3huY"
@@ -2787,6 +2827,32 @@
     },
     {
       "album": {
+        "name": "SHOW ME WHAT YOU GOT",
+        "url": "https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        },
+        {
+          "name": "JOJO",
+          "url": "https://open.spotify.com/artist/7m6qRs0oYNvnjCCKwRg4Om"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262800,
+      "name": "SHOW ME WHAT YOU GOT",
+      "url": "https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR"
+    },
+    {
+      "album": {
         "name": "SISS",
         "url": "https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM"
       },
@@ -2914,7 +2980,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 109455,
       "name": "SUV",
       "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"

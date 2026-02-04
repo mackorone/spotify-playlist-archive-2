@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. GERARDO DÍAZ Y SU GERARQUÍA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,361 likes - 125 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,408 likes - 125 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 27 | [No Te Olvidare](https://open.spotify.com/track/0g8IOSkOPv8JUxbTojv6vI) | [La Dinastia de Tuzantla, Mich.](https://open.spotify.com/artist/2Ft11oBGQg7YDAB3N4RRxf) | [Guiados por el Cielo](https://open.spotify.com/album/5se7VnLff9owqtOW1usbhN) | 4:01 |
 | 28 | [Puño de Tierra](https://open.spotify.com/track/0AHoNKqYZdcvffUWkmwPcR) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [De Parranda Con Jorge Garcia](https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa) | 2:35 |
 | 29 | [Guachita Hermosa \- En Vivo](https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k), [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Guachita Hermosa \(En Vivo\)](https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8) | 3:29 |
-| 30 | [Libro Abierto / Qué Se Te Olvidó \(En Vivo\)](https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 6:34 |
-| 31 | [El Rey De Oros](https://open.spotify.com/track/1XOdCS8q1GGjOJR90Kxz3c) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [Era Casada](https://open.spotify.com/album/4QZzs9QW50sVyXsBymf0Rv) | 2:56 |
+| 30 | [El Rey De Oros](https://open.spotify.com/track/1XOdCS8q1GGjOJR90Kxz3c) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [Era Casada](https://open.spotify.com/album/4QZzs9QW50sVyXsBymf0Rv) | 2:56 |
+| 31 | [Libro Abierto / Qué Se Te Olvidó \(En Vivo\)](https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 6:34 |
 | 32 | [Hermosa Tierra Caliente](https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Eres Mi Ángel](https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo) | 3:27 |
 | 33 | [Soy Cukin](https://open.spotify.com/track/6PYAdvhQGjuqoP4I9YBON5) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Soy Cukin](https://open.spotify.com/album/1eVP7WUjq7xfFEroePZ0yT) | 3:45 |
 | 34 | [No Traigo 45](https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [No Traigo 45](https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut) | 3:01 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 40 | [Entre Copa y Copa](https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Quiero Que Seas para Mí](https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv) | 3:48 |
 | 41 | [La Boca Es Para Comer](https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Al 100 y Pasadito](https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b) | 2:37 |
 | 42 | [Guachita Hermosa](https://open.spotify.com/track/5I7VMy1ueLlh8HBDN1DM4h) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k), [tierra caliente music](https://open.spotify.com/artist/5jcQ9RE1WsH5D2j2Nb1Xp0) | [Eres Mi Sexto Sentido](https://open.spotify.com/album/4ixLghGMb69nGfkirXyGe6) | 3:04 |
-| 43 | [Cien Vidas](https://open.spotify.com/track/0D79ID7bLGiIeFRwIRj9O9) | [Grupo El Bueno](https://open.spotify.com/artist/2MdBGTkBZjy9Oa0JbxhJ9f) | [Por Ti Me Mato](https://open.spotify.com/album/6HVw5b6iTjMEGvjohuIHSF) | 2:59 |
-| 44 | [Amor Limosnero](https://open.spotify.com/track/0SLdgfVlFaf0vv9HUFAXgx) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [De Parranda Con Jorge Garcia](https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa) | 3:39 |
+| 43 | [Amor Limosnero](https://open.spotify.com/track/0SLdgfVlFaf0vv9HUFAXgx) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [De Parranda Con Jorge Garcia](https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa) | 3:39 |
+| 44 | [Cien Vidas](https://open.spotify.com/track/0D79ID7bLGiIeFRwIRj9O9) | [Grupo El Bueno](https://open.spotify.com/artist/2MdBGTkBZjy9Oa0JbxhJ9f) | [Por Ti Me Mato](https://open.spotify.com/album/6HVw5b6iTjMEGvjohuIHSF) | 2:59 |
 | 45 | [Aunque Estés Lejos De Mí](https://open.spotify.com/track/1z7i3Ijju21wfapSwi98My) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Cuestión De Tiempo](https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA) | 3:50 |
 | 46 | [Así Fue](https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Kilos de Polvo](https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk) | 5:29 |
 | 47 | [Lo Que Empieza Acaba](https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Gracias a la Vida](https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW) | 2:24 |

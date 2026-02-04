@@ -19247,6 +19247,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2hV3I36DrOkhtmL8h6LlMG"
+      },
+      "artists": [
+        {
+          "name": "Karina Rosee",
+          "url": "https://open.spotify.com/artist/2KKMGsBiuclMbd5PoREDEI"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3slPidaHkTiVnYaNlm38eR"
+    },
+    {
+      "album": {
         "name": "Free Falling",
         "url": "https://open.spotify.com/album/7Chhv46gQYvPoc5to0IY8p"
       },
@@ -40908,6 +40926,28 @@
       "duration_ms": 147425,
       "name": "Pump This Shit",
       "url": "https://open.spotify.com/track/3rqVnU32pirimeS17djaED"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Stereo",
+        "url": "https://open.spotify.com/album/7ze5ijAQWMlip4kNtuinHB"
+      },
+      "artists": [
+        {
+          "name": "Mistofz",
+          "url": "https://open.spotify.com/artist/0aaw9Xe6eZvjGAzW30MEhF"
+        },
+        {
+          "name": "Missy",
+          "url": "https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173180,
+      "name": "Pump Up The Stereo",
+      "url": "https://open.spotify.com/track/5cG5XBeu1zknhmgTmXjpGG"
     },
     {
       "album": {

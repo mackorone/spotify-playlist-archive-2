@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Ajur",
+        "url": "https://open.spotify.com/album/2xj30sMia50aGitejKMDPy"
+      },
+      "artists": [
+        {
+          "name": "Sleman Receh",
+          "url": "https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "Ajur",
+      "url": "https://open.spotify.com/track/3xKvaef3MTIy1HLiARUCa4"
+    },
+    {
+      "album": {
         "name": "Aku Cah Kerjo",
         "url": "https://open.spotify.com/album/2PrQPOlLv5PDCYHdKvTXPT"
       },
@@ -92,6 +110,24 @@
       "duration_ms": 356541,
       "name": "Aku Sing Lungo",
       "url": "https://open.spotify.com/track/2xk7P9Y2bzsCblzrXnOkBa"
+    },
+    {
+      "album": {
+        "name": "Aku Tetep Bali",
+        "url": "https://open.spotify.com/album/5QfBk6Y3qSYYrE9cnVAQR9"
+      },
+      "artists": [
+        {
+          "name": "Vadesta",
+          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Aku Tetep Bali",
+      "url": "https://open.spotify.com/track/1J9IHbIfkabPZSxZt3LoWG"
     },
     {
       "album": {
@@ -186,6 +222,24 @@
       "duration_ms": 259200,
       "name": "Asing",
       "url": "https://open.spotify.com/track/6G0NSuLgeigUIqpwC69ac4"
+    },
+    {
+      "album": {
+        "name": "Atiku Ajur",
+        "url": "https://open.spotify.com/album/1axIrJ3djL3B1tbDwzlN3H"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472000,
+      "name": "Atiku Ajur",
+      "url": "https://open.spotify.com/track/730ZF1fdxa1Ule8TNVFeA7"
     },
     {
       "album": {
@@ -450,7 +504,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 226942,
       "name": "Dadi Siji",
       "url": "https://open.spotify.com/track/7vJffOmu35UgVjAasLGSts"
@@ -786,7 +840,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 269032,
       "name": "Jejantunging Kalbu",
       "url": "https://open.spotify.com/track/3ZnKGBeVyJrs4gFVtsEJmD"
@@ -928,6 +982,28 @@
       "duration_ms": 199053,
       "name": "Kelingan Mantan",
       "url": "https://open.spotify.com/track/3w09eeWmgkLz5BISaqcpgm"
+    },
+    {
+      "album": {
+        "name": "NDX A.K.A. FAMILIA",
+        "url": "https://open.spotify.com/album/3ZoeNQiKCsbCP5cY1O6yus"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        },
+        {
+          "name": "PJR",
+          "url": "https://open.spotify.com/artist/6bD3YWzWbah6b66U3jLkQK"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200974,
+      "name": "Kelingan Mantan",
+      "url": "https://open.spotify.com/track/6hdIeCcyyiaktYIH8DvJhU"
     },
     {
       "album": {
@@ -2050,7 +2126,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 244038,
       "name": "Rindu Tapi Jauh",
       "url": "https://open.spotify.com/track/3SbYOFXV6n6C7FxJVWISY9"
@@ -2076,6 +2152,24 @@
       "duration_ms": 315506,
       "name": "Ropang",
       "url": "https://open.spotify.com/track/4c2OR5RjaVRhAOTqWhXZfQ"
+    },
+    {
+      "album": {
+        "name": "Ropang (NDX A.K.A Version)",
+        "url": "https://open.spotify.com/album/5l2hjtoFAUeUYqVOoguj2A"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234946,
+      "name": "Ropang - NDX A.K.A Version",
+      "url": "https://open.spotify.com/track/5l6mQ6QOhmwPmPjUxkDTta"
     },
     {
       "album": {
@@ -2232,6 +2326,24 @@
       "duration_ms": 277525,
       "name": "Sepine Wengi",
       "url": "https://open.spotify.com/track/250cwRyihzWCQynWdL6RTn"
+    },
+    {
+      "album": {
+        "name": "Sewates Gandrung",
+        "url": "https://open.spotify.com/album/5P2jxvTbCeXpP2207z7IZT"
+      },
+      "artists": [
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262372,
+      "name": "Sewates Gandrung",
+      "url": "https://open.spotify.com/track/6uvS6ZHcvNaI1zo6cWHhbT"
     },
     {
       "album": {

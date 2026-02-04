@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Zaylevelten",
-  "num_followers": 110421,
+  "num_followers": 110430,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-01-30 00:01:16",
       "album": {
+        "name": "Nigerian Boyfriend",
+        "url": "https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 147955,
+      "name": "BACK IN OFFICE",
+      "url": "https://open.spotify.com/track/2cJm8zLr43lJsNR5AulsZJ"
+    },
+    {
+      "added_at": "2026-01-30 00:01:16",
+      "album": {
         "name": "Normally",
         "url": "https://open.spotify.com/album/416GBquOnS63wjc41I2aA8"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 235703,
       "name": "Normally",
       "url": "https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf"
-    },
-    {
-      "added_at": "2026-01-30 00:01:16",
-      "album": {
-        "name": "Nigerian Boyfriend",
-        "url": "https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 147955,
-      "name": "BACK IN OFFICE",
-      "url": "https://open.spotify.com/track/2cJm8zLr43lJsNR5AulsZJ"
     },
     {
       "added_at": "2026-01-30 00:01:16",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-01-30 00:01:16",
       "album": {
+        "name": "Dumb",
+        "url": "https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue"
+      },
+      "artists": [
+        {
+          "name": "Noir",
+          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS"
+    },
+    {
+      "added_at": "2026-01-30 00:01:16",
+      "album": {
         "name": "Cavy In The City",
         "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
       },
@@ -987,18 +1003,22 @@
     {
       "added_at": "2026-01-30 00:01:16",
       "album": {
-        "name": "Dumb",
-        "url": "https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue"
+        "name": "Sinatanale",
+        "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
       },
       "artists": [
         {
-          "name": "Noir",
-          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "TSIE",
+          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS"
+      "duration_ms": 214956,
+      "name": "Sinatanale",
+      "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
     },
     {
       "added_at": "2026-01-30 00:01:16",
@@ -1027,26 +1047,6 @@
     {
       "added_at": "2026-01-30 00:01:16",
       "album": {
-        "name": "Sinatanale",
-        "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
-      },
-      "artists": [
-        {
-          "name": "LAGOS IN PARIS",
-          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
-        },
-        {
-          "name": "TSIE",
-          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
-        }
-      ],
-      "duration_ms": 214956,
-      "name": "Sinatanale",
-      "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
-    },
-    {
-      "added_at": "2026-01-30 00:01:16",
-      "album": {
         "name": "Not There Yet",
         "url": "https://open.spotify.com/album/7odsdzRoh6pWISrnS1kY9c"
       },
@@ -1059,6 +1059,26 @@
       "duration_ms": 213190,
       "name": "Not There Yet",
       "url": "https://open.spotify.com/track/5H3RnXcjdpMAXI9XqFmSmz"
+    },
+    {
+      "added_at": "2026-01-30 00:01:16",
+      "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
+      },
+      "artists": [
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        },
+        {
+          "name": "Hunter Drake",
+          "url": "https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
     },
     {
       "added_at": "2026-01-30 00:01:16",
@@ -1143,26 +1163,6 @@
     {
       "added_at": "2026-01-30 00:01:16",
       "album": {
-        "name": "RUSH",
-        "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
-      },
-      "artists": [
-        {
-          "name": "Sam Opoku",
-          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
-        },
-        {
-          "name": "Hunter Drake",
-          "url": "https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "RUSH",
-      "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
-    },
-    {
-      "added_at": "2026-01-30 00:01:16",
-      "album": {
         "name": "Real One",
         "url": "https://open.spotify.com/album/7351sYtk4c8YGx2ZZRC0MW"
       },
@@ -1199,6 +1199,26 @@
       "duration_ms": 155335,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/34BRP7EOk9XtnfpQXoVePk"
+    },
+    {
+      "added_at": "2026-01-30 00:01:16",
+      "album": {
+        "name": "Economy",
+        "url": "https://open.spotify.com/album/5l7xCQMFQsRAnQUr99gnJ7"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        }
+      ],
+      "duration_ms": 237683,
+      "name": "Economy",
+      "url": "https://open.spotify.com/track/4m7JyFCJMDxbkobBjwFfLk"
     },
     {
       "added_at": "2026-01-30 00:01:16",
@@ -1243,42 +1263,6 @@
     {
       "added_at": "2026-01-30 00:01:16",
       "album": {
-        "name": "Economy",
-        "url": "https://open.spotify.com/album/5l7xCQMFQsRAnQUr99gnJ7"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        }
-      ],
-      "duration_ms": 237683,
-      "name": "Economy",
-      "url": "https://open.spotify.com/track/4m7JyFCJMDxbkobBjwFfLk"
-    },
-    {
-      "added_at": "2026-01-30 00:01:16",
-      "album": {
-        "name": "Fighting",
-        "url": "https://open.spotify.com/album/72LClr9ud1tcJNajCT6xeZ"
-      },
-      "artists": [
-        {
-          "name": "Somadina",
-          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
-        }
-      ],
-      "duration_ms": 152568,
-      "name": "Fighting",
-      "url": "https://open.spotify.com/track/5eX60GNe5QZ5XedEtxwltc"
-    },
-    {
-      "added_at": "2026-01-30 00:01:16",
-      "album": {
         "name": "Nobody Badder",
         "url": "https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 160359,
       "name": "FEELINGS",
       "url": "https://open.spotify.com/track/1ksmsfxb4XCOKD0JdYaznz"
+    },
+    {
+      "added_at": "2026-01-30 00:01:16",
+      "album": {
+        "name": "Fighting",
+        "url": "https://open.spotify.com/album/72LClr9ud1tcJNajCT6xeZ"
+      },
+      "artists": [
+        {
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+        }
+      ],
+      "duration_ms": 152568,
+      "name": "Fighting",
+      "url": "https://open.spotify.com/track/5eX60GNe5QZ5XedEtxwltc"
     },
     {
       "added_at": "2026-01-30 00:01:16",
@@ -1319,42 +1319,6 @@
     {
       "added_at": "2026-01-30 00:01:16",
       "album": {
-        "name": "Fool Me Once",
-        "url": "https://open.spotify.com/album/2KEKoEZzlzfhlkS4SkM3NX"
-      },
-      "artists": [
-        {
-          "name": "Joyce Olong",
-          "url": "https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj"
-        }
-      ],
-      "duration_ms": 233207,
-      "name": "Fool Me Once",
-      "url": "https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi"
-    },
-    {
-      "added_at": "2026-01-30 00:01:16",
-      "album": {
-        "name": "Lock In",
-        "url": "https://open.spotify.com/album/5ziFmKymfaKOe3b1axOjjS"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 173839,
-      "name": "Lock In",
-      "url": "https://open.spotify.com/track/69u0Cv7EK6HoRDtfhb7vrv"
-    },
-    {
-      "added_at": "2026-01-30 00:01:16",
-      "album": {
         "name": "MONOCHROME RADIO (DELUXE)",
         "url": "https://open.spotify.com/album/6ZheFCIly6mzEYOIOJv1X3"
       },
@@ -1367,6 +1331,22 @@
       "duration_ms": 222516,
       "name": "SUGAR HONEY ICED TEA",
       "url": "https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1"
+    },
+    {
+      "added_at": "2026-01-30 00:01:16",
+      "album": {
+        "name": "Fool Me Once",
+        "url": "https://open.spotify.com/album/2KEKoEZzlzfhlkS4SkM3NX"
+      },
+      "artists": [
+        {
+          "name": "Joyce Olong",
+          "url": "https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj"
+        }
+      ],
+      "duration_ms": 233207,
+      "name": "Fool Me Once",
+      "url": "https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi"
     },
     {
       "added_at": "2026-01-30 00:01:16",
@@ -1403,6 +1383,26 @@
       "duration_ms": 202812,
       "name": "Catch Me If U Can",
       "url": "https://open.spotify.com/track/2qVE04XUbgnn76GmUnz3Ix"
+    },
+    {
+      "added_at": "2026-01-30 00:01:16",
+      "album": {
+        "name": "Lock In",
+        "url": "https://open.spotify.com/album/5ziFmKymfaKOe3b1axOjjS"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 173839,
+      "name": "Lock In",
+      "url": "https://open.spotify.com/track/69u0Cv7EK6HoRDtfhb7vrv"
     },
     {
       "added_at": "2026-01-30 00:01:16",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-01-30 00:01:16",
       "album": {
-        "name": "Tired Music 2.0",
-        "url": "https://open.spotify.com/album/7MoaQf1LoJp4386pIuS5jp"
-      },
-      "artists": [
-        {
-          "name": "Deewave",
-          "url": "https://open.spotify.com/artist/3gOMLQ5G6tzooqOiT1qaBJ"
-        }
-      ],
-      "duration_ms": 133629,
-      "name": "Life Was Never Like This",
-      "url": "https://open.spotify.com/track/3tAkD5F61C0ChhUVS6mCG6"
-    },
-    {
-      "added_at": "2026-01-30 00:01:16",
-      "album": {
         "name": "Pray for the Kids",
         "url": "https://open.spotify.com/album/6YK2EvLKE64QQjYjHGtHIS"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 186636,
       "name": "Pray for the Kids",
       "url": "https://open.spotify.com/track/79HMF5FAzSwzhFp6it4XFL"
+    },
+    {
+      "added_at": "2026-01-30 00:01:16",
+      "album": {
+        "name": "Tired Music 2.0",
+        "url": "https://open.spotify.com/album/7MoaQf1LoJp4386pIuS5jp"
+      },
+      "artists": [
+        {
+          "name": "Deewave",
+          "url": "https://open.spotify.com/artist/3gOMLQ5G6tzooqOiT1qaBJ"
+        }
+      ],
+      "duration_ms": 133629,
+      "name": "Life Was Never Like This",
+      "url": "https://open.spotify.com/track/3tAkD5F61C0ChhUVS6mCG6"
     },
     {
       "added_at": "2026-01-30 00:01:16",

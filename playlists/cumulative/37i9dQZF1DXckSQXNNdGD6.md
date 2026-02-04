@@ -2,9 +2,9 @@
 
 ### [Glow España](https://open.spotify.com/playlist/37i9dQZF1DXckSQXNNdGD6)
 
-> La banda sonora de tu orgullo\. Foto: Luna Ki.
+> La banda sonora de tu orgullo\. Foto: Marlon Collins.
 
-291 songs - 14 hr 15 min
+294 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,9 +153,9 @@
 | [LIL BAD](https://open.spotify.com/track/0HuhX8RwqyHwShA72MkG3E) | [Mel Ömana](https://open.spotify.com/artist/2beEvJlotpHyrcksZteM4z) | [LIL BAD](https://open.spotify.com/album/1QqffUzCbKBRSBd9CVBudL) | 2:52 | 2025-08-05 | 2025-09-03 |
 | [Lip Combo](https://open.spotify.com/track/2XBPRlrllcXr790bNLJwjS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS) | [Lip Combo](https://open.spotify.com/album/277TqVAcStMNXa1Tta9cXT) | 2:51 | 2024-08-06 | 2025-05-07 |
 | [Liturgia](https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Liturgia](https://open.spotify.com/album/24yYXtyoh3yVZzGPZkkjvT) | 3:53 | 2024-10-01 | 2025-06-04 |
-| [LLÁMAME](https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw) | [J Kbello](https://open.spotify.com/artist/6rCKs7YmtBhtKc2fAdblZA), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [LLÁMAME](https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo) | 2:18 | 2025-07-01 |  |
+| [LLÁMAME](https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw) | [J Kbello](https://open.spotify.com/artist/6rCKs7YmtBhtKc2fAdblZA), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [LLÁMAME](https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo) | 2:18 | 2025-07-01 | 2026-02-04 |
 | [LOCOLOCO](https://open.spotify.com/track/6O3wWV2M81Vhs3JQJtGdcT) | [Yenesi](https://open.spotify.com/artist/2G49dkprxnvfogsgYd3yOb) | [LOCOLOCO](https://open.spotify.com/album/2GGWmq9XIqwKO9xCH5kJSB) | 2:37 | 2024-07-02 | 2024-08-07 |
-| [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 | 2025-06-03 |  |
+| [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 | 2025-06-03 | 2026-02-04 |
 | [Los que me salvaron](https://open.spotify.com/track/4xY1WAvXeGrsB3dA20kxJr) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Los que me salvaron](https://open.spotify.com/album/3p2TdjupbCBuWbqatEmBpL) | 3:20 | 2026-01-13 |  |
 | [Lunytunes](https://open.spotify.com/track/1lmkmlTumrbOU8cayYaGBr) | [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [Lunytunes](https://open.spotify.com/album/2BFNt7qe37chxGZQcaLn7v) | 2:35 | 2025-07-01 | 2025-10-02 |
 | [MADRE](https://open.spotify.com/track/4j2e7idC7I4WOsHkp365aO) | [DeTeresa](https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK) | [MADRE](https://open.spotify.com/album/2sxtDcyhOrPUaImvlyXIYy) | 2:06 | 2025-08-05 | 2026-01-28 |
@@ -229,6 +229,7 @@
 | [PRÉNDEME EN GASOLINA](https://open.spotify.com/track/63NKuJQ1KYgH0ZsYQDAFCh) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [PRÉNDEME EN GASOLINA](https://open.spotify.com/album/4tKZO6PYRrdMYVEnlEBy22) | 2:40 | 2024-08-06 | 2024-11-06 |
 | [Puertas al campo](https://open.spotify.com/track/3ULo9iXLy2Mv235k0uuWeW) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [DESQUICIADO](https://open.spotify.com/album/29Rmm5352PQfQBSee0pWXM) | 3:05 | 2025-04-01 | 2025-05-07 |
 | [PUTO CON DIAMANTES](https://open.spotify.com/track/1eSkVDsyJGYH3OQPFNg7JV) | [Marlon Collins](https://open.spotify.com/artist/5ek3qzAl6qGKWK7IuMmZRY) | [PUTO CON DIAMANTES](https://open.spotify.com/album/6ZjzRaOulw2iAOU4kAspq7) | 3:12 | 2025-11-04 | 2025-12-03 |
+| [PUTO CON DIAMANTES](https://open.spotify.com/track/3O1iC6KHB3iySfPDHZuSbN) | [Marlon Collins](https://open.spotify.com/artist/5ek3qzAl6qGKWK7IuMmZRY) | [CABALLO NEGRO](https://open.spotify.com/album/0QBgvCtVa4h7GJ4om5ai5Q) | 3:12 | 2026-02-03 |  |
 | [Putón Verbenero](https://open.spotify.com/track/4J1wiCJoD62Wsibu8We17z) | [Pupi Poisson](https://open.spotify.com/artist/2mgr9vzB7VF10t1S5x20yn) | [Verbenera](https://open.spotify.com/album/0yuUDWK1vVKMzT3ttG4BZh) | 3:11 | 2024-09-03 | 2025-07-02 |
 | [Pégate](https://open.spotify.com/track/3y1vPgwHA2R20efomVmD9F) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork), [Xema Fuentes](https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9) | [Pégate](https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC) | 2:26 | 2025-09-02 |  |
 | [q putada! \- summer edit](https://open.spotify.com/track/0Pi1VUqguB68icLxMCArVU) | [Gad Yola](https://open.spotify.com/artist/2DnpZWKBEWUPYWjREjfMby), [Omar Diop](https://open.spotify.com/artist/4GdSgnN3c3CnN2Hksrk20l) | [q putada!](https://open.spotify.com/album/0YY21ev9UeVLpspqV6BRkv) | 3:20 | 2024-10-01 | 2024-10-08 |
@@ -240,7 +241,7 @@
 | [Redención](https://open.spotify.com/track/6k0j9RR6RilfL0bw64F0wk) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Redención](https://open.spotify.com/album/73rFocl011WgsCQzadxU2A) | 2:18 | 2024-07-02 | 2024-11-20 |
 | [Reggaeton Cristiano](https://open.spotify.com/track/3AxnNLgUlAX4tCmyAkN420) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7), [Domi Shameless](https://open.spotify.com/artist/2N425CEAGXMEWzrpet0Sy8) | [Reggaeton Cristiano](https://open.spotify.com/album/4C4GlvaDKglOAXNPNKsupf) | 3:08 | 2024-07-02 | 2024-11-06 |
 | [Resaca](https://open.spotify.com/track/0kB41opCLgtqDI4llb9s30) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7), [antimorbo](https://open.spotify.com/artist/4qSSfcyAi4jaUNXl3ayXcS) | [Resaca](https://open.spotify.com/album/4tHNQxQgs1UcncwUI8oiIi) | 3:10 | 2024-06-05 | 2024-08-07 |
-| [Reset](https://open.spotify.com/track/77CM7X0G61viIVZ4Wbfpo8) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Reset](https://open.spotify.com/album/0Nsp1WVHr59vBYZvns3l8s) | 2:57 | 2025-04-01 |  |
+| [Reset](https://open.spotify.com/track/77CM7X0G61viIVZ4Wbfpo8) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Reset](https://open.spotify.com/album/0Nsp1WVHr59vBYZvns3l8s) | 2:57 | 2025-04-01 | 2026-02-04 |
 | [ROADTRIP](https://open.spotify.com/track/1WZfs7Pl5zlvsqv8yH3RGC) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [ROADTRIP](https://open.spotify.com/album/2pJoTyNXajAzNvSomoodOJ) | 2:41 | 2026-01-28 |  |
 | [Rutina](https://open.spotify.com/track/4EZRWXXfT2Odi7n5YqDd8m) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Rutina](https://open.spotify.com/album/4veGlDXexNE2cbOSIfQ5vC) | 2:48 | 2025-09-02 | 2025-10-19 |
 | [SABES K ME KIERES](https://open.spotify.com/track/30yyRnlzBJo9Vz1AzUsiTF) | [Luna Zuazu](https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J) | [SABES K ME KIERES](https://open.spotify.com/album/52SfgXz7J3q6GCHopmdj0P) | 2:20 | 2025-12-02 |  |
@@ -270,8 +271,10 @@
 | [TIEMBLO](https://open.spotify.com/track/4uqnehVpFI8ykMOhzlgfpV) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [TIEMBLO](https://open.spotify.com/album/1KiAXR3Eu85qGm2m7vQ11p) | 2:10 | 2024-07-03 | 2024-07-12 |
 | [Tiempo](https://open.spotify.com/track/5S35ox9mhLOJHaoBgwyERN) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Tiempo](https://open.spotify.com/album/3lVPSXg4R0UUcQqbzR71W0) | 3:16 | 2024-08-06 | 2024-09-07 |
 | [Tienes novio](https://open.spotify.com/track/4EEpP1tS6ugKXV49wotp9y) | [porfa](https://open.spotify.com/artist/0KPfeqaroFvGNnBWs5W7xk) | [La Trilogía del Amor](https://open.spotify.com/album/1jFnjred9ckwxU998u5Cm3) | 3:16 | 2025-02-04 | 2025-03-05 |
+| [TKM CNT XFA](https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [TKM CNT XFA](https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q) | 3:32 | 2026-02-03 |  |
 | [TODOS LOS DÍAS](https://open.spotify.com/track/2qTIRmguqQTQaeWbDdeH31) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa), [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [TODOS LOS DÍAS](https://open.spotify.com/album/0enhgiXd8aZwycKfwxQszf) | 3:56 | 2024-06-05 | 2024-08-07 |
 | [Todos Miran](https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Todos Miran](https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx) | 2:27 | 2024-07-02 | 2025-01-08 |
+| [TONTO](https://open.spotify.com/track/34VKUP2Z3OsgH1MG1tZzvn) | [TRONKAS!](https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt) | [TONTO](https://open.spotify.com/album/52D92moSlvosJjb2StIvMY) | 3:53 | 2026-02-03 |  |
 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 | 2025-02-04 | 2025-04-02 |
 | [TOTO DE LOCA](https://open.spotify.com/track/3uSN0SuaW9gMtWGUK7FPup) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [TOTO DE LOCA](https://open.spotify.com/album/2NskudT1sgEVLPqmJ39JPn) | 3:00 | 2025-05-06 |  |
 | [Tramuntana](https://open.spotify.com/track/4SaQQ0SQG47SuZHQtmlNL2) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Tramuntana](https://open.spotify.com/album/0j4sG63Z9Pp0vHXIEIEDb8) | 3:55 | 2025-05-06 | 2025-07-02 |

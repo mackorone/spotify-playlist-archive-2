@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-476 songs - 23 hr 5 min
+478 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [PORSCHE TOPLESS](https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [PORSCHE TOPLESS](https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn) | 2:50 | 2023-07-26 |  |
 | [Pretty Girl Anthem](https://open.spotify.com/track/3Y7QIGlqUnK8PpZRxEbM7a) | [Lady Rosze](https://open.spotify.com/artist/4VMhUIegIg2ormwFxzfmjR) | [Pretty Girl Anthem](https://open.spotify.com/album/1A2TNGnd4wZAJuQ9rPwgZ7) | 1:47 | 2024-06-29 |  |
 | [Primal](https://open.spotify.com/track/7751Toxhe3smeoKInekmgs) | [Amanarii](https://open.spotify.com/artist/2c6HeyEmoSM1zZmobzbM0e) | [Primal](https://open.spotify.com/album/77rqQKFGfsXsCaaG4E6RxI) | 2:09 | 2025-10-15 |  |
+| [Purple Demons](https://open.spotify.com/track/2ghxwM1pORJkiivLTDIV0e) | [GRGP TY](https://open.spotify.com/artist/1ILNmtz0YGwcyaiTpVfQn7) | [Purple Demons](https://open.spotify.com/album/3J2T9AMIWWOHsCF7Fg1Wmg) | 2:06 | 2026-02-03 |  |
 | [Que hago?](https://open.spotify.com/track/2T1qlVlVNg78LEIH8G9WWs) | [zeekii](https://open.spotify.com/artist/2hlqJZOLkCWwiWBqYQbxKi) | [Anestesiado](https://open.spotify.com/album/454t6vYuZfs6PXmzKFmMLv) | 1:54 | 2024-10-05 |  |
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-26 |  |
 | [Rain & Snow](https://open.spotify.com/track/3YnFJeU4K1O6oIiKgKOWBn) | [Eunsung](https://open.spotify.com/artist/4uuMAfynyAv3qNNKgI0gcV) | [Rain & Snow](https://open.spotify.com/album/3lq6FB7UsikUDFoKRoMoJs) | 2:32 | 2025-04-24 |  |
@@ -435,6 +436,7 @@
 | [Triple Kill](https://open.spotify.com/track/6jtkDPKdnvboHjwksgyKe3) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N), [Thommy Projectile](https://open.spotify.com/artist/6AGTRJ0DFsbAHWQuYrKhJD), [Niamor](https://open.spotify.com/artist/6VNY31nnIH0UCB4FHRZec0) | [Triple Kill](https://open.spotify.com/album/5bskV80kyPEqRaBNKoym4X) | 2:29 | 2024-06-11 |  |
 | [Triste historia de amor](https://open.spotify.com/track/0Tahk0pEZ8YlvDGBGrppxI) | [Alex Aldana TN](https://open.spotify.com/artist/7FGdRbxkaqebZMdU0G4feA) | [Triste historia de amor](https://open.spotify.com/album/2ppWgi2BkU0ebOdWzmcR7J) | 3:05 | 2024-06-29 |  |
 | [Trojan Horse](https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 4:08 | 2023-07-26 |  |
+| [True Friends](https://open.spotify.com/track/2eqtXSBIO0mya5fipLROhu) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [True Friends](https://open.spotify.com/album/6ChEwlwzpOMTLUcqjtQnQx) | 3:46 | 2026-02-03 |  |
 | [Truency](https://open.spotify.com/track/4NPBZ9ZnAPkdUMkOkxsrWo) | [Lowkey Burnna](https://open.spotify.com/artist/0xwpNVM2bkChJrs8gRH7E2), [Saynt Rackz](https://open.spotify.com/artist/2smRKQuO8GKEVk87QaK27a) | [Saynts VS Sinnerz](https://open.spotify.com/album/3zXU1rxvKcSJLuIQmv23dw) | 4:50 | 2024-06-01 |  |
 | [Trust Issues](https://open.spotify.com/track/5yoiL15VV1sFunTKu91YIc) | [Stivio](https://open.spotify.com/artist/0HBIEAjd75EfNCPxI8o4sQ) | [Trust Issues](https://open.spotify.com/album/4PGtBe91W2G55jHCBhY7wC) | 2:29 | 2024-07-21 |  |
 | [Truth Be Told](https://open.spotify.com/track/14MO3fWh05DRIpS63PhZn0) | [Youngking](https://open.spotify.com/artist/2KglwLAdL2gTEQte5GhfpO) | [Truth Be Told](https://open.spotify.com/album/53Kuo66Bvdv7QeT8mZktOc) | 2:03 | 2024-07-02 |  |

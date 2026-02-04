@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX6XgAAAAADitxuBzv3jyxDkIKBiFv6D",
+  "snapshot_id": "aX/pAAAAAACTc2VsH3a2Ufxj9CmPGPSF",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "stories from new york",
+        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 137104,
+      "name": "say it back",
+      "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SuperGood",
         "url": "https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H"
       },
@@ -263,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories from new york",
-        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
+        "name": "act up",
+        "url": "https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3"
       },
       "artists": [
         {
@@ -272,9 +288,25 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 137104,
-      "name": "say it back",
-      "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
+      "duration_ms": 128793,
+      "name": "act up",
+      "url": "https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 151628,
+      "name": "hi fem",
+      "url": "https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e"
     },
     {
       "added_at": null,
@@ -299,38 +331,6 @@
       "duration_ms": 387310,
       "name": "clown shit (up the wall) [SOPHIE Remix]",
       "url": "https://open.spotify.com/track/4fORekngPoCqeJpe3xg6GQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 151628,
-      "name": "hi fem",
-      "url": "https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "act up",
-        "url": "https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 128793,
-      "name": "act up",
-      "url": "https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8"
     },
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "demon time",
-        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 130057,
-      "name": "demon time (with BAYLI)",
-      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ethical Plum",
         "url": "https://open.spotify.com/album/1mue0bRSOvTGisXjsFGNAz"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 166929,
       "name": "Ethical Plum",
       "url": "https://open.spotify.com/track/6hsGhh9tQ5g3QteBK1n72Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 130057,
+      "name": "demon time (with BAYLI)",
+      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
     },
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Busy (BAYLI Remix)",
+        "url": "https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe"
+      },
+      "artists": [
+        {
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 165086,
+      "name": "Busy - BAYLI Remix",
+      "url": "https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spend It",
         "url": "https://open.spotify.com/album/3xMUGDB2h7dVP5vWZjDpjf"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 174720,
       "name": "Best I've Ever Had",
       "url": "https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Busy (BAYLI Remix)",
-        "url": "https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe"
-      },
-      "artists": [
-        {
-          "name": "Nina Las Vegas",
-          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 165086,
-      "name": "Busy - BAYLI Remix",
-      "url": "https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7"
     },
     {
       "added_at": null,

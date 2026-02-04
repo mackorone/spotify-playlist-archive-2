@@ -46,7 +46,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 116530,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2bgogItBMKZTKZiEupORki"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 193846,
       "name": "Bon Dia",
       "url": "https://open.spotify.com/track/1edwhO9JqK22yqrgyAaoXe"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Ex (feat. Webb)",
       "url": "https://open.spotify.com/track/3c6ioyk7G7YabcyIPfXZ3z"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 199009,
       "name": "Headlock (feat. Yung Nnelg, Cho & Jayh)",
       "url": "https://open.spotify.com/track/5tHt1mA4EU7cpYQBLnauGB"
@@ -1092,6 +1092,28 @@
       "duration_ms": 163263,
       "name": "Hele Meneer",
       "url": "https://open.spotify.com/track/7HRMo1cEFxoInV9fWjkoqB"
+    },
+    {
+      "album": {
+        "name": "Het Is Een Feit",
+        "url": "https://open.spotify.com/album/0cwPLMyyZA1uNVZ1FJd0kz"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132572,
+      "name": "Het Is Een Feit",
+      "url": "https://open.spotify.com/track/0iuLGMsB9xBbg5D4iabTtT"
     },
     {
       "album": {
@@ -1228,7 +1250,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 168218,
       "name": "J'ai D\u00e9conn\u00e9",
       "url": "https://open.spotify.com/track/51PcB5453BMTM18V0hru79"
@@ -1624,7 +1646,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 203446,
       "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
       "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
@@ -2062,7 +2084,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 155553,
       "name": "Shaka Zulu",
       "url": "https://open.spotify.com/track/3LEqsnuVGv7ZjzpW5BmJH2"
@@ -2148,7 +2170,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 168014,
       "name": "Speling",
       "url": "https://open.spotify.com/track/0g8FVJPtUXIB1kKQCtBT16"
@@ -2285,6 +2307,28 @@
     },
     {
       "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2fylAqEkxgYIyG2poHgQpt"
+      },
+      "artists": [
+        {
+          "name": "Justice Toch",
+          "url": "https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa"
+        },
+        {
+          "name": "Artistic Raw",
+          "url": "https://open.spotify.com/artist/2bPh6UXbS7wZ7tyN35kFEG"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142033,
+      "name": "Type",
+      "url": "https://open.spotify.com/track/02oOnxJjamYwKEYJE3i248"
+    },
+    {
+      "album": {
         "name": "Vakantie",
         "url": "https://open.spotify.com/album/2BXnoTFrD8mbIwYHyzZl4f"
       },
@@ -2418,7 +2462,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 156921,
       "name": "Walou Crisis (feat. 3robi & Mula B)",
       "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"

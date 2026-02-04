@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Carol Biazin, Léo Foguete
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,296,461 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,296,312 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 9 | [PEIXIN](https://open.spotify.com/track/2goq9J8vz19zGvINVURBxT) | [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Dandan](https://open.spotify.com/artist/4S6UaubswBroSpIooustWt) | [PEIXIN](https://open.spotify.com/album/0PFjB3HyJy9cHKpdnsKxcf) | 2:06 |
 | 10 | [Subconsciente](https://open.spotify.com/track/5M9u4fXuHLDYSrxGzezMSL) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Literalmente Devaneios](https://open.spotify.com/album/1gWZCVHiEDQ8Ijx4rrzMuk) | 2:02 |
 | 11 | [pensando direito](https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [pensando direito](https://open.spotify.com/album/3p4jz81rcmq55rPjyWf2NC) | 3:55 |
-| 12 | [Encanto \(Nossa Gente, Avisa lá\)](https://open.spotify.com/track/790OWdmOK2eLr9qBWEbuj4) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm), [Tonho Matéria](https://open.spotify.com/artist/3Gvd4jaWihN7nNBoffneNp) | [Encanto \(Nossa Gente, Avisa lá\)](https://open.spotify.com/album/7Hxypa00U94CCgFJLQKjfd) | 2:10 |
+| 12 | [Encanto \(Nossa Gente, Avisa lá\)](https://open.spotify.com/track/790OWdmOK2eLr9qBWEbuj4) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm), [Tonho Matéria](https://open.spotify.com/artist/3Gvd4jaWihN7nNBoffneNp), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [Encanto \(Nossa Gente, Avisa lá\)](https://open.spotify.com/album/7Hxypa00U94CCgFJLQKjfd) | 2:10 |
 | 13 | [Quase](https://open.spotify.com/track/59etIptmwHHugnoAAsNxvi) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Quase](https://open.spotify.com/album/60yKZCX7criKmfmYIblG4Z) | 2:40 |
 | 14 | [Lua Cheia](https://open.spotify.com/track/6II8HGRVkvVUy0uIM4X5Qq) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:17 |
 | 15 | [a1](https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [a1](https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,309 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,313 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 64 | [Vinyl / Side A](https://open.spotify.com/track/1Q26uPxiNfppHbhNFEXR1w) | [Roman Toyi](https://open.spotify.com/artist/2myKvzfSRTvOddrkDGV6xU), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx), [SMV](https://open.spotify.com/artist/7w6vZ4CikPN3TnUXKJS9WW) | [Vinyl\(s\)](https://open.spotify.com/album/3GjzEsQsFsBBKG1iLAHI79) | 3:38 |
 | 65 | [THEMSELVES](https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 2:46 |
 | 66 | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 |
-| 67 | [If You Say So \(feat\. James Alyn\)](https://open.spotify.com/track/4SjFqWpd0maXR1NH7lrTBV) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [I'll Remember To Forget You](https://open.spotify.com/album/7Im3JtbRs16KKZB6efGQYe) | 3:35 |
+| 67 | [If You Say So](https://open.spotify.com/track/4SjFqWpd0maXR1NH7lrTBV) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [James Alyn](https://open.spotify.com/artist/4KM8sXmUEFnZXcuheM0CTk) | [I'll Remember To Forget You](https://open.spotify.com/album/7Im3JtbRs16KKZB6efGQYe) | 3:35 |
 | 68 | [404 \(New Era\)](https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:59 |
 | 69 | [Still Sincere](https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Still Sincere](https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d) | 3:08 |
 | 70 | [The Nightmare](https://open.spotify.com/track/0tHopCSHUlzvni2x7NhjgA) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [The Nightmare](https://open.spotify.com/album/3OrloT39YEeutOFc0thors) | 3:35 |

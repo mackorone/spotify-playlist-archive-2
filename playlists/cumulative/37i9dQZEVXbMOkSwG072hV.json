@@ -9972,7 +9972,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 270000,
       "name": "Bem",
       "url": "https://open.spotify.com/track/0wZZRJNv6bwSjAHVRf97ND"
@@ -10792,7 +10792,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 127776,
       "name": "Blogueira Do Tigrin",
       "url": "https://open.spotify.com/track/3spjNLO1XN3Lz7rK5UELSK"
@@ -14790,7 +14790,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 177497,
       "name": "CASAIS TROCADOS",
       "url": "https://open.spotify.com/track/7AzoZQzRbizrjArCAlRkbS"
@@ -17870,7 +17870,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 183887,
       "name": "Coragem",
       "url": "https://open.spotify.com/track/5gfdPRmB56fcLRe4KvXyaF"
@@ -18894,7 +18894,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 179076,
       "name": "CYPHER DA BOLHA 2",
       "url": "https://open.spotify.com/track/3c49xG6l5s6D6Azb6Kui5b"
@@ -27733,6 +27733,36 @@
     },
     {
       "album": {
+        "name": "Toca Aquela 2.0",
+        "url": "https://open.spotify.com/album/0Z47P8o8tMVSFmfnB2gk3m"
+      },
+      "artists": [
+        {
+          "name": "Toca Aquela",
+          "url": "https://open.spotify.com/artist/77HrIL9YZ1VR6Uvf3WGHE7"
+        },
+        {
+          "name": "Thauane",
+          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        },
+        {
+          "name": "Breno Major",
+          "url": "https://open.spotify.com/artist/53cEbokP6S7cahtXPXvQ5c"
+        },
+        {
+          "name": "Som de Faculdade",
+          "url": "https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Eu Te Esperarei",
+      "url": "https://open.spotify.com/track/5ICt8bhdL84T9qYZnp05ze"
+    },
+    {
+      "album": {
         "name": "Eu te fa\u00e7o alucinar",
         "url": "https://open.spotify.com/album/5tQ717b4A2RiUTFcGgn3mp"
       },
@@ -36548,7 +36578,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 158520,
       "name": "i think i'm addicted",
       "url": "https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0"
@@ -50635,6 +50665,24 @@
     },
     {
       "album": {
+        "name": "SHOT CALLERS",
+        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208495,
+      "name": "Moonwalkin'",
+      "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
+    },
+    {
+      "album": {
         "name": "MORANGO DO NORDESTE",
         "url": "https://open.spotify.com/album/4mZhTD9apQZ00b5b3hhZzf"
       },
@@ -57475,6 +57523,28 @@
     },
     {
       "album": {
+        "name": "O Que Sobrou Do Amor?",
+        "url": "https://open.spotify.com/album/2QJYzWWasjxoyCNhD4zw84"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "O Que Sobrou Do Amor?",
+      "url": "https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS"
+    },
+    {
+      "album": {
         "name": "Mtv Ao Vivo Arlindo Cruz - Cd 1",
         "url": "https://open.spotify.com/album/4tSEfQwXCJF9oy4228IGcE"
       },
@@ -57886,7 +57956,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 176796,
       "name": "OFELIA",
       "url": "https://open.spotify.com/track/50cdxMIbh9TuU8kO0xbpog"
@@ -60486,7 +60556,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 186624,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/4Z4TWlYC1xRQFBxO5fuZwG"
@@ -61923,6 +61993,32 @@
     },
     {
       "album": {
+        "name": "pensando direito",
+        "url": "https://open.spotify.com/album/3p4jz81rcmq55rPjyWf2NC"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235753,
+      "name": "pensando direito",
+      "url": "https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ"
+    },
+    {
+      "album": {
         "name": "ZERO BALA",
         "url": "https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja"
       },
@@ -62974,6 +63070,36 @@
       "duration_ms": 194022,
       "name": "Pipoco",
       "url": "https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk"
+    },
+    {
+      "album": {
+        "name": "Pique Anos 80",
+        "url": "https://open.spotify.com/album/1NnQabuzqHfICeVw2wL6Ax"
+      },
+      "artists": [
+        {
+          "name": "Kaue Mc",
+          "url": "https://open.spotify.com/artist/4Amq40B1awicYgOZlACbU7"
+        },
+        {
+          "name": "WR Original",
+          "url": "https://open.spotify.com/artist/3i6ctIgUbjQQpqrDVlxvtx"
+        },
+        {
+          "name": "DJ CLEBER",
+          "url": "https://open.spotify.com/artist/1Hd0OkFbOEllOnmQj6nurm"
+        },
+        {
+          "name": "DJ LP Malvad\u00e3o",
+          "url": "https://open.spotify.com/artist/2u5PN9VIp4WFd6PeHp7eJ5"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135692,
+      "name": "Pique Anos 80",
+      "url": "https://open.spotify.com/track/4m3nNqcqRDefROgesL4rAG"
     },
     {
       "album": {
@@ -64684,7 +64810,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 178186,
       "name": "Pq Vc N\u00e3o Me Liga?",
       "url": "https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4"
@@ -67204,6 +67330,32 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
+        "name": "Ordem Paranormal: HEXATOMBE (Trilha Sonora)",
+        "url": "https://open.spotify.com/album/5vS9XUb2BiEoqCnPsZK7pv"
+      },
+      "artists": [
+        {
+          "name": "Schiavoto",
+          "url": "https://open.spotify.com/artist/4OXVi4H0rvoc4pf1PV0mb2"
+        },
+        {
+          "name": "Ordem Paranormal",
+          "url": "https://open.spotify.com/artist/6vHC0knHS69Gp7tglcW7Yz"
+        },
+        {
+          "name": "Guimocore",
+          "url": "https://open.spotify.com/artist/57csMTFM0m4KHsexq4zgtI"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294218,
+      "name": "Quibungo",
+      "url": "https://open.spotify.com/track/2HoVY3dqfxRELuBzH6ryIb"
     },
     {
       "album": {
@@ -72042,7 +72194,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 548571,
       "name": "Semi Nua",
       "url": "https://open.spotify.com/track/4kqz2VSAmiLm06X90jmktL"
@@ -76088,6 +76240,28 @@
       "duration_ms": 210928,
       "name": "Stay Alive (Prod. SUGA of BTS)",
       "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346093,
+      "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
     },
     {
       "album": {
@@ -84047,6 +84221,28 @@
     },
     {
       "album": {
+        "name": "Um Dia Nois Tem",
+        "url": "https://open.spotify.com/album/3E753x392Hky4BDA0kvAGc"
+      },
+      "artists": [
+        {
+          "name": "J\u00c3O TIBATINHA",
+          "url": "https://open.spotify.com/artist/4zAAEf159Rj3dV7yaH3PCr"
+        },
+        {
+          "name": "Clebinho No Beat",
+          "url": "https://open.spotify.com/artist/27IqeJGC3jQ9uR6a2S0P8a"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132765,
+      "name": "Um Dia Nois Tem",
+      "url": "https://open.spotify.com/track/6O4iNnuKi0JWhyTPCST4Qx"
+    },
+    {
+      "album": {
         "name": "Um Dia Vir\u00e1",
         "url": "https://open.spotify.com/album/5yw3sBDKXlqJxfFlLNnyn4"
       },
@@ -84256,6 +84452,36 @@
       "duration_ms": 276096,
       "name": "Um Sonhador / N\u00e3o Precisa / N\u00e3o Aprendi A Dizer Adeus - Ao Vivo",
       "url": "https://open.spotify.com/track/42cdiwjkfYVjI8JtAQwsG5"
+    },
+    {
+      "album": {
+        "name": "Uma Carta Viva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6spnacimvh1AKK0QA9ZJ09"
+      },
+      "artists": [
+        {
+          "name": "Get Worship",
+          "url": "https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp"
+        },
+        {
+          "name": "Vinicius Cruz",
+          "url": "https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        },
+        {
+          "name": "Get Global",
+          "url": "https://open.spotify.com/artist/4KCvIoI7ZAoF3BiwEtueSM"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299946,
+      "name": "Uma Carta Viva - Ao Vivo",
+      "url": "https://open.spotify.com/track/6CxtFCLyCaDbi0iSO83aHr"
     },
     {
       "album": {
@@ -85582,6 +85808,24 @@
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
+    {
+      "album": {
+        "name": "Vampirinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15uji3y7dXE6BVJFrPEk7U"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191439,
+      "name": "Vampirinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/4e5wmQErWzLAYvKH80eVxU"
     },
     {
       "album": {

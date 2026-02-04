@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,316 songs - 5 day 4 hr 10 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,318 songs - 5 day 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2324,5 +2324,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2314 | [Drugs](https://open.spotify.com/track/6AKSYkwnAZMz6bWMuY7JUQ) | [Sonic Mine](https://open.spotify.com/artist/4J6pkrgsk24N50oIM2fpdw) | [Pump This Party](https://open.spotify.com/album/3L7pe3S6yi3DUq3Hr69oQY) | 3:37 |
 | 2315 | [do…youloveme?, 4ever&ever.](https://open.spotify.com/track/75RdEWciO7PwGQPcCJiRRv) | [Blythe Star](https://open.spotify.com/artist/4iNkH6gh0eYi0FiLfpVqf4) | [do…youloveme?, 4ever&ever.](https://open.spotify.com/album/0K33AadWUHxeUmfncCVFsG) | 5:13 |
 | 2316 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
+| 2317 | [YOLO](https://open.spotify.com/track/34ZNVmPISt18mxi0V5uHyk) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [What The Feng](https://open.spotify.com/album/5asi6xhIro5qMzaEojet0l) | 1:43 |
+| 2318 | [BB](https://open.spotify.com/track/5LbZrfWzafeYlwzbHtpAqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [BB](https://open.spotify.com/album/4P1xQUR8dEHCvHkYvtfd2I) | 2:46 |
 
-Snapshot ID: `AAAFC8SoGgEsvteqkDqfaJLBBOnHI76Q`
+Snapshot ID: `AAAFDY0XUy72vGCnDBoJv168g5iA0Ryk`

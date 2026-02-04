@@ -2413,6 +2413,32 @@
     },
     {
       "album": {
+        "name": "Go the Route",
+        "url": "https://open.spotify.com/album/0yUFJkG6cI5VKbAgxsvEAE"
+      },
+      "artists": [
+        {
+          "name": "QUARTET NIGHT",
+          "url": "https://open.spotify.com/artist/4LIyWqZilclgel6xxo6TAZ"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "Go the Route",
+      "url": "https://open.spotify.com/track/4nZNsG6aqOhlS0v9G6js7t"
+    },
+    {
+      "album": {
         "name": "Hang out!",
         "url": "https://open.spotify.com/album/1LwEI1sGYVCutC9wM0ik1M"
       },
@@ -5224,7 +5250,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 42212,
       "name": "\u6728\u6751\u6634 Voice COMMENT",
       "url": "https://open.spotify.com/track/7fqcr2zC9R32ZYdrxvyuo6"

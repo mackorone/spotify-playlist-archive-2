@@ -2,7 +2,7 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: CoolKid
 
 183 songs - 10 hr 34 min
 
@@ -77,7 +77,7 @@
 | [FASHION RAPPER](https://open.spotify.com/track/29FDEPPwf4LjoW8TYSm5FO) | [PRVCY Rockey](https://open.spotify.com/artist/5p9R1ybhn6OZx7o7KrQtBB), [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Adam, The Litder](https://open.spotify.com/artist/0qP6hoW9mIcHEbZXd2xPPT) | [FASHION RAPPER](https://open.spotify.com/album/2YQqegcepgvng3OTOC9XaW) | 3:25 | 2024-10-03 |  |
 | [FEVER](https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Minsicko](https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [MEDICINE](https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI) | 4:20 | 2024-06-24 | 2024-12-05 |
 | [Full Topping](https://open.spotify.com/track/1EsRw73jhu3MXExOpm0PtC) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu), [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx), [Đậu Tất Đạt](https://open.spotify.com/artist/37yCp3F1wG0gNrnaLkIdDV) | [Full Topping](https://open.spotify.com/album/63c8AmULeZChFUxk7Dzu1q) | 3:05 | 2024-09-26 | 2024-12-05 |
-| [Gentle Bad](https://open.spotify.com/track/2P7pzfouGemFllA5fYzNug) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 3:56 | 2025-03-27 |  |
+| [Gentle Bad](https://open.spotify.com/track/2P7pzfouGemFllA5fYzNug) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 3:56 | 2025-03-27 | 2026-02-04 |
 | [Gentle Bad \- Special Acoustic Version](https://open.spotify.com/track/7eH52MOG0HpwIQBbtlveuU) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad \(Special Acoustic Version\)](https://open.spotify.com/album/3VyRzYzL0tmMIiXYqo9UQI) | 3:36 | 2025-03-27 | 2025-09-23 |
 | [Get Me](https://open.spotify.com/track/5lu7zyOOAmzhZNPsZun4DD) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g) | [Get Me](https://open.spotify.com/album/7r7IWC6DNLJzbYDMNRn86k) | 3:33 | 2023-09-14 | 2024-12-05 |
 | [GIACMO](https://open.spotify.com/track/7knkeDyA5a7Dhb42JBJxdn) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Young Draco](https://open.spotify.com/artist/601J3nke3wUjbOx0hWY9uA) | [thế giới của LINK](https://open.spotify.com/album/1OaAlMSShs70cXGBldgYDp) | 2:35 | 2023-05-25 | 2024-12-05 |
@@ -158,7 +158,7 @@
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-09-09 | 2024-09-27 |
 | [Told you so](https://open.spotify.com/track/5422bws6jw1sO4XSepeykV) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 3:23 | 2024-12-04 | 2025-03-28 |
 | [traplock](https://open.spotify.com/track/5qpJGttNQHtVTbF6dCXz0W) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [re:imaGined \(“GB” deluxe version\)](https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3) | 3:10 | 2025-10-09 |  |
-| [Trôi Boy](https://open.spotify.com/track/7rCFJQaXCrDUsFwjjAuTwf) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [Trôi Boy](https://open.spotify.com/album/2U81kSbTmfAYcPyfifD7EN) | 3:12 | 2024-12-04 | 2025-06-11 |
+| [Trôi Boy](https://open.spotify.com/track/7rCFJQaXCrDUsFwjjAuTwf) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [Trôi Boy](https://open.spotify.com/album/2U81kSbTmfAYcPyfifD7EN) | 3:12 | 2024-12-04 |  |
 | [Trông Trăng](https://open.spotify.com/track/6snFw66Rvx0q90NbAxCy1k) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Rừng Bê Tông](https://open.spotify.com/album/3P7FAiLPsLKinIRi5PcnJN) | 3:34 | 2024-12-04 | 2025-03-28 |
 | [Tái chế con tim](https://open.spotify.com/track/5ZWZxERwDEosiydpu3oER8) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 3:44 | 2024-12-04 | 2025-03-28 |
 | [Tái chế con tim](https://open.spotify.com/track/6QrP2m1rhyT1EuPNvX7iWC) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Tái chế con tim](https://open.spotify.com/album/5fJBIrMnkozdKGZfJ68kqX) | 3:44 | 2024-04-02 | 2024-12-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New Rock & Alt driving the current. Cover: EKKSTACY",
+  "description": "New Rock & Alt driving the current. Cover: Master Peace",
   "name": "Rock Frequency",
   "tracks": [
     {
@@ -444,6 +444,28 @@
       "duration_ms": 59757,
       "name": "Barricades",
       "url": "https://open.spotify.com/track/3NMToDCphGcHJMt3aYmIMC"
+    },
+    {
+      "album": {
+        "name": "Beat A B!tch Up",
+        "url": "https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "Beat A B!tch Up",
+      "url": "https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k"
     },
     {
       "album": {
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 162000,
       "name": "CRASH",
       "url": "https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2"
@@ -1420,7 +1442,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 208626,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS"
@@ -1569,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "I Feel Different Every Day (Deluxe)",
+        "url": "https://open.spotify.com/album/1UpGasOq22zg8q7J5eLnBn"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180133,
+      "name": "Digging Around",
+      "url": "https://open.spotify.com/track/0SyT6Wxtdyw63zZIXeyEQJ"
+    },
+    {
+      "album": {
         "name": "My GF H8s Me",
         "url": "https://open.spotify.com/album/7ooqRrQdfTo0muZU6soQce"
       },
@@ -1580,7 +1620,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 180133,
       "name": "Digging Around",
       "url": "https://open.spotify.com/track/5E5ToMHn2Pf7vF9zqrMYKk"
@@ -2165,6 +2205,28 @@
     },
     {
       "album": {
+        "name": "Fuck It Up (feat. Declan McKenna)",
+        "url": "https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        },
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212448,
+      "name": "Fuck It Up (feat. Declan McKenna)",
+      "url": "https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX"
+    },
+    {
+      "album": {
         "name": "GALORE",
         "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
       },
@@ -2313,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Parasites & Butterflies",
+        "url": "https://open.spotify.com/album/5uRq9tAqhsULMA35OL37Uk"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222373,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/4WWogojK9PF7sbMvmqXGMV"
+    },
+    {
+      "album": {
         "name": "God Is a Circle",
         "url": "https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa"
       },
@@ -2396,7 +2476,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 194333,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/4gk0U9MIugzdLRvB9N5BFj"
@@ -2793,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "THOSE WHO ARE AGAINST US ALL THE TIME",
+        "url": "https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "I CHANGED (I'M UP)",
+      "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
+    },
+    {
+      "album": {
         "name": "Portamento",
         "url": "https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en"
       },
@@ -2884,6 +2982,24 @@
       "duration_ms": 121782,
       "name": "I See Walking Caskets",
       "url": "https://open.spotify.com/track/6fipbTytF7EemCZiutVtOl"
+    },
+    {
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
     },
     {
       "album": {
@@ -3042,7 +3158,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 152506,
       "name": "if I had a gun",
       "url": "https://open.spotify.com/track/4dD9mOyh36CZd6GXObtBLS"
@@ -3266,7 +3382,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 124422,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/5ocBo0wYEEkonAuvhBU2j8"
@@ -3512,7 +3628,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 131181,
       "name": "Kool",
       "url": "https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H"
@@ -3692,7 +3808,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 193136,
       "name": "Look Alive (Netic)",
       "url": "https://open.spotify.com/track/4LAI7qgpkx8uoMdpobZrPg"
@@ -3982,7 +4098,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 212647,
       "name": "Miss Independent - Spotify Singles",
       "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
@@ -4018,7 +4134,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 211786,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/1SRg5WImDS1LbjbWR24Ln4"
@@ -4094,6 +4210,24 @@
       "duration_ms": 158239,
       "name": "New Age Crisis",
       "url": "https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO"
+    },
+    {
+      "album": {
+        "name": "I'm Nice Now",
+        "url": "https://open.spotify.com/album/7tt2u58Eo2jh0lTjKOkZxo"
+      },
+      "artists": [
+        {
+          "name": "Upchuck",
+          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166414,
+      "name": "New Case",
+      "url": "https://open.spotify.com/track/1v8NstD4eyelWzKyYEPjxC"
     },
     {
       "album": {
@@ -4234,7 +4368,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 131181,
       "name": "Nothing belongs to you.",
       "url": "https://open.spotify.com/track/3wKHSmepybM8AaflkueKZm"
@@ -4296,6 +4430,24 @@
       "duration_ms": 149840,
       "name": "OFFLINE",
       "url": "https://open.spotify.com/track/01TZYbhQiq0aswhImSbsUC"
+    },
+    {
+      "album": {
+        "name": "Okay (Cyber Racing)",
+        "url": "https://open.spotify.com/album/3AIH3PPVn6o54Abvo60j5a"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174887,
+      "name": "Okay (Cyber Racing)",
+      "url": "https://open.spotify.com/track/7f0L8fI9IcNexCngLspWi5"
     },
     {
       "album": {
@@ -4436,7 +4588,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 168960,
       "name": "Piranha",
       "url": "https://open.spotify.com/track/3CsNQEi0aX88xnSVkWUH3i"
@@ -4512,6 +4664,24 @@
       "duration_ms": 219305,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6kfMbkk7viIpYCVO0QR0og"
+    },
+    {
+      "album": {
+        "name": "Rock A Bye Baby, Glimmer of God",
+        "url": "https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229813,
+      "name": "Prize Fighter",
+      "url": "https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w"
     },
     {
       "album": {
@@ -5338,10 +5508,28 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 174213,
       "name": "Straight To Heart",
       "url": "https://open.spotify.com/track/6t4GUvtXJK6TVvU7TkBh9d"
+    },
+    {
+      "album": {
+        "name": "Straight Up (Needy)",
+        "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194273,
+      "name": "Straight Up (Needy)",
+      "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
     },
     {
       "album": {
@@ -5636,6 +5824,24 @@
       "duration_ms": 215986,
       "name": "TAKE THIS CROWN (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
+    },
+    {
+      "album": {
+        "name": "Take Your Sweet Time",
+        "url": "https://open.spotify.com/album/3jkAsaKzm7Ac7T28q40vll"
+      },
+      "artists": [
+        {
+          "name": "Carter Benjamin",
+          "url": "https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209491,
+      "name": "Take Your Sweet Time",
+      "url": "https://open.spotify.com/track/5VrPsFCxaWL2wMIhdFuOUc"
     },
     {
       "album": {
@@ -6428,6 +6634,28 @@
       "duration_ms": 189978,
       "name": "X-RAY",
       "url": "https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR"
+    },
+    {
+      "album": {
+        "name": "Yes I Do",
+        "url": "https://open.spotify.com/album/0oghh1nmoNqnx7vLHdKebm"
+      },
+      "artists": [
+        {
+          "name": "Leon Knight",
+          "url": "https://open.spotify.com/artist/0TfMzqbHEk3a4CZ1usZfOY"
+        },
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164912,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/3W03eT9OVb9mBxKYsrXBTD"
     },
     {
       "album": {

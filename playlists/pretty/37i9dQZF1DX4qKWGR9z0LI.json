@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Luis Fonsi & Feid",
-  "num_followers": 1882372,
+  "num_followers": 1882300,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
+        "name": "1+1",
+        "url": "https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 186047,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 332493,
       "name": "Uno Se Cura",
       "url": "https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
-        "name": "1+1",
-        "url": "https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 186047,
-      "name": "1+1",
-      "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 263631,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 287093,
       "name": "Cali Pachanguero 40 A\u00f1os",
       "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 263631,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
+        "name": "Quien",
+        "url": "https://open.spotify.com/album/0hNgwLeRtUaLir1rHEwdLp"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 259090,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
         "name": "Me Dedique A Perderte",
         "url": "https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
         "name": "Fue Culpa De Usted",
         "url": "https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ"
       },
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
         "name": "Cosas Bonitas",
         "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 260632,
       "name": "Cosas Bonitas",
       "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
-        "name": "Quien",
-        "url": "https://open.spotify.com/album/0hNgwLeRtUaLir1rHEwdLp"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 259090,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "Era para Siempre (Versi\u00f3n Salsa)",
-        "url": "https://open.spotify.com/album/67avoNrlhKsvgLVe90hnRg"
-      },
-      "artists": [
-        {
-          "name": "Amy Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Era para Siempre - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/1jK86Rru97CbtLLRNsbcIz"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
         "name": "Tesoro M\u00edo",
         "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 242932,
       "name": "Tesoro M\u00edo",
       "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "Era para Siempre (Versi\u00f3n Salsa)",
+        "url": "https://open.spotify.com/album/67avoNrlhKsvgLVe90hnRg"
+      },
+      "artists": [
+        {
+          "name": "Amy Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Era para Siempre - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/1jK86Rru97CbtLLRNsbcIz"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1767,22 +1767,22 @@
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X"
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
         },
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 216626,
-      "name": "Mira - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
+      "duration_ms": 202551,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj"
     }
   ],
   "unique_name": "Salsa Nation",

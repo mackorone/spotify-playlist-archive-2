@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 1843,
+  "num_followers": 1842,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "Mo Thugs Records Presents: West Coast Bangers, Vol. 2",
+        "url": "https://open.spotify.com/album/7I4OrohyqzbTrkMCoyhBEV"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 398207,
+      "name": "Cartoon",
+      "url": "https://open.spotify.com/track/31Yebmn7gDvxc0yjRV8M5t"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 158728,
       "name": "proud",
       "url": "https://open.spotify.com/track/7s2LDcpMI32Dy7jqJXanIm"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "Mo Thugs Records Presents: West Coast Bangers, Vol. 2",
-        "url": "https://open.spotify.com/album/7I4OrohyqzbTrkMCoyhBEV"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 398207,
-      "name": "Cartoon",
-      "url": "https://open.spotify.com/track/31Yebmn7gDvxc0yjRV8M5t"
     },
     {
       "added_at": "2022-10-01 17:37:57",

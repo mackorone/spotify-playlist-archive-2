@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,173 songs - 3 day 20 hr 53 min
+2,174 songs - 3 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,6 +624,7 @@
 | [Eva & Adam](https://open.spotify.com/track/1WTJlu34pP9mPg3qh691Gy) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Eva & Adam](https://open.spotify.com/album/1K7MP6bTb7lD9wZ39KoRS3) | 2:20 | 2022-09-08 | 2022-10-28 |
 | [EXPLODERA](https://open.spotify.com/track/6DfI4m4RCt0i8rICQozCC0) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [EXPLODERA](https://open.spotify.com/album/1vjgiMzH8u9x1l91RbJTSn) | 2:01 | 2023-06-29 | 2023-09-08 |
 | [EXTEND](https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [SILENT HILLS](https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo) | 2:29 | 2023-11-02 | 2024-01-12 |
+| [EXTRA](https://open.spotify.com/track/0qNG7Xho5AxpHQGTYz2AY3) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [EXTRA](https://open.spotify.com/album/13FMnv9Aie8twSGQjAKcnb) | 2:02 | 2026-02-03 |  |
 | [Extra mos](https://open.spotify.com/track/07RHzJVq83JxWWhNCGEF5j) | [Just](https://open.spotify.com/artist/3l0MJsYtGAgUr045qBu0LH), [FLINT](https://open.spotify.com/artist/3lDPeBHbu2pI9O6NZxXBjC), [Gonza](https://open.spotify.com/artist/3o574CSarKWtidUxIMm1jr) | [Guld & gröna skogar](https://open.spotify.com/album/6dB6m1XuheaQyBg2BKwcNn) | 2:36 | 2023-01-12 | 2023-02-03 |
 | [Extravagant](https://open.spotify.com/track/44S0PulbWlAgDVwfPEEZJp) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Extravagant](https://open.spotify.com/album/4smZJruokOJ2KlfuRSlggP) | 2:58 | 2023-08-31 | 2023-11-23 |
 | [Eywah](https://open.spotify.com/track/79Kjd4UfzhR1VkRHRDYV2t) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Eywah](https://open.spotify.com/album/118qcA7hZCrqUkJDMpUZNp) | 2:14 | 2022-03-24 | 2022-04-15 |

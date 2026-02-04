@@ -543,6 +543,28 @@
     },
     {
       "album": {
+        "name": "De Tijger Van De Kroeg",
+        "url": "https://open.spotify.com/album/20w8yUkTuJDK1SG2Au2HQq"
+      },
+      "artists": [
+        {
+          "name": "Mike Versteeg",
+          "url": "https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB"
+        },
+        {
+          "name": "Martijn Leopardi",
+          "url": "https://open.spotify.com/artist/0dNvb29pd5miS7r3ti22OO"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192380,
+      "name": "De Tijger van de Kroeg",
+      "url": "https://open.spotify.com/track/2pKg0EKeCyQbVgHoSStxfq"
+    },
+    {
+      "album": {
         "name": "De Toreador",
         "url": "https://open.spotify.com/album/57KGy1iD6DAAcPxw2I9B9Y"
       },
@@ -706,6 +728,24 @@
       "duration_ms": 204933,
       "name": "Een bom",
       "url": "https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj"
+    },
+    {
+      "album": {
+        "name": "Eigen Schuld",
+        "url": "https://open.spotify.com/album/61Qr7dTzKj6UJkDcgv1vG7"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167752,
+      "name": "Eigen Schuld",
+      "url": "https://open.spotify.com/track/1AHGfEp4zcjYK9cjj6W1vT"
     },
     {
       "album": {

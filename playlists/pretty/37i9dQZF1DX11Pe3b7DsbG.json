@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 234823,
+  "num_followers": 234816,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Jorge 70: Ao Vivo em S\u00e3o Paulo, Pt. 1",
-        "url": "https://open.spotify.com/album/2E1JGC6suXlgoQQqGYgqQ8"
-      },
-      "artists": [
-        {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
-        }
-      ],
-      "duration_ms": 251850,
-      "name": "Eu e Voc\u00ea Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 146613,
       "name": "Caciqueando - Ao Vivo",
       "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Jorge 70: Ao Vivo em S\u00e3o Paulo, Pt. 1",
+        "url": "https://open.spotify.com/album/2E1JGC6suXlgoQQqGYgqQ8"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "duration_ms": 251850,
+      "name": "Eu e Voc\u00ea Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx"
     },
     {
       "added_at": "2025-09-19 22:07:37",

@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Rakhooo",
-  "num_followers": 80437,
+  "num_followers": 80446,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMfAFhaerQNlJOE/+xW7rZg0iEBd",
+  "snapshot_id": "AAAAAPWxDZqSIhsAWflXZu8B+a0ZqMFt",
   "tracks": [
     {
       "added_at": "2025-10-15 10:53:16",
@@ -145,30 +145,6 @@
       "url": "https://open.spotify.com/track/4DDZ9oM1mv7hiCuxToTGwj"
     },
     {
-      "added_at": "2025-08-13 05:47:11",
-      "album": {
-        "name": "YEDA YUNG (Tamil Remix)",
-        "url": "https://open.spotify.com/album/5wK6HCJIMzV2gtOTkaAnYO"
-      },
-      "artists": [
-        {
-          "name": "Kelithee",
-          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
-        },
-        {
-          "name": "YUNG DSA",
-          "url": "https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl"
-        },
-        {
-          "name": "Year Down",
-          "url": "https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "YEDA YUNG (Tamil Remix)",
-      "url": "https://open.spotify.com/track/3jlfA88tVVL8TOe6AvV0oH"
-    },
-    {
       "added_at": "2026-01-30 00:41:01",
       "album": {
         "name": "EYE CANDY",
@@ -239,6 +215,26 @@
       "duration_ms": 182758,
       "name": "AI Sundari",
       "url": "https://open.spotify.com/track/2Eycs9II5o2z0fSlvS9rQd"
+    },
+    {
+      "added_at": "2026-02-03 11:37:24",
+      "album": {
+        "name": "Hey Raasathi",
+        "url": "https://open.spotify.com/album/2zWzaoEJ7ciF4rZ6xFxlpV"
+      },
+      "artists": [
+        {
+          "name": "Samson P Moses",
+          "url": "https://open.spotify.com/artist/0B8HwZtfjJyqF8WiQJRUu1"
+        },
+        {
+          "name": "Sam Vishal",
+          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
+        }
+      ],
+      "duration_ms": 269268,
+      "name": "Hey Raasathi",
+      "url": "https://open.spotify.com/track/4ASsUoVKSrwVtvPRwbRwJ5"
     },
     {
       "added_at": "2026-01-30 00:45:19",

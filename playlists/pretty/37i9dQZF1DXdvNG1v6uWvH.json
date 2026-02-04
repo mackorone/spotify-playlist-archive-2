@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Izleifur, Da\u00f0i Freyr, Alex Fl\u00f3vent og m\u00f6rgum fleiri!",
-  "num_followers": 9583,
+  "num_followers": 9585,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,18 @@
     {
       "added_at": "2026-01-30 00:00:09",
       "album": {
-        "name": "COSMIC OPERA ACT I",
-        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
+        "name": "professional heartbreaker",
+        "url": "https://open.spotify.com/album/2X5QpEX5O4DFQMLhr9iXx7"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 175086,
-      "name": "Debris",
-      "url": "https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb"
+      "duration_ms": 175328,
+      "name": "professional heartbreaker",
+      "url": "https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH"
     },
     {
       "added_at": "2026-01-30 00:00:09",
@@ -255,18 +255,18 @@
     {
       "added_at": "2026-01-30 00:00:09",
       "album": {
-        "name": "professional heartbreaker",
-        "url": "https://open.spotify.com/album/2X5QpEX5O4DFQMLhr9iXx7"
+        "name": "COSMIC OPERA ACT I",
+        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 175328,
-      "name": "professional heartbreaker",
-      "url": "https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH"
+      "duration_ms": 175086,
+      "name": "Debris",
+      "url": "https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb"
     },
     {
       "added_at": "2026-01-30 00:00:09",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-01-30 00:00:09",
       "album": {
+        "name": "Iconic",
+        "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
+      },
+      "artists": [
+        {
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Iconic",
+      "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
+    },
+    {
+      "added_at": "2026-01-30 00:00:09",
+      "album": {
         "name": "Sisters With Me",
         "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 182400,
       "name": "Natural Disaster",
       "url": "https://open.spotify.com/track/1GzENjFiUZL7O6jreawkQE"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "Iconic",
-        "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
-      },
-      "artists": [
-        {
-          "name": "A*Teens",
-          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Iconic",
-      "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
     },
     {
       "added_at": "2026-01-30 00:00:09",
@@ -487,6 +487,26 @@
     {
       "added_at": "2026-01-30 00:00:09",
       "album": {
+        "name": "Misbehave",
+        "url": "https://open.spotify.com/album/59dxeR3y0o3WhJwQA1oNKm"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/1FRWjWnOf6NRePXN38tkQS"
+    },
+    {
+      "added_at": "2026-01-30 00:00:09",
+      "album": {
         "name": "Body Is On Fire",
         "url": "https://open.spotify.com/album/5EzCcZlpoHWp4X3IJDRq7b"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 253317,
       "name": "Ah Ya",
       "url": "https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "Misbehave",
-        "url": "https://open.spotify.com/album/59dxeR3y0o3WhJwQA1oNKm"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Misbehave",
-      "url": "https://open.spotify.com/track/1FRWjWnOf6NRePXN38tkQS"
     },
     {
       "added_at": "2026-01-30 00:00:09",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-01-30 00:00:09",
       "album": {
-        "name": "believer",
-        "url": "https://open.spotify.com/album/5oClqH0VKUdIpjT7Uaqm90"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 177284,
-      "name": "believer",
-      "url": "https://open.spotify.com/track/1gr5SKmKub7VF2zNtBDHbK"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
         "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
         "url": "https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2026-01-30 00:00:09",
       "album": {
-        "name": "COME GET YOUR GIRL",
-        "url": "https://open.spotify.com/album/5gvKBKFmGEFpqMZhBy0Azl"
+        "name": "believer",
+        "url": "https://open.spotify.com/album/5oClqH0VKUdIpjT7Uaqm90"
       },
       "artists": [
         {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 221812,
-      "name": "COME GET YOUR GIRL",
-      "url": "https://open.spotify.com/track/4zOW3Nf24pVKL5Sn2WRuLK"
+      "duration_ms": 177284,
+      "name": "believer",
+      "url": "https://open.spotify.com/track/1gr5SKmKub7VF2zNtBDHbK"
     },
     {
       "added_at": "2026-01-30 00:00:09",
@@ -679,6 +663,22 @@
       "duration_ms": 148937,
       "name": "Away With The Fairies",
       "url": "https://open.spotify.com/track/7avTegY5ObMuQM5N32kPxz"
+    },
+    {
+      "added_at": "2026-01-30 00:00:09",
+      "album": {
+        "name": "COME GET YOUR GIRL",
+        "url": "https://open.spotify.com/album/5gvKBKFmGEFpqMZhBy0Azl"
+      },
+      "artists": [
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 221812,
+      "name": "COME GET YOUR GIRL",
+      "url": "https://open.spotify.com/track/4zOW3Nf24pVKL5Sn2WRuLK"
     },
     {
       "added_at": "2026-01-30 00:00:09",
@@ -779,6 +779,30 @@
     {
       "added_at": "2026-01-30 00:00:09",
       "album": {
+        "name": "Close To Me",
+        "url": "https://open.spotify.com/album/2i3TlcXUjW45JNMDDuS9T6"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        },
+        {
+          "name": "Crybaby",
+          "url": "https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET"
+        }
+      ],
+      "duration_ms": 206598,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/0qEqzaHSaDrcnsbRvfWZRK"
+    },
+    {
+      "added_at": "2026-01-30 00:00:09",
+      "album": {
         "name": "Poseidon",
         "url": "https://open.spotify.com/album/3skDB3NK2tTMuJ08c4js1S"
       },
@@ -807,30 +831,6 @@
       "duration_ms": 131250,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/0Oqiavr7my94MXN2K8HLeJ"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "Close To Me",
-        "url": "https://open.spotify.com/album/2i3TlcXUjW45JNMDDuS9T6"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "Pocket",
-          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
-        },
-        {
-          "name": "Crybaby",
-          "url": "https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET"
-        }
-      ],
-      "duration_ms": 206598,
-      "name": "Close To Me",
-      "url": "https://open.spotify.com/track/0qEqzaHSaDrcnsbRvfWZRK"
     },
     {
       "added_at": "2026-01-30 00:00:09",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-01-30 00:00:09",
       "album": {
-        "name": "I Hear a String Quartet Playing Everywhere I Go",
-        "url": "https://open.spotify.com/album/4q8hI8J9570eJLga2mquGM"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "I Hear a String Quartet Playing Everywhere I Go",
-      "url": "https://open.spotify.com/track/1NWtclKzRaPG1o4IJPHpzn"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
         "name": "I Hear No More",
         "url": "https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 167792,
       "name": "I Hear No More",
       "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
+    },
+    {
+      "added_at": "2026-01-30 00:00:09",
+      "album": {
+        "name": "I Hear a String Quartet Playing Everywhere I Go",
+        "url": "https://open.spotify.com/album/4q8hI8J9570eJLga2mquGM"
+      },
+      "artists": [
+        {
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "I Hear a String Quartet Playing Everywhere I Go",
+      "url": "https://open.spotify.com/track/1NWtclKzRaPG1o4IJPHpzn"
     },
     {
       "added_at": "2026-01-30 00:00:09",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-01-30 00:00:09",
       "album": {
+        "name": "pianoboy",
+        "url": "https://open.spotify.com/album/7ENlSvR5BE6aFmdDAeTvG8"
+      },
+      "artists": [
+        {
+          "name": "TANTAN",
+          "url": "https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "pianoboy",
+      "url": "https://open.spotify.com/track/7J4ZVJuGIKZDIEml0zl6x9"
+    },
+    {
+      "added_at": "2026-01-30 00:00:09",
+      "album": {
         "name": "Icarus",
         "url": "https://open.spotify.com/album/4luHBca9SclaZdrRpPlAFw"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2026-01-30 00:00:09",
       "album": {
-        "name": "pianoboy",
-        "url": "https://open.spotify.com/album/7ENlSvR5BE6aFmdDAeTvG8"
-      },
-      "artists": [
-        {
-          "name": "TANTAN",
-          "url": "https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "pianoboy",
-      "url": "https://open.spotify.com/track/7J4ZVJuGIKZDIEml0zl6x9"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
         "name": "Sweet Delusion",
         "url": "https://open.spotify.com/album/6u9c5M1ti3d3Iv3Ht4y3CC"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-01-30 00:00:09",
       "album": {
-        "name": "Hurrying Up to Die",
-        "url": "https://open.spotify.com/album/3ojtiQmZTvnBpXwSMZNFUW"
-      },
-      "artists": [
-        {
-          "name": "Nicklas Sahl",
-          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
-        }
-      ],
-      "duration_ms": 201353,
-      "name": "Hurrying Up to Die",
-      "url": "https://open.spotify.com/track/3FXXaVIJok7OUx5pKTCnxr"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
         "name": "BEEP BEEP",
         "url": "https://open.spotify.com/album/7HLxofu5KDBHTZNNrJCnZR"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 153665,
       "name": "BEEP BEEP",
       "url": "https://open.spotify.com/track/37QZTqlBL2zWGC0ZOqIKg4"
+    },
+    {
+      "added_at": "2026-01-30 00:00:09",
+      "album": {
+        "name": "Hurrying Up to Die",
+        "url": "https://open.spotify.com/album/3ojtiQmZTvnBpXwSMZNFUW"
+      },
+      "artists": [
+        {
+          "name": "Nicklas Sahl",
+          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
+        }
+      ],
+      "duration_ms": 201353,
+      "name": "Hurrying Up to Die",
+      "url": "https://open.spotify.com/track/3FXXaVIJok7OUx5pKTCnxr"
     },
     {
       "added_at": "2026-01-30 00:00:09",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-01-30 00:00:09",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5YjCW2nweQPrLbeMhiTBvc"
-      },
-      "artists": [
-        {
-          "name": "Alex Vargas",
-          "url": "https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF"
-        }
-      ],
-      "duration_ms": 226310,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/2ziPIkuukbAOkRjJVWpZb9"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
         "name": "Crying At A Wedding",
         "url": "https://open.spotify.com/album/6gfVyt1Bq5pCZ7iH6cwvec"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 241422,
       "name": "Crying At A Wedding",
       "url": "https://open.spotify.com/track/3KmkHQYrmOegSUBfC6EHNW"
+    },
+    {
+      "added_at": "2026-01-30 00:00:09",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5YjCW2nweQPrLbeMhiTBvc"
+      },
+      "artists": [
+        {
+          "name": "Alex Vargas",
+          "url": "https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF"
+        }
+      ],
+      "duration_ms": 226310,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2ziPIkuukbAOkRjJVWpZb9"
     },
     {
       "added_at": "2026-01-30 00:00:09",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-01-30 00:00:09",
       "album": {
+        "name": "STILL FEEL LIKE A CHILD",
+        "url": "https://open.spotify.com/album/1G09jPWbVdXohc46M0UZkd"
+      },
+      "artists": [
+        {
+          "name": "Ben Reid",
+          "url": "https://open.spotify.com/artist/6wUYOcYx5JgoO2vXxEkD3J"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "STILL FEEL LIKE A CHILD",
+      "url": "https://open.spotify.com/track/5mTsYMUOijXjPLazzXyVBD"
+    },
+    {
+      "added_at": "2026-01-30 00:00:09",
+      "album": {
         "name": "Micro Pleasures",
         "url": "https://open.spotify.com/album/4KhSRQWqxTqUmLEKtVCnUS"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 348853,
       "name": "Micro Pleasures",
       "url": "https://open.spotify.com/track/4436dpzFiOAa0aT4WZbQBF"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "STILL FEEL LIKE A CHILD",
-        "url": "https://open.spotify.com/album/1G09jPWbVdXohc46M0UZkd"
-      },
-      "artists": [
-        {
-          "name": "Ben Reid",
-          "url": "https://open.spotify.com/artist/6wUYOcYx5JgoO2vXxEkD3J"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "STILL FEEL LIKE A CHILD",
-      "url": "https://open.spotify.com/track/5mTsYMUOijXjPLazzXyVBD"
     },
     {
       "added_at": "2026-01-30 00:00:09",

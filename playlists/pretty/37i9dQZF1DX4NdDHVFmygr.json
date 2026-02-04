@@ -1,12 +1,12 @@
 {
   "description": "Les hits marocains qui nous rassemblent, o\u00f9 qu\u2019on soit \ud83c\uddf2\ud83c\udde6",
-  "num_followers": 109473,
+  "num_followers": 109662,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFU+7FxW7bJuB+XwpD1pQMuNWxZV",
+  "snapshot_id": "AAAAAKggHyzqdbe1x0CMoioZDhWGIlXj",
   "tracks": [
     {
       "added_at": "2026-01-27 06:20:07",
@@ -107,6 +107,22 @@
       "duration_ms": 205013,
       "name": "Tach",
       "url": "https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB"
+    },
+    {
+      "added_at": "2026-02-03 06:26:18",
+      "album": {
+        "name": "Hassassiya",
+        "url": "https://open.spotify.com/album/3z6Qdj8k7H9OWYhuKhgcHP"
+      },
+      "artists": [
+        {
+          "name": "Salim Cravata ",
+          "url": "https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Hassassiya",
+      "url": "https://open.spotify.com/track/5w3WUacjjy4TgQI1ffGXaB"
     },
     {
       "added_at": "2026-01-27 06:20:07",
@@ -887,22 +903,6 @@
       "duration_ms": 181714,
       "name": "Bla Bla",
       "url": "https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov"
-    },
-    {
-      "added_at": "2026-01-27 06:20:07",
-      "album": {
-        "name": "Lmouje",
-        "url": "https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV"
-      },
-      "artists": [
-        {
-          "name": "7-Toun",
-          "url": "https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp"
-        }
-      ],
-      "duration_ms": 202191,
-      "name": "Lmouje",
-      "url": "https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU"
     }
   ],
   "unique_name": "Hit Maghribi",

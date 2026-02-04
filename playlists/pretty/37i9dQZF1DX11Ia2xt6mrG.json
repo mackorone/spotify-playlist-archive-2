@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Joaquin Coronel y Marcos Villalobos en portada.",
-  "num_followers": 70050,
+  "num_followers": 70067,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -743,18 +743,26 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "La Herida",
-        "url": "https://open.spotify.com/album/448r0IkYo8ehYROuSWwQ4p"
+        "name": "PPP",
+        "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
       },
       "artists": [
         {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Skrapy",
+          "url": "https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP"
         }
       ],
-      "duration_ms": 121845,
-      "name": "La Herida",
-      "url": "https://open.spotify.com/track/1sBSjceBS1Fl7qDJYEPkKP"
+      "duration_ms": 188225,
+      "name": "PPP",
+      "url": "https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -783,30 +791,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "PPP",
-        "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Skrapy",
-          "url": "https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP"
-        }
-      ],
-      "duration_ms": 188225,
-      "name": "PPP",
-      "url": "https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "\u00d1EROSTARS",
         "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "La Herida",
+        "url": "https://open.spotify.com/album/448r0IkYo8ehYROuSWwQ4p"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        }
+      ],
+      "duration_ms": 121845,
+      "name": "La Herida",
+      "url": "https://open.spotify.com/track/1sBSjceBS1Fl7qDJYEPkKP"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "boss",
         "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
       },
@@ -839,26 +839,6 @@
       "duration_ms": 131200,
       "name": "boss",
       "url": "https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "Hell",
-        "url": "https://open.spotify.com/album/1yMvWiFfOAGWAPzE2G6IUu"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "Jordy Medina",
-          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
-        }
-      ],
-      "duration_ms": 232542,
-      "name": "Of The Void",
-      "url": "https://open.spotify.com/track/1FAj2NPpH9xyKGEqmH3xtQ"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -931,6 +911,26 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "Hell",
+        "url": "https://open.spotify.com/album/1yMvWiFfOAGWAPzE2G6IUu"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "Jordy Medina",
+          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
+        }
+      ],
+      "duration_ms": 232542,
+      "name": "Of The Void",
+      "url": "https://open.spotify.com/track/1FAj2NPpH9xyKGEqmH3xtQ"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "Prende y Pasa",
         "url": "https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC"
       },
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "Alucina2",
+        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
+      },
+      "artists": [
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 133793,
+      "name": "Alucina2",
+      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "Derecha la Flecha",
         "url": "https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 200454,
       "name": "Derecha la Flecha",
       "url": "https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "Alucina2",
-        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
-      },
-      "artists": [
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 133793,
-      "name": "Alucina2",
-      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "TUCU",
-        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "TUCU",
-      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "Dancing On Dangerous",
         "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous",
       "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "TUCU",
+        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "TUCU",
+      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1211,22 +1211,26 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "LXBVBV",
-        "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm"
       },
       "artists": [
         {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
         },
         {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
         }
       ],
-      "duration_ms": 165750,
-      "name": "LXBVBV",
-      "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
+      "duration_ms": 161378,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/319XgEPeEfhMw276p5wzg3"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1251,26 +1255,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm"
+        "name": "LXBVBV",
+        "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
       },
       "artists": [
         {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         },
         {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        },
-        {
-          "name": "Crooked Bangs",
-          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
         }
       ],
-      "duration_ms": 161378,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/319XgEPeEfhMw276p5wzg3"
+      "duration_ms": 165750,
+      "name": "LXBVBV",
+      "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "PVTIVUELTA",
-        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 143798,
-      "name": "PVTIVUELTA",
-      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "HOUSE PA LAS BANDIS",
         "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 182989,
       "name": "HOUSE PA LAS BANDIS",
       "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "PVTIVUELTA",
+        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 143798,
+      "name": "PVTIVUELTA",
+      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "DIOSA </3",
-        "url": "https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw"
-      },
-      "artists": [
-        {
-          "name": "Nuvia",
-          "url": "https://open.spotify.com/artist/3HiSZSqHOEC9RkeDbpVMGJ"
-        },
-        {
-          "name": "Rodezel",
-          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
-        }
-      ],
-      "duration_ms": 164129,
-      "name": "DIOSA </3",
-      "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "Cartagena (Sylvan Esso Edit)",
         "url": "https://open.spotify.com/album/3FVCEyoTcrA9eraksVRgC8"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 207637,
       "name": "Cartagena - Sylvan Esso Edit",
       "url": "https://open.spotify.com/track/3iBO3QO60GTlYDyQcfh9w4"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "DIOSA </3",
+        "url": "https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw"
+      },
+      "artists": [
+        {
+          "name": "Nuvia",
+          "url": "https://open.spotify.com/artist/3HiSZSqHOEC9RkeDbpVMGJ"
+        },
+        {
+          "name": "Rodezel",
+          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "DIOSA </3",
+      "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
     },
     {
       "added_at": "2026-01-16 06:00:21",

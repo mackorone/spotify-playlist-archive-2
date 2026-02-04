@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 
 > The south got something to say\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,003 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,071 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 | 46 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
 | 47 | [Shake Ya Ass \(feat\. Pharrell Williams\)](https://open.spotify.com/track/1jRzdY7oUBOhrylNtiMtBD) | [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Let's Get Ready](https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l) | 4:16 |
 | 48 | [Sippin On Some Syrup \(feat\. UGK \(Underground Kingz\) & Project Pat\)](https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [When the Smoke Clears: Sixty 6, Sixty 1](https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI) | 4:21 |
-| 49 | [Lose My Mind](https://open.spotify.com/track/0Ft6hwGWdCdujdK6TOfBV7) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [TM:103 Hustlerz Ambition \(Deluxe\)](https://open.spotify.com/album/4GvDHEW1goHkqJbLJHzUUf) | 4:01 |
-| 50 | [Shoulder Lean \(feat\. T.I.\)](https://open.spotify.com/track/2OqYarizUUGzSSNHPrDEii) | [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Best Thang Smokin' \(Explicit Version\)](https://open.spotify.com/album/4UZzO6rBo6wjM2zfuRgd3r) | 4:18 |
+| 49 | [Shoulder Lean \(feat\. T.I.\)](https://open.spotify.com/track/2OqYarizUUGzSSNHPrDEii) | [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Best Thang Smokin' \(Explicit Version\)](https://open.spotify.com/album/4UZzO6rBo6wjM2zfuRgd3r) | 4:18 |
+| 50 | [Lose My Mind](https://open.spotify.com/track/0Ft6hwGWdCdujdK6TOfBV7) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [TM:103 Hustlerz Ambition \(Deluxe\)](https://open.spotify.com/album/4GvDHEW1goHkqJbLJHzUUf) | 4:01 |
 
 Snapshot ID: `AAAAABnfZhOL3VWjbKNtjeftCM7XSiTz`

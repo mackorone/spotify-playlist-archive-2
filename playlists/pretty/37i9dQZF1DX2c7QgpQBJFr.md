@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Angelica Bove
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,758 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,777 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 32 | [Sabato Sera](https://open.spotify.com/track/7aEuztQFFqyTQUBanox9kU) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Sabato Sera](https://open.spotify.com/album/14PnXsuZjIJFEAeizmD0KP) | 2:14 |
 | 33 | [Come ti voglio](https://open.spotify.com/track/4Pnkgp0UW07tGo59g8dpJJ) | [GIIN](https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM) | [Come ti voglio](https://open.spotify.com/album/0ObiXMrEa1dQ17EUAH1Yfd) | 2:43 |
 | 34 | [PARTE DI ME](https://open.spotify.com/track/4xTZ1gUtrhW8CEau53MMoL) | [GUSA](https://open.spotify.com/artist/14Vlzht8zPQPQNHDCnNshZ) | [PARTE DI ME](https://open.spotify.com/album/7i78QqkMNNfT2t58UkD8HH) | 2:47 |
-| 35 | [Amore business](https://open.spotify.com/track/4T9g9ZASR56Q8w7TlZHstX) | [Beatrice Quinta](https://open.spotify.com/artist/3Jk1Qjo5P7yOQIBVkqUzet) | [Amore Business](https://open.spotify.com/album/65txRPk81RrlkP5SNaxE2Y) | 2:46 |
+| 35 | [Amore Business](https://open.spotify.com/track/4T9g9ZASR56Q8w7TlZHstX) | [Beatrice Quinta](https://open.spotify.com/artist/3Jk1Qjo5P7yOQIBVkqUzet) | [Amore Business](https://open.spotify.com/album/65txRPk81RrlkP5SNaxE2Y) | 2:46 |
 | 36 | [Viscerale](https://open.spotify.com/track/2W8IV5LaY3DiCTAUiDi7Ok) | [Mocci](https://open.spotify.com/artist/2k3kU5QX62dpTrIUaTQPBe) | [Viscerale](https://open.spotify.com/album/6eDj7PupaEEoc80wLAYT2n) | 3:13 |
 | 37 | [LUNA PIENA](https://open.spotify.com/track/5SlOrpuWZZrLwaK7UUDv37) | [Amanda Roberts](https://open.spotify.com/artist/56kQLgmlLN7mPjKa4yQyJD) | [LUNA PIENA](https://open.spotify.com/album/5wiX9LiJGnU02dYFsZoedF) | 2:29 |
 | 38 | [LIBERTÀ](https://open.spotify.com/track/5FYBw3MoIwlTlsMKDO9Rve) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Re lucertola tiranna](https://open.spotify.com/album/6jr88gNttvHXfJdHpTDqfr) | 3:31 |

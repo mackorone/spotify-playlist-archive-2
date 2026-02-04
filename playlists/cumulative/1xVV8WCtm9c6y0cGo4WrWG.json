@@ -7979,6 +7979,28 @@
     },
     {
       "album": {
+        "name": "One Helluvalife",
+        "url": "https://open.spotify.com/album/2X4l2SB9tPIYZlOS9gXx76"
+      },
+      "artists": [
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        },
+        {
+          "name": "100Bandplan",
+          "url": "https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190383,
+      "name": "The Market",
+      "url": "https://open.spotify.com/track/1RLj2wSCWUemxpldfjaDWn"
+    },
+    {
+      "album": {
         "name": "The Secret Recipe",
         "url": "https://open.spotify.com/album/1YSYvIGqsIOoXs20uXkRhQ"
       },

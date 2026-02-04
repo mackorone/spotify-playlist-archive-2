@@ -194,7 +194,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 177777,
       "name": "3NAP",
       "url": "https://open.spotify.com/track/6tW69dfzZ5gxRoCyGI010b"
@@ -376,6 +376,24 @@
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "album": {
+        "name": "Abrakadabra",
+        "url": "https://open.spotify.com/album/0hncseQjlhzmrbyjc8GZF9"
+      },
+      "artists": [
+        {
+          "name": "HRflow",
+          "url": "https://open.spotify.com/artist/3YuXReN1XJtyvBhUd0zjBk"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Abrakadabra",
+      "url": "https://open.spotify.com/track/02oov6kMuRajD1Fy5fLp84"
     },
     {
       "album": {
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 151578,
       "name": "Fekete T\u00f6vis",
       "url": "https://open.spotify.com/track/1QvUOhJ3uEGL3R0dxRxCmL"
@@ -5401,6 +5419,24 @@
     },
     {
       "album": {
+        "name": "KLASSZIK",
+        "url": "https://open.spotify.com/album/0V97RxuS0u80HxcDNkuMrY"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198125,
+      "name": "MEGFAKULT F\u00c9NYK\u00c9P - Refreshed",
+      "url": "https://open.spotify.com/track/5ylhltlhMYlIRHcLBGluyT"
+    },
+    {
+      "album": {
         "name": "0",
         "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
       },
@@ -5686,7 +5722,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 156000,
       "name": "mindig szomor\u00fa",
       "url": "https://open.spotify.com/track/1SiknHrLImQSDrI8wskLva"
@@ -6032,6 +6068,28 @@
       "duration_ms": 189176,
       "name": "M\u00e1shol",
       "url": "https://open.spotify.com/track/2Cp1VY67OJKjPSEgYP72ij"
+    },
+    {
+      "album": {
+        "name": "M\u00e9g nem vesz\u00edthetek (Jimmy m\u00e1sk\u00e9pp)",
+        "url": "https://open.spotify.com/album/2Z5BNETxLt8ih9vcALhKGc"
+      },
+      "artists": [
+        {
+          "name": "DR BRS",
+          "url": "https://open.spotify.com/artist/4vQW9JcctfeFaBjmGPr8h0"
+        },
+        {
+          "name": "Radics Gigi",
+          "url": "https://open.spotify.com/artist/4KfniEyQkNqVrH21GA1PlP"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219503,
+      "name": "M\u00e9g nem vesz\u00edthetek - Jimmy m\u00e1sk\u00e9pp",
+      "url": "https://open.spotify.com/track/7f1BR1f7aCNI1cbqcFKcbQ"
     },
     {
       "album": {
@@ -6850,7 +6908,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 149072,
       "name": "PATK\u00c1NY",
       "url": "https://open.spotify.com/track/769BgoDplcfdCwuMKzVMgV"
@@ -7680,7 +7738,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 184663,
       "name": "R\u00e1ntott sajt",
       "url": "https://open.spotify.com/track/09O7MNRhjnY2MXZeJd6ldR"
@@ -7956,6 +8014,32 @@
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+    },
+    {
+      "album": {
+        "name": "SHOW ME WHAT YOU GOT",
+        "url": "https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        },
+        {
+          "name": "JOJO",
+          "url": "https://open.spotify.com/artist/7m6qRs0oYNvnjCCKwRg4Om"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262800,
+      "name": "SHOW ME WHAT YOU GOT",
+      "url": "https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR"
     },
     {
       "album": {
@@ -9912,6 +9996,24 @@
       "duration_ms": 141600,
       "name": "Whiskey Cola",
       "url": "https://open.spotify.com/track/4auDPbLkcHyk6BiRbNpIgL"
+    },
+    {
+      "album": {
+        "name": "WildWest",
+        "url": "https://open.spotify.com/album/5sv3nEmu2pcyvvBzPITP1V"
+      },
+      "artists": [
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153108,
+      "name": "WildWest",
+      "url": "https://open.spotify.com/track/1PUUfO1tHORNs1Ur28kVy2"
     },
     {
       "album": {

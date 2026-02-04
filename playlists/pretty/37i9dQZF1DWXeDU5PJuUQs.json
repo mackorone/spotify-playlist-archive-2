@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 255242,
+  "num_followers": 255385,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "Mi Gran Maestro (Montevideo Music Sessions)",
-        "url": "https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 210744,
-      "name": "Mi Gran Maestro - Montevideo Music Sessions",
-      "url": "https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
         "name": "Esto Es Roze! - Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7COPLNQOq9WfJwD7866tg4"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 102417,
       "name": "Turreo Sessions #22 (En Vivo)",
       "url": "https://open.spotify.com/track/5Sn6SEfGDWIcGbwHPock2D"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
+        "name": "Mi Gran Maestro (Montevideo Music Sessions)",
+        "url": "https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 210744,
+      "name": "Mi Gran Maestro - Montevideo Music Sessions",
+      "url": "https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 71981,
+      "name": "Persiana Americana - En Vivo",
+      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
         "name": "Pega la Vuelta / La Ventanita",
         "url": "https://open.spotify.com/album/3jvZ8vULiCTJDWhgE8ZGN9"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 278301,
       "name": "Pega la Vuelta / La Ventanita",
       "url": "https://open.spotify.com/track/1oXR7VdMGW1iSnOeVcCZ6W"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 71981,
-      "name": "Persiana Americana - En Vivo",
-      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "Luna Park (En Vivo)",
-        "url": "https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 198267,
-      "name": "Pa' la Selecci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/6o74gO9Cc65yOph1pWnWmS"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 64017,
       "name": "Jurabas Tu - En Vivo",
       "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
+        "name": "Luna Park (En Vivo)",
+        "url": "https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 198267,
+      "name": "Pa' la Selecci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/6o74gO9Cc65yOph1pWnWmS"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
-      },
-      "artists": [
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 483693,
-      "name": "La Ventanita / Beso a Beso",
-      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
         "name": "En Vivo 2019",
         "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 147113,
       "name": "Jurabas Tu - En Vivo",
       "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 483693,
+      "name": "La Ventanita / Beso a Beso",
+      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 117653,
-      "name": "El Tano Pastita",
-      "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
         "name": "Nunca M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 184618,
       "name": "Nunca M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 117653,
+      "name": "El Tano Pastita",
+      "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
         "name": "Ya Te Olvide (En Vivo)",
         "url": "https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 260096,
       "name": "Ya Te Olvide - En Vivo",
       "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 496146,
-      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
-      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 312032,
       "name": "Hoy Te Vi / El Paredon - En Vivo",
       "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 496146,
+      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
+      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1415,22 +1415,6 @@
       "duration_ms": 283977,
       "name": "Tu C\u00e1rcel - En Vivo",
       "url": "https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
-        "name": "En Vivo Estadio Luna Park",
-        "url": "https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 278811,
-      "name": "Amiga Traidora - En Vivo Estadio Luna Park",
-      "url": "https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
+        "name": "En Vivo Estadio Luna Park",
+        "url": "https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 278811,
+      "name": "Amiga Traidora - En Vivo Estadio Luna Park",
+      "url": "https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
         "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
         "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "En Vivo Desde el Teatro Opera",
-        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 433520,
-      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
-      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
         "name": "Aniversario",
         "url": "https://open.spotify.com/album/40PFDic0PjqdNetzrHp1zD"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 209898,
       "name": "Lloraras mas de diez veces",
       "url": "https://open.spotify.com/track/3nYGOZ9rTj1czXLrKHoFqQ"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
+        "name": "En Vivo Desde el Teatro Opera",
+        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 433520,
+      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
+      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "Me Olvide de Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
         }
       ],
-      "duration_ms": 128072,
-      "name": "Me Olvide de Ti - En Vivo",
-      "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
+      "duration_ms": 194931,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
+        "name": "Me Olvide de Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
       },
       "artists": [
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         }
       ],
-      "duration_ms": 194931,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
+      "duration_ms": 128072,
+      "name": "Me Olvide de Ti - En Vivo",
+      "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
     },
     {
       "added_at": "2026-01-23 03:00:05",

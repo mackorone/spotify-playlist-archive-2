@@ -738,7 +738,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 180568,
       "name": ":)",
       "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 205533,
       "name": "A-Lister",
       "url": "https://open.spotify.com/track/7GRPnTVWiFqlC3EAvFiKvY"
@@ -3561,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "Being There",
+        "url": "https://open.spotify.com/album/7FQsBR9c4vvmUwZleFAy4h"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262886,
+      "name": "Being There",
+      "url": "https://open.spotify.com/track/771ruvsgyt1P1AO4raBel0"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/6Ul0gfTmSuXeNcF3ufnLZQ"
       },
@@ -5438,7 +5456,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 174053,
       "name": "Break Ur Heart Again",
       "url": "https://open.spotify.com/track/7mDH7iysYQJxklufqJdlem"
@@ -6116,7 +6134,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 187692,
       "name": "Calling After Me",
       "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
@@ -7352,7 +7370,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 219986,
       "name": "clue",
       "url": "https://open.spotify.com/track/1ItaFV8IGkb33gXFI2c5Ps"
@@ -11144,7 +11162,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 245732,
       "name": "Drunk, Running",
       "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
@@ -12730,7 +12748,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 205530,
       "name": "feel again",
       "url": "https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv"
@@ -13062,7 +13080,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 219257,
       "name": "Fleeting",
       "url": "https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef"
@@ -14008,7 +14026,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 203076,
       "name": "genny please!",
       "url": "https://open.spotify.com/track/5eFSmlYXFABhaBPH0UO4RG"
@@ -14646,7 +14664,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 199054,
       "name": "GOLDSTAR",
       "url": "https://open.spotify.com/track/3KQ3852yZqReDT9dbcbSU2"
@@ -21257,6 +21275,24 @@
     },
     {
       "album": {
+        "name": "portals//polarities",
+        "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256481,
+      "name": "leave it all behind, Mike",
+      "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
+    },
+    {
+      "album": {
         "name": "LEAVE ME",
         "url": "https://open.spotify.com/album/15hucP1bAk7CRRNtM2kzQH"
       },
@@ -21914,7 +21950,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 215531,
       "name": "Lipdance",
       "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
@@ -24202,7 +24238,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 116000,
       "name": "Messy Hair",
       "url": "https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg"
@@ -24938,7 +24974,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 180040,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/7baiuxB2BkWnsAuAWn1NpO"
@@ -30332,7 +30368,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 192720,
       "name": "Red Wine Supernova",
       "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
@@ -31616,7 +31652,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 183189,
       "name": "Scumbag",
       "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
@@ -31778,7 +31814,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 210944,
       "name": "See Her Out (Thats Just Life)",
       "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
@@ -32106,7 +32142,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
@@ -32954,7 +32990,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 201133,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
@@ -33066,7 +33102,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 228800,
       "name": "So High School",
       "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
@@ -36062,7 +36098,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 173000,
       "name": "Tainted",
       "url": "https://open.spotify.com/track/7EVuRBZoqoW6uVrSlv3m7Y"
@@ -36228,6 +36264,24 @@
       "duration_ms": 249369,
       "name": "Take Yourself Home",
       "url": "https://open.spotify.com/track/6YndZBGmLySgsVScckWkmO"
+    },
+    {
+      "album": {
+        "name": "talk",
+        "url": "https://open.spotify.com/album/1v5MxGxLHcJEMlA6N67bqx"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160407,
+      "name": "talk",
+      "url": "https://open.spotify.com/track/5kTHoxckjY24DWgIX6mnNR"
     },
     {
       "album": {
@@ -37100,7 +37154,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 251600,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
@@ -37370,7 +37424,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 271664,
       "name": "The Tongass",
       "url": "https://open.spotify.com/track/3EU3gA50dnCzreFKqiu1WN"
@@ -39312,7 +39366,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 176985,
       "name": "Walk Walk Walk",
       "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"

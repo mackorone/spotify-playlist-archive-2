@@ -4,7 +4,7 @@
 
 > With Yeat, Autumn!, Duwap Kaine and more
 
-125 songs - 5 hr 1 min
+127 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [DELETING…](https://open.spotify.com/track/0sgVWPo45mm5sbR3Av6kPv) | [$huTtA](https://open.spotify.com/artist/3irY3PtwMCukbx9BluhIJB) | [DELETING…](https://open.spotify.com/album/3BUKRW3jJKZksSwmVdRGLc) | 2:18 | 2025-12-14 | 2025-12-27 |
 | [Disagree](https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Disagree](https://open.spotify.com/album/670icObNVMYesRcjmyXdT2) | 2:16 | 2025-12-01 | 2026-01-26 |
 | [Don’t Know How To Feel](https://open.spotify.com/track/5pzFqoFSlmzK4toMpy78Bn) | [Jodot Kreep](https://open.spotify.com/artist/3U4mJUlN9cXxCV5hWo6XWo), [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j) | [Kreeps Come Out At Night](https://open.spotify.com/album/31iWdpWYH7TTc6HMZdSSBA) | 2:17 | 2025-12-28 | 2026-01-15 |
-| [drama queen](https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [heartpacing](https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z) | 1:42 | 2026-01-18 |  |
+| [drama queen](https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [heartpacing](https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z) | 1:42 | 2026-01-18 | 2026-02-04 |
 | [Everyday!](https://open.spotify.com/track/4f6sXDJwqD4vEKqZCRHObm) | [Mwai](https://open.spotify.com/artist/7cMqRry5DjPYsDFzKUXKz4) | [Everyday!](https://open.spotify.com/album/3IUmw1OOHwCIpxPivoW8tp) | 2:28 | 2026-01-25 | 2026-01-30 |
 | [Everytime](https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ) | [sixsick](https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG) | [Leftovr Drugz](https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu) | 2:45 | 2025-12-05 | 2025-12-30 |
 | [FACES](https://open.spotify.com/track/6dlCIAXIOj2wqPQbthlLin) | [Epho](https://open.spotify.com/artist/6E1k9FStKYBjQfzrANVUpe), [Canaan Hill](https://open.spotify.com/artist/2ofQoqwj9pNZWKA9gnSJSl) | [Gethsemane](https://open.spotify.com/album/61xZCgjnuFL6ZAzzL7wE5a) | 2:06 | 2025-11-29 | 2025-12-05 |
@@ -71,7 +71,7 @@
 | [LUV](https://open.spotify.com/track/5DQOlnAitaKUnljhULj4x6) | [dopemine!](https://open.spotify.com/artist/7uFWa3pAlFXOfe7IKzfjZL) | [LUV](https://open.spotify.com/album/2SwzaR0R4v0atLknE0jGFt) | 1:55 | 2026-01-21 | 2026-01-31 |
 | [LUXURY](https://open.spotify.com/track/2W701EZmgjPgpYiPvPv56M) | [ZaeFyeHunnit](https://open.spotify.com/artist/4ZLNPoLvO7VkH4wGsqFiO1) | [LUXURY](https://open.spotify.com/album/0ZZwesgpXwhNnMqtwKd2wP) | 2:33 | 2025-12-10 | 2025-12-14 |
 | [Mark William Lewis flow](https://open.spotify.com/track/1HeRtLBfJwP8sde2ZZtxTD) | [Niontay](https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t) | [Soulja Hate Repellant](https://open.spotify.com/album/0deyQpMyjqcEvJbJHYEkaH) | 2:30 | 2025-12-18 | 2026-01-15 |
-| [Moe Texas](https://open.spotify.com/track/4Q2ZgILbVW5bViFhaRwmnT) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Un Verano En Nueva York](https://open.spotify.com/album/7iUE0seUdcsU6o1XJZXPf6) | 2:16 | 2025-11-29 |  |
+| [Moe Texas](https://open.spotify.com/track/4Q2ZgILbVW5bViFhaRwmnT) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Un Verano En Nueva York](https://open.spotify.com/album/7iUE0seUdcsU6o1XJZXPf6) | 2:16 | 2025-11-29 | 2026-02-04 |
 | [Monëy so big](https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:40 | 2025-11-29 | 2026-01-15 |
 | [Muay Thai](https://open.spotify.com/track/0omR5DOPM9BYS6LDoEh5g6) | [Luh keithan!](https://open.spotify.com/artist/29jQwDErYhTnGAuJx58ogV), [hzzikyah](https://open.spotify.com/artist/4wk1MJDiqsB3oIQ3DIOI9z) | [Clinched Teeth](https://open.spotify.com/album/4TTioZWmaRrLsjjU3fjTbF) | 2:45 | 2025-12-10 | 2025-12-16 |
 | [MY TIME](https://open.spotify.com/track/5DyxMRXh5kKwDPzbOSA1No) | [Kj2wavyy](https://open.spotify.com/artist/4ydOHPN2YSiPkCpbnSPIWT) | [2WO FOREVER](https://open.spotify.com/album/5vnLVwhfZcb6TLs5AMrV0E) | 3:13 | 2025-12-14 | 2025-12-17 |
@@ -128,7 +128,9 @@
 | [Voices In My Head](https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Voices In My Head](https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74) | 2:45 | 2025-11-29 |  |
 | [WAR 1](https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My) | 2:33 | 2025-11-29 |  |
 | [Which 1 / Klueless](https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LORD](https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn) | 2:23 | 2025-11-29 |  |
+| [Why??](https://open.spotify.com/track/0dBMRQ78EYbUMjjxOH38yw) | [cb](https://open.spotify.com/artist/5EAMEZrRLkhyG5pYaqedpC) | [Why??](https://open.spotify.com/album/6fqdCF4J8w8plMLjPMT3hh) | 2:08 | 2026-02-04 |  |
 | [Wish Wash](https://open.spotify.com/track/4iJi7gi85QzVBolEpCChyf) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [Wish Wash](https://open.spotify.com/album/3xg47ag1tVBQ6RZz9ZdOfw) | 1:52 | 2025-11-29 | 2025-11-30 |
+| [XTC](https://open.spotify.com/track/7HVYOhVD0wOlA09qoKFxSI) | [PUNISHA](https://open.spotify.com/artist/3A5EcOZe9K1toLk6v4541Q) | [XTC](https://open.spotify.com/album/5sdEGZfppT2PxH9tSyRYEY) | 2:07 | 2026-02-04 |  |
 | [Ya Ya](https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:18 | 2025-11-29 |  |
 | [Yale](https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM) | 1:46 | 2025-11-29 | 2026-01-24 |
 | [you aint livin](https://open.spotify.com/track/38sNbOEGJ7enWMdB36U5Uw) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy), [xkt](https://open.spotify.com/artist/0HqPRbj8ohrUXHk25bmdIm), [khxznq](https://open.spotify.com/artist/1kuWGpWPlu9pGhLaA8TDnA) | [you aint livin](https://open.spotify.com/album/62JY04E0vjjM68GtdLqrzq) | 2:30 | 2025-11-29 | 2026-01-04 |

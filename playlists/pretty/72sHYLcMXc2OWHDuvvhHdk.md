@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,262 songs - 5 day 12 hr 22 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,269 songs - 5 day 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2270,5 +2270,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2260 | [Hooked On Hello](https://open.spotify.com/track/5gTeoVG2VBWHuRp6wqs5k7) | [Chanteuse](https://open.spotify.com/artist/6Sj86862v5p7LNr60Pc8Bx) | [Hooked On Hello](https://open.spotify.com/album/7xQVl7cnVc3dYJ94HeqG76) | 3:35 |
 | 2261 | [Kumsal](https://open.spotify.com/track/07Q2b2d9KwK4Z7R2IOicuJ) | [İlhancan Rodoplu](https://open.spotify.com/artist/3KLRGKgnXcYkxgDi6U5fWp) | [Kumsal](https://open.spotify.com/album/2HWL6F5PeJODVtIQt73uC9) | 3:42 |
 | 2262 | [At the Bridge](https://open.spotify.com/track/3ZeTbwdZwAqSJa5q6doAIZ) | [Allen Dobb](https://open.spotify.com/artist/0aXd2Ov6yxnzt8rBP01wmU) | [At the Bridge](https://open.spotify.com/album/6biSX5zrHrrrGvgAIKXMjR) | 4:10 |
+| 2263 | [goodbye, magenta.](https://open.spotify.com/track/7BNNKc24hazUDCbp1KsfJq) | [CerVon Campbell](https://open.spotify.com/artist/11BE68QWC1UePwPs7clKa5) | [LOVED](https://open.spotify.com/album/5fYZQtJI5bqjVebYOLLosn) | 3:23 |
+| 2264 | [Changes](https://open.spotify.com/track/4nOr3aUr3mnKLxbpmmBlL6) | [Jackie Moon](https://open.spotify.com/artist/1WVmGkj74qhEKMptI8A8PJ), [Lauren Frihauf](https://open.spotify.com/artist/0tPy6X0CV3nqKiLZjKSOyT), [Andy Sydow](https://open.spotify.com/artist/3wriMPzjc6B2yfJzzgIGhE) | [Changes](https://open.spotify.com/album/6GJkcvd1JJagyakWTWoUXF) | 4:24 |
+| 2265 | [Cloud Seven](https://open.spotify.com/track/3qLF3pmd0YxORhH0Qprugs) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Cloud Seven](https://open.spotify.com/album/6ARGdhU6LS32Pq188rMlEM) | 2:17 |
+| 2266 | [Soledad](https://open.spotify.com/track/6iCtta5P14IzqlLrqmG3w0) | [belu03](https://open.spotify.com/artist/2XBnDNY0ZlPh2bSmH9uJ91) | [Soledad](https://open.spotify.com/album/3ETsQirinNkhDTBytBnm3r) | 3:49 |
+| 2267 | [Sweet Blue Moon](https://open.spotify.com/track/4Rt3uzW4h8k1EVNarWHEpW) | [Victoria Staff](https://open.spotify.com/artist/1CxFiD1ixwWLP3xhETS60s) | [Sweet Blue Moon](https://open.spotify.com/album/6k4f04JZ886TCHFKzAWmQL) | 2:50 |
+| 2268 | [Polka Hands](https://open.spotify.com/track/5kNy9hMut7vB7BOYuePS9p) | [The Imaginary Band](https://open.spotify.com/artist/6C07tFlxuK6Aq1aQBMExrm), [Andrew Christopher](https://open.spotify.com/artist/2v5uSfzONW5ws0uRnD7UPv) | [Polka Hands](https://open.spotify.com/album/0jYAVagQlYBbN7brc1vv2M) | 3:15 |
+| 2269 | [Plenty \- Remix](https://open.spotify.com/track/79zYZ5z4gm7TINADqk87br) | [Sheni](https://open.spotify.com/artist/6gkfOKtjKkKeztY4Pv0VNu), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Plenty \(Remix\)](https://open.spotify.com/album/22y3e5UR33tamFwQeA6LcU) | 3:15 |
 
-Snapshot ID: `AAAJbQkGP8pkuT22YrzpXg7VZcOX6O4a`
+Snapshot ID: `AAAJdFVNE2D1L1EY0R7jND16t/Qq7oTn`

@@ -1,12 +1,12 @@
 {
   "description": "The newest and best Hip-Hop tracks, updated weekly! Cover: Lil Baby",
-  "num_followers": 22999,
+  "num_followers": 22997,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAkD2nddeZE6o4nUTNbiOnfugAtMVxm",
+  "snapshot_id": "AAAkEEXuAO/d+2ghYdalHkXHMgiNEEuG",
   "tracks": [
     {
       "added_at": "2026-01-29 14:13:11",
@@ -1855,6 +1855,26 @@
       "duration_ms": 130505,
       "name": "GHOST. (feat. Samara Cyn)",
       "url": "https://open.spotify.com/track/1RukMhDhOQ1lsAWfriPZB0"
+    },
+    {
+      "added_at": "2026-02-03 14:28:53",
+      "album": {
+        "name": "One Helluvalife",
+        "url": "https://open.spotify.com/album/2X4l2SB9tPIYZlOS9gXx76"
+      },
+      "artists": [
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        },
+        {
+          "name": "100Bandplan",
+          "url": "https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v"
+        }
+      ],
+      "duration_ms": 190383,
+      "name": "The Market",
+      "url": "https://open.spotify.com/track/1RLj2wSCWUemxpldfjaDWn"
     }
   ],
   "unique_name": "Hip-Hop Pulse",

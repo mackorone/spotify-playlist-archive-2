@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,930 likes - 630 songs - 1 day 13 hr 27 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,930 likes - 631 songs - 1 day 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -638,5 +638,6 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 628 | [Bye Dummy](https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Bye Dummy](https://open.spotify.com/album/0BPaiZ5xFY692UPO6Hfw10) | 2:49 |
 | 629 | [Flowers in the Garden](https://open.spotify.com/track/59QMzFQooFuIhGyrHqQZMH) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [Gardening is a Practice, Not an Idea \(Deluxe\)](https://open.spotify.com/album/3A5v9tb1gc0TtegtuLTk84) | 4:05 |
 | 630 | [Presente](https://open.spotify.com/track/12fmgHPWF4ljzjxdqjusuY) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Presente](https://open.spotify.com/album/6ZRkE4Q2fphdQ1pizokpp7) | 3:58 |
+| 631 | [Window](https://open.spotify.com/track/6aEkKd66Ik1zyVEBSMomK2) | [DNCR](https://open.spotify.com/artist/5vtbcOgk8iFe6LF2paSK2u) | [Window](https://open.spotify.com/album/1q1GEYLNeJzXBXzINilLhh) | 2:59 |
 
-Snapshot ID: `AAAMR/IF1O5WzTBcuv7zZcA7GgJ69m2g`
+Snapshot ID: `AAAMSDuah5QxyUevHsglShk+G/QKxzzw`

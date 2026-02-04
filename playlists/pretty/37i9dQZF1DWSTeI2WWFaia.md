@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Conway The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,571,739 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,571,677 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 41 | [For Keeps](https://open.spotify.com/track/2XXyUvdXTomMQleoui097l) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 3:45 |
 | 42 | [Look At Me](https://open.spotify.com/track/0HQrzSGRnLgOgTPzcZWIxP) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Infinite](https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3) | 3:29 |
 | 43 | [Judgement Day](https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:14 |
-| 44 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
-| 45 | [Childish Things](https://open.spotify.com/track/5sAooo0RyhX44ds11hi5Cs) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 3:33 |
+| 44 | [Childish Things](https://open.spotify.com/track/5sAooo0RyhX44ds11hi5Cs) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 3:33 |
+| 45 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
 | 46 | [The Louvre](https://open.spotify.com/track/54blTc3AnAVPehzb7u3TDs) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [The Louvre](https://open.spotify.com/album/6190G0Qx9vwR0gINCGumqH) | 4:09 |
 | 47 | [vitamins n minerals](https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [vitamins n minerals](https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0) | 2:30 |
 | 48 | [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 |
-| 49 | [Peshawar](https://open.spotify.com/track/580OSPk1SfbpixhkuVvcZW) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Mercy](https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi) | 2:12 |
-| 50 | [Vanity](https://open.spotify.com/track/7ncc5WvZy6rnG3KdDeyofA) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 2:19 |
+| 49 | [Vanity](https://open.spotify.com/track/7ncc5WvZy6rnG3KdDeyofA) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 2:19 |
+| 50 | [Peshawar](https://open.spotify.com/track/580OSPk1SfbpixhkuVvcZW) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Mercy](https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi) | 2:12 |
 
 Snapshot ID: `AAAAAAHhIew3Qj96NFEdsM7AgfkDg05t`

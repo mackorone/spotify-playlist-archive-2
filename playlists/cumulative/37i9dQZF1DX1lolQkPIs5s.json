@@ -3342,7 +3342,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 399546,
       "name": "Minnie @Funderland - Edited Version",
       "url": "https://open.spotify.com/track/2C7kqgHvyGMmCuy71GpoJa"
@@ -3382,6 +3382,24 @@
       "duration_ms": 121893,
       "name": "Minnie's Yoo Hoo",
       "url": "https://open.spotify.com/track/5qFPYlhY3XrxB21gk4BKcU"
+    },
+    {
+      "album": {
+        "name": "Tokyo Disney Resort 40th Anniversary \"Dream-Go-Round\" Music Album",
+        "url": "https://open.spotify.com/album/2kBLwCMQhd7NmONNK360K7"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Disney Resort",
+          "url": "https://open.spotify.com/artist/5zmxF4kcObibicbzJs4ExJ"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221133,
+      "name": "Minnie, We Love You! - Single Version",
+      "url": "https://open.spotify.com/track/6idTbXkHirm9LFpaJtwDus"
     },
     {
       "album": {
@@ -4940,7 +4958,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-04",
       "duration_ms": 192812,
       "name": "The Villains' Halloween \"Into the Frenzy\" - Edited Version",
       "url": "https://open.spotify.com/track/2Db0XsCaG0EteHJeGbMzA0"
@@ -6343,6 +6361,28 @@
     },
     {
       "album": {
+        "name": "Zoo",
+        "url": "https://open.spotify.com/album/1bxGBiMcY6kn503VQiYSZ3"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Dream Ami",
+          "url": "https://open.spotify.com/artist/6Oeb6i0acXNe1Q1MqqfkPX"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190822,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/1aLsZ2cYTMvNdvLBBR4t78"
+    },
+    {
+      "album": {
         "name": "Zoo (From \"Zootopia 2\")",
         "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
       },
@@ -6362,6 +6402,24 @@
       "duration_ms": 190822,
       "name": "Zoo - From \"Zootopia 2\"",
       "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
+    },
+    {
+      "album": {
+        "name": "Zoo",
+        "url": "https://open.spotify.com/album/1bxGBiMcY6kn503VQiYSZ3"
+      },
+      "artists": [
+        {
+          "name": "Dream Ami",
+          "url": "https://open.spotify.com/artist/6Oeb6i0acXNe1Q1MqqfkPX"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190822,
+      "name": "Zoo - Japanese Single Version",
+      "url": "https://open.spotify.com/track/1dsdV2HRqfURn32Du0nTxK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Will Clarke
 
-1,376 songs - 3 day 7 hr 8 min
+1,377 songs - 3 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,6 +535,7 @@
 | [Heaven or Not](https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Heaven or Not](https://open.spotify.com/album/57vgi9GXqxBvyLmlTQeeUk) | 2:31 | 2024-04-05 | 2024-08-24 |
 | [Heavy Heart](https://open.spotify.com/track/0tI2NvbF31oQNop2UeIvsC) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Heavy Heart](https://open.spotify.com/album/7eNj0dNMVR2mH1E6sqhEtg) | 5:28 | 2024-11-29 | 2025-06-08 |
 | [Helicopter](https://open.spotify.com/track/1WrxHnZVeYqJdKnUzk3onw) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Helicopter](https://open.spotify.com/album/7vKuJ6fPYmOxW7IAh4xeaU) | 2:25 | 2023-06-02 | 2023-06-17 |
+| [Hell Yeah \(Feat\. Waxmaster\)](https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Parris Mitchell](https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p), [Waxmaster](https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7) | [Hell Yeah \(Feat\. Waxmaster\)](https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR) | 3:32 | 2026-01-30 |  |
 | [Hella Good](https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X), [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [Hella Good](https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn) | 2:55 | 2023-11-10 | 2024-09-07 |
 | [Hello Bitch](https://open.spotify.com/track/4QekyEOHWzKqhok3rqs6UE) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [I'm Back EP](https://open.spotify.com/album/4znRNjp5eHWxnjo6B2tZAb) | 6:37 | 2021-10-12 | 2022-04-21 |
 | [Hendrix Flow](https://open.spotify.com/track/2JK7amLLxtXYavB4DJeF0Y) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Hendrix Flow](https://open.spotify.com/album/5xX0bfn9ncd9Q3OBxqEJBx) | 2:57 | 2023-01-13 | 2023-03-25 |
@@ -563,7 +564,7 @@
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-19 | 2025-02-15 |
 | [HU4D](https://open.spotify.com/track/5MPZyHWn8YpxQEw4KqQ8FR) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ), [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto) | [HU4D](https://open.spotify.com/album/0hgyPBuj4JvRQ6adRvkkAP) | 3:50 | 2026-01-30 |  |
 | [Human \(feat\. Echoes\)](https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Echoes](https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV) | [Human \(feat\. Echoes\)](https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO) | 3:39 | 2021-11-27 | 2023-05-13 |
-| [Hypersilent](https://open.spotify.com/track/76SlQsZB2uZxW7ATfr3lpl) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [J.J\. Fad](https://open.spotify.com/artist/2eynOGnZLqDuEJwbRHlHN1) | [Hypersilent](https://open.spotify.com/album/0dUwtvMnpFyiUq7CO5hWBb) | 5:54 | 2025-10-24 |  |
+| [Hypersilent](https://open.spotify.com/track/76SlQsZB2uZxW7ATfr3lpl) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [J.J\. Fad](https://open.spotify.com/artist/2eynOGnZLqDuEJwbRHlHN1) | [Hypersilent](https://open.spotify.com/album/0dUwtvMnpFyiUq7CO5hWBb) | 5:54 | 2025-10-24 | 2026-02-04 |
 | [HYPNOSIS](https://open.spotify.com/track/7Hrdx0AjXCVQX6qnQiJ7We) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HYPNOSIS](https://open.spotify.com/album/1AFn827ZpGac5mVf7wPa6q) | 2:38 | 2023-06-02 | 2023-07-01 |
 | [Hypnotic](https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Hypnotic](https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz) | 3:20 | 2023-11-24 | 2024-03-16 |
 | [Hypnotic \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/0d7TxNhBkURA0MYyX66l93) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Hypnotic \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/1iqjcxJWLCWZjDQTNfIAMN) | 3:27 | 2023-08-11 | 2023-08-15 |

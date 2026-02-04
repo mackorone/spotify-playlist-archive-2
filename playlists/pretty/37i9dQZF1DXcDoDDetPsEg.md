@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Fredo, Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,566 likes - 81 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,549 likes - 81 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

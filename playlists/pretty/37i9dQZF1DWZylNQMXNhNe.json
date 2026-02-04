@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Bixarte",
-  "num_followers": 221566,
+  "num_followers": 221560,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,18 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
-        "name": "\u00c1GUA DE COCO",
-        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
+        "name": "furta-cor",
+        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
       },
       "artists": [
         {
-          "name": "MARTTE",
-          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
-        },
-        {
-          "name": "Heddy Beats",
-          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 134705,
-      "name": "\u00c1GUA DE COCO",
-      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
+      "duration_ms": 165000,
+      "name": "furta-cor",
+      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
     },
     {
       "added_at": "2025-11-22 12:14:14",
@@ -711,18 +707,22 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
-        "name": "furta-cor",
-        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
+        "name": "\u00c1GUA DE COCO",
+        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
+        },
+        {
+          "name": "Heddy Beats",
+          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
         }
       ],
-      "duration_ms": 165000,
-      "name": "furta-cor",
-      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
+      "duration_ms": 134705,
+      "name": "\u00c1GUA DE COCO",
+      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
     },
     {
       "added_at": "2025-11-22 12:14:14",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
-        "name": "LIA CLARK",
-        "url": "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"
-      },
-      "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "SEREIA",
-      "url": "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"
-    },
-    {
-      "added_at": "2025-11-22 12:14:14",
-      "album": {
         "name": "Amor Fati",
         "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
       },
@@ -947,6 +927,22 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
+        "name": "\"bb, que tal?\"",
+        "url": "https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN"
+      },
+      "artists": [
+        {
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+        }
+      ],
+      "duration_ms": 161285,
+      "name": "\"bb, que tal?\"",
+      "url": "https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj"
+    },
+    {
+      "added_at": "2025-11-22 12:14:14",
+      "album": {
         "name": "na minha mente",
         "url": "https://open.spotify.com/album/37GoCoDgWWqsGUl0NAjSLx"
       },
@@ -963,18 +959,22 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
-        "name": "\"bb, que tal?\"",
-        "url": "https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN"
+        "name": "LIA CLARK",
+        "url": "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"
       },
       "artists": [
         {
-          "name": "Gavi",
-          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 161285,
-      "name": "\"bb, que tal?\"",
-      "url": "https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj"
+      "duration_ms": 155454,
+      "name": "SEREIA",
+      "url": "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"
     },
     {
       "added_at": "2025-11-22 12:14:14",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
-        "name": "Baby 95",
-        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
+        "name": "Perigosa",
+        "url": "https://open.spotify.com/album/2VLa74bSqlJA1CS4gEhzQe"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "AMANDONA!",
+          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
         }
       ],
-      "duration_ms": 318237,
-      "name": "Baby 95",
-      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
+      "duration_ms": 186122,
+      "name": "Perigosa",
+      "url": "https://open.spotify.com/track/3CpZ0pZ79sPHE1oxrmGPhS"
     },
     {
       "added_at": "2025-11-22 12:14:14",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
-        "name": "Perigosa",
-        "url": "https://open.spotify.com/album/2VLa74bSqlJA1CS4gEhzQe"
+        "name": "Baby 95",
+        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
       },
       "artists": [
         {
-          "name": "AMANDONA!",
-          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 186122,
-      "name": "Perigosa",
-      "url": "https://open.spotify.com/track/3CpZ0pZ79sPHE1oxrmGPhS"
+      "duration_ms": 318237,
+      "name": "Baby 95",
+      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
     },
     {
       "added_at": "2025-11-22 12:14:14",
