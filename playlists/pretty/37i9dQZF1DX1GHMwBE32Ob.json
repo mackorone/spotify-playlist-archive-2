@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Seyi Vibez and Omah Lay ",
-  "num_followers": 129926,
+  "num_followers": 130119,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-01-23 00:01:21",
       "album": {
+        "name": "Ikeja (No Go Thief)",
+        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
+      },
+      "artists": [
+        {
+          "name": "Danpapa GTA",
+          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+        }
+      ],
+      "duration_ms": 116585,
+      "name": "Ikeja (No Go Thief)",
+      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
+    },
+    {
+      "added_at": "2026-01-23 00:01:21",
+      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 239865,
       "name": "Uptown Disco",
       "url": "https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ"
-    },
-    {
-      "added_at": "2026-01-23 00:01:21",
-      "album": {
-        "name": "Ikeja (No Go Thief)",
-        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
-      },
-      "artists": [
-        {
-          "name": "Danpapa GTA",
-          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
-        }
-      ],
-      "duration_ms": 116585,
-      "name": "Ikeja (No Go Thief)",
-      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
     },
     {
       "added_at": "2026-01-23 00:01:21",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-01-23 00:01:21",
       "album": {
-        "name": "Spaghetti",
-        "url": "https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Spaghetti",
-      "url": "https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt"
-    },
-    {
-      "added_at": "2026-01-23 00:01:21",
-      "album": {
         "name": "Muyeez (Deluxe)",
         "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
+    },
+    {
+      "added_at": "2026-01-23 00:01:21",
+      "album": {
+        "name": "Spaghetti",
+        "url": "https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Spaghetti",
+      "url": "https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt"
     },
     {
       "added_at": "2026-01-23 00:01:21",
@@ -1123,22 +1123,18 @@
     {
       "added_at": "2026-01-23 00:01:21",
       "album": {
-        "name": "Lifestyle",
-        "url": "https://open.spotify.com/album/5LvvzviQcK4CawRlmPpOxq"
+        "name": "Money Moves",
+        "url": "https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX"
       },
       "artists": [
         {
-          "name": "PaBrymo",
-          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Lifestyle",
-      "url": "https://open.spotify.com/track/1iCRehvlN08yk0BWYWUVrD"
+      "duration_ms": 163633,
+      "name": "Money Moves",
+      "url": "https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5"
     },
     {
       "added_at": "2026-01-23 00:01:21",

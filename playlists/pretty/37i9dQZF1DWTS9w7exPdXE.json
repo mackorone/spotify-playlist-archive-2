@@ -1,12 +1,12 @@
 {
   "description": "Samuel Welten genomineerd voor Edison Pop 2026: Nieuwkomer en Hollands \ud83d\udd25",
-  "num_followers": 156729,
+  "num_followers": 156758,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM4mr6gM1H7k8ICoSe1tbU6X+xdi",
+  "snapshot_id": "AAAAAJAKpZMgvs6/zMkQ/ndVUvslBKud",
   "tracks": [
     {
       "added_at": "2026-01-27 09:00:33",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
+        "name": "Dit Is Het Levenslied",
+        "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 196484,
+      "name": "Mijn Liefste",
+      "url": "https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
         "name": "Liever Te Dik In De Kist",
         "url": "https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 238000,
       "name": "Liever Te Dik In De Kist",
       "url": "https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
-        "name": "Dit Is Het Levenslied",
-        "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 196484,
-      "name": "Mijn Liefste",
-      "url": "https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq"
     },
     {
       "added_at": "2026-01-27 09:00:33",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
-        "name": "Zij Weet Het (Studio Versie)",
-        "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 241583,
-      "name": "Zij Weet Het - Studio Versie",
-      "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 200891,
       "name": "Sinds 1 Dag Of 2 (32 Jaar)",
       "url": "https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
+        "name": "Zij Weet Het (Studio Versie)",
+        "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 241583,
+      "name": "Zij Weet Het - Studio Versie",
+      "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
     },
     {
       "added_at": "2026-01-27 09:00:33",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
+        "name": "Mij Niet Bellen",
+        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
+      },
+      "artists": [
+        {
+          "name": "RAYMON HERMANS",
+          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
+        }
+      ],
+      "duration_ms": 161484,
+      "name": "Mij Niet Bellen",
+      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
         "name": "In Spanje",
         "url": "https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 180671,
       "name": "Voel Je Dan Niet?",
       "url": "https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
-        "name": "Mij Niet Bellen",
-        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
-      },
-      "artists": [
-        {
-          "name": "RAYMON HERMANS",
-          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
-        }
-      ],
-      "duration_ms": 161484,
-      "name": "Mij Niet Bellen",
-      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
     },
     {
       "added_at": "2026-01-27 09:00:33",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
-        "name": "Hoe Zou Je Doen",
-        "url": "https://open.spotify.com/album/3YP7ZFDcW1V1B7frKSd6qj"
-      },
-      "artists": [
-        {
-          "name": "Milan Milano",
-          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
-        }
-      ],
-      "duration_ms": 184087,
-      "name": "Hoe Zou Je Doen",
-      "url": "https://open.spotify.com/track/0FBitHFoxy7y5k7Oy81RIs"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
         "name": "'n Rondje van mij",
         "url": "https://open.spotify.com/album/0xFsAJ0Z79d1rfEXu6mmvD"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 219533,
       "name": "Laat ze maar lullen",
       "url": "https://open.spotify.com/track/3GUZqZgP7dnmWamPGUnkBM"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
+        "name": "Hoe Zou Je Doen",
+        "url": "https://open.spotify.com/album/3YP7ZFDcW1V1B7frKSd6qj"
+      },
+      "artists": [
+        {
+          "name": "Milan Milano",
+          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
+        }
+      ],
+      "duration_ms": 184087,
+      "name": "Hoe Zou Je Doen",
+      "url": "https://open.spotify.com/track/0FBitHFoxy7y5k7Oy81RIs"
     },
     {
       "added_at": "2026-01-27 09:00:33",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
-        "name": "Zin In Jou",
-        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "Zin In Jou",
-      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
         "name": "Jaren Komen Jaren Gaan",
         "url": "https://open.spotify.com/album/7yU1N9FEEjeWxlDoeF9RVe"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 173906,
       "name": "Jaren Komen Jaren Gaan",
       "url": "https://open.spotify.com/track/3BkY8cZl5V6MFxQAxtLTQm"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
+        "name": "Zin In Jou",
+        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "Zin In Jou",
+      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
     },
     {
       "added_at": "2026-01-27 09:00:33",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        }
-      ],
-      "duration_ms": 193694,
-      "name": "Alleen Met Jou",
-      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
         "name": "Voel je dan niet",
         "url": "https://open.spotify.com/album/0ymaiviYokdtanpbZN5IPk"
       },
@@ -1507,6 +1487,26 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "duration_ms": 193694,
+      "name": "Alleen Met Jou",
+      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
         "name": "De Laatste",
         "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
-        "name": "Hoe Zou Het Zijn Geweest",
-        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Hoe Zou Het Zijn Geweest",
-      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
         "name": "10 Jaar (Mijn Grootste Hits Tot Nu Toe)",
         "url": "https://open.spotify.com/album/7BXFVHDPJh2pKr9AdP7wiH"
       },
@@ -1587,22 +1571,6 @@
       "duration_ms": 230203,
       "name": "Ik Laat Je Nooit Meer Gaan",
       "url": "https://open.spotify.com/track/2LJdZAqsVXQK8YhfxyFDv5"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
-        "name": "Turk Uit De Kroeg",
-        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
-      },
-      "artists": [
-        {
-          "name": "Ammar",
-          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Turk Uit De Kroeg",
-      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
     },
     {
       "added_at": "2026-01-27 09:00:33",
@@ -1639,18 +1607,18 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
-        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
-        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
+        "name": "Turk Uit De Kroeg",
+        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
       },
       "artists": [
         {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
         }
       ],
-      "duration_ms": 250533,
-      "name": "Harder Dan Ik Hebben Kan",
-      "url": "https://open.spotify.com/track/31kf5nGp5YIcbNgqtRTmib"
+      "duration_ms": 192500,
+      "name": "Turk Uit De Kroeg",
+      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
     },
     {
       "added_at": "2026-01-27 09:00:33",
@@ -1683,6 +1651,54 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
+        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
+        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Harder Dan Ik Hebben Kan",
+      "url": "https://open.spotify.com/track/31kf5nGp5YIcbNgqtRTmib"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
+        "name": "Hoe Zou Het Zijn Geweest",
+        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Hoe Zou Het Zijn Geweest",
+      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
+        "name": "5 In De Klok",
+        "url": "https://open.spotify.com/album/47NpIEYt4lRv08dVLdCYj7"
+      },
+      "artists": [
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        }
+      ],
+      "duration_ms": 187611,
+      "name": "5 In De Klok",
+      "url": "https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
         "name": "Jij Krijgt Die Lach Niet Van Mijn Gezicht",
         "url": "https://open.spotify.com/album/2k1n74zKIcEQiInajgbtIk"
       },
@@ -1695,30 +1711,6 @@
       "duration_ms": 200779,
       "name": "Jij Krijgt Die Lach Niet Van Mijn Gezicht",
       "url": "https://open.spotify.com/track/60VvE1ktlRQSS1RW6CSzoV"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
-        "name": "Koning Van De Nacht",
-        "url": "https://open.spotify.com/album/5LYS3smWVyxcWYPus1mbuk"
-      },
-      "artists": [
-        {
-          "name": "Ammar",
-          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
-        },
-        {
-          "name": "John West",
-          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
-        },
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 164004,
-      "name": "Koning Van De Nacht",
-      "url": "https://open.spotify.com/track/45GtO4MNJ7ZhTMnGqswDq2"
     },
     {
       "added_at": "2026-01-27 09:00:33",

@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
-  "num_followers": 13372,
+  "num_followers": 13369,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "owner": {
     "name": "Spotify",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-01-29 22:00:47",
       "album": {
+        "name": "\u0412\u0441\u0435 \u043f\u043e \u043a\u043e\u043b\u0443",
+        "url": "https://open.spotify.com/album/5KW2YY8ttyygKGl7tsN0hI"
+      },
+      "artists": [
+        {
+          "name": "KAZKA",
+          "url": "https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw"
+        }
+      ],
+      "duration_ms": 163967,
+      "name": "\u0412\u0441\u0435 \u043f\u043e \u043a\u043e\u043b\u0443",
+      "url": "https://open.spotify.com/track/1QtvlaZUhEU5AxtiIxNrAa"
+    },
+    {
+      "added_at": "2026-01-29 22:00:47",
+      "album": {
         "name": "\u041d\u0430 \u0432\u0456\u043d\u0456\u043b\u0456",
         "url": "https://open.spotify.com/album/50qlzYAjmFiBiMqvk2qLpY"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 213625,
       "name": "\u041d\u0430 \u0432\u0456\u043d\u0456\u043b\u0456",
       "url": "https://open.spotify.com/track/24vXFJ3D1WSEU2eYMBCSsh"
-    },
-    {
-      "added_at": "2026-01-29 22:00:47",
-      "album": {
-        "name": "DVD",
-        "url": "https://open.spotify.com/album/5o5bCyWIsXJoKZSUiucJi6"
-      },
-      "artists": [
-        {
-          "name": "Shmiska",
-          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
-        }
-      ],
-      "duration_ms": 166317,
-      "name": "DVD",
-      "url": "https://open.spotify.com/track/5DOUS7y3JEvH5w7ZPlZU6m"
     }
   ],
   "unique_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",

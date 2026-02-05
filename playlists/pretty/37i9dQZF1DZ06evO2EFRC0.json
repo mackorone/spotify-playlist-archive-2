@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 97648,
+  "num_followers": 97654,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX/pAAAAAAA75rYHbPVr8F0s8YQfvHG9",
+  "snapshot_id": "aYE6gAAAAABcutoE3++ZdxOHw1KNQPiX",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Exaltamos (En Vivo)",
-        "url": "https://open.spotify.com/album/7wCXLga0UCA7SkrCAFXPOM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "Renu\u00e9vame - En Vivo",
-      "url": "https://open.spotify.com/track/2wLKFKKiD9s8gArTfwsS5c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jes\u00fas Salva",
         "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 427066,
       "name": "Dios imparable",
       "url": "https://open.spotify.com/track/4qpWZ9S0oMzlka1CQjFWNP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Exaltamos (En Vivo)",
+        "url": "https://open.spotify.com/album/7wCXLga0UCA7SkrCAFXPOM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "Renu\u00e9vame - En Vivo",
+      "url": "https://open.spotify.com/track/2wLKFKKiD9s8gArTfwsS5c"
     },
     {
       "added_at": null,
@@ -411,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
+        "name": "El Volver\u00e1",
+        "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 260022,
-      "name": "A Ti",
-      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
+      "duration_ms": 329377,
+      "name": "A Quien Ir\u00e9",
+      "url": "https://open.spotify.com/track/6bjDSczvenKmtEqLJAiftS"
     },
     {
       "added_at": null,
@@ -447,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Volver\u00e1",
-        "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 329377,
-      "name": "A Quien Ir\u00e9",
-      "url": "https://open.spotify.com/track/6bjDSczvenKmtEqLJAiftS"
+      "duration_ms": 260022,
+      "name": "A Ti",
+      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
     },
     {
       "added_at": null,

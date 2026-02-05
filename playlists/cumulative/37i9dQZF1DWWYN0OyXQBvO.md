@@ -4,7 +4,7 @@
 
 > The world deserves a better ending\. Listen to the music from Fallout, the hit video game and epic Prime Video series.
 
-117 songs - 5 hr 26 min
+119 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,12 +52,14 @@
 | [I'm Forever Blowing Bubbles \- 2017 Version](https://open.spotify.com/track/1IV4avTzXccy9WZTecmr0c) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS) | [Vera Lynn 100](https://open.spotify.com/album/2DWg5EgpevBgYN4lwSyBXU) | 3:32 | 2026-01-28 |  |
 | [I'm the One You're Looking For](https://open.spotify.com/track/3NPjZ4tEGawJfMwSEVac7P) | [Lynda Carter](https://open.spotify.com/artist/7dinImt4nrJSPBD7Q5LDPC), [John Jarvis](https://open.spotify.com/artist/0U42bw7AY6q9kdTcCYNM5v), [Kerry Marx](https://open.spotify.com/artist/5yeO84zkSjDhZkeuGXoVCa) | [Fallout 4 \(Original Game Soundtrack\)](https://open.spotify.com/album/47C57TQNELQqnJDS22ZKj6) | 3:25 | 2024-05-15 |  |
 | [I'm Tickled Pink](https://open.spotify.com/track/06ZIoW7NcfjI9i7sasxHYq) | [Jack Shaindlin](https://open.spotify.com/artist/5YkgPDT3sjvYtPkpiqi2js) | [Dance Orchestra](https://open.spotify.com/album/629PRUynXcqKHoYJa7gp4L) | 1:53 | 2024-05-15 |  |
+| [I've Got You Under My Skin](https://open.spotify.com/track/74jklVKHYTmNMp0baGm6FB) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 3:42 | 2026-02-04 |  |
 | [Improvisation on Tchaikowsky's "Pathétique" Andante](https://open.spotify.com/track/0rdAWZxySL8eghoM6TMK9l) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [The Essential Django Reinhardt](https://open.spotify.com/album/1Vwmuhs09XeFjA3cefRLBP) | 3:42 | 2024-05-15 |  |
 | [In The Mood](https://open.spotify.com/track/0PJMHv4glk31FYeGq8Hg13) | [Glenn Miller Orchestra](https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z) | [In The Digital Mood](https://open.spotify.com/album/3JnwQnEy8SBKZAiTWcHMG3) | 3:40 | 2024-05-15 |  |
 | [Into Each Life Some Rain Must Fall](https://open.spotify.com/track/2l8oKGZkOUorqfqPUkssXM) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [Ella & Friends](https://open.spotify.com/album/5PwtIbLxUKAgPU05eqT6ja) | 3:07 | 2024-05-15 | 2024-05-17 |
 | [Into Each Life Some Rain Must Fall \- Single Version](https://open.spotify.com/track/70Hl6QYIJGmrR7NBl666Y6) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [20th Century Masters: The Millennium Collection: Best Of The Ink Spots](https://open.spotify.com/album/7b8po6pHksWyVjLg4NfO1s) | 3:11 | 2024-05-15 |  |
 | [It Ain't The Meat, It's The Motion](https://open.spotify.com/track/5DowgjLju7riW4EXaZfdTZ) | [The Swallows](https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq) | [Dearest](https://open.spotify.com/album/4AmBFaXqeJYiS3bMKbVnRX) | 2:36 | 2024-05-15 |  |
 | [It Was A Very Good Year \- 2008 Remastered](https://open.spotify.com/track/1vLPTWPfJSIrqOhNUWNfNY) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 4:26 | 2024-05-15 |  |
+| [It's A Good Day](https://open.spotify.com/track/6kERWE0mP6AjbJJDWGEfYE) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [So Smooth](https://open.spotify.com/album/3GUwj3ZIWO9zk8ETCBqvWf) | 1:45 | 2026-02-04 |  |
 | [It's a Man](https://open.spotify.com/track/5w4EuviPUa4vSH52EYNqJ5) | [Betty Hutton](https://open.spotify.com/artist/6JcWhUd6K5suazlrWsMgGZ) | [The Best of the RCA Years](https://open.spotify.com/album/6zbf4btsxNqgWUHaXP0MhJ) | 2:24 | 2024-05-15 |  |
 | [It's A Man](https://open.spotify.com/track/6ZUTQ9kUHe69jYfH10EWOo) | [Betty Hutton](https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp) | [Uranium Rock \- Fallout 4 Radio](https://open.spotify.com/album/5ILxcdAWuJ6AICTTcbiqL4) | 2:29 | 2024-05-15 | 2024-05-17 |
 | [It's a Sin](https://open.spotify.com/track/1wK9cRMY8HBmRLiNm72MBG) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs) | 2:26 | 2024-05-15 |  |

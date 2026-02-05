@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 804792,
+  "num_followers": 804821,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Parker Millsap",
-        "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Old Time Religion",
-      "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
         "name": "John Came Home",
         "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 191182,
       "name": "John Came Home",
       "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
+        "name": "Parker Millsap",
+        "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Old Time Religion",
+      "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 224226,
       "name": "Get Right Church",
       "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Daughter, Daughter",
-        "url": "https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw"
-      },
-      "artists": [
-        {
-          "name": "Cris Jacobs",
-          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 205022,
-      "name": "Daughter, Daughter",
-      "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/5GhI019oC8mS6czOfouj2J"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 196890,
       "name": "Where the Enemy Sleeps (feat. Lucette)",
       "url": "https://open.spotify.com/track/17YEHsH3LwT9yqqQhuid8k"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
+        "name": "Daughter, Daughter",
+        "url": "https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw"
+      },
+      "artists": [
+        {
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 205022,
+      "name": "Daughter, Daughter",
+      "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Boy From The North (ADA / USA)",
-        "url": "https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH"
+        "name": "Skunks",
+        "url": "https://open.spotify.com/album/20eLwOICuMCGV1eSW3b0AL"
       },
       "artists": [
         {
-          "name": "Monica Heldal",
-          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
+          "name": "The Handsome Family",
+          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Conman Coming",
-      "url": "https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq"
+      "duration_ms": 207161,
+      "name": "Skunks",
+      "url": "https://open.spotify.com/track/4slpqLJuWHNfQcXBBcmOjL"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Skunks",
-        "url": "https://open.spotify.com/album/20eLwOICuMCGV1eSW3b0AL"
+        "name": "Boy From The North (ADA / USA)",
+        "url": "https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH"
       },
       "artists": [
         {
-          "name": "The Handsome Family",
-          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
+          "name": "Monica Heldal",
+          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
         }
       ],
-      "duration_ms": 207161,
-      "name": "Skunks",
-      "url": "https://open.spotify.com/track/4slpqLJuWHNfQcXBBcmOjL"
+      "duration_ms": 196946,
+      "name": "Conman Coming",
+      "url": "https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
+        "name": "Singing Bones",
+        "url": "https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj"
+      },
+      "artists": [
+        {
+          "name": "The Handsome Family",
+          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Far From Any Road",
+      "url": "https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
         "name": "Raise Hell",
         "url": "https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb"
       },
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Singing Bones",
-        "url": "https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj"
+        "name": "War Brides",
+        "url": "https://open.spotify.com/album/7vxVCBXPKqZ2YKfKFVTLIe"
       },
       "artists": [
         {
-          "name": "The Handsome Family",
-          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
+          "name": "Amelia Curran",
+          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
         }
       ],
-      "duration_ms": 166493,
-      "name": "Far From Any Road",
-      "url": "https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq"
+      "duration_ms": 144040,
+      "name": "Devils",
+      "url": "https://open.spotify.com/track/4YJpXSRosOLGssNpjIYsUk"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1423,6 +1439,38 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
+        "name": "Filthy Dirty South",
+        "url": "https://open.spotify.com/album/0jDnfywtNBh634OQD7EOJf"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Filthy Dirty South",
+      "url": "https://open.spotify.com/track/74Fd1uz6wiTaqDXyWK7AXl"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
+        "name": "A Long Life of Living",
+        "url": "https://open.spotify.com/album/0W6IZrPamQ7KXLXxvR9usJ"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "The Railroad",
+      "url": "https://open.spotify.com/track/1Z0FpIlGRGQrC7rz2uwX6I"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
         "name": "Beat the Devil's Tattoo",
         "url": "https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP"
       },
@@ -1435,6 +1483,38 @@
       "duration_ms": 225760,
       "name": "Beat The Devil's Tattoo",
       "url": "https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
+        "name": "Imaginary Appalachia",
+        "url": "https://open.spotify.com/album/1fU47P4gQ63M7Rr7gNtZZz"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "Sleeping on the Blacktop",
+      "url": "https://open.spotify.com/track/3FYVkmrVYbEo17vXmb5x2A"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/0FRWio6Rx37fyPEBj5BmpI"
+      },
+      "artists": [
+        {
+          "name": "Odetta Hartman",
+          "url": "https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM"
+        }
+      ],
+      "duration_ms": 111186,
+      "name": "Dreamcatchers",
+      "url": "https://open.spotify.com/track/7uXwbnpGfGRwlB7CWeC6Aw"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1511,22 +1591,6 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Filthy Dirty South",
-        "url": "https://open.spotify.com/album/0jDnfywtNBh634OQD7EOJf"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Filthy Dirty South",
-      "url": "https://open.spotify.com/track/74Fd1uz6wiTaqDXyWK7AXl"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
         "name": "Natural Conclusion",
         "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
       },
@@ -1539,22 +1603,6 @@
       "duration_ms": 194570,
       "name": "Chains",
       "url": "https://open.spotify.com/track/7ywUfT35DxrKOoq7ZL0VQ5"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
-        "name": "War Brides",
-        "url": "https://open.spotify.com/album/7vxVCBXPKqZ2YKfKFVTLIe"
-      },
-      "artists": [
-        {
-          "name": "Amelia Curran",
-          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Devils",
-      "url": "https://open.spotify.com/track/4YJpXSRosOLGssNpjIYsUk"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1587,54 +1635,6 @@
       "duration_ms": 177306,
       "name": "Fault Line",
       "url": "https://open.spotify.com/track/20hLTXbjj0jhiyOQFwIqa0"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
-        "name": "A Long Life of Living",
-        "url": "https://open.spotify.com/album/0W6IZrPamQ7KXLXxvR9usJ"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "The Railroad",
-      "url": "https://open.spotify.com/track/1Z0FpIlGRGQrC7rz2uwX6I"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
-        "name": "Ashkelon",
-        "url": "https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 313867,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
-        "name": "Canary / The Trouble with Wanting",
-        "url": "https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "Canary",
-      "url": "https://open.spotify.com/track/6z2WfgI5lYcq1su1WyOxQ9"
     }
   ],
   "unique_name": "Southern Gothic",

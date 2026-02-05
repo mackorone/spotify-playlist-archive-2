@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 73,975 likes - 350 songs - 12 hr 1 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 73,972 likes - 350 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,7 +209,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 199 | [Los Santos](https://open.spotify.com/track/4As1fWgSg0vVKLrbWfLoQq) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82), [Kisin Bayes](https://open.spotify.com/artist/2tY6lhdLXkApegY0Lqf4N9), [Smokey Da Bear](https://open.spotify.com/artist/490NtSO7AcUiuuGsIuAVQf) | [Los Santos](https://open.spotify.com/album/1VrwdXaQQ38wJfDViZS41B) | 1:57 |
 | 200 | [Night in the Square](https://open.spotify.com/track/69TFfLcHATrB1M2mPEIVCf) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [Cali Soul](https://open.spotify.com/artist/05k7SGKHRRfKpBvjcRMxQ6) | [Evening Lights](https://open.spotify.com/album/69zOU4INEpTIJh5FIEIBpv) | 2:13 |
 | 201 | [Coffee Night](https://open.spotify.com/track/5WJv7AWCd9KfLGHcGAvhj7) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Coffee Night](https://open.spotify.com/album/0EIKoXFX4PN9dNedNvOZgP) | 2:00 |
-| 202 | [Samsara \(Shopan Remix\)](https://open.spotify.com/track/7HN16qU6AWqIbYdxgGsgBx) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Samsara \(Shopan Remix\)](https://open.spotify.com/album/67780oBNaBnJx9AYleDTaD) | 2:08 |
+| 202 | [Empathy \(Shopan Remix\)](https://open.spotify.com/track/7HN16qU6AWqIbYdxgGsgBx) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Empathy \(Shopan Remix\)](https://open.spotify.com/album/67780oBNaBnJx9AYleDTaD) | 2:08 |
 | 203 | [A Handful of Love](https://open.spotify.com/track/6kbt6R2MwYCEsyVF5Cipbl) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [A Handful of Love](https://open.spotify.com/album/2D7qPI9bz5L4v8NwtGThIv) | 1:41 |
 | 204 | [Malibu](https://open.spotify.com/track/3Cw7jJw0z33pNwLirJLcE2) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO) | [Malibu](https://open.spotify.com/album/4q5DlhRaD8xB25F6Llrn5A) | 1:52 |
 | 205 | [Moment Of Truth](https://open.spotify.com/track/1XzEmrtXCC1ftXhElpFGs1) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk), [GaetDown](https://open.spotify.com/artist/0DQLwNtbo0nXQjg80Ca2Pm) | [Moment Of Truth](https://open.spotify.com/album/3Pe7kr9b62t2E7iOPWLhkf) | 2:00 |

@@ -10278,7 +10278,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 274839,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/1cGKyYZ0S7P0APgnjiCQ4E"
@@ -10300,6 +10300,24 @@
       "duration_ms": 274839,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/76UQp51WwKuxoGxMe2OMNR"
+    },
+    {
+      "album": {
+        "name": "Bonita Bonita",
+        "url": "https://open.spotify.com/album/3zsghCtMMPyIzqXRpcwtzG"
+      },
+      "artists": [
+        {
+          "name": "4AMTapes",
+          "url": "https://open.spotify.com/artist/4d65skQOI4fUyy3CKDTFqh"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274841,
+      "name": "Bonita Bonita",
+      "url": "https://open.spotify.com/track/5QNHKiu5EtYcAcZEX0ImXt"
     },
     {
       "album": {
@@ -18542,7 +18560,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 243070,
       "name": "Dardos",
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
@@ -40099,6 +40117,36 @@
     },
     {
       "album": {
+        "name": "Entren Los Que Quieran",
+        "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        },
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        },
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301426,
+      "name": "Latinoam\u00e9rica (feat. Tot\u00f3 la Momposina, Susana Baca & Maria Rita)",
+      "url": "https://open.spotify.com/track/1xuYajTJZh8zZrPRmUaagf"
+    },
+    {
+      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -51860,7 +51908,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 287559,
       "name": "No entiendo por qu\u00e9",
       "url": "https://open.spotify.com/track/2B10ZAMEoaJlIP1IB46Frq"
@@ -61824,7 +61872,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 120000,
       "name": "Qu\u00e9 Rico PR!",
       "url": "https://open.spotify.com/track/08C6m4alGcRaXEbm6IMsNs"
@@ -77521,6 +77569,28 @@
     },
     {
       "album": {
+        "name": "T\u00da",
+        "url": "https://open.spotify.com/album/3AsGxBUseOV0lpq5af9K8w"
+      },
+      "artists": [
+        {
+          "name": "Los Flow Vengers",
+          "url": "https://open.spotify.com/artist/3pzi92DpfKqzZdU8GCDs2z"
+        },
+        {
+          "name": "DaniloBeats",
+          "url": "https://open.spotify.com/artist/0rqTwttARxjNvnUlaHZh7y"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194211,
+      "name": "T\u00da",
+      "url": "https://open.spotify.com/track/4MS0V8BFaMCOnGBGe1w4B2"
+    },
+    {
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -83044,6 +83114,32 @@
       "duration_ms": 321741,
       "name": "WYA REMIX RED",
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
+    },
+    {
+      "album": {
+        "name": "WYFL",
+        "url": "https://open.spotify.com/album/4ksVYKCA2u0CTMziX7PNTl"
+      },
+      "artists": [
+        {
+          "name": "Skippa",
+          "url": "https://open.spotify.com/artist/5EWUPUksGg8Gslp0xz7zbv"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137195,
+      "name": "WYFL",
+      "url": "https://open.spotify.com/track/3euDkolyqirQM6DK9HBO8C"
     },
     {
       "album": {

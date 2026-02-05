@@ -1,12 +1,12 @@
 {
   "description": "De allerbeste songs van de 10's! Cover: Martin Garrix",
-  "num_followers": 54378,
+  "num_followers": 54369,
   "original_name": "10's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALcc/gJxLtOF8ngTydqhWdgBrGqM",
+  "snapshot_id": "AAAAAOVvL4/+L+gtCGSXPEQPSNIK670H",
   "tracks": [
     {
       "added_at": "2021-02-22 12:39:10",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Night Visions",
-        "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 192280,
-      "name": "On Top Of The World",
-      "url": "https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Communion (Deluxe)",
         "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 215360,
       "name": "King",
       "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 192280,
+      "name": "On Top Of The World",
+      "url": "https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -852,16 +852,16 @@
           "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         },
         {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        },
-        {
           "name": "DJ Snake",
           "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
         }
       ],
       "duration_ms": 176561,
-      "name": "Lean On (feat. M\u00d8 & DJ Snake)",
+      "name": "Lean On",
       "url": "https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16"
     },
     {
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Final Song",
-        "url": "https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Final Song",
-      "url": "https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Our Version Of Events (Special Edition)",
         "url": "https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ"
       },
@@ -1163,26 +1147,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Niemand",
-        "url": "https://open.spotify.com/album/7ldnw4Buh6OYnuJENEEAYW"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "Mr. Polska",
-          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
-        }
-      ],
-      "duration_ms": 233532,
-      "name": "Niemand",
-      "url": "https://open.spotify.com/track/62DBa9iwXVgod4bPtmg4xe"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Year of Summer",
         "url": "https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa"
       },
@@ -1203,22 +1167,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Our Version Of Events (Special Edition)",
-        "url": "https://open.spotify.com/album/49sy06JJUk1CRwkG9wbRYw"
-      },
-      "artists": [
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 283706,
-      "name": "Read All About It, Pt. III",
-      "url": "https://open.spotify.com/track/4n41lg3dl0abbHovuv5bAU"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Kenny B",
         "url": "https://open.spotify.com/album/6vCBPngxisDMowQCtmmJtB"
       },
@@ -1231,6 +1179,22 @@
       "duration_ms": 193059,
       "name": "Parijs",
       "url": "https://open.spotify.com/track/4CH8nmzGgqd4sokxN7dacs"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/49sy06JJUk1CRwkG9wbRYw"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 283706,
+      "name": "Read All About It, Pt. III",
+      "url": "https://open.spotify.com/track/4n41lg3dl0abbHovuv5bAU"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1271,6 +1235,22 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
+        "name": "Passing Through",
+        "url": "https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "duration_ms": 215269,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
         "name": "Hey",
         "url": "https://open.spotify.com/album/0blPiZeFeUsC6zlCx2w5EH"
       },
@@ -1291,22 +1271,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Passing Through",
-        "url": "https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG"
-      },
-      "artists": [
-        {
-          "name": "Chef'Special",
-          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
-        }
-      ],
-      "duration_ms": 215269,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Rivals",
         "url": "https://open.spotify.com/album/6udOhfnZ9TyExOZ4Js2QL2"
       },
@@ -1319,30 +1283,6 @@
       "duration_ms": 176652,
       "name": "War",
       "url": "https://open.spotify.com/track/6mEl7vK6usgdsNm4QFHeEd"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
-        "name": "Shed a Light",
-        "url": "https://open.spotify.com/album/6yKhjUoOsHa60DSqpugerw"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        }
-      ],
-      "duration_ms": 191379,
-      "name": "Shed a Light",
-      "url": "https://open.spotify.com/track/1cG0umU5TKStygKsPFZ9pY"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1415,6 +1355,22 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
+        "name": "Wanted on Voyage",
+        "url": "https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 200720,
+      "name": "Budapest",
+      "url": "https://open.spotify.com/track/7GJClzimvMSghjcrKxuf1M"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/55bbXORm6ZrVq52zfZnxBf"
       },
@@ -1431,22 +1387,6 @@
       "duration_ms": 205946,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/4pdPtRcBmOSQDlJ3Fk945m"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
-        "name": "Wanted on Voyage",
-        "url": "https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 200720,
-      "name": "Budapest",
-      "url": "https://open.spotify.com/track/7GJClzimvMSghjcrKxuf1M"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1487,22 +1427,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/6x3lObhgC3H0KpOfePojFG"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/0r4SsYcwvd8URat6AS2m6f"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig"
       },
@@ -1515,6 +1439,22 @@
       "duration_ms": 295502,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/6x3lObhgC3H0KpOfePojFG"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/0r4SsYcwvd8URat6AS2m6f"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1607,22 +1547,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/0S9QJQiRmG9JYYfJfKqhDF"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Treat You Better",
-      "url": "https://open.spotify.com/track/76t5B0ttSAje5KHmQbv88t"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "In A Perfect World (Deluxe)",
         "url": "https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj"
       },
@@ -1635,6 +1559,22 @@
       "duration_ms": 230266,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/0S9QJQiRmG9JYYfJfKqhDF"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Treat You Better",
+      "url": "https://open.spotify.com/track/76t5B0ttSAje5KHmQbv88t"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1687,22 +1627,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Solo Dance",
-        "url": "https://open.spotify.com/album/3BcNHuKlAm57APDcwh7LJq"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Solo Dance",
-      "url": "https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8"
       },
@@ -1715,6 +1639,22 @@
       "duration_ms": 164757,
       "name": "Oceaan",
       "url": "https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Solo Dance",
+        "url": "https://open.spotify.com/album/3BcNHuKlAm57APDcwh7LJq"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Solo Dance",
+      "url": "https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1767,6 +1707,58 @@
       "duration_ms": 245755,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/6UxSmGD3Ys7BIpbUpSERBM"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Catch & Release (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ujSRXhOZaq3QVbJ1gVkNl"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        }
+      ],
+      "duration_ms": 196198,
+      "name": "Catch & Release (Deepend remix)",
+      "url": "https://open.spotify.com/track/3NNqqioprPCnYcVtDn3wvS"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Under Bridges That You Built For Me",
+        "url": "https://open.spotify.com/album/20lXEjOaY6Il72FTbsgOhM"
+      },
+      "artists": [
+        {
+          "name": "Causes",
+          "url": "https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3"
+        }
+      ],
+      "duration_ms": 204689,
+      "name": "Teach Me How To Dance With You",
+      "url": "https://open.spotify.com/track/3eqWhMow4fBmD22XuuNQTe"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Nothing Really Matters",
+        "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "duration_ms": 222041,
+      "name": "Nothing Really Matters",
+      "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
     }
   ],
   "unique_name": "10's Allerbeste",

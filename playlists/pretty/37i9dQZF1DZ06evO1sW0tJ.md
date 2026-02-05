@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sW0tJ.md) - [plain]
 
 > This is Clara Schumann\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,170 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Romance, Op\. 22: No\. 1, Andante Molto](https://open.spotify.com/track/1Pi4QDHUHRF53djA05AS1P) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 3:10 |
+| 1 | [Romance, Op\. 22: No\. 1, Andante Molto](https://open.spotify.com/track/4Tz0FtkyqRLCwmSrrPgYQi) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Carl Schwarz](https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2) | [Eternal Clara](https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN) | 3:10 |
 | 2 | [3 Romances for Violin and Piano, Op\. 22: I\. Andante molto](https://open.spotify.com/track/3k4IVPEnMUBaBvHKqvdHLu) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Koji Morishita](https://open.spotify.com/artist/5P3tjwUdsPdyBsBBtM9M8P), [German Kitkin](https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy) | [3 Romances for Violin and Piano, Op\. 22](https://open.spotify.com/album/1kIdvHiR03ZfQM1Uob2GEl) | 2:58 |
 | 3 | [Soirées musicales, Op\. 6: II\. Notturno\. Andante con moto \(Version for Harp\)](https://open.spotify.com/track/7msodaosInbttzEEJ9MRfq) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Magdalena Hoffmann](https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT) | [C\. Schumann: Soirées musicales, Op\. 6: II\. Notturno\. Andante con moto \(Version for Harp\)](https://open.spotify.com/album/5BVP1Pfk82ukSEHCgEi88Q) | 5:18 |
 | 4 | [Romanze: from Piano Concerto in A Minor Op.7](https://open.spotify.com/track/6rQdxlTHnxZAfxnIZwrVBb) | [Dominik Johnson](https://open.spotify.com/artist/7KLlPFabGUj3JxWj6JbfG5), [Daniela Kosinova](https://open.spotify.com/artist/3bH1p2Sa2lBOnWXeov6DoW), [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC) | [Regency](https://open.spotify.com/album/1g4Lw05FtjonIIylTggh8l) | 1:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sW0tJ.md) - [plain]
 | 49 | [“Am Strande” \(Geibel\)](https://open.spotify.com/track/3QpwROBzAorokKDbXtSZog) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 2:54 |
 | 50 | [Soirées Musicales, Op\. 6 – II\. Notturno](https://open.spotify.com/track/1sBAPSAECKgoyBG9hgFm0a) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 422: Clara Schumann, Piano Dreams](https://open.spotify.com/album/3lmHgytw2ZWi7Mg5l8phhW) | 3:58 |
 
-Snapshot ID: `aX/pAAAAAAC0iKSCCZ1xEHlBIfKyIeHI`
+Snapshot ID: `aYE6gAAAAABZ6l8aWNYJPIMliVo8kA1L`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: KNEECAP
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,959 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,961 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 47 | [SILK SCARF](https://open.spotify.com/track/3RYNXa8YKn0JxglQkv3GeY) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [SILK SCARF](https://open.spotify.com/album/40Ve2aVObKkIB08PYCLiLX) | 3:39 |
 | 48 | [ATRAKAR](https://open.spotify.com/track/0NONHhufGTQB8JadGXfw66) | [Jashim](https://open.spotify.com/artist/3erJqJ388hvf1VTPKG8JDp) | [ATRAKAR](https://open.spotify.com/album/7auLuYztIJvkjsqKkyz35o) | 1:49 |
 | 49 | [PAS LES COUILLES](https://open.spotify.com/track/43wWsvU0v8Ijl1cEFtqZnl) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [AVEC TOUT LE RESPECT](https://open.spotify.com/album/5OqktAqR8ecIornz8xFqLA) | 2:06 |
-| 50 | [Les Mots](https://open.spotify.com/track/5liA8qCrPwHJklLDy0RMBi) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Les Mots](https://open.spotify.com/album/6CYMffTfmeFxEewRVKptDF) | 3:26 |
+| 50 | [Les mots](https://open.spotify.com/track/5liA8qCrPwHJklLDy0RMBi) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Les mots](https://open.spotify.com/album/6CYMffTfmeFxEewRVKptDF) | 3:26 |
 | 51 | [Présidentielle](https://open.spotify.com/track/2WtBiFaVRsiuPcdTLXw3gw) | [Remastered](https://open.spotify.com/artist/6uvSVi5xnoa5UyD4E5Ik7r), [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Présidentielle](https://open.spotify.com/album/5GjSk0VMFsisO30AQkuHsX) | 2:45 |
 | 52 | [GIRLS CLUBBING / BOYS BORING 闲男辣女](https://open.spotify.com/track/3oBST7yvGNV1am6sKMXQNc) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [J'SUIS \(TJR\) PAS CELLE 仍非你所想](https://open.spotify.com/album/1u1rzRNHebVXcbsi2Ca5XX) | 2:34 |
 | 53 | [How Greedy \(feat\. Theodora\)](https://open.spotify.com/track/2frgkDD0XKvyJ2nVu7s6Ne) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [How Greedy \(feat\. Theodora\)](https://open.spotify.com/album/7vVcjP5JwWTQKJNJfU18D8) | 2:24 |

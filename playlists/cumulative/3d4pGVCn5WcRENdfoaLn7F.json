@@ -3023,6 +3023,24 @@
     },
     {
       "album": {
+        "name": "The Perfect Buzz",
+        "url": "https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG"
+      },
+      "artists": [
+        {
+          "name": "Tommy Schenker",
+          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166569,
+      "name": "The Perfect Buzz",
+      "url": "https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda"
+    },
+    {
+      "album": {
         "name": "The Price of Not Being Me",
         "url": "https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA"
       },

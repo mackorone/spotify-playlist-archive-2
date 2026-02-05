@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 298866,
       "name": "A Good Hearted Woman",
       "url": "https://open.spotify.com/track/5Za6LTepYPw8X903BdTS90"
@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/6I3c5bU1TCesp1PivdZp8e"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289196,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/4cubT1pp7sp10qcCpl0ml3"
+    },
+    {
+      "album": {
         "name": "The New Modern Hymns",
         "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 270080,
       "name": "Angel from Montgomery",
       "url": "https://open.spotify.com/track/2mKMIVcKPczPULJF13Ztvo"
@@ -344,6 +362,24 @@
       "duration_ms": 199297,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/0tt5aoegu9I2UCf0q89JVF"
+    },
+    {
+      "album": {
+        "name": "Hits of Newgrass",
+        "url": "https://open.spotify.com/album/3xS4XeyzLdRN58BwJEoBeE"
+      },
+      "artists": [
+        {
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144933,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/21PHpRAPpmSUIICiFNq5mb"
     },
     {
       "album": {
@@ -654,6 +690,32 @@
       "duration_ms": 281500,
       "name": "Born to Run",
       "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
+    },
+    {
+      "album": {
+        "name": "Those Were the Days",
+        "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        },
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214453,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
     },
     {
       "album": {
@@ -1063,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Love. Ain't Love",
+        "url": "https://open.spotify.com/album/1R55TgjVR6Bq6onvCiQHQB"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174413,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/6IIhAAslHaT2mJtqRq3Dpi"
+    },
+    {
+      "album": {
         "name": "Danny Boy",
         "url": "https://open.spotify.com/album/1aoyWWtmYUIythftZqbBFd"
       },
@@ -1368,7 +1448,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/6QbkUhsl7YDaOq0ska3WlN"
@@ -1540,7 +1620,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 180866,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/7bqtShG4VYS372JEtHLXRp"
@@ -2138,7 +2218,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 161240,
       "name": "Hand In My Pocket",
       "url": "https://open.spotify.com/track/6YKfKfe5Ey6yIPhZ0LS92O"
@@ -2228,7 +2308,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 267599,
       "name": "Hey Ya",
       "url": "https://open.spotify.com/track/0ELVXVHz8aPgwLySfkDn8e"
@@ -2322,7 +2402,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 256120,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/6EmwBRFDI25uukoQ9jCU6J"
@@ -2416,7 +2496,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 184000,
       "name": "I Believe in a Thing Called Love",
       "url": "https://open.spotify.com/track/6mEeutpoC30B6yALroRlFW"
@@ -2618,7 +2698,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 244000,
       "name": "Islands in the Stream",
       "url": "https://open.spotify.com/track/3pFrmDEYiSfvTFvTdqO6kY"
@@ -2702,6 +2782,24 @@
       "duration_ms": 349506,
       "name": "It's Alright Ma, I'm Only Bleeding",
       "url": "https://open.spotify.com/track/5TCgrYo0UKc7rYt3VfR5L5"
+    },
+    {
+      "album": {
+        "name": "Johnny B. Goode",
+        "url": "https://open.spotify.com/album/3GwPLOfHKwTHpOdO349mRv"
+      },
+      "artists": [
+        {
+          "name": "Seth Mulder & Midnight Run",
+          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2dEAao1ozL1u3uFKtqS6Hq"
     },
     {
       "album": {
@@ -2864,6 +2962,28 @@
       "duration_ms": 156916,
       "name": "Kiss From A Rose",
       "url": "https://open.spotify.com/track/3k3rsujAAKrvCXcyCzFtsU"
+    },
+    {
+      "album": {
+        "name": "Pickin' on the 90s",
+        "url": "https://open.spotify.com/album/3QB8bU45ibOECYMejZuVAi"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "The Sidekicks",
+          "url": "https://open.spotify.com/artist/0cuataW2AnHzeTbA2ERBYI"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198460,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/1gAj0rxRU8QK49emO77sjF"
     },
     {
       "album": {
@@ -3154,7 +3274,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 225133,
       "name": "Love Her Madly",
       "url": "https://open.spotify.com/track/0YUD5sVmPo7eQTxbNXwEg8"
@@ -3396,7 +3516,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 249610,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/5ezfm5XJ0Wn7Kkd7Ewtu3d"
@@ -3632,7 +3752,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 191360,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/2yNGARwYc253fKGIy0CoyO"
@@ -3827,6 +3947,32 @@
     },
     {
       "album": {
+        "name": "Up On The Ridge",
+        "url": "https://open.spotify.com/album/5tDrY2EsPJ3ynm5Pg5udMQ"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        },
+        {
+          "name": "Del McCoury",
+          "url": "https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249213,
+      "name": "Pride (In The Name Of Love)",
+      "url": "https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G"
+    },
+    {
+      "album": {
         "name": "Stompin' Grounds",
         "url": "https://open.spotify.com/album/0PwVhOH4LzW48zVN6bisFz"
       },
@@ -3916,7 +4062,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-01",
+      "date_removed": null,
       "duration_ms": 230454,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
@@ -4046,7 +4192,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 207466,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/5Jizv7OKGYi2NsgipAlDR0"
@@ -4219,6 +4365,24 @@
     },
     {
       "album": {
+        "name": "Fistful Of Bullets",
+        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
+      },
+      "artists": [
+        {
+          "name": "Mandowar",
+          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271753,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
+    },
+    {
+      "album": {
         "name": "Snowbird",
         "url": "https://open.spotify.com/album/3T43QsJmuywzsRApuCVs2L"
       },
@@ -4270,7 +4434,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 221397,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/2nwVBqjV5HPLDPlmExAUML"
@@ -4724,7 +4888,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 253346,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/4Vk9JVC3eBEY35i7JgkSTG"
@@ -4923,6 +5087,24 @@
     },
     {
       "album": {
+        "name": "The DeLorean Sisters",
+        "url": "https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E"
+      },
+      "artists": [
+        {
+          "name": "The DeLorean Sisters",
+          "url": "https://open.spotify.com/artist/5ZvTKfngMbuI3sFLv9mdfE"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209895,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/2w0YouPU8m4o847GCgweTK"
+    },
+    {
+      "album": {
         "name": "Ain't Hungover Yet",
         "url": "https://open.spotify.com/album/366ssa5QnTPViLln8TFILV"
       },
@@ -4986,7 +5168,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 245106,
       "name": "The Boxer feat. Mumford & Sons and Paul Simon",
       "url": "https://open.spotify.com/track/5sqhKYHmQSGmGWzrgyL2nc"
@@ -5074,7 +5256,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 310853,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/4q7wdKi7TnNdx4zA9MVLP7"
@@ -5288,7 +5470,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 294680,
       "name": "Valerie",
       "url": "https://open.spotify.com/track/41YOqmMxkDQZWqMZAExMx1"
@@ -5698,7 +5880,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 184253,
       "name": "Wildwood Flower",
       "url": "https://open.spotify.com/track/3xckzvp58eFYnM7HEHSjMi"

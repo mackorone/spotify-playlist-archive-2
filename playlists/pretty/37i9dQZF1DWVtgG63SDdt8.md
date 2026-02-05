@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Strings & Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,016 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,046 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 64 | [Look Alike](https://open.spotify.com/track/3JN9QRleVihmVQ1i7iw8FK) | [Me’Kayla](https://open.spotify.com/artist/3AKhqrs0V0iRNBOjPKhi5z) | [Look Alike](https://open.spotify.com/album/1TEe3DYyAqPKO4UelUZJ4M) | 4:27 |
 | 65 | [Say The Name \(feat\. Anesha Birchett & Young Dro\) \- Remix](https://open.spotify.com/track/3iRMQRy03DYEWXVkbQ4BDh) | [Deitrick Haddon & Voices of Unity](https://open.spotify.com/artist/5zZlKIiS2kimwWToti9k5I), [Anesha Birchett](https://open.spotify.com/artist/590XkH4HuZ5QV3ug4J9uel), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Siege Monstracity](https://open.spotify.com/artist/1vcHP76I2Vh4V7H63kOzYB) | [Chain Breaker 2.5](https://open.spotify.com/album/7rqe0eP5p7Wl0c5p0KaUjO) | 4:22 |
 | 66 | [Unending Joy](https://open.spotify.com/track/5Ze3zGf8vy3KNI64MAyOXa) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Unending Joy](https://open.spotify.com/album/1JlSlgPAX5ES1G05LZJESr) | 9:45 |
-| 67 | [Boku](https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ada Ehi](https://open.spotify.com/artist/7ywbh2HXZmWVBFdmnNwYHh) | [God, In all Seasons](https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc) | 3:57 |
+| 67 | [Boku](https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [God, In all Seasons](https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc) | 3:57 |
 | 68 | [ROGIC](https://open.spotify.com/track/75HuzOo5GXHKPic7Gt16Ci) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ROGIC](https://open.spotify.com/album/6PiN5pM2VLtCSp3YF2yidb) | 3:30 |
 | 69 | [Adonai](https://open.spotify.com/track/34R7Mjmhcwjm17nE3gwV8A) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Adonai](https://open.spotify.com/album/7G2K58MbIu38eqVp2sasKz) | 2:49 |
 | 70 | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt) | 3:18 |

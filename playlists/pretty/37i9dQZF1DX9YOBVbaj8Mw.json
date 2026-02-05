@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19303,
+  "num_followers": 19307,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "REM",
-        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
-      },
-      "artists": [
-        {
-          "name": "Natalia Szroeder",
-          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
-        }
-      ],
-      "duration_ms": 202037,
-      "name": "Sama na planecie",
-      "url": "https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Himalaje",
         "url": "https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 207677,
       "name": "Himalaje",
       "url": "https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "REM",
+        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
+      },
+      "artists": [
+        {
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+        }
+      ],
+      "duration_ms": 202037,
+      "name": "Sama na planecie",
+      "url": "https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "REM",
-        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
-      },
-      "artists": [
-        {
-          "name": "Natalia Szroeder",
-          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
-        }
-      ],
-      "duration_ms": 197942,
-      "name": "P\u00f3\u0142noc",
-      "url": "https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
         "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 321506,
       "name": "Ch\u0142opcy",
       "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "REM",
+        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
+      },
+      "artists": [
+        {
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+        }
+      ],
+      "duration_ms": 197942,
+      "name": "P\u00f3\u0142noc",
+      "url": "https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Dziewczyna S\u0142o\u0144ca",
-        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
-      },
-      "artists": [
-        {
-          "name": "Anna Rusowicz",
-          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Tobie",
-      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Nie Ma Ziemi Nad Kujawy",
         "url": "https://open.spotify.com/album/3Yetr37XtgaMsCca678e0j"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 107826,
       "name": "Oberek Kujawski Ze Szwankowa",
       "url": "https://open.spotify.com/track/1dxEGtUNbugW6w4c1AXN1p"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Dziewczyna S\u0142o\u0144ca",
+        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
+      },
+      "artists": [
+        {
+          "name": "Anna Rusowicz",
+          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
+        }
+      ],
+      "duration_ms": 336253,
+      "name": "Tobie",
+      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Vanishing",
-        "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
-      },
-      "artists": [
-        {
-          "name": "Blindead 23",
-          "url": "https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J"
-        }
-      ],
-      "duration_ms": 510066,
-      "name": "Haunting",
-      "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
         "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
       },
@@ -1203,6 +1187,42 @@
       "duration_ms": 865922,
       "name": "Critique of Swing in Two Parts, Pt. 1",
       "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Vanishing",
+        "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
+      },
+      "artists": [
+        {
+          "name": "Blindead 23",
+          "url": "https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J"
+        }
+      ],
+      "duration_ms": 510066,
+      "name": "Haunting",
+      "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Universum",
+        "url": "https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu"
+      },
+      "artists": [
+        {
+          "name": "Dawid Lubowicz",
+          "url": "https://open.spotify.com/artist/2y6ItJI6R8TZ7DrDgotnpX"
+        },
+        {
+          "name": "Atom String Quartet",
+          "url": "https://open.spotify.com/artist/6el2MR6AwBlxpCZaqu0OY2"
+        }
+      ],
+      "duration_ms": 332013,
+      "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
+      "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1239,26 +1259,6 @@
       "duration_ms": 188187,
       "name": "Serbowie",
       "url": "https://open.spotify.com/track/6f4Z4mZA5XdO0DXZjoIxJc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Universum",
-        "url": "https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu"
-      },
-      "artists": [
-        {
-          "name": "Dawid Lubowicz",
-          "url": "https://open.spotify.com/artist/2y6ItJI6R8TZ7DrDgotnpX"
-        },
-        {
-          "name": "Atom String Quartet",
-          "url": "https://open.spotify.com/artist/6el2MR6AwBlxpCZaqu0OY2"
-        }
-      ],
-      "duration_ms": 332013,
-      "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
-      "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
     },
     {
       "added_at": "2025-04-06 08:27:45",

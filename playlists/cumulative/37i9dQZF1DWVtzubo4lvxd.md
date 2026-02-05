@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-320 songs - 12 hr 19 min
+321 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Istoria Mias Kalpikis Liras](https://open.spotify.com/track/56zxZc1luYs2HIXTkFGs05) | [Padma Purana](https://open.spotify.com/artist/2nebIURM77CcBY8Q5y187K) | [The Sketch](https://open.spotify.com/album/4YZ2pr5CNPPlX916nvUcnC) | 4:59 | 2022-04-15 | 2022-05-29 |
 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 | 2022-04-15 |  |
 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 | 2024-03-12 |  |
-| [its not the time](https://open.spotify.com/track/68cwRG1sfkHrQQinU9Ibv9) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [its not the time](https://open.spotify.com/album/0jp4ud99lCwQTBfHur3bXS) | 1:56 | 2024-03-12 |  |
+| [its not the time](https://open.spotify.com/track/68cwRG1sfkHrQQinU9Ibv9) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [its not the time](https://open.spotify.com/album/0jp4ud99lCwQTBfHur3bXS) | 1:56 | 2024-03-12 | 2026-02-05 |
 | [Jacaranda](https://open.spotify.com/track/6V8p59npenZZ2HaryaII9r) | [Lofi Coffee](https://open.spotify.com/artist/4lzccanVi9wOfGrXhRLlGY), [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Jacaranda](https://open.spotify.com/album/11KVHT49O592ahjmQ0yjL4) | 2:47 | 2024-03-12 | 2026-01-15 |
 | [Joan of Arc.](https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:58 | 2022-04-15 |  |
 | [jocelyn](https://open.spotify.com/track/0piDIO7lJLc007jn2DqPcF) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [longing for you](https://open.spotify.com/album/66uBHTMoJVpedbTq7jyU2M) | 1:13 | 2022-04-15 | 2024-03-13 |
@@ -212,6 +212,7 @@
 | [Puff Lah](https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:53 | 2022-04-15 |  |
 | [Rainy Sunset](https://open.spotify.com/track/25vxIGdd9SRtYCQGnTWXdu) | [Bhxa](https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4) | [Balcony Nights](https://open.spotify.com/album/5vcxv6HYrkhPaZxROaoomB) | 1:36 | 2022-04-15 | 2022-07-29 |
 | [Real Life](https://open.spotify.com/track/4kSWrE6OOHPJt4TizgkckZ) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Polo Beats](https://open.spotify.com/album/0aCbGwTjoC0h4F6SJN2OzE) | 1:38 | 2024-03-12 |  |
+| [reality](https://open.spotify.com/track/6eGpjRTgqSs8JfLPJcSSts) | [mr.neab](https://open.spotify.com/artist/2cZLcgAsOeknY8nJGwt5Bg) | [reality](https://open.spotify.com/album/7zjk5CmvoP6k8M17vOrSc6) | 2:01 | 2024-03-12 |  |
 | [reefers](https://open.spotify.com/track/3lf0ibMyyCIbV1iHAtNgn4) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [late night bumps, Vol\. 1](https://open.spotify.com/album/5HMngAXSRRcbc3wJstGpuV) | 1:15 | 2022-04-15 | 2022-11-20 |
 | [reunion](https://open.spotify.com/track/0TRS0L5H57ETh3S8hzrVrJ) | [Egger](https://open.spotify.com/artist/52VGhCTWuqf5fIdUqBtYkR), [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb) | [sunshine](https://open.spotify.com/album/2IwVdi0kbIlmkf16UpP71I) | 2:17 | 2022-04-15 | 2022-07-27 |
 | [ridley road](https://open.spotify.com/track/4F3obAUvUPgEmPWiFIaMvi) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [ridley road](https://open.spotify.com/album/06OqKg0tT2nX1oUqmbLVe6) | 2:24 | 2024-03-12 | 2025-09-12 |

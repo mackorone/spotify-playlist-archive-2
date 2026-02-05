@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 35999,
+  "num_followers": 36006,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX/pAAAAAAAu8oQKKTx8lKNKCqwUyzTX",
+  "snapshot_id": "aYE6gAAAAAC8tQ8XkOQDs3g0C7wF0wKR",
   "tracks": [
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 178160,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT"
+      "duration_ms": 165533,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/6M4rl0fdf1dQufWFWsFXNM"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 165533,
-      "name": "Here Again",
-      "url": "https://open.spotify.com/track/6M4rl0fdf1dQufWFWsFXNM"
+      "duration_ms": 178160,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scared of Myself",
-        "url": "https://open.spotify.com/album/6rHizPeJ2LhsHjCI6jv4Ha"
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/1xXwe8GRCA9xt18XDaEopd"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Scared of Myself",
-      "url": "https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe"
+      "duration_ms": 190873,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/43I6PQfwHbXMipL4mvb5Zf"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/1xXwe8GRCA9xt18XDaEopd"
+        "name": "Scared of Myself",
+        "url": "https://open.spotify.com/album/6rHizPeJ2LhsHjCI6jv4Ha"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 190873,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/43I6PQfwHbXMipL4mvb5Zf"
+      "duration_ms": 198400,
+      "name": "Scared of Myself",
+      "url": "https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe"
     },
     {
       "added_at": null,

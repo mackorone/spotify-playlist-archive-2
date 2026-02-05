@@ -31905,6 +31905,44 @@
     },
     {
       "album": {
+        "name": "YAYA (feat. Blueface & India Love) [SheMix]",
+        "url": "https://open.spotify.com/album/4DHNxaSLk2G15Pxlkgqs5O"
+      },
+      "artists": [
+        {
+          "name": "Compton Av",
+          "url": "https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5"
+        },
+        {
+          "name": "Steelz",
+          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
+        },
+        {
+          "name": "Natalie Nunn",
+          "url": "https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "India Love",
+          "url": "https://open.spotify.com/artist/1MPZNrquXblzv9Oc2TyhzG"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224081,
+      "name": "YAYA (feat. Blueface & India Love) - SheMix",
+      "url": "https://open.spotify.com/track/42t8jsXFmVTQGJWNjj98cR"
+    },
+    {
+      "album": {
         "name": "YAYA (Remix)",
         "url": "https://open.spotify.com/album/6AO2thq0bHuVb984p1DsYJ"
       },

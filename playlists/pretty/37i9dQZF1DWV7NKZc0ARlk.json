@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 261285,
+  "num_followers": 261313,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-09-12 18:56:37",
       "album": {
-        "name": "Ha-Ash \"En Vivo\"",
-        "url": "https://open.spotify.com/album/7AhdiG5tEKsD0b3G5VDdQY"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 329797,
-      "name": "Si T\u00fa No Vuelves (feat. Miguel Bos\u00e9) - En Vivo",
-      "url": "https://open.spotify.com/track/3IhRwU0NWvQp2tdTQ844fy"
-    },
-    {
-      "added_at": "2025-09-12 18:56:37",
-      "album": {
         "name": "Primera Fila",
         "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 221146,
       "name": "Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo",
       "url": "https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC"
+    },
+    {
+      "added_at": "2025-09-12 18:56:37",
+      "album": {
+        "name": "Ha-Ash \"En Vivo\"",
+        "url": "https://open.spotify.com/album/7AhdiG5tEKsD0b3G5VDdQY"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 329797,
+      "name": "Si T\u00fa No Vuelves (feat. Miguel Bos\u00e9) - En Vivo",
+      "url": "https://open.spotify.com/track/3IhRwU0NWvQp2tdTQ844fy"
     },
     {
       "added_at": "2025-09-12 18:56:37",

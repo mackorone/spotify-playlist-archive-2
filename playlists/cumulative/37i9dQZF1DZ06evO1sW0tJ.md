@@ -4,7 +4,7 @@
 
 > This is Clara Schumann\. The essential tracks, all in one playlist.
 
-72 songs - 5 hr 6 min
+73 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Quatre Pièces fugitives \(Nr 1 Larghetto\)](https://open.spotify.com/track/03dqMUnRqJEJLSSpwAoUC1) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC) | [Smooth Piano](https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw) | 3:06 | 2025-08-12 |  |
 | [Romance sans numéro d'opus](https://open.spotify.com/track/3lMTAVWatmWNlFFKdnuzL5) | [Pierre\-Alain Volondat](https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn), [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC) | [Clara et Robert Schumann, Romances, Variations, Grande sonate](https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1) | 6:12 | 2025-08-13 | 2025-08-15 |
 | [Romance, Op\. 21, No\. 1](https://open.spotify.com/track/1eaE50Xt2fF5XMKILqvkhk) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Micaela Gelius](https://open.spotify.com/artist/5EMwazxA60BV6WXbVdbM4q) | [Cool Classics](https://open.spotify.com/album/1YpocsSklI96xbJxmH8TYm) | 5:11 | 2025-08-12 | 2025-08-13 |
-| [Romance, Op\. 22: No\. 1, Andante Molto](https://open.spotify.com/track/1Pi4QDHUHRF53djA05AS1P) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 3:10 | 2025-10-14 |  |
+| [Romance, Op\. 22: No\. 1, Andante Molto](https://open.spotify.com/track/4Tz0FtkyqRLCwmSrrPgYQi) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Carl Schwarz](https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2) | [Eternal Clara](https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN) | 3:10 | 2026-02-05 |  |
+| [Romance, Op\. 22: No\. 1, Andante Molto](https://open.spotify.com/track/1Pi4QDHUHRF53djA05AS1P) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 3:10 | 2025-10-14 | 2026-02-05 |
 | [Romanze, Op\. 21, No\. 1](https://open.spotify.com/track/4WeMGXF0o9X29uIHFy1iSk) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Anna Lipiak](https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM) | [Female Power: Piano Works](https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ) | 5:08 | 2025-08-12 |  |
 | [Romanze: from Piano Concerto in A Minor Op.7](https://open.spotify.com/track/6rQdxlTHnxZAfxnIZwrVBb) | [Dominik Johnson](https://open.spotify.com/artist/7KLlPFabGUj3JxWj6JbfG5), [Daniela Kosinova](https://open.spotify.com/artist/3bH1p2Sa2lBOnWXeov6DoW), [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC) | [Regency](https://open.spotify.com/album/1g4Lw05FtjonIIylTggh8l) | 1:42 | 2025-08-12 |  |
 | [Romanzen, Op\. 22: I\. Andante molto](https://open.spotify.com/track/41tXCXTz9Wb3Cr6407EPZO) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Nils Mönkemeyer](https://open.spotify.com/artist/1skRNiuKG8WekYPdwttNZK), [Nicholas Rimmer](https://open.spotify.com/artist/6l5tQiJwUWI3G5ZvltMEwf) | [Kinder Klassik \- Instrumente](https://open.spotify.com/album/0MlNTzUfXJ3HfoMaw3Qglo) | 3:11 | 2025-08-12 | 2025-08-18 |

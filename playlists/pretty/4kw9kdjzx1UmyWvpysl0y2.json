@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124381,
+  "num_followers": 124376,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVFN3bEEvFwXh+cVReDtPludKxOsmr",
+  "snapshot_id": "AAAVFR386qTImXtnePXenb+UBE5R67M+",
   "tracks": [
+    {
+      "added_at": "2026-02-04 16:34:31",
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/3xjHrhvKu9iBpdWhVxX9Ui"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "LAUD",
+          "url": "https://open.spotify.com/artist/04kVAoKNfyQrbp3XqhAkOB"
+        }
+      ],
+      "duration_ms": 182758,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3nGa8a9cYTLCpLrhpoAOoV"
+    },
     {
       "added_at": "2026-02-03 14:49:19",
       "album": {

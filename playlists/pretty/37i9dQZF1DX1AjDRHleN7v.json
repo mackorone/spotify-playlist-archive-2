@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 413908,
+  "num_followers": 414033,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
+        "name": "OCANV (Cap. I)",
+        "url": "https://open.spotify.com/album/1HsTv5Cy3zBYcmHlh72LIQ"
+      },
+      "artists": [
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Onde Existe Amor",
+      "url": "https://open.spotify.com/track/6b6YVmtwd65R1HizYKKm1l"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
         "name": "vida leve",
         "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 156909,
       "name": "vida leve",
       "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
-        "name": "OCANV (Cap. I)",
-        "url": "https://open.spotify.com/album/1HsTv5Cy3zBYcmHlh72LIQ"
-      },
-      "artists": [
-        {
-          "name": "Kako",
-          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Onde Existe Amor",
-      "url": "https://open.spotify.com/track/6b6YVmtwd65R1HizYKKm1l"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Que seja um reggae (feat. Os Paralamas Do Sucesso)",
-        "url": "https://open.spotify.com/album/6wsQgv2V3kQ05UlhVNFnWE"
-      },
-      "artists": [
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        },
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        }
-      ],
-      "duration_ms": 249864,
-      "name": "Que seja um reggae - feat. Os Paralamas Do Sucesso",
-      "url": "https://open.spotify.com/track/3zd3n5iZXXcMZXWBh6Ibyr"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 190453,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Que seja um reggae (feat. Os Paralamas Do Sucesso)",
+        "url": "https://open.spotify.com/album/6wsQgv2V3kQ05UlhVNFnWE"
+      },
+      "artists": [
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        },
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "duration_ms": 249864,
+      "name": "Que seja um reggae - feat. Os Paralamas Do Sucesso",
+      "url": "https://open.spotify.com/track/3zd3n5iZXXcMZXWBh6Ibyr"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -1079,26 +1079,26 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Minha Varanda",
-        "url": "https://open.spotify.com/album/4MwXKFT82r7pVKp1ty3mCp"
+        "name": "Um Sinal",
+        "url": "https://open.spotify.com/album/0As3k5d0ljs7Mcy8cSdb09"
       },
       "artists": [
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "Andr\u00e9 Rios",
+          "url": "https://open.spotify.com/artist/23FxtHny3wE7UQrAAgAhS8"
         },
         {
-          "name": "NASRI",
-          "url": "https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz"
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1AN06k2GZImDBqRo4jWcAT"
         },
         {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+          "name": "Carlos Malta",
+          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
         }
       ],
-      "duration_ms": 140571,
-      "name": "Minha Varanda",
-      "url": "https://open.spotify.com/track/3haGgMWMiTeKIa1Ejeb9oc"
+      "duration_ms": 238227,
+      "name": "Um Sinal",
+      "url": "https://open.spotify.com/track/5hp0tAdwqnbB3zXVtY4Cfq"
     }
   ],
   "unique_name": "Praiana",

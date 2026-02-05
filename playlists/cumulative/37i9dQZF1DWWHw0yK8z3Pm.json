@@ -6232,7 +6232,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 254688,
       "name": "Knuckles",
       "url": "https://open.spotify.com/track/3KvkxLG3qIKnvRKsiBaiKl"
@@ -12014,6 +12014,24 @@
       "duration_ms": 291732,
       "name": "Write To Me",
       "url": "https://open.spotify.com/track/6v1pDnzoghdolKn8NBO8tH"
+    },
+    {
+      "album": {
+        "name": "Wrong Guy",
+        "url": "https://open.spotify.com/album/4QdPgscraOJxMYySFeOIoY"
+      },
+      "artists": [
+        {
+          "name": "The Sarandons",
+          "url": "https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190575,
+      "name": "Wrong Guy",
+      "url": "https://open.spotify.com/track/0nR7z3S16X1m7FZ0nblX3t"
     },
     {
       "album": {

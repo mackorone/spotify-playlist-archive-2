@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: LEX \*毎週更新
 
-2,237 songs - 4 day 16 hr 46 min
+2,238 songs - 4 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Assaji](https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori](https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde) | 2:10 | 2024-01-10 | 2024-02-21 |
 | [Assassin](https://open.spotify.com/track/6bCMGLL7p8RT64nK7IH7Tp) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Spliff & Magnum](https://open.spotify.com/album/1wyxTLi6qpcRjciyOB0bnI) | 2:37 | 2024-08-28 | 2024-11-15 |
 | [Assassin \- Remix](https://open.spotify.com/track/2yfiMKCJryhN7QMpJbVZvf) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [S.J.soldier](https://open.spotify.com/artist/0dFj1rvEIFdLUxWCiqkCTf), [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [Assassin \(feat\. S.J.soldier & Carz\) \[Remix\]](https://open.spotify.com/album/1AVLaWJ2CC1dWDKfOfsx7B) | 3:24 | 2025-04-22 | 2025-06-25 |
+| [At What Cost?](https://open.spotify.com/track/5yRYv9Is7cNfBPkjz91Fgo) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7), [Coldie](https://open.spotify.com/artist/33pU8axDaJ7vlfT9yUt1pk) | [At What Cost?](https://open.spotify.com/album/0VVOPPQyZ5Y6Xk6zRyJYSO) | 2:20 | 2026-02-04 |  |
 | [ATTENTION](https://open.spotify.com/track/1ocrIc0ammblLTOuHfXG3d) | [TAXON](https://open.spotify.com/artist/5P4QZuZGQD2FjvNF6lk49r), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ATTENTION](https://open.spotify.com/album/6yyYGRIhEHSd0RW8EU2dO0) | 3:06 | 2024-02-20 | 2024-03-21 |
 | [ATTENTION](https://open.spotify.com/track/6BKZksyx56fu08aIr57r2U) | [TAXON](https://open.spotify.com/artist/5P4QZuZGQD2FjvNF6lk49r), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ATTENTION](https://open.spotify.com/album/69hkeaytszlZEHuniaXeJH) | 3:06 | 2024-02-20 | 2024-02-22 |
 | [ATTM](https://open.spotify.com/track/1sDxuQ3G975pePaB0YYVsl) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [ATTM](https://open.spotify.com/album/2eXkcDZknmelQnJBvjuV0O) | 3:19 | 2025-06-05 | 2025-06-18 |
@@ -1402,7 +1403,7 @@
 | [POLAR EXPRESS](https://open.spotify.com/track/6kapbtuuYswF3f7Q1Dd4GB) | [泰斗 a.k.a\. 裂固](https://open.spotify.com/artist/2lcbUts5y9H3FpnOltRjVv), [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [POLAR EXPRESS](https://open.spotify.com/album/1m4qHR98OzeoOKQpd5G3O2) | 2:48 | 2024-05-31 | 2024-07-05 |
 | [Pop Out](https://open.spotify.com/track/3XgOkd7NilIAulPKkFnM2u) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq), [KESSO](https://open.spotify.com/artist/6DB4aM9HCe0puiLQT1xIWh), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [Dear Mama](https://open.spotify.com/album/1MX2qoN0AZE6hOlUuxpgML) | 2:44 | 2025-02-18 | 2025-03-19 |
 | [Popcorn and Coke](https://open.spotify.com/track/7tAOf5J6GJo1KFcszKgQ1c) | [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ) | [Shaped Canvas 3](https://open.spotify.com/album/6Pl3PiHUB4elhbqXPl4Brb) | 2:37 | 2023-10-24 | 2023-11-09 |
-| [Post Poet](https://open.spotify.com/track/3iNf4RBXuPJ9suCkxzJ0MO) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [BERLINETTA BOY NEEDS TOO MUCH MONEY](https://open.spotify.com/artist/0VSDjQze2bHTTfAVjgzIgk) | [](https://open.spotify.com/album/null) | 1:56 | 2026-02-03 |  |
+| [Post Poet](https://open.spotify.com/track/3iNf4RBXuPJ9suCkxzJ0MO) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [BERLINETTA BOY NEEDS TOO MUCH MONEY](https://open.spotify.com/artist/0VSDjQze2bHTTfAVjgzIgk) | [Post Poet](https://open.spotify.com/album/4b7k0gx2k2ATNPKIxwBKvg) | 1:56 | 2026-02-03 |  |
 | [Practice](https://open.spotify.com/track/50bIuo6l6vXbdd0tQPmVK7) | [Daz](https://open.spotify.com/artist/7fG0HLe8Wy1jUNIqI6FDgE), [me2](https://open.spotify.com/artist/1bLpAMszAGByoGRRVdZsuh), [poivre](https://open.spotify.com/artist/6HVxJSc29cidSh4dmntzCf) | [Practice](https://open.spotify.com/album/7MMEOnxiXdFIbq7Fn8Ini2) | 3:52 | 2024-12-10 | 2024-12-25 |
 | [PRADA](https://open.spotify.com/track/64gcGnra2d9fIgtfeIcRiv) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [Blood & Bones \(BLOOD\)](https://open.spotify.com/album/2CyunDLz6Yge8ocHHZi4nN) | 3:04 | 2023-12-18 | 2024-03-01 |
 | [Prayer](https://open.spotify.com/track/5VmpqVXm9bc9o2jBmo5iGM) | [MILES WORD](https://open.spotify.com/artist/4zGeEscPCPkHGctsIivzOz), [田我流](https://open.spotify.com/artist/3FmKOkRd5a32SyZqDCKwBv), [Senninsho](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD) | [This iz...](https://open.spotify.com/album/5Q3yiyosaEECeOQbbBVbzq) | 4:30 | 2025-07-15 | 2025-08-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Merveille
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,369 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,385 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 28 | [Meilleurs](https://open.spotify.com/track/7gJljj1TljM6tc860T9yai) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Jeune prince](https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh) | 2:56 |
 | 29 | [Sorry](https://open.spotify.com/track/6Yoxcu3q5HJf0Vt0cO9JZ7) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [Sorry](https://open.spotify.com/album/4mH41orxWy7tWPqpgyjckC) | 3:10 |
 | 30 | [T'as changé](https://open.spotify.com/track/6VtdmXixidTHxhZEq5DR0y) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 2:30 |
-| 31 | [Les Mots](https://open.spotify.com/track/5liA8qCrPwHJklLDy0RMBi) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Les Mots](https://open.spotify.com/album/6CYMffTfmeFxEewRVKptDF) | 3:26 |
+| 31 | [Les mots](https://open.spotify.com/track/5liA8qCrPwHJklLDy0RMBi) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Les mots](https://open.spotify.com/album/6CYMffTfmeFxEewRVKptDF) | 3:26 |
 | 32 | [NO STRESS](https://open.spotify.com/track/6XfYPlcJGR48xgye2kSOmw) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [NO STRESS](https://open.spotify.com/album/1Zgq9rZDRCkWZX9JZq98BJ) | 2:33 |
 | 33 | [Cash](https://open.spotify.com/track/2cjFC5JLBSwAx5iHiJ71HI) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Cash](https://open.spotify.com/album/6LGwndM2PTIdnBv1Z5u6Pc) | 4:10 |
 | 34 | [Miel \(feat\. Lisandro Cuxi\)](https://open.spotify.com/track/5s0A1dh578tudMzR8mNnfU) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Miel \(feat\. Lisandro Cuxi\)](https://open.spotify.com/album/76ewade2CAsGJbWeKVj9LB) | 2:26 |

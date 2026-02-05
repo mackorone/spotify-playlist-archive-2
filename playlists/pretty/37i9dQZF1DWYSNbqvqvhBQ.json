@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe tijdloze muziek. Cover: Bruce Springsteen",
-  "num_followers": 452029,
+  "num_followers": 452003,
   "original_name": "Altijd Goed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGSB3Lz1KopY+cMO0cZ+kpOiYYqQ",
+  "snapshot_id": "AAAAAKfspYjXHUtzgqzQKoxA/k1waj5Y",
   "tracks": [
     {
       "added_at": "2026-02-03 13:25:32",
@@ -59,22 +59,22 @@
     {
       "added_at": "2026-02-03 13:25:32",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i"
+        "name": "Don\u2019t Be Silly",
+        "url": "https://open.spotify.com/album/0V64voJRjQ3zboCinONl2c"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Wodan Boys",
+          "url": "https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr"
         },
         {
-          "name": "War Child Records",
-          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+          "name": "Barry Hay",
+          "url": "https://open.spotify.com/artist/48ys6hjOjK51qyn2W0QN2y"
         }
       ],
-      "duration_ms": 259495,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB"
+      "duration_ms": 166810,
+      "name": "Don\u2019t Be Silly",
+      "url": "https://open.spotify.com/track/5HjaxbPAq0UYRjAY9gZEcx"
     },
     {
       "added_at": "2026-02-03 13:25:32",
@@ -95,18 +95,22 @@
     {
       "added_at": "2026-02-03 13:25:32",
       "album": {
-        "name": "Youman",
-        "url": "https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv"
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/52V9qRqE73KZRWJaObBi9m"
       },
       "artists": [
         {
-          "name": "Hiqpy",
-          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 216128,
-      "name": "Youman",
-      "url": "https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu"
+      "duration_ms": 183809,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/4k95xD9yCyyABh7CDG4U1X"
     },
     {
       "added_at": "2026-02-03 13:25:32",
@@ -131,6 +135,22 @@
     {
       "added_at": "2026-02-03 13:25:32",
       "album": {
+        "name": "Youman",
+        "url": "https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "duration_ms": 216128,
+      "name": "Youman",
+      "url": "https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu"
+    },
+    {
+      "added_at": "2026-02-03 13:25:32",
+      "album": {
         "name": "I Just Might",
         "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
       },
@@ -143,6 +163,26 @@
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+    },
+    {
+      "added_at": "2026-02-03 13:25:32",
+      "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "duration_ms": 259495,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB"
     },
     {
       "added_at": "2026-02-03 13:25:32",
@@ -175,26 +215,6 @@
       "duration_ms": 179086,
       "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
-    },
-    {
-      "added_at": "2026-02-03 13:25:32",
-      "album": {
-        "name": "Don\u2019t Be Silly",
-        "url": "https://open.spotify.com/album/0V64voJRjQ3zboCinONl2c"
-      },
-      "artists": [
-        {
-          "name": "Wodan Boys",
-          "url": "https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr"
-        },
-        {
-          "name": "Barry Hay",
-          "url": "https://open.spotify.com/artist/48ys6hjOjK51qyn2W0QN2y"
-        }
-      ],
-      "duration_ms": 166810,
-      "name": "Don\u2019t Be Silly",
-      "url": "https://open.spotify.com/track/5HjaxbPAq0UYRjAY9gZEcx"
     },
     {
       "added_at": "2026-02-03 13:25:32",
@@ -279,26 +299,6 @@
       "duration_ms": 420633,
       "name": "How My Heart Was Won - Live in De Kuip",
       "url": "https://open.spotify.com/track/6oTw67H9zdQZE8RmTDJS4X"
-    },
-    {
-      "added_at": "2026-02-03 13:25:32",
-      "album": {
-        "name": "Somebody Like You",
-        "url": "https://open.spotify.com/album/52V9qRqE73KZRWJaObBi9m"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 183809,
-      "name": "Somebody Like You",
-      "url": "https://open.spotify.com/track/4k95xD9yCyyABh7CDG4U1X"
     },
     {
       "added_at": "2026-02-03 13:25:32",

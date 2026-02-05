@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 派偉俊 \(Patrick Brasca\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,019 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,033 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 35 | [天使借的溫柔](https://open.spotify.com/track/3ITUmRLMjxf3ZqCPSDD2gk) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [天使借的溫柔](https://open.spotify.com/album/12zyWwLiTBobJgGvPw462K) | 3:28 |
 | 36 | [那句我沒說](https://open.spotify.com/track/1ouAsmnoogYMfsoPQE9Jt1) | [黄俊荣 Amsden](https://open.spotify.com/artist/1DYqdyhbVTiFmGd70wMl1m), [小鼠](https://open.spotify.com/artist/3f6QoiFQMluzCKHSZlH7JX) | [那句我沒說](https://open.spotify.com/album/0YjgCCR4KxP2Og5QVsaM5S) | 3:02 |
 | 37 | [一夜一夜一夜](https://open.spotify.com/track/3djgonrherZ9t3Wwih6n0Q) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [一夜一夜一夜](https://open.spotify.com/album/509hTNcF5mythficxIwadm) | 4:01 |
-| 38 | [起風的時候](https://open.spotify.com/track/4REfb6i8f1LWGa1BcxZ5Hk) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [羊駝小姐](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA) | [薯條雷鬼](https://open.spotify.com/album/1g9Xg2H0qQxs0jY5uG3XVe) | 3:42 |
+| 38 | [起風的時候](https://open.spotify.com/track/4REfb6i8f1LWGa1BcxZ5Hk) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [Malpaca](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA) | [薯條雷鬼](https://open.spotify.com/album/1g9Xg2H0qQxs0jY5uG3XVe) | 3:42 |
 | 39 | [年少的我們永遠輕狂](https://open.spotify.com/track/0aVuYhu00PLJiLaK3FbxR9) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [願你愛自己，像我愛你一樣](https://open.spotify.com/album/4JLYwZPpbZandgmxR4GYYT) | 4:31 |
 | 40 | [閉上眼睛一下下](https://open.spotify.com/track/0tbWLJP4jJJ96SquXRofpn) | [someshiit 山姆](https://open.spotify.com/artist/1Se0FtmWSFmL81n85repGg) | [閉上眼睛一下下](https://open.spotify.com/album/1NKlq0zHMe49yy0LAckN76) | 3:42 |
 | 41 | [我是真的愛你 \- 滾石撞樂隊2 \(原唱:李宗盛\)](https://open.spotify.com/track/07ddfCmFh0ahh10rq9CKzb) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [滾石撞樂隊2 \- 我是真的愛你](https://open.spotify.com/album/2cqzxCdEs1iX6aC5q7nXas) | 4:11 |

@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 16476,
+  "num_followers": 16482,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/17NTyKH575Q3QWrRq64MfX"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2024-10-24 20:40:32",
       "album": {
-        "name": "Masana Temples",
-        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
+        "name": "Rose Main Reading Room",
+        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
       },
       "artists": [
         {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
         }
       ],
-      "duration_ms": 193530,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX"
+      "duration_ms": 219562,
+      "name": "Lie In the Gutter",
+      "url": "https://open.spotify.com/track/0E6iIMjKE4h1y9jApdHcjM"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "With Dim Light",
-        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
+        "name": "Masana Temples",
+        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
       "artists": [
         {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
         }
       ],
-      "duration_ms": 346883,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
+      "duration_ms": 193530,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -281,20 +281,20 @@
       "url": "https://open.spotify.com/track/4FnRRY3oEAor3gMEvsuBrp"
     },
     {
-      "added_at": "2024-10-24 20:40:32",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Rose Main Reading Room",
-        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
+        "name": "With Dim Light",
+        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
       },
       "artists": [
         {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
         }
       ],
-      "duration_ms": 219562,
-      "name": "Lie In the Gutter",
-      "url": "https://open.spotify.com/track/0E6iIMjKE4h1y9jApdHcjM"
+      "duration_ms": 346883,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/6UZipqSMamNtONEnVYRN88"
     },
     {
-      "added_at": "2024-02-23 00:15:43",
-      "album": {
-        "name": "PHASOR",
-        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
-    },
-    {
       "added_at": "2022-03-18 05:36:55",
       "album": {
         "name": "Osa Polar",
@@ -859,6 +843,22 @@
       "duration_ms": 282169,
       "name": "Osa Polar",
       "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
+    },
+    {
+      "added_at": "2024-02-23 00:15:43",
+      "album": {
+        "name": "PHASOR",
+        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
-        "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 646960,
-      "name": "Pass The Hatchet, I Think I'm Goodkind",
-      "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Transparent Things",
         "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 250029,
       "name": "Conductor 71",
       "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
+        "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 646960,
+      "name": "Pass The Hatchet, I Think I'm Goodkind",
+      "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Find The Sun",
+        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
+      },
+      "artists": [
+        {
+          "name": "Deradoorian",
+          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
+        }
+      ],
+      "duration_ms": 426342,
+      "name": "Saturnine Night",
+      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Gnod Drop Out With White Hills II",
         "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 661120,
       "name": "Drop Out",
       "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Find The Sun",
-        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
-      },
-      "artists": [
-        {
-          "name": "Deradoorian",
-          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
-        }
-      ],
-      "duration_ms": 426342,
-      "name": "Saturnine Night",
-      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
-    },
-    {
       "added_at": "2023-04-07 06:00:00",
       "album": {
         "name": "Ficci\u00f3n",
@@ -1315,6 +1299,22 @@
       "duration_ms": 414222,
       "name": "Sunrise, Sunset",
       "url": "https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc"
+    },
+    {
+      "added_at": "2023-03-23 21:21:38",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2023-02-17 02:03:26",
@@ -1365,20 +1365,20 @@
       "url": "https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK"
     },
     {
-      "added_at": "2023-01-12 03:40:17",
+      "added_at": "2022-08-19 02:50:25",
       "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+        "name": "El Veh\u00edculo de las Transformaciones",
+        "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
       },
       "artists": [
         {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
         }
       ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+      "duration_ms": 352542,
+      "name": "El Veh\u00edculo de las Transformaciones",
+      "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1411,22 +1411,6 @@
       "duration_ms": 300003,
       "name": "Otto",
       "url": "https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK"
-    },
-    {
-      "added_at": "2022-08-19 02:50:25",
-      "album": {
-        "name": "El Veh\u00edculo de las Transformaciones",
-        "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
-      },
-      "artists": [
-        {
-          "name": "Mirror Revelations",
-          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
-        }
-      ],
-      "duration_ms": 352542,
-      "name": "El Veh\u00edculo de las Transformaciones",
-      "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
     },
     {
       "added_at": "2023-01-25 02:05:47",
@@ -1479,6 +1463,22 @@
       "duration_ms": 246861,
       "name": "Ship - EP Version",
       "url": "https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm"
+    },
+    {
+      "added_at": "2023-01-12 03:40:17",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Lost Worker Bee - EP",
-        "url": "https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko"
-      },
-      "artists": [
-        {
-          "name": "Elbow",
-          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
-        }
-      ],
-      "duration_ms": 387383,
-      "name": "Roll Call",
-      "url": "https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Feather Float",
         "url": "https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 465066,
       "name": "Be Sure To Loop",
       "url": "https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Lost Worker Bee - EP",
+        "url": "https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "duration_ms": 387383,
+      "name": "Roll Call",
+      "url": "https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1613,20 +1613,20 @@
       "url": "https://open.spotify.com/track/563KxKAXHndNrUf5mv3vSY"
     },
     {
-      "added_at": "2022-03-29 02:06:14",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+        "name": "Vol. One",
+        "url": "https://open.spotify.com/album/3oTHbe3UsgjOdI2QTpfQhw"
       },
       "artists": [
         {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+          "name": "Echoboy",
+          "url": "https://open.spotify.com/artist/1dW6E3Ffnkng9MJjKlwhk6"
         }
       ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
+      "duration_ms": 304173,
+      "name": "Kit and Holly",
+      "url": "https://open.spotify.com/track/76trKReLczdWPVRfKsJIcb"
     }
   ],
   "unique_name": "Krautrock",

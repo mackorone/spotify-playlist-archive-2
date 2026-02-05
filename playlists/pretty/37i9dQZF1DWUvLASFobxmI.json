@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Duelo en portada.",
-  "num_followers": 526033,
+  "num_followers": 526093,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
+        "name": "Supercargada",
+        "url": "https://open.spotify.com/album/2MhwcUwJ8ovTDXcON7Upz1"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 175616,
+      "name": "Supercargada",
+      "url": "https://open.spotify.com/track/6SiAlj1pGTYSnXuKlLCcZd"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
         "name": "Dueles",
         "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 175375,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
-        "name": "Supercargada",
-        "url": "https://open.spotify.com/album/2MhwcUwJ8ovTDXcON7Upz1"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 175616,
-      "name": "Supercargada",
-      "url": "https://open.spotify.com/track/6SiAlj1pGTYSnXuKlLCcZd"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -487,26 +487,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "Pongase Bien Chula",
-        "url": "https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Pongase Bien Chula",
-      "url": "https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "Confidencial",
         "url": "https://open.spotify.com/album/3Dv9lxsXG7vrlNrOVLvNgB"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 179840,
       "name": "Prision De Amor",
       "url": "https://open.spotify.com/track/1dn9QUFZYRdBJG4wVQs1rG"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "Pongase Bien Chula",
+        "url": "https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Pongase Bien Chula",
+      "url": "https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
+        "name": "Gracias Por Estar Aqu\u00ed Vol. 4",
+        "url": "https://open.spotify.com/album/1SMWGZmsySxBLIDRb1eQ4u"
+      },
+      "artists": [
+        {
+          "name": "La Novedad Norte\u00f1a de Israel Leyva",
+          "url": "https://open.spotify.com/artist/3QtJuj3Rl1hzwue4LOWPgh"
+        }
+      ],
+      "duration_ms": 188744,
+      "name": "Los Besos No Se Piden",
+      "url": "https://open.spotify.com/track/09PLQwCtRhJRT93pCw73Bg"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
         "name": "Mis Zapatos",
         "url": "https://open.spotify.com/album/0KHNhi6FluRfYZ1zmk1yiI"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 185142,
       "name": "Mis Zapatos",
       "url": "https://open.spotify.com/track/5KJB6zKsBwk0xg49hPVWJW"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
-        "name": "Gracias Por Estar Aqu\u00ed Vol. 4",
-        "url": "https://open.spotify.com/album/1SMWGZmsySxBLIDRb1eQ4u"
-      },
-      "artists": [
-        {
-          "name": "La Novedad Norte\u00f1a de Israel Leyva",
-          "url": "https://open.spotify.com/artist/3QtJuj3Rl1hzwue4LOWPgh"
-        }
-      ],
-      "duration_ms": 188744,
-      "name": "Los Besos No Se Piden",
-      "url": "https://open.spotify.com/track/09PLQwCtRhJRT93pCw73Bg"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "Pase y Pase (En Vivo)",
-        "url": "https://open.spotify.com/album/255bQQt1qMaS7x44hXw6pW"
-      },
-      "artists": [
-        {
-          "name": "Israel Morales",
-          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
-        },
-        {
-          "name": "El Angel del Corrido y Sus Plebes",
-          "url": "https://open.spotify.com/artist/50PeQKjlKXNr4yui6TQm49"
-        }
-      ],
-      "duration_ms": 153733,
-      "name": "Pase y Pase - En Vivo",
-      "url": "https://open.spotify.com/track/1NVVvyIakIXkQQFeQkbL54"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "Que Viva El Amor",
         "url": "https://open.spotify.com/album/6G0mgUaqGHcBzAoZZVj6r8"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 167402,
       "name": "Mejor Que Ayer",
       "url": "https://open.spotify.com/track/77R8HuQqh7F6CI9p2n1UCF"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "Pase y Pase (En Vivo)",
+        "url": "https://open.spotify.com/album/255bQQt1qMaS7x44hXw6pW"
+      },
+      "artists": [
+        {
+          "name": "Israel Morales",
+          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+        },
+        {
+          "name": "El Angel del Corrido y Sus Plebes",
+          "url": "https://open.spotify.com/artist/50PeQKjlKXNr4yui6TQm49"
+        }
+      ],
+      "duration_ms": 153733,
+      "name": "Pase y Pase - En Vivo",
+      "url": "https://open.spotify.com/track/1NVVvyIakIXkQQFeQkbL54"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "PASAJES",
-        "url": "https://open.spotify.com/album/0C3Z053f7M8rXDTvP4VHiE"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 175503,
-      "name": "No Te Entra El Hacha",
-      "url": "https://open.spotify.com/track/72TAzFA9XMbpEuzynFbyMt"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "\u00bfCon Qu\u00e9 Coraz\u00f3n?",
         "url": "https://open.spotify.com/album/2rkBvFtZtiTUkRQq1DMVs3"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 191365,
       "name": "\u00bfCon Qu\u00e9 Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/7EPqGwFErwo8Phwt1U9P9v"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "PASAJES",
+        "url": "https://open.spotify.com/album/0C3Z053f7M8rXDTvP4VHiE"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 175503,
+      "name": "No Te Entra El Hacha",
+      "url": "https://open.spotify.com/track/72TAzFA9XMbpEuzynFbyMt"
     },
     {
       "added_at": "2026-01-23 06:00:06",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-01-23 06:00:06",
       "album": {
-        "name": "Mi Forma De Sentir",
-        "url": "https://open.spotify.com/album/6KStBQbopuPfuqyOE6VWQE"
-      },
-      "artists": [
-        {
-          "name": "Los Leones Del Norte",
-          "url": "https://open.spotify.com/artist/3S14o1EzKtO0qOJiUQjbTS"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "Mi Forma De Sentir",
-      "url": "https://open.spotify.com/track/5mttD8KWLIfBbxsQoCoYsK"
-    },
-    {
-      "added_at": "2026-01-23 06:00:06",
-      "album": {
         "name": "A Donde Vayas (En vivo, Auditorio Pabell\u00f3n M, 2023, Monterrey, N.L)",
         "url": "https://open.spotify.com/album/1VWezWQmRnGYdZhhDpES5G"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 222922,
       "name": "A Donde Vayas - En vivo, Auditorio Pabell\u00f3n M, 2023, Monterrey, N.L",
       "url": "https://open.spotify.com/track/7oktF34XozdYCDoaEbz6Jx"
+    },
+    {
+      "added_at": "2026-01-23 06:00:06",
+      "album": {
+        "name": "Mi Forma De Sentir",
+        "url": "https://open.spotify.com/album/6KStBQbopuPfuqyOE6VWQE"
+      },
+      "artists": [
+        {
+          "name": "Los Leones Del Norte",
+          "url": "https://open.spotify.com/artist/3S14o1EzKtO0qOJiUQjbTS"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/5mttD8KWLIfBbxsQoCoYsK"
     },
     {
       "added_at": "2026-01-23 06:00:06",

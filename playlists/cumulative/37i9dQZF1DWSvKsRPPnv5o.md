@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Kendrick Lamar
 
-1,503 songs - 2 day 21 hr 55 min
+1,504 songs - 2 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1494,6 +1494,7 @@
 | [Yacht Master](https://open.spotify.com/track/4RJTYHKzXzbKh0qjlq7Lpf) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Yacht Master](https://open.spotify.com/album/6ZwOCnCmnpbuDuySDiXx81) | 2:11 | 2024-03-29 | 2024-05-25 |
 | [YANKIN!](https://open.spotify.com/track/7jICgMZ4vEkAirE1gxMMZm) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [D\-LO](https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Raymon Marco](https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb) | [YANKIN!](https://open.spotify.com/album/4UzCUrPGInWVchMROi7XEV) | 3:58 | 2024-07-05 | 2024-07-13 |
 | [YAYA](https://open.spotify.com/track/4gkmGJEVKq2h1yFmsTsVd0) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [YAYA](https://open.spotify.com/album/1zPw3d7sGTpa1qCmwAuoSw) | 2:27 | 2025-08-29 | 2025-12-06 |
+| [YAYA \(feat\. Blueface & India Love\) \- SheMix](https://open.spotify.com/track/42t8jsXFmVTQGJWNjj98cR) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [Natalie Nunn](https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [India Love](https://open.spotify.com/artist/1MPZNrquXblzv9Oc2TyhzG) | [YAYA \(feat\. Blueface & India Love\) \[SheMix\]](https://open.spotify.com/album/4DHNxaSLk2G15Pxlkgqs5O) | 3:44 | 2026-02-04 |  |
 | [YAYA \- Remix](https://open.spotify.com/track/6qHrLC17ZY2ZA6b7udhPps) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [YAYA \(Remix\)](https://open.spotify.com/album/6AO2thq0bHuVb984p1DsYJ) | 3:14 | 2025-12-05 |  |
 | [Yaya Vs Everybody](https://open.spotify.com/track/3l4eovBIZQSaSzYXf1zcDR) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Yaya Vs Everybody](https://open.spotify.com/album/5F7QHJBaIAuePW2OrRK3Zw) | 2:40 | 2025-01-24 | 2025-02-15 |
 | [Yea Yea](https://open.spotify.com/track/68lvLHNsJlCLAnrskbell4) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Tha Language](https://open.spotify.com/album/1eR7AfJfPEsLTnkpkTEoi8) | 3:12 | 2025-07-11 | 2025-11-29 |

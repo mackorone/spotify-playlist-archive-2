@@ -1,13 +1,29 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Mackeeper\n",
-  "num_followers": 254388,
+  "num_followers": 254414,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADcTDdrzzCwaW5d1pX3SCJSfMU5h",
+  "snapshot_id": "AAAAAE2vHe//EKf4r9FwjaPy4aHnMvG+",
   "tracks": [
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "NO LOLITA SH!T (EDIT)",
+        "url": "https://open.spotify.com/album/27e94HnBZO63QD9ZfzXe7a"
+      },
+      "artists": [
+        {
+          "name": "Veronica Everheart",
+          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
+        }
+      ],
+      "duration_ms": 174740,
+      "name": "NO LOLITA SH!T - EDIT",
+      "url": "https://open.spotify.com/track/0bppglsr8SfwaYt1FI4L4v"
+    },
     {
       "added_at": "2026-01-28 17:00:07",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 225477,
       "name": "Kiss&Tell",
       "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "Even",
+        "url": "https://open.spotify.com/album/2MHR4XQoRSY0palnrOdMWr"
+      },
+      "artists": [
+        {
+          "name": "Saburnia",
+          "url": "https://open.spotify.com/artist/3uW5Tz5SFAZuae3LdWSfhQ"
+        }
+      ],
+      "duration_ms": 165629,
+      "name": "Even",
+      "url": "https://open.spotify.com/track/36vGZ3MJUeXWHgmLT99w48"
     },
     {
       "added_at": "2026-01-28 17:00:07",
@@ -41,6 +73,86 @@
       "url": "https://open.spotify.com/track/27EndTXJMq8cxMbqAGtCuR"
     },
     {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "What Do They See",
+        "url": "https://open.spotify.com/album/1zOVu4GpQZdDwEPrfoapgW"
+      },
+      "artists": [
+        {
+          "name": "Yes Ma'am",
+          "url": "https://open.spotify.com/artist/5mVfHZc8vQGl1r5p2QDNuD"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Watching",
+      "url": "https://open.spotify.com/track/35NqFBeUgIcB651JQ22PYU"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "Impaler",
+        "url": "https://open.spotify.com/album/0C5OtavRdxSTs0eReaFzgW"
+      },
+      "artists": [
+        {
+          "name": "Rosacea boy",
+          "url": "https://open.spotify.com/artist/61YfdcpPNccLF3vgbHKKj1"
+        }
+      ],
+      "duration_ms": 205766,
+      "name": "Impaler",
+      "url": "https://open.spotify.com/track/12FjzonRpdzyEKV4r2ZZOO"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "Overspill",
+        "url": "https://open.spotify.com/album/1r9J072p60RejqZEVbeI6e"
+      },
+      "artists": [
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 182745,
+      "name": "Overspill",
+      "url": "https://open.spotify.com/track/49nB9OaFviDvPRA4gc9VKE"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "MARIGOLD",
+        "url": "https://open.spotify.com/album/1LfD6ontgCq0j9NJ9vMhc5"
+      },
+      "artists": [
+        {
+          "name": "Little Dog Star",
+          "url": "https://open.spotify.com/artist/2DayGMoy8DCtrJpBq8p0PH"
+        }
+      ],
+      "duration_ms": 180832,
+      "name": "MARIGOLD",
+      "url": "https://open.spotify.com/track/7yRTBRlM4kW0FOsEJFRs0n"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "All I Do",
+        "url": "https://open.spotify.com/album/2VVdUACeHgV0We2bMWObQn"
+      },
+      "artists": [
+        {
+          "name": "Baby Smith",
+          "url": "https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932"
+        }
+      ],
+      "duration_ms": 209418,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/07753okQq77o7gtEAC9LNm"
+    },
+    {
       "added_at": "2026-01-30 18:49:04",
       "album": {
         "name": "LEGACY",
@@ -55,6 +167,42 @@
       "duration_ms": 134117,
       "name": "LEGACY",
       "url": "https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "AQUA-VISION",
+        "url": "https://open.spotify.com/album/6W7047CNWGgWmHHCNe6hh0"
+      },
+      "artists": [
+        {
+          "name": "Kuomo",
+          "url": "https://open.spotify.com/artist/3ETRyR7jFwyWfRT18A3qm4"
+        }
+      ],
+      "duration_ms": 128360,
+      "name": "BLINDED",
+      "url": "https://open.spotify.com/track/4BjZJvjU8KAvOKlhjT0d3Q"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/02EJfVkkteoiBr57ddPjed"
+      },
+      "artists": [
+        {
+          "name": "Immaterialize",
+          "url": "https://open.spotify.com/artist/6fpB62JZ8hQXbUYzZst0by"
+        },
+        {
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+        }
+      ],
+      "duration_ms": 240775,
+      "name": "Everything But Myself",
+      "url": "https://open.spotify.com/track/7yXxQ1fi5jtoDgElHzkwBk"
     },
     {
       "added_at": "2026-01-28 17:00:07",
@@ -93,6 +241,38 @@
       "url": "https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R"
     },
     {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "Where To?",
+        "url": "https://open.spotify.com/album/56sUoj0gY6y7ZgyQtMYV2u"
+      },
+      "artists": [
+        {
+          "name": "Michelle Blades",
+          "url": "https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Dear Friend",
+      "url": "https://open.spotify.com/track/7u3Ts1PL8rZyKW4pBAP7G5"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "Faded Rose",
+        "url": "https://open.spotify.com/album/7icUm5JO3OqOzNXSRPMRJw"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 241488,
+      "name": "Faded Rose",
+      "url": "https://open.spotify.com/track/6WhmOQNVS9MHcUa6kc1nxO"
+    },
+    {
       "added_at": "2026-01-21 17:00:04",
       "album": {
         "name": "When england comes",
@@ -107,38 +287,6 @@
       "duration_ms": 172000,
       "name": "When england comes",
       "url": "https://open.spotify.com/track/2TcUaZUxjRv2Iwo0BVhKSF"
-    },
-    {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/06PUnJyQYyhVD8zxBesltR"
-      },
-      "artists": [
-        {
-          "name": "Freddie Perfect",
-          "url": "https://open.spotify.com/artist/52dKvcWBo89XwpOKcoDCJW"
-        }
-      ],
-      "duration_ms": 196861,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/3ioWK5a9iVHOfcOnELrdWV"
-    },
-    {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/26rQT8rF76BUqddeqISZ74"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 200275,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/5qmASqXmHpe3dDQPhigjC4"
     },
     {
       "added_at": "2026-01-21 17:00:04",
@@ -171,6 +319,54 @@
       "duration_ms": 240752,
       "name": "Beadie",
       "url": "https://open.spotify.com/track/2epCOFnQDllhDFAaxO3mx2"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "Sunlight Echoes",
+        "url": "https://open.spotify.com/album/4jHGgkjeyoEF5My7OLhXhB"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "Heat Of The Summer",
+      "url": "https://open.spotify.com/track/4E54f8H6e8WzE6Q2KEqVsD"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/06PUnJyQYyhVD8zxBesltR"
+      },
+      "artists": [
+        {
+          "name": "Freddie Perfect",
+          "url": "https://open.spotify.com/artist/52dKvcWBo89XwpOKcoDCJW"
+        }
+      ],
+      "duration_ms": 196861,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/3ioWK5a9iVHOfcOnELrdWV"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/26rQT8rF76BUqddeqISZ74"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 200275,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/5qmASqXmHpe3dDQPhigjC4"
     },
     {
       "added_at": "2026-01-28 17:00:07",

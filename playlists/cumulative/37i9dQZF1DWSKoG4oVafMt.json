@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 137684,
       "name": "Bande Banjo",
       "url": "https://open.spotify.com/track/3XcS6alWOBfANFmLdm6Sah"
@@ -2314,7 +2314,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 184390,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/0HO36KbS8PQC1WAlLC36Ot"
@@ -21907,6 +21907,24 @@
     },
     {
       "album": {
+        "name": "Tere Layi",
+        "url": "https://open.spotify.com/album/3FMJraUH21tY0jTbNdlHP9"
+      },
+      "artists": [
+        {
+          "name": "Nirvair Pannu",
+          "url": "https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400416,
+      "name": "Tere Layi",
+      "url": "https://open.spotify.com/track/58rlJQKF6RyDfkAxiCqVEO"
+    },
+    {
+      "album": {
         "name": "Tere Naa",
         "url": "https://open.spotify.com/album/2zzrvOgFBTjmGY58F6Mhh8"
       },
@@ -22448,6 +22466,28 @@
       "duration_ms": 188148,
       "name": "Tod Gayi",
       "url": "https://open.spotify.com/track/77rovUbI0HYyc1AMjvWvp5"
+    },
+    {
+      "album": {
+        "name": "ROMEO",
+        "url": "https://open.spotify.com/album/3BdbcwuZ24zF60YcQrL3NV"
+      },
+      "artists": [
+        {
+          "name": "Nirvair Pannu",
+          "url": "https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY"
+        },
+        {
+          "name": "Deol Harman",
+          "url": "https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158076,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1QoS0wPKlrFxF9AW3xxjkP"
     },
     {
       "album": {

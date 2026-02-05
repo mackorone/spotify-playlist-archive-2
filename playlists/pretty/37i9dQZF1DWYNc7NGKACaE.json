@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83931,
+  "num_followers": 83926,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "SEGREDO VERS\u00c3O BH",
-        "url": "https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs"
-      },
-      "artists": [
-        {
-          "name": "Dj Vr Silva",
-          "url": "https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I"
-        },
-        {
-          "name": "Karui",
-          "url": "https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw"
-        }
-      ],
-      "duration_ms": 156922,
-      "name": "SEGREDO VERS\u00c3O BH",
-      "url": "https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Felina, Ai Meu Deus",
         "url": "https://open.spotify.com/album/3nGpC3zbNobY1JLQzd5MFt"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 147840,
       "name": "Felina, Ai Meu Deus",
       "url": "https://open.spotify.com/track/4mXao1gU5PKbwEd5oi1JBP"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "SEGREDO VERS\u00c3O BH",
+        "url": "https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs"
+      },
+      "artists": [
+        {
+          "name": "Dj Vr Silva",
+          "url": "https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I"
+        },
+        {
+          "name": "Karui",
+          "url": "https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw"
+        }
+      ],
+      "duration_ms": 156922,
+      "name": "SEGREDO VERS\u00c3O BH",
+      "url": "https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr"
     },
     {
       "added_at": "2024-07-08 19:10:57",

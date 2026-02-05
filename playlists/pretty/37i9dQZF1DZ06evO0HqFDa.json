@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX/pAAAAAADwX+C5Jb74SLesEqFR8Wg4",
+  "snapshot_id": "aYE6gAAAAAD2+KRvx+1GBzf3ay9s7sQf",
   "tracks": [
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Westworld: Season 1 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/43pttVYo7IjBvive3uebVF"
+        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 101461,
-      "name": "Main Title Theme - Westworld",
-      "url": "https://open.spotify.com/track/2sw8teIvVMRZKKYD5p795f"
+      "duration_ms": 138213,
+      "name": "I Am Hers, She Is Mine",
+      "url": "https://open.spotify.com/track/0VCGSZGmYAmtj6at7gREwe"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
-        "url": "https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "I Am Hers, She Is Mine",
-      "url": "https://open.spotify.com/track/0VCGSZGmYAmtj6at7gREwe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Westworld: Season 1 (Music from the HBO Series)",
         "url": "https://open.spotify.com/album/43pttVYo7IjBvive3uebVF"
       },
@@ -316,9 +300,25 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 330237,
-      "name": "Dr. Ford",
-      "url": "https://open.spotify.com/track/1pm8TqG9dNIcMGTQNzjYh9"
+      "duration_ms": 101461,
+      "name": "Main Title Theme - Westworld",
+      "url": "https://open.spotify.com/track/2sw8teIvVMRZKKYD5p795f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Game Of Thrones (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "duration_ms": 155866,
+      "name": "Kill Them All",
+      "url": "https://open.spotify.com/track/4m3Irk2mc25kcmJC2uqGlL"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game Of Thrones (Music From The HBO Series)",
-        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
+        "name": "Westworld: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/43pttVYo7IjBvive3uebVF"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 155866,
-      "name": "Kill Them All",
-      "url": "https://open.spotify.com/track/4m3Irk2mc25kcmJC2uqGlL"
+      "duration_ms": 330237,
+      "name": "Dr. Ford",
+      "url": "https://open.spotify.com/track/1pm8TqG9dNIcMGTQNzjYh9"
     },
     {
       "added_at": null,

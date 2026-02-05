@@ -338,6 +338,24 @@
           "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217560,
+      "name": "El Juico",
+      "url": "https://open.spotify.com/track/2kc9JMPqsL9yRUgOHFzLqs"
+    },
+    {
+      "album": {
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -482,6 +500,28 @@
       "duration_ms": 229733,
       "name": "Habla Blah Blah",
       "url": "https://open.spotify.com/track/1ki575hbZbZ6nkBrfpzD0b"
+    },
+    {
+      "album": {
+        "name": "Diosa De La Noche",
+        "url": "https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188080,
+      "name": "Hijoeputa",
+      "url": "https://open.spotify.com/track/1jiQYy7fysk0pGHQCdwl1y"
     },
     {
       "album": {

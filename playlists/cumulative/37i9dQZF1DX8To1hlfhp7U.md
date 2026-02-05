@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-135 songs - 6 hr 52 min
+136 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Credit Card](https://open.spotify.com/track/1TJLM1A1zKZLQKdxrpmNUx) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Credit Card](https://open.spotify.com/album/1jM7Gl4l91pD3rlmmq1j3j) | 2:33 | 2023-06-22 | 2024-11-14 |
 | [Crook](https://open.spotify.com/track/44rBFPjeKA3IIYhLGqhBaA) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Taj Aulakh](https://open.spotify.com/artist/30LIEt0kX9a11tyu1Z46Qs) | [Crook](https://open.spotify.com/album/1rL3Hnua25rhjxSjwxyzj1) | 3:28 | 2025-11-06 | 2026-01-23 |
 | [Drama](https://open.spotify.com/track/0CzmJDWIqkWL8GFsFh15Hw) | [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Maizu](https://open.spotify.com/artist/4KB86rl9F9MdgIq3ilN6Ai) | [Drama](https://open.spotify.com/album/6ToiGbp7UpGG8LNWJNNN6l) | 2:29 | 2024-09-06 | 2025-01-09 |
-| [Drivery](https://open.spotify.com/track/0FM03KSpwsiW8i8OUmqI0D) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Drivery](https://open.spotify.com/album/2cGxd3OOROZQYmSG4mEMI9) | 3:03 | 2025-01-08 |  |
+| [Drivery](https://open.spotify.com/track/0FM03KSpwsiW8i8OUmqI0D) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Drivery](https://open.spotify.com/album/2cGxd3OOROZQYmSG4mEMI9) | 3:03 | 2025-01-08 | 2026-02-05 |
+| [Fame Us \- From "Tu Yaa Main"](https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl) | [7Bantai'Z](https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK), [Rai Harrie](https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX) | [Fame Us \(From "Tu Yaa Main"\)](https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9) | 3:10 | 2026-02-04 |  |
 | [Famous](https://open.spotify.com/track/72NiOXPx95GInH5HFZaf3H) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 | 2025-07-25 |  |
 | [Fomo](https://open.spotify.com/track/4ci7QUQfEfE7EOJRsBv9P7) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Fomo](https://open.spotify.com/album/1imllZPJqjVilNrvY5umvj) | 2:36 | 2025-02-05 | 2025-02-12 |
 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 | 2023-06-22 | 2025-02-08 |

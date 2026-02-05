@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > X\-Tense entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,590 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,594 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 6 | [Eternamente](https://open.spotify.com/track/6JHNHK8t0dYMhgKuw45pzL) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Ontem, Hoje e Para Sempre](https://open.spotify.com/album/2D88HCLSxFHKChO48qihfv) | 3:44 |
 | 7 | [¡ +1 !](https://open.spotify.com/track/2Cq4FdClz7hIm4uJ25ziHA) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [¡ +1 !](https://open.spotify.com/album/73O1BtNLX4dNnqBqcc0oYx) | 3:54 |
 | 8 | [UGA](https://open.spotify.com/track/2LP2LGoSzz8X091CVtfDJn) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [UGA](https://open.spotify.com/album/6S1kSyxG1FXR7NRVya9yDI) | 2:03 |
-| 9 | [DADDY](https://open.spotify.com/track/5cnv7sOnQt78of2b9xphhg) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [DADDY](https://open.spotify.com/album/2KU1CX8yce0x3eKHJWY3TZ) | 3:29 |
+| 9 | [Daddy](https://open.spotify.com/track/5cnv7sOnQt78of2b9xphhg) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Daddy](https://open.spotify.com/album/2KU1CX8yce0x3eKHJWY3TZ) | 3:29 |
 | 10 | [Notas & Traumas \(feat\. Agir\)](https://open.spotify.com/track/1l2ufC3Dh2gUNpoNjGxLtC) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0), [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [Notas & Traumas \(feat\. Agir\)](https://open.spotify.com/album/6JKj7u3UJS7UoLYmFC8q70) | 2:41 |
 | 11 | [Fora do Normal \(feat\. Nenny & Chelsea Dinorath\)](https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp) | [FIM DO NADA DELUXE](https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO) | 4:00 |
 | 12 | [Quase](https://open.spotify.com/track/1SysQN5EYHlbU7uDogTJ2A) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Quase](https://open.spotify.com/album/7nJ5skhJINnVGV5Tl5p5Nw) | 2:25 |

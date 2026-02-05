@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : Dude
+> Check out the Latest Romance Tracks.<br/>Cover : Idhayam Murali
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,696 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,836 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Oorum Blood Unplugged](https://open.spotify.com/track/4Ydbnm0059Pe38Y2WoRzw7) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx) | [Dude \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uxUvkZRoulYMf0xZXQoVL) | 1:20 |
-| 2 | [Thangame Thangame \- From "Idhayam Murali"](https://open.spotify.com/track/6KmTMjHQ6fpBilsfH43EHV) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [D Dheeraj](https://open.spotify.com/artist/0rKnHgY9I7k8OiSPuTeIQr), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Thangame Thangame \(From "Idhayam Murali"\)](https://open.spotify.com/album/4Gp64jrwZJikEEMx0DKHCP) | 5:03 |
+| 1 | [Thangame Thangame \- From "Idhayam Murali"](https://open.spotify.com/track/6KmTMjHQ6fpBilsfH43EHV) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [D Dheeraj](https://open.spotify.com/artist/0rKnHgY9I7k8OiSPuTeIQr), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Thangame Thangame \(From "Idhayam Murali"\)](https://open.spotify.com/album/4Gp64jrwZJikEEMx0DKHCP) | 5:03 |
+| 2 | [Oorum Blood Unplugged](https://open.spotify.com/track/4Ydbnm0059Pe38Y2WoRzw7) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx) | [Dude \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uxUvkZRoulYMf0xZXQoVL) | 1:20 |
 | 3 | [Neelothi \(From "Sirai"\)](https://open.spotify.com/track/6wqwVre9LoGnsUUzukxUy3) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Sarathi](https://open.spotify.com/artist/1P4WoYT07QVoIKOenXFXur) | [Neelothi \(From "Sirai"\)](https://open.spotify.com/album/0Z7a6bvJ3aMz3abGSjJ6EK) | 4:34 |
 | 4 | [Eppadi Vandhaayo \(From "Aaromaley"\)](https://open.spotify.com/track/2A0JZsrJ1Nor5wtoOr9OOR) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Eppadi Vandhaayo \(From "Aaromaley"\)](https://open.spotify.com/album/4l74b0eaGLDzXi10VzE4RJ) | 2:49 |
 | 5 | [Adi Alaye \(From "Parasakthi"\) \(Tamil\)](https://open.spotify.com/track/5aFDCFvAGRBB1m0bQmaT5U) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Ekadesi](https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c) | [Adi Alaye \(From "Parasakthi"\) \(Tamil\)](https://open.spotify.com/album/39QRwJQRzgaOYuu1B7ovTg) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 49 | [Kadhal Fail \(From "Nilavuku En Mel Ennadi Kobam"\)](https://open.spotify.com/track/5XeUb7TXEO6wL9APBD48lw) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Nilavuku En Mel Ennadi Kobam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40e0n7SpErizpJh4A4X0ME) | 3:55 |
 | 50 | [Mugai Mazhai](https://open.spotify.com/track/0XFlAzCP6N036svSRGwH6m) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Tourist Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Aa5VLvyUn2lpKVnG2PaDe) | 3:51 |
 
-Snapshot ID: `AAAAAFFug8nUnrpxPpgvJL1h637NjjVn`
+Snapshot ID: `AAAAAG+6+TiNQabKGyna4MpAoZe5cAAq`

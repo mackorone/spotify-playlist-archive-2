@@ -2,7 +2,7 @@
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : Dude
+> Check out the Latest Romance Tracks.<br/>Cover : Idhayam Murali
 
 348 songs - 22 hr 34 min
 

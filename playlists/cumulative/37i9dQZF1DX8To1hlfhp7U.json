@@ -980,10 +980,32 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 183586,
       "name": "Drivery",
       "url": "https://open.spotify.com/track/0FM03KSpwsiW8i8OUmqI0D"
+    },
+    {
+      "album": {
+        "name": "Fame Us (From \"Tu Yaa Main\")",
+        "url": "https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9"
+      },
+      "artists": [
+        {
+          "name": "7Bantai'Z",
+          "url": "https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK"
+        },
+        {
+          "name": "Rai Harrie",
+          "url": "https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190566,
+      "name": "Fame Us - From \"Tu Yaa Main\"",
+      "url": "https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl"
     },
     {
       "album": {

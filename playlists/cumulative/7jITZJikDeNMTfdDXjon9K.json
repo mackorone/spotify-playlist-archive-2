@@ -9843,7 +9843,7 @@
       "date_added": "2020-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182726,
+      "duration_ms": 182666,
       "name": "Chalk Tablet Towers (feat. St Vincent)",
       "url": "https://open.spotify.com/track/5zGElc4Fk95ONl7YihpLFN"
     },
@@ -13079,7 +13079,7 @@
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 273684,
+      "duration_ms": 273626,
       "name": "Dead Butterflies (feat. Kano and Roxani Arias)",
       "url": "https://open.spotify.com/track/0kz637M43RY673RZoJCWBX"
     },
@@ -39915,7 +39915,7 @@
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 410801,
+      "duration_ms": 410733,
       "name": "Opium (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
     },
@@ -50005,7 +50005,7 @@
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 227500,
+      "duration_ms": 227440,
       "name": "Strange Timez (feat. Robert Smith)",
       "url": "https://open.spotify.com/track/1bvPlrTtIpj7CSXRaJpALg"
     },
@@ -53471,7 +53471,7 @@
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 243617,
+      "duration_ms": 243546,
       "name": "The Lost Chord (feat. Leee John)",
       "url": "https://open.spotify.com/track/5jDIIpm38XbdvvSt4oilcI"
     },
@@ -53721,6 +53721,32 @@
     },
     {
       "album": {
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2020-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253053,
+      "name": "The Pink Phantom (feat. Elton John and 6LACK)",
+      "url": "https://open.spotify.com/track/6XyFC44z3MyVMd5ZrctiWL"
+    },
+    {
+      "album": {
         "name": "Song Machine Episode 7",
         "url": "https://open.spotify.com/album/6Q7UcRmIOmzGpXkMzyWYkN"
       },
@@ -53744,32 +53770,6 @@
       "duration_ms": 253126,
       "name": "The Pink Phantom (feat. Elton John and 6LACK)",
       "url": "https://open.spotify.com/track/2qNsvDflYHGxWIBDKXyB5g"
-    },
-    {
-      "album": {
-        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
-        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "date_added": "2020-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 253126,
-      "name": "The Pink Phantom (feat. Elton John and 6LACK)",
-      "url": "https://open.spotify.com/track/6XyFC44z3MyVMd5ZrctiWL"
     },
     {
       "album": {
@@ -54243,7 +54243,7 @@
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 181028,
+      "duration_ms": 180973,
       "name": "The Valley of The Pagans (feat. Beck)",
       "url": "https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp"
     },

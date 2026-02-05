@@ -1,6 +1,6 @@
 {
   "description": "deep dark ambient and half-remembered hypnagogic soundscapes. ",
-  "num_followers": 191521,
+  "num_followers": 191581,
   "original_name": "hauntology",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
-      },
-      "artists": [
-        {
-          "name": "Oli XL",
-          "url": "https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX"
-        }
-      ],
-      "duration_ms": 257467,
-      "name": "Heretic",
-      "url": "https://open.spotify.com/track/6IZDFhyHiWcLJPEo1W4nvd"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Crystal Castles (II)",
         "url": "https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 187453,
       "name": "I Am Made Of Chalk",
       "url": "https://open.spotify.com/track/0N55UFtSgaNqJz1VQufTTP"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
+      },
+      "artists": [
+        {
+          "name": "Oli XL",
+          "url": "https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX"
+        }
+      ],
+      "duration_ms": 257467,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/6IZDFhyHiWcLJPEo1W4nvd"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Tomb of Horror",
-        "url": "https://open.spotify.com/album/7cajy0AbLQGbq3FalQszIr"
-      },
-      "artists": [
-        {
-          "name": "Slasher Dave",
-          "url": "https://open.spotify.com/artist/65PBVU3exQq9I0dKWaF8Zp"
-        }
-      ],
-      "duration_ms": 241621,
-      "name": "Half Past Midnight",
-      "url": "https://open.spotify.com/track/45EE6D3Gtx4laQpUaz7Omz"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Ligeti : Project Vol.2 - Lontano, Atmosph\u00e8res, Apparitions, San Francisco Polyphony & Concert Rom\u00e2nesc",
         "url": "https://open.spotify.com/album/6u6xyeAYduVoORqSEb2y1Y"
       },
@@ -747,22 +731,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Lutym",
-        "url": "https://open.spotify.com/album/3BwPg7e9WTtoyj1xAel39E"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Stribog",
-          "url": "https://open.spotify.com/artist/70TrF9S9a212DRhvhjbZYs"
-        }
-      ],
-      "duration_ms": 64848,
-      "name": "Wichura",
-      "url": "https://open.spotify.com/track/7jGbk1aqBDpMfrKfQxkoeS"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
       },
@@ -775,6 +743,38 @@
       "duration_ms": 180373,
       "name": "Saute-Mouton",
       "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Tomb of Horror",
+        "url": "https://open.spotify.com/album/7cajy0AbLQGbq3FalQszIr"
+      },
+      "artists": [
+        {
+          "name": "Slasher Dave",
+          "url": "https://open.spotify.com/artist/65PBVU3exQq9I0dKWaF8Zp"
+        }
+      ],
+      "duration_ms": 241621,
+      "name": "Half Past Midnight",
+      "url": "https://open.spotify.com/track/45EE6D3Gtx4laQpUaz7Omz"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Lutym",
+        "url": "https://open.spotify.com/album/3BwPg7e9WTtoyj1xAel39E"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Stribog",
+          "url": "https://open.spotify.com/artist/70TrF9S9a212DRhvhjbZYs"
+        }
+      ],
+      "duration_ms": 64848,
+      "name": "Wichura",
+      "url": "https://open.spotify.com/track/7jGbk1aqBDpMfrKfQxkoeS"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Geleit ins Totenreich",
-        "url": "https://open.spotify.com/album/1g1Ypo2vDKKKpot1swTIyK"
-      },
-      "artists": [
-        {
-          "name": "Blod Besvimelse",
-          "url": "https://open.spotify.com/artist/4fX7zAUjAwhJIQKIcqJlsk"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Ivory Tower II",
-      "url": "https://open.spotify.com/track/76V1HKK8ZP7rHa2zpmXxUG"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Musick To Play In The Dark",
         "url": "https://open.spotify.com/album/6qS0pSqK662v2SqooTNDeK"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 576001,
       "name": "Are You Shivering?",
       "url": "https://open.spotify.com/track/1a6IYbbBSZiiNZoUwZjPIa"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Geleit ins Totenreich",
+        "url": "https://open.spotify.com/album/1g1Ypo2vDKKKpot1swTIyK"
+      },
+      "artists": [
+        {
+          "name": "Blod Besvimelse",
+          "url": "https://open.spotify.com/artist/4fX7zAUjAwhJIQKIcqJlsk"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Ivory Tower II",
+      "url": "https://open.spotify.com/track/76V1HKK8ZP7rHa2zpmXxUG"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "Magda",
+        "url": "https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "duration_ms": 522000,
+      "name": "Velluto",
+      "url": "https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "Recordings from the \u00c5land Islands",
         "url": "https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 222400,
       "name": "Under the Midnight Sun",
       "url": "https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
-        "name": "Magda",
-        "url": "https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl"
-      },
-      "artists": [
-        {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
-        }
-      ],
-      "duration_ms": 522000,
-      "name": "Velluto",
-      "url": "https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Crow-Cyan Lake \u9e26\u9752\u6e56\u7554",
-        "url": "https://open.spotify.com/album/3y1AC3NQFIXIAmMYzkkl4x"
-      },
-      "artists": [
-        {
-          "name": "Yikii",
-          "url": "https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm"
-        }
-      ],
-      "duration_ms": 256746,
-      "name": "Angel Fossil \u5929\u4f7f\u5316\u77f3",
-      "url": "https://open.spotify.com/track/166BtXtfNGtQf7REpNBBa6"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
         "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 160441,
       "name": "Kommissar Brenkstrupp (Main Titles)",
       "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "The Crow-Cyan Lake \u9e26\u9752\u6e56\u7554",
+        "url": "https://open.spotify.com/album/3y1AC3NQFIXIAmMYzkkl4x"
+      },
+      "artists": [
+        {
+          "name": "Yikii",
+          "url": "https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm"
+        }
+      ],
+      "duration_ms": 256746,
+      "name": "Angel Fossil \u5929\u4f7f\u5316\u77f3",
+      "url": "https://open.spotify.com/track/166BtXtfNGtQf7REpNBBa6"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Ozone Scraper",
-        "url": "https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI"
+        "name": "Burned Mind",
+        "url": "https://open.spotify.com/album/6w5J0DRWsa1vSNOtim8kjp"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "Wolf Eyes",
+          "url": "https://open.spotify.com/artist/6UahQwC9EZGsFSuGjHJNe1"
         }
       ],
-      "duration_ms": 211299,
-      "name": "Ozone Scraper",
-      "url": "https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV"
+      "duration_ms": 219640,
+      "name": "Stabbed In The Face",
+      "url": "https://open.spotify.com/track/0XnbRFRIcUnagFtRhvsn7C"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Burned Mind",
-        "url": "https://open.spotify.com/album/6w5J0DRWsa1vSNOtim8kjp"
+        "name": "Ozone Scraper",
+        "url": "https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI"
       },
       "artists": [
         {
-          "name": "Wolf Eyes",
-          "url": "https://open.spotify.com/artist/6UahQwC9EZGsFSuGjHJNe1"
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
         }
       ],
-      "duration_ms": 219640,
-      "name": "Stabbed In The Face",
-      "url": "https://open.spotify.com/track/0XnbRFRIcUnagFtRhvsn7C"
+      "duration_ms": 211299,
+      "name": "Ozone Scraper",
+      "url": "https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV"
     },
     {
       "added_at": "2025-11-14 17:00:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con FLVCKKA y Yeri Mua hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,320 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,322 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 75 | [Bossy Bitch](https://open.spotify.com/track/1stSvrn3Iw4ZznB7yOog3d) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Bossy Bitch](https://open.spotify.com/album/2ZyCUck31Iox2esJvSl1kO) | 2:36 |
 | 76 | [Necesito Respirar](https://open.spotify.com/track/1UDwWNsG7bAB9NcDmyy2LD) | [INTTI FR](https://open.spotify.com/artist/1eMe5uZzCa1kpBVdTn7mRB) | [Necesito Respirar](https://open.spotify.com/album/2P48PgW8gk5uTY5mtEtCjU) | 2:50 |
 | 77 | [estrella$ en el techo](https://open.spotify.com/track/4kXiEEz8FVNd5ZAQSVkGJT) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [la nena de un gang$ter](https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9) | 2:20 |
-| 78 | [CALOR](https://open.spotify.com/track/2mbq2OlWAw0lRJrADJgPrX) | [HOYER](https://open.spotify.com/artist/3BU3N61vOSGcUahCNviQoP) | [HOYER](https://open.spotify.com/album/2N0yum7MDCrDIaQkqIBGu2) | 3:08 |
-| 79 | [CHUBI](https://open.spotify.com/track/5f89f4Gd8mWLaaWar44uXL) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5) | [CHUBI](https://open.spotify.com/album/0lvQcFoPbUndadILJ051Z5) | 2:10 |
-| 80 | [Río](https://open.spotify.com/track/5dxDYxX2Hj1Nu6naKtUq9B) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [Río](https://open.spotify.com/album/1ZiRwa6XmAwNtTlj3pEgnC) | 2:26 |
+| 78 | [Fugitivos](https://open.spotify.com/track/6abf0Csa41gdGDnL6p0O9t) | [Javi Gallardo](https://open.spotify.com/artist/6lj8re7deIPyzpcKxAT5Qk), [BONGZ](https://open.spotify.com/artist/03AQZAEApIo7jGC6CCKmJO), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [Fugitivos](https://open.spotify.com/album/5iA7WdosfvsgV0GCSnmgn3) | 2:30 |
+| 79 | [CALOR](https://open.spotify.com/track/2mbq2OlWAw0lRJrADJgPrX) | [HOYER](https://open.spotify.com/artist/3BU3N61vOSGcUahCNviQoP) | [HOYER](https://open.spotify.com/album/2N0yum7MDCrDIaQkqIBGu2) | 3:08 |
+| 80 | [CHUBI](https://open.spotify.com/track/5f89f4Gd8mWLaaWar44uXL) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5) | [CHUBI](https://open.spotify.com/album/0lvQcFoPbUndadILJ051Z5) | 2:10 |
 
 Snapshot ID: `AAAAAE0CmMMxOYbo0gT3rriruGwYNp99`

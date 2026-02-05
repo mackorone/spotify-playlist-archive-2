@@ -1854,6 +1854,24 @@
     {
       "album": {
         "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4psgSpLnll4b6Ad0VVVqaR"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393533,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/7EpRgK8ZjWNnPES07LEsrP"
+    },
+    {
+      "album": {
+        "name": "Animal Magic",
         "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
       },
       "artists": [

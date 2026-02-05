@@ -1707,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Hafiz",
+        "url": "https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I"
+      },
+      "artists": [
+        {
+          "name": "Hafiz Suip",
+          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263480,
+      "name": "Bahagiamu Deritaku",
+      "url": "https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a"
+    },
+    {
+      "album": {
         "name": "Bahagiamu Tujuanku",
         "url": "https://open.spotify.com/album/6zYEsYOVwJgOWwiyPUuywE"
       },
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 242400,
       "name": "Bahan Terlarang",
       "url": "https://open.spotify.com/track/2xtNDC3uQ5PmHdf8ZSVa1M"
@@ -2657,6 +2675,24 @@
     },
     {
       "album": {
+        "name": "Binasa (From \"Sujud Terakhir En. Norman\")",
+        "url": "https://open.spotify.com/album/08Yj9TZCHsrNdWjnVjlXeo"
+      },
+      "artists": [
+        {
+          "name": "Amylea",
+          "url": "https://open.spotify.com/artist/0wKBxTlgjMQvntR1t7JhZR"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178774,
+      "name": "Binasa - From \"Sujud Terakhir En. Norman\"",
+      "url": "https://open.spotify.com/track/13QkMUVoVWDZkjTJ6mqFi0"
+    },
+    {
+      "album": {
         "name": "Bintang",
         "url": "https://open.spotify.com/album/0zGH5xsdIQRdRmGpWu8p6t"
       },
@@ -3462,7 +3498,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 189230,
       "name": "Calon Mantu Idaman (feat. Ncum)",
       "url": "https://open.spotify.com/track/5EWyweCJ5igLl6bjbGRmGm"
@@ -6935,6 +6971,24 @@
     },
     {
       "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4"
+      },
+      "artists": [
+        {
+          "name": "Ifan Seventeen",
+          "url": "https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245226,
+      "name": "Jangan Paksa Rindu - Beda",
+      "url": "https://open.spotify.com/track/79tbBuciPV221EozY3RKQv"
+    },
+    {
+      "album": {
         "name": "Jangan Pergi",
         "url": "https://open.spotify.com/album/6tmZE1EJbITNUaTMns4eak"
       },
@@ -7672,7 +7726,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 206222,
       "name": "Kasih Tau Mama (Malam Minggu)",
       "url": "https://open.spotify.com/track/3egqzae8XAs7VXIb1ikB4I"
@@ -8426,6 +8480,24 @@
       "duration_ms": 236752,
       "name": "Kita Bikin Romantis",
       "url": "https://open.spotify.com/track/7geh51STedQfizitdiNPCg"
+    },
+    {
+      "album": {
+        "name": "Kita Buat Menyenangkan",
+        "url": "https://open.spotify.com/album/57chfzR7TAIGbjPtZVEl9x"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249920,
+      "name": "Kita Buat Menyenangkan",
+      "url": "https://open.spotify.com/track/4J9DouSADdyakPD9h6oD6N"
     },
     {
       "album": {
@@ -9358,7 +9430,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 255189,
       "name": "Lukisan",
       "url": "https://open.spotify.com/track/4JCCxTFPJVyKScKv7AwZcl"
@@ -13232,7 +13304,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 213973,
       "name": "Rutinitas",
       "url": "https://open.spotify.com/track/18g9AKRtXqa2D4sMpjsfc9"
@@ -17108,7 +17180,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 231692,
       "name": "Tolong",
       "url": "https://open.spotify.com/track/1veWWHgGp7iuISNaMNfxtU"

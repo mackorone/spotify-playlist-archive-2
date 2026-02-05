@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/25\-year\-end\-reflections\-from\-turnstile?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">read our Substack here! </a>  Cover: Lola Young ☆
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,676 likes - 201 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,908 likes - 201 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

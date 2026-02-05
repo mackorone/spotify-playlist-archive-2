@@ -137,6 +137,36 @@
     },
     {
       "album": {
+        "name": "Aasma Aasma (From \"Do Deewane Seher Mein\")",
+        "url": "https://open.spotify.com/album/75gdVNNIo4xf4d6QqpJ63W"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Abhiruchi Chand",
+          "url": "https://open.spotify.com/artist/1Z3KE3Fs3qg13YsXPCGzKj"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Aasma Aasma (From \"Do Deewane Seher Mein\")",
+      "url": "https://open.spotify.com/track/1W3xePkj0x1F2vYNhiIoIj"
+    },
+    {
+      "album": {
         "name": "Aavan Jaavan (From \"WAR 2\")",
         "url": "https://open.spotify.com/album/7ka8N9k2D4VLQy6Gx9rmDA"
       },
@@ -6630,7 +6660,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 200060,
       "name": "Tu Pehli Tu Aakhri (From \"The Ba***ds Of Bollywood\")",
       "url": "https://open.spotify.com/track/59NxpNfVn6odonnpGK7yHI"

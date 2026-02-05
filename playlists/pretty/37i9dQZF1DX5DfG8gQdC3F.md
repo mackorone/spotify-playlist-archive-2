@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Noah Kahan, Don Toliver, Josh Ross, Lauren Spencer Smith, HARDY, MARO, Softcult and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,174 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,152 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 68 | [Remember us](https://open.spotify.com/track/68cWBpjuYI3QGzVbD1PCP5) | [Ryael](https://open.spotify.com/artist/6uTGQekql6OdGUQDk6a8Wt) | [Remember us](https://open.spotify.com/album/4zuTFIgzvayjM2W8EAEC1P) | 3:15 |
 | 69 | [Azucar](https://open.spotify.com/track/2YGbdJobuSUnfHUGVIHVXb) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Mixed Feelings \(Bonus Track Edition\)](https://open.spotify.com/album/5c3R42LrfZhbFc4UfYAORE) | 3:26 |
 | 70 | [Pas solo](https://open.spotify.com/track/5N3lIBZ88nTuerAuBgMK5u) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Pas solo](https://open.spotify.com/album/1Up5VOa7KYBOdMUherbXj4) | 2:41 |
-| 71 | [Residue \- The Moment \(The Score\)](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue \- The Moment \(The Score\)](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 |
+| 71 | [Residue](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 |
 | 72 | [ENCORE ENCORE](https://open.spotify.com/track/5BoKkmRZBVbpjrdoMe92TO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [ENCORE ENCORE](https://open.spotify.com/album/5PVXBvRLA9BOPnRU0CYLae) | 3:11 |
 | 73 | [Situation](https://open.spotify.com/track/5tkGsXFs1Kf6t9HytWzpwX) | [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Situation](https://open.spotify.com/album/1vxbGEuX3PicFHG5tGuIbK) | 3:45 |
 | 74 | [savior](https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [savior](https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa) | 2:43 |

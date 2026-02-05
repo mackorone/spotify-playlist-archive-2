@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,269 songs - 5 day 12 hr 45 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,270 songs - 5 day 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2277,5 +2277,6 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2267 | [Sweet Blue Moon](https://open.spotify.com/track/4Rt3uzW4h8k1EVNarWHEpW) | [Victoria Staff](https://open.spotify.com/artist/1CxFiD1ixwWLP3xhETS60s) | [Sweet Blue Moon](https://open.spotify.com/album/6k4f04JZ886TCHFKzAWmQL) | 2:50 |
 | 2268 | [Polka Hands](https://open.spotify.com/track/5kNy9hMut7vB7BOYuePS9p) | [The Imaginary Band](https://open.spotify.com/artist/6C07tFlxuK6Aq1aQBMExrm), [Andrew Christopher](https://open.spotify.com/artist/2v5uSfzONW5ws0uRnD7UPv) | [Polka Hands](https://open.spotify.com/album/0jYAVagQlYBbN7brc1vv2M) | 3:15 |
 | 2269 | [Plenty \- Remix](https://open.spotify.com/track/79zYZ5z4gm7TINADqk87br) | [Sheni](https://open.spotify.com/artist/6gkfOKtjKkKeztY4Pv0VNu), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Plenty \(Remix\)](https://open.spotify.com/album/22y3e5UR33tamFwQeA6LcU) | 3:15 |
+| 2270 | [DELUSIONAL](https://open.spotify.com/track/3t8Usl5l0m5QB0jvmUMZ7v) | [Jfallon](https://open.spotify.com/artist/4odgyHXrBNILVxyGFGdaJ0), [AUGY](https://open.spotify.com/artist/7BZO8HVP46PLeEYEBLlkLw) | [DELUSIONAL](https://open.spotify.com/album/1QhZ8MlWlKWXgxUPMEUqzl) | 2:36 |
 
-Snapshot ID: `AAAJdFVNE2D1L1EY0R7jND16t/Qq7oTn`
+Snapshot ID: `AAAJdRlBI/hj57bH5xOb/1fPMYmMDnJi`

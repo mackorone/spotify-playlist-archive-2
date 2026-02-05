@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2015.",
-  "num_followers": 225602,
+  "num_followers": 225655,
   "original_name": "Dance Hits of 2015",
   "owner": {
     "name": "Spotify",
@@ -281,7 +281,7 @@
         }
       ],
       "duration_ms": 166138,
-      "name": "Light It Up (feat. Nyla & Fuse ODG) [Remix]",
+      "name": "Light It Up",
       "url": "https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY"
     },
     {
@@ -795,30 +795,6 @@
     {
       "added_at": "2021-04-30 05:37:41",
       "album": {
-        "name": "Listen Again",
-        "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Bang My Head (feat. Sia & Fetty Wap)",
-      "url": "https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy"
-    },
-    {
-      "added_at": "2021-04-30 05:37:41",
-      "album": {
         "name": "GENERATIONWHY",
         "url": "https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 231813,
       "name": "Working For It",
       "url": "https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc"
+    },
+    {
+      "added_at": "2021-04-30 05:37:41",
+      "album": {
+        "name": "Listen Again",
+        "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Bang My Head (feat. Sia & Fetty Wap)",
+      "url": "https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy"
     },
     {
       "added_at": "2021-04-30 05:37:41",
@@ -1217,7 +1217,7 @@
         }
       ],
       "duration_ms": 186447,
-      "name": "Boom (feat. MOTi, Ty Dolla $ign, Wizkid & Kranium)",
+      "name": "Boom",
       "url": "https://open.spotify.com/track/6kBXZ8j8IuJeRjb6kV6fol"
     },
     {

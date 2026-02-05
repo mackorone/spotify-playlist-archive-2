@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Bounce Like That",
+        "url": "https://open.spotify.com/album/2x3EqTw9pWYRZn88Kx9rJy"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "Bounce Like That",
+      "url": "https://open.spotify.com/track/4vxyrMlFHBmIFHEHwgcRqR"
+    },
+    {
+      "album": {
         "name": "Bouncing Ball",
         "url": "https://open.spotify.com/album/0KbRzjlCzX7w8yiMmPnOEq"
       },
@@ -2318,7 +2336,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 183111,
       "name": "Gotta Go",
       "url": "https://open.spotify.com/track/0uRM3jr19grNMs6q77upWV"

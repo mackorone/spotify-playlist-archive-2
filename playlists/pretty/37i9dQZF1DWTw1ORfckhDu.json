@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104854,
+  "num_followers": 104847,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-01-29 22:00:45",
       "album": {
+        "name": "Solmui",
+        "url": "https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO"
+      },
+      "artists": [
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "duration_ms": 198409,
+      "name": "Solmui",
+      "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
+    },
+    {
+      "added_at": "2026-01-29 22:00:45",
+      "album": {
         "name": "DENIM",
         "url": "https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 171428,
       "name": "Alkemia",
       "url": "https://open.spotify.com/track/2QMNxvmd92po5PW4GbTQUN"
-    },
-    {
-      "added_at": "2026-01-29 22:00:45",
-      "album": {
-        "name": "Solmui",
-        "url": "https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO"
-      },
-      "artists": [
-        {
-          "name": "Sara Bee",
-          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
-        }
-      ],
-      "duration_ms": 198409,
-      "name": "Solmui",
-      "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
     },
     {
       "added_at": "2026-01-29 22:00:45",
@@ -483,6 +483,26 @@
     {
       "added_at": "2026-01-29 22:00:45",
       "album": {
+        "name": "Mit\u00e4 vaan / Syyt\u00e4 t\u00e4t\u00e4 iltaa",
+        "url": "https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "duration_ms": 147807,
+      "name": "Mit\u00e4 vaan",
+      "url": "https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9"
+    },
+    {
+      "added_at": "2026-01-29 22:00:45",
+      "album": {
         "name": "Tello Tape",
         "url": "https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB"
       },
@@ -507,26 +527,6 @@
     {
       "added_at": "2026-01-29 22:00:45",
       "album": {
-        "name": "Mit\u00e4 vaan / Syyt\u00e4 t\u00e4t\u00e4 iltaa",
-        "url": "https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD"
-      },
-      "artists": [
-        {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
-        },
-        {
-          "name": "Bizi",
-          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
-        }
-      ],
-      "duration_ms": 147807,
-      "name": "Mit\u00e4 vaan",
-      "url": "https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9"
-    },
-    {
-      "added_at": "2026-01-29 22:00:45",
-      "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-01-29 22:00:45",
       "album": {
-        "name": "Make Trap Great Again",
-        "url": "https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1"
-      },
-      "artists": [
-        {
-          "name": "Jore & Zpoppa",
-          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Tykk\u00e4\u00e4n",
-      "url": "https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg"
-    },
-    {
-      "added_at": "2026-01-29 22:00:45",
-      "album": {
         "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
         "url": "https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 156214,
       "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
       "url": "https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8"
+    },
+    {
+      "added_at": "2026-01-29 22:00:45",
+      "album": {
+        "name": "Make Trap Great Again",
+        "url": "https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Tykk\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg"
     },
     {
       "added_at": "2026-01-29 22:00:45",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-01-29 22:00:45",
       "album": {
+        "name": "Pit\u00e4isk\u00f6 mun soittaa sille",
+        "url": "https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "duration_ms": 154443,
+      "name": "Ik\u00e4v\u00e4 mua",
+      "url": "https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3"
+    },
+    {
+      "added_at": "2026-01-29 22:00:45",
+      "album": {
         "name": "Cocaina (feat. JVG)",
         "url": "https://open.spotify.com/album/1G16QTtvWSWN9gA8JKoG3C"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 172949,
       "name": "Syyp\u00e4\u00e4 sun hymyyn - Unitas Sigma",
       "url": "https://open.spotify.com/track/2Qav0ElkVHapWOP3fRKcYX"
-    },
-    {
-      "added_at": "2026-01-29 22:00:45",
-      "album": {
-        "name": "Pit\u00e4isk\u00f6 mun soittaa sille",
-        "url": "https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640"
-      },
-      "artists": [
-        {
-          "name": "Bizi",
-          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
-        }
-      ],
-      "duration_ms": 154443,
-      "name": "Ik\u00e4v\u00e4 mua",
-      "url": "https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3"
     },
     {
       "added_at": "2026-01-29 22:00:45",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-01-29 22:00:45",
       "album": {
+        "name": "L\u00e4\u00e4ke (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/6q7AseIG8cZx1N9RqlY9tL"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 167838,
+      "name": "L\u00e4\u00e4ke (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/1ieDBPzqG7gjiTMacM9ftm"
+    },
+    {
+      "added_at": "2026-01-29 22:00:45",
+      "album": {
         "name": "Clique La Lv",
         "url": "https://open.spotify.com/album/2dSvQVodGZaLeDJ822DQNP"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 136500,
       "name": "Clique La Lv",
       "url": "https://open.spotify.com/track/3tdzSKOCHsCshuxitqeDZR"
-    },
-    {
-      "added_at": "2026-01-29 22:00:45",
-      "album": {
-        "name": "L\u00e4\u00e4ke (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
-        "url": "https://open.spotify.com/album/6q7AseIG8cZx1N9RqlY9tL"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 167838,
-      "name": "L\u00e4\u00e4ke (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
-      "url": "https://open.spotify.com/track/1ieDBPzqG7gjiTMacM9ftm"
     },
     {
       "added_at": "2026-01-29 22:00:45",

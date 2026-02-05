@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,022 songs - 4 day 22 hr 26 min
+2,023 songs - 4 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Deimos](https://open.spotify.com/track/1tQqKm6iwMIcbggPhXRWLK) | [MAT d](https://open.spotify.com/artist/0fqpqf24KQJFmPDLpzsRjA) | [Deimos](https://open.spotify.com/album/5ErlVqQxmVjjS5FKa89aPp) | 1:56 | 2025-11-06 |  |
 | [Deixa Eu Viver](https://open.spotify.com/track/3jpSlIEmMJPEgW7hm9jwUK) | [Mc Theusma](https://open.spotify.com/artist/3OkNlP6ajHkgPMNbFlz5CC), [7sete7](https://open.spotify.com/artist/201Meo78dft4fx9JCW9RwW) | [Deixa Eu Viver](https://open.spotify.com/album/0bYBcMyBmPqzLhAPDWS5DY) | 2:37 | 2025-10-27 |  |
 | [DeLorean](https://open.spotify.com/track/1DHcOQRN2VSvuiXONQ9sZP) | [BRANNIGAN](https://open.spotify.com/artist/13Of3aaIOQZbkrmVLq11KS) | [Moments and Memories](https://open.spotify.com/album/1dRqPiMVVWKYZ7c0e5Q9SO) | 3:24 | 2024-05-07 |  |
+| [DELUSIONAL](https://open.spotify.com/track/3t8Usl5l0m5QB0jvmUMZ7v) | [Jfallon](https://open.spotify.com/artist/4odgyHXrBNILVxyGFGdaJ0), [AUGY](https://open.spotify.com/artist/7BZO8HVP46PLeEYEBLlkLw) | [DELUSIONAL](https://open.spotify.com/album/1QhZ8MlWlKWXgxUPMEUqzl) | 2:36 | 2026-02-04 |  |
 | [Demand](https://open.spotify.com/track/2XbFgaAJeHIxXKLoOCP9ct) | [San\-Zo](https://open.spotify.com/artist/18blsmgp3MRhbBorIidbkk) | [Demand](https://open.spotify.com/album/6PuTA5KCQpa6zkmNtfhc73) | 4:24 | 2025-09-08 |  |
 | [Descansaré en ti](https://open.spotify.com/track/276k8N2WHMIjgNNboMXpMc) | [Saul Ricco](https://open.spotify.com/artist/0YO4Z5VuQurdNzmFJNNp8i), [Aaron Medrano](https://open.spotify.com/artist/33hywQUvpc6jfugInX2YFr) | [Descansaré en ti](https://open.spotify.com/album/3cGnZGd27qTdZwsVI3W5kw) | 4:05 | 2024-08-22 |  |
 | [Desde El Aire](https://open.spotify.com/track/0kzXeH2uUyktBjKQ5yhALT) | [Fuerza Terrenal](https://open.spotify.com/artist/5xYT8P4Vq7D4If7NKYZLrh) | [Desde El Aire](https://open.spotify.com/album/5X8raWeFghaJCTZAFYedqB) | 5:33 | 2025-08-18 |  |

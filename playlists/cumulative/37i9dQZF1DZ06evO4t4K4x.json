@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 174333,
       "name": "Hannett and Delia synth exchanges track 16",
       "url": "https://open.spotify.com/track/4ZeqdS8vnlZnbPHPdGxLQW"
@@ -1740,6 +1740,28 @@
       "duration_ms": 79946,
       "name": "Hannett and Delia synth exchanges track 7",
       "url": "https://open.spotify.com/track/5lCMhaHwhtTgR7OOf5PjYA"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/7qV3mWdKcPJRXlQXnONvti"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47506,
+      "name": "Hannett and Delia synth exchanges track 8",
+      "url": "https://open.spotify.com/track/1FhA7D9ptZBGD5IvIms24v"
     },
     {
       "album": {

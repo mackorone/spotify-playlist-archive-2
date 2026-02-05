@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 박창근 \(BAK CHANG GEUN\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장범준 \(Jang Beom June\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-650 songs - 1 day 14 hr 15 min
+651 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [40 Something](https://open.spotify.com/track/3Yh8bCr87YilTxwCpUd1gi) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [40 Something / Those Unready Years](https://open.spotify.com/album/0FS5czCk4kQGqovOzd9qTg) | 4:07 | 2025-12-04 | 2026-01-27 |
 | [42](https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [42](https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc) | 2:32 | 2024-10-16 |  |
 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 | 2024-08-22 | 2024-09-04 |
-| [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 | 2025-04-28 | 2026-01-29 |
+| [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 | 2025-04-28 |  |
 | [91](https://open.spotify.com/track/6VtUPmVBAJopwwMWImn252) | [지지](https://open.spotify.com/artist/1KMV5fnQtl2BbKNeQjhoqh) | [The long night is](https://open.spotify.com/album/7AhycLtXrX5cqPaw65zC7j) | 3:18 | 2025-02-18 | 2025-03-15 |
 | [A change of heart](https://open.spotify.com/track/4d5cA8jjecQNwWAO2oVtoU) | [on\_poem](https://open.spotify.com/artist/2lGdHsKg4Kv4KsTfrUxGLL) | [A change of heart](https://open.spotify.com/album/6e0T7rftQKt3so7xHtJhPY) | 3:25 | 2022-01-13 | 2022-04-20 |
 | [A Child](https://open.spotify.com/track/5s96uDVOva3V5PSDXmCiFE) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [White](https://open.spotify.com/album/1cyBVcVvvXhaqz4aYudB4l) | 3:11 | 2024-01-04 | 2024-01-16 |
@@ -300,6 +300,7 @@
 | [Like a tree](https://open.spotify.com/track/5TeloOVkGGz2LJ9l70i8Zx) | [YE ON](https://open.spotify.com/artist/0vbHZmdDC5FcQagW7WPBci) | [Like a tree](https://open.spotify.com/album/6Ofucyh6nAL0ZMEWQxzprW) | 4:55 | 2024-11-06 | 2024-11-21 |
 | [Like Us](https://open.spotify.com/track/5HvwHlHx4eyYh7cmI8xr64) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:30 | 2021-12-10 | 2022-05-09 |
 | [Like you](https://open.spotify.com/track/1QSkVgau9cQJ4OgrLoDpi1) | [Gavy NJ](https://open.spotify.com/artist/6Iyc2IvCGBNStXUmPa8hmu) | [People said break it up](https://open.spotify.com/album/0uyQDNFg7AdQ25hznC9UD5) | 3:46 | 2022-03-31 | 2022-04-19 |
+| [lilac](https://open.spotify.com/track/4zB4KkdJTY3YhlC2CtODcs) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [End of the Month, Jang Beomjune \(January 2026\) – Lilac](https://open.spotify.com/album/5K8owHEoj8fLGzxpflJ9xU) | 3:16 | 2026-02-04 |  |
 | [Little By Little](https://open.spotify.com/track/1CuwvRM23gfdvfz4Dpn6Ua) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Begin Again Open MIC EPISODE\. 14](https://open.spotify.com/album/6LNVvZVEtWbVy6PfhaqKwQ) | 3:12 | 2022-01-13 | 2022-04-08 |
 | [Little I](https://open.spotify.com/track/2AKCk3WnpK5nidRfD5fQSE) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Little I](https://open.spotify.com/album/3zQR7DxfY3i7hy7Z9uhNOk) | 3:15 | 2025-09-24 | 2025-10-10 |
 | [Little Star](https://open.spotify.com/track/1buWeRRCx5QBOrCEvnPtgv) | [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Little Star](https://open.spotify.com/album/0YOo4g8SBSVyq7BTKMtiVO) | 2:26 | 2024-07-23 | 2024-08-06 |
@@ -359,7 +360,7 @@
 | [Night Sky](https://open.spotify.com/track/2s1GJh3L6PXeEm5SgHALZT) | [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [Night Sky](https://open.spotify.com/album/0D9TASJi9ZEpwQFtfZWiDt) | 1:58 | 2021-12-10 | 2022-05-18 |
 | [Night, Star, You](https://open.spotify.com/track/4PulV0p7Jaqpq4YEVGQYTK) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Night, Star, You](https://open.spotify.com/album/49wFjGGRTp4pzYDgNkMaWv) | 3:33 | 2025-12-02 | 2026-01-19 |
 | [No More Us \(feat\. Lovey\)](https://open.spotify.com/track/5r1aleHYFWqVEWqP4npcoL) | [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10), [Lovey](https://open.spotify.com/artist/2z72I5D1aakIVygNC7IAQV) | [No More Us \(feat\. Lovey\)](https://open.spotify.com/album/0AFSqDbXMvWwJ0gavf7kSI) | 2:58 | 2022-03-31 | 2022-04-20 |
-| [No Worry Salon](https://open.spotify.com/track/0qTny0XZx8NOzJLjiOLQoU) | [sanha](https://open.spotify.com/artist/3SSkfDFsKDXm5gwMK47uBR) | [No Worry Salon](https://open.spotify.com/album/6gTnFa78SoCnX1yRFn7leu) | 4:11 | 2026-01-15 |  |
+| [No Worry Salon](https://open.spotify.com/track/0qTny0XZx8NOzJLjiOLQoU) | [sanha](https://open.spotify.com/artist/3SSkfDFsKDXm5gwMK47uBR) | [No Worry Salon](https://open.spotify.com/album/6gTnFa78SoCnX1yRFn7leu) | 4:11 | 2026-01-15 | 2026-02-05 |
 | [nobody in the sea](https://open.spotify.com/track/4M4hcDWeT39ofj1zPzzhiR) | [Coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [nobody in the sea](https://open.spotify.com/album/3KyuLkpPD0YX7SDJNBuCd8) | 3:17 | 2022-02-10 | 2022-04-19 |
 | [Not bad](https://open.spotify.com/track/43PYUV95avDEB6YJ00Vtcj) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [Not Bad](https://open.spotify.com/album/0gdxGX5oH61Mo9dA7czuHB) | 3:44 | 2022-03-31 | 2022-04-23 |
 | [Not Just Anybody](https://open.spotify.com/track/6nI7npgbFiqYXc3cGWaGq0) | [BeyondAll](https://open.spotify.com/artist/6mPjLovJDCsUhrtEplPW72) | [Breakwater, Sincerity](https://open.spotify.com/album/2Ek9T8lKbXVhOIcN0nXoQj) | 2:53 | 2025-07-17 | 2025-08-08 |
@@ -639,7 +640,7 @@
 | [비의 노래 \(The Song of Rain\)](https://open.spotify.com/track/2w3p7Aqseg9sYaYjDWYQHD) | [Kang Kyun Sung](https://open.spotify.com/artist/5WwAKeVt8r1C9LTt4vfOI9) | [비의 노래 \(The Song of Rain\)](https://open.spotify.com/album/26EmdF1xypZgDvd8oNgwEm) | 2:36 | 2025-10-02 | 2025-10-10 |
 | [사랑의 언어 Love Language](https://open.spotify.com/track/0xqtS4SOVkz42r5Yegp75J) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Natural I](https://open.spotify.com/album/2G7dMVzpNZMDbhPvULZcE3) | 3:50 | 2024-02-20 | 2024-03-07 |
 | [사랑이 게으름으로 잔뜩 쌓여져 갈 때](https://open.spotify.com/track/3MOcIiyqd9r14YDIeZqhuj) | [이층버스](https://open.spotify.com/artist/7wF8XnangErTa3w9hILf13) | [사랑이 게으름으로 잔뜩 쌓여져 갈 때](https://open.spotify.com/album/27Ies0kxzzilbhfwTrlQJj) | 4:32 | 2022-03-31 | 2022-04-19 |
-| [서로 사랑하는 마음](https://open.spotify.com/track/64GCpxU4PsAX7a2A96niEN) | [찰리빈웍스](https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF) | [서로 사랑하는 마음](https://open.spotify.com/album/4AUjsrzL4QHLPcqbKgwHMn) | 3:15 | 2026-01-15 |  |
+| [서로 사랑하는 마음](https://open.spotify.com/track/64GCpxU4PsAX7a2A96niEN) | [찰리빈웍스](https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF) | [서로 사랑하는 마음](https://open.spotify.com/album/4AUjsrzL4QHLPcqbKgwHMn) | 3:15 | 2026-01-15 | 2026-02-05 |
 | [선인장 \(Vocal By 심규선\)](https://open.spotify.com/track/15nO3s4A5Bl1838kzBT8ym) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN), [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [유실물 보관소](https://open.spotify.com/album/5n1NNhLPzFUCxy2gKLjUQc) | 3:30 | 2022-03-31 | 2022-04-21 |
 | [소중한 사람](https://open.spotify.com/track/6fLU2bijVBUZtG3bCY6Ffl) | [한세영](https://open.spotify.com/artist/3UpDjV6j4gsRntwhmDHly5) | [소중한 사람](https://open.spotify.com/album/33YIzft9BfwBVc09lduiIm) | 4:06 | 2024-02-07 | 2024-03-07 |
 | [안아줄게 Hug](https://open.spotify.com/track/47eclhrYK6S9x4jdkyxI2C) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [REPLAY \- The 8th Repackage Album](https://open.spotify.com/album/5uxH9so2Yrmi6nLClUZJkv) | 3:46 | 2022-03-31 | 2022-04-07 |

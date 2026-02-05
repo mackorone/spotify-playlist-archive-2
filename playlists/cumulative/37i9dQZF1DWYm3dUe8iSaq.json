@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 236033,
       "name": "Just Be Simple",
       "url": "https://open.spotify.com/track/6qyGUBuAZWg0gFbjmq2K0U"
@@ -5926,6 +5926,24 @@
       "duration_ms": 182727,
       "name": "Take This Body Home",
       "url": "https://open.spotify.com/track/0A9mEncnUg9FRtltjsd02R"
+    },
+    {
+      "album": {
+        "name": "Until The Comet Came",
+        "url": "https://open.spotify.com/album/1Ag9sz7rFDlTiHtacxRQ17"
+      },
+      "artists": [
+        {
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246879,
+      "name": "Team Babe",
+      "url": "https://open.spotify.com/track/6TqVmfK0Um2rK6ozp3E8dG"
     },
     {
       "album": {

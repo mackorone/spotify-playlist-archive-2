@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,458 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,466 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Mami Ya Suéltalo](https://open.spotify.com/track/6UgY9GIRMGkl1MOWBm0SKE) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Alexxbacacho](https://open.spotify.com/artist/0B1AssDwSsJD8QdqM6o5Ml) | [Mami Ya Suéltalo](https://open.spotify.com/album/5u6rJI2tiliRm3YAwIYCDG) | 2:36 |
 | 50 | [Smoke](https://open.spotify.com/track/1BKfnWOViooRpW2pAs3YLT) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Smoke](https://open.spotify.com/album/1BTyb724qBItdFLINxaAPp) | 3:00 |
 
-Snapshot ID: `aX/pAAAAAADU60t/sjOVzzGsazrrYZfd`
+Snapshot ID: `aYE6gAAAAABeC6AGD4sMll65FRkY5pbs`

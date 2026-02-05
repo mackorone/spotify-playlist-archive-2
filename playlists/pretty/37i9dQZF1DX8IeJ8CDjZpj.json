@@ -1,6 +1,6 @@
 {
   "description": "2026 es el nuevo 2016 \ud83d\udcf8 Justin Bieber",
-  "num_followers": 89930,
+  "num_followers": 90489,
   "original_name": "2016 vibes \u2728",
   "owner": {
     "name": "Spotify",
@@ -961,7 +961,7 @@
         }
       ],
       "duration_ms": 166138,
-      "name": "Light It Up (feat. Nyla & Fuse ODG) [Remix]",
+      "name": "Light It Up",
       "url": "https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY"
     },
     {
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Don't Mind",
-        "url": "https://open.spotify.com/album/0l28Q1FFEA0mtpEdEQw1r3"
-      },
-      "artists": [
-        {
-          "name": "Kent Jones",
-          "url": "https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO"
-        }
-      ],
-      "duration_ms": 198236,
-      "name": "Don't Mind",
-      "url": "https://open.spotify.com/track/27PmvZoffODNFW2p7ehZTQ"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Desde El Rancho",
         "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 193386,
       "name": "Amor Del Bueno",
       "url": "https://open.spotify.com/track/6CmFzaTvg7lRSAWwHmBDfj"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Don't Mind",
+        "url": "https://open.spotify.com/album/0l28Q1FFEA0mtpEdEQw1r3"
+      },
+      "artists": [
+        {
+          "name": "Kent Jones",
+          "url": "https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO"
+        }
+      ],
+      "duration_ms": 198236,
+      "name": "Don't Mind",
+      "url": "https://open.spotify.com/track/27PmvZoffODNFW2p7ehZTQ"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Durmiendo en el Lugar Equivocado",
-        "url": "https://open.spotify.com/album/0niloiK76YpMEqEO698GIF"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 195194,
-      "name": "Te Dir\u00e1n",
-      "url": "https://open.spotify.com/track/1Z0OcQTJWRBvzzGl7D7TtJ"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Pegao en Youtube",
         "url": "https://open.spotify.com/album/0tPACU9RiGW8i2ltvbKDTF"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 214726,
       "name": "Xapiadora",
       "url": "https://open.spotify.com/track/3Gfs29GWViOqUnHSBq911p"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Durmiendo en el Lugar Equivocado",
+        "url": "https://open.spotify.com/album/0niloiK76YpMEqEO698GIF"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 195194,
+      "name": "Te Dir\u00e1n",
+      "url": "https://open.spotify.com/track/1Z0OcQTJWRBvzzGl7D7TtJ"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+        "name": "Pegao en Youtube",
+        "url": "https://open.spotify.com/album/0tPACU9RiGW8i2ltvbKDTF"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "La Mafia del Amor",
+          "url": "https://open.spotify.com/artist/58BvN1pGtlKYP897Qsq5QA"
         }
       ],
-      "duration_ms": 220609,
-      "name": "Burn the Witch",
-      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
+      "duration_ms": 225959,
+      "name": "Tropical",
+      "url": "https://open.spotify.com/track/1c3lEwfoPzQ52Wq7G0RNCA"
     }
   ],
   "unique_name": "2016 vibes \u2728",

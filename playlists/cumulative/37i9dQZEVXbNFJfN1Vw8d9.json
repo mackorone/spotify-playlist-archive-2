@@ -692,7 +692,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 299325,
       "name": "444 - Remix",
       "url": "https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh"
@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 131914,
       "name": "Bad Voy",
       "url": "https://open.spotify.com/track/0WIVpc0hKNxjHkl9xNxw6P"
@@ -7232,7 +7232,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/6N2iccqxRInhTLHc2Fu3W0"
@@ -16724,7 +16724,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 263942,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5"
@@ -18868,7 +18868,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -28024,7 +28024,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 253658,
       "name": "Scat Pack",
       "url": "https://open.spotify.com/track/4yWrEuYXr9YB1nHbuPxfUU"
@@ -28436,6 +28436,28 @@
       "duration_ms": 137012,
       "name": "SETEADORA",
       "url": "https://open.spotify.com/track/7DprNQSiwC4jBV7bwY761J"
+    },
+    {
+      "album": {
+        "name": "SETEADORA REMIX (with JC Reyes)",
+        "url": "https://open.spotify.com/album/0bvKMOZuhOUU0cbxfcmqEl"
+      },
+      "artists": [
+        {
+          "name": "LAJA",
+          "url": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121858,
+      "name": "SETEADORA REMIX (with JC Reyes)",
+      "url": "https://open.spotify.com/track/55ZSaezLr7fNrkLL0WCpOD"
     },
     {
       "album": {
@@ -35102,7 +35124,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 220173,
       "name": "YSL",
       "url": "https://open.spotify.com/track/2f9KKPKgASUYZqo1JBJuFO"

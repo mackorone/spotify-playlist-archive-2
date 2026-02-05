@@ -1,15 +1,15 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring KE-YEN.\n",
-  "num_followers": 209945,
+  "num_followers": 209979,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANkVu2kKuo6A89vYrpTPXf7bxPJP",
+  "snapshot_id": "AAAAAPqT/qRzhv3myuhXlz1qdWR6f07J",
   "tracks": [
     {
-      "added_at": "2026-01-28 16:55:42",
+      "added_at": "2026-01-23 05:00:26",
       "album": {
         "name": "MOVE THAT BODY",
         "url": "https://open.spotify.com/album/1GU3WNgi1R5nilwP6TyA6S"
@@ -20,25 +20,25 @@
           "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
         }
       ],
-      "duration_ms": 199600,
-      "name": "CHECK THE GROOVE",
-      "url": "https://open.spotify.com/track/4OtKS4PY2FZzDAu3LQTVPS"
+      "duration_ms": 255086,
+      "name": "MOVE THAT BODY",
+      "url": "https://open.spotify.com/track/6RHDOtXxAjEB39xz9A3nAw"
     },
     {
-      "added_at": "2026-01-23 17:35:42",
+      "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/5KisNB2QCQ9og79IziCrYp"
+        "name": "Vandal EP",
+        "url": "https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX"
       },
       "artists": [
         {
-          "name": "JATO",
-          "url": "https://open.spotify.com/artist/7KARoSPxRf4ovDN7XxpqYa"
+          "name": "MARTHA",
+          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
         }
       ],
-      "duration_ms": 184015,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/3Z6iA9iNhiKQIxib5VwcXp"
+      "duration_ms": 245273,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -61,76 +61,100 @@
       "url": "https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf"
     },
     {
-      "added_at": "2026-01-23 05:00:26",
+      "added_at": "2026-01-15 15:31:15",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/19z1oEwjBsQb9DSCqGRaq5"
+        "name": "Work To Tha Beat",
+        "url": "https://open.spotify.com/album/7FYCOuwYCFY49zF9luWYCk"
       },
       "artists": [
         {
-          "name": "Noah Baine",
-          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
         }
       ],
-      "duration_ms": 172706,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/4RWk0U7Fk6Y6TCLk0THcfN"
+      "duration_ms": 123750,
+      "name": "Work To Tha Beat",
+      "url": "https://open.spotify.com/track/2U1a9MYxmdZP1EHVx9CVyU"
     },
     {
-      "added_at": "2026-01-28 16:55:42",
+      "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Hibiscus",
-        "url": "https://open.spotify.com/album/16xUaFfdxnpmb17DzzJPzn"
+        "name": "Bounce 03",
+        "url": "https://open.spotify.com/album/1j9noJqTsXq0vlHOPouLmx"
       },
       "artists": [
         {
-          "name": "Carr\u00e9",
-          "url": "https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202"
-        },
-        {
-          "name": "Bbyafricka",
-          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
+          "name": "3LEEZA",
+          "url": "https://open.spotify.com/artist/7xoexOjio0HiK5aUmPWsjO"
         }
       ],
-      "duration_ms": 179808,
-      "name": "Hibiscus",
-      "url": "https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R"
+      "duration_ms": 231382,
+      "name": "Bounce 03",
+      "url": "https://open.spotify.com/track/6x38ulkw93vhg3MEaX9Agy"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Tacat\u00e1",
+        "url": "https://open.spotify.com/album/0XIunmUmCiWnHYWpDaXNFt"
+      },
+      "artists": [
+        {
+          "name": "Lisa Korver",
+          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
+        }
+      ],
+      "duration_ms": 166993,
+      "name": "Tacat\u00e1",
+      "url": "https://open.spotify.com/track/5h3PqklN6mnrMYyKOCW2ly"
+    },
+    {
+      "added_at": "2026-01-23 17:35:42",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/5KisNB2QCQ9og79IziCrYp"
+      },
+      "artists": [
+        {
+          "name": "JATO",
+          "url": "https://open.spotify.com/artist/7KARoSPxRf4ovDN7XxpqYa"
+        }
+      ],
+      "duration_ms": 184015,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/3Z6iA9iNhiKQIxib5VwcXp"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Directions EP",
+        "url": "https://open.spotify.com/album/2PJiTaXSMhzfNgka56LnXN"
+      },
+      "artists": [
+        {
+          "name": "FLORENTIA",
+          "url": "https://open.spotify.com/artist/34FR7Jh5TlMsmEVUlHVzmD"
+        }
+      ],
+      "duration_ms": 173871,
+      "name": "Directions",
+      "url": "https://open.spotify.com/track/4cFoSG4m7W9rEQEnxeuoyB"
     },
     {
       "added_at": "2026-01-21 18:53:17",
       "album": {
-        "name": "From The Top",
-        "url": "https://open.spotify.com/album/6pO53drQ05K22RL1Ac7cwT"
+        "name": "Why Don't You Love Me",
+        "url": "https://open.spotify.com/album/1bpMmine1onCfOKeRfeRc3"
       },
       "artists": [
         {
-          "name": "Alex Culross",
-          "url": "https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD"
+          "name": "Kotti Affair",
+          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
         }
       ],
-      "duration_ms": 208615,
-      "name": "From The Top",
-      "url": "https://open.spotify.com/track/5ELPO5jIJsvx01w5WIpXXf"
-    },
-    {
-      "added_at": "2026-01-21 18:53:17",
-      "album": {
-        "name": "Brain",
-        "url": "https://open.spotify.com/album/08Q5LvgHul1FRzgAHJGInQ"
-      },
-      "artists": [
-        {
-          "name": "Hilel Lev",
-          "url": "https://open.spotify.com/artist/4V3TzdJEP0khoPzEcLLfM3"
-        },
-        {
-          "name": "ForgiveMeTommy!",
-          "url": "https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA"
-        }
-      ],
-      "duration_ms": 424390,
-      "name": "Brain",
-      "url": "https://open.spotify.com/track/5Y5IeRVVXc2uUWKnzEBqsR"
+      "duration_ms": 244850,
+      "name": "Why Don't You Love Me",
+      "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
     },
     {
       "added_at": "2026-01-28 16:55:42",
@@ -153,6 +177,206 @@
       "url": "https://open.spotify.com/track/2eltpVluPhTkJUyfjIm9JW"
     },
     {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Stand by me",
+        "url": "https://open.spotify.com/album/7iCCfEtNlx7WuTbwFTrOTv"
+      },
+      "artists": [
+        {
+          "name": "MRZ",
+          "url": "https://open.spotify.com/artist/6CQN5a3AhMnATAY3QSUZNl"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Bring it all",
+      "url": "https://open.spotify.com/track/6vnxzCC1En33sQsdYxR7og"
+    },
+    {
+      "added_at": "2026-01-23 05:00:26",
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/0EMjuR1Khcnfsz6rVg3CKw"
+      },
+      "artists": [
+        {
+          "name": "Kara Okay",
+          "url": "https://open.spotify.com/artist/6KyV1kU48HwGZpcQYy9cpR"
+        },
+        {
+          "name": "Freddi",
+          "url": "https://open.spotify.com/artist/4Zd4UkFH4ixGwkoC2rwigR"
+        }
+      ],
+      "duration_ms": 222481,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/1uW61kwzsvy4bnoexyz3Ad"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Y U DO IT LIKE DAT",
+        "url": "https://open.spotify.com/album/2HZPLODruAlFLJiz8aquem"
+      },
+      "artists": [
+        {
+          "name": "ZUKE",
+          "url": "https://open.spotify.com/artist/0EASKevzBdKdqfOEvXHnBA"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Y U DO IT LIKE DAT",
+      "url": "https://open.spotify.com/track/7B6Hg4pLKWbvHgkivAeLjU"
+    },
+    {
+      "added_at": "2026-01-21 18:53:17",
+      "album": {
+        "name": "From The Top",
+        "url": "https://open.spotify.com/album/6pO53drQ05K22RL1Ac7cwT"
+      },
+      "artists": [
+        {
+          "name": "Alex Culross",
+          "url": "https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "From The Top",
+      "url": "https://open.spotify.com/track/5ELPO5jIJsvx01w5WIpXXf"
+    },
+    {
+      "added_at": "2026-01-23 05:00:26",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/19z1oEwjBsQb9DSCqGRaq5"
+      },
+      "artists": [
+        {
+          "name": "Noah Baine",
+          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/4RWk0U7Fk6Y6TCLk0THcfN"
+    },
+    {
+      "added_at": "2026-01-15 15:31:15",
+      "album": {
+        "name": "GET WHAT I WANT",
+        "url": "https://open.spotify.com/album/1KsJR6P8hrNrGgHcs0sFql"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "duration_ms": 132026,
+      "name": "GET WHAT I WANT",
+      "url": "https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "BOARD SHORTS EP",
+        "url": "https://open.spotify.com/album/05YQ0zn8KYeUm8DuJjKxpd"
+      },
+      "artists": [
+        {
+          "name": "Hyan",
+          "url": "https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU"
+        }
+      ],
+      "duration_ms": 325454,
+      "name": "BOARD SHORTS",
+      "url": "https://open.spotify.com/track/2UKAII37kaqeME2T2NfAQL"
+    },
+    {
+      "added_at": "2026-01-23 05:00:26",
+      "album": {
+        "name": "Touched EP",
+        "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
+      },
+      "artists": [
+        {
+          "name": "Louis Millne",
+          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
+        }
+      ],
+      "duration_ms": 242790,
+      "name": "Touched",
+      "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
+    },
+    {
+      "added_at": "2026-01-28 16:55:42",
+      "album": {
+        "name": "MOVE THAT BODY",
+        "url": "https://open.spotify.com/album/1GU3WNgi1R5nilwP6TyA6S"
+      },
+      "artists": [
+        {
+          "name": "KE-YEN",
+          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "CHECK THE GROOVE",
+      "url": "https://open.spotify.com/track/4OtKS4PY2FZzDAu3LQTVPS"
+    },
+    {
+      "added_at": "2026-01-28 16:55:42",
+      "album": {
+        "name": "Hibiscus",
+        "url": "https://open.spotify.com/album/16xUaFfdxnpmb17DzzJPzn"
+      },
+      "artists": [
+        {
+          "name": "Carr\u00e9",
+          "url": "https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202"
+        },
+        {
+          "name": "Bbyafricka",
+          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
+        }
+      ],
+      "duration_ms": 179808,
+      "name": "Hibiscus",
+      "url": "https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Vandal EP",
+        "url": "https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX"
+      },
+      "artists": [
+        {
+          "name": "MARTHA",
+          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
+        }
+      ],
+      "duration_ms": 262298,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/14IGqM6Pyekb2rG5me83kS"
+    },
+    {
+      "added_at": "2026-01-23 05:00:26",
+      "album": {
+        "name": "UGETME?",
+        "url": "https://open.spotify.com/album/5TqFpG0ivHJJQBgWOxzrXD"
+      },
+      "artists": [
+        {
+          "name": "Arky Waters",
+          "url": "https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "UGETME?",
+      "url": "https://open.spotify.com/track/7k9QjWexvVU4668f4UhsBH"
+    },
+    {
       "added_at": "2026-01-30 05:01:11",
       "album": {
         "name": "Heart",
@@ -173,20 +397,24 @@
       "url": "https://open.spotify.com/track/2woJDJD5c1smpFdkWa4kpu"
     },
     {
-      "added_at": "2026-01-15 15:31:15",
+      "added_at": "2026-01-21 18:53:17",
       "album": {
-        "name": "GET WHAT I WANT",
-        "url": "https://open.spotify.com/album/1KsJR6P8hrNrGgHcs0sFql"
+        "name": "Brain",
+        "url": "https://open.spotify.com/album/08Q5LvgHul1FRzgAHJGInQ"
       },
       "artists": [
         {
-          "name": "MAYV",
-          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+          "name": "Hilel Lev",
+          "url": "https://open.spotify.com/artist/4V3TzdJEP0khoPzEcLLfM3"
+        },
+        {
+          "name": "ForgiveMeTommy!",
+          "url": "https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA"
         }
       ],
-      "duration_ms": 132026,
-      "name": "GET WHAT I WANT",
-      "url": "https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW"
+      "duration_ms": 424390,
+      "name": "Brain",
+      "url": "https://open.spotify.com/track/5Y5IeRVVXc2uUWKnzEBqsR"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -211,42 +439,6 @@
       "duration_ms": 231643,
       "name": "CARBONE",
       "url": "https://open.spotify.com/track/7MSzSzgKJYOT5YP0QkugAB"
-    },
-    {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "UGETME?",
-        "url": "https://open.spotify.com/album/5TqFpG0ivHJJQBgWOxzrXD"
-      },
-      "artists": [
-        {
-          "name": "Arky Waters",
-          "url": "https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "UGETME?",
-      "url": "https://open.spotify.com/track/7k9QjWexvVU4668f4UhsBH"
-    },
-    {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/0EMjuR1Khcnfsz6rVg3CKw"
-      },
-      "artists": [
-        {
-          "name": "Kara Okay",
-          "url": "https://open.spotify.com/artist/6KyV1kU48HwGZpcQYy9cpR"
-        },
-        {
-          "name": "Freddi",
-          "url": "https://open.spotify.com/artist/4Zd4UkFH4ixGwkoC2rwigR"
-        }
-      ],
-      "duration_ms": 222481,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/1uW61kwzsvy4bnoexyz3Ad"
     },
     {
       "added_at": "2026-01-28 16:55:42",
@@ -281,22 +473,6 @@
       "url": "https://open.spotify.com/track/700RWaQjL1fKlIIXBzORp7"
     },
     {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "MOVE THAT BODY",
-        "url": "https://open.spotify.com/album/1GU3WNgi1R5nilwP6TyA6S"
-      },
-      "artists": [
-        {
-          "name": "KE-YEN",
-          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
-        }
-      ],
-      "duration_ms": 255086,
-      "name": "MOVE THAT BODY",
-      "url": "https://open.spotify.com/track/6RHDOtXxAjEB39xz9A3nAw"
-    },
-    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "tenk(e)i",
@@ -315,22 +491,6 @@
       "duration_ms": 296403,
       "name": "tenk(e)i",
       "url": "https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj"
-    },
-    {
-      "added_at": "2026-01-21 18:53:17",
-      "album": {
-        "name": "Why Don't You Love Me",
-        "url": "https://open.spotify.com/album/1bpMmine1onCfOKeRfeRc3"
-      },
-      "artists": [
-        {
-          "name": "Kotti Affair",
-          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
-        }
-      ],
-      "duration_ms": 244850,
-      "name": "Why Don't You Love Me",
-      "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
     },
     {
       "added_at": "2026-01-15 15:31:15",
@@ -429,22 +589,6 @@
       "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
     },
     {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "Touched EP",
-        "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
-      },
-      "artists": [
-        {
-          "name": "Louis Millne",
-          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
-        }
-      ],
-      "duration_ms": 242790,
-      "name": "Touched",
-      "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
-    },
-    {
       "added_at": "2026-01-28 16:55:42",
       "album": {
         "name": "Buggin'",
@@ -459,22 +603,6 @@
       "duration_ms": 201230,
       "name": "Buggin'",
       "url": "https://open.spotify.com/track/4PsoZydr2gvlK1FKm9YH2C"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "Work To Tha Beat",
-        "url": "https://open.spotify.com/album/7FYCOuwYCFY49zF9luWYCk"
-      },
-      "artists": [
-        {
-          "name": "Secret Floor",
-          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "Work To Tha Beat",
-      "url": "https://open.spotify.com/track/2U1a9MYxmdZP1EHVx9CVyU"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -779,42 +907,6 @@
     {
       "added_at": "2026-01-15 15:31:15",
       "album": {
-        "name": "Needed U",
-        "url": "https://open.spotify.com/album/7s8O7TucIx92DbNly71NSt"
-      },
-      "artists": [
-        {
-          "name": "Ben Gold",
-          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
-        },
-        {
-          "name": "Trancemaster Krause",
-          "url": "https://open.spotify.com/artist/5zKJhJZNLAQoVoycu4Esnw"
-        }
-      ],
-      "duration_ms": 191020,
-      "name": "Needed U",
-      "url": "https://open.spotify.com/track/2yDp1TsniBf5xHotP0jfA3"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "Gonna B",
-        "url": "https://open.spotify.com/album/5sac9JyxOEqMMQZt35M4We"
-      },
-      "artists": [
-        {
-          "name": "zacattacq",
-          "url": "https://open.spotify.com/artist/27a1KqccmjqualZvUVfTKT"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Gonna B",
-      "url": "https://open.spotify.com/track/1HPq0oeVwlh291dUg6eFue"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/4N5IWtgq34vNQ7kkifSo4H"
       },
@@ -1027,22 +1119,6 @@
       "duration_ms": 161379,
       "name": "ROLL OUT",
       "url": "https://open.spotify.com/track/6wTWdrWYSPURvUb9MqcN18"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "FLOW",
-        "url": "https://open.spotify.com/album/0m74ODXL9JXYW15u1HUEux"
-      },
-      "artists": [
-        {
-          "name": "M3RCH",
-          "url": "https://open.spotify.com/artist/6skWnmhNXBlEywqd1PHGC8"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "FLOW",
-      "url": "https://open.spotify.com/track/6rSNKEz0sbqwysA6OJOGwe"
     },
     {
       "added_at": "2026-01-15 15:31:15",

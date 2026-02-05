@@ -5260,7 +5260,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 260000,
       "name": "A Daily Song(2026)",
       "url": "https://open.spotify.com/track/3EJtMUeF0WS8J4jUBlBp47"
@@ -28445,6 +28445,28 @@
     },
     {
       "album": {
+        "name": "Blind to You",
+        "url": "https://open.spotify.com/album/5f9TqraLvrSjN2nBO7oBIn"
+      },
+      "artists": [
+        {
+          "name": "puffitboi",
+          "url": "https://open.spotify.com/artist/3LGI9nxRJYNLLn1Cz8yoq2"
+        },
+        {
+          "name": "Tae In",
+          "url": "https://open.spotify.com/artist/6bZntswtHgx9VhRERIQqPn"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210744,
+      "name": "Blind to You (feat. TAE-IN)",
+      "url": "https://open.spotify.com/track/056L7Tgbt99BIHz6TeoUDh"
+    },
+    {
+      "album": {
         "name": "Blinded",
         "url": "https://open.spotify.com/album/5kM1pxqGfFhXBqbtFRjaTb"
       },
@@ -48226,6 +48248,24 @@
       "duration_ms": 210000,
       "name": "Crazy Excuse",
       "url": "https://open.spotify.com/track/1b5lEXjKIC3LwU4nd9J59z"
+    },
+    {
+      "album": {
+        "name": "Crazy Fool",
+        "url": "https://open.spotify.com/album/5IuRXvX2UuTjvod9F8EU0I"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Crazy Fool",
+      "url": "https://open.spotify.com/track/16LNhwdZSgjmiAMIm2yjR6"
     },
     {
       "album": {
@@ -105539,6 +105579,24 @@
     },
     {
       "album": {
+        "name": "BOYNEXTDOOR TOUR \u2018KNOCK ON Vol.1\u2019 FINAL (LIVE)",
+        "url": "https://open.spotify.com/album/4ToqvVUbHU1bJNNmkJSkLK"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166858,
+      "name": "I Feel Good (Live Ver.)",
+      "url": "https://open.spotify.com/track/7rf1HYMl0ZjPLO8HbWbc7a"
+    },
+    {
+      "album": {
         "name": "I feel Hope",
         "url": "https://open.spotify.com/album/41R2txUhTHp3Mxab1YBBtt"
       },
@@ -110642,7 +110700,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 232271,
       "name": "I will go to you like the first snow - Change Street Version",
       "url": "https://open.spotify.com/track/5tSfRB4LCh3tGWCYFsso09"
@@ -111626,7 +111684,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 228000,
       "name": "I'll Remember",
       "url": "https://open.spotify.com/track/7oArq8xkRKeRDOnOv45PmS"
@@ -130495,6 +130553,24 @@
     },
     {
       "album": {
+        "name": "SENESI",
+        "url": "https://open.spotify.com/album/2cc7T7oCsii2cddulyrb2y"
+      },
+      "artists": [
+        {
+          "name": "Senesi",
+          "url": "https://open.spotify.com/artist/3ND2qOMxYz9jQ3ytb8BAa6"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211780,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/71LZA2iGBzDqZ2vlTDFLo7"
+    },
+    {
+      "album": {
         "name": "Flight of Ideas",
         "url": "https://open.spotify.com/album/5ltx7Ymz3nbxmojfuNdf6a"
       },
@@ -132664,6 +132740,24 @@
       "duration_ms": 186750,
       "name": "LIE LIE (FEAT. GIRIBOY)",
       "url": "https://open.spotify.com/track/05myRLCO0MGKql3Xwv4Sqb"
+    },
+    {
+      "album": {
+        "name": "LIE LIE LIE",
+        "url": "https://open.spotify.com/album/1LXGcl8lCXhZx7XjmvZ1kE"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "LIE LIE LIE",
+      "url": "https://open.spotify.com/track/6BvHxN7P7ZQDRpMtA9S8Wu"
     },
     {
       "album": {
@@ -145578,7 +145672,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 182920,
       "name": "Loving you came easy",
       "url": "https://open.spotify.com/track/1qVTJQBU7Kq5HjFH9pVcyl"
@@ -153536,7 +153630,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 177000,
       "name": "MirroR (VIVINOS - ALNST Sub : MIZI Part.2)",
       "url": "https://open.spotify.com/track/3Wy9ECMvTALQJpraseByO3"
@@ -170468,6 +170562,28 @@
       "duration_ms": 224550,
       "name": "Oh, Love",
       "url": "https://open.spotify.com/track/1G0TFPZipyn1bLyQvKtPnx"
+    },
+    {
+      "album": {
+        "name": "Oh, My Beloved! Musical <Anna Karenina>",
+        "url": "https://open.spotify.com/album/01DkjC5JA9dvh2CfPMEOxI"
+      },
+      "artists": [
+        {
+          "name": "Roman Ignatyev",
+          "url": "https://open.spotify.com/artist/75CF87u3Q7fasW4jwS2Cfe"
+        },
+        {
+          "name": "Hye Jung Kang",
+          "url": "https://open.spotify.com/artist/2dsWTsDjKUyVDJ4MBeMgWk"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223274,
+      "name": "Oh, My Beloved! Musical <Anna Karenina>",
+      "url": "https://open.spotify.com/track/04zMsMRAr3T8uIXH27x4cw"
     },
     {
       "album": {
@@ -197650,7 +197766,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 248000,
       "name": "Sail",
       "url": "https://open.spotify.com/track/18VqjfMIdKa3Co07tmzNdI"
@@ -201146,7 +201262,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 197000,
       "name": "Seen the Scene",
       "url": "https://open.spotify.com/track/2ZnRfvoWohat4nrdkTz5Da"
@@ -206774,7 +206890,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 178038,
       "name": "Siren Call",
       "url": "https://open.spotify.com/track/6lGuSxbFpjeKlFL9T22N7n"
@@ -242587,6 +242703,24 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6ICc4DeDK0eeYWrAygPpH3"
+      },
+      "artists": [
+        {
+          "name": "YOUTH",
+          "url": "https://open.spotify.com/artist/4Sy3hTEHnY87hZ54W9RtsZ"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152921,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/0l41U8pviw1IrE9TBCUKJ5"
+    },
+    {
+      "album": {
         "name": "Tonight (Feat. Summer Soul)",
         "url": "https://open.spotify.com/album/6KeFlvykuxCkKSHYPXrc8u"
       },
@@ -247744,7 +247878,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 212316,
       "name": "Unforgettable first love",
       "url": "https://open.spotify.com/track/6S7FRqGNjoREwroMRvXg1k"
@@ -247878,6 +248012,24 @@
       "duration_ms": 252706,
       "name": "Unhappiness",
       "url": "https://open.spotify.com/track/3o1Myd7WTxfeK49bRjRmPh"
+    },
+    {
+      "album": {
+        "name": "unhealed",
+        "url": "https://open.spotify.com/album/1pHH4iF0jVStGcmv1G5GrC"
+      },
+      "artists": [
+        {
+          "name": "Park Jae Hyung",
+          "url": "https://open.spotify.com/artist/1dqxhkmpQK3YWLPRjnW9QT"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "unhealed",
+      "url": "https://open.spotify.com/track/3F6yjpDUTBY7ZvaU3hVphf"
     },
     {
       "album": {
@@ -255032,7 +255184,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 189200,
       "name": "We Got a Fire",
       "url": "https://open.spotify.com/track/2sL90a62Lch1RAHofR6O5P"
@@ -262583,6 +262735,24 @@
     },
     {
       "album": {
+        "name": "WHY U MAD",
+        "url": "https://open.spotify.com/album/7pYqeQfT7oGXkOvMPNlDFl"
+      },
+      "artists": [
+        {
+          "name": "SKINZ (\uc2a4\ud0a8\uc988)",
+          "url": "https://open.spotify.com/artist/2cAsfUrYw6wZqLjQ0JBQW6"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "WHY U MAD",
+      "url": "https://open.spotify.com/track/1xUgcg8UoxZojDvVdE2CqZ"
+    },
+    {
+      "album": {
         "name": "Why Would I",
         "url": "https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu"
       },
@@ -264644,7 +264814,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 164000,
       "name": "Wish Upon the Stars",
       "url": "https://open.spotify.com/track/6c70KuwpJirCwpcvv1RGXV"
@@ -268819,6 +268989,36 @@
     },
     {
       "album": {
+        "name": "Yin and Yang (Feat. DEAN, PENOMECO) [FANXY CHILD Ver.]",
+        "url": "https://open.spotify.com/album/5zcPl24xa0wV5JXjzzs8oq"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Yin and Yang (Feat. DEAN, PENOMECO) - FANXY CHILD Ver.",
+      "url": "https://open.spotify.com/track/5VWjUgKTeDoX5GJGgfUSXM"
+    },
+    {
+      "album": {
         "name": "ylang ylang",
         "url": "https://open.spotify.com/album/0hz2w0stGDvkrhRuYfYlYJ"
       },
@@ -269356,6 +269556,28 @@
       "duration_ms": 190403,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/56s9zc3mWOFpU8zj882CWD"
+    },
+    {
+      "album": {
+        "name": "You & me (feat. Aden)",
+        "url": "https://open.spotify.com/album/7Fpf1XVt9kLN7a6aUMX6OG"
+      },
+      "artists": [
+        {
+          "name": "hayawn",
+          "url": "https://open.spotify.com/artist/11pZfkzrWyui2d6ExeB6Oo"
+        },
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "You & me (feat. Aden)",
+      "url": "https://open.spotify.com/track/6dzNqjEKoNH8dcxEfoCgdj"
     },
     {
       "album": {

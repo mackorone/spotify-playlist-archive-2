@@ -5659,6 +5659,24 @@
     },
     {
       "album": {
+        "name": "Midnight Frequency",
+        "url": "https://open.spotify.com/album/2Cnxnw6rfRVFvxyO7DPh2U"
+      },
+      "artists": [
+        {
+          "name": "THE KING YOUTHFULNESS",
+          "url": "https://open.spotify.com/artist/390HdFpUeNh5Fir2cFd3Py"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256480,
+      "name": "Midnight Frequency",
+      "url": "https://open.spotify.com/track/4PDMpPriPr8iuacmYge1rp"
+    },
+    {
+      "album": {
         "name": "Mik Jak",
         "url": "https://open.spotify.com/album/433l4WD8ARq9fGTd5CiO3g"
       },

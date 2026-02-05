@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -5291,6 +5291,24 @@
     },
     {
       "album": {
+        "name": "Bazooka",
+        "url": "https://open.spotify.com/album/6cM8Ky6V5piRMcuePn2H4L"
+      },
+      "artists": [
+        {
+          "name": "Miami XO",
+          "url": "https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108121,
+      "name": "Bazooka",
+      "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
+    },
+    {
+      "album": {
         "name": "BBL Drizzy",
         "url": "https://open.spotify.com/album/5O9KPMViFXsubjxMDjr0HR"
       },
@@ -7392,7 +7410,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 120375,
       "name": "Booma Yee",
       "url": "https://open.spotify.com/track/5r9OW92KrWYJ1GAkMSxKJd"
@@ -8906,7 +8924,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 91634,
       "name": "CARAMEL JESTER",
       "url": "https://open.spotify.com/track/2Emg9UfihjAkFU3mlal2i9"
@@ -14516,6 +14534,24 @@
       "duration_ms": 221106,
       "name": "En nuit",
       "url": "https://open.spotify.com/track/2TnfUjv4rwqskSHCj4NY7b"
+    },
+    {
+      "album": {
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/4tN7he6zP5ft8yv57lKptc"
+      },
+      "artists": [
+        {
+          "name": "Joseph William Morgan",
+          "url": "https://open.spotify.com/artist/3iZ86mYR1dGoTWIHFMoT03"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235794,
+      "name": "Enchanted",
+      "url": "https://open.spotify.com/track/4wvEacvHvKyEuqNUfPnJrj"
     },
     {
       "album": {
@@ -23290,7 +23326,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
@@ -27132,10 +27168,28 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 228760,
       "name": "L'Amour Toujours",
       "url": "https://open.spotify.com/track/4JtOhAQTMtxFDDt7oY7RAA"
+    },
+    {
+      "album": {
+        "name": "NANI, Vol. 1",
+        "url": "https://open.spotify.com/album/4A42RMIvOReHjYXmTDUIxk"
+      },
+      "artists": [
+        {
+          "name": "Constanze Hochwartner",
+          "url": "https://open.spotify.com/artist/3IpjaZTJnz1989Ib3nTIAn"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "L'Amour Toujours",
+      "url": "https://open.spotify.com/track/4Sbg2o00ZH51UwSNaQbCK0"
     },
     {
       "album": {
@@ -28140,7 +28194,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 175448,
       "name": "Legenden",
       "url": "https://open.spotify.com/track/5uIc2uyVMDuq3OoakBqCN2"
@@ -34809,6 +34863,28 @@
     },
     {
       "album": {
+        "name": "Neoperreo",
+        "url": "https://open.spotify.com/album/1CDb0veteA8FgtNgdHOPBo"
+      },
+      "artists": [
+        {
+          "name": "Secret Society",
+          "url": "https://open.spotify.com/artist/2TruAj0dhlAVjzLZMFD6My"
+        },
+        {
+          "name": "ALIC3E",
+          "url": "https://open.spotify.com/artist/68nz21mYsAWL1Zq3lN8HAo"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121570,
+      "name": "Neoperreo",
+      "url": "https://open.spotify.com/track/0ZfNtW6eYyEfY2ni14Thwu"
+    },
+    {
+      "album": {
         "name": "Nevada (Agartha)",
         "url": "https://open.spotify.com/album/53rlHwbaI3Ay9BaTdg48xg"
       },
@@ -40333,6 +40409,28 @@
     },
     {
       "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/5N0Sh9WMBiyUa228SXRyPw"
+      },
+      "artists": [
+        {
+          "name": "BIG TIM",
+          "url": "https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF"
+        },
+        {
+          "name": "Bell Book & Candle",
+          "url": "https://open.spotify.com/artist/6Pkh9BHIvuM35jd98P3MYr"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133911,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/71mjSSBWGeb38yI9FVZGTN"
+    },
+    {
+      "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
       },
@@ -42036,7 +42134,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 239478,
       "name": "Schweden x So Wie Du Bist",
       "url": "https://open.spotify.com/track/0zojYNIKyaguKXV3O3YxSu"
@@ -48234,7 +48332,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 173419,
       "name": "Therapie",
       "url": "https://open.spotify.com/track/6GlM9HmuIT3UvhJjEFNUtj"

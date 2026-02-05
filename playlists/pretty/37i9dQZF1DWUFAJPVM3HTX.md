@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys?si=32wOcvKtTpumuP3vH6vqIA">Chuka, The Destroyer</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,782 likes - 150 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,853 likes - 150 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 27 | [TEASE](https://open.spotify.com/track/6k7D9YOYJrqEp3DXMSgI22) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [TEASE](https://open.spotify.com/album/62oKjKFNKBY7ywMqtCcSlR) | 2:38 |
 | 28 | [BITING MY TONGUE](https://open.spotify.com/track/0JcIsvfeEsz493yYmD2S0i) | [Mikey Jose](https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8) | [BITING MY TONGUE](https://open.spotify.com/album/0sWQyYcdyxf93aZGA6ASvj) | 3:52 |
 | 29 | [After All](https://open.spotify.com/track/1dKs1cUWl57GpEW20FAw0h) | [GiddyGang](https://open.spotify.com/artist/5hgceJkuyoeET8VNinxe4Q), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [After All](https://open.spotify.com/album/4MnZnhpFL8gT0EIrB7Q2ZR) | 4:08 |
-| 30 | [footwork](https://open.spotify.com/track/1bkNnIkZpBB4tdhZwMji6Q) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [footwork](https://open.spotify.com/album/23HUSuiX9Xtif1N5iBh5uj) | 2:50 |
+| 30 | [footwork](https://open.spotify.com/track/1bkNnIkZpBB4tdhZwMji6Q) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [footwork](https://open.spotify.com/album/23HUSuiX9Xtif1N5iBh5uj) | 2:50 |
 | 31 | [HARD TO LOVE](https://open.spotify.com/track/5KeT3r2AjQ9zsW1tBwiPRW) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [HARD TO LOVE](https://open.spotify.com/album/3r7d8VEgrb33RxLRuhA9ua) | 2:50 |
 | 32 | [Say It out Loud](https://open.spotify.com/track/3aROwTI0uQ7ahjPr6ENHHf) | [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1) | [Say It out Loud](https://open.spotify.com/album/529y0JVOWJcdd5cL9Ospux) | 4:52 |
 | 33 | [All Mine](https://open.spotify.com/track/6ZwoesRQzoNAgoBtSj1PRp) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [All Mine](https://open.spotify.com/album/0IvFRSvqWvoLYlosLMy6oN) | 3:15 |
 | 34 | [Come Get My Love](https://open.spotify.com/track/2XCcvfgiM3PtKWenEpCVEH) | [Ezra](https://open.spotify.com/artist/0IpxUOafBaV2PPkm3b4E60), [ZaeFyeHunnit](https://open.spotify.com/artist/4ZLNPoLvO7VkH4wGsqFiO1) | [Come Get My Love](https://open.spotify.com/album/17dAEF9B4dPdOD3iwS5BbK) | 3:38 |
-| 35 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:41 |
+| 35 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
 | 36 | [Chemistry](https://open.spotify.com/track/5oPmBiPFQWgQmMdKDoojS2) | [Qui](https://open.spotify.com/artist/0G2LfRTlpJ9sqb8bWH4396) | [Chemistry](https://open.spotify.com/album/1sOuWg2UVd11bVykUCDQ0E) | 1:44 |
 | 37 | [Win Or Lose](https://open.spotify.com/track/4YUU0sam6DtijJ847SqjYf) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Win Or Lose](https://open.spotify.com/album/7IdvSR8Nzsoyi2tVBoIw9y) | 3:07 |
 | 38 | [WHEREVER U ARE](https://open.spotify.com/track/2A32Bt0w2omtbebwQCV516) | [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5), [Scotty Apex](https://open.spotify.com/artist/55etRB3o03gVbdxxfWMsLs) | [WHEREVER U ARE](https://open.spotify.com/album/6CB1H6OXjgbkIH0qKvl7GF) | 2:52 |

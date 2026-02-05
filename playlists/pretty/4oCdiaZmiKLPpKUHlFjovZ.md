@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,193 likes - 117 songs - 5 hr 29 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,186 likes - 117 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 | 4 | [Fake Jeezy](https://open.spotify.com/track/4fhgwk5dCgOZUh8LyxBk9r) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Fake Jeezy](https://open.spotify.com/album/4WWNtQiEHFykGzTLF9UOxE) | 2:40 |
 | 5 | [Good Day to be in Harlem](https://open.spotify.com/track/5MQPXV1dmDIWqvcQONZ1OG) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Good Day to be in Harlem](https://open.spotify.com/album/2o4ICnsEfXEro3okcsEUWK) | 3:54 |
 | 6 | [YAYA \- Remix](https://open.spotify.com/track/6qHrLC17ZY2ZA6b7udhPps) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [YAYA \(Remix\)](https://open.spotify.com/album/6AO2thq0bHuVb984p1DsYJ) | 3:14 |
-| 7 | [Out The Box](https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Out The Box](https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S) | 2:42 |
+| 7 | [Out The Box \(feat\. Bosko\)](https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Bosko](https://open.spotify.com/artist/16PgF1vgup7ohBZnteQGvx) | [Out The Box \(feat\. Bosko\)](https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S) | 2:42 |
 | 8 | [Jogodo](https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Jogodo](https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx) | 3:08 |
 | 9 | [Better \(feat\. Stunna Girl\)](https://open.spotify.com/track/55Ro0MUVIKVND18vKg7EF8) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Better \(feat\. Stunna Girl\)](https://open.spotify.com/album/2MPcIDppCYsMxt01XLuYM3) | 2:00 |
 | 10 | [YOU HEAR ME THO](https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [YOU HEAR ME THO](https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di) | 2:21 |

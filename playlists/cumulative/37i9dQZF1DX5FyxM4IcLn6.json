@@ -11606,7 +11606,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 240053,
       "name": "Oh What A Beautiful World - feat. Rodney Crowell",
       "url": "https://open.spotify.com/track/7ml1acXUTiwSm2WjtXYFbZ"
@@ -12242,6 +12242,28 @@
       "duration_ms": 218800,
       "name": "Plumfield",
       "url": "https://open.spotify.com/track/4RTmPGLfkrUJgfFAJOzWil"
+    },
+    {
+      "album": {
+        "name": "Poison In My Well",
+        "url": "https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        },
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "Poison In My Well",
+      "url": "https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq"
     },
     {
       "album": {

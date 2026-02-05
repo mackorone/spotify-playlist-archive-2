@@ -4,7 +4,7 @@
 
 > Death is just the beginning\. Listen to the music from School Spirits, new season now streaming on Paramount+.
 
-79 songs - 4 hr 26 min
+85 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Been Lookin' Your Way](https://open.spotify.com/track/4utOGWhjvp6mq0a9qOG26a) | [Lena Calhoun](https://open.spotify.com/artist/72vbdhPWazBI63Eg4KdKwr), [Emotions](https://open.spotify.com/artist/1JsqOGT52IQtymEJ62fT3W) | [Flip Doo Wop, Vol\. 3](https://open.spotify.com/album/0usscnTROA3Z8VJ8qI7IQx) | 3:17 | 2025-01-30 |  |
 | [Bonita](https://open.spotify.com/track/10CN6oQfftUs8d4lwRJnTQ) | [Roicc](https://open.spotify.com/artist/4hO2ffI8Z8ZbGPzYWSxZtM) | [Bonita](https://open.spotify.com/album/1DVSVtXEnDpe5ztxuOuNax) | 2:58 | 2025-01-30 |  |
 | [Brain Stew](https://open.spotify.com/track/7J455IyBqW39qWNXIEl0NG) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Don’t Judge A Song By Its Cover](https://open.spotify.com/album/5W47UiOqRNhUOjG7zVZs9Z) | 3:16 | 2026-01-28 |  |
+| [Chicago](https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 6:04 | 2026-02-04 |  |
 | [coloured concrete](https://open.spotify.com/track/2lmT9NiqohWoRf9yAxt4Ru) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 3:10 | 2025-02-06 |  |
 | [Concrete](https://open.spotify.com/track/14moR256JoSCPnJrirQXYC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:02 | 2025-01-30 |  |
 | [Crash into Me](https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Crash](https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7) | 5:16 | 2025-01-30 |  |
@@ -36,11 +37,13 @@
 | [Goodbye, Old Friend](https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:44 | 2026-01-28 |  |
 | [Heat of the Night](https://open.spotify.com/track/3bx8PIbzTVT9stFbbvAVD1) | [Simplistics](https://open.spotify.com/artist/591Yhaxfo5O2AQjCyltCHi) | [The Lost Masters](https://open.spotify.com/album/6pE7NoJgrgUm8nimxRtJv3) | 3:20 | 2025-02-20 |  |
 | [Hello Heartbreak](https://open.spotify.com/track/3AuOLgPgdwBzhc7ZMTtNqX) | [Al Hazan](https://open.spotify.com/artist/7qwaiCaE4p70SnI5XB9E8j), [Sylvia Terry](https://open.spotify.com/artist/2UKiR14OjC3o0aTOBcAQFC) | [Hello Heartbreak](https://open.spotify.com/album/0szuw7EGWTNXofx8VxshMV) | 2:30 | 2025-02-13 |  |
+| [House of the Rising Sun](https://open.spotify.com/track/3a8mo25v74BMUOJ1IDUEBL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [House of the Rising Sun](https://open.spotify.com/album/2JnelnjkFZKzZQUwZFkcD1) | 3:08 | 2026-02-04 |  |
 | [I Follow Rivers](https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 2:46 | 2026-01-28 |  |
 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 | 2025-01-30 |  |
 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 | 2025-02-06 |  |
 | [I'm Ok](https://open.spotify.com/track/678upPseS5HwQMdgYylO3n) | [The Ton\-Ups](https://open.spotify.com/artist/1N20JxNpMzLujtxxh8OQfY) | [Ton\-Ups](https://open.spotify.com/album/2EdRbMlMlRBR7q4cV3Dpl4) | 2:34 | 2025-01-30 |  |
 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2025-01-30 |  |
+| [I’M FINE!](https://open.spotify.com/track/7v4rzwg3HdsV2Nk7soqTgk) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Not For Lack Of Trying](https://open.spotify.com/album/6ogKuILl7vFFCahzxHvFOi) | 3:00 | 2026-02-04 |  |
 | [Let Em' Roll](https://open.spotify.com/track/29PXH2s2rlagVtzrLYAnjS) | [Jimmy Madden](https://open.spotify.com/artist/1KZbAbdn0kHp0LwplbCnvM), [Dick Taylor](https://open.spotify.com/artist/6CwEdKtDds54qTu43Q1Wk0), [Roger Fleming](https://open.spotify.com/artist/282Slm4aP59CAjKRFVXrWq) | [The Recordings of Bob Scherman: Singles from Skylark, Tampa & Other Labels](https://open.spotify.com/album/0uObn32S4YIMuQ1nVllPQJ) | 2:10 | 2025-01-30 |  |
 | [Let Go](https://open.spotify.com/track/49n5v4l1sLEVjvvjdYgoTJ) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Let Go](https://open.spotify.com/album/5gKdBfG9oX5P3bojQW4S8S) | 2:47 | 2025-02-13 |  |
 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 | 2025-02-20 |  |
@@ -57,7 +60,9 @@
 | [Mystery](https://open.spotify.com/track/7M3txFiUnjpSbSc0axEUyW) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Mystery](https://open.spotify.com/album/0tDrSXwqrCRGI8TdeJNExN) | 5:09 | 2025-01-30 |  |
 | [Never Want to Leave](https://open.spotify.com/track/3WSsT0Ja2vjXuPG1NXi6fA) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 2:34 | 2025-01-30 |  |
 | [Open Up Your Heart \(And Let The Sun Shine In\)](https://open.spotify.com/track/1Tkx3VJ6aN9EJhTpjSzPE5) | [Stuart Hamblen](https://open.spotify.com/artist/7n8QNNHYcQZwQFzQNNVmwj) | [The Very Best Of](https://open.spotify.com/album/0rAJIWMYuKwRVMYPgbCov6) | 2:36 | 2025-02-27 |  |
+| [Pas De Deux](https://open.spotify.com/track/6qskGHKvfz9VsvQPza8ouA) | [Paul Thomas Saunders](https://open.spotify.com/artist/2Y3Lw14p4nc60FKWp5q8Ob) | [Figure in a Landscape](https://open.spotify.com/album/5qJbpAwUPlFSWEAB6x8Ee3) | 4:56 | 2026-02-04 |  |
 | [PIRATE RADIO\*](https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:09 | 2025-01-30 |  |
+| [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 | 2026-02-04 |  |
 | [Pressed 2 Death](https://open.spotify.com/track/4jFmAofIPzs9cJl9ENzoNw) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Kiss Yr Frenemies](https://open.spotify.com/album/6Uwzs1xJxvAMdmRgtodQ9h) | 2:15 | 2025-01-30 |  |
 | [Quite Quiet](https://open.spotify.com/track/1xlTNnKVOnKP7ZQEgahk4c) | [Rodes Rollins](https://open.spotify.com/artist/4b8qBVKht5PJn15AgizNv0) | [Human Error](https://open.spotify.com/album/5nLN3u0Sw7TRM29NJZ4FkV) | 3:51 | 2026-01-28 |  |
 | [Robbed](https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:44 | 2025-03-06 |  |
@@ -70,6 +75,7 @@
 | [Somewhere to Dream](https://open.spotify.com/track/6eTgBw5HOIonORsy0iWJ0o) | [Jay Ramsey](https://open.spotify.com/artist/7AKzqoDogZeiY1OEfbzv9m) | [Jay Ramsey Anthology, Vol\. 3](https://open.spotify.com/album/7Jso93nDvuqkTpzmMhvm3A) | 3:27 | 2025-01-30 |  |
 | [Speak of the Devil](https://open.spotify.com/track/5oY8aeZ2MqPKMA6fEMglcM) | [Saint Middleton](https://open.spotify.com/artist/6wbRCBmxAVoXhUPG5fx0vY), [Alisa](https://open.spotify.com/artist/2noH86g1p2jetkEpO05Fmp) | [Speak of the Devil](https://open.spotify.com/album/4NnumGJXtPH3g8MxUX42yJ) | 2:57 | 2025-01-31 |  |
 | [Spinning Wheel](https://open.spotify.com/track/5GWKbyxKT7pMJbhP5mX17m) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Black Honey \(Deluxe\)](https://open.spotify.com/album/7AJTVMYgX1xDrufcavMUk1) | 3:25 | 2025-01-30 |  |
+| [Spirit School \- EP Version](https://open.spotify.com/track/0WcDiAFy53IeCRd97uBsAG) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [SPIRIT SCHOOL](https://open.spotify.com/album/2sTwJ8w0RGMU9SIjulnJ48) | 3:51 | 2026-02-04 |  |
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2025-01-30 |  |
 | [Steppin' Out](https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd) | 4:28 | 2025-01-30 |  |
 | [Straight to Hell](https://open.spotify.com/track/6yL92Zp7pprYfHR2Pq8gFW) | [H6LLB6ND6R](https://open.spotify.com/artist/5JMD4H9Smd4ijMwEoU5VQd) | [Side A](https://open.spotify.com/album/02Xc1m60b1iQdGTVcu6u0V) | 1:22 | 2025-01-30 |  |

@@ -4,7 +4,7 @@
 
 > MUY PIOLA<br/>📷 Usted Señalemelo
 
-571 songs - 1 day 5 hr 54 min
+572 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [KEEP IT STUPID](https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [KEEP IT STUPID](https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044) | 2:27 | 2024-05-24 | 2024-09-28 |
 | [Kerosene](https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Kerosene](https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG) | 3:05 | 2024-10-04 | 2024-11-16 |
 | [KUSTURICA](https://open.spotify.com/track/2LfnqUUqHPX7DCUYOOHGNm) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [UN INSTANTE](https://open.spotify.com/album/4hRYKs4qN5yVViWJvCUiCT) | 2:52 | 2025-07-05 |  |
-| [La Ciudad del Reggaetón](https://open.spotify.com/track/4zsPrWiOmEOEEXoq4167FX) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [SuperSerius](https://open.spotify.com/artist/03vwdd6SOkWASQinkYmxkE) | [La Ciudad del Regggaetón](https://open.spotify.com/album/6wnDAivOroB30WQIH890al) | 3:53 | 2025-07-25 |  |
+| [La Ciudad del Reggaetón](https://open.spotify.com/track/4zsPrWiOmEOEEXoq4167FX) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [SuperSerius](https://open.spotify.com/artist/03vwdd6SOkWASQinkYmxkE) | [La Ciudad del Regggaetón](https://open.spotify.com/album/6wnDAivOroB30WQIH890al) | 3:53 | 2025-07-25 | 2026-02-05 |
 | [LA COCHERÍA](https://open.spotify.com/track/6BqAyOg9mraM91wByUaWp9) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:13 | 2024-03-22 | 2024-09-28 |
 | [La Distancia](https://open.spotify.com/track/1nHCMJOVAfsUrQa6qXoeod) | [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [La Distancia](https://open.spotify.com/album/0SbRvCOTrZ7zOFH8hCBcIh) | 3:52 | 2025-04-11 | 2025-05-20 |
 | [LA FORMA DE TUS HUESOS](https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [LA FORMA DE TUS HUESOS](https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3) | 3:32 | 2024-03-29 | 2024-09-17 |
@@ -422,6 +422,7 @@
 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 | 2025-05-30 |  |
 | [PURA POSE](https://open.spotify.com/track/2nxNiskZJuU0lka2ZVzizM) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [PURA POSE](https://open.spotify.com/album/1fp5hN3kcj5N8gipxuCTX3) | 3:06 | 2025-01-24 | 2025-03-08 |
 | [Puta & Rock Anthem](https://open.spotify.com/track/5Kv2lXC0Ve1maYx8qAGjRw) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7) | [Porque Quise DELUXE](https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm) | 2:06 | 2025-09-01 | 2025-11-20 |
+| [PUTAS \- Spotify Sessions](https://open.spotify.com/track/4jhSKN2r5mIHybTDiJxFi7) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:13 | 2026-02-04 |  |
 | [q haces?](https://open.spotify.com/track/75UAP2WWZFJQSOk06m1HPT) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [q haces?](https://open.spotify.com/album/1wBLasyWpyYSmMbkEAjhfy) | 1:11 | 2023-10-13 | 2024-06-09 |
 | [Que Fluya](https://open.spotify.com/track/2edb2SIakC6HADUz6s34hS) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [LAS LETRAS YA NO IMPORTAN](https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3) | 4:22 | 2024-04-05 | 2025-04-04 |
 | [QUE ME QUEMAN](https://open.spotify.com/track/625AAfloi6X989wyasCOam) | [Joaquinx Merino](https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Juan Pedro Dolce](https://open.spotify.com/artist/4G9yBOjF9Av2OOctueG87T) | [FIESTA FRÁGIL](https://open.spotify.com/album/4uMffWd9nv2y9u7COhB7v3) | 2:54 | 2023-10-13 | 2024-03-30 |

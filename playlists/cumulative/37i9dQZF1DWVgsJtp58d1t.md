@@ -4,7 +4,7 @@
 
 > The best in Black music! Click into the feed for more on Black History Month
 
-5,647 songs - 11 day 22 hr 29 min
+5,648 songs - 11 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3686,6 +3686,7 @@
 | [Over The Moon](https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Over The Moon](https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD) | 2:45 | 2025-08-15 | 2025-08-23 |
 | [Overdose](https://open.spotify.com/track/32FMtf6NNstA7Geu4B3uUP) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Overdose](https://open.spotify.com/album/1HOEz50Or66Kp1W4CE9c3C) | 2:08 | 2022-12-02 | 2022-12-17 |
 | [Overgold](https://open.spotify.com/track/74vzcgYIdZhdyrgZcaVnAy) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Overgold](https://open.spotify.com/album/5oW0Zsl8PcoaWXEENCIVi6) | 3:15 | 2022-10-14 | 2022-10-29 |
+| [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 | 2026-02-04 |  |
 | [Overstimulated](https://open.spotify.com/track/2iVENndojUZAqtTt1XNN1D) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Overstimulated](https://open.spotify.com/album/4y2FzBbOg0AdaL752vGD4y) | 3:39 | 2023-02-03 | 2023-02-25 |
 | [OWA OWA](https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [OWA OWA](https://open.spotify.com/album/4Yhp37rgKSp0FZwEdwW0S7) | 2:12 | 2025-05-30 | 2025-06-14 |
 | [OXTAIL!](https://open.spotify.com/track/1jCtMZORNyN0zuXjnyTqZI) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [FI DI GYAL DEM!](https://open.spotify.com/album/5qvNAQa1AdKxfAA4jsE92A) | 2:17 | 2024-08-23 | 2024-08-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Noah Kahan, Fredo, Paris Paloma and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,355 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,263 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [Danny](https://open.spotify.com/track/0SodyCDKktmOihlKE7jL9p) | [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [Danny](https://open.spotify.com/album/25ffmsqPglf3Mx2WqBEn1z) | 4:38 |
 | 100 | [Birds Heading South](https://open.spotify.com/track/0NSNxprwc5t0IC2lHHyFf0) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [Yeah Yeah Yeah](https://open.spotify.com/album/0EC7QCWMxohFycGiZf7q0K) | 4:46 |
 
-Snapshot ID: `AAAAAGVmlxaUQlG5XrNa0r0pmRjq6u4m`
+Snapshot ID: `AAAAAOSlf3xl2NjzumXxi4uyzoO7RcK3`

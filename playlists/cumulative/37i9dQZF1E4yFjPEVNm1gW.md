@@ -4,7 +4,7 @@
 
 > With Yeat, Autumn!, Duwap Kaine and more
 
-127 songs - 5 hr 5 min
+128 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [I’m Better](https://open.spotify.com/track/2yLD8NTUwrDu6g6r8G5xrL) | [5ive](https://open.spotify.com/artist/1amQb9Uw9xQGWXyZjW42H1) | [I’m Better](https://open.spotify.com/album/3SQpLyFjDApF7me9HGKtj5) | 1:56 | 2026-01-19 | 2026-01-30 |
 | [Jersey](https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn) | [Cl4pers](https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ) | [Jersey](https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH) | 2:43 | 2025-11-29 |  |
 | [keep no glock](https://open.spotify.com/track/0dzGkFHENpNZIci76uHYJi) | [K\-SEE](https://open.spotify.com/artist/3Pa1wXxunsWmALJOnjbfbQ) | [keep no glock](https://open.spotify.com/album/20IEHOPAcmQp7MQcSxM1uN) | 1:46 | 2025-12-01 | 2025-12-20 |
-| [king of the pumpkin patch](https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Shadow](https://open.spotify.com/artist/3Orvb4DLJrPOZpEfMwfsKf) | [thinking of you, wherever you are](https://open.spotify.com/album/35gtPnzUu1SUfM5BvCtoYB) | 3:09 | 2025-12-10 |  |
+| [king of the pumpkin patch](https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Shadow](https://open.spotify.com/artist/3Orvb4DLJrPOZpEfMwfsKf) | [thinking of you, wherever you are](https://open.spotify.com/album/35gtPnzUu1SUfM5BvCtoYB) | 3:09 | 2025-12-10 | 2026-02-05 |
 | [kombucha](https://open.spotify.com/track/4JrovQ9zoSKkGGSojCJycx) | [Rob Apollo](https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V) | [kombucha](https://open.spotify.com/album/387rs95u8Re0cTBJNpNajz) | 2:08 | 2025-12-08 | 2025-12-22 |
 | [Leave the state](https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY) | [Shadstackzz](https://open.spotify.com/artist/4Iiocuqzvz9MHDLHcQw2Iu) | [BALL HOGGIN](https://open.spotify.com/album/0WEh8EymKnVVTE5il6m5bN) | 1:48 | 2025-12-21 |  |
 | [LO NE LY](https://open.spotify.com/track/4WLxfQq7p0iyvaoOQLTYyO) | [Khalil?](https://open.spotify.com/artist/0TzMK687XQf4EwLFYvpDLz) | [LO NE LY](https://open.spotify.com/album/5hkZLRDPs9Npdp70zZH5wS) | 2:23 | 2025-11-29 |  |
@@ -81,6 +81,7 @@
 | [Never that](https://open.spotify.com/track/0D50kcPvpyuGG6aIWi48WA) | [kappaa!](https://open.spotify.com/artist/59qj4dTLo3tVzjVGNTvgPu) | [Never that](https://open.spotify.com/album/4o9ltariIy117ZZ15zd9pq) | 2:43 | 2025-12-08 | 2025-12-26 |
 | [Never Theirs](https://open.spotify.com/track/3tImnBbcBQK6pE0G28VAg6) | [YFG Trap](https://open.spotify.com/artist/42MiKfvv8YFBf9SdijIlci) | [Okay, Wait...](https://open.spotify.com/album/6gOcbSfYL9qCPAmN2c9LaI) | 2:16 | 2025-12-01 | 2025-12-08 |
 | [Nightcore 2](https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:02 | 2025-11-29 |  |
+| [nine](https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [3](https://open.spotify.com/album/67Zf5EYdu6qicDS1JhCXpJ) | 1:54 | 2026-02-05 |  |
 | [No Blickout](https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again \(Resurrected\)](https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2) | 2:40 | 2025-12-12 |  |
 | [not enn a diss](https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO) | [Taewitdak](https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF) | [not enn a diss](https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL) | 1:21 | 2025-11-29 |  |
 | [Notre dame](https://open.spotify.com/track/2Hm4fWgnp34KfiCuIibtTt) | [Jbeezy.Lfg](https://open.spotify.com/artist/3ag9Q03DMBdEd0IExnBmE4) | [Live for Greatness](https://open.spotify.com/album/11b1KNaook67WdX6GpbGCM) | 2:42 | 2025-12-12 | 2025-12-20 |

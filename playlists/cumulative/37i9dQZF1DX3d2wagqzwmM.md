@@ -2,9 +2,9 @@
 
 ### [Big Room Dance](https://open.spotify.com/playlist/37i9dQZF1DX3d2wagqzwmM)
 
-> Big rooms and big sounds\. Cover: Blasterjaxx
+> Big rooms and big sounds\. Cover: D'Angello & Francis
 
-661 songs - 1 day 9 hr 36 min
+662 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Criminal Minds](https://open.spotify.com/track/2rGv08UOtSl44xt7SC17zR) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Criminal Minds](https://open.spotify.com/album/6sdJwA6KueRhCENEa7ocEe) | 3:05 | 2022-06-30 | 2022-07-29 |
 | [Criminal Minds](https://open.spotify.com/track/661SaL85Dv0NV0wGhClHeq) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Criminal Minds](https://open.spotify.com/album/7IQ56ZSM0RjCz7gZVTFuZF) | 3:05 | 2022-07-28 | 2022-08-19 |
 | [Cyanide](https://open.spotify.com/track/2sAYITKPDWEWyIinEh6hSO) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Noubya](https://open.spotify.com/artist/7mE37XRULrIzHfg9OWmIud) | [Cyanide](https://open.spotify.com/album/2nEf8KkMp1TOfaQOYIm9yl) | 2:07 | 2025-04-03 | 2025-05-08 |
-| [D.O.M.](https://open.spotify.com/track/2ra6kEjaiOJ9SG3z4siPc9) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 | 2025-09-25 |  |
+| [D.O.M.](https://open.spotify.com/track/2ra6kEjaiOJ9SG3z4siPc9) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 | 2025-09-25 | 2026-02-05 |
 | [Dance All Night](https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Dance All Night](https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX) | 2:52 | 2024-09-19 |  |
 | [Dance Therapy](https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN) | [Dance Therapy](https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa) | 2:05 | 2024-05-30 | 2025-05-30 |
 | [Dance To The Beat \(Pitchin'\)](https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4), [Hi\-Gate](https://open.spotify.com/artist/3b2xWHAlRoTooJKEnhc2cv) | [Dance To The Beat \(Pitchin'\)](https://open.spotify.com/album/53GJ4zDB6gG6jm61tCO7aJ) | 2:41 | 2024-05-30 | 2026-01-31 |
@@ -143,6 +143,7 @@
 | [Disco Dancer](https://open.spotify.com/track/7bAELPbQxGZG69KcsyyWbm) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Disco Dancer](https://open.spotify.com/album/4pXwKxIA4uqzIdGBV9kc6t) | 3:00 | 2023-12-14 | 2024-01-19 |
 | [DIZZY](https://open.spotify.com/track/4tad4xhOPGpdn75AR2AutJ) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [LUSU](https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [DIZZY](https://open.spotify.com/album/0OKLtHtRMgVCYilRq4Rmny) | 3:17 | 2024-09-26 | 2024-11-15 |
 | [Don't Stop](https://open.spotify.com/track/25FHIFGpiG9xyh2bFyaKwR) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Don't Stop](https://open.spotify.com/album/11quz1atuSXaO7Wzadme9m) | 3:03 | 2024-12-20 | 2025-03-17 |
+| [Don't You Want Me](https://open.spotify.com/track/2I1wxwKrXw4Zv2Bg8IUMPd) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Don't You Want Me](https://open.spotify.com/album/49knpaXPppSpCMgxRipDc1) | 2:51 | 2026-02-04 |  |
 | [Don't You Want Me](https://open.spotify.com/track/2FxJX5c1FkfLpladsgoLAD) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [Don't You Want Me](https://open.spotify.com/album/6cGN6MEAMsWtglYJXwb1Af) | 2:33 | 2022-04-14 | 2022-10-14 |
 | [DOPAMINE](https://open.spotify.com/track/151txDMLIDSM09ck9bzrXy) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [DOPAMINE](https://open.spotify.com/album/5yqxGufhD9VZHM2eI2uLDj) | 3:45 | 2022-05-12 | 2022-07-15 |
 | [DOPAMINE](https://open.spotify.com/track/4Mjc2zxEwmfs2iiyD2iniI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 3:45 | 2022-12-27 | 2023-01-03 |

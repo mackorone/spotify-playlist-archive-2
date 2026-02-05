@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:5uQPyd1dYqB4Oepgk8HqMM">obra aberta</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,900 likes - 11 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,899 likes - 11 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [autenticidade virou estética? \#13](https://open.spotify.com/episode/0mC7Lq3U6qesaAubU0moHa) | [obra aberta](https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM) | [obra aberta](https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM) | 21:48 |
+| 1 | [é possível ser feliz? \#14](https://open.spotify.com/episode/67j4nCKZbKLoLoguATjZHW) | [obra aberta](https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM) | [obra aberta](https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM) | 24:27 |
 | 2 | [Só Pod 47 \- Minha mãe sempre precisa roubar o que é meu](https://open.spotify.com/episode/0u1YPHcR6S3o2INFOaTN0X) | [Só Pod Ser História • Podcast](https://open.spotify.com/show/0thgoTntV114tkxYkGwI1t) | [Só Pod Ser História • Podcast](https://open.spotify.com/album/0thgoTntV114tkxYkGwI1t) | 18:28 |
 | 3 | [Salvando Vidas \#29 \- Amante Estratégica](https://open.spotify.com/episode/23TLwbNTsIXvhurfhqqCE8) | [Irrisório Show](https://open.spotify.com/show/6tm0VBIICzSjddzmSN7BmS) | [Irrisório Show](https://open.spotify.com/album/6tm0VBIICzSjddzmSN7BmS) | 44:27 |
 | 4 | [\#67 \- Será que você é capaz de amar de novo?](https://open.spotify.com/episode/3B0ivjIEtKbxntFYNFqGUF) | [Para que Não Percais os Miolos](https://open.spotify.com/show/4dPjkPqNuC118hCi8HPocv) | [Para que Não Percais os Miolos](https://open.spotify.com/album/4dPjkPqNuC118hCi8HPocv) | 25:29 |
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 10 | [pra quem tenta controlar tudo ](https://open.spotify.com/episode/3oyqQnV1Tu44Z92hXdPwg7) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 24:14 |
 | 11 | [\#203\. Bebê da mamãe](https://open.spotify.com/episode/5Qk3Gd1ERTYd67lWQ8IcRl) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 37:47 |
 
-Snapshot ID: `AAAAAAftvsf44+0HELkz7FP1Xj7xLkBU`
+Snapshot ID: `AAAAAPcq+ekydlz8xRlTYliBWvCi6Y85`

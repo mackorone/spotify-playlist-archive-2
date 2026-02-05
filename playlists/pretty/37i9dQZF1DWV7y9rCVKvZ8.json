@@ -1,12 +1,12 @@
 {
   "description": "Jadi lebih produktif ditemani musik terkini",
-  "num_followers": 150985,
+  "num_followers": 150990,
   "original_name": "Lebih Produktif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGWux9vET5Xrk4ngMG6jW9HQ8RtU",
+  "snapshot_id": "AAAAAG091mBVFgVkAwYEHXN070l5x3w4",
   "tracks": [
     {
       "added_at": "2025-12-16 02:09:10",
@@ -67,22 +67,18 @@
     {
       "added_at": "2025-12-16 02:09:10",
       "album": {
-        "name": "Semusim",
-        "url": "https://open.spotify.com/album/2SwklQLPnXVIJIS0ZqIlrL"
+        "name": "Bahagia Lagi",
+        "url": "https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX"
       },
       "artists": [
         {
-          "name": "Tohpati",
-          "url": "https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN"
-        },
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+          "name": "Piche Kota",
+          "url": "https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM"
         }
       ],
-      "duration_ms": 254900,
-      "name": "Semusim",
-      "url": "https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2"
+      "duration_ms": 227415,
+      "name": "Bahagia Lagi",
+      "url": "https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5"
     },
     {
       "added_at": "2026-01-26 14:58:04",
@@ -155,18 +151,22 @@
     {
       "added_at": "2025-12-16 02:09:10",
       "album": {
-        "name": "Bahagia Lagi",
-        "url": "https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX"
+        "name": "Semusim",
+        "url": "https://open.spotify.com/album/2SwklQLPnXVIJIS0ZqIlrL"
       },
       "artists": [
         {
-          "name": "Piche Kota",
-          "url": "https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM"
+          "name": "Tohpati",
+          "url": "https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN"
+        },
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
         }
       ],
-      "duration_ms": 227415,
-      "name": "Bahagia Lagi",
-      "url": "https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5"
+      "duration_ms": 254900,
+      "name": "Semusim",
+      "url": "https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2"
     },
     {
       "added_at": "2026-01-26 14:58:04",
@@ -297,6 +297,110 @@
       "url": "https://open.spotify.com/track/4nxVjVTJ5bXYRrYprebfpu"
     },
     {
+      "added_at": "2026-02-04 03:16:08",
+      "album": {
+        "name": "can we start again?",
+        "url": "https://open.spotify.com/album/5rnh9GR2iyypl6D1ffifhO"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        },
+        {
+          "name": "Glenn Yong",
+          "url": "https://open.spotify.com/artist/30OV13xhfDuLD5dIMT3GNA"
+        }
+      ],
+      "duration_ms": 268615,
+      "name": "can we start again?",
+      "url": "https://open.spotify.com/track/5KLsWrx2OWuW8FAWX0lsNl"
+    },
+    {
+      "added_at": "2025-12-16 02:09:10",
+      "album": {
+        "name": "Senja Sudut Kota",
+        "url": "https://open.spotify.com/album/3sVoZe0ptCikuH0JKPpx0X"
+      },
+      "artists": [
+        {
+          "name": "Samuel Cipta",
+          "url": "https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc"
+        }
+      ],
+      "duration_ms": 223012,
+      "name": "Senja Sudut Kota",
+      "url": "https://open.spotify.com/track/27JBYWc4xN7OY4NJQ68pni"
+    },
+    {
+      "added_at": "2026-02-04 03:16:08",
+      "album": {
+        "name": "Luka & Cinta",
+        "url": "https://open.spotify.com/album/6R8nkOwsLw7oHSGacnNUgi"
+      },
+      "artists": [
+        {
+          "name": "Sahrul Gunawan",
+          "url": "https://open.spotify.com/artist/7rfv4Bws90xHKho0iUXjpK"
+        }
+      ],
+      "duration_ms": 235875,
+      "name": "Hanya Untukku",
+      "url": "https://open.spotify.com/track/7F0fYRUVCqErlEm4s68b9w"
+    },
+    {
+      "added_at": "2026-02-04 03:16:08",
+      "album": {
+        "name": "Lagi Lagi Kamu",
+        "url": "https://open.spotify.com/album/4hKgQmeauO0tKOapTtyOv2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Caesa",
+          "url": "https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1"
+        }
+      ],
+      "duration_ms": 171774,
+      "name": "Lagi Lagi Kamu",
+      "url": "https://open.spotify.com/track/3rxEIopqXo7oAfgszpHfRc"
+    },
+    {
+      "added_at": "2026-02-04 03:16:08",
+      "album": {
+        "name": "Remember To Dance (Little Things)",
+        "url": "https://open.spotify.com/album/4GncEvr8CcRpYsuMSnnAvR"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        },
+        {
+          "name": "Adri\u00e1n Berenguer",
+          "url": "https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Remember To Dance (Little Things)",
+      "url": "https://open.spotify.com/track/41eIrJ4BOf6l0QzJFB1vO8"
+    },
+    {
+      "added_at": "2026-02-04 03:16:08",
+      "album": {
+        "name": "will i ever (day bounce)",
+        "url": "https://open.spotify.com/album/0LBmP6XLwxwJlFbY2BJL4K"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 171498,
+      "name": "will i ever (day bounce)",
+      "url": "https://open.spotify.com/track/2nxNMpGFUIlO4Lsd7M3NLz"
+    },
+    {
       "added_at": "2025-12-16 02:09:10",
       "album": {
         "name": "Salah Paham",
@@ -361,20 +465,20 @@
       "url": "https://open.spotify.com/track/2kxav1ncfuZFh1atFxvc4W"
     },
     {
-      "added_at": "2025-12-16 02:09:10",
+      "added_at": "2026-02-04 03:16:08",
       "album": {
-        "name": "Senja Sudut Kota",
-        "url": "https://open.spotify.com/album/3sVoZe0ptCikuH0JKPpx0X"
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/4E1fGcosxVVwOXagB0urMX"
       },
       "artists": [
         {
-          "name": "Samuel Cipta",
-          "url": "https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc"
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
         }
       ],
-      "duration_ms": 223012,
-      "name": "Senja Sudut Kota",
-      "url": "https://open.spotify.com/track/27JBYWc4xN7OY4NJQ68pni"
+      "duration_ms": 272489,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/7hLeWn6DmpzX2cZB7aFSzA"
     },
     {
       "added_at": "2025-12-16 02:09:10",
@@ -531,74 +635,6 @@
     {
       "added_at": "2025-12-16 02:09:10",
       "album": {
-        "name": "Have A Baby (With Me)",
-        "url": "https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 225874,
-      "name": "Have A Baby (With Me)",
-      "url": "https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc"
-    },
-    {
-      "added_at": "2025-12-16 02:09:10",
-      "album": {
-        "name": "Freeze",
-        "url": "https://open.spotify.com/album/5lKJlvXQFoPMQlQnNOwqgJ"
-      },
-      "artists": [
-        {
-          "name": "Elisha Danielle",
-          "url": "https://open.spotify.com/artist/0PSGkpPwZlQmwu7fs9KKKO"
-        }
-      ],
-      "duration_ms": 174979,
-      "name": "Freeze",
-      "url": "https://open.spotify.com/track/3gVIkvlJDhwEKNVzH825sB"
-    },
-    {
-      "added_at": "2025-12-16 02:09:10",
-      "album": {
-        "name": "Take A Drive",
-        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Take A Drive",
-      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
-    },
-    {
-      "added_at": "2025-12-16 02:09:10",
-      "album": {
-        "name": "live with it",
-        "url": "https://open.spotify.com/album/6jzlHvl2F5o3yjNID9GhXs"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        },
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "live with it",
-      "url": "https://open.spotify.com/track/0NJBlOWxnGphq0fkCd3xIR"
-    },
-    {
-      "added_at": "2025-12-16 02:09:10",
-      "album": {
         "name": "Manusia",
         "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
       },
@@ -707,22 +743,6 @@
       "duration_ms": 198450,
       "name": "P Ramlee Saloma",
       "url": "https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i"
-    },
-    {
-      "added_at": "2025-12-16 02:09:10",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/5cvFHoDFMZq7BSw6G0gU9E"
-      },
-      "artists": [
-        {
-          "name": "Sezairi",
-          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/463iSAKPicdA97NSR5rWhB"
     },
     {
       "added_at": "2025-12-16 02:09:10",

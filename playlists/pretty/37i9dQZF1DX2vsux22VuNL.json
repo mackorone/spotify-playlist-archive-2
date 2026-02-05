@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 291471,
+  "num_followers": 291465,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-12-12 12:08:07",
       "album": {
-        "name": "assim",
-        "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "assim",
-      "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
-    },
-    {
-      "added_at": "2025-12-12 12:08:07",
-      "album": {
         "name": "Sempre Que Me V\u00ea",
         "url": "https://open.spotify.com/album/0gjyJm3JIFWXueTBg318dI"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 211764,
       "name": "Sempre Que Me V\u00ea",
       "url": "https://open.spotify.com/track/486dXyOiD0WKfEtSzUEWuj"
+    },
+    {
+      "added_at": "2025-12-12 12:08:07",
+      "album": {
+        "name": "assim",
+        "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "assim",
+      "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
     },
     {
       "added_at": "2025-12-12 12:08:07",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-12-12 12:08:07",
       "album": {
-        "name": "Versos e Voos",
-        "url": "https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "Modestto",
-          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Tudo de Novo",
-      "url": "https://open.spotify.com/track/6vQIoINz0yzZoGCbC2NE5p"
-    },
-    {
-      "added_at": "2025-12-12 12:08:07",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 200930,
       "name": "Nada",
       "url": "https://open.spotify.com/track/7Lum2Q2VG0Paq9adSxNTSi"
+    },
+    {
+      "added_at": "2025-12-12 12:08:07",
+      "album": {
+        "name": "Versos e Voos",
+        "url": "https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Tudo de Novo",
+      "url": "https://open.spotify.com/track/6vQIoINz0yzZoGCbC2NE5p"
     },
     {
       "added_at": "2025-12-12 12:08:07",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2025-12-12 12:08:07",
       "album": {
-        "name": "Caro Vapor / Vida e Veneno de Don L",
-        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Izabell Shamylla",
-          "url": "https://open.spotify.com/artist/6UYNE2SuiqJgaBIXIQ6XjN"
-        }
-      ],
-      "duration_ms": 184412,
-      "name": "Depois das Tr\u00eas",
-      "url": "https://open.spotify.com/track/2gQthJ9Xq8ghOQkJESERhK"
-    },
-    {
-      "added_at": "2025-12-12 12:08:07",
-      "album": {
         "name": "Inseguran\u00e7a",
         "url": "https://open.spotify.com/album/56Cys7wpKwA7K4BTj7R3x7"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 190243,
       "name": "Inseguran\u00e7a",
       "url": "https://open.spotify.com/track/48a7MGZKXcq4MQCkXJBB0k"
+    },
+    {
+      "added_at": "2025-12-12 12:08:07",
+      "album": {
+        "name": "Caro Vapor / Vida e Veneno de Don L",
+        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Izabell Shamylla",
+          "url": "https://open.spotify.com/artist/6UYNE2SuiqJgaBIXIQ6XjN"
+        }
+      ],
+      "duration_ms": 184412,
+      "name": "Depois das Tr\u00eas",
+      "url": "https://open.spotify.com/track/2gQthJ9Xq8ghOQkJESERhK"
     },
     {
       "added_at": "2025-12-12 12:08:07",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2025-12-12 12:08:07",
       "album": {
+        "name": "Me Diz Quando A Gente Vai Se Ver",
+        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Me Diz Quando A Gente Vai Se Ver",
+      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
+    },
+    {
+      "added_at": "2025-12-12 12:08:07",
+      "album": {
         "name": "Da Cabe\u00e7a Aos P\u00e9s",
         "url": "https://open.spotify.com/album/7wp6Af27m0ibNimiWpceYC"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 131252,
       "name": "Da Cabe\u00e7a Aos P\u00e9s",
       "url": "https://open.spotify.com/track/09LHATplvixVD0wBwqAERR"
-    },
-    {
-      "added_at": "2025-12-12 12:08:07",
-      "album": {
-        "name": "Me Diz Quando A Gente Vai Se Ver",
-        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
-      },
-      "artists": [
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Me Diz Quando A Gente Vai Se Ver",
-      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
     },
     {
       "added_at": "2025-12-12 12:08:07",

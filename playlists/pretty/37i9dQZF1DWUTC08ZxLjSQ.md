@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Fahad Bin Grman\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Hila\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,862 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,867 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mokazi](https://open.spotify.com/track/6WrurmZYqpjbj8f2j9DaCr) | [Fahad Bin Grman](https://open.spotify.com/artist/5UGfxuknbqr4dTRjF4mgGG), [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Mokazi](https://open.spotify.com/album/0ttvnPyMZUBUtOxhKZkPte) | 2:49 |
-| 2 | [Fidèle](https://open.spotify.com/track/0GXHaqVZPoV97zXhJ0rE7S) | [7mad](https://open.spotify.com/artist/1EuzzhJcSL4NK5vcpuUuMF) | [Fidèle](https://open.spotify.com/album/40mtyrxvEJb2Tb6zZkAbIB) | 3:01 |
-| 3 | [زرازير](https://open.spotify.com/track/3ZDvqAWIvPM9p6HjFD4klj) | [Khofash](https://open.spotify.com/artist/2H1jbRZ2JJP0WgkIfSjn7o), [Saiko](https://open.spotify.com/artist/39Tzw26U4dV1YRDb8WN7xe), [Gawish](https://open.spotify.com/artist/70r04jvuv4my1DGu3wB2yL) | [زرازير](https://open.spotify.com/album/3YzaCPbtlVeOcgiObkDj15) | 3:44 |
-| 4 | [Shargeeya!](https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp) | [Shargeeya](https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK) | [Shargeeya!](https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV) | 2:11 |
-| 5 | [Idiots](https://open.spotify.com/track/65z8GzPRbXm6MBg1Rpy1CL) | [LINA](https://open.spotify.com/artist/6FvY6bTnFL5cVQ1tuY7m9z) | [Idiots](https://open.spotify.com/album/0ovPLLp2rMxah8WpcWsjuj) | 3:35 |
-| 6 | [matgily tany ماتجيلي تاني](https://open.spotify.com/track/5ZBL2z5hjFtaAsE2hZFnAs) | [Pink Seasalt](https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D) | [matgily tany ماتجيلي تاني](https://open.spotify.com/album/4HZze1w2BihEUjCGypObpm) | 3:37 |
-| 7 | [1234](https://open.spotify.com/track/55XLDXuZvKLdw8ylBQOZsJ) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt) | [1234](https://open.spotify.com/album/4p6Kf5SxJX5O5s9qlpthtr) | 1:52 |
-| 8 | [Emotions Icy](https://open.spotify.com/track/2tov1U88xrtqbQcrOflSon) | [Namak](https://open.spotify.com/artist/7vWqf60gZHRBi9D66Uak2y) | [Emotions Icy](https://open.spotify.com/album/5RwdfMw1WSsvnfODkSMc35) | 2:37 |
-| 9 | [MESH MOSTA2](https://open.spotify.com/track/4ChpOTg7RlVxB5BcKRK5Jl) | [Qetoo](https://open.spotify.com/artist/6XnHQclydV6kIVoBClncdF) | [Stay](https://open.spotify.com/album/04sHLus87Mi9LLRZNZqnn5) | 2:37 |
-| 10 | [Fekra Gowa Dmaghy](https://open.spotify.com/track/4ijT8yTatmxES3yc4j2ZNI) | [Vest](https://open.spotify.com/artist/7a3ylB0pQzc4E853hNdCKX), [Hila](https://open.spotify.com/artist/3A3pot8KOSN2Yozwl0NLuU) | [KIWI](https://open.spotify.com/album/5NrB1piyq6CiK7XE8dgBgt) | 1:39 |
+| 1 | [Fekra Gowa Dmaghy](https://open.spotify.com/track/4ijT8yTatmxES3yc4j2ZNI) | [Vest](https://open.spotify.com/artist/7a3ylB0pQzc4E853hNdCKX), [Hila](https://open.spotify.com/artist/3A3pot8KOSN2Yozwl0NLuU) | [KIWI](https://open.spotify.com/album/5NrB1piyq6CiK7XE8dgBgt) | 1:39 |
+| 2 | [Mokazi](https://open.spotify.com/track/6WrurmZYqpjbj8f2j9DaCr) | [Fahad Bin Grman](https://open.spotify.com/artist/5UGfxuknbqr4dTRjF4mgGG), [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Mokazi](https://open.spotify.com/album/0ttvnPyMZUBUtOxhKZkPte) | 2:49 |
+| 3 | [Fidèle](https://open.spotify.com/track/0GXHaqVZPoV97zXhJ0rE7S) | [7mad](https://open.spotify.com/artist/1EuzzhJcSL4NK5vcpuUuMF) | [Fidèle](https://open.spotify.com/album/40mtyrxvEJb2Tb6zZkAbIB) | 3:01 |
+| 4 | [زرازير](https://open.spotify.com/track/3ZDvqAWIvPM9p6HjFD4klj) | [Khofash](https://open.spotify.com/artist/2H1jbRZ2JJP0WgkIfSjn7o), [Saiko](https://open.spotify.com/artist/39Tzw26U4dV1YRDb8WN7xe), [Gawish](https://open.spotify.com/artist/70r04jvuv4my1DGu3wB2yL) | [زرازير](https://open.spotify.com/album/3YzaCPbtlVeOcgiObkDj15) | 3:44 |
+| 5 | [Shargeeya!](https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp) | [Shargeeya](https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK) | [Shargeeya!](https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV) | 2:11 |
+| 6 | [Idiots](https://open.spotify.com/track/65z8GzPRbXm6MBg1Rpy1CL) | [LINA](https://open.spotify.com/artist/6FvY6bTnFL5cVQ1tuY7m9z) | [Idiots](https://open.spotify.com/album/0ovPLLp2rMxah8WpcWsjuj) | 3:35 |
+| 7 | [matgily tany ماتجيلي تاني](https://open.spotify.com/track/5ZBL2z5hjFtaAsE2hZFnAs) | [Pink Seasalt](https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D) | [matgily tany ماتجيلي تاني](https://open.spotify.com/album/4HZze1w2BihEUjCGypObpm) | 3:37 |
+| 8 | [1234](https://open.spotify.com/track/55XLDXuZvKLdw8ylBQOZsJ) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt) | [1234](https://open.spotify.com/album/4p6Kf5SxJX5O5s9qlpthtr) | 1:52 |
+| 9 | [Emotions Icy](https://open.spotify.com/track/2tov1U88xrtqbQcrOflSon) | [Namak](https://open.spotify.com/artist/7vWqf60gZHRBi9D66Uak2y) | [Emotions Icy](https://open.spotify.com/album/5RwdfMw1WSsvnfODkSMc35) | 2:37 |
+| 10 | [MESH MOSTA2](https://open.spotify.com/track/4ChpOTg7RlVxB5BcKRK5Jl) | [Qetoo](https://open.spotify.com/artist/6XnHQclydV6kIVoBClncdF) | [Stay](https://open.spotify.com/album/04sHLus87Mi9LLRZNZqnn5) | 2:37 |
 | 11 | [غالية عليا](https://open.spotify.com/track/2V0UuB9SnKJFQ6ubekgI6Y) | [Abdelrahman](https://open.spotify.com/artist/06pd7R2YV4jwzkJTFULdn2) | [غالية عليا](https://open.spotify.com/album/3T0F6jPG0BphXBBrf4gKQX) | 3:24 |
 | 12 | [Dalida](https://open.spotify.com/track/4Bw1x4YbA4XzGevMbkXtpV) | [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [Shr](https://open.spotify.com/artist/31G6pp1Vk8pLxASeTsGRCp), [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7) | [The Plug](https://open.spotify.com/album/5VqYWDvAaCb7OdNW0qy0Km) | 2:44 |
 | 13 | [Nechtik](https://open.spotify.com/track/3QCreUjeYR1Vot6dJO7PIc) | [Yulyo](https://open.spotify.com/artist/6EiHFsxnn99AATJ0bpLPK9), [OSTAR OFFICIAL](https://open.spotify.com/artist/484KAzc1DrK9bEQSre9h7a) | [Nechtik](https://open.spotify.com/album/4oOT6TLJCCkiqdScvH1qIt) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Chokran](https://open.spotify.com/track/4wq6DeA6G2u9XVgq7NZX9B) | [ASSIF](https://open.spotify.com/artist/4hSCKyUEoKKlPHA3mtTYl7) | [Chokran](https://open.spotify.com/album/77LACOwGZJOiBR3raiQNsB) | 1:58 |
 | 50 | [70's](https://open.spotify.com/track/4Blh7kOHMqddHNw9dihg3y) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [70's](https://open.spotify.com/album/5sWPxAhokrsRcZfKiIaX0v) | 2:51 |
 
-Snapshot ID: `AAAAAPCAgXE1XjT5gvNEGwkK+x5Bz8po`
+Snapshot ID: `AAAAAHal/+igLHkppME23M2PaBg0zag0`

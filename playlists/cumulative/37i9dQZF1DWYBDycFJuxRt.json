@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: MISAMO *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/343624\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: MISAMO *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/343782\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -3670,6 +3670,24 @@
       "duration_ms": 2488436,
       "name": "2026/1/28 \u30b1\u30c4\u30e1\u30a4\u30b7\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u914d\u4fe1\uff01\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3\u304c\u521d\u306e\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u30ab\u30d0\u30fc\u306b\uff01 XG\u306e\u521d\u306e\u30a2\u30eb\u30d0\u30e0\u3001PAS TASTA\u3068\u6a4b\u672c\u7d75\u8389\u5b50\u306e\u30b3\u30e9\u30dc\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01",
       "url": "https://open.spotify.com/episode/2j1PRY2ZkgtjI38tzyyR7t"
+    },
+    {
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1602827,
+      "name": "2026/2/4 MISAMO\u304c\u30ab\u30d0\u30fc\uff01\u3061\u3083\u3093\u307f\u306a\u306e\u65b0\u66f2\u3001CHAI\u306eMANA\u30fbKANA\u306b\u3088\u308b\u65b0\u30d7\u30ed\u30b8\u30a7\u30af\u30c8OKAME\u306e1st\u30a2\u30eb\u30d0\u30e0\u3001KID FRESINO\u00d7YONCE\u306e\u30b3\u30e9\u30dc\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01Early Noise\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8luv\u306e\u65b0\u66f2\u3082\uff01ONE OR EIGHT\u304b\u3089\u30e1\u30c3\u30bb\u30fc\u30b8\u3082\u5230\u7740\uff01\uff01",
+      "url": "https://open.spotify.com/episode/5FYvVOAdls9Dv6MirODBMc"
     },
     {
       "album": {
@@ -27439,8 +27457,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Celeste",
+        "url": "https://open.spotify.com/album/16eVU6d7Bntt7tQa37bCXw"
       },
       "artists": [
         {
@@ -59157,8 +59175,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Bedford Hedgehog",
+        "url": "https://open.spotify.com/album/6CNA7ueCSGXgAjsQvow1nS"
       },
       "artists": [
         {
@@ -59513,8 +59531,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "HOW UNIQUE!",
+        "url": "https://open.spotify.com/album/2YVw3whVgxcgWFVjGl9l5l"
       },
       "artists": [
         {
@@ -119685,8 +119703,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Post Poet",
+        "url": "https://open.spotify.com/album/4b7k0gx2k2ATNPKIxwBKvg"
       },
       "artists": [
         {
@@ -195395,8 +195413,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "SHIBAI (Deluxe)",
+        "url": "https://open.spotify.com/album/5Nld5ZThnxP6yMxMHcNCld"
       },
       "artists": [
         {

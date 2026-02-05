@@ -311,10 +311,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 301 | [Mala \- Ao Vivo](https://open.spotify.com/track/4RD4bpPwBzJu3hZUHiDVFy) | [Nathy Alvarenga](https://open.spotify.com/artist/5CQJ9yWbOGVKCeEKY6LNDo) | [Mais um Rolê \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/5qV8s3v3V275RY8E3SiAiv) | 2:29 |
 | 302 | [Pra Fazer Ciúmes](https://open.spotify.com/track/5DdgXA3qkKkG7SwXGA1SMS) | [Jenny Ribeiro](https://open.spotify.com/artist/4l6IjRWjYxmJUCZhFkVoYs) | [Jenny Ribeiro](https://open.spotify.com/album/43IZe8bBl72CMSdqlzqtJC) | 2:24 |
 | 303 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
-| 304 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
-| 305 | [Me Adota](https://open.spotify.com/track/2DVrvB0uDNmuv1Y3mTFHts) | [Vitória Pontes](https://open.spotify.com/artist/6F6zrhvcRF0CmaQ5PhUpPq) | [Me Adota](https://open.spotify.com/album/7sC4PvUNFGaW2hOw9yIC4O) | 2:44 |
+| 304 | [Me Adota](https://open.spotify.com/track/2DVrvB0uDNmuv1Y3mTFHts) | [Vitória Pontes](https://open.spotify.com/artist/6F6zrhvcRF0CmaQ5PhUpPq) | [Me Adota](https://open.spotify.com/album/7sC4PvUNFGaW2hOw9yIC4O) | 2:44 |
+| 305 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
 | 306 | [Tem a Senha](https://open.spotify.com/track/4FgDiFNbLtUAYZdezDDELX) | [Artthurzinho](https://open.spotify.com/artist/0MHUejZdGYlArcSqjUsJ8q) | [Tem a Senha](https://open.spotify.com/album/6qnh3Lu6Rqobxs1s9MPhwO) | 2:39 |
 | 307 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 308 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `AcItjAAAAAAMvAzbzVRorOtGXG6XE398`
+Snapshot ID: `AcIzNgAAAAAjbP6RDBnfQzJZJ59Ao79P`

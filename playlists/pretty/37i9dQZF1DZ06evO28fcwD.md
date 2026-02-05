@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,332 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,334 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 | 32 | [Weeping \(with Ladysmith Black Mambazo & Vusi Mahlasela\)](https://open.spotify.com/track/1nTIMFZ6rD8BRe2HvXZrph) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Vusi Mahlasela](https://open.spotify.com/artist/7tUdxVCUWjTPf3Ic90eWDJ) | [Awake](https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC) | 4:44 |
 | 33 | [Amafutha Esibane](https://open.spotify.com/track/5msU28j9wIWfTAK9Zcewrm) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ezinkulu](https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh) | 4:35 |
 | 34 | [This Little Light of Mine \(Bonus Track\)](https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Shaka Zulu Revisited: 30th Anniversary Celebration](https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X) | 3:41 |
-| 35 | [Peace Train/Isitimela Sokuthula](https://open.spotify.com/track/6RNhExU4CmhSEaHPjIMls9) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Treasures](https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb) | 4:40 |
-| 36 | [Sishumayel' Ivangeli](https://open.spotify.com/track/2CgAlc3jjlpnTrTeQUKq5X) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ulwandle Olungcwele](https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg) | 3:18 |
+| 35 | [Sishumayel' Ivangeli](https://open.spotify.com/track/2CgAlc3jjlpnTrTeQUKq5X) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ulwandle Olungcwele](https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg) | 3:18 |
+| 36 | [Peace Train/Isitimela Sokuthula](https://open.spotify.com/track/6RNhExU4CmhSEaHPjIMls9) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Treasures](https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb) | 4:40 |
 | 37 | [Bamnqobile](https://open.spotify.com/track/3FTyDZ9W072Lqq31ZM8zys) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ezinkulu](https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh) | 4:51 |
 | 38 | [Wangibambezela \(Message from His Heart\)](https://open.spotify.com/track/7a6Q3u1E8piVrofp9Z5gHp) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wenyukela](https://open.spotify.com/album/22pZegdhSRTwHKULOAdhaN) | 4:57 |
 | 39 | [African Alphabet](https://open.spotify.com/track/3O5q4MvQzxYYzjRLchIOYi) | [Kermit the Frog](https://open.spotify.com/artist/1PGjAoXiKP1Hcx788WVFx9), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Jim Henson: A Sesame Street Celebration, Vol\. 2](https://open.spotify.com/album/4WYTk7iadQtxiFryOKHM7W) | 1:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 | 49 | [Pauline](https://open.spotify.com/track/0ahYb1FP9tiIUQbA164pPo) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Inala](https://open.spotify.com/album/0lkb2v75YhtDpCtufDW2Ec) | 3:36 |
 | 50 | [Awu Wemadoda \- Club Mix](https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Awu Wemadoda](https://open.spotify.com/album/5DWZDoLZrKRPwrImMehQu5) | 3:55 |
 
-Snapshot ID: `aX/pAAAAAADOr11vfNiF3EehQ10YLFJx`
+Snapshot ID: `aYE6gAAAAACEbVnCksFr/bJj4SjClTrg`

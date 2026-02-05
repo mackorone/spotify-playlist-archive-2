@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,804 likes - 159 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,983 likes - 159 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 117 | [Pollen](https://open.spotify.com/track/3SLLlwtC4vAyiaWhZ6U4pI) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Pollen](https://open.spotify.com/album/6xsuHwZZyZjzfc5GQ2QiB3) | 3:25 |
 | 118 | [2 Go](https://open.spotify.com/track/6bEreC7Z1UdHbMC7JDhcwm) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [2 Go](https://open.spotify.com/album/6ZRtBlfIqF1NOySOUrjz2p) | 4:06 |
 | 119 | [yesterday](https://open.spotify.com/track/1pajzEkuHxBLx5wSzXU4KG) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [memorii](https://open.spotify.com/album/0vNfvLa97NZPAlKiXCSz7J) | 2:32 |
-| 120 | [Cool](https://open.spotify.com/track/0OTCBDrMgtftlMLdHwwg0m) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [PAN](https://open.spotify.com/artist/4QDFNS0p6YD8W7qji4roB3) | [Cool](https://open.spotify.com/album/1piiVzpaNkozzVjXKPvikB) | 3:02 |
+| 120 | [Cool](https://open.spotify.com/track/0OTCBDrMgtftlMLdHwwg0m) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Joe Farwick](https://open.spotify.com/artist/7xQHg9QFtZpvcsFyLW9z0s) | [Cool](https://open.spotify.com/album/1piiVzpaNkozzVjXKPvikB) | 3:02 |
 | 121 | [Anything4u](https://open.spotify.com/track/71TUIRuDF065JfAvfFRhWU) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [Anything4u](https://open.spotify.com/album/5M8Gct5jIiN2SYkgmx6Tll) | 2:00 |
 | 122 | [Once I \(Lose Control\)](https://open.spotify.com/track/2wtfPwtYi2LJVZVPrvjpkB) | [Januar](https://open.spotify.com/artist/0J2UQEazRjVuwWlEXufHsD) | [Once I \(Lose Control\)](https://open.spotify.com/album/2CA3buRlRGat3xJwQKUNaS) | 2:15 |
 | 123 | [U Always](https://open.spotify.com/track/5KqMPYaStD6h3wkVU1nVFV) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [U Always](https://open.spotify.com/album/2GL4MOHJDbEHFaJYFuQ2eu) | 4:18 |

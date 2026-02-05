@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Big rooms and big sounds. Cover: Blasterjaxx",
+  "description": "Big rooms and big sounds. Cover: D'Angello & Francis",
   "name": "Big Room Dance",
   "tracks": [
     {
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 143000,
       "name": "D.O.M.",
       "url": "https://open.spotify.com/track/2ra6kEjaiOJ9SG3z4siPc9"
@@ -2972,6 +2972,24 @@
       "duration_ms": 183000,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/25FHIFGpiG9xyh2bFyaKwR"
+    },
+    {
+      "album": {
+        "name": "Don't You Want Me",
+        "url": "https://open.spotify.com/album/49knpaXPppSpCMgxRipDc1"
+      },
+      "artists": [
+        {
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/2I1wxwKrXw4Zv2Bg8IUMPd"
     },
     {
       "album": {

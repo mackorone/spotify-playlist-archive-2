@@ -1,6 +1,6 @@
 {
   "description": "Selections of North Indian classical music.",
-  "num_followers": 90314,
+  "num_followers": 90325,
   "original_name": "Hindustani Classical",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,26 @@
     {
       "added_at": "2026-01-28 11:21:13",
       "album": {
+        "name": "Brij Narayan",
+        "url": "https://open.spotify.com/album/72ZMJKTHsYFQRZBM0iL5kw"
+      },
+      "artists": [
+        {
+          "name": "Iqubal Huein",
+          "url": "https://open.spotify.com/artist/0CnxFv42PMTnwphcBkCdnA"
+        },
+        {
+          "name": "Brij Narayan",
+          "url": "https://open.spotify.com/artist/5VJZyz56NQuUuxB7Hd0urs"
+        }
+      ],
+      "duration_ms": 613933,
+      "name": "Raga Kirwani - Alap Gat - Teental",
+      "url": "https://open.spotify.com/track/2Gq5kWJ1NRufo0QOfVyGTj"
+    },
+    {
+      "added_at": "2026-01-28 11:21:13",
+      "album": {
         "name": "Hari Dhwani - Raga Lalit",
         "url": "https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 1290800,
       "name": "Rag Misra Mand",
       "url": "https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw"
-    },
-    {
-      "added_at": "2026-01-28 11:21:13",
-      "album": {
-        "name": "Brij Narayan",
-        "url": "https://open.spotify.com/album/72ZMJKTHsYFQRZBM0iL5kw"
-      },
-      "artists": [
-        {
-          "name": "Iqubal Huein",
-          "url": "https://open.spotify.com/artist/0CnxFv42PMTnwphcBkCdnA"
-        },
-        {
-          "name": "Brij Narayan",
-          "url": "https://open.spotify.com/artist/5VJZyz56NQuUuxB7Hd0urs"
-        }
-      ],
-      "duration_ms": 613933,
-      "name": "Raga Kirwani - Alap Gat - Teental",
-      "url": "https://open.spotify.com/track/2Gq5kWJ1NRufo0QOfVyGTj"
     },
     {
       "added_at": "2026-01-28 11:21:13",

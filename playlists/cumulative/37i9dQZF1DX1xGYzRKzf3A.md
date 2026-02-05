@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-407 songs - 23 hr 45 min
+408 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Mi Razón De Ser](https://open.spotify.com/track/03JbYQiWdbNU50NmmSU6q3) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 3:13 | 2023-06-16 | 2025-11-10 |
 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 | 2023-06-16 | 2025-10-08 |
 | [Mi Unico Camino](https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Más Tocadas](https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp) | 2:52 | 2024-07-15 | 2025-11-10 |
-| [Miente](https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 3:07 | 2025-11-09 |  |
+| [Miente](https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 3:07 | 2025-11-09 | 2026-02-05 |
 | [Mil Noches](https://open.spotify.com/track/07lhQQZmg4ANOJ2ar5RecQ) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Super Exitos](https://open.spotify.com/album/1KSE2b7yXmIQKcvYpINrLp) | 3:56 | 2024-07-15 | 2025-06-18 |
 | [Millionaire](https://open.spotify.com/track/4WfzRSiFd1ZlcIPLYAjLgg) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Tasty + B Sides](https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M) | 3:30 | 2023-06-16 | 2024-07-03 |
 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 | 2023-06-16 | 2024-04-19 |
@@ -270,6 +270,7 @@
 | [NECIA](https://open.spotify.com/track/1IUtvjwL9BWq3vaQpJbvDr) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX), [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [NECIA](https://open.spotify.com/album/3UkGnHED6tOV5fKgWCPBOX) | 3:03 | 2025-11-09 |  |
 | [Nena Moxita](https://open.spotify.com/track/4jC9blSAq4KNgejoNeQgwA) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:37 | 2025-11-09 |  |
 | [Ni Una Sola Palabra \(feat\. IMA\)](https://open.spotify.com/track/4h9tHQkrlXA3N1wvpqDXmR) | [Chusi](https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b), [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [IMA](https://open.spotify.com/artist/3BjYZUW21VH6TohUVC5FhV) | [Ni Una Sola Palabra \(feat\. IMA\)](https://open.spotify.com/album/0bzo8Jsq6kthTs8V8bsqSS) | 4:22 | 2025-11-09 |  |
+| [Nitrocumbia](https://open.spotify.com/track/5Ub2ljGAxC1ZWZ4IxAZRKa) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Nitrocumbia](https://open.spotify.com/album/4vDymKr8UcyvMaaZOGELy3) | 3:03 | 2025-11-09 |  |
 | [No Ando En Disney](https://open.spotify.com/track/1ho6yeOO4f93vV56925sZW) | [Dylan Coronel](https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j), [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [No Ando En Disney](https://open.spotify.com/album/0d62zCTS47g0FWqg97wXUx) | 3:16 | 2025-11-09 |  |
 | [No Hay Problema](https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Te Sigo Amando](https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4) | 3:35 | 2025-06-17 | 2025-11-10 |
 | [No Mastico Culebras](https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [No Mastico Culebras](https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW) | 2:14 | 2024-07-02 | 2025-04-13 |

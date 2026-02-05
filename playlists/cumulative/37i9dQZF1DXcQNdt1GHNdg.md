@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-313 songs - 15 hr 0 min
+314 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Blackberry Sap](https://open.spotify.com/track/2MajsZJ85B49Rt1KWhu4P7) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 4:52 | 2024-04-06 | 2024-08-27 |
 | [Blackberry Sap](https://open.spotify.com/track/35nhjyhtDdeDIyibcQ7Aa0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 4:52 | 2023-07-18 | 2024-04-19 |
 | [Bloodline](https://open.spotify.com/track/58e0YubYQ1d9cCeXPAwsol) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Bloodline](https://open.spotify.com/album/5ODlJ6z5wzl9niMH2KWAWd) | 2:26 | 2026-01-23 |  |
+| [Bloodline](https://open.spotify.com/track/1CkjmpV5HjJFfaV43euCla) | [K.S Makhan](https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3), [Divrose](https://open.spotify.com/artist/2vozhmDOGI7uIqNM1v7GHE), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Bloodline](https://open.spotify.com/album/3SaQfROfIvcuN2rsLUgnxW) | 2:40 | 2026-02-04 |  |
 | [Bmx](https://open.spotify.com/track/1Tfgsmpa8fTLcqxlSVNyFk) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Pawan Dhanda](https://open.spotify.com/artist/4Hoz7OmMfGJhRUcPCUoJgc) | [My Name Is Street](https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea) | 3:01 | 2025-10-16 | 2025-11-04 |
 | [Bora Bora \(feat\. Ayra Starr\)](https://open.spotify.com/track/3lZ6QxJ6LH8HGWov58drvj) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Brownprint](https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9) | 2:35 | 2024-08-30 | 2024-10-24 |
 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 | 2023-07-18 | 2025-02-07 |
@@ -191,7 +192,7 @@
 | [LEVEL](https://open.spotify.com/track/3Som8HXULC5zwyCF4w754j) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [LEVEL](https://open.spotify.com/album/2LGsxAFGP9c2BPgP9r2m5M) | 2:35 | 2025-03-21 |  |
 | [Listen Girl](https://open.spotify.com/track/7CVxTGAwmjMbWdn1T6XDCb) | [Kay Vee Singh](https://open.spotify.com/artist/52sAo4U0x2dfde5UYFDU2n), [Ricky Malhi](https://open.spotify.com/artist/1p6g3paiRdQg0SUV39aaeS), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Fancy](https://open.spotify.com/album/4LHIRGFb5HbK1rtTGW0dQo) | 2:40 | 2025-01-10 | 2025-02-04 |
 | [Lock](https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Lock](https://open.spotify.com/album/26w8VWnNdWUcF5rRZc2rrZ) | 2:55 | 2025-01-23 |  |
-| [MAJHAIL](https://open.spotify.com/track/1gCyzMJLVMDwhWcJTjWMbr) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Micheal](https://open.spotify.com/artist/4HITSZH8b5ITVXjg91mFY1), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [HOME RULE](https://open.spotify.com/album/7rfuzG3gpHNpvWRY5H40ct) | 1:53 | 2025-10-06 |  |
+| [MAJHAIL](https://open.spotify.com/track/1gCyzMJLVMDwhWcJTjWMbr) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Micheal](https://open.spotify.com/artist/4HITSZH8b5ITVXjg91mFY1), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [HOME RULE](https://open.spotify.com/album/7rfuzG3gpHNpvWRY5H40ct) | 1:53 | 2025-10-06 | 2026-02-05 |
 | [Majhail](https://open.spotify.com/track/4U9gsMBTcBwMosyBxJC9Al) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Majhail](https://open.spotify.com/album/51nwNRYw6uBFk7n4GVanoB) | 2:44 | 2024-12-22 | 2025-10-16 |
 | [Malwa Block](https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:59 | 2023-07-18 | 2025-01-29 |
 | [Malwa Flow](https://open.spotify.com/track/09VWVd647SOaxdOldbQ60U) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Malwa Flow](https://open.spotify.com/album/0aW4c50XWyPUuB8upIfYQu) | 3:17 | 2025-02-19 |  |

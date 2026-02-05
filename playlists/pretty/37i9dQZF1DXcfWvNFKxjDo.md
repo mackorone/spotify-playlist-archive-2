@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Funk Tribu
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,081 likes - 88 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,077 likes - 88 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 51 | [Cajito \(No Balão\)](https://open.spotify.com/track/6QkMTUvcWRH3bHfd74DBmX) | [ZEYPHIA](https://open.spotify.com/artist/3yKSgF89HjaiDLsicDFnZd) | [Cajito \(No Balão\)](https://open.spotify.com/album/3bSh5PIkFF3bvfhy2RgqGE) | 2:03 |
 | 52 | [Misbehave](https://open.spotify.com/track/1FRWjWnOf6NRePXN38tkQS) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Misbehave](https://open.spotify.com/album/59dxeR3y0o3WhJwQA1oNKm) | 3:43 |
 | 53 | [Heavenly](https://open.spotify.com/track/3DMnMN8IJu3bV48gfM3xFI) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Heavenly](https://open.spotify.com/album/3i6WwXd7xIlfiM58xOQBBF) | 3:12 |
-| 54 | [Just Dance](https://open.spotify.com/track/3KsUYLVXMf1yNgQf3l99KP) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [SURAYA](https://open.spotify.com/artist/19IffvUJTt3a7c1vPXENF3), [SHOWTEKNO](https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD) | [Just Dance](https://open.spotify.com/album/6GQLUM88iPc4ncwALKLMCW) | 4:07 |
+| 54 | [Just Dance](https://open.spotify.com/track/3KsUYLVXMf1yNgQf3l99KP) | [SHOWTEKNO](https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD), [SURAYA](https://open.spotify.com/artist/19IffvUJTt3a7c1vPXENF3), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Just Dance](https://open.spotify.com/album/6GQLUM88iPc4ncwALKLMCW) | 4:07 |
 | 55 | [Tinnitus](https://open.spotify.com/track/2ve4LHAWLpQjo95BMS8Lzc) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI) | [Tinnitus](https://open.spotify.com/album/4gjixkyhONQ8IkhoZj7KY7) | 2:03 |
 | 56 | [Shut It Down](https://open.spotify.com/track/05TXeKZzynUYm5fSlEAo3F) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Shut It Down](https://open.spotify.com/album/3K7bUlbOGrHEaCnHBnAyLh) | 3:06 |
 | 57 | [imissthetimes](https://open.spotify.com/track/24fIb3TQ2uhY23caHh5Zi5) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [imissthetimes](https://open.spotify.com/album/6soiQc7YLffUhmPHzWbz7q) | 2:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ym1547AToj.md) - [plain]
 
 > Retrouvez les chansons de vos films préférés en version originale
 
-[Spotify](https://open.spotify.com/user/spotify) - 109 likes - 98 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 110 likes - 98 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ym1547AToj.md) - [plain]
 | 58 | [We Go Together](https://open.spotify.com/track/7ciTZoxqPMMvxJLNiFZDTH) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [The Sausage Factory Singers](https://open.spotify.com/artist/6V6io3ApRj18jjB2SORQsr) | [The Secret Life of Pets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kmitKoCAjnrdmFxmepZcH) | 1:24 |
 | 59 | [Sh\-Boom](https://open.spotify.com/track/7Hi0AyrsS4KSkVotGRI2gk) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Cars \(Versión de Colección\)](https://open.spotify.com/album/5fn6VH2E4CipGPG9NkBytd) | 2:25 |
 | 60 | [My Family \- from "The Addams Family"](https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Rock Mafia](https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47) | [My Family \(feat\. Migos\) \[from "The Addams Family"\]](https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2) | 2:57 |
-| 61 | [Scooby\-Doo, Where Are You?](https://open.spotify.com/track/72Wnt432yCa6SXVcC8DB0K) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [SCOOB! \(Original Motion Picture Score\)](https://open.spotify.com/album/4KL8ojXg68NbS1wXbhHUrh) | 1:25 |
+| 61 | [Scooby\-Doo, Where Are You?](https://open.spotify.com/track/72Wnt432yCa6SXVcC8DB0K) | [Tom Holkenborg](https://open.spotify.com/artist/7re96rTZKi830IHUEHNEP9) | [SCOOB! \(Original Motion Picture Score\)](https://open.spotify.com/album/4KL8ojXg68NbS1wXbhHUrh) | 1:25 |
 | 62 | [When Can I See You Again? \- From "Wreck\-It Ralph"/Soundtrack Version](https://open.spotify.com/track/5ZkAx8zjLiSs1nMmBwJoZS) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Wreck\-It Ralph](https://open.spotify.com/album/0aqJGQ73RTLu3yLgcdU9JC) | 3:38 |
 | 63 | [The Lion Sleeps Tonight](https://open.spotify.com/track/67rctxgNOXUYhKiS3cv0MT) | [Billy Eichner](https://open.spotify.com/artist/0FVsUxcFSlxwIM7Qs31s6J), [Seth Rogen](https://open.spotify.com/artist/7xX39IyguhWsTIg4eU2reH) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 1:24 |
 | 64 | [Into the Unknown \- From "Frozen 2"](https://open.spotify.com/track/0v622a7rlXRYcT6m3xwutU) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Into the Unknown \(From "Frozen 2"\)](https://open.spotify.com/album/0GSPdfLb7ccZ4Gwt8b7CVF) | 3:09 |

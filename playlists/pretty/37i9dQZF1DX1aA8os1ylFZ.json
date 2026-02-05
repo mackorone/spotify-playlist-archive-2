@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 295434,
+  "num_followers": 295426,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "To Dry a Tear",
         "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 184822,
       "name": "Acres",
       "url": "https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -543,22 +543,18 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "U Gotta",
-        "url": "https://open.spotify.com/album/30VqT2rbEknTdCZt1n0Rci"
+        "name": "Head in a Jar",
+        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
       },
       "artists": [
         {
-          "name": "Dyce",
-          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
-        },
-        {
-          "name": "The Limba",
-          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 122880,
-      "name": "U Gotta",
-      "url": "https://open.spotify.com/track/20RR34NvvcSas9GdZUrAhq"
+      "duration_ms": 196451,
+      "name": "Head in a Jar",
+      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -579,18 +575,22 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Head in a Jar",
-        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
+        "name": "U Gotta",
+        "url": "https://open.spotify.com/album/30VqT2rbEknTdCZt1n0Rci"
       },
       "artists": [
         {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+          "name": "Dyce",
+          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
+        },
+        {
+          "name": "The Limba",
+          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
         }
       ],
-      "duration_ms": 196451,
-      "name": "Head in a Jar",
-      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
+      "duration_ms": 122880,
+      "name": "U Gotta",
+      "url": "https://open.spotify.com/track/20RR34NvvcSas9GdZUrAhq"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
+        "name": "Playdoh",
+        "url": "https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1"
+      },
+      "artists": [
+        {
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        }
+      ],
+      "duration_ms": 138343,
+      "name": "Playdoh",
+      "url": "https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
         "name": "Can We Do This Over",
         "url": "https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 159986,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
-        "name": "Playdoh",
-        "url": "https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1"
-      },
-      "artists": [
-        {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
-        }
-      ],
-      "duration_ms": 138343,
-      "name": "Playdoh",
-      "url": "https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
+        "name": "Waiting For You (feat. Reggie Dartey)",
+        "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        }
+      ],
+      "duration_ms": 198894,
+      "name": "Waiting For You (feat. Reggie Dartey)",
+      "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
         "name": "10AM",
         "url": "https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD"
       },
@@ -1099,22 +1119,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Dark Nights",
-        "url": "https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 192279,
-      "name": "What I Used To Get Into",
-      "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "TWIN FLAME",
         "url": "https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm"
       },
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Waiting For You (feat. Reggie Dartey)",
-        "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
+        "name": "Dark Nights",
+        "url": "https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE"
       },
       "artists": [
         {
-          "name": "Bnnyhunna",
-          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
-        },
-        {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
         }
       ],
-      "duration_ms": 198894,
-      "name": "Waiting For You (feat. Reggie Dartey)",
-      "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
+      "duration_ms": 192279,
+      "name": "What I Used To Get Into",
+      "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Take Our Time",
-        "url": "https://open.spotify.com/album/46oA9RFcjoFroXjGZA3xmg"
-      },
-      "artists": [
-        {
-          "name": "MKY",
-          "url": "https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX"
-        }
-      ],
-      "duration_ms": 145746,
-      "name": "Take Our Time",
-      "url": "https://open.spotify.com/track/0yrl69mUFPR0y5EvDdVSM9"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/1dJdsWWuEbTDh43PpZfcbT"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 189866,
       "name": "No Secrets",
       "url": "https://open.spotify.com/track/0yR6C6fVO9EecfDKL7e9mY"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "Take Our Time",
+        "url": "https://open.spotify.com/album/46oA9RFcjoFroXjGZA3xmg"
+      },
+      "artists": [
+        {
+          "name": "MKY",
+          "url": "https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX"
+        }
+      ],
+      "duration_ms": 145746,
+      "name": "Take Our Time",
+      "url": "https://open.spotify.com/track/0yrl69mUFPR0y5EvDdVSM9"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -1375,6 +1375,30 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
+        "name": "If The Walls Could Talk",
+        "url": "https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx"
+      },
+      "artists": [
+        {
+          "name": "Lizzy",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        },
+        {
+          "name": "Maydien",
+          "url": "https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y"
+        },
+        {
+          "name": "Mitchell Yard",
+          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "If The Walls Could Talk",
+      "url": "https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
         "name": "Until the End",
         "url": "https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU"
       },
@@ -1403,30 +1427,6 @@
       "duration_ms": 152181,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
-        "name": "If The Walls Could Talk",
-        "url": "https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx"
-      },
-      "artists": [
-        {
-          "name": "Lizzy",
-          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
-        },
-        {
-          "name": "Maydien",
-          "url": "https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y"
-        },
-        {
-          "name": "Mitchell Yard",
-          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "If The Walls Could Talk",
-      "url": "https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
+        "name": "Why Do Feelings Matter Anyway",
+        "url": "https://open.spotify.com/album/74KBgkPg55lmPeu8Lt2r4M"
+      },
+      "artists": [
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        }
+      ],
+      "duration_ms": 180048,
+      "name": "N.M.N",
+      "url": "https://open.spotify.com/track/1c9AwaAGcb4e7IPTRuPdHN"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/3U5R7PhkRZSx41ZUFjMQdn"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 159512,
       "name": "Club",
       "url": "https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
-        "name": "Why Do Feelings Matter Anyway",
-        "url": "https://open.spotify.com/album/74KBgkPg55lmPeu8Lt2r4M"
-      },
-      "artists": [
-        {
-          "name": "PJ",
-          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
-        }
-      ],
-      "duration_ms": 180048,
-      "name": "N.M.N",
-      "url": "https://open.spotify.com/track/1c9AwaAGcb4e7IPTRuPdHN"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
+        "name": "Pussy",
+        "url": "https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 175183,
+      "name": "Pussy",
+      "url": "https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
         "name": "LUCKY ME",
         "url": "https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 163561,
       "name": "BUTTERFLIES",
       "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
-        "name": "Pussy",
-        "url": "https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS"
-      },
-      "artists": [
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
-        }
-      ],
-      "duration_ms": 175183,
-      "name": "Pussy",
-      "url": "https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG"
     },
     {
       "added_at": "2026-02-03 23:00:18",

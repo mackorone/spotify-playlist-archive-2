@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,862 likes - 80 songs - 4 hr 17 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,861 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 23 | [Liars Tale](https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Liars Tale](https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe) | 3:17 |
 | 24 | [Oye cómo vienes](https://open.spotify.com/track/7jZG4leIK2Y1mJJWh4NG4k) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Oye cómo vienes](https://open.spotify.com/album/4MVhP4zj6JD7c43hu4CB2q) | 1:58 |
 | 25 | [Electronicity](https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Electronicity](https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC) | 3:52 |
-| 26 | [Residue \- The Moment \(The Score\)](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue \- The Moment \(The Score\)](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 |
+| 26 | [Residue](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 |
 | 27 | [Dios los Bendiga \(feat\. Tito El Bambino\)](https://open.spotify.com/track/3vDnMJ7jpmqgNaobJBOUqW) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Dios los Bendiga \(feat\. Tito El Bambino\)](https://open.spotify.com/album/75L1b4ZIIgyJdhK7FccMwI) | 2:16 |
 | 28 | [Perorata](https://open.spotify.com/track/5JfrwkoSfcJQqs07jI4XrN) | [Julio de la Rosa](https://open.spotify.com/artist/1TlayDixkhMb8CbDXwKcyP) | [Perorata](https://open.spotify.com/album/5RalF4W498zj5GbnPYrs5Z) | 3:22 |
 | 29 | [Stranger](https://open.spotify.com/track/5qmASqXmHpe3dDQPhigjC4) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Stranger](https://open.spotify.com/album/26rQT8rF76BUqddeqISZ74) | 3:20 |

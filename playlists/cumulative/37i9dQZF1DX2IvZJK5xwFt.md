@@ -2,7 +2,7 @@
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: Linkin Park
+> Only the best rock in the world\. Cover: Måneskin
 
 1,015 songs - 2 day 14 hr 51 min
 
@@ -343,7 +343,7 @@
 | [God's Gonna Cut You Down](https://open.spotify.com/track/5wGgNpNuiAfZy6m0P7MqtV) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [God's Gonna Cut You Down](https://open.spotify.com/album/6fe4bWNSCJpOUc3hm3esZ0) | 3:01 | 2024-05-05 | 2024-06-21 |
 | [God, Allow Me \(Please\) to Play Music](https://open.spotify.com/track/2fUzMv902xjuqVAACyQVDW) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [God, Allow Me \(Please\) to Play Music](https://open.spotify.com/album/1qygvf7I6wjQLPyBLfOlTi) | 3:31 | 2022-05-06 | 2022-08-27 |
 | [Godzilla II](https://open.spotify.com/track/1dhHHQaCIa1as4xstNgxuU) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Godzilla II](https://open.spotify.com/album/6THgMtbKgQzqvC36PNHKRU) | 2:03 | 2025-07-17 | 2025-08-30 |
-| [God’s Eye](https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [God's Eye](https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi) | 2:11 | 2026-01-23 |  |
+| [God’s Eye](https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [God's Eye](https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi) | 2:10 | 2026-01-23 |  |
 | [Going Crazy](https://open.spotify.com/track/4roPy7UCHujegMBkutBawy) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Chaos In Bloom](https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T) | 3:58 | 2022-08-11 | 2023-07-14 |
 | [Going Down](https://open.spotify.com/track/0a4ToUsRYorLaTvEwPQZy3) | [Anesthetic Youth](https://open.spotify.com/artist/2O6q4MZHDzJBDTcaTwMxkX) | [ECHOES](https://open.spotify.com/album/6JbRfyLukQYqBSI81ykc4L) | 3:52 | 2022-05-26 | 2022-10-07 |
 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 | 2023-07-07 | 2023-12-23 |

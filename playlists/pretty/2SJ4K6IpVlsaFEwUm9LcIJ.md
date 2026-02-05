@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,887 likes - 47 songs - 3 hr 5 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,892 likes - 52 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 16 | [Anagrama](https://open.spotify.com/track/6oAaNmhulECiyJQD5g0HZ1) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Anagrama \(Syr 1\)](https://open.spotify.com/album/5VmsN3lsZbtOBhbFiByV3C) | 9:31 |
 | 17 | [Осенняя пора](https://open.spotify.com/track/03tDg3HEmooVr4mgj8n2Ll) | [Инструментальный ансамбль п/у Виктора Игнатьева](https://open.spotify.com/artist/4YSR0wlhLMuWjjBu1NS96C) | [Инструментальный ансамбль под руководством Виктора Игнатьева](https://open.spotify.com/album/0VuD3LSaLU8UDIO1cyEBY0) | 2:46 |
 | 18 | [Love Ridden](https://open.spotify.com/track/0eRw1thpWDU7tFt6NfVU4C) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:22 |
-| 19 | [Get Gone](https://open.spotify.com/track/32yottFNSCL9Nho9biIKzY) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 4:07 |
-| 20 | [Move On Up](https://open.spotify.com/track/0XQokRRx1zAxFycomFeeB7) | [The Flying Lizards](https://open.spotify.com/artist/2L9iHIK8h5HvZe6VXb0aOI) | [Fourth Wall](https://open.spotify.com/album/0lMdqiJ7zG373gAknv5HuM) | 5:27 |
-| 21 | [The Lemon of Pink II](https://open.spotify.com/track/4Sp2Hz3EaK8ZfJpFVi0QSc) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [The Lemon of Pink \(Remastered\)](https://open.spotify.com/album/6zwjQ6buUEcF3E9IGTJXtP) | 1:35 |
-| 22 | [One April Day](https://open.spotify.com/track/4MqaQr8z3hBTUHR9suoRzw) | [Stephin Merritt](https://open.spotify.com/artist/2x7iCl510O317XjOcG7iOf) | [Pieces of April](https://open.spotify.com/album/2ZVgEXDzYQbfX6jmQ9FzFu) | 1:54 |
-| 23 | [Dance](https://open.spotify.com/track/3idjeb4oia9I59Dql0aPkD) | [Duncan Troast](https://open.spotify.com/artist/0Qrm0co28DmwqKD2HrWHzR), [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [music for 2 pianos](https://open.spotify.com/album/77A0GbCVkBQZFC4iB5yByx) | 1:05 |
-| 24 | [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 |
+| 19 | [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 |
+| 20 | [Get Gone](https://open.spotify.com/track/32yottFNSCL9Nho9biIKzY) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 4:07 |
+| 21 | [Move On Up](https://open.spotify.com/track/0XQokRRx1zAxFycomFeeB7) | [The Flying Lizards](https://open.spotify.com/artist/2L9iHIK8h5HvZe6VXb0aOI) | [Fourth Wall](https://open.spotify.com/album/0lMdqiJ7zG373gAknv5HuM) | 5:27 |
+| 22 | [The Lemon of Pink II](https://open.spotify.com/track/4Sp2Hz3EaK8ZfJpFVi0QSc) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [The Lemon of Pink \(Remastered\)](https://open.spotify.com/album/6zwjQ6buUEcF3E9IGTJXtP) | 1:35 |
+| 23 | [One April Day](https://open.spotify.com/track/4MqaQr8z3hBTUHR9suoRzw) | [Stephin Merritt](https://open.spotify.com/artist/2x7iCl510O317XjOcG7iOf) | [Pieces of April](https://open.spotify.com/album/2ZVgEXDzYQbfX6jmQ9FzFu) | 1:54 |
+| 24 | [Dance](https://open.spotify.com/track/3idjeb4oia9I59Dql0aPkD) | [Duncan Troast](https://open.spotify.com/artist/0Qrm0co28DmwqKD2HrWHzR), [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [music for 2 pianos](https://open.spotify.com/album/77A0GbCVkBQZFC4iB5yByx) | 1:05 |
 | 25 | [Extraordinary Machine](https://open.spotify.com/track/5h9Iek7Hp9wayRt7fBp7Ab) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 3:43 |
 | 26 | [Get Him Back](https://open.spotify.com/track/1mr6isK6JrhrE5TS0JV8Ne) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 5:24 |
 | 27 | [Better Version Of Me](https://open.spotify.com/track/44tKNi9TEVbu31QlBkXSvG) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 2:59 |
@@ -55,5 +55,10 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 45 | [Tandem Jump](https://open.spotify.com/track/328C68l9DNlBQgU8VtRahY) | [Jonathan Richman](https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5) | [I, Jonathan](https://open.spotify.com/album/2RtcqYl0VAhDw9DPMEqWF5) | 2:14 |
 | 46 | [Our Love](https://open.spotify.com/track/6t4ihYlGLq3qp6VlBfYaT2) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Grace & Danger](https://open.spotify.com/album/05FPn66m4Ry59KRrKFCg3Q) | 3:57 |
 | 47 | [The Golden Flower](https://open.spotify.com/track/5DIft0NqGBXTy3myTZ3VoF) | [The Apples In Stereo](https://open.spotify.com/artist/5KIrQe9pb7tn8y775PsoAP) | [Electronic Projects for Musicians](https://open.spotify.com/album/6aPzHrtvdApqzp2EUNhp9N) | 3:05 |
+| 48 | [Brand\-New Mothers – Trying it Out IX\. Brand\-New Mothers](https://open.spotify.com/track/5I8I7ejPYxM7rmQebkqKyD) | [Matthew Friedberger](https://open.spotify.com/artist/3n4TujnxCQTJnypsm5btks) | [Matricidal Sons of Bitches](https://open.spotify.com/album/1bHdETDgG2l7SycZVBhlkp) | 3:59 |
+| 49 | [Fall in a River](https://open.spotify.com/track/2HwFwesNWol9dXZ9WqyIYI) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [The Hour of Bewilderbeast](https://open.spotify.com/album/7y0QwysyQgSf9fyBFr6Q3x) | 2:17 |
+| 50 | [Faults](https://open.spotify.com/track/3dvxF0boVTu3aSIevH99sk) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Seefeel](https://open.spotify.com/album/1yPrCGFEmjdKKjmdo0I4Jd) | 5:45 |
+| 51 | [Miracles](https://open.spotify.com/track/1rYu6IaPWvIWkrSBlxwj8e) | [Johnnie Frierson](https://open.spotify.com/artist/2hWD9jbxq2spqxPTuNyuVN) | [Have You Been Good to Yourself](https://open.spotify.com/album/1kcDLZXZRUnZdRlCea4Yne) | 3:38 |
+| 52 | [You Were Sent to This World](https://open.spotify.com/track/2yxsfTZTOIvaT9C3EAdWkn) | [Johnnie Frierson](https://open.spotify.com/artist/2hWD9jbxq2spqxPTuNyuVN) | [Have You Been Good to Yourself](https://open.spotify.com/album/1kcDLZXZRUnZdRlCea4Yne) | 3:09 |
 
-Snapshot ID: `AAAN26EHHeJVU3LOta299MKwmpa7tD59`
+Snapshot ID: `AAAN4R03e+xMtgGvMYZ1zn1Exrgu3G4h`

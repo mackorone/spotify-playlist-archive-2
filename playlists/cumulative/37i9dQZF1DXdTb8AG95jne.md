@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: CHOSNG\(초승\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,235 songs - 3 day 2 hr 50 min
+1,237 songs - 3 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Dance with me baby](https://open.spotify.com/track/0xhgUfJKI5sI5d8ztv5yQP) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [Dance with me baby](https://open.spotify.com/album/3H2okNR4L75RWeqfG5O4J9) | 3:28 | 2022-01-27 | 2022-05-14 |
 | [Dance 춤](https://open.spotify.com/track/79bwe8GlPXo7lAYxDKUBN5) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [Somewhere In Between](https://open.spotify.com/album/6Y0kGeewACPQqaz9TmAWVt) | 3:44 | 2022-03-31 | 2022-04-09 |
 | [Dance 춤](https://open.spotify.com/track/4szXqRT1LudsZxbE9A8oeZ) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Dance 춤](https://open.spotify.com/album/3E1YsNuIaP2ycgmYUuEDcN) | 3:11 | 2022-03-31 | 2022-04-17 |
-| [Dancing Bird](https://open.spotify.com/track/2phDPmaRtLzpPrMEPzcFnN) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [Dancing Bird](https://open.spotify.com/album/5nPvmaTmt7l6XHd1SJWYGA) | 3:17 | 2025-11-10 |  |
+| [Dancing Bird](https://open.spotify.com/track/2phDPmaRtLzpPrMEPzcFnN) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [Dancing Bird](https://open.spotify.com/album/5nPvmaTmt7l6XHd1SJWYGA) | 3:17 | 2025-11-10 | 2026-02-05 |
 | [Dancing In the Rain \- Wendy Wander Remake](https://open.spotify.com/track/0I7cu4uLecf71IpM8Wn10T) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Dancing In the Rain \(Wendy Wander Remake\)](https://open.spotify.com/album/0vORYLctd05d89nCUuwVJ2) | 4:06 | 2024-10-15 | 2024-11-30 |
 | [Dawn](https://open.spotify.com/track/4Umzv0vY5vDuXtYuJQp5Oq) | [FilmSound](https://open.spotify.com/artist/0sCvfEmo7OQ1cd2eID60rD), [OYEON](https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9) | [Pairing](https://open.spotify.com/album/6A5WZUUzuktHTw1n6M03ya) | 3:22 | 2023-01-25 | 2023-02-15 |
 | [Daydream](https://open.spotify.com/track/7yYNkLrgGlWN4OnXNira9S) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Daydream](https://open.spotify.com/album/0wuCxwXVDmDh52qiBsGa9I) | 4:10 | 2022-03-31 | 2022-04-16 |
@@ -233,6 +233,7 @@
 | [Deeper Than I Thought](https://open.spotify.com/track/3MTSqosDP6EjfRCuxutzHV) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [Deeper Than I Thought](https://open.spotify.com/album/5WX2sfPA2KqqpSJymxxmnq) | 3:07 | 2025-07-08 | 2025-07-10 |
 | [Default](https://open.spotify.com/track/7a9JYapvSZ6jYu2TaG7BRU) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:52 | 2024-03-20 | 2024-05-10 |
 | [Default \- Live](https://open.spotify.com/track/6zQgyAyvIbuviFwQ2ak7WA) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [5202 \(Live\)](https://open.spotify.com/album/00dsUH5JoDdSbetvqcnnR7) | 4:15 | 2025-10-30 | 2025-12-09 |
+| [Defense Mechanism](https://open.spotify.com/track/0TX0PqzoSN5OSCeX0odaH7) | [heegyu](https://open.spotify.com/artist/7F4ElN9gP2tuyqZ2YIhicX) | [Defense Mechanism](https://open.spotify.com/album/1HJHfO6IO7vLjpO57Ty18b) | 2:53 | 2026-02-04 |  |
 | [Dennis The Menace](https://open.spotify.com/track/12hdnizN9QCVB9WGIjCiAa) | [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Dennis The Menace](https://open.spotify.com/album/6PntXgsqWeJ8dINYWCAyGM) | 2:51 | 2024-09-04 | 2024-09-19 |
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-16 | 2024-11-07 |
 | [devil](https://open.spotify.com/track/7sgTVyyE6mGklZaX3oiX7C) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [devil](https://open.spotify.com/album/1rJQScegG3PRYR8i9yTXyd) | 1:43 | 2024-08-08 | 2024-09-04 |
@@ -640,7 +641,7 @@
 | [Lunch Time 점심시간](https://open.spotify.com/track/44dmYTBkcvpNxWjCwpiKgc) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Lunch Time 점심시간](https://open.spotify.com/album/3NphZwsDlKagZk5IGyUWNp) | 4:36 | 2022-03-31 | 2022-04-05 |
 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 | 2022-08-04 | 2024-04-19 |
 | [Lustre](https://open.spotify.com/track/4XnUCJTdssEkFj1NiIQAp7) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/0zsXyoBNYf3hRMaSu5zdEj) | 3:34 | 2022-04-27 | 2022-04-30 |
-| [Mafia](https://open.spotify.com/track/2X3lVOdD05hierZ7acvonE) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [Mafia](https://open.spotify.com/album/12VYqfsOQAVUDsW0jlJ2D2) | 5:18 | 2025-12-23 |  |
+| [Mafia](https://open.spotify.com/track/2X3lVOdD05hierZ7acvonE) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [Mafia](https://open.spotify.com/album/12VYqfsOQAVUDsW0jlJ2D2) | 5:18 | 2025-12-23 | 2026-02-05 |
 | [MAGENTA](https://open.spotify.com/track/3WH4pZy0DBK3HzmQRny2Eq) | [JANE POP](https://open.spotify.com/artist/79IrVkcarWCAkfjuO17QVj) | [MAGENTA](https://open.spotify.com/album/76Vx0jlhzNLGSF3wftVdId) | 3:51 | 2022-03-31 | 2022-04-21 |
 | [MAGIC](https://open.spotify.com/track/3IwGQoFbpFbSAS8FiTPVH4) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Living the moment of love](https://open.spotify.com/album/6bMMVgG0lVRmoGaeJ6J2Vi) | 3:34 | 2022-07-12 | 2022-07-16 |
 | [Make My Sadness a Cloud](https://open.spotify.com/track/6ow8tgEnUParRV3jltPcYW) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [Make My Sadness a Cloud](https://open.spotify.com/album/7bOoPZZa4Ztb5CBHU04sqC) | 5:43 | 2024-12-02 | 2025-02-13 |
@@ -769,6 +770,7 @@
 | [Ore Ore](https://open.spotify.com/track/117iiDCER0g58tWunlfR57) | [Se.A](https://open.spotify.com/artist/68Jz1SO82dTTPJyfdg6MBp) | [Ore Ore](https://open.spotify.com/album/3ylsJVPXRGtb5PQhSyjjGo) | 2:44 | 2022-03-31 | 2022-07-07 |
 | [Origin Of Error](https://open.spotify.com/track/4i0eMMIu0uwJb1bE4bHG7R) | [nuni](https://open.spotify.com/artist/1v331qSkk6mjVs9DVy4wOc) | [Origin Of Error](https://open.spotify.com/album/7pgvqdVuPAQ4zLdo0kePaI) | 2:32 | 2025-06-17 | 2025-06-26 |
 | [Our Forgiveness](https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Our Forgiveness](https://open.spotify.com/album/1K8aYJrq8a8WiwNniSuzrw) | 3:19 | 2022-09-05 | 2022-09-21 |
+| [Over](https://open.spotify.com/track/5NFKUNRPcWGaLfAPaofT5v) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Over](https://open.spotify.com/album/7KIrdVNTVtm309OHv2n93Z) | 2:04 | 2026-02-04 |  |
 | [Over \(feat\. Minna Seo\)](https://open.spotify.com/track/73yIDUabO9HGpA71KsMwIP) | [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq), [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [Over \(feat\. Minna Seo\)](https://open.spotify.com/album/0Hh6ZWhJU9WzsN8PMEscEh) | 3:49 | 2024-04-30 | 2024-05-10 |
 | [Over and Over](https://open.spotify.com/track/2yMc8rJg9XROTMtfaTgHuw) | [MOTIP](https://open.spotify.com/artist/20qBalVGALu6sj3UseuAcr) | [Over and Over](https://open.spotify.com/album/3NkbXALAlXHCwTZhx35wVm) | 3:23 | 2021-12-21 | 2022-07-10 |
 | [Padding Today Over Yesterday](https://open.spotify.com/track/6LUgl6OWF68pXUOieX4k1Y) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Daydreaming](https://open.spotify.com/album/53CquI42D8OFUEyphbbnRK) | 3:33 | 2023-01-25 | 2023-02-15 |

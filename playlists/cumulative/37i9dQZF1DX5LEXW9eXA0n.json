@@ -4623,6 +4623,24 @@
     },
     {
       "album": {
+        "name": "Crazy Fool",
+        "url": "https://open.spotify.com/album/5IuRXvX2UuTjvod9F8EU0I"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Crazy Fool",
+      "url": "https://open.spotify.com/track/16LNhwdZSgjmiAMIm2yjR6"
+    },
+    {
+      "album": {
         "name": "Crush on you",
         "url": "https://open.spotify.com/album/15XmBCE8jEWzbqzD0Z1vuw"
       },
@@ -13122,7 +13140,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 256000,
       "name": "January to June",
       "url": "https://open.spotify.com/track/5jdkVQZq37ZdRCbEbYoFUs"
@@ -13436,7 +13454,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 244000,
       "name": "Last Light",
       "url": "https://open.spotify.com/track/6dtWY9dcVWpNXNOkFtIrQI"
@@ -13898,6 +13916,24 @@
       "duration_ms": 248013,
       "name": "LIE",
       "url": "https://open.spotify.com/track/3Fjb8kEVJ6tOfm2uUFTEt7"
+    },
+    {
+      "album": {
+        "name": "LIE LIE LIE",
+        "url": "https://open.spotify.com/album/1LXGcl8lCXhZx7XjmvZ1kE"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "LIE LIE LIE",
+      "url": "https://open.spotify.com/track/6BvHxN7P7ZQDRpMtA9S8Wu"
     },
     {
       "album": {
@@ -19206,6 +19242,24 @@
       "duration_ms": 181021,
       "name": "Over U, Goodbye (Seeun x J)",
       "url": "https://open.spotify.com/track/0dzvx0egKD128Icnaz2YeR"
+    },
+    {
+      "album": {
+        "name": "Parrot",
+        "url": "https://open.spotify.com/album/2bfVsf22jGTekWukB9fh9p"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Parrot",
+      "url": "https://open.spotify.com/track/443u0pdNj2Jqb4OMKkdXlc"
     },
     {
       "album": {
@@ -24674,7 +24728,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 249013,
       "name": "The season of our beginning",
       "url": "https://open.spotify.com/track/103b4ZkHWGyGJtU4VbWjWF"

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: Quanzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,036 likes - 119 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,030 likes - 119 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TAIGER](https://open.spotify.com/track/5hcDHXQaHWMWccdv9Ee03j) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [TAIGER](https://open.spotify.com/album/7o8u0s4XMhv7rvExCBSnyk) | 1:02 |
 | 2 | [閉上眼睛一下下](https://open.spotify.com/track/0tbWLJP4jJJ96SquXRofpn) | [someshiit 山姆](https://open.spotify.com/artist/1Se0FtmWSFmL81n85repGg) | [閉上眼睛一下下](https://open.spotify.com/album/1NKlq0zHMe49yy0LAckN76) | 3:42 |
-| 3 | [起風的時候](https://open.spotify.com/track/4REfb6i8f1LWGa1BcxZ5Hk) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [羊駝小姐](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA) | [薯條雷鬼](https://open.spotify.com/album/1g9Xg2H0qQxs0jY5uG3XVe) | 3:42 |
+| 3 | [起風的時候](https://open.spotify.com/track/4REfb6i8f1LWGa1BcxZ5Hk) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [Malpaca](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA) | [薯條雷鬼](https://open.spotify.com/album/1g9Xg2H0qQxs0jY5uG3XVe) | 3:42 |
 | 4 | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 |
 | 5 | [至少我們都還沒放棄](https://open.spotify.com/track/0v3FP3xJN9rr4dxGXfku8n) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp) | [至少我們都還沒放棄](https://open.spotify.com/album/50oKy8Sk87Wg61YvGlhUpQ) | 4:47 |
 | 6 | [未完成的歌 \(影集《那些你不知道的我》片尾曲\)](https://open.spotify.com/track/7lNEVzRH8DJCtbxA3shDKH) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [未完成的歌](https://open.spotify.com/album/3hIhbYp8qkGhWIobsoVrMm) | 3:08 |

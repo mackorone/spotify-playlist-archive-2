@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Szlimmy",
-  "num_followers": 16238,
+  "num_followers": 16240,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "Most",
-        "url": "https://open.spotify.com/album/6396B6J5ZtLprsPfHz59gs"
-      },
-      "artists": [
-        {
-          "name": "Csaknekedkisl\u00e1ny",
-          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Minden mozog",
-      "url": "https://open.spotify.com/track/6W9fv7TBvValaakqwvRHCP"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "Harmadnap",
         "url": "https://open.spotify.com/album/2LzIw0PoK0K7UtcqUGkyXy"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 156633,
       "name": "Cricket",
       "url": "https://open.spotify.com/track/3jnSu7TBVVyF1Ptbpn0kLr"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "Most",
+        "url": "https://open.spotify.com/album/6396B6J5ZtLprsPfHz59gs"
+      },
+      "artists": [
+        {
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Minden mozog",
+      "url": "https://open.spotify.com/track/6W9fv7TBvValaakqwvRHCP"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -647,18 +647,18 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "Szeg\u00e9nyk\u00e9m",
-        "url": "https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ"
+        "name": "SZ\u00d3LNI KELL",
+        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
       },
       "artists": [
         {
-          "name": "Csaknekedkisl\u00e1ny",
-          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Szeg\u00e9nyk\u00e9m",
-      "url": "https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X"
+      "duration_ms": 223386,
+      "name": "KICSIKE F\u00c9NY",
+      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "SZ\u00d3LNI KELL",
-        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+        "name": "Szeg\u00e9nyk\u00e9m",
+        "url": "https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ"
       },
       "artists": [
         {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
         }
       ],
-      "duration_ms": 223386,
-      "name": "KICSIKE F\u00c9NY",
-      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
+      "duration_ms": 282000,
+      "name": "Szeg\u00e9nyk\u00e9m",
+      "url": "https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "z\u00fagj sz\u00e9l",
-        "url": "https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS"
-      },
-      "artists": [
-        {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "z\u00fagj sz\u00e9l",
-      "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "Pillang\u00f3hat\u00e1s",
         "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 138351,
       "name": "Pillang\u00f3hat\u00e1s",
       "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "z\u00fagj sz\u00e9l",
+        "url": "https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS"
+      },
+      "artists": [
+        {
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "z\u00fagj sz\u00e9l",
+      "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "kurvanagy ???",
-        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
-      },
-      "artists": [
-        {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "kurvanagy ???",
-      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "Takarj el",
         "url": "https://open.spotify.com/album/1hwaiR1jJDFJ2WeH2cVr01"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 273362,
       "name": "Takarj el",
       "url": "https://open.spotify.com/track/0OoymARR20n2uqmDLDWkbK"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "kurvanagy ???",
+        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "kurvanagy ???",
+      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/0wXhrHl6OrfNBTSRia2eV2"
-      },
-      "artists": [
-        {
-          "name": "Samurai Drive",
-          "url": "https://open.spotify.com/artist/3KJXAVUBjcuGGU7A7ExedX"
-        }
-      ],
-      "duration_ms": 232874,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/0MvQKd4qZb8ng7svhz5QlI"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "Ahogy szeretn\u00e9m",
         "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 214857,
       "name": "Ahogy szeretn\u00e9m",
       "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/0wXhrHl6OrfNBTSRia2eV2"
+      },
+      "artists": [
+        {
+          "name": "Samurai Drive",
+          "url": "https://open.spotify.com/artist/3KJXAVUBjcuGGU7A7ExedX"
+        }
+      ],
+      "duration_ms": 232874,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0MvQKd4qZb8ng7svhz5QlI"
     },
     {
       "added_at": "2026-01-29 23:00:46",
@@ -1291,6 +1291,38 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
+        "name": "Senki m\u00e1s",
+        "url": "https://open.spotify.com/album/65buXPxydHN1dE0bYUlfFC"
+      },
+      "artists": [
+        {
+          "name": "Zaporozsec",
+          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Senki m\u00e1s",
+      "url": "https://open.spotify.com/track/7LlKfMzkf463SkwfDGWNFw"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
+        "name": "\u00cdRD \u00c9S MONDD!",
+        "url": "https://open.spotify.com/album/2gksqqUvlxfp5sqephMSTC"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 217496,
+      "name": "\u00c9LEK",
+      "url": "https://open.spotify.com/track/6sttYMGxhalSlGfLWVgYle"
+    },
+    {
+      "added_at": "2026-01-29 23:00:46",
+      "album": {
         "name": "Kicsi a vil\u00e1g (Dalfut\u00e1r10)",
         "url": "https://open.spotify.com/album/3sBnNLnlXqlQBqAvRAn6qr"
       },
@@ -1323,22 +1355,6 @@
     {
       "added_at": "2026-01-29 23:00:46",
       "album": {
-        "name": "\u00cdRD \u00c9S MONDD!",
-        "url": "https://open.spotify.com/album/2gksqqUvlxfp5sqephMSTC"
-      },
-      "artists": [
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        }
-      ],
-      "duration_ms": 217496,
-      "name": "\u00c9LEK",
-      "url": "https://open.spotify.com/track/6sttYMGxhalSlGfLWVgYle"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
         "name": "Ci\u00e1n",
         "url": "https://open.spotify.com/album/2ZvKVx7H8EUBgRHZM6hBvL"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 220368,
       "name": "Ci\u00e1n",
       "url": "https://open.spotify.com/track/2ZO6w6CoOSfW4d7bOB1s1c"
-    },
-    {
-      "added_at": "2026-01-29 23:00:46",
-      "album": {
-        "name": "Senki m\u00e1s",
-        "url": "https://open.spotify.com/album/65buXPxydHN1dE0bYUlfFC"
-      },
-      "artists": [
-        {
-          "name": "Zaporozsec",
-          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Senki m\u00e1s",
-      "url": "https://open.spotify.com/track/7LlKfMzkf463SkwfDGWNFw"
     },
     {
       "added_at": "2026-01-29 23:00:46",

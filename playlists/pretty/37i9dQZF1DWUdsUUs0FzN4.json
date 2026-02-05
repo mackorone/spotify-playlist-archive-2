@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con FLVCKKA y Yeri Mua hasta el amanecer ",
-  "num_followers": 24320,
+  "num_followers": 24322,
   "original_name": "4n7r0",
   "owner": {
     "name": "Spotify",
@@ -1479,6 +1479,30 @@
     {
       "added_at": "2026-01-30 06:00:17",
       "album": {
+        "name": "Fugitivos",
+        "url": "https://open.spotify.com/album/5iA7WdosfvsgV0GCSnmgn3"
+      },
+      "artists": [
+        {
+          "name": "Javi Gallardo",
+          "url": "https://open.spotify.com/artist/6lj8re7deIPyzpcKxAT5Qk"
+        },
+        {
+          "name": "BONGZ",
+          "url": "https://open.spotify.com/artist/03AQZAEApIo7jGC6CCKmJO"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "duration_ms": 150062,
+      "name": "Fugitivos",
+      "url": "https://open.spotify.com/track/6abf0Csa41gdGDnL6p0O9t"
+    },
+    {
+      "added_at": "2026-01-30 06:00:17",
+      "album": {
         "name": "HOYER",
         "url": "https://open.spotify.com/album/2N0yum7MDCrDIaQkqIBGu2"
       },
@@ -1507,22 +1531,6 @@
       "duration_ms": 130058,
       "name": "CHUBI",
       "url": "https://open.spotify.com/track/5f89f4Gd8mWLaaWar44uXL"
-    },
-    {
-      "added_at": "2026-01-30 06:00:17",
-      "album": {
-        "name": "R\u00edo",
-        "url": "https://open.spotify.com/album/1ZiRwa6XmAwNtTlj3pEgnC"
-      },
-      "artists": [
-        {
-          "name": "Baskiat",
-          "url": "https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU"
-        }
-      ],
-      "duration_ms": 146019,
-      "name": "R\u00edo",
-      "url": "https://open.spotify.com/track/5dxDYxX2Hj1Nu6naKtUq9B"
     }
   ],
   "unique_name": "4n7r0",

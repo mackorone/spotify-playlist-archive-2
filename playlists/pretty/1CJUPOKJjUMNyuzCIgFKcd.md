@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 22,315 likes - 23 songs - 1 hr 4 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 22,310 likes - 23 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 10 | [YAYA \(feat\. Blueface & India Love\) \- SheMix](https://open.spotify.com/track/42t8jsXFmVTQGJWNjj98cR) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [Natalie Nunn](https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [India Love](https://open.spotify.com/artist/1MPZNrquXblzv9Oc2TyhzG) | [YAYA \(feat\. Blueface & India Love\) \[SheMix\]](https://open.spotify.com/album/4DHNxaSLk2G15Pxlkgqs5O) | 3:44 |
 | 11 | [LAST CALL](https://open.spotify.com/track/42Z5ZtQ22u0rSCNvSsxbib) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [LAST CALL](https://open.spotify.com/album/1sBmXyrj6AJawjob4cnSHd) | 3:08 |
 | 12 | [The Blueprint \(feat\. Lil Yee, ZayBang & DaBoii\)](https://open.spotify.com/track/5zBasMlAW0MGGrtzuQRoTS) | [1 Umbrella](https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [The Blueprint \(feat\. Lil Yee, ZayBang & DaBoii\)](https://open.spotify.com/album/6pUUJnVqJLn0BojsivbTtP) | 3:39 |
-| 13 | [Out The Box](https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Out The Box](https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S) | 2:42 |
+| 13 | [Out The Box \(feat\. Bosko\)](https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Bosko](https://open.spotify.com/artist/16PgF1vgup7ohBZnteQGvx) | [Out The Box \(feat\. Bosko\)](https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S) | 2:42 |
 | 14 | [Better \(feat\. Stunna Girl\)](https://open.spotify.com/track/55Ro0MUVIKVND18vKg7EF8) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Better \(feat\. Stunna Girl\)](https://open.spotify.com/album/2MPcIDppCYsMxt01XLuYM3) | 2:00 |
 | 15 | [Sidewalk](https://open.spotify.com/track/0TaDKZLfvxRiK7YPYI6Fac) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Sidewalk](https://open.spotify.com/album/2WrDAT2L0l0xKeTaCuMYhw) | 1:59 |
 | 16 | [YOU HEAR ME THO](https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [YOU HEAR ME THO](https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di) | 2:21 |

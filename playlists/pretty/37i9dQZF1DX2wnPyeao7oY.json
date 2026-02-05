@@ -1,13 +1,29 @@
 {
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Humanity's Last Breath",
-  "num_followers": 30888,
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: paradise fell.",
+  "num_followers": 30926,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJeiHRd09IJfQnrVgnlLnn8bR65U",
+  "snapshot_id": "AAAAAIhmguTftdEg4jF778eJGiFG8rnL",
   "tracks": [
+    {
+      "added_at": "2026-02-04 05:00:16",
+      "album": {
+        "name": "NO LIES.",
+        "url": "https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh"
+      },
+      "artists": [
+        {
+          "name": "paradise fell.",
+          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
+        }
+      ],
+      "duration_ms": 206811,
+      "name": "NO LIES.",
+      "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
+    },
     {
       "added_at": "2026-01-22 04:57:47",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/4H8L4Q02z8DBnM0m0twa5C"
     },
     {
-      "added_at": "2026-01-28 05:00:22",
+      "added_at": "2026-02-04 05:00:16",
       "album": {
-        "name": "Mental",
-        "url": "https://open.spotify.com/album/0oBFhSHSZFgZ2tuEHEGVIs"
+        "name": "Eat My Dust!",
+        "url": "https://open.spotify.com/album/4E8nAMLXCyRiaVP3sPgmUf"
       },
       "artists": [
         {
-          "name": "Morphide",
-          "url": "https://open.spotify.com/artist/5qJg8wCDfasUO8hFVQORfi"
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
         }
       ],
-      "duration_ms": 249639,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/4Lu81P0JUGMVrLMKK6kWPO"
+      "duration_ms": 179387,
+      "name": "Eat My Dust!",
+      "url": "https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl"
     },
     {
       "added_at": "2026-01-14 05:00:01",
@@ -57,6 +73,62 @@
       "url": "https://open.spotify.com/track/2be6HvtRsVhz3UMPHRMqMt"
     },
     {
+      "added_at": "2026-02-04 05:00:16",
+      "album": {
+        "name": "Pale Shadow",
+        "url": "https://open.spotify.com/album/2TyPcUmxmYhcEGZooeg9ac"
+      },
+      "artists": [
+        {
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+        }
+      ],
+      "duration_ms": 205384,
+      "name": "Pale Shadow",
+      "url": "https://open.spotify.com/track/6foUpoZ99QPkjPdzoBgyJz"
+    },
+    {
+      "added_at": "2026-01-28 05:00:22",
+      "album": {
+        "name": "Mental",
+        "url": "https://open.spotify.com/album/0oBFhSHSZFgZ2tuEHEGVIs"
+      },
+      "artists": [
+        {
+          "name": "Morphide",
+          "url": "https://open.spotify.com/artist/5qJg8wCDfasUO8hFVQORfi"
+        }
+      ],
+      "duration_ms": 249639,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/4Lu81P0JUGMVrLMKK6kWPO"
+    },
+    {
+      "added_at": "2026-02-04 05:00:16",
+      "album": {
+        "name": "MUTE WITNESS",
+        "url": "https://open.spotify.com/album/2B0sd976idNW5QX7vVOVsR"
+      },
+      "artists": [
+        {
+          "name": "SUICIDE MESSIAH",
+          "url": "https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO"
+        },
+        {
+          "name": "Taylor Barber",
+          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
+        },
+        {
+          "name": "Blegh! Label",
+          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+        }
+      ],
+      "duration_ms": 183121,
+      "name": "MUTE WITNESS",
+      "url": "https://open.spotify.com/track/5JGA7gtu4iJXLP6AS087pu"
+    },
+    {
       "added_at": "2026-01-28 05:00:22",
       "album": {
         "name": "Falling Away From Me",
@@ -73,68 +145,24 @@
       "url": "https://open.spotify.com/track/5aZOUaaWL6f2krMnSapHKT"
     },
     {
-      "added_at": "2026-01-22 04:57:47",
+      "added_at": "2026-02-04 05:00:16",
       "album": {
-        "name": "Intimate Torment",
-        "url": "https://open.spotify.com/album/4YYduQ22BVq08CnVHgPNnN"
+        "name": "Lilith & Esther",
+        "url": "https://open.spotify.com/album/0bx1k8st8W0DLLJBsCo9jB"
       },
       "artists": [
         {
-          "name": "Foreword",
-          "url": "https://open.spotify.com/artist/48ttMbaYSF1szcPkSvcqyY"
-        }
-      ],
-      "duration_ms": 206564,
-      "name": "Intimate Torment",
-      "url": "https://open.spotify.com/track/58WpFnfbEFFawUgkypU02l"
-    },
-    {
-      "added_at": "2026-01-28 05:00:22",
-      "album": {
-        "name": "Rigged Survival",
-        "url": "https://open.spotify.com/album/3ydlRZMBjnK0C5E0lLyLQB"
-      },
-      "artists": [
+          "name": "Mallavora",
+          "url": "https://open.spotify.com/artist/3dHajUmnQ27McFMpZF6IcY"
+        },
         {
-          "name": "Dry Socket",
-          "url": "https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm"
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
         }
       ],
-      "duration_ms": 143934,
-      "name": "Rigged Survival",
-      "url": "https://open.spotify.com/track/7EvCln0ttf3Jyjw8fuLvqr"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Erased",
-        "url": "https://open.spotify.com/album/00JpGF76Xlf0tqecm15eUq"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "Erased",
-      "url": "https://open.spotify.com/track/0o1BStfHxwG0Hg4ohbWMB5"
-    },
-    {
-      "added_at": "2026-01-28 05:00:22",
-      "album": {
-        "name": "MY OWN RAVE (METAL VERSION)",
-        "url": "https://open.spotify.com/album/0GotVrtJl9nqGyF8qnsdjd"
-      },
-      "artists": [
-        {
-          "name": "Mahlow",
-          "url": "https://open.spotify.com/artist/3AFsE1L3y0MY8Acdmp6J9O"
-        }
-      ],
-      "duration_ms": 154941,
-      "name": "MY OWN RAVE - METAL VERSION",
-      "url": "https://open.spotify.com/track/5NlZyIpRetUB8NOSC9hTZx"
+      "duration_ms": 192714,
+      "name": "Lilith & Esther",
+      "url": "https://open.spotify.com/track/47AOYMwSZIIn3CTKbHvMYf"
     },
     {
       "added_at": "2026-01-14 05:00:01",
@@ -153,6 +181,122 @@
       "url": "https://open.spotify.com/track/3aJg0HiIvdszY04sk2HNQ7"
     },
     {
+      "added_at": "2026-02-04 05:00:16",
+      "album": {
+        "name": "Death & Connection",
+        "url": "https://open.spotify.com/album/42pro4GlFjLlEoITxqY1oT"
+      },
+      "artists": [
+        {
+          "name": "Shields",
+          "url": "https://open.spotify.com/artist/7axtOAPWPWUITkUpTHL34I"
+        },
+        {
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+        }
+      ],
+      "duration_ms": 132733,
+      "name": "Lacerate",
+      "url": "https://open.spotify.com/track/4ZbzUmUtkE5Mke82mVxBAg"
+    },
+    {
+      "added_at": "2026-01-22 04:57:47",
+      "album": {
+        "name": "Intimate Torment",
+        "url": "https://open.spotify.com/album/4YYduQ22BVq08CnVHgPNnN"
+      },
+      "artists": [
+        {
+          "name": "Foreword",
+          "url": "https://open.spotify.com/artist/48ttMbaYSF1szcPkSvcqyY"
+        }
+      ],
+      "duration_ms": 206564,
+      "name": "Intimate Torment",
+      "url": "https://open.spotify.com/track/58WpFnfbEFFawUgkypU02l"
+    },
+    {
+      "added_at": "2026-02-04 05:00:16",
+      "album": {
+        "name": "Dumb Luck",
+        "url": "https://open.spotify.com/album/6XKAO5vywtfKWiBAINDCey"
+      },
+      "artists": [
+        {
+          "name": "Red Keep",
+          "url": "https://open.spotify.com/artist/1725duX98HxfXbWaJ1c4Gc"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Dumb Luck",
+      "url": "https://open.spotify.com/track/1OwROWAf1P7VzgETtowT5A"
+    },
+    {
+      "added_at": "2026-01-14 05:00:01",
+      "album": {
+        "name": "Erased",
+        "url": "https://open.spotify.com/album/00JpGF76Xlf0tqecm15eUq"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "Erased",
+      "url": "https://open.spotify.com/track/0o1BStfHxwG0Hg4ohbWMB5"
+    },
+    {
+      "added_at": "2026-02-04 05:00:16",
+      "album": {
+        "name": "A Place For Those Who Suffer, Alone",
+        "url": "https://open.spotify.com/album/4Sc7kfaImi7z8peeYXP0rd"
+      },
+      "artists": [
+        {
+          "name": "Survivalist",
+          "url": "https://open.spotify.com/artist/4H5Sej01zQdVBms4iFMTmA"
+        }
+      ],
+      "duration_ms": 225353,
+      "name": "A Place For Those Who Suffer, Alone",
+      "url": "https://open.spotify.com/track/4lO7B1kDXNSzFT4Q0McK4j"
+    },
+    {
+      "added_at": "2026-01-22 04:57:47",
+      "album": {
+        "name": "Circle of Liars",
+        "url": "https://open.spotify.com/album/4LoOj00v0nitF2ZYkTQeJe"
+      },
+      "artists": [
+        {
+          "name": "Bitter Breath",
+          "url": "https://open.spotify.com/artist/0VLqB4hfiXERxxCE2OaVLp"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Circle of Liars",
+      "url": "https://open.spotify.com/track/3AGfjSfQMK02ny0lDU8Anq"
+    },
+    {
+      "added_at": "2026-02-04 05:00:16",
+      "album": {
+        "name": "Angel Wings",
+        "url": "https://open.spotify.com/album/3gBFaWWZO6idpj9fNEbRPu"
+      },
+      "artists": [
+        {
+          "name": "OHKAYA",
+          "url": "https://open.spotify.com/artist/4uhsmjBwCLRupPcYGK5CTg"
+        }
+      ],
+      "duration_ms": 162039,
+      "name": "Angel Wings",
+      "url": "https://open.spotify.com/track/6Jix6cYFQwVtxsq2Z689sJ"
+    },
+    {
       "added_at": "2026-01-28 05:00:22",
       "album": {
         "name": "Eyes Up",
@@ -167,6 +311,186 @@
       "duration_ms": 191647,
       "name": "Eyes Up",
       "url": "https://open.spotify.com/track/3MtNA6UHoxfJAJAsqeQhPO"
+    },
+    {
+      "added_at": "2026-02-04 05:00:16",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0Qo83xvu8gFUB0Jwq3eaYd"
+      },
+      "artists": [
+        {
+          "name": "Vilamoura",
+          "url": "https://open.spotify.com/artist/4ofnDotrMc3tX1bQqgxEGH"
+        }
+      ],
+      "duration_ms": 233472,
+      "name": "Spirited Away",
+      "url": "https://open.spotify.com/track/3LgP0r3cK0XHSE4zogKtHu"
+    },
+    {
+      "added_at": "2026-01-28 05:00:22",
+      "album": {
+        "name": "Starbreather",
+        "url": "https://open.spotify.com/album/4dfw548qxSjK2Ao2dIyyXi"
+      },
+      "artists": [
+        {
+          "name": "Above, Below",
+          "url": "https://open.spotify.com/artist/1BvVWm89YnIqEVnQiGvBLx"
+        }
+      ],
+      "duration_ms": 203396,
+      "name": "Starbreather",
+      "url": "https://open.spotify.com/track/1NRxkKWbknaSxgBMyk8E0b"
+    },
+    {
+      "added_at": "2026-02-04 05:00:16",
+      "album": {
+        "name": "DISSONANCE",
+        "url": "https://open.spotify.com/album/0M9RRRY0PidzGZLYP8F5yN"
+      },
+      "artists": [
+        {
+          "name": "HATE COMPLEX",
+          "url": "https://open.spotify.com/artist/3SIYNloSpWWpXF4mFKyrhe"
+        },
+        {
+          "name": "Half Me",
+          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+        }
+      ],
+      "duration_ms": 221140,
+      "name": "LABYRINTH",
+      "url": "https://open.spotify.com/track/2UXSFJ9XH3MXG7tcYwPJlx"
+    },
+    {
+      "added_at": "2026-01-28 05:00:22",
+      "album": {
+        "name": "Rigged Survival",
+        "url": "https://open.spotify.com/album/3ydlRZMBjnK0C5E0lLyLQB"
+      },
+      "artists": [
+        {
+          "name": "Dry Socket",
+          "url": "https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm"
+        }
+      ],
+      "duration_ms": 143934,
+      "name": "Rigged Survival",
+      "url": "https://open.spotify.com/track/7EvCln0ttf3Jyjw8fuLvqr"
+    },
+    {
+      "added_at": "2026-02-04 05:00:16",
+      "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/4OsCLyDn92nl4vJp7FH41u"
+      },
+      "artists": [
+        {
+          "name": "Port Noir",
+          "url": "https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/7L3ocnzkhY2BXKKWBd7xOY"
+    },
+    {
+      "added_at": "2026-01-28 05:00:22",
+      "album": {
+        "name": "MY OWN RAVE (METAL VERSION)",
+        "url": "https://open.spotify.com/album/0GotVrtJl9nqGyF8qnsdjd"
+      },
+      "artists": [
+        {
+          "name": "Mahlow",
+          "url": "https://open.spotify.com/artist/3AFsE1L3y0MY8Acdmp6J9O"
+        }
+      ],
+      "duration_ms": 154941,
+      "name": "MY OWN RAVE - METAL VERSION",
+      "url": "https://open.spotify.com/track/5NlZyIpRetUB8NOSC9hTZx"
+    },
+    {
+      "added_at": "2026-02-04 05:00:16",
+      "album": {
+        "name": "Lines Crossed",
+        "url": "https://open.spotify.com/album/2Wm8QNDrNnLzUsgAuUuUyE"
+      },
+      "artists": [
+        {
+          "name": "Minus Youth",
+          "url": "https://open.spotify.com/artist/3vmFQ0HHdaqvG2yujSu9Bp"
+        }
+      ],
+      "duration_ms": 178622,
+      "name": "Gift of Life",
+      "url": "https://open.spotify.com/track/7usTs2xTjmCXa2KpBUo91n"
+    },
+    {
+      "added_at": "2026-01-28 05:00:22",
+      "album": {
+        "name": "Discarded",
+        "url": "https://open.spotify.com/album/3wwbKjtM2zX3VdQZpXBhrg"
+      },
+      "artists": [
+        {
+          "name": "Diamond Construct",
+          "url": "https://open.spotify.com/artist/3ZM354nvaghR5dGCXiFgGG"
+        }
+      ],
+      "duration_ms": 221052,
+      "name": "Discarded",
+      "url": "https://open.spotify.com/track/2F4ku4srnF1RCK0GzqgoDN"
+    },
+    {
+      "added_at": "2026-02-04 05:00:16",
+      "album": {
+        "name": "Dogma Dance",
+        "url": "https://open.spotify.com/album/0xbMX3mZEwUCNKMU77sFAr"
+      },
+      "artists": [
+        {
+          "name": "PEUR",
+          "url": "https://open.spotify.com/artist/0r0pQHZ34J5e9WDg50EAfj"
+        }
+      ],
+      "duration_ms": 172113,
+      "name": "Dogma Dance",
+      "url": "https://open.spotify.com/track/6Hb8ycWK6ZFEfsWSmisWMB"
+    },
+    {
+      "added_at": "2026-01-14 05:00:01",
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/4uNSpSWHxNuQcJ1ra8On0r"
+      },
+      "artists": [
+        {
+          "name": "Bite Down",
+          "url": "https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l"
+        }
+      ],
+      "duration_ms": 186944,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/5YLa2A1uqX3v556WIKdTlm"
+    },
+    {
+      "added_at": "2026-02-04 05:00:16",
+      "album": {
+        "name": "All Out",
+        "url": "https://open.spotify.com/album/0DcwGtMG32ddxDadliuKp2"
+      },
+      "artists": [
+        {
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+        }
+      ],
+      "duration_ms": 84738,
+      "name": "All Out",
+      "url": "https://open.spotify.com/track/3eAfybIuBoTMCbO14ZNstb"
     },
     {
       "added_at": "2026-01-22 04:57:47",
@@ -185,20 +509,20 @@
       "url": "https://open.spotify.com/track/2mhf3Gou2ifwxXwG3VIHYp"
     },
     {
-      "added_at": "2026-01-28 05:00:22",
+      "added_at": "2026-02-04 05:00:16",
       "album": {
-        "name": "Starbreather",
-        "url": "https://open.spotify.com/album/4dfw548qxSjK2Ao2dIyyXi"
+        "name": "Switchblade",
+        "url": "https://open.spotify.com/album/3bjGC1L60U3w1unXuqxl1s"
       },
       "artists": [
         {
-          "name": "Above, Below",
-          "url": "https://open.spotify.com/artist/1BvVWm89YnIqEVnQiGvBLx"
+          "name": "Daisy Arson",
+          "url": "https://open.spotify.com/artist/3DyUFPzUfiw6VEzhgx5p5h"
         }
       ],
-      "duration_ms": 203396,
-      "name": "Starbreather",
-      "url": "https://open.spotify.com/track/1NRxkKWbknaSxgBMyk8E0b"
+      "duration_ms": 125800,
+      "name": "Switchblade",
+      "url": "https://open.spotify.com/track/5puPykFiwmMozb6vMSQRKn"
     },
     {
       "added_at": "2026-01-14 05:00:01",
@@ -233,36 +557,36 @@
       "url": "https://open.spotify.com/track/5bDQPoauwc55xLZaiefEFJ"
     },
     {
-      "added_at": "2026-01-22 04:57:47",
+      "added_at": "2026-01-14 05:00:01",
       "album": {
-        "name": "Circle of Liars",
-        "url": "https://open.spotify.com/album/4LoOj00v0nitF2ZYkTQeJe"
+        "name": "YOU LIE (Extended Truth)",
+        "url": "https://open.spotify.com/album/0T561pdQQwBFM2Xo5EWRnA"
       },
       "artists": [
         {
-          "name": "Bitter Breath",
-          "url": "https://open.spotify.com/artist/0VLqB4hfiXERxxCE2OaVLp"
+          "name": "GAI \u8344",
+          "url": "https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Circle of Liars",
-      "url": "https://open.spotify.com/track/3AGfjSfQMK02ny0lDU8Anq"
+      "duration_ms": 183882,
+      "name": "LADDER CLIMBER",
+      "url": "https://open.spotify.com/track/0THbi4xIW7C6NsJAcENapE"
     },
     {
-      "added_at": "2026-01-28 05:00:22",
+      "added_at": "2026-01-14 05:00:01",
       "album": {
-        "name": "Discarded",
-        "url": "https://open.spotify.com/album/3wwbKjtM2zX3VdQZpXBhrg"
+        "name": "From Heaven, from Nowhere",
+        "url": "https://open.spotify.com/album/5XMzkbAzNVo5kze3edkaPx"
       },
       "artists": [
         {
-          "name": "Diamond Construct",
-          "url": "https://open.spotify.com/artist/3ZM354nvaghR5dGCXiFgGG"
+          "name": "postdrome",
+          "url": "https://open.spotify.com/artist/2xAMuwc0kfFedUVWO9fOQl"
         }
       ],
-      "duration_ms": 221052,
-      "name": "Discarded",
-      "url": "https://open.spotify.com/track/2F4ku4srnF1RCK0GzqgoDN"
+      "duration_ms": 276443,
+      "name": "From Heaven, from Nowhere",
+      "url": "https://open.spotify.com/track/4PE1N1IXXH3tj3CQdxkiOH"
     },
     {
       "added_at": "2026-01-14 05:00:01",
@@ -329,22 +653,6 @@
       "url": "https://open.spotify.com/track/0vrR41iXxyHgCOG47yFKuC"
     },
     {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/4uNSpSWHxNuQcJ1ra8On0r"
-      },
-      "artists": [
-        {
-          "name": "Bite Down",
-          "url": "https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l"
-        }
-      ],
-      "duration_ms": 186944,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/5YLa2A1uqX3v556WIKdTlm"
-    },
-    {
       "added_at": "2026-01-28 05:00:22",
       "album": {
         "name": "I DON'T CARE IF I MISS A THING",
@@ -383,22 +691,6 @@
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
-        "name": "From Heaven, from Nowhere",
-        "url": "https://open.spotify.com/album/5XMzkbAzNVo5kze3edkaPx"
-      },
-      "artists": [
-        {
-          "name": "postdrome",
-          "url": "https://open.spotify.com/artist/2xAMuwc0kfFedUVWO9fOQl"
-        }
-      ],
-      "duration_ms": 276443,
-      "name": "From Heaven, from Nowhere",
-      "url": "https://open.spotify.com/track/4PE1N1IXXH3tj3CQdxkiOH"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
         "name": "Silent Therapy",
         "url": "https://open.spotify.com/album/4RgCWdEFniPBFSKdjE40XC"
       },
@@ -411,22 +703,6 @@
       "duration_ms": 193255,
       "name": "Silent Therapy",
       "url": "https://open.spotify.com/track/2ZmrqVnUttEzDMWX42Lg33"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "YOU LIE (Extended Truth)",
-        "url": "https://open.spotify.com/album/0T561pdQQwBFM2Xo5EWRnA"
-      },
-      "artists": [
-        {
-          "name": "GAI \u8344",
-          "url": "https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org"
-        }
-      ],
-      "duration_ms": 183882,
-      "name": "LADDER CLIMBER",
-      "url": "https://open.spotify.com/track/0THbi4xIW7C6NsJAcENapE"
     },
     {
       "added_at": "2026-01-14 05:00:01",
@@ -1311,22 +1587,6 @@
       "duration_ms": 164576,
       "name": "Bitter Murmur",
       "url": "https://open.spotify.com/track/56rxhmchD9dh9cWy1XYTrR"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "An Offering to Tragedy",
-        "url": "https://open.spotify.com/album/10OK3YVpGOgmd792KGiqPJ"
-      },
-      "artists": [
-        {
-          "name": "ExitWounds",
-          "url": "https://open.spotify.com/artist/0EPHt0TLlWWLUl6SZNwuf0"
-        }
-      ],
-      "duration_ms": 228606,
-      "name": "-seven",
-      "url": "https://open.spotify.com/track/2jO5ebT82RTMLfkCQM1kOX"
     },
     {
       "added_at": "2026-01-14 05:00:01",

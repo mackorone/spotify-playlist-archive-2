@@ -1317,6 +1317,28 @@
     },
     {
       "album": {
+        "name": "World Is Yours",
+        "url": "https://open.spotify.com/album/2aB2OOBrw8fT6bQhBWBZWl"
+      },
+      "artists": [
+        {
+          "name": "Tarsem Jassar",
+          "url": "https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174510,
+      "name": "Awoke",
+      "url": "https://open.spotify.com/track/34nRjwFxWPeMgN8D69Tlqm"
+    },
+    {
+      "album": {
         "name": "Baapu",
         "url": "https://open.spotify.com/album/1JhvNWtLu5mRFkSViaDguT"
       },
@@ -4768,6 +4790,28 @@
       "duration_ms": 178775,
       "name": "Faizal",
       "url": "https://open.spotify.com/track/5Ay3nE2YNmBF60RDB6DtkP"
+    },
+    {
+      "album": {
+        "name": "World Is Yours",
+        "url": "https://open.spotify.com/album/2aB2OOBrw8fT6bQhBWBZWl"
+      },
+      "artists": [
+        {
+          "name": "Tarsem Jassar",
+          "url": "https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176035,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/0kwLivALARXUEwji93qO3N"
     },
     {
       "album": {
@@ -15956,6 +16000,24 @@
       "duration_ms": 144666,
       "name": "Vail",
       "url": "https://open.spotify.com/track/3wxvgNYnMJylOwZaX4JeiX"
+    },
+    {
+      "album": {
+        "name": "Vailpuna",
+        "url": "https://open.spotify.com/album/7rOCIlWrIVc2Ne1Hv9wloN"
+      },
+      "artists": [
+        {
+          "name": "Siippyy Gill",
+          "url": "https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158383,
+      "name": "Vailpuna",
+      "url": "https://open.spotify.com/track/4ZiG8zzsfWmyU5EOJhTnV6"
     },
     {
       "album": {

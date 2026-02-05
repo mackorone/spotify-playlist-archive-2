@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 98611,
+  "num_followers": 98638,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Afroguaracha",
-        "url": "https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi"
-      },
-      "artists": [
-        {
-          "name": "Dj Otto",
-          "url": "https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv"
-        }
-      ],
-      "duration_ms": 189393,
-      "name": "Afroguaracha",
-      "url": "https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Ya Se Tardaron",
         "url": "https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 175652,
       "name": "Ya Se Tardaron",
       "url": "https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Afroguaracha",
+        "url": "https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi"
+      },
+      "artists": [
+        {
+          "name": "Dj Otto",
+          "url": "https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv"
+        }
+      ],
+      "duration_ms": 189393,
+      "name": "Afroguaracha",
+      "url": "https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Dale Candela Dale Sabor",
-        "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
+        "name": "Que Suene Mexico, Vol. 3",
+        "url": "https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3"
       },
       "artists": [
         {
-          "name": "Alan Mendoza DJ",
-          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
+          "name": "DJ TETRIS",
+          "url": "https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA"
         }
       ],
-      "duration_ms": 155599,
-      "name": "Dale Candela Dale Sabor",
-      "url": "https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO"
+      "duration_ms": 195226,
+      "name": "Costars",
+      "url": "https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Que Suene Mexico, Vol. 3",
-        "url": "https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3"
+        "name": "Dale Candela Dale Sabor",
+        "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
       },
       "artists": [
         {
-          "name": "DJ TETRIS",
-          "url": "https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA"
+          "name": "Alan Mendoza DJ",
+          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
         }
       ],
-      "duration_ms": 195226,
-      "name": "Costars",
-      "url": "https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o"
+      "duration_ms": 155599,
+      "name": "Dale Candela Dale Sabor",
+      "url": "https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -923,22 +923,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "El \u00daltimo",
-        "url": "https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p"
+        "name": "Ecos del Pasado",
+        "url": "https://open.spotify.com/album/2KEWgKCGUVMA4YHXLTnVdG"
       },
       "artists": [
         {
-          "name": "El Catorce",
-          "url": "https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc"
+          "name": "DJ Sadyer",
+          "url": "https://open.spotify.com/artist/4bx9K7JUhIZAmkZ08qK5Hs"
         },
         {
-          "name": "Syztema",
-          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+          "name": "DjGiovanni R\u00edos",
+          "url": "https://open.spotify.com/artist/0Q0jSvqwRo0YKjUaTadFTo"
         }
       ],
-      "duration_ms": 300522,
-      "name": "Kombat",
-      "url": "https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax"
+      "duration_ms": 229149,
+      "name": "Hybrid",
+      "url": "https://open.spotify.com/track/4HTMzoGjUmu05fQv0EaEZE"
     }
   ],
   "unique_name": "Fiesta Tribal",

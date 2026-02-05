@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-481 songs - 1 day 4 hr 58 min
+482 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Messiah](https://open.spotify.com/track/6KqaitakrynOXlmjy6CSmp) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Messiah](https://open.spotify.com/album/0AktL0F0nhUNAG2jTxj5rq) | 3:02 | 2023-03-05 | 2023-03-20 |
 | [Mi alma grita en silencio](https://open.spotify.com/track/6udvw6xZelhUKahkHFtTNj) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [latin house 2](https://open.spotify.com/album/5bX8mRv2NYqu1eVSZbfaQE) | 4:01 | 2026-01-16 |  |
 | [Mi Corazón](https://open.spotify.com/track/25h246vto9gTVE2mCEY69q) | [Yungness & Jaminn](https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR) | [Mi Corazón](https://open.spotify.com/album/7Du2rNorPcljURWbm22rkp) | 2:58 | 2023-01-15 | 2023-02-13 |
+| [Midnight Frequency](https://open.spotify.com/track/4PDMpPriPr8iuacmYge1rp) | [THE KING YOUTHFULNESS](https://open.spotify.com/artist/390HdFpUeNh5Fir2cFd3Py) | [Midnight Frequency](https://open.spotify.com/album/2Cnxnw6rfRVFvxyO7DPh2U) | 4:16 | 2026-02-04 |  |
 | [Mik Jak](https://open.spotify.com/track/0k0JC6kqbr0VXOuYwpaP8t) | [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ) | [Mik Jak](https://open.spotify.com/album/433l4WD8ARq9fGTd5CiO3g) | 3:22 | 2024-03-24 | 2024-05-20 |
 | [Mind Awake, Body Asleep](https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Mind Awake, Body Asleep](https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x) | 2:30 | 2023-11-05 | 2024-01-15 |
 | [Mind Eraser](https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Mind Mirage](https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm) | 3:00 | 2024-03-08 | 2025-02-01 |

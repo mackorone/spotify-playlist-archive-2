@@ -7229,6 +7229,36 @@
     },
     {
       "album": {
+        "name": "O Grande Banquete",
+        "url": "https://open.spotify.com/album/1q6vwW5Cz3X9UdQW6BZwBw"
+      },
+      "artists": [
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        },
+        {
+          "name": "Filipe da Guia",
+          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
+        },
+        {
+          "name": "Ana Heloysa",
+          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315943,
+      "name": "Au\u00ea (A F\u00e9 Ganhou)",
+      "url": "https://open.spotify.com/track/50W1rtz1xOmrqbL0HPg7Ro"
+    },
+    {
+      "album": {
         "name": "Avenida do Arrependimento",
         "url": "https://open.spotify.com/album/2ttxcuefm67xcXkS8JZLzs"
       },
@@ -8078,7 +8108,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -17870,7 +17900,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 183887,
       "name": "Coragem",
       "url": "https://open.spotify.com/track/5gfdPRmB56fcLRe4KvXyaF"
@@ -23672,7 +23702,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -27733,7 +27763,7 @@
     },
     {
       "album": {
-        "name": "Toca Aquela 2.0",
+        "name": "Toca Aquela2.0",
         "url": "https://open.spotify.com/album/0Z47P8o8tMVSFmfnB2gk3m"
       },
       "artists": [
@@ -40862,7 +40892,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 121129,
       "name": "Lembrei de Tu",
       "url": "https://open.spotify.com/track/7r3V2Pf56owIdC1c5PwHYX"
@@ -56216,7 +56246,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 225697,
       "name": "N\u00e3o Havia Pared\u00e3o",
       "url": "https://open.spotify.com/track/7tBxBxAd3DrejjehRFpFx0"
@@ -59200,7 +59230,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 99692,
       "name": "OQUE QUE TU QUER X QUERO BRINCAR - MTG",
       "url": "https://open.spotify.com/track/0sDLgxgS9nnm1eTfkHJrMQ"
@@ -81574,7 +81604,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 216780,
       "name": "Todo Homem - Ao Vivo",
       "url": "https://open.spotify.com/track/3YhZmqOIDldFyMDsHGUkbG"

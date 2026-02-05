@@ -2,7 +2,7 @@
 
 ### [Jazz Bar](https://open.spotify.com/playlist/37i9dQZF1DWXwi9yXPDI9y)
 
-> Have a drink and relax to the Jazz played in the background in the bar.
+> Grab a drink and relax to the Jazz played in the background at the bar.
 
 193 songs - 13 hr 41 min
 

@@ -11663,8 +11663,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Bedford Hedgehog",
+        "url": "https://open.spotify.com/album/6CNA7ueCSGXgAjsQvow1nS"
       },
       "artists": [
         {
@@ -34858,7 +34858,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 227914,
       "name": "what a night",
       "url": "https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs"
@@ -35000,7 +35000,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 186352,
       "name": "White Chocolate",
       "url": "https://open.spotify.com/track/7N2ziBCRxWB1ulFxUUD74a"

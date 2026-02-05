@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4501,
+  "num_followers": 4502,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX/pAAAAAACH7S+XUwk/I/6JMiIZQtxQ",
+  "snapshot_id": "aYE6gAAAAAAm3vwbyDr35aoab0PCCoIB",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warn Me",
-        "url": "https://open.spotify.com/album/2Iq1FXyQkuUSpFmv3CEnzJ"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Warn Me",
-      "url": "https://open.spotify.com/track/3FfmYyYHN47nLxPuJ84M0y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Clothes",
         "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 191890,
       "name": "Old Clothes",
       "url": "https://open.spotify.com/track/5wVQyKqsPKDswDJH4QSJfE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warn Me",
+        "url": "https://open.spotify.com/album/2Iq1FXyQkuUSpFmv3CEnzJ"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Warn Me",
+      "url": "https://open.spotify.com/track/3FfmYyYHN47nLxPuJ84M0y"
     },
     {
       "added_at": null,

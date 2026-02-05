@@ -1,6 +1,6 @@
 {
   "description": "Stompers, floaters and floorshakers - these are the tracks that defined the Northern Soul movement.",
-  "num_followers": 147408,
+  "num_followers": 147428,
   "original_name": "Northern Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Darrell Banks Is Here!",
-        "url": "https://open.spotify.com/album/4BYH98Ws2vOWyJ1G3E15DI"
-      },
-      "artists": [
-        {
-          "name": "Darrell Banks",
-          "url": "https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "Open the Door to Your Heart",
-      "url": "https://open.spotify.com/track/0rbyxKKubocBP2LWlwL3L8"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The in Crowd",
         "url": "https://open.spotify.com/album/1WyzsWPpOkkH07F7Rvx5GI"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 178133,
       "name": "Out on the Floor",
       "url": "https://open.spotify.com/track/4HYpG1m9d5LVBHJZJ6NWMc"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Darrell Banks Is Here!",
+        "url": "https://open.spotify.com/album/4BYH98Ws2vOWyJ1G3E15DI"
+      },
+      "artists": [
+        {
+          "name": "Darrell Banks",
+          "url": "https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m"
+        }
+      ],
+      "duration_ms": 157186,
+      "name": "Open the Door to Your Heart",
+      "url": "https://open.spotify.com/track/0rbyxKKubocBP2LWlwL3L8"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Occasional Rain",
-        "url": "https://open.spotify.com/album/1dgEMGLSJTJgJRQX0kFxb9"
-      },
-      "artists": [
-        {
-          "name": "Terry Callier",
-          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
-        }
-      ],
-      "duration_ms": 253413,
-      "name": "Ordinary Joe",
-      "url": "https://open.spotify.com/track/6AkGkimvrVzVe8Btgy0FRL"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "Ain't Nothin But A House Party",
         "url": "https://open.spotify.com/album/6Zd5nGmHAPgw1o1GsRE4zw"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 158973,
       "name": "Ain't Nothin But A Houseparty",
       "url": "https://open.spotify.com/track/64JXjk4JU0WG7BJwQTSga4"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Occasional Rain",
+        "url": "https://open.spotify.com/album/1dgEMGLSJTJgJRQX0kFxb9"
+      },
+      "artists": [
+        {
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "Ordinary Joe",
+      "url": "https://open.spotify.com/track/6AkGkimvrVzVe8Btgy0FRL"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Right Track - Best Of Okeh Northern Soul",
-        "url": "https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql"
+        "name": "Big Hits & Hard To Find Classics",
+        "url": "https://open.spotify.com/album/0I4XWJ2ovnMdzqH61zioBD"
       },
       "artists": [
         {
-          "name": "Billy Butler",
-          "url": "https://open.spotify.com/artist/1nWzeAq1znj206rT3xWdwt"
+          "name": "Barbara Randolph",
+          "url": "https://open.spotify.com/artist/1JloDwcRC1jrV3NWiZjMXM"
         }
       ],
-      "duration_ms": 145080,
-      "name": "Right Track - Single Version",
-      "url": "https://open.spotify.com/track/0B9KUe1doo2XUq4GSif9kl"
+      "duration_ms": 181133,
+      "name": "I Got A Feeling - Single Version",
+      "url": "https://open.spotify.com/track/1w6gJH9upDjPnrT4dtvITo"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Big Hits & Hard To Find Classics",
-        "url": "https://open.spotify.com/album/0I4XWJ2ovnMdzqH61zioBD"
+        "name": "Right Track - Best Of Okeh Northern Soul",
+        "url": "https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql"
       },
       "artists": [
         {
-          "name": "Barbara Randolph",
-          "url": "https://open.spotify.com/artist/1JloDwcRC1jrV3NWiZjMXM"
+          "name": "Billy Butler",
+          "url": "https://open.spotify.com/artist/1nWzeAq1znj206rT3xWdwt"
         }
       ],
-      "duration_ms": 181133,
-      "name": "I Got A Feeling - Single Version",
-      "url": "https://open.spotify.com/track/1w6gJH9upDjPnrT4dtvITo"
+      "duration_ms": 145080,
+      "name": "Right Track - Single Version",
+      "url": "https://open.spotify.com/track/0B9KUe1doo2XUq4GSif9kl"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Walking up a One Way Street",
-        "url": "https://open.spotify.com/album/4eNiXrq0bdXDcZd892i54P"
-      },
-      "artists": [
-        {
-          "name": "Willie Tee",
-          "url": "https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab"
-        }
-      ],
-      "duration_ms": 161106,
-      "name": "Walkin' up a One Way Street",
-      "url": "https://open.spotify.com/track/4PBUEbH92briGYuDbnHZuw"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "Something Bad On My Mind",
         "url": "https://open.spotify.com/album/0xpALbNypvcqlsNVaprqtc"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 175960,
       "name": "It'll Never Be Over For Me",
       "url": "https://open.spotify.com/track/27FZzhVCtPLwtYrnVp0npA"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Walking up a One Way Street",
+        "url": "https://open.spotify.com/album/4eNiXrq0bdXDcZd892i54P"
+      },
+      "artists": [
+        {
+          "name": "Willie Tee",
+          "url": "https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab"
+        }
+      ],
+      "duration_ms": 161106,
+      "name": "Walkin' up a One Way Street",
+      "url": "https://open.spotify.com/track/4PBUEbH92briGYuDbnHZuw"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Keep On Believing",
-        "url": "https://open.spotify.com/album/0OPpQiUK9bw0DdkBgFB9NL"
-      },
-      "artists": [
-        {
-          "name": "Lou Pride",
-          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
-        }
-      ],
-      "duration_ms": 319760,
-      "name": "I'm Com'un Home in the Morn'un",
-      "url": "https://open.spotify.com/track/7nf9RHDlrnDJe9vYW8cIJK"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "Best Of The Sapphires",
         "url": "https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 136226,
       "name": "Gotta Have Your Love",
       "url": "https://open.spotify.com/track/4BkHHw26fIlHEdcUqeCkgv"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Keep On Believing",
+        "url": "https://open.spotify.com/album/0OPpQiUK9bw0DdkBgFB9NL"
+      },
+      "artists": [
+        {
+          "name": "Lou Pride",
+          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
+        }
+      ],
+      "duration_ms": 319760,
+      "name": "I'm Com'un Home in the Morn'un",
+      "url": "https://open.spotify.com/track/7nf9RHDlrnDJe9vYW8cIJK"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Soul Clan",
-        "url": "https://open.spotify.com/album/3a6YJcsLKVftntzf3eWALy"
-      },
-      "artists": [
-        {
-          "name": "Soul Clan",
-          "url": "https://open.spotify.com/artist/3fv6GA2FEaH0u23PS66uFK"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Soul Meeting",
-      "url": "https://open.spotify.com/track/4n46NRBjkQizu6j5gGDw7x"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "Soul Satisfaction",
         "url": "https://open.spotify.com/album/3WPeP1PIrkGLGnnUg2tuCe"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 125800,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/4vwwhYgJU23tJPrBZiKL6U"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Soul Clan",
+        "url": "https://open.spotify.com/album/3a6YJcsLKVftntzf3eWALy"
+      },
+      "artists": [
+        {
+          "name": "Soul Clan",
+          "url": "https://open.spotify.com/artist/3fv6GA2FEaH0u23PS66uFK"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Soul Meeting",
+      "url": "https://open.spotify.com/track/4n46NRBjkQizu6j5gGDw7x"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Soul Satisfaction",
-        "url": "https://open.spotify.com/album/3WPeP1PIrkGLGnnUg2tuCe"
-      },
-      "artists": [
-        {
-          "name": "Willie Hutch",
-          "url": "https://open.spotify.com/artist/5w834ZosnqiBBV8xXCi3oD"
-        }
-      ],
-      "duration_ms": 159040,
-      "name": "Love Runs Out",
-      "url": "https://open.spotify.com/track/5GeyxVLBmgZcKGqXo1JEqW"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "Northern Soul: The Collection",
         "url": "https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 121800,
       "name": "What Shall I Do",
       "url": "https://open.spotify.com/track/4vHlngqfKqieP4z48uSGoH"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Soul Satisfaction",
+        "url": "https://open.spotify.com/album/3WPeP1PIrkGLGnnUg2tuCe"
+      },
+      "artists": [
+        {
+          "name": "Willie Hutch",
+          "url": "https://open.spotify.com/artist/5w834ZosnqiBBV8xXCi3oD"
+        }
+      ],
+      "duration_ms": 159040,
+      "name": "Love Runs Out",
+      "url": "https://open.spotify.com/track/5GeyxVLBmgZcKGqXo1JEqW"
     },
     {
       "added_at": "2024-03-22 16:05:01",

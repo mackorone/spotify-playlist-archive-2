@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,053 songs - 8 day 12 hr 44 min
+3,055 songs - 8 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1579,6 +1579,7 @@
 | [Love Is All That Matters \- Extended Version](https://open.spotify.com/track/2bW4qGjnmJ5kqHPMdQrPj4) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Love Is All That Matters](https://open.spotify.com/album/3WFzLbp8lKYQ74Cmhl1CKw) | 7:47 | 2023-09-29 | 2023-10-08 |
 | [Love Is Surrender \- Live](https://open.spotify.com/track/2xcCsyB31VuQLMjM67ktOb) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Younger Than Today \(Live\)](https://open.spotify.com/album/6TDBrwfmzqmUBI538kc7zj) | 2:44 | 2024-06-28 | 2024-07-03 |
 | [Love Is War](https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Shapeshifter](https://open.spotify.com/album/7c4xJPkWyEyLFhscmPbhl7) | 3:40 | 2025-03-28 | 2025-04-28 |
+| [LOVE ME \(feat\. Stevie Wonder\)](https://open.spotify.com/track/5HPvBWjFHAO01Zt22uDU27) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [CAMPILATION](https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD) | 3:10 | 2026-01-30 |  |
 | [Love Me Madly \(Live\)](https://open.spotify.com/track/2heuRG3URpTd5ZX4xSv2Iz) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Sound of the Crowd \- Greatest Hits Live in Concert](https://open.spotify.com/album/7lXqvRFxM03tnV45Ihfe4V) | 4:27 | 2024-05-31 | 2024-06-03 |
 | [Love Me Two Times](https://open.spotify.com/track/041siYMLiKaHk8F9sgRuhF) | [Virgin Magnetic Material](https://open.spotify.com/artist/04KTmShSJF84eXqUcis0Qw), [LM.ORG](https://open.spotify.com/artist/3mbulgTpuUoEKMM6qj7rpW), [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W) | [Love Me Two Times](https://open.spotify.com/album/45NdY0ZL7x51DvIxQhO5IJ) | 5:58 | 2023-06-30 | 2023-07-30 |
 | [Love My Way](https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [copy/paste, vol\. 1 \(abridged\)](https://open.spotify.com/album/6FZ4FUlFmawpoQLBVRfAuG) | 4:41 | 2024-12-06 | 2025-01-05 |
@@ -1618,7 +1619,8 @@
 | [Make Up Your Mind](https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Make Up Your Mind](https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U) | 3:38 | 2025-03-07 | 2025-03-30 |
 | [MAKUAKE](https://open.spotify.com/track/2VTbIKHS8foduKFrcatEwN) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [MAKUAKE](https://open.spotify.com/album/1IwFp2q3l2qXwH3FuAb6gJ) | 4:44 | 2025-05-02 | 2025-05-25 |
 | [Mala Suerte](https://open.spotify.com/track/5r81xWwzwI1zPJ9zKpcVr7) | [Pioneta](https://open.spotify.com/artist/3HmwE7zYH5JB3H1nL7ZHdn), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Mala Suerte](https://open.spotify.com/album/3bOVlVIbppdU9hKujjOK6B) | 3:43 | 2025-02-14 | 2025-03-16 |
-| [Mama Kin \- 2024 Mix](https://open.spotify.com/track/24W3iqR9pR1lc1V3NfiDpF) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Mama Kin \(2024 Mix\)](https://open.spotify.com/album/041HhRrNYZc7BE0JPbkIYF) | 4:35 | 2026-01-30 |  |
+| [Mama Kin \- 2024 Mix](https://open.spotify.com/track/24W3iqR9pR1lc1V3NfiDpF) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Mama Kin \(2024 Mix\)](https://open.spotify.com/album/041HhRrNYZc7BE0JPbkIYF) | 4:35 | 2026-01-30 | 2026-02-05 |
+| [Mama Kin \- 2024 Mix](https://open.spotify.com/track/6wFfvDWhdlrFjBchs1iidh) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Mama Kin \(2024 Mix\)](https://open.spotify.com/album/4tBXcje3f1YqjPIxq0yDfy) | 4:35 | 2026-01-30 |  |
 | [Mamushi \(Remix\) \[feat\. TWICE\]](https://open.spotify.com/track/0DanydI1wKqKkKjn0qKoVR) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:35 | 2024-11-08 | 2024-11-23 |
 | [Mamushi \(Remix\) \[feat\. TWICE\]](https://open.spotify.com/track/6LH0tmf42QU4EDFSbTlWvt) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MEGAN: ACT II](https://open.spotify.com/album/70juF5u8ay9fGv78N0BEzE) | 2:35 | 2024-11-15 | 2024-11-22 |
 | [Man of Constant Sorrow](https://open.spotify.com/track/1TEO2fqo8WfS6P1XoAnKUv) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Music Legends Bob Dylan : The Poet's Folk Hits](https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc) | 3:00 | 2024-04-12 | 2024-04-17 |

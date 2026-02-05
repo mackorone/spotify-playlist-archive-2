@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Tutto è possibile è qua, Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,197 likes - 74 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,203 likes - 74 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 38 | [EL PIBE DE ORO](https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [EL PIBE DE ORO](https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4) | 2:35 |
 | 39 | [GOTTI](https://open.spotify.com/track/6rN2wG1mw83UckLIdaiVcm) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [GOTTI](https://open.spotify.com/album/79dt9XYgzco3QEoYukK5pg) | 2:17 |
 | 40 | [AFRICA TWIN](https://open.spotify.com/track/39psWh1pYgu6CQcEev1qv9) | [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn) | [AFRICA TWIN](https://open.spotify.com/album/7f0F8qDdirkWacMdfAYvOH) | 2:31 |
-| 41 | [Carmela](https://open.spotify.com/track/3FYCZKF3OvOfwrm0sbPuHT) | [MOWGLI](https://open.spotify.com/artist/048wJUTvO90bEipRqJlpfa), [mvsvv](https://open.spotify.com/artist/61Dv8CPwiJ0VCUJetpv2ZH) | [Carmela](https://open.spotify.com/album/07KakC2ufUXrzA7Dhe4PzI) | 2:36 |
+| 41 | [Carmela](https://open.spotify.com/track/3FYCZKF3OvOfwrm0sbPuHT) | [MOWGLI](https://open.spotify.com/artist/048wJUTvO90bEipRqJlpfa), [musa](https://open.spotify.com/artist/0TA41Vre17wBa5qsPU0Xno) | [Carmela](https://open.spotify.com/album/07KakC2ufUXrzA7Dhe4PzI) | 2:36 |
 | 42 | [FERRARI \(from "Uonderbois"\)](https://open.spotify.com/track/6RJW9DiBr1RDjgT4GdCSp7) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [ROOM9](https://open.spotify.com/artist/3k3lLcA3Yy5tW7yhdFaDzU) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/6zm0N3GCyTiHOD7V5i8TZQ) | 2:43 |
 | 43 | [KSFA](https://open.spotify.com/track/53Ggzk6QHzzsIeJnoOsDNk) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [KSFA](https://open.spotify.com/album/2Qvg9yZAXZVUY90QR9gWQ4) | 2:40 |
 | 44 | [LUMINOR](https://open.spotify.com/track/4L54Nd3uiIFYMNzBL3j8CT) | [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn) | [LUMINOR](https://open.spotify.com/album/7vtQ66PsP8pFPkkRguuSz1) | 2:20 |

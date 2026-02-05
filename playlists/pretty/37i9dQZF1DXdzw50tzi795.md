@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 > พลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Three Man Down, PEEMWASU OF BUS
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,525 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,548 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

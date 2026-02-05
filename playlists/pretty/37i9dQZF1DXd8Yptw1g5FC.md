@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Eftalya Yağcı x Tan Taşçı ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,972 likes - 151 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,974 likes - 151 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 47 likes - 896 songs - 2 day 22 hr 7 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 47 likes - 902 songs - 2 day 22 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -904,5 +904,11 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 894 | [The Girl From Ipanema](https://open.spotify.com/track/4uC7IrfS1oQuRCVzqj1EJV) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Verve Jazz Masters 9: Astrud Gilberto](https://open.spotify.com/album/7b0D5FLZbkGMZM3sjohGFg) | 6:35 |
 | 895 | [Que Vida É Essa \(Que Pega, Pega no Pé\)](https://open.spotify.com/track/4OMTBdFlUA7TO0vcHpAs4e) | [Wal Santana](https://open.spotify.com/artist/2ec2IpzvB45BnfS1YngWOK) | [Que Vida É Essa \(Que Pega, Pega no Pé\) / Fantasia \- Single](https://open.spotify.com/album/3DyugC0G0Igmx9QObQ9Akv) | 2:52 |
 | 896 | [Mano Caetano](https://open.spotify.com/track/1tOvvwdSeyS0gnjCQ6PhI7) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tua Presenca](https://open.spotify.com/album/6s2cYOIP5PPIuUJDqvMJEk) | 2:31 |
+| 897 | [Kai Wawa](https://open.spotify.com/track/6Hs0zpzm0vHsYDkKQF9TlY) | [The Mercury Dance Band](https://open.spotify.com/artist/5s7yP5PdeJyqfoLJ50YYBB) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/5xOwDD2HNXuZIQxvrhrN1U) | 3:00 |
+| 898 | [Aaya Lolo](https://open.spotify.com/track/5fmmH90w0OcKpsWzXExXpH) | [The Barbecues](https://open.spotify.com/artist/78qlfsD6MuIyf7g2krns0Q) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/5xOwDD2HNXuZIQxvrhrN1U) | 3:48 |
+| 899 | [Obi Agye Me Dofo](https://open.spotify.com/track/7HydrZ0ETV67X4ZE4phoyA) | [Vis a Vis](https://open.spotify.com/artist/0zX9gAaZYmBeJwSlJSV2bm) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/5xOwDD2HNXuZIQxvrhrN1U) | 9:50 |
+| 900 | [You Monopolise Me](https://open.spotify.com/track/0tfXuaHRygnt8HwHqfpgxY) | [The Ogyatanaa Show Band](https://open.spotify.com/artist/0AJM60aFXEl0tUmjZpSHSL) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/5xOwDD2HNXuZIQxvrhrN1U) | 3:14 |
+| 901 | [Akoko Ba](https://open.spotify.com/track/0d2AttTwAQalheC79YDyhP) | [Gyedu\-Blay Ambolley and His Creations](https://open.spotify.com/artist/2sNHRUX6XU5Bnfnh8JOdZI) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/5xOwDD2HNXuZIQxvrhrN1U) | 5:26 |
+| 902 | [Kyenkyen Bi Adi M'awu](https://open.spotify.com/track/2dozHPmxDpo0DIjxvbHEBY) | [K\. Frimpong](https://open.spotify.com/artist/2LDOr6fxXh2JPduLAHzztr), [Cubano Fiestas](https://open.spotify.com/artist/7hnKWNXfLZTAPXBjdl1vbY) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/5xOwDD2HNXuZIQxvrhrN1U) | 6:57 |
 
-Snapshot ID: `AAAD/j1g+HT6mSOE+q1tPB+A5VH9ri9u`
+Snapshot ID: `AAAD/7LPx1eQ88g8m2I8ogZcgDXWWoYJ`

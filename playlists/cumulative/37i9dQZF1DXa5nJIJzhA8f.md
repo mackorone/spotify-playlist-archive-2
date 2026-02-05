@@ -2,7 +2,7 @@
 
 ### [Editors' Picks: Best Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DXa5nJIJzhA8f)
 
-> Meticulously selected by Spotify music experts\. Cover: ROSALÍA
+> Meticulously selected by Spotify music experts.
 
 117 songs - 7 hr 19 min
 

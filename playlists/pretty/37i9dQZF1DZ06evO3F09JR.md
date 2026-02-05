@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,536 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,536 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 3 | [Voltaggio solitario](https://open.spotify.com/track/3pWP6Ghd0iN7srBvxtiHqv) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno](https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX) | 3:58 |
 | 4 | [Iniziare](https://open.spotify.com/track/1uEKsAy6eyhiSgJMnNSSte) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 5:42 |
 | 5 | [Gloria](https://open.spotify.com/track/3F7lJxQ0B6watLGlV1oOmh) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 1](https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K) | 4:53 |
-| 6 | [Ambiente 3a](https://open.spotify.com/track/0tfrKwx6kvAom2KQzyQudt) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Il Mostro \(Colonna sonora della serie Netflix\)](https://open.spotify.com/album/0hOIw7vuuXA3A9UB0JMQbN) | 3:34 |
-| 7 | [III](https://open.spotify.com/track/6ubA164D78eD0YuiL4tpxS) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [NATI INFINITI](https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE) | 6:09 |
+| 6 | [III](https://open.spotify.com/track/6ubA164D78eD0YuiL4tpxS) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [NATI INFINITI](https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE) | 6:09 |
+| 7 | [Ambiente 3a](https://open.spotify.com/track/0tfrKwx6kvAom2KQzyQudt) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Il Mostro \(Colonna sonora della serie Netflix\)](https://open.spotify.com/album/0hOIw7vuuXA3A9UB0JMQbN) | 3:34 |
 | 8 | [La Sveglia](https://open.spotify.com/track/4ZKXNfLnhAwFAKt6RD7lGU) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 6:54 |
 | 9 | [Scappa](https://open.spotify.com/track/6Nbo5gaFH0jt4J1OhOmB2k) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 3](https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS) | 9:57 |
 | 10 | [Paragioia](https://open.spotify.com/track/4TShr5c1pfta4rTkV2rDp9) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Memorie I](https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It) | 9:40 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 38 | [Enter Exit](https://open.spotify.com/track/7wuuqyvG8y72HPxoFIa2oc) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 5:28 |
 | 39 | [Bushido \(Alessandro Cortini Re\-Work\)](https://open.spotify.com/track/00McKa13pdr3JQIaMHtsW6) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Bushido \(Alessandro Cortini Re\-Work\)](https://open.spotify.com/album/4bKDoYcDByQOhJvqoNgOsE) | 4:19 |
 | 40 | [SABBIA](https://open.spotify.com/track/1wUAoagKfjHyDJQVSc799P) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:43 |
-| 41 | [Tema 7](https://open.spotify.com/track/6fccyLdoyAzZuelhOfZHLe) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Il Mostro \(Colonna sonora della serie Netflix\)](https://open.spotify.com/album/0hOIw7vuuXA3A9UB0JMQbN) | 2:09 |
+| 41 | [Ambiente 6 Isterica](https://open.spotify.com/track/18T59KVIx5WuUdEjsD7xfC) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Il Mostro \(Colonna sonora della serie Netflix\)](https://open.spotify.com/album/0hOIw7vuuXA3A9UB0JMQbN) | 4:11 |
 | 42 | [Dormiveglia](https://open.spotify.com/track/178U2DVk3TaMR97viEdmn4) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 0:31 |
 | 43 | [Rimasta](https://open.spotify.com/track/4yHjtYAf7wrsfNIiBb1kP9) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 3](https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS) | 6:57 |
 | 44 | [LET GO](https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:08 |
-| 45 | [I](https://open.spotify.com/track/3GgaLW1vcsMsEBpMSNJTNr) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [NATI INFINITI](https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE) | 8:40 |
-| 46 | [Quasi Casa](https://open.spotify.com/track/562ikulQIED38RmLXUowpq) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Movimento](https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A) | 4:36 |
+| 45 | [Quasi Casa](https://open.spotify.com/track/562ikulQIED38RmLXUowpq) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Movimento](https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A) | 4:36 |
+| 46 | [I](https://open.spotify.com/track/3GgaLW1vcsMsEBpMSNJTNr) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [NATI INFINITI](https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE) | 8:40 |
 | 47 | [Conta](https://open.spotify.com/track/0R8ceqLCh0YHQPOfRzgDTi) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 3](https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS) | 6:07 |
 | 48 | [Immediate Horizon 3](https://open.spotify.com/track/6smKelrD4IAbrF2APLgoEe) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 8:47 |
-| 49 | [II](https://open.spotify.com/track/17l9asCXRjqpcHnk32Hm5Q) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [NATI INFINITI](https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE) | 8:52 |
-| 50 | [Di passaggio](https://open.spotify.com/track/3gaEmxf6NoXZo2dhKqGi2C) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno](https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX) | 4:52 |
+| 49 | [Di passaggio](https://open.spotify.com/track/3gaEmxf6NoXZo2dhKqGi2C) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno](https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX) | 4:52 |
+| 50 | [II](https://open.spotify.com/track/17l9asCXRjqpcHnk32Hm5Q) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [NATI INFINITI](https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE) | 8:52 |
 
-Snapshot ID: `aX/pAAAAAAA253ydbSMbmSTXsx8njQ1C`
+Snapshot ID: `aYE6gAAAAACvY1d63aLK/6D/xdcqyrd8`

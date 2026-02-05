@@ -1181,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "Luka & Cinta",
+        "url": "https://open.spotify.com/album/6R8nkOwsLw7oHSGacnNUgi"
+      },
+      "artists": [
+        {
+          "name": "Sahrul Gunawan",
+          "url": "https://open.spotify.com/artist/7rfv4Bws90xHKho0iUXjpK"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235875,
+      "name": "Hanya Untukku",
+      "url": "https://open.spotify.com/track/7F0fYRUVCqErlEm4s68b9w"
+    },
+    {
+      "album": {
         "name": "Breakthru",
         "url": "https://open.spotify.com/album/3l2Co6Zu0DIsZgCNvnxuVS"
       },
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 398011,
       "name": "Kalah",
       "url": "https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf"

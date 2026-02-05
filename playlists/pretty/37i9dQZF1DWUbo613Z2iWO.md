@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Dylan Sinclair
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,284 likes - 225 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,297 likes - 225 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 3 | [THEMSELVES](https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 2:46 |
 | 4 | [Break Me In](https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Break Me In](https://open.spotify.com/album/3qAQ2awAKHXsu0SKTKR0Wg) | 2:52 |
 | 5 | [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 |
-| 6 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:41 |
+| 6 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
 | 7 | [energy!](https://open.spotify.com/track/4RKcZqAw4IwAReaDGoOne6) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [energy!](https://open.spotify.com/album/4SYq5g75SlsFdR0njSGopV) | 3:32 |
 | 8 | [Typical](https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Typical](https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN) | 2:56 |
 | 9 | [Wamu](https://open.spotify.com/track/1SKKJYMiJpZ6y67BC7sPXp) | [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [Wamu](https://open.spotify.com/album/1roAVtZDlgq9fr1BM8LXCM) | 3:06 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 31 | [History](https://open.spotify.com/track/0kbfiqVhGoEtv6ANAHpHC6) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [History](https://open.spotify.com/album/025WWoX4KV2uNCUWoaKD2d) | 2:31 |
 | 32 | [Fly](https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Fly](https://open.spotify.com/album/6Yz1hJu1dIcIlTHmuNZkkY) | 3:06 |
 | 33 | [Kryptonite](https://open.spotify.com/track/2kwszkUHGtCPgshacWrivq) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop) | [Kryptonite](https://open.spotify.com/album/2e4r2CiCRc5aAY7OlaL09O) | 3:20 |
-| 34 | [footwork](https://open.spotify.com/track/1bkNnIkZpBB4tdhZwMji6Q) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [footwork](https://open.spotify.com/album/23HUSuiX9Xtif1N5iBh5uj) | 2:50 |
+| 34 | [footwork](https://open.spotify.com/track/1bkNnIkZpBB4tdhZwMji6Q) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [footwork](https://open.spotify.com/album/23HUSuiX9Xtif1N5iBh5uj) | 2:50 |
 | 35 | [Journey To The Sun \(feat\. Ariel J.\)](https://open.spotify.com/track/2uVhDVhCRhye33a9blkdKu) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Ariel J.](https://open.spotify.com/artist/0KVhKG1INN58I9KaMeW3xa) | [Journey To The Sun \(feat\. Ariel J.\)](https://open.spotify.com/album/1XQSX1VNJPrSR5UEhmlrL9) | 3:50 |
 | 36 | [Lead It Up](https://open.spotify.com/track/4vcdHDZWVNRCOrEq1LlvsU) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Lead It Up](https://open.spotify.com/album/63449DHEaCWCuCwgn8A4bB) | 2:48 |
 | 37 | [Proof](https://open.spotify.com/track/7eT7KkcYXFwELw4nzAzUdJ) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Proof](https://open.spotify.com/album/5xLNXjrIKQsSl07l6WrWW1) | 2:43 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 95 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |
 | 96 | [SMN](https://open.spotify.com/track/3VNkWiAFcbuqkNE1ajpBNE) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [SMN](https://open.spotify.com/album/5Lqu1Aql2kburAS8qBSslb) | 1:50 |
 | 97 | [Limit](https://open.spotify.com/track/6NkJkPVDH8BRWTJXerQU2t) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Limit](https://open.spotify.com/album/51p6qDj0rYyGuXy97ZeDau) | 2:45 |
-| 98 | [ghosted](https://open.spotify.com/track/1YxifpuwgU6IcGt7NKUVpb) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [ghosted](https://open.spotify.com/album/6NNQuKvbvvTzPYsZRwn1Ma) | 2:27 |
+| 98 | [ghosted](https://open.spotify.com/track/1YxifpuwgU6IcGt7NKUVpb) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [ghosted](https://open.spotify.com/album/6NNQuKvbvvTzPYsZRwn1Ma) | 2:29 |
 | 99 | [Separated](https://open.spotify.com/track/5bFtbt0LsDJf3VvRFIrBW4) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [Me My Songs & I](https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu) | 3:23 |
 | 100 | [Fire](https://open.spotify.com/track/2NqLPkS0YMgyHeSGE3voiQ) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Fire&Smoke](https://open.spotify.com/album/6N9LE0bNFcT54QXOBqXv1X) | 3:36 |
 | 101 | [EmptyBaggage](https://open.spotify.com/track/6OGhk6MEWCVhmxYcM9Vuo2) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w) | [InsydeOut](https://open.spotify.com/album/3Ng6kk6QFnn6N8Jq1sV7Hk) | 3:06 |

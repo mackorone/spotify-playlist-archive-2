@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > SAIKO x Tito "El Bambino", Nicky Jam, Katteyes & SINAKA, TOKISCHA y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,483 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,479 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

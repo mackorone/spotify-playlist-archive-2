@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  kingdmusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,183 likes - 103 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,197 likes - 103 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 4 | [Revival Is Calling](https://open.spotify.com/track/2OEAgnFxoKXHygiVELBKBW) | [Macwealth & The Seraphs](https://open.spotify.com/artist/7t4MkN7ebYzrUZGJMGY3Bb), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Revival Is Calling](https://open.spotify.com/album/7tKsDCPcpySdghtiT148TK) | 8:58 |
 | 5 | [Hallelujah](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [JOY](https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY) | 2:29 |
 | 6 | [Kubo Bonke](https://open.spotify.com/track/0IYhhvnxRCq7FBj38qnbJP) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Kubo Bonke](https://open.spotify.com/album/5bFvuAE3jqndFsNkkfvRyn) | 6:42 |
-| 7 | [Boku](https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ada Ehi](https://open.spotify.com/artist/7ywbh2HXZmWVBFdmnNwYHh) | [God, In all Seasons](https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc) | 3:57 |
+| 7 | [Boku](https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [God, In all Seasons](https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc) | 3:57 |
 | 8 | [Siza Bawo](https://open.spotify.com/track/6onm77NipOKjurj1kG9Qyh) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Vine&Vibes](https://open.spotify.com/artist/0JWMVtY26AhbhaQQOU0BSi), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Those Who Dream](https://open.spotify.com/album/5ZFAp15k4bCQWByhijRjIa) | 2:55 |
 | 9 | [Everlasting God](https://open.spotify.com/track/6ncqGwqwulEKJX7VrMDGXM) | [House of Worship](https://open.spotify.com/artist/1Ej0ecY99HT6WiwAn6aB24), [Brenton Brown](https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [House of Worship](https://open.spotify.com/album/2g898epfc1d7Rkq2MYlt2s) | 4:55 |
 | 10 | [Hallelujah \- Live](https://open.spotify.com/track/53Vs8PsI3FEGr08i3f23mM) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [The Live Experience](https://open.spotify.com/album/62uXkHtrX8KDil8lEDSr7m) | 8:16 |

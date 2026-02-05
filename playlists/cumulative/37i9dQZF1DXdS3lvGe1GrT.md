@@ -4,12 +4,13 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Madra Salach
 
-2,009 songs - 5 day 0 hr 3 min
+2,014 songs - 5 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['85 \(with Keyland\)](https://open.spotify.com/track/4kMeYFx7mHMagqSGPs73Al) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH), [Keyland](https://open.spotify.com/artist/7d3nkwd5NnxQ7axw2FFBJB) | [Lady Lou & All Her Friends](https://open.spotify.com/album/6zaQSLhZZ0o09yC4pG9ebl) | 2:58 | 2024-10-02 | 2024-12-05 |
 | ['Til I Come Around](https://open.spotify.com/track/02LqtUPTOQ8wcouIumUKQM) | [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | ['Til I Come Around](https://open.spotify.com/album/3M9J7HOHDNf0CboCMSpOdi) | 3:02 | 2024-11-13 | 2024-12-05 |
+| [\(easily\) moved](https://open.spotify.com/track/6wK8WtrJBXGVEk0sXX6XZG) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [other ways of landing](https://open.spotify.com/album/6hixxzEVFqx8PvdE0mDz3a) | 3:35 | 2026-02-04 |  |
 | [\(Me Tomorrow\)](https://open.spotify.com/track/6pGt3J3K2IkAibPJqipCkF) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [\(Me Tomorrow\)](https://open.spotify.com/album/6vWe2PHNscc7llWzzb2FIZ) | 3:16 | 2026-01-21 |  |
 | [\(over now\)](https://open.spotify.com/track/6cDD86N1pfP0mB05VHRccs) | [summersets](https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v) | [small town story](https://open.spotify.com/album/5BXqfI4uM589DboivtSbN1) | 4:00 | 2023-06-14 | 2023-08-10 |
 | [10 Years,](https://open.spotify.com/track/3aCOy3gmk0doqhe7ttsaH7) | [Cole Swensen](https://open.spotify.com/artist/2Hhs5G5jxtbxhOUzm32YxR) | [Daisy Painted Walls](https://open.spotify.com/album/4kOMqbxXKEFlPm9LbhsrTc) | 4:46 | 2023-01-11 | 2023-02-23 |
@@ -549,6 +550,7 @@
 | [Empty Hands](https://open.spotify.com/track/2GBIKypnjEstvrRsXaSeOV) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Shirley Hurt](https://open.spotify.com/album/2zwbcI5dCRCBUO3pjIs2E9) | 4:21 | 2023-01-11 | 2023-02-16 |
 | [Empty Of You](https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO) | [Dirty Blond](https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM) | [Empty Of You](https://open.spotify.com/album/0eUjjndcDx6aGnoMFGvjn2) | 3:01 | 2026-01-21 |  |
 | [End](https://open.spotify.com/track/7bx0K0DXHmQ5pLtXxtP1Jy) | [Lean Year](https://open.spotify.com/artist/5DNcrT0ZrO00AsUqLrUjmR) | [End](https://open.spotify.com/album/2gVBQDFmb1imLhIklGFtQ4) | 3:30 | 2022-08-03 | 2022-10-27 |
+| [End](https://open.spotify.com/track/2pi79FG0BWAYX92ccmIuh9) | [Olsith](https://open.spotify.com/artist/4To3IUs8dDf6gHJxvFDgZT) | [End](https://open.spotify.com/album/6UTDjTqL5SNUUO9cO55Uc9) | 3:27 | 2026-02-04 |  |
 | [End Of The World](https://open.spotify.com/track/3trrueLt7FceiknriMTt4m) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [End Of The World](https://open.spotify.com/album/1yMKghXe5iMNJ7sJigZ15n) | 3:09 | 2024-01-24 | 2024-03-21 |
 | [endless questions](https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [endless questions](https://open.spotify.com/album/4l1sZQPpcXhZUWonaH9lfD) | 2:47 | 2024-02-07 | 2024-04-19 |
 | [Enough](https://open.spotify.com/track/7eF2dOHO1Nx1bM3Cl3qVuX) | [Fables](https://open.spotify.com/artist/1idSfiC0wnGTZM7xohuAqk) | [Enough](https://open.spotify.com/album/4PWJBh9p2n4FtIJWZCXT9j) | 3:57 | 2026-01-14 |  |
@@ -1327,6 +1329,7 @@
 | [Old Bones](https://open.spotify.com/track/5dYVnt66SZuvHzhO0k6Q8Q) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Old Bones](https://open.spotify.com/album/793zgIr0IK4C7VMsXTQcPy) | 3:30 | 2023-03-22 | 2023-05-04 |
 | [Old Car](https://open.spotify.com/track/3o6wfrXEOOd1wk836lNyQS) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Old Car](https://open.spotify.com/album/0dY7aaSn3OtgYSyeVl73hA) | 3:19 | 2024-09-25 | 2025-01-16 |
 | [old car](https://open.spotify.com/track/3uMs0lW38765r0VLT3BEuu) | [h\. pruz](https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN) | [old car](https://open.spotify.com/album/5qUhnCpKNEtVLI9lEdOWom) | 4:03 | 2022-10-26 | 2022-12-01 |
+| [Old Friend](https://open.spotify.com/track/4Upa4Devu3DADgTvonkPkL) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Old Friend](https://open.spotify.com/album/1yK7hngYH2ctzYgkBPooJb) | 3:34 | 2026-02-04 |  |
 | [Old Friend](https://open.spotify.com/track/3NMBk05Yedx8wcDyUpMYy9) | [Kacey Johansing](https://open.spotify.com/artist/5V1yrA8FrMhKkl4rCu6flc) | [Old Friend](https://open.spotify.com/album/44KhOkPirclLyhFWCoy4le) | 4:20 | 2023-10-04 | 2023-12-11 |
 | [Old War](https://open.spotify.com/track/4nKIzCnqEAmduvuHYw6ppq) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8) | [The History of Everything We Went Through](https://open.spotify.com/album/7uExgOKKwUYidQ2yLfCqJi) | 3:16 | 2023-03-01 | 2023-04-13 |
 | [Old Yeller](https://open.spotify.com/track/5gY5CUEjNnMaGcqkc06kE4) | [Slow Hollows](https://open.spotify.com/artist/7qME2V5vIIPqIKCpzxQMPz) | [Bullhead](https://open.spotify.com/album/5rvAHDsVCW5SZ9yPLbwD6l) | 3:46 | 2024-04-17 | 2024-06-20 |
@@ -1399,6 +1402,7 @@
 | [Pink](https://open.spotify.com/track/4jbtHXvWKM74sUUanCVGuS) | [Leila Sunier](https://open.spotify.com/artist/699kkddUX2J9DRXT8Ql1Pn) | [Pink](https://open.spotify.com/album/1ldcl6WOuj3HwDMqwNopuU) | 4:28 | 2023-11-08 | 2023-12-11 |
 | [Pipps Hill](https://open.spotify.com/track/1VDaJ1DvabCELKIVyTrZ5w) | [Canty](https://open.spotify.com/artist/513JvMrHUhvAIq8xMntFcw) | [Dim Binge](https://open.spotify.com/album/4ENin5XoyhjiUUXJLFY2aC) | 3:31 | 2025-02-05 | 2025-05-15 |
 | [Please](https://open.spotify.com/track/2nGo49pmg4s4ZLWOj3MsbH) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Please](https://open.spotify.com/album/20gw3rAOBS1PWn6WrcaOeG) | 3:43 | 2024-03-27 | 2024-06-06 |
+| [Please](https://open.spotify.com/track/7wtU8CEcIELlWhmvC0hqZx) | [Otracami](https://open.spotify.com/artist/6VZhV0nHzh64xErbe4OHZs) | [Please](https://open.spotify.com/album/1yn8sAYRP3l4F624E2mwy8) | 3:33 | 2026-02-04 |  |
 | [please don't forget about me](https://open.spotify.com/track/79TOLoQPN2YQBU9M6v7EV0) | [Pompey](https://open.spotify.com/artist/2nWS0foFZts25bZ6sxfP9x) | [please don't forget about me](https://open.spotify.com/album/15YVZmVuMHxcPE5Dk6vkRp) | 3:00 | 2023-11-15 | 2023-12-11 |
 | [Pocket](https://open.spotify.com/track/4tEbhflVi5PzSl2om3C3so) | [Margot Liotta](https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM) | [Pocket](https://open.spotify.com/album/2cy9UiKp4m5TuYTQD5rg3E) | 2:42 | 2024-04-03 | 2025-01-16 |
 | [Point and Shoot](https://open.spotify.com/track/0kBKkzdS9m3Pxwy2ozwN1z) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Point and Shoot](https://open.spotify.com/album/1LK1xswR9T1ZfTZZhAgPej) | 3:05 | 2025-04-24 | 2025-07-24 |
@@ -1760,6 +1764,7 @@
 | [The Negotiator](https://open.spotify.com/track/2X3jvzxaBLPI0ygiZ2lE8L) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [The Negotiator](https://open.spotify.com/album/18MDw4dHXtd26zQjtxe15D) | 3:00 | 2024-01-10 | 2024-02-29 |
 | [The Nether \(Face to Face\)](https://open.spotify.com/track/1ZyiraF9iIBB2t8bqNTCur) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Act 1 \(The Pilgrim\)](https://open.spotify.com/album/1SnEs7AsmFpDMReQxBq0EG) | 3:56 | 2022-09-21 | 2022-12-01 |
 | [The Other Side \(As the Sun Comes Up\)](https://open.spotify.com/track/2Oni7JsrxjPxl7qDJwD8Kh) | [Lydia Kaseta](https://open.spotify.com/artist/0raB78RFxZwDhT8LQFtahl) | [The Other Side \(As the Sun Comes Up\)](https://open.spotify.com/album/2lIxAt8sf6wrmxoVeXbemm) | 4:01 | 2022-05-25 | 2022-07-21 |
+| [The Perfect Swan](https://open.spotify.com/track/1s8DOpV7PQZcnbZyPMzotN) | [Fazed on a Pony](https://open.spotify.com/artist/6a9mnvRpDYNXCq0loqP3Md) | [swan](https://open.spotify.com/album/4a8pwVOYatWOp9ADOGR7P6) | 2:51 | 2026-02-04 |  |
 | [The Pharmacist](https://open.spotify.com/track/3XJnooJ0XwCIxaFrUwIets) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [The Pharmacist](https://open.spotify.com/album/0cqLzM5pTxefW1XrVqMVpw) | 3:35 | 2023-03-01 | 2023-04-13 |
 | [The Portlaoise Queen](https://open.spotify.com/track/50hRY8GsRdk2VUpCf33HNO) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [The Portlaoise Queen](https://open.spotify.com/album/1tawGB0KSAKlnZ2VvGBzyJ) | 5:50 | 2025-01-15 | 2025-04-10 |
 | [The Rain](https://open.spotify.com/track/0JLRbovJSwvjqh7wUyzPtc) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Call to Unknowns](https://open.spotify.com/album/2FZihRaczkHjLkc4ZT9gq4) | 3:35 | 2022-09-28 | 2022-12-01 |

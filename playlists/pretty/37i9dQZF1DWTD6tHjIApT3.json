@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: Furui Riho",
-  "num_followers": 134794,
+  "num_followers": 134799,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -223,8 +223,8 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Celeste",
+        "url": "https://open.spotify.com/album/16eVU6d7Bntt7tQa37bCXw"
       },
       "artists": [
         {
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
+        "name": "What the Ripple Sees",
+        "url": "https://open.spotify.com/album/78fhnG5ADzOETko64kqGtW"
+      },
+      "artists": [
+        {
+          "name": "Mili",
+          "url": "https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs"
+        }
+      ],
+      "duration_ms": 239106,
+      "name": "What the Ripple Sees",
+      "url": "https://open.spotify.com/track/2VEM6i965SAXK5A59lXmHa"
+    },
+    {
+      "added_at": "2026-02-03 17:12:05",
+      "album": {
         "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
         "url": "https://open.spotify.com/album/38Keiou5ICfLBAdz69A3jU"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 259771,
       "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
       "url": "https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX"
-    },
-    {
-      "added_at": "2026-02-03 17:12:05",
-      "album": {
-        "name": "BALALAIKA Acoustic Ver.",
-        "url": "https://open.spotify.com/album/1v86NbqCrRTOrwotk46lDG"
-      },
-      "artists": [
-        {
-          "name": "9Lana",
-          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
-        }
-      ],
-      "duration_ms": 226881,
-      "name": "BALALAIKA Acoustic Ver.",
-      "url": "https://open.spotify.com/track/6rmJJa2t3CBsqqWOjUzuhw"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "What the Ripple Sees",
-        "url": "https://open.spotify.com/album/78fhnG5ADzOETko64kqGtW"
+        "name": "BALALAIKA Acoustic Ver.",
+        "url": "https://open.spotify.com/album/1v86NbqCrRTOrwotk46lDG"
       },
       "artists": [
         {
-          "name": "Mili",
-          "url": "https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs"
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
         }
       ],
-      "duration_ms": 239106,
-      "name": "What the Ripple Sees",
-      "url": "https://open.spotify.com/track/2VEM6i965SAXK5A59lXmHa"
+      "duration_ms": 226881,
+      "name": "BALALAIKA Acoustic Ver.",
+      "url": "https://open.spotify.com/track/6rmJJa2t3CBsqqWOjUzuhw"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "\u65e5\u9670",
-        "url": "https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK"
-      },
-      "artists": [
-        {
-          "name": "Rokudenashi",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 180821,
-      "name": "\u96e8\u666f\u8272",
-      "url": "https://open.spotify.com/track/0S4vsLoQPVC46Ctnee2FxG"
-    },
-    {
-      "added_at": "2026-02-03 17:12:05",
-      "album": {
         "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
         "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 193430,
       "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
       "url": "https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6"
+    },
+    {
+      "added_at": "2026-02-03 17:12:05",
+      "album": {
+        "name": "\u65e5\u9670",
+        "url": "https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK"
+      },
+      "artists": [
+        {
+          "name": "Rokudenashi",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "duration_ms": 180821,
+      "name": "\u96e8\u666f\u8272",
+      "url": "https://open.spotify.com/track/0S4vsLoQPVC46Ctnee2FxG"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
+        "name": "star flower",
+        "url": "https://open.spotify.com/album/4aM9vov58lJbJQRYwKDtAc"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "duration_ms": 185246,
+      "name": "star flower",
+      "url": "https://open.spotify.com/track/6GeWnXoGMZsCOsCSq6bdJs"
+    },
+    {
+      "added_at": "2026-02-03 17:12:05",
+      "album": {
         "name": "Share",
         "url": "https://open.spotify.com/album/2UwvE18GEMsWdXyvs0HYfE"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "star flower",
-        "url": "https://open.spotify.com/album/4aM9vov58lJbJQRYwKDtAc"
+        "name": "\u58f0\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/4n2Fbv9J5fqFbLnjBt5PTi"
       },
       "artists": [
         {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+          "name": "Soala",
+          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
         }
       ],
-      "duration_ms": 185246,
-      "name": "star flower",
-      "url": "https://open.spotify.com/track/6GeWnXoGMZsCOsCSq6bdJs"
+      "duration_ms": 199080,
+      "name": "\u58f0\u306e\u8ecc\u8de1",
+      "url": "https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -1107,22 +1123,6 @@
       "duration_ms": 218283,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/0djEHfacrcMs3DKuBba00C"
-    },
-    {
-      "added_at": "2026-02-03 17:12:05",
-      "album": {
-        "name": "\u58f0\u306e\u8ecc\u8de1",
-        "url": "https://open.spotify.com/album/4n2Fbv9J5fqFbLnjBt5PTi"
-      },
-      "artists": [
-        {
-          "name": "Soala",
-          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "\u58f0\u306e\u8ecc\u8de1",
-      "url": "https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "\u304a\u3068\u3081\u306e\u8096\u50cf",
-        "url": "https://open.spotify.com/album/3abSkOFoNQtxxIJ8GhLwy8"
-      },
-      "artists": [
-        {
-          "name": "Reol",
-          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "\u304a\u3068\u3081\u306e\u8096\u50cf",
-      "url": "https://open.spotify.com/track/2cpQtKvfgzNQE8MGhOuM7v"
-    },
-    {
-      "added_at": "2026-02-03 17:12:05",
-      "album": {
         "name": "\u30df\u30ae\u30d2\u30c0\u30ea",
         "url": "https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
+        "name": "\u304a\u3068\u3081\u306e\u8096\u50cf",
+        "url": "https://open.spotify.com/album/3abSkOFoNQtxxIJ8GhLwy8"
+      },
+      "artists": [
+        {
+          "name": "Reol",
+          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "\u304a\u3068\u3081\u306e\u8096\u50cf",
+      "url": "https://open.spotify.com/track/2cpQtKvfgzNQE8MGhOuM7v"
+    },
+    {
+      "added_at": "2026-02-03 17:12:05",
+      "album": {
         "name": "Two Of Us",
         "url": "https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 224812,
       "name": "Two Of Us",
       "url": "https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68"
-    },
-    {
-      "added_at": "2026-02-03 17:12:05",
-      "album": {
-        "name": "pink",
-        "url": "https://open.spotify.com/album/2kwDdyFMvoOXd9LkFSLxwl"
-      },
-      "artists": [
-        {
-          "name": "\u6c50\u308c\u3044\u3089",
-          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
-        }
-      ],
-      "duration_ms": 252501,
-      "name": "pink",
-      "url": "https://open.spotify.com/track/2NI2qpkxH30nFZ6vxCcrGF"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "Tokei",
-        "url": "https://open.spotify.com/album/1WbMoAGnRkZ3MZ4y00n03o"
+        "name": "pink",
+        "url": "https://open.spotify.com/album/2kwDdyFMvoOXd9LkFSLxwl"
       },
       "artists": [
         {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+          "name": "\u6c50\u308c\u3044\u3089",
+          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
         }
       ],
-      "duration_ms": 332466,
-      "name": "Tokei",
-      "url": "https://open.spotify.com/track/3kEvtzKpxW6LlwwyG8f8BE"
+      "duration_ms": 252501,
+      "name": "pink",
+      "url": "https://open.spotify.com/track/2NI2qpkxH30nFZ6vxCcrGF"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -1519,6 +1503,22 @@
       "duration_ms": 225298,
       "name": "YOU",
       "url": "https://open.spotify.com/track/0wwkJegAXrw6dGg9gdPP8N"
+    },
+    {
+      "added_at": "2026-02-03 17:12:05",
+      "album": {
+        "name": "Tokei",
+        "url": "https://open.spotify.com/album/1WbMoAGnRkZ3MZ4y00n03o"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 332466,
+      "name": "Tokei",
+      "url": "https://open.spotify.com/track/3kEvtzKpxW6LlwwyG8f8BE"
     },
     {
       "added_at": "2026-02-03 17:12:05",

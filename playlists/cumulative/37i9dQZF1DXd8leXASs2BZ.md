@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Tee Shyne
 
-1,286 songs - 2 day 11 hr 17 min
+1,287 songs - 2 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,7 +665,7 @@
 | [Marmot](https://open.spotify.com/track/5BE8nmeeVfLv3TmRMTilIl) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Marmot](https://open.spotify.com/album/4nFJGNzMaehMhLng7f1P4F) | 2:49 | 2023-12-12 | 2024-02-14 |
 | [Mata Rainen](https://open.spotify.com/track/6e2GAQXNrzFmZO1Z53W0eq) | [Sound's Deli](https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB) | [PYREX TAPE](https://open.spotify.com/album/1SupUlWakhg32qRRMKmTzp) | 3:56 | 2025-08-26 | 2025-09-17 |
 | [Matenai](https://open.spotify.com/track/4SRtT9SUbElvGEZMrHT3G8) | [Adem](https://open.spotify.com/artist/0piNpexdBU84sjLSvbFI9b) | [Matenai](https://open.spotify.com/album/0570QzILEZN8JdPsn7guEL) | 2:19 | 2025-04-22 | 2025-06-11 |
-| [Mayfair](https://open.spotify.com/track/2Zqs38lD7nY5NQI4LzOFjw) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Nino Uptown](https://open.spotify.com/artist/1zzNqXwB3gRY3Ucm8dQnr8) | [Foreign Xchange](https://open.spotify.com/album/0wcLM4XCBLp2iwATcE00rD) | 2:22 | 2025-11-18 |  |
+| [Mayfair](https://open.spotify.com/track/2Zqs38lD7nY5NQI4LzOFjw) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Nino Uptown](https://open.spotify.com/artist/1zzNqXwB3gRY3Ucm8dQnr8) | [Foreign Xchange](https://open.spotify.com/album/0wcLM4XCBLp2iwATcE00rD) | 2:22 | 2025-11-18 | 2026-02-05 |
 | [Me>Enemy](https://open.spotify.com/track/1NKcyIqpr8wScUPYA5qFC3) | [XENO](https://open.spotify.com/artist/7BTcTywq9yvwNUWzNOLasA) | [Me>Enemy](https://open.spotify.com/album/3cE9APZdB8oIgnXNpdMvXr) | 3:02 | 2024-07-16 | 2024-07-31 |
 | [Meaning of Life](https://open.spotify.com/track/6QIgZ5CfAmmKRdKh6MLDE9) | [Bardin Beatz](https://open.spotify.com/artist/0s2BMtj4o4ywNR9w5y58RA), [Reezzz](https://open.spotify.com/artist/2CBQbNDtyueIwxGN3GszVc) | [Meaning of Life](https://open.spotify.com/album/5mrdqjWGMBt0agdlpTKgY1) | 2:56 | 2025-07-15 | 2025-11-19 |
 | [medicine \(feat\. Cuegee\)](https://open.spotify.com/track/7LbvX0X80DJpf9pJo93ohL) | [LIL'BCCNo](https://open.spotify.com/artist/73b0xlAIJRU68GZ2qCnOAq), [Cuegee](https://open.spotify.com/artist/1aquTqscrUeZrug116Rxy5) | [medicine \(feat\. Cuegee\)](https://open.spotify.com/album/48R0d1TBWOjWvr8R2Rs1SQ) | 3:20 | 2025-01-28 | 2025-02-26 |
@@ -1039,6 +1039,7 @@
 | [TAKE\-OFF](https://open.spotify.com/track/5ZPsgg1WhMxoovwZVYHbIB) | [KOSÉ 8ROCKS](https://open.spotify.com/artist/4xPnkzn7b7oxBNhk8hYfZz), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [TAKE\-OFF](https://open.spotify.com/album/6xrdQXU1LXphoBAOk5oFQT) | 2:40 | 2024-10-01 | 2025-01-22 |
 | [TakeItxxx](https://open.spotify.com/track/4WohZ94x2FC7hBhXgXredc) | [sheidA](https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ) | [P.A.R.T.Y.](https://open.spotify.com/album/0tUV3SYOE1cqoFtDQPLKpR) | 2:06 | 2026-01-13 |  |
 | [Talk shit \(feat\. MELLMWOR1D\)](https://open.spotify.com/track/16ulmt1s9Xajg1prLeeghs) | [vivi](https://open.spotify.com/artist/2bRJAlkOHlUi3nK2jUpFtx), [MELLMWOR1D](https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ) | [CULT](https://open.spotify.com/album/21qfKAFM1bul7f89ehClWi) | 2:20 | 2025-03-11 | 2025-06-27 |
+| [Talk to me freestyle](https://open.spotify.com/track/4g6uzWcaq8TVh9OLaVtaDC) | [Nagatomi](https://open.spotify.com/artist/5LyOGpd5lN1H7H6yaMyss4) | [Talk to me freestyle](https://open.spotify.com/album/0K5hwB9Nw94zY9T6gz3BLG) | 2:32 | 2026-02-04 |  |
 | [TANSAN](https://open.spotify.com/track/5il0S6qRr96qEOBXEAQpGC) | [hyunis1000](https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF) | [TANSAN](https://open.spotify.com/album/6R4BuIHSxxbXtngI530fmy) | 3:06 | 2024-01-25 | 2024-02-23 |
 | [Tears](https://open.spotify.com/track/7MawmVRLEexXh4FpxhaAUU) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Tears](https://open.spotify.com/album/5F4uqHJWWvtr6pHmcFVwDu) | 2:27 | 2024-07-10 | 2024-08-21 |
 | [Tee Shyne Flow](https://open.spotify.com/track/2TbcC82ZBbUgeEwpI6IaTD) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Skipping Tape Vol.3](https://open.spotify.com/album/6B2Mj4AkEc2mxj0x1ML4AD) | 2:18 | 2025-10-21 | 2025-11-26 |

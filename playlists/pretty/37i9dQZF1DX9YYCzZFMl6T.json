@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 7707,
+  "num_followers": 7718,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "For Christmas",
-        "url": "https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G"
-      },
-      "artists": [
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 198088,
-      "name": "Blame It on the Mistletoe",
-      "url": "https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Sing: Christmas Songs",
         "url": "https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 179653,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "For Christmas",
+        "url": "https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 198088,
+      "name": "Blame It on the Mistletoe",
+      "url": "https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
+        "name": "White Winter Hymnal",
+        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 150563,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
         "name": "Christmas in Prison",
         "url": "https://open.spotify.com/album/6nkGgQ0pw4m3houhqn17rG"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 212333,
       "name": "Christmas in Prison",
       "url": "https://open.spotify.com/track/6HsawLUXxIwjPjkxgYFUwx"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "White Winter Hymnal",
-        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 150563,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
     },
     {
       "added_at": "2025-12-12 05:00:29",

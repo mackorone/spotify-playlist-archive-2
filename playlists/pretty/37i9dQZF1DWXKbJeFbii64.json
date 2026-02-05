@@ -1,6 +1,6 @@
 {
   "description": "Soothing rolling thunder sounds, all through the night...",
-  "num_followers": 146472,
+  "num_followers": 146495,
   "original_name": "Thunderstorms",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Mahogany Comforter",
-        "url": "https://open.spotify.com/album/2FuiOOk4Dqq2XnapEO5nE7"
-      },
-      "artists": [
-        {
-          "name": "Star Chip",
-          "url": "https://open.spotify.com/artist/0SNUW83ddh5jMBM6ghqbQg"
-        }
-      ],
-      "duration_ms": 192603,
-      "name": "Mahogany Comforter",
-      "url": "https://open.spotify.com/track/3QlwOfVa9N3lhrNnYTX4LW"
-    },
-    {
-      "added_at": "2025-12-19 16:04:44",
-      "album": {
         "name": "Echoes in the Darkened Sky",
         "url": "https://open.spotify.com/album/0OBEWkFV12cYT1WjpcDqw1"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 204000,
       "name": "Echoes in the Darkened Sky",
       "url": "https://open.spotify.com/track/1F7VGnCSFeMS19TxzEDjxQ"
+    },
+    {
+      "added_at": "2025-12-19 16:04:44",
+      "album": {
+        "name": "Mahogany Comforter",
+        "url": "https://open.spotify.com/album/2FuiOOk4Dqq2XnapEO5nE7"
+      },
+      "artists": [
+        {
+          "name": "Star Chip",
+          "url": "https://open.spotify.com/artist/0SNUW83ddh5jMBM6ghqbQg"
+        }
+      ],
+      "duration_ms": 192603,
+      "name": "Mahogany Comforter",
+      "url": "https://open.spotify.com/track/3QlwOfVa9N3lhrNnYTX4LW"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Sturm am Abend",
-        "url": "https://open.spotify.com/album/0FkSeQJQw7teDYQyOROUDl"
-      },
-      "artists": [
-        {
-          "name": "Stormy Zeus",
-          "url": "https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r"
-        }
-      ],
-      "duration_ms": 141920,
-      "name": "Sturm am Abend",
-      "url": "https://open.spotify.com/track/6YgWoAIFPLjOiSo0iilhdA"
-    },
-    {
-      "added_at": "2025-12-19 16:04:44",
-      "album": {
         "name": "Sky Thunder",
         "url": "https://open.spotify.com/album/27Ub2XPbYDlVVnA1zXsz1O"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 170000,
       "name": "Sky Thunder",
       "url": "https://open.spotify.com/track/5QrXyHPlJOtT8quR4URGa7"
+    },
+    {
+      "added_at": "2025-12-19 16:04:44",
+      "album": {
+        "name": "Sturm am Abend",
+        "url": "https://open.spotify.com/album/0FkSeQJQw7teDYQyOROUDl"
+      },
+      "artists": [
+        {
+          "name": "Stormy Zeus",
+          "url": "https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r"
+        }
+      ],
+      "duration_ms": 141920,
+      "name": "Sturm am Abend",
+      "url": "https://open.spotify.com/track/6YgWoAIFPLjOiSo0iilhdA"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Thunderstorm Lullaby",
-        "url": "https://open.spotify.com/album/6zQCoBm1SdOdM2tEBAx07e"
-      },
-      "artists": [
-        {
-          "name": "Orbit Noise",
-          "url": "https://open.spotify.com/artist/10s0nSfxODbV3vNHS8sO0V"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Thunderstorm Lullaby",
-      "url": "https://open.spotify.com/track/2Bk7dbzRy1TDNsL4mdH6dg"
-    },
-    {
-      "added_at": "2025-12-19 16:04:44",
-      "album": {
         "name": "Rain For The Queen",
         "url": "https://open.spotify.com/album/2q0IUlA89T4UMf4n4j2DMR"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Thundering Heights",
-        "url": "https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4"
+        "name": "Thunderstorm Lullaby",
+        "url": "https://open.spotify.com/album/6zQCoBm1SdOdM2tEBAx07e"
       },
       "artists": [
         {
-          "name": "Shaman",
-          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+          "name": "Orbit Noise",
+          "url": "https://open.spotify.com/artist/10s0nSfxODbV3vNHS8sO0V"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Thundering Heights",
-      "url": "https://open.spotify.com/track/2tameDUM4Zo3pLcEzg9OFU"
+      "duration_ms": 174000,
+      "name": "Thunderstorm Lullaby",
+      "url": "https://open.spotify.com/track/2Bk7dbzRy1TDNsL4mdH6dg"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -799,6 +783,22 @@
       "duration_ms": 124264,
       "name": "Relaxing Thunder Rain",
       "url": "https://open.spotify.com/track/1WFyRaDWcObWNk9CD2OCxq"
+    },
+    {
+      "added_at": "2025-12-19 16:04:44",
+      "album": {
+        "name": "Thundering Heights",
+        "url": "https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Thundering Heights",
+      "url": "https://open.spotify.com/track/2tameDUM4Zo3pLcEzg9OFU"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
+        "name": "Midnight Rumble",
+        "url": "https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066"
+      },
+      "artists": [
+        {
+          "name": "Weatherality",
+          "url": "https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU"
+        }
+      ],
+      "duration_ms": 139770,
+      "name": "Midnight Rumble",
+      "url": "https://open.spotify.com/track/4g38l5vKQZ3LrEYSMJW7R3"
+    },
+    {
+      "added_at": "2025-12-19 16:04:44",
+      "album": {
         "name": "Roaring Sky",
         "url": "https://open.spotify.com/album/49ZZmmdqTsrLKqKyenqQ3y"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Midnight Rumble",
-        "url": "https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066"
-      },
-      "artists": [
-        {
-          "name": "Weatherality",
-          "url": "https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU"
-        }
-      ],
-      "duration_ms": 139770,
-      "name": "Midnight Rumble",
-      "url": "https://open.spotify.com/track/4g38l5vKQZ3LrEYSMJW7R3"
-    },
-    {
-      "added_at": "2025-12-19 16:04:44",
-      "album": {
         "name": "Tonnerre au printemps",
         "url": "https://open.spotify.com/album/6kZ83TrcHx2QQIL3pfNTAF"
       },
@@ -959,22 +959,6 @@
       "duration_ms": 175357,
       "name": "Tonnerre au printemps",
       "url": "https://open.spotify.com/track/2HrG87Rc7DgpjyI02rcMPS"
-    },
-    {
-      "added_at": "2025-12-19 16:04:44",
-      "album": {
-        "name": "Stormy Evening",
-        "url": "https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk"
-      },
-      "artists": [
-        {
-          "name": "Taranis",
-          "url": "https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Stormy Evening",
-      "url": "https://open.spotify.com/track/5inqtzm0t2SrR6uMwWXUJp"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -995,18 +979,18 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Dark Thunder 2",
-        "url": "https://open.spotify.com/album/2JDGCTkC92RckQGlOeUEch"
+        "name": "Stormy Evening",
+        "url": "https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk"
       },
       "artists": [
         {
-          "name": "Dark Thunder Forest",
-          "url": "https://open.spotify.com/artist/7HnH9fTkvDwEgTit9qwe9d"
+          "name": "Taranis",
+          "url": "https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH"
         }
       ],
-      "duration_ms": 162978,
-      "name": "Storm Away",
-      "url": "https://open.spotify.com/track/2aRwU4NEBchyPIAvzONd67"
+      "duration_ms": 208000,
+      "name": "Stormy Evening",
+      "url": "https://open.spotify.com/track/5inqtzm0t2SrR6uMwWXUJp"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -1023,6 +1007,22 @@
       "duration_ms": 185718,
       "name": "Thunders Might",
       "url": "https://open.spotify.com/track/3TKfVSARe9m8N6QUT6u8zI"
+    },
+    {
+      "added_at": "2025-12-19 16:04:44",
+      "album": {
+        "name": "Dark Thunder 2",
+        "url": "https://open.spotify.com/album/2JDGCTkC92RckQGlOeUEch"
+      },
+      "artists": [
+        {
+          "name": "Dark Thunder Forest",
+          "url": "https://open.spotify.com/artist/7HnH9fTkvDwEgTit9qwe9d"
+        }
+      ],
+      "duration_ms": 162978,
+      "name": "Storm Away",
+      "url": "https://open.spotify.com/track/2aRwU4NEBchyPIAvzONd67"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Blast From The Sky",
-        "url": "https://open.spotify.com/album/6PlLDX3TUIhY2syQAuawEF"
-      },
-      "artists": [
-        {
-          "name": "The Sound Of Thunder",
-          "url": "https://open.spotify.com/artist/1px8jMPOnlvPZPT1yYpKbX"
-        }
-      ],
-      "duration_ms": 192446,
-      "name": "Blast From The Sky",
-      "url": "https://open.spotify.com/track/0jUlM2XfSiAIocpNuZhPlI"
-    },
-    {
-      "added_at": "2025-12-19 16:04:44",
-      "album": {
         "name": "Rain and Thunder beneath the Leaves",
         "url": "https://open.spotify.com/album/0Yw92qEbVjki2qQjfQoXHN"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 158502,
       "name": "Rain and Thunder beneath the Leaves",
       "url": "https://open.spotify.com/track/0Is4kNdtR9S3yRzK05Tp7g"
+    },
+    {
+      "added_at": "2025-12-19 16:04:44",
+      "album": {
+        "name": "Blast From The Sky",
+        "url": "https://open.spotify.com/album/6PlLDX3TUIhY2syQAuawEF"
+      },
+      "artists": [
+        {
+          "name": "The Sound Of Thunder",
+          "url": "https://open.spotify.com/artist/1px8jMPOnlvPZPT1yYpKbX"
+        }
+      ],
+      "duration_ms": 192446,
+      "name": "Blast From The Sky",
+      "url": "https://open.spotify.com/track/0jUlM2XfSiAIocpNuZhPlI"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Horizon Thunder",
-        "url": "https://open.spotify.com/album/6uspTHWpqBH4b8enl30Zjn"
+        "name": "Thunder And Lightning Vol. 2",
+        "url": "https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe"
       },
       "artists": [
         {
-          "name": "The Sound Of Thunder",
-          "url": "https://open.spotify.com/artist/1px8jMPOnlvPZPT1yYpKbX"
+          "name": "Earth Thunder Sounds 2021",
+          "url": "https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u"
         }
       ],
-      "duration_ms": 271990,
-      "name": "Horizon Thunder",
-      "url": "https://open.spotify.com/track/7MpssP0i3rwo245yYlwKjf"
+      "duration_ms": 139401,
+      "name": "Goddess Of Thunder",
+      "url": "https://open.spotify.com/track/2NJISxdOO1keYuVzst55Jw"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -1315,34 +1315,18 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Thunder And Lightning Vol. 2",
-        "url": "https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe"
+        "name": "Horizon Thunder",
+        "url": "https://open.spotify.com/album/6uspTHWpqBH4b8enl30Zjn"
       },
       "artists": [
         {
-          "name": "Earth Thunder Sounds 2021",
-          "url": "https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u"
+          "name": "The Sound Of Thunder",
+          "url": "https://open.spotify.com/artist/1px8jMPOnlvPZPT1yYpKbX"
         }
       ],
-      "duration_ms": 139401,
-      "name": "Goddess Of Thunder",
-      "url": "https://open.spotify.com/track/2NJISxdOO1keYuVzst55Jw"
-    },
-    {
-      "added_at": "2025-12-19 16:04:44",
-      "album": {
-        "name": "Stormy Evening",
-        "url": "https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk"
-      },
-      "artists": [
-        {
-          "name": "Taranis",
-          "url": "https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Thunder Rain",
-      "url": "https://open.spotify.com/track/2pDK60CgXRz5uwKMI74sKx"
+      "duration_ms": 271990,
+      "name": "Horizon Thunder",
+      "url": "https://open.spotify.com/track/7MpssP0i3rwo245yYlwKjf"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
+        "name": "Stormy Evening",
+        "url": "https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk"
+      },
+      "artists": [
+        {
+          "name": "Taranis",
+          "url": "https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Thunder Rain",
+      "url": "https://open.spotify.com/track/2pDK60CgXRz5uwKMI74sKx"
+    },
+    {
+      "added_at": "2025-12-19 16:04:44",
+      "album": {
         "name": "Thunder Run",
         "url": "https://open.spotify.com/album/3j8JVgZckDVWg8UWU2if5g"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Graue Wolken",
-        "url": "https://open.spotify.com/album/6rCYUB4w56TeN96r9qdjK1"
-      },
-      "artists": [
-        {
-          "name": "BLITZ",
-          "url": "https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Graue Wolken",
-      "url": "https://open.spotify.com/track/1SVyDxMo3VtdWz1fzegvDy"
-    },
-    {
-      "added_at": "2025-12-19 16:04:44",
-      "album": {
         "name": "Thunder Volts",
         "url": "https://open.spotify.com/album/1go2Vu6ge1LxQIOH3ot16t"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 165044,
       "name": "Thunder Volts",
       "url": "https://open.spotify.com/track/3sQRC5dgFDkPbVReUwMN9W"
+    },
+    {
+      "added_at": "2025-12-19 16:04:44",
+      "album": {
+        "name": "Graue Wolken",
+        "url": "https://open.spotify.com/album/6rCYUB4w56TeN96r9qdjK1"
+      },
+      "artists": [
+        {
+          "name": "BLITZ",
+          "url": "https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Graue Wolken",
+      "url": "https://open.spotify.com/track/1SVyDxMo3VtdWz1fzegvDy"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Rain And Thunder (Vol. 3)",
-        "url": "https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl"
+        "name": "Seek Shelter",
+        "url": "https://open.spotify.com/album/67JYm6xm9Y0Dz0fuua4H8D"
       },
       "artists": [
         {
-          "name": "Atlantic Thunders",
-          "url": "https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL"
+          "name": "Snore Patrol",
+          "url": "https://open.spotify.com/artist/07csNjxjo7yYEOCdpNlIMu"
         }
       ],
-      "duration_ms": 127050,
-      "name": "Heavy Thunderstorm",
-      "url": "https://open.spotify.com/track/2FdcQ9lycbLNjjxjZobvzT"
+      "duration_ms": 204000,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/1xNNHG4PheCFA1pNllWAQ7"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Seek Shelter",
-        "url": "https://open.spotify.com/album/67JYm6xm9Y0Dz0fuua4H8D"
+        "name": "Rain And Thunder (Vol. 3)",
+        "url": "https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl"
       },
       "artists": [
         {
-          "name": "Snore Patrol",
-          "url": "https://open.spotify.com/artist/07csNjxjo7yYEOCdpNlIMu"
+          "name": "Atlantic Thunders",
+          "url": "https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/1xNNHG4PheCFA1pNllWAQ7"
+      "duration_ms": 127050,
+      "name": "Heavy Thunderstorm",
+      "url": "https://open.spotify.com/track/2FdcQ9lycbLNjjxjZobvzT"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Thunder Experience",
-        "url": "https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI"
-      },
-      "artists": [
-        {
-          "name": "Naturalia",
-          "url": "https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7"
-        }
-      ],
-      "duration_ms": 136757,
-      "name": "Soft Rain Carrying Strong Lightnings",
-      "url": "https://open.spotify.com/track/0qTxu9veqYjT7qCJJtaMQr"
-    },
-    {
-      "added_at": "2025-12-19 16:04:44",
-      "album": {
         "name": "Heavy Rain And Growling Thunder",
         "url": "https://open.spotify.com/album/1BXgrxn35sFLOWMFg2b63N"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 157396,
       "name": "Heavy Rain And Growling Thunder",
       "url": "https://open.spotify.com/track/68WbskqFIE1YBQzNS0Zyss"
+    },
+    {
+      "added_at": "2025-12-19 16:04:44",
+      "album": {
+        "name": "Thunder Experience",
+        "url": "https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI"
+      },
+      "artists": [
+        {
+          "name": "Naturalia",
+          "url": "https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7"
+        }
+      ],
+      "duration_ms": 136757,
+      "name": "Soft Rain Carrying Strong Lightnings",
+      "url": "https://open.spotify.com/track/0qTxu9veqYjT7qCJJtaMQr"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Thunder Experience",
-        "url": "https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI"
+        "name": "Storm in the fields",
+        "url": "https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n"
       },
       "artists": [
         {
-          "name": "Naturalia",
-          "url": "https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7"
+          "name": "Altostratus",
+          "url": "https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua"
         }
       ],
-      "duration_ms": 195095,
-      "name": "Medium rain, Thunder Threatening",
-      "url": "https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a"
+      "duration_ms": 149389,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9"
     },
     {
       "added_at": "2025-12-19 16:04:44",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2025-12-19 16:04:44",
       "album": {
-        "name": "Storm in the fields",
-        "url": "https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n"
-      },
-      "artists": [
-        {
-          "name": "Altostratus",
-          "url": "https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua"
-        }
-      ],
-      "duration_ms": 149389,
-      "name": "Wednesday",
-      "url": "https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9"
-    },
-    {
-      "added_at": "2025-12-19 16:04:44",
-      "album": {
         "name": "Wandering Storm",
         "url": "https://open.spotify.com/album/0raeXON0wVFrZAe4mQn1sm"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 208000,
       "name": "Thunder Meditation",
       "url": "https://open.spotify.com/track/3SeR8lSXT7oZ6MB7YLZqnr"
+    },
+    {
+      "added_at": "2025-12-19 16:04:44",
+      "album": {
+        "name": "Thunder Experience",
+        "url": "https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI"
+      },
+      "artists": [
+        {
+          "name": "Naturalia",
+          "url": "https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7"
+        }
+      ],
+      "duration_ms": 195095,
+      "name": "Medium rain, Thunder Threatening",
+      "url": "https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a"
     },
     {
       "added_at": "2025-12-19 16:04:44",

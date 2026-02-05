@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,766 songs - 4 day 10 hr 44 min
+1,769 songs - 4 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Another Dub In The Guetto](https://open.spotify.com/track/0FPmYCMDJ20Cr89m9V6Iyp) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn) | [Guetto Roots Of Dub](https://open.spotify.com/album/03lGqOUTOHHID1tGCWRiVO) | 3:01 | 2024-05-01 |  |
 | [Antes de Se Despedir](https://open.spotify.com/track/2IMYQOcpg0VbffoXca6a4Z) | [Céu de Outono](https://open.spotify.com/artist/0WCvLMfouwGbgeHs4slpjI) | [Antes de Se Despedir](https://open.spotify.com/album/79yww9QXO48twMnRBz0V31) | 3:19 | 2025-06-02 |  |
 | [Anti Racism Dub](https://open.spotify.com/track/3WEs6TMzzhFTxUd9FmfV6Z) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 5:34 | 2024-03-25 |  |
+| [Apart](https://open.spotify.com/track/6zonPJLi2krblCRcek49JY) | [Pangolin echo](https://open.spotify.com/artist/7xpv243aUb86P3EyjgkozS) | [Apart](https://open.spotify.com/album/5sOhuVoHp8MaxD0gTzINbE) | 4:48 | 2026-02-04 |  |
 | [Apnea](https://open.spotify.com/track/1sT98Sbal2QFeCGqlwtcYP) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Apnea](https://open.spotify.com/album/5YGNXqexHVhrsW3oj0ZhdK) | 2:57 | 2025-04-10 |  |
 | [Apri Gli Occhi Apri La Mente](https://open.spotify.com/track/7pGkj0cqZbHriWv7hnofGx) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [Apri Gli Occhi Apri La Mente](https://open.spotify.com/album/3VvlRJNBfmPX0TgzQTuzd0) | 3:34 | 2024-12-18 |  |
 | [Aquila](https://open.spotify.com/track/3PxcCMRlyHlZ6PdA647rru) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [One Guild](https://open.spotify.com/artist/65tJuTsrG52OELMrkeoZET) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:38 | 2025-05-13 |  |
@@ -747,6 +748,7 @@
 | [Intro](https://open.spotify.com/track/65kWtHIqg2IACNR9KP4KOS) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Mansion](https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl) | 3:19 | 2025-02-15 |  |
 | [Intro 2](https://open.spotify.com/track/6QtmlxUMrvwDE7CLN6WKIz) | [WinWar](https://open.spotify.com/artist/7eiIqiTGRznJzFxIVzuU23) | [Intro 2](https://open.spotify.com/album/69kEuoBoaggzOvSwZulmDS) | 2:39 | 2024-11-08 |  |
 | [Intuición](https://open.spotify.com/track/4gvpQ27HUUzlVwzU21pWr0) | [Antiguos Jovenes](https://open.spotify.com/artist/36iNwhnUFPuwJ3Ga8D4V4G) | [Intuición](https://open.spotify.com/album/47H2vjDyj4F2n0S68Km8xJ) | 3:01 | 2025-06-04 |  |
+| [Invincible](https://open.spotify.com/track/3MKoMR3tDHhsYX4ppuQFV4) | [Pangolin echo](https://open.spotify.com/artist/7xpv243aUb86P3EyjgkozS) | [Invincible](https://open.spotify.com/album/7Glosnp2Mb4Zk6L5s3VZcP) | 3:44 | 2026-02-04 |  |
 | [Invisible](https://open.spotify.com/track/2Kw99OuynMcNBAPauany8L) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/35LwtfCOsUxMdNuhzwfkcm) | 2:09 | 2025-10-06 |  |
 | [Invisible Battles](https://open.spotify.com/track/3PDzT4tYlqJHUgzHfcd0ad) | [Mystic Chronicler](https://open.spotify.com/artist/6lO1R7XoAcUv12zalHNptR) | [Miss Age 30](https://open.spotify.com/album/5ullrrxJqNWFZ8SJHyPQjd) | 3:21 | 2025-06-04 |  |
 | [Io & Me](https://open.spotify.com/track/5BZ3OYJQ6U9s1fgPOgLPXJ) | [SerJo](https://open.spotify.com/artist/2g8FSG3mP5OQIL9kJ4qe48) | [Io & Me](https://open.spotify.com/album/4myHWFbn0ptf2v3DUAJevT) | 4:05 | 2024-10-12 |  |
@@ -1562,6 +1564,7 @@
 | [To Myself](https://open.spotify.com/track/1Lcd50j95y2ChgX9epkKTf) | [OOTEBS](https://open.spotify.com/artist/6mjlNdKlY7hTXXLKRhc0dU) | [To Myself](https://open.spotify.com/album/5CI2FtvvwlG7ELXAmS0MvC) | 2:36 | 2025-10-31 |  |
 | [To the Dance Dub](https://open.spotify.com/track/72NWIF6iqRpiudbJQfM7zZ) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [King Love Dub Sessions](https://open.spotify.com/album/6eOZY5jTwk9FQxUdWTBRRZ) | 3:47 | 2024-05-04 |  |
 | [Todos São para o Que Nascem](https://open.spotify.com/track/32FNrUz6mYjdzrAsFOkhSf) | [Os Bardos da Pangeia](https://open.spotify.com/artist/3KMlVXkS8GLgNqU0ao8Hst) | [Todos São para o Que Nascem](https://open.spotify.com/album/2QDDe7Tko59Oclw0OiwrDg) | 5:16 | 2025-06-17 |  |
+| [Together](https://open.spotify.com/track/2LUw2kBMjL93VzqeS6ntQe) | [Pangolin echo](https://open.spotify.com/artist/7xpv243aUb86P3EyjgkozS) | [Together](https://open.spotify.com/album/12K8R9UzKrrIevcxNwqAgg) | 2:53 | 2026-02-04 |  |
 | [Together Forever](https://open.spotify.com/track/689GT9LavwetmmRIooFgU2) | [Von Marlon](https://open.spotify.com/artist/1VgMTOTLz4giYaNsZp97Uc) | [Together Forever](https://open.spotify.com/album/21OmeCLMYBokMUBXnRCGL9) | 3:06 | 2025-08-21 |  |
 | [Told Yall](https://open.spotify.com/track/03c4WAtNGpDsSEOStiSViw) | [Block](https://open.spotify.com/artist/1TK79jq3h4JxtRhOYWEbUA) | [Told Yall](https://open.spotify.com/album/6EuuznOojbF7iHB3R9IMiD) | 3:29 | 2025-10-07 |  |
 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 | 2024-03-04 |  |

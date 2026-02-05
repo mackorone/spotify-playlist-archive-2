@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,009 songs - 8 day 20 hr 45 min
+4,014 songs - 8 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1279,6 +1279,7 @@
 | [Falling Out \(another\)](https://open.spotify.com/track/3Z7Zx1Pp0LtXk1OKktgO8L) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rock'n roll Pop Modern Hits](https://open.spotify.com/album/5TKb0dzplMyuhjmMv2iFim) | 2:46 | 2025-05-27 |  |
 | [Fallo e Basta](https://open.spotify.com/track/384WF4411sbfxxd6Jbc76S) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano](https://open.spotify.com/album/31T2HdAXWX1xRStHgoSPoH) | 2:19 | 2025-09-14 |  |
 | [Fallo e Basta \(another\)](https://open.spotify.com/track/60BLoEVbGcIQlf3BTwEhss) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano](https://open.spotify.com/album/31T2HdAXWX1xRStHgoSPoH) | 2:35 | 2025-09-14 |  |
+| [False Down](https://open.spotify.com/track/5Ma05qLUkwsGM3EnlacIl6) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [False Down](https://open.spotify.com/album/40FijVrYIAoj2XFHaKOPR3) | 4:17 | 2026-02-05 |  |
 | [False Love](https://open.spotify.com/track/0ZCCjJEffv3cTFrYkHRAXZ) | [UAC Records](https://open.spotify.com/artist/5YMC2DzzURBLoxLrUKOyF6) | [False Love](https://open.spotify.com/album/2EFcRQn12DMEaPquDNxFGs) | 2:23 | 2025-06-28 |  |
 | [Fammi il piacere](https://open.spotify.com/track/3AmxF9vbSlby4ppFyRIZ8Y) | [Oto corpse](https://open.spotify.com/artist/4rQeLvrur32dXAIXU0oWHW), [PPOISON](https://open.spotify.com/artist/7q8XJXCL70Q8JjcPNUQUlE) | [Fammi il piacere](https://open.spotify.com/album/4im2xMfiVtovZFY1cJ2EUz) | 3:22 | 2025-06-08 |  |
 | [Fanfara 1° Funky Reggimento](https://open.spotify.com/track/1vzuMKsy5WDOVaNi7u0SAk) | [Italiani Medi](https://open.spotify.com/artist/6pDVMmLAVZr7n3249bB34G) | [Pasta con l'Odio](https://open.spotify.com/album/0z20JFHPazYmTBBeP5bMXP) | 2:47 | 2025-06-20 |  |
@@ -1524,6 +1525,7 @@
 | [Hallow Tales \- 2025 Remaster](https://open.spotify.com/track/6pJBr7i4ZZz6UeBgq30hYv) | [Robert80z](https://open.spotify.com/artist/3N0C6tFumt18qCNENY5WHB) | [The Dividing Line \(2025 Remaster\)](https://open.spotify.com/album/3MzgPxLIEpeiZJWqqdd8p0) | 3:48 | 2025-05-05 |  |
 | [Halloween Every Day](https://open.spotify.com/track/05GeKjRj0xlF6XYgFzuPQ8) | [Brenso](https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE) | [Halloween Every Day](https://open.spotify.com/album/7GE4Fj5k4OewpL4PMgylwA) | 2:38 | 2025-09-29 |  |
 | [Hanahaki](https://open.spotify.com/track/7iZZ0nvDWuDSSxq7JtNtMO) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Royalty](https://open.spotify.com/album/5ujB4MEna73Lq0i2sK7KHp) | 2:56 | 2025-12-19 |  |
+| [Happy Birthday \- Bonus Version](https://open.spotify.com/track/7xKR6LncTuTfwgQjdj5IJ4) | [I\-GOR](https://open.spotify.com/artist/7ILoqOmtZIwe61KGkOeuDW) | [Happy Birthday](https://open.spotify.com/album/1xvgrbQ1o6UZYhiSfxeUfk) | 4:07 | 2026-02-05 |  |
 | [Harmony](https://open.spotify.com/track/2tiPViVQulw22A5TdkZYCa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:02 | 2025-09-17 |  |
 | [Harmony Air](https://open.spotify.com/track/49Bl4eAdML5GnzaGVDRqdf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 3:04 | 2025-09-17 |  |
 | [Harmony in the Air](https://open.spotify.com/track/6jR7RfaqgzrK6ypvmRrfBD) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:00 | 2025-09-17 |  |
@@ -1715,6 +1717,7 @@
 | [IL FUOCO DENTRO, LA PIOGGIA FUORI](https://open.spotify.com/track/5ZbgSvYz9dXEg93hVCKW3s) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [IL FUOCO DENTRO, LA PIOGGIA FUORI](https://open.spotify.com/album/0izEvH3fpKM9BOrVvoBz3p) | 2:07 | 2025-04-04 |  |
 | [Il gioco di Irene](https://open.spotify.com/track/4H6gwr8xZtlfX2HsNe8n7Y) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [1825](https://open.spotify.com/album/6VISv9AIaSbaaVpGafOaGx) | 2:40 | 2025-06-08 |  |
 | [Il Gioco di Irene](https://open.spotify.com/track/55AvjMe2pEYqLedPxbJMYq) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Il Gioco di Irene](https://open.spotify.com/album/6gVD9MUcn6FSOb5YXzcRob) | 2:40 | 2025-04-25 |  |
+| [Il giorno di un altro](https://open.spotify.com/track/01x9tAXTgMQvYwhJv27Eq6) | [La Classe Dirigente](https://open.spotify.com/artist/6VsG1Yy9LhKYjR8ZlRCJYm) | [Termini per una resa](https://open.spotify.com/album/2zVrip5bro7HDpj6LvjjZ0) | 4:16 | 2026-02-04 |  |
 | [Il grunge all'italiana](https://open.spotify.com/track/6Tnx07nGIl4sur24iEZNkT) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [1825](https://open.spotify.com/album/6VISv9AIaSbaaVpGafOaGx) | 2:38 | 2025-06-08 |  |
 | [Il mio B.E.D.](https://open.spotify.com/track/3woMQU2yZdqCRKDtfaS0AN) | [Maya](https://open.spotify.com/artist/29GM7dg3SujeKjGJsl4opL) | [Il mio B.E.D.](https://open.spotify.com/album/0rLAltwqaE5SX0mWXkP7BM) | 2:22 | 2025-03-16 |  |
 | [IL MIO NOME](https://open.spotify.com/track/1konjU6sOaTApi4IJ68H15) | [Bumbart Dj](https://open.spotify.com/artist/2Ft53dnGW9FNcHT5rsR2L9) | [IL MIO NOME](https://open.spotify.com/album/75UZ3w3Perwtf4zt6HUkPk) | 3:03 | 2025-04-04 |  |
@@ -2070,6 +2073,7 @@
 | [Love Being You](https://open.spotify.com/track/4wI0HGz85GYrjSZpzfglXc) | [Silent Warriors](https://open.spotify.com/artist/0iUpiqOFyg6m3eFHlGBHN2) | [Letters From My Inner Demon](https://open.spotify.com/album/4PDsVpGc3chCW6ddO7C2ct) | 4:17 | 2026-01-06 |  |
 | [love hate](https://open.spotify.com/track/0BWhRDZajVPoO3qaLbeCDJ) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [with 2 \(hosted by d9lton\)](https://open.spotify.com/album/1qNo1zN3Df7dI1c3Imp146) | 1:56 | 2025-07-28 |  |
 | [Love Hurts in Stereo](https://open.spotify.com/track/3Jgka9HoGVCrM0r7LsAPIo) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sad love music](https://open.spotify.com/album/3AUNUYgv9UJbhlUNE5JGDo) | 3:25 | 2025-09-19 |  |
+| [LOVE IS WAR](https://open.spotify.com/track/33ti1cco82cVUfrEBAfkCe) | [Chuyx](https://open.spotify.com/artist/0XD48ZXUkNtbyfgtEAQXpV) | [LOVE IS WAR](https://open.spotify.com/album/0sDptz2auuLl32VUbRn9tE) | 2:01 | 2026-02-05 |  |
 | [Love Letter](https://open.spotify.com/track/5kAPw18zG3wnNiErxWfR51) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Verdant](https://open.spotify.com/album/6epqUoFXNZpgrbNozRtDn4) | 2:10 | 2025-04-09 |  |
 | [Love Letters from Jupiter](https://open.spotify.com/track/1Sfi7E5Iz8xKRNzDaQnn6z) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Green Dream in F\#](https://open.spotify.com/album/3OeoFB9TR3io03rNaTM6OU) | 2:03 | 2025-11-05 |  |
 | [Love Me or Scroll Me](https://open.spotify.com/track/2ewyyx919Mkeyc5iNGx29u) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Greatest pop hits vol.2](https://open.spotify.com/album/2zbvE0dDisIOuP9XCRXe0n) | 2:41 | 2025-09-17 |  |
@@ -2672,6 +2676,7 @@
 | [Picture This!](https://open.spotify.com/track/515VZ0TZNIe0n7G0qvBc7C) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Picture This!](https://open.spotify.com/album/4YNC78x0p60fySweHaVW48) | 7:55 | 2025-11-05 |  |
 | [Pieces](https://open.spotify.com/track/68JRmfTYNVdH0r8jYxWZEm) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Pieces \(Single EP\)](https://open.spotify.com/album/5GNh01tq9qJCOoCBN6BMAl) | 4:27 | 2025-06-02 |  |
 | [PIECES](https://open.spotify.com/track/1rbBa1K2ey2p70ulgsNDLh) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF) | [PIECES](https://open.spotify.com/album/1WM8fSWUKte00wxu0XIv4M) | 2:03 | 2025-05-16 |  |
+| [Pieces of What Remains](https://open.spotify.com/track/5QQTMMGeU7V3FPyOROA8xN) | [Eduardo Mendes](https://open.spotify.com/artist/6zFDDWxcLKsKBMUwQhvZkL) | [Love Was Over 2](https://open.spotify.com/album/5LifJ9RHvyofajKP1YZrGl) | 4:34 | 2026-02-04 |  |
 | [Pilpala](https://open.spotify.com/track/20v5YZRwxbgvr704NlPXuv) | [Presidenttikuningas](https://open.spotify.com/artist/09CvbZF0xb31mQGO44VOSo) | [Pilpala](https://open.spotify.com/album/5aka3R5nmtqb1qVfAw80CY) | 5:12 | 2025-11-05 |  |
 | [pink dreads](https://open.spotify.com/track/5sHRrp6kmVEgYGQFMu11yR) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:00 | 2025-07-28 |  |
 | [Pink Leather Apocalypse](https://open.spotify.com/track/60HGAuSY9SOooFS8YQgkLO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard rock trash/heavy metal with pop taste](https://open.spotify.com/album/6LigdV5RX2AosQ7xMbbn11) | 3:12 | 2025-09-19 |  |

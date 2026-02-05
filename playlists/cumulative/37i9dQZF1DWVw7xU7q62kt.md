@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-761 songs - 1 day 8 hr 36 min
+762 songs - 1 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,7 +402,7 @@
 | [mira la noche](https://open.spotify.com/track/6wFX7sd6VMY6Fqd29fkgmq) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [mira la noche](https://open.spotify.com/album/2OpONlRS6cr5lYQpJwY8cz) | 1:52 | 2024-08-30 | 2025-05-17 |
 | [Mirage](https://open.spotify.com/track/3c5rfiUp1JvGfdzloQsNGc) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Mirage](https://open.spotify.com/album/4667i9nAB3hdMcWkaFvIii) | 2:02 | 2025-09-12 |  |
 | [Mirrorless](https://open.spotify.com/track/4AZs7dehioqAFsFwTPqgJV) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Mirrorless](https://open.spotify.com/album/0ue5c8ClRc396YaUp0GB4N) | 1:49 | 2025-08-29 |  |
-| [Missed Calls](https://open.spotify.com/track/0wI4j8xIUq8ql69MokWCE5) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Missed Calls](https://open.spotify.com/album/6i4TU3QacIgzdkdNWBpvFB) | 2:33 | 2024-11-08 |  |
+| [Missed Calls](https://open.spotify.com/track/0wI4j8xIUq8ql69MokWCE5) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Missed Calls](https://open.spotify.com/album/6i4TU3QacIgzdkdNWBpvFB) | 2:33 | 2024-11-08 | 2026-02-05 |
 | [MiSSEDCALL](https://open.spotify.com/track/1gArO52SCQI5R1wPec0yIL) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt), [chillontwo](https://open.spotify.com/artist/2uWSQufkayFL2aw4iCXHBA), [Jordanny Gonzalez](https://open.spotify.com/artist/3H6oEgGXV2D1d7wV1xmXHl) | [MiSSEDCALL](https://open.spotify.com/album/5k1mFclzlc8AUAdwkV38T6) | 2:30 | 2025-09-12 | 2025-11-08 |
 | [Mocuba](https://open.spotify.com/track/4MKLZY1A7sTZBJjgRe6DJt) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Mocuba](https://open.spotify.com/album/77okibn84VPQ1fJ2bYBAgc) | 1:49 | 2025-07-11 |  |
 | [Mojave](https://open.spotify.com/track/3JoDvIn0bE0PAO6ICKpDOT) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Mojave](https://open.spotify.com/album/4D8rZuw0TU2n4I34bretGk) | 1:56 | 2024-10-18 | 2025-03-04 |
@@ -483,6 +483,7 @@
 | [Palm Springs](https://open.spotify.com/track/47dEiRz8rdsmj2U2xz7Uhk) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Palm Springs](https://open.spotify.com/album/6gcC7HoskODlDAgEXfv2lw) | 2:40 | 2025-02-07 | 2025-02-25 |
 | [Palm Tree Bounce](https://open.spotify.com/track/0wrkpCUbuXc8dDaBNe8B0y) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Palm Tree Bounce](https://open.spotify.com/album/33OYw09Ke0H6uncewCuG3T) | 2:24 | 2025-06-20 | 2025-07-19 |
 | [Palmers \- Alfa Mist Remix](https://open.spotify.com/track/2YQL42b8wokw9j0Ty8rsmT) | [JSPHYNX](https://open.spotify.com/artist/3jy2pJyyUcddwipP6wqR8l), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Palmers / King Cobra \(Alfa Mist Remix, JSPHYNX Remix\)](https://open.spotify.com/album/4dbnO6XL2Y9VpFEM4X4KVi) | 3:29 | 2023-10-13 | 2024-08-24 |
+| [pancakes](https://open.spotify.com/track/4G31kkmfsLvCopH02jTZFV) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [pancakes](https://open.spotify.com/album/6zaBrTwjJZvew0BHy5krdx) | 1:55 | 2026-01-30 |  |
 | [Panther Attack](https://open.spotify.com/track/0M9JsZCgApoA6GqEIwf6ah) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [Zephyr Avalon](https://open.spotify.com/artist/1zTFIyWUniB8SiSdcTLa9O), [George Silva](https://open.spotify.com/artist/7BpMl247jFhdq3CW1AtTsi) | [Panther Attack](https://open.spotify.com/album/1WPXMg2iktNcwH5OUpdy52) | 3:46 | 2024-01-26 | 2024-09-02 |
 | [Paper Planes](https://open.spotify.com/track/1HcbPmeokxD8x87M4Gg23x) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7), [okinami](https://open.spotify.com/artist/5SulT12uH9qQMQsGCBMzoH) | [Paper Planes](https://open.spotify.com/album/0yWx9GV1HrXnbZ0x3n5WZw) | 1:50 | 2025-09-26 | 2025-10-17 |
 | [parandrus](https://open.spotify.com/track/3ZGQDdB9ihULtXlwRnrzIP) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [parandrus](https://open.spotify.com/album/5C0MZpkOVSOzVetfNg5WGC) | 2:06 | 2025-05-09 | 2025-06-07 |

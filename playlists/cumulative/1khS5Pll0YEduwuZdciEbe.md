@@ -2,7 +2,7 @@
 
 ### [Chill Indie Music](https://open.spotify.com/playlist/1khS5Pll0YEduwuZdciEbe)
 
-> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Bahamas
+> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Broken Social Scene
 
 286 songs - 17 hr 20 min
 

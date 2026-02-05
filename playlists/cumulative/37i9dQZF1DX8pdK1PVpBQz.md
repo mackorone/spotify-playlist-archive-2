@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Kenta204
 
-4,427 songs - 10 day 3 hr 58 min
+4,429 songs - 10 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1938,6 +1938,7 @@
 | [IDK \(feat\. Phil Fresh\)](https://open.spotify.com/track/1dvWo0vVeuumelowm5yoY8) | [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1), [Phil Fresh](https://open.spotify.com/artist/5vvBl7nnNTwuRwAZnGJWw5) | [IDK \(feat\. Phil Fresh\)](https://open.spotify.com/album/3QQUotBzPLzD9MZdVyq6LH) | 2:20 | 2022-05-25 | 2022-06-16 |
 | [idk why the light's on](https://open.spotify.com/track/5X5q76fe8LHiYG9STQmVDv) | [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [idk why the light's on](https://open.spotify.com/album/1G8hqu7jRhYoPayLAdBCeX) | 2:34 | 2021-12-28 | 2022-01-13 |
 | [IDK YOU](https://open.spotify.com/track/22Zey6Vk0e2lAkS1dsJ2CR) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [IDK YOU](https://open.spotify.com/album/2l9ESmzg5WmxwBCYkaTAHz) | 2:46 | 2022-06-08 | 2022-07-07 |
+| [Idontlikethewayyoulookatme](https://open.spotify.com/track/7lBMf3TL0bX1XxRukfG5SL) | [MACËY](https://open.spotify.com/artist/4PO5zqTemvROw3xbh1vF1v) | [Idontlikethewayyoulookatme](https://open.spotify.com/album/60ZTfQMNhM4uqU8NN2DZQt) | 3:59 | 2026-02-03 |  |
 | [idrc](https://open.spotify.com/track/2oU6KFIi7tCfYJVlxvMWV9) | [Logan M](https://open.spotify.com/artist/6ffb3XbMaiY9R8dMYBsuBc), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [idrc](https://open.spotify.com/album/3wQ8z8Di5ZPqhbd1VsUknT) | 2:07 | 2022-05-11 | 2022-06-09 |
 | [If a Feel Was a Drug](https://open.spotify.com/track/4NGWtbS1MBvBp00HGIzHht) | [Silent Titan](https://open.spotify.com/artist/7FKqf67GeX2dZf9AEmqJ1h), [Kipp Stone](https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X) | [If a Feel Was a Drug](https://open.spotify.com/album/5S2sw3vnenP9i2Ci1B551I) | 3:12 | 2022-09-14 | 2022-09-29 |
 | [If He Wanted To](https://open.spotify.com/track/7hA7mjXdCoLUWttOeVyQdz) | [Alisya Rae](https://open.spotify.com/artist/3FtD8ginawjseVwkf0GhFL) | [If He Wanted To](https://open.spotify.com/album/3kqdMq2vsnKHeAIkmguZhM) | 3:00 | 2024-10-01 | 2025-01-15 |
@@ -3795,6 +3796,7 @@
 | [Temporary Low](https://open.spotify.com/track/02Zy4EB3k4NE0u8CXh1SDg) | [Soli](https://open.spotify.com/artist/6yYm7Asdzf0sxI68kAJB0s) | [Temporary Low](https://open.spotify.com/album/6IAr8DGH9E3wVY7UmZRRF2) | 3:21 | 2023-04-26 | 2023-05-18 |
 | [Tempt Me](https://open.spotify.com/track/7hmhjkADPY91pdxhJ2D94y) | [Khi'leb](https://open.spotify.com/artist/1KO82XcaphTWqMWAf6qXgy) | [Project In The Suburbs \(Deluxe\)](https://open.spotify.com/album/6ySB7DtroxBeNv4rWv8O9T) | 3:12 | 2023-02-15 | 2023-03-16 |
 | [Temptation](https://open.spotify.com/track/6TrkF1hbn1qLMdR2Ly3ZGj) | [DANNY LANKE](https://open.spotify.com/artist/72jomA4QZXljUKTgZrnOSN) | [Temptation](https://open.spotify.com/album/2YAhJ2x6054FWqsVxxc2Wa) | 2:16 | 2023-09-27 | 2023-10-20 |
+| [Tenpin Haven](https://open.spotify.com/track/037GCaGsFkiqvMRRszTMrk) | [Hannah Brewer](https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk) | [Tenpin Haven](https://open.spotify.com/album/1wfIsPr3ixULfzSpqIt5cv) | 4:07 | 2026-02-03 |  |
 | [Terrible](https://open.spotify.com/track/5zixLKYzuoJ3qP9sQqKR5x) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [Terrible](https://open.spotify.com/album/2RB6w3gpvJMKNhsMiuehUS) | 3:38 | 2022-05-04 | 2022-05-19 |
 | [Tessellations](https://open.spotify.com/track/5cRL4TyF2eY6FwHQq9D429) | [OFFBEAT COWBOY](https://open.spotify.com/artist/0iTxohZ8kAdiKQDIdbwN9w) | [Tessellations](https://open.spotify.com/album/4lEToVCIXzOcCiW9og1Ywo) | 2:27 | 2023-02-22 | 2023-03-16 |
 | [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2023-01-12 | 2024-01-25 |

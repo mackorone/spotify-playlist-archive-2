@@ -7359,6 +7359,28 @@
     },
     {
       "album": {
+        "name": "DELUSIONAL",
+        "url": "https://open.spotify.com/album/1QhZ8MlWlKWXgxUPMEUqzl"
+      },
+      "artists": [
+        {
+          "name": "Jfallon",
+          "url": "https://open.spotify.com/artist/4odgyHXrBNILVxyGFGdaJ0"
+        },
+        {
+          "name": "AUGY",
+          "url": "https://open.spotify.com/artist/7BZO8HVP46PLeEYEBLlkLw"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "DELUSIONAL",
+      "url": "https://open.spotify.com/track/3t8Usl5l0m5QB0jvmUMZ7v"
+    },
+    {
+      "album": {
         "name": "Demand",
         "url": "https://open.spotify.com/album/6PuTA5KCQpa6zkmNtfhc73"
       },

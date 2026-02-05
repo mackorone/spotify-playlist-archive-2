@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2677,
+  "num_followers": 2679,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARWbfw9CVxIUkEncNtUo0UVfJ0z8Du",
+  "snapshot_id": "AAARWkDmXuA7PFL9SCasHJ9UA/XzRNgA",
   "tracks": [
+    {
+      "added_at": "2026-02-04 21:11:11",
+      "album": {
+        "name": "Midnight Frequency",
+        "url": "https://open.spotify.com/album/2Cnxnw6rfRVFvxyO7DPh2U"
+      },
+      "artists": [
+        {
+          "name": "THE KING YOUTHFULNESS",
+          "url": "https://open.spotify.com/artist/390HdFpUeNh5Fir2cFd3Py"
+        }
+      ],
+      "duration_ms": 256480,
+      "name": "Midnight Frequency",
+      "url": "https://open.spotify.com/track/4PDMpPriPr8iuacmYge1rp"
+    },
     {
       "added_at": "2026-02-03 10:53:11",
       "album": {

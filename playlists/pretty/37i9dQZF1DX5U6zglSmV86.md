@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra escuela es la calle\. Pirlo en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,191 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,188 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 14 | [Naci Pa Ganar](https://open.spotify.com/track/5YTHKknMWfPKU4pMO774c0) | [Estilo Y Fe](https://open.spotify.com/artist/16UfXefQg2qauVwjY6aajT), [Eme Senick](https://open.spotify.com/artist/4NKoVbySFZs7kmX1t8TMUU), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Naci Pa Ganar](https://open.spotify.com/album/75ImXrMLk7VI5zm5waUvuX) | 4:07 |
 | 15 | [Chamaquito](https://open.spotify.com/track/6uARD0mOA6zjXexD11Mpgs) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Chamaquito](https://open.spotify.com/album/05xOvNfOYaYAtXNfHafE73) | 3:52 |
 | 16 | [Alley Oop](https://open.spotify.com/track/4prSeUgilnoQ6J5I3iMpQT) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Alley Oop](https://open.spotify.com/album/7zdLY5YF5DfG096Th62ipi) | 3:20 |
-| 17 | [Cambiando el Game](https://open.spotify.com/track/0yZyquzOOKFf5vinmkFSyy) | [Nueve Siete](https://open.spotify.com/artist/7fzZKj3Tr03xohWrfinjBI), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Cambiando el Game](https://open.spotify.com/album/3aTKfVdesXkSnthspQPvde) | 2:34 |
+| 17 | [Cambiando el Game](https://open.spotify.com/track/0yZyquzOOKFf5vinmkFSyy) | [Nueve Siete](https://open.spotify.com/artist/7fzZKj3Tr03xohWrfinjBI), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS), [B Jay](https://open.spotify.com/artist/3FJkHMzdKDGIcJc8Kar9cK) | [Cambiando el Game](https://open.spotify.com/album/3aTKfVdesXkSnthspQPvde) | 2:34 |
 | 18 | [Sin Corona](https://open.spotify.com/track/2wGPtjTFvsOR6DSoGDW4oc) | [Silar Kilos De Estilo](https://open.spotify.com/artist/0EuMnBFVFmyIFFgpiwbvj6) | [Sin Corona](https://open.spotify.com/album/3lndS3S9eKtOsQhnKzrO3Y) | 3:18 |
 | 19 | [Carne Cruda](https://open.spotify.com/track/5mu9obXTCyVsUgLlKCC9gK) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Open Timbz](https://open.spotify.com/artist/3ZwlNZPRmpyHl0ZT7VD7Fk) | [Carne Cruda](https://open.spotify.com/album/1ZxhW8BM0u7XFU3JVhbPsL) | 3:00 |
 | 20 | [En la Troca](https://open.spotify.com/track/06NdK2H07QVMTqq6Te7Hcd) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Jarabe kidd](https://open.spotify.com/artist/5absue45Q798sotcg1d0FD), [MNZR](https://open.spotify.com/artist/3Hq3cjiSLxQGmKqLQASfFQ) | [En la Troca](https://open.spotify.com/album/39Fg4IINniXB7zQzm3yjWy) | 2:54 |

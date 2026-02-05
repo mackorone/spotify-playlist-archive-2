@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Amores Verdadeiros",
+        "url": "https://open.spotify.com/album/3MGsphbmnz4m1lA9CGKRwf"
+      },
+      "artists": [
+        {
+          "name": "Binho Rodrigues",
+          "url": "https://open.spotify.com/artist/2Th24UXO0EXhREONi0KNkd"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139755,
+      "name": "Amores Verdadeiros",
+      "url": "https://open.spotify.com/track/0KFjJCtRRslJdBjQITVRGp"
+    },
+    {
+      "album": {
         "name": "An Oracle Told Me...",
         "url": "https://open.spotify.com/album/5jkRcJhNoL3bmd9VpO3qTO"
       },
@@ -4020,6 +4038,24 @@
       "duration_ms": 216669,
       "name": "I Hope That You're Okay",
       "url": "https://open.spotify.com/track/4nhffh2CLn0tJ9pxwYGq4N"
+    },
+    {
+      "album": {
+        "name": "somewhere out there",
+        "url": "https://open.spotify.com/album/3b7kPzUL5gR4JKTAAGjDGQ"
+      },
+      "artists": [
+        {
+          "name": "Heather Bond",
+          "url": "https://open.spotify.com/artist/20sShzubGeYpYFNoDY11sK"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284001,
+      "name": "I painted our kitchen",
+      "url": "https://open.spotify.com/track/0M7wvy5zekMKNkGrT1WMsB"
     },
     {
       "album": {
@@ -8447,6 +8483,24 @@
     },
     {
       "album": {
+        "name": "silver moon",
+        "url": "https://open.spotify.com/album/3u5KpY0cPdWb71SSOHCq0b"
+      },
+      "artists": [
+        {
+          "name": "Rob Linx",
+          "url": "https://open.spotify.com/artist/0HjB27915ai70JyDebH1x8"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203405,
+      "name": "silver moon",
+      "url": "https://open.spotify.com/track/1wHgGm0nW3CXVJsp6drLMa"
+    },
+    {
+      "album": {
         "name": "Simulation 1",
         "url": "https://open.spotify.com/album/5uVyeKGwTwVCaRBiKhJ7Rt"
       },
@@ -11100,6 +11154,24 @@
       "duration_ms": 117000,
       "name": "WHERE'S MY HEAD",
       "url": "https://open.spotify.com/track/1Z6tkAoBUKel5pywbdJHOR"
+    },
+    {
+      "album": {
+        "name": "Whips & Champagne",
+        "url": "https://open.spotify.com/album/4Ylf1UfVu6bIXdXa5uEqDv"
+      },
+      "artists": [
+        {
+          "name": "St Oshun",
+          "url": "https://open.spotify.com/artist/301eU70OY8nQVDDha8Xxdz"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217758,
+      "name": "Whips & Champagne",
+      "url": "https://open.spotify.com/track/1WNCyzJJNiMmRAlC18LzHW"
     },
     {
       "album": {

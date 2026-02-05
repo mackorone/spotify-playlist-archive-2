@@ -4,7 +4,7 @@
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:5uQPyd1dYqB4Oepgk8HqMM">obra aberta</a>
 
-214 songs - 6 day 2 hr 52 min
+215 songs - 6 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [ANIMES, TRADUÇÃO E TRETAS EDITORIAIS! 💥ft Leonardo Kitsune! – DON \#44](https://open.spotify.com/episode/5QzGz4xoxKZ9DffO8Tmoji) | [Don Podcast](https://open.spotify.com/show/0ilOR20NgwNiwJXM9Uwd4p) | [Don Podcast](https://open.spotify.com/album/0ilOR20NgwNiwJXM9Uwd4p) | 3:09:52 | 2025-06-02 | 2025-07-02 |
 | [Aprecie sua insuficiência EP\#69](https://open.spotify.com/episode/6QyfF1xTXDPyfGZBtUnIiP) | [Em Busca da Rotina Perfeita, com Giu Tessitore](https://open.spotify.com/show/4bFXTB2DcMA4dy3CC27bKu) | [Em Busca da Rotina Perfeita, com Giu Tessitore](https://open.spotify.com/album/4bFXTB2DcMA4dy3CC27bKu) | 33:44 | 2025-09-03 | 2025-10-02 |
 | [atrasada na vida ](https://open.spotify.com/episode/2eqYG1Mc9GrgMBS6LthLXq) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP) | 12:40 | 2024-06-28 | 2025-01-02 |
-| [autenticidade virou estética? \#13](https://open.spotify.com/episode/0mC7Lq3U6qesaAubU0moHa) | [obra aberta](https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM) | [obra aberta](https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM) | 21:48 | 2026-02-02 |  |
+| [autenticidade virou estética? \#13](https://open.spotify.com/episode/0mC7Lq3U6qesaAubU0moHa) | [obra aberta](https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM) | [obra aberta](https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM) | 21:48 | 2026-02-02 | 2026-02-05 |
 | [CAFÉ COM DEUS PSICANÁLISE](https://open.spotify.com/episode/468B8xu8ujRYwURTTfOwA2) | [vibes em análise](https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL) | [vibes em análise](https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL) | 1:24:28 | 2025-05-01 | 2025-06-03 |
 | [cansei de ser boazinha ](https://open.spotify.com/episode/199duKevM5P1LRRt8oZ3ky) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP) | 9:53 | 2024-04-01 | 2024-05-03 |
 | [Clube do Erro \#031 \- De Repente, À Distância](https://open.spotify.com/episode/0DmQiwTk6Kd752WlcYGroF) | [Clube do Erro](https://open.spotify.com/show/08kk3SYhqXvEEH26Pc243s) | [Clube do Erro](https://open.spotify.com/album/08kk3SYhqXvEEH26Pc243s) | 18:30 | 2024-09-02 | 2024-10-02 |
@@ -222,5 +222,6 @@
 | [você precisa mudar de tipo](https://open.spotify.com/episode/7lO7dhMyQJKrMIaLLMhwWE) | [Tira Essa Brisa](https://open.spotify.com/show/6ic6GUo8AVIRLHee4iEOLg) | [Tira Essa Brisa](https://open.spotify.com/album/6ic6GUo8AVIRLHee4iEOLg) | 11:35 | 2026-01-05 | 2026-02-03 |
 | [Você tem certeza de que essa rotina é sua? EP\#51](https://open.spotify.com/episode/32QB837O6bJJBFd8GSbTOk) | [Em Busca da Rotina Perfeita, com Giu Tessitore](https://open.spotify.com/show/4bFXTB2DcMA4dy3CC27bKu) | [Em Busca da Rotina Perfeita, com Giu Tessitore](https://open.spotify.com/album/4bFXTB2DcMA4dy3CC27bKu) | 28:24 | 2025-04-01 | 2025-05-01 |
 | [É autossabotagem ou eu mereço mais?](https://open.spotify.com/episode/45GRVtaFn3CcHJHfUpfOQE) | [POD da Ba](https://open.spotify.com/show/4hi1emfM9tNRGjmA8dh4IE) | [POD da Ba](https://open.spotify.com/album/4hi1emfM9tNRGjmA8dh4IE) | 23:06 | 2024-04-01 | 2024-05-03 |
+| [é possível ser feliz? \#14](https://open.spotify.com/episode/67j4nCKZbKLoLoguATjZHW) | [obra aberta](https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM) | [obra aberta](https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM) | 24:27 | 2026-02-04 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 ### [Super Bowl Watch Party 2026](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> The BEST SPORTS MUSIC from your favortite artists for Super Bowl  LX Sunday in San Francisco \|Super Bowll Party\| Halftime Performance\|
+> The soundtrack for your Super Bowl  LX Party \|Super Bowl Party\| Halftime Performance\|
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 113,596 likes - 99 songs - 6 hr 29 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 113,582 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 98 | [Swag Surfin'](https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP) | [F.L.Y\. \(Fast Life Yungstaz\)](https://open.spotify.com/artist/0zOuQuYGGcrtDYYy3YFDMr), [Easton](https://open.spotify.com/artist/78k3njwzksywc3rWTY7ZYN) | [Jamboree](https://open.spotify.com/album/6mAgb1P4TuigEweUCJqrhp) | 4:09 |
 | 99 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 |
 
-Snapshot ID: `AAAY7zOON2qEEx+1V0RywUL5JnCF+LWS`
+Snapshot ID: `AAAY9pG04Mk4IU3hNHVR6Q1DGq+YGqkt`

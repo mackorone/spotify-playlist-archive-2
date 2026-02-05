@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste releases Hollands & Volks\. Cover: Quido van de Graaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,978 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,981 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eigen Schuld](https://open.spotify.com/track/1AHGfEp4zcjYK9cjj6W1vT) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Eigen Schuld](https://open.spotify.com/album/61Qr7dTzKj6UJkDcgv1vG7) | 2:47 |
 | 2 | [Al Heb Je Niets](https://open.spotify.com/track/6cKvr0voNpYVq9i577qxoW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Al Heb Je Niets](https://open.spotify.com/album/5wmuQkePwbFb0FS0cJuJSE) | 2:32 |
-| 3 | [Meisje](https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG), [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Meisje](https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS) | 2:08 |
-| 4 | [Spijt](https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Spijt](https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F) | 2:48 |
+| 3 | [Spijt](https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Spijt](https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F) | 2:48 |
+| 4 | [Meisje](https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG), [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Meisje](https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS) | 2:08 |
 | 5 | [De Tapster Uit Tijuana](https://open.spotify.com/track/3VKUZemyzO52vCdZrXl7A9) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [De Tapster Uit Tijuana](https://open.spotify.com/album/43Xdl2v1kht5oRtsp8a6qL) | 3:06 |
 | 6 | [Femme Fatale](https://open.spotify.com/track/1boryOfIhzuquqa8MIOVm6) | [Spang!](https://open.spotify.com/artist/5RZqQNSyHP9Iovw5jC8S5r) | [Femme Fatale](https://open.spotify.com/album/6YXxW3FMQCcdX4V3MUNunK) | 2:34 |
 | 7 | [Doe nog maar een rondje](https://open.spotify.com/track/3qlOzPjaj14uVnf5MgyqrO) | [Rick de Jong](https://open.spotify.com/artist/2ew84Shb8k5evkctfSMu6v) | [Doe nog maar een rondje](https://open.spotify.com/album/7agd9o31Gjkw9tq7mjA3mR) | 2:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Kom Terug Bij Mij](https://open.spotify.com/track/3Uy37WwVdix4fdmJSpvVTU) | [Wesley Boes](https://open.spotify.com/artist/4PfOrm0osG8Wy6jDCM9jMe) | [Kom Terug Bij Mij](https://open.spotify.com/album/2vZsIcPjW87vMW7kWxdRUQ) | 3:30 |
 | 80 | [Avond 2.0](https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o) | [Martijn Stam](https://open.spotify.com/artist/08us5J8eRdUoGifsSIOMa1) | [Avond 2.0](https://open.spotify.com/album/0BVSguaWW08ymbT39URufK) | 3:27 |
 
-Snapshot ID: `AAAAANjmKBVY1SLk4NWOnE8v/mHedVKO`
+Snapshot ID: `AAAAAGFWjSG8P/Lky24Am32lPYUo9J4B`

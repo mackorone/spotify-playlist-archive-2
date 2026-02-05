@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 496 likes - 360 songs - 14 hr 47 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 495 likes - 360 songs - 14 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 359 | [Two Years](https://open.spotify.com/track/5OXimoxINUI6lvCAGQqPDY) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Two Years](https://open.spotify.com/album/7Cpo5iK9QckXMTGdGhs0DD) | 2:08 |
 | 360 | [as the wind dances through the forest](https://open.spotify.com/track/6qiXJYxF0WXRbU6VIucQbQ) | [Cauzy](https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl) | [as the wind dances through the forest](https://open.spotify.com/album/72amzyTJUpypSHN5MFJaRD) | 3:05 |
 
-Snapshot ID: `AAAHi6LpH22k7O7nyVlK6ju1pytrNhnI`
+Snapshot ID: `AAAHkssS5SxdmvhMVytWdtrG2c3tmFHW`

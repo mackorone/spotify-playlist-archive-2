@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: JJerome87
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,226 likes - 81 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171,388 likes - 81 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 80 | [pillow](https://open.spotify.com/track/56CBC6RIvEctmVWP8D8BwX) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [i just want next year to be better](https://open.spotify.com/album/2TEet1gjTXTJeFimtpoTmx) | 3:47 |
 | 81 | [SF & GG](https://open.spotify.com/track/5tZrVj5v9aKMHOmcb6MDlZ) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Holo Boy](https://open.spotify.com/album/7GXQ3XWkTEnfI37a8zX2TB) | 1:40 |
 
-Snapshot ID: `AAAAAC9TmyyqqR1gbqWzDU7WsMZsh3h0`
+Snapshot ID: `AAAAAD4UAOlvNXyBfkYQ3VaF20G6cyXK`

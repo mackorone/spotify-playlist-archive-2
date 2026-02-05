@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222146,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/74jklVKHYTmNMp0baGm6FB"
+    },
+    {
+      "album": {
         "name": "The Essential Django Reinhardt",
         "url": "https://open.spotify.com/album/1Vwmuhs09XeFjA3cefRLBP"
       },
@@ -978,6 +996,32 @@
       "duration_ms": 266973,
       "name": "It Was A Very Good Year - 2008 Remastered",
       "url": "https://open.spotify.com/track/1vLPTWPfJSIrqOhNUWNfNY"
+    },
+    {
+      "album": {
+        "name": "So Smooth",
+        "url": "https://open.spotify.com/album/3GUwj3ZIWO9zk8ETCBqvWf"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "Mitchell Ayres & His Orchestra",
+          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
+        },
+        {
+          "name": "The Ray Charles Singers",
+          "url": "https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105459,
+      "name": "It's A Good Day",
+      "url": "https://open.spotify.com/track/6kERWE0mP6AjbJJDWGEfYE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,313 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,317 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 37 | [Lights Out](https://open.spotify.com/track/7uSU8IsXLy8E3mJ6HTHmo8) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Lights Out](https://open.spotify.com/album/37wxS7hulvxgsrp160FyY1) | 4:38 |
 | 38 | [SS](https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [SS](https://open.spotify.com/album/0l60RYyo5migWBDp8qaVYD) | 3:35 |
 | 39 | [Stay free](https://open.spotify.com/track/2vvXbMoyQDUL9PYyk5QrqJ) | [3.Band](https://open.spotify.com/artist/37MVRYH6ahRPK1afP2tCts) | [Stay free](https://open.spotify.com/album/18sAe8oEJga0OakwVJ6PSM) | 3:01 |
-| 40 | [起風的時候](https://open.spotify.com/track/4REfb6i8f1LWGa1BcxZ5Hk) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [羊駝小姐](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA) | [薯條雷鬼](https://open.spotify.com/album/1g9Xg2H0qQxs0jY5uG3XVe) | 3:42 |
+| 40 | [起風的時候](https://open.spotify.com/track/4REfb6i8f1LWGa1BcxZ5Hk) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [Malpaca](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA) | [薯條雷鬼](https://open.spotify.com/album/1g9Xg2H0qQxs0jY5uG3XVe) | 3:42 |
 | 41 | [These Days](https://open.spotify.com/track/6ebVnDPXbdVGgPOWgZC1IS) | [雲端司機 CLOUDRIVER](https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce) | [These Days](https://open.spotify.com/album/4Cr5Pbyr8xHaJlE9WSIhF1) | 3:14 |
 | 42 | [我的錯](https://open.spotify.com/track/37VmIUYqNg03Chr0a1BXTD) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [我的錯](https://open.spotify.com/album/4WzURT9ZH0ulk9zKCPmYv9) | 2:40 |
 | 43 | [HIGHER CALLING](https://open.spotify.com/track/3BMYEVPGwGWP5muiNFzDmF) | [Elle Shimada](https://open.spotify.com/artist/6QCfENvTPwkHq4V6nTMOpk), [Dave Giles II](https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw) | [LULLABY FOR THE RIVER IN MY BODY](https://open.spotify.com/album/1H4go5WEjUrMpmo9ug6IDp) | 2:01 |

@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-641 songs - 1 day 15 hr 25 min
+642 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [1:45AM \(feat\. Bearface\)](https://open.spotify.com/track/7dmcTMq4saNeKIBmG3m6Tq) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Bearface](https://open.spotify.com/artist/7yjWDiLDpsHxobHP1fWYh8) | [1:45AM \(feat\. Bearface\)](https://open.spotify.com/album/07jqb6FPwDeCOAtBg7tHjc) | 3:21 | 2020-12-22 | 2022-04-18 |
 | [1night](https://open.spotify.com/track/6NgFdt2XvqRacjK0BPgMi8) | [Daddy NAT](https://open.spotify.com/artist/49ZFag40tJxY9Q9kF0hp3B) | [1night](https://open.spotify.com/album/4HsTyyFCQ8XZodp9l4rHya) | 2:54 | 2022-05-13 | 2022-06-04 |
 | [2 AM](https://open.spotify.com/track/06nXt6ESO6FzbvD5QQ1Eqj) | [Antonio Barret](https://open.spotify.com/artist/3jtRUMSuGAGh58k0zWQOyP), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [2 AM](https://open.spotify.com/album/3Mf73h0N9s0N9fMyTWA2rC) | 3:40 | 2024-02-13 | 2025-01-18 |
-| [45](https://open.spotify.com/track/1udG86M7sSyELAIlLeRdMM) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [45](https://open.spotify.com/album/1VDOnz8xGPqycmnzHaxkEE) | 3:17 | 2025-12-12 |  |
+| [45](https://open.spotify.com/track/1udG86M7sSyELAIlLeRdMM) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [45](https://open.spotify.com/album/1VDOnz8xGPqycmnzHaxkEE) | 3:17 | 2025-12-12 | 2026-02-05 |
 | [6's to 9's \(feat\. Rationale\)](https://open.spotify.com/track/4DAaQ5InUO23d8yNRbB0Yj) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 3:26 | 2022-05-13 | 2022-06-04 |
 | [875 Dollars](https://open.spotify.com/track/0Z5onPOaXhY85ZSPMeLLNl) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [875 Dollars](https://open.spotify.com/album/3V5VuiwOT6klao54o6veS7) | 5:59 | 2020-12-22 | 2022-04-21 |
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-21 | 2024-08-17 |
@@ -514,6 +514,7 @@
 | [Sonnentanz](https://open.spotify.com/track/1RTVBt6wWtWs2qiRVnlzLM) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Netzwerk](https://open.spotify.com/album/33SQzqLVfBgyxEmUZzWzdm) | 6:00 | 2022-05-13 | 2022-06-04 |
 | [Splintered Arms](https://open.spotify.com/track/63H8XiHLOxYYJqxJqwgkdJ) | [Seven AM](https://open.spotify.com/artist/6mna4wcu8CaAgtXgcEW6qs) | [Splintered Arms](https://open.spotify.com/album/3xLSkr1SlnHrnZGPcOELiB) | 3:09 | 2020-12-22 | 2022-04-15 |
 | [Sprinkles](https://open.spotify.com/track/5MC4qpRJW1AshNqYRV54xb) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Sprinkles](https://open.spotify.com/album/1VCdlcicBdmBU7RESuPSik) | 2:21 | 2020-12-22 | 2022-07-29 |
+| [Starlight](https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Starlight](https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf) | 3:21 | 2026-01-30 |  |
 | [Starlight \(Goldroom Remix\)](https://open.spotify.com/track/0WctUeuJAHlewwqSm1OlIh) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [Starlight Remixes](https://open.spotify.com/album/6IZpH59rXpdusTqgheflIA) | 6:26 | 2020-12-22 | 2022-04-19 |
 | [Starry Night \- Edit](https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie) | 3:53 | 2020-12-22 | 2023-11-05 |
 | [Starry Night \- Edit](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI) | 3:53 | 2023-10-27 | 2024-01-27 |

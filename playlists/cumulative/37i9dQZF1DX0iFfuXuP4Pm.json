@@ -2178,7 +2178,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 222112,
       "name": "For You",
       "url": "https://open.spotify.com/track/6QzlxzQXbXsdzfprUKULTy"
@@ -2758,6 +2758,28 @@
       "duration_ms": 234152,
       "name": "Hiraya (Haharanahin Kita)",
       "url": "https://open.spotify.com/track/0Ef1eeZkMKKqcEvUrUrriq"
+    },
+    {
+      "album": {
+        "name": "Hiraya Manawari",
+        "url": "https://open.spotify.com/album/6Wn9A3lbalaaFWg7QT9jvG"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        },
+        {
+          "name": "KZ Tandingan",
+          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292285,
+      "name": "Hiraya Manawari",
+      "url": "https://open.spotify.com/track/5Lvud3aK0AjltXJEW7sHGV"
     },
     {
       "album": {
@@ -4314,7 +4336,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 190568,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/7ocY2A46ZK9kgnSAGfQ1F0"
@@ -7033,6 +7055,24 @@
     },
     {
       "album": {
+        "name": "Pwede Ka Ba?",
+        "url": "https://open.spotify.com/album/2YyfEjYnbwlUttZNBlZ5Pf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ely",
+          "url": "https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Pwede Ka Ba?",
+      "url": "https://open.spotify.com/track/1RNCibCOmM49zenUyBXSLy"
+    },
+    {
+      "album": {
         "name": "Pwede pa ba akong magmahal",
         "url": "https://open.spotify.com/album/1ekVvCTjNwIs3TcFFAZl7H"
       },
@@ -7921,6 +7961,24 @@
     },
     {
       "album": {
+        "name": "Star Song",
+        "url": "https://open.spotify.com/album/1XHBSxQuqSPrzJEmzlKRUB"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236923,
+      "name": "Star Song",
+      "url": "https://open.spotify.com/track/5TGaPefQfu1Z2exPWU96Vf"
+    },
+    {
+      "album": {
         "name": "SUBOMOTO (Hev Abi Remix)",
         "url": "https://open.spotify.com/album/7wjI6FCsMJwMCumTlNu0xl"
       },
@@ -8030,7 +8088,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 284234,
       "name": "Suob - From \"Meet, Greet & Bye\"",
       "url": "https://open.spotify.com/track/2IS8s76UJOTKqE3lPrEj09"

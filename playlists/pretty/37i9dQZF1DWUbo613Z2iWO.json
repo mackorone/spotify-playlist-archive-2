@@ -1,6 +1,6 @@
 {
   "description": "R&B of the moment by the artists of the future. Cover: Dylan Sinclair",
-  "num_followers": 58284,
+  "num_followers": 58297,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
@@ -100,7 +100,7 @@
           "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
         }
       ],
-      "duration_ms": 161610,
+      "duration_ms": 164073,
       "name": "bad",
       "url": "https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ"
     },
@@ -580,12 +580,12 @@
       },
       "artists": [
         {
-          "name": "Ben Esser",
-          "url": "https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs"
-        },
-        {
           "name": "Beau Diako",
           "url": "https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu"
+        },
+        {
+          "name": "Ben Esser",
+          "url": "https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs"
         },
         {
           "name": "emawk",
@@ -1712,7 +1712,7 @@
           "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
         }
       ],
-      "duration_ms": 147000,
+      "duration_ms": 149773,
       "name": "ghosted",
       "url": "https://open.spotify.com/track/1YxifpuwgU6IcGt7NKUVpb"
     },

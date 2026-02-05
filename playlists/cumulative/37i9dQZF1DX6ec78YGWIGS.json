@@ -597,6 +597,28 @@
     },
     {
       "album": {
+        "name": "ramma + Cindy Cats - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
+      },
+      "artists": [
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        },
+        {
+          "name": "Cindy Cats",
+          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195445,
+      "name": "alg\u00fan d\u00eda - Spotify Sessions",
+      "url": "https://open.spotify.com/track/0dbKJL6gTj6sxaG4pytAfl"
+    },
+    {
+      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/5Jnax9gcPF8BBjcAQ1r9bF"
       },

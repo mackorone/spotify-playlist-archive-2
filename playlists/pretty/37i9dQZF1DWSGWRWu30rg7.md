@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Nashwa Zahira
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,269 likes - 99 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,272 likes - 99 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 8 | [Rotten Apple](https://open.spotify.com/track/0mB5FuMs1vzHFgjfEHGBUs) | [Meja Kerja](https://open.spotify.com/artist/0xqdxj7KV67jzZClyiS9ny) | [Rotten Apple](https://open.spotify.com/album/5hsqPusPAFWZ6ylKfyeQVn) | 3:47 |
 | 9 | [Pergi](https://open.spotify.com/track/6zpDNxXcfmZlzth1Rcho58) | [Adrijati Indi](https://open.spotify.com/artist/2bMjd2iXMXszqqrzGpQHM3) | [Pergi](https://open.spotify.com/album/5ywAlsFhUuUrG4gQj3abve) | 3:33 |
 | 10 | [Aksara Cinta](https://open.spotify.com/track/2VAn6lKOzoXtilF8t06l8V) | [Sweet Holic](https://open.spotify.com/artist/136Y0vKEmFMwGrh0zKBnhr) | [Aksara Cinta](https://open.spotify.com/album/3WMtZZrKMZiyOv3zuKBjNh) | 3:46 |
-| 11 | [Izinkan Aku Bertemu Bapakmu](https://open.spotify.com/track/3HethdZQBTkAlaheLmIlGG) | [Fanirahmansyah](https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x) | [Izinkan Aku Bertemu Bapakmu](https://open.spotify.com/album/3JpoqWKTffHmrsXcUUfKkS) | 3:45 |
+| 11 | [Izinkan Aku Bertemu Bapakmu](https://open.spotify.com/track/3HethdZQBTkAlaheLmIlGG) | [Fani Rahmansyah](https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x) | [Izinkan Aku Bertemu Bapakmu](https://open.spotify.com/album/3JpoqWKTffHmrsXcUUfKkS) | 3:45 |
 | 12 | [1/2](https://open.spotify.com/track/1lqqeZ4vEOUvherY5sdR7x) | [Saphira Adya](https://open.spotify.com/artist/4QMHIM0bTqrpXp9pFLWTTV), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Heart String](https://open.spotify.com/album/7lDnC6kF3uqvHVmy7rURQL) | 3:24 |
 | 13 | [Siapa Sangka](https://open.spotify.com/track/1ZKayVo8OzZi055gfKH2R7) | [Nashwa Zahira](https://open.spotify.com/artist/3Dkxqehm5OypqXteJpjroA) | [Siapa Sangka](https://open.spotify.com/album/7m5evbrzoMO9bJPJ0RWKWb) | 4:01 |
 | 14 | [Anggap Aku Ada](https://open.spotify.com/track/4zbLLlSlpQTixjfaSIWFd8) | [Canti](https://open.spotify.com/artist/58T2knDTjuxgJkxHH0mllQ) | [Anggap Aku Ada](https://open.spotify.com/album/0MZfRSiHi1Uq2x2hziT0Bg) | 3:47 |

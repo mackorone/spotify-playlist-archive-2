@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 495028,
+  "num_followers": 495053,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aX/pAAAAAACEnDZTl7Y2bJT1eJoi3ywv",
+  "snapshot_id": "aYE6gAAAAAB6h59VkvuQrKR60yWuKwEJ",
   "tracks": [
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "100k On A Coupe",
-        "url": "https://open.spotify.com/album/1RUkOaQD5teWHg7JmrVBGB"
+        "name": "I Know NIGO!",
+        "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
       },
       "artists": [
         {
@@ -772,13 +772,13 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
-          "name": "Calboy",
-          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
         }
       ],
-      "duration_ms": 117093,
-      "name": "100k On A Coupe (feat. Calboy)",
-      "url": "https://open.spotify.com/track/4wVuGccjXDNf9sWWVajkpk"
+      "duration_ms": 135111,
+      "name": "Remember (with Nigo)",
+      "url": "https://open.spotify.com/track/0PGRXJFSwpn5OAGFpEwiqK"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Know NIGO!",
-        "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
+        "name": "100k On A Coupe",
+        "url": "https://open.spotify.com/album/1RUkOaQD5teWHg7JmrVBGB"
       },
       "artists": [
         {
@@ -808,13 +808,13 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
-          "name": "Nigo",
-          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
         }
       ],
-      "duration_ms": 135111,
-      "name": "Remember (with Nigo)",
-      "url": "https://open.spotify.com/track/0PGRXJFSwpn5OAGFpEwiqK"
+      "duration_ms": 117093,
+      "name": "100k On A Coupe (feat. Calboy)",
+      "url": "https://open.spotify.com/track/4wVuGccjXDNf9sWWVajkpk"
     },
     {
       "added_at": null,

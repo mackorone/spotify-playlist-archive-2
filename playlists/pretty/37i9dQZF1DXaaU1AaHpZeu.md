@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Rubio en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,360 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,327 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 2 | [250cc](https://open.spotify.com/track/0Ywh0NH8bmPTQFvQZ9G5yU) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [Olisso](https://open.spotify.com/artist/5j2C0iQHKvCcfPVCOqn20h) | [250cc](https://open.spotify.com/album/6nUtF0ygYhS5iJh8JvnfuB) | 2:25 |
 | 3 | [TARADO](https://open.spotify.com/track/2sFS8LIH8ap6q3kgqW0GGj) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [QUIZÁS INCLUSO MAÑANA](https://open.spotify.com/album/3JXZ0QjLuS1sjPIS5LV41G) | 2:07 |
 | 4 | [LUNÁTICO](https://open.spotify.com/track/2KybMZZibZMYXEKMeLFo8T) | [NAZZZ](https://open.spotify.com/artist/6wTmJT0q2BgbcGTYRxEI9j) | [LUNÁTICO](https://open.spotify.com/album/0jeXPJkdL6C0RwQzK0RPrV) | 2:13 |
-| 5 | [Quiero irme con vos](https://open.spotify.com/track/7hfUSBbZ4GTXrbUWGGTA1c) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Quiero irme con vos](https://open.spotify.com/album/1ncGeBbZiKPYyhyGuT3pGh) | 6:03 |
+| 5 | [Quiero irme con vos \- rework](https://open.spotify.com/track/7hfUSBbZ4GTXrbUWGGTA1c) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Quiero irme con vos \(rework\)](https://open.spotify.com/album/1ncGeBbZiKPYyhyGuT3pGh) | 6:03 |
 | 6 | [Like Poison](https://open.spotify.com/track/0f0UyVJjzU0oFKGTWJVTwW) | [Mala Flor](https://open.spotify.com/artist/3abF6mIpcnaCtYl7ickqmK) | [Like Poison](https://open.spotify.com/album/0Hekw4SAhqBBNuUHfT6gdX) | 3:34 |
 | 7 | [NOTYPE \(feat\. Angely2k\) \- Remix](https://open.spotify.com/track/5ER0JA9dl4vq8rj0zYsTNp) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [NOTYPE \(feat\. Angely2k\) \[Remix\]](https://open.spotify.com/album/1PhC7c3yvUy2fV7t7vzBDI) | 2:42 |
 | 8 | [AMSTERDAM](https://open.spotify.com/track/15HqUnRMTUb07QigZzryQy) | [Comandante Twin](https://open.spotify.com/artist/6MgIZuaJa0swshfLRDZMdw) | [AMSTERDAM](https://open.spotify.com/album/5ZveOE2qBb9KCkXxcOFn9B) | 3:52 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With STYXVII, Joshua Lanuarii, Learke and more",
+  "description": "With STYXVII, Joshua Lanuarii, UrvTek and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 153575,
       "name": "AlterHuman",
       "url": "https://open.spotify.com/track/5iFc7qq3RJDAvyGSHFm27Z"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "ANTONYMPH - N1GHTC0R3 M1X",
       "url": "https://open.spotify.com/track/6xzlfzYDEwkVznV9FPOkym"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 160260,
       "name": "b my wife!!!",
       "url": "https://open.spotify.com/track/0lFMYVknhjtmRGviL3bnSb"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 136800,
       "name": "Bathtub Wine Barf Homocide Fantasy",
       "url": "https://open.spotify.com/track/3qqRtGhdKzl3xDm2zR7AKu"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 209958,
       "name": "CATASTR0PHZ1NG ALL BY URSELF",
       "url": "https://open.spotify.com/track/3OhN8qX8J6AP2aDWPiPIHa"
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 225069,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/1uXd50WJFeS1zg3GlQTXsv"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 177679,
       "name": "Fox Paws",
       "url": "https://open.spotify.com/track/7tiPt81dGVuX14yNVe8cvT"
@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 166303,
       "name": "Happy Heartcore",
       "url": "https://open.spotify.com/track/0vYvVMT7Q667znq6qbJxiE"
@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 140020,
       "name": "i talk to the stars",
       "url": "https://open.spotify.com/track/1l3ZxNNw5rtuYa4mI3laJ0"
@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 99596,
       "name": "IDK",
       "url": "https://open.spotify.com/track/0SF9NvnC6FIxeePYEMD93k"
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 128957,
       "name": "ITS NOT ME ITS YOU",
       "url": "https://open.spotify.com/track/1qoTwMDxMyj1c4RZEw2e5G"
@@ -2798,6 +2798,24 @@
       "duration_ms": 92322,
       "name": "jus make it go boom remake",
       "url": "https://open.spotify.com/track/5uvFhFuHy9sI9ZXf05mOn9"
+    },
+    {
+      "album": {
+        "name": "Kill me and Eat me",
+        "url": "https://open.spotify.com/album/2vtmXciVuyATha5K82Zjjd"
+      },
+      "artists": [
+        {
+          "name": "Wenton",
+          "url": "https://open.spotify.com/artist/3c3md7pbUBLXWoYcY6dwKw"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "Kill me and Eat me",
+      "url": "https://open.spotify.com/track/08xEDWvXPiSctq4aOFrtxh"
     },
     {
       "album": {
@@ -2896,7 +2914,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "KNOT SONG",
       "url": "https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub"
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "LESBIAN PONIES WITH WEAPONS",
       "url": "https://open.spotify.com/track/3fqzrSXBp4mynyuU5cR6p1"
@@ -3066,7 +3084,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 169662,
       "name": "losercore",
       "url": "https://open.spotify.com/track/4iVCldDNBMNKF9qwgVVh7n"
@@ -3168,10 +3186,36 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 96625,
       "name": "MANICa",
       "url": "https://open.spotify.com/track/4xGQ1u0EbqIwcmv9ViuowJ"
+    },
+    {
+      "album": {
+        "name": "SLANEY VS SODASTEAL",
+        "url": "https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd"
+      },
+      "artists": [
+        {
+          "name": "Operation Sodasteal",
+          "url": "https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6"
+        },
+        {
+          "name": "Kaj Strife",
+          "url": "https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w"
+        },
+        {
+          "name": "slaneyinfamous",
+          "url": "https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202757,
+      "name": "MARTYR (MARTYR)",
+      "url": "https://open.spotify.com/track/3jRoQo8sAABg45bCIO9SuB"
     },
     {
       "album": {
@@ -3862,7 +3906,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 127246,
       "name": "plug me in",
       "url": "https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8"
@@ -3952,7 +3996,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 147257,
       "name": "PROTECC ATTACC SEXYBACC",
       "url": "https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw"
@@ -5088,7 +5132,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 205125,
       "name": "www.PUPPYLUV.xoxo",
       "url": "https://open.spotify.com/track/1CnRrvxklPzRwC2oZhJhSZ"

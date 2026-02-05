@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Asante",
+        "url": "https://open.spotify.com/album/6y8LWCcXI7BK7tlV8f3WVF"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206346,
+      "name": "Asante",
+      "url": "https://open.spotify.com/track/0T0pA9Gv401iZcuX9sMjEc"
+    },
+    {
+      "album": {
         "name": "Nimekutana Na Yesu",
         "url": "https://open.spotify.com/album/7GETZelqlelMjLHcCVddt3"
       },
@@ -606,7 +624,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 333686,
       "name": "Baba",
       "url": "https://open.spotify.com/track/5In8cdLEDCz2HfhoWMWLkU"
@@ -1756,6 +1774,24 @@
       "duration_ms": 300042,
       "name": "Kiu Yangu",
       "url": "https://open.spotify.com/track/3IPufScGAgzO9Cpm3Erfy4"
+    },
+    {
+      "album": {
+        "name": "Kiwango",
+        "url": "https://open.spotify.com/album/0skrQ6ABdxhUxgsmFIX71M"
+      },
+      "artists": [
+        {
+          "name": "Janet Otieno",
+          "url": "https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Kiwango",
+      "url": "https://open.spotify.com/track/3fH9Cf2qHXkx1SGFJIM2Sk"
     },
     {
       "album": {
@@ -3242,7 +3278,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 250825,
       "name": "Nifunze Kuona",
       "url": "https://open.spotify.com/track/1i1qbN5L8CTPykTW2yL0Og"
@@ -3992,7 +4028,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 324808,
       "name": "Praise Him",
       "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
@@ -5410,6 +5446,28 @@
       "duration_ms": 218885,
       "name": "Utatenda",
       "url": "https://open.spotify.com/track/4dZ23sNDaUWF2PNsdd4HLk"
+    },
+    {
+      "album": {
+        "name": "Utatenda. Piano (Acoustic version)",
+        "url": "https://open.spotify.com/album/1XyREXMlLkXd12uVUmcQGT"
+      },
+      "artists": [
+        {
+          "name": "Sasha Shlain",
+          "url": "https://open.spotify.com/artist/4CC6yEE48Z0O0YdTrqtkAv"
+        },
+        {
+          "name": "Chemutai Sage",
+          "url": "https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204999,
+      "name": "Utatenda. Piano - Acoustic version",
+      "url": "https://open.spotify.com/track/66OldKWmdtHe5SuTeg03rC"
     },
     {
       "album": {

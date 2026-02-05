@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,232 likes - 132 songs - 7 hr 27 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,235 likes - 136 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,5 +140,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 130 | [Night and Day](https://open.spotify.com/track/59YMT6C7n6l52qUIhN0SpU) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Night and Day](https://open.spotify.com/album/109cM7NLTGd4BKiVT0OksP) | 2:43 |
 | 131 | [Musafir](https://open.spotify.com/track/0CjpJpNgB6HxTNeCuNVAK5) | [Baawe](https://open.spotify.com/artist/2GgyvJa8OrQBqm9zkJJ0dC), [Akshat Kamavisdar](https://open.spotify.com/artist/5Gs8LuJnXKsRXYfq0CZJnB) | [Musafir](https://open.spotify.com/album/29QIZN5Dx4BSHnHZzkCTBX) | 3:02 |
 | 132 | [Le lapin en papier](https://open.spotify.com/track/0GB6KV4GD9Pdi2ZCVJxpcA) | [Inyha](https://open.spotify.com/artist/0KxFoSTWNluwDJ5NRJHfs2) | [Le lapin en papier](https://open.spotify.com/album/2qbusVyyuwhqNnXMVBnPrY) | 4:16 |
+| 133 | [silver moon](https://open.spotify.com/track/1wHgGm0nW3CXVJsp6drLMa) | [Rob Linx](https://open.spotify.com/artist/0HjB27915ai70JyDebH1x8) | [silver moon](https://open.spotify.com/album/3u5KpY0cPdWb71SSOHCq0b) | 3:23 |
+| 134 | [Whips & Champagne](https://open.spotify.com/track/1WNCyzJJNiMmRAlC18LzHW) | [St Oshun](https://open.spotify.com/artist/301eU70OY8nQVDDha8Xxdz) | [Whips & Champagne](https://open.spotify.com/album/4Ylf1UfVu6bIXdXa5uEqDv) | 3:37 |
+| 135 | [Amores Verdadeiros](https://open.spotify.com/track/0KFjJCtRRslJdBjQITVRGp) | [Binho Rodrigues](https://open.spotify.com/artist/2Th24UXO0EXhREONi0KNkd) | [Amores Verdadeiros](https://open.spotify.com/album/3MGsphbmnz4m1lA9CGKRwf) | 2:19 |
+| 136 | [I painted our kitchen](https://open.spotify.com/track/0M7wvy5zekMKNkGrT1WMsB) | [Heather Bond](https://open.spotify.com/artist/20sShzubGeYpYFNoDY11sK) | [somewhere out there](https://open.spotify.com/album/3b7kPzUL5gR4JKTAAGjDGQ) | 4:44 |
 
-Snapshot ID: `AAAQM3nAPlKBfHKItdk/kknZz4jV36/M`
+Snapshot ID: `AAAQN6QrYHIlX0tr9a4TiRTCpn806T4L`

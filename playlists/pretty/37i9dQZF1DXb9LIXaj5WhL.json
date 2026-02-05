@@ -1,6 +1,6 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2439627,
+  "num_followers": 2439614,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-05 21:46:01",
       "album": {
-        "name": "The Globe Sessions",
-        "url": "https://open.spotify.com/album/1eFS4z1AJJCn2zzkZBwzPb"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/0273i5ysrlovK8rr0KJfQn"
-    },
-    {
-      "added_at": "2024-07-05 21:46:01",
-      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-07-05 21:46:01",
       "album": {
-        "name": "Candlebox",
-        "url": "https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb"
+        "name": "The Globe Sessions",
+        "url": "https://open.spotify.com/album/1eFS4z1AJJCn2zzkZBwzPb"
       },
       "artists": [
         {
-          "name": "Candlebox",
-          "url": "https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 285546,
-      "name": "Cover Me",
-      "url": "https://open.spotify.com/track/5Bb88WRO4906ngHGMvkv4P"
+      "duration_ms": 234133,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/0273i5ysrlovK8rr0KJfQn"
     },
     {
       "added_at": "2024-07-05 21:46:01",
@@ -711,6 +695,22 @@
       "duration_ms": 264200,
       "name": "Sunny Came Home",
       "url": "https://open.spotify.com/track/4mOxpj82q6n3EO7HBZCelX"
+    },
+    {
+      "added_at": "2024-07-05 21:46:01",
+      "album": {
+        "name": "Candlebox",
+        "url": "https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb"
+      },
+      "artists": [
+        {
+          "name": "Candlebox",
+          "url": "https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n"
+        }
+      ],
+      "duration_ms": 285546,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/5Bb88WRO4906ngHGMvkv4P"
     },
     {
       "added_at": "2024-07-05 21:46:01",

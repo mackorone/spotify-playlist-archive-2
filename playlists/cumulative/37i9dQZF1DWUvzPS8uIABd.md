@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-882 songs - 1 day 20 hr 2 min
+883 songs - 1 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Elvytä mut](https://open.spotify.com/track/5MuQp9rBwc1imnhrDyCRsy) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Elvytä mut](https://open.spotify.com/album/6KCgNmxuySo94NltGcsbug) | 2:57 | 2025-11-20 | 2026-01-15 |
 | [Elämä on](https://open.spotify.com/track/1amuQc6v9xWbgsdq4YyaMe) | [Katri Ylander](https://open.spotify.com/artist/3mg3tHkrHDJfSoZnslKvI2) | [Elämä on](https://open.spotify.com/album/46LJKnbmDWdvMiVlDQdAVn) | 2:49 | 2025-05-08 | 2025-06-20 |
 | [Elämä on elämää \- Vain elämää kausi 15](https://open.spotify.com/track/2bAQDFfY2LblZuJFHcxWMt) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Elämä on elämää \(Vain elämää kausi 15\)](https://open.spotify.com/album/591ixr7AzUaiUssI0mhwZX) | 3:09 | 2024-11-07 | 2024-11-15 |
-| [Elämäni kunnossa](https://open.spotify.com/track/78IQH2vGBL4u9DtUeqB2im) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Elämäni kunnossa](https://open.spotify.com/album/1kkxk0ymhZwT1xNzwTDA64) | 3:18 | 2025-12-11 |  |
+| [Elämäni kunnossa](https://open.spotify.com/track/78IQH2vGBL4u9DtUeqB2im) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Elämäni kunnossa](https://open.spotify.com/album/1kkxk0ymhZwT1xNzwTDA64) | 3:18 | 2025-12-11 | 2026-02-05 |
 | [Elämää](https://open.spotify.com/track/5m0k08yKvP86Es3VB6Eglc) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Paha maa](https://open.spotify.com/album/3eEACvL4jEhDbbjHIh5fvx) | 2:36 | 2024-10-17 | 2024-11-08 |
 | [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 | 2024-09-14 | 2024-10-25 |
 | [En Haluu Et Sä Kuolet](https://open.spotify.com/track/4J9obNqZqS2jo0XBNDEqL1) | [Nikke Ankara](https://open.spotify.com/artist/2E5rkwWAKphgpurncaoAyn) | [En Haluu Et Sä Kuolet](https://open.spotify.com/album/1HCOomHgkXHsmrvmNJgmdU) | 3:01 | 2025-06-19 | 2025-08-13 |
@@ -676,6 +676,7 @@
 | [Sotilas \(feat\. Senni\)](https://open.spotify.com/track/6shalerzc3LLKNj6rvHhfT) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw), [Senni](https://open.spotify.com/artist/7pI7IBuoklCAyUgFIIwhpr) | [Sotilas \(feat\. Senni\)](https://open.spotify.com/album/2gnYoLjr1OI483XTKCxHKq) | 2:59 | 2025-11-13 |  |
 | [SRR](https://open.spotify.com/track/4vDIYUPebV425O9fXMmikx) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [SRR](https://open.spotify.com/album/3GW5a1LAFUscAFWiMov8Fj) | 2:10 | 2024-11-21 | 2024-12-06 |
 | [Stadi \(Alicia\)](https://open.spotify.com/track/7gHubaWZNQNvLieogqkVmA) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Stadi \(Alicia\)](https://open.spotify.com/album/1Q3cD40iLszO4uvmc0kH87) | 2:22 | 2024-07-02 | 2024-10-04 |
+| [Stand Back](https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Stand Back](https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe) | 2:45 | 2026-01-29 |  |
 | [Stunttaa](https://open.spotify.com/track/3pHedpfRhjtt6Adzmu2kpO) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Stunttaa](https://open.spotify.com/album/4VnQeKI8vqpPcdxTedJFgJ) | 2:58 | 2024-07-02 | 2024-07-12 |
 | [Sua Ei Oo \- WILLEM Remix](https://open.spotify.com/track/6POXTrTpf5usT9rrbU3L0r) | [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sua Ei Oo \(WILLEM Remix\)](https://open.spotify.com/album/1qo9NF4hD21s1tfdnudYmI) | 2:52 | 2025-10-20 | 2025-12-19 |
 | [Suljettu sydän \(Vain elämää kausi 16\)](https://open.spotify.com/track/3Q34SUXygIBEqycxs0jgDo) | [Pelle Miljoona](https://open.spotify.com/artist/7Gi708Ix6cns0SGJiZ4tvo) | [Suljettu sydän \(Vain elämää kausi 16\)](https://open.spotify.com/album/5dx338fSMUsO3x1PUSIumv) | 2:29 | 2025-09-18 | 2025-09-27 |

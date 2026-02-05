@@ -3665,6 +3665,28 @@
     },
     {
       "album": {
+        "name": "At What Cost?",
+        "url": "https://open.spotify.com/album/0VVOPPQyZ5Y6Xk6zRyJYSO"
+      },
+      "artists": [
+        {
+          "name": "Loota",
+          "url": "https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7"
+        },
+        {
+          "name": "Coldie",
+          "url": "https://open.spotify.com/artist/33pU8axDaJ7vlfT9yUt1pk"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140624,
+      "name": "At What Cost?",
+      "url": "https://open.spotify.com/track/5yRYv9Is7cNfBPkjz91Fgo"
+    },
+    {
+      "album": {
         "name": "ATTENTION",
         "url": "https://open.spotify.com/album/6yyYGRIhEHSd0RW8EU2dO0"
       },
@@ -31013,8 +31035,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Post Poet",
+        "url": "https://open.spotify.com/album/4b7k0gx2k2ATNPKIxwBKvg"
       },
       "artists": [
         {

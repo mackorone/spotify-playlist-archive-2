@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Crazy Fool",
+        "url": "https://open.spotify.com/album/5IuRXvX2UuTjvod9F8EU0I"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Crazy Fool",
+      "url": "https://open.spotify.com/track/16LNhwdZSgjmiAMIm2yjR6"
+    },
+    {
+      "album": {
         "name": "cry a lot",
         "url": "https://open.spotify.com/album/4R1uG9fvia8PYjndO4BNH7"
       },
@@ -5176,7 +5194,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 244000,
       "name": "Last Light",
       "url": "https://open.spotify.com/track/6dtWY9dcVWpNXNOkFtIrQI"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-2,071 songs - 4 day 13 hr 29 min
+2,072 songs - 4 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,8 @@
 | [BOLOLO HAHA](https://open.spotify.com/track/41gW3bE0kOTH5ibqa74C0S) | [Ironic Project](https://open.spotify.com/artist/5mBduO1EvvzC2eDaBO31Zt) | [BOLOLO HAHA](https://open.spotify.com/album/3IchqZYl8TGV7CEV01xpK6) | 4:05 | 2024-08-07 | 2024-08-28 |
 | [Bomba Bomba \(tacones, uñas, pelo largo\)](https://open.spotify.com/track/69xk9ZJcndRRZgR9mcrerO) | [Jeremias Suez](https://open.spotify.com/artist/6WBJf1wKuMZvRN8RkB9UDa) | [Bomba Bomba \(tacones, uñas, pelo largo\)](https://open.spotify.com/album/75ezWv0q5rjEpU5R0PuFY4) | 1:12 | 2025-05-27 | 2025-06-11 |
 | [Bombon](https://open.spotify.com/track/5mevdrlo64Lm6RGRa5VCFq) | [Karina y Marina](https://open.spotify.com/artist/4B6Hy10aNxuD1TebKDgzAe), [Hugo23](https://open.spotify.com/artist/7AYmFR2ZafMeVqMc0Rf2KZ), [Sennior](https://open.spotify.com/artist/7CJhPRV8canYfr5Ua9EqbQ) | [Bombon](https://open.spotify.com/album/6ozhw89PnfdkAI1dIMkemr) | 2:47 | 2024-10-01 | 2024-10-27 |
-| [Bonita Bonita](https://open.spotify.com/track/1cGKyYZ0S7P0APgnjiCQ4E) | [4AMTapes](https://open.spotify.com/artist/4d65skQOI4fUyy3CKDTFqh) | [Bonita Bonita](https://open.spotify.com/album/6BLPFT9B5o63dt5VM1KbyX) | 4:34 | 2026-01-20 |  |
+| [Bonita Bonita](https://open.spotify.com/track/1cGKyYZ0S7P0APgnjiCQ4E) | [4AMTapes](https://open.spotify.com/artist/4d65skQOI4fUyy3CKDTFqh) | [Bonita Bonita](https://open.spotify.com/album/6BLPFT9B5o63dt5VM1KbyX) | 4:34 | 2026-01-20 | 2026-02-05 |
+| [Bonita Bonita](https://open.spotify.com/track/5QNHKiu5EtYcAcZEX0ImXt) | [4AMTapes](https://open.spotify.com/artist/4d65skQOI4fUyy3CKDTFqh) | [Bonita Bonita](https://open.spotify.com/album/3zsghCtMMPyIzqXRpcwtzG) | 4:34 | 2026-02-04 |  |
 | [BONITA BONITA](https://open.spotify.com/track/4EMJl0imBLiNOQ21WdE7ZH) | [4AMTapes](https://open.spotify.com/artist/4d65skQOI4fUyy3CKDTFqh) | [4AMTapes](https://open.spotify.com/album/1udjEYm5unTMFcdg1mQCiO) | 4:34 | 2026-01-01 | 2026-01-15 |
 | [Boomerang](https://open.spotify.com/track/60d2c47Oz2Wf2h0GnU2m9d) | [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [godie.](https://open.spotify.com/artist/5VWqDJQziNeUjSkOCzweGH), [V.I.C](https://open.spotify.com/artist/74CA7WjisOioFzIoREi20s) | [SOBRE UNA NUBE DE ALGODÓN](https://open.spotify.com/album/1VNSqvOeEGB0QKNoI3PNBb) | 2:22 | 2024-09-01 | 2024-11-06 |
 | [Boppa Private \- Afro House](https://open.spotify.com/track/6hXu7AenlRd9HZa3OLlV2k) | [Dj Jose Gonzalez](https://open.spotify.com/artist/6YT2cextE84WCA3Hwlc5Eg), [Dj Roderick](https://open.spotify.com/artist/0xt5YPdGAXuZpcvJpuhDC0) | [Boppa Private \(Afro House\)](https://open.spotify.com/album/2ZjuRgeUFdna2eL50Jh4H5) | 3:19 | 2024-12-09 | 2025-01-15 |

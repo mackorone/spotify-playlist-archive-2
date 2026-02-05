@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1232,
+  "num_followers": 1235,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAQM3nAPlKBfHKItdk/kknZz4jV36/M",
+  "snapshot_id": "AAAQN6QrYHIlX0tr9a4TiRTCpn806T4L",
   "tracks": [
     {
       "added_at": "2026-01-15 08:27:53",
@@ -2223,6 +2223,70 @@
       "duration_ms": 256795,
       "name": "Le lapin en papier",
       "url": "https://open.spotify.com/track/0GB6KV4GD9Pdi2ZCVJxpcA"
+    },
+    {
+      "added_at": "2026-02-04 10:38:17",
+      "album": {
+        "name": "silver moon",
+        "url": "https://open.spotify.com/album/3u5KpY0cPdWb71SSOHCq0b"
+      },
+      "artists": [
+        {
+          "name": "Rob Linx",
+          "url": "https://open.spotify.com/artist/0HjB27915ai70JyDebH1x8"
+        }
+      ],
+      "duration_ms": 203405,
+      "name": "silver moon",
+      "url": "https://open.spotify.com/track/1wHgGm0nW3CXVJsp6drLMa"
+    },
+    {
+      "added_at": "2026-02-04 10:38:20",
+      "album": {
+        "name": "Whips & Champagne",
+        "url": "https://open.spotify.com/album/4Ylf1UfVu6bIXdXa5uEqDv"
+      },
+      "artists": [
+        {
+          "name": "St Oshun",
+          "url": "https://open.spotify.com/artist/301eU70OY8nQVDDha8Xxdz"
+        }
+      ],
+      "duration_ms": 217758,
+      "name": "Whips & Champagne",
+      "url": "https://open.spotify.com/track/1WNCyzJJNiMmRAlC18LzHW"
+    },
+    {
+      "added_at": "2026-02-04 10:38:37",
+      "album": {
+        "name": "Amores Verdadeiros",
+        "url": "https://open.spotify.com/album/3MGsphbmnz4m1lA9CGKRwf"
+      },
+      "artists": [
+        {
+          "name": "Binho Rodrigues",
+          "url": "https://open.spotify.com/artist/2Th24UXO0EXhREONi0KNkd"
+        }
+      ],
+      "duration_ms": 139755,
+      "name": "Amores Verdadeiros",
+      "url": "https://open.spotify.com/track/0KFjJCtRRslJdBjQITVRGp"
+    },
+    {
+      "added_at": "2026-02-04 10:38:42",
+      "album": {
+        "name": "somewhere out there",
+        "url": "https://open.spotify.com/album/3b7kPzUL5gR4JKTAAGjDGQ"
+      },
+      "artists": [
+        {
+          "name": "Heather Bond",
+          "url": "https://open.spotify.com/artist/20sShzubGeYpYFNoDY11sK"
+        }
+      ],
+      "duration_ms": 284001,
+      "name": "I painted our kitchen",
+      "url": "https://open.spotify.com/track/0M7wvy5zekMKNkGrT1WMsB"
     }
   ],
   "unique_name": "New Indie Music",

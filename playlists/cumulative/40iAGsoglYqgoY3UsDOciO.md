@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-478 songs - 23 hr 11 min
+482 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [ioU](https://open.spotify.com/track/5uB8JwWGjFOA1jVVrZnvKa) | [Rhys](https://open.spotify.com/artist/3ib3suDKiZY4EmEafjuWa3) | [ioU](https://open.spotify.com/album/1lUSpq6QVxVIMJwkkx0DSh) | 2:09 | 2023-07-26 |  |
 | [Isolation](https://open.spotify.com/track/44ORI03tYd8T0GRGmT6hMO) | [Tee Kae](https://open.spotify.com/artist/7yVRtDOR1a7cWjvynt9yop) | [Metamorphosis](https://open.spotify.com/album/4BNkb4V1QoAzMfjGcUuLy1) | 3:44 | 2025-11-16 |  |
 | [it's not about u](https://open.spotify.com/track/7mvVMUBy9bZI13N7dipRlx) | [Eva Grace](https://open.spotify.com/artist/67sX3xnatlElE31KHjSWVr) | [it's not about u](https://open.spotify.com/album/27eBFT50n6XdoOhNE7dpU4) | 2:09 | 2023-07-26 |  |
+| [ITRIED](https://open.spotify.com/track/39Xhs5EHLLlcRdL30j5a9G) | [NikhiL Keolan Gounden](https://open.spotify.com/artist/1ZcgW5GN8CCg2vANZwMgG1) | [R.S TAPEZ 1](https://open.spotify.com/album/28NQqIZbAsA1sxtuuTV60B) | 2:11 | 2026-02-04 |  |
 | [JANE GOODALL](https://open.spotify.com/track/0zdrvHfEwtIEB5McVRw9XP) | [Rolo](https://open.spotify.com/artist/7KGGo3dYH0hGs2JWllqI1I) | [JANE GOODALL](https://open.spotify.com/album/2qIQggwIpzjsP0k7tsG7SY) | 1:33 | 2026-01-24 |  |
 | [jenny jenkins tribute](https://open.spotify.com/track/0KkPB2vwiHsadUZREbP82S) | [LILBADDIETYRONE](https://open.spotify.com/artist/3Q9gITSqraeLAotKbn8Wsp) | [jenny jenkins tribute](https://open.spotify.com/album/19AOOVCHpr2XNY6amT024Y) | 1:06 | 2024-06-04 |  |
 | [JETTLAG](https://open.spotify.com/track/65KimIiZBYdeJxsM7G4KjY) | [Sleepin Blades](https://open.spotify.com/artist/4STGo30u63l1G6NbNDngKh) | [JETTLAG](https://open.spotify.com/album/67A3yJLJKy8y6ZEZHaSy8i) | 1:58 | 2025-10-10 |  |
@@ -328,6 +329,7 @@
 | [Point Blank](https://open.spotify.com/track/7a4OWthx3aS1R3DcfQbFXu) | [GVANI](https://open.spotify.com/artist/6HdmQgsMCRfLKINoM0SllV) | [Point Blank](https://open.spotify.com/album/3VzmpzoqM7P4aqv4DjnrH8) | 3:14 | 2024-06-07 |  |
 | [Pointless](https://open.spotify.com/track/6ZlQFejMqefc6DaGvRpjRi) | [Civic the Rapper](https://open.spotify.com/artist/1hLur3vYFS7rhqbMHCmjJ3) | [Pointless](https://open.spotify.com/album/5lI3UWNN9eW6ID9Nt1i0ur) | 2:13 | 2024-05-21 |  |
 | [PORSCHE TOPLESS](https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [PORSCHE TOPLESS](https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn) | 2:50 | 2023-07-26 |  |
+| [Pressuh](https://open.spotify.com/track/0bN6DP9jvgIEqkLCYVVnCk) | [Dova?](https://open.spotify.com/artist/1EEjUSS9drSjsLAndXHpRo) | [Pressuh](https://open.spotify.com/album/7eWqkKPbjpBjysS4Kc15f8) | 2:00 | 2026-02-04 |  |
 | [Pretty Girl Anthem](https://open.spotify.com/track/3Y7QIGlqUnK8PpZRxEbM7a) | [Lady Rosze](https://open.spotify.com/artist/4VMhUIegIg2ormwFxzfmjR) | [Pretty Girl Anthem](https://open.spotify.com/album/1A2TNGnd4wZAJuQ9rPwgZ7) | 1:47 | 2024-06-29 |  |
 | [Primal](https://open.spotify.com/track/7751Toxhe3smeoKInekmgs) | [Amanarii](https://open.spotify.com/artist/2c6HeyEmoSM1zZmobzbM0e) | [Primal](https://open.spotify.com/album/77rqQKFGfsXsCaaG4E6RxI) | 2:09 | 2025-10-15 |  |
 | [Purple Demons](https://open.spotify.com/track/2ghxwM1pORJkiivLTDIV0e) | [GRGP TY](https://open.spotify.com/artist/1ILNmtz0YGwcyaiTpVfQn7) | [Purple Demons](https://open.spotify.com/album/3J2T9AMIWWOHsCF7Fg1Wmg) | 2:06 | 2026-02-03 |  |
@@ -465,9 +467,11 @@
 | [When It Comes To You](https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [When It Comes To You](https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi) | 2:48 | 2023-07-26 |  |
 | [When You, Love Someone](https://open.spotify.com/track/0UefkaKqYIm0aMd3knln7M) | [Khal!l](https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe) | [Heart](https://open.spotify.com/album/76OBbKGs49FyxGoWMMj51C) | 3:10 | 2023-07-26 |  |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-07-26 |  |
+| [Whitney remix ft\. swaveoh](https://open.spotify.com/track/4mo6JNiJ6RlcrxYArkImoR) | [swaveoh](https://open.spotify.com/artist/4tq4w6QBUcBu7jPXlREGDz) | [Whitney remix ft\. swaveoh](https://open.spotify.com/album/76LHANQHM4lOYbeultZQYN) | 1:38 | 2026-02-04 |  |
 | [Who He Iz](https://open.spotify.com/track/02nhDSWvcXYALyVkth2oXd) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 3:01 | 2023-07-26 |  |
 | [Why Would i ?](https://open.spotify.com/track/6J2FGkgGdebAQyFkciS5BX) | [Vonté Malone](https://open.spotify.com/artist/3SxJvThHGONVFJQMJ0W8LU) | [Why Would i ?](https://open.spotify.com/album/5CY9Fp9ozfzgZwufIJy4UR) | 1:59 | 2024-07-22 |  |
 | [WIFE YOU UP](https://open.spotify.com/track/0Hg2N59MLGTo588NK6DHC9) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Mayn](https://open.spotify.com/artist/3Bm2qmss0lQDGCO0NoH2zX), [OhMyGon!](https://open.spotify.com/artist/24Yd7vBTT9pEYgOw9Cs2Pj) | [WIFE YOU UP](https://open.spotify.com/album/2YqQ3pZFbtlgvM0li5R7p0) | 2:18 | 2025-10-08 |  |
+| [WIFE YOU UP \- Dance Remix](https://open.spotify.com/track/2IbvLHBU9xNltdOxQNc7Ee) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [blackbirdz](https://open.spotify.com/artist/5XlpgAlMt1YOjijhFazgdg), [JJJackson](https://open.spotify.com/artist/0MOqq6zMTLf6oTqkcCTAv6) | [WIFE YOU UP REMIX PACK](https://open.spotify.com/album/3Q1Dl3LhIIYfcl19OL6Pks) | 2:36 | 2026-02-04 |  |
 | [WINSTON](https://open.spotify.com/track/1BltLlvaLjZOTXEUnEdmO1) | [DR\. CHEDDAR](https://open.spotify.com/artist/0WTTEJEaTB3Ut69Zll64cN) | [WINSTON](https://open.spotify.com/album/5RJrIYuldOD9XoKmL90Cy3) | 2:48 | 2024-05-24 |  |
 | [Wolves \(feat\. Ty Dolla $ign & Russ\)](https://open.spotify.com/track/5cUITXYU5uSPfv3T1K9FH3) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [In Between](https://open.spotify.com/album/0rfdzpUAMNtYie0qZCg8XA) | 3:51 | 2023-07-26 |  |
 | [Workaholic](https://open.spotify.com/track/1v95NryRbQn0HXJH2wqzgu) | [Ill Slim Collin](https://open.spotify.com/artist/6QmYQPrILpatGcjIQthHGl), [Gangsta O](https://open.spotify.com/artist/5XmNfQhNjrqjB8qQSMRLXJ), [Daze Calhoun](https://open.spotify.com/artist/2J1FX6h4FW10nCAMSTR9Vu), [Maccniph](https://open.spotify.com/artist/59CwI4vrgmaU8TSDgiQYAp) | [Still Waters Run Deep](https://open.spotify.com/album/4zNt9QGmFLijSz0IywZTPS) | 3:24 | 2024-08-09 |  |

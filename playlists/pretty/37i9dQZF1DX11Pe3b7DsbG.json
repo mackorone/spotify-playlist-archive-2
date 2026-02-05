@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 234816,
+  "num_followers": 234799,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -783,26 +783,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "+ 100",
-        "url": "https://open.spotify.com/album/0qcVF3tbambXrwHNDcdDKf"
-      },
-      "artists": [
-        {
-          "name": "Casuarina",
-          "url": "https://open.spotify.com/artist/0Z7qVrRll0xvdJ68DX0O0b"
-        },
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 151900,
-      "name": "Heran\u00e7a de Partideiro",
-      "url": "https://open.spotify.com/track/6GFELqU2Mq8vpIZEpslS8F"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "S\u00e3o Jos\u00e9 De Madureira / Camar\u00e3o Que Dorme A Onda Leva / \u00c1gua Da Minha Sede (20 anos de Hist\u00f3ria, Ao Vivo)",
         "url": "https://open.spotify.com/album/5yj8udFii2V3sNiakldtPR"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 325812,
       "name": "S\u00e3o Jos\u00e9 De Madureira / Camar\u00e3o Que Dorme A Onda Leva / \u00c1gua Da Minha Sede - 20 anos de Hist\u00f3ria, Ao Vivo",
       "url": "https://open.spotify.com/track/53EczX5FDHoahtjJTy9vVu"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "+ 100",
+        "url": "https://open.spotify.com/album/0qcVF3tbambXrwHNDcdDKf"
+      },
+      "artists": [
+        {
+          "name": "Casuarina",
+          "url": "https://open.spotify.com/artist/0Z7qVrRll0xvdJ68DX0O0b"
+        },
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 151900,
+      "name": "Heran\u00e7a de Partideiro",
+      "url": "https://open.spotify.com/track/6GFELqU2Mq8vpIZEpslS8F"
     },
     {
       "added_at": "2025-09-19 22:07:37",

@@ -7263,7 +7263,7 @@
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 161610,
+      "duration_ms": 164073,
       "name": "bad",
       "url": "https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ"
     },
@@ -28832,12 +28832,12 @@
       },
       "artists": [
         {
-          "name": "Ben Esser",
-          "url": "https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs"
-        },
-        {
           "name": "Beau Diako",
           "url": "https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu"
+        },
+        {
+          "name": "Ben Esser",
+          "url": "https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs"
         },
         {
           "name": "emawk",

@@ -691,22 +691,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "O Mundo D\u00e1 Voltas (Spotify Singles)",
-        "url": "https://open.spotify.com/album/59kSwQ4mkGJ5YVmVgmQv3s"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 186778,
-      "name": "O Mundo D\u00e1 Voltas - Spotify Singles",
-      "url": "https://open.spotify.com/track/1yz7wQVh2A3cCED0QPpfGU"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 237551,
       "name": "Vivir Mi Vida - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2fonqgmRhs64TBxzTPlA9w"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "O Mundo D\u00e1 Voltas (Spotify Singles)",
+        "url": "https://open.spotify.com/album/59kSwQ4mkGJ5YVmVgmQv3s"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 186778,
+      "name": "O Mundo D\u00e1 Voltas - Spotify Singles",
+      "url": "https://open.spotify.com/track/1yz7wQVh2A3cCED0QPpfGU"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -872,22 +872,6 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 260213,
-      "name": "Flaco - Spotify Singles",
-      "url": "https://open.spotify.com/track/0lhX3lxFDk0KOeXoQdJ6vW"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7JzwQl46xJFV9Ce68N3ga5"
       },
       "artists": [
@@ -899,6 +883,22 @@
       "duration_ms": 312529,
       "name": "MAFIOSA - Live - Spotify Singles",
       "url": "https://open.spotify.com/track/0QwD3AF2EQC6CQRraLvcBB"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 260213,
+      "name": "Flaco - Spotify Singles",
+      "url": "https://open.spotify.com/track/0lhX3lxFDk0KOeXoQdJ6vW"
     },
     {
       "added_at": "2024-11-07 00:01:00",

@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Clipse and Pharrell
 
-1,919 songs - 3 day 15 hr 5 min
+1,920 songs - 3 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1572,6 +1572,7 @@
 | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/track/1QQa1xdCx4t9DUgQH21Xoo) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/album/6vOE77BmSitUxf8v4ZjUKW) | 2:44 | 2022-07-22 | 2022-09-24 |
 | [So Be It](https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 3:14 | 2025-07-14 |  |
 | [So DISRESPECTFUL](https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [So DISRESPECTFUL](https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP) | 2:01 | 2023-03-10 | 2023-07-15 |
+| [So Far Ahead](https://open.spotify.com/track/6kIwGkZQksciLIjIbM0NFo) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 3:22 | 2026-02-04 |  |
 | [Sofine](https://open.spotify.com/track/0G7OaE3Vngi5DoTOywlgqo) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x), [MaxThaDemon](https://open.spotify.com/artist/6xixlvOnj1ijQtFDiBXCIj) | [Sofine](https://open.spotify.com/album/5dHLpNSCsdbXnRfyhB1eO8) | 2:10 | 2025-02-07 | 2025-04-19 |
 | [SOLD OUT](https://open.spotify.com/track/4oSo1Wtu73wqf8YxerTiV4) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [SOLD OUT](https://open.spotify.com/album/55vTWKWqRLNYoJoEzDEU2h) | 1:41 | 2025-05-09 | 2025-05-16 |
 | [Soldier of Fortune](https://open.spotify.com/track/3jMvRIXQkRRY0xbXmYJgGx) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Soldier of Fortune](https://open.spotify.com/album/4LxoLvOolBTN7Mp5NKsoOJ) | 3:34 | 2025-02-07 | 2025-02-22 |

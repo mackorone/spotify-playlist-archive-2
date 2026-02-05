@@ -2,7 +2,7 @@
 
 ### [Super Bowl Watch Party 2026](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> The BEST SPORTS MUSIC from your favortite artists for Super Bowl  LX Sunday in San Francisco \|Super Bowll Party\| Halftime Performance\|
+> The soundtrack for your Super Bowl  LX Party \|Super Bowl Party\| Halftime Performance\|
 
 1,074 songs - 2 day 15 hr 43 min
 

@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 18145,
+  "num_followers": 18164,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2026-01-14 12:42:41",
       "album": {
+        "name": "Ewor Me",
+        "url": "https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        },
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        }
+      ],
+      "duration_ms": 220927,
+      "name": "Ewor Me",
+      "url": "https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP"
+    },
+    {
+      "added_at": "2026-01-14 12:42:41",
+      "album": {
         "name": "It Is Finished",
         "url": "https://open.spotify.com/album/1lYbe3Gt2yDLeBgR1rhEls"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 176000,
       "name": "Monica",
       "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
-    },
-    {
-      "added_at": "2026-01-14 12:42:41",
-      "album": {
-        "name": "Ewor Me",
-        "url": "https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey"
-      },
-      "artists": [
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        },
-        {
-          "name": "Kwabena Kwabena",
-          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
-        }
-      ],
-      "duration_ms": 220927,
-      "name": "Ewor Me",
-      "url": "https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP"
     },
     {
       "added_at": "2026-01-14 12:42:41",

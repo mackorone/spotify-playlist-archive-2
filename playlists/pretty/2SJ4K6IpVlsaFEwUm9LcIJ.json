@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to jan-feb 2026",
-  "num_followers": 23887,
+  "num_followers": 23892,
   "original_name": "now is not the time, the time is now",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAN26EHHeJVU3LOta299MKwmpa7tD59",
+  "snapshot_id": "AAAN4R03e+xMtgGvMYZ1zn1Exrgu3G4h",
   "tracks": [
     {
       "added_at": "2026-01-08 20:03:59",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/0eRw1thpWDU7tFt6NfVU4C"
     },
     {
+      "added_at": "2026-01-17 20:12:09",
+      "album": {
+        "name": "When The Pawn...",
+        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "Paper Bag",
+      "url": "https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA"
+    },
+    {
       "added_at": "2026-01-09 20:00:11",
       "album": {
         "name": "When The Pawn...",
@@ -383,22 +399,6 @@
       "duration_ms": 65000,
       "name": "Dance",
       "url": "https://open.spotify.com/track/3idjeb4oia9I59Dql0aPkD"
-    },
-    {
-      "added_at": "2026-01-17 20:12:09",
-      "album": {
-        "name": "When The Pawn...",
-        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Paper Bag",
-      "url": "https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA"
     },
     {
       "added_at": "2026-01-17 20:12:16",
@@ -767,6 +767,86 @@
       "duration_ms": 185280,
       "name": "The Golden Flower",
       "url": "https://open.spotify.com/track/5DIft0NqGBXTy3myTZ3VoF"
+    },
+    {
+      "added_at": "2026-02-04 01:44:07",
+      "album": {
+        "name": "Matricidal Sons of Bitches",
+        "url": "https://open.spotify.com/album/1bHdETDgG2l7SycZVBhlkp"
+      },
+      "artists": [
+        {
+          "name": "Matthew Friedberger",
+          "url": "https://open.spotify.com/artist/3n4TujnxCQTJnypsm5btks"
+        }
+      ],
+      "duration_ms": 239617,
+      "name": "Brand-New Mothers\u00a0\u2013 Trying it Out IX. Brand-New Mothers",
+      "url": "https://open.spotify.com/track/5I8I7ejPYxM7rmQebkqKyD"
+    },
+    {
+      "added_at": "2026-02-04 01:47:18",
+      "album": {
+        "name": "The Hour of Bewilderbeast",
+        "url": "https://open.spotify.com/album/7y0QwysyQgSf9fyBFr6Q3x"
+      },
+      "artists": [
+        {
+          "name": "Badly Drawn Boy",
+          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+        }
+      ],
+      "duration_ms": 137706,
+      "name": "Fall in a River",
+      "url": "https://open.spotify.com/track/2HwFwesNWol9dXZ9WqyIYI"
+    },
+    {
+      "added_at": "2026-02-04 01:49:55",
+      "album": {
+        "name": "Seefeel",
+        "url": "https://open.spotify.com/album/1yPrCGFEmjdKKjmdo0I4Jd"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 345186,
+      "name": "Faults",
+      "url": "https://open.spotify.com/track/3dvxF0boVTu3aSIevH99sk"
+    },
+    {
+      "added_at": "2026-02-04 03:50:39",
+      "album": {
+        "name": "Have You Been Good to Yourself",
+        "url": "https://open.spotify.com/album/1kcDLZXZRUnZdRlCea4Yne"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Frierson",
+          "url": "https://open.spotify.com/artist/2hWD9jbxq2spqxPTuNyuVN"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/1rYu6IaPWvIWkrSBlxwj8e"
+    },
+    {
+      "added_at": "2026-02-04 03:54:54",
+      "album": {
+        "name": "Have You Been Good to Yourself",
+        "url": "https://open.spotify.com/album/1kcDLZXZRUnZdRlCea4Yne"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Frierson",
+          "url": "https://open.spotify.com/artist/2hWD9jbxq2spqxPTuNyuVN"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "You Were Sent to This World",
+      "url": "https://open.spotify.com/track/2yxsfTZTOIvaT9C3EAdWkn"
     }
   ],
   "unique_name": "now is not the time, the time is now",

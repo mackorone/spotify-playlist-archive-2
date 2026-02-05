@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Ramya Ramkumar",
+  "description": "The best new music by independent artists and labels in India. Cover - Shubham Mody",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 212812,
       "name": "20 Something",
       "url": "https://open.spotify.com/track/2PmkxEUGG1epRsaZ2q6mFs"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 297916,
       "name": "Aana Yahaan",
       "url": "https://open.spotify.com/track/4aiT0RVFF56bgldswK1huB"
@@ -2817,6 +2817,28 @@
     },
     {
       "album": {
+        "name": "Baatein Ankahi",
+        "url": "https://open.spotify.com/album/6DgPSAnn5mICBFm4vm8UGk"
+      },
+      "artists": [
+        {
+          "name": "Savni Bhatt",
+          "url": "https://open.spotify.com/artist/1YO52y5qNkcHvM2x27N2Tn"
+        },
+        {
+          "name": "Satyajeet Sanju",
+          "url": "https://open.spotify.com/artist/5eM5WGMDUtnZhnCCa9Cpfo"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239624,
+      "name": "Baatein Ankahi",
+      "url": "https://open.spotify.com/track/5B29CnWTRJOlG3wICjAbsF"
+    },
+    {
+      "album": {
         "name": "Baatien",
         "url": "https://open.spotify.com/album/2AkcLlGMoAJmT9iYMIQmSz"
       },
@@ -2908,7 +2930,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 203418,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/5CbkazSsbSoPUb5cmAUrty"
@@ -3670,7 +3692,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 162474,
       "name": "Behta Mann",
       "url": "https://open.spotify.com/track/4B2Qb4KWcfnt8Byj6zLw0R"
@@ -5744,7 +5766,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 113239,
       "name": "Chosen One",
       "url": "https://open.spotify.com/track/2lEJHewM3XPgNVURpZ1U8i"
@@ -15205,6 +15227,24 @@
     },
     {
       "album": {
+        "name": "Kaagaz",
+        "url": "https://open.spotify.com/album/3uouFVYNGxw8sxCmFdRHwA"
+      },
+      "artists": [
+        {
+          "name": "Anant Goyal",
+          "url": "https://open.spotify.com/artist/0sD5AiFf2hTmV6cImpqoGK"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Kaagaz",
+      "url": "https://open.spotify.com/track/43IO9agCdpbAe2AiSveUMF"
+    },
+    {
+      "album": {
         "name": "Kaagazi",
         "url": "https://open.spotify.com/album/3jyO37uOdyBw0GBjHlEzDP"
       },
@@ -17010,7 +17050,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 190432,
       "name": "KHAYAL",
       "url": "https://open.spotify.com/track/1xpqLoRENNGKJjvjRxIjTv"
@@ -17822,7 +17862,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 140571,
       "name": "Khwahishein",
       "url": "https://open.spotify.com/track/47RhGQxt5LvF9wbhciPVdS"
@@ -19134,7 +19174,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 139354,
       "name": "Lately",
       "url": "https://open.spotify.com/track/4UejpFDVmwJkJfidhbKxeQ"
@@ -20022,6 +20062,32 @@
       "duration_ms": 141323,
       "name": "Maan Jana",
       "url": "https://open.spotify.com/track/0eUNQDr5lOIRP2U741IKK5"
+    },
+    {
+      "album": {
+        "name": "Maano Na Yaar",
+        "url": "https://open.spotify.com/album/4BBpN3l7ttm0xeSAbS4pta"
+      },
+      "artists": [
+        {
+          "name": "Shubham Mody",
+          "url": "https://open.spotify.com/artist/2s5JRMkonkFF1IUhqHdsxS"
+        },
+        {
+          "name": "Akshata Kulkarni",
+          "url": "https://open.spotify.com/artist/14gTv0SZV8U9XUTbCB82gC"
+        },
+        {
+          "name": "Prakhar Yadav",
+          "url": "https://open.spotify.com/artist/4Do5isIX41eECxZV43PGdy"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204935,
+      "name": "Maano Na Yaar",
+      "url": "https://open.spotify.com/track/3zMWhPIwFzzrapTwkWpWgn"
     },
     {
       "album": {
@@ -21530,6 +21596,28 @@
       "duration_ms": 174000,
       "name": "Mera Dil Meri Jaan",
       "url": "https://open.spotify.com/track/1wnATKTqOOw1fT4eXg4q9v"
+    },
+    {
+      "album": {
+        "name": "Mera Ho Jaye",
+        "url": "https://open.spotify.com/album/5ioBBjFM8HgkUlCGsmJyRe"
+      },
+      "artists": [
+        {
+          "name": "Paras Chhaya",
+          "url": "https://open.spotify.com/artist/1lwvoa7cYVXSeXfJPD40ZN"
+        },
+        {
+          "name": "Christina Gurung",
+          "url": "https://open.spotify.com/artist/5F0oed2sGuf98wUU5vb2el"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349995,
+      "name": "Mera Ho Jaye",
+      "url": "https://open.spotify.com/track/2HZIIRP3VbKb5haEljXuxL"
     },
     {
       "album": {
@@ -23747,6 +23835,28 @@
     },
     {
       "album": {
+        "name": "NOT A ROCKSTAR",
+        "url": "https://open.spotify.com/album/2NrjqOYMj6FQzf7SwRg3IR"
+      },
+      "artists": [
+        {
+          "name": "Shikhar",
+          "url": "https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9"
+        },
+        {
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166840,
+      "name": "NOT A ROCKSTAR",
+      "url": "https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE"
+    },
+    {
+      "album": {
         "name": "Nothing New",
         "url": "https://open.spotify.com/album/5WN7UPeZxnoR6gUpkOE8o5"
       },
@@ -24826,6 +24936,28 @@
       "duration_ms": 208775,
       "name": "Parindey",
       "url": "https://open.spotify.com/track/4LHuTmHGpuIDwCbN4eFpob"
+    },
+    {
+      "album": {
+        "name": "Parindon Sa",
+        "url": "https://open.spotify.com/album/0O3fvVCIt9TuOE6z6aDAfL"
+      },
+      "artists": [
+        {
+          "name": "Ishaan Nigam",
+          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
+        },
+        {
+          "name": "Shubham Agrawal",
+          "url": "https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Parindon Sa",
+      "url": "https://open.spotify.com/track/3FkIN7Ww7bBErJH1rhwMyF"
     },
     {
       "album": {
@@ -26310,6 +26442,32 @@
       "duration_ms": 208500,
       "name": "Raaz Tera Mera",
       "url": "https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN"
+    },
+    {
+      "album": {
+        "name": "Raazdari",
+        "url": "https://open.spotify.com/album/5JeO7HqBNTCQJ9vLQRK4fz"
+      },
+      "artists": [
+        {
+          "name": "Pushpita Misra",
+          "url": "https://open.spotify.com/artist/4arILsXRcm2nUzF4ACtOjI"
+        },
+        {
+          "name": "Rishita Sharma",
+          "url": "https://open.spotify.com/artist/68XHiQBJNgtyoYhBw1wgdF"
+        },
+        {
+          "name": "Tazim Sheikh",
+          "url": "https://open.spotify.com/artist/4g18HV2SbD8A2WExxu1vyZ"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Raazdari",
+      "url": "https://open.spotify.com/track/0xFFo2mOlNjvkQghdFbFHc"
     },
     {
       "album": {
@@ -29894,6 +30052,24 @@
       "duration_ms": 163076,
       "name": "So Blue",
       "url": "https://open.spotify.com/track/6L11TOEMnyDF0giRinVCtb"
+    },
+    {
+      "album": {
+        "name": "So Jaana",
+        "url": "https://open.spotify.com/album/1UmbCgx9cHGi6jtxq7t7ow"
+      },
+      "artists": [
+        {
+          "name": "Deepanshi Nagar",
+          "url": "https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151242,
+      "name": "So Jaana",
+      "url": "https://open.spotify.com/track/4Avuf1H2DQtyo10cQSaT9L"
     },
     {
       "album": {

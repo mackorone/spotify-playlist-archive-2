@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Noah Kahan, Don Toliver, Melanie Martinez, Ella Langely, John Summit and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,507,343 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,507,091 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 53 | [Olvídala](https://open.spotify.com/track/7fC9JbQTR20CB6gvWr1NcF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Bohemio](https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV) | 2:33 |
 | 54 | [ROCKSTAR RAGING \(feat\. Swae Lee\)](https://open.spotify.com/track/0HtowIRBzj2HqgO1XW6eJC) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [ROCKSTAR RAGING \(feat\. Swae Lee\)](https://open.spotify.com/album/5gFv6vDkIvIAuEyXAqMa7Y) | 4:38 |
 | 55 | [XTC](https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Jocelyn Enriquez](https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB) | [XTC](https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV) | 3:02 |
-| 56 | [Residue \- The Moment \(The Score\)](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue \- The Moment \(The Score\)](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 |
+| 56 | [Residue](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 |
 | 57 | [Trackhawk](https://open.spotify.com/track/1q8rWcQ8xXd6Q9NKdXNgDL) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Trackhawk](https://open.spotify.com/album/7Kj33Q2x72qmFqs6pmsQ67) | 1:59 |
 | 58 | [Not Sorry](https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [When A Flower Doesn't Grow](https://open.spotify.com/album/4jk5z7n2d9XJGSeVoo0rpm) | 2:50 |
 | 59 | [Smoke Screen](https://open.spotify.com/track/6VBMKUDAS86YIsQXlVo8Ej) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Smoke Screen](https://open.spotify.com/album/4xd4aT1oZmwvRcIMLHcYOE) | 4:20 |

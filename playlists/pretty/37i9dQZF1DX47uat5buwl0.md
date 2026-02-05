@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > Miloolaathetlukken genomineerd voor Edison Pop 2026: Nieuwkomer\. HDP 🔥🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,086 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,078 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 18 | [Knalprobleem](https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Knalprobleem](https://open.spotify.com/album/6rg0zIAUmB3z06LTToM5gS) | 2:03 |
 | 19 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 |
 | 20 | [Harder Dan De Rest](https://open.spotify.com/track/0cgDnxrsgFic9NpHdhe6nH) | [Lustrum Triton](https://open.spotify.com/artist/4YJ3fLFKp9nTmz2rCt9Fq9), [MOMENTUM](https://open.spotify.com/artist/4hXjXth6uVMW3wugrbmFlM), [Youp van Zonneveld](https://open.spotify.com/artist/0sK7iMSS8fDFQ1l792FENk), [MAATWERK](https://open.spotify.com/artist/5VbiuzSW4jBsg5nURcB0lH), [Flint Lenaers](https://open.spotify.com/artist/3SFuljDSfizwCQ5fxRTCN5), [Ivo Zoer](https://open.spotify.com/artist/3DpD5gULV55U6mC9lrUcdq) | [Harder Dan De Rest](https://open.spotify.com/album/3FykLG8XoLtIC3clm73IQD) | 3:21 |
-| 21 | [Take Me Up \(Gotta Get Up\) \- Lego Edit](https://open.spotify.com/track/1ovbcaNgLbOp71RbF4pvng) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh), [Donna Blakely](https://open.spotify.com/artist/5l4zJlT301p3IPrAx94iqw), [Lego](https://open.spotify.com/artist/0GDPEEALVh9alIcGtM9SBE) | [Take Me Up \(Gotta Get Up\)](https://open.spotify.com/album/45kSt9lcncbWs2HVUnG0qo) | 3:22 |
+| 21 | [Take Me Up \(Gotta Get Up\) \- Lego Edit](https://open.spotify.com/track/1ovbcaNgLbOp71RbF4pvng) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh), [Donna Blakely](https://open.spotify.com/artist/5l4zJlT301p3IPrAx94iqw), [lego](https://open.spotify.com/artist/3fyCFDyqAPJOuOMlLA4liJ) | [Take Me Up \(Gotta Get Up\)](https://open.spotify.com/album/45kSt9lcncbWs2HVUnG0qo) | 3:22 |
 | 22 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 |
 | 23 | [Niet Voor De Smaak](https://open.spotify.com/track/1cLMnHYsSs0lS52FqnFLZ6) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Niet Voor De Smaak](https://open.spotify.com/album/0rxFRnGwMpxTof1jhJ7DGY) | 2:25 |
 | 24 | [Spookstad \- NewTone Remix](https://open.spotify.com/track/2vNwVqKapHlYQEkv99Piel) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [NewTone](https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH) | [Spookstad \(NewTone Remix\)](https://open.spotify.com/album/0Z9HO43TwKGdAbyvyD7wiZ) | 5:13 |

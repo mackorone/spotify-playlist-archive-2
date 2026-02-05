@@ -1,13 +1,29 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Mira Housey. Artwork by Paola Saliby",
-  "num_followers": 236573,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Cherry Bomb. Artwork by Paola Saliby",
+  "num_followers": 236611,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALYKsxrrim94bStA5hL9USLRMVYY",
+  "snapshot_id": "AAAAAGLMaFN+6DkYRpj8e5cwZvDI4s/G",
   "tracks": [
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Never Be Me (M\u2605therf\u2605cker)",
+        "url": "https://open.spotify.com/album/3iVH46CgYIPFt2NfKUuj4B"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "duration_ms": 217649,
+      "name": "Never Be Me (M\u2605therf\u2605cker)",
+      "url": "https://open.spotify.com/track/0RCaDuYsW4d5dtsx6G2u1K"
+    },
     {
       "added_at": "2026-01-23 05:30:46",
       "album": {
@@ -23,6 +39,138 @@
       "duration_ms": 128445,
       "name": "BUTTERF-LIES",
       "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Love Is Easy Chaos",
+        "url": "https://open.spotify.com/album/3R8mythb76engSdmuKvSZD"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hu",
+          "url": "https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl"
+        }
+      ],
+      "duration_ms": 194251,
+      "name": "Love Is Easy Chaos",
+      "url": "https://open.spotify.com/track/7w8MAjzHIK1nNlbkEzbia6"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "cycles",
+        "url": "https://open.spotify.com/album/46cWHcF1g1Q0dhVhw8z5Yz"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "duration_ms": 148352,
+      "name": "cycles",
+      "url": "https://open.spotify.com/track/1Ktm6rK8mDKRenpqDLW268"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "To Feel Is To Be",
+        "url": "https://open.spotify.com/album/00Zx7Wp8wcSV51lXOc8n5o"
+      },
+      "artists": [
+        {
+          "name": "Bee Bran",
+          "url": "https://open.spotify.com/artist/2JwcISksi9jHUtnesLpQWQ"
+        }
+      ],
+      "duration_ms": 232602,
+      "name": "To Feel Is To Be",
+      "url": "https://open.spotify.com/track/50aiw9k7XNOoCb3k70iwRE"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "It's Not You It's Him",
+        "url": "https://open.spotify.com/album/4zWSKRsewtQmVuuTFdkEIK"
+      },
+      "artists": [
+        {
+          "name": "Niamh McCrystal",
+          "url": "https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6"
+        }
+      ],
+      "duration_ms": 169872,
+      "name": "It's Not You It's Him",
+      "url": "https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Suck My MP3",
+        "url": "https://open.spotify.com/album/4eDNlIs0Zm8VhWgLISsZf9"
+      },
+      "artists": [
+        {
+          "name": "MARiMARi",
+          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
+        }
+      ],
+      "duration_ms": 138329,
+      "name": "Suck My MP3",
+      "url": "https://open.spotify.com/track/5HQpbbX3ge8TYtpAHYBjSw"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "BEEP BEEP",
+        "url": "https://open.spotify.com/album/7HLxofu5KDBHTZNNrJCnZR"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "BEEP BEEP",
+      "url": "https://open.spotify.com/track/37QZTqlBL2zWGC0ZOqIKg4"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/0fsEUQzzgq8tCcTMpwN7O7"
+      },
+      "artists": [
+        {
+          "name": "Seanna Pereira",
+          "url": "https://open.spotify.com/artist/2n7eurO3HF2Qpsu4blCx4R"
+        }
+      ],
+      "duration_ms": 162046,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/79U1nhqDGYttoZimTCGVh7"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "HEARTSONG",
+        "url": "https://open.spotify.com/album/71c6xSC2KdN8NOX6rBRdn0"
+      },
+      "artists": [
+        {
+          "name": "ALBI.",
+          "url": "https://open.spotify.com/artist/64GJf2NeiXg0ZxbJSq9Uqb"
+        },
+        {
+          "name": "Jewel Owusu",
+          "url": "https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW"
+        }
+      ],
+      "duration_ms": 234661,
+      "name": "HEARTSONG",
+      "url": "https://open.spotify.com/track/5nhN7hPsP3kPY5Q7vXut1M"
     },
     {
       "added_at": "2026-01-28 15:08:44",
@@ -311,22 +459,6 @@
       "duration_ms": 136615,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/5BA49nnwr6bcOqerRPMCiA"
-    },
-    {
-      "added_at": "2026-01-21 15:37:08",
-      "album": {
-        "name": "Made For This",
-        "url": "https://open.spotify.com/album/6BuAdQBbYOEDyJXBZ58qnR"
-      },
-      "artists": [
-        {
-          "name": "WALTA",
-          "url": "https://open.spotify.com/artist/1u5Zp5UwzGCydF4HunLqaJ"
-        }
-      ],
-      "duration_ms": 180628,
-      "name": "Made For This",
-      "url": "https://open.spotify.com/track/77wwM4ApgWYAW73FsbnWbp"
     },
     {
       "added_at": "2026-01-14 05:00:01",

@@ -4,7 +4,7 @@
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Bade
 
-2,536 songs - 5 day 12 hr 33 min
+2,539 songs - 5 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1259,6 +1259,7 @@
 | [kapı](https://open.spotify.com/track/2eKTapDO6LhWpucD2jE752) | [Efza](https://open.spotify.com/artist/4gPXQMEdpsYmYZWtbk4ATJ) | [kapı](https://open.spotify.com/album/4PgqS2pZlPPHMwhD7upyRH) | 2:11 | 2024-05-01 | 2024-06-05 |
 | [Kapı Duvar](https://open.spotify.com/track/3YKHliYkTIAItjQHYVBgHz) | [Tuğçe Yegül](https://open.spotify.com/artist/3g0zHtJeZ7cPvMrX9fPzw5) | [KAPI DUVAR](https://open.spotify.com/album/7EAf7ufT9xfrDQ37aGgP7H) | 2:34 | 2024-02-07 | 2024-03-06 |
 | [Kapılar Kapanır](https://open.spotify.com/track/3cWa25NeRigJl0Jozotzqd) | [Seda Tripkolic](https://open.spotify.com/artist/2aNkBNOpoEwJlRpDLzJ6hZ) | [Kapılar Kapanır](https://open.spotify.com/album/79qzBPV34S6pHTOqhckTU1) | 2:14 | 2023-07-04 | 2024-01-10 |
+| [Kapını Çalarsa Mazinin Eli](https://open.spotify.com/track/0MJH68i0NUQrZQPjZdwJME) | [Ceylan](https://open.spotify.com/artist/396gqBt8a2NN7gXtDWF7AJ) | [Kapını Çalarsa Mazinin Eli](https://open.spotify.com/album/05HcPFLUbWZSnhJ79XGF2y) | 4:27 | 2026-02-04 |  |
 | [Kara Gözünün Hasretinden](https://open.spotify.com/track/3w180TEfTfsAKgA7oIPY0E) | [Nilüfer](https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF) | [Kara Gözünün Hasretinden](https://open.spotify.com/album/47rcubW0w1EQLGy9bNEsE2) | 3:54 | 2024-05-01 | 2025-01-08 |
 | [Kara Kara Düşünme](https://open.spotify.com/track/4dnvIyzmO7fyEsw6vqFqg5) | [Tuğçe Yegül](https://open.spotify.com/artist/3g0zHtJeZ7cPvMrX9fPzw5) | [Kara Kara Düşünme](https://open.spotify.com/album/5ZJnfd6XoxqF9Lx4RM57VN) | 2:24 | 2023-09-05 | 2023-10-04 |
 | [Kara Kedi](https://open.spotify.com/track/0WpNYQlysYRiEyLj7oq9n8) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Kara Kedi](https://open.spotify.com/album/3y98IhwFFEpQUkBgvAL17A) | 2:59 | 2023-09-05 | 2023-10-04 |
@@ -1339,6 +1340,7 @@
 | [Kendimi Nasıl Öldürdüm?](https://open.spotify.com/track/63kbc5vq4nPN3i1zpw9c4A) | [Başak Gürcan](https://open.spotify.com/artist/4ugvmF6Y6ymgClX4FuAQk2) | [Kendimi Nasıl Öldürdüm?](https://open.spotify.com/album/45FDweGg3Q3bVHkCMQr2xT) | 2:59 | 2025-01-07 | 2025-02-05 |
 | [Kendine Bir Bak](https://open.spotify.com/track/5TyrniuEpKUHV1GR5lNqR6) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Kendine Bir Bak](https://open.spotify.com/album/14BfnJzSdW9J8iTYJm7nBa) | 2:46 | 2024-03-05 | 2024-04-03 |
 | [Kendini Kandır](https://open.spotify.com/track/1id3cv1F0oXyCWcvkAe90t) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Kendini Kandır](https://open.spotify.com/album/05L6ap1GGjsdReOX8mv2j5) | 2:22 | 2023-05-02 | 2023-06-07 |
+| [Kendisi Çıktı Bu Yoldan](https://open.spotify.com/track/1Nt1tWcwS4NjjyHT29Osco) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj), [Cemre](https://open.spotify.com/artist/7DOyoizHnSQW6jMGndQ9pS) | [Kendisi Çıktı Bu Yoldan](https://open.spotify.com/album/5LLBJwrPLwWc2ro51AtFh1) | 2:30 | 2026-02-04 |  |
 | [Keskin Bıçak](https://open.spotify.com/track/01OkcFx0GOEcBafbgNC3V7) | [Aydilge](https://open.spotify.com/artist/0cjA9XY1jx3RlniZbMkCWy) | [Keskin Bıçak](https://open.spotify.com/album/6jkJtgVFQtIWCbauXgi0G4) | 3:29 | 2023-05-02 | 2023-06-07 |
 | [Keyfe Keder](https://open.spotify.com/track/7wvQgodljkRxSbTvQ3PQx7) | [Aybüke Poçan](https://open.spotify.com/artist/57rQZpIPdlavJHPyiIckCy) | [Keyfe Keder](https://open.spotify.com/album/1jlmnrpRoQCrKVX8L2Mhay) | 2:43 | 2023-01-03 | 2023-02-01 |
 | [Keyfin Bilir](https://open.spotify.com/track/1n8csSxd1y3f7hKtIjf3Po) | [Damla Durakçay](https://open.spotify.com/artist/1achXxvyHlsCTNmNrgL4SF) | [Keyfin Bilir](https://open.spotify.com/album/3JVfs9x9o69JXXTOX3zLpA) | 3:13 | 2022-07-05 | 2022-08-03 |
@@ -1567,6 +1569,7 @@
 | [Ne Yapardım Bilmem](https://open.spotify.com/track/6BDdBG1zBqKeq93tDUO1GF) | [Ceylan](https://open.spotify.com/artist/396gqBt8a2NN7gXtDWF7AJ) | [Ne Yapardım Bilmem](https://open.spotify.com/album/3hukMlda8AR6eJWKWuosD4) | 2:34 | 2025-11-04 | 2025-12-04 |
 | [Ne Yürek Ne Gurur](https://open.spotify.com/track/6Bw5qmHIb1cyPiugZupLkG) | [Dilara Torlak](https://open.spotify.com/artist/2I85dpiapm1nGUBUWtlRLX) | [Ne Yürek Ne Gurur](https://open.spotify.com/album/75lsj26iyIbaETimrd4GqS) | 2:33 | 2025-09-30 | 2025-11-05 |
 | [ne çok istedim](https://open.spotify.com/track/6cTOcNhSd39g8FxW3Tirwp) | [Betül Çiçekyurt](https://open.spotify.com/artist/4k4sIsTkO5Rsp8S0uE7KGq) | [ne çok istedim](https://open.spotify.com/album/6KlWwWXtb2LEWwEpckRqXa) | 2:40 | 2025-06-03 | 2025-07-02 |
+| [Ne Önemi Var](https://open.spotify.com/track/44Fuz23OOxrmrq30rmj9qY) | [Yaren Gözcü](https://open.spotify.com/artist/4R6VkmBQe4G6oImsuu11Pa) | [Ne Önemi Var](https://open.spotify.com/album/4W9jvCTfEyKXcxStG8ddk3) | 2:39 | 2026-02-04 |  |
 | [Neden](https://open.spotify.com/track/6IWdY0pVWayB30tERfKR5k) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Neden](https://open.spotify.com/album/0JGlcbYf5ks7g6yF4mY2F1) | 1:55 | 2023-06-06 | 2023-06-21 |
 | [Neden](https://open.spotify.com/track/6pLhHqfrzl7jqNaUlR4CeA) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Neden](https://open.spotify.com/album/03IlNgchMUH2YbCUtn8SYF) | 1:55 | 2023-06-06 | 2023-07-05 |
 | [Neden](https://open.spotify.com/track/6fJvg1n95FCu6vRB2xP1dH) | [Tuğçe Türker](https://open.spotify.com/artist/6Z8HhuPI82uubrWMs7BymI) | [Neden](https://open.spotify.com/album/3Oirxdyhh5XqN5FNtToPIz) | 2:28 | 2023-01-31 | 2023-04-05 |

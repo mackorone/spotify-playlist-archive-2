@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-235 songs - 16 hr 38 min
+236 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Les Assassins](https://open.spotify.com/track/1ZNqgaLZfd5AUIYad8IsYF) | [Combo Daguerre](https://open.spotify.com/artist/5o5fwodeTwd5bEzG5mOj6F) | [Les Assassins](https://open.spotify.com/album/1Zu4xqanWGagE0TbMb7k9k) | 4:09 | 2024-07-05 | 2024-10-05 |
 | [Letter to the Martyrs](https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M) | [cacique'97](https://open.spotify.com/artist/33t1sk0KBtX3FxfAyWsSkc) | [Letter to the Martyrs](https://open.spotify.com/album/27YMLZSmyV4t5R0ygfqLM5) | 4:14 | 2024-07-05 | 2025-10-05 |
 | [Lluvia](https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Lluvia](https://open.spotify.com/album/1paKQg7gOp16XexZyAjNvE) | 2:53 | 2021-10-20 | 2024-01-12 |
-| [Long Pond Lily](https://open.spotify.com/track/6Ra5CZCY5n706HnbJCS2FN) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Long Pond Lily](https://open.spotify.com/album/0DZu4BfkEbSHe2hiAQCymA) | 4:26 | 2025-05-05 |  |
+| [Long Pond Lily](https://open.spotify.com/track/6Ra5CZCY5n706HnbJCS2FN) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Long Pond Lily](https://open.spotify.com/album/0DZu4BfkEbSHe2hiAQCymA) | 4:26 | 2025-05-05 | 2026-02-05 |
 | [Los Chucos Suaves \(featuring Macha\)](https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Macha](https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:12 | 2022-02-12 |  |
 | [Love Buzz](https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Love Buzz](https://open.spotify.com/album/5ZzgY4zglWsJAL1U4tkuiC) | 4:22 | 2023-09-25 | 2024-01-19 |
 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 | 2024-04-11 |  |
@@ -156,6 +156,7 @@
 | [OH WAH \(feat\. NATURE\)](https://open.spotify.com/track/19u8EywWlAPVj1cvoWHX4I) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [OH WAH \(feat\. NATURE\)](https://open.spotify.com/album/7C4qLhAxl253pi66yzQQW1) | 3:25 | 2024-04-23 | 2024-11-02 |
 | [On te l'avait dit](https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 6:24 | 2021-10-20 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2021-10-20 |  |
+| [Only Now \- Bosq Remix](https://open.spotify.com/track/01WVTVy1SxkOJ9wtwSioWL) | [Warsaw Afrobeat Orchestra](https://open.spotify.com/artist/7ajNbPxripp31FoOwgTxSb), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Only Now](https://open.spotify.com/album/5EPEq9QxRAMwdwZevwcuan) | 6:40 | 2025-09-02 |  |
 | [Ordunun Dereleri](https://open.spotify.com/track/64Pztp6tg1ZBV9zF09mdFr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Ordunun Dereleri](https://open.spotify.com/album/4mfZiG69wQPi8f4iJdv2xm) | 4:45 | 2021-10-20 |  |
 | [Parev' Ajere](https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:33 | 2021-10-20 |  |
 | [Particle](https://open.spotify.com/track/5hHiaNGhCIBVXbtKh5qJKy) | [Gamelan X](https://open.spotify.com/artist/51m4Z9wxLvsGoplFSxAMjI) | [Satu](https://open.spotify.com/album/3rHVI7CZbaiTPyHB4Cb3jX) | 6:29 | 2024-10-16 | 2025-02-01 |

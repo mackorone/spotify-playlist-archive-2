@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 593 likes - 478 songs - 23 hr 11 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 598 likes - 482 songs - 23 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -486,5 +486,9 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 476 | [Outside \- Remix](https://open.spotify.com/track/2hVI1Fl7b4sbDeAa8IPeSI) | [J.Bu$h](https://open.spotify.com/artist/1xlDwQxeDDFKygaztpIMX1), [Lane Shuler](https://open.spotify.com/artist/01Wu4arSj8hLulToXCdO8J) | [Outside \(Remix\)](https://open.spotify.com/album/7ujpsRpFcStgeCFmAtge2H) | 2:54 |
 | 477 | [Purple Demons](https://open.spotify.com/track/2ghxwM1pORJkiivLTDIV0e) | [GRGP TY](https://open.spotify.com/artist/1ILNmtz0YGwcyaiTpVfQn7) | [Purple Demons](https://open.spotify.com/album/3J2T9AMIWWOHsCF7Fg1Wmg) | 2:06 |
 | 478 | [True Friends](https://open.spotify.com/track/2eqtXSBIO0mya5fipLROhu) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [True Friends](https://open.spotify.com/album/6ChEwlwzpOMTLUcqjtQnQx) | 3:46 |
+| 479 | [ITRIED](https://open.spotify.com/track/39Xhs5EHLLlcRdL30j5a9G) | [NikhiL Keolan Gounden](https://open.spotify.com/artist/1ZcgW5GN8CCg2vANZwMgG1) | [R.S TAPEZ 1](https://open.spotify.com/album/28NQqIZbAsA1sxtuuTV60B) | 2:11 |
+| 480 | [Whitney remix ft\. swaveoh](https://open.spotify.com/track/4mo6JNiJ6RlcrxYArkImoR) | [swaveoh](https://open.spotify.com/artist/4tq4w6QBUcBu7jPXlREGDz) | [Whitney remix ft\. swaveoh](https://open.spotify.com/album/76LHANQHM4lOYbeultZQYN) | 1:38 |
+| 481 | [WIFE YOU UP \- Dance Remix](https://open.spotify.com/track/2IbvLHBU9xNltdOxQNc7Ee) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [blackbirdz](https://open.spotify.com/artist/5XlpgAlMt1YOjijhFazgdg), [JJJackson](https://open.spotify.com/artist/0MOqq6zMTLf6oTqkcCTAv6) | [WIFE YOU UP REMIX PACK](https://open.spotify.com/album/3Q1Dl3LhIIYfcl19OL6Pks) | 2:36 |
+| 482 | [Pressuh](https://open.spotify.com/track/0bN6DP9jvgIEqkLCYVVnCk) | [Dova?](https://open.spotify.com/artist/1EEjUSS9drSjsLAndXHpRo) | [Pressuh](https://open.spotify.com/album/7eWqkKPbjpBjysS4Kc15f8) | 2:00 |
 
-Snapshot ID: `AAABfnKtYI7WJE6ZOaH8FcXusc6VokRB`
+Snapshot ID: `AAABgsbG4DKjCmVEYQ00J8oN10JUTdBW`

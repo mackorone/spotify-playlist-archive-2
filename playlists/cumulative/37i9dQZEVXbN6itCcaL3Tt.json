@@ -13500,7 +13500,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 195704,
       "name": "Dom Nad Wod\u0105",
       "url": "https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC"
@@ -14198,7 +14198,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -33584,7 +33584,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 147000,
       "name": "NAWET NIE WIESZ JAK CHCIA\u0141BYM M\u00d3C TO POCZU\u0106 JESZCZE RAZ",
       "url": "https://open.spotify.com/track/6mzhtZbzJrjbnKwUp3XQee"
@@ -37206,6 +37206,40 @@
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
+    {
+      "album": {
+        "name": "ONE CHC\u0104 MI\u0141O\u015aCI",
+        "url": "https://open.spotify.com/album/4A4VMz5SXXQNkKOcNwmyCZ"
+      },
+      "artists": [
+        {
+          "name": "Ekipa",
+          "url": "https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM"
+        },
+        {
+          "name": "Mortal",
+          "url": "https://open.spotify.com/artist/4tZpdFSfE7mkuwlWM2Y5f3"
+        },
+        {
+          "name": "Julita R\u00f3\u017calska",
+          "url": "https://open.spotify.com/artist/7GIdcqQ36KQ8I3mkxr1PhM"
+        },
+        {
+          "name": "Marta.Err",
+          "url": "https://open.spotify.com/artist/6nuwEFaz1kiLi6T6VltLTm"
+        },
+        {
+          "name": "Pola S\u0142opecka",
+          "url": "https://open.spotify.com/artist/6OCbbyS9PmrQ7mH8ws40pk"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "ONE CHC\u0104 MI\u0141O\u015aCI",
+      "url": "https://open.spotify.com/track/6tSr3CitiGBoMZaR4dWXie"
     },
     {
       "album": {

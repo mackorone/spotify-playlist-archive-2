@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 10867,
+  "num_followers": 10875,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -455,18 +455,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
+        "name": "Yesu Mo",
+        "url": "https://open.spotify.com/album/31oohGVTzpXoirIkH3KMMV"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "Jack Odoom",
+          "url": "https://open.spotify.com/artist/64XvgVFW2ccbs5nltV7USi"
+        },
+        {
+          "name": "oware JNR",
+          "url": "https://open.spotify.com/artist/3DnFBMzlM2xnDDqxeej1bh"
         }
       ],
-      "duration_ms": 269169,
-      "name": "Mo Ne Yo",
-      "url": "https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD"
+      "duration_ms": 394031,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/5LDQxqWab9bVdOMv0K1Ut6"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -487,22 +491,18 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Yesu Mo",
-        "url": "https://open.spotify.com/album/31oohGVTzpXoirIkH3KMMV"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
       },
       "artists": [
         {
-          "name": "Jack Odoom",
-          "url": "https://open.spotify.com/artist/64XvgVFW2ccbs5nltV7USi"
-        },
-        {
-          "name": "oware JNR",
-          "url": "https://open.spotify.com/artist/3DnFBMzlM2xnDDqxeej1bh"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 394031,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/5LDQxqWab9bVdOMv0K1Ut6"
+      "duration_ms": 269169,
+      "name": "Mo Ne Yo",
+      "url": "https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
         }
       ],
-      "duration_ms": 462000,
-      "name": "Awurade Kasa",
-      "url": "https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo"
+      "duration_ms": 305213,
+      "name": "Nyame Eguamba",
+      "url": "https://open.spotify.com/track/3rlWZJJR3L0RunfNccDCWB"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
         }
       ],
-      "duration_ms": 305213,
-      "name": "Nyame Eguamba",
-      "url": "https://open.spotify.com/track/3rlWZJJR3L0RunfNccDCWB"
+      "duration_ms": 462000,
+      "name": "Awurade Kasa",
+      "url": "https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo"
     },
     {
       "added_at": "2025-01-09 09:53:00",

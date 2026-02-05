@@ -262,10 +262,28 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 298106,
       "name": "Cuarto de Hotel",
       "url": "https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq"
+    },
+    {
+      "album": {
+        "name": "El Kuko No Asusta, Enamora, Vol. 1",
+        "url": "https://open.spotify.com/album/5H2e9Lo9ib6y7BOu2xc3nT"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240912,
+      "name": "Dale Vieja Dale",
+      "url": "https://open.spotify.com/track/5yY8UFMIlPUIaStPvOeKH2"
     },
     {
       "album": {

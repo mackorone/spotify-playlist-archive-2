@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring Pimmie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,018 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,997 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 11 | [Reclusive](https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Reclusive](https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz) | 3:06 |
 | 12 | [Squeeze](https://open.spotify.com/track/0aHUhMAzRF8nRTqInJ3a5U) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Squeeze](https://open.spotify.com/album/0IsElILJfiHY2Jipq4JEst) | 2:59 |
 | 13 | [High Key](https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS) | 2:12 |
-| 14 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:41 |
+| 14 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
 | 15 | [Rendezvous \- Blacksmith R&B Rerub](https://open.spotify.com/track/2A0lGgF7enMrO5IvE8kMTL) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Know ?uestion](https://open.spotify.com/artist/7AVQVY3ZKzyVZQrUHfLUsB), [Blacksmith](https://open.spotify.com/artist/29J8gS5TRrpC5ZZvxOSZ3c) | [Born to Do It \(25th Anniversary Edition\)](https://open.spotify.com/album/7dZ6IAntg83Eky48n9J2CO) | 3:49 |
 | 16 | [Win Or Lose](https://open.spotify.com/track/4YUU0sam6DtijJ847SqjYf) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Win Or Lose](https://open.spotify.com/album/7IdvSR8Nzsoyi2tVBoIw9y) | 3:07 |
 | 17 | [Save me](https://open.spotify.com/track/5Rkidp537oqfc33THR51PR) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Save me](https://open.spotify.com/album/1UcLRdkGRznEGXxZqNY4vq) | 2:38 |

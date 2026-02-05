@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: YOUNG POSSE)",
+  "description": "Future K-Pop hits! (Cover: BOYNEXTDOOR)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -10922,7 +10922,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 191389,
       "name": "HANDO-CHOGUA",
       "url": "https://open.spotify.com/track/3ZjbJvHQGKEkPL3HUg2hRh"
@@ -12382,6 +12382,24 @@
       "duration_ms": 155026,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
+    },
+    {
+      "album": {
+        "name": "BOYNEXTDOOR TOUR \u2018KNOCK ON Vol.1\u2019 FINAL (LIVE)",
+        "url": "https://open.spotify.com/album/4ToqvVUbHU1bJNNmkJSkLK"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166858,
+      "name": "I Feel Good (Live Ver.)",
+      "url": "https://open.spotify.com/track/7rf1HYMl0ZjPLO8HbWbc7a"
     },
     {
       "album": {
@@ -15821,6 +15839,24 @@
     },
     {
       "album": {
+        "name": "RE-FLOW",
+        "url": "https://open.spotify.com/album/2IhQYBuoaZmcXRQJqwFGQg"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "LOVEPOCALYPSE",
+      "url": "https://open.spotify.com/track/7xbNUUy1y3zNqvp65TXaa9"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
       },
@@ -18944,7 +18980,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 146000,
       "name": "Oops, My Bad",
       "url": "https://open.spotify.com/track/5sTNd7d05oLLJatfB4CP4N"
@@ -28418,7 +28454,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 181000,
       "name": "White Memories",
       "url": "https://open.spotify.com/track/7hCdtQsaKCBXrITaPNK2iE"
@@ -28596,6 +28632,24 @@
       "duration_ms": 205520,
       "name": "Why Not?",
       "url": "https://open.spotify.com/track/6yGQ86UppYULzTCxAWgwVN"
+    },
+    {
+      "album": {
+        "name": "WHY U MAD",
+        "url": "https://open.spotify.com/album/7pYqeQfT7oGXkOvMPNlDFl"
+      },
+      "artists": [
+        {
+          "name": "SKINZ (\uc2a4\ud0a8\uc988)",
+          "url": "https://open.spotify.com/artist/2cAsfUrYw6wZqLjQ0JBQW6"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "WHY U MAD",
+      "url": "https://open.spotify.com/track/1xUgcg8UoxZojDvVdE2CqZ"
     },
     {
       "album": {

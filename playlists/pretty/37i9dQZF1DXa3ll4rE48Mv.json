@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 205164,
+  "num_followers": 205159,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Stoned Butch Blues",
-        "url": "https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn"
-      },
-      "artists": [
-        {
-          "name": "Butch Baby",
-          "url": "https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr"
-        }
-      ],
-      "duration_ms": 167623,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Ready",
         "url": "https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 107998,
       "name": "Ready",
       "url": "https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Stoned Butch Blues",
+        "url": "https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn"
+      },
+      "artists": [
+        {
+          "name": "Butch Baby",
+          "url": "https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr"
+        }
+      ],
+      "duration_ms": 167623,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Not Your Kind",
-        "url": "https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh"
-      },
-      "artists": [
-        {
-          "name": "Hoity-Toity",
-          "url": "https://open.spotify.com/artist/59C4CCO7zRyoXORgHPjDjp"
-        }
-      ],
-      "duration_ms": 274340,
-      "name": "Y'know",
-      "url": "https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Everything Dies",
         "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 191009,
       "name": "Sick Sad World",
       "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Not Your Kind",
+        "url": "https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh"
+      },
+      "artists": [
+        {
+          "name": "Hoity-Toity",
+          "url": "https://open.spotify.com/artist/59C4CCO7zRyoXORgHPjDjp"
+        }
+      ],
+      "duration_ms": 274340,
+      "name": "Y'know",
+      "url": "https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Facades",
-        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
+        "name": "Fuck, Marry, Kill",
+        "url": "https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT"
       },
       "artists": [
         {
-          "name": "Limp Wrist",
-          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
+          "name": "Thelma and the Sleaze",
+          "url": "https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57"
         }
       ],
-      "duration_ms": 96051,
-      "name": "Thick Skin",
-      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
+      "duration_ms": 252000,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Fuck, Marry, Kill",
-        "url": "https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT"
+        "name": "Facades",
+        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
       },
       "artists": [
         {
-          "name": "Thelma and the Sleaze",
-          "url": "https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57"
+          "name": "Limp Wrist",
+          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp"
+      "duration_ms": 96051,
+      "name": "Thick Skin",
+      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5"
+      },
+      "artists": [
+        {
+          "name": "LIINES",
+          "url": "https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f"
+        }
+      ],
+      "duration_ms": 144170,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Try to Be Hopeful",
         "url": "https://open.spotify.com/album/0ooSpzz4zOyP9nKl02dDye"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 133520,
       "name": "Macaulay Sulkin'",
       "url": "https://open.spotify.com/track/6Q5W6qTZc9JV6surKRhoXY"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5"
-      },
-      "artists": [
-        {
-          "name": "LIINES",
-          "url": "https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f"
-        }
-      ],
-      "duration_ms": 144170,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p"
     },
     {
       "added_at": "2024-05-22 11:00:00",

@@ -3840,7 +3840,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 197000,
       "name": "Dancing Bird",
       "url": "https://open.spotify.com/track/2phDPmaRtLzpPrMEPzcFnN"
@@ -4180,6 +4180,24 @@
       "duration_ms": 255000,
       "name": "Default - Live",
       "url": "https://open.spotify.com/track/6zQgyAyvIbuviFwQ2ak7WA"
+    },
+    {
+      "album": {
+        "name": "Defense Mechanism",
+        "url": "https://open.spotify.com/album/1HJHfO6IO7vLjpO57Ty18b"
+      },
+      "artists": [
+        {
+          "name": "heegyu",
+          "url": "https://open.spotify.com/artist/7F4ElN9gP2tuyqZ2YIhicX"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "Defense Mechanism",
+      "url": "https://open.spotify.com/track/0TX0PqzoSN5OSCeX0odaH7"
     },
     {
       "album": {
@@ -11864,7 +11882,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 318000,
       "name": "Mafia",
       "url": "https://open.spotify.com/track/2X3lVOdD05hierZ7acvonE"
@@ -14244,6 +14262,24 @@
       "duration_ms": 199570,
       "name": "Our Forgiveness",
       "url": "https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30"
+    },
+    {
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/7KIrdVNTVtm309OHv2n93Z"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124707,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/5NFKUNRPcWGaLfAPaofT5v"
     },
     {
       "album": {

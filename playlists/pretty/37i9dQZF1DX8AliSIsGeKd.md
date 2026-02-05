@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Oliver Koletzki
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,948 likes - 90 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,967 likes - 90 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 26 | [Berlin Boogie Town \- Fimiani Remix](https://open.spotify.com/track/4hvezJVGdP9mTOlokufs5i) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [Fimiani](https://open.spotify.com/artist/1P7T5ujt8sKcMZEjXhzMyT) | [Berlin Boogie Town Remixes](https://open.spotify.com/album/6xGizQXMuhcVcWt29rzQdw) | 4:25 |
 | 27 | [The Entirety](https://open.spotify.com/track/5DEt3ukCb6qr6rcurwMphI) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [The Entirety](https://open.spotify.com/album/1aOCp3lU4DT7oluvlfDOwO) | 3:29 |
 | 28 | [Traffik](https://open.spotify.com/track/4GqYKYWyOdr89O5loSz7wQ) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [Twiins](https://open.spotify.com/artist/1TcSU2JWmiIxrJbii3m3E7), [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Traffik](https://open.spotify.com/album/1aez6AJVJ4sV6mNjGd961k) | 5:41 |
-| 29 | [Residue \- The Moment \(The Score\)](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue \- The Moment \(The Score\)](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 |
+| 29 | [Residue](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 |
 | 30 | [Feel \- Radio\-Edit](https://open.spotify.com/track/5XbjAlmKFRn6bRFqjYJqox) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Feel \(Radio\-Edit\)](https://open.spotify.com/album/1jZsA0L7o2w3LWnRKXCb6F) | 2:58 |
 | 31 | [Forever](https://open.spotify.com/track/6hkzD15EqnBtqjKZ3eILt4) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Forever](https://open.spotify.com/album/1YpCza3ggh2ZuPnoGzzgXP) | 4:51 |
 | 32 | [Neurophase](https://open.spotify.com/track/390eXZYlwfgOiHPSRHV7P5) | [RooneyNasr](https://open.spotify.com/artist/5JyUxCGRmiZRB2m3gmeIkL), [HNGT](https://open.spotify.com/artist/1LMZAwKQsYL6iIyAx7VuLK) | [Neurophase](https://open.spotify.com/album/3LfLb9EvRL9ALCiZk0O5ta) | 4:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,320 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,326 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 2 | [Prócz Ciebie, Nic](https://open.spotify.com/track/2KtSYjhcujuunRR3wyogzu) | [Krzysztof Kiljański](https://open.spotify.com/artist/1QT9ikfzDS8KIZYkfeVKJV), [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM) | [In The Room \(Special Edition\)](https://open.spotify.com/album/4qdRkpj5uK429KPoT9Cwnq) | 3:37 |
 | 3 | [Długość dźwięku samotności](https://open.spotify.com/track/5ytkHKps6RVVDFZwAqVDCB) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 4:11 |
 | 4 | [Kocham Cię, Kochanie Moje](https://open.spotify.com/track/6CwbrtZnJNqef5CqSLqPdX) | [Maanam](https://open.spotify.com/artist/4MiKufcWLuX6KDLzqhUgQD) | [The Best Of Kora & Maanam Volume II](https://open.spotify.com/album/2FcPs0C8LOzivVD5ISGe0w) | 4:54 |
-| 5 | [Lubię być z nią](https://open.spotify.com/track/5SOFAkRZQqDn0NveCTkGxU) | [BARANOVSKI](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Lubię być z nią](https://open.spotify.com/album/6Skq4o76kzCQ0dCrkVAX0a) | 3:51 |
+| 5 | [Lubię być z nią](https://open.spotify.com/track/5SOFAkRZQqDn0NveCTkGxU) | [Wojciech Baranowski](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Lubię być z nią](https://open.spotify.com/album/6Skq4o76kzCQ0dCrkVAX0a) | 3:51 |
 | 6 | [Kroplą Deszczu \- Remastered 2023](https://open.spotify.com/track/1puMLEjNWmMg8e3xn1znGX) | [Gabriel Fleszar](https://open.spotify.com/artist/5AFlo6pfKzVMGF61vgssw4) | [Niespokojny \(Remastered 2023\)](https://open.spotify.com/album/4MWUQ0cpLZVXybri82B8LG) | 3:37 |
 | 7 | [Piosenka księżycowa \- Acoustic Version](https://open.spotify.com/track/05NKgpBkS8YiN1bqNfFwSW) | [Varius Manx](https://open.spotify.com/artist/6XdnqaETDFgrNMaeYmUx55), [Kasia Stankiewicz](https://open.spotify.com/artist/3AmoQwovebcJO1fS2AHjjl) | [ENT](https://open.spotify.com/album/0PClVbELnvZL2fnAVeJlWt) | 4:01 |
 | 8 | [Miłość jest ślepa](https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 3:17 |

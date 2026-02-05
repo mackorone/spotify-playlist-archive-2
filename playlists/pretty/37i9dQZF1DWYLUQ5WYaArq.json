@@ -1,487 +1,699 @@
 {
-  "description": "In memory of Midnight Oil's Rob Hirst. Legendary pub classics from AU & NZ. ",
-  "num_followers": 451661,
+  "description": "This week: feeling hot hot hot \ud83e\udd75\u2600\ufe0f Cover: R\u00dcF\u00dcS DU SOL",
+  "num_followers": 451668,
   "original_name": "Throwback Thursday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL6jUCtrh7CCCA9bP3ssytujImg7",
+  "snapshot_id": "AAAAADdRSxZqJEgBT5vFPQAAsVzdFGj2",
   "tracks": [
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "10,9,8,7,6,5,4,3,2,1",
-        "url": "https://open.spotify.com/album/1iWFOvjt1FQfkMJrZxtwiF"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
       },
       "artists": [
         {
-          "name": "Midnight Oil",
-          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 339400,
-      "name": "Power And The Passion - Remastered Version",
-      "url": "https://open.spotify.com/track/75SH7qKifZ0Mzl4UFmps31"
+      "duration_ms": 275500,
+      "name": "Sundream",
+      "url": "https://open.spotify.com/track/7vLdHqkzAl5BDVxphZ7vaO"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "The Angels (Alberts Classic Series)",
-        "url": "https://open.spotify.com/album/78SGsZcfBTa9Wj4tWD3Ooy"
+        "name": "Funk Wav Bounces Vol.1",
+        "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
       "artists": [
         {
-          "name": "The Angels",
-          "url": "https://open.spotify.com/artist/2PeqTZKroEc2oDwTfmB2al"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Am I Ever Gonna See Your Face Again - Single Version",
-      "url": "https://open.spotify.com/track/4YOeulAEqQrCBpdWL2gEPr"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Hits & Pieces",
-        "url": "https://open.spotify.com/album/23oBYIND4OaOyAJMzg2iHW"
-      },
-      "artists": [
-        {
-          "name": "The Screaming Jets",
-          "url": "https://open.spotify.com/artist/3vgQA38yGGMvn4DHjsVre5"
-        }
-      ],
-      "duration_ms": 277680,
-      "name": "Better - Remastered",
-      "url": "https://open.spotify.com/track/6VtSR2Nw3IozhsRmsKzIET"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Spirit Of Place (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/0NpZXjOunzBOfhUAtffJNt"
-      },
-      "artists": [
-        {
-          "name": "Goanna",
-          "url": "https://open.spotify.com/artist/4kmYEa0DFPDv2Opcpjv5el"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Solid Rock - Remastered Version",
-      "url": "https://open.spotify.com/track/18PsAoBaEHQZRUxigLP8QJ"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Diesel And Dust",
-        "url": "https://open.spotify.com/album/50uAGUoLjDf15dcmP8xsqK"
-      },
-      "artists": [
-        {
-          "name": "Midnight Oil",
-          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
-        }
-      ],
-      "duration_ms": 311026,
-      "name": "The Dead Heart",
-      "url": "https://open.spotify.com/track/0jdwA2pPXiVltojQt72yZD"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Of Skins And Heart",
-        "url": "https://open.spotify.com/album/3QFUhbSxlj6Ajwx90mdHO4"
-      },
-      "artists": [
-        {
-          "name": "The Church",
-          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "The Unguarded Moment - 2002 Remastered",
-      "url": "https://open.spotify.com/track/00W0z4GR2fU8v11dhszOdw"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Compilation",
-        "url": "https://open.spotify.com/album/3XRnS8IRPdJsxHAH2cSbVn"
-      },
-      "artists": [
-        {
-          "name": "The Clean",
-          "url": "https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz"
-        }
-      ],
-      "duration_ms": 157066,
-      "name": "Anything Could Happen",
-      "url": "https://open.spotify.com/track/31EQDVnk5iktBbweRhIIJn"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Temperamental",
-        "url": "https://open.spotify.com/album/5jBtKKe6O2PwbGLFFpS8sh"
-      },
-      "artists": [
-        {
-          "name": "Divinyls",
-          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Back To The Wall",
-      "url": "https://open.spotify.com/track/2K0JjkN1qIOD29iRvu6128"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "The Boys Light Up (Remastered)",
-        "url": "https://open.spotify.com/album/4xDGaF0egAcfV0lDYc3PTV"
-      },
-      "artists": [
-        {
-          "name": "Australian Crawl",
-          "url": "https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4"
-        }
-      ],
-      "duration_ms": 281466,
-      "name": "The Boys Light Up - Remastered 2013",
-      "url": "https://open.spotify.com/track/687i9z2ZCKNfzpmzs7HxOu"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Under The Sun",
-        "url": "https://open.spotify.com/album/1UnB77JHHrEyWsNSe7AE0p"
-      },
-      "artists": [
-        {
-          "name": "Paul Kelly",
-          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "The Messengers",
-          "url": "https://open.spotify.com/artist/3cSNDsEV7pFDmsEAQrmO1M"
-        }
-      ],
-      "duration_ms": 151826,
-      "name": "Dumb Things",
-      "url": "https://open.spotify.com/track/44srAjsFYhL8A9jcXK2xtB"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Big Bad Noise",
-        "url": "https://open.spotify.com/album/2RUPcjcTFN1B4jxYe4RsIF"
-      },
-      "artists": [
-        {
-          "name": "Choirboys",
-          "url": "https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM"
-        }
-      ],
-      "duration_ms": 251586,
-      "name": "Run to Paradise",
-      "url": "https://open.spotify.com/track/6Amt2E3nanH9lhZnas9oOs"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "The Angels (Alberts Classic Series)",
-        "url": "https://open.spotify.com/album/6NFPa9tI5o322alpgIxrG8"
-      },
-      "artists": [
-        {
-          "name": "The Angels",
-          "url": "https://open.spotify.com/artist/2PeqTZKroEc2oDwTfmB2al"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Am I Ever Gonna See Your Face Again",
-      "url": "https://open.spotify.com/track/7uEyVEp9tl2dhz5Ldt5JSd"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Somewhere Over The Radio",
-        "url": "https://open.spotify.com/album/4hXYUtljaHhnvkzUIkDDq6"
-      },
-      "artists": [
-        {
-          "name": "Deadstar",
-          "url": "https://open.spotify.com/artist/1SyEBlvc4XJL7C41bDlt3R"
-        }
-      ],
-      "duration_ms": 264866,
-      "name": "Deeper Water",
-      "url": "https://open.spotify.com/track/2nIVheVpEYNABxmWsltzX1"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Blow Your Cool",
-        "url": "https://open.spotify.com/album/53vbbwIDLn7Sh50yd9aEjq"
-      },
-      "artists": [
-        {
-          "name": "Hoodoo Gurus",
-          "url": "https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "What's My Scene - 2005 Remaster",
-      "url": "https://open.spotify.com/track/67f8z1qeIKaVawWsYQkSHv"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Diesel And Dust",
-        "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
-      },
-      "artists": [
-        {
-          "name": "Midnight Oil",
-          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Beds Are Burning - Remastered",
-      "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "What's A Few Men",
-        "url": "https://open.spotify.com/album/1Kbg07ul25DHduPtJmVZtW"
-      },
-      "artists": [
-        {
-          "name": "Hunters & Collectors",
-          "url": "https://open.spotify.com/artist/7udwYystFcvYziV36ZIwuh"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "Do You See What I See?",
-      "url": "https://open.spotify.com/track/2zxVHJWGp6NbbOHsQnbuCw"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "True Colours",
-        "url": "https://open.spotify.com/album/4PV25yINyoxdyK8GIJNZoh"
-      },
-      "artists": [
-        {
-          "name": "Split Enz",
-          "url": "https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/6GDsiYn5LvddnJjkJ2H0p5"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Whispering Jack",
-        "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
-      },
-      "artists": [
-        {
-          "name": "John Farnham",
-          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "You're the Voice",
-      "url": "https://open.spotify.com/track/721DwsHOeKf7zHRABCR2rh"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Man Of Colours",
-        "url": "https://open.spotify.com/album/5Pf2kkz10HySmJjWu2Fhd4"
-      },
-      "artists": [
-        {
-          "name": "ICEHOUSE",
-          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
-        }
-      ],
-      "duration_ms": 263680,
-      "name": "Electric Blue",
-      "url": "https://open.spotify.com/track/5aWvinQcbc1W1WdP0GQ6J1"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "String Of Pearls",
-        "url": "https://open.spotify.com/album/3uJt66Vz0jymlFZxedk63k"
-      },
-      "artists": [
-        {
-          "name": "Deborah Conway",
-          "url": "https://open.spotify.com/artist/3l1Tuoqd0JXoaOrAiOyrB0"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "Its Only the Beginning",
-      "url": "https://open.spotify.com/track/1HXaX12pA7jVuwUczy5UOd"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Kick (Remastered 2011)",
-        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Need You Tonight",
-      "url": "https://open.spotify.com/track/3h04eZTnmFLRMjZajbrp2R"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Semantics (Remastered)",
-        "url": "https://open.spotify.com/album/4NppVsUOi3ao3DVS8z2C8o"
-      },
-      "artists": [
-        {
-          "name": "Australian Crawl",
-          "url": "https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4"
-        }
-      ],
-      "duration_ms": 323988,
-      "name": "Reckless (Don't Be So...) - Remastered",
-      "url": "https://open.spotify.com/track/5XKw4mezzmvfzbHTFx6AwV"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Counting The Beat",
-        "url": "https://open.spotify.com/album/5y3FwMHa9D6hLx184MIMJb"
-      },
-      "artists": [
-        {
-          "name": "The Swingers",
-          "url": "https://open.spotify.com/artist/7IwgYVMAMcynxPDNtJjmfg"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "Counting The Beat",
-      "url": "https://open.spotify.com/track/6uA1FgFbQkI6L6BvOOmx3x"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Loyal",
-        "url": "https://open.spotify.com/album/1RNkgLNWegfev3hlSHHyXu"
-      },
-      "artists": [
-        {
-          "name": "Dave Dobbyn",
-          "url": "https://open.spotify.com/artist/5bYfbDXaMVCxEt7hOAvEWc"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "Herbs",
-          "url": "https://open.spotify.com/artist/6GIB5jeCf3U9JJUo2of2bA"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Funk Wav",
+          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
         }
       ],
-      "duration_ms": 277360,
-      "name": "Slice of Heaven",
-      "url": "https://open.spotify.com/track/5DrQCuue7nXV6Z88g7vajL"
+      "duration_ms": 229160,
+      "name": "Heatstroke (feat. Young Thug, Pharrell Williams & Ariana Grande)",
+      "url": "https://open.spotify.com/track/60APt5N2NRaKWf5xzJdzyC"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Divinyls",
-        "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
+        "name": "Sunchyme",
+        "url": "https://open.spotify.com/album/6TtZuP1WRvIScmqLlUwet2"
       },
       "artists": [
         {
-          "name": "Divinyls",
-          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
+          "name": "Dario G",
+          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
         }
       ],
-      "duration_ms": 227640,
-      "name": "I Touch Myself",
-      "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
+      "duration_ms": 235850,
+      "name": "Sunchyme",
+      "url": "https://open.spotify.com/track/2YOuBWIyHgyvHnLMpjzBf2"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Hepfidelity",
-        "url": "https://open.spotify.com/album/0VDxsQEKDSiq6ZyRBxhUXr"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Diesel",
-          "url": "https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 254640,
-      "name": "Tip Of My Tongue",
-      "url": "https://open.spotify.com/track/3Xl4KM5C1yivck4CBsy05L"
+      "duration_ms": 260770,
+      "name": "HEATED",
+      "url": "https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Twentieth Century",
-        "url": "https://open.spotify.com/album/43kr4D7peDZ128pt5im3cr"
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
       },
       "artists": [
         {
-          "name": "Cold Chisel",
-          "url": "https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 264748,
-      "name": "Flame Trees - 2011 Remastered",
-      "url": "https://open.spotify.com/track/5qBmTXgCdtvCqKc9yrLoWg"
+      "duration_ms": 253946,
+      "name": "Summerboy",
+      "url": "https://open.spotify.com/track/17xFcSuciJ9O10WqDERQep"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ"
       },
       "artists": [
         {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 201293,
-      "name": "Who Can It Be Now?",
-      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
+      "duration_ms": 196052,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/4Z3pwfHNEp40Fa6iqAaPf8"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Fundamental As Anything",
-        "url": "https://open.spotify.com/album/4hx41t6IQkOUy7exOtu7wp"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
       },
       "artists": [
         {
-          "name": "Mental As Anything",
-          "url": "https://open.spotify.com/artist/6PFydyUHMKD2jm5NXzRPiK"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 254200,
-      "name": "Live It Up",
-      "url": "https://open.spotify.com/track/0d4DyZYCiSH5fNnc0Hfz3L"
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/4btGe14gIJmTxbcPAQBtqb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 187957,
+      "name": "Hotter Than Hell",
+      "url": "https://open.spotify.com/track/4fTlLuSt6R3OnjAj0Ty5OC"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 199427,
+      "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Sweat (Snoop Dogg vs David Guetta Remix)",
+        "url": "https://open.spotify.com/album/7i3ZUKLj6bszovw4IfRECy"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Sweat - Snoop Dogg vs David Guetta Remix",
+      "url": "https://open.spotify.com/track/0R7YVi7w41Dr9jU5vblAok"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 314760,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "ORA",
+        "url": "https://open.spotify.com/album/4Q63QUsBfsOl1SMZkNimyS"
+      },
+      "artists": [
+        {
+          "name": "DJ Fresh",
+          "url": "https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Hot Right Now",
+      "url": "https://open.spotify.com/track/1Pk9bTscie0Nsx5mVSX2Zm"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/1ohFae0rMra8i5sHyraOFh"
+      },
+      "artists": [
+        {
+          "name": "Girls Aloud",
+          "url": "https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy"
+        }
+      ],
+      "duration_ms": 232240,
+      "name": "Long Hot Summer",
+      "url": "https://open.spotify.com/track/27Pg2JZoKkElCjsF5q3MH9"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/3K2K785SdN3wozTA3krazb"
+      },
+      "artists": [
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 187277,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/4x0yfBUpGWpovUxJqj20p0"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/1kh5XByhI0DDWV7m9kddr0"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/5FLctoy4mpCxLJ1QPneTOV"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Sun Comes Up (feat. James Arthur)",
+        "url": "https://open.spotify.com/album/5UGyzp6HT8oy0eTkBfxtQ8"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 232627,
+      "name": "Sun Comes Up (feat. James Arthur)",
+      "url": "https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Zonoscope",
+        "url": "https://open.spotify.com/album/5SFPr07PUPCT4YSaZjYeRR"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        }
+      ],
+      "duration_ms": 907040,
+      "name": "Sun God",
+      "url": "https://open.spotify.com/track/7D16bfZS59Dypa3JMVtJB3"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Blazzin' Fire",
+        "url": "https://open.spotify.com/album/6TzIhYO8o1yAar5PBcIfNc"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 227067,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/24Si0Kw3pu2RxX1jrbBg5A"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
+      },
+      "artists": [
+        {
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/05kBBWSmmq1YCkr6jvrCOS"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/1BykQV2nA2F8zXzsUJ6DQ2"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 217036,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/7F1lHcpnTycnimQrCxDFI5"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 265427,
+      "name": "Summertime Sadness",
+      "url": "https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Brazil Kicks 2014",
+        "url": "https://open.spotify.com/album/019MPpeyZcyeXxvNewWX1p"
+      },
+      "artists": [
+        {
+          "name": "Samim",
+          "url": "https://open.spotify.com/artist/3iI5B3NF2FdRcRocAKOAPM"
+        }
+      ],
+      "duration_ms": 390826,
+      "name": "Heater",
+      "url": "https://open.spotify.com/track/5hkuYnovZJB3Njaiqw7Sjc"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "The Ascent",
+        "url": "https://open.spotify.com/album/7G0kWbJcGHJYNt9rBfq0Wl"
+      },
+      "artists": [
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        },
+        {
+          "name": "Dyo",
+          "url": "https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Heatwave (feat. Ms. D)",
+      "url": "https://open.spotify.com/track/63bsPe8aayiERVIgTV9EBS"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/1b4oehAiKqRh5uDMNJfz60"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "EVERYTHING IS LOVE (Clean)",
+        "url": "https://open.spotify.com/album/1eOjlaZPGnnequ62abkClu"
+      },
+      "artists": [
+        {
+          "name": "The Carters",
+          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
+        }
+      ],
+      "duration_ms": 285200,
+      "name": "SUMMER",
+      "url": "https://open.spotify.com/track/5WI0wR52v8MHv65GVwRRyE"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Hot It Up",
+        "url": "https://open.spotify.com/album/7AFlhPnbMFOXQFCqxUcMiw"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 226664,
+      "name": "Hot Wuk",
+      "url": "https://open.spotify.com/track/7ceE3ZhobW7rkz0WE0Vp7F"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "RTRN II JUNGLE",
+        "url": "https://open.spotify.com/album/5TL5mPJjOPiQCcZzEpfuaU"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "Heater",
+      "url": "https://open.spotify.com/track/7joCfNdhgBuBYVquBQPHLq"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hebb",
+          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
+        }
+      ],
+      "duration_ms": 165066,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "50th Anniversary | The Singles Collection | 1962-1972",
+        "url": "https://open.spotify.com/album/5NSCsRBb7YxQTzKkb0UfLe"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/3Cbh1EJ6OYAPkkNRuTIz6T"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Sunshine (feat. Dan Harkna) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6zXxLhGvIqsm9ThiY81lmQ"
+      },
+      "artists": [
+        {
+          "name": "TIEKS",
+          "url": "https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45"
+        },
+        {
+          "name": "Dan Harkna",
+          "url": "https://open.spotify.com/artist/5xeGJm9dgg2x5luZLEYtMx"
+        }
+      ],
+      "duration_ms": 180646,
+      "name": "Sunshine (feat. Dan Harkna) - Radio Edit",
+      "url": "https://open.spotify.com/track/51MsIjtqDtQa36mYh1VaqZ"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Sunlight (feat. Years and Years)",
+        "url": "https://open.spotify.com/album/5leY9QGAzkC3wfsPjatums"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 193481,
+      "name": "Sunlight (feat. Years and Years)",
+      "url": "https://open.spotify.com/track/7w9W20r1IpCDQQMRcLEsQZ"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Sundress",
+        "url": "https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 158205,
+      "name": "Sundress",
+      "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "summer depression",
+        "url": "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "summer depression",
+      "url": "https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Sunshine (feat. Foushe\u00e9)",
+        "url": "https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Sunshine (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "added_at": "2026-02-05 01:12:48",
       "album": {
         "name": "Vulture Street",
         "url": "https://open.spotify.com/album/11lnp34TFhwc0274mF7YaZ"
@@ -492,329 +704,177 @@
           "url": "https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6"
         }
       ],
-      "duration_ms": 200440,
-      "name": "(Baby I've Got You) On My Mind",
-      "url": "https://open.spotify.com/track/1Vb0sEHboCBthv6fUqLjME"
+      "duration_ms": 229333,
+      "name": "Sunsets",
+      "url": "https://open.spotify.com/track/1dXFZeIjgDJ8sAc1csFNY2"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Penny Century",
-        "url": "https://open.spotify.com/album/3nziPYj0Q9ChCHP3a46p7A"
+        "name": "Everybody Loves The Sunshine (Reissue)",
+        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
       },
       "artists": [
         {
-          "name": "The Clouds",
-          "url": "https://open.spotify.com/artist/5CcmsecghHgwWCPS66vlCu"
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
         }
       ],
-      "duration_ms": 227200,
-      "name": "Hieronymus",
-      "url": "https://open.spotify.com/track/2zrs8tiXiqTC3Bd92TgjYI"
+      "duration_ms": 239666,
+      "name": "Everybody Loves The Sunshine",
+      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Primitive Man (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/5B3wFWPqWgpRnan9sSSQzr"
+        "name": "The Power (15 Year Anniversary Re-Issue)",
+        "url": "https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ"
       },
       "artists": [
         {
-          "name": "ICEHOUSE",
-          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
+          "name": "Vanessa Amorosi",
+          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
         }
       ],
-      "duration_ms": 317240,
-      "name": "Great Southern Land",
-      "url": "https://open.spotify.com/track/3OmEIZ6bYHqlReQ1YLaRHV"
+      "duration_ms": 234733,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/0w1cshxOoZvM0ZembJEEca"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Howzat",
-        "url": "https://open.spotify.com/album/4liRYil0nws0o7QfPehI71"
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
       "artists": [
         {
-          "name": "Sherbet",
-          "url": "https://open.spotify.com/artist/45NevEaV0GyRopWoADDPr2"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 225560,
-      "name": "Howzat",
-      "url": "https://open.spotify.com/track/78K0CsNamJ1LdSrWO7CxCn"
+      "duration_ms": 200626,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Diamantina Cocktail (Remastered 2022)",
-        "url": "https://open.spotify.com/album/2y1AfhFTokE1bObd4Dcakg"
+        "name": "Under The Light",
+        "url": "https://open.spotify.com/album/0gYjFl2KLiE1kxCBz3wDyq"
       },
       "artists": [
         {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+        },
+        {
+          "name": "Nicholas Allbrook",
+          "url": "https://open.spotify.com/artist/0fXNL948r9cbGsA6ZSwg6L"
         }
       ],
-      "duration_ms": 237049,
-      "name": "Help Is On Its Way - Remastered 2022",
-      "url": "https://open.spotify.com/track/6HnGsS6ovVsC6dLB3CtxYh"
+      "duration_ms": 268275,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/5hYM95UqxntaeUJUQ5trZS"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Blue Sky Mining (Remastered)",
-        "url": "https://open.spotify.com/album/4C3raKL0dzfTitM3YtqN1S"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
       "artists": [
         {
-          "name": "Midnight Oil",
-          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 255600,
-      "name": "Blue Sky Mine - 2011 Remaster",
-      "url": "https://open.spotify.com/track/6z9ehfxE973fOlKJKNJL2x"
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Crowded House (Deluxe)",
-        "url": "https://open.spotify.com/album/6W8rZvQ97nvTyOj26TRHJJ"
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/1vFFZPioAu0vrJRcGoyGX8"
       },
       "artists": [
         {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 238173,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A"
+      "duration_ms": 220226,
+      "name": "Hot N Cold",
+      "url": "https://open.spotify.com/track/1ulXmqjktxSdrdT1bzc69H"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/16XRPwzw1iIzAwgqwM5qYZ"
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/1lL2AaLIWqdM0UArMxAPkp"
       },
       "artists": [
         {
-          "name": "Jimmy Barnes",
-          "url": "https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ"
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Working Class Man",
-      "url": "https://open.spotify.com/track/1WHCkljLZJL715YSFN6DA8"
+      "duration_ms": 344920,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/4AcyXJTvy774APaDE45alo"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Big Bad Noise",
-        "url": "https://open.spotify.com/album/2RUPcjcTFN1B4jxYe4RsIF"
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/0ByciEsG5VvGzWOG7o3rAn"
       },
       "artists": [
         {
-          "name": "Choirboys",
-          "url": "https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM"
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
         }
       ],
-      "duration_ms": 208506,
-      "name": "Boys Will Be Boys",
-      "url": "https://open.spotify.com/track/2mCoPoJKtIoUuqkvTsJs3Z"
+      "duration_ms": 222413,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/4MD2OqWbWwvFBOy9CHobmd"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "20... Ish Anniversary Edition",
-        "url": "https://open.spotify.com/album/0v91CQ8k8qNZP2LnxQ8HNL"
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
       "artists": [
         {
-          "name": "1927",
-          "url": "https://open.spotify.com/artist/7uZbOLlVQNbLVvKdGRk4VZ"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 253253,
-      "name": "That's When I Think of You",
-      "url": "https://open.spotify.com/track/33q2gObaCllLh0Yt05Tsu7"
+      "duration_ms": 247893,
+      "name": "Summer Games",
+      "url": "https://open.spotify.com/track/4HG1YiGBseVKzjyKcmAJen"
     },
     {
-      "added_at": "2026-01-28 13:00:09",
+      "added_at": "2026-02-05 01:12:48",
       "album": {
-        "name": "Body And The Beat",
-        "url": "https://open.spotify.com/album/3ugzAaAo9ThcmWF31zSNlY"
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
       "artists": [
         {
-          "name": "Dragon",
-          "url": "https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t"
-        }
-      ],
-      "duration_ms": 218853,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3qp0q5gUblhkCjtD6fZfFE"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "How Bizarre (Deluxe)",
-        "url": "https://open.spotify.com/album/3CwsEC1FP4XUgECfy1z479"
-      },
-      "artists": [
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
         {
-          "name": "OMC",
-          "url": "https://open.spotify.com/artist/4vdt8TD56jjQfmxFCmhubX"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 225699,
-      "name": "How Bizarre",
-      "url": "https://open.spotify.com/track/46q5BtHso0ECuTKeq70ZhW"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Tribal Voice",
-        "url": "https://open.spotify.com/album/0bZ1EzA7K0ZK88THQaVViw"
-      },
-      "artists": [
-        {
-          "name": "Yothu Yindi",
-          "url": "https://open.spotify.com/artist/5sHPYevv4ykaH79HIHqBDP"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Treaty - Radio Mix",
-      "url": "https://open.spotify.com/track/0RGD7VXcMiPGmnha3vXSt3"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq"
-      },
-      "artists": [
-        {
-          "name": "Daryl Braithwaite",
-          "url": "https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe"
-        }
-      ],
-      "duration_ms": 256105,
-      "name": "The Horses",
-      "url": "https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Out Of Mind Out Of Sight",
-        "url": "https://open.spotify.com/album/2I0dTsIaTMvqbg23xSbbjH"
-      },
-      "artists": [
-        {
-          "name": "Models",
-          "url": "https://open.spotify.com/artist/2k0zkxxRvJKwiHQq5QfjYn"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Out Of Mind Out Of Sight",
-      "url": "https://open.spotify.com/track/1tFgbvRzyEaIhnVRqCwJy9"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "What's A Few Men",
-        "url": "https://open.spotify.com/album/4Sie3TbWFilySuRXhcXhtm"
-      },
-      "artists": [
-        {
-          "name": "Hunters & Collectors",
-          "url": "https://open.spotify.com/artist/7udwYystFcvYziV36ZIwuh"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "Do You See What I See?",
-      "url": "https://open.spotify.com/track/06yFpl4XLDwILqaGOi3Yac"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "16 Lovers Lane",
-        "url": "https://open.spotify.com/album/31nRnHI1uSDZ0POYPPJcUH"
-      },
-      "artists": [
-        {
-          "name": "The Go-Betweens",
-          "url": "https://open.spotify.com/artist/4HCubdy7diarb4KZo8etrq"
-        }
-      ],
-      "duration_ms": 216880,
-      "name": "Streets Of Your Town",
-      "url": "https://open.spotify.com/track/10vpPP0rDTRNJmQyvxyNRz"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/79v0WaGkCOQCa2qIxb5DUN"
-      },
-      "artists": [
-        {
-          "name": "The Easybeats",
-          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Friday On My Mind",
-      "url": "https://open.spotify.com/track/3Jw1RfDEUEBBIIyNjGt9xP"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Daddy Who? Daddy Cool (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4ZejRTERcKwWr0bc8CslGV"
-      },
-      "artists": [
-        {
-          "name": "Daddy Cool",
-          "url": "https://open.spotify.com/artist/5ht2HGrvbN9eDWJarHsou6"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "Eagle Rock - 2011 Remaster",
-      "url": "https://open.spotify.com/track/2nCXuFS4Dt4BpHkxA9rhPL"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "GANGgajang",
-        "url": "https://open.spotify.com/album/4WMAkJDilQHHsBEwZ3TIis"
-      },
-      "artists": [
-        {
-          "name": "GANGgajang",
-          "url": "https://open.spotify.com/artist/3CDzOX9D1buMRHeTNFHXMm"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "Sounds of Then (This Is Australia)",
-      "url": "https://open.spotify.com/track/5hC6zj0AL4iwOBm7eepgEj"
-    },
-    {
-      "added_at": "2026-01-28 13:00:09",
-      "album": {
-        "name": "Diesel And Dust",
-        "url": "https://open.spotify.com/album/50uAGUoLjDf15dcmP8xsqK"
-      },
-      "artists": [
-        {
-          "name": "Midnight Oil",
-          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
-        }
-      ],
-      "duration_ms": 254626,
-      "name": "Beds Are Burning",
-      "url": "https://open.spotify.com/track/0XHGKdViVybbZKqEZ2tXqV"
+      "duration_ms": 193026,
+      "name": "Hot (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
     }
   ],
   "unique_name": "Throwback Thursday AU & NZ",

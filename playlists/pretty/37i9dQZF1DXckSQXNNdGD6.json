@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Marlon Collins.",
-  "num_followers": 21227,
+  "num_followers": 21225,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-02-03 23:01:28",
       "album": {
-        "name": "MAYO SEASON",
-        "url": "https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp"
+        "name": "se sube la falda",
+        "url": "https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN"
       },
       "artists": [
         {
-          "name": "MAYO",
-          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
         }
       ],
-      "duration_ms": 138080,
-      "name": "T\u00f3came",
-      "url": "https://open.spotify.com/track/12KM4a7nY2hX3lgflqeQNs"
+      "duration_ms": 154136,
+      "name": "se sube la falda",
+      "url": "https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7"
     },
     {
       "added_at": "2026-02-03 23:01:28",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-02-03 23:01:28",
       "album": {
-        "name": "se sube la falda",
-        "url": "https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 154136,
-      "name": "se sube la falda",
-      "url": "https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7"
-    },
-    {
-      "added_at": "2026-02-03 23:01:28",
-      "album": {
         "name": "Objetos Perdidos",
         "url": "https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 207616,
       "name": "Objetos Perdidos",
       "url": "https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG"
+    },
+    {
+      "added_at": "2026-02-03 23:01:28",
+      "album": {
+        "name": "MAYO SEASON",
+        "url": "https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp"
+      },
+      "artists": [
+        {
+          "name": "MAYO",
+          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/12KM4a7nY2hX3lgflqeQNs"
     },
     {
       "added_at": "2026-02-03 23:01:28",
@@ -655,18 +655,18 @@
     {
       "added_at": "2026-02-03 23:01:28",
       "album": {
-        "name": "FAN\u00c1TICA",
-        "url": "https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq"
+        "name": "Se te est\u00e1 olvidando",
+        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
       },
       "artists": [
         {
-          "name": "LUSILLON",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
         }
       ],
-      "duration_ms": 206538,
-      "name": "Tu VIP",
-      "url": "https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk"
+      "duration_ms": 167856,
+      "name": "Se te est\u00e1 olvidando",
+      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
     },
     {
       "added_at": "2026-02-03 23:01:28",
@@ -687,18 +687,18 @@
     {
       "added_at": "2026-02-03 23:01:28",
       "album": {
-        "name": "Se te est\u00e1 olvidando",
-        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
+        "name": "FAN\u00c1TICA",
+        "url": "https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq"
       },
       "artists": [
         {
-          "name": "SAZZA",
-          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+          "name": "LUSILLON",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
         }
       ],
-      "duration_ms": 167856,
-      "name": "Se te est\u00e1 olvidando",
-      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
+      "duration_ms": 206538,
+      "name": "Tu VIP",
+      "url": "https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk"
     },
     {
       "added_at": "2026-02-03 23:01:28",

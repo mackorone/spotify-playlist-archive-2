@@ -1,6 +1,6 @@
 {
   "description": "Los temas que prenden las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia. Foto: Lisandro Meza",
-  "num_followers": 129408,
+  "num_followers": 129406,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "50 A\u00f1os De Fiesta",
-        "url": "https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF"
-      },
-      "artists": [
-        {
-          "name": "Los Wawanco",
-          "url": "https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "El Cuartetazo",
-      "url": "https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
         "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
         "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 278826,
       "name": "Quien Piensa En Ti",
       "url": "https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
+        "name": "50 A\u00f1os De Fiesta",
+        "url": "https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF"
+      },
+      "artists": [
+        {
+          "name": "Los Wawanco",
+          "url": "https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "El Cuartetazo",
+      "url": "https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
+        "name": "Que Gran Relajo",
+        "url": "https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "La Banda Borracha",
+      "url": "https://open.spotify.com/track/5re4akm7ImQOsyea86iSQ3"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
         "name": "Mis Nuevos Cantares",
         "url": "https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 235235,
       "name": "No Pude Quitarte las Espinas",
       "url": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
-        "name": "Que Gran Relajo",
-        "url": "https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gutierrez",
-          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "La Banda Borracha",
-      "url": "https://open.spotify.com/track/5re4akm7ImQOsyea86iSQ3"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "En Acci\u00f3n",
-        "url": "https://open.spotify.com/album/0QQG7YEkrJ7FVTHXmWTmHW"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 270300,
-      "name": "Pa'l Bailador",
-      "url": "https://open.spotify.com/track/4JzviwEqthvivOdrYJYRdZ"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
         "name": "Mejor Que Antes",
         "url": "https://open.spotify.com/album/0a14C3Un4TyuOQTbsh6jlE"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 257642,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/5ZsIeVJdQ0d4Xk6mjRz2Cz"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
+        "name": "En Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0QQG7YEkrJ7FVTHXmWTmHW"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 270300,
+      "name": "Pa'l Bailador",
+      "url": "https://open.spotify.com/track/4JzviwEqthvivOdrYJYRdZ"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Daniela",
-      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2RCsP96Pr5QBxBBRBvuobb"
       },
@@ -1347,38 +1327,22 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "\u00c9xitos Armando Hern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
+        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
       },
       "artists": [
         {
-          "name": "Armando Hernandez",
-          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
         },
         {
-          "name": "El Combo Caribe",
-          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
         }
       ],
-      "duration_ms": 216293,
-      "name": "Qu\u00e9 Voy a Hacer Sin Ti",
-      "url": "https://open.spotify.com/track/4ZYLYXiGPem5KpWhKwucjr"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
-        "name": "Colecci\u00f3n Oro la Sonora Dinamita (Vol. 12)",
-        "url": "https://open.spotify.com/album/0mjJw7byRZZcflcrCEw72m"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 189954,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/2F1dL7782oRoPgM2whgY7m"
+      "duration_ms": 198053,
+      "name": "Daniela",
+      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1403,22 +1367,38 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+        "name": "Colecci\u00f3n Oro la Sonora Dinamita (Vol. 12)",
+        "url": "https://open.spotify.com/album/0mjJw7byRZZcflcrCEw72m"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         }
       ],
-      "duration_ms": 220354,
-      "name": "Ojitos Hechiceros",
-      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
+      "duration_ms": 189954,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/2F1dL7782oRoPgM2whgY7m"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
+        "name": "\u00c9xitos Armando Hern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
+      },
+      "artists": [
+        {
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+        },
+        {
+          "name": "El Combo Caribe",
+          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Qu\u00e9 Voy a Hacer Sin Ti",
+      "url": "https://open.spotify.com/track/4ZYLYXiGPem5KpWhKwucjr"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1439,6 +1419,26 @@
       "duration_ms": 175960,
       "name": "Se Va El Caim\u00e1n",
       "url": "https://open.spotify.com/track/3jkVN9ccFjs6HlZD4RtNC8"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
+        "name": "A Mover el Esqueleto Con 3 Grandes",
+        "url": "https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy"
+      },
+      "artists": [
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "duration_ms": 103960,
+      "name": "Fiesta de Mi Pueblo",
+      "url": "https://open.spotify.com/track/0WXMlNme92zpMKnORbFqcX"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
         "name": "Inmortal (Vol. 2)",
         "url": "https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 202673,
       "name": "Boquita de Caramelo",
       "url": "https://open.spotify.com/track/5Q9DJQU4WMNw3BX6DAXMAz"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
-        "name": "A Mover el Esqueleto Con 3 Grandes",
-        "url": "https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy"
-      },
-      "artists": [
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        }
-      ],
-      "duration_ms": 103960,
-      "name": "Fiesta de Mi Pueblo",
-      "url": "https://open.spotify.com/track/0WXMlNme92zpMKnORbFqcX"
     },
     {
       "added_at": "2025-12-17 19:57:52",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-12-17 19:57:52",
       "album": {
-        "name": "Colecci\u00f3n Oro del Vallenato (Vol. 1)",
-        "url": "https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6"
-      },
-      "artists": [
-        {
-          "name": "Lucho Y Rafa",
-          "url": "https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x"
-        }
-      ],
-      "duration_ms": 179915,
-      "name": "No Quiero Envejecer",
-      "url": "https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0"
-    },
-    {
-      "added_at": "2025-12-17 19:57:52",
-      "album": {
         "name": "Cumbias Solo Cumbias",
         "url": "https://open.spotify.com/album/7esqjVlp983ecsQ1I8DsIv"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 168306,
       "name": "Cumbia Sampuesana",
       "url": "https://open.spotify.com/track/0AQ1sJgFEjYNry4aApi51A"
+    },
+    {
+      "added_at": "2025-12-17 19:57:52",
+      "album": {
+        "name": "Colecci\u00f3n Oro del Vallenato (Vol. 1)",
+        "url": "https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6"
+      },
+      "artists": [
+        {
+          "name": "Lucho Y Rafa",
+          "url": "https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x"
+        }
+      ],
+      "duration_ms": 179915,
+      "name": "No Quiero Envejecer",
+      "url": "https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0"
     },
     {
       "added_at": "2025-12-17 19:57:52",

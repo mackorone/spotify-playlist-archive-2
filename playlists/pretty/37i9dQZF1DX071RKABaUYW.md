@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Ray Laurél
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,181 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,183 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 | 58 | [Yasmina, Like the Flower](https://open.spotify.com/track/3tFcgkCjYsSPb6qQ5dCUbu) | [Sunkissed Child](https://open.spotify.com/artist/61hgmGkN3BNk2umSvUZBBw) | [Yasmina, Like the Flower](https://open.spotify.com/album/58t6Lyibtn6o3sQltkNHKu) | 3:15 |
 | 59 | [Crash Out](https://open.spotify.com/track/0FXh6XVV5BWtGrCfYSwNXH) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Crash Out](https://open.spotify.com/album/1OgA2o8ej0Hw76zGVhNv23) | 2:49 |
 | 60 | [38 inch loveseat](https://open.spotify.com/track/55dPDt8xXd5Qbyu88JJDFs) | [Clyde Crooks](https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm) | [38 inch loveseat](https://open.spotify.com/album/2n5Bjj04OWh44d2yCOlyrr) | 3:52 |
-| 61 | [haha](https://open.spotify.com/track/3vKAnMOGw7ys5fKxxSMBu3) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [haha](https://open.spotify.com/album/2RSOqEmQIEq3rWzHhW9h3b) | 2:01 |
+| 61 | [haha](https://open.spotify.com/track/3vKAnMOGw7ys5fKxxSMBu3) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Haha](https://open.spotify.com/album/2RSOqEmQIEq3rWzHhW9h3b) | 2:01 |
 | 62 | [GREEN LIGHTS](https://open.spotify.com/track/5qwmGKmnUfrxlI6PCeP03E) | [Sweets](https://open.spotify.com/artist/55Fw9imZATr8gM4uzL12T3) | [GREEN LIGHTS](https://open.spotify.com/album/724Pv2WGqwzvmxahTaEtOn) | 3:26 |
 | 63 | [Road](https://open.spotify.com/track/4IbmnwmPEuMyBq0yCX3H9k) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Becoming You](https://open.spotify.com/album/5A4g0BOkNk9FnMSPchF8Zi) | 3:13 |
 | 64 | [dot cotton](https://open.spotify.com/track/5N86HWyYZhgNK3f1O0Sc6h) | [shortstraw.](https://open.spotify.com/artist/3qlFWAsq8StLpupHiBDVND) | [dot cotton](https://open.spotify.com/album/6Q00BH7x0K1LZUrDIfdND6) | 3:19 |

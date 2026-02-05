@@ -1199,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/1UEvT8fLPD3p9dCK09bbLl"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393781,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/4AtvX4PqTMt4JtCZqEbqK7"
+    },
+    {
+      "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/1PoMTCw9xOwidYPbxqjyhH"
       },
@@ -4907,6 +4925,24 @@
     },
     {
       "album": {
+        "name": "Cantiga Bailada",
+        "url": "https://open.spotify.com/album/75FcjR0WYp5XXYNkRbvIg2"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1ximo",
+          "url": "https://open.spotify.com/artist/6vBFZrcAJhzNdO3h4wdSgX"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485669,
+      "name": "Cantiga Bailada",
+      "url": "https://open.spotify.com/track/4YnQXNJ0G1xldvkQVwcE86"
+    },
+    {
+      "album": {
         "name": "Um",
         "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
       },
@@ -7256,7 +7292,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 270326,
       "name": "Dig Deep (feat.Jairo\uff09",
       "url": "https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm"
@@ -20880,7 +20916,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 242535,
       "name": "Painted Lady",
       "url": "https://open.spotify.com/track/2pD5oV7GP3Sx5ygrzTiMGT"

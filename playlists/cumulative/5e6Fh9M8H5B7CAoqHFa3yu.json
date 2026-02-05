@@ -1819,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/5sOhuVoHp8MaxD0gTzINbE"
+      },
+      "artists": [
+        {
+          "name": "Pangolin echo",
+          "url": "https://open.spotify.com/artist/7xpv243aUb86P3EyjgkozS"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288119,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/6zonPJLi2krblCRcek49JY"
+    },
+    {
+      "album": {
         "name": "Apnea",
         "url": "https://open.spotify.com/album/5YGNXqexHVhrsW3oj0ZhdK"
       },
@@ -14184,6 +14202,24 @@
       "duration_ms": 181926,
       "name": "Intuici\u00f3n",
       "url": "https://open.spotify.com/track/4gvpQ27HUUzlVwzU21pWr0"
+    },
+    {
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/7Glosnp2Mb4Zk6L5s3VZcP"
+      },
+      "artists": [
+        {
+          "name": "Pangolin echo",
+          "url": "https://open.spotify.com/artist/7xpv243aUb86P3EyjgkozS"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224280,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/3MKoMR3tDHhsYX4ppuQFV4"
     },
     {
       "album": {
@@ -29706,6 +29742,24 @@
       "duration_ms": 316312,
       "name": "Todos S\u00e3o para o Que Nascem",
       "url": "https://open.spotify.com/track/32FNrUz6mYjdzrAsFOkhSf"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/12K8R9UzKrrIevcxNwqAgg"
+      },
+      "artists": [
+        {
+          "name": "Pangolin echo",
+          "url": "https://open.spotify.com/artist/7xpv243aUb86P3EyjgkozS"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173159,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/2LUw2kBMjL93VzqeS6ntQe"
     },
     {
       "album": {

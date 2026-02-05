@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈  Boro e Young Hash in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,178 likes - 135 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,204 likes - 135 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

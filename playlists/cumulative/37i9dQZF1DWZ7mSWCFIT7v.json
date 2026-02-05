@@ -3260,7 +3260,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 227204,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/5zdVpoDxG32whKcaUVKL6Q"
@@ -6811,6 +6811,24 @@
     },
     {
       "album": {
+        "name": "Rejser",
+        "url": "https://open.spotify.com/album/0qA1RVPxi208LwgJU8p8X0"
+      },
+      "artists": [
+        {
+          "name": "Emil Mark",
+          "url": "https://open.spotify.com/artist/1qlDl83uNVefTibpCIvCoa"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Rejser",
+      "url": "https://open.spotify.com/track/2zHDLkyEqwup69ZCR2mOAX"
+    },
+    {
+      "album": {
         "name": "Modern Species",
         "url": "https://open.spotify.com/album/4sZvkjrogy7HbQ0M5CNCEL"
       },
@@ -7531,6 +7549,24 @@
     },
     {
       "album": {
+        "name": "Silken Place",
+        "url": "https://open.spotify.com/album/5h0egqEerHyLwaLQ1tNZAJ"
+      },
+      "artists": [
+        {
+          "name": "Surgeons Girl",
+          "url": "https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210838,
+      "name": "Silken Place",
+      "url": "https://open.spotify.com/track/4HLMg8naWj2VbsxBzutuok"
+    },
+    {
+      "album": {
         "name": "In Situ",
         "url": "https://open.spotify.com/album/2n6gIMQKyacV5zPrhE9XCm"
       },
@@ -8142,7 +8178,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 266956,
       "name": "T.L.G.",
       "url": "https://open.spotify.com/track/0TMktP5EVxEHx62xt0er04"

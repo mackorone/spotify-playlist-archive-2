@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。ずっと真夜中でいいのに。, Noah Kahan, Awesome City Club, Sia and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,823 likes - 91 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,831 likes - 91 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,6 +98,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 88 | [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Wake up!](https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4) | 2:28 |
 | 89 | [All I Do](https://open.spotify.com/track/07753okQq77o7gtEAC9LNm) | [Baby Smith](https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932) | [All I Do](https://open.spotify.com/album/2VVdUACeHgV0We2bMWObQn) | 3:29 |
 | 90 | [The Moon's Elbow](https://open.spotify.com/track/25qXnyckAQv0djLzPQ6ECh) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71) | [The Moon's Elbow](https://open.spotify.com/album/69quTR1SlD7t3cAjoNhvYZ) | 3:05 |
-| 91 | [Residue \- The Moment \(The Score\)](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue \- The Moment \(The Score\)](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 |
+| 91 | [Residue](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 |
 
 Snapshot ID: `AAAAAFbSKJMh8Gv7Vp5ELHC0VtG2IGwT`

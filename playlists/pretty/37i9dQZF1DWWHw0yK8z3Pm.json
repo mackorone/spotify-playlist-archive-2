@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Zach Bryan",
-  "num_followers": 69606,
+  "num_followers": 69611,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/13dPOEUDNyvOv8iKY9bxjq"
     },
     {
+      "added_at": "2025-10-24 04:01:04",
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 260065,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq"
+    },
+    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Ain't As Pretty A Blue",
@@ -651,22 +667,6 @@
       "duration_ms": 237884,
       "name": "Ain't As Pretty A Blue",
       "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
-    },
-    {
-      "added_at": "2025-10-24 04:01:04",
-      "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 260065,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP"
     },
     {
-      "added_at": "2025-11-14 00:01:39",
-      "album": {
-        "name": "Appaloosa",
-        "url": "https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 213137,
-      "name": "Oh My Days",
-      "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Devil\u2019s Den",
@@ -747,6 +731,22 @@
       "duration_ms": 230112,
       "name": "The Great Caucasian God",
       "url": "https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y"
+    },
+    {
+      "added_at": "2025-11-14 00:01:39",
+      "album": {
+        "name": "Appaloosa",
+        "url": "https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 213137,
+      "name": "Oh My Days",
+      "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
     },
     {
       "added_at": "2026-01-23 14:55:43",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Misty Morning",
-        "url": "https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W"
-      },
-      "artists": [
-        {
-          "name": "The East Pointers",
-          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Misty Morning",
-      "url": "https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 203830,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Misty Morning",
+        "url": "https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W"
+      },
+      "artists": [
+        {
+          "name": "The East Pointers",
+          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Misty Morning",
+      "url": "https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -967,6 +967,22 @@
       "duration_ms": 301780,
       "name": "If There's A Heaven",
       "url": "https://open.spotify.com/track/7lfCazSXAmsNc1bZ3d4zwx"
+    },
+    {
+      "added_at": "2026-01-30 05:01:55",
+      "album": {
+        "name": "Never Kissed a Cowboy",
+        "url": "https://open.spotify.com/album/0LQY59aSfb5QmRFK1z6VRK"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 184185,
+      "name": "Never Kissed a Cowboy",
+      "url": "https://open.spotify.com/track/45OZMlld4rUYxi62rXvxv1"
     },
     {
       "added_at": "2025-11-07 00:01:44",
@@ -1033,22 +1049,6 @@
       "url": "https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM"
     },
     {
-      "added_at": "2026-01-30 05:01:55",
-      "album": {
-        "name": "Never Kissed a Cowboy",
-        "url": "https://open.spotify.com/album/0LQY59aSfb5QmRFK1z6VRK"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 184185,
-      "name": "Never Kissed a Cowboy",
-      "url": "https://open.spotify.com/track/45OZMlld4rUYxi62rXvxv1"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Everything I Wanted",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL"
     },
     {
-      "added_at": "2025-10-31 00:01:27",
-      "album": {
-        "name": "The Longer You Hold On",
-        "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "The Longer You Hold On",
-      "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Darling Blue",
@@ -1123,6 +1107,22 @@
       "duration_ms": 247050,
       "name": "The Shadows (feat. Noah Cyrus)",
       "url": "https://open.spotify.com/track/5Sl9U0zlHnkdWhIETz3bhK"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "The Longer You Hold On",
+        "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "The Longer You Hold On",
+      "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/3vT7yPGiQ10fqj2I9doxYS"
     },
     {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "American Recordings",
+        "url": "https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh"
+    },
+    {
       "added_at": "2025-10-24 04:01:04",
       "album": {
         "name": "More Acoustic Junk",
@@ -1257,20 +1273,24 @@
       "url": "https://open.spotify.com/track/2Gra5k4QSdCRecxiDqJpfs"
     },
     {
-      "added_at": "2025-10-06 15:34:36",
+      "added_at": "2025-10-31 00:01:27",
       "album": {
-        "name": "American Recordings",
-        "url": "https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE"
+        "name": "Walking Home",
+        "url": "https://open.spotify.com/album/1LoIRaEqz16PNndAiavdP6"
       },
       "artists": [
         {
-          "name": "Truman Sinclair",
-          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        },
+        {
+          "name": "FONTINE",
+          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
         }
       ],
-      "duration_ms": 190026,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh"
+      "duration_ms": 186912,
+      "name": "Walking Home",
+      "url": "https://open.spotify.com/track/642xXLrYiRYONlIDAVpJZE"
     },
     {
       "added_at": "2025-11-07 00:01:44",
@@ -1321,22 +1341,6 @@
       "url": "https://open.spotify.com/track/60YbzHpkoflRfLQ8YoQRBz"
     },
     {
-      "added_at": "2025-10-24 04:01:04",
-      "album": {
-        "name": "Little Miss",
-        "url": "https://open.spotify.com/album/0Y9fUcEWMbl62RU2sg6nvW"
-      },
-      "artists": [
-        {
-          "name": "Vincent Mason",
-          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
-        }
-      ],
-      "duration_ms": 158224,
-      "name": "Little Miss",
-      "url": "https://open.spotify.com/track/2YGTOXGGrTB9b3OcFAjG93"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Baby Blue",
@@ -1351,6 +1355,22 @@
       "duration_ms": 248831,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U"
+    },
+    {
+      "added_at": "2025-10-24 04:01:04",
+      "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/0Y9fUcEWMbl62RU2sg6nvW"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "duration_ms": 158224,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/2YGTOXGGrTB9b3OcFAjG93"
     },
     {
       "added_at": "2025-10-17 08:01:09",
@@ -1417,26 +1437,6 @@
       "url": "https://open.spotify.com/track/44YwwgsWXfrSObT4vCmJMS"
     },
     {
-      "added_at": "2025-10-31 00:01:27",
-      "album": {
-        "name": "Walking Home",
-        "url": "https://open.spotify.com/album/1LoIRaEqz16PNndAiavdP6"
-      },
-      "artists": [
-        {
-          "name": "Noah Derksen",
-          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
-        },
-        {
-          "name": "FONTINE",
-          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
-        }
-      ],
-      "duration_ms": 186912,
-      "name": "Walking Home",
-      "url": "https://open.spotify.com/track/642xXLrYiRYONlIDAVpJZE"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Welcome To Countryland",
@@ -1489,6 +1489,22 @@
       "url": "https://open.spotify.com/track/28Lt8UhUhJLgGsJQpDEJDE"
     },
     {
+      "added_at": "2025-10-17 08:01:09",
+      "album": {
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/7r8PDebvBrmEoJQnCyiXny"
+      },
+      "artists": [
+        {
+          "name": "The Rural Alberta Advantage",
+          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
+        }
+      ],
+      "duration_ms": 179759,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/0BTSJiovmjDoWYMt7UHd3B"
+    },
+    {
       "added_at": "2025-10-24 04:01:04",
       "album": {
         "name": "Don\u2019t Let \u2018Em (Get Inside of Your Head)",
@@ -1507,22 +1523,6 @@
       "duration_ms": 203326,
       "name": "Don\u2019t Let \u2018Em (Get Inside of Your Head)",
       "url": "https://open.spotify.com/track/5Ji2fMtataaupfgg3SlLdS"
-    },
-    {
-      "added_at": "2025-10-17 08:01:09",
-      "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/7r8PDebvBrmEoJQnCyiXny"
-      },
-      "artists": [
-        {
-          "name": "The Rural Alberta Advantage",
-          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
-        }
-      ],
-      "duration_ms": 179759,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/0BTSJiovmjDoWYMt7UHd3B"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1653,24 +1653,20 @@
       "url": "https://open.spotify.com/track/7gZ82MIsBnYyOxr1SOVo0P"
     },
     {
-      "added_at": "2025-10-09 21:40:25",
+      "added_at": "2026-01-30 05:01:55",
       "album": {
-        "name": "Knuckles",
-        "url": "https://open.spotify.com/album/5Kj6CtezpoXJaIuuyDE9T3"
+        "name": "Wrong Guy",
+        "url": "https://open.spotify.com/album/4QdPgscraOJxMYySFeOIoY"
       },
       "artists": [
         {
-          "name": "The Bros. Landreth",
-          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "The Sarandons",
+          "url": "https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM"
         }
       ],
-      "duration_ms": 254688,
-      "name": "Knuckles",
-      "url": "https://open.spotify.com/track/3KvkxLG3qIKnvRKsiBaiKl"
+      "duration_ms": 190575,
+      "name": "Wrong Guy",
+      "url": "https://open.spotify.com/track/0nR7z3S16X1m7FZ0nblX3t"
     }
   ],
   "unique_name": "Renegades",

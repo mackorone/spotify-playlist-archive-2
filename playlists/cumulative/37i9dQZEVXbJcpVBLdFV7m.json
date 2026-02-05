@@ -11688,7 +11688,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 199415,
       "name": "Far Away (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/14qNHvX8h6HoynFuV0RxWS"
@@ -16356,7 +16356,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 214119,
       "name": "I'm a Woman",
       "url": "https://open.spotify.com/track/2tXTaMGNkSd9fdVBALoP36"
@@ -23851,6 +23851,24 @@
     },
     {
       "album": {
+        "name": "Don Juan 20e anniversaire",
+        "url": "https://open.spotify.com/album/4xb3veYm3XRNVSpdSGNzdL"
+      },
+      "artists": [
+        {
+          "name": "Aliz\u00e9e Lalande",
+          "url": "https://open.spotify.com/artist/53rAQejGs2RvShvPlqfej4"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198156,
+      "name": "N'as-tu pas honte",
+      "url": "https://open.spotify.com/track/7cNfNrre69ZZdum9J1yLtg"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -24204,7 +24222,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 208134,
       "name": "Nema Koj",
       "url": "https://open.spotify.com/track/4r0AjlbwbtNz7THU6ZpZbz"
@@ -41695,6 +41713,24 @@
     },
     {
       "album": {
+        "name": "Vulkani 3",
+        "url": "https://open.spotify.com/album/7hdf9HHx7zhhqUGQV08sRO"
+      },
+      "artists": [
+        {
+          "name": "STEFCHO BEND",
+          "url": "https://open.spotify.com/artist/37nhUpAhvy7kHOjCurTeM7"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340500,
+      "name": "\u0414\u0430\u0432\u0438\u043d\u0447\u0438",
+      "url": "https://open.spotify.com/track/6uZsm77ETDzSQ8FVA6usyD"
+    },
+    {
+      "album": {
         "name": "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
         "url": "https://open.spotify.com/album/1XLdikkaCcsEjBkqroz5PG"
       },
@@ -45160,7 +45196,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 158440,
       "name": "\u0421\u043b\u044a\u043d\u0447\u043e\u0433\u043b\u0435\u0434",
       "url": "https://open.spotify.com/track/6QXckGVukUJFUIX6wCtOCN"

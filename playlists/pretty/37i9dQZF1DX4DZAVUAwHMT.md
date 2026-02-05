@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: CQ Wrestling
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,659 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,826 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [birthday card//](https://open.spotify.com/track/2Ge2MmDxZgnjY9Vfj8PLC9) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan// deluxe edition](https://open.spotify.com/album/2OdZk5p5RrHPW1dsQihqhj) | 2:57 |
 | 80 | [You Got This](https://open.spotify.com/track/5i220DkgLvh0TW1FpR0ugv) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4RLOgw937LloMOHDQpE2mW) | 3:37 |
 
-Snapshot ID: `AAAAAJoE5tRmwLUkZcjgIVA8hI8HiGBV`
+Snapshot ID: `AAAAAOyDa+BodBoggSvtLi9Us/poBIth`

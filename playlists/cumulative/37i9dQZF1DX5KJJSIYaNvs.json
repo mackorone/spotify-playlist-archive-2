@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to women at full volume. Cover - Rashmeet Kaur",
+  "description": "Listen to women at full volume. Cover - gini",
   "name": "EQUAL India",
   "tracks": [
     {
@@ -468,7 +468,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 185624,
       "name": "Aasaan nahi",
       "url": "https://open.spotify.com/track/7nrRAfitUbrhYjdbCwFDgl"
@@ -542,6 +542,28 @@
       "duration_ms": 378973,
       "name": "Achchi Lagti Ho",
       "url": "https://open.spotify.com/track/122FCMf052psls9894JYlf"
+    },
+    {
+      "album": {
+        "name": "Adatein",
+        "url": "https://open.spotify.com/album/0s2Hnav57wS4qNzS0dIljY"
+      },
+      "artists": [
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        },
+        {
+          "name": "Charan Preet",
+          "url": "https://open.spotify.com/artist/3XpPxH0e3jodx0QyLbHVfD"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Adatein",
+      "url": "https://open.spotify.com/track/1vzy1cPfT9f4Op2z4Gmg3i"
     },
     {
       "album": {
@@ -3692,6 +3714,28 @@
       "duration_ms": 226304,
       "name": "Ek Tarfa",
       "url": "https://open.spotify.com/track/6s7dQ6nHwILfXw1SMyOI8F"
+    },
+    {
+      "album": {
+        "name": "Feeka",
+        "url": "https://open.spotify.com/album/76gnTOJwG2tIcpUsR6Dd0A"
+      },
+      "artists": [
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        },
+        {
+          "name": "NEVERSOBER",
+          "url": "https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Feeka",
+      "url": "https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv"
     },
     {
       "album": {
@@ -11134,7 +11178,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-05",
       "duration_ms": 253469,
       "name": "Saasu Maa",
       "url": "https://open.spotify.com/track/4l8OKmEhloJwVezJDHW59k"

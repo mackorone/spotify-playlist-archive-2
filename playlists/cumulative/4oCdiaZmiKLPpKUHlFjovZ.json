@@ -2989,20 +2989,24 @@
     },
     {
       "album": {
-        "name": "Out The Box",
+        "name": "Out The Box (feat. Bosko)",
         "url": "https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S"
       },
       "artists": [
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Bosko",
+          "url": "https://open.spotify.com/artist/16PgF1vgup7ohBZnteQGvx"
         }
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 162804,
-      "name": "Out The Box",
+      "name": "Out The Box (feat. Bosko)",
       "url": "https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq"
     },
     {

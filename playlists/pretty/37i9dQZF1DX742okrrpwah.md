@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Gradur x SDM, Naza x L2B et Sam Sauvage au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,984 likes - 81 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,981 likes - 81 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 59 | [Derrière moi](https://open.spotify.com/track/1tfBv2wvPyymCVXaZ25N2n) | [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh), [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [Les 11 à suivre 2026](https://open.spotify.com/album/316y2Syts5IHMvJMVTdxsA) | 1:25 |
 | 60 | [JSP](https://open.spotify.com/track/1rmTOaMKdlHiu6QCJc0FlZ) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Elles m'aiment, elle me déteste](https://open.spotify.com/album/3G2KKPz6vrL3egBeeV3XOB) | 1:55 |
 | 61 | [Seventeen](https://open.spotify.com/track/3Ac7dP08nPVC9Ti6RcTmcQ) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Seventeen](https://open.spotify.com/album/5YwXFDSgMW3FBGAES2Kud3) | 3:02 |
-| 62 | [Residue \- The Moment \(The Score\)](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue \- The Moment \(The Score\)](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 |
+| 62 | [Residue](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 |
 | 63 | [Amnesia](https://open.spotify.com/track/2TekScsqJyCJ6TO9Y32X09) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Amnesia](https://open.spotify.com/album/1yMMSrLIM3D497KmhcbWrT) | 3:11 |
 | 64 | [Approximatif](https://open.spotify.com/track/0I5EAx0lrJ4cL4Dj21MoK4) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [Bonne chance pour la suite](https://open.spotify.com/album/5Xi1T4E5u564I6Njs5iLLm) | 4:05 |
 | 65 | [Still Sincere](https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Still Sincere](https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d) | 3:08 |

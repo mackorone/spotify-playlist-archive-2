@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mnKbIkppDf.md) - [plain]
 | 32 | [Stay](https://open.spotify.com/track/7xJWA1o9J0ndaJ2gFsWLvJ) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [First Rodeo](https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj) | 3:45 |
 | 33 | [Gold](https://open.spotify.com/track/12flRH7IPXT0fAfwq8kPBx) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/7MyRjFcmJCIQsLBQvmgz7q) | 2:54 |
 
-Snapshot ID: `AAAAAMcFX1xuR5xoiG4av191Z/SvTZVj`
+Snapshot ID: `AAAAAF0jqETudPE0vbOkQTPITv1+rYbv`

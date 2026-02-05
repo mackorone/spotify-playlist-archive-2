@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,910 likes - 81 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,922 likes - 81 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 40 | [Your Body](https://open.spotify.com/track/3HRpldxycaV9vJpNjSgoUb) | [Bibao](https://open.spotify.com/artist/3qbfPofRrhxm6jnbacynct) | [Your Body](https://open.spotify.com/album/3J0HiVk2mH6MzgfjePiQey) | 3:13 |
 | 41 | [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 |
 | 42 | [Proppa](https://open.spotify.com/track/2wrYYK6oe9Dt8og9BbvE3w) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Proppa](https://open.spotify.com/album/1uc3mBwthg0sbR11HwFQaS) | 3:30 |
-| 43 | [Vibes \(feat\. KDM on the Track\) \- DJ Noiz Remix](https://open.spotify.com/track/0it8gyCvD9hIgokj6AzlR4) | [Creed Tha Kid](https://open.spotify.com/artist/0Gzx0kLgEZkaNJYGJCbdYR), [KDM on the Track](https://open.spotify.com/artist/5LFz0KKbclucY3br4TShZG), [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK) | [Vibes \(feat\. KDM on the Track\) \[DJ Noiz Remix\]](https://open.spotify.com/album/7GpPnJ92CkwSPFVKOwFGgl) | 3:01 |
+| 43 | [Vibes \(feat\. KDM on the Track\) \- DJ Noiz Remix](https://open.spotify.com/track/0it8gyCvD9hIgokj6AzlR4) | [Creed Tha Kid](https://open.spotify.com/artist/45xJOVlV42CkUggG3G9xE9), [KDM on the Track](https://open.spotify.com/artist/5LFz0KKbclucY3br4TShZG), [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK) | [Vibes \(feat\. KDM on the Track\) \[DJ Noiz Remix\]](https://open.spotify.com/album/7GpPnJ92CkwSPFVKOwFGgl) | 3:01 |
 | 44 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
 | 45 | [Shady \- Edit](https://open.spotify.com/track/5lJLXjhooAXIjgPF339skN) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Shady](https://open.spotify.com/album/5iUXFPSiWHb2UT2tz036UQ) | 5:18 |
 | 46 | [There I Go](https://open.spotify.com/track/3CuCZo5XcwYTmoGio7GvD1) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2020](https://open.spotify.com/album/6x5l8Cjzh0GaKQLVsLBOk7) | 3:22 |

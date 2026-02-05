@@ -1,13 +1,45 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: VLADKO. Artwork: Joy Yamusangie.",
-  "num_followers": 239973,
+  "num_followers": 239996,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKF/QJyZcFbEVVmkibzO0BEGX1Yx",
+  "snapshot_id": "AAAAAMOAcAfKlbAjWI37tPTCYBuZ7kTP",
   "tracks": [
+    {
+      "added_at": "2026-02-04 13:36:15",
+      "album": {
+        "name": "Cantiga Bailada",
+        "url": "https://open.spotify.com/album/75FcjR0WYp5XXYNkRbvIg2"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1ximo",
+          "url": "https://open.spotify.com/artist/6vBFZrcAJhzNdO3h4wdSgX"
+        }
+      ],
+      "duration_ms": 485669,
+      "name": "Cantiga Bailada",
+      "url": "https://open.spotify.com/track/4YnQXNJ0G1xldvkQVwcE86"
+    },
+    {
+      "added_at": "2026-02-04 13:36:15",
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/1UEvT8fLPD3p9dCK09bbLl"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "duration_ms": 393781,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/4AtvX4PqTMt4JtCZqEbqK7"
+    },
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
@@ -877,22 +909,6 @@
       "url": "https://open.spotify.com/track/7eaWK0bDHcaoVbi56QlLZL"
     },
     {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Painted Lady",
-        "url": "https://open.spotify.com/album/7KtDcMztVoKtXNnrmA9pka"
-      },
-      "artists": [
-        {
-          "name": "Salin",
-          "url": "https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3"
-        }
-      ],
-      "duration_ms": 242535,
-      "name": "Painted Lady",
-      "url": "https://open.spotify.com/track/2pD5oV7GP3Sx5ygrzTiMGT"
-    },
-    {
       "added_at": "2025-03-05 14:57:05",
       "album": {
         "name": "Light Music for Heavy Industry",
@@ -907,26 +923,6 @@
       "duration_ms": 229453,
       "name": "Birth of the Microprocessor",
       "url": "https://open.spotify.com/track/0yIxjt0hvlkyVe1K1tRdnr"
-    },
-    {
-      "added_at": "2025-02-26 05:00:09",
-      "album": {
-        "name": "Dig Deep (feat. Jairo)",
-        "url": "https://open.spotify.com/album/4QWMRK9NfzqyYKXTkN2Z85"
-      },
-      "artists": [
-        {
-          "name": "PYRAMID",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
-        },
-        {
-          "name": "Jairo",
-          "url": "https://open.spotify.com/artist/7Me7P1y6x4I5xkHkCEkfpM"
-        }
-      ],
-      "duration_ms": 270326,
-      "name": "Dig Deep (feat.Jairo\uff09",
-      "url": "https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

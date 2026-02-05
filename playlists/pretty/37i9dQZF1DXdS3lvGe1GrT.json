@@ -1,12 +1,12 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Madra Salach",
-  "num_followers": 96245,
+  "num_followers": 96256,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADIzsXE89nHC31QBG4wqnWmJLvUN",
+  "snapshot_id": "AAAAAIK84y+aIXkGZkYpRbDlg0//xCcG",
   "tracks": [
     {
       "added_at": "2026-01-21 17:00:04",
@@ -23,6 +23,70 @@
       "duration_ms": 224234,
       "name": "Anna with the Silver Arrow",
       "url": "https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "swan",
+        "url": "https://open.spotify.com/album/4a8pwVOYatWOp9ADOGR7P6"
+      },
+      "artists": [
+        {
+          "name": "Fazed on a Pony",
+          "url": "https://open.spotify.com/artist/6a9mnvRpDYNXCq0loqP3Md"
+        }
+      ],
+      "duration_ms": 171111,
+      "name": "The Perfect Swan",
+      "url": "https://open.spotify.com/track/1s8DOpV7PQZcnbZyPMzotN"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "End",
+        "url": "https://open.spotify.com/album/6UTDjTqL5SNUUO9cO55Uc9"
+      },
+      "artists": [
+        {
+          "name": "Olsith",
+          "url": "https://open.spotify.com/artist/4To3IUs8dDf6gHJxvFDgZT"
+        }
+      ],
+      "duration_ms": 207375,
+      "name": "End",
+      "url": "https://open.spotify.com/track/2pi79FG0BWAYX92ccmIuh9"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/1yn8sAYRP3l4F624E2mwy8"
+      },
+      "artists": [
+        {
+          "name": "Otracami",
+          "url": "https://open.spotify.com/artist/6VZhV0nHzh64xErbe4OHZs"
+        }
+      ],
+      "duration_ms": 213888,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/7wtU8CEcIELlWhmvC0hqZx"
+    },
+    {
+      "added_at": "2026-01-28 17:00:07",
+      "album": {
+        "name": "Beadie",
+        "url": "https://open.spotify.com/album/07OLVwgWErQyUnhavirYQy"
+      },
+      "artists": [
+        {
+          "name": "Sluice",
+          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
+        }
+      ],
+      "duration_ms": 240752,
+      "name": "Beadie",
+      "url": "https://open.spotify.com/track/2epCOFnQDllhDFAaxO3mx2"
     },
     {
       "added_at": "2026-01-28 17:00:07",
@@ -57,6 +121,38 @@
       "url": "https://open.spotify.com/track/69oIIqwBPHmM8m81cW1H5O"
     },
     {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "other ways of landing",
+        "url": "https://open.spotify.com/album/6hixxzEVFqx8PvdE0mDz3a"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 215513,
+      "name": "(easily) moved",
+      "url": "https://open.spotify.com/track/6wK8WtrJBXGVEk0sXX6XZG"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/1yK7hngYH2ctzYgkBPooJb"
+      },
+      "artists": [
+        {
+          "name": "Big Sleep",
+          "url": "https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a"
+        }
+      ],
+      "duration_ms": 214814,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/4Upa4Devu3DADgTvonkPkL"
+    },
+    {
       "added_at": "2026-01-28 17:00:07",
       "album": {
         "name": "Joy and Despair",
@@ -71,22 +167,6 @@
       "duration_ms": 240451,
       "name": "Joy and Despair",
       "url": "https://open.spotify.com/track/1viACvU6BoSNO0VEziw9QT"
-    },
-    {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "Beadie",
-        "url": "https://open.spotify.com/album/07OLVwgWErQyUnhavirYQy"
-      },
-      "artists": [
-        {
-          "name": "Sluice",
-          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
-        }
-      ],
-      "duration_ms": 240752,
-      "name": "Beadie",
-      "url": "https://open.spotify.com/track/2epCOFnQDllhDFAaxO3mx2"
     },
     {
       "added_at": "2026-01-28 17:00:07",

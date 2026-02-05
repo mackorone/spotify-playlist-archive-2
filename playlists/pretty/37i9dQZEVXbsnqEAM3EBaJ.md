@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 18 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Satisfaction Skank \- High Contrast Remix](https://open.spotify.com/track/61Z0yfhBej1doIseuLpo2d) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Satisfaction Skank \(High Contrast Remix\)](https://open.spotify.com/album/3mhcL69ilU25UpBH9AaXxb) | 3:31 |
-| 2 | [Mama Kin \- 2024 Mix](https://open.spotify.com/track/24W3iqR9pR1lc1V3NfiDpF) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Mama Kin \(2024 Mix\)](https://open.spotify.com/album/041HhRrNYZc7BE0JPbkIYF) | 4:35 |
+| 2 | [Mama Kin \- 2024 Mix](https://open.spotify.com/track/6wFfvDWhdlrFjBchs1iidh) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Mama Kin \(2024 Mix\)](https://open.spotify.com/album/4tBXcje3f1YqjPIxq0yDfy) | 4:35 |
 | 3 | [Streets of Minneapolis](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:35 |
 | 4 | [Glimmer](https://open.spotify.com/track/1nhKv7hjXzNBmraZNfWhLe) | [Harmony My Strength](https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG), [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Shadows of the End](https://open.spotify.com/album/3RxStdCrcho5WIiDZU5SNj) | 1:04 |
 | 5 | [Breathing](https://open.spotify.com/track/4slORGAF6oIF5yom2sERgO) | [Cole Rolland](https://open.spotify.com/artist/2TV1zBJZ3hQaJpTt46DBIc), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [Breathing](https://open.spotify.com/album/0I32UEEK6d7siI5VGDN82G) | 3:44 |
@@ -26,5 +26,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 16 | [Into Oblivion](https://open.spotify.com/track/0bUxpdWMazVZv1f7TSNSCW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Into Oblivion](https://open.spotify.com/album/5SVfHoZLhj58lAJzl2iD9g) | 3:34 |
 | 17 | [THE SPELL](https://open.spotify.com/track/7CWUdG7KSYBjkEgV4HcC6t) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx), [Thomas Jenssen](https://open.spotify.com/artist/1CsiZJ13f1oUIxiV1X9NBm) | [THE SPELL](https://open.spotify.com/album/7l95yd85Ob7Gu9yfQNSpqF) | 2:55 |
 | 18 | [Bedroom Posters \(feat\. Good Charlotte\)](https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Bedroom Posters \(feat\. Good Charlotte\)](https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY) | 3:38 |
+| 19 | [LOVE ME \(feat\. Stevie Wonder\)](https://open.spotify.com/track/5HPvBWjFHAO01Zt22uDU27) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [CAMPILATION](https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD) | 3:10 |
 
 Snapshot ID: `aXwesAAAAABONzgLb2LNQQBWMbqbhHe6`

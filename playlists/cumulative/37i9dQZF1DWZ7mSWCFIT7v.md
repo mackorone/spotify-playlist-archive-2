@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-546 songs - 1 day 19 hr 50 min
+548 songs - 1 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Falling](https://open.spotify.com/track/5KDZD4b5rDoSoBjm6Wk5Lz) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Stereotype](https://open.spotify.com/album/6YoFtf2Ou3IrsoS4xybT3y) | 5:44 | 2025-10-24 |  |
 | [FALLING RIZLAS](https://open.spotify.com/track/2KeaniyEzZlYZzR1qodSso) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [AZD](https://open.spotify.com/album/7BgZb2snTbs5xpRHlQ8VYt) | 2:25 | 2021-10-06 | 2025-07-17 |
 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 | 2023-08-29 | 2025-06-07 |
-| [Fast Forward](https://open.spotify.com/track/5zdVpoDxG32whKcaUVKL6Q) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [In Memory](https://open.spotify.com/album/2PnP9SF40IrUcC7V8vgYrV) | 3:47 | 2025-07-09 |  |
+| [Fast Forward](https://open.spotify.com/track/5zdVpoDxG32whKcaUVKL6Q) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [In Memory](https://open.spotify.com/album/2PnP9SF40IrUcC7V8vgYrV) | 3:47 | 2025-07-09 | 2026-02-05 |
 | [Felt compute, might delete](https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Felt compute, might delete](https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8) | 3:49 | 2021-10-06 | 2023-05-13 |
 | [Fena](https://open.spotify.com/track/6aO8Nz4Q4sY0LFoF19woBM) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Fena](https://open.spotify.com/album/7dyMd5Q323re0dsPrbMldv) | 4:44 | 2025-06-13 |  |
 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-06 | 2025-06-07 |
@@ -369,6 +369,7 @@
 | [Ramada](https://open.spotify.com/track/10xeUT88nJPcCKlBz9vvH1) | [Pepe Mogt](https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5) | [Maija Awi](https://open.spotify.com/album/6zPL6drQiQXKRHiIdsZR2t) | 2:52 | 2021-10-06 | 2025-07-17 |
 | [Raw Cutz](https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC) | [Tim Sean\-Lee](https://open.spotify.com/artist/40vMsJdhfhZFajVGMWsG5I) | [Octo](https://open.spotify.com/album/0HdRPxogDtNU20MGQQlkzQ) | 4:49 | 2022-03-09 | 2025-07-17 |
 | [Reality Beckons](https://open.spotify.com/track/2xxjg0zKrLe6VtRerHujAn) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Reality Beckons](https://open.spotify.com/album/7A6YXYo6sqQXfm78CBETpa) | 3:44 | 2026-01-23 |  |
+| [Rejser](https://open.spotify.com/track/2zHDLkyEqwup69ZCR2mOAX) | [Emil Mark](https://open.spotify.com/artist/1qlDl83uNVefTibpCIvCoa) | [Rejser](https://open.spotify.com/album/0qA1RVPxi208LwgJU8p8X0) | 4:46 | 2026-02-04 |  |
 | [Reluctant Memory](https://open.spotify.com/track/168TsA6bdm7pt73KVyVyZM) | [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Modern Species](https://open.spotify.com/album/4sZvkjrogy7HbQ0M5CNCEL) | 5:58 | 2021-10-06 | 2025-07-17 |
 | [Replica](https://open.spotify.com/track/4JvZ9aZDSG1vQigKPHGpaG) | [Aloka](https://open.spotify.com/artist/4UbgpaTDik0SDhBQq5Ucmt) | [Strange Forms](https://open.spotify.com/album/0gnnKS26a9maxCXGwuwAWn) | 4:48 | 2026-01-30 |  |
 | [Resonances From The D \- Bonus Track](https://open.spotify.com/track/2qza3GP3Bp4dowRBd6lk1Y) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [fabric presents Laurent Garnier: Rhythmic Resonance \(Mixed\)](https://open.spotify.com/album/4GR1hk1LnQ7Qq4ZWonzfiw) | 8:20 | 2025-05-20 | 2025-10-25 |
@@ -407,6 +408,7 @@
 | [Siblings](https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Diistemi](https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5) | 2:57 | 2022-01-13 | 2025-07-17 |
 | [Signal to Noise](https://open.spotify.com/track/1rnHU0tjIn6Cojea413ZQt) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Signal to Noise](https://open.spotify.com/album/44TgVah9jIrxtkS2JZ4meF) | 4:39 | 2025-10-10 |  |
 | [Silicate Tusks \- Loidis Reconfiguration](https://open.spotify.com/track/5D0FP5XZBOZWV8zFTg84Hb) | [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [Loidis](https://open.spotify.com/artist/2TDYu0uxVowgHaYN6P14k2) | [This but More \(Loidis Reconfiguration\)](https://open.spotify.com/album/05Sk68rHDopslWGsGsmZHd) | 7:20 | 2025-05-20 | 2025-09-27 |
+| [Silken Place](https://open.spotify.com/track/4HLMg8naWj2VbsxBzutuok) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [Silken Place](https://open.spotify.com/album/5h0egqEerHyLwaLQ1tNZAJ) | 3:30 | 2026-02-04 |  |
 | [Situation](https://open.spotify.com/track/27tZEHD9GHnZpH6h7vXB1F) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [In Situ](https://open.spotify.com/album/2n6gIMQKyacV5zPrhE9XCm) | 4:29 | 2021-10-06 | 2025-06-07 |
 | [Skyline 4](https://open.spotify.com/track/0NPc0aoXeit86d258AxRqw) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [GULP](https://open.spotify.com/album/1kBPEN3NIVwjdmIjjNk9vB) | 4:51 | 2025-07-09 |  |
 | [Slice of Life](https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn) | [usr/friendly](https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE), [Oketo](https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg) | [This Is An Advertisement](https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9) | 3:19 | 2022-01-12 | 2025-07-17 |
@@ -439,7 +441,7 @@
 | [Synapse](https://open.spotify.com/track/3iQoEV281XLrAVp9mEVPmV) | [House Of Tapes](https://open.spotify.com/artist/40vP7vx1UAkMTSSGcoalPY) | [Phantom of Eden](https://open.spotify.com/album/17KovENSr872390SmpvK5l) | 5:04 | 2022-02-12 | 2022-07-28 |
 | [syntax anomaly](https://open.spotify.com/track/39NAehhURLEBhAwJLv3WEK) | [Tom Hall](https://open.spotify.com/artist/1nkjrC62fTpESe8VovpsIz) | [Trip Computer](https://open.spotify.com/album/039lEFtlEO3P7wsnsvZ8Ko) | 4:25 | 2025-08-20 |  |
 | [Syringe II](https://open.spotify.com/track/2zK9mCkOMGdBwNB6kgyPCb) | [Body Boys](https://open.spotify.com/artist/0c8Kfkhh7R6J19IbSWCLXz) | [Terms](https://open.spotify.com/album/1g3lCeX10xjQFKWv34HVOA) | 5:14 | 2021-10-06 | 2025-07-17 |
-| [T.L.G.](https://open.spotify.com/track/0TMktP5EVxEHx62xt0er04) | [Michael J\. Blood](https://open.spotify.com/artist/7qshvEatYqNxZt2b52eRDT) | [Spaces In Between](https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4) | 4:26 | 2025-03-25 |  |
+| [T.L.G.](https://open.spotify.com/track/0TMktP5EVxEHx62xt0er04) | [Michael J\. Blood](https://open.spotify.com/artist/7qshvEatYqNxZt2b52eRDT) | [Spaces In Between](https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4) | 4:26 | 2025-03-25 | 2026-02-05 |
 | [Taarsitillugu](https://open.spotify.com/track/6A7xqDyu6zLg9z5EF5W2ZN) | [Tarrak](https://open.spotify.com/artist/3FTKo3aheAF0aAxbJWyiP8), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [TAKKUUK \(Original Soundtrack\)](https://open.spotify.com/album/60g26elZ1WbA4abG7HvLo7) | 5:27 | 2025-07-25 |  |
 | [Tangente](https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Fading](https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR) | 5:07 | 2021-10-06 | 2025-07-17 |
 | [Tanto](https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Tanto](https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm) | 3:36 | 2022-01-13 | 2025-07-17 |

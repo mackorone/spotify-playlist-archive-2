@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-369 songs - 22 hr 41 min
+370 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 | 2022-09-08 | 2024-05-18 |
 | [Mine O' Mine \- Inner City Techno Remix](https://open.spotify.com/track/1A8NzECMdHIHSNoX54TQIJ) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez Saunderson](https://open.spotify.com/artist/7rymtwVS1IAIF9D4APLnOI), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Mine O' Mine \(Inner City Remixes\)](https://open.spotify.com/album/3UqlkM75jlr3a2l1rr277L) | 7:16 | 2022-09-08 | 2023-04-22 |
 | [Mirror Maru](https://open.spotify.com/track/0DLgcXpJ8xUALnArVKox3k) | [MÜNE](https://open.spotify.com/artist/0d7ucg4dn8r65y7UccChlb) | [Mirror Maru](https://open.spotify.com/album/3mYljlTyHvDFegCVB8N7K3) | 3:11 | 2023-05-10 | 2024-01-06 |
+| [Misbehave](https://open.spotify.com/track/1FRWjWnOf6NRePXN38tkQS) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Misbehave](https://open.spotify.com/album/59dxeR3y0o3WhJwQA1oNKm) | 3:43 | 2026-02-04 |  |
 | [Mollyraw](https://open.spotify.com/track/358dNeuLELfexwK2WAzDjp) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [Mollyraw](https://open.spotify.com/album/5o4SyYUwVLTkIHFv9hxyu6) | 4:00 | 2024-02-02 |  |
 | [Moments](https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:03 | 2022-09-08 | 2022-09-16 |
 | [MONCLER](https://open.spotify.com/track/4kbMThlSBxsO7AJL12eNrb) | [CHAIME](https://open.spotify.com/artist/5ntCtEJfmuE4RPQyGyN7CB) | [MONCLER](https://open.spotify.com/album/37EPREjGXwMHqZtRlMW8qO) | 3:19 | 2024-02-23 | 2024-06-12 |

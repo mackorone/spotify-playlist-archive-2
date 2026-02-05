@@ -1,6 +1,6 @@
 {
   "description": "2026.. we ready? Fred, hit the track",
-  "num_followers": 3896548,
+  "num_followers": 3896037,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
@@ -1700,12 +1700,12 @@
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         },
         {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
           "name": "Quavo",
           "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
         }
       ],
       "duration_ms": 132485,

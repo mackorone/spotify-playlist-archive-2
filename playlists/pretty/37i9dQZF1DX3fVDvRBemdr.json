@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases Hollands & Volks. Cover: Quido van de Graaf",
-  "num_followers": 154978,
+  "num_followers": 154981,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANjmKBVY1SLk4NWOnE8v/mHedVKO",
+  "snapshot_id": "AAAAAGFWjSG8P/Lky24Am32lPYUo9J4B",
   "tracks": [
     {
       "added_at": "2026-01-29 23:00:44",
@@ -43,6 +43,26 @@
     {
       "added_at": "2026-01-29 23:00:44",
       "album": {
+        "name": "Spijt",
+        "url": "https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F"
+      },
+      "artists": [
+        {
+          "name": "Gerrit Schneider",
+          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
+        },
+        {
+          "name": "SHQQ",
+          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Spijt",
+      "url": "https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS"
+    },
+    {
+      "added_at": "2026-01-29 23:00:44",
+      "album": {
         "name": "Meisje",
         "url": "https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS"
       },
@@ -67,26 +87,6 @@
       "duration_ms": 128014,
       "name": "Meisje",
       "url": "https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF"
-    },
-    {
-      "added_at": "2026-01-29 23:00:44",
-      "album": {
-        "name": "Spijt",
-        "url": "https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F"
-      },
-      "artists": [
-        {
-          "name": "Gerrit Schneider",
-          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
-        },
-        {
-          "name": "SHQQ",
-          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Spijt",
-      "url": "https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS"
     },
     {
       "added_at": "2026-01-29 23:00:44",
